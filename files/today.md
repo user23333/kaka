@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[REAL WORKING DUPE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/661677-real-dupe.html)|`2024-09-20 07:34:00`|`Escape from Tarkov`|
+|[Odin V3/4 &#40;Paladins & Realm Royale&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/576012-odin-v3-4-paladins-realm-royale.html)|`2024-09-20 07:23:00`|`Paladins`|
+|[Modified Odin V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/585919-modified-odin-v1.html)|`2024-09-20 07:22:00`|`Paladins`|
+|[Odin v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/629281-odin-v1.html)|`2024-09-20 07:22:00`|`Paladins`|
 |[any paladins cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/661847-paladins-cheat.html)|`2024-09-20 07:21:00`|`Paladins`|
 |[ODIN V4 FOR STEAM ONLY&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/645623-odin-v4-steam.html)|`2024-09-20 07:21:00`|`Paladins`|
 |[Put benny's wheels in personal vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/376369-bennys-wheels-personal-vehicle.html)|`2024-09-20 07:01:00`|`Grand Theft Auto V`|
