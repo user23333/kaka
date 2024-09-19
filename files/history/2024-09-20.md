@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TPM AND SB BYPASS &#43; SPOOFER &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/623808-tpm-sb-bypass-spoofer.html)|`2024-09-20 06:04:00`|`Valorant`|
+|[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2024-09-20 06:03:00`|`Escape from Tarkov`|
+|[Full Free Rust Script &#40;Undetected&#41; &#45;&#62; 30/04/2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/634920-free-rust-script-undetected-30-04-2024-a.html)|`2024-09-20 05:57:00`|`Rust`|
+|[AHK &#40;Autohotkey&#41; Crashes game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/657798-ahk-autohotkey-crashes-game.html)|`2024-09-20 05:55:00`|`Apex Legends`|
+|[ESP For Arean Breakout infinite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661611-esp-arean-breakout-infinite.html)|`2024-09-20 05:54:00`|`Other FPS Games`|
+|[Item ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/661981-item-esp.html)|`2024-09-20 05:51:00`|`Counter-Strike 2`|
+|[FiveM Locations Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340679-fivem-locations-thread.html)|`2024-09-20 05:50:00`|`Alternative Online Mods`|
 |[burgerking crown guy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/661318-burgerking-crown-guy.html)|`2024-09-20 05:45:00`|`Off Topic`|
 |[HWID BANNED LINUX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/644651-hwid-banned-linux.html)|`2024-09-20 05:45:00`|`Apex Legends`|
 |[We got an exe working for roblox how tf do i compile it???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662044-exe-roblox-tf-compile.html)|`2024-09-20 05:32:00`|`Other FPS Games`|
