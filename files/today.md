@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[We got an exe working for roblox how tf do i compile it???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662044-exe-roblox-tf-compile.html)|`2024-09-20 05:32:00`|`Other FPS Games`|
+|[Unreleased Bundle Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/661982-unreleased-bundle-method.html)|`2024-09-20 05:32:00`|`Call of Duty: Modern Warfare III`|
+|[MW3/WZ3 Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/661995-mw3-wz3-aimbot.html)|`2024-09-20 05:31:00`|`Call of Duty: Modern Warfare III`|
+|[Current state of Deadlock AC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/662043-current-deadlock-ac.html)|`2024-09-20 05:21:00`|`Deadlock`|
 |[Evade HWID Ban in Deadlock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/657741-evade-hwid-ban-deadlock.html)|`2024-09-20 05:10:00`|`Deadlock`|
 |[Alter demi&#45;god](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/661873-alter-demi-god.html)|`2024-09-20 05:01:00`|`Apex Legends`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-09-20 04:59:00`|`Apex Legends`|
