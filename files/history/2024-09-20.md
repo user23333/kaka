@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New no Recoil and fix missing in match first zone or last zone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/662071-recoil-fix-missing-match-zone-zone.html)|`2024-09-20 06:30:00`|`PUBG Mobile`|
 |[isBot offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/660478-isbot-offset.html)|`2024-09-20 06:21:00`|`PUBG Mobile`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-09-20 06:20:00`|`Rust`|
 |[Would the logs be uploaded to bsg server?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/662023-logs-uploaded-bsg-server.html)|`2024-09-20 06:16:00`|`Escape from Tarkov`|
