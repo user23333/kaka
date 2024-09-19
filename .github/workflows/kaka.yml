@@ -33,9 +33,9 @@ jobs:
 
       - name: Run
         env:
-          V1: ${{ vars.V1 }}
-          V2: ${{ vars.V2 }}
-          V3: ${{ vars.V3 }}
+          V1: ${{ secrets.V1 }}
+          V2: ${{ secrets.V2 }}
+          V3: ${{ secrets.V3 }}
         run: python main.py
 
       - name: Push
