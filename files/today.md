@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[burgerking crown guy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/661318-burgerking-crown-guy.html)|`2024-09-20 05:45:00`|`Off Topic`|
+|[HWID BANNED LINUX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/644651-hwid-banned-linux.html)|`2024-09-20 05:45:00`|`Apex Legends`|
 |[We got an exe working for roblox how tf do i compile it???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662044-exe-roblox-tf-compile.html)|`2024-09-20 05:32:00`|`Other FPS Games`|
 |[Unreleased Bundle Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/661982-unreleased-bundle-method.html)|`2024-09-20 05:32:00`|`Call of Duty: Modern Warfare III`|
 |[MW3/WZ3 Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/661995-mw3-wz3-aimbot.html)|`2024-09-20 05:31:00`|`Call of Duty: Modern Warfare III`|
