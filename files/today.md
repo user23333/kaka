@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fear & Greed DLC with all item codes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/661279-fear-greed-dlc-item-codes.html)|`2024-09-20 20:39:00`|`Payday 3`|
+|[dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/662136-dma.html)|`2024-09-20 20:30:00`|`Sea of Thieves`|
 |[Hacking/Reversing Unity Mono Games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/662041-hacking-reversing-unity-mono-games.html)|`2024-09-20 20:24:00`|`Unity`|
 |[Raspberry Pi 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/661844-raspberry-pi-5-a.html)|`2024-09-20 20:15:00`|`Valorant`|
 |[Anyone want to code a r6 cheat together](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/661681-code-r6-cheat.html)|`2024-09-20 20:12:00`|`Rainbow Six Siege`|
