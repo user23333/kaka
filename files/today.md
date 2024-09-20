@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2024-09-20 10:46:00`|`Grand Theft Auto V`|
+|[Alternative for jitter aim scripts now that ahk is gone?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662093-alternative-jitter-aim-scripts-ahk-gone.html)|`2024-09-20 10:45:00`|`Apex Legends`|
+|[cfemen & gir489's Satisfactory Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661834-cfemen-gir489s-satisfactory-cheat.html)|`2024-09-20 10:35:00`|`Other FPS Games`|
+|[Carx Streets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/657722-carx-streets.html)|`2024-09-20 10:25:00`|`Other Games`|
+|[Assault Cube Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661104-assault-cube-aimbot.html)|`2024-09-20 10:24:00`|`Other FPS Games`|
+|[Cooking up in reclass and CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/660795-cooking-reclass-ce.html)|`2024-09-20 10:09:00`|`Rainbow Six Siege`|
 |[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2024-09-20 09:51:00`|`Unity`|
 |[Net messages?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/662087-net-messages.html)|`2024-09-20 09:14:00`|`Garry's Mod`|
 |[Anyone know if it's possible to edit your Overall Stats Data](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/661079-edit-overall-stats-data.html)|`2024-09-20 09:09:00`|`Escape from Tarkov`|
