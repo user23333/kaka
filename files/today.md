@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kiddion's Modest External Menu &#91;Thread 5&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/576854-kiddions-modest-external-menu-thread-5-a.html)|`2024-09-20 08:30:00`|`Grand Theft Auto V`|
+|[How to bypass Battleye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662030-bypass-battleye.html)|`2024-09-20 08:28:00`|`Grand Theft Auto V`|
+|[CS2 External Cheat &#45; ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/655165-cs2-external-cheat-esp-aimbot.html)|`2024-09-20 08:22:00`|`Counter-Strike 2 Releases`|
+|[ThunderTirnal &#45; WarThunder Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/660182-thundertirnal-warthunder-cheat.html)|`2024-09-20 08:12:00`|`Other MMORPG and Strategy`|
 |[REAL WORKING DUPE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/661677-real-dupe.html)|`2024-09-20 07:34:00`|`Escape from Tarkov`|
 |[Odin V3/4 &#40;Paladins & Realm Royale&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/576012-odin-v3-4-paladins-realm-royale.html)|`2024-09-20 07:23:00`|`Paladins`|
 |[Modified Odin V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/585919-modified-odin-v1.html)|`2024-09-20 07:22:00`|`Paladins`|
