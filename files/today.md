@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External no spread & bullet penetration?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/662101-external-spread-bullet-penetration.html)|`2024-09-20 12:34:00`|`Call of Duty: Modern Warfare III`|
+|[StoopidCheat v3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656984-stoopidcheat-v3.html)|`2024-09-20 12:32:00`|`Escape from Tarkov`|
+|[Advice Needed: Advanced Techniques in reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/662100-advice-advanced-techniques-reversing.html)|`2024-09-20 12:30:00`|`Programming for Beginners`|
+|[Heist Editor v3&#46;6 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/451205-heist-editor-v3-6-external.html)|`2024-09-20 12:28:00`|`Grand Theft Auto V`|
 |[Is the saveblock script for AHK safe with the new battleye implementation?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662028-saveblock-script-ahk-safe-battleye-implementation.html)|`2024-09-20 12:02:00`|`Grand Theft Auto V`|
 |[Vigor ESP, Aimbot, no recoil, ETC&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661880-vigor-esp-aimbot-recoil-etc.html)|`2024-09-20 11:47:00`|`Other FPS Games`|
 |[Elden ring new Cheat Table &#43; Online &#40;risky&#41; &#43; CE Undetected &#43; future updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661671-elden-ring-cheat-table-online-risky-ce-undetected-future-updates.html)|`2024-09-20 11:35:00`|`Other FPS Games`|
