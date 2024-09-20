@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Current Game Mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/661680-current-game-mode.html)|`2024-09-20 13:36:00`|`Counter-Strike 2`|
 |[Gmod python cheat theory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/658933-gmod-python-cheat-theory.html)|`2024-09-20 13:27:00`|`Garry's Mod`|
 |[ypassing CR3 with MmAccessFault & Reading PDB via KPROCESS&#46;DirectoryTableBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/661477-ypassing-cr3-mmaccessfault-reading-pdb-via-kprocess-directorytablebase.html)|`2024-09-20 13:25:00`|`Anti-Cheat Bypass`|
 |[XianYuMods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/661692-xianyumods.html)|`2024-09-20 13:15:00`|`Payday 3`|
