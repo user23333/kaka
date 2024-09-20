@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Titanfall 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/191976-titanfall-2-reversal-structs-offsets.html)|`2024-09-20 21:17:00`|`Titanfall`|
+|[AoE4 No Fog of War](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/500872-aoe4-fog-war.html)|`2024-09-20 21:17:00`|`Other MMORPG and Strategy`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2024-09-20 21:16:00`|`Other FPS Games`|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2024-09-20 21:05:00`|`Other FPS Games`|
 |[Fear & Greed DLC with all item codes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/661279-fear-greed-dlc-item-codes.html)|`2024-09-20 20:39:00`|`Payday 3`|
 |[dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/662136-dma.html)|`2024-09-20 20:30:00`|`Sea of Thieves`|
 |[Hacking/Reversing Unity Mono Games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/662041-hacking-reversing-unity-mono-games.html)|`2024-09-20 20:24:00`|`Unity`|
