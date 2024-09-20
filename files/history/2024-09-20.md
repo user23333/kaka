@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hacking/Reversing Unity Mono Games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/662041-hacking-reversing-unity-mono-games.html)|`2024-09-20 20:24:00`|`Unity`|
+|[Raspberry Pi 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/661844-raspberry-pi-5-a.html)|`2024-09-20 20:15:00`|`Valorant`|
+|[Anyone want to code a r6 cheat together](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/661681-code-r6-cheat.html)|`2024-09-20 20:12:00`|`Rainbow Six Siege`|
+|[Apex Anti Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/636927-apex-anti-recoil.html)|`2024-09-20 20:02:00`|`Apex Legends`|
 |[What servers do y'all play](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/662132-servers-yall-play.html)|`2024-09-20 19:51:00`|`DayZ SA`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2024-09-20 19:36:00`|`Other FPS Games`|
 |[SKLib sample driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/651808-sklib-sample-driver.html)|`2024-09-20 19:36:00`|`Anti-Cheat Bypass`|
