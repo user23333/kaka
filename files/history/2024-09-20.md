@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2024-09-20 19:19:00`|`Elite: Dangerous`|
+|[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2024-09-20 19:19:00`|`Elite: Dangerous`|
+|[SkillFix Framework v2&#46;6 Build 2800&#46;60](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/648520-skillfix-framework-v2-6-build-2800-60-a.html)|`2024-09-20 19:17:00`|`Anti-Cheat Bypass`|
+|[Help in Making Pubg mobile 3&#46;4 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/662128-help-pubg-mobile-3-4-cheat.html)|`2024-09-20 19:11:00`|`PUBG Mobile`|
+|[Aspect Ratio Changer/Stretched Resolution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/661900-aspect-ratio-changer-stretched-resolution.html)|`2024-09-20 19:10:00`|`Deadlock`|
 |[i cant build kernel driver&#33;&#33;&#40;VC&#43;&#43; 2022&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/661984-cant-build-kernel-driver-vc-2022-a.html)|`2024-09-20 19:09:00`|`C and C++`|
 |[about AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662127-ahk.html)|`2024-09-20 19:07:00`|`Apex Legends`|
 |[Simple Methods to Prevent Signature Scan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/658718-simple-methods-prevent-signature-scan.html)|`2024-09-20 18:58:00`|`Overwatch`|
