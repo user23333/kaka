@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[i cant build kernel driver&#33;&#33;&#40;VC&#43;&#43; 2022&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/661984-cant-build-kernel-driver-vc-2022-a.html)|`2024-09-20 19:09:00`|`C and C++`|
+|[about AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662127-ahk.html)|`2024-09-20 19:07:00`|`Apex Legends`|
+|[Simple Methods to Prevent Signature Scan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/658718-simple-methods-prevent-signature-scan.html)|`2024-09-20 18:58:00`|`Overwatch`|
 |[What stops people from bypassing battleye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/661640-stops-people-bypassing-battleye.html)|`2024-09-20 18:48:00`|`Grand Theft Auto V`|
 |[Color triggerbot no work in the wegame version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/660837-color-triggerbot-wegame-version.html)|`2024-09-20 18:28:00`|`Valorant`|
 |[Problem with handle cr3 switch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/662124-handle-cr3-switch.html)|`2024-09-20 18:26:00`|`General Programming and Reversing`|
