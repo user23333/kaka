@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Evading permanent ban for BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/654256-evading-permanent-ban-bo6.html)|`2024-09-20 12:46:00`|`Call of Duty: Black Ops 6`|
+|[Does Cheat Engine Get Auto&#45;Detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/660322-cheat-engine-auto-detected.html)|`2024-09-20 12:41:00`|`Call of Duty: Black Ops 6`|
 |[External no spread & bullet penetration?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/662101-external-spread-bullet-penetration.html)|`2024-09-20 12:34:00`|`Call of Duty: Modern Warfare III`|
 |[StoopidCheat v3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656984-stoopidcheat-v3.html)|`2024-09-20 12:32:00`|`Escape from Tarkov`|
 |[Advice Needed: Advanced Techniques in reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/662100-advice-advanced-techniques-reversing.html)|`2024-09-20 12:30:00`|`Programming for Beginners`|
