@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2024-09-20 19:36:00`|`Other FPS Games`|
+|[SKLib sample driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/651808-sklib-sample-driver.html)|`2024-09-20 19:36:00`|`Anti-Cheat Bypass`|
+|[no cheats working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662130-cheats.html)|`2024-09-20 19:34:00`|`Counter-Strike 2`|
+|[How could i start with game hacking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/661874-start-game-hacking.html)|`2024-09-20 19:27:00`|`Forum General`|
+|[Cs2 DX11 ImGui Overlay Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/662129-cs2-dx11-imgui-overlay-cheat.html)|`2024-09-20 19:27:00`|`Counter-Strike 2 Releases`|
+|[Outlast Trials Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/639940-outlast-trials-internal-cheat.html)|`2024-09-20 19:25:00`|`Other FPS Games`|
 |[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2024-09-20 19:19:00`|`Elite: Dangerous`|
 |[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2024-09-20 19:19:00`|`Elite: Dangerous`|
 |[SkillFix Framework v2&#46;6 Build 2800&#46;60](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/648520-skillfix-framework-v2-6-build-2800-60-a.html)|`2024-09-20 19:17:00`|`Anti-Cheat Bypass`|
