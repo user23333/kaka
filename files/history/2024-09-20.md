@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need Jire / Overwatcheat 4&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/662094-jire-overwatcheat-4-0-0-a.html)|`2024-09-20 11:13:00`|`Overwatch`|
+|[Alternative Hack CS 1&#46;6 &#45;&#62; CS 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662076-alternative-hack-cs-1-6-cs-2-a.html)|`2024-09-20 11:10:00`|`Counter-Strike 2`|
+|[Anything new cheat wise?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/661842-cheat-wise.html)|`2024-09-20 10:59:00`|`Garry's Mod`|
+|[Combat Master CE Godmode, MEGA XP, Instant Weapon/Player Max Level, Attachment Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/583715-combat-master-ce-godmode-mega-xp-instant-weapon-player-max-level-attachment-mod.html)|`2024-09-20 10:56:00`|`Combat Master`|
 |[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2024-09-20 10:46:00`|`Grand Theft Auto V`|
 |[Alternative for jitter aim scripts now that ahk is gone?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662093-alternative-jitter-aim-scripts-ahk-gone.html)|`2024-09-20 10:45:00`|`Apex Legends`|
 |[cfemen & gir489's Satisfactory Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661834-cfemen-gir489s-satisfactory-cheat.html)|`2024-09-20 10:35:00`|`Other FPS Games`|
