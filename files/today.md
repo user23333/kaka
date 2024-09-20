@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ban Data Collection Thread/Unban Method Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/507478-ban-data-collection-thread-unban-method-discussion.html)|`2024-09-20 15:49:00`|`Apex Legends`|
 |[Tope esp&#43;aimbot/trigger/prediction &#45; new update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/658943-tope-esp-aimbot-trigger-prediction-update.html)|`2024-09-20 15:38:00`|`Overwatch`|
 |[HealthShotBoostExpirationTime](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/661884-healthshotboostexpirationtime.html)|`2024-09-20 15:08:00`|`Counter-Strike 2`|
 |[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-09-20 14:52:00`|`Counter-Strike 2`|
