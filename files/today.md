@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TOGGLEABLE AUTO&#45;PARRY MULTIPLAYER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/661125-toggleable-auto-parry-multiplayer.html)|`2024-09-20 22:30:00`|`Star Wars Battlefront 2`|
+|[Rigel source code changes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/662112-rigel-source-code-changes.html)|`2024-09-20 22:27:00`|`Overwatch`|
+|[Overwatch 2 Color Aimbot With Interception Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/517558-overwatch-2-color-aimbot-interception-driver.html)|`2024-09-20 22:25:00`|`Overwatch`|
+|[Apex&#45;NoRecoil&#40;only work on EA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/661151-apex-norecoil-ea.html)|`2024-09-20 22:19:00`|`Apex Legends`|
 |[How to start learning to code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/657489-start-learning-code.html)|`2024-09-20 22:14:00`|`Off Topic`|
 |[Zodiak &#45; Fastcup Full Kernel Driver Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/658126-zodiak-fastcup-kernel-driver-cheat.html)|`2024-09-20 22:12:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-09-20 22:00:00`|`Valorant`|
