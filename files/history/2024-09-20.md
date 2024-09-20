@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kill Replay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/661858-kill-replay.html)|`2024-09-20 18:08:00`|`Apex Legends`|
+|[How to fix safe environment &#40; Gameloop &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/660329-fix-safe-environment-gameloop.html)|`2024-09-20 17:57:00`|`PUBG Mobile`|
 |[RCS Poor Compensation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662119-rcs-poor-compensation.html)|`2024-09-20 17:06:00`|`Counter-Strike 2`|
 |[BGMI 3&#46;4 32&#45;bit SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/662115-bgmi-3-4-32-bit-sdk.html)|`2024-09-20 16:48:00`|`PUBG Mobile`|
 |[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2024-09-20 16:45:00`|`Grand Theft Auto V`|
