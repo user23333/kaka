@@ -29,9 +29,12 @@
 |1|[ThunderTirnal v1&#46;2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46947)|`2024-09-21 04:31:08`|
 |1|[RemedyBS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46909)|`2024-09-21 04:31:08`|
 |1|[cfemen & gir489's Satisfactory hook v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46948)|`2024-09-21 04:43:37`|
+|1|[Shroomie](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46922)|`2024-09-21 07:59:26`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Banned In Every Game I Own ???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/661422-banned-game-own.html)|`2024-09-21 07:57:00`|`Anti-Cheat Bypass`|
+|[Drug Dealer Simulator 2 trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/647146-drug-dealer-simulator-2-trainer.html)|`2024-09-21 07:47:00`|`Other FPS Games`|
 |[Evade HWID Ban in Deadlock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/657741-evade-hwid-ban-deadlock.html)|`2024-09-21 07:43:00`|`Deadlock`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2024-09-21 07:39:00`|`DayZ SA`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-09-21 07:29:00`|`Playerunknown's Battlegrounds`|
