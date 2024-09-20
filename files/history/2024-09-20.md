@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gmod python cheat theory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/658933-gmod-python-cheat-theory.html)|`2024-09-20 13:27:00`|`Garry's Mod`|
+|[ypassing CR3 with MmAccessFault & Reading PDB via KPROCESS&#46;DirectoryTableBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/661477-ypassing-cr3-mmaccessfault-reading-pdb-via-kprocess-directorytablebase.html)|`2024-09-20 13:25:00`|`Anti-Cheat Bypass`|
+|[XianYuMods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/661692-xianyumods.html)|`2024-09-20 13:15:00`|`Payday 3`|
+|[Zyth 5ShotsPenWallsNoRecoilNoSpread Pak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/644568-zyth-5shotspenwallsnorecoilnospread-pak.html)|`2024-09-20 13:12:00`|`Payday 3`|
 |[GTAHaX for 1&#46;69 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-69-external-thread-3-a.html)|`2024-09-20 13:08:00`|`Grand Theft Auto V`|
 |[Rockstar has added BattlEye to Grand Theft Auto 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/661496-rockstar-added-battleye-grand-theft-auto-5-a.html)|`2024-09-20 12:55:00`|`Grand Theft Auto V`|
 |[Evading permanent ban for BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/654256-evading-permanent-ban-bo6.html)|`2024-09-20 12:46:00`|`Call of Duty: Black Ops 6`|
