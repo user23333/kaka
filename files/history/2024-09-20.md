@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Which factors should be avoided with an external?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662114-factors-avoided-external.html)|`2024-09-20 16:29:00`|`Counter-Strike 2`|
+|[Help me understand what it takes to achieve color aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/661494-help-understand-takes-achieve-color-aim.html)|`2024-09-20 16:27:00`|`Valorant`|
+|[Which factors should be avoided with an external?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662113-factors-avoided-external.html)|`2024-09-20 16:26:00`|`Counter-Strike 2`|
+|[Help Me Choose: Purple vs&#46; Yellow Outline for My Colorbot&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/661827-help-choose-purple-vs-yellow-outline-colorbot.html)|`2024-09-20 16:23:00`|`Valorant`|
 |[walkbot cheat for windows?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/660975-walkbot-cheat-windows.html)|`2024-09-20 16:00:00`|`Team Fortress 2`|
 |[TPM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/649260-tpm-spoofer.html)|`2024-09-20 15:57:00`|`Valorant`|
 |[Ban Data Collection Thread/Unban Method Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/507478-ban-data-collection-thread-unban-method-discussion.html)|`2024-09-20 15:49:00`|`Apex Legends`|
