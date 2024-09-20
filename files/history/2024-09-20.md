@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to start learning to code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/657489-start-learning-code.html)|`2024-09-20 22:14:00`|`Off Topic`|
+|[Zodiak &#45; Fastcup Full Kernel Driver Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/658126-zodiak-fastcup-kernel-driver-cheat.html)|`2024-09-20 22:12:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-09-20 22:00:00`|`Valorant`|
+|[New Content Warning Menu My First Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634743-content-warning-menu-menu.html)|`2024-09-20 22:00:00`|`Other Games`|
 |[Schlachtfeld 1 &#45; Internal Visual ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/654049-schlachtfeld-1-internal-visual-esp.html)|`2024-09-20 21:53:00`|`Battlefield 1`|
 |[Spoofing Nvidia's UUID &#40;kernel &#45; hookless&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/575441-spoofing-nvidias-uuid-kernel-hookless.html)|`2024-09-20 21:50:00`|`Anti-Cheat Bypass`|
 |[silent ui, chinese wz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/661134-silent-ui-chinese-wz.html)|`2024-09-20 21:41:00`|`Call of Duty: Modern Warfare III`|
