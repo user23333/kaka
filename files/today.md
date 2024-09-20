@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[No recoil External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/662255-recoil-external.html)|`2024-09-21 05:34:00`|`Escape from Tarkov`|
+|[Internal cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/611723-internal-cheese.html)|`2024-09-21 05:25:00`|`Payday 3`|
+|[Spectre Divide Colorbot & more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/660411-spectre-divide-colorbot.html)|`2024-09-21 05:25:00`|`Other FPS Games`|
 |[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2024-09-21 05:08:00`|`Garry's Mod`|
 |[was nice knowing you vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/661877-nice-knowing-vanguard.html)|`2024-09-21 04:58:00`|`Valorant`|
 |[Full Free Rust Script &#40;Undetected&#41; &#45;&#62; 30/04/2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/634920-free-rust-script-undetected-30-04-2024-a.html)|`2024-09-21 04:36:00`|`Rust`|
