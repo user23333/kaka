@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BGMI 3&#46;4 32&#45;bit SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/662115-bgmi-3-4-32-bit-sdk.html)|`2024-09-20 16:48:00`|`PUBG Mobile`|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2024-09-20 16:45:00`|`Grand Theft Auto V`|
 |[Which factors should be avoided with an external?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662114-factors-avoided-external.html)|`2024-09-20 16:29:00`|`Counter-Strike 2`|
 |[Help me understand what it takes to achieve color aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/661494-help-understand-takes-achieve-color-aim.html)|`2024-09-20 16:27:00`|`Valorant`|
 |[Which factors should be avoided with an external?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662113-factors-avoided-external.html)|`2024-09-20 16:26:00`|`Counter-Strike 2`|
