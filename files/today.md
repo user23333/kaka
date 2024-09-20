@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Flashing DMA Error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662105-flashing-dma-error.html)|`2024-09-20 14:40:00`|`Anti-Cheat Bypass`|
 |[Nika &#45; Light Wieght C&#43;&#43; Linux Pasta Cheat &#45; Health Based Sense, Aimbot, TriggerBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/634402-nika-light-wieght-linux-pasta-cheat-health-based-sense-aimbot-triggerbot.html)|`2024-09-20 14:29:00`|`Apex Legends`|
 |[Valorant DMA Based external Cheat&#40;Just run it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/645290-valorant-dma-based-external-cheat-run.html)|`2024-09-20 14:28:00`|`Valorant`|
 |[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2024-09-20 14:26:00`|`Farlight 84`|
