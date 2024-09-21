@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead Frontier 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/458678-dead-frontier-2-a.html)|`2024-09-22 07:46:00`|`Other FPS Games`|
 |[Dead by Daylight &#45; Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625318-dead-daylight-unlock-dlcs-skins.html)|`2024-09-22 07:23:00`|`Other FPS Games`|
 |[Winebot Rose Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/625663-winebot-rose-online.html)|`2024-09-22 07:15:00`|`Other MMORPG and Strategy`|
 |[Spectre Divide Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/652896-spectre-divide-reversal-structs-offsets.html)|`2024-09-22 07:15:00`|`Other FPS Games`|
