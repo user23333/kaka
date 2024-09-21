@@ -31,9 +31,12 @@
 |1|[RemedyBS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46909)|`2024-09-21 04:31:08`|
 |1|[cfemen & gir489's Satisfactory hook v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46948)|`2024-09-21 04:43:37`|
 |1|[Shroomie](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46922)|`2024-09-21 07:59:26`|
+|1|[bgmi 3&#46;4 32&#45;bit SDK ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46944)|`2024-09-21 18:26:12`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2024-09-21 18:24:00`|`Apex Legends`|
+|[BGMI 3&#46;4 32&#45;bit SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/662115-bgmi-3-4-32-bit-sdk.html)|`2024-09-21 18:19:00`|`PUBG Mobile`|
 |[TOGGLEABLE AUTO&#45;PARRY MULTIPLAYER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/661125-toggleable-auto-parry-multiplayer.html)|`2024-09-21 17:53:00`|`Star Wars Battlefront 2`|
 |[Spectre Divide Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/652896-spectre-divide-reversal-structs-offsets.html)|`2024-09-21 17:49:00`|`Other FPS Games`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-09-21 17:29:00`|`Rust`|
