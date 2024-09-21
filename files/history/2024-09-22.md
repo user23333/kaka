@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HWID BAN DISCUSSION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662324-hwid-ban-discussion.html)|`2024-09-22 00:33:00`|`Valorant`|
+|[Apb aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/660070-apb-aim-assist.html)|`2024-09-22 00:30:00`|`All Points Bulletin`|
+|[YimMenu &#91;1&#46;69 &#45; b3274&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3274.html)|`2024-09-22 00:25:00`|`Grand Theft Auto V`|
+|[Pro CS2 DMA &#45; Esp & Aimbot & Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656442-pro-cs2-dma-esp-aimbot-web-radar.html)|`2024-09-22 00:23:00`|`Counter-Strike 2`|
+|[was nice knowing you vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/661877-nice-knowing-vanguard.html)|`2024-09-22 00:22:00`|`Valorant`|
+|[C&#43;&#43; exception support in mapped module](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662336-exception-support-mapped-module.html)|`2024-09-22 00:21:00`|`Anti-Cheat Bypass`|
+|[any new logitech recoil macro?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662267-logitech-recoil-macro.html)|`2024-09-22 00:19:00`|`Apex Legends`|
+|[StoopidCheat v3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656984-stoopidcheat-v3.html)|`2024-09-22 00:15:00`|`Escape from Tarkov`|
 |[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-09-22 00:07:00`|`Overwatch`|
 |[Rigel Updated Just Run It](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/659443-rigel-updated-run.html)|`2024-09-22 00:06:00`|`Overwatch`|
 |[Are there any working cheats for CS2 rn? I need something with an aimbot please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662317-cheats-cs2-rn-aimbot-please.html)|`2024-09-22 00:02:00`|`Counter-Strike 2`|
