@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FATE DMA Source With a lot of features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/659710-fate-dma-source-lot-features.html)|`2024-09-21 20:22:00`|`Apex Legends`|
+|[Alter demi&#45;god](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/661873-alter-demi-god.html)|`2024-09-21 20:20:00`|`Apex Legends`|
+|[Custom Engine Enum Values](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/662305-custom-engine-enum-values.html)|`2024-09-21 20:20:00`|`Unreal Engine 4`|
 |[Unreal Engine 4&#46;27&#46;2 offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/656342-unreal-engine-4-27-2-offsets.html)|`2024-09-21 19:42:00`|`Unreal Engine 4`|
 |[&#91;Updated&#93; Dead by Daylight Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/635513-updated-dead-daylight-unlock-dlcs-skins.html)|`2024-09-21 19:30:00`|`Other FPS Games`|
 |[PUBG MOBILE Gameloop Emulator Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/576303-pubg-mobile-gameloop-emulator-cheat.html)|`2024-09-21 19:26:00`|`PUBG Mobile`|
