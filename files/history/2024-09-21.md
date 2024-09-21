@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2024-09-21 10:31:00`|`Farlight 84`|
 |[HVCI Bypass/help?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662164-hvci-bypass-help.html)|`2024-09-21 09:39:00`|`Valorant`|
 |[HOW TO &#45; Five M Minigame Autofarm Macro AHK?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/662268-five-minigame-autofarm-macro-ahk.html)|`2024-09-21 08:56:00`|`Alternative Online Mods`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2024-09-21 08:47:00`|`Overwatch`|
