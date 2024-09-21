@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HVCI Bypass/help?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662164-hvci-bypass-help.html)|`2024-09-21 09:39:00`|`Valorant`|
+|[HOW TO &#45; Five M Minigame Autofarm Macro AHK?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/662268-five-minigame-autofarm-macro-ahk.html)|`2024-09-21 08:56:00`|`Alternative Online Mods`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2024-09-21 08:47:00`|`Overwatch`|
+|["CL&#46;exe" terminated with a code &#45;1073741819](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/661865-cl-exe-terminated-code-1073741819-a.html)|`2024-09-21 08:36:00`|`Overwatch`|
 |[Banned In Every Game I Own ???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/661422-banned-game-own.html)|`2024-09-21 07:57:00`|`Anti-Cheat Bypass`|
 |[Drug Dealer Simulator 2 trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/647146-drug-dealer-simulator-2-trainer.html)|`2024-09-21 07:47:00`|`Other FPS Games`|
 |[Evade HWID Ban in Deadlock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/657741-evade-hwid-ban-deadlock.html)|`2024-09-21 07:43:00`|`Deadlock`|
