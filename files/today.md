@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Carx Streets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/657722-carx-streets.html)|`2024-09-21 22:41:00`|`Other Games`|
+|[What was your first experience in game hacking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/490075-experience-game-hacking.html)|`2024-09-21 22:39:00`|`Off Topic`|
+|[Are there any working cheats for CS2 rn? I need something with an aimbot please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662318-cheats-cs2-rn-aimbot-please.html)|`2024-09-21 22:38:00`|`Counter-Strike 2`|
+|[Are there any working cheats for CS2 rn? I need something with an aimbot please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662317-cheats-cs2-rn-aimbot-please.html)|`2024-09-21 22:35:00`|`Counter-Strike 2`|
 |[HWID BANNED LINUX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/644651-hwid-banned-linux.html)|`2024-09-21 22:23:00`|`Apex Legends`|
 |[Item ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/661981-item-esp.html)|`2024-09-21 22:19:00`|`Counter-Strike 2`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2024-09-21 22:18:00`|`Other FPS Games`|
