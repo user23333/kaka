@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypass 32Bit 3&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/653652-bypass-32bit-3-3-a.html)|`2024-09-21 18:47:00`|`PUBG Mobile`|
+|[Some Help with reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/660967-help-reversing.html)|`2024-09-21 18:46:00`|`Deadlock`|
 |[alternative communication from 2&#46; PC &#45; arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662296-alternative-communication-2-pc-arduino.html)|`2024-09-21 18:32:00`|`Valorant`|
 |[Help Me Choose: Purple vs&#46; Yellow Outline for My Colorbot&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/661827-help-choose-purple-vs-yellow-outline-colorbot.html)|`2024-09-21 18:27:00`|`Valorant`|
 |[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2024-09-21 18:24:00`|`Apex Legends`|
