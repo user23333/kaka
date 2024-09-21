@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Play Together/Rank Boosting Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/353364-play-rank-boosting-thread.html)|`2024-09-21 15:29:00`|`Apex Legends`|
 |[Dead Frontier 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/458678-dead-frontier-2-a.html)|`2024-09-21 14:27:00`|`Other FPS Games`|
 |[EAC CR3 Rizzing v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/659466-eac-cr3-rizzing-v2.html)|`2024-09-21 14:27:00`|`Anti-Cheat Bypass`|
 |[SPOOFING ASUS MOB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/661912-spoofing-asus-mob.html)|`2024-09-21 14:21:00`|`Valorant`|
