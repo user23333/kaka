@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New Rigel External Ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/658144-rigel-external-ow2.html)|`2024-09-22 04:44:00`|`Overwatch`|
 |[Aim assit controler emulador](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/657895-aim-assit-controler-emulador.html)|`2024-09-22 04:39:00`|`Call of Duty: Modern Warfare III`|
 |[Menu mod &#43; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/662280-menu-mod-esp.html)|`2024-09-22 04:37:00`|`Phasmophobia`|
 |[CS2 Internal Cheat Undetected: Fusion&#45;CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/662361-cs2-internal-cheat-undetected-fusion-cs2.html)|`2024-09-22 04:22:00`|`Counter-Strike 2 Releases`|
