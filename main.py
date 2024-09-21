@@ -77,6 +77,7 @@ def save_to_markdown(data):
             file.write("|[%(title)s](%(link)s)|`%(date)s`|`%(forum)s`|\n" % thread)
 
     shutil.copy2(TODAY_FILE, HISTORY_FILE)
+    shutil.copy2(TODAY_FILE, "README.md")
 
 
 save_to_markdown(update_cache())
