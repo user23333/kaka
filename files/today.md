@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[October 2024 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/661711-october-2024-motm-nominations.html)|`2024-09-21 22:48:00`|`Member of the Month`|
+|[Do spoofers remedy existing shadow bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/661896-spoofers-remedy-existing-shadow-bans.html)|`2024-09-21 22:45:00`|`Call of Duty: Modern Warfare III`|
 |[Carx Streets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/657722-carx-streets.html)|`2024-09-21 22:41:00`|`Other Games`|
 |[What was your first experience in game hacking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/490075-experience-game-hacking.html)|`2024-09-21 22:39:00`|`Off Topic`|
 |[Are there any working cheats for CS2 rn? I need something with an aimbot please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662318-cheats-cs2-rn-aimbot-please.html)|`2024-09-21 22:38:00`|`Counter-Strike 2`|
