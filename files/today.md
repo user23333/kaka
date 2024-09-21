@@ -11,6 +11,7 @@
 |4|[how likely is it getting a ban from gta online for people that used mods before BE?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/661615-getting-ban-gta-online-people-mods.html)|`2024-09-22 00:09:09`|`grand-theft-auto-v`|
 |12|[Fear & Greed DLC with all item codes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/661279-fear-greed-dlc-item-codes.html)|`2024-09-22 00:09:09`|`payday-3-a`|
 |1|[BattleEye &#40;Bans/Account Resets&#41;  for Modding in GTA V Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/661845-battleeye-bans-account-resets-modding-gta-online.html)|`2024-09-22 00:09:09`|`grand-theft-auto-v`|
+|3|[How to bypass Battleye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662030-bypass-battleye.html)|`2024-09-22 03:12:11`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[isBot offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/660478-isbot-offset.html)|`2024-09-22 02:57:00`|`PUBG Mobile`|
+|[Deadlock cheatt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/662315-deadlock-cheatt.html)|`2024-09-22 02:56:00`|`Deadlock`|
 |[Overlay Ud ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662357-overlay-ud.html)|`2024-09-22 02:46:00`|`Anti-Cheat Bypass`|
 |[Valorant/Vanguard TPM 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/660538-valorant-vanguard-tpm-2-0-a.html)|`2024-09-22 02:42:00`|`Anti-Cheat Bypass`|
 |[CSGO dump incorrect offset?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/662356-csgo-dump-incorrect-offset.html)|`2024-09-22 02:38:00`|`General Programming and Reversing`|
