@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rigel source code changes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/662112-rigel-source-code-changes.html)|`2024-09-21 16:54:00`|`Overwatch`|
+|[AHK MultiScript &#124; Pean's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605440-ahk-multiscript-peans-rcs.html)|`2024-09-21 16:43:00`|`Counter-Strike 2 Releases`|
+|[CSGO cheat affects vanguard anti cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662103-csgo-cheat-affects-vanguard-anti-cheat.html)|`2024-09-21 16:38:00`|`Counter-Strike 2`|
 |[Macros Detection?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/662288-macros-detection.html)|`2024-09-21 16:23:00`|`Rust`|
 |[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-09-21 16:21:00`|`Escape from Tarkov`|
 |[Goose Goose Duck Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/655532-goose-goose-duck-reversal-structs-offsets.html)|`2024-09-21 16:01:00`|`Other MMORPG and Strategy`|
