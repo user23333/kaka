@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overlay Ud ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662357-overlay-ud.html)|`2024-09-22 02:46:00`|`Anti-Cheat Bypass`|
+|[Valorant/Vanguard TPM 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/660538-valorant-vanguard-tpm-2-0-a.html)|`2024-09-22 02:42:00`|`Anti-Cheat Bypass`|
 |[CSGO dump incorrect offset?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/662356-csgo-dump-incorrect-offset.html)|`2024-09-22 02:38:00`|`General Programming and Reversing`|
 |[Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662302-skin-changer.html)|`2024-09-22 02:35:00`|`Counter-Strike 2`|
 |[CS2 Internal &#45; Legit Cheat, more rage features coming soon&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/659316-cs2-internal-legit-cheat-rage-features-coming-soon.html)|`2024-09-22 02:27:00`|`Counter-Strike 2 Releases`|
