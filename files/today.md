@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2024-09-22 01:52:00`|`Other FPS Games`|
+|[Unlock MPM on HP Insyde Bioses &#40;Laptop&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/627328-unlock-mpm-hp-insyde-bioses-laptop.html)|`2024-09-22 01:46:00`|`Valorant`|
+|[Assault Cube Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661104-assault-cube-aimbot.html)|`2024-09-22 01:43:00`|`Other FPS Games`|
+|[Reimu &#45; Apex Legends No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/660847-reimu-apex-legends-recoil.html)|`2024-09-22 01:42:00`|`Apex Legends`|
+|[Cheat Engine Table PS3D](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632973-cheat-engine-table-ps3d.html)|`2024-09-22 01:41:00`|`Other FPS Games`|
+|[Patience &#45; An External Linux Cheat &#91;Overlay/CLI&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/648832-patience-external-linux-cheat-overlay-cli.html)|`2024-09-22 01:41:00`|`Apex Legends`|
+|[Macros Detection?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/662288-macros-detection.html)|`2024-09-22 01:41:00`|`Rust`|
+|[Spoofer Driver Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662243-spoofer-driver-dump.html)|`2024-09-22 01:41:00`|`Anti-Cheat Bypass`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-09-22 01:36:00`|`Apex Legends`|
 |[whats the best undetected cheat for bf4?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/662252-whats-undetected-cheat-bf4.html)|`2024-09-22 01:30:00`|`Battlefield 4`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2024-09-22 01:28:00`|`Escape from Tarkov`|
