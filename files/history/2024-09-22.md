@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SWBF2 ESP/Aimbot/Damage Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/580865-swbf2-esp-aimbot-damage-hack.html)|`2024-09-22 03:34:00`|`Star Wars Battlefront 2`|
 |[BattleEye CuckStar Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/661848-battleeye-cuckstar-bypass.html)|`2024-09-22 03:20:00`|`Grand Theft Auto V`|
 |[isBot offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/660478-isbot-offset.html)|`2024-09-22 02:57:00`|`PUBG Mobile`|
 |[Deadlock cheatt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/662315-deadlock-cheatt.html)|`2024-09-22 02:56:00`|`Deadlock`|
