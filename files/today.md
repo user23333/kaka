@@ -11,6 +11,7 @@
 |4|[how likely is it getting a ban from gta online for people that used mods before BE?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/661615-getting-ban-gta-online-people-mods.html)|`2024-09-21 00:16:15`|`grand-theft-auto-v`|
 |4|[Simple cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/661473-simple-cheat.html)|`2024-09-21 00:16:15`|`deadlock`|
 |5|[Reimu &#45; Apex Legends No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/660847-reimu-apex-legends-recoil.html)|`2024-09-21 00:16:15`|`apex-legends`|
+|11|[Fear & Greed DLC with all item codes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/661279-fear-greed-dlc-item-codes.html)|`2024-09-21 17:34:41`|`payday-3-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-09-21 17:29:00`|`Rust`|
 |[Injection Battleye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/661122-injection-battleye.html)|`2024-09-21 17:12:00`|`Anti-Cheat Bypass`|
 |[Rigel source code changes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/662112-rigel-source-code-changes.html)|`2024-09-21 16:54:00`|`Overwatch`|
 |[AHK MultiScript &#124; Pean's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605440-ahk-multiscript-peans-rcs.html)|`2024-09-21 16:43:00`|`Counter-Strike 2 Releases`|
