@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mobile2&#46;global hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/592815-mobile2-global-hack.html)|`2024-09-21 15:41:00`|`Other Games`|
+|[Push Mod Skin Lib While Game is Running](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/661492-push-mod-skin-lib-game-running.html)|`2024-09-21 15:38:00`|`PUBG Mobile`|
 |[Play Together/Rank Boosting Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/353364-play-rank-boosting-thread.html)|`2024-09-21 15:29:00`|`Apex Legends`|
 |[Dead Frontier 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/458678-dead-frontier-2-a.html)|`2024-09-21 14:27:00`|`Other FPS Games`|
 |[EAC CR3 Rizzing v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/659466-eac-cr3-rizzing-v2.html)|`2024-09-21 14:27:00`|`Anti-Cheat Bypass`|
