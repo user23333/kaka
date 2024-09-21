@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Macros Detection?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/662288-macros-detection.html)|`2024-09-21 16:23:00`|`Rust`|
+|[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-09-21 16:21:00`|`Escape from Tarkov`|
+|[Goose Goose Duck Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/655532-goose-goose-duck-reversal-structs-offsets.html)|`2024-09-21 16:01:00`|`Other MMORPG and Strategy`|
 |[Mobile2&#46;global hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/592815-mobile2-global-hack.html)|`2024-09-21 15:41:00`|`Other Games`|
 |[Push Mod Skin Lib While Game is Running](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/661492-push-mod-skin-lib-game-running.html)|`2024-09-21 15:38:00`|`PUBG Mobile`|
 |[Play Together/Rank Boosting Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/353364-play-rank-boosting-thread.html)|`2024-09-21 15:29:00`|`Apex Legends`|
