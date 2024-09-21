@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead Frontier 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/458678-dead-frontier-2-a.html)|`2024-09-21 14:27:00`|`Other FPS Games`|
+|[EAC CR3 Rizzing v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/659466-eac-cr3-rizzing-v2.html)|`2024-09-21 14:27:00`|`Anti-Cheat Bypass`|
+|[SPOOFING ASUS MOB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/661912-spoofing-asus-mob.html)|`2024-09-21 14:21:00`|`Valorant`|
 |[Menu mod &#43; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/662280-menu-mod-esp.html)|`2024-09-21 12:50:00`|`Phasmophobia`|
 |[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-09-21 12:50:00`|`Overwatch`|
 |[New no Recoil and fix missing in match first zone or last zone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/662071-recoil-fix-missing-match-zone-zone.html)|`2024-09-21 12:36:00`|`PUBG Mobile`|
