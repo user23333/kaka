@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[COD CP exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/616611-cod-cp-exploit.html)|`2024-09-22 04:25:00`|`Call of Duty: Modern Warfare III`|
+|[CS2 Internal Cheat Undetected: Fusion&#45;CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/662361-cs2-internal-cheat-undetected-fusion-cs2.html)|`2024-09-22 04:22:00`|`Forum General`|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2024-09-22 04:21:00`|`Grand Theft Auto V`|
+|[Roblox's Mem&#45;Check Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/662362-robloxs-mem-check-bypass.html)|`2024-09-22 04:19:00`|`Other Games`|
+|[Genshin İmpact Shika Cheat 5&#46;0&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/660051-genshin-mpact-shika-cheat-5-0-0-1-a.html)|`2024-09-22 04:19:00`|`Genshin Impact`|
+|[External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/662363-external-esp.html)|`2024-09-22 04:18:00`|`Deadlock`|
+|[Can you get window HWND internally?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/655869-window-hwnd-internally.html)|`2024-09-22 04:12:00`|`Forum General`|
 |[How to Fix TPM Ban easily &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/626786-fix-tpm-ban-easily.html)|`2024-09-22 04:03:00`|`Valorant`|
 |[Reclass and Cheat Engine Dissect different results](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/662360-reclass-cheat-engine-dissect-results.html)|`2024-09-22 03:38:00`|`General Programming and Reversing`|
 |[Regarding BattleEye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/661609-regarding-battleeye.html)|`2024-09-22 03:32:00`|`Grand Theft Auto V`|
