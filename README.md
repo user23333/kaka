@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Assault Cube External 1&#46;3&#46;0&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/662443-assault-cube-external-1-3-0-2-a.html)|`2024-09-22 20:52:00`|`C and C++`|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2024-09-22 20:40:00`|`Other FPS Games`|
+|[Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/662476-injector.html)|`2024-09-22 20:36:00`|`Call of Duty: Modern Warfare`|
 |[How to make chicken esp?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662463-chicken-esp.html)|`2024-09-22 20:24:00`|`Counter-Strike 2`|
 |[Sker Ritual](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/634621-sker-ritual.html)|`2024-09-22 20:14:00`|`Unity`|
 |[ROCKET LEAGUE CONTROLLER SPEEDFLIP MACRO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/662494-rocket-league-controller-speedflip-macro.html)|`2024-09-22 20:03:00`|`Other Games`|
