@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Linux&#93; How to update offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/662489-linux-update-offsets.html)|`2024-09-22 19:12:00`|`Deadlock`|
+|[H2M Unlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/655882-h2m-unlock.html)|`2024-09-22 19:00:00`|`Call of Duty 4: Modern Warfare`|
+|[Any hacks of World War Z: Aftermath exist?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/622172-hacks-world-war-aftermath-exist.html)|`2024-09-22 18:56:00`|`Other FPS Games`|
+|[Hacking/Reversing Unity Mono Games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/662041-hacking-reversing-unity-mono-games.html)|`2024-09-22 18:54:00`|`Unity`|
 |[Apex coin glitch?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/599791-apex-coin-glitch.html)|`2024-09-22 18:39:00`|`Apex Legends`|
 |[External visibility check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/591548-external-visibility-check.html)|`2024-09-22 18:24:00`|`Counter-Strike 2`|
 |[cfemen & gir489's Satisfactory Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661834-cfemen-gir489s-satisfactory-cheat.html)|`2024-09-22 18:20:00`|`Other FPS Games`|
