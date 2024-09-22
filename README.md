@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2024-09-23 02:00:00`|`Farlight 84`|
+|[stack behaviour](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662553-stack-behaviour.html)|`2024-09-23 02:00:00`|`Anti-Cheat Bypass`|
+|[avoid gun refund while using del as menukey](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662579-avoid-gun-refund-using-del-menukey.html)|`2024-09-23 01:56:00`|`Counter-Strike 2`|
+|[ESP is freezing, cant read longer than specific point](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662429-esp-freezing-cant-read-specific.html)|`2024-09-23 01:51:00`|`Valorant`|
+|[How to properly ban evade](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/661676-properly-ban-evade.html)|`2024-09-23 01:49:00`|`Garry's Mod`|
 |[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2024-09-23 01:48:00`|`Garry's Mod`|
 |[Net messages?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/662087-net-messages.html)|`2024-09-23 01:46:00`|`Garry's Mod`|
 |[VGK Illegal &#35;PF Logger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662460-vgk-illegal-pf-logger.html)|`2024-09-23 01:45:00`|`Anti-Cheat Bypass`|
