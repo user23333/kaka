@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2024-09-22 22:30:00`|`Other FPS Games`|
 |[Is Dma still worth it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/662162-dma-worth.html)|`2024-09-22 22:28:00`|`PC Hardware`|
 |[valorant dma aim/esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/654732-valorant-dma-aim-esp.html)|`2024-09-22 22:10:00`|`Valorant`|
 |[VAL 5 FIX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662473-val-5-fix.html)|`2024-09-22 22:09:00`|`Valorant`|
