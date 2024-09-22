@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant DMA Based external Cheat&#40;Just run it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/645290-valorant-dma-based-external-cheat-run.html)|`2024-09-22 16:20:00`|`Valorant`|
+|[TPM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/649260-tpm-spoofer.html)|`2024-09-22 16:12:00`|`Valorant`|
+|[BGMI 3&#46;4 32&#45;bit SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/662115-bgmi-3-4-32-bit-sdk.html)|`2024-09-22 15:57:00`|`PUBG Mobile`|
 |[The Texas Chainsaw Massacre External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/638980-texas-chainsaw-massacre-external-cheat.html)|`2024-09-22 15:51:00`|`Other FPS Games`|
 |[Simple W2S &#40;World to Screen&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/662478-simple-w2s-world-screen.html)|`2024-09-22 15:47:00`|`Unreal Engine 4`|
 |[Zero position &#45; CItemXp, C&#95;NPC&#95;Trooper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/662475-zero-position-citemxp-c_npc_trooper.html)|`2024-09-22 15:21:00`|`Deadlock`|
