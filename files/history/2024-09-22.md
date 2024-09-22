@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/654136-silent-aim.html)|`2024-09-22 11:28:00`|`Counter-Strike 2`|
+|[Anyone know if it's possible to edit your Overall Stats Data](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/661079-edit-overall-stats-data.html)|`2024-09-22 11:22:00`|`Escape from Tarkov`|
 |[Houston Mask ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/662248-houston-mask-id.html)|`2024-09-22 10:51:00`|`Payday 3`|
 |[AFK Script for Plunder &#40;Read the Description&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/656179-afk-script-plunder-read-description.html)|`2024-09-22 10:38:00`|`Call of Duty: Modern Warfare III`|
 |[Play Together/Rank Boosting Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/353364-play-rank-boosting-thread.html)|`2024-09-22 10:37:00`|`Apex Legends`|
