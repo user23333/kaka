@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to make chicken esp?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662463-chicken-esp.html)|`2024-09-22 20:24:00`|`Counter-Strike 2`|
+|[Sker Ritual](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/634621-sker-ritual.html)|`2024-09-22 20:14:00`|`Unity`|
+|[ROCKET LEAGUE CONTROLLER SPEEDFLIP MACRO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/662494-rocket-league-controller-speedflip-macro.html)|`2024-09-22 20:03:00`|`Other Games`|
 |[C&#35; BYPASS SOURCE CODE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/662300-bypass-source-code.html)|`2024-09-22 19:42:00`|`PUBG Mobile`|
 |[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-09-22 19:29:00`|`Counter-Strike 2`|
 |[CHEATO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/662312-cheato.html)|`2024-09-22 19:19:00`|`Deadlock`|
