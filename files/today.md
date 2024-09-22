@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Patience &#45; An External Linux Cheat &#91;Overlay/CLI&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/648832-patience-external-linux-cheat-overlay-cli.html)|`2024-09-23 00:43:00`|`Apex Legends`|
+|[Any reason to switch from Pop&#95;Os ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/661723-reason-switch-pop_os.html)|`2024-09-23 00:41:00`|`Apex Legends`|
+|[beginner bhop pls halp :3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662340-beginner-bhop-pls-halp-3-a.html)|`2024-09-23 00:36:00`|`Counter-Strike 2`|
+|[Info about temp spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662019-info-temp-spoofing.html)|`2024-09-23 00:31:00`|`Anti-Cheat Bypass`|
+|[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-09-23 00:29:00`|`Counter-Strike 2`|
+|[Dead Frontier 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/458678-dead-frontier-2-a.html)|`2024-09-23 00:28:00`|`Other FPS Games`|
 |[Offsets for radar esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662569-offsets-radar-esp.html)|`2024-09-23 00:21:00`|`Counter-Strike 2`|
 |[Overlay Ud ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662357-overlay-ud.html)|`2024-09-23 00:19:00`|`Anti-Cheat Bypass`|
 |[Rockstar has added BattlEye to Grand Theft Auto 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/661496-rockstar-added-battleye-grand-theft-auto-5-a.html)|`2024-09-23 00:18:00`|`Grand Theft Auto V`|
