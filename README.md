@@ -30,9 +30,12 @@
 |6|[pepe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46959)|`2024-09-22 06:40:04`|
 |1|[SDK&#95;Vigor&#95;21&#46;09&#46;2024 ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46955)|`2024-09-22 06:40:04`|
 |3|[vgk&#45;illegal&#45;pf&#45;logger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46968)|`2024-09-22 17:19:52`|
+|2|[deadlockcheato](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46958)|`2024-09-22 19:25:21`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CHEATO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/662312-cheato.html)|`2024-09-22 19:19:00`|`Deadlock`|
+|[Vigor internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662490-vigor-internal-cheat.html)|`2024-09-22 19:18:00`|`Other FPS Games`|
 |[&#91;Linux&#93; How to update offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/662489-linux-update-offsets.html)|`2024-09-22 19:12:00`|`Deadlock`|
 |[H2M Unlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/655882-h2m-unlock.html)|`2024-09-22 19:00:00`|`Call of Duty 4: Modern Warfare`|
 |[Any hacks of World War Z: Aftermath exist?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/622172-hacks-world-war-aftermath-exist.html)|`2024-09-22 18:56:00`|`Other FPS Games`|
