@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheating Future&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/662449-cheating-future.html)|`2024-09-22 23:25:00`|`Off Topic`|
+|[Playernames crashing on servers with RAC Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/662558-playernames-crashing-servers-rac-anticheat.html)|`2024-09-22 23:22:00`|`Alternative Online Mods`|
 |[Updated No Recoil Script, All Mouse's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/603258-updated-recoil-script-mouses.html)|`2024-09-22 23:13:00`|`Rainbow Six Siege`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2024-09-22 23:13:00`|`Overwatch`|
 |[Bunker Research LUA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662456-bunker-research-lua.html)|`2024-09-22 23:04:00`|`Grand Theft Auto V`|
