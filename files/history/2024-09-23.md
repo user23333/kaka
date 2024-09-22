@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Warframe Loot Modifier](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662459-warframe-loot-modifier.html)|`2024-09-23 01:17:00`|`Other FPS Games`|
+|[How to get weapon entity from handle?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662573-weapon-entity-handle.html)|`2024-09-23 01:16:00`|`Counter-Strike 2`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2024-09-23 01:15:00`|`Other MMORPG and Strategy`|
+|[Dale & Dawson Stationery Supplies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/660003-dale-dawson-stationery-supplies.html)|`2024-09-23 01:11:00`|`Other Games`|
+|[Ark Ascended Basic External Base/Example](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/628242-ark-ascended-basic-external-base-example.html)|`2024-09-23 01:10:00`|`Other FPS Games`|
+|[TPM AND SB BYPASS &#43; SPOOFER &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/623808-tpm-sb-bypass-spoofer.html)|`2024-09-23 00:59:00`|`Valorant`|
+|[HOW TO &#45; Five M Minigame Autofarm Macro AHK?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/662268-five-minigame-autofarm-macro-ahk.html)|`2024-09-23 00:56:00`|`Alternative Online Mods`|
+|[FiveM Fiveguard serials ban&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/658955-fivem-fiveguard-serials-ban.html)|`2024-09-23 00:53:00`|`Alternative Online Mods`|
+|[External Farlight 84 Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/661656-external-farlight-84-free-cheat.html)|`2024-09-23 00:52:00`|`Farlight 84`|
 |[Patience &#45; An External Linux Cheat &#91;Overlay/CLI&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/648832-patience-external-linux-cheat-overlay-cli.html)|`2024-09-23 00:43:00`|`Apex Legends`|
 |[Any reason to switch from Pop&#95;Os ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/661723-reason-switch-pop_os.html)|`2024-09-23 00:41:00`|`Apex Legends`|
 |[beginner bhop pls halp :3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662340-beginner-bhop-pls-halp-3-a.html)|`2024-09-23 00:36:00`|`Counter-Strike 2`|
