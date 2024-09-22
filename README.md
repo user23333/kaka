@@ -34,6 +34,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is Dma still worth it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/662162-dma-worth.html)|`2024-09-22 22:28:00`|`PC Hardware`|
+|[valorant dma aim/esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/654732-valorant-dma-aim-esp.html)|`2024-09-22 22:10:00`|`Valorant`|
+|[VAL 5 FIX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662473-val-5-fix.html)|`2024-09-22 22:09:00`|`Valorant`|
+|[CANNNOT GET UNBANNED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/662461-cannnot-unbanned.html)|`2024-09-22 22:01:00`|`Deadlock`|
+|[Current state of Deadlock AC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/662043-current-deadlock-ac.html)|`2024-09-22 21:59:00`|`Deadlock`|
+|[battlefront 2 damage mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/651673-battlefront-2-damage-mod.html)|`2024-09-22 21:55:00`|`Star Wars Battlefront 2`|
 |[any help bypassing valo mobile?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662512-help-bypassing-valo-mobile.html)|`2024-09-22 21:21:00`|`Valorant`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2024-09-22 21:15:00`|`Rainbow Six Siege`|
 |[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2024-09-22 21:01:00`|`Palia`|
