@@ -24,9 +24,18 @@
 |20|[Bodycam Internal V1&#46;5 &#40;Aimbot, ESP&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46951)|`2024-09-24 00:08:43`|
 |95|[cfemen & gir489's Satisfactory hook v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46948)|`2024-09-24 00:08:43`|
 |161|[ThunderTirnal v1&#46;2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46947)|`2024-09-24 00:08:43`|
+|2|[item&#95;data&#95;dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46973)|`2024-09-24 01:57:09`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to start learning to code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/657489-start-learning-code.html)|`2024-09-24 01:55:00`|`Off Topic`|
+|[Cheating Future&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/662449-cheating-future.html)|`2024-09-24 01:51:00`|`Off Topic`|
+|[ESP stop working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662757-esp-stop.html)|`2024-09-24 01:48:00`|`Counter-Strike 2`|
+|[How could i start with game hacking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/661874-start-game-hacking.html)|`2024-09-24 01:47:00`|`Forum General`|
+|[Fate Trigger: The Novita Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/662756-fate-trigger-novita-discussion.html)|`2024-09-24 01:46:00`|`Other MMORPG and Strategy`|
+|[VGK Illegal &#35;PF Logger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662460-vgk-illegal-pf-logger.html)|`2024-09-24 01:45:00`|`Anti-Cheat Bypass`|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2024-09-24 01:45:00`|`Other FPS Games`|
+|[Once Human &#40;game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/614970-human-game.html)|`2024-09-24 01:45:00`|`Other MMORPG and Strategy`|
 |[Xbox HUD on mw2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/662755-xbox-hud-mw2.html)|`2024-09-24 01:43:00`|`Call of Duty 6: Modern Warfare 2`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2024-09-24 01:42:00`|`Escape from Tarkov`|
 |[Spectre Divide Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/652896-spectre-divide-reversal-structs-offsets.html)|`2024-09-24 01:41:00`|`Other FPS Games`|
