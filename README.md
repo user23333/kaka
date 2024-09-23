@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ypassing CR3 with MmAccessFault & Reading PDB via KPROCESS&#46;DirectoryTableBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/661477-ypassing-cr3-mmaccessfault-reading-pdb-via-kprocess-directorytablebase.html)|`2024-09-23 10:26:00`|`Anti-Cheat Bypass`|
+|[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2024-09-23 10:20:00`|`Palia`|
+|[Overlay Flags/Size Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662664-overlay-flags-size-question.html)|`2024-09-23 10:13:00`|`Anti-Cheat Bypass`|
+|[The Finals External Cheat DMA&#33;&#33;&#40;Just Run It&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/640995-finals-external-cheat-dma-run.html)|`2024-09-23 10:13:00`|`THE FINALS`|
+|[predicted spike lineup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662663-predicted-spike-lineup.html)|`2024-09-23 10:01:00`|`Valorant`|
+|[RCS Poor Compensation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662119-rcs-poor-compensation.html)|`2024-09-23 09:58:00`|`Counter-Strike 2`|
 |[Nika &#45; Light Wieght C&#43;&#43; Linux Pasta Cheat &#45; Health Based Sense, Aimbot, TriggerBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/634402-nika-light-wieght-linux-pasta-cheat-health-based-sense-aimbot-triggerbot.html)|`2024-09-23 08:27:00`|`Apex Legends`|
 |[Valorant Manual Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/655565-valorant-manual-spoofer.html)|`2024-09-23 08:26:00`|`Valorant`|
 |[Arduino Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662431-arduino-help.html)|`2024-09-23 08:25:00`|`Valorant`|
