@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Aim assist using a mouse?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/662680-aim-assist-using-mouse.html)|`2024-09-23 13:36:00`|`Call of Duty: Modern Warfare III`|
+|[Smoke Causing ESP Lag](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662678-smoke-causing-esp-lag.html)|`2024-09-23 13:33:00`|`Counter-Strike 2`|
 |[Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/662476-injector.html)|`2024-09-23 13:17:00`|`Call of Duty: Modern Warfare`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-09-23 13:06:00`|`Valorant`|
 |[python ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662675-python-ban.html)|`2024-09-23 12:49:00`|`Anti-Cheat Bypass`|
