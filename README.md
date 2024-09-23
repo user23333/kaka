@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Limiting outward network traffic?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/660142-limiting-outward-network-traffic.html)|`2024-09-23 21:30:00`|`Call of Duty: Black Ops 6`|
+|[Evading permanent ban for BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/654256-evading-permanent-ban-bo6.html)|`2024-09-23 21:26:00`|`Call of Duty: Black Ops 6`|
+|[OV3RSW33T: AN OVERWAT Pack: Reborn & Recoded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/603412-ov3rsw33t-overwat-pack-reborn-recoded.html)|`2024-09-23 21:03:00`|`Overwatch`|
+|[Battlefield 4 How to hide ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/662719-battlefield-4-hide-esp.html)|`2024-09-23 21:02:00`|`Battlefield 4`|
 |[Nimrod Source Code &#40; NINTE X &#41; &#40; MEGA SOURCE LEAK &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/662717-nimrod-source-code-ninte-mega-source-leak.html)|`2024-09-23 20:59:00`|`PUBG Mobile`|
 |[Inject Hack Gameloop EN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/662716-inject-hack-gameloop-en.html)|`2024-09-23 20:54:00`|`PUBG Mobile`|
 |[Why They Add Battleye Now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662715-add-battleye.html)|`2024-09-23 20:51:00`|`Grand Theft Auto V`|
