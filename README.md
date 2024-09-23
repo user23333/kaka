@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Skinchanger, external cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662765-skinchanger-external-cs2.html)|`2024-09-24 02:54:00`|`Counter-Strike 2`|
+|[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2024-09-24 02:51:00`|`Other FPS Games`|
+|[Alternative Hack CS 1&#46;6 &#45;&#62; CS 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662076-alternative-hack-cs-1-6-cs-2-a.html)|`2024-09-24 02:51:00`|`Counter-Strike 2`|
 |[how can i put any nickname i want with invisible characters?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/662763-nickname-invisible-characters.html)|`2024-09-24 02:42:00`|`Paladins`|
 |[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2024-09-24 02:40:00`|`Grand Theft Auto V`|
 |[is there an actual way to get to 1 letter name or anyname u want?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/650668-actual-1-letter-name-anyname.html)|`2024-09-24 02:36:00`|`Paladins`|
