@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 External Cheat &#45; ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/655165-cs2-external-cheat-esp-aimbot.html)|`2024-09-23 22:44:00`|`Counter-Strike 2 Releases`|
+|[HWID BANNED LINUX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/644651-hwid-banned-linux.html)|`2024-09-23 22:43:00`|`Apex Legends`|
+|[unpacking vmprotect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/661342-unpacking-vmprotect.html)|`2024-09-23 22:42:00`|`General Programming and Reversing`|
 |[createdProjectiles in class BaseProjectile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/662732-createdprojectiles-class-baseprojectile.html)|`2024-09-23 22:40:00`|`Rust`|
 |[100% UNDETECTED INJECTOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/508347-100-undetected-injector.html)|`2024-09-23 22:03:00`|`Anti-Cheat Bypass`|
 |[Reimu &#45; Apex Legends No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/660847-reimu-apex-legends-recoil.html)|`2024-09-23 21:49:00`|`Apex Legends`|
