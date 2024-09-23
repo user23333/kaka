@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how can i put any nickname i want with invisible characters?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/662763-nickname-invisible-characters.html)|`2024-09-24 02:42:00`|`Paladins`|
+|[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2024-09-24 02:40:00`|`Grand Theft Auto V`|
+|[is there an actual way to get to 1 letter name or anyname u want?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/650668-actual-1-letter-name-anyname.html)|`2024-09-24 02:36:00`|`Paladins`|
+|[FiveM Fiveguard serials ban&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/658955-fivem-fiveguard-serials-ban.html)|`2024-09-24 02:34:00`|`Alternative Online Mods`|
 |[AntiAim asphyxia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662745-antiaim-asphyxia.html)|`2024-09-24 02:28:00`|`Counter-Strike 2`|
 |[Kiddion's Modest External Menu &#91;Thread 5&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/576854-kiddions-modest-external-menu-thread-5-a.html)|`2024-09-24 02:21:00`|`Grand Theft Auto V`|
 |[Skin Replacements](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/650683-skin-replacements.html)|`2024-09-24 02:19:00`|`All Points Bulletin`|
