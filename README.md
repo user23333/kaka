@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Xbox HUD on mw2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/662755-xbox-hud-mw2.html)|`2024-09-24 01:43:00`|`Call of Duty 6: Modern Warfare 2`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2024-09-24 01:42:00`|`Escape from Tarkov`|
+|[Spectre Divide Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/652896-spectre-divide-reversal-structs-offsets.html)|`2024-09-24 01:41:00`|`Other FPS Games`|
+|[What stops people from bypassing battleye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/661640-stops-people-bypassing-battleye.html)|`2024-09-24 01:39:00`|`Grand Theft Auto V`|
+|[Universal Ac bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/658736-universal-ac-bypass.html)|`2024-09-24 01:35:00`|`Anti-Cheat Bypass`|
+|[Valorant Colorbot w&#46; Flickbot/Silentaim ARDINO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662557-valorant-colorbot-flickbot-silentaim-ardino.html)|`2024-09-24 01:33:00`|`Valorant`|
+|[silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/654136-silent-aim.html)|`2024-09-24 01:33:00`|`Counter-Strike 2`|
+|[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2024-09-24 01:29:00`|`Other FPS Games`|
 |[Simple cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/661473-simple-cheat.html)|`2024-09-24 01:27:00`|`Deadlock`|
 |[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-09-24 01:25:00`|`Escape from Tarkov`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2024-09-24 01:25:00`|`Deadlock`|
