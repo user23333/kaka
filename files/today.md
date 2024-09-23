@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Always updated&#93; color aimbot for &#42;Almost any 3d game, coded fully in python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/657882-updated-color-aimbot-3d-game-coded-python.html)|`2024-09-23 23:34:00`|`Other FPS Games`|
+|[I need help figuring out what the terms mean](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/662736-help-figuring-terms-mean.html)|`2024-09-23 23:30:00`|`PUBG Mobile`|
+|[cs2 dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662735-cs2-dma.html)|`2024-09-23 23:28:00`|`Counter-Strike 2`|
+|[Sai's Color Aimbot v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/659687-sais-color-aimbot-v2.html)|`2024-09-23 23:27:00`|`Call of Duty: Modern Warfare III`|
 |[apex cleaner &#43; spoofer for after a ban on linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/660886-apex-cleaner-spoofer-ban-linux.html)|`2024-09-23 23:15:00`|`Apex Legends`|
 |[Valorant Ahk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662733-valorant-ahk.html)|`2024-09-23 23:00:00`|`Valorant`|
 |[CS2 External Cheat &#45; ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/655165-cs2-external-cheat-esp-aimbot.html)|`2024-09-23 22:44:00`|`Counter-Strike 2 Releases`|
