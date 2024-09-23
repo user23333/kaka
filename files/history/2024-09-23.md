@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[apex cleaner &#43; spoofer for after a ban on linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/660886-apex-cleaner-spoofer-ban-linux.html)|`2024-09-23 23:15:00`|`Apex Legends`|
+|[Valorant Ahk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662733-valorant-ahk.html)|`2024-09-23 23:00:00`|`Valorant`|
 |[CS2 External Cheat &#45; ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/655165-cs2-external-cheat-esp-aimbot.html)|`2024-09-23 22:44:00`|`Counter-Strike 2 Releases`|
 |[HWID BANNED LINUX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/644651-hwid-banned-linux.html)|`2024-09-23 22:43:00`|`Apex Legends`|
 |[unpacking vmprotect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/661342-unpacking-vmprotect.html)|`2024-09-23 22:42:00`|`General Programming and Reversing`|
