@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662683-skin-changer.html)|`2024-09-23 15:03:00`|`Counter-Strike 2`|
+|[Fear & Greed DLC with all item codes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/661279-fear-greed-dlc-item-codes.html)|`2024-09-23 15:02:00`|`Payday 3`|
+|[&#91;DMA&#93; CR3 Bypass By Fixing DTB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/600875-dma-cr3-bypass-fixing-dtb.html)|`2024-09-23 15:01:00`|`Anti-Cheat Bypass`|
 |[How to make chicken esp?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662463-chicken-esp.html)|`2024-09-23 14:51:00`|`Counter-Strike 2`|
 |[Any way to pass through "TPM 2&#46;0" check ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/661820-pass-tpm-2-0-check.html)|`2024-09-23 14:46:00`|`Valorant`|
 |[Dead by Daylight &#45; Permanent Prestige](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658804-dead-daylight-permanent-prestige.html)|`2024-09-23 14:12:00`|`Other FPS Games`|
