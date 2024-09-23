@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Winebot Rose Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/625663-winebot-rose-online.html)|`2024-09-24 07:20:00`|`Other MMORPG and Strategy`|
+|[Dead by Daylight &#45; Permanent Prestige](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658804-dead-daylight-permanent-prestige.html)|`2024-09-24 07:01:00`|`Other FPS Games`|
+|[Execute Subwoofer &#40;FiveM Onetime Spoofer&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/661126-execute-subwoofer-fivem-onetime-spoofer.html)|`2024-09-24 06:59:00`|`Alternative Online Mods`|
 |[Bypass ShitAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662803-bypass-shitac.html)|`2024-09-24 06:55:00`|`Anti-Cheat Bypass`|
 |[Dumping instrumentation callbacks in x64?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662802-dumping-instrumentation-callbacks-x64.html)|`2024-09-24 06:53:00`|`Anti-Cheat Bypass`|
 |[ESP is freezing, cant read longer than specific point](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662429-esp-freezing-cant-read-specific.html)|`2024-09-24 06:52:00`|`Valorant`|
