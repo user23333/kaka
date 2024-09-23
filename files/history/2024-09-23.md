@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nimrod Source Code &#40; NINTE X &#41; &#40; MEGA SOURCE LEAK &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/662717-nimrod-source-code-ninte-mega-source-leak.html)|`2024-09-23 20:59:00`|`PUBG Mobile`|
+|[Inject Hack Gameloop EN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/662716-inject-hack-gameloop-en.html)|`2024-09-23 20:54:00`|`PUBG Mobile`|
+|[Why They Add Battleye Now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662715-add-battleye.html)|`2024-09-23 20:51:00`|`Grand Theft Auto V`|
+|[Warhammer 40,000: Space Marine 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/659896-warhammer-40-000-space-marine-2-a.html)|`2024-09-23 20:47:00`|`Other FPS Games`|
 |[Dale & Dawson Stationery Supplies Money cheat&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/662258-dale-dawson-stationery-supplies-money-cheat.html)|`2024-09-23 20:18:00`|`Other Games`|
 |[arena breakout infinite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662705-arena-breakout-infinite.html)|`2024-09-23 19:37:00`|`Other FPS Games`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2024-09-23 18:38:00`|`Other FPS Games`|
