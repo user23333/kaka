@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to make chicken esp?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662463-chicken-esp.html)|`2024-09-23 14:51:00`|`Counter-Strike 2`|
 |[Any way to pass through "TPM 2&#46;0" check ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/661820-pass-tpm-2-0-check.html)|`2024-09-23 14:46:00`|`Valorant`|
 |[Dead by Daylight &#45; Permanent Prestige](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658804-dead-daylight-permanent-prestige.html)|`2024-09-23 14:12:00`|`Other FPS Games`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2024-09-23 13:52:00`|`Counter-Strike 2`|
