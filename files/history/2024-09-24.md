@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-09-24 05:29:00`|`Playerunknown's Battlegrounds`|
+|[Injection Battleye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/661122-injection-battleye.html)|`2024-09-24 05:29:00`|`Anti-Cheat Bypass`|
+|[CHEATO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/662312-cheato.html)|`2024-09-24 05:26:00`|`Deadlock`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2024-09-24 05:05:00`|`Escape from Tarkov`|
 |[Asking About UE4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/660694-ue4.html)|`2024-09-24 04:59:00`|`PUBG Mobile`|
 |[TriggerBot &#43; AimAssist Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/657777-triggerbot-aimassist-source.html)|`2024-09-24 04:56:00`|`Valorant`|
