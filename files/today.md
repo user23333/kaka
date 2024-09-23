@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[100% UNDETECTED INJECTOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/508347-100-undetected-injector.html)|`2024-09-23 22:03:00`|`Anti-Cheat Bypass`|
 |[Reimu &#45; Apex Legends No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/660847-reimu-apex-legends-recoil.html)|`2024-09-23 21:49:00`|`Apex Legends`|
 |[Limiting outward network traffic?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/660142-limiting-outward-network-traffic.html)|`2024-09-23 21:30:00`|`Call of Duty: Black Ops 6`|
 |[Evading permanent ban for BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/654256-evading-permanent-ban-bo6.html)|`2024-09-23 21:26:00`|`Call of Duty: Black Ops 6`|
