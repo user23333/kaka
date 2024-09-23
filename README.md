@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypass ShitAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662803-bypass-shitac.html)|`2024-09-24 06:55:00`|`Anti-Cheat Bypass`|
+|[Dumping instrumentation callbacks in x64?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662802-dumping-instrumentation-callbacks-x64.html)|`2024-09-24 06:53:00`|`Anti-Cheat Bypass`|
+|[ESP is freezing, cant read longer than specific point](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662429-esp-freezing-cant-read-specific.html)|`2024-09-24 06:52:00`|`Valorant`|
 |[WIN&#33; Internal Cheat Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/638488-win-internal-cheat-base.html)|`2024-09-24 06:34:00`|`Team Fortress 2`|
 |[Genshin İmpact Shika Cheat 5&#46;0&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/660051-genshin-mpact-shika-cheat-5-0-0-1-a.html)|`2024-09-24 06:31:00`|`Genshin Impact`|
 |[offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/662572-offsets.html)|`2024-09-24 06:27:00`|`Rust`|
