@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/662476-injector.html)|`2024-09-23 13:17:00`|`Call of Duty: Modern Warfare`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-09-23 13:06:00`|`Valorant`|
 |[python ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662675-python-ban.html)|`2024-09-23 12:49:00`|`Anti-Cheat Bypass`|
 |[My CrossFirePH &#45; WallHack Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/662674-crossfireph-wallhack.html)|`2024-09-23 12:46:00`|`CrossFire`|
 |[Fallout 76](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/305579-fallout-76-a.html)|`2024-09-23 12:09:00`|`Other FPS Games`|
