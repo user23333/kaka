@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hardware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662301-hardware.html)|`2024-09-24 18:44:00`|`Valorant`|
 |[Secure boot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662845-secure-boot.html)|`2024-09-24 18:04:00`|`Valorant`|
 |[My CrossFirePH &#45; WallHack Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/662674-crossfireph-wallhack.html)|`2024-09-24 18:01:00`|`CrossFire`|
 |[pve cheat question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/662819-pve-cheat-question.html)|`2024-09-24 18:01:00`|`Escape from Tarkov`|
