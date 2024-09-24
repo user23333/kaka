@@ -13,6 +13,7 @@
 |4|[how likely is it getting a ban from gta online for people that used mods before BE?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/661615-getting-ban-gta-online-people-mods.html)|`2024-09-25 00:31:18`|`grand-theft-auto-v`|
 |20|[Vigor internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662490-vigor-internal-cheat.html)|`2024-09-25 01:31:21`|`other-fps-games`|
 |14|[VGK Illegal &#35;PF Logger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662460-vgk-illegal-pf-logger.html)|`2024-09-25 03:00:58`|`anti-cheat-bypass`|
+|1|[BattleEye &#40;Bans/Account Resets&#41;  for Modding in GTA V Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/661845-battleeye-bans-account-resets-modding-gta-online.html)|`2024-09-25 07:13:33`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to bypass Battleye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662030-bypass-battleye.html)|`2024-09-25 07:11:00`|`Grand Theft Auto V`|
+|[Roblox's Mem&#45;Check Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/662362-robloxs-mem-check-bypass.html)|`2024-09-25 07:11:00`|`Other Games`|
+|[Skills have been adjusted&#46; And the game ended](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/662838-skills-adjusted-game.html)|`2024-09-25 07:07:00`|`Escape from Tarkov`|
+|[Need help trying to inject dll into game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/662991-help-trying-inject-dll-game.html)|`2024-09-25 07:05:00`|`Other Games`|
+|[Anyone know if it's possible to edit your Overall Stats Data](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/661079-edit-overall-stats-data.html)|`2024-09-25 07:05:00`|`Escape from Tarkov`|
 |[Overlay Flags/Size Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662664-overlay-flags-size-question.html)|`2024-09-25 06:49:00`|`Anti-Cheat Bypass`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-09-25 06:49:00`|`Grand Theft Auto V`|
 |[Overlay Ud ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662357-overlay-ud.html)|`2024-09-25 06:32:00`|`Anti-Cheat Bypass`|
