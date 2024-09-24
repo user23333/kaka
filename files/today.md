@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spectre Divide Advanced AHK Color Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662811-spectre-divide-advanced-ahk-color-bot.html)|`2024-09-24 12:38:00`|`Other FPS Games`|
 |[DMA Scatter reading physical memory is laggy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662830-dma-scatter-reading-physical-memory-laggy.html)|`2024-09-24 12:08:00`|`Anti-Cheat Bypass`|
 |[Terrorist Outlines on White noise &#40;GMComponentMarkAndOutline&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/662829-terrorist-outlines-white-noise-gmcomponentmarkandoutline.html)|`2024-09-24 11:54:00`|`Rainbow Six Siege`|
 |[Heist Editor v3&#46;6 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/451205-heist-editor-v3-6-external.html)|`2024-09-24 11:37:00`|`Grand Theft Auto V`|
