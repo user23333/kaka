@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Secure boot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662845-secure-boot.html)|`2024-09-24 18:04:00`|`Valorant`|
+|[My CrossFirePH &#45; WallHack Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/662674-crossfireph-wallhack.html)|`2024-09-24 18:01:00`|`CrossFire`|
+|[pve cheat question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/662819-pve-cheat-question.html)|`2024-09-24 18:01:00`|`Escape from Tarkov`|
 |[help in finding m&#95;hPlayerPawn offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662844-help-finding-m_hplayerpawn-offset.html)|`2024-09-24 17:39:00`|`Counter-Strike 2`|
 |[DMA PUBG &#40; Chiness Version &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/657196-dma-pubg-chiness-version.html)|`2024-09-24 17:31:00`|`Playerunknown's Battlegrounds`|
 |[rigel ban after one comp game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/662335-rigel-ban-comp-game.html)|`2024-09-24 17:17:00`|`Overwatch`|
