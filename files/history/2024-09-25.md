@@ -12,6 +12,7 @@
 |19|[CHEATO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/662312-cheato.html)|`2024-09-25 00:31:18`|`deadlock`|
 |4|[how likely is it getting a ban from gta online for people that used mods before BE?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/661615-getting-ban-gta-online-people-mods.html)|`2024-09-25 00:31:18`|`grand-theft-auto-v`|
 |20|[Vigor internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662490-vigor-internal-cheat.html)|`2024-09-25 01:31:21`|`other-fps-games`|
+|14|[VGK Illegal &#35;PF Logger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662460-vgk-illegal-pf-logger.html)|`2024-09-25 03:00:58`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spectre Divide Advanced AHK Color Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662811-spectre-divide-advanced-ahk-color-bot.html)|`2024-09-25 02:57:00`|`Other FPS Games`|
 |[Dumping instrumentation callbacks in x64?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662802-dumping-instrumentation-callbacks-x64.html)|`2024-09-25 02:46:00`|`Anti-Cheat Bypass`|
 |[ESP with item filter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/661483-esp-item-filter.html)|`2024-09-25 02:45:00`|`DayZ SA`|
 |[SyncTree](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/659724-synctree.html)|`2024-09-25 02:44:00`|`Alternative Online Mods`|
