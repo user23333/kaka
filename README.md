@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2024-09-24 22:14:00`|`Rainbow Six Siege`|
+|[Why can't everyone be happy?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/662861-cant-happy.html)|`2024-09-24 21:59:00`|`Off Topic`|
 |[Arena Breakout Infinite Internal Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/641795-arena-breakout-infinite-internal-hack.html)|`2024-09-24 21:51:00`|`Other FPS Games`|
 |[ESP For Arean Breakout infinite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661611-esp-arean-breakout-infinite.html)|`2024-09-24 21:51:00`|`Other FPS Games`|
 |[Black Ops II Plutonium ESP &#45; Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/636292-black-ops-ii-plutonium-esp-undetected.html)|`2024-09-24 21:49:00`|`Call of Duty: Black Ops 2`|
