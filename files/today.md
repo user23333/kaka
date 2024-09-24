@@ -31,9 +31,14 @@
 |0|[Pro&#45;CS2 v1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46994)|`2024-09-24 21:56:47`|
 |2|[XianYuMods&#40;No single player mods&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46985)|`2024-09-24 23:15:42`|
 |2|[Elden Ring &#45; Offline &#45; No EAC ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46976)|`2024-09-24 23:15:42`|
+|1|[Payday3&#95;internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46980)|`2024-09-24 23:33:59`|
+|3|[DescentInternal 1&#46;1b](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46963)|`2024-09-24 23:33:59`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[OverlayCord on DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/661691-overlaycord-dma.html)|`2024-09-24 23:29:00`|`General Programming and Reversing`|
+|[How to Get DeadLock Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/660973-deadlock-offsets.html)|`2024-09-24 23:26:00`|`Deadlock`|
+|[Sker Ritual](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/634621-sker-ritual.html)|`2024-09-24 23:18:00`|`Unity`|
 |[Spectre Divide Colorbot & more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/660411-spectre-divide-colorbot.html)|`2024-09-24 23:14:00`|`Other FPS Games`|
 |[Battlefield 4 How to hide ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/662719-battlefield-4-hide-esp.html)|`2024-09-24 23:06:00`|`Battlefield 4`|
 |[Elden ring new Cheat Table &#43; Online &#40;risky&#41; &#43; CE Undetected &#43; future updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661671-elden-ring-cheat-table-online-risky-ce-undetected-future-updates.html)|`2024-09-24 23:04:00`|`Other FPS Games`|
