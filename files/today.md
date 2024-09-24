@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ea Account Generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/661121-ea-account-generator.html)|`2024-09-24 14:21:00`|`Apex Legends`|
 |[any one can update this code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/662801-update-code.html)|`2024-09-24 13:52:00`|`PUBG Mobile`|
 |[valorant dma aim/esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/654732-valorant-dma-aim-esp.html)|`2024-09-24 13:27:00`|`Valorant`|
 |[How to make chicken esp?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662463-chicken-esp.html)|`2024-09-24 13:21:00`|`Counter-Strike 2`|
