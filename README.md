@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA PUBG &#40; Chiness Version &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/657196-dma-pubg-chiness-version.html)|`2024-09-24 17:31:00`|`Playerunknown's Battlegrounds`|
 |[rigel ban after one comp game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/662335-rigel-ban-comp-game.html)|`2024-09-24 17:17:00`|`Overwatch`|
 |[SKLib sample driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/651808-sklib-sample-driver.html)|`2024-09-24 16:45:00`|`Anti-Cheat Bypass`|
 |[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2024-09-24 16:45:00`|`Grand Theft Auto V`|
