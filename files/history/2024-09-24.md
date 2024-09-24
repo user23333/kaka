@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Heist Editor v3&#46;6 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/451205-heist-editor-v3-6-external.html)|`2024-09-24 11:37:00`|`Grand Theft Auto V`|
+|[Nika &#45; Light Wieght C&#43;&#43; Linux Pasta Cheat &#45; Health Based Sense, Aimbot, TriggerBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/634402-nika-light-wieght-linux-pasta-cheat-health-based-sense-aimbot-triggerbot.html)|`2024-09-24 11:34:00`|`Apex Legends`|
+|[container esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/662820-container-esp.html)|`2024-09-24 11:31:00`|`Escape from Tarkov`|
+|[Keyauth integration for ahk script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/662747-keyauth-integration-ahk-script.html)|`2024-09-24 11:30:00`|`General Programming and Reversing`|
 |[Reclass and Cheat Engine Dissect different results](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/662360-reclass-cheat-engine-dissect-results.html)|`2024-09-24 11:27:00`|`General Programming and Reversing`|
 |[Is there a way to cheat on missionchief&#46;com?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/662807-cheat-missionchief-com.html)|`2024-09-24 11:13:00`|`Forum General`|
 |[hello have a modding tools for cart fury ps2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/662809-hello-modding-tools-cart-fury-ps2.html)|`2024-09-24 11:11:00`|`Forum General`|
