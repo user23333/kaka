@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2024-09-25 02:31:00`|`Other MMORPG and Strategy`|
+|[Injection Battleye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/661122-injection-battleye.html)|`2024-09-25 02:28:00`|`Anti-Cheat Bypass`|
+|[Bypassing "Transaction failed because inventory or price data is invalid"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662857-bypassing-transaction-failed-inventory-price-data-invalid.html)|`2024-09-25 02:24:00`|`Grand Theft Auto V`|
+|[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2024-09-25 02:21:00`|`Palia`|
+|[Age of Empires 4 SP/MP Tools](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/662897-age-empires-4-sp-mp-tools.html)|`2024-09-25 02:20:00`|`Other MMORPG and Strategy`|
 |[Battle Eye Bypasses](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662746-battle-eye-bypasses.html)|`2024-09-25 01:55:00`|`Anti-Cheat Bypass`|
 |[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2024-09-25 01:55:00`|`Other FPS Games`|
 |[Aimbot Visible Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/direct3d/662256-aimbot-visible-check.html)|`2024-09-25 01:54:00`|`Direct3D`|
