@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SKLib sample driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/651808-sklib-sample-driver.html)|`2024-09-24 16:45:00`|`Anti-Cheat Bypass`|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2024-09-24 16:45:00`|`Grand Theft Auto V`|
+|[what if i used kernel?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662842-kernel.html)|`2024-09-24 16:41:00`|`Grand Theft Auto V`|
+|[Ever since the recent apex update my game lags so bad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662841-recent-apex-update-game-lags-bad.html)|`2024-09-24 16:40:00`|`Apex Legends`|
 |[read process physical memory, no attach](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/444289-read-process-physical-memory-attach.html)|`2024-09-24 16:26:00`|`Anti-Cheat Bypass`|
 |[Need Help Understanding JMP Instruction Misinterpretation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/662840-help-understanding-jmp-instruction-misinterpretation.html)|`2024-09-24 16:22:00`|`General Programming and Reversing`|
 |[Warhammer 40,000: Space Marine 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/659896-warhammer-40-000-space-marine-2-a.html)|`2024-09-24 15:57:00`|`Other FPS Games`|
