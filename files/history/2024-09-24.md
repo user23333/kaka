@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How valorant checks tpm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662858-valorant-checks-tpm.html)|`2024-09-24 21:37:00`|`Valorant`|
+|[Bypassing "Transaction failed because inventory or price data is invalid"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662857-bypassing-transaction-failed-inventory-price-data-invalid.html)|`2024-09-24 21:35:00`|`Grand Theft Auto V`|
+|[SCP SL Cheat v13&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/611154-scp-sl-cheat-v13-3-1-a.html)|`2024-09-24 21:29:00`|`Other Games`|
 |[Rust AI aimbot model?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/662855-rust-ai-aimbot-model.html)|`2024-09-24 21:28:00`|`Rust`|
 |[ImGui Checkboxes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/269949-imgui-checkboxes.html)|`2024-09-24 21:26:00`|`General Programming and Reversing`|
 |[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2024-09-24 21:21:00`|`Farlight 84`|
