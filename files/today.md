@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dumping instrumentation callbacks in x64?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662802-dumping-instrumentation-callbacks-x64.html)|`2024-09-25 02:46:00`|`Anti-Cheat Bypass`|
+|[ESP with item filter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/661483-esp-item-filter.html)|`2024-09-25 02:45:00`|`DayZ SA`|
+|[SyncTree](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/659724-synctree.html)|`2024-09-25 02:44:00`|`Alternative Online Mods`|
+|[ARMA 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/114242-arma-3-reversal-structs-offsets.html)|`2024-09-25 02:40:00`|`ARMA 3`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2024-09-25 02:31:00`|`Other MMORPG and Strategy`|
 |[Injection Battleye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/661122-injection-battleye.html)|`2024-09-25 02:28:00`|`Anti-Cheat Bypass`|
 |[Bypassing "Transaction failed because inventory or price data is invalid"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662857-bypassing-transaction-failed-inventory-price-data-invalid.html)|`2024-09-25 02:24:00`|`Grand Theft Auto V`|
