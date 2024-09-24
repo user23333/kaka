@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Billionaire population grew&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/662986-billionaire-population-grew.html)|`2024-09-25 05:52:00`|`Off Topic`|
+|[uworld return 0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/640353-uworld-return-0-a.html)|`2024-09-25 05:44:00`|`Valorant`|
 |[Ez Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/662984-ez-dumper.html)|`2024-09-25 05:42:00`|`Call of Duty: Modern Warfare III`|
 |[How to properly ban evade](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/661676-properly-ban-evade.html)|`2024-09-25 05:41:00`|`Garry's Mod`|
 |[help in finding m&#95;hPlayerPawn offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662844-help-finding-m_hplayerpawn-offset.html)|`2024-09-25 05:41:00`|`Counter-Strike 2`|
