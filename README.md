@@ -32,9 +32,16 @@
 |198|[vgk&#45;illegal&#45;pf&#45;logger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46968)|`2024-09-25 00:31:18`|
 |7|[DescentInternal 1&#46;1b](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46963)|`2024-09-25 00:31:18`|
 |1|[Cheat Engine Table Pixel Strike 3D v5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46993)|`2024-09-25 19:20:17`|
+|1|[Bodycam Internal V0&#46;1&#46;2&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47002)|`2024-09-25 21:19:26`|
+|1|[cfemen & gir489's Satisfactory hook v1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46977)|`2024-09-25 21:19:26`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ChainedTogether Tool V&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/645154-chainedtogether-tool-1-a.html)|`2024-09-25 21:18:00`|`Other Games`|
+|[Lockdown Protocol Cheat Table v0&#46;1&#46;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/659299-lockdown-protocol-cheat-table-v0-1-26-a.html)|`2024-09-25 21:09:00`|`Other Games`|
+|[BattlEye HWID Global Ban bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/661263-battleye-hwid-global-ban-bypass.html)|`2024-09-25 21:06:00`|`DayZ SA`|
+|[Rigel / switching to kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/646323-rigel-switching-kernel.html)|`2024-09-25 21:05:00`|`Overwatch`|
+|[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2024-09-25 21:04:00`|`Elite: Dangerous`|
 |[Is this the end?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663073-is-this-the-end.html)|`2024-09-25 20:38:00`|`Grand Theft Auto V`|
 |[New Rigel External Ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/658144-rigel-external-ow2.html)|`2024-09-25 20:38:00`|`Overwatch`|
 |[Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/662476-injector.html)|`2024-09-25 20:32:00`|`Call of Duty: Modern Warfare`|
