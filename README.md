@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC CR3 Rizzing v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/659466-eac-cr3-rizzing-v2.html)|`2024-09-25 21:37:00`|`Anti-Cheat Bypass`|
+|[External playernames error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/663087-external-playernames-error.html)|`2024-09-25 21:30:00`|`Alternative Online Mods`|
 |[ChainedTogether Tool V&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/645154-chainedtogether-tool-1-a.html)|`2024-09-25 21:18:00`|`Other Games`|
 |[Lockdown Protocol Cheat Table v0&#46;1&#46;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/659299-lockdown-protocol-cheat-table-v0-1-26-a.html)|`2024-09-25 21:09:00`|`Other Games`|
 |[BattlEye HWID Global Ban bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/661263-battleye-hwid-global-ban-bypass.html)|`2024-09-25 21:06:00`|`DayZ SA`|
