@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pummel Party Debug/Cheat Mode 1&#46;14&#46;1i](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/658582-pummel-party-debug-cheat-mode-1-14-1i.html)|`2024-09-25 18:36:00`|`Other MMORPG and Strategy`|
+|[BattleEye &#40;Bans/Account Resets&#41;  for Modding in GTA V Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/661845-battleeye-bans-account-resets-modding-gta-online.html)|`2024-09-25 18:30:00`|`Grand Theft Auto V`|
 |[Pipsi&#45;ZZZ &#91; Zenless Zone Zero Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/645862-pipsi-zzz-zenless-zone-zero-cheat.html)|`2024-09-25 18:24:00`|`Other MMORPG and Strategy`|
 |[entity value](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/663054-entity-value.html)|`2024-09-25 18:14:00`|`Overwatch`|
 |[How hard is it to cheat on faceit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662584-hard-cheat-faceit.html)|`2024-09-25 17:27:00`|`Counter-Strike 2`|
