@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HVCI DISCUSSION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663068-hvci-discussion.html)|`2024-09-26 03:12:00`|`Valorant`|
+|[Jitter Aim for Controller and MnK after patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662259-jitter-aim-controller-mnk-patch.html)|`2024-09-26 03:08:00`|`Apex Legends`|
+|[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-09-26 03:05:00`|`Deadlock`|
 |[Simple cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/661473-simple-cheat.html)|`2024-09-26 02:58:00`|`Deadlock`|
 |[Any reason to switch from Pop&#95;Os ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/661723-reason-switch-pop_os.html)|`2024-09-26 02:50:00`|`Apex Legends`|
 |[Apex Legends Movement configs after newest update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662843-apex-legends-movement-configs-update.html)|`2024-09-26 02:49:00`|`Apex Legends`|
