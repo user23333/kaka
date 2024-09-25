@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-09-26 02:45:00`|`Escape from Tarkov`|
+|[ΛPEX FΞͶIX &#45; reWASD s21 cfg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/645869-pex-ix-rewasd-s21-cfg.html)|`2024-09-26 02:44:00`|`Apex Legends`|
+|[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2024-09-26 02:41:00`|`Other FPS Games`|
+|[How to bypass Battleye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662030-bypass-battleye.html)|`2024-09-26 02:40:00`|`Grand Theft Auto V`|
 |[External playernames error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/663087-external-playernames-error.html)|`2024-09-26 02:29:00`|`Alternative Online Mods`|
 |[The Hell Diver 2 team will help you farm samples: 100/100/100&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/663050-hell-diver-2-team-help-farm-samples-100-100-100-a.html)|`2024-09-26 02:29:00`|`HELLDIVERS 2`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2024-09-26 02:17:00`|`Other FPS Games`|
