@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2024-09-25 11:13:00`|`Sea of Thieves`|
+|[Boosting bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/662786-boosting-bans.html)|`2024-09-25 11:04:00`|`Sea of Thieves`|
+|[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2024-09-25 11:00:00`|`Grand Theft Auto V`|
+|[Winebot Rose Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/625663-winebot-rose-online.html)|`2024-09-25 10:52:00`|`Other MMORPG and Strategy`|
+|[Simple cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/661473-simple-cheat.html)|`2024-09-25 10:44:00`|`Deadlock`|
 |[Aim assist using a mouse?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/662680-aim-assist-using-mouse.html)|`2024-09-25 10:39:00`|`Call of Duty: Modern Warfare III`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-09-25 10:28:00`|`Playerunknown's Battlegrounds`|
 |[easy method to make Undetected Cheat Engine &#43; Driver &#43; DSE&#45;Patcher &#124; Bypass AC 2023](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/606839-easy-method-undetected-cheat-engine-driver-dse-patcher-bypass-ac-2023-a.html)|`2024-09-25 10:10:00`|`Anti-Cheat Bypass`|
