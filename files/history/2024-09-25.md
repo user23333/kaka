@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2024-09-25 09:32:00`|`Alternative Online Mods`|
+|[My CrossFirePH &#45; WallHack Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/662674-crossfireph-wallhack.html)|`2024-09-25 08:54:00`|`CrossFire`|
+|[Sai's Color Aimbot v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/659687-sais-color-aimbot-v2.html)|`2024-09-25 08:51:00`|`Call of Duty: Modern Warfare III`|
 |[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2024-09-25 07:53:00`|`Other FPS Games`|
 |[&#91;PVE&#93; Banned from Local Raids Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/660758-pve-banned-local-raids.html)|`2024-09-25 07:43:00`|`Escape from Tarkov`|
 |[Dale & Dawson Stationery Supplies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/660003-dale-dawson-stationery-supplies.html)|`2024-09-25 07:32:00`|`Other Games`|
