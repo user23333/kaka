@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How hard is it to cheat on faceit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662584-hard-cheat-faceit.html)|`2024-09-25 17:27:00`|`Counter-Strike 2`|
+|[Valorant c&#43;&#43; aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663027-valorant-aim.html)|`2024-09-25 17:26:00`|`Valorant`|
+|[Internal cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/611723-internal-cheese.html)|`2024-09-25 17:13:00`|`Payday 3`|
 |[DMA Scatter reading physical memory is laggy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662830-dma-scatter-reading-physical-memory-laggy.html)|`2024-09-25 17:10:00`|`Anti-Cheat Bypass`|
 |[Getting A VAC Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/661686-getting-vac-ban.html)|`2024-09-25 16:59:00`|`Forum General`|
 |[similar tool to ReClass&#46;NET to explore a dump?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/661901-similar-tool-reclass-net-explore-dump.html)|`2024-09-25 16:55:00`|`Forum General`|
