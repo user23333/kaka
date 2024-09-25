@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Find hud element sig](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/663036-hud-element-sig.html)|`2024-09-25 16:33:00`|`Counter-Strike 2`|
+|[Enlisted Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/447185-enlisted-reversal-structs-offsets.html)|`2024-09-25 16:31:00`|`Other FPS Games`|
 |[Fall and Halloween Banner Contest 2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/657780-fall-halloween-banner-contest-2024-a.html)|`2024-09-25 16:13:00`|`General Graphics`|
 |[How to get process physical memory range from dtb?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/663035-process-physical-memory-range-dtb.html)|`2024-09-25 16:12:00`|`General Programming and Reversing`|
 |[COD CP exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/616611-cod-cp-exploit.html)|`2024-09-25 15:02:00`|`Call of Duty: Modern Warfare III`|
