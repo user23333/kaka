@@ -31,9 +31,15 @@
 |46|[Bodycam Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46972)|`2024-09-25 00:31:18`|
 |198|[vgk&#45;illegal&#45;pf&#45;logger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46968)|`2024-09-25 00:31:18`|
 |7|[DescentInternal 1&#46;1b](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46963)|`2024-09-25 00:31:18`|
+|1|[Cheat Engine Table Pixel Strike 3D v5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46993)|`2024-09-25 19:20:17`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/465314-super-animal-royale-hack.html)|`2024-09-25 19:13:00`|`Other Games`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2024-09-25 19:10:00`|`DayZ SA`|
+|[Safe Exam Browser and DigiExam DLL hijack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/569074-safe-exam-browser-digiexam-dll-hijack.html)|`2024-09-25 19:05:00`|`Anti-Cheat Bypass`|
+|[cheat reverse engineering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/663060-cheat-reverse-engineering.html)|`2024-09-25 19:02:00`|`All Points Bulletin`|
+|[Updated No Recoil Script, All Mouse's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/603258-updated-recoil-script-mouses.html)|`2024-09-25 19:01:00`|`Rainbow Six Siege`|
 |[Vampire Survivors cheat table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/614330-vampire-survivors-cheat-table.html)|`2024-09-25 18:49:00`|`Other Games`|
 |[Pummel Party Debug/Cheat Mode 1&#46;14&#46;1i](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/658582-pummel-party-debug-cheat-mode-1-14-1i.html)|`2024-09-25 18:36:00`|`Other MMORPG and Strategy`|
 |[BattleEye &#40;Bans/Account Resets&#41;  for Modding in GTA V Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/661845-battleeye-bans-account-resets-modding-gta-online.html)|`2024-09-25 18:30:00`|`Grand Theft Auto V`|
