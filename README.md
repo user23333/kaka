@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Windows internals important topics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662784-windows-internals-topics.html)|`2024-09-25 23:42:00`|`Anti-Cheat Bypass`|
+|[Black Ops II Plutonium ESP &#45; Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/636292-black-ops-ii-plutonium-esp-undetected.html)|`2024-09-25 23:33:00`|`Call of Duty: Black Ops 2`|
 |[External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/662363-external-esp.html)|`2024-09-25 22:42:00`|`Deadlock`|
 |[Could someone help me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663092-help.html)|`2024-09-25 22:29:00`|`Grand Theft Auto V`|
 |[Aimbot Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/663090-aimbot-code.html)|`2024-09-25 22:16:00`|`Counter-Strike 2`|
