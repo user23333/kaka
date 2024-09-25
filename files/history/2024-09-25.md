@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-09-25 19:45:00`|`Deadlock`|
+|[Remote thread never finishes while unloading the DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/663056-remote-thread-finishes-unloading-dll.html)|`2024-09-25 19:40:00`|`C and C++`|
+|[Tope esp&#43;aimbot/trigger/prediction &#45; new update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/658943-tope-esp-aimbot-trigger-prediction-update.html)|`2024-09-25 19:39:00`|`Overwatch`|
 |[DEVOUR &#45; Unlock All Robes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/439326-devour-unlock-robes.html)|`2024-09-25 19:21:00`|`Other Games`|
 |[HVCI DISCUSSION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663068-hvci-discussion.html)|`2024-09-25 19:20:00`|`Valorant`|
 |[Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/465314-super-animal-royale-hack.html)|`2024-09-25 19:13:00`|`Other Games`|
