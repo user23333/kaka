@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika &#45; Light Wieght C&#43;&#43; Linux Pasta Cheat &#45; Health Based Sense, Aimbot, TriggerBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/634402-nika-light-wieght-linux-pasta-cheat-health-based-sense-aimbot-triggerbot.html)|`2024-09-26 03:53:00`|`Apex Legends`|
+|[Dead By Daylight DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/635232-dead-daylight-dma.html)|`2024-09-26 03:49:00`|`Other FPS Games`|
 |[is there an actual way to get to 1 letter name or anyname u want?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/650668-actual-1-letter-name-anyname.html)|`2024-09-26 03:42:00`|`Paladins`|
 |[Spectre Divide Advanced AHK Color Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662811-spectre-divide-advanced-ahk-color-bot.html)|`2024-09-26 03:34:00`|`Other FPS Games`|
 |[Fastest Python Valorant Triggerbot &#40;fr&#41;&#40;fr&#41;&#40;fr&#41; &#43; Addon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/641020-fastest-python-valorant-triggerbot-fr-fr-fr-addon.html)|`2024-09-26 03:33:00`|`Valorant`|
