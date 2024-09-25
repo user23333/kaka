@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA Scatter reading physical memory is laggy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662830-dma-scatter-reading-physical-memory-laggy.html)|`2024-09-25 17:10:00`|`Anti-Cheat Bypass`|
+|[Getting A VAC Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/661686-getting-vac-ban.html)|`2024-09-25 16:59:00`|`Forum General`|
+|[similar tool to ReClass&#46;NET to explore a dump?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/661901-similar-tool-reclass-net-explore-dump.html)|`2024-09-25 16:55:00`|`Forum General`|
+|[help with lua/asm script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/662874-help-lua-asm-script.html)|`2024-09-25 16:51:00`|`Forum General`|
 |[Find hud element sig](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/663036-hud-element-sig.html)|`2024-09-25 16:33:00`|`Counter-Strike 2`|
 |[Enlisted Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/447185-enlisted-reversal-structs-offsets.html)|`2024-09-25 16:31:00`|`Other FPS Games`|
 |[Fall and Halloween Banner Contest 2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/657780-fall-halloween-banner-contest-2024-a.html)|`2024-09-25 16:13:00`|`General Graphics`|
