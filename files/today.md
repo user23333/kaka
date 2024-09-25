@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[mouse&#95;event detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/663180-mouse_event-detection.html)|`2024-09-26 07:50:00`|`Rust`|
+|[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2024-09-26 07:48:00`|`Escape from Tarkov`|
+|[&#91;PVE&#93; Banned from Local Raids Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/660758-pve-banned-local-raids.html)|`2024-09-26 07:45:00`|`Escape from Tarkov`|
+|[Call of Duty: Modern Warfare III Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/605287-call-duty-modern-warfare-iii-reversal-structs-offsets.html)|`2024-09-26 07:44:00`|`Call of Duty: Modern Warfare III`|
 |[Soul Banned on Fortnite help me pls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/660786-soul-banned-fortnite-help-pls.html)|`2024-09-26 07:31:00`|`Forum General`|
 |[Battlefield 4 How to hide ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/662719-battlefield-4-hide-esp.html)|`2024-09-26 07:11:00`|`Battlefield 4`|
 |[Usermode AC Thread detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/663176-usermode-ac-thread-detection.html)|`2024-09-26 07:00:00`|`Anti-Cheat Bypass`|
