@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BrawlHalla Auto Dodge and Auto Hit &#40;Improvements coming&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/660996-brawlhalla-auto-dodge-auto-hit-improvements-coming.html)|`2024-09-26 00:51:00`|`Other Games`|
+|[Valorant Colorbot w&#46; Flickbot/Silentaim ARDINO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662557-valorant-colorbot-flickbot-silentaim-ardino.html)|`2024-09-26 00:45:00`|`Valorant`|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2024-09-26 00:43:00`|`Battlefield 4`|
+|[Arduino Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662431-arduino-help.html)|`2024-09-26 00:42:00`|`Valorant`|
+|[Internal cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/611723-internal-cheese.html)|`2024-09-26 00:40:00`|`Payday 3`|
+|[Any rust ahk macro?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/662554-rust-ahk-macro.html)|`2024-09-26 00:34:00`|`Rust`|
+|[Strinova aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/650858-strinova-aimbot.html)|`2024-09-26 00:30:00`|`Other FPS Games`|
 |[Project Zomboid Cheat &#45; EsdPZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/584072-project-zomboid-cheat-esdpz.html)|`2024-09-26 00:31:00`|`Other MMORPG and Strategy`|
 |[BattlEye HWID Global Ban bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/661263-battleye-hwid-global-ban-bypass.html)|`2024-09-26 00:29:00`|`DayZ SA`|
 |[Age of Empires 4 SP/MP Tools](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/662897-age-empires-4-sp-mp-tools.html)|`2024-09-26 00:29:00`|`Other MMORPG and Strategy`|
