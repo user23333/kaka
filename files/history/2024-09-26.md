@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust View Angle &#40; View Direction &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/663268-rust-view-angle-view-direction.html)|`2024-09-26 21:36:00`|`Rust`|
+|[The crew 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/322226-crew-2-a.html)|`2024-09-26 21:32:00`|`Other Games`|
+|[createdProjectiles in class BaseProjectile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/662732-createdprojectiles-class-baseprojectile.html)|`2024-09-26 21:21:00`|`Rust`|
 |[dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/662136-dma.html)|`2024-09-26 21:05:00`|`Sea of Thieves`|
 |[The First Descendant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/602336-descendant-reversal-structs-offsets.html)|`2024-09-26 21:01:00`|`Other FPS Games`|
 |[How to make antiaim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/645873-antiaim.html)|`2024-09-26 20:53:00`|`Counter-Strike 2`|
