@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[imgui wndproc hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/649093-imgui-wndproc-hook.html)|`2024-09-26 18:50:00`|`C and C++`|
+|[Does anyone have any idea why my BoneESP is bluescreening?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/663148-idea-boneesp-bluescreening.html)|`2024-09-26 18:45:00`|`Counter-Strike 2`|
+|[DEVOUR &#45; Unlock All Robes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/439326-devour-unlock-robes.html)|`2024-09-26 18:44:00`|`Other Games`|
 |[banned by logging into an acc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663253-banned-logging-acc.html)|`2024-09-26 18:39:00`|`Valorant`|
 |[Fix van152 & van 5 delay ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/576493-fix-van152-van-5-delay-ban.html)|`2024-09-26 18:17:00`|`Valorant`|
 |[Tope Updated &#45; Aimbot &#45; Esp &#45; prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/656643-tope-updated-aimbot-esp-prediction.html)|`2024-09-26 18:06:00`|`Overwatch`|
