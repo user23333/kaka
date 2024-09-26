@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2024-09-26 22:30:00`|`HELLDIVERS 2`|
+|[CN版本问题](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663274-cn.html)|`2024-09-26 22:29:00`|`Valorant`|
+|[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2024-09-26 22:14:00`|`Other FPS Games`|
 |[Updated IL2CPP structures &#40;update ur hack&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/663223-updated-il2cpp-structures-update-ur-hack.html)|`2024-09-26 21:41:00`|`Combat Master`|
 |[Aimbot Prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/658826-aimbot-prediction.html)|`2024-09-26 21:40:00`|`Rust`|
 |[Rust View Angle &#40; View Direction &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/663268-rust-view-angle-view-direction.html)|`2024-09-26 21:36:00`|`Rust`|
