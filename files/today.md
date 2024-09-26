@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fix van152 & van 5 delay ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/576493-fix-van152-van-5-delay-ban.html)|`2024-09-26 18:17:00`|`Valorant`|
+|[Tope Updated &#45; Aimbot &#45; Esp &#45; prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/656643-tope-updated-aimbot-esp-prediction.html)|`2024-09-26 18:06:00`|`Overwatch`|
+|[VGK Illegal &#35;PF Logger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662460-vgk-illegal-pf-logger.html)|`2024-09-26 17:59:00`|`Anti-Cheat Bypass`|
 |[Kiddion's Modest External Menu &#91;Thread 5&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/576854-kiddions-modest-external-menu-thread-5-a.html)|`2024-09-26 17:49:00`|`Grand Theft Auto V`|
 |[Once Human &#40;game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/614970-human-game.html)|`2024-09-26 17:39:00`|`Other MMORPG and Strategy`|
 |[Arduino problems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662242-arduino.html)|`2024-09-26 17:32:00`|`Valorant`|
