@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Heist Editor v3&#46;6 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/451205-heist-editor-v3-6-external.html)|`2024-09-27 07:42:00`|`Grand Theft Auto V`|
 |[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2024-09-27 06:53:00`|`Other FPS Games`|
 |[Selling HWID Banned PC / Parts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/663379-selling-hwid-banned-pc.html)|`2024-09-27 06:47:00`|`Off Topic`|
 |[what if i used kernel?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662842-kernel.html)|`2024-09-27 06:30:00`|`Grand Theft Auto V`|
