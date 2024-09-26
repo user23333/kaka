@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spectre Divide Colorbot & more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/660411-spectre-divide-colorbot.html)|`2024-09-27 05:48:00`|`Other FPS Games`|
 |[Help Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/663359-help-script.html)|`2024-09-27 05:43:00`|`General Programming and Reversing`|
 |[&#91;PVE&#93; Banned from Local Raids Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/660758-pve-banned-local-raids.html)|`2024-09-27 05:40:00`|`Escape from Tarkov`|
 |[Among Us Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/574185-cheat-table.html)|`2024-09-27 05:39:00`|`Among Us`|
