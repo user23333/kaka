@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[what if i used kernel?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662842-kernel.html)|`2024-09-27 06:30:00`|`Grand Theft Auto V`|
+|[CMLite &#124; Combat Master Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/582979-cmlite-combat-master-cheat.html)|`2024-09-27 06:27:00`|`Combat Master`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-09-27 06:18:00`|`Apex Legends`|
 |[Simple cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/661473-simple-cheat.html)|`2024-09-27 06:01:00`|`Deadlock`|
 |[Spectre Divide Colorbot & more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/660411-spectre-divide-colorbot.html)|`2024-09-27 05:48:00`|`Other FPS Games`|
