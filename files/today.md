@@ -11,6 +11,7 @@
 |11|[External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/662363-external-esp.html)|`2024-09-27 00:26:47`|`deadlock`|
 |21|[Online Enabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663128-online-enabler.html)|`2024-09-27 00:26:47`|`grand-theft-auto-v`|
 |14|[Current state of Deadlock AC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/662043-current-deadlock-ac.html)|`2024-09-27 00:26:47`|`deadlock`|
+|14|[Apex Legends universal weapons anti recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662808-apex-legends-universal-weapons-anti-recoil.html)|`2024-09-27 05:16:24`|`apex-legends`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|["Vanguard Bypass" &#40;2PC / 1PC&#41; Using the Suspend Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663283-vanguard-bypass-2pc-1pc-using-suspend-method.html)|`2024-09-27 05:04:00`|`Valorant`|
+|[Kiddion's Modest External Menu &#91;Thread 5&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/576854-kiddions-modest-external-menu-thread-5-a.html)|`2024-09-27 04:51:00`|`Grand Theft Auto V`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2024-09-27 04:50:00`|`Other FPS Games`|
+|[External Farlight 84 Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/661656-external-farlight-84-free-cheat.html)|`2024-09-27 04:48:00`|`Farlight 84`|
+|[Updating Dll References](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/663371-updating-dll-references.html)|`2024-09-27 04:46:00`|`Escape from Tarkov`|
+|[Simple CS2 Bhop &#91;C&#35;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656916-simple-cs2-bhop.html)|`2024-09-27 04:42:00`|`Counter-Strike 2`|
+|[My Hero Ultra Rumble Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/604426-hero-ultra-rumble-cheat-table.html)|`2024-09-27 04:39:00`|`Other Games`|
+|[Faceinjector help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/663370-faceinjector-help.html)|`2024-09-27 04:36:00`|`Call of Duty: Modern Warfare III`|
 |[The Texas Chainsaw Massacre External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/638980-texas-chainsaw-massacre-external-cheat.html)|`2024-09-27 03:30:00`|`Other FPS Games`|
 |[The Ultimate GTA Ban Wave](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663356-ultimate-gta-ban-wave.html)|`2024-09-27 03:18:00`|`Grand Theft Auto V`|
 |[Reversing Warden](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/663355-reversing-warden.html)|`2024-09-27 03:17:00`|`Overwatch`|
