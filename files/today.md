@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Texas Chainsaw Massacre External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/638980-texas-chainsaw-massacre-external-cheat.html)|`2024-09-27 03:30:00`|`Other FPS Games`|
+|[The Ultimate GTA Ban Wave](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663356-ultimate-gta-ban-wave.html)|`2024-09-27 03:18:00`|`Grand Theft Auto V`|
+|[Reversing Warden](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/663355-reversing-warden.html)|`2024-09-27 03:17:00`|`Overwatch`|
+|[Patience &#45; An External Linux Cheat &#91;Overlay/CLI&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/648832-patience-external-linux-cheat-overlay-cli.html)|`2024-09-27 03:16:00`|`Apex Legends`|
 |[seo64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/662767-seo64.html)|`2024-09-27 02:53:00`|`Team Fortress 2`|
 |[Dale & Dawson Stationery Supplies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/660003-dale-dawson-stationery-supplies.html)|`2024-09-27 02:53:00`|`Other Games`|
 |[Current state of Deadlock AC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/662043-current-deadlock-ac.html)|`2024-09-27 02:46:00`|`Deadlock`|
