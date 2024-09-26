@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[2017 Charm Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/662758-2017-charm-method.html)|`2024-09-26 16:24:00`|`Rainbow Six Siege`|
+|[Current state of Deadlock AC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/662043-current-deadlock-ac.html)|`2024-09-26 16:20:00`|`Deadlock`|
+|[EXTERNAL Player names](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/663231-external-player-names.html)|`2024-09-26 16:02:00`|`Alternative Online Mods`|
+|[Universal Ac bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/658736-universal-ac-bypass.html)|`2024-09-26 15:55:00`|`Anti-Cheat Bypass`|
+|[CS2 DMA Source with map parser and kmbox aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660476-cs2-dma-source-map-parser-kmbox-aimbot.html)|`2024-09-26 15:55:00`|`Counter-Strike 2`|
 |[Botting softwares after vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/662737-botting-softwares-vanguard.html)|`2024-09-26 15:00:00`|`League of Legends`|
 |[Using DWM in internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/663228-using-dwm-internal-cheat.html)|`2024-09-26 14:50:00`|`General Programming and Reversing`|
 |[Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/465314-super-animal-royale-hack.html)|`2024-09-26 14:49:00`|`Other Games`|
