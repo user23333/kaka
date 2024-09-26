@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need updated source for Rigel Prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/662903-updated-source-rigel-prediction.html)|`2024-09-26 22:58:00`|`Overwatch`|
+|[Mordhau Powerful Cheat Table &#40;Dumpers&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/663281-mordhau-powerful-cheat-table-dumpers.html)|`2024-09-26 22:56:00`|`Other FPS Games`|
+|[Paladins Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/217341-paladins-reversal-structs-offsets.html)|`2024-09-26 22:55:00`|`Paladins`|
+|[Duckside Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/641922-duckside-reversal-structs-offsets.html)|`2024-09-26 22:50:00`|`Other FPS Games`|
 |[Overwatch Geforce Now](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/663262-overwatch-geforce.html)|`2024-09-26 22:45:00`|`Overwatch`|
 |[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2024-09-26 22:30:00`|`HELLDIVERS 2`|
 |[CN版本问题](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663274-cn.html)|`2024-09-26 22:29:00`|`Valorant`|
