@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2024-09-27 01:40:00`|`Escape from Tarkov`|
+|[Online Enabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663128-online-enabler.html)|`2024-09-27 01:39:00`|`Grand Theft Auto V`|
+|[ETW Keyboard Manipulation Detection through USB packets&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/663333-etw-keyboard-manipulation-detection-usb-packets.html)|`2024-09-27 01:37:00`|`Anti-Cheat Bypass`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-09-27 01:31:00`|`Playerunknown's Battlegrounds`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2024-09-27 01:22:00`|`Counter-Strike 2`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2024-09-27 01:19:00`|`Other FPS Games`|
 |[PML4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/663154-pml4.html)|`2024-09-27 01:14:00`|`Anti-Cheat Bypass`|
