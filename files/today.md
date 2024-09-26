@@ -32,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG No recoil macro v7&#46;0 For all razer mouse using Razer synapse &#91;Undetected&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/658324-pubg-recoil-macro-v7-0-razer-mouse-using-razer-synapse-undetected.html)|`2024-09-26 20:36:00`|`PUBG Releases`|
+|[Risk of Tears &#45; Risk of Rain 2 internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/633262-risk-tears-risk-rain-2-internal-cheat.html)|`2024-09-26 20:35:00`|`Other FPS Games`|
+|[Reimu &#45; Apex Legends No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/660847-reimu-apex-legends-recoil.html)|`2024-09-26 20:35:00`|`Apex Legends`|
+|[External grenade prediction constants](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662467-external-grenade-prediction-constants.html)|`2024-09-26 20:34:00`|`Counter-Strike 2`|
+|[Assault Cube External 1&#46;3&#46;0&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/662443-assault-cube-external-1-3-0-2-a.html)|`2024-09-26 20:32:00`|`C and C++`|
+|[How to get entities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/655531-entities.html)|`2024-09-26 20:27:00`|`Deadlock`|
 |[Any way to pass through "TPM 2&#46;0" check ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/661820-pass-tpm-2-0-check.html)|`2024-09-26 19:52:00`|`Valorant`|
 |[New Rigel External Ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/658144-rigel-external-ow2.html)|`2024-09-26 19:47:00`|`Overwatch`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-09-26 19:37:00`|`Valorant`|
