@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Emulate Keyboard presses with Raspberry Pi 4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/660620-emulate-keyboard-presses-raspberry-pi-4-a.html)|`2024-09-26 16:43:00`|`Anti-Cheat Bypass`|
+|[Prevent Colorbot from locking onto dead players](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663232-prevent-colorbot-locking-onto-dead-players.html)|`2024-09-26 16:42:00`|`Valorant`|
 |[2017 Charm Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/662758-2017-charm-method.html)|`2024-09-26 16:24:00`|`Rainbow Six Siege`|
 |[Current state of Deadlock AC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/662043-current-deadlock-ac.html)|`2024-09-26 16:20:00`|`Deadlock`|
 |[EXTERNAL Player names](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/663231-external-player-names.html)|`2024-09-26 16:02:00`|`Alternative Online Mods`|
