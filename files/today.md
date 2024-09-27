@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663412-cheat.html)|`2024-09-28 06:17:00`|`Deadlock`|
+|[Simple BO1 Tool &#124; FOV &#124; Blackbird &#124; MP & SM/ZM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/663595-simple-bo1-tool-fov-blackbird-mp-sm-zm.html)|`2024-09-28 06:14:00`|`Call of Duty: Black Ops`|
+|[Tarkov Item Companion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/663594-tarkov-item-companion.html)|`2024-09-28 06:08:00`|`Escape from Tarkov`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2024-09-28 05:58:00`|`Other FPS Games`|
 |[Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/663549-offsets.html)|`2024-09-28 05:56:00`|`Alternative Online Mods`|
 |[Color aimbot and triggerbot based on C&#43;&#43;, fully UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/663392-color-aimbot-triggerbot-based-ud.html)|`2024-09-28 05:50:00`|`Overwatch`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2024-09-28 05:48:00`|`Escape from Tarkov`|
