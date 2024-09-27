@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch Geforce Now](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/663262-overwatch-geforce.html)|`2024-09-27 18:16:00`|`Overwatch`|
+|[Can I get banned for using a lag switch using clumsy?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/563254-banned-using-lag-switch-using-clumsy.html)|`2024-09-27 18:09:00`|`Valorant`|
+|[Dark and Darker Internal V2 &#43; Hwid Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/618587-dark-darker-internal-v2-hwid-spoofer.html)|`2024-09-27 18:05:00`|`Other FPS Games`|
 |[Head indexes for all characters](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/658220-head-indexes-characters.html)|`2024-09-27 17:50:00`|`Deadlock`|
 |[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2024-09-27 17:42:00`|`Other FPS Games`|
 |[faceit account in exchange for cheat for faceit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/663477-faceit-account-exchange-cheat-faceit.html)|`2024-09-27 17:41:00`|`Counter-Strike 2`|
