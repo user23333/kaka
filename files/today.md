@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Legit cheating ban risk?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663531-legit-cheating-ban-risk.html)|`2024-09-27 22:56:00`|`Valorant`|
 |[Metal Slug Awakening Steam Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/651839-metal-slug-awakening-steam-cheat.html)|`2024-09-27 22:32:00`|`Other Games`|
 |[help me run cheats on steam deck](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/663408-help-run-cheats-steam-deck.html)|`2024-09-27 22:32:00`|`Team Fortress 2`|
 |[PsSetCreateProcessNotifyRoutine / ACCESS&#95;DENIED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/663528-pssetcreateprocessnotifyroutine-access_denied.html)|`2024-09-27 22:17:00`|`General Programming and Reversing`|
