@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA/KMBox B&#43; How to read Keypresses/Hotkeys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/663523-dma-kmbox-read-keypresses-hotkeys.html)|`2024-09-27 21:28:00`|`PC Hardware`|
+|[Rigel External Manually Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/659004-rigel-external-manually-update.html)|`2024-09-27 21:24:00`|`Overwatch`|
 |[EA to apply new anti&#45;cheat patch to Battlefield 1 Date: September 1, 2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/657510-ea-apply-anti-cheat-patch-battlefield-1-date-september-1-2024-a.html)|`2024-09-27 21:04:00`|`Battlefield 1`|
 |[Make your arduino UD again](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/641022-arduino-ud.html)|`2024-09-27 20:58:00`|`Valorant`|
 |[class IRenderer externo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/663516-class-irenderer-externo.html)|`2024-09-27 20:48:00`|`Warface`|
