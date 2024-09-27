@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-09-27 12:41:00`|`Counter-Strike 2`|
 |[so How to know of this game the Offset value](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/656601-game-offset-value.html)|`2024-09-27 12:31:00`|`League of Legends`|
 |[Vigor Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662145-vigor-reversal-structs-offsets.html)|`2024-09-27 12:25:00`|`Other FPS Games`|
 |[Pro CS2 DMA &#45; Esp & Aimbot & Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656442-pro-cs2-dma-esp-aimbot-web-radar.html)|`2024-09-27 11:53:00`|`Counter-Strike 2`|
