@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2024-09-28 04:51:00`|`Other FPS Games`|
+|[Dead by Daylight &#45; Permanent Prestige](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658804-dead-daylight-permanent-prestige.html)|`2024-09-28 04:45:00`|`Other FPS Games`|
+|[Dead by Daylight &#45; Skin Unlocker and Perk Unlocker &#124; Fiddler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662687-dead-daylight-skin-unlocker-perk-unlocker-fiddler.html)|`2024-09-28 04:44:00`|`Other FPS Games`|
+|[A4tech/Bloody mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/663585-a4tech-bloody-mouse.html)|`2024-09-28 04:41:00`|`Rainbow Six Siege`|
+|[Hooking Medal Overlay Externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/516628-hooking-medal-overlay-externally.html)|`2024-09-28 04:41:00`|`Anti-Cheat Bypass`|
+|[zap&#45;client &#91;Legitbot, Ragebot, Glow, ESP & More&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/628823-zap-client-legitbot-ragebot-glow-esp.html)|`2024-09-28 04:38:00`|`Apex Legends`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-09-28 04:35:00`|`Rust`|
 |[AHK color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663420-ahk-color-aimbot.html)|`2024-09-28 04:25:00`|`Deadlock`|
 |[Stupid&#46;Solutions update/magicbullet fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/663527-stupid-solutions-update-magicbullet-fix.html)|`2024-09-28 04:25:00`|`Escape from Tarkov`|
