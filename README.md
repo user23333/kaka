@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EA to apply new anti&#45;cheat patch to Battlefield 1 Date: September 1, 2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/657510-ea-apply-anti-cheat-patch-battlefield-1-date-september-1-2024-a.html)|`2024-09-27 21:04:00`|`Battlefield 1`|
+|[Make your arduino UD again](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/641022-arduino-ud.html)|`2024-09-27 20:58:00`|`Valorant`|
+|[class IRenderer externo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/663516-class-irenderer-externo.html)|`2024-09-27 20:48:00`|`Warface`|
 |[H1EMU &#45; ESP/AIMBOT/MAGIC BULLET/TELEPORT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/614865-h1emu-esp-aimbot-magic-bullet-teleport.html)|`2024-09-27 20:30:00`|`H1Z1`|
 |[Rigel Updated Just Run It](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/659443-rigel-updated-run.html)|`2024-09-27 20:27:00`|`Overwatch`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2024-09-27 20:25:00`|`Counter-Strike 2 Releases`|
