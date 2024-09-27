@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-09-27 11:11:00`|`Valorant`|
+|[Arduino Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662431-arduino-help.html)|`2024-09-27 11:08:00`|`Valorant`|
+|[Warhammer 40,000: Space Marine 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/659896-warhammer-40-000-space-marine-2-a.html)|`2024-09-27 11:04:00`|`Other FPS Games`|
+|[Low speed DMA card](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/663346-low-speed-dma-card.html)|`2024-09-27 10:58:00`|`PC Hardware`|
 |[seownedde&#43;&#43; &#40;x64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/663393-seownedde-x64.html)|`2024-09-27 10:38:00`|`Team Fortress 2`|
 |[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2024-09-27 10:36:00`|`Other FPS Games`|
 |[Help making my own mod menu?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/662605-help-own-mod-menu.html)|`2024-09-27 10:36:00`|`Call of Duty: Black Ops 3`|
