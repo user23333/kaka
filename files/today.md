@@ -28,9 +28,12 @@
 |6|[Elden Ring &#45; Offline &#45; No EAC ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46976)|`2024-09-27 00:26:47`|
 |15|[Elden Ring &#45; Cheat Table V1&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46975)|`2024-09-27 00:26:47`|
 |8|[johanna&#46;cc&#46;deadlock&#46;by&#46;pirolo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47016)|`2024-09-27 00:46:29`|
+|2|[Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47024)|`2024-09-27 19:28:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is the owner of Yimenu arrested by the police?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663485-owner-yimenu-arrested-police.html)|`2024-09-27 19:25:00`|`Grand Theft Auto V`|
+|[BattleEye CuckStar Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/661848-battleeye-cuckstar-bypass.html)|`2024-09-27 19:19:00`|`Grand Theft Auto V`|
 |[👽 VALORANT Skin Changer &#40;Just Inject it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/517551-valorant-skin-changer-inject.html)|`2024-09-27 18:51:00`|`Valorant`|
 |[External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/662363-external-esp.html)|`2024-09-27 18:48:00`|`Deadlock`|
 |[Valorant DMA Based external Cheat&#40;Just run it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/645290-valorant-dma-based-external-cheat-run.html)|`2024-09-27 18:46:00`|`Valorant`|
