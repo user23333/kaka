@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help making my own mod menu?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/662605-help-own-mod-menu.html)|`2024-09-28 07:18:00`|`Call of Duty: Black Ops 3`|
 |[Kiddion's Modest External Menu &#91;Thread 5&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/576854-kiddions-modest-external-menu-thread-5-a.html)|`2024-09-28 07:04:00`|`Grand Theft Auto V`|
 |[Need best money method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663604-money-method.html)|`2024-09-28 06:58:00`|`Grand Theft Auto V`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2024-09-28 06:49:00`|`Counter-Strike 2`|
