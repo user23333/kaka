@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Macros with synapse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/663591-macros-synapse.html)|`2024-09-28 05:26:00`|`Apex Legends`|
 |[ETW Keyboard Manipulation Detection through USB packets&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/663333-etw-keyboard-manipulation-detection-usb-packets.html)|`2024-09-28 05:15:00`|`Anti-Cheat Bypass`|
 |[help me run cheats on steam deck](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/663408-help-run-cheats-steam-deck.html)|`2024-09-28 05:10:00`|`Team Fortress 2`|
 |[External Offsets 3&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/660170-external-offsets-3-4-a.html)|`2024-09-28 05:04:00`|`PUBG Mobile`|
