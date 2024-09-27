@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to Get DeadLock Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/660973-deadlock-offsets.html)|`2024-09-28 07:43:00`|`Deadlock`|
 |[AIMCOLOR SPECTRE DIVIDE UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662768-aimcolor-spectre-divide-ud.html)|`2024-09-28 07:05:00`|`Other FPS Games`|
 |[Help making my own mod menu?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/662605-help-own-mod-menu.html)|`2024-09-28 07:18:00`|`Call of Duty: Black Ops 3`|
 |[Kiddion's Modest External Menu &#91;Thread 5&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/576854-kiddions-modest-external-menu-thread-5-a.html)|`2024-09-28 07:04:00`|`Grand Theft Auto V`|
