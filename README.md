@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-09-28 05:40:00`|`Apex Legends`|
+|[EXTERNAL Player names](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/663231-external-player-names.html)|`2024-09-28 05:38:00`|`Alternative Online Mods`|
+|[Ban Data Collection Thread/Unban Method Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/507478-ban-data-collection-thread-unban-method-discussion.html)|`2024-09-28 05:37:00`|`Apex Legends`|
+|[Stalcraft DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/654441-stalcraft-dma.html)|`2024-09-28 05:36:00`|`Other FPS Games`|
 |[Macros with synapse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/663591-macros-synapse.html)|`2024-09-28 05:26:00`|`Apex Legends`|
 |[ETW Keyboard Manipulation Detection through USB packets&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/663333-etw-keyboard-manipulation-detection-usb-packets.html)|`2024-09-28 05:15:00`|`Anti-Cheat Bypass`|
 |[help me run cheats on steam deck](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/663408-help-run-cheats-steam-deck.html)|`2024-09-28 05:10:00`|`Team Fortress 2`|
