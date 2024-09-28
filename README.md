@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fall and Halloween Banner Contest 2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/657780-fall-halloween-banner-contest-2024-a.html)|`2024-09-28 23:09:00`|`General Graphics`|
+|[GTA:O Money Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/662566-gta-money-tool.html)|`2024-09-28 23:08:00`|`Half Life`|
+|[Anyone Have Any Cheat For Brawhalla](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/663728-cheat-brawhalla.html)|`2024-09-28 23:00:00`|`Other MMORPG and Strategy`|
+|[Genshin İmpact Shika Cheat 5&#46;0&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/660051-genshin-mpact-shika-cheat-5-0-0-1-a.html)|`2024-09-28 22:56:00`|`Genshin Impact`|
 |[Loading NaturalVision Evolved in GTA Online Causing Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/651856-loading-naturalvision-evolved-gta-online-causing-crash.html)|`2024-09-28 22:46:00`|`Grand Theft Auto V`|
 |[EAC Driver with Deobfuscated Imports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/660437-eac-driver-deobfuscated-imports.html)|`2024-09-28 22:36:00`|`Anti-Cheat Bypass`|
 |[Donation issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/663722-donation-issue.html)|`2024-09-28 22:31:00`|`Forum General`|
