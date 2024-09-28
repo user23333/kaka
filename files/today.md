@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anti&#45;Cheat Traces](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/663695-anti-cheat-traces.html)|`2024-09-28 19:22:00`|`Alternative Online Mods`|
+|[seownedde&#43;&#43; &#40;x64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/663393-seownedde-x64.html)|`2024-09-28 19:20:00`|`Team Fortress 2`|
+|[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2024-09-28 19:09:00`|`Elite: Dangerous`|
+|[Dungeon Defenders1 Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/663689-dungeon-defenders1-cheat-table.html)|`2024-09-28 19:09:00`|`Cheat Engine Tables`|
+|[R6 Credits via XBOX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/661115-r6-credits-via-xbox.html)|`2024-09-28 19:08:00`|`Rainbow Six Siege`|
 |[How to made movement fix asphyxia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/663688-movement-fix-asphyxia.html)|`2024-09-28 19:02:00`|`Counter-Strike 2`|
 |[Octavian's source erroring](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/663650-octavians-source-erroring.html)|`2024-09-28 18:30:00`|`Overwatch`|
 |[Make your arduino UD again](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/641022-arduino-ud.html)|`2024-09-28 18:27:00`|`Valorant`|
