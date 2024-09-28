@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[asphyxia inventory changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/663775-asphyxia-inventory-changer.html)|`2024-09-29 02:54:00`|`Counter-Strike 2`|
+|[Spectre Divide Advanced AHK Color Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662811-spectre-divide-advanced-ahk-color-bot.html)|`2024-09-29 02:53:00`|`Other FPS Games`|
 |[ApexCheats available for Switch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/663556-apexcheats-available-switch.html)|`2024-09-29 02:44:00`|`Apex Legends`|
 |[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2024-09-29 02:43:00`|`Grand Theft Auto V`|
 |[metin2 Server Hack&#33;&#40;Arduino&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/663774-metin2-server-hack-arduino.html)|`2024-09-29 02:43:00`|`Other Games`|
