@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Patience &#45; An External Linux Cheat &#91;Overlay/CLI&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/648832-patience-external-linux-cheat-overlay-cli.html)|`2024-09-29 07:36:00`|`Apex Legends`|
+|[BrawlHalla Auto Dodge and Auto Hit &#40;Improvements coming&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/660996-brawlhalla-auto-dodge-auto-hit-improvements-coming.html)|`2024-09-29 07:36:00`|`Other Games`|
+|[Parsing VadRoot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/663815-parsing-vadroot.html)|`2024-09-29 07:33:00`|`General Programming and Reversing`|
 |[Alternative last free version of cheat 06&#46;2020](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/458599-alternative-free-version-cheat-06-2020-a.html)|`2024-09-29 07:22:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[PVE Quest Completer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/661642-pve-quest-completer.html)|`2024-09-29 07:14:00`|`Escape from Tarkov`|
 |[writing to &#95;KPROCESS&#46;DirectoryTableBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/663808-writing-_kprocess-directorytablebase.html)|`2024-09-29 07:01:00`|`Anti-Cheat Bypass`|
