@@ -11,6 +11,7 @@
 |13|[External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/662363-external-esp.html)|`2024-09-29 00:28:06`|`deadlock`|
 |17|[Stupid&#46;Solutions update/magicbullet fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/663527-stupid-solutions-update-magicbullet-fix.html)|`2024-09-29 00:28:06`|`escape-from-tarkov`|
 |17|[Apex Legends universal weapons anti recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662808-apex-legends-universal-weapons-anti-recoil.html)|`2024-09-29 00:28:06`|`apex-legends`|
+|24|[MWIII &#43; WARZONE 3 Cheat / Blocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/663172-mwiii-warzone-3-cheat-blocker.html)|`2024-09-29 04:23:39`|`call-of-duty-modern-warfare-iii`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal Classes Confusion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/663790-internal-classes-confusion.html)|`2024-09-29 04:22:00`|`Counter-Strike 2`|
 |[How to make your hooks work again](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/663786-hooks.html)|`2024-09-29 03:56:00`|`Combat Master`|
 |[cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663412-cheat.html)|`2024-09-29 03:45:00`|`Deadlock`|
 |[Combat Master CE Godmode, MEGA XP, Instant Weapon/Player Max Level, Attachment Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/583715-combat-master-ce-godmode-mega-xp-instant-weapon-player-max-level-attachment-mod.html)|`2024-09-29 03:44:00`|`Combat Master`|
