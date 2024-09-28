@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Full Unity InputManager Functionality &#40;External Version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/663749-unity-inputmanager-functionality-external-version.html)|`2024-09-29 00:42:00`|`Escape from Tarkov`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2024-09-29 00:41:00`|`Escape from Tarkov`|
+|[Simple CMcheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/663748-simple-cmcheat.html)|`2024-09-29 00:41:00`|`Combat Master`|
+|[seo64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/662767-seo64.html)|`2024-09-29 00:35:00`|`Team Fortress 2`|
+|[Mount and blade Bannerlord AUTOAIM ESP RADAR AUTOBLOCK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/658553-mount-blade-bannerlord-autoaim-esp-radar-autoblock.html)|`2024-09-29 00:33:00`|`Other MMORPG and Strategy`|
+|[Roblox DMA cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/653168-roblox-dma-cheat.html)|`2024-09-29 00:27:00`|`Forum General`|
+|[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2024-09-29 00:26:00`|`Other FPS Games`|
 |["Laser strike" IL2CPP dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/663730-laser-strike-il2cpp-dump.html)|`2024-09-29 00:27:00`|`Combat Master`|
 |[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2024-09-29 00:26:00`|`Other FPS Games`|
 |[CHEATO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/662312-cheato.html)|`2024-09-29 00:22:00`|`Deadlock`|
