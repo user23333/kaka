@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EA Anticheat , Help please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/663629-ea-anticheat-help-please.html)|`2024-09-28 11:20:00`|`Anti-Cheat Bypass`|
+|[Arduino problems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662242-arduino.html)|`2024-09-28 11:19:00`|`Valorant`|
+|[About EAAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/663630-eaac.html)|`2024-09-28 11:13:00`|`Anti-Cheat Bypass`|
 |[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2024-09-28 11:06:00`|`Other MMORPG and Strategy`|
 |[faceit account in exchange for cheat for faceit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/663477-faceit-account-exchange-cheat-faceit.html)|`2024-09-28 11:04:00`|`Counter-Strike 2`|
 |[PML4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/663154-pml4.html)|`2024-09-28 11:01:00`|`Anti-Cheat Bypass`|
