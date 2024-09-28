@@ -24,9 +24,13 @@
 |124|[Bodycam Internal V0&#46;1&#46;2&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47002)|`2024-09-29 00:28:06`|
 |337|[Pro&#45;CS2 v1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46994)|`2024-09-29 00:28:06`|
 |94|[Cheat Engine Table Pixel Strike 3D v5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=46993)|`2024-09-29 00:28:06`|
+|3|[DescentInternal 1&#46;1c](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47033)|`2024-09-29 00:57:19`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[help me run cheats on steam deck](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/663408-help-run-cheats-steam-deck.html)|`2024-09-29 00:54:00`|`Team Fortress 2`|
+|[kdu mapper faild to map custom cheat engine driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/663739-kdu-mapper-faild-map-custom-cheat-engine-driver.html)|`2024-09-29 00:47:00`|`Anti-Cheat Bypass`|
+|[Kiddion's Modest External Menu &#91;Thread 5&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/576854-kiddions-modest-external-menu-thread-5-a.html)|`2024-09-29 00:46:00`|`Grand Theft Auto V`|
 |[Full Unity InputManager Functionality &#40;External Version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/663749-unity-inputmanager-functionality-external-version.html)|`2024-09-29 00:42:00`|`Escape from Tarkov`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2024-09-29 00:41:00`|`Escape from Tarkov`|
 |[Simple CMcheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/663748-simple-cmcheat.html)|`2024-09-29 00:41:00`|`Combat Master`|
