@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions update/magicbullet fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/663527-stupid-solutions-update-magicbullet-fix.html)|`2024-09-29 01:50:00`|`Escape from Tarkov`|
 |[Damage hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/596442-damage-hack.html)|`2024-09-29 01:42:00`|`Battlefield 1`|
 |[How to unban gta steam acount](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/593701-unban-gta-steam-acount.html)|`2024-09-29 01:33:00`|`Grand Theft Auto V`|
 |[HOW TO UPDATE STUPID&#46;SOLUTIONS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/663670-update-stupid-solutions.html)|`2024-09-29 01:32:00`|`Escape from Tarkov`|
