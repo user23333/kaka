@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-09-29 04:46:00`|`Grand Theft Auto V`|
+|[A new addition to our staff team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/663740-addition-staff-team.html)|`2024-09-29 04:45:00`|`Information and Announcements`|
+|[Project Zomboid Cheat &#45; Valkur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/645408-project-zomboid-cheat-valkur.html)|`2024-09-29 04:44:00`|`Other MMORPG and Strategy`|
 |[👽 VALORANT Skin Changer &#40;Just Inject it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/517551-valorant-skin-changer-inject.html)|`2024-09-29 04:33:00`|`Valorant`|
 |[DEEP ROCK GALACTIC &#45; ENABLE DEVELOPER CONSOLE &#45; CARGO &#45; PACKS &#45; RESOURCES &#45; XP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/609290-deep-rock-galactic-enable-developer-console-cargo-packs-resources-xp.html)|`2024-09-29 04:31:00`|`Other FPS Games`|
 |[Fastest Python Valorant Triggerbot &#40;fr&#41; Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/656929-fastest-python-valorant-triggerbot-fr-updated.html)|`2024-09-29 04:25:00`|`Valorant`|
