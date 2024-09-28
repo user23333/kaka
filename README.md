@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[unable to get module base address &#40;bsod&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/663651-unable-module-base-address-bsod.html)|`2024-09-28 14:58:00`|`General Programming and Reversing`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2024-09-28 14:27:00`|`Other FPS Games`|
 |[About the Recent "Banwave"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/663648-recent-banwave.html)|`2024-09-28 14:21:00`|`Genshin Impact`|
 |[CS2 DMA Source with map parser and kmbox aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660476-cs2-dma-source-map-parser-kmbox-aimbot.html)|`2024-09-28 13:55:00`|`Counter-Strike 2`|
