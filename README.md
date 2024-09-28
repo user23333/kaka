@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[pve cheat question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/662819-pve-cheat-question.html)|`2024-09-28 17:28:00`|`Escape from Tarkov`|
+|[Vanguard Spoofer Rev 2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612562-vanguard-spoofer-rev-2-a.html)|`2024-09-28 17:26:00`|`Valorant`|
+|[Valorant Hwid Spoofer ALL MOTHERBOARDS Very Easy &#43; DELAY BAN FİX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/644272-valorant-hwid-spoofer-motherboards-easy-delay-ban.html)|`2024-09-28 17:21:00`|`Valorant`|
+|[EA to apply new anti&#45;cheat patch to Battlefield 1 Date: September 1, 2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/657510-ea-apply-anti-cheat-patch-battlefield-1-date-september-1-2024-a.html)|`2024-09-28 17:20:00`|`Battlefield 1`|
 |[older versions of rewasd](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/663658-versions-rewasd.html)|`2024-09-28 17:01:00`|`Call of Duty: Modern Warfare III`|
 |[cheat reverse engineering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/663060-cheat-reverse-engineering.html)|`2024-09-28 16:32:00`|`All Points Bulletin`|
 |[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2024-09-28 15:52:00`|`Escape from Tarkov`|
