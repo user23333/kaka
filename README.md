@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[A new addition to our staff team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/663740-addition-staff-team.html)|`2024-09-28 23:50:00`|`Information and Announcements`|
+|[kdu mapper faild to map custom cheat engine driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/663739-kdu-mapper-faild-map-custom-cheat-engine-driver.html)|`2024-09-28 23:48:00`|`Anti-Cheat Bypass`|
 |[Apex Legends universal weapons anti recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662808-apex-legends-universal-weapons-anti-recoil.html)|`2024-09-28 23:14:00`|`Apex Legends`|
 |[A2x's CS2 Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/660221-a2xs-cs2-dumper.html)|`2024-09-28 23:13:00`|`Counter-Strike 2 Releases`|
 |[Fall and Halloween Banner Contest 2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/657780-fall-halloween-banner-contest-2024-a.html)|`2024-09-28 23:09:00`|`General Graphics`|
