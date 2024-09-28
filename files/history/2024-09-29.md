@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Alternative last free version of cheat 06&#46;2020](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/458599-alternative-free-version-cheat-06-2020-a.html)|`2024-09-29 07:22:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[PVE Quest Completer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/661642-pve-quest-completer.html)|`2024-09-29 07:14:00`|`Escape from Tarkov`|
+|[writing to &#95;KPROCESS&#46;DirectoryTableBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/663808-writing-_kprocess-directorytablebase.html)|`2024-09-29 07:01:00`|`Anti-Cheat Bypass`|
 |[How to Get DeadLock Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/660973-deadlock-offsets.html)|`2024-09-29 06:55:00`|`Deadlock`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2024-09-29 06:20:00`|`Other FPS Games`|
 |[CL&#95;Move rebuild](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/663803-cl_move-rebuild.html)|`2024-09-29 06:15:00`|`Counterstrike Global Offensive`|
