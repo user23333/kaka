@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[👽 VALORANT Skin Changer &#40;Just Inject it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/517551-valorant-skin-changer-inject.html)|`2024-09-29 04:33:00`|`Valorant`|
+|[DEEP ROCK GALACTIC &#45; ENABLE DEVELOPER CONSOLE &#45; CARGO &#45; PACKS &#45; RESOURCES &#45; XP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/609290-deep-rock-galactic-enable-developer-console-cargo-packs-resources-xp.html)|`2024-09-29 04:31:00`|`Other FPS Games`|
+|[Fastest Python Valorant Triggerbot &#40;fr&#41; Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/656929-fastest-python-valorant-triggerbot-fr-updated.html)|`2024-09-29 04:25:00`|`Valorant`|
 |[Internal Classes Confusion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/663790-internal-classes-confusion.html)|`2024-09-29 04:22:00`|`Counter-Strike 2`|
 |[How to make your hooks work again](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/663786-hooks.html)|`2024-09-29 03:56:00`|`Combat Master`|
 |[cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663412-cheat.html)|`2024-09-29 03:45:00`|`Deadlock`|
