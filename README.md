@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Aimbot Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/663090-aimbot-code.html)|`2024-09-29 03:42:00`|`Counter-Strike 2`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-09-29 03:40:00`|`Rust`|
+|[How to make a Triggerbot step by step](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663652-triggerbot-step-step.html)|`2024-09-29 03:40:00`|`Valorant`|
+|[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2024-09-29 03:37:00`|`Palia`|
+|[COD CP exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/616611-cod-cp-exploit.html)|`2024-09-29 03:36:00`|`Call of Duty: Modern Warfare III`|
 |[Tarkov Item Companion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/663594-tarkov-item-companion.html)|`2024-09-29 03:30:00`|`Escape from Tarkov`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2024-09-29 03:18:00`|`Overwatch`|
 |[Vanguard literally killed this section&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/663631-vanguard-literally-killed-section.html)|`2024-09-29 03:18:00`|`League of Legends`|
