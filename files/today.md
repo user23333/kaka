@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2024-09-28 20:18:00`|`HELLDIVERS 2`|
+|[MTASA: interception, decryption and spoofing UDP traffic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/651138-mtasa-interception-decryption-spoofing-udp-traffic.html)|`2024-09-28 20:12:00`|`Anti-Cheat Bypass`|
+|[inject dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/663705-inject-dll.html)|`2024-09-28 20:07:00`|`PUBG Mobile`|
 |[about AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662127-ahk.html)|`2024-09-28 19:45:00`|`Apex Legends`|
 |[Legit player ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663701-legit-player-ban.html)|`2024-09-28 19:43:00`|`Grand Theft Auto V`|
 |[cheat /mod menu combat master](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/663622-cheat-mod-menu-combat-master.html)|`2024-09-28 19:41:00`|`Combat Master`|
