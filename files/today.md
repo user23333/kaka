@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[C&#43;&#43; Updater Class for CS2 Offsets &#45; Automatic File Management](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/663915-updater-class-cs2-offsets-automatic-file-management.html)|`2024-09-29 17:17:00`|`Counter-Strike 2`|
+|[P100 DLL Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/518015-p100-dll-injector.html)|`2024-09-29 17:09:00`|`Valorant`|
+|[Current state of Deadlock AC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/662043-current-deadlock-ac.html)|`2024-09-29 17:04:00`|`Deadlock`|
 |[SVG and VPK data](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/663654-svg-vpk-data.html)|`2024-09-29 16:59:00`|`Counter-Strike 2`|
 |[Landlord worship song](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/658396-landlord-worship-song.html)|`2024-09-29 16:22:00`|`Off Topic`|
 |[First post, saying hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/663844-post-saying-hello.html)|`2024-09-29 16:17:00`|`Forum General`|
