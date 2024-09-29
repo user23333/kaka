@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Colorbot w&#46; Flickbot/Silentaim ARDINO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662557-valorant-colorbot-flickbot-silentaim-ardino.html)|`2024-09-30 01:53:00`|`Valorant`|
+|[Keybind for triggerbot flagged ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663924-keybind-triggerbot-flagged.html)|`2024-09-30 01:47:00`|`Valorant`|
+|[Does deadlock HWID or IP banned ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/660743-deadlock-hwid-ip-banned.html)|`2024-09-30 01:45:00`|`Deadlock`|
+|[&#91;STEAM&#93; TCSM Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/649480-steam-tcsm-internal-cheat.html)|`2024-09-30 01:44:00`|`Other Games`|
+|[Current state of Deadlock AC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/662043-current-deadlock-ac.html)|`2024-09-30 01:42:00`|`Deadlock`|
 |[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2024-09-30 01:35:00`|`Palia`|
 |[Vigor internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662490-vigor-internal-cheat.html)|`2024-09-30 01:28:00`|`Other FPS Games`|
 |[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-09-30 01:27:00`|`Escape from Tarkov`|
