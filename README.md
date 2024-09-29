@@ -13,6 +13,7 @@
 |17|[Apex Legends universal weapons anti recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662808-apex-legends-universal-weapons-anti-recoil.html)|`2024-09-29 00:28:06`|`apex-legends`|
 |24|[MWIII &#43; WARZONE 3 Cheat / Blocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/663172-mwiii-warzone-3-cheat-blocker.html)|`2024-09-29 04:23:39`|`call-of-duty-modern-warfare-iii`|
 |11|[Is this the end?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663073-is-this-the-end.html)|`2024-09-29 12:21:24`|`grand-theft-auto-v`|
+|67|[HOW TO UPDATE STUPID&#46;SOLUTIONS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/663670-update-stupid-solutions.html)|`2024-09-29 13:57:30`|`escape-from-tarkov`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
