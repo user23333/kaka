@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Drug/market coords](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/664044-drug-market-coords.html)|`2024-09-30 05:52:00`|`Alternative Online Mods`|
+|[Anyone Got A Spare Reciept?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662422-spare-reciept.html)|`2024-09-30 05:46:00`|`Apex Legends`|
 |[CS2 Internal Cheat Undetected: Fusion&#45;CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/662361-cs2-internal-cheat-undetected-fusion-cs2.html)|`2024-09-30 05:37:00`|`Counter-Strike 2 Releases`|
 |[Cheat Legit &#43; UD &#43; auto&#45;update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/660280-cheat-legit-ud-auto-update.html)|`2024-09-30 05:31:00`|`Among Us`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-09-30 05:27:00`|`Apex Legends`|
