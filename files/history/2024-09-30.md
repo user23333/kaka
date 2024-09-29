@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Game hacking with Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/664048-game-hacking-python.html)|`2024-09-30 06:35:00`|`General Programming and Reversing`|
+|[Silent chair mw3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/663811-silent-chair-mw3.html)|`2024-09-30 06:31:00`|`Call of Duty: Modern Warfare III`|
+|[kdu mapper faild to map custom cheat engine driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/663739-kdu-mapper-faild-map-custom-cheat-engine-driver.html)|`2024-09-30 06:22:00`|`Anti-Cheat Bypass`|
 |[cfemen & gir489's Satisfactory Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661834-cfemen-gir489s-satisfactory-cheat.html)|`2024-09-30 06:12:00`|`Other FPS Games`|
 |[Team Fortress 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/102936-team-fortress-2-reversal-structs-offsets.html)|`2024-09-30 06:11:00`|`Team Fortress 2`|
 |[Company of Heroes 3 maphack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/663169-company-heroes-3-maphack.html)|`2024-09-30 06:05:00`|`Other MMORPG and Strategy`|
