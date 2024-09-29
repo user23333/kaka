@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How find GUI controls of Windows program?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/663838-gui-controls-windows-program.html)|`2024-09-29 15:59:00`|`General Programming and Reversing`|
+|[OnceHuman Offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/663836-oncehuman-offsets.html)|`2024-09-29 15:54:00`|`Other MMORPG and Strategy`|
+|[Previous Game Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663095-previous-game-files.html)|`2024-09-29 15:50:00`|`Grand Theft Auto V`|
+|[Silent chair mw3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/663811-silent-chair-mw3.html)|`2024-09-29 15:49:00`|`Call of Duty: Modern Warfare III`|
 |[ZRK Multihack Updates Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/663860-zrk-multihack-updates-cheat.html)|`2024-09-29 15:47:00`|`Counter-Strike 2`|
 |[New anticheat and autoit cheats ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/654890-anticheat-autoit-cheats.html)|`2024-09-29 15:47:00`|`All Points Bulletin`|
 |[Aim assit controler emulador](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/657895-aim-assit-controler-emulador.html)|`2024-09-29 15:33:00`|`Call of Duty: Modern Warfare III`|
