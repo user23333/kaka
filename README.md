@@ -32,6 +32,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[REAL WORKING DUPE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/661677-real-dupe.html)|`2024-09-30 07:21:00`|`Escape from Tarkov`|
+|[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2024-09-30 07:17:00`|`Other FPS Games`|
+|[Any way to pass through "TPM 2&#46;0" check ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/661820-pass-tpm-2-0-check.html)|`2024-09-30 07:15:00`|`Valorant`|
+|[EXTERNAL PLAYERNAMES INVALID??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/663843-external-playernames-invalid.html)|`2024-09-30 07:14:00`|`Alternative Online Mods`|
+|[Linux &#45; Bypassing VAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/634811-linux-bypassing-vac.html)|`2024-09-30 07:12:00`|`Counter-Strike 2`|
+|[Heist Editor v3&#46;6 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/451205-heist-editor-v3-6-external.html)|`2024-09-30 07:06:00`|`Grand Theft Auto V`|
+|[Shadow banned once a month, how to avoid?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/664051-shadow-banned-month-avoid.html)|`2024-09-30 07:05:00`|`Call of Duty: Modern Warfare III`|
+|[Recoil Helpy &#91;GHUB&#93;&#91;Mouse only&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/610096-recoil-helpy-ghub-mouse.html)|`2024-09-30 07:04:00`|`Rainbow Six Siege`|
 |[PalHax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/623563-palhax.html)|`2024-09-30 06:48:00`|`Palworld`|
 |[Game hacking with Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/664048-game-hacking-python.html)|`2024-09-30 06:35:00`|`General Programming and Reversing`|
 |[Silent chair mw3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/663811-silent-chair-mw3.html)|`2024-09-30 06:31:00`|`Call of Duty: Modern Warfare III`|
