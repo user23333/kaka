@@ -28,9 +28,16 @@
 |1|[My Hero Ultra Rumble V13 Hitlerjoe&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47043)|`2024-09-30 01:12:25`|
 |1|[DeltaForceMCN&#95;SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47049)|`2024-09-30 01:29:42`|
 |1|[synapse4Macros](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47046)|`2024-09-30 01:29:42`|
+|2|[Menu V8 &#43; NoClip & Fly CT ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47070)|`2024-09-30 02:27:58`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-09-30 02:26:00`|`Rust`|
+|[Mordhau Powerful Cheat Table &#40;Dumpers&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/663281-mordhau-powerful-cheat-table-dumpers.html)|`2024-09-30 02:22:00`|`Other FPS Games`|
+|[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-09-30 02:13:00`|`Counter-Strike 2`|
+|[Patience &#45; An External Linux Cheat &#91;Overlay/CLI&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/648832-patience-external-linux-cheat-overlay-cli.html)|`2024-09-30 02:09:00`|`Apex Legends`|
+|[HOW TO UPDATE STUPID&#46;SOLUTIONS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/663670-update-stupid-solutions.html)|`2024-09-30 02:05:00`|`Escape from Tarkov`|
+|[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2024-09-30 02:02:00`|`Sea of Thieves`|
 |[Valorant Colorbot w&#46; Flickbot/Silentaim ARDINO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662557-valorant-colorbot-flickbot-silentaim-ardino.html)|`2024-09-30 01:53:00`|`Valorant`|
 |[Keybind for triggerbot flagged ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663924-keybind-triggerbot-flagged.html)|`2024-09-30 01:47:00`|`Valorant`|
 |[Does deadlock HWID or IP banned ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/660743-deadlock-hwid-ip-banned.html)|`2024-09-30 01:45:00`|`Deadlock`|
