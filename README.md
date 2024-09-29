@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions DLL File Q&A](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/663788-stupid-solutions-dll-file.html)|`2024-09-29 10:27:00`|`Escape from Tarkov`|
+|[Color aimbot and triggerbot based on C&#43;&#43;, fully UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/663392-color-aimbot-triggerbot-based-ud.html)|`2024-09-29 10:01:00`|`Overwatch`|
+|[Taxation &#45; Government mandated assault on wealth](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/663832-taxation-government-mandated-assault-wealth.html)|`2024-09-29 09:58:00`|`Off Topic`|
+|[MWIII &#43; WARZONE 3 Cheat / Blocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/663172-mwiii-warzone-3-cheat-blocker.html)|`2024-09-29 09:30:00`|`Call of Duty: Modern Warfare III`|
 |[DEVOUR &#45; Unlock All Robes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/439326-devour-unlock-robes.html)|`2024-09-29 08:55:00`|`Other Games`|
 |[StoopidCheat v3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656984-stoopidcheat-v3.html)|`2024-09-29 08:18:00`|`Escape from Tarkov`|
 |[External Farlight 84 Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/661656-external-farlight-84-free-cheat.html)|`2024-09-29 08:16:00`|`Farlight 84`|
