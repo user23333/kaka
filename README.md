@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARMA 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/114242-arma-3-reversal-structs-offsets.html)|`2024-09-29 22:56:00`|`ARMA 3`|
+|[Recoil Helpy &#91;GHUB&#93;&#91;Mouse only&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/610096-recoil-helpy-ghub-mouse.html)|`2024-09-29 22:53:00`|`Rainbow Six Siege`|
 |[inject dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/663705-inject-dll.html)|`2024-09-29 22:46:00`|`PUBG Mobile`|
 |[Throne and Liberty Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/649981-throne-liberty-reversal-structs-offsets.html)|`2024-09-29 22:41:00`|`Other MMORPG and Strategy`|
 |[F1 23 Online &#45; FULL BYPASS &#45; ENGINE POWER / GRIP HACK AND MORE&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/566121-f1-23-online-bypass-engine-power-grip-hack.html)|`2024-09-29 22:38:00`|`Other Games`|
