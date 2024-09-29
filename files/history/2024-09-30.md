@@ -32,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Internal Cheat Undetected: Fusion&#45;CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/662361-cs2-internal-cheat-undetected-fusion-cs2.html)|`2024-09-30 05:37:00`|`Counter-Strike 2 Releases`|
+|[Cheat Legit &#43; UD &#43; auto&#45;update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/660280-cheat-legit-ud-auto-update.html)|`2024-09-30 05:31:00`|`Among Us`|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-09-30 05:27:00`|`Apex Legends`|
+|[Spoofing , what im doing wrong](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663814-spoofing-im-doing-wrong.html)|`2024-09-30 05:20:00`|`Valorant`|
+|[AHK triggerbots no longer work in Valorant?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663978-ahk-triggerbots-valorant.html)|`2024-09-30 05:11:00`|`Valorant`|
+|[Dupe method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/661510-dupe-method.html)|`2024-09-30 05:10:00`|`Escape from Tarkov`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-09-30 05:06:00`|`Grand Theft Auto V`|
 |[Lockdown Protocol Cheat Table v0&#46;1&#46;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/659299-lockdown-protocol-cheat-table-v0-1-26-a.html)|`2024-09-30 04:50:00`|`Other Games`|
 |[COD CP exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/616611-cod-cp-exploit.html)|`2024-09-30 04:45:00`|`Call of Duty: Modern Warfare III`|
