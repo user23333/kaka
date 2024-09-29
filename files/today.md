@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PalHax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/623563-palhax.html)|`2024-09-30 06:48:00`|`Palworld`|
 |[Game hacking with Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/664048-game-hacking-python.html)|`2024-09-30 06:35:00`|`General Programming and Reversing`|
 |[Silent chair mw3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/663811-silent-chair-mw3.html)|`2024-09-30 06:31:00`|`Call of Duty: Modern Warfare III`|
 |[kdu mapper faild to map custom cheat engine driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/663739-kdu-mapper-faild-map-custom-cheat-engine-driver.html)|`2024-09-30 06:22:00`|`Anti-Cheat Bypass`|
