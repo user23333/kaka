@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Landlord worship song](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/658396-landlord-worship-song.html)|`2024-09-29 16:22:00`|`Off Topic`|
+|[First post, saying hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/663844-post-saying-hello.html)|`2024-09-29 16:17:00`|`Forum General`|
 |[How find GUI controls of Windows program?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/663838-gui-controls-windows-program.html)|`2024-09-29 15:59:00`|`General Programming and Reversing`|
 |[OnceHuman Offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/663836-oncehuman-offsets.html)|`2024-09-29 15:54:00`|`Other MMORPG and Strategy`|
 |[Previous Game Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663095-previous-game-files.html)|`2024-09-29 15:50:00`|`Grand Theft Auto V`|
