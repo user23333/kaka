@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2024-09-29 21:01:00`|`Alternative Online Mods`|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-09-29 20:56:00`|`Apex Legends`|
+|[DeadSide UserMode C&#43;&#43; Ghetto Wallhack &#43; Speedhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/637082-deadside-usermode-ghetto-wallhack-speedhack.html)|`2024-09-29 20:54:00`|`Other Games`|
 |[about AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662127-ahk.html)|`2024-09-29 19:55:00`|`Apex Legends`|
 |[Legit cheating ban risk?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663531-legit-cheating-ban-risk.html)|`2024-09-29 19:48:00`|`Valorant`|
 |[2017 Charm Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/662758-2017-charm-method.html)|`2024-09-29 19:24:00`|`Rainbow Six Siege`|
