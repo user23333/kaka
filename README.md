@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[inject dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/663705-inject-dll.html)|`2024-09-29 22:46:00`|`PUBG Mobile`|
+|[Throne and Liberty Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/649981-throne-liberty-reversal-structs-offsets.html)|`2024-09-29 22:41:00`|`Other MMORPG and Strategy`|
+|[F1 23 Online &#45; FULL BYPASS &#45; ENGINE POWER / GRIP HACK AND MORE&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/566121-f1-23-online-bypass-engine-power-grip-hack.html)|`2024-09-29 22:38:00`|`Other Games`|
+|[the first descendant CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/663964-descendant-cheat-engine.html)|`2024-09-29 22:38:00`|`Other FPS Games`|
 |[dayz source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651347-dayz-source.html)|`2024-09-29 22:27:00`|`DayZ SA`|
 |[Assault Cube ESP&#45;RADAR&#45;AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/663958-assault-cube-esp-radar-aim.html)|`2024-09-29 22:22:00`|`Other Games`|
 |[faceit account in exchange for cheat for faceit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/663477-faceit-account-exchange-cheat-faceit.html)|`2024-09-29 22:15:00`|`Counter-Strike 2`|
