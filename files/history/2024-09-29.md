@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Once Human &#40;game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/614970-human-game.html)|`2024-09-29 18:42:00`|`Other MMORPG and Strategy`|
 |[Inject Hack Gameloop EN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/662716-inject-hack-gameloop-en.html)|`2024-09-29 18:12:00`|`PUBG Mobile`|
 |[C&#35; Valorant Color Aimbot &#124; UI and Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/389766-valorant-color-aimbot-ui-source.html)|`2024-09-29 18:07:00`|`Valorant`|
 |[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2024-09-29 18:06:00`|`Elite: Dangerous`|
