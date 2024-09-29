@@ -36,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking for console cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/663974-looking-console-cheat.html)|`2024-09-29 23:24:00`|`Apex Legends`|
+|[unlock all tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/624879-unlock-tool.html)|`2024-09-29 23:18:00`|`Call of Duty: Black Ops Cold War`|
+|[Money tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/645124-money-tool.html)|`2024-09-29 23:16:00`|`Payday 3`|
+|[TX&#45;Admin Unban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/663968-tx-admin-unban.html)|`2024-09-29 23:13:00`|`Alternative Online Mods`|
+|[How to learn c&#43;&#43; and making cheats as a beginner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/468583-learn-cheats-beginner.html)|`2024-09-29 23:06:00`|`Programming for Beginners`|
 |[ARMA 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/114242-arma-3-reversal-structs-offsets.html)|`2024-09-29 22:56:00`|`ARMA 3`|
 |[Recoil Helpy &#91;GHUB&#93;&#91;Mouse only&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/610096-recoil-helpy-ghub-mouse.html)|`2024-09-29 22:53:00`|`Rainbow Six Siege`|
 |[inject dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/663705-inject-dll.html)|`2024-09-29 22:46:00`|`PUBG Mobile`|
