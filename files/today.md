@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SVG and VPK data](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/663654-svg-vpk-data.html)|`2024-09-29 16:59:00`|`Counter-Strike 2`|
 |[Landlord worship song](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/658396-landlord-worship-song.html)|`2024-09-29 16:22:00`|`Off Topic`|
 |[First post, saying hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/663844-post-saying-hello.html)|`2024-09-29 16:17:00`|`Forum General`|
 |[How find GUI controls of Windows program?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/663838-gui-controls-windows-program.html)|`2024-09-29 15:59:00`|`General Programming and Reversing`|
