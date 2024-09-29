@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Ultimate GTA Ban Wave](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663356-ultimate-gta-ban-wave.html)|`2024-09-30 04:30:00`|`Grand Theft Auto V`|
+|[Do I have to learn all the windows API in order to make cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/664009-learn-windows-api-cheats.html)|`2024-09-30 04:29:00`|`Forum General`|
+|[Valorant DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664033-valorant-dma-source.html)|`2024-09-30 04:27:00`|`Valorant`|
 |[A&#46;I&#46; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/663992-aimbot.html)|`2024-09-30 04:22:00`|`C and C++`|
 |[glow is broken&#46;&#46;&#46;help me sir](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/654961-glow-broken-help-sir.html)|`2024-09-30 04:21:00`|`Apex Legends`|
 |[Wicked Menu / Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/487033-wicked-menu-cheat-engine.html)|`2024-09-30 04:10:00`|`Grand Theft Auto V`|
