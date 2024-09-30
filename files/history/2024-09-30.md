@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Legit cheating ban risk?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663531-legit-cheating-ban-risk.html)|`2024-09-30 18:32:00`|`Valorant`|
+|[Is this enough for a safe server license?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/664174-safe-server-license.html)|`2024-09-30 18:19:00`|`Programming for Beginners`|
 |[Tom Clancys XDefiant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/xdefiant/464903-tom-clancys-xdefiant-reversal-structs-offsets.html)|`2024-09-30 18:04:00`|`xDefiant`|
 |[Spoofing Harddrive](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664173-spoofing-harddrive.html)|`2024-09-30 18:02:00`|`Valorant`|
 |[Night crows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/627465-night-crows.html)|`2024-09-30 17:22:00`|`Other MMORPG and Strategy`|
