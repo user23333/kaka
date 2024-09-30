@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nimrod Source Code &#40; NINTE X &#41; &#40; MEGA SOURCE LEAK &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/662717-nimrod-source-code-ninte-mega-source-leak.html)|`2024-09-30 23:53:00`|`PUBG Mobile`|
+|[Random Dice Client&#45;Side Resources](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/664225-random-dice-client-resources.html)|`2024-09-30 23:51:00`|`Android`|
+|[Yolov5 Enemy Detection Models for AI AIMBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/634345-yolov5-enemy-detection-models-ai-aimbot.html)|`2024-09-30 23:48:00`|`Rainbow Six Siege`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2024-09-30 23:45:00`|`Escape from Tarkov`|
 |[Play Together/Rank Boosting Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/353364-play-rank-boosting-thread.html)|`2024-09-30 23:30:00`|`Apex Legends`|
 |[How do I make a Rigel aimbot smooth?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/664224-rigel-aimbot-smooth.html)|`2024-09-30 23:30:00`|`Overwatch`|
