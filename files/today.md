@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Taxation &#45; Government mandated assault on wealth](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/663832-taxation-government-mandated-assault-wealth.html)|`2024-09-30 08:38:00`|`Off Topic`|
+|[Call of Duty: Modern Warfare III Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/605287-call-duty-modern-warfare-iii-reversal-structs-offsets.html)|`2024-09-30 08:33:00`|`Call of Duty: Modern Warfare III`|
+|[Font Scaling?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/664092-font-scaling.html)|`2024-09-30 08:13:00`|`Counter-Strike 2`|
+|[C&#43;&#43; Manual Map reallocation issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/664099-manual-map-reallocation-issue.html)|`2024-09-30 08:04:00`|`C and C++`|
 |[VAN RESTRICTION 3: Boot device verification failed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664012-van-restriction-3-boot-device-verification-failed.html)|`2024-09-30 07:35:00`|`Valorant`|
 |[REAL WORKING DUPE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/661677-real-dupe.html)|`2024-09-30 07:21:00`|`Escape from Tarkov`|
 |[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2024-09-30 07:17:00`|`Other FPS Games`|
