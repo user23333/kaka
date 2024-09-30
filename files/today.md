@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2024-09-30 20:37:00`|`Counter-Strike 2`|
+|[Knockout Rumble Bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/664186-knockout-rumble-bug.html)|`2024-09-30 20:36:00`|`Apex Legends`|
+|[Reversing Warden](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/663355-reversing-warden.html)|`2024-09-30 20:30:00`|`Overwatch`|
+|[Color aimbot and triggerbot based on C&#43;&#43;, fully UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/663392-color-aimbot-triggerbot-based-ud.html)|`2024-09-30 20:18:00`|`Overwatch`|
 |[dumper 7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/663928-dumper-7-a.html)|`2024-09-30 19:42:00`|`C and C++`|
 |[Legit cheating ban risk?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663531-legit-cheating-ban-risk.html)|`2024-09-30 18:32:00`|`Valorant`|
 |[Is this enough for a safe server license?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/664174-safe-server-license.html)|`2024-09-30 18:19:00`|`Programming for Beginners`|
