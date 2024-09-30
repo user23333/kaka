@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rigel Updated Just Run It](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/659443-rigel-updated-run.html)|`2024-09-30 22:42:00`|`Overwatch`|
+|[Latest Weapon ID's for GLOW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/664216-weapon-ids-glow.html)|`2024-09-30 22:38:00`|`Apex Legends`|
 |[Particle Colors&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/664178-particle-colors.html)|`2024-09-30 22:30:00`|`Counter-Strike 2`|
 |[XianYuMods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/661692-xianyumods.html)|`2024-09-30 22:27:00`|`Payday 3`|
 |[Python Triggerbot with Physical Click Detectability](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664211-python-triggerbot-physical-click-detectability.html)|`2024-09-30 22:24:00`|`Valorant`|
