@@ -29,9 +29,17 @@
 |1|[DeltaForceMCN&#95;SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47049)|`2024-09-30 01:29:42`|
 |1|[synapse4Macros](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47046)|`2024-09-30 01:29:42`|
 |2|[Menu V8 &#43; NoClip & Fly CT ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47070)|`2024-09-30 02:27:58`|
+|7|[CombatMaster v0&#46;18&#46;38 by ZoDDeL&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47080)|`2024-09-30 21:45:41`|
+|0|[SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47077)|`2024-09-30 21:45:41`|
+|11|[rabbit&#45;val](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47055)|`2024-09-30 21:45:41`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2024-09-30 21:43:00`|`Sea of Thieves`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2024-09-30 21:42:00`|`League of Legends`|
+|[About the Recent "Banwave"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/663648-recent-banwave.html)|`2024-09-30 21:34:00`|`Genshin Impact`|
+|[Free Crossfire Cheats still available?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/651367-free-crossfire-cheats-available.html)|`2024-09-30 21:20:00`|`CrossFire`|
+|[Visibility Check Too Slow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/663955-visibility-check-slow.html)|`2024-09-30 21:19:00`|`Counter-Strike 2`|
 |[Rocket League wintrade ban wave](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/658239-rocket-league-wintrade-ban-wave.html)|`2024-09-30 20:59:00`|`Other Games`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2024-09-30 20:37:00`|`Counter-Strike 2`|
 |[Knockout Rumble Bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/664186-knockout-rumble-bug.html)|`2024-09-30 20:36:00`|`Apex Legends`|
