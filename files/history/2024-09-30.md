@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need best money method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663604-money-method.html)|`2024-09-30 12:39:00`|`Grand Theft Auto V`|
+|[Does frosty mod manager work with bf1 since the anticheat update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/664142-frosty-mod-manager-bf1-anticheat-update.html)|`2024-09-30 12:38:00`|`Battlefield 1`|
 |[Knight online packet sniff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/663799-knight-online-packet-sniff.html)|`2024-09-30 11:34:00`|`Other MMORPG and Strategy`|
 |[Simple CS2 Bhop &#91;C&#35;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656916-simple-cs2-bhop.html)|`2024-09-30 11:20:00`|`Counter-Strike 2`|
 |[Pixel Gun 3D Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/663707-pixel-gun-3d-cheat-engine-table.html)|`2024-09-30 11:03:00`|`Cheat Engine Tables`|
