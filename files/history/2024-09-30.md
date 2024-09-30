@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vanguard Spoofer Rev 2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612562-vanguard-spoofer-rev-2-a.html)|`2024-09-30 14:46:00`|`Valorant`|
 |[cannot loop fnamepool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/664153-loop-fnamepool.html)|`2024-09-30 14:42:00`|`Unreal Engine 4`|
 |[Roblox DMA cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/653168-roblox-dma-cheat.html)|`2024-09-30 14:34:00`|`Forum General`|
 |[Question regarding PresentPattern](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/664148-question-regarding-presentpattern.html)|`2024-09-30 14:27:00`|`Garry's Mod`|
