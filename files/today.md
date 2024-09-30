@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Night crows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/627465-night-crows.html)|`2024-09-30 17:22:00`|`Other MMORPG and Strategy`|
 |[aim assist doesn't work at all](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664168-aim-assist-doesnt.html)|`2024-09-30 17:16:00`|`Valorant`|
 |[My beginner tarkov DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/629124-beginner-tarkov-dma.html)|`2024-09-30 16:52:00`|`Escape from Tarkov`|
 |[How to learn c&#43;&#43; and making cheats as a beginner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/468583-learn-cheats-beginner.html)|`2024-09-30 16:49:00`|`Programming for Beginners`|
