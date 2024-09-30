@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dumper&#45;7 &#45; A universal, automatic Unreal Engine SDK Generator for UE4 and UE5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/594092-dumper-7-universal-automatic-unreal-engine-sdk-generator-ue4-ue5.html)|`2024-10-01 02:30:00`|`Unreal Engine 4`|
+|[Python Triggerbot with Physical Click Detectability](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664211-python-triggerbot-physical-click-detectability.html)|`2024-10-01 02:19:00`|`Valorant`|
+|[Valorant detections ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664210-valorant-detections.html)|`2024-10-01 02:18:00`|`Anti-Cheat Bypass`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2024-10-01 02:16:00`|`League of Legends`|
+|[Tom Clancys XDefiant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/xdefiant/464903-tom-clancys-xdefiant-reversal-structs-offsets.html)|`2024-10-01 02:16:00`|`xDefiant`|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-10-01 02:14:00`|`Apex Legends`|
+|[Apex&#45;NoRecoil&#40;only work on EA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/661151-apex-norecoil-ea.html)|`2024-10-01 02:14:00`|`Apex Legends`|
 |[compare proto item data and name](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/664255-compare-proto-item-data-name.html)|`2024-10-01 01:56:00`|`Counter-Strike 2`|
 |[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2024-10-01 01:48:00`|`Other FPS Games`|
 |[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2024-10-01 01:38:00`|`Elite: Dangerous`|
