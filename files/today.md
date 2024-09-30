@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-10-01 06:49:00`|`Rust`|
+|[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2024-10-01 06:46:00`|`Other MMORPG and Strategy`|
+|[Fastest Python Valorant Triggerbot &#40;fr&#41;&#40;fr&#41;&#40;fr&#41; &#43; Addon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/641020-fastest-python-valorant-triggerbot-fr-fr-fr-addon.html)|`2024-10-01 06:39:00`|`Valorant`|
+|[HID Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664313-hid-driver.html)|`2024-10-01 06:32:00`|`Anti-Cheat Bypass`|
 |[My Hero Ultra Rumble Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/604426-hero-ultra-rumble-cheat-table.html)|`2024-10-01 06:34:00`|`Other Games`|
 |[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2024-10-01 06:33:00`|`Palia`|
 |[Anyone Got A Spare Reciept?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662422-spare-reciept.html)|`2024-10-01 06:14:00`|`Apex Legends`|
