@@ -35,6 +35,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Particle Colors&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/664178-particle-colors.html)|`2024-09-30 22:30:00`|`Counter-Strike 2`|
+|[XianYuMods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/661692-xianyumods.html)|`2024-09-30 22:27:00`|`Payday 3`|
+|[Python Triggerbot with Physical Click Detectability](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664211-python-triggerbot-physical-click-detectability.html)|`2024-09-30 22:24:00`|`Valorant`|
+|[MW3 and Warzone DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/663777-mw3-warzone-dma-source.html)|`2024-09-30 22:21:00`|`Call of Duty: Modern Warfare III`|
+|[Valorant detections ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664210-valorant-detections.html)|`2024-09-30 22:17:00`|`Anti-Cheat Bypass`|
 |[Any cheats for Cracked/ No steam Rust?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/664209-cheats-cracked-steam-rust.html)|`2024-09-30 22:12:00`|`Rust`|
 |[Rust starting point ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/662561-rust-starting.html)|`2024-09-30 22:08:00`|`Rust`|
 |[Colorbot Raspberry Pi W Spectre Divide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661362-colorbot-raspberry-pi-spectre-divide.html)|`2024-09-30 22:03:00`|`Other FPS Games`|
