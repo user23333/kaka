@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any cheats for Cracked/ No steam Rust?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/664209-cheats-cracked-steam-rust.html)|`2024-09-30 22:12:00`|`Rust`|
+|[Rust starting point ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/662561-rust-starting.html)|`2024-09-30 22:08:00`|`Rust`|
+|[Colorbot Raspberry Pi W Spectre Divide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661362-colorbot-raspberry-pi-spectre-divide.html)|`2024-09-30 22:03:00`|`Other FPS Games`|
+|[RainAIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/664208-rainaim.html)|`2024-09-30 21:58:00`|`Deadlock`|
 |[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2024-09-30 21:43:00`|`Sea of Thieves`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2024-09-30 21:42:00`|`League of Legends`|
 |[About the Recent "Banwave"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/663648-recent-banwave.html)|`2024-09-30 21:34:00`|`Genshin Impact`|
