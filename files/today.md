@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Do I need VPN for cfx ban FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/664556-vpn-cfx-ban-fivem.html)|`2024-10-02 04:53:00`|`Alternative Online Mods`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2024-10-02 04:52:00`|`Other FPS Games`|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-10-02 04:48:00`|`Apex Legends`|
+|[Getting online after BattlEye is a nightmare&#46; &#40;PC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/664554-getting-online-battleye-nightmare-pc.html)|`2024-10-02 04:46:00`|`Grand Theft Auto V`|
 |[New Rigel External Ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/658144-rigel-external-ow2.html)|`2024-10-02 04:38:00`|`Overwatch`|
 |[Lavender Premium External Source with Anti Cheat Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/659043-lavender-premium-external-source-anti-cheat-bypass.html)|`2024-10-02 04:13:00`|`Alternative Online Mods`|
 |[Online Enabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663128-online-enabler.html)|`2024-10-02 04:12:00`|`Grand Theft Auto V`|
