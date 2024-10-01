@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2024-10-02 03:25:00`|`Palia`|
+|[H1EMU &#45; ESP/AIMBOT/MAGIC BULLET/TELEPORT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/614865-h1emu-esp-aimbot-magic-bullet-teleport.html)|`2024-10-02 03:23:00`|`H1Z1`|
+|[Why The Government Wants People To Get Teslas & Create Stupid Pawns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/664517-government-people-teslas-create-stupid-pawns.html)|`2024-10-02 03:22:00`|`Off Topic`|
 |[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2024-10-02 03:19:00`|`Sea of Thieves`|
 |[mw19 cheat &#40;aimbot, unlock all, esp, plus a whole lot more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/657027-mw19-cheat-aimbot-unlock-esp-plus-lot.html)|`2024-10-02 03:18:00`|`Call of Duty: Modern Warfare`|
 |[Lv1 ACC JOIN RANKED MATCH METHOD?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664338-lv1-acc-join-ranked-match-method.html)|`2024-10-02 03:18:00`|`Valorant`|
