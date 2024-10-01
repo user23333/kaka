@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CSS Internal Cheat Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/589918-css-internal-cheat-base.html)|`2024-10-01 23:28:00`|`CounterStrike Source`|
 |[AHK color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663420-ahk-color-aimbot.html)|`2024-10-01 23:14:00`|`Deadlock`|
 |[Landlord worship song](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/658396-landlord-worship-song.html)|`2024-10-01 23:12:00`|`Off Topic`|
 |[Taxation &#45; Government mandated assault on wealth](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/663832-taxation-government-mandated-assault-wealth.html)|`2024-10-01 23:08:00`|`Off Topic`|
