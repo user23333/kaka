@@ -28,9 +28,12 @@
 |64|[Pixel Gun 3D Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47052)|`2024-10-01 00:30:56`|
 |4|[DD1updated28&#46;09&#46;2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47051)|`2024-10-01 00:30:56`|
 |13|[DeltaForceMCN&#95;SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47049)|`2024-10-01 00:30:56`|
+|2|[OriginPalia 3&#46;1&#46;3 HOTFIX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47091)|`2024-10-01 14:59:02`|
+|2|[PixelGunCheat&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47085)|`2024-10-01 14:59:02`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Faceinjector help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/663370-faceinjector-help.html)|`2024-10-01 14:54:00`|`Call of Duty: Modern Warfare III`|
 |[Panicore Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/663164-panicore-internal.html)|`2024-10-01 14:40:00`|`Other Games`|
 |[Decryption of Less Recoil Offsets&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/664366-decryption-recoil-offsets.html)|`2024-10-01 14:28:00`|`PUBG Mobile`|
 |[Call of Duty: Modern Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/384429-call-duty-modern-warfare-reversal-structs-offsets.html)|`2024-10-01 13:55:00`|`Call of Duty: Modern Warfare`|
