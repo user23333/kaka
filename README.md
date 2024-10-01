@@ -31,9 +31,15 @@
 |2|[OriginPalia 3&#46;1&#46;3 HOTFIX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47091)|`2024-10-01 14:59:02`|
 |2|[PixelGunCheat&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47085)|`2024-10-01 14:59:02`|
 |2|[qteeq&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47092)|`2024-10-01 16:15:55`|
+|2|[theHunter Internal Radar & ESP v1&#46;2&#46;5 Hotfix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47075)|`2024-10-01 21:50:14`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[theHunter: Call of the Wild Internal Radar, ESP, & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644365-thehunter-call-wild-internal-radar-esp.html)|`2024-10-01 21:50:00`|`Other FPS Games`|
+|[Frameware &#91;Rigel based&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/664414-frameware-rigel-based.html)|`2024-10-01 21:50:00`|`Overwatch`|
+|[Scripts for cheat engine?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/664412-scripts-cheat-engine.html)|`2024-10-01 21:46:00`|`Forum General`|
+|[Nimrod Source Code &#40; NINTE X &#41; &#40; MEGA SOURCE LEAK &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/662717-nimrod-source-code-ninte-mega-source-leak.html)|`2024-10-01 21:43:00`|`PUBG Mobile`|
+|[Undetectable among us Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/637492-undetectable-cheat.html)|`2024-10-01 21:43:00`|`Among Us`|
 |[Chained Together Simple Instant Teleport](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/663175-chained-simple-instant-teleport.html)|`2024-10-01 21:35:00`|`Other Games`|
 |[Anti&#45;flag Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/664407-anti-flag-guide.html)|`2024-10-01 20:59:00`|`Overwatch`|
 |[ESP in C&#35; NAOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/576534-esp-naot.html)|`2024-10-01 20:55:00`|`Minecraft`|
