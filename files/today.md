@@ -30,9 +30,13 @@
 |13|[DeltaForceMCN&#95;SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47049)|`2024-10-01 00:30:56`|
 |2|[OriginPalia 3&#46;1&#46;3 HOTFIX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47091)|`2024-10-01 14:59:02`|
 |2|[PixelGunCheat&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47085)|`2024-10-01 14:59:02`|
+|2|[qteeq&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47092)|`2024-10-01 16:15:55`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Color aimbot and triggerbot based on C&#43;&#43;, fully UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/663392-color-aimbot-triggerbot-based-ud.html)|`2024-10-01 16:13:00`|`Overwatch`|
+|[DMA/KMBox B&#43; How to read Keypresses/Hotkeys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/663523-dma-kmbox-read-keypresses-hotkeys.html)|`2024-10-01 16:09:00`|`PC Hardware`|
+|[Latest Weapon ID's for GLOW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/664216-weapon-ids-glow.html)|`2024-10-01 16:06:00`|`Apex Legends`|
 |[DMA card problems status light does not show](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/664376-dma-card-status-light.html)|`2024-10-01 15:42:00`|`Other Hardware`|
 |[BattlEyen't &#45; play offline raids without BattlEye on live version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/481919-battleyent-play-offline-raids-battleye-live-version.html)|`2024-10-01 15:40:00`|`Escape from Tarkov`|
 |[VEH Page Guard Hook on Syscall?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664375-veh-page-guard-hook-syscall.html)|`2024-10-01 15:39:00`|`Anti-Cheat Bypass`|
