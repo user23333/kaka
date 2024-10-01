@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|["Vanguard Bypass" &#40;2PC / 1PC&#41; Using the Suspend Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663283-vanguard-bypass-2pc-1pc-using-suspend-method.html)|`2024-10-02 05:19:00`|`Valorant`|
+|[My Hero Ultra Rumble Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/604426-hero-ultra-rumble-cheat-table.html)|`2024-10-02 05:18:00`|`Other Games`|
+|[Make your arduino UD again](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/641022-arduino-ud.html)|`2024-10-02 05:15:00`|`Valorant`|
+|[Polygon Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/582488-polygon-internal-cheat.html)|`2024-10-02 05:04:00`|`Other FPS Games`|
+|[Help making my own mod menu?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/662605-help-own-mod-menu.html)|`2024-10-02 04:57:00`|`Call of Duty: Black Ops 3`|
 |[Do I need VPN for cfx ban FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/664556-vpn-cfx-ban-fivem.html)|`2024-10-02 04:53:00`|`Alternative Online Mods`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2024-10-02 04:52:00`|`Other FPS Games`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-10-02 04:48:00`|`Apex Legends`|
