@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Font Scaling?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/664092-font-scaling.html)|`2024-10-02 01:30:00`|`Counter-Strike 2`|
 |[External Farlight 84 Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/661656-external-farlight-84-free-cheat.html)|`2024-10-02 01:24:00`|`Farlight 84`|
 |[Ark Ascended Basic External Base/Example](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/628242-ark-ascended-basic-external-base-example.html)|`2024-10-02 01:24:00`|`Other FPS Games`|
 |[Optimization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/664435-optimization.html)|`2024-10-02 01:11:00`|`Counter-Strike 2`|
