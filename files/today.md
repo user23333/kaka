@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Analysis and implementation of CS2 external silent aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/650870-analysis-implementation-cs2-external-silent-aimbot.html)|`2024-10-01 22:49:00`|`Counter-Strike 2`|
 |[Self&#45;Leak &#45; DOOMSDAY &#40;Internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/664457-self-leak-doomsday-internal.html)|`2024-10-01 22:46:00`|`Call of Duty: Black Ops 2`|
 |[Getting Samples by Friend Code? How??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/661710-getting-samples-friend-code.html)|`2024-10-01 22:42:00`|`HELLDIVERS 2`|
 |[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2024-10-01 22:42:00`|`Other FPS Games`|
