@@ -34,6 +34,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I am a little confused, Lua&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/663532-am-little-confused-lua.html)|`2024-10-01 18:37:00`|`General Programming and Reversing`|
+|[Sample source code DLL hook to inject into games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/663544-sample-source-code-dll-hook-inject-games.html)|`2024-10-01 18:31:00`|`General Programming and Reversing`|
+|[PsSetCreateProcessNotifyRoutine / ACCESS&#95;DENIED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/663528-pssetcreateprocessnotifyroutine-access_denied.html)|`2024-10-01 18:23:00`|`General Programming and Reversing`|
+|[asphyxia inventory changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/663775-asphyxia-inventory-changer.html)|`2024-10-01 18:18:00`|`Counter-Strike 2`|
+|[Mixmaster xigncode3 bypass&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/652364-mixmaster-xigncode3-bypass.html)|`2024-10-01 18:17:00`|`Anti-Cheat Bypass`|
+|[Cheat loaders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/661850-cheat-loaders.html)|`2024-10-01 18:17:00`|`General Programming and Reversing`|
 |["Vanguard Bypass" &#40;2PC / 1PC&#41; Using the Suspend Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663283-vanguard-bypass-2pc-1pc-using-suspend-method.html)|`2024-10-01 18:01:00`|`Valorant`|
 |[FATE DMA Source With a lot of features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/659710-fate-dma-source-lot-features.html)|`2024-10-01 17:45:00`|`Apex Legends`|
 |[Vanguard Spoofer Rev 2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612562-vanguard-spoofer-rev-2-a.html)|`2024-10-01 17:22:00`|`Valorant`|
