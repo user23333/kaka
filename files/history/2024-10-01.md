@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[One armed robber](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/664373-armed-robber.html)|`2024-10-01 18:48:00`|`Forum General`|
+|[F&#46;E&#46;A&#46;R&#46; Combat v1&#46;08 or SEC2 or Perseus Mandate v1&#46;0 hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/fear/630559-combat-v1-08-sec2-perseus-mandate-v1-0-hack.html)|`2024-10-01 18:43:00`|`FEAR`|
 |[I am a little confused, Lua&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/663532-am-little-confused-lua.html)|`2024-10-01 18:37:00`|`General Programming and Reversing`|
 |[Sample source code DLL hook to inject into games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/663544-sample-source-code-dll-hook-inject-games.html)|`2024-10-01 18:31:00`|`General Programming and Reversing`|
 |[PsSetCreateProcessNotifyRoutine / ACCESS&#95;DENIED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/663528-pssetcreateprocessnotifyroutine-access_denied.html)|`2024-10-01 18:23:00`|`General Programming and Reversing`|
