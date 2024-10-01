@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-10-01 16:38:00`|`Escape from Tarkov`|
+|[Working L4D2 hack?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/664379-l4d2-hack.html)|`2024-10-01 16:26:00`|`Other FPS Games`|
+|[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2024-10-01 16:26:00`|`Garry's Mod`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2024-10-01 16:17:00`|`Counter-Strike 2`|
 |[Color aimbot and triggerbot based on C&#43;&#43;, fully UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/663392-color-aimbot-triggerbot-based-ud.html)|`2024-10-01 16:13:00`|`Overwatch`|
 |[DMA/KMBox B&#43; How to read Keypresses/Hotkeys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/663523-dma-kmbox-read-keypresses-hotkeys.html)|`2024-10-01 16:09:00`|`PC Hardware`|
 |[Latest Weapon ID's for GLOW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/664216-weapon-ids-glow.html)|`2024-10-01 16:06:00`|`Apex Legends`|
