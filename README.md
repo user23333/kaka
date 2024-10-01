@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cannot loop fnamepool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/664153-loop-fnamepool.html)|`2024-10-01 15:05:00`|`Unreal Engine 4`|
+|[Shadow banned once a month, how to avoid?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/664051-shadow-banned-month-avoid.html)|`2024-10-01 15:03:00`|`Call of Duty: Modern Warfare III`|
 |[Faceinjector help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/663370-faceinjector-help.html)|`2024-10-01 14:54:00`|`Call of Duty: Modern Warfare III`|
 |[Panicore Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/663164-panicore-internal.html)|`2024-10-01 14:40:00`|`Other Games`|
 |[Decryption of Less Recoil Offsets&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/664366-decryption-recoil-offsets.html)|`2024-10-01 14:28:00`|`PUBG Mobile`|
