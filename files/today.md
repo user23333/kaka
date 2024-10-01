@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA card problems status light does not show](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/664376-dma-card-status-light.html)|`2024-10-01 15:42:00`|`Other Hardware`|
+|[BattlEyen't &#45; play offline raids without BattlEye on live version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/481919-battleyent-play-offline-raids-battleye-live-version.html)|`2024-10-01 15:40:00`|`Escape from Tarkov`|
+|[VEH Page Guard Hook on Syscall?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664375-veh-page-guard-hook-syscall.html)|`2024-10-01 15:39:00`|`Anti-Cheat Bypass`|
 |[cannot loop fnamepool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/664153-loop-fnamepool.html)|`2024-10-01 15:05:00`|`Unreal Engine 4`|
 |[Shadow banned once a month, how to avoid?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/664051-shadow-banned-month-avoid.html)|`2024-10-01 15:03:00`|`Call of Duty: Modern Warfare III`|
 |[Faceinjector help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/663370-faceinjector-help.html)|`2024-10-01 14:54:00`|`Call of Duty: Modern Warfare III`|
