@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dedicated server wrong connection protocol](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/664394-dedicated-server-wrong-connection-protocol.html)|`2024-10-01 19:51:00`|`Rust`|
 |[Any cheats for Cracked/ No steam Rust?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/664209-cheats-cracked-steam-rust.html)|`2024-10-01 19:24:00`|`Rust`|
 |[Damage hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/596442-damage-hack.html)|`2024-10-01 19:04:00`|`Battlefield 1`|
 |[Ragnarok Origin Global PC cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/624052-ragnarok-origin-global-pc-cheat.html)|`2024-10-01 19:03:00`|`Other MMORPG and Strategy`|
