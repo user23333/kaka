@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chained Together Simple Instant Teleport](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/663175-chained-simple-instant-teleport.html)|`2024-10-01 21:35:00`|`Other Games`|
 |[Anti&#45;flag Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/664407-anti-flag-guide.html)|`2024-10-01 20:59:00`|`Overwatch`|
 |[ESP in C&#35; NAOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/576534-esp-naot.html)|`2024-10-01 20:55:00`|`Minecraft`|
 |[Zodiak &#45; Fastcup Full Kernel Driver Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/658126-zodiak-fastcup-kernel-driver-cheat.html)|`2024-10-01 20:23:00`|`CounterStrike 1.5, 1.6 and Mods`|
