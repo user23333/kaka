@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ESP stop working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662757-esp-stop.html)|`2024-10-02 14:44:00`|`Counter-Strike 2`|
+|[Chicken Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662606-chicken-esp.html)|`2024-10-02 14:42:00`|`Counter-Strike 2`|
+|[How to Set Item as unequipped](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/663697-set-item-unequipped.html)|`2024-10-02 14:38:00`|`Counter-Strike 2`|
 |[Planetside 2 cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/643223-planetside-2-cheating.html)|`2024-10-02 14:28:00`|`PlanetSide 2`|
 |[Mixmaster xigncode3 bypass&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/652364-mixmaster-xigncode3-bypass.html)|`2024-10-02 14:24:00`|`Anti-Cheat Bypass`|
 |[Vanguard Spoofer Rev 2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612562-vanguard-spoofer-rev-2-a.html)|`2024-10-02 14:05:00`|`Valorant`|
