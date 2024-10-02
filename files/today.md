@@ -30,9 +30,12 @@
 |1|[InstaLocker Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47111)|`2024-10-03 01:28:46`|
 |6|[VigorInternal v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47110)|`2024-10-03 01:41:23`|
 |10|[rigel src oct update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47115)|`2024-10-03 02:27:26`|
+|10|[rigel upd](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47116)|`2024-10-03 02:47:08`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[OV3RSW33T: AN OVERWAT Pack: Reborn & Recoded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/603412-ov3rsw33t-overwat-pack-reborn-recoded.html)|`2024-10-03 02:35:00`|`Overwatch`|
+|[APEX External Aimbot ESP Skeleton](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/598060-apex-external-aimbot-esp-skeleton.html)|`2024-10-03 02:29:00`|`Apex Legends`|
 |[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-10-03 02:24:00`|`Counter-Strike 2`|
 |[InjectX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664610-injectx.html)|`2024-10-03 02:22:00`|`Anti-Cheat Bypass`|
 |[Color aimbot and triggerbot based on C&#43;&#43;, fully UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/663392-color-aimbot-triggerbot-based-ud.html)|`2024-10-03 02:21:00`|`Overwatch`|
