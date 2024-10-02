@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Are there any working cheats for CS2 rn? I need something with an aimbot please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662318-cheats-cs2-rn-aimbot-please.html)|`2024-10-02 14:57:00`|`Counter-Strike 2`|
+|[MW3 and Warzone DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/663777-mw3-warzone-dma-source.html)|`2024-10-02 14:57:00`|`Call of Duty: Modern Warfare III`|
+|[Djcowely's plunder AFK bot &#40;Rank&#45;DeRank&#45;XP Farm&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/664612-djcowelys-plunder-afk-bot-rank-derank-xp-farm.html)|`2024-10-02 14:55:00`|`Call of Duty: Modern Warfare 3`|
+|[Smoke Modulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/658669-smoke-modulation.html)|`2024-10-02 14:52:00`|`Counter-Strike 2`|
+|[How to read the Match Found state?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662246-read-match-found.html)|`2024-10-02 14:50:00`|`Counter-Strike 2`|
 |[ESP stop working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662757-esp-stop.html)|`2024-10-02 14:44:00`|`Counter-Strike 2`|
 |[Chicken Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662606-chicken-esp.html)|`2024-10-02 14:42:00`|`Counter-Strike 2`|
 |[How to Set Item as unequipped](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/663697-set-item-unequipped.html)|`2024-10-02 14:38:00`|`Counter-Strike 2`|
