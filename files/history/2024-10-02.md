@@ -27,9 +27,12 @@
 |136|[rabbit pubg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47054)|`2024-10-02 00:28:43`|
 |1|[OV3RSW33T: Project KEWANV15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47076)|`2024-10-02 03:19:37`|
 |1|[maticHook&#45;main&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47061)|`2024-10-02 05:34:04`|
+|2|[qteeq&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47101)|`2024-10-02 16:21:58`|
+|1|[qteeq&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47100)|`2024-10-02 16:21:58`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Analysis and implementation of CS2 external silent aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/650870-analysis-implementation-cs2-external-silent-aimbot.html)|`2024-10-02 16:06:00`|`Counter-Strike 2`|
 |[Djcowely's plunder AFK bot &#40;Rank&#45;DeRank&#45;XP Farm&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/664615-djcowelys-plunder-afk-bot-rank-derank-xp-farm.html)|`2024-10-02 15:45:00`|`Call of Duty: Modern Warfare III`|
 |[Transit problem from Lab &#45;&#62; Street](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/664465-transit-lab-street.html)|`2024-10-02 15:19:00`|`Escape from Tarkov`|
 |[Are there any working cheats for CS2 rn? I need something with an aimbot please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662318-cheats-cs2-rn-aimbot-please.html)|`2024-10-02 14:57:00`|`Counter-Strike 2`|
