@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG DMA Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/644302-pubg-dma-cheat-run.html)|`2024-10-02 16:53:00`|`Playerunknown's Battlegrounds`|
+|[duplicate post forget abt this](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/663984-duplicate-post-forget-abt.html)|`2024-10-02 16:47:00`|`Call of Duty: Modern Warfare III`|
+|[Shadow banned once a month, how to avoid?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/664051-shadow-banned-month-avoid.html)|`2024-10-02 16:44:00`|`Call of Duty: Modern Warfare III`|
+|[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2024-10-02 16:42:00`|`Other FPS Games`|
 |[Analysis and implementation of CS2 external silent aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/650870-analysis-implementation-cs2-external-silent-aimbot.html)|`2024-10-02 16:06:00`|`Counter-Strike 2`|
 |[Djcowely's plunder AFK bot &#40;Rank&#45;DeRank&#45;XP Farm&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/664615-djcowelys-plunder-afk-bot-rank-derank-xp-farm.html)|`2024-10-02 15:45:00`|`Call of Duty: Modern Warfare III`|
 |[Transit problem from Lab &#45;&#62; Street](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/664465-transit-lab-street.html)|`2024-10-02 15:19:00`|`Escape from Tarkov`|
