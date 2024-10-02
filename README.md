@@ -12,6 +12,7 @@
 |20|[Color aimbot and triggerbot based on C&#43;&#43;, fully UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/663392-color-aimbot-triggerbot-based-ud.html)|`2024-10-02 00:28:43`|`overwatch`|
 |8|[winamp Certificate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/663423-winamp-certificate.html)|`2024-10-02 00:28:43`|`anti-cheat-bypass`|
 |18|[Simple Deadlock Internal &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/664240-simple-deadlock-internal-source.html)|`2024-10-02 11:11:46`|`deadlock`|
+|21|[How to make a Triggerbot step by step](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663652-triggerbot-step-step.html)|`2024-10-02 21:02:38`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SEOwnedDE Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/644283-seownedde-updated.html)|`2024-10-02 20:58:00`|`Team Fortress 2`|
+|[The Finals Decrypting And Dumping SDK Tutorial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/640297-finals-decrypting-dumping-sdk-tutorial.html)|`2024-10-02 20:56:00`|`THE FINALS`|
+|[GTAHaX for 1&#46;69 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-69-external-thread-3-a.html)|`2024-10-02 20:51:00`|`Grand Theft Auto V`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-10-02 20:42:00`|`Rust`|
+|[Rigel Updated Just Run It](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/659443-rigel-updated-run.html)|`2024-10-02 20:41:00`|`Overwatch`|
 |[Apb aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/660070-apb-aim-assist.html)|`2024-10-02 20:28:00`|`All Points Bulletin`|
 |[Bodycam Internal Cheat&#40;v0&#46;1&#46;2&#46;5&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/649747-bodycam-internal-cheat-v0-1-2-5-a.html)|`2024-10-02 20:22:00`|`Other FPS Games`|
 |[External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/662363-external-esp.html)|`2024-10-02 20:11:00`|`Deadlock`|
