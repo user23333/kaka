@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SMS services get patched?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/664277-sms-services-patched.html)|`2024-10-03 05:09:00`|`Rainbow Six Siege`|
+|[A thread that shares rigel's config file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/633484-thread-shares-rigels-config-file.html)|`2024-10-03 05:03:00`|`Overwatch`|
+|[Help with scatter reads on bones](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/664747-help-scatter-reads-bones.html)|`2024-10-03 04:57:00`|`Escape from Tarkov`|
 |[Question about ServerCallback &#45; LUA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/664745-question-servercallback-lua.html)|`2024-10-03 04:49:00`|`Alternative Online Mods`|
 |[Loading NaturalVision Evolved in GTA Online Causing Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/651856-loading-naturalvision-evolved-gta-online-causing-crash.html)|`2024-10-03 04:48:00`|`Grand Theft Auto V`|
 |[My Hero Ultra Rumble Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/604426-hero-ultra-rumble-cheat-table.html)|`2024-10-03 04:40:00`|`Other Games`|
