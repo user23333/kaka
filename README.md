@@ -34,6 +34,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Trainer for Plants Vs&#46; Zombies Garden Warfare 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/188526-trainer-plants-vs-zombies-garden-warfare-2-a.html)|`2024-10-03 03:58:00`|`Other FPS Games`|
+|[Idle Slayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/583257-idle-slayer.html)|`2024-10-03 03:56:00`|`Other MMORPG and Strategy`|
+|[Apex Legends Movement configs after newest update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662843-apex-legends-movement-configs-update.html)|`2024-10-03 03:55:00`|`Apex Legends`|
+|[&#91;Partial&#93; 5irT &#45; FiveM/RedM streaming files dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/653007-partial-5irt-fivem-redm-streaming-files-dumper.html)|`2024-10-03 03:53:00`|`Alternative Online Mods`|
+|[Any third&#45;party dll files in the game folder prevent the game from starting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664742-third-party-dll-files-game-folder-prevent-game-starting.html)|`2024-10-03 03:51:00`|`Anti-Cheat Bypass`|
 |[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2024-10-03 03:45:00`|`Escape from Tarkov`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-10-03 03:40:00`|`Apex Legends`|
 |[input methods for valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664733-input-methods-valorant.html)|`2024-10-03 03:35:00`|`Valorant`|
