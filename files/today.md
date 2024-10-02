@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fallout 76 duplication exploit &#40;new&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/656490-fallout-76-duplication-exploit.html)|`2024-10-03 04:26:00`|`Other FPS Games`|
+|[External Farlight 84 Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/661656-external-farlight-84-free-cheat.html)|`2024-10-03 04:11:00`|`Farlight 84`|
 |[Trainer for Plants Vs&#46; Zombies Garden Warfare 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/188526-trainer-plants-vs-zombies-garden-warfare-2-a.html)|`2024-10-03 03:58:00`|`Other FPS Games`|
 |[Idle Slayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/583257-idle-slayer.html)|`2024-10-03 03:56:00`|`Other MMORPG and Strategy`|
 |[Apex Legends Movement configs after newest update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662843-apex-legends-movement-configs-update.html)|`2024-10-03 03:55:00`|`Apex Legends`|
