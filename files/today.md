@@ -28,9 +28,15 @@
 |1|[Compiled &#46;dll 3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47113)|`2024-10-03 01:28:46`|
 |1|[deadlock&#95;esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47112)|`2024-10-03 01:28:46`|
 |1|[InstaLocker Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47111)|`2024-10-03 01:28:46`|
+|6|[VigorInternal v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47110)|`2024-10-03 01:41:23`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2024-10-03 01:39:00`|`Apex Legends`|
+|[Pixel Gun 3D internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/638262-pixel-gun-3d-internal-cheat.html)|`2024-10-03 01:39:00`|`Other FPS Games`|
+|[Djcowely's plunder AFK bot &#40;Rank&#45;DeRank&#45;XP Farm&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/664612-djcowelys-plunder-afk-bot-rank-derank-xp-farm.html)|`2024-10-03 01:39:00`|`Call of Duty: Modern Warfare 3`|
+|[How to make anti cheat ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/664716-anti-cheat.html)|`2024-10-03 01:35:00`|`General Programming and Reversing`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2024-10-03 01:34:00`|`Counter-Strike 2`|
 |[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-10-03 01:27:00`|`Deadlock`|
 |[Lockdown Protocol Cheat Table v0&#46;1&#46;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/659299-lockdown-protocol-cheat-table-v0-1-26-a.html)|`2024-10-03 01:26:00`|`Other Games`|
 |[InstaLocker Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664623-instalocker-valorant.html)|`2024-10-03 01:25:00`|`Valorant`|
