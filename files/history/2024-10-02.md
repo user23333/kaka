@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ODIN V4 FOR STEAM ONLY&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/645623-odin-v4-steam.html)|`2024-10-02 19:01:00`|`Paladins`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-10-02 18:58:00`|`Grand Theft Auto V`|
 |[Metamorph &#45; SCP:SL Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/623343-metamorph-scp-sl-spoofer.html)|`2024-10-02 18:44:00`|`Other FPS Games`|
 |[Is there CFW expert here?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/664628-cfw-expert.html)|`2024-10-02 18:43:00`|`Playerunknown's Battlegrounds`|
 |[Any One Can Update This Code For Visiblity Check?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/664306-update-code-visiblity-check.html)|`2024-10-02 18:41:00`|`PUBG Mobile`|
