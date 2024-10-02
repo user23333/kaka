@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dropped weapon esp crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/664756-dropped-weapon-esp-crash.html)|`2024-10-03 06:15:00`|`Counter-Strike 2`|
+|[VALORANT UE5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664751-valorant-ue5.html)|`2024-10-03 05:58:00`|`Valorant`|
+|[AutoBunnyHop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/652300-autobunnyhop.html)|`2024-10-03 05:52:00`|`CrossFire`|
 |[DMA Template for Development](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/642258-dma-template-development.html)|`2024-10-03 05:42:00`|`General Programming and Reversing`|
 |[ODIN V4 FOR STEAM ONLY&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/645623-odin-v4-steam.html)|`2024-10-03 05:28:00`|`Paladins`|
 |[BattlEyen't &#45; play offline raids without BattlEye on live version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/481919-battleyent-play-offline-raids-battleye-live-version.html)|`2024-10-03 05:24:00`|`Escape from Tarkov`|
