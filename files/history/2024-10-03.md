@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2024-10-03 03:24:00`|`Other FPS Games`|
+|[ActorCount or GameState&#43;PlayerArray](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/626229-actorcount-gamestate-playerarray.html)|`2024-10-03 03:24:00`|`Unreal Engine 4`|
+|[Unreal Engine 4&#46;27&#46;2 offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/656342-unreal-engine-4-27-2-offsets.html)|`2024-10-03 03:17:00`|`Unreal Engine 4`|
 |[Dale and Dawson Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/664163-dale-dawson-mod-menu.html)|`2024-10-03 03:17:00`|`Other Games`|
 |[How to Get DeadLock Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/660973-deadlock-offsets.html)|`2024-10-03 03:14:00`|`Deadlock`|
 |[SEOwnedDE Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/644283-seownedde-updated.html)|`2024-10-03 03:06:00`|`Team Fortress 2`|
