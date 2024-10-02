@@ -29,9 +29,17 @@
 |1|[deadlock&#95;esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47112)|`2024-10-03 01:28:46`|
 |1|[InstaLocker Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47111)|`2024-10-03 01:28:46`|
 |6|[VigorInternal v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47110)|`2024-10-03 01:41:23`|
+|10|[rigel src oct update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47115)|`2024-10-03 02:27:26`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-10-03 02:24:00`|`Counter-Strike 2`|
+|[InjectX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664610-injectx.html)|`2024-10-03 02:22:00`|`Anti-Cheat Bypass`|
+|[Color aimbot and triggerbot based on C&#43;&#43;, fully UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/663392-color-aimbot-triggerbot-based-ud.html)|`2024-10-03 02:21:00`|`Overwatch`|
+|[Is it possible to search servers by resource?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/660308-search-servers-resource.html)|`2024-10-03 02:19:00`|`Alternative Online Mods`|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2024-10-03 02:13:00`|`Battlefield 4`|
+|[New Dupe method 02&#46;10&#46;2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/664618-dupe-method-02-10-2024-a.html)|`2024-10-03 02:10:00`|`Escape from Tarkov`|
+|[TX&#45;Admin Unban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/663968-tx-admin-unban.html)|`2024-10-03 02:09:00`|`Alternative Online Mods`|
 |[Planetside 2 cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/643223-planetside-2-cheating.html)|`2024-10-03 01:47:00`|`PlanetSide 2`|
 |[Anti&#45;Cheat Traces](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/663695-anti-cheat-traces.html)|`2024-10-03 01:41:00`|`Alternative Online Mods`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2024-10-03 01:39:00`|`Apex Legends`|
