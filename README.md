@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[mw19 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/631846-mw19-cheat.html)|`2024-10-02 23:52:00`|`Call of Duty: Modern Warfare`|
 |[getting kicked from the server api hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/661485-getting-kicked-server-api-hack.html)|`2024-10-02 23:13:00`|`Battlefield 1`|
 |[No result when attach and pointer scan by CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/664697-result-attach-pointer-scan-ce.html)|`2024-10-02 23:05:00`|`General Programming and Reversing`|
 |[EA to apply new anti&#45;cheat patch to Battlefield 1 Date: September 1, 2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/657510-ea-apply-anti-cheat-patch-battlefield-1-date-september-1-2024-a.html)|`2024-10-02 23:04:00`|`Battlefield 1`|
