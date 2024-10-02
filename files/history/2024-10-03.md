@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Question about ServerCallback &#45; LUA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/664745-question-servercallback-lua.html)|`2024-10-03 04:49:00`|`Alternative Online Mods`|
+|[Loading NaturalVision Evolved in GTA Online Causing Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/651856-loading-naturalvision-evolved-gta-online-causing-crash.html)|`2024-10-03 04:48:00`|`Grand Theft Auto V`|
 |[My Hero Ultra Rumble Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/604426-hero-ultra-rumble-cheat-table.html)|`2024-10-03 04:40:00`|`Other Games`|
 |[CS2 Internal &#45; Legit Cheat, more rage features coming soon&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/659316-cs2-internal-legit-cheat-rage-features-coming-soon.html)|`2024-10-03 04:30:00`|`Counter-Strike 2 Releases`|
 |[Ez Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/662984-ez-dumper.html)|`2024-10-03 04:29:00`|`Call of Duty: Modern Warfare III`|
