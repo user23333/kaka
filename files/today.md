@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Planetside 2 cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/643223-planetside-2-cheating.html)|`2024-10-03 01:47:00`|`PlanetSide 2`|
+|[Anti&#45;Cheat Traces](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/663695-anti-cheat-traces.html)|`2024-10-03 01:41:00`|`Alternative Online Mods`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2024-10-03 01:39:00`|`Apex Legends`|
 |[Pixel Gun 3D internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/638262-pixel-gun-3d-internal-cheat.html)|`2024-10-03 01:39:00`|`Other FPS Games`|
 |[Djcowely's plunder AFK bot &#40;Rank&#45;DeRank&#45;XP Farm&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/664612-djcowelys-plunder-afk-bot-rank-derank-xp-farm.html)|`2024-10-03 01:39:00`|`Call of Duty: Modern Warfare 3`|
