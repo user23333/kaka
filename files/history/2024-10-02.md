@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[winamp Certificate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/663423-winamp-certificate.html)|`2024-10-02 13:43:00`|`Anti-Cheat Bypass`|
 |[Overlay Ud ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/662357-overlay-ud.html)|`2024-10-02 13:27:00`|`Anti-Cheat Bypass`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2024-10-02 13:17:00`|`Escape from Tarkov`|
 |[AutoBunnyHop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/652300-autobunnyhop.html)|`2024-10-02 13:07:00`|`CrossFire`|
