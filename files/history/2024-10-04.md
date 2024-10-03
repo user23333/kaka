@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TFGhost](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/471765-tfghost.html)|`2024-10-04 03:35:00`|`Team Fortress 2`|
+|[how can i put any nickname i want with invisible characters?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/662763-nickname-invisible-characters.html)|`2024-10-04 03:32:00`|`Paladins`|
+|[fabric injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/664955-fabric-injection.html)|`2024-10-04 03:26:00`|`Minecraft`|
+|[Trainer for Plants Vs&#46; Zombies Garden Warfare 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/188526-trainer-plants-vs-zombies-garden-warfare-2-a.html)|`2024-10-04 03:26:00`|`Other FPS Games`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2024-10-04 03:09:00`|`Apex Legends`|
 |[Aim assit controler emulador](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/657895-aim-assit-controler-emulador.html)|`2024-10-04 03:08:00`|`Call of Duty: Modern Warfare III`|
 |[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2024-10-04 03:06:00`|`Escape from Tarkov`|
