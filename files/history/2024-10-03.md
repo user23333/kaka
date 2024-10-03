@@ -34,6 +34,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Aim Assist without reWASD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/621322-aim-assist-rewasd.html)|`2024-10-03 19:13:00`|`Apex Legends`|
+|[DeadLock External &#124; AUTO UPDATES&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/664865-deadlock-external-auto-updates.html)|`2024-10-03 19:11:00`|`Deadlock`|
+|[Warframe &#124; Chams &#124; Loot/Coin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/600451-warframe-chams-loot-coin-changer.html)|`2024-10-03 19:07:00`|`Other FPS Games`|
+|[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2024-10-03 19:05:00`|`Escape from Tarkov`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2024-10-03 18:58:00`|`Other MMORPG and Strategy`|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2024-10-03 18:57:00`|`Counter-Strike 2 Releases`|
+|[Why aren't you a True Christian™?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/659626-arent-true-christian.html)|`2024-10-03 18:55:00`|`Off Topic`|
 |[SARD &#43; modified UPK files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/664657-sard-modified-upk-files.html)|`2024-10-03 18:45:00`|`All Points Bulletin`|
 |[silent ui, chinese wz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/661134-silent-ui-chinese-wz.html)|`2024-10-03 18:41:00`|`Call of Duty: Modern Warfare III`|
 |[Likelihood of vac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/647968-likelihood-vac.html)|`2024-10-03 18:41:00`|`Team Fortress 2`|
