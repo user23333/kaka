@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ROCKET LEAGUE CONTROLLER SPEEDFLIP MACRO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/662494-rocket-league-controller-speedflip-macro.html)|`2024-10-03 21:28:00`|`Other Games`|
+|[Aim assit controler emulador](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/657895-aim-assit-controler-emulador.html)|`2024-10-03 21:17:00`|`Call of Duty: Modern Warfare III`|
 |[Modulation &#40;World, Props, Lights, Sun/clouds&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/658539-modulation-world-props-lights-sun-clouds.html)|`2024-10-03 20:59:00`|`Counter-Strike 2`|
 |[The Ultimate GTA Ban Wave](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663356-ultimate-gta-ban-wave.html)|`2024-10-03 20:48:00`|`Grand Theft Auto V`|
 |[Colorbot &#45; Aim Assist, Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/627913-colorbot-aim-assist-triggerbot.html)|`2024-10-03 20:47:00`|`Valorant`|
