@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Cheat/Hack ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/511214-external-cheat-hack-esp.html)|`2024-10-03 19:13:00`|`Valorant`|
 |[Aim Assist without reWASD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/621322-aim-assist-rewasd.html)|`2024-10-03 19:13:00`|`Apex Legends`|
 |[DeadLock External &#124; AUTO UPDATES&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/664865-deadlock-external-auto-updates.html)|`2024-10-03 19:11:00`|`Deadlock`|
 |[Warframe &#124; Chams &#124; Loot/Coin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/600451-warframe-chams-loot-coin-changer.html)|`2024-10-03 19:07:00`|`Other FPS Games`|
