@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How I got my account restored after a 30 day ban&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663624-account-restored-30-day-ban.html)|`2024-10-04 05:29:00`|`Grand Theft Auto V`|
+|[Are irruegular ViewAngles visible?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/664590-irruegular-viewangles-visible.html)|`2024-10-04 05:27:00`|`Counter-Strike 2`|
+|[&#91;STEAM&#93; TCSM Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/649480-steam-tcsm-internal-cheat.html)|`2024-10-04 05:27:00`|`Other Games`|
 |[DMA Card won't turn on&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/664763-dma-card-wont.html)|`2024-10-04 05:16:00`|`PC Hardware`|
 |[Once Human &#40;game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/614970-human-game.html)|`2024-10-04 04:48:00`|`Other MMORPG and Strategy`|
 |[Black Ops II Plutonium ESP &#45; Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/636292-black-ops-ii-plutonium-esp-undetected.html)|`2024-10-04 04:29:00`|`Call of Duty: Black Ops 2`|
