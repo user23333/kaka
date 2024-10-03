@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA Card won't turn on&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/664763-dma-card-wont.html)|`2024-10-03 15:00:00`|`PC Hardware`|
+|[deadzone while smoothing mouse aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/664809-deadzone-smoothing-mouse-aimbot.html)|`2024-10-03 14:52:00`|`Counter-Strike 2`|
 |[Cheating Future&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/662449-cheating-future.html)|`2024-10-03 14:42:00`|`Off Topic`|
 |[Multiple instances of steam/csgo WITHOUT sandboxing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/585278-multiple-instances-steam-csgo-sandboxing.html)|`2024-10-03 14:42:00`|`Counterstrike Global Offensive`|
 |[Frameware &#91;Rigel based&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/664414-frameware-rigel-based.html)|`2024-10-03 13:40:00`|`Overwatch`|
