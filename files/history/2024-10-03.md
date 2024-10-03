@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Motherboard Spoof: DMIEdit not working? Here's what you can do&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/478661-motherboard-spoof-dmiedit-heres.html)|`2024-10-03 12:08:00`|`Anti-Cheat Bypass`|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2024-10-03 12:03:00`|`Deadlock`|
+|[theHunter: Call of the Wild Internal Radar, ESP, & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644365-thehunter-call-wild-internal-radar-esp.html)|`2024-10-03 12:02:00`|`Other FPS Games`|
+|[Laghaim hunt boot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/664796-laghaim-hunt-boot.html)|`2024-10-03 11:49:00`|`Programming for Beginners`|
 |[alternative communication from 2&#46; PC &#45; arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662296-alternative-communication-2-pc-arduino.html)|`2024-10-03 11:41:00`|`Valorant`|
 |[Vanguard Spoofer Rev 2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612562-vanguard-spoofer-rev-2-a.html)|`2024-10-03 11:00:00`|`Valorant`|
 |[Using Raspberry Pi to send inputs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664794-using-raspberry-pi-send-inputs.html)|`2024-10-03 10:56:00`|`Valorant`|
