@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BattlEye Bypass Source Code in C&#35;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/664907-battleye-bypass-source-code.html)|`2024-10-04 02:31:00`|`Grand Theft Auto V`|
+|[Selling HWID Banned PC / Parts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/663379-selling-hwid-banned-pc.html)|`2024-10-04 02:31:00`|`Off Topic`|
+|[DeadLock External &#124; AUTO UPDATES&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/664865-deadlock-external-auto-updates.html)|`2024-10-04 02:28:00`|`Deadlock`|
+|[Jitter Aim for Controller and MnK after patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662259-jitter-aim-controller-mnk-patch.html)|`2024-10-04 02:18:00`|`Apex Legends`|
 |[Sending inputs to an inactive window &#91;PoE&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/664936-sending-inputs-inactive-window-poe.html)|`2024-10-04 02:13:00`|`Other MMORPG and Strategy`|
 |[deadzone while smoothing mouse aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/664809-deadzone-smoothing-mouse-aimbot.html)|`2024-10-04 02:13:00`|`Counter-Strike 2`|
 |[&#40; Warning &#41; Avoid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/664939-warning-avoid.html)|`2024-10-04 02:13:00`|`Call of Duty: Modern Warfare III`|
