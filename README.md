@@ -27,9 +27,12 @@
 |76|[qteeq&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47101)|`2024-10-04 00:18:22`|
 |11|[qteeq&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47100)|`2024-10-04 00:18:22`|
 |0|[4&#46;27&#46;2&#45;2210529 TOL SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47126)|`2024-10-04 00:42:00`|
+|6|[Python Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47127)|`2024-10-04 07:23:27`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[C&#35; Remapper / Aim Assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/656729-remapper-aim-assist.html)|`2024-10-04 07:12:00`|`Apex Legends`|
+|[Aim Assist without reWASD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/621322-aim-assist-rewasd.html)|`2024-10-04 07:09:00`|`Apex Legends`|
 |[how does the new anti cheat ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/664973-anti-cheat-ban.html)|`2024-10-04 06:50:00`|`Grand Theft Auto V`|
 |[GTAHaX for 1&#46;69 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-69-external-thread-3-a.html)|`2024-10-04 06:49:00`|`Grand Theft Auto V`|
 |[YimMenu &#91;1&#46;69 &#45; b3274&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3274.html)|`2024-10-04 06:43:00`|`Grand Theft Auto V`|
