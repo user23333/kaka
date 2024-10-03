@@ -27,11 +27,11 @@ def markdown_escape(text):
 
 
 def get_between(s, first, last):
-    start = s.find(first) + len(first)
+    start = s.find(first)
     if start == -1:
         return None
 
-    end = s.find(last, start)
+    end = s.find(last, start + len(first))
     if end == -1:
         return None
 
