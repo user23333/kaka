@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SARD &#43; modified UPK files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/664657-sard-modified-upk-files.html)|`2024-10-03 18:45:00`|`All Points Bulletin`|
+|[silent ui, chinese wz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/661134-silent-ui-chinese-wz.html)|`2024-10-03 18:41:00`|`Call of Duty: Modern Warfare III`|
+|[Likelihood of vac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/647968-likelihood-vac.html)|`2024-10-03 18:41:00`|`Team Fortress 2`|
 |[How to read the Match Found state?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662246-read-match-found.html)|`2024-10-03 18:12:00`|`Counter-Strike 2`|
 |[DEVOUR &#45; Unlock All Robes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/439326-devour-unlock-robes.html)|`2024-10-03 18:05:00`|`Other Games`|
 |[2017 Charm Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/662758-2017-charm-method.html)|`2024-10-03 18:02:00`|`Rainbow Six Siege`|
