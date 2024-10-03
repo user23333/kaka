@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Using Raspberry Pi to send inputs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664794-using-raspberry-pi-send-inputs.html)|`2024-10-03 10:56:00`|`Valorant`|
+|[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2024-10-03 10:49:00`|`Grand Theft Auto V`|
+|[cs2 external silent aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/664619-cs2-external-silent-aimbot.html)|`2024-10-03 10:42:00`|`Counter-Strike 2`|
+|[Online Enabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663128-online-enabler.html)|`2024-10-03 10:41:00`|`Grand Theft Auto V`|
 |[About the Recent "Banwave"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/663648-recent-banwave.html)|`2024-10-03 10:31:00`|`Genshin Impact`|
 |[Warhammer 40,000: Space Marine 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/659896-warhammer-40-000-space-marine-2-a.html)|`2024-10-03 10:19:00`|`Other FPS Games`|
 |[simple kernel driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/651332-simple-kernel-driver.html)|`2024-10-03 09:54:00`|`Anti-Cheat Bypass`|
