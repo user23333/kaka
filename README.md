@@ -12,6 +12,7 @@
 |9|[winamp Certificate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/663423-winamp-certificate.html)|`2024-10-03 00:31:29`|`anti-cheat-bypass`|
 |23|[How to make a Triggerbot step by step](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663652-triggerbot-step-step.html)|`2024-10-03 00:31:29`|`valorant`|
 |11|[Vigor External Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/664346-vigor-external-hack.html)|`2024-10-03 01:28:46`|`other-fps-games`|
+|13|[SmmInfect &#45; Smm Backdoor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664482-smminfect-smm-backdoor.html)|`2024-10-03 23:22:22`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,6 +35,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2024-10-03 23:20:00`|`Elite: Dangerous`|
+|[Dead by Daylight &#45; Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625318-dead-daylight-unlock-dlcs-skins.html)|`2024-10-03 23:17:00`|`Other FPS Games`|
+|[The Finals Suspicious Players Account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/657065-finals-suspicious-players-account.html)|`2024-10-03 23:17:00`|`THE FINALS`|
+|[How I got my account restored after a 30 day ban&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663624-account-restored-30-day-ban.html)|`2024-10-03 23:08:00`|`Grand Theft Auto V`|
+|[BattlEye Bypass Source Code in C&#35;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/664907-battleye-bypass-source-code.html)|`2024-10-03 23:08:00`|`Grand Theft Auto V`|
 |[calling win32k func](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664342-calling-win32k-func.html)|`2024-10-03 22:41:00`|`Anti-Cheat Bypass`|
 |[void client source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/664904-void-client-source-code.html)|`2024-10-03 22:36:00`|`Minecraft`|
 |[Apex CV YOLO v8 Aim Assist Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/624584-apex-cv-yolo-v8-aim-assist-bot.html)|`2024-10-03 22:36:00`|`Apex Legends`|
