@@ -32,9 +32,12 @@
 |6|[VigorInternal v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47110)|`2024-10-03 01:41:23`|
 |10|[rigel src oct update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47115)|`2024-10-03 02:27:26`|
 |10|[rigel upd](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47116)|`2024-10-03 02:47:08`|
+|2|[Rigel Auto Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47118)|`2024-10-03 23:38:57`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Find C2W in Sword with Sauce](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/664913-c2w-sword-sauce.html)|`2024-10-03 23:29:00`|`Unreal Engine 4`|
+|[Sentinel Guard &#45; Steam launch option for protection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/641085-sentinel-guard-steam-launch-option-protection.html)|`2024-10-03 23:25:00`|`Apex Legends`|
 |[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2024-10-03 23:20:00`|`Elite: Dangerous`|
 |[Dead by Daylight &#45; Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625318-dead-daylight-unlock-dlcs-skins.html)|`2024-10-03 23:17:00`|`Other FPS Games`|
 |[The Finals Suspicious Players Account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/657065-finals-suspicious-players-account.html)|`2024-10-03 23:17:00`|`THE FINALS`|
