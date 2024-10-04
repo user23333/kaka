@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Member of the Month &#45; October 2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/664560-month-october-2024-a.html)|`2024-10-04 10:16:00`|`Member of the Month`|
+|[Anything new cheat wise?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/661842-cheat-wise.html)|`2024-10-04 09:50:00`|`Garry's Mod`|
 |[Injector &#43; Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/665004-injector-internal-cheat.html)|`2024-10-04 09:01:00`|`Deadlock`|
 |[Help First memory reading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/665008-help-memory-reading.html)|`2024-10-04 08:58:00`|`Combat Master`|
 |[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2024-10-04 08:50:00`|`Grand Theft Auto V`|
