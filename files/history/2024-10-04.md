@@ -15,6 +15,7 @@
 |12|[Dale and Dawson Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/664163-dale-dawson-mod-menu.html)|`2024-10-04 06:09:37`|`other-games`|
 |3|[About the Recent "Banwave"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/663648-recent-banwave.html)|`2024-10-04 14:27:48`|`genshin-impact`|
 |6|[Tarkov Item Companion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/663594-tarkov-item-companion.html)|`2024-10-04 16:38:21`|`escape-from-tarkov`|
+|15|[Just a vanguard bypass with Python &#40;Still working&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664827-vanguard-bypass-python.html)|`2024-10-04 17:13:58`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA cheats make my pc crash/lag hard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/664585-dma-cheats-pc-crash-lag-hard.html)|`2024-10-04 16:47:00`|`PC Hardware`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2024-10-04 16:40:00`|`Other FPS Games`|
+|[TriggerBot &#43; AimAssist Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/657777-triggerbot-aimassist-source.html)|`2024-10-04 16:34:00`|`Valorant`|
 |[Nothing for F124?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/652741-f124.html)|`2024-10-04 16:50:00`|`Other Games`|
 |[TPM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/649260-tpm-spoofer.html)|`2024-10-04 16:48:00`|`Valorant`|
 |[Modified Odin V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/585919-modified-odin-v1.html)|`2024-10-04 16:00:00`|`Paladins`|
