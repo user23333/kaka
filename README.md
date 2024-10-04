@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unlock tool with DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/665024-unlock-tool-dma.html)|`2024-10-04 13:20:00`|`Call of Duty: Modern Warfare III`|
+|[Controller no recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/660065-controller-recoil.html)|`2024-10-04 13:17:00`|`Call of Duty: Modern Warfare III`|
 |[Titanfall 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/191976-titanfall-2-reversal-structs-offsets.html)|`2024-10-04 12:54:00`|`Titanfall`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2024-10-04 12:51:00`|`Other FPS Games`|
 |[Does deadlock HWID or IP banned ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/660743-deadlock-hwid-ip-banned.html)|`2024-10-04 12:41:00`|`Deadlock`|
