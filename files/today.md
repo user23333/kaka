@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[F&#46;E&#46;A&#46;R&#46; Combat v1&#46;08 or SEC2 or Perseus Mandate v1&#46;0 hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/fear/630559-combat-v1-08-sec2-perseus-mandate-v1-0-hack.html)|`2024-10-05 07:46:00`|`FEAR`|
 |[Really weird question regarding EAC and old account bans&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/663830-weird-question-regarding-eac-account-bans.html)|`2024-10-05 07:15:00`|`Forum General`|
 |[Roblox DMA cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/653168-roblox-dma-cheat.html)|`2024-10-05 07:14:00`|`Forum General`|
 |[TX&#45;Admin Unban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/663968-tx-admin-unban.html)|`2024-10-05 07:08:00`|`Alternative Online Mods`|
