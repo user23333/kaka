@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[about AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662127-ahk.html)|`2024-10-04 11:46:00`|`Apex Legends`|
 |[Auto Updating Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/636910-auto-updating-super-animal-royale-hack.html)|`2024-10-04 11:25:00`|`Other Games`|
 |[Loading NaturalVision Evolved in GTA Online Causing Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/651856-loading-naturalvision-evolved-gta-online-causing-crash.html)|`2024-10-04 11:23:00`|`Grand Theft Auto V`|
 |[DeadLock External &#124;&#124; AUTO UPDATES&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/665019-deadlock-external-auto-updates.html)|`2024-10-04 10:58:00`|`Deadlock`|
