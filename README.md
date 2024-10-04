@@ -13,6 +13,7 @@
 |13|[SmmInfect &#45; Smm Backdoor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664482-smminfect-smm-backdoor.html)|`2024-10-04 00:18:22`|`anti-cheat-bypass`|
 |11|[Legit player ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663701-legit-player-ban.html)|`2024-10-04 03:25:37`|`grand-theft-auto-v`|
 |12|[Dale and Dawson Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/664163-dale-dawson-mod-menu.html)|`2024-10-04 06:09:37`|`other-games`|
+|3|[About the Recent "Banwave"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/663648-recent-banwave.html)|`2024-10-04 14:27:48`|`genshin-impact`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Thread for Posting Pve Exploits &#40;software free&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/647317-thread-posting-pve-exploits-software-free.html)|`2024-10-04 14:27:00`|`Escape from Tarkov`|
+|[Spectre Divide Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/660659-spectre-divide-colorbot.html)|`2024-10-04 14:19:00`|`Other FPS Games`|
 |[Tom Clancys XDefiant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/xdefiant/464903-tom-clancys-xdefiant-reversal-structs-offsets.html)|`2024-10-04 13:29:00`|`xDefiant`|
 |[Unlock tool with DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/665024-unlock-tool-dma.html)|`2024-10-04 13:20:00`|`Call of Duty: Modern Warfare III`|
 |[Controller no recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/660065-controller-recoil.html)|`2024-10-04 13:17:00`|`Call of Duty: Modern Warfare III`|
