@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Supermarket Together Unlimited franchise points/money](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/656495-supermarket-unlimited-franchise-money.html)|`2024-10-05 06:46:00`|`Other MMORPG and Strategy`|
 |[DeadLock External &#124;&#124; AUTO UPDATES&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/665019-deadlock-external-auto-updates.html)|`2024-10-05 06:42:00`|`Deadlock`|
 |[latest struct c&#95;model?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665180-struct-c_model.html)|`2024-10-05 06:39:00`|`Counter-Strike 2`|
 |[&#91;external&#93;problem with viewmatrix/world to screen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/665178-external-viewmatrix-world-screen.html)|`2024-10-05 06:35:00`|`League of Legends`|
