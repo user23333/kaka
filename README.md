@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is compiled AHK bannable?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/665108-compiled-ahk-bannable.html)|`2024-10-04 23:31:00`|`Valorant`|
 |[CS2 external esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/600259-cs2-external-esp.html)|`2024-10-04 23:14:00`|`Counter-Strike 2 Releases`|
 |[Patience &#45; An External Linux Cheat &#91;Overlay/CLI&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/648832-patience-external-linux-cheat-overlay-cli.html)|`2024-10-04 23:02:00`|`Apex Legends`|
 |[Multiple instances of steam/csgo WITHOUT sandboxing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/585278-multiple-instances-steam-csgo-sandboxing.html)|`2024-10-04 22:46:00`|`Counterstrike Global Offensive`|
