@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Heist Editor v3&#46;6 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/451205-heist-editor-v3-6-external.html)|`2024-10-04 14:49:00`|`Grand Theft Auto V`|
 |[Do Bans carry over to other games?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/657912-bans-carry-games.html)|`2024-10-04 14:33:00`|`Call of Duty: Black Ops 6`|
 |[Planetside 2 cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/643223-planetside-2-cheating.html)|`2024-10-04 14:31:00`|`PlanetSide 2`|
 |[Does Cheat Engine Get Auto&#45;Detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/660322-cheat-engine-auto-detected.html)|`2024-10-04 14:31:00`|`Call of Duty: Black Ops 6`|
