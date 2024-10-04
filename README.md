@@ -14,6 +14,7 @@
 |11|[Legit player ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663701-legit-player-ban.html)|`2024-10-04 03:25:37`|`grand-theft-auto-v`|
 |12|[Dale and Dawson Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/664163-dale-dawson-mod-menu.html)|`2024-10-04 06:09:37`|`other-games`|
 |3|[About the Recent "Banwave"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/663648-recent-banwave.html)|`2024-10-04 14:27:48`|`genshin-impact`|
+|6|[Tarkov Item Companion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/663594-tarkov-item-companion.html)|`2024-10-04 16:38:21`|`escape-from-tarkov`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
