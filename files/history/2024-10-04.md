@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Do Bans carry over to other games?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/657912-bans-carry-games.html)|`2024-10-04 14:33:00`|`Call of Duty: Black Ops 6`|
+|[Planetside 2 cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/643223-planetside-2-cheating.html)|`2024-10-04 14:31:00`|`PlanetSide 2`|
+|[Does Cheat Engine Get Auto&#45;Detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/660322-cheat-engine-auto-detected.html)|`2024-10-04 14:31:00`|`Call of Duty: Black Ops 6`|
+|[Anti Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/663482-anti-cheat.html)|`2024-10-04 14:27:00`|`Call of Duty: Black Ops 6`|
 |[Thread for Posting Pve Exploits &#40;software free&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/647317-thread-posting-pve-exploits-software-free.html)|`2024-10-04 14:27:00`|`Escape from Tarkov`|
 |[Spectre Divide Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/660659-spectre-divide-colorbot.html)|`2024-10-04 14:19:00`|`Other FPS Games`|
 |[Tom Clancys XDefiant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/xdefiant/464903-tom-clancys-xdefiant-reversal-structs-offsets.html)|`2024-10-04 13:29:00`|`xDefiant`|
