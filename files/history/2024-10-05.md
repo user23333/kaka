@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Really weird question regarding EAC and old account bans&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/663830-weird-question-regarding-eac-account-bans.html)|`2024-10-05 07:15:00`|`Forum General`|
+|[Roblox DMA cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/653168-roblox-dma-cheat.html)|`2024-10-05 07:14:00`|`Forum General`|
+|[TX&#45;Admin Unban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/663968-tx-admin-unban.html)|`2024-10-05 07:08:00`|`Alternative Online Mods`|
+|[FiveM New Anti Spoofing Updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/665047-fivem-anti-spoofing-updates.html)|`2024-10-05 07:03:00`|`Alternative Online Mods`|
 |[Supermarket Together Unlimited franchise points/money](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/656495-supermarket-unlimited-franchise-money.html)|`2024-10-05 06:46:00`|`Other MMORPG and Strategy`|
 |[DeadLock External &#124;&#124; AUTO UPDATES&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/665019-deadlock-external-auto-updates.html)|`2024-10-05 06:42:00`|`Deadlock`|
 |[latest struct c&#95;model?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665180-struct-c_model.html)|`2024-10-05 06:39:00`|`Counter-Strike 2`|
