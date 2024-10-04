@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to read the Match Found state?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662246-read-match-found.html)|`2024-10-04 12:25:00`|`Counter-Strike 2`|
+|[hide cmd](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664723-hide-cmd.html)|`2024-10-04 12:16:00`|`Valorant`|
 |[about AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662127-ahk.html)|`2024-10-04 11:46:00`|`Apex Legends`|
 |[Auto Updating Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/636910-auto-updating-super-animal-royale-hack.html)|`2024-10-04 11:25:00`|`Other Games`|
 |[Loading NaturalVision Evolved in GTA Online Causing Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/651856-loading-naturalvision-evolved-gta-online-causing-crash.html)|`2024-10-04 11:23:00`|`Grand Theft Auto V`|
