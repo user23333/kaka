@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[mw19 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/631846-mw19-cheat.html)|`2024-10-05 06:16:00`|`Call of Duty: Modern Warfare`|
+|[Lockdown Protocol Cheat Table v0&#46;1&#46;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/659299-lockdown-protocol-cheat-table-v0-1-26-a.html)|`2024-10-05 06:11:00`|`Other Games`|
+|[Gold Weapons Hack for Blackops 1&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/662592-gold-weapons-hack-blackops-1-a.html)|`2024-10-05 06:09:00`|`Call of Duty: Black Ops`|
 |[Anything new cheat wise?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/661842-cheat-wise.html)|`2024-10-05 06:03:00`|`Garry's Mod`|
 |[help with latest update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/664972-help-update.html)|`2024-10-05 06:01:00`|`Counter-Strike 2`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2024-10-05 05:43:00`|`Rainbow Six Siege`|
