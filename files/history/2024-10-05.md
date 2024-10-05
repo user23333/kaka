@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to update offsets for a cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/665229-update-offsets-cheat.html)|`2024-10-05 14:37:00`|`Call of Duty: Modern Warfare III`|
+|[Hide n Seek AutoPlayBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/665228-hide-seek-autoplaybot.html)|`2024-10-05 14:35:00`|`Among Us`|
 |[Operation Endgame](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/665227-operation-endgame.html)|`2024-10-05 14:28:00`|`Off Topic`|
 |[ASUS Motherboard AMI Bios Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/410818-asus-motherboard-ami-bios-spoofing.html)|`2024-10-05 14:15:00`|`Anti-Cheat Bypass`|
 |[Blazing Sails Hack &#91;Win10&#93; &#91;Steam/EGS&#93; &#124; ESP &#124; SpeedHack &#124; NoClip &#124; More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620821-blazing-sails-hack-win10-steam-egs-esp-speedhack-noclip.html)|`2024-10-05 13:55:00`|`Other FPS Games`|
