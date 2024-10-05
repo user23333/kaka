@@ -11,6 +11,7 @@
 |11|[Legit player ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663701-legit-player-ban.html)|`2024-10-05 00:24:44`|`grand-theft-auto-v`|
 |3|[About the Recent "Banwave"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/663648-recent-banwave.html)|`2024-10-05 00:24:44`|`genshin-impact`|
 |8|[FAQ &#40;03/10/2024&#41; BattlEye & Grand Theft Auto Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/664816-faq-03-10-2024-battleye-grand-theft-auto-online.html)|`2024-10-05 00:24:44`|`grand-theft-auto-v`|
+|15|[Frameware &#91;Rigel based&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/664414-frameware-rigel-based.html)|`2024-10-05 14:31:59`|`overwatch`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Operation Endgame](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/665227-operation-endgame.html)|`2024-10-05 14:28:00`|`Off Topic`|
+|[ASUS Motherboard AMI Bios Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/410818-asus-motherboard-ami-bios-spoofing.html)|`2024-10-05 14:15:00`|`Anti-Cheat Bypass`|
 |[Blazing Sails Hack &#91;Win10&#93; &#91;Steam/EGS&#93; &#124; ESP &#124; SpeedHack &#124; NoClip &#124; More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620821-blazing-sails-hack-win10-steam-egs-esp-speedhack-noclip.html)|`2024-10-05 13:55:00`|`Other FPS Games`|
 |[Mech Warrior Online esp?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/665226-mech-warrior-online-esp.html)|`2024-10-05 13:54:00`|`Other FPS Games`|
 |[Lv1 ACC JOIN RANKED MATCH METHOD?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664338-lv1-acc-join-ranked-match-method.html)|`2024-10-05 13:47:00`|`Valorant`|
