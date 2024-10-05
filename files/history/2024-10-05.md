@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I have some code but i don't know how use it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/660948-code-dont.html)|`2024-10-05 21:46:00`|`Call of Duty: Modern Warfare III`|
 |[get key easily in internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/647850-key-easily-internal.html)|`2024-10-05 21:33:00`|`Overwatch`|
 |[Macros with synapse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/663591-macros-synapse.html)|`2024-10-05 21:05:00`|`Apex Legends`|
 |[SmmInfect &#45; Smm Backdoor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664482-smminfect-smm-backdoor.html)|`2024-10-05 20:59:00`|`Anti-Cheat Bypass`|
