@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 external esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/600259-cs2-external-esp.html)|`2024-10-06 07:49:00`|`Counter-Strike 2 Releases`|
+|[How to make colorbot better](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/645675-colorbot.html)|`2024-10-06 07:45:00`|`Valorant`|
+|[DMA Template for Development](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/642258-dma-template-development.html)|`2024-10-06 07:43:00`|`General Programming and Reversing`|
 |[Reversing fundamentals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/665389-reversing-fundamentals.html)|`2024-10-06 07:39:00`|`General Programming and Reversing`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-10-06 07:18:00`|`Valorant`|
 |[What did the armory update do](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665382-armory-update.html)|`2024-10-06 07:15:00`|`Counter-Strike 2`|
