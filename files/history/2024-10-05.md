@@ -14,6 +14,7 @@
 |15|[Frameware &#91;Rigel based&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/664414-frameware-rigel-based.html)|`2024-10-05 14:31:59`|`overwatch`|
 |20|[Spoofing , what im doing wrong](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663814-spoofing-im-doing-wrong.html)|`2024-10-05 15:36:05`|`valorant`|
 |5|[InstaLocker Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664623-instalocker-valorant.html)|`2024-10-05 18:36:14`|`valorant`|
+|4|[Valorant DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664033-valorant-dma-source.html)|`2024-10-05 19:50:12`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
