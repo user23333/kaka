@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Liar’s Bar Cheats? &#40;Card Game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/665349-liar-bar-cheats-card-game.html)|`2024-10-06 04:29:00`|`Other Games`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2024-10-06 04:27:00`|`Overwatch`|
 |[Please help for offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/665327-please-help-offset.html)|`2024-10-06 04:06:00`|`Other Games`|
 |[DeadLock External &#124;&#124; AUTO UPDATES&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/665019-deadlock-external-auto-updates.html)|`2024-10-06 04:00:00`|`Deadlock`|
 |[Dale and Dawson Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/664163-dale-dawson-mod-menu.html)|`2024-10-06 04:00:00`|`Other Games`|
