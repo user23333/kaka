@@ -13,6 +13,7 @@
 |8|[FAQ &#40;03/10/2024&#41; BattlEye & Grand Theft Auto Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/664816-faq-03-10-2024-battleye-grand-theft-auto-online.html)|`2024-10-05 00:24:44`|`grand-theft-auto-v`|
 |15|[Frameware &#91;Rigel based&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/664414-frameware-rigel-based.html)|`2024-10-05 14:31:59`|`overwatch`|
 |20|[Spoofing , what im doing wrong](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663814-spoofing-im-doing-wrong.html)|`2024-10-05 15:36:05`|`valorant`|
+|5|[InstaLocker Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664623-instalocker-valorant.html)|`2024-10-05 18:36:14`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2024-10-05 18:32:00`|`Grand Theft Auto V`|
+|[OV3RSW33T: AN OVERWAT Pack: Reborn & Recoded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/603412-ov3rsw33t-overwat-pack-reborn-recoded.html)|`2024-10-05 18:23:00`|`Overwatch`|
 |[Supermarket Together Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/665134-supermarket-cheat-table.html)|`2024-10-05 18:11:00`|`Cheat Engine Tables`|
 |[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2024-10-05 17:46:00`|`Palia`|
 |[CS2 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/614111-cs2-internal-cheat.html)|`2024-10-05 17:52:00`|`Counter-Strike 2`|
