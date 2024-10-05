@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2024-10-06 02:34:00`|`Deadlock`|
+|[Anyone have B2372](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/665336-b2372.html)|`2024-10-06 02:32:00`|`Alternative Online Mods`|
+|[Recoil Helpy &#91;GHUB&#93;&#91;Mouse only&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/610096-recoil-helpy-ghub-mouse.html)|`2024-10-06 02:22:00`|`Rainbow Six Siege`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2024-10-06 02:14:00`|`Apex Legends`|
 |[Something hackable in Roblox?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/664483-hackable-roblox.html)|`2024-10-06 02:11:00`|`Forum General`|
 |[Simple Deadlock Internal &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/664240-simple-deadlock-internal-source.html)|`2024-10-06 02:06:00`|`Deadlock`|
 |[Does deadlock HWID or IP banned ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/660743-deadlock-hwid-ip-banned.html)|`2024-10-06 02:05:00`|`Deadlock`|
