@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vectored &#91;Exception&#93; Handlers on x64 Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/567151-vectored-exception-handlers-x64-windows.html)|`2024-10-06 04:43:00`|`C and C++`|
+|[VAL 5 After a HWID Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/665280-val-5-hwid-ban.html)|`2024-10-06 04:37:00`|`Valorant`|
 |[Liar’s Bar Cheats? &#40;Card Game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/665349-liar-bar-cheats-card-game.html)|`2024-10-06 04:29:00`|`Other Games`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2024-10-06 04:27:00`|`Overwatch`|
 |[Please help for offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/665327-please-help-offset.html)|`2024-10-06 04:06:00`|`Other Games`|
