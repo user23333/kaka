@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Reversing fundamentals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/665389-reversing-fundamentals.html)|`2024-10-06 07:39:00`|`General Programming and Reversing`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-10-06 07:18:00`|`Valorant`|
 |[What did the armory update do](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665382-armory-update.html)|`2024-10-06 07:15:00`|`Counter-Strike 2`|
 |[Vigor External Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/664346-vigor-external-hack.html)|`2024-10-06 07:03:00`|`Other FPS Games`|
