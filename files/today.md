@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DEVOUR &#45; Unlock All Robes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/439326-devour-unlock-robes.html)|`2024-10-06 01:30:00`|`Other Games`|
+|[New method to make arduino UD again part 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/661526-method-arduino-ud-2-a.html)|`2024-10-06 01:23:00`|`Valorant`|
 |[Throne and Liberty Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/649981-throne-liberty-reversal-structs-offsets.html)|`2024-10-06 01:14:00`|`Other MMORPG and Strategy`|
 |[COD CP exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/616611-cod-cp-exploit.html)|`2024-10-06 01:04:00`|`Call of Duty: Modern Warfare III`|
 |[Question regarding PresentPattern](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/664148-question-regarding-presentpattern.html)|`2024-10-06 01:03:00`|`Garry's Mod`|
