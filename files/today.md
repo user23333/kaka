@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-10-06 07:18:00`|`Valorant`|
+|[What did the armory update do](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665382-armory-update.html)|`2024-10-06 07:15:00`|`Counter-Strike 2`|
+|[Vigor External Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/664346-vigor-external-hack.html)|`2024-10-06 07:03:00`|`Other FPS Games`|
+|[stats editing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/665385-stats-editing.html)|`2024-10-06 06:58:00`|`Combat Master`|
 |[Mortal Online 2 Radar &#91;External, Linux, Python&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/631028-mortal-online-2-radar-external-linux-python.html)|`2024-10-06 07:08:00`|`Other MMORPG and Strategy`|
 |[Ragnarok Origin Global PC cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/624052-ragnarok-origin-global-pc-cheat.html)|`2024-10-06 07:07:00`|`Other MMORPG and Strategy`|
 |[OV3RSW33T: AN OVERWAT Pack: Reborn & Recoded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/603412-ov3rsw33t-overwat-pack-reborn-recoded.html)|`2024-10-06 06:48:00`|`Overwatch`|
