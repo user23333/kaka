@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[i wanna learn how to make cheat clients](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/665152-wanna-learn-cheat-clients.html)|`2024-10-05 09:44:00`|`Forum General`|
+|[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2024-10-05 09:32:00`|`Escape from Tarkov`|
+|[SCS2 &#45; Semi&#45;External Mod for Counter&#45;Strike 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/651580-scs2-semi-external-mod-counter-strike-2-a.html)|`2024-10-05 09:23:00`|`Counter-Strike 2 Releases`|
+|[xenoverse 2 how to get super op attributes works online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/564855-xenoverse-2-super-op-attributes-online.html)|`2024-10-05 09:22:00`|`Other Games`|
 |[is there at least 1 free esp cheat on the finals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/636781-1-free-esp-cheat-finals.html)|`2024-10-05 08:38:00`|`THE FINALS`|
 |[External Farlight 84 Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/661656-external-farlight-84-free-cheat.html)|`2024-10-05 08:07:00`|`Farlight 84`|
 |[Hunt shadow dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632057-hunt-shadow-dma.html)|`2024-10-05 08:07:00`|`Other FPS Games`|
