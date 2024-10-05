@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2024-10-05 22:21:00`|`Other FPS Games`|
+|[BattlEye Bypass Source Code in C&#35;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/664907-battleye-bypass-source-code.html)|`2024-10-05 22:14:00`|`Grand Theft Auto V`|
+|[Skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665302-skinchanger.html)|`2024-10-05 22:07:00`|`Counter-Strike 2`|
+|[CCHook:Reloaded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/return-to-castle-wolfenstein/492818-cchook-reloaded.html)|`2024-10-05 22:05:00`|`Return To Castle Wolfenstein`|
 |[how does the new anti cheat ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/664973-anti-cheat-ban.html)|`2024-10-05 22:02:00`|`Grand Theft Auto V`|
 |[modded cars for yim menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/665300-modded-cars-yim-menu.html)|`2024-10-05 21:55:00`|`Grand Theft Auto V`|
 |[Can't read waypoint coords](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/665299-cant-read-waypoint-coords.html)|`2024-10-05 21:54:00`|`Alternative Online Mods`|
