@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to bypass Faceit AC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665005-bypass-faceit-ac.html)|`2024-10-07 05:00:00`|`Counter-Strike 2`|
+|[Crossfire hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/665399-crossfire-hack.html)|`2024-10-07 04:58:00`|`CrossFire`|
+|[Once Human &#40;game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/614970-human-game.html)|`2024-10-07 04:54:00`|`Other MMORPG and Strategy`|
+|[FamilyMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/631659-familymenu.html)|`2024-10-07 04:53:00`|`Red Dead Redemption 2`|
+|[Are triggerbots detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/665412-triggerbots-detected.html)|`2024-10-07 04:49:00`|`Valorant`|
 |[Company of Heroes 3 maphack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/663169-company-heroes-3-maphack.html)|`2024-10-07 04:33:00`|`Other MMORPG and Strategy`|
 |[Cheat loaders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/661850-cheat-loaders.html)|`2024-10-07 04:22:00`|`General Programming and Reversing`|
 |[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-10-07 04:22:00`|`Counter-Strike 2`|
