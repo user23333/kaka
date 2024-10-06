@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6 accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/665150-r6-accounts.html)|`2024-10-07 06:55:00`|`Rainbow Six Siege`|
 |[need cs2 nav files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/649398-cs2-nav-files.html)|`2024-10-07 06:05:00`|`Counter-Strike 2`|
 |[STAR GLITCH PATCHED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665546-star-glitch-patched.html)|`2024-10-07 05:46:00`|`Counter-Strike 2`|
 |[Dead by Daylight &#45; Skin Unlocker and Perk Unlocker &#124; Fiddler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662687-dead-daylight-skin-unlocker-perk-unlocker-fiddler.html)|`2024-10-07 05:38:00`|`Other FPS Games`|
