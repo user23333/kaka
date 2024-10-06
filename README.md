@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[pak server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/665416-pak-server.html)|`2024-10-06 16:05:00`|`Sea of Thieves`|
+|[is there any free injector &#43; a cheat that works in 64bits?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/665218-free-injector-cheat-64bits.html)|`2024-10-06 15:58:00`|`Team Fortress 2`|
+|[Unturned Online Cheat &#91;ESP/AIMBOT/ETC&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/618970-unturned-online-cheat-esp-aimbot-etc.html)|`2024-10-06 15:56:00`|`Other FPS Games`|
 |[Setting Angles in CreateMove](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/665415-setting-angles-createmove.html)|`2024-10-06 15:22:00`|`Deadlock`|
 |[Spoofing Nvidia's UUID &#40;kernel &#45; hookless&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/575441-spoofing-nvidias-uuid-kernel-hookless.html)|`2024-10-06 15:16:00`|`Anti-Cheat Bypass`|
 |[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2024-10-06 14:33:00`|`Grand Theft Auto V`|
