@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-10-07 02:52:00`|`Overwatch`|
+|[Bypassing VAC externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665135-bypassing-vac-externally.html)|`2024-10-07 02:52:00`|`Counter-Strike 2`|
+|[Member of the Month &#45; October 2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/664560-month-october-2024-a.html)|`2024-10-07 02:42:00`|`Member of the Month`|
+|[7DtD Dll Help&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/assembly/665530-7dtd-dll-help.html)|`2024-10-07 02:38:00`|`Assembly`|
+|[Liar’s Bar Cheats? &#40;Card Game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/665349-liar-bar-cheats-card-game.html)|`2024-10-07 02:36:00`|`Other Games`|
 |[Anti Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/663482-anti-cheat.html)|`2024-10-07 02:28:00`|`Call of Duty: Black Ops 6`|
 |[&#91;BrawlHalla BotMonster&#93; Improving BotMonster](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/664219-brawlhalla-botmonster-improving-botmonster.html)|`2024-10-07 02:26:00`|`Other Games`|
 |[pak server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/665416-pak-server.html)|`2024-10-07 02:15:00`|`Sea of Thieves`|
