@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RECOIL SCRIPT AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665287-recoil-script-ahk.html)|`2024-10-06 17:20:00`|`Counter-Strike 2`|
+|[How safe is logitech GHub scripting?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/665421-safe-logitech-ghub-scripting.html)|`2024-10-06 17:15:00`|`Playerunknown's Battlegrounds`|
+|[modded cars for yim menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/665300-modded-cars-yim-menu.html)|`2024-10-06 17:09:00`|`Grand Theft Auto V`|
 |[How to make neostrafe macro????](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/665417-neostrafe-macro.html)|`2024-10-06 16:25:00`|`Apex Legends`|
 |[pak server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/665416-pak-server.html)|`2024-10-06 16:05:00`|`Sea of Thieves`|
 |[is there any free injector &#43; a cheat that works in 64bits?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/665218-free-injector-cheat-64bits.html)|`2024-10-06 15:58:00`|`Team Fortress 2`|
