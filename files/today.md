@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[LLA Injector Crashing with Adheasive on&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/654312-lla-injector-crashing-adheasive.html)|`2024-10-07 01:12:00`|`Alternative Online Mods`|
+|[&#91;STEAM&#93; TCSM Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/649480-steam-tcsm-internal-cheat.html)|`2024-10-07 01:04:00`|`Other Games`|
+|[Finding decryption routines](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/665514-finding-decryption-routines.html)|`2024-10-07 00:59:00`|`Rust`|
 |[Rust Game Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/665340-rust-game-ban.html)|`2024-10-07 00:52:00`|`Rust`|
 |[Throne and Liberty hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/665328-throne-liberty-hack.html)|`2024-10-07 00:50:00`|`Other MMORPG and Strategy`|
 |[get key easily in internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/647850-key-easily-internal.html)|`2024-10-07 00:47:00`|`Overwatch`|
