@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[armory pass stars farm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665378-armory-pass-stars-farm.html)|`2024-10-07 01:43:00`|`Counter-Strike 2`|
+|[New Rigel External Ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/658144-rigel-external-ow2.html)|`2024-10-07 01:40:00`|`Overwatch`|
+|[Why The Government Wants People To Get Teslas & Create Stupid Pawns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/664517-government-people-teslas-create-stupid-pawns.html)|`2024-10-07 01:38:00`|`Off Topic`|
 |[FPS problem with ImGui &#40;Metal&#45;OSX&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/665516-fps-imgui-metal-osx.html)|`2024-10-07 01:28:00`|`League of Legends`|
 |[How to spawn armour with insert?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/665344-spawn-armour-insert.html)|`2024-10-07 01:28:00`|`Escape from Tarkov`|
 |[halloween map crashes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/665145-halloween-map-crashes.html)|`2024-10-07 01:21:00`|`Team Fortress 2`|
