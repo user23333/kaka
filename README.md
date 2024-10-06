@@ -31,9 +31,13 @@
 |2|[MO2&#45;Radar&#45;1&#46;1&#46;3&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47117)|`2024-10-06 07:09:49`|
 |3|[SieraZulu's PVE Cheat &#91;Updated 04/10&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47132)|`2024-10-06 18:34:57`|
 |4|[vheicles&#46;rar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47142)|`2024-10-06 18:47:43`|
+|1|[DeadlockInjector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47147)|`2024-10-06 23:09:41`|
+|1|[Roblox&#45;Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47145)|`2024-10-06 23:09:41`|
+|1|[smm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47144)|`2024-10-06 23:09:41`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vigor internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662490-vigor-internal-cheat.html)|`2024-10-06 22:59:00`|`Other FPS Games`|
 |[Kmbox B&#43;/Net Firmware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/631407-kmbox-net-firmware.html)|`2024-10-06 22:48:00`|`Other Hardware`|
 |[need latests H for sdk so i can code some RunString](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/665500-latests-sdk-code-runstring.html)|`2024-10-06 22:35:00`|`Garry's Mod`|
 |[mw19 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/631846-mw19-cheat.html)|`2024-10-06 22:27:00`|`Call of Duty: Modern Warfare`|
