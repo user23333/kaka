@@ -24,9 +24,18 @@
 |905|[YimMenu&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47134)|`2024-10-07 00:21:51`|
 |56|[SieraZulu's PVE Cheat &#91;Updated 04/10&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47132)|`2024-10-07 00:21:51`|
 |13|[RemedyBS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47131)|`2024-10-07 00:21:51`|
+|1|[AutoPlayBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47141)|`2024-10-07 00:53:07`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Game Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/665340-rust-game-ban.html)|`2024-10-07 00:52:00`|`Rust`|
+|[Throne and Liberty hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/665328-throne-liberty-hack.html)|`2024-10-07 00:50:00`|`Other MMORPG and Strategy`|
+|[get key easily in internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/647850-key-easily-internal.html)|`2024-10-07 00:47:00`|`Overwatch`|
+|[Hide n Seek AutoPlayBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/665228-hide-seek-autoplaybot.html)|`2024-10-07 00:46:00`|`Among Us`|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-10-07 00:41:00`|`Apex Legends`|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2024-10-07 00:41:00`|`Other FPS Games`|
+|[health offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665419-health-offset.html)|`2024-10-07 00:41:00`|`Counter-Strike 2`|
+|[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2024-10-07 00:40:00`|`Grand Theft Auto V`|
 |[utilsV &#124;&#124; Easy to use Lobby Reveal &#43; Booster &#43; Refund & more&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/577538-utilsv-easy-lobby-reveal-booster-refund.html)|`2024-10-07 00:26:00`|`League of Legends`|
 |[How to remove HWID ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/665342-remove-hwid-ban.html)|`2024-10-07 00:26:00`|`Deadlock`|
 |[Dale and Dawson Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/664163-dale-dawson-mod-menu.html)|`2024-10-07 00:25:00`|`Other Games`|
