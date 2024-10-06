@@ -25,9 +25,13 @@
 |56|[SieraZulu's PVE Cheat &#91;Updated 04/10&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47132)|`2024-10-07 00:21:51`|
 |13|[RemedyBS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47131)|`2024-10-07 00:21:51`|
 |1|[AutoPlayBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47141)|`2024-10-07 00:53:07`|
+|7|[Cs2 DX11 External Overlay Cheat v4&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47140)|`2024-10-07 04:22:55`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat loaders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/661850-cheat-loaders.html)|`2024-10-07 04:22:00`|`General Programming and Reversing`|
+|[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-10-07 04:22:00`|`Counter-Strike 2`|
+|[ApexCheats available for Switch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/663556-apexcheats-available-switch.html)|`2024-10-07 04:13:00`|`Apex Legends`|
 |[How to Retrieve PID from a Process Handle Obtained via NtQuerySystemInformation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/665537-retrieve-pid-process-handle-obtained-via-ntquerysysteminformation.html)|`2024-10-07 03:49:00`|`General Programming and Reversing`|
 |[Once Human Cheat &#40;TP, ESP, &#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/665539-human-cheat-tp-esp.html)|`2024-10-07 03:48:00`|`Other MMORPG and Strategy`|
 |[What did the armory update do](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665382-armory-update.html)|`2024-10-07 03:37:00`|`Counter-Strike 2`|
