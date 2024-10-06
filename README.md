@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[what menu to use?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/665041-menu.html)|`2024-10-06 14:27:00`|`Grand Theft Auto V`|
+|[Shadowban question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/665020-shadowban-question.html)|`2024-10-06 14:22:00`|`Call of Duty: Modern Warfare III`|
+|[Aim assit controler emulador](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/657895-aim-assit-controler-emulador.html)|`2024-10-06 14:18:00`|`Call of Duty: Modern Warfare III`|
+|[Dev error 13011](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/665131-dev-error-13011-a.html)|`2024-10-06 14:17:00`|`Call of Duty: Modern Warfare III`|
+|[Unlock Tool Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/665236-unlock-tool-source.html)|`2024-10-06 14:13:00`|`Call of Duty: Modern Warfare III`|
+|[I have some code but i don't know how use it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/660948-code-dont.html)|`2024-10-06 14:05:00`|`Call of Duty: Modern Warfare III`|
 |[I need some directions on how to advance further](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/665408-directions-advance.html)|`2024-10-06 13:56:00`|`General Programming and Reversing`|
 |["Vanguard Bypass" &#40;2PC / 1PC&#41; Using the Suspend Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663283-vanguard-bypass-2pc-1pc-using-suspend-method.html)|`2024-10-06 13:51:00`|`Valorant`|
 |[Bypassing VAC externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665135-bypassing-vac-externally.html)|`2024-10-06 13:48:00`|`Counter-Strike 2`|
