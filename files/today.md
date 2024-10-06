@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FPS problem with ImGui &#40;Metal&#45;OSX&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/665516-fps-imgui-metal-osx.html)|`2024-10-07 01:28:00`|`League of Legends`|
+|[How to spawn armour with insert?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/665344-spawn-armour-insert.html)|`2024-10-07 01:28:00`|`Escape from Tarkov`|
+|[halloween map crashes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/665145-halloween-map-crashes.html)|`2024-10-07 01:21:00`|`Team Fortress 2`|
+|[Get selected skins from arsenal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664707-selected-skins-arsenal.html)|`2024-10-07 01:18:00`|`Valorant`|
 |[LLA Injector Crashing with Adheasive on&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/654312-lla-injector-crashing-adheasive.html)|`2024-10-07 01:12:00`|`Alternative Online Mods`|
 |[&#91;STEAM&#93; TCSM Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/649480-steam-tcsm-internal-cheat.html)|`2024-10-07 01:04:00`|`Other Games`|
 |[Finding decryption routines](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/665514-finding-decryption-routines.html)|`2024-10-07 00:59:00`|`Rust`|
