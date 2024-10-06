@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2024-10-06 19:00:00`|`Other FPS Games`|
+|[A&#46;I&#46; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/663992-aimbot.html)|`2024-10-06 18:54:00`|`C and C++`|
+|[Help with CBaseUserCmdPB structure](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665449-help-cbaseusercmdpb-structure.html)|`2024-10-06 18:52:00`|`Counter-Strike 2`|
+|[need some help for my bypass emulator gameloop project](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/664045-help-bypass-emulator-gameloop-project.html)|`2024-10-06 18:50:00`|`PUBG Mobile`|
+|[&#91;STEAM&#93; TCSM Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/649480-steam-tcsm-internal-cheat.html)|`2024-10-06 18:41:00`|`Other Games`|
 |[Zodiak &#45; Fastcup Full Kernel Driver Cheat v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/665011-zodiak-fastcup-kernel-driver-cheat-v2.html)|`2024-10-06 18:32:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[rigel build error&#40;kernel&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/665278-rigel-build-error-kernel.html)|`2024-10-06 18:31:00`|`Overwatch`|
 |[Assault Cube External 1&#46;3&#46;0&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/662443-assault-cube-external-1-3-0-2-a.html)|`2024-10-06 18:26:00`|`C and C++`|
