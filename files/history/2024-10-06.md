@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[All Dev Items vanished](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/665498-dev-items-vanished.html)|`2024-10-06 22:02:00`|`Escape from Tarkov`|
 |[Simple HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657458-simple-hwid-spoofer.html)|`2024-10-06 21:42:00`|`Overwatch`|
 |[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-10-06 21:41:00`|`Overwatch`|
 |[Do I have to learn all the windows API in order to make cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/664009-learn-windows-api-cheats.html)|`2024-10-06 21:38:00`|`Forum General`|
