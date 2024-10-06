@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deep Rock Galactic Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/487947-deep-rock-galactic-cheat-table.html)|`2024-10-06 20:42:00`|`Other FPS Games`|
+|[Any Linux Cheese or Source Code?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/662465-linux-cheese-source-code.html)|`2024-10-06 20:24:00`|`Deadlock`|
 |[YimActions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/626168-yimactions.html)|`2024-10-06 19:26:00`|`Grand Theft Auto V`|
 |[health offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665419-health-offset.html)|`2024-10-06 19:14:00`|`Counter-Strike 2`|
 |[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2024-10-06 19:00:00`|`Other FPS Games`|
