@@ -28,9 +28,16 @@
 |152|[Compiled &#46;dll 3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47113)|`2024-10-06 00:44:20`|
 |2|[RemedyBS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47131)|`2024-10-06 02:12:24`|
 |2|[MO2&#45;Radar&#45;1&#46;1&#46;3&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47117)|`2024-10-06 07:09:49`|
+|3|[SieraZulu's PVE Cheat &#91;Updated 04/10&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47132)|`2024-10-06 18:34:57`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Zodiak &#45; Fastcup Full Kernel Driver Cheat v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/665011-zodiak-fastcup-kernel-driver-cheat-v2.html)|`2024-10-06 18:32:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[rigel build error&#40;kernel&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/665278-rigel-build-error-kernel.html)|`2024-10-06 18:31:00`|`Overwatch`|
+|[Assault Cube External 1&#46;3&#46;0&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/662443-assault-cube-external-1-3-0-2-a.html)|`2024-10-06 18:26:00`|`C and C++`|
+|[Snap Tap Detection Workaround](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656161-snap-tap-detection-workaround.html)|`2024-10-06 18:26:00`|`Counter-Strike 2`|
+|[Black Desert &#45; Exploiting Paz files to load your very own Lua&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/588951-black-desert-exploiting-paz-files-load-own-lua.html)|`2024-10-06 18:23:00`|`Other MMORPG and Strategy`|
+|[Pixel Strike 3D Hack &#40;2024&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662658-pixel-strike-3d-hack-2024-a.html)|`2024-10-06 18:15:00`|`Other FPS Games`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-10-06 17:55:00`|`Grand Theft Auto V`|
 |[RECOIL SCRIPT AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665287-recoil-script-ahk.html)|`2024-10-06 17:20:00`|`Counter-Strike 2`|
 |[How safe is logitech GHub scripting?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/665421-safe-logitech-ghub-scripting.html)|`2024-10-06 17:15:00`|`Playerunknown's Battlegrounds`|
