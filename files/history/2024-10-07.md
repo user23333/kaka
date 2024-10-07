@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2024-10-07 19:11:00`|`Other FPS Games`|
+|[CS2 Internal &#45; Legit Cheat, more rage features coming soon&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/659316-cs2-internal-legit-cheat-rage-features-coming-soon.html)|`2024-10-07 19:10:00`|`Counter-Strike 2 Releases`|
+|[Bhop don't jump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665126-bhop-dont-jump.html)|`2024-10-07 18:58:00`|`Counter-Strike 2`|
 |[Someone know of a cheat to vrchat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/629437-cheat-vrchat.html)|`2024-10-07 18:48:00`|`Other FPS Games`|
 |[HWID spoofing for a usermode AC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/665627-hwid-spoofing-usermode-ac.html)|`2024-10-07 18:25:00`|`Anti-Cheat Bypass`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2024-10-07 17:31:00`|`Overwatch`|
