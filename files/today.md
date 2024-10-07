@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anyone Can Update For Me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/665690-update.html)|`2024-10-08 01:52:00`|`PUBG Mobile`|
+|[TOGGLEABLE AUTO&#45;PARRY MULTIPLAYER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/661125-toggleable-auto-parry-multiplayer.html)|`2024-10-08 01:48:00`|`Star Wars Battlefront 2`|
 |[Injector &#43; Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/665004-injector-internal-cheat.html)|`2024-10-08 01:41:00`|`Deadlock`|
 |[Modified Odin V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/585919-modified-odin-v1.html)|`2024-10-08 01:41:00`|`Paladins`|
 |[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-10-08 01:35:00`|`Counter-Strike 2`|
