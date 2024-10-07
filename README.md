@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Internal &#45; Legit Cheat, more rage features coming soon&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/659316-cs2-internal-legit-cheat-rage-features-coming-soon.html)|`2024-10-08 03:12:00`|`Counter-Strike 2 Releases`|
+|[Looking for someone to develop a CS2 project for a fee](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665696-looking-develop-cs2-project-fee.html)|`2024-10-08 03:08:00`|`Counter-Strike 2`|
 |[Entity Unique ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/665695-entity-unique-id.html)|`2024-10-08 02:57:00`|`Rust`|
 |[AIMCOLOR SPECTRE DIVIDE UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662768-aimcolor-spectre-divide-ud.html)|`2024-10-08 02:53:00`|`Other FPS Games`|
 |[Can't read waypoint coords](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/665299-cant-read-waypoint-coords.html)|`2024-10-08 02:44:00`|`Alternative Online Mods`|
