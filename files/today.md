@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[bypass BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/665698-bypass.html)|`2024-10-08 03:28:00`|`Grand Theft Auto V`|
+|[Help finding fire rate address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/665547-help-finding-fire-rate-address.html)|`2024-10-08 03:28:00`|`Combat Master`|
+|[what to read for a esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665662-read-esp.html)|`2024-10-08 03:27:00`|`Counter-Strike 2`|
 |[CS2 Internal &#45; Legit Cheat, more rage features coming soon&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/659316-cs2-internal-legit-cheat-rage-features-coming-soon.html)|`2024-10-08 03:12:00`|`Counter-Strike 2 Releases`|
 |[Looking for someone to develop a CS2 project for a fee](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665696-looking-develop-cs2-project-fee.html)|`2024-10-08 03:08:00`|`Counter-Strike 2`|
 |[Entity Unique ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/665695-entity-unique-id.html)|`2024-10-08 02:57:00`|`Rust`|
