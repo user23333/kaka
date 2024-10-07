@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spectre Divide Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/660659-spectre-divide-colorbot.html)|`2024-10-07 21:53:00`|`Other FPS Games`|
 |[how to get map name](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/654007-map-name.html)|`2024-10-07 21:38:00`|`Counter-Strike 2`|
 |[Duckside Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/641922-duckside-reversal-structs-offsets.html)|`2024-10-07 21:30:00`|`Other FPS Games`|
 |[Ban for simple zoom script?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/665410-ban-simple-zoom-script.html)|`2024-10-07 21:21:00`|`Rainbow Six Siege`|
