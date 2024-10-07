@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Injector &#43; Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/665004-injector-internal-cheat.html)|`2024-10-08 01:41:00`|`Deadlock`|
+|[Modified Odin V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/585919-modified-odin-v1.html)|`2024-10-08 01:41:00`|`Paladins`|
+|[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-10-08 01:35:00`|`Counter-Strike 2`|
 |[How to make colorbot better](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/645675-colorbot.html)|`2024-10-08 01:33:00`|`Valorant`|
 |[how to get menu in cs2 internal drawed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665621-menu-cs2-internal-drawed.html)|`2024-10-08 01:31:00`|`Counter-Strike 2`|
 |[Dale and Dawson Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/664163-dale-dawson-mod-menu.html)|`2024-10-08 01:30:00`|`Other Games`|
