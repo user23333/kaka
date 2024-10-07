@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anyone use F13 to F24 keys in GTA 5?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/665617-f13-f24-keys-gta-5-a.html)|`2024-10-07 14:03:00`|`Grand Theft Auto V`|
+|[BattlEye Bypass Source Code in C&#35;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/664907-battleye-bypass-source-code.html)|`2024-10-07 13:53:00`|`Grand Theft Auto V`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2024-10-07 13:41:00`|`Other FPS Games`|
 |[BattlEyen't &#45; play offline raids without BattlEye on live version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/481919-battleyent-play-offline-raids-battleye-live-version.html)|`2024-10-07 13:30:00`|`Escape from Tarkov`|
 |[creating magic bullet externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/665513-creating-magic-bullet-externally.html)|`2024-10-07 12:35:00`|`Alternative Online Mods`|
