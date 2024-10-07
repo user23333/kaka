@@ -24,9 +24,20 @@
 |23|[Internal Cheat Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47146)|`2024-10-08 00:15:46`|
 |66|[Roblox&#45;Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47145)|`2024-10-08 00:15:46`|
 |9|[smm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47144)|`2024-10-08 00:15:46`|
+|2|[stcheattable v1&#46;1 &#45; by SpionQuark](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47166)|`2024-10-08 00:40:30`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2024-10-08 00:37:00`|`Deadlock`|
+|[Dead by Daylight Hacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/664685-dead-daylight-hacks.html)|`2024-10-08 00:36:00`|`Other Games`|
+|[CMlite not working for me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/665549-cmlite.html)|`2024-10-08 00:35:00`|`Combat Master`|
+|[Finding decryption routines](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/665514-finding-decryption-routines.html)|`2024-10-08 00:28:00`|`Rust`|
+|[Something hackable in Roblox?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/664483-hackable-roblox.html)|`2024-10-08 00:26:00`|`Forum General`|
+|[i need script for crosssfire](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/665679-script-crosssfire.html)|`2024-10-08 00:24:00`|`CrossFire`|
+|[Totally Accurate Battlegrounds: Unlock All Cosmetics and Texture Swap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/665678-totally-accurate-battlegrounds-unlock-cosmetics-texture-swap.html)|`2024-10-08 00:22:00`|`Other FPS Games`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2024-10-08 00:21:00`|`Overwatch`|
+|[Supermarket Together Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/665134-supermarket-cheat-table.html)|`2024-10-08 00:18:00`|`Cheat Engine Tables`|
+|[Manual map without creating a thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/665677-manual-map-creating-thread.html)|`2024-10-08 00:16:00`|`Anti-Cheat Bypass`|
 |[health offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665419-health-offset.html)|`2024-10-08 00:11:00`|`Counter-Strike 2`|
 |[YimMenu &#91;1&#46;69 &#45; b3337&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3337.html)|`2024-10-08 00:11:00`|`Grand Theft Auto V`|
 |[How safe is logitech GHub scripting?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/665421-safe-logitech-ghub-scripting.html)|`2024-10-08 00:10:00`|`Playerunknown's Battlegrounds`|
