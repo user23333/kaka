@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2024-10-08 05:20:00`|`Other FPS Games`|
+|[RedM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/665720-redm-spoofer.html)|`2024-10-08 05:10:00`|`Red Dead Redemption 2`|
+|[COD CP exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/616611-cod-cp-exploit.html)|`2024-10-08 05:05:00`|`Call of Duty: Modern Warfare III`|
+|[Are triggerbots detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/665412-triggerbots-detected.html)|`2024-10-08 05:00:00`|`Valorant`|
 |[Battlefield V internal hackers ESP and aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/567196-battlefield-internal-hackers-esp-aimbot.html)|`2024-10-08 04:33:00`|`Battlefield V`|
 |[What did the armory update do](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665382-armory-update.html)|`2024-10-08 04:25:00`|`Counter-Strike 2`|
 |[Health &#45; 0 &#40;Internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665716-health-0-internal.html)|`2024-10-08 04:19:00`|`Counter-Strike 2`|
