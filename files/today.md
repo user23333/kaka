@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What did the armory update do](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665382-armory-update.html)|`2024-10-08 04:25:00`|`Counter-Strike 2`|
+|[Health &#45; 0 &#40;Internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665716-health-0-internal.html)|`2024-10-08 04:19:00`|`Counter-Strike 2`|
+|[all updated offsets for cm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/665714-updated-offsets-cm.html)|`2024-10-08 04:09:00`|`Combat Master`|
+|[Any old school HvH still here?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/597722-school-hvh.html)|`2024-10-08 04:09:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[KMBOX b&#43; pro NG screen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/655831-kmbox-pro-ng-screen.html)|`2024-10-08 04:08:00`|`Other Hardware`|
 |[face injector by KANKOSHEV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/665713-injector-kankoshev.html)|`2024-10-08 03:54:00`|`C and C++`|
 |[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2024-10-08 03:49:00`|`Escape from Tarkov`|
 |[Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/665636-help.html)|`2024-10-08 03:42:00`|`Overwatch`|
