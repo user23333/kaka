@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[IsRelativeMouseMode Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665724-isrelativemousemode-hook.html)|`2024-10-08 06:44:00`|`Counter-Strike 2`|
 |[Patience &#45; An External Linux Cheat &#91;Overlay/CLI&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/648832-patience-external-linux-cheat-overlay-cli.html)|`2024-10-08 06:31:00`|`Apex Legends`|
 |[Zenless Zone Zero Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/661103-zenless-zone-zero-dump.html)|`2024-10-08 06:15:00`|`Other Games`|
 |[How often do you get banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656985-banned.html)|`2024-10-08 06:06:00`|`Escape from Tarkov`|
