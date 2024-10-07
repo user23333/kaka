@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[face injector by KANKOSHEV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/665713-injector-kankoshev.html)|`2024-10-08 03:54:00`|`C and C++`|
+|[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2024-10-08 03:49:00`|`Escape from Tarkov`|
 |[Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/665636-help.html)|`2024-10-08 03:42:00`|`Overwatch`|
 |[Is 2nr still working ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/665664-2nr.html)|`2024-10-08 03:41:00`|`Overwatch`|
 |[bypass BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/665698-bypass.html)|`2024-10-08 03:28:00`|`Grand Theft Auto V`|
