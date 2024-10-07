@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Battlefield V internal hackers ESP and aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/567196-battlefield-internal-hackers-esp-aimbot.html)|`2024-10-08 04:33:00`|`Battlefield V`|
 |[What did the armory update do](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665382-armory-update.html)|`2024-10-08 04:25:00`|`Counter-Strike 2`|
 |[Health &#45; 0 &#40;Internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665716-health-0-internal.html)|`2024-10-08 04:19:00`|`Counter-Strike 2`|
 |[all updated offsets for cm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/665714-updated-offsets-cm.html)|`2024-10-08 04:09:00`|`Combat Master`|
