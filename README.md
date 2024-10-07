@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/665636-help.html)|`2024-10-08 03:42:00`|`Overwatch`|
+|[Is 2nr still working ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/665664-2nr.html)|`2024-10-08 03:41:00`|`Overwatch`|
 |[bypass BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/665698-bypass.html)|`2024-10-08 03:28:00`|`Grand Theft Auto V`|
 |[Help finding fire rate address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/665547-help-finding-fire-rate-address.html)|`2024-10-08 03:28:00`|`Combat Master`|
 |[what to read for a esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665662-read-esp.html)|`2024-10-08 03:27:00`|`Counter-Strike 2`|
