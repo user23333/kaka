@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sentinel Guard &#45; Steam launch option for protection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/641085-sentinel-guard-steam-launch-option-protection.html)|`2024-10-07 17:29:00`|`Apex Legends`|
 |[Does anyone have the map files or the unpacking key?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/665623-map-files-unpacking-key.html)|`2024-10-07 16:53:00`|`Valorant`|
 |[FiveM New Anti Spoofing Updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/665047-fivem-anti-spoofing-updates.html)|`2024-10-07 15:58:00`|`Alternative Online Mods`|
 |[Full Free Rust Script &#40;Undetected&#41; &#45;&#62; 30/04/2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/634920-free-rust-script-undetected-30-04-2024-a.html)|`2024-10-07 15:39:00`|`Rust`|
