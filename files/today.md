@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[creating magic bullet externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/665513-creating-magic-bullet-externally.html)|`2024-10-07 12:35:00`|`Alternative Online Mods`|
+|[YimActions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/626168-yimactions.html)|`2024-10-07 12:32:00`|`Grand Theft Auto V`|
+|[VAL 5 After a HWID Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/665280-val-5-hwid-ban.html)|`2024-10-07 12:22:00`|`Valorant`|
+|[Disturbing photo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/665612-disturbing-photo.html)|`2024-10-07 12:16:00`|`Off Topic`|
 |[psilent on deadlock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/660682-psilent-deadlock.html)|`2024-10-07 12:12:00`|`Deadlock`|
 |[Vindicta quick scope](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/665611-vindicta-quick-scope.html)|`2024-10-07 12:07:00`|`Deadlock`|
 |[about AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662127-ahk.html)|`2024-10-07 11:37:00`|`Apex Legends`|
