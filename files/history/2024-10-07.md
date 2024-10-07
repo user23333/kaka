@@ -34,9 +34,14 @@
 |1|[Zodiak v2&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47160)|`2024-10-07 19:35:54`|
 |5|[plasma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47159)|`2024-10-07 19:48:39`|
 |4|[exploit&#45;sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47158)|`2024-10-07 19:48:39`|
+|1|[Fusion64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47164)|`2024-10-07 23:38:12`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-10-07 23:30:00`|`Deadlock`|
+|[Fusion/SigScan ida 9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/665668-fusion-sigscan-ida-9-a.html)|`2024-10-07 23:29:00`|`General Programming and Reversing`|
+|[easy method to make Undetected Cheat Engine &#43; Driver &#43; DSE&#45;Patcher &#124; Bypass AC 2023](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/606839-easy-method-undetected-cheat-engine-driver-dse-patcher-bypass-ac-2023-a.html)|`2024-10-07 23:29:00`|`Anti-Cheat Bypass`|
+|[CMlite not working for me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/665549-cmlite.html)|`2024-10-07 23:23:00`|`Combat Master`|
 |[Arduino open endpoint output](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/665667-arduino-endpoint-output.html)|`2024-10-07 23:18:00`|`Valorant`|
 |[need some help for my bypass emulator gameloop project](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/664045-help-bypass-emulator-gameloop-project.html)|`2024-10-07 22:54:00`|`PUBG Mobile`|
 |[Is 2nr still working ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/665664-2nr.html)|`2024-10-07 22:50:00`|`Overwatch`|
