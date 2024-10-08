@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-10-08 13:33:00`|`Apex Legends`|
 |[Rust starting point ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/662561-rust-starting.html)|`2024-10-08 13:00:00`|`Rust`|
 |[Kmbox B&#43;/Net Firmware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/631407-kmbox-net-firmware.html)|`2024-10-08 12:31:00`|`Other Hardware`|
 |[Black Ops II &#124; Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/654241-black-ops-ii-tool.html)|`2024-10-08 11:51:00`|`Call of Duty: Black Ops 2`|
