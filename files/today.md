@@ -34,6 +34,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CTFGameMovement ProcessMovement Crashing at random times&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/665853-ctfgamemovement-processmovement-crashing-random-times.html)|`2024-10-09 06:03:00`|`Team Fortress 2`|
+|[Vigor internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662490-vigor-internal-cheat.html)|`2024-10-09 05:59:00`|`Other FPS Games`|
+|[How to flash a MVP DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/622001-flash-mvp-dma.html)|`2024-10-09 05:59:00`|`Anti-Cheat Bypass`|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2024-10-09 05:58:00`|`Battlefield 4`|
+|[How to bypass a ban on 220 devblog myrust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/662873-bypass-ban-220-devblog-myrust.html)|`2024-10-09 05:53:00`|`Rust`|
+|[Full Free Rust Script &#40;Undetected&#41; &#45;&#62; 30/04/2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/634920-free-rust-script-undetected-30-04-2024-a.html)|`2024-10-09 05:52:00`|`Rust`|
 |[Rust Game Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/665340-rust-game-ban.html)|`2024-10-09 05:49:00`|`Rust`|
 |[Rust starting point ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/662561-rust-starting.html)|`2024-10-09 05:43:00`|`Rust`|
 |[DMA Card won't turn on&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/664763-dma-card-wont.html)|`2024-10-09 05:41:00`|`PC Hardware`|
