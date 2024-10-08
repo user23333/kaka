@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Public source code that's being sold](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/665742-public-source-code-thats-sold.html)|`2024-10-08 10:56:00`|`PUBG Mobile`|
+|[The Ultimate GTA Ban Wave](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663356-ultimate-gta-ban-wave.html)|`2024-10-08 10:35:00`|`Grand Theft Auto V`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2024-10-08 10:22:00`|`Escape from Tarkov`|
 |[R5Reloaded Cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/665739-r5reloaded-cheat.html)|`2024-10-08 09:55:00`|`Apex Legends`|
 |[Once Human Cheat &#40;TP, ESP, &#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/665539-human-cheat-tp-esp.html)|`2024-10-08 09:48:00`|`Other MMORPG and Strategy`|
 |[View Matrix for Valo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/665738-view-matrix-valo.html)|`2024-10-08 09:42:00`|`Valorant`|
