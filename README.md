@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2024-10-09 02:26:00`|`Escape from Tarkov`|
+|[halloween map crashes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/665145-halloween-map-crashes.html)|`2024-10-09 02:20:00`|`Team Fortress 2`|
+|[Movement simulation using CTFGameMovement::ProcessMovement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/480821-movement-simulation-using-ctfgamemovement-processmovement.html)|`2024-10-09 02:16:00`|`Team Fortress 2`|
+|[Polygon Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/582488-polygon-internal-cheat.html)|`2024-10-09 02:08:00`|`Other FPS Games`|
+|[YimMenu &#91;1&#46;69 &#45; b3337&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3337.html)|`2024-10-09 02:07:00`|`Grand Theft Auto V`|
 |[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-10-09 01:58:00`|`Counter-Strike 2`|
 |[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-10-09 01:55:00`|`Overwatch`|
 |[New Cheat Ranked with 5 &#40;aim&#41;bots following main player](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/665813-cheat-ranked-5-aim-bots-following-main-player.html)|`2024-10-09 01:52:00`|`Apex Legends`|
