@@ -26,9 +26,18 @@
 |83|[Apex&#45;Anti&#45;Recoil&#45;v3&#46;0&#46;0&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47162)|`2024-10-09 00:16:14`|
 |30|[ENSD&#95;U18&#46;08&#46;05](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47161)|`2024-10-09 00:16:14`|
 |5|[08/10 PVE Cheat Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47175)|`2024-10-09 00:41:38`|
+|2|[Zodiak&#45;v2&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47177)|`2024-10-09 01:18:42`|
+|3|[once&#95;human&#95;cheat&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47176)|`2024-10-09 01:18:42`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 External Radar Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665380-cs2-external-radar-cheat.html)|`2024-10-09 01:18:00`|`Counter-Strike 2`|
+|[CS2 Auto Bunny Hop Not Consistent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665808-cs2-auto-bunny-hop-consistent.html)|`2024-10-09 01:17:00`|`Counter-Strike 2`|
+|[New pcmd structure](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665807-pcmd-structure.html)|`2024-10-09 01:15:00`|`Counter-Strike 2`|
+|[about AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662127-ahk.html)|`2024-10-09 01:15:00`|`Apex Legends`|
+|[After flashing dma card doesnt work and now red led glows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/665545-flashing-dma-card-doesnt-red-led-glows.html)|`2024-10-09 01:14:00`|`PC Hardware`|
+|[👽 VALORANT Skin Changer &#40;Just Inject it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/517551-valorant-skin-changer-inject.html)|`2024-10-09 01:09:00`|`Valorant`|
+|[DMIEDIT changing Processor ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/665806-dmiedit-changing-processor-id.html)|`2024-10-09 01:08:00`|`General Programming and Reversing`|
 |[ntoskrnl Kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/665803-ntoskrnl-kernel.html)|`2024-10-09 00:38:00`|`General Programming and Reversing`|
 |[Drawing ESP externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665694-drawing-esp-externally.html)|`2024-10-09 00:36:00`|`Counter-Strike 2`|
 |[Valorant Delay ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/654588-valorant-delay-ban.html)|`2024-10-09 00:35:00`|`Valorant`|
