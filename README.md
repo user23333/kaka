@@ -29,9 +29,13 @@
 |2|[stcheattable v1&#46;1 &#45; by SpionQuark](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47166)|`2024-10-08 00:40:30`|
 |1|[Super Animal Royale Offset Finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47171)|`2024-10-08 19:22:36`|
 |2|[Nika&#45;Read&#45;Only&#45;main&#46;20241007&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47167)|`2024-10-08 20:18:54`|
+|4|[Ready Or Not Internal Rewrite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47169)|`2024-10-08 20:54:38`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New external ESP SoT Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/581265-external-esp-sot-helper.html)|`2024-10-08 20:48:00`|`Sea of Thieves`|
+|[Speedi13 Trainer Fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/497810-speedi13-trainer-fixed.html)|`2024-10-08 20:41:00`|`Battlefield 1`|
+|[Retrieving Hero Name by ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/665766-retrieving-hero-name-id.html)|`2024-10-08 20:30:00`|`Deadlock`|
 |[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2024-10-08 19:48:00`|`Palia`|
 |[R6:S General Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/158003-r6-discussion.html)|`2024-10-08 19:26:00`|`Rainbow Six Siege`|
 |[unlock all operators in custom game y9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/655346-unlock-operators-custom-game-y9.html)|`2024-10-08 19:24:00`|`Rainbow Six Siege`|
