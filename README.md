@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA card problems status light does not show](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/664376-dma-card-status-light.html)|`2024-10-08 16:08:00`|`Other Hardware`|
+|[RCS for Cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665751-rcs-cs2.html)|`2024-10-08 16:02:00`|`Counter-Strike 2`|
 |[schema manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/657891-schema-manager.html)|`2024-10-08 15:45:00`|`Deadlock`|
 |[MultiClient](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/664499-multiclient.html)|`2024-10-08 15:19:00`|`Combat Arms`|
 |[COD Cold War Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/664523-cod-cold-war-menu.html)|`2024-10-08 14:57:00`|`Call of Duty: Black Ops Cold War`|
