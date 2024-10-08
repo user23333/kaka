@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2024-10-09 04:39:00`|`Escape from Tarkov`|
+|[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2024-10-09 04:35:00`|`Other FPS Games`|
+|[Kmbox net get physical mouse clicks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/665826-kmbox-net-physical-mouse-clicks.html)|`2024-10-09 04:34:00`|`Other Hardware`|
 |[Selling HWID Banned PC / Parts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/663379-selling-hwid-banned-pc.html)|`2024-10-09 04:24:00`|`Off Topic`|
 |[Scanning hacks for malware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/665795-scanning-hacks-malware.html)|`2024-10-09 04:16:00`|`Forum General`|
 |[Relative address calculation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/664518-relative-address-calculation.html)|`2024-10-09 04:10:00`|`C and C++`|
