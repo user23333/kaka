@@ -11,6 +11,7 @@
 |10|[FAQ &#40;03/10/2024&#41; BattlEye & Grand Theft Auto Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/664816-faq-03-10-2024-battleye-grand-theft-auto-online.html)|`2024-10-09 00:16:14`|`grand-theft-auto-v`|
 |25|[Rigel Auto Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/664814-rigel-auto-update.html)|`2024-10-09 00:16:14`|`overwatch`|
 |10|[Injector &#43; Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/665004-injector-internal-cheat.html)|`2024-10-09 00:16:14`|`deadlock`|
+|10|[Liar’s Bar Cheats? &#40;Card Game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/665349-liar-bar-cheats-card-game.html)|`2024-10-09 00:41:38`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -24,9 +25,17 @@
 |10|[Fusion64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47164)|`2024-10-09 00:16:14`|
 |83|[Apex&#45;Anti&#45;Recoil&#45;v3&#46;0&#46;0&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47162)|`2024-10-09 00:16:14`|
 |30|[ENSD&#95;U18&#46;08&#46;05](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47161)|`2024-10-09 00:16:14`|
+|5|[08/10 PVE Cheat Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47175)|`2024-10-09 00:41:38`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ntoskrnl Kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/665803-ntoskrnl-kernel.html)|`2024-10-09 00:38:00`|`General Programming and Reversing`|
+|[Drawing ESP externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665694-drawing-esp-externally.html)|`2024-10-09 00:36:00`|`Counter-Strike 2`|
+|[Valorant Delay ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/654588-valorant-delay-ban.html)|`2024-10-09 00:35:00`|`Valorant`|
+|[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-10-09 00:32:00`|`Escape from Tarkov`|
+|[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2024-10-09 00:23:00`|`Escape from Tarkov`|
+|[Cheat question&#43;request](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/665686-cheat-question-request.html)|`2024-10-09 00:23:00`|`Call of Duty: Modern Warfare III`|
+|[View Matrix for Valo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/665738-view-matrix-valo.html)|`2024-10-09 00:19:00`|`Valorant`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-10-09 00:15:00`|`Rust`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2024-10-09 00:08:00`|`Other FPS Games`|
 |[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2024-10-09 00:00:00`|`Other FPS Games`|
