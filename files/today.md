@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends strafing app](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/664917-apex-legends-strafing-app.html)|`2024-10-08 11:34:00`|`Apex Legends`|
 |[Possibility of parsing server&#45;sided &#46;lmp files?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/665521-possibility-parsing-server-sided-lmp-files.html)|`2024-10-08 11:09:00`|`Garry's Mod`|
 |[Public source code that's being sold](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/665742-public-source-code-thats-sold.html)|`2024-10-08 10:56:00`|`PUBG Mobile`|
 |[The Ultimate GTA Ban Wave](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663356-ultimate-gta-ban-wave.html)|`2024-10-08 10:35:00`|`Grand Theft Auto V`|
