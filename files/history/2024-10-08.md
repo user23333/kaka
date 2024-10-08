@@ -31,9 +31,12 @@
 |2|[Nika&#45;Read&#45;Only&#45;main&#46;20241007&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47167)|`2024-10-08 20:18:54`|
 |4|[Ready Or Not Internal Rewrite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47169)|`2024-10-08 20:54:38`|
 |0|[P3SD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47172)|`2024-10-08 21:26:47`|
+|1|[once&#95;human&#95;cheat&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47174)|`2024-10-08 22:41:05`|
+|0|[d4 protos&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47173)|`2024-10-08 22:41:05`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Diablo 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/diablo-series/575478-diablo-4-reversal-structs-offsets.html)|`2024-10-08 22:38:00`|`Diablo Series`|
 |[Rigel source help and differences?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/664348-rigel-source-help-differences.html)|`2024-10-08 22:12:00`|`Overwatch`|
 |[CreateWindowInBand with dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/665323-createwindowinband-dll.html)|`2024-10-08 21:37:00`|`Anti-Cheat Bypass`|
 |[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2024-10-08 21:31:00`|`Sea of Thieves`|
