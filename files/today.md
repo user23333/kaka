@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Entity System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665818-entity-system.html)|`2024-10-09 03:26:00`|`Counter-Strike 2`|
+|[I did not flash the DMA correctly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/665801-flash-dma-correctly.html)|`2024-10-09 03:25:00`|`PC Hardware`|
 |[Bypassing VAC externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665135-bypassing-vac-externally.html)|`2024-10-09 03:12:00`|`Counter-Strike 2`|
 |[Nika &#45; Light Wieght C&#43;&#43; Linux Pasta Cheat &#45; Health Based Sense, Aimbot, TriggerBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/634402-nika-light-wieght-linux-pasta-cheat-health-based-sense-aimbot-triggerbot.html)|`2024-10-09 03:03:00`|`Apex Legends`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2024-10-09 02:26:00`|`Escape from Tarkov`|
