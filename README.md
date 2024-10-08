@@ -12,6 +12,7 @@
 |25|[Rigel Auto Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/664814-rigel-auto-update.html)|`2024-10-08 00:15:46`|`overwatch`|
 |22|[Bypassing VAC externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665135-bypassing-vac-externally.html)|`2024-10-08 00:15:46`|`counter-strike-2-a`|
 |10|[Throne and Liberty hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/665328-throne-liberty-hack.html)|`2024-10-08 00:53:21`|`other-mmorpg-and-strategy`|
+|10|[Injector &#43; Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/665004-injector-internal-cheat.html)|`2024-10-08 12:10:43`|`deadlock`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Black Ops II &#124; Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/654241-black-ops-ii-tool.html)|`2024-10-08 11:51:00`|`Call of Duty: Black Ops 2`|
 |[Apex Legends strafing app](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/664917-apex-legends-strafing-app.html)|`2024-10-08 11:34:00`|`Apex Legends`|
 |[Possibility of parsing server&#45;sided &#46;lmp files?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/665521-possibility-parsing-server-sided-lmp-files.html)|`2024-10-08 11:09:00`|`Garry's Mod`|
 |[Public source code that's being sold](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/665742-public-source-code-thats-sold.html)|`2024-10-08 10:56:00`|`PUBG Mobile`|
