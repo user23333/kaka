@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Implement Visible Check into my external Aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665876-implement-visible-check-external-aimbot.html)|`2024-10-09 06:57:00`|`Counter-Strike 2`|
+|[Liar’s Bar Cheats? &#40;Card Game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/665349-liar-bar-cheats-card-game.html)|`2024-10-09 06:47:00`|`Other Games`|
 |[CTFGameMovement ProcessMovement Crashing at random times&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/665853-ctfgamemovement-processmovement-crashing-random-times.html)|`2024-10-09 06:03:00`|`Team Fortress 2`|
 |[Vigor internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662490-vigor-internal-cheat.html)|`2024-10-09 05:59:00`|`Other FPS Games`|
 |[How to flash a MVP DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/622001-flash-mvp-dma.html)|`2024-10-09 05:59:00`|`Anti-Cheat Bypass`|
