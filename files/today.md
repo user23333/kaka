@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Easy and Simple to use Threading system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666003-easy-simple-threading-system.html)|`2024-10-10 03:16:00`|`Counter-Strike 2`|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2024-10-10 03:13:00`|`Other FPS Games`|
 |[Throne and Liberty Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/649981-throne-liberty-reversal-structs-offsets.html)|`2024-10-10 03:12:00`|`Other MMORPG and Strategy`|
 |[Is 2nr still working ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/665664-2nr.html)|`2024-10-10 03:11:00`|`Overwatch`|
 |[Finding decryption routines](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/665514-finding-decryption-routines.html)|`2024-10-10 03:11:00`|`Rust`|
