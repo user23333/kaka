@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Manual map without creating a thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/665677-manual-map-creating-thread.html)|`2024-10-09 15:43:00`|`Anti-Cheat Bypass`|
+|[How to hook kernel functions with HVCI on](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/665914-hook-kernel-functions-hvci.html)|`2024-10-09 15:42:00`|`Valorant`|
 |[CreateWindowInBand with dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/665323-createwindowinband-dll.html)|`2024-10-09 15:38:00`|`Anti-Cheat Bypass`|
 |[Overwatch Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/665912-overwatch-ban.html)|`2024-10-09 15:35:00`|`Overwatch`|
 |[Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/665636-help.html)|`2024-10-09 15:01:00`|`Overwatch`|
