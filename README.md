@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Throne and Liberty Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/649981-throne-liberty-reversal-structs-offsets.html)|`2024-10-10 03:12:00`|`Other MMORPG and Strategy`|
+|[Is 2nr still working ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/665664-2nr.html)|`2024-10-10 03:11:00`|`Overwatch`|
+|[Finding decryption routines](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/665514-finding-decryption-routines.html)|`2024-10-10 03:11:00`|`Rust`|
+|[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-10-10 03:10:00`|`Escape from Tarkov`|
+|[can any1 tell me what the best base is for externals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/666002-any1-tell-base-externals.html)|`2024-10-10 03:04:00`|`Deadlock`|
 |[How to reverse engineer a DLL?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/666001-reverse-engineer-dll.html)|`2024-10-10 02:48:00`|`General Programming and Reversing`|
 |[Combat Master Offsets 9 October](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/665998-combat-master-offsets-9-october.html)|`2024-10-10 02:32:00`|`Combat Master`|
 |[External Cheat And exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665602-external-cheat-exploits.html)|`2024-10-10 02:19:00`|`Counter-Strike 2`|
