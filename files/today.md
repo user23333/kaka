@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CCHook:Reloaded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/return-to-castle-wolfenstein/492818-cchook-reloaded.html)|`2024-10-09 20:58:00`|`Return To Castle Wolfenstein`|
 |[FiveM Simple External base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/645500-fivem-simple-external-base.html)|`2024-10-09 20:32:00`|`Alternative Online Mods`|
 |[Sentinel Guard &#45; Steam launch option for protection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/641085-sentinel-guard-steam-launch-option-protection.html)|`2024-10-09 20:31:00`|`Apex Legends`|
 |[How I Inject the cheats to get inf Money in GTA5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/665544-inject-cheats-inf-money-gta5.html)|`2024-10-09 20:28:00`|`Grand Theft Auto V`|
