@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AFK/DERANK BOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/655437-afk-derank-bot.html)|`2024-10-09 18:42:00`|`Call of Duty: Modern Warfare III`|
+|[Is there any 32Bit cheats?&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/658016-32bit-cheats.html)|`2024-10-09 18:41:00`|`Team Fortress 2`|
 |[Stop displaying the dropped weapon ESP if the weapon has an owne](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665924-stop-displaying-dropped-weapon-esp-weapon-owne.html)|`2024-10-09 18:34:00`|`Counter-Strike 2`|
 |[New Signatures?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/655984-signatures.html)|`2024-10-09 18:24:00`|`Counter-Strike 2`|
 |[Play Together/Rank Boosting Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/353364-play-rank-boosting-thread.html)|`2024-10-09 18:23:00`|`Apex Legends`|
