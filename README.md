@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Once Human &#40;game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/614970-human-game.html)|`2024-10-09 19:48:00`|`Other MMORPG and Strategy`|
+|[Valorant ColorbotAHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664339-valorant-colorbotahk.html)|`2024-10-09 19:45:00`|`Valorant`|
+|[Grinder &#45; Simple C&#43;&#43; Linux Sense, Aimbot, TriggerBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/605888-grinder-simple-linux-sense-aimbot-triggerbot.html)|`2024-10-09 19:25:00`|`Apex Legends`|
 |[Apex not running on Linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/665932-apex-running-linux.html)|`2024-10-09 19:37:00`|`Apex Legends`|
 |[Is this Method Safe for hijacking process handles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665931-method-safe-hijacking-process-handles.html)|`2024-10-09 19:36:00`|`Counter-Strike 2`|
 |[CS2 External Trigger Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665928-cs2-external-trigger-bot.html)|`2024-10-09 19:12:00`|`Counter-Strike 2`|
