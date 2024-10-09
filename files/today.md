@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kmbox Net keyboard not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/649409-kmbox-net-keyboard.html)|`2024-10-09 13:59:00`|`Other Hardware`|
+|[Fear & Greed DLC with all item codes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/661279-fear-greed-dlc-item-codes.html)|`2024-10-09 13:57:00`|`Payday 3`|
 |[The Ultimate GTA Ban Wave](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663356-ultimate-gta-ban-wave.html)|`2024-10-09 13:32:00`|`Grand Theft Auto V`|
 |[Just a vanguard bypass with Python &#40;Still working&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664827-vanguard-bypass-python.html)|`2024-10-09 13:30:00`|`Valorant`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2024-10-09 13:11:00`|`Other FPS Games`|
