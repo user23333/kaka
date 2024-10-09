@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Question regarding PresentPattern](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/664148-question-regarding-presentpattern.html)|`2024-10-10 01:48:00`|`Garry's Mod`|
+|[CS2 External Trigger Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665928-cs2-external-trigger-bot.html)|`2024-10-10 01:47:00`|`Counter-Strike 2`|
+|[Possibility of parsing server&#45;sided &#46;lmp files?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/665521-possibility-parsing-server-sided-lmp-files.html)|`2024-10-10 01:45:00`|`Garry's Mod`|
+|[Is this Method Safe for hijacking process handles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665931-method-safe-hijacking-process-handles.html)|`2024-10-10 01:39:00`|`Counter-Strike 2`|
 |[Implement Visible Check into my external Aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665876-implement-visible-check-external-aimbot.html)|`2024-10-10 01:29:00`|`Counter-Strike 2`|
 |[schema manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/657891-schema-manager.html)|`2024-10-10 01:27:00`|`Deadlock`|
 |[bypass faceit passport check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/663451-bypass-faceit-passport-check.html)|`2024-10-10 01:23:00`|`Anti-Cheat Bypass`|
