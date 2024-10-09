@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Updated&#93; Dead by Daylight Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/635513-updated-dead-daylight-unlock-dlcs-skins.html)|`2024-10-09 17:12:00`|`Other FPS Games`|
 |[Proper Viewmodel changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/658247-proper-viewmodel-changer.html)|`2024-10-09 16:50:00`|`Counter-Strike 2`|
 |[Breakpoint from physical address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/665916-breakpoint-physical-address.html)|`2024-10-09 16:25:00`|`Anti-Cheat Bypass`|
 |[schema manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/657891-schema-manager.html)|`2024-10-09 16:12:00`|`Deadlock`|
