@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2024-10-10 01:17:00`|`Unity`|
+|[im HWID Banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/665890-im-hwid-banned.html)|`2024-10-10 01:16:00`|`Rainbow Six Siege`|
+|[It's not wrong to use Enhanced tools，拓展工具](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/665988-wrong-enhanced-tools.html)|`2024-10-10 01:16:00`|`Grand Theft Auto V`|
+|[Zenless Zone Zero Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/661103-zenless-zone-zero-dump.html)|`2024-10-10 01:10:00`|`Other Games`|
+|[Polonium base paste &#40;32&#45;bit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/665922-polonium-base-paste-32-bit.html)|`2024-10-10 01:09:00`|`Team Fortress 2`|
+|[FAQ &#40;03/10/2024&#41; BattlEye & Grand Theft Auto Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/664816-faq-03-10-2024-battleye-grand-theft-auto-online.html)|`2024-10-10 01:03:00`|`Grand Theft Auto V`|
+|[Replacing TextureParameter in DynamicMaterialInstance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/665985-replacing-textureparameter-dynamicmaterialinstance.html)|`2024-10-10 01:01:00`|`Valorant`|
 |[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-10-10 00:51:00`|`Counter-Strike 2`|
 |[CS2 external esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/600259-cs2-external-esp.html)|`2024-10-10 00:49:00`|`Counter-Strike 2 Releases`|
 |[7DTD 1&#46;1 B14 Creative and Debug Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/665983-7dtd-1-1-b14-creative-debug-assembly-csharp-dll.html)|`2024-10-10 00:45:00`|`Other FPS Games`|
