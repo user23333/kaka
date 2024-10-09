@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Duckside ESP &#40;ue4&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/665994-duckside-esp-ue4.html)|`2024-10-10 02:13:00`|`Other Games`|
+|[need help with triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/604621-help-triggerbot.html)|`2024-10-10 02:12:00`|`Counter-Strike 2`|
+|[ThunderTirnal &#45; WarThunder Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/660182-thundertirnal-warthunder-cheat.html)|`2024-10-10 02:07:00`|`Other MMORPG and Strategy`|
+|[Throne and Liberty hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/665328-throne-liberty-hack.html)|`2024-10-10 02:04:00`|`Other MMORPG and Strategy`|
 |[Question regarding PresentPattern](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/664148-question-regarding-presentpattern.html)|`2024-10-10 01:48:00`|`Garry's Mod`|
 |[CS2 External Trigger Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665928-cs2-external-trigger-bot.html)|`2024-10-10 01:47:00`|`Counter-Strike 2`|
 |[Possibility of parsing server&#45;sided &#46;lmp files?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/665521-possibility-parsing-server-sided-lmp-files.html)|`2024-10-10 01:45:00`|`Garry's Mod`|
