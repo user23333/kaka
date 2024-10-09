@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PsSetCreateProcessNotifyRoutine / ACCESS&#95;DENIED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/663528-pssetcreateprocessnotifyroutine-access_denied.html)|`2024-10-10 07:48:00`|`General Programming and Reversing`|
 |[CS2 DMA Source with map parser and kmbox aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660476-cs2-dma-source-map-parser-kmbox-aimbot.html)|`2024-10-10 07:37:00`|`Counter-Strike 2`|
 |[Usermode AC Thread detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/663176-usermode-ac-thread-detection.html)|`2024-10-10 07:31:00`|`Anti-Cheat Bypass`|
 |[Zodiak &#45; Fastcup Full Kernel Driver Cheat v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/665011-zodiak-fastcup-kernel-driver-cheat-v2.html)|`2024-10-10 07:14:00`|`CounterStrike 1.5, 1.6 and Mods`|
