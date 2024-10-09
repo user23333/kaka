@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2024-10-10 04:31:00`|`Deadlock`|
+|[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2024-10-10 04:28:00`|`Palia`|
+|[Kmbox B&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/666011-kmbox.html)|`2024-10-10 04:26:00`|`Valorant`|
+|[VALO COLOR BOT SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/633956-valo-color-bot-source.html)|`2024-10-10 04:19:00`|`Valorant`|
+|[Tom Clancys XDefiant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/xdefiant/464903-tom-clancys-xdefiant-reversal-structs-offsets.html)|`2024-10-10 04:18:00`|`xDefiant`|
 |[mayhembot &#40;esp, aimbot & more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/522922-mayhembot-esp-aimbot.html)|`2024-10-10 04:14:00`|`Call of Duty 4: Modern Warfare`|
 |[My Hero Ultra Rumble Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/604426-hero-ultra-rumble-cheat-table.html)|`2024-10-10 04:12:00`|`Other Games`|
 |[Call of Duty: Modern Warfare III Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/605287-call-duty-modern-warfare-iii-reversal-structs-offsets.html)|`2024-10-10 03:47:00`|`Call of Duty: Modern Warfare III`|
