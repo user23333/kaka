@@ -36,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Simple External base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/645500-fivem-simple-external-base.html)|`2024-10-09 20:32:00`|`Alternative Online Mods`|
+|[Sentinel Guard &#45; Steam launch option for protection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/641085-sentinel-guard-steam-launch-option-protection.html)|`2024-10-09 20:31:00`|`Apex Legends`|
+|[How I Inject the cheats to get inf Money in GTA5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/665544-inject-cheats-inf-money-gta5.html)|`2024-10-09 20:28:00`|`Grand Theft Auto V`|
+|[Someone know of a cheat to vrchat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/629437-cheat-vrchat.html)|`2024-10-09 20:27:00`|`Other FPS Games`|
+|[Combat Master CE Godmode, MEGA XP, Instant Weapon/Player Max Level, Attachment Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/583715-combat-master-ce-godmode-mega-xp-instant-weapon-player-max-level-attachment-mod.html)|`2024-10-09 20:10:00`|`Combat Master`|
 |[Once Human &#40;game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/614970-human-game.html)|`2024-10-09 19:48:00`|`Other MMORPG and Strategy`|
 |[Valorant ColorbotAHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664339-valorant-colorbotahk.html)|`2024-10-09 19:45:00`|`Valorant`|
 |[Grinder &#45; Simple C&#43;&#43; Linux Sense, Aimbot, TriggerBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/605888-grinder-simple-linux-sense-aimbot-triggerbot.html)|`2024-10-09 19:25:00`|`Apex Legends`|
