@@ -34,6 +34,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[schema manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/657891-schema-manager.html)|`2024-10-09 16:12:00`|`Deadlock`|
+|[Lockdown Protocol Cheat Table v0&#46;1&#46;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/659299-lockdown-protocol-cheat-table-v0-1-26-a.html)|`2024-10-09 16:06:00`|`Other Games`|
+|[How often do you get banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656985-banned.html)|`2024-10-09 16:03:00`|`Escape from Tarkov`|
+|[Ghosts of Tabor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/574607-ghosts-tabor.html)|`2024-10-09 16:00:00`|`Other FPS Games`|
+|[Possible interference between DMA Board with nVidia GPU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/658011-interference-dma-board-nvidia-gpu.html)|`2024-10-09 15:57:00`|`Anti-Cheat Bypass`|
 |[Manual map without creating a thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/665677-manual-map-creating-thread.html)|`2024-10-09 15:43:00`|`Anti-Cheat Bypass`|
 |[How to hook kernel functions with HVCI on](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/665914-hook-kernel-functions-hvci.html)|`2024-10-09 15:42:00`|`Valorant`|
 |[CreateWindowInBand with dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/665323-createwindowinband-dll.html)|`2024-10-09 15:38:00`|`Anti-Cheat Bypass`|
