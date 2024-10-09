@@ -33,9 +33,13 @@
 |1|[InstantReloads&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47179)|`2024-10-09 05:23:03`|
 |1|[TL SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47180)|`2024-10-09 05:49:59`|
 |3|[Apex&#45;Anti&#45;Recoil&#45;v4&#46;0&#46;0&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47183)|`2024-10-09 19:13:03`|
+|5|[VULN&#95;DRIVER&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47187)|`2024-10-09 23:22:43`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PAYDAY 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/601253-payday-3-reversal-structs-offsets.html)|`2024-10-09 23:14:00`|`Payday 3`|
+|[Some vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/665948-vulnerable-driver.html)|`2024-10-09 23:06:00`|`Anti-Cheat Bypass`|
+|[NEW PATCH PEOPLE &#40; 9&#46;07 &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/665949-patch-people-9-07-a.html)|`2024-10-09 23:06:00`|`Valorant`|
 |[Replacing TextureParameter in DynamicMaterialInstance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/665946-replacing-textureparameter-dynamicmaterialinstance.html)|`2024-10-09 22:52:00`|`Unreal Engine 4`|
 |[Can't find rendersystem pattern&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665290-cant-rendersystem-pattern.html)|`2024-10-09 22:44:00`|`Counter-Strike 2`|
 |[Unlock MPM on HP Insyde Bioses &#40;Laptop&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/627328-unlock-mpm-hp-insyde-bioses-laptop.html)|`2024-10-09 22:43:00`|`Valorant`|
