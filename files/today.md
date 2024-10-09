@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat Master Offsets 9 October](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/665998-combat-master-offsets-9-october.html)|`2024-10-10 02:32:00`|`Combat Master`|
+|[External Cheat And exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665602-external-cheat-exploits.html)|`2024-10-10 02:19:00`|`Counter-Strike 2`|
+|[what to read for a esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665662-read-esp.html)|`2024-10-10 02:19:00`|`Counter-Strike 2`|
+|[Kmbox net get physical mouse clicks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/665826-kmbox-net-physical-mouse-clicks.html)|`2024-10-10 02:19:00`|`Other Hardware`|
+|[Dead by Daylight &#45; Permanent Prestige](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658804-dead-daylight-permanent-prestige.html)|`2024-10-10 02:19:00`|`Other FPS Games`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-10-10 02:17:00`|`Valorant`|
+|[Overwatch Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/665912-overwatch-ban.html)|`2024-10-10 02:13:00`|`Overwatch`|
 |[Duckside ESP &#40;ue4&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/665994-duckside-esp-ue4.html)|`2024-10-10 02:13:00`|`Other Games`|
 |[need help with triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/604621-help-triggerbot.html)|`2024-10-10 02:12:00`|`Counter-Strike 2`|
 |[ThunderTirnal &#45; WarThunder Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/660182-thundertirnal-warthunder-cheat.html)|`2024-10-10 02:07:00`|`Other MMORPG and Strategy`|
