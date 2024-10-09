@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-10-09 09:02:00`|`Deadlock`|
+|[silent ui, chinese wz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/661134-silent-ui-chinese-wz.html)|`2024-10-09 08:45:00`|`Call of Duty: Modern Warfare III`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2024-10-09 08:43:00`|`Other MMORPG and Strategy`|
+|[kernel cheat just flashes and closes immediately](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/665097-kernel-cheat-flashes-closes-immediately.html)|`2024-10-09 08:40:00`|`Overwatch`|
 |[im HWID Banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/665890-im-hwid-banned.html)|`2024-10-09 07:40:00`|`Rainbow Six Siege`|
 |[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2024-10-09 07:39:00`|`Other FPS Games`|
 |[HWID / Launcher Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/665889-hwid-launcher-bans.html)|`2024-10-09 07:30:00`|`Escape from Tarkov`|
