@@ -24,9 +24,16 @@
 |27|[once&#95;human&#95;cheat&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47176)|`2024-10-10 00:19:38`|
 |86|[08/10 PVE Cheat Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47175)|`2024-10-10 00:19:38`|
 |34|[once&#95;human&#95;cheat&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47174)|`2024-10-10 00:19:38`|
+|1|[theHunter Internal Radar & ESP v1&#46;2&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47181)|`2024-10-10 00:41:28`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[theHunter: Call of the Wild Internal Radar, ESP, & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644365-thehunter-call-wild-internal-radar-esp.html)|`2024-10-10 00:38:00`|`Other FPS Games`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-10-10 00:32:00`|`Rust`|
+|[Off the Grid Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/665981-grid-reversal-structs-offsets.html)|`2024-10-10 00:32:00`|`Other FPS Games`|
+|[HWID / Launcher Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/665889-hwid-launcher-bans.html)|`2024-10-10 00:31:00`|`Escape from Tarkov`|
+|[zap&#45;client &#91;Legitbot, Ragebot, Glow, ESP & More&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/628823-zap-client-legitbot-ragebot-glow-esp.html)|`2024-10-10 00:25:00`|`Apex Legends`|
+|[YimMenu &#91;1&#46;69 &#45; b3337&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3337.html)|`2024-10-10 00:20:00`|`Grand Theft Auto V`|
 |[about AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662127-ahk.html)|`2024-10-10 00:17:00`|`Apex Legends`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-10-10 00:15:00`|`Grand Theft Auto V`|
 |[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2024-10-10 00:13:00`|`Other FPS Games`|
