@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Setting Angles in CreateMove](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/665415-setting-angles-createmove.html)|`2024-10-09 10:22:00`|`Deadlock`|
+|[Osussit External AimAssist &#91;Osu&#33;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/623903-osussit-external-aimassist-osu.html)|`2024-10-09 10:20:00`|`Other Games`|
+|[Arma Reforger Duplication Glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/665901-arma-reforger-duplication-glitch.html)|`2024-10-09 10:10:00`|`ARMA 3`|
+|[The Ultimate Guide To Anonymizing & De&#45;bloating Windows 10](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/648414-ultimate-guide-anonymizing-de-bloating-windows-10-a.html)|`2024-10-09 10:00:00`|`PC Software`|
 |[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-10-09 09:02:00`|`Deadlock`|
 |[silent ui, chinese wz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/661134-silent-ui-chinese-wz.html)|`2024-10-09 08:45:00`|`Call of Duty: Modern Warfare III`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2024-10-09 08:43:00`|`Other MMORPG and Strategy`|
