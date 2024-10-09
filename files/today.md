@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Replacing TextureParameter in DynamicMaterialInstance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/665946-replacing-textureparameter-dynamicmaterialinstance.html)|`2024-10-09 22:52:00`|`Unreal Engine 4`|
+|[Can't find rendersystem pattern&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665290-cant-rendersystem-pattern.html)|`2024-10-09 22:44:00`|`Counter-Strike 2`|
+|[Unlock MPM on HP Insyde Bioses &#40;Laptop&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/627328-unlock-mpm-hp-insyde-bioses-laptop.html)|`2024-10-09 22:43:00`|`Valorant`|
 |[&#40;New&#41; Content Warning Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/635382-content-warning-cheat-menu.html)|`2024-10-09 22:31:00`|`Other Games`|
 |[Safest xp farm method right now](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665943-safest-xp-farm-method.html)|`2024-10-09 22:19:00`|`Counter-Strike 2`|
 |[Project Zomboid Cheat &#45; EsdPZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/584072-project-zomboid-cheat-esdpz.html)|`2024-10-09 22:18:00`|`Other MMORPG and Strategy`|
