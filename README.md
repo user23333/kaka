@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Working Cute Fast triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/656933-cute-fast-triggerbot.html)|`2024-10-10 22:30:00`|`Valorant`|
+|[About 2k24 Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/666073-2k24-rust.html)|`2024-10-10 22:24:00`|`Rust`|
 |[The First Descendant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/602336-descendant-reversal-structs-offsets.html)|`2024-10-10 22:08:00`|`Other FPS Games`|
 |[How to disable Secure Flash?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/652385-disable-secure-flash.html)|`2024-10-10 21:44:00`|`Valorant`|
 |[0 lerp/interp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/666020-0-lerp-interp.html)|`2024-10-10 21:24:00`|`Team Fortress 2`|
