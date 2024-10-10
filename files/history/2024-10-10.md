@@ -11,6 +11,7 @@
 |12|[Injector &#43; Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/665004-injector-internal-cheat.html)|`2024-10-10 00:19:38`|`deadlock`|
 |25|[Rigel Auto Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/664814-rigel-auto-update.html)|`2024-10-10 00:19:38`|`overwatch`|
 |31|[Once Human Cheat &#40;TP, ESP, &#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/665539-human-cheat-tp-esp.html)|`2024-10-10 00:19:38`|`other-mmorpg-and-strategy`|
+|20|[External Cheat And exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665602-external-cheat-exploits.html)|`2024-10-10 15:49:36`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ban for simple zoom script?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/665410-ban-simple-zoom-script.html)|`2024-10-10 15:37:00`|`Rainbow Six Siege`|
 |[Mouse AIM ASSIST &#40;controller emu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653697-mouse-aim-assist-controller-emu.html)|`2024-10-10 15:31:00`|`Call of Duty: Black Ops 6`|
 |[Stop displaying the dropped weapon ESP if the weapon has an owne](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665924-stop-displaying-dropped-weapon-esp-weapon-owne.html)|`2024-10-10 15:11:00`|`Counter-Strike 2`|
 |[Needs offsets CSGO 2016](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665980-offsets-csgo-2016-a.html)|`2024-10-10 14:58:00`|`Counter-Strike 2`|
