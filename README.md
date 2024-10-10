@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2024-10-11 02:51:00`|`Alternative Online Mods`|
+|[Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/666106-aimbot.html)|`2024-10-11 02:48:00`|`Call of Duty: Modern Warfare III`|
+|[Preferred Wireless Communication Method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/666105-preferred-wireless-communication-method.html)|`2024-10-11 02:44:00`|`Valorant`|
+|[Massive ESP desync when moving camera/view &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/666040-massive-esp-desync-moving-camera-view-dma.html)|`2024-10-11 02:43:00`|`Escape from Tarkov`|
 |[DeadBox Without Process Event&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/665224-deadbox-process-event.html)|`2024-10-11 02:39:00`|`PUBG Mobile`|
 |[CTFGameMovement ProcessMovement Crashing at random times&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/665853-ctfgamemovement-processmovement-crashing-random-times.html)|`2024-10-11 02:39:00`|`Team Fortress 2`|
 |[Preferred Wireless Communication Method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/666098-preferred-wireless-communication-method.html)|`2024-10-11 02:31:00`|`Valorant`|
