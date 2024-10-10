@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666078-valorant.html)|`2024-10-10 22:48:00`|`Anti-Cheat Bypass`|
 |[is there any known way to play valorant in a virtual machine?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/665982-play-valorant-virtual-machine.html)|`2024-10-10 22:33:00`|`Valorant`|
 |[Mobile2&#46;global hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/592815-mobile2-global-hack.html)|`2024-10-10 22:33:00`|`Other Games`|
 |[Working Cute Fast triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/656933-cute-fast-triggerbot.html)|`2024-10-10 22:30:00`|`Valorant`|
