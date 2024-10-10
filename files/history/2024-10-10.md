@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Strange bug with Glow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666087-strange-bug-glow.html)|`2024-10-10 23:47:00`|`Counter-Strike 2`|
 |[Simple OW2 Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/603651-simple-ow2-base.html)|`2024-10-10 23:34:00`|`Overwatch`|
 |[DayZ Source Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/646933-dayz-source-base.html)|`2024-10-10 23:34:00`|`DayZ SA`|
 |[Throne and Liberty DPS meter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/666086-throne-liberty-dps-meter.html)|`2024-10-10 23:34:00`|`Other MMORPG and Strategy`|
