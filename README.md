@@ -34,6 +34,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Squad External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/665989-squad-external-cheat.html)|`2024-10-10 20:43:00`|`Other MMORPG and Strategy`|
+|[CS2 Kernel Cheat &#91;BHOP, TRIGGERBOT, SOURCE&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666067-cs2-kernel-cheat-bhop-triggerbot-source.html)|`2024-10-10 20:35:00`|`Counter-Strike 2`|
+|[Memory Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666065-memory-editor.html)|`2024-10-10 20:30:00`|`Counter-Strike 2`|
+|[Someone know of a cheat to vrchat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/629437-cheat-vrchat.html)|`2024-10-10 20:22:00`|`Other FPS Games`|
+|[How do I access an account that has been banned by VAC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/666064-access-account-banned-vac.html)|`2024-10-10 20:20:00`|`DayZ SA`|
 |[Low latency 2pc video capture?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/584715-low-latency-2pc-video-capture.html)|`2024-10-10 19:52:00`|`Valorant`|
 |[Gamebans on EAC Games through twitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/665798-gamebans-eac-games-twitch.html)|`2024-10-10 19:14:00`|`Anti-Cheat Bypass`|
 |[Server RPC Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/666059-server-rpc-issues.html)|`2024-10-10 19:11:00`|`Unreal Engine 4`|
