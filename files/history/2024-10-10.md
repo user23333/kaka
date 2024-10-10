@@ -29,9 +29,11 @@
 |34|[once&#95;human&#95;cheat&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47174)|`2024-10-10 00:19:38`|
 |1|[theHunter Internal Radar & ESP v1&#46;2&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47181)|`2024-10-10 00:41:28`|
 |0|[client&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47189)|`2024-10-10 14:59:53`|
+|1|[7DTD 1&#46;1 Creative & Debug Menu &#46;DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47190)|`2024-10-10 17:59:15`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to create your own spoofer for fivem?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/665947-create-own-spoofer-fivem.html)|`2024-10-10 17:48:00`|`Alternative Online Mods`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2024-10-10 17:43:00`|`League of Legends`|
 |[BattlEye Bypass Source Code in C&#35;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/664907-battleye-bypass-source-code.html)|`2024-10-10 17:39:00`|`Grand Theft Auto V`|
 |[ODIN V4 FOR STEAM ONLY&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/645623-odin-v4-steam.html)|`2024-10-10 17:24:00`|`Paladins`|
