@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gamebans on EAC Games through twitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/665798-gamebans-eac-games-twitch.html)|`2024-10-10 19:14:00`|`Anti-Cheat Bypass`|
+|[Server RPC Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/666059-server-rpc-issues.html)|`2024-10-10 19:11:00`|`Unreal Engine 4`|
+|[is there any free injector &#43; a cheat that works in 64bits?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/665218-free-injector-cheat-64bits.html)|`2024-10-10 19:02:00`|`Team Fortress 2`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2024-10-10 18:56:00`|`Overwatch`|
 |[Any rust ahk macro?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/662554-rust-ahk-macro.html)|`2024-10-10 18:56:00`|`Rust`|
 |[Is not wrong with using enhancement tools in the game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666054-wrong-using-enhancement-tools-game.html)|`2024-10-10 18:04:00`|`Grand Theft Auto V`|
