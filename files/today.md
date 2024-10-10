@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-10-11 07:18:00`|`Escape from Tarkov`|
+|[Call of Duty: Modern Warfare III Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/605287-call-duty-modern-warfare-iii-reversal-structs-offsets.html)|`2024-10-11 07:13:00`|`Call of Duty: Modern Warfare III`|
+|[PUBG DMA Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/644302-pubg-dma-cheat-run.html)|`2024-10-11 07:03:00`|`Playerunknown's Battlegrounds`|
+|[External grenade prediction constants](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662467-external-grenade-prediction-constants.html)|`2024-10-11 07:02:00`|`Counter-Strike 2`|
+|[Is there any way to bypass the 2024 permanent ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/664269-bypass-2024-permanent-ban.html)|`2024-10-11 07:02:00`|`Grand Theft Auto V`|
+|[Bodycam Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/642828-bodycam-internal.html)|`2024-10-11 06:46:00`|`Other FPS Games`|
 |[Sai's Color Aimbot Python and RAZER mouse move](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/666127-sais-color-aimbot-python-razer-mouse-move.html)|`2024-10-11 06:55:00`|`Call of Duty: Modern Warfare III`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2024-10-11 06:48:00`|`Deadlock`|
 |[Breakpoint from physical address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/665916-breakpoint-physical-address.html)|`2024-10-11 06:42:00`|`Anti-Cheat Bypass`|
