@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-10-11 03:26:00`|`Overwatch`|
 |[CS2 Leaked &#43; Updated External w/ decent features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/666111-cs2-leaked-updated-external-decent-features.html)|`2024-10-11 03:12:00`|`Counter-Strike 2 Releases`|
 |[New Rigel External Ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/658144-rigel-external-ow2.html)|`2024-10-11 03:09:00`|`Overwatch`|
 |[Strange bug with Glow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666087-strange-bug-glow.html)|`2024-10-11 03:08:00`|`Counter-Strike 2`|
