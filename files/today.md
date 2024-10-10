@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6 accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/665150-r6-accounts.html)|`2024-10-10 08:42:00`|`Rainbow Six Siege`|
+|[COD CP exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/616611-cod-cp-exploit.html)|`2024-10-10 08:39:00`|`Call of Duty: Modern Warfare III`|
+|[kernel cheat just flashes and closes immediately](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/665097-kernel-cheat-flashes-closes-immediately.html)|`2024-10-10 08:24:00`|`Overwatch`|
+|[DeadLock External &#124;&#124; AUTO UPDATES&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/665019-deadlock-external-auto-updates.html)|`2024-10-10 08:09:00`|`Deadlock`|
 |[PsSetCreateProcessNotifyRoutine / ACCESS&#95;DENIED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/663528-pssetcreateprocessnotifyroutine-access_denied.html)|`2024-10-10 07:48:00`|`General Programming and Reversing`|
 |[CS2 DMA Source with map parser and kmbox aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660476-cs2-dma-source-map-parser-kmbox-aimbot.html)|`2024-10-10 07:37:00`|`Counter-Strike 2`|
 |[Usermode AC Thread detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/663176-usermode-ac-thread-detection.html)|`2024-10-10 07:31:00`|`Anti-Cheat Bypass`|
