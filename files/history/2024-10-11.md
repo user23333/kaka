@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[zap&#45;client &#91;Legitbot, Ragebot, Glow, ESP & More&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/628823-zap-client-legitbot-ragebot-glow-esp.html)|`2024-10-11 02:08:00`|`Apex Legends`|
+|[Simple cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/661473-simple-cheat.html)|`2024-10-11 02:03:00`|`Deadlock`|
+|[Ban for simple zoom script?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/665410-ban-simple-zoom-script.html)|`2024-10-11 02:00:00`|`Rainbow Six Siege`|
+|[Unlock tool with DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/665024-unlock-tool-dma.html)|`2024-10-11 01:58:00`|`Call of Duty: Modern Warfare III`|
 |[Can anyone help me with dayz offsets 1&#46;24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/666094-help-dayz-offsets-1-24-a.html)|`2024-10-11 01:45:00`|`DayZ SA`|
 |[CCHook:Reloaded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/return-to-castle-wolfenstein/492818-cchook-reloaded.html)|`2024-10-11 01:35:00`|`Return To Castle Wolfenstein`|
 |[dayz source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651347-dayz-source.html)|`2024-10-11 01:30:00`|`DayZ SA`|
