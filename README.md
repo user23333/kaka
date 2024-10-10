@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG No recoil macro v6&#46;0 For all razer mouse using Razer synapse &#91;Undetected&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/605396-pubg-recoil-macro-v6-0-razer-mouse-using-razer-synapse-undetected.html)|`2024-10-11 05:52:00`|`PUBG Releases`|
+|[PUBG No recoil macro v7&#46;0 For all razer mouse using Razer synapse &#91;Undetected&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/658324-pubg-recoil-macro-v7-0-razer-mouse-using-razer-synapse-undetected.html)|`2024-10-11 05:51:00`|`PUBG Releases`|
 |[Refactored Xor String](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666121-refactored-xor-string.html)|`2024-10-11 05:44:00`|`Anti-Cheat Bypass`|
 |[PP&#95;Driver&#45;main &#45; Author/Owner: TtheGrandFather](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/665770-pp_driver-main-author-owner-tthegrandfather.html)|`2024-10-11 05:38:00`|`Anti-Cheat Bypass`|
 |[Kiddion's Modest External Menu &#91;Thread 5&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/576854-kiddions-modest-external-menu-thread-5-a.html)|`2024-10-11 05:15:00`|`Grand Theft Auto V`|
