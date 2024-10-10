@@ -13,6 +13,7 @@
 |31|[Once Human Cheat &#40;TP, ESP, &#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/665539-human-cheat-tp-esp.html)|`2024-10-10 00:19:38`|`other-mmorpg-and-strategy`|
 |20|[External Cheat And exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665602-external-cheat-exploits.html)|`2024-10-10 15:49:36`|`counter-strike-2-a`|
 |11|[BattlEye Bypass Source Code in C&#35;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/664907-battleye-bypass-source-code.html)|`2024-10-10 16:13:46`|`grand-theft-auto-v`|
+|32|[Zodiak &#45; Fastcup Full Kernel Driver Cheat v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/665011-zodiak-fastcup-kernel-driver-cheat-v2.html)|`2024-10-10 17:46:25`|`counterstrike-1-5-1-6-and-mods`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2024-10-10 17:43:00`|`League of Legends`|
+|[BattlEye Bypass Source Code in C&#35;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/664907-battleye-bypass-source-code.html)|`2024-10-10 17:39:00`|`Grand Theft Auto V`|
 |[ODIN V4 FOR STEAM ONLY&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/645623-odin-v4-steam.html)|`2024-10-10 17:24:00`|`Paladins`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/183111-menu-showcase-thread.html)|`2024-10-10 16:34:00`|`Counterstrike Global Offensive`|
 |[TPM AND SB BYPASS &#43; SPOOFER &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/623808-tpm-sb-bypass-spoofer.html)|`2024-10-10 16:32:00`|`Valorant`|
