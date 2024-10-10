@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Low latency 2pc video capture?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/584715-low-latency-2pc-video-capture.html)|`2024-10-10 19:52:00`|`Valorant`|
 |[Gamebans on EAC Games through twitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/665798-gamebans-eac-games-twitch.html)|`2024-10-10 19:14:00`|`Anti-Cheat Bypass`|
 |[Server RPC Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/666059-server-rpc-issues.html)|`2024-10-10 19:11:00`|`Unreal Engine 4`|
 |[is there any free injector &#43; a cheat that works in 64bits?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/665218-free-injector-cheat-64bits.html)|`2024-10-10 19:02:00`|`Team Fortress 2`|
