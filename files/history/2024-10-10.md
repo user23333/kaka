@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple OW2 Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/603651-simple-ow2-base.html)|`2024-10-10 23:34:00`|`Overwatch`|
+|[DayZ Source Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/646933-dayz-source-base.html)|`2024-10-10 23:34:00`|`DayZ SA`|
+|[Throne and Liberty DPS meter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/666086-throne-liberty-dps-meter.html)|`2024-10-10 23:34:00`|`Other MMORPG and Strategy`|
 |[Genshin İmpact Shika Cheat 5&#46;0&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/660051-genshin-mpact-shika-cheat-5-0-0-1-a.html)|`2024-10-10 23:13:00`|`Genshin Impact`|
 |[how to move the mouse / draw boxes on enemys? C&#35;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/666081-move-mouse-draw-boxes-enemys.html)|`2024-10-10 23:06:00`|`Combat Master`|
 |[Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666078-valorant.html)|`2024-10-10 22:48:00`|`Anti-Cheat Bypass`|
