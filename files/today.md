@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat engine ID for fanfares](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/666220-cheat-engine-id-fanfares.html)|`2024-10-11 23:20:00`|`Combat Master`|
+|[Combat Master Battle Pass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/665685-combat-master-battle-pass.html)|`2024-10-11 23:10:00`|`Combat Master`|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2024-10-11 23:08:00`|`Other FPS Games`|
+|[Slendytubbies 3 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/594954-slendytubbies-3-cheat.html)|`2024-10-11 22:58:00`|`Other FPS Games`|
 |[did riot bypassed clash verge?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/666218-riot-bypassed-clash-verge.html)|`2024-10-11 22:54:00`|`Valorant`|
 |[Using pymem for simple esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666084-using-pymem-simple-esp.html)|`2024-10-11 22:42:00`|`Counter-Strike 2`|
 |[Help me&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666017-help.html)|`2024-10-11 22:34:00`|`Counter-Strike 2`|
