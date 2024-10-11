@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does sendinput get detected? Any undedected ways to alter mouse input?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665892-sendinput-detected-undedected-alter-mouse-input.html)|`2024-10-11 21:59:00`|`Counter-Strike 2`|
 |[There is nothing wrong with using enhanced tools，拓展工具](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666211-wrong-using-enhanced-tools.html)|`2024-10-11 21:35:00`|`Grand Theft Auto V`|
 |[SCP:SL Traces](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/661856-scp-sl-traces.html)|`2024-10-11 21:32:00`|`Other Games`|
 |[SCPSL Ban Bypassing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653888-scpsl-ban-bypassing.html)|`2024-10-11 21:30:00`|`Other FPS Games`|
