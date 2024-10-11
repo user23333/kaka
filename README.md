@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[seo64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/662767-seo64.html)|`2024-10-11 11:29:00`|`Team Fortress 2`|
 |[how to give xp through friend code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/665747-xp-friend-code.html)|`2024-10-11 11:18:00`|`HELLDIVERS 2`|
 |[&#91;Albion Online&#93; Computer Vision Bot &#45; The Gatherer 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/578334-albion-online-computer-vision-bot-gatherer-2-0-a.html)|`2024-10-11 11:16:00`|`Other MMORPG and Strategy`|
 |[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2024-10-11 11:11:00`|`Other FPS Games`|
