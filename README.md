@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2024-10-11 19:10:00`|`Unity`|
+|[The Ultimate GTA Ban Wave](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663356-ultimate-gta-ban-wave.html)|`2024-10-11 18:56:00`|`Grand Theft Auto V`|
 |[GMod&#45;SDK Fixed Pattern :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/666031-gmod-sdk-fixed-pattern.html)|`2024-10-11 18:51:00`|`Garry's Mod`|
 |[Spectre Divide Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/660659-spectre-divide-colorbot.html)|`2024-10-11 18:40:00`|`Other FPS Games`|
 |[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-10-11 18:00:00`|`Deadlock`|
