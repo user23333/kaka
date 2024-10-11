@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Start with Insurgency Sandstorm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/insurgency/422110-start-insurgency-sandstorm.html)|`2024-10-12 05:53:00`|`Insurgency`|
+|[Marijuana](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/657683-marijuana.html)|`2024-10-12 05:52:00`|`Off Topic`|
+|[Special Cargo Sell Limit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666125-special-cargo-sell-limit.html)|`2024-10-12 05:49:00`|`Grand Theft Auto V`|
 |[SCP SL Cheat v13&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/611154-scp-sl-cheat-v13-3-1-a.html)|`2024-10-12 05:43:00`|`Other Games`|
 |[ARMA 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/114242-arma-3-reversal-structs-offsets.html)|`2024-10-12 05:42:00`|`ARMA 3`|
 |[Metamorph &#45; SCP:SL Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/623343-metamorph-scp-sl-spoofer.html)|`2024-10-12 05:41:00`|`Other FPS Games`|
