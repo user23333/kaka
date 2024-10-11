@@ -11,6 +11,7 @@
 |20|[External Cheat And exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665602-external-cheat-exploits.html)|`2024-10-11 00:24:08`|`counter-strike-2-a`|
 |33|[Zodiak &#45; Fastcup Full Kernel Driver Cheat v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/665011-zodiak-fastcup-kernel-driver-cheat-v2.html)|`2024-10-11 00:24:08`|`counterstrike-1-5-1-6-and-mods`|
 |6|[Supermarket Together Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/665134-supermarket-cheat-table.html)|`2024-10-11 00:24:08`|`cheat-engine-tables`|
+|7|[Manual map without creating a thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/665677-manual-map-creating-thread.html)|`2024-10-11 08:55:17`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pixel Gun 3D Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/663707-pixel-gun-3d-cheat-engine-table.html)|`2024-10-11 08:35:00`|`Cheat Engine Tables`|
+|[seownedde&#43;&#43; &#40;x64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/663393-seownedde-x64.html)|`2024-10-11 08:30:00`|`Team Fortress 2`|
+|[My Hero Ultra Rumble Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/604426-hero-ultra-rumble-cheat-table.html)|`2024-10-11 07:51:00`|`Other Games`|
 |[COD Cold War Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/664523-cod-cold-war-menu.html)|`2024-10-11 07:32:00`|`Call of Duty: Black Ops Cold War`|
 |[Dead by Daylight &#45; Permanent Prestige](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658804-dead-daylight-permanent-prestige.html)|`2024-10-11 07:29:00`|`Other FPS Games`|
 |[disable crew 2 anti&#45;cheat? &#40;is it even active?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666034-disable-crew-2-anti-cheat-active.html)|`2024-10-11 07:26:00`|`Anti-Cheat Bypass`|
