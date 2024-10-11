@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat Master CE Godmode, MEGA XP, Instant Weapon/Player Max Level, Attachment Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/583715-combat-master-ce-godmode-mega-xp-instant-weapon-player-max-level-attachment-mod.html)|`2024-10-12 02:42:00`|`Combat Master`|
+|[unpopular opinion about Rigel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/666039-unpopular-opinion-rigel.html)|`2024-10-12 02:39:00`|`Overwatch`|
+|[Write to read only memory &#40;kernel&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666251-write-read-memory-kernel.html)|`2024-10-12 02:35:00`|`Anti-Cheat Bypass`|
+|[Nika &#45; Light Weight C&#43;&#43; Linux Pasta Cheat &#45; Health Based Sense, Aimbot, TriggerBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/634402-nika-light-weight-linux-pasta-cheat-health-based-sense-aimbot-triggerbot.html)|`2024-10-12 02:35:00`|`Apex Legends`|
+|[Apex not running on Linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/665932-apex-running-linux.html)|`2024-10-12 02:31:00`|`Apex Legends`|
 |[Importing A2X into Ghidra&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666118-importing-a2x-ghidra.html)|`2024-10-12 02:13:00`|`Counter-Strike 2`|
 |[About 2k24 Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/666073-2k24-rust.html)|`2024-10-12 02:12:00`|`Rust`|
 |[only esp source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/666217-esp-source.html)|`2024-10-12 02:07:00`|`Rust`|
