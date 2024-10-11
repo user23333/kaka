@@ -14,6 +14,7 @@
 |7|[Manual map without creating a thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/665677-manual-map-creating-thread.html)|`2024-10-11 08:55:17`|`anti-cheat-bypass`|
 |7|[NEW Roblox DLL Injector Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/665341-roblox-dll-injector.html)|`2024-10-11 10:18:02`|`forum-general`|
 |11|[Are triggerbots detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/665412-triggerbots-detected.html)|`2024-10-11 10:59:08`|`valorant`|
+|22|[Off the Grid Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/665981-grid-reversal-structs-offsets.html)|`2024-10-11 16:14:40`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anyone can invite me please ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/666158-invite-please.html)|`2024-10-11 16:12:00`|`Deadlock`|
 |[NEW PATCH PEOPLE &#40; 9&#46;07 &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/665949-patch-people-9-07-a.html)|`2024-10-11 15:46:00`|`Valorant`|
 |[What about scripting on mac?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/666154-scripting-mac.html)|`2024-10-11 15:40:00`|`League of Legends`|
 |[Heist Editor v3&#46;6 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/451205-heist-editor-v3-6-external.html)|`2024-10-11 15:20:00`|`Grand Theft Auto V`|
