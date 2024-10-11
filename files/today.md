@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Internal &#45; Legit Cheat, more rage features coming soon&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/659316-cs2-internal-legit-cheat-rage-features-coming-soon.html)|`2024-10-11 16:49:00`|`Counter-Strike 2 Releases`|
+|[AIMi &#45; AI Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/609872-aimi-ai-aimbot.html)|`2024-10-11 16:49:00`|`Counter-Strike 2 Releases`|
+|[Vanguard Spoofer Rev 2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612562-vanguard-spoofer-rev-2-a.html)|`2024-10-11 16:47:00`|`Valorant`|
+|[Weird Viewangels](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/666160-weird-viewangels.html)|`2024-10-11 16:45:00`|`General Programming and Reversing`|
+|[mw19 cheat &#40;aimbot, unlock all, esp, plus a whole lot more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/657027-mw19-cheat-aimbot-unlock-esp-plus-lot.html)|`2024-10-11 16:45:00`|`Call of Duty: Modern Warfare`|
 |[Hoyo Game dumper dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/666159-hoyo-game-dumper-dll.html)|`2024-10-11 16:18:00`|`Other Games`|
 |[Anyone can invite me please ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/666158-invite-please.html)|`2024-10-11 16:12:00`|`Deadlock`|
 |[NEW PATCH PEOPLE &#40; 9&#46;07 &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/665949-patch-people-9-07-a.html)|`2024-10-11 15:46:00`|`Valorant`|
