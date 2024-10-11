@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NEW PATCH PEOPLE &#40; 9&#46;07 &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/665949-patch-people-9-07-a.html)|`2024-10-11 15:46:00`|`Valorant`|
+|[What about scripting on mac?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/666154-scripting-mac.html)|`2024-10-11 15:40:00`|`League of Legends`|
 |[Heist Editor v3&#46;6 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/451205-heist-editor-v3-6-external.html)|`2024-10-11 15:20:00`|`Grand Theft Auto V`|
 |[Getting Permanent Banned From R&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/654722-getting-permanent-banned.html)|`2024-10-11 15:16:00`|`Grand Theft Auto V`|
 |[Anti&#45;cheat & client&#46;dll need admin permission now &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665999-anti-cheat-client-dll-admin-permission.html)|`2024-10-11 15:14:00`|`Counter-Strike 2`|
