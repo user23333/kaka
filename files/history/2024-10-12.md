@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Python Cheats &#40;Aimbot, Esp, Etc&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/664713-python-cheats-aimbot-esp-etc.html)|`2024-10-12 07:18:00`|`Deadlock`|
+|[Simple Deadlock Internal &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/664240-simple-deadlock-internal-source.html)|`2024-10-12 07:13:00`|`Deadlock`|
+|[disable crew 2 anti&#45;cheat? &#40;is it even active?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666034-disable-crew-2-anti-cheat-active.html)|`2024-10-12 07:05:00`|`Anti-Cheat Bypass`|
+|[Can't get EntityType](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/666354-cant-entitytype.html)|`2024-10-12 07:01:00`|`PUBG Mobile`|
+|[ducarri hack&#40;&#46;dev&#41; font](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/666353-ducarri-hack-dev-font.html)|`2024-10-12 06:56:00`|`Counterstrike Global Offensive`|
 |[Start with Insurgency Sandstorm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/insurgency/422110-start-insurgency-sandstorm.html)|`2024-10-12 05:53:00`|`Insurgency`|
 |[Marijuana](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/657683-marijuana.html)|`2024-10-12 05:52:00`|`Off Topic`|
 |[Special Cargo Sell Limit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666125-special-cargo-sell-limit.html)|`2024-10-12 05:49:00`|`Grand Theft Auto V`|
