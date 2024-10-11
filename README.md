@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[InstaLocker Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664623-instalocker-valorant.html)|`2024-10-11 19:58:00`|`Valorant`|
+|[Skip Cluckin Bell preps&#33; Easy 500K](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666172-skip-cluckin-bell-preps-easy-500k.html)|`2024-10-11 19:56:00`|`Grand Theft Auto V`|
+|[force&#45;a&#45;nature jump prediction error fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/666171-force-nature-jump-prediction-error-fix.html)|`2024-10-11 19:48:00`|`Team Fortress 2`|
 |[YimMenu &#91;1&#46;69 &#45; b3337&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3337.html)|`2024-10-11 19:34:00`|`Grand Theft Auto V`|
 |[Valorant Delay ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/654588-valorant-delay-ban.html)|`2024-10-11 19:27:00`|`Valorant`|
 |[Kmbox net get physical mouse clicks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/665826-kmbox-net-physical-mouse-clicks.html)|`2024-10-11 19:21:00`|`Other Hardware`|
