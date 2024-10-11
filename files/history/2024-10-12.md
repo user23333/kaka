@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New Signatures &#40;Dump?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/666243-signatures-dump.html)|`2024-10-12 01:56:00`|`Deadlock`|
+|[New Recoil Patterns for no&#45;recoil script written in C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/664595-recoil-patterns-recoil-script-written.html)|`2024-10-12 01:49:00`|`Apex Legends`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2024-10-12 01:39:00`|`Overwatch`|
 |[kernel cheat just flashes and closes immediately](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/665097-kernel-cheat-flashes-closes-immediately.html)|`2024-10-12 01:34:00`|`Overwatch`|
 |[Get FiveM DevTools &#91;In&#45;Out&#93; Events](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/666239-fivem-devtools-events.html)|`2024-10-12 01:23:00`|`Alternative Online Mods`|
