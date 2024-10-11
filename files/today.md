@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Get FiveM DevTools &#91;In&#45;Out&#93; Events](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/666239-fivem-devtools-events.html)|`2024-10-12 01:23:00`|`Alternative Online Mods`|
+|[YimMenu &#91;1&#46;69 &#45; b3337&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3337.html)|`2024-10-12 01:22:00`|`Grand Theft Auto V`|
+|[RocketLeague Tool &#91;Function Logger &#43; Object Explorer&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/651431-rocketleague-tool-function-logger-object-explorer.html)|`2024-10-12 01:22:00`|`Other Games`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2024-10-12 01:10:00`|`Other FPS Games`|
 |[EAAC imports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666237-eaac-imports.html)|`2024-10-12 01:05:00`|`Anti-Cheat Bypass`|
 |[Is Zeebler &#91;PO&#93; Really A Activision Mole?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/666145-zeebler-po-activision-mole.html)|`2024-10-12 00:48:00`|`Call of Duty: Modern Warfare III`|
