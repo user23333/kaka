@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Simple External base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/645500-fivem-simple-external-base.html)|`2024-10-12 05:30:00`|`Alternative Online Mods`|
+|[Rigel Updated Just Run It](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/659443-rigel-updated-run.html)|`2024-10-12 05:21:00`|`Overwatch`|
 |[Detect softwares that are being flagged by Warframe anticheat system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/666140-detect-softwares-flagged-warframe-anticheat-system.html)|`2024-10-12 05:01:00`|`Other FPS Games`|
 |[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-10-12 04:40:00`|`Deadlock`|
 |[is there any known way to play valorant in a virtual machine?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/665982-play-valorant-virtual-machine.html)|`2024-10-12 04:40:00`|`Valorant`|
