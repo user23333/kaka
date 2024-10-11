@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to move the mouse / draw boxes on enemys? C&#35;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/666081-move-mouse-draw-boxes-enemys.html)|`2024-10-11 20:40:00`|`Combat Master`|
+|[Combat Master Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/580878-combat-master-reversal-structs-offsets.html)|`2024-10-11 20:34:00`|`Combat Master`|
+|[Combat Master Offsets 9 October](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/665998-combat-master-offsets-9-october.html)|`2024-10-11 20:33:00`|`Combat Master`|
 |[InstaLocker Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664623-instalocker-valorant.html)|`2024-10-11 19:58:00`|`Valorant`|
 |[Skip Cluckin Bell preps&#33; Easy 500K](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666172-skip-cluckin-bell-preps-easy-500k.html)|`2024-10-11 19:56:00`|`Grand Theft Auto V`|
 |[force&#45;a&#45;nature jump prediction error fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/666171-force-nature-jump-prediction-error-fix.html)|`2024-10-11 19:48:00`|`Team Fortress 2`|
