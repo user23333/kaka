@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Heist Editor v3&#46;6 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/451205-heist-editor-v3-6-external.html)|`2024-10-11 15:20:00`|`Grand Theft Auto V`|
+|[Getting Permanent Banned From R&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/654722-getting-permanent-banned.html)|`2024-10-11 15:16:00`|`Grand Theft Auto V`|
+|[Anti&#45;cheat & client&#46;dll need admin permission now &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665999-anti-cheat-client-dll-admin-permission.html)|`2024-10-11 15:14:00`|`Counter-Strike 2`|
+|[debugcamera command cannot be used with the fake adminflags?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/666153-debugcamera-command-fake-adminflags.html)|`2024-10-11 15:07:00`|`Rust`|
+|[Is this Method Safe for hijacking process handles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665931-method-safe-hijacking-process-handles.html)|`2024-10-11 15:05:00`|`Counter-Strike 2`|
 |[Genshin Impact](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/418492-genshin-impact.html)|`2024-10-11 14:54:00`|`Genshin Impact`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2024-10-11 14:47:00`|`DayZ SA`|
 |[RunString &#91;Download&#93; File bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/665977-runstring-download-file-bypass.html)|`2024-10-11 14:15:00`|`Garry's Mod`|
