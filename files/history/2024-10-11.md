@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-10-11 13:25:00`|`Counter-Strike 2`|
+|[calling game function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/666055-calling-game-function.html)|`2024-10-11 13:13:00`|`General Programming and Reversing`|
 |[Is Zeebler &#91;PO&#93; Really A Activision Mole?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/666145-zeebler-po-activision-mole.html)|`2024-10-11 12:56:00`|`Call of Duty: Modern Warfare III`|
 |[kernel cheat just flashes and closes immediately](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/665097-kernel-cheat-flashes-closes-immediately.html)|`2024-10-11 12:25:00`|`Overwatch`|
 |[seo64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/662767-seo64.html)|`2024-10-11 11:29:00`|`Team Fortress 2`|
