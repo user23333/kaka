@@ -14,6 +14,7 @@
 |7|[bypass BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/665698-bypass.html)|`2024-10-13 03:28:53`|`grand-theft-auto-v`|
 |8|[Tpm Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/666357-tpm-bypass.html)|`2024-10-13 04:53:35`|`valorant`|
 |13|[Finding decryption routines](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/665514-finding-decryption-routines.html)|`2024-10-13 05:28:35`|`rust`|
+|8|[Dragon Ball SPARKING ZERO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/666057-dragon-ball-sparking-zero.html)|`2024-10-13 07:58:47`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
