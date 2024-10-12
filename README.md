@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/604426-hero-ultra-rumble-cheat-table.html)|`2024-10-13 04:59:00`|`Other Games`|
+|[DeadBox Without Process Event&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/665224-deadbox-process-event.html)|`2024-10-13 04:59:00`|`PUBG Mobile`|
+|[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-10-13 04:58:00`|`Deadlock`|
 |[Dragon Ball SPARKING ZERO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/666057-dragon-ball-sparking-zero.html)|`2024-10-13 04:41:00`|`Other Games`|
 |[Software Video Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/659347-software-video-fuser.html)|`2024-10-13 04:39:00`|`C and C++`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2024-10-13 04:34:00`|`Counter-Strike 2 Releases`|
