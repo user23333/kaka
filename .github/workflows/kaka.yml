@@ -35,13 +35,20 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-
-      - name: Run
+      
+      - name: Run with retry
+        uses: nick-fields/retry@v3
         env:
           V1: ${{ secrets.V1 }}
           V2: ${{ secrets.V2 }}
           V3: ${{ secrets.V3 }}
-        run: python main.py
+        with:
+          timeout_minutes: 1
+          max_attempts: 5
+          retry_wait_seconds: 60
+          retry_on: error
+          command: python main.py
+
 
       - name: Push
         run: |
