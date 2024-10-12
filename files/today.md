@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[KVM Bypass Using QEMU &#45; Vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/635411-kvm-bypass-using-qemu-vanguard.html)|`2024-10-13 05:35:00`|`League of Legends`|
+|[Special Cargo Sell Limit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666125-special-cargo-sell-limit.html)|`2024-10-13 05:29:00`|`Grand Theft Auto V`|
 |[Combat Master CE Godmode, MEGA XP, Instant Weapon/Player Max Level, Attachment Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/583715-combat-master-ce-godmode-mega-xp-instant-weapon-player-max-level-attachment-mod.html)|`2024-10-13 05:22:00`|`Combat Master`|
 |[Sai's Color Aimbot Python and RAZER mouse move](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/666127-sais-color-aimbot-python-razer-mouse-move.html)|`2024-10-13 05:22:00`|`Call of Duty: Modern Warfare III`|
 |[W11 24H2 data ptr driver communication method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/652498-w11-24h2-data-ptr-driver-communication-method.html)|`2024-10-13 05:21:00`|`Anti-Cheat Bypass`|
