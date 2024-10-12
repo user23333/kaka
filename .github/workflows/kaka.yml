@@ -55,5 +55,5 @@ jobs:
           git config --global user.name "nobody"
           git config --global user.email "nobody@gmail.com"
           git add -A
-          git commit -m $(date '+%Y-%m-%d_%H%M%S')
+          git commit -m $(date '+%Y-%m-%d_%H%M%S') || true
           git push
