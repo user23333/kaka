@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RocketLeague Tool &#91;Function Logger &#43; Object Explorer&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/651431-rocketleague-tool-function-logger-object-explorer.html)|`2024-10-13 03:12:00`|`Other Games`|
+|[More TFT Info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/666492-tft-info.html)|`2024-10-13 03:06:00`|`League of Legends`|
 |[GMod&#45;SDK Fixed Pattern :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/666031-gmod-sdk-fixed-pattern.html)|`2024-10-13 02:53:00`|`Garry's Mod`|
 |[CSGO dwForceJump logic changed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/666475-csgo-dwforcejump-logic-changed.html)|`2024-10-13 02:50:00`|`General Programming and Reversing`|
 |[Colorbot &#45; Aim Assist, Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/627913-colorbot-aim-assist-triggerbot.html)|`2024-10-13 02:47:00`|`Valorant`|
