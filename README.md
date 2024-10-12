@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust InGame Map Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/666403-rust-ingame-map-radar.html)|`2024-10-13 05:08:00`|`Rust`|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2024-10-13 05:07:00`|`Other FPS Games`|
+|[&#91;I want to learn and explore&#93; Arduino Leonardo R3 &#43; USB Host Shield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/666141-learn-explore-arduino-leonardo-r3-usb-host-shield.html)|`2024-10-13 05:00:00`|`Valorant`|
 |[My Hero Ultra Rumble Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/604426-hero-ultra-rumble-cheat-table.html)|`2024-10-13 04:59:00`|`Other Games`|
 |[DeadBox Without Process Event&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/665224-deadbox-process-event.html)|`2024-10-13 04:59:00`|`PUBG Mobile`|
 |[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-10-13 04:58:00`|`Deadlock`|
