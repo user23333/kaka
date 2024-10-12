@@ -29,9 +29,12 @@
 |33|[deadlock sdk 11/10](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47200)|`2024-10-13 01:30:38`|
 |9|[expateu198l](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47213)|`2024-10-13 04:53:35`|
 |1|[Gmod&#45;SDK&#45;Injectable&#45;Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47211)|`2024-10-13 04:53:35`|
+|1|[FragPunk SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47215)|`2024-10-13 06:16:16`|
+|1|[Mafia4321x Razer macro color aimbot 4&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47214)|`2024-10-13 06:16:16`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FragPunk Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/666506-fragpunk-reversal-structs-offsets.html)|`2024-10-13 06:10:00`|`Other FPS Games`|
 |[Crossfire hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/665399-crossfire-hack.html)|`2024-10-13 06:02:00`|`CrossFire`|
 |[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2024-10-13 05:58:00`|`Grand Theft Auto V`|
 |[how to get game mode in cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665828-game-mode-cs2.html)|`2024-10-13 05:56:00`|`Counter-Strike 2`|
