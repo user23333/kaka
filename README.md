@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[color triggerbot codehelp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/666644-color-triggerbot-codehelp.html)|`2024-10-13 22:07:00`|`Valorant`|
+|[Heist Editor v3&#46;6 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/451205-heist-editor-v3-6-external.html)|`2024-10-13 22:06:00`|`Grand Theft Auto V`|
+|[SlyAutomation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/666236-slyautomation.html)|`2024-10-13 22:05:00`|`Valorant`|
 |[CS2 External Bhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/604580-cs2-external-bhop.html)|`2024-10-13 21:57:00`|`Counter-Strike 2 Releases`|
 |[Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666627-driver.html)|`2024-10-13 21:34:00`|`Anti-Cheat Bypass`|
 |[New CUserCmd and Input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666630-cusercmd-input.html)|`2024-10-13 21:50:00`|`Counter-Strike 2`|
