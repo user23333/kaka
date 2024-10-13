@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SmmInfect &#45; Smm Backdoor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664482-smminfect-smm-backdoor.html)|`2024-10-14 06:51:00`|`Anti-Cheat Bypass`|
+|[Tobii Ghostst Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666714-tobii-ghostst-overlay.html)|`2024-10-14 06:51:00`|`Anti-Cheat Bypass`|
 |[Call of Duty Mobile offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/573315-call-duty-mobile-offsets.html)|`2024-10-14 06:46:00`|`Other FPS Games`|
 |[Dragon Ball SPARKING ZERO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/666057-dragon-ball-sparking-zero.html)|`2024-10-14 06:43:00`|`Other Games`|
 |[&#91;UNO&#93; Looking for help to create a cheat for Uno](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/666546-uno-looking-help-create-cheat-uno.html)|`2024-10-14 06:11:00`|`Other Games`|
