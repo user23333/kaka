@@ -11,6 +11,7 @@
 |4|[PP&#95;Driver&#45;main &#45; Author/Owner: TtheGrandFather](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/665770-pp_driver-main-author-owner-tthegrandfather.html)|`2024-10-14 00:00:07`|`anti-cheat-bypass`|
 |12|[Skip Cluckin Bell preps&#33; Easy 500K](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666172-skip-cluckin-bell-preps-easy-500k.html)|`2024-10-14 00:00:07`|`grand-theft-auto-v`|
 |7|[bypass BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/665698-bypass.html)|`2024-10-14 00:00:07`|`grand-theft-auto-v`|
+|7|[NEW PATCH PEOPLE &#40; 9&#46;07 &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/665949-patch-people-9-07-a.html)|`2024-10-14 03:54:04`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
