@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is this method safe for getting Cs2 Handle from trusted source&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666606-method-safe-getting-cs2-handle-trusted-source.html)|`2024-10-14 00:51:00`|`Counter-Strike 2`|
+|[The First Descendant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/602336-descendant-reversal-structs-offsets.html)|`2024-10-14 00:51:00`|`Other FPS Games`|
+|[FiveM External Source &#45; Krypted &#40;many Features&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/666614-fivem-external-source-krypted-features.html)|`2024-10-14 00:48:00`|`Alternative Online Mods`|
 |[HLL: Hell Let Loose](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/340677-hll-hell-loose.html)|`2024-10-14 00:45:00`|`Other FPS Games`|
 |[Rigel Internal / External not showing&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/666618-rigel-internal-external.html)|`2024-10-14 00:42:00`|`Overwatch`|
 |[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-10-14 00:39:00`|`Escape from Tarkov`|
