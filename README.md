@@ -13,6 +13,7 @@
 |7|[bypass BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/665698-bypass.html)|`2024-10-14 00:00:07`|`grand-theft-auto-v`|
 |7|[NEW PATCH PEOPLE &#40; 9&#46;07 &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/665949-patch-people-9-07-a.html)|`2024-10-14 03:54:04`|`valorant`|
 |15|[Easy and Simple to use Threading system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666003-easy-simple-threading-system.html)|`2024-10-14 03:59:58`|`counter-strike-2-a`|
+|11|[DeadLock &#124;&#124; Auto&#45;updates &#124;&#124; egui Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/666542-deadlock-auto-updates-egui-rust.html)|`2024-10-14 06:06:28`|`deadlock`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-10-14 06:06:00`|`Counter-Strike 2`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2024-10-14 06:03:00`|`Escape from Tarkov`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-10-14 05:47:00`|`Apex Legends`|
 |[Help with reversing games, connecting cheat engine knowledge with IDA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/666240-help-reversing-games-connecting-cheat-engine-knowledge-ida.html)|`2024-10-14 05:26:00`|`General Programming and Reversing`|
 |[Wicked Menu/ Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/372512-wicked-menu-cheat-engine.html)|`2024-10-14 05:23:00`|`Red Dead Redemption 2`|
