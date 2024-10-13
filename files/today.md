@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mw19 aio](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/635725-mw19-aio.html)|`2024-10-13 20:52:00`|`Call of Duty: Modern Warfare`|
 |[CCHook:Reloaded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/return-to-castle-wolfenstein/492818-cchook-reloaded.html)|`2024-10-13 20:23:00`|`Return To Castle Wolfenstein`|
 |[banned from cord](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/665762-banned-cord.html)|`2024-10-13 20:17:00`|`Forum General`|
 |[New auth riot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/665200-auth-riot.html)|`2024-10-13 20:15:00`|`League of Legends`|
