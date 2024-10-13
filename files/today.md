@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG DMA Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/644302-pubg-dma-cheat-run.html)|`2024-10-14 02:41:00`|`Playerunknown's Battlegrounds`|
+|[seo64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/662767-seo64.html)|`2024-10-14 02:40:00`|`Team Fortress 2`|
+|[Getting my DLL past the "EAC EOS Bootstrapper" and into the game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/665792-getting-dll-past-eac-eos-bootstrapper-game.html)|`2024-10-14 02:37:00`|`Anti-Cheat Bypass`|
 |[Obtaining Kernel RW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666525-obtaining-kernel-rw.html)|`2024-10-14 02:35:00`|`Anti-Cheat Bypass`|
 |[EAC inject exploit without kernel injectors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666675-eac-inject-exploit-kernel-injectors.html)|`2024-10-14 02:32:00`|`Anti-Cheat Bypass`|
 |[Get selected skins from arsenal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664707-selected-skins-arsenal.html)|`2024-10-14 02:31:00`|`Valorant`|
