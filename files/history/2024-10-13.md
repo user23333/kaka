@@ -38,6 +38,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CCHook:Reloaded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/return-to-castle-wolfenstein/492818-cchook-reloaded.html)|`2024-10-13 20:23:00`|`Return To Castle Wolfenstein`|
+|[banned from cord](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/665762-banned-cord.html)|`2024-10-13 20:17:00`|`Forum General`|
+|[New auth riot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/665200-auth-riot.html)|`2024-10-13 20:15:00`|`League of Legends`|
+|[FiveM External Source &#45; Krypted &#40;many Features&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/666614-fivem-external-source-krypted-features.html)|`2024-10-13 20:00:00`|`Alternative Online Mods`|
 |[not able to play heists with yim?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666613-able-play-heists-yim.html)|`2024-10-13 19:54:00`|`Grand Theft Auto V`|
 |[Is this method safe for getting Cs2 Handle from trusted source&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666606-method-safe-getting-cs2-handle-trusted-source.html)|`2024-10-13 18:47:00`|`Counter-Strike 2`|
 |[Find a lost DLL with lobby finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/659865-lost-dll-lobby-finder.html)|`2024-10-13 18:47:00`|`Call of Duty: Black Ops 3`|
