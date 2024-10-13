@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dungeonborne Solo Lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/650528-dungeonborne-solo-lobby.html)|`2024-10-13 22:28:00`|`Other Games`|
+|[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2024-10-13 22:28:00`|`Elite: Dangerous`|
+|[How to get players health in HLTV mode?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/666621-players-health-hltv-mode.html)|`2024-10-13 22:26:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[KmBox Net &#45; Not working correct](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/655841-kmbox-net-correct.html)|`2024-10-13 22:22:00`|`PC Hardware`|
 |[Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/465314-super-animal-royale-hack.html)|`2024-10-13 22:19:00`|`Other Games`|
 |[Rigel Internal / External not showing&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/666618-rigel-internal-external.html)|`2024-10-13 22:15:00`|`Overwatch`|
