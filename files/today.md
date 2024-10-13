@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2024-10-13 16:42:00`|`Palia`|
 |[Make ammo and health infinite in Max Payne &#40;2001&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/660569-ammo-health-infinite-max-payne-2001-a.html)|`2024-10-13 16:12:00`|`Other MMORPG and Strategy`|
 |[SmmInfect &#45; Smm Backdoor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664482-smminfect-smm-backdoor.html)|`2024-10-13 16:04:00`|`Anti-Cheat Bypass`|
 |[Skins importing from Obsidian &#40;&#46;skn and &#46;skl&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/666563-skins-importing-obsidian-skn-skl.html)|`2024-10-13 15:51:00`|`League of Legends`|
