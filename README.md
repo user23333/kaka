@@ -37,6 +37,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dale and Dawson Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/664163-dale-dawson-mod-menu.html)|`2024-10-13 14:29:00`|`Other Games`|
+|[schema manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/657891-schema-manager.html)|`2024-10-13 14:18:00`|`Deadlock`|
+|[RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666549-rcs.html)|`2024-10-13 14:15:00`|`Counter-Strike 2`|
+|[Is this enough to bypass tpm ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/666421-bypass-tpm-ban.html)|`2024-10-13 14:14:00`|`Valorant`|
 |[How to remove HWID ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/665342-remove-hwid-ban.html)|`2024-10-13 14:12:00`|`Deadlock`|
 |[Valorant Delay ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/654588-valorant-delay-ban.html)|`2024-10-13 14:10:00`|`Valorant`|
 |[Fivem OLD executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/666041-fivem-executor.html)|`2024-10-13 13:36:00`|`Alternative Online Mods`|
