@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-10-14 05:47:00`|`Apex Legends`|
 |[Help with reversing games, connecting cheat engine knowledge with IDA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/666240-help-reversing-games-connecting-cheat-engine-knowledge-ida.html)|`2024-10-14 05:26:00`|`General Programming and Reversing`|
 |[Wicked Menu/ Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/372512-wicked-menu-cheat-engine.html)|`2024-10-14 05:23:00`|`Red Dead Redemption 2`|
 |[How to Get DeadLock Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/660973-deadlock-offsets.html)|`2024-10-14 05:20:00`|`Deadlock`|
