@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[korea vng taiwan safe bypass 3&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/666622-korea-vng-taiwan-safe-bypass-3-4-a.html)|`2024-10-13 21:14:00`|`PUBG Mobile`|
+|[external sound esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/644134-external-sound-esp.html)|`2024-10-13 20:59:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Manual map without creating a thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/665677-manual-map-creating-thread.html)|`2024-10-13 20:57:00`|`Anti-Cheat Bypass`|
 |[Mw19 aio](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/635725-mw19-aio.html)|`2024-10-13 20:52:00`|`Call of Duty: Modern Warfare`|
 |[CCHook:Reloaded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/return-to-castle-wolfenstein/492818-cchook-reloaded.html)|`2024-10-13 20:23:00`|`Return To Castle Wolfenstein`|
 |[banned from cord](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/665762-banned-cord.html)|`2024-10-13 20:17:00`|`Forum General`|
