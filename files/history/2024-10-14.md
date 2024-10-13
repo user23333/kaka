@@ -26,9 +26,15 @@
 |83|[DescentInternal 1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47208)|`2024-10-14 00:00:07`|
 |3|[CFWest cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47222)|`2024-10-14 00:20:46`|
 |2|[stcheattable v1&#46;3 &#45; by SpionQuark](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47223)|`2024-10-14 02:18:24`|
+|2|[Sai s Aimbot PY Razer RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47227)|`2024-10-14 02:35:29`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Obtaining Kernel RW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666525-obtaining-kernel-rw.html)|`2024-10-14 02:35:00`|`Anti-Cheat Bypass`|
+|[EAC inject exploit without kernel injectors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666675-eac-inject-exploit-kernel-injectors.html)|`2024-10-14 02:32:00`|`Anti-Cheat Bypass`|
+|[Get selected skins from arsenal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664707-selected-skins-arsenal.html)|`2024-10-14 02:31:00`|`Valorant`|
+|[Extreme Injector v3&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/213038-extreme-injector-v3-7-a.html)|`2024-10-14 02:30:00`|`General Programming and Reversing`|
+|[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2024-10-14 02:28:00`|`Palia`|
 |[dll injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/666671-dll-injection.html)|`2024-10-14 02:12:00`|`League of Legends`|
 |[Tpm Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/666357-tpm-bypass.html)|`2024-10-14 02:04:00`|`Valorant`|
 |[Supermarket Together Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/665134-supermarket-cheat-table.html)|`2024-10-14 02:02:00`|`Cheat Engine Tables`|
