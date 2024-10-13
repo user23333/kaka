@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Retrieving Hero Name by ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/665766-retrieving-hero-name-id.html)|`2024-10-13 18:36:00`|`Deadlock`|
+|[Chams Color](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666551-chams-color.html)|`2024-10-13 18:33:00`|`Counter-Strike 2`|
 |[Definitive Ultimate Cheatpack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/633084-definitive-ultimate-cheatpack.html)|`2024-10-13 18:31:00`|`Star Wars Battlefront 2`|
 |[can someone run me a few lobbies for max medal max level and samples](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/650976-run-lobbies-max-medal-max-level-samples.html)|`2024-10-13 18:20:00`|`HELLDIVERS 2`|
 |[battlfield 1 Evicted bfone v1&#46;07&#46;5107 internal Aim&#43;esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/650952-battlfield-1-evicted-bfone-v1-07-5107-internal-aim-esp.html)|`2024-10-13 17:57:00`|`Battlefield 1`|
