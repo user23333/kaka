@@ -25,9 +25,13 @@
 |280|[Tpm Bypass src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47209)|`2024-10-14 00:00:07`|
 |83|[DescentInternal 1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47208)|`2024-10-14 00:00:07`|
 |3|[CFWest cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47222)|`2024-10-14 00:20:46`|
+|2|[stcheattable v1&#46;3 &#45; by SpionQuark](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47223)|`2024-10-14 02:18:24`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[dll injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/666671-dll-injection.html)|`2024-10-14 02:12:00`|`League of Legends`|
+|[Tpm Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/666357-tpm-bypass.html)|`2024-10-14 02:04:00`|`Valorant`|
+|[Supermarket Together Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/665134-supermarket-cheat-table.html)|`2024-10-14 02:02:00`|`Cheat Engine Tables`|
 |[Special Cargo Sell Limit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666125-special-cargo-sell-limit.html)|`2024-10-14 01:54:00`|`Grand Theft Auto V`|
 |[XianYuMods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/661692-xianyumods.html)|`2024-10-14 01:52:00`|`Payday 3`|
 |[Glacier and Grade skins addon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/666550-glacier-grade-skins-addon.html)|`2024-10-14 01:40:00`|`Rainbow Six Siege`|
