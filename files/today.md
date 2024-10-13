@@ -36,6 +36,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Not getting any Valid Adresses](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/666387-getting-valid-adresses.html)|`2024-10-13 11:00:00`|`Apex Legends`|
+|[Rust Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/452384-rust-scripting.html)|`2024-10-13 10:57:00`|`Rust`|
+|[DeadLock External &#124;&#124; AUTO UPDATES&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/665019-deadlock-external-auto-updates.html)|`2024-10-13 10:50:00`|`Deadlock`|
+|[Help with Object Manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/666535-help-object-manager.html)|`2024-10-13 10:47:00`|`League of Legends`|
+|[debugcamera command cannot be used with the fake adminflags?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/666153-debugcamera-command-fake-adminflags.html)|`2024-10-13 10:43:00`|`Rust`|
+|[About 2k24 Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/666073-2k24-rust.html)|`2024-10-13 10:38:00`|`Rust`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2024-10-13 10:26:00`|`Other FPS Games`|
 |[Arcade Games Force](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666532-arcade-games-force.html)|`2024-10-13 10:02:00`|`Grand Theft Auto V`|
 |[Jumpy Overlay ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/666328-jumpy-overlay-esp.html)|`2024-10-13 09:52:00`|`Call of Duty: Modern Warfare III`|
