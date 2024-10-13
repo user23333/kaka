@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[KmBox Net &#45; Not working correct](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/655841-kmbox-net-correct.html)|`2024-10-13 22:22:00`|`PC Hardware`|
+|[Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/465314-super-animal-royale-hack.html)|`2024-10-13 22:19:00`|`Other Games`|
+|[Rigel Internal / External not showing&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/666618-rigel-internal-external.html)|`2024-10-13 22:15:00`|`Overwatch`|
 |[color triggerbot codehelp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/666644-color-triggerbot-codehelp.html)|`2024-10-13 22:07:00`|`Valorant`|
 |[Heist Editor v3&#46;6 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/451205-heist-editor-v3-6-external.html)|`2024-10-13 22:06:00`|`Grand Theft Auto V`|
 |[SlyAutomation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/666236-slyautomation.html)|`2024-10-13 22:05:00`|`Valorant`|
