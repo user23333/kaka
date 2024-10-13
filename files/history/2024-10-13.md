@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to remove HWID ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/665342-remove-hwid-ban.html)|`2024-10-13 14:12:00`|`Deadlock`|
+|[Valorant Delay ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/654588-valorant-delay-ban.html)|`2024-10-13 14:10:00`|`Valorant`|
 |[Fivem OLD executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/666041-fivem-executor.html)|`2024-10-13 13:36:00`|`Alternative Online Mods`|
 |[&#91;UNO&#93; Looking for help to create a cheat for Uno](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/666546-uno-looking-help-create-cheat-uno.html)|`2024-10-13 13:32:00`|`Other Games`|
 |[Mouse AIM ASSIST &#40;controller emu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653697-mouse-aim-assist-controller-emu.html)|`2024-10-13 13:27:00`|`Call of Duty: Black Ops 6`|
