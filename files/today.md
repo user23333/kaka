@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666627-driver.html)|`2024-10-14 04:33:00`|`Anti-Cheat Bypass`|
+|[EAC detection &#40;APEX&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666612-eac-detection-apex.html)|`2024-10-14 04:30:00`|`Anti-Cheat Bypass`|
+|[ch atm are exploit &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/666113-ch-atm-exploit.html)|`2024-10-14 04:25:00`|`Garry's Mod`|
 |[FamilyMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/631659-familymenu.html)|`2024-10-14 04:16:00`|`Red Dead Redemption 2`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2024-10-14 04:16:00`|`Overwatch`|
 |[Sai's Color Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/623951-sais-color-aimbot.html)|`2024-10-14 04:02:00`|`Call of Duty: Modern Warfare III`|
