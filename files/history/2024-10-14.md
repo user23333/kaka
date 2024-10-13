@@ -24,9 +24,17 @@
 |5|[Gmod&#45;SDK&#45;Injectable&#45;Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47211)|`2024-10-14 00:00:07`|
 |280|[Tpm Bypass src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47209)|`2024-10-14 00:00:07`|
 |83|[DescentInternal 1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47208)|`2024-10-14 00:00:07`|
+|3|[CFWest cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47222)|`2024-10-14 00:20:46`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2024-10-14 00:18:00`|`Grand Theft Auto V`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-10-14 00:12:00`|`Rust`|
+|[I need help making silent aimbot,](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/666659-help-silent-aimbot.html)|`2024-10-14 00:12:00`|`Team Fortress 2`|
+|[Crossfire West cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/666574-crossfire-west-cheat.html)|`2024-10-14 00:09:00`|`CrossFire`|
+|[DeadLock &#124;&#124; Auto&#45;updates &#124;&#124; egui Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/666542-deadlock-auto-updates-egui-rust.html)|`2024-10-14 00:07:00`|`Deadlock`|
+|[SCP SL Cheat v13&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/611154-scp-sl-cheat-v13-3-1-a.html)|`2024-10-14 00:06:00`|`Other Games`|
+|[Vigor External Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/664346-vigor-external-hack.html)|`2024-10-14 00:06:00`|`Other FPS Games`|
 |[Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666078-valorant.html)|`2024-10-13 23:58:00`|`Anti-Cheat Bypass`|
 |[color triggerbot codehelp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/666644-color-triggerbot-codehelp.html)|`2024-10-13 23:58:00`|`Valorant`|
 |[Grinder &#45; Simple C&#43;&#43; Linux Sense, Aimbot, TriggerBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/605888-grinder-simple-linux-sense-aimbot-triggerbot.html)|`2024-10-13 23:51:00`|`Apex Legends`|
