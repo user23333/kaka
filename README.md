@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2024-10-14 20:01:00`|`Deadlock`|
+|[Pixel Strike 3D Hack &#40;2024&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662658-pixel-strike-3d-hack-2024-a.html)|`2024-10-14 19:57:00`|`Other FPS Games`|
 |[God I wish there was a way to see deleted/edited posts without being a mod&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/666804-god-wish-deleted-edited-posts-mod.html)|`2024-10-14 19:41:00`|`Forum General`|
 |[Cons of Perm spoof HWID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/665727-cons-perm-spoof-hwid.html)|`2024-10-14 19:28:00`|`Forum General`|
 |[Low latency 2pc video capture?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/584715-low-latency-2pc-video-capture.html)|`2024-10-14 19:20:00`|`Valorant`|
