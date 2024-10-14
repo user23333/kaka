@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[KMM cheats that aren't in Yimmenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666657-kmm-cheats-arent-yimmenu.html)|`2024-10-15 01:18:00`|`Grand Theft Auto V`|
+|[zap&#45;client &#91;Legitbot, Ragebot, Glow, ESP & More&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/628823-zap-client-legitbot-ragebot-glow-esp.html)|`2024-10-15 01:18:00`|`Apex Legends`|
+|[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2024-10-15 01:13:00`|`Apex Legends`|
+|[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-10-15 01:09:00`|`Deadlock`|
 |[Rust Ban Evading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/666751-rust-ban-evading.html)|`2024-10-15 01:06:00`|`Rust`|
 |[3rd party emu to TGB lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/666847-3rd-party-emu-tgb-lobby.html)|`2024-10-15 01:06:00`|`PUBG Mobile`|
 |[Sai's Color Aimbot Python and RAZER mouse move](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/666127-sais-color-aimbot-python-razer-mouse-move.html)|`2024-10-15 00:55:00`|`Call of Duty: Modern Warfare III`|
