@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[kernel cheat just flashes and closes immediately](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/665097-kernel-cheat-flashes-closes-immediately.html)|`2024-10-14 09:09:00`|`Overwatch`|
+|[External Bullet Tracers &#40;No Hooking no WPM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666748-external-bullet-tracers-hooking-wpm.html)|`2024-10-14 09:05:00`|`Counter-Strike 2`|
+|[Help with Arduino cheatin'](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/654165-help-arduino-cheatin.html)|`2024-10-14 08:37:00`|`Valorant`|
+|[Deadlock offset dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/666743-deadlock-offset-dumper.html)|`2024-10-14 08:29:00`|`Deadlock`|
+|[what menu to use?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/666741-menu.html)|`2024-10-14 08:19:00`|`Call of Duty: Modern Warfare III`|
+|[CS2 Free External Multi Cheat &#35; AIMBOT / RCS / ESP / MISC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/666738-cs2-free-external-multi-cheat-aimbot-rcs-esp-misc.html)|`2024-10-14 08:14:00`|`Counter-Strike 2 Releases`|
 |[Dale & Dawson Stationery Supplies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/660003-dale-dawson-stationery-supplies.html)|`2024-10-14 07:16:00`|`Other Games`|
 |[not able to play heists with yim?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666613-able-play-heists-yim.html)|`2024-10-14 07:08:00`|`Grand Theft Auto V`|
 |[Viewangles for recoil tables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/666717-viewangles-recoil-tables.html)|`2024-10-14 07:05:00`|`Rust`|
