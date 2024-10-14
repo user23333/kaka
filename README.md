@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2024-10-14 21:27:00`|`Escape from Tarkov`|
+|[AUTH FAILURE RIOT API](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/666821-auth-failure-riot-api.html)|`2024-10-14 21:25:00`|`Valorant`|
+|[Chivalry 2 Gamepass Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/591970-chivalry-2-gamepass-cheat-table.html)|`2024-10-14 21:23:00`|`Other Games`|
 |[Sea of thieves Season 13 FOV Slider, nosprint, and other cheats&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/666750-sea-thieves-season-13-fov-slider-nosprint-cheats.html)|`2024-10-14 21:11:00`|`Sea of Thieves`|
 |[AUTH FAILURE RIOT API](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/666819-auth-failure-riot-api.html)|`2024-10-14 21:07:00`|`League of Legends`|
 |[Decrypt BasePlayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/666452-decrypt-baseplayer.html)|`2024-10-14 21:06:00`|`Rust`|
