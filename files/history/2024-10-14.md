@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex windows cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/665812-apex-windows-cheat.html)|`2024-10-14 14:40:00`|`Apex Legends`|
+|[Well this shi dead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/xdefiant/666496-shi-dead.html)|`2024-10-14 14:35:00`|`xDefiant`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-10-14 13:52:00`|`Playerunknown's Battlegrounds`|
 |[&#91;Albion Online&#93; Computer Vision Bot &#45; The Gatherer 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/578334-albion-online-computer-vision-bot-gatherer-2-0-a.html)|`2024-10-14 13:39:00`|`Other MMORPG and Strategy`|
 |[World to screen kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666667-world-screen-kernel.html)|`2024-10-14 13:31:00`|`Counter-Strike 2`|
