@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[A&#46;I&#46; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/663992-aimbot.html)|`2024-10-14 23:28:00`|`C and C++`|
+|[Injection Battleye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/661122-injection-battleye.html)|`2024-10-14 23:25:00`|`Anti-Cheat Bypass`|
+|[help with hooking UserCmd](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666831-help-hooking-usercmd.html)|`2024-10-14 23:20:00`|`Counter-Strike 2`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2024-10-14 23:16:00`|`Other FPS Games`|
 |[Castle Crashers v2&#46;7 &#45; Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/427396-castle-crashers-v2-7-cheat-engine-table.html)|`2024-10-14 23:15:00`|`Other Games`|
 |[Warframe Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/631004-warframe-cheat.html)|`2024-10-14 22:33:00`|`Other FPS Games`|
