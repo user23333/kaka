@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[vac bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666756-vac-bypass.html)|`2024-10-14 10:42:00`|`Counter-Strike 2`|
+|[If the Anti&#45;Flag doesn't work, what does?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/665303-anti-flag-doesnt.html)|`2024-10-14 10:39:00`|`Overwatch`|
+|[Cheat pack ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/666755-cheat-pack.html)|`2024-10-14 10:39:00`|`Star Wars Battlefront 2`|
 |[Zyth 5ShotsPenWallsNoRecoilNoSpread Pak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/644568-zyth-5shotspenwallsnorecoilnospread-pak.html)|`2024-10-14 09:40:00`|`Payday 3`|
 |[Rust Ban Evading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/666751-rust-ban-evading.html)|`2024-10-14 09:28:00`|`Rust`|
 |[Lavender Premium External Source with Anti Cheat Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/659043-lavender-premium-external-source-anti-cheat-bypass.html)|`2024-10-14 09:14:00`|`Alternative Online Mods`|
