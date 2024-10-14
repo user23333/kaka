@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Wuthering Waves v1&#46;1 hellokittyfan48 WW&#45;enhancer &#40;Multihit, Dumb enemies, ESP, Fly&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/645722-wuthering-waves-v1-1-hellokittyfan48-ww-enhancer-multihit-dumb-enemies-esp-fly.html)|`2024-10-14 17:40:00`|`Other MMORPG and Strategy`|
 |[FATE DMA Source With a lot of features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/659710-fate-dma-source-lot-features.html)|`2024-10-14 17:11:00`|`Apex Legends`|
 |[Patience &#45; An External Linux Cheat &#91;Overlay/CLI&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/648832-patience-external-linux-cheat-overlay-cli.html)|`2024-10-14 16:53:00`|`Apex Legends`|
 |[PP&#95;Driver&#45;main &#45; Author/Owner: TtheGrandFather](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/665770-pp_driver-main-author-owner-tthegrandfather.html)|`2024-10-14 16:41:00`|`Anti-Cheat Bypass`|
