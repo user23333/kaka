@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[God I wish there was a way to see deleted/edited posts without being a mod&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/666804-god-wish-deleted-edited-posts-mod.html)|`2024-10-14 19:41:00`|`Forum General`|
 |[Cons of Perm spoof HWID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/665727-cons-perm-spoof-hwid.html)|`2024-10-14 19:28:00`|`Forum General`|
 |[Low latency 2pc video capture?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/584715-low-latency-2pc-video-capture.html)|`2024-10-14 19:20:00`|`Valorant`|
 |[Visible check broken asphyxia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666797-visible-check-broken-asphyxia.html)|`2024-10-14 19:17:00`|`Counter-Strike 2`|
