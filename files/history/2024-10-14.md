@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[World to screen kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666667-world-screen-kernel.html)|`2024-10-14 13:31:00`|`Counter-Strike 2`|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2024-10-14 13:27:00`|`Other FPS Games`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-10-14 13:27:00`|`Grand Theft Auto V`|
+|[Unturned DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/601369-unturned-dma.html)|`2024-10-14 13:26:00`|`Other FPS Games`|
 |[FragPunk Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/666506-fragpunk-reversal-structs-offsets.html)|`2024-10-14 12:20:00`|`Other FPS Games`|
 |[Just a vanguard bypass with Python &#40;Still working&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664827-vanguard-bypass-python.html)|`2024-10-14 11:44:00`|`Valorant`|
 |[Mech Warrior Online esp?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/665226-mech-warrior-online-esp.html)|`2024-10-14 11:25:00`|`Other FPS Games`|
