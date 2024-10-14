@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Low latency 2pc video capture?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/584715-low-latency-2pc-video-capture.html)|`2024-10-14 19:20:00`|`Valorant`|
+|[Visible check broken asphyxia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666797-visible-check-broken-asphyxia.html)|`2024-10-14 19:17:00`|`Counter-Strike 2`|
+|[how can i spoof my asus rog strix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/666711-spoof-asus-rog-strix.html)|`2024-10-14 19:12:00`|`Valorant`|
 |[Throne and Liberty hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/665328-throne-liberty-hack.html)|`2024-10-14 19:06:00`|`Other MMORPG and Strategy`|
 |[In&#45;Normal FNames](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/666781-normal-fnames.html)|`2024-10-14 19:04:00`|`Valorant`|
 |[Get FiveM DevTools &#91;In&#45;Out&#93; Events](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/666239-fivem-devtools-events.html)|`2024-10-14 18:53:00`|`Alternative Online Mods`|
