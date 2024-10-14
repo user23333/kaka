@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help Fix 3 Days In Modded Ui En](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/666871-help-fix-3-days-modded-ui-en.html)|`2024-10-15 05:05:00`|`PUBG Mobile`|
+|[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2024-10-15 05:04:00`|`Garry's Mod`|
+|[Member of the Month &#45; October 2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/664560-month-october-2024-a.html)|`2024-10-15 05:03:00`|`Member of the Month`|
+|[Get FiveM DevTools &#91;In&#45;Out&#93; Events](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/666239-fivem-devtools-events.html)|`2024-10-15 05:00:00`|`Alternative Online Mods`|
 |[disable crew 2 anti&#45;cheat? &#40;is it even active?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666034-disable-crew-2-anti-cheat-active.html)|`2024-10-15 04:21:00`|`Anti-Cheat Bypass`|
 |[Kmbox B&#43; Activate Message](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/647034-kmbox-activate-message.html)|`2024-10-15 04:14:00`|`Other Hardware`|
 |[Crossfire West cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/666574-crossfire-west-cheat.html)|`2024-10-15 03:53:00`|`CrossFire`|
