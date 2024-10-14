@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[color triggerbot codehelp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/666644-color-triggerbot-codehelp.html)|`2024-10-15 01:48:00`|`Valorant`|
 |[&#91;VortexVoyager&#93; Automatic Nexus/Vortex mods downloader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/666823-vortexvoyager-automatic-nexus-vortex-mods-downloader.html)|`2024-10-15 01:42:00`|`Forum General`|
 |[Warframe Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/631004-warframe-cheat.html)|`2024-10-15 01:32:00`|`Other FPS Games`|
 |[OV3RSW33T: AN OVERWAT Pack: Reborn & Recoded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/603412-ov3rsw33t-overwat-pack-reborn-recoded.html)|`2024-10-15 01:28:00`|`Overwatch`|
