@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[c&#35; byte array to dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-/666879-byte-array-dll.html)|`2024-10-15 06:22:00`|`C#`|
 |[Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666078-valorant.html)|`2024-10-15 06:10:00`|`Anti-Cheat Bypass`|
 |[debugcamera command cannot be used with the fake adminflags?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/666153-debugcamera-command-fake-adminflags.html)|`2024-10-15 06:07:00`|`Rust`|
 |[Obtaining Kernel RW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666525-obtaining-kernel-rw.html)|`2024-10-15 06:03:00`|`Anti-Cheat Bypass`|
