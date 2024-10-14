@@ -27,9 +27,16 @@
 |48|[FragPunk SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47215)|`2024-10-15 00:20:07`|
 |3|[warframe&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47233)|`2024-10-15 01:37:59`|
 |2|[VortexVoyager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47230)|`2024-10-15 01:44:17`|
+|1|[cs2&#45;close&#45;handle&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47234)|`2024-10-15 06:14:06`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666078-valorant.html)|`2024-10-15 06:10:00`|`Anti-Cheat Bypass`|
+|[debugcamera command cannot be used with the fake adminflags?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/666153-debugcamera-command-fake-adminflags.html)|`2024-10-15 06:07:00`|`Rust`|
+|[Obtaining Kernel RW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666525-obtaining-kernel-rw.html)|`2024-10-15 06:03:00`|`Anti-Cheat Bypass`|
+|[Vigor internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662490-vigor-internal-cheat.html)|`2024-10-15 06:02:00`|`Other FPS Games`|
+|[Multiple instances of steam/csgo WITHOUT sandboxing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/585278-multiple-instances-steam-csgo-sandboxing.html)|`2024-10-15 05:59:00`|`Counterstrike Global Offensive`|
+|[EAC detection &#40;APEX&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666612-eac-detection-apex.html)|`2024-10-15 05:58:00`|`Anti-Cheat Bypass`|
 |[Multiple instances of steam/cs2 WITHOUT sandboxing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666875-multiple-instances-steam-cs2-sandboxing.html)|`2024-10-15 05:53:00`|`Counter-Strike 2`|
 |[Kiddion's Modest External Menu &#91;Thread 5&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/576854-kiddions-modest-external-menu-thread-5-a.html)|`2024-10-15 05:43:00`|`Grand Theft Auto V`|
 |[ImGui Kiero Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/666874-imgui-kiero-hook.html)|`2024-10-15 05:42:00`|`Forum General`|
