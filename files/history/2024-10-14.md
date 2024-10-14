@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PP&#95;Driver&#45;main &#45; Author/Owner: TtheGrandFather](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/665770-pp_driver-main-author-owner-tthegrandfather.html)|`2024-10-14 16:41:00`|`Anti-Cheat Bypass`|
 |[Strinova Pixel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/643727-strinova-pixel.html)|`2024-10-14 16:36:00`|`Other FPS Games`|
 |[TPM AND SB BYPASS &#43; SPOOFER &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/623808-tpm-sb-bypass-spoofer.html)|`2024-10-14 16:34:00`|`Valorant`|
 |[Crashing when calling CG&#95;GetPredictedPlayerState](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/666519-crashing-calling-cg_getpredictedplayerstate.html)|`2024-10-14 15:48:00`|`Call of Duty: Black Ops 3`|
