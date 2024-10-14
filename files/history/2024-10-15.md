@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chams materials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666662-chams-materials.html)|`2024-10-15 05:14:00`|`Counter-Strike 2`|
+|[KVM Bypass Using QEMU &#45; Vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/635411-kvm-bypass-using-qemu-vanguard.html)|`2024-10-15 05:13:00`|`League of Legends`|
 |[Help Fix 3 Days In Modded Ui En](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/666871-help-fix-3-days-modded-ui-en.html)|`2024-10-15 05:05:00`|`PUBG Mobile`|
 |[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2024-10-15 05:04:00`|`Garry's Mod`|
 |[Member of the Month &#45; October 2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/664560-month-october-2024-a.html)|`2024-10-15 05:03:00`|`Member of the Month`|
