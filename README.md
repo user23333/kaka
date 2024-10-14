@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mw19 aio](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/635725-mw19-aio.html)|`2024-10-15 03:21:00`|`Call of Duty: Modern Warfare`|
+|[Just a vanguard bypass with Python &#40;Still working&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664827-vanguard-bypass-python.html)|`2024-10-15 03:19:00`|`Valorant`|
+|[External Bullet Tracers &#40;No Hooking no WPM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666748-external-bullet-tracers-hooking-wpm.html)|`2024-10-15 03:14:00`|`Counter-Strike 2`|
+|[Acquiring Hitboxes of each bone / player externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/649952-acquiring-hitboxes-bone-player-externally.html)|`2024-10-15 03:13:00`|`Counter-Strike 2`|
 |[vac bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666756-vac-bypass.html)|`2024-10-15 03:02:00`|`Counter-Strike 2`|
 |[Who know how to bypass VM?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/666859-bypass-vm.html)|`2024-10-15 02:50:00`|`CrossFire`|
 |[help with hooking UserCmd](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666831-help-hooking-usercmd.html)|`2024-10-15 02:50:00`|`Counter-Strike 2`|
