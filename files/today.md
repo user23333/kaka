@@ -27,9 +27,13 @@
 |1|[4&#46;27&#46;2&#45;2849643&#43;&#43;&#43;Ares SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47247)|`2024-10-16 01:28:52`|
 |1|[Valorant IDA Mapping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47249)|`2024-10-16 01:38:36`|
 |1|[4&#46;27&#46;2&#45;2849643&#43;&#43;&#43;Ares SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47248)|`2024-10-16 01:38:36`|
+|5|[seo64updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47250)|`2024-10-16 04:12:35`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[getting kicked from the server api hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/661485-getting-kicked-server-api-hack.html)|`2024-10-16 04:08:00`|`Battlefield 1`|
+|[BandicamHook &#45; Hijack Bandicam's overlay for rendering onto the screen with DirectX11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/636162-bandicamhook-hijack-bandicams-overlay-rendering-onto-screen-directx11.html)|`2024-10-16 04:00:00`|`C and C++`|
+|[calling game function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/666055-calling-game-function.html)|`2024-10-16 03:58:00`|`General Programming and Reversing`|
 |[How to reverse engineer a DLL?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/666001-reverse-engineer-dll.html)|`2024-10-16 03:55:00`|`General Programming and Reversing`|
 |[AssaultCube Aimbot Using CalcAngle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667027-assaultcube-aimbot-using-calcangle.html)|`2024-10-16 03:46:00`|`Other FPS Games`|
 |[Paladins Multihack – Esp, Aimbot, Miscs &#91;Modified Odin V4&#46;2&#46;1&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/666945-paladins-multihack-esp-aimbot-miscs-modified-odin-v4-2-1-a.html)|`2024-10-16 03:41:00`|`Paladins`|
