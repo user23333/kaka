@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[seo64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/662767-seo64.html)|`2024-10-15 12:13:00`|`Team Fortress 2`|
+|[Miraibo Go Palworld clone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/666925-miraibo-palworld-clone.html)|`2024-10-15 12:05:00`|`Other Games`|
 |[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2024-10-15 11:51:00`|`Sea of Thieves`|
 |[DeadLock &#124;&#124; Auto&#45;updates &#124;&#124; egui Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/666542-deadlock-auto-updates-egui-rust.html)|`2024-10-15 11:47:00`|`Deadlock`|
 |[Ea Account Generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/661121-ea-account-generator.html)|`2024-10-15 11:29:00`|`Apex Legends`|
