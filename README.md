@@ -38,6 +38,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How does Windows thread scheduler find the list of all running threads?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/666956-windows-thread-scheduler-list-running-threads.html)|`2024-10-15 17:25:00`|`General Programming and Reversing`|
+|[Software Video Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/659347-software-video-fuser.html)|`2024-10-15 17:20:00`|`C and C++`|
+|[Gun Knight Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/666930-gun-knight-cheat-table.html)|`2024-10-15 17:20:00`|`Other Games`|
+|[KmBox Net &#45; Not working correct](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/655841-kmbox-net-correct.html)|`2024-10-15 17:13:00`|`PC Hardware`|
 |[Sea of thieves Season 13 FOV Slider, nosprint, and other cheats&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/666750-sea-thieves-season-13-fov-slider-nosprint-cheats.html)|`2024-10-15 17:16:00`|`Sea of Thieves`|
 |[Arduino HID Mouse &#43; Free Libraries](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/642071-arduino-hid-mouse-free-libraries.html)|`2024-10-15 17:12:00`|`Valorant`|
 |[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2024-10-15 17:08:00`|`Other FPS Games`|
