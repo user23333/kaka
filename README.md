@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2024-10-15 20:46:00`|`Grand Theft Auto V`|
+|[Rockstar has added BattlEye to Grand Theft Auto 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/661496-rockstar-added-battleye-grand-theft-auto-5-a.html)|`2024-10-15 20:37:00`|`Grand Theft Auto V`|
 |[World to screen Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/666968-world-screen-internal.html)|`2024-10-15 20:02:00`|`Alternative Online Mods`|
 |[TOGGLEABLE AUTO&#45;PARRY MULTIPLAYER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/661125-toggleable-auto-parry-multiplayer.html)|`2024-10-15 20:02:00`|`Star Wars Battlefront 2`|
 |[Dale and Dawson Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/664163-dale-dawson-mod-menu.html)|`2024-10-15 20:01:00`|`Other Games`|
