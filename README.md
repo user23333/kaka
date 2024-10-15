@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AssaultCube Aimbot Using CalcAngle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667027-assaultcube-aimbot-using-calcangle.html)|`2024-10-16 03:46:00`|`Other FPS Games`|
 |[Paladins Multihack – Esp, Aimbot, Miscs &#91;Modified Odin V4&#46;2&#46;1&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/666945-paladins-multihack-esp-aimbot-miscs-modified-odin-v4-2-1-a.html)|`2024-10-16 03:41:00`|`Paladins`|
 |[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-10-16 03:40:00`|`Escape from Tarkov`|
 |[Minecraft Ping abuse method for 1&#46;20&#43;??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/667019-minecraft-ping-abuse-method-1-20-a.html)|`2024-10-16 03:25:00`|`Minecraft`|
