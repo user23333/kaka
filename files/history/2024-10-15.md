@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6 is finally taking action?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/666942-r6-finally-taking-action.html)|`2024-10-15 16:31:00`|`Rainbow Six Siege`|
+|[InstaLocker Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664623-instalocker-valorant.html)|`2024-10-15 16:17:00`|`Valorant`|
 |[PUBG skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/657996-pubg-skins.html)|`2024-10-15 15:58:00`|`Playerunknown's Battlegrounds`|
 |[tpm help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/666939-tpm-help.html)|`2024-10-15 15:45:00`|`Valorant`|
 |[Valorant delay ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/666825-valorant-delay-ban.html)|`2024-10-15 15:23:00`|`Valorant`|
