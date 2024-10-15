@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rigel &#45; Better draw and colors for health/ult and some strings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/666429-rigel-draw-colors-health-ult-strings.html)|`2024-10-15 10:22:00`|`Overwatch`|
+|[Getting friends money with mod menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666899-getting-friends-money-mod-menu.html)|`2024-10-15 10:12:00`|`Grand Theft Auto V`|
+|[Deadwing &#45; SMM memory access toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/653500-deadwing-smm-memory-access-toolkit.html)|`2024-10-15 09:52:00`|`General Programming and Reversing`|
+|[FC25 Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/666895-fc25-reversal.html)|`2024-10-15 09:49:00`|`Other Games`|
+|[Blazing Sails Hack &#91;Win10&#93; &#91;Steam/EGS&#93; &#124; ESP &#124; SpeedHack &#124; NoClip &#124; More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620821-blazing-sails-hack-win10-steam-egs-esp-speedhack-noclip.html)|`2024-10-15 09:48:00`|`Other FPS Games`|
+|[In&#45;depth ASUS Motherboard AMI Bios Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666894-depth-asus-motherboard-ami-bios-spoofing.html)|`2024-10-15 09:48:00`|`Anti-Cheat Bypass`|
 |[&#91;UE4&#93;Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/244709-ue4-squad.html)|`2024-10-15 09:12:00`|`Other FPS Games`|
 |[Bronzebeard's Tavern Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/654463-bronzebeards-tavern-trainer.html)|`2024-10-15 09:11:00`|`Other Games`|
 |[Skip Cluckin Bell preps&#33; Easy 500K](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666172-skip-cluckin-bell-preps-easy-500k.html)|`2024-10-15 08:56:00`|`Grand Theft Auto V`|
