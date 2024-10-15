@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[is there a decent free cheat for this game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/666216-decent-free-cheat-game.html)|`2024-10-15 18:18:00`|`Call of Duty: Modern Warfare`|
 |[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2024-10-15 17:51:00`|`Grand Theft Auto V`|
 |[How does Windows thread scheduler find the list of all running threads?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/666956-windows-thread-scheduler-list-running-threads.html)|`2024-10-15 17:25:00`|`General Programming and Reversing`|
 |[Software Video Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/659347-software-video-fuser.html)|`2024-10-15 17:20:00`|`C and C++`|
