@@ -36,9 +36,12 @@
 |2|[OV3RSW33T: FINAL V17 FULL EDITION&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47235)|`2024-10-15 14:52:19`|
 |1|[Gun Knight CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47241)|`2024-10-15 14:58:34`|
 |1|[Deadwing v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47238)|`2024-10-15 14:58:34`|
+|2|[Sea of Thieves pak files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47243)|`2024-10-15 21:35:31`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Not getting any Valid Adresses](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/666387-getting-valid-adresses.html)|`2024-10-15 21:27:00`|`Apex Legends`|
+|[TPM AND SB BYPASS &#43; SPOOFER &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/623808-tpm-sb-bypass-spoofer.html)|`2024-10-15 21:25:00`|`Valorant`|
 |[DMA DayZ Fuser ESP &#43; Radar Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/606723-dma-dayz-fuser-esp-radar-source-release.html)|`2024-10-15 21:13:00`|`DayZ SA`|
 |[i want deadlock esp in rust lang](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/666983-deadlock-esp-rust-lang.html)|`2024-10-15 21:07:00`|`Deadlock`|
 |[Pushing custom lua functions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/666877-pushing-custom-lua-functions.html)|`2024-10-15 21:02:00`|`Garry's Mod`|
