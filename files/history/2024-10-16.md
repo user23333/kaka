@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Infinite Device/IP ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-software/656290-arena-breakout-infinite-device-ip-ban.html)|`2024-10-16 04:26:00`|`Other Software`|
+|[Anyone know if it's possible to edit your Overall Stats Data](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/661079-edit-overall-stats-data.html)|`2024-10-16 04:25:00`|`Escape from Tarkov`|
+|[How to bypass Faceit AC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665005-bypass-faceit-ac.html)|`2024-10-16 04:24:00`|`Counter-Strike 2`|
+|[Gmod&#45;SDK FIXED &#40;FULL WORKING 15/10/24&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/667003-gmod-sdk-fixed-15-10-24-a.html)|`2024-10-16 04:19:00`|`Garry's Mod`|
 |[getting kicked from the server api hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/661485-getting-kicked-server-api-hack.html)|`2024-10-16 04:08:00`|`Battlefield 1`|
 |[BandicamHook &#45; Hijack Bandicam's overlay for rendering onto the screen with DirectX11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/636162-bandicamhook-hijack-bandicams-overlay-rendering-onto-screen-directx11.html)|`2024-10-16 04:00:00`|`C and C++`|
 |[calling game function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/666055-calling-game-function.html)|`2024-10-16 03:58:00`|`General Programming and Reversing`|
