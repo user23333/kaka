@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[all updated offsets for cm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/665714-updated-offsets-cm.html)|`2024-10-15 19:24:00`|`Combat Master`|
 |[Sentinel Guard &#45; Steam launch option for protection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/641085-sentinel-guard-steam-launch-option-protection.html)|`2024-10-15 18:59:00`|`Apex Legends`|
 |[Rendering SVG from VPK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666961-rendering-svg-vpk.html)|`2024-10-15 18:44:00`|`Counter-Strike 2`|
 |[Fiveguard AC ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/666940-fiveguard-ac-ban.html)|`2024-10-15 18:34:00`|`Alternative Online Mods`|
