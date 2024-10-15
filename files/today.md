@@ -38,6 +38,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[World to screen Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/666968-world-screen-internal.html)|`2024-10-15 20:02:00`|`Alternative Online Mods`|
+|[TOGGLEABLE AUTO&#45;PARRY MULTIPLAYER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/661125-toggleable-auto-parry-multiplayer.html)|`2024-10-15 20:02:00`|`Star Wars Battlefront 2`|
+|[Dale and Dawson Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/664163-dale-dawson-mod-menu.html)|`2024-10-15 20:01:00`|`Other Games`|
+|[Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/666967-offsets.html)|`2024-10-15 20:01:00`|`Combat Master`|
 |[In&#45;Normal FNames](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/666781-normal-fnames.html)|`2024-10-15 19:55:00`|`Valorant`|
 |[Update offset safe Environment](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/666876-update-offset-safe-environment.html)|`2024-10-15 19:54:00`|`PUBG Mobile`|
 |[GetEyePosition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666966-geteyeposition.html)|`2024-10-15 19:54:00`|`Counter-Strike 2`|
