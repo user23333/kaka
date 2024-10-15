@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2024-10-15 10:58:00`|`League of Legends`|
+|[Call of Duty Mobile offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/573315-call-duty-mobile-offsets.html)|`2024-10-15 10:58:00`|`Other FPS Games`|
+|[unlock all tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/624879-unlock-tool.html)|`2024-10-15 10:48:00`|`Call of Duty: Black Ops Cold War`|
 |[Rigel &#45; Better draw and colors for health/ult and some strings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/666429-rigel-draw-colors-health-ult-strings.html)|`2024-10-15 10:22:00`|`Overwatch`|
 |[Getting friends money with mod menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666899-getting-friends-money-mod-menu.html)|`2024-10-15 10:12:00`|`Grand Theft Auto V`|
 |[Deadwing &#45; SMM memory access toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/653500-deadwing-smm-memory-access-toolkit.html)|`2024-10-15 09:52:00`|`General Programming and Reversing`|
