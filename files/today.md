@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sea of thieves Season 13 FOV Slider, nosprint, and other cheats&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/666750-sea-thieves-season-13-fov-slider-nosprint-cheats.html)|`2024-10-15 17:16:00`|`Sea of Thieves`|
+|[Arduino HID Mouse &#43; Free Libraries](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/642071-arduino-hid-mouse-free-libraries.html)|`2024-10-15 17:12:00`|`Valorant`|
+|[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2024-10-15 17:08:00`|`Other FPS Games`|
 |[Paladins Multihack – Esp, Aimbot, Miscs &#91;Modified Odin V4&#46;2&#46;1&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/666945-paladins-multihack-esp-aimbot-miscs-modified-odin-v4-2-1-a.html)|`2024-10-15 16:57:00`|`Paladins`|
 |[R6 is finally taking action?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/666942-r6-finally-taking-action.html)|`2024-10-15 16:31:00`|`Rainbow Six Siege`|
 |[InstaLocker Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664623-instalocker-valorant.html)|`2024-10-15 16:17:00`|`Valorant`|
