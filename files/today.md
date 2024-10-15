@@ -29,9 +29,14 @@
 |2|[VortexVoyager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47230)|`2024-10-15 01:44:17`|
 |1|[cs2&#45;close&#45;handle&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47234)|`2024-10-15 06:14:06`|
 |1|[AFUWIN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47237)|`2024-10-15 14:42:09`|
+|1|[FD44Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47240)|`2024-10-15 14:52:19`|
+|1|[FD44Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47239)|`2024-10-15 14:52:19`|
+|1|[OV3RSW33T: FINAL V17 CPU SAFE EDITION&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47236)|`2024-10-15 14:52:19`|
+|2|[OV3RSW33T: FINAL V17 FULL EDITION&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47235)|`2024-10-15 14:52:19`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vanguard Spoofer Rev 2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612562-vanguard-spoofer-rev-2-a.html)|`2024-10-15 14:50:00`|`Valorant`|
 |[Face Injector Updated&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-ii/568553-injector-updated.html)|`2024-10-15 14:27:00`|`Call of Duty: Modern Warfare II`|
 |[ROCKET LEAGUE CONTROLLER SPEEDFLIP MACRO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/662494-rocket-league-controller-speedflip-macro.html)|`2024-10-15 14:07:00`|`Other Games`|
 |[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-10-15 14:01:00`|`Counter-Strike 2`|
