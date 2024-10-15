@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to map drivers on 24h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666998-map-drivers-24h2.html)|`2024-10-16 00:49:00`|`Anti-Cheat Bypass`|
+|[FragPunk Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/666506-fragpunk-reversal-structs-offsets.html)|`2024-10-16 00:46:00`|`Other FPS Games`|
+|[Tap Ninja Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/589964-tap-ninja-cheat-engine-table.html)|`2024-10-16 00:46:00`|`Other MMORPG and Strategy`|
+|[CRASH after function hook on x32](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/666990-crash-function-hook-x32.html)|`2024-10-16 00:46:00`|`General Programming and Reversing`|
 |[0% Battery In Gameloop Without HOOK &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/666997-0-battery-gameloop-hook.html)|`2024-10-16 00:37:00`|`PUBG Mobile`|
 |[YimMenu &#91;1&#46;69 &#45; b3337&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3337.html)|`2024-10-16 00:35:00`|`Grand Theft Auto V`|
 |[How to remove HWID ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/665342-remove-hwid-ban.html)|`2024-10-16 00:34:00`|`Deadlock`|
