@@ -12,6 +12,7 @@
 |15|[Easy and Simple to use Threading system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666003-easy-simple-threading-system.html)|`2024-10-15 00:20:07`|`counter-strike-2-a`|
 |6|[CS2 Leaked &#43; Updated External w/ decent features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/666111-cs2-leaked-updated-external-decent-features.html)|`2024-10-15 00:20:07`|`counter-strike-2-releases`|
 |14|[FiveM External Source &#45; Krypted &#40;many Features&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/666614-fivem-external-source-krypted-features.html)|`2024-10-15 03:34:30`|`alternative-online-mods`|
+|19|[FragPunk Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/666506-fragpunk-reversal-structs-offsets.html)|`2024-10-15 21:18:21`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -38,6 +39,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA DayZ Fuser ESP &#43; Radar Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/606723-dma-dayz-fuser-esp-radar-source-release.html)|`2024-10-15 21:13:00`|`DayZ SA`|
+|[i want deadlock esp in rust lang](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/666983-deadlock-esp-rust-lang.html)|`2024-10-15 21:07:00`|`Deadlock`|
+|[Pushing custom lua functions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/666877-pushing-custom-lua-functions.html)|`2024-10-15 21:02:00`|`Garry's Mod`|
+|[Duckside Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/641922-duckside-reversal-structs-offsets.html)|`2024-10-15 20:57:00`|`Other FPS Games`|
 |[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2024-10-15 20:46:00`|`Grand Theft Auto V`|
 |[Rockstar has added BattlEye to Grand Theft Auto 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/661496-rockstar-added-battleye-grand-theft-auto-5-a.html)|`2024-10-15 20:37:00`|`Grand Theft Auto V`|
 |[World to screen Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/666968-world-screen-internal.html)|`2024-10-15 20:02:00`|`Alternative Online Mods`|
