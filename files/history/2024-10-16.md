@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2024-10-16 16:24:00`|`Combat Arms`|
+|[How can I get the hero ID?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/667069-hero-id.html)|`2024-10-16 16:21:00`|`Deadlock`|
 |[FLAG BAN IN BGMI 3&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/666881-flag-ban-bgmi-3-4-a.html)|`2024-10-16 15:37:00`|`PUBG Mobile`|
 |[CounterStrike Global Offensive Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/103220-counterstrike-global-offensive-reversal-structs-offsets.html)|`2024-10-16 15:36:00`|`Counterstrike Global Offensive`|
 |[CS2 external esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/600259-cs2-external-esp.html)|`2024-10-16 15:35:00`|`Counter-Strike 2 Releases`|
