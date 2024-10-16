@@ -46,7 +46,6 @@ jobs:
           timeout_minutes: 1
           max_attempts: 5
           retry_wait_seconds: 60
-          retry_on: error
           command: python main.py
 
 
