@@ -29,9 +29,15 @@
 |1|[4&#46;27&#46;2&#45;2849643&#43;&#43;&#43;Ares SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47248)|`2024-10-16 01:38:36`|
 |5|[seo64updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47250)|`2024-10-16 04:12:35`|
 |1|[stcheattable v1&#46;4 &#45; by SpionQuark](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47256)|`2024-10-16 18:12:08`|
+|2|[GMod&#45;SDK FIXED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47252)|`2024-10-16 18:32:37`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Havoc Internal Cheat &#43; Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/652018-havoc-internal-cheat-spoofer.html)|`2024-10-16 18:19:00`|`Other FPS Games`|
+|[only esp source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/666217-esp-source.html)|`2024-10-16 18:17:00`|`Rust`|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2024-10-16 18:15:00`|`Other FPS Games`|
+|[Kernel read/write memory detectability?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/622707-kernel-read-write-memory-detectability.html)|`2024-10-16 18:14:00`|`Counter-Strike 2`|
+|[Modified Odin V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/585919-modified-odin-v1.html)|`2024-10-16 18:12:00`|`Paladins`|
 |[Odin v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/629281-odin-v1.html)|`2024-10-16 18:11:00`|`Paladins`|
 |[Supermarket Together Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/665134-supermarket-cheat-table.html)|`2024-10-16 18:07:00`|`Cheat Engine Tables`|
 |[DayZ Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/639749-dayz-dumper.html)|`2024-10-16 17:53:00`|`DayZ SA`|
