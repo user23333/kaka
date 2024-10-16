@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[👽 VALORANT Skin Changer &#40;Just Inject it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/517551-valorant-skin-changer-inject.html)|`2024-10-16 21:10:00`|`Valorant`|
 |[SlyAutomation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/666236-slyautomation.html)|`2024-10-16 20:44:00`|`Valorant`|
 |[Marijuana](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/657683-marijuana.html)|`2024-10-16 20:42:00`|`Off Topic`|
 |[STAND Source Leaked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667095-stand-source-leaked.html)|`2024-10-16 20:36:00`|`Grand Theft Auto V`|
