@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SEOwnedDE Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/644283-seownedde-updated.html)|`2024-10-17 06:30:00`|`Team Fortress 2`|
+|[FragPunk Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/666506-fragpunk-reversal-structs-offsets.html)|`2024-10-17 06:25:00`|`Other FPS Games`|
 |[Polonium base paste &#40;32&#45;bit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/665922-polonium-base-paste-32-bit.html)|`2024-10-17 06:16:00`|`Team Fortress 2`|
 |[Chaos Menu & Lua Executor "REDM"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/593368-chaos-menu-lua-executor-redm.html)|`2024-10-17 06:07:00`|`Red Dead Redemption 2`|
 |[Dropped Item](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667178-dropped-item.html)|`2024-10-17 05:46:00`|`Counter-Strike 2`|
