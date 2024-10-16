@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to make a script undetected by eac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/667052-script-undetected-eac.html)|`2024-10-16 21:40:00`|`Rust`|
 |[If you detected using kiddions mod, your character will change to mini tank](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667068-detected-using-kiddions-mod-character-change-mini-tank.html)|`2024-10-16 21:20:00`|`Grand Theft Auto V`|
 |[XianYuMods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/661692-xianyumods.html)|`2024-10-16 21:15:00`|`Payday 3`|
 |[FATE DMA Source With a lot of features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/659710-fate-dma-source-lot-features.html)|`2024-10-16 21:14:00`|`Apex Legends`|
