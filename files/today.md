@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 external esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/600259-cs2-external-esp.html)|`2024-10-16 15:35:00`|`Counter-Strike 2 Releases`|
+|[Getting friends money with mod menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666899-getting-friends-money-mod-menu.html)|`2024-10-16 15:30:00`|`Grand Theft Auto V`|
 |[Warframe Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/631004-warframe-cheat.html)|`2024-10-16 15:07:00`|`Other FPS Games`|
 |[rigel outline is dtc?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/666991-rigel-outline-dtc.html)|`2024-10-16 15:07:00`|`Overwatch`|
 |[Fastest Python Valorant Triggerbot &#40;fr&#41; Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/656929-fastest-python-valorant-triggerbot-fr-updated.html)|`2024-10-16 14:52:00`|`Valorant`|
