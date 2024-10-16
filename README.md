@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VGK FW SOURCE &#40;WORKING LATEST PATCH&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667102-vgk-fw-source-patch.html)|`2024-10-16 22:11:00`|`Valorant`|
+|[Rigel &#45; Better draw and colors for health/ult and some strings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/666429-rigel-draw-colors-health-ult-strings.html)|`2024-10-16 22:10:00`|`Overwatch`|
 |[Valorant Arduino Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667100-valorant-arduino-ban.html)|`2024-10-16 21:58:00`|`Valorant`|
 |[how to make a script undetected by eac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/667052-script-undetected-eac.html)|`2024-10-16 21:40:00`|`Rust`|
 |[If you detected using kiddions mod, your character will change to mini tank](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667068-detected-using-kiddions-mod-character-change-mini-tank.html)|`2024-10-16 21:20:00`|`Grand Theft Auto V`|
