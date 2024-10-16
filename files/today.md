@@ -25,9 +25,17 @@
 |21|[4&#46;27&#46;2&#45;2849643&#43;&#43;&#43;Ares SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47248)|`2024-10-17 00:16:59`|
 |11|[4&#46;27&#46;2&#45;2849643&#43;&#43;&#43;Ares SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47247)|`2024-10-17 00:16:59`|
 |73|[15/10 PVECheat Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47246)|`2024-10-17 00:16:59`|
+|1|[rigel oct16](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47260)|`2024-10-17 01:32:52`|
+|1|[CFWest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47259)|`2024-10-17 01:32:52`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-10-17 01:31:00`|`Overwatch`|
+|[Obtaining Kernel RW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666525-obtaining-kernel-rw.html)|`2024-10-17 01:29:00`|`Anti-Cheat Bypass`|
+|[Crossfire West cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/666574-crossfire-west-cheat.html)|`2024-10-17 01:23:00`|`CrossFire`|
+|[3rd party emu to TGB lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/666847-3rd-party-emu-tgb-lobby.html)|`2024-10-17 01:23:00`|`PUBG Mobile`|
+|[Duckside Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/641922-duckside-reversal-structs-offsets.html)|`2024-10-17 01:23:00`|`Other FPS Games`|
+|[AllowCameraChange](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667133-allowcamerachange.html)|`2024-10-17 01:20:00`|`Counter-Strike 2`|
 |[zap&#45;client &#91;Legitbot, Ragebot, Glow, ESP & More&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/628823-zap-client-legitbot-ragebot-glow-esp.html)|`2024-10-17 00:56:00`|`Apex Legends`|
 |[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2024-10-17 00:55:00`|`Battlefield 4`|
 |[calling game function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-/666007-calling-game-function.html)|`2024-10-17 00:47:00`|`C#`|
