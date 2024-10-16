@@ -27,9 +27,12 @@
 |73|[15/10 PVECheat Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47246)|`2024-10-17 00:16:59`|
 |1|[rigel oct16](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47260)|`2024-10-17 01:32:52`|
 |1|[CFWest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47259)|`2024-10-17 01:32:52`|
+|2|[Nika&#45;Spoof&#45;Dump&#46;20241016&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47261)|`2024-10-17 01:42:40`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[only esp source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/666217-esp-source.html)|`2024-10-17 01:42:00`|`Rust`|
+|[Hook Functions From LIBC&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/651933-hook-functions-libc.html)|`2024-10-17 01:33:00`|`PUBG Mobile`|
 |[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-10-17 01:31:00`|`Overwatch`|
 |[Obtaining Kernel RW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666525-obtaining-kernel-rw.html)|`2024-10-17 01:29:00`|`Anti-Cheat Bypass`|
 |[Crossfire West cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/666574-crossfire-west-cheat.html)|`2024-10-17 01:23:00`|`CrossFire`|
