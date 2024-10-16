@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-10-16 14:21:00`|`Playerunknown's Battlegrounds`|
+|[When does engine owning release their lite products](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/667064-engine-owning-release-lite-products.html)|`2024-10-16 14:15:00`|`Call of Duty: Modern Warfare III`|
 |[Chaos Menu & Lua Executor "REDM"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/593368-chaos-menu-lua-executor-redm.html)|`2024-10-16 13:12:00`|`Red Dead Redemption 2`|
 |[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2024-10-16 13:10:00`|`Escape from Tarkov`|
 |[FiveM External Source &#45; Krypted &#40;many Features&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/666614-fivem-external-source-krypted-features.html)|`2024-10-16 13:08:00`|`Alternative Online Mods`|
