@@ -31,9 +31,14 @@
 |2|[Nika&#45;Spoof&#45;Dump&#46;20241016&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47261)|`2024-10-17 01:42:40`|
 |0|[OriginPalia 3&#46;1&#46;3 PUBLIC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47262)|`2024-10-17 02:11:16`|
 |1|[theHunter Internal Radar & ESP v1&#46;2&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47263)|`2024-10-17 04:00:01`|
+|2|[Bodycam Internal V0&#46;1&#46;3&#46;0 &#40;fixed crashes&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47264)|`2024-10-17 04:31:39`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2024-10-17 04:27:00`|`Other FPS Games`|
+|[Off the Grid Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/665981-grid-reversal-structs-offsets.html)|`2024-10-17 04:22:00`|`Other FPS Games`|
+|[2017 Charm Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/662758-2017-charm-method.html)|`2024-10-17 04:20:00`|`Rainbow Six Siege`|
+|[Internal cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/611723-internal-cheese.html)|`2024-10-17 04:19:00`|`Payday 3`|
 |[reversing esx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/667159-reversing-esx.html)|`2024-10-17 04:14:00`|`Alternative Online Mods`|
 |[Marvel snap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/653318-marvel-snap.html)|`2024-10-17 04:13:00`|`Other Games`|
 |[theHunter: Call of the Wild Internal Radar, ESP, & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644365-thehunter-call-wild-internal-radar-esp.html)|`2024-10-17 04:00:00`|`Other FPS Games`|
