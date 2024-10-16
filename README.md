@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New method to make arduino UD again part 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/661526-method-arduino-ud-2-a.html)|`2024-10-16 12:09:00`|`Valorant`|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2024-10-16 12:07:00`|`Other FPS Games`|
 |[is there at least 1 free esp cheat on the finals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/636781-1-free-esp-cheat-finals.html)|`2024-10-16 11:36:00`|`THE FINALS`|
 |[AHK Ultimate Movement Pack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/639128-ahk-ultimate-movement-pack.html)|`2024-10-16 11:10:00`|`Apex Legends`|
 |[GTA V roll back to &#91;1&#46;69 &#45; b3337&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667054-gta-roll-1-69-b3337.html)|`2024-10-16 11:04:00`|`Grand Theft Auto V`|
