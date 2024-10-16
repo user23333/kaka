@@ -30,9 +30,11 @@
 |5|[seo64updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47250)|`2024-10-16 04:12:35`|
 |1|[stcheattable v1&#46;4 &#45; by SpionQuark](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47256)|`2024-10-16 18:12:08`|
 |2|[GMod&#45;SDK FIXED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47252)|`2024-10-16 18:32:37`|
+|1|[Call of Duty Options Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47253)|`2024-10-16 18:49:29`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty Options Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/666858-call-duty-options-editor.html)|`2024-10-16 18:47:00`|`Call of Duty: Modern Warfare III`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2024-10-16 18:34:00`|`Other FPS Games`|
 |[Havoc Internal Cheat &#43; Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/652018-havoc-internal-cheat-spoofer.html)|`2024-10-16 18:19:00`|`Other FPS Games`|
 |[only esp source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/666217-esp-source.html)|`2024-10-16 18:17:00`|`Rust`|
