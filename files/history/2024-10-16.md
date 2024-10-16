@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fastest Python Valorant Triggerbot &#40;fr&#41; Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/656929-fastest-python-valorant-triggerbot-fr-updated.html)|`2024-10-16 14:52:00`|`Valorant`|
 |[Throne and Liberty hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/665328-throne-liberty-hack.html)|`2024-10-16 14:46:00`|`Other MMORPG and Strategy`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-10-16 14:21:00`|`Playerunknown's Battlegrounds`|
 |[When does engine owning release their lite products](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/667064-engine-owning-release-lite-products.html)|`2024-10-16 14:15:00`|`Call of Duty: Modern Warfare III`|
