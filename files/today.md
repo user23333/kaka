@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTA5&#95;Decompiled&#95;169&#95;Build3315](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667189-gta5_decompiled_169_build3315.html)|`2024-10-17 07:28:00`|`Grand Theft Auto V`|
+|[Cant get abilities info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/667188-cant-abilities-info.html)|`2024-10-17 07:27:00`|`Deadlock`|
 |[Plutonium Automatic Spoofer &#40;SRC&#41; by Germanized &#40;me&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/667187-plutonium-automatic-spoofer-src-germanized.html)|`2024-10-17 07:01:00`|`Call of Duty: Black Ops 2`|
 |[CS2 Leaked &#43; Updated External w/ decent features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/666111-cs2-leaked-updated-external-decent-features.html)|`2024-10-17 06:58:00`|`Counter-Strike 2 Releases`|
 |[SEOwnedDE Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/644283-seownedde-updated.html)|`2024-10-17 06:30:00`|`Team Fortress 2`|
