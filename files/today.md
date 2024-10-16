@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mesh returns 0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/667158-mesh-returns-0-a.html)|`2024-10-17 03:52:00`|`PUBG Mobile`|
+|[seo64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/662767-seo64.html)|`2024-10-17 03:52:00`|`Team Fortress 2`|
+|[CRC Crashing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667156-crc-crashing.html)|`2024-10-17 03:51:00`|`Counter-Strike 2`|
 |[TPM AND SB BYPASS &#43; SPOOFER &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/623808-tpm-sb-bypass-spoofer.html)|`2024-10-17 03:45:00`|`Valorant`|
 |[R6 Credits via XBOX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/661115-r6-credits-via-xbox.html)|`2024-10-17 03:45:00`|`Rainbow Six Siege`|
 |[IDA&#45;Fusion updated for IDA 9&#46;0&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/667155-ida-fusion-updated-ida-9-0-a.html)|`2024-10-17 03:43:00`|`General Programming and Reversing`|
