@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[In&#45;depth ASUS Motherboard AMI Bios Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666894-depth-asus-motherboard-ami-bios-spoofing.html)|`2024-10-16 16:40:00`|`Anti-Cheat Bypass`|
+|[Grinder &#45; Simple C&#43;&#43; Linux Sense, Aimbot, TriggerBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/605888-grinder-simple-linux-sense-aimbot-triggerbot.html)|`2024-10-16 16:30:00`|`Apex Legends`|
 |[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2024-10-16 16:24:00`|`Combat Arms`|
 |[How can I get the hero ID?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/667069-hero-id.html)|`2024-10-16 16:21:00`|`Deadlock`|
 |[FLAG BAN IN BGMI 3&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/666881-flag-ban-bgmi-3-4-a.html)|`2024-10-16 15:37:00`|`PUBG Mobile`|
