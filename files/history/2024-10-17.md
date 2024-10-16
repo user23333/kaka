@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[May I ask if using skCrypter in the kernel is good? Will it get banned by EAC and BE?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667165-using-skcrypter-kernel-banned-eac.html)|`2024-10-17 05:19:00`|`Anti-Cheat Bypass`|
 |[Importing A2X into Ghidra&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666118-importing-a2x-ghidra.html)|`2024-10-17 05:00:00`|`Counter-Strike 2`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-10-17 04:58:00`|`Rust`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2024-10-17 04:57:00`|`Counter-Strike 2 Releases`|
