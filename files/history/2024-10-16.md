@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How find where a cheat reads the offsets from](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667118-cheat-reads-offsets.html)|`2024-10-16 22:56:00`|`Counter-Strike 2`|
+|[Valorant delay ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/666825-valorant-delay-ban.html)|`2024-10-16 22:54:00`|`Valorant`|
 |[Obtaining Kernel RW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666525-obtaining-kernel-rw.html)|`2024-10-16 22:50:00`|`Anti-Cheat Bypass`|
 |[Kiddion's Modest External Menu &#91;Thread 5&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/576854-kiddions-modest-external-menu-thread-5-a.html)|`2024-10-16 22:36:00`|`Grand Theft Auto V`|
 |[VGK FW SOURCE &#40;WORKING LATEST PATCH&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667102-vgk-fw-source-patch.html)|`2024-10-16 22:11:00`|`Valorant`|
