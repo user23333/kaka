@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[reversing esx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/667159-reversing-esx.html)|`2024-10-17 04:14:00`|`Alternative Online Mods`|
+|[Marvel snap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/653318-marvel-snap.html)|`2024-10-17 04:13:00`|`Other Games`|
+|[theHunter: Call of the Wild Internal Radar, ESP, & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644365-thehunter-call-wild-internal-radar-esp.html)|`2024-10-17 04:00:00`|`Other FPS Games`|
 |[Mesh returns 0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/667158-mesh-returns-0-a.html)|`2024-10-17 03:52:00`|`PUBG Mobile`|
 |[seo64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/662767-seo64.html)|`2024-10-17 03:52:00`|`Team Fortress 2`|
 |[CRC Crashing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667156-crc-crashing.html)|`2024-10-17 03:51:00`|`Counter-Strike 2`|
