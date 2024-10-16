@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2024-10-17 04:57:00`|`Counter-Strike 2 Releases`|
+|[Multiple instances of steam/cs2 WITHOUT sandboxing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666875-multiple-instances-steam-cs2-sandboxing.html)|`2024-10-17 04:52:00`|`Counter-Strike 2`|
+|[Spectre Divide Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/660659-spectre-divide-colorbot.html)|`2024-10-17 04:52:00`|`Other FPS Games`|
 |[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-10-17 04:50:00`|`Escape from Tarkov`|
 |[Liar’s Bar Cheats? &#40;Card Game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/665349-liar-bar-cheats-card-game.html)|`2024-10-17 04:45:00`|`Other Games`|
 |[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2024-10-17 04:27:00`|`Other FPS Games`|
