@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kiddion's Modest External Menu &#91;Thread 5&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/576854-kiddions-modest-external-menu-thread-5-a.html)|`2024-10-16 22:36:00`|`Grand Theft Auto V`|
 |[VGK FW SOURCE &#40;WORKING LATEST PATCH&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667102-vgk-fw-source-patch.html)|`2024-10-16 22:11:00`|`Valorant`|
 |[Rigel &#45; Better draw and colors for health/ult and some strings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/666429-rigel-draw-colors-health-ult-strings.html)|`2024-10-16 22:10:00`|`Overwatch`|
 |[Valorant Arduino Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667100-valorant-arduino-ban.html)|`2024-10-16 21:58:00`|`Valorant`|
