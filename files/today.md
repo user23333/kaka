@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2024-10-18 04:24:00`|`Other FPS Games`|
+|[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2024-10-18 04:20:00`|`Escape from Tarkov`|
+|[Age of Empires 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/589592-age-empires-4-reversal-structs-offsets.html)|`2024-10-18 04:20:00`|`Other MMORPG and Strategy`|
+|[Anyone know if it's possible to edit your Overall Stats Data](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/661079-edit-overall-stats-data.html)|`2024-10-18 04:09:00`|`Escape from Tarkov`|
 |[TORMENT CHEATPACK 3&#46;0 RELEASED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/651891-torment-cheatpack-3-0-released.html)|`2024-10-18 03:57:00`|`Star Wars Battlefront 2`|
 |[CS2 Leaked &#43; Updated External w/ decent features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/666111-cs2-leaked-updated-external-decent-features.html)|`2024-10-18 03:54:00`|`Counter-Strike 2 Releases`|
 |[cant update/modify buttonState](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667301-cant-update-modify-buttonstate.html)|`2024-10-18 03:46:00`|`Counter-Strike 2`|
