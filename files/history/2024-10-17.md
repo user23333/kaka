@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[1920x1080 External ESP w/ auto&#45;updating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666996-1920x1080-external-esp-auto-updating.html)|`2024-10-17 12:45:00`|`Counter-Strike 2`|
+|[GTA V roll back to &#91;1&#46;69 &#45; b3337&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667054-gta-roll-1-69-b3337.html)|`2024-10-17 12:42:00`|`Grand Theft Auto V`|
 |[Rigel genji flickbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/665204-rigel-genji-flickbot.html)|`2024-10-17 12:30:00`|`Overwatch`|
 |[Pro CS2 DMA &#45; Esp & Aimbot & Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656442-pro-cs2-dma-esp-aimbot-web-radar.html)|`2024-10-17 11:45:00`|`Counter-Strike 2`|
 |[Creating a cheat for Havoc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/667205-creating-cheat-havoc.html)|`2024-10-17 11:44:00`|`Unity`|
