@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[pve cheat question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/662819-pve-cheat-question.html)|`2024-10-18 05:30:00`|`Escape from Tarkov`|
+|[Perpheads ban evasion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/667318-perpheads-ban-evasion.html)|`2024-10-18 05:19:00`|`Garry's Mod`|
 |[Batch Encypting Program Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-software/667319-batch-encypting-program-python.html)|`2024-10-18 05:22:00`|`Other Software`|
 |[Call of Duty: Modern Warfare III Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/605287-call-duty-modern-warfare-iii-reversal-structs-offsets.html)|`2024-10-18 05:20:00`|`Call of Duty: Modern Warfare III`|
 |[Escape from Tarkov Streamer&#45;List](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/632218-escape-tarkov-streamer-list.html)|`2024-10-18 05:18:00`|`Escape from Tarkov`|
