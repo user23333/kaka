@@ -15,6 +15,7 @@
 |0|[Throne and Liberty DPS meter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/666086-throne-liberty-dps-meter.html)|`2024-10-17 03:21:51`|`other-mmorpg-and-strategy`|
 |14|[GTA V roll back to &#91;1&#46;69 &#45; b3337&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667054-gta-roll-1-69-b3337.html)|`2024-10-17 09:35:22`|`grand-theft-auto-v`|
 |18|[Crossfire West cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/666574-crossfire-west-cheat.html)|`2024-10-17 18:49:58`|`crossfire`|
+|7|[R&#42; has just broken the Yim patch for battleye and changed crossmaping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666988-broken-yim-patch-battleye-changed-crossmaping.html)|`2024-10-17 23:39:11`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -38,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant delay ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/666825-valorant-delay-ban.html)|`2024-10-17 23:32:00`|`Valorant`|
 |[IDA PRO &#124; My IDA dont want to fully analyze&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/667269-ida-pro-ida-dont-analyze.html)|`2024-10-17 23:25:00`|`General Programming and Reversing`|
 |[SmmInfect &#45; Smm Backdoor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664482-smminfect-smm-backdoor.html)|`2024-10-17 23:09:00`|`Anti-Cheat Bypass`|
 |[Overwatch 2 Color Aimbot With Interception Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/517558-overwatch-2-color-aimbot-interception-driver.html)|`2024-10-17 22:36:00`|`Overwatch`|
