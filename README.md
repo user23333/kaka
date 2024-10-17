@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Batch Encypting Program Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-software/667319-batch-encypting-program-python.html)|`2024-10-18 05:22:00`|`Other Software`|
+|[Call of Duty: Modern Warfare III Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/605287-call-duty-modern-warfare-iii-reversal-structs-offsets.html)|`2024-10-18 05:20:00`|`Call of Duty: Modern Warfare III`|
+|[Escape from Tarkov Streamer&#45;List](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/632218-escape-tarkov-streamer-list.html)|`2024-10-18 05:18:00`|`Escape from Tarkov`|
+|[KMM cheats that aren't in Yimmenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666657-kmm-cheats-arent-yimmenu.html)|`2024-10-18 05:10:00`|`Grand Theft Auto V`|
+|[ARMA 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/114242-arma-3-reversal-structs-offsets.html)|`2024-10-18 05:09:00`|`ARMA 3`|
 |[valorant anticheat question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667313-valorant-anticheat-question.html)|`2024-10-18 05:01:00`|`Valorant`|
 |[Fastest Python Valorant Triggerbot &#40;fr&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612762-fastest-python-valorant-triggerbot-fr.html)|`2024-10-18 04:54:00`|`Valorant`|
 |[Fastest Python Valorant Triggerbot &#40;fr&#41; Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/656929-fastest-python-valorant-triggerbot-fr-updated.html)|`2024-10-18 04:52:00`|`Valorant`|
