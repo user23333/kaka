@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Plutonium Automatic Spoofer &#40;SRC&#41; by Germanized &#40;me&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/667187-plutonium-automatic-spoofer-src-germanized.html)|`2024-10-18 04:48:00`|`Call of Duty: Black Ops 2`|
 |[&#91;UE4&#93;Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/244709-ue4-squad.html)|`2024-10-18 04:39:00`|`Other FPS Games`|
 |[PAYDAY 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/601253-payday-3-reversal-structs-offsets.html)|`2024-10-18 04:39:00`|`Payday 3`|
 |[Hello, need help :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667271-hello-help.html)|`2024-10-18 04:37:00`|`Other FPS Games`|
