@@ -38,6 +38,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant hwid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667246-valorant-hwid.html)|`2024-10-17 20:07:00`|`Valorant`|
+|[Visibility Check External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/667051-visibility-check-external.html)|`2024-10-17 20:05:00`|`Alternative Online Mods`|
+|[FiveM External NoClip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/665350-fivem-external-noclip.html)|`2024-10-17 20:03:00`|`Alternative Online Mods`|
+|[Get FiveM DevTools &#91;In&#45;Out&#93; Events](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/666239-fivem-devtools-events.html)|`2024-10-17 20:01:00`|`Alternative Online Mods`|
+|[Dragon Ball SPARKING ZERO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/666057-dragon-ball-sparking-zero.html)|`2024-10-17 19:59:00`|`Other Games`|
 |[KMM cheats that aren't in Yimmenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666657-kmm-cheats-arent-yimmenu.html)|`2024-10-17 19:45:00`|`Grand Theft Auto V`|
 |[is there a decent free cheat for this game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/666216-decent-free-cheat-game.html)|`2024-10-17 19:29:00`|`Call of Duty: Modern Warfare`|
 |[Kernel Driver Cheat by Zebra](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/610522-kernel-driver-cheat-zebra.html)|`2024-10-17 19:27:00`|`CounterStrike 1.5, 1.6 and Mods`|
