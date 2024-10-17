@@ -38,6 +38,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DoubleTap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/655663-doubletap.html)|`2024-10-17 21:25:00`|`Counter-Strike 2`|
+|[Tobii Ghostst Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666714-tobii-ghostst-overlay.html)|`2024-10-17 21:23:00`|`Anti-Cheat Bypass`|
+|[AOB ESP NameTag PointBlank Zepetto 2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620055-aob-esp-nametag-pointblank-zepetto-2024-a.html)|`2024-10-17 21:22:00`|`Other FPS Games`|
+|[All Mouse NoRecoil &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-recoil-helpy-auto-config-probably-ud-universal.html)|`2024-10-17 21:17:00`|`Rainbow Six Siege`|
 |[Rigel &#45; Better draw and colors for health/ult and some strings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/666429-rigel-draw-colors-health-ult-strings.html)|`2024-10-17 21:11:00`|`Overwatch`|
 |[Ida reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/667256-ida-reversing.html)|`2024-10-17 21:03:00`|`Other MMORPG and Strategy`|
 |[Team Fortress 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/102936-team-fortress-2-reversal-structs-offsets.html)|`2024-10-17 20:43:00`|`Team Fortress 2`|
