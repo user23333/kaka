@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[1920x1080 External ESP w/ auto&#45;updating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666996-1920x1080-external-esp-auto-updating.html)|`2024-10-18 03:35:00`|`Counter-Strike 2`|
 |[how to obtain memory address from Cheat Engine table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/667162-obtain-memory-address-cheat-engine-table.html)|`2024-10-18 03:24:00`|`C and C++`|
 |[PIRATE DayZ 1&#46;21 simple internal ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/595120-pirate-dayz-1-21-simple-internal-esp.html)|`2024-10-18 03:16:00`|`DayZ SA`|
 |[AFK Script for Plunder &#40;Read the Description&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/656179-afk-script-plunder-read-description.html)|`2024-10-18 02:56:00`|`Call of Duty: Modern Warfare III`|
