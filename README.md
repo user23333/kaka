@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-10-17 08:49:00`|`Grand Theft Auto V`|
+|[Can't get EntityType](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/666354-cant-entitytype.html)|`2024-10-17 08:47:00`|`PUBG Mobile`|
+|[TX&#45;Admin Unban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/663968-tx-admin-unban.html)|`2024-10-17 08:05:00`|`Alternative Online Mods`|
 |[Deadlock offset dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/666743-deadlock-offset-dumper.html)|`2024-10-17 07:44:00`|`Deadlock`|
 |[How to run multiple client games with battle eye?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667191-run-multiple-client-games-battle-eye.html)|`2024-10-17 07:34:00`|`Anti-Cheat Bypass`|
 |[GTA5&#95;Decompiled&#95;169&#95;Build3315](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667189-gta5_decompiled_169_build3315.html)|`2024-10-17 07:28:00`|`Grand Theft Auto V`|
