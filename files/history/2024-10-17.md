@@ -36,6 +36,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Ban Evading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/666751-rust-ban-evading.html)|`2024-10-17 10:47:00`|`Rust`|
+|[Vigor External Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/664346-vigor-external-hack.html)|`2024-10-17 10:42:00`|`Other FPS Games`|
+|[Question about learning environment](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667201-question-learning-environment.html)|`2024-10-17 10:38:00`|`Anti-Cheat Bypass`|
+|[VGK FW SOURCE &#40;WORKING LATEST PATCH&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667102-vgk-fw-source-patch.html)|`2024-10-17 10:31:00`|`Valorant`|
+|[Grinder &#45; Simple C&#43;&#43; Linux Sense, Aimbot, TriggerBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/605888-grinder-simple-linux-sense-aimbot-triggerbot.html)|`2024-10-17 10:30:00`|`Apex Legends`|
+|[Rendering SVG from VPK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666961-rendering-svg-vpk.html)|`2024-10-17 10:09:00`|`Counter-Strike 2`|
 |[Universal Recoil &#40;like UMT program&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/617894-universal-recoil-umt-program.html)|`2024-10-17 09:52:00`|`Other FPS Games`|
 |[Apex windows cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/665812-apex-windows-cheat.html)|`2024-10-17 09:30:00`|`Apex Legends`|
 |[Help with Read func &#40;UM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667067-help-read-func-um.html)|`2024-10-17 09:01:00`|`Anti-Cheat Bypass`|
