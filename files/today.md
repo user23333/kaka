@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[valorant anticheat question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667313-valorant-anticheat-question.html)|`2024-10-18 05:01:00`|`Valorant`|
 |[Fastest Python Valorant Triggerbot &#40;fr&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612762-fastest-python-valorant-triggerbot-fr.html)|`2024-10-18 04:54:00`|`Valorant`|
 |[Fastest Python Valorant Triggerbot &#40;fr&#41; Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/656929-fastest-python-valorant-triggerbot-fr-updated.html)|`2024-10-18 04:52:00`|`Valorant`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2024-10-18 04:50:00`|`Counter-Strike 2 Releases`|
