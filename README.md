@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Team Fortress 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/102936-team-fortress-2-reversal-structs-offsets.html)|`2024-10-17 20:43:00`|`Team Fortress 2`|
 |[Valorant hwid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667246-valorant-hwid.html)|`2024-10-17 20:07:00`|`Valorant`|
 |[Visibility Check External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/667051-visibility-check-external.html)|`2024-10-17 20:05:00`|`Alternative Online Mods`|
 |[FiveM External NoClip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/665350-fivem-external-noclip.html)|`2024-10-17 20:03:00`|`Alternative Online Mods`|
