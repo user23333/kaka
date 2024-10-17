@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cant update/modify buttonState](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667301-cant-update-modify-buttonstate.html)|`2024-10-18 03:46:00`|`Counter-Strike 2`|
+|[Deadlock offset dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/666743-deadlock-offset-dumper.html)|`2024-10-18 03:45:00`|`Deadlock`|
+|[InventoryChanger cases](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/639239-inventorychanger.html)|`2024-10-18 03:42:00`|`Counter-Strike 2`|
 |[1920x1080 External ESP w/ auto&#45;updating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666996-1920x1080-external-esp-auto-updating.html)|`2024-10-18 03:35:00`|`Counter-Strike 2`|
 |[how to obtain memory address from Cheat Engine table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/667162-obtain-memory-address-cheat-engine-table.html)|`2024-10-18 03:24:00`|`C and C++`|
 |[PIRATE DayZ 1&#46;21 simple internal ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/595120-pirate-dayz-1-21-simple-internal-esp.html)|`2024-10-18 03:16:00`|`DayZ SA`|
