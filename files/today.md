@@ -34,6 +34,7 @@
 |0|[OriginPalia 3&#46;1&#46;3 PUBLIC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47262)|`2024-10-17 02:11:16`|
 |1|[theHunter Internal Radar & ESP v1&#46;2&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47263)|`2024-10-17 04:00:01`|
 |2|[Bodycam Internal V0&#46;1&#46;3&#46;0 &#40;fixed crashes&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47264)|`2024-10-17 04:31:39`|
+|1|[CFWest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47269)|`2024-10-17 19:42:15`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
