@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Just a vanguard bypass with Python &#40;Still working&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664827-vanguard-bypass-python.html)|`2024-10-19 07:30:00`|`Valorant`|
+|[Need help with 10/30 min ban and 1 hour&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/667490-help-10-30-min-ban-1-hour.html)|`2024-10-19 07:28:00`|`PUBG Mobile`|
 |[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-10-19 07:25:00`|`Overwatch`|
 |[VGK FW SOURCE &#40;WORKING LATEST PATCH&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667102-vgk-fw-source-patch.html)|`2024-10-19 07:20:00`|`Valorant`|
 |[November 2024 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/667404-november-2024-motm-nominations.html)|`2024-10-19 07:09:00`|`Member of the Month`|
