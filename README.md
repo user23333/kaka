@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is Zeebler &#91;PO&#93; Really A Activision Mole?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/666145-zeebler-po-activision-mole.html)|`2024-10-18 12:34:00`|`Call of Duty: Modern Warfare III`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2024-10-18 12:33:00`|`League of Legends`|
+|[Do you get unbanned even after getting banned multilple times?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667345-unbanned-getting-banned-multilple-times.html)|`2024-10-18 12:25:00`|`Valorant`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2024-10-18 11:49:00`|`Deadlock`|
 |[Fiveguard AC ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/666940-fiveguard-ac-ban.html)|`2024-10-18 11:36:00`|`Alternative Online Mods`|
 |[External grenade prediction constants](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662467-external-grenade-prediction-constants.html)|`2024-10-18 11:14:00`|`Counter-Strike 2`|
