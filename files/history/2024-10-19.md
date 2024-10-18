@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-10-19 07:25:00`|`Overwatch`|
+|[VGK FW SOURCE &#40;WORKING LATEST PATCH&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667102-vgk-fw-source-patch.html)|`2024-10-19 07:20:00`|`Valorant`|
 |[November 2024 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/667404-november-2024-motm-nominations.html)|`2024-10-19 07:09:00`|`Member of the Month`|
 |[&#91;Reverse Engineering&#93; Trying to reverse engineer window creation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667473-reverse-engineering-trying-reverse-engineer-window-creation.html)|`2024-10-19 06:51:00`|`Anti-Cheat Bypass`|
 |[Tobii Ghostst Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666714-tobii-ghostst-overlay.html)|`2024-10-19 06:41:00`|`Anti-Cheat Bypass`|
