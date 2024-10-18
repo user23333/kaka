@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New auth riot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/665200-auth-riot.html)|`2024-10-18 21:59:00`|`League of Legends`|
+|[Cheats for pDxPLAY&#46;org available? &#40;Akros Anti&#45;cheat&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/650333-cheats-pdxplay-org-available-akros-anti-cheat.html)|`2024-10-18 21:55:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[How to properly overlay cheat in Tarkov?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/667389-properly-overlay-cheat-tarkov.html)|`2024-10-18 21:46:00`|`Escape from Tarkov`|
 |[Weird Viewangels](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/666160-weird-viewangels.html)|`2024-10-18 21:45:00`|`General Programming and Reversing`|
 |[PUBG DMA Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/644302-pubg-dma-cheat-run.html)|`2024-10-18 20:48:00`|`Playerunknown's Battlegrounds`|
