@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Multiple instances of steam/csgo WITHOUT sandboxing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/585278-multiple-instances-steam-csgo-sandboxing.html)|`2024-10-19 00:55:00`|`Counterstrike Global Offensive`|
 |[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2024-10-19 00:38:00`|`Unity`|
 |[Simple Crosshair](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/667180-simple-crosshair.html)|`2024-10-19 00:37:00`|`Half Life`|
 |[BannleEye &#45; Banning arbitrary players using BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667333-bannleeye-banning-arbitrary-players-using.html)|`2024-10-19 00:31:00`|`Anti-Cheat Bypass`|
