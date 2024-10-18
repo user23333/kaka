@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Throne and Liberty Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/649981-throne-liberty-reversal-structs-offsets.html)|`2024-10-19 05:56:00`|`Other MMORPG and Strategy`|
+|[korea vng taiwan safe bypass 3&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/666622-korea-vng-taiwan-safe-bypass-3-4-a.html)|`2024-10-19 05:55:00`|`PUBG Mobile`|
+|[playerEyes setting viewOffset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/667387-playereyes-setting-viewoffset.html)|`2024-10-19 05:53:00`|`Rust`|
 |[Pixel Gun 3D Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/663707-pixel-gun-3d-cheat-engine-table.html)|`2024-10-19 05:44:00`|`Cheat Engine Tables`|
 |[How do you get offsets PUBG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/667455-offsets-pubg.html)|`2024-10-19 05:41:00`|`PUBG Mobile`|
 |[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2024-10-19 05:26:00`|`Other FPS Games`|
