@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chaos Menu & Lua Executor "REDM"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/593368-chaos-menu-lua-executor-redm.html)|`2024-10-19 04:36:00`|`Red Dead Redemption 2`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2024-10-19 04:16:00`|`Alternative Online Mods`|
 |[Off the Grid Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/665981-grid-reversal-structs-offsets.html)|`2024-10-19 03:45:00`|`Other FPS Games`|
 |[Throne and Liberty hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/665328-throne-liberty-hack.html)|`2024-10-19 03:35:00`|`Other MMORPG and Strategy`|
