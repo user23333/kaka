@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[can someone run me a few lobbies for max medal max level and samples](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/650976-run-lobbies-max-medal-max-level-samples.html)|`2024-10-18 20:31:00`|`HELLDIVERS 2`|
+|[playerEyes setting viewOffset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/667387-playereyes-setting-viewoffset.html)|`2024-10-18 20:31:00`|`Rust`|
 |[Using pymem for simple esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666084-using-pymem-simple-esp.html)|`2024-10-18 20:07:00`|`Counter-Strike 2`|
 |[R6 accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/665150-r6-accounts.html)|`2024-10-18 20:07:00`|`Rainbow Six Siege`|
 |[2017 Charm Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/662758-2017-charm-method.html)|`2024-10-18 20:07:00`|`Rainbow Six Siege`|
