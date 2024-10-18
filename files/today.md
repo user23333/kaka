@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Auto shoot is not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/667378-auto-shoot.html)|`2024-10-18 19:42:00`|`Overwatch`|
 |[how to get roblox offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667374-roblox-offsets.html)|`2024-10-18 19:31:00`|`Other Games`|
 |[MW3 Unlock tool & Red&#45;Box Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/649015-mw3-unlock-tool-red-box-hack.html)|`2024-10-18 19:29:00`|`Call of Duty: Modern Warfare 3`|
 |[Sorj auto right click when killable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/643402-sorj-auto-click-killable.html)|`2024-10-18 19:24:00`|`Overwatch`|
