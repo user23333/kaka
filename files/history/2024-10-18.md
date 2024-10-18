@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to break the shadowban loop?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/667400-break-shadowban-loop.html)|`2024-10-18 22:46:00`|`Call of Duty: Modern Warfare III`|
 |[Nika &#45; Light Weight C&#43;&#43; Linux Pasta Cheat &#45; Health Based Sense, Aimbot, TriggerBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/634402-nika-light-weight-linux-pasta-cheat-health-based-sense-aimbot-triggerbot.html)|`2024-10-18 22:38:00`|`Apex Legends`|
 |[how tf do I compile a tf2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/667391-tf-compile-tf2-cheat.html)|`2024-10-18 22:37:00`|`Team Fortress 2`|
 |[Bypass Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667394-bypass-anticheat.html)|`2024-10-18 22:28:00`|`Anti-Cheat Bypass`|
