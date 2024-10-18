@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VGK FW SOURCE &#40;WORKING LATEST PATCH&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667102-vgk-fw-source-patch.html)|`2024-10-18 17:11:00`|`Valorant`|
 |[ZwCreateThreadEx not found&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/667289-zwcreatethreadex-found.html)|`2024-10-18 16:28:00`|`General Programming and Reversing`|
 |["How we Outsmarted CSGO Cheaters with IdentityLogger"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/667356-outsmarted-csgo-cheaters-identitylogger.html)|`2024-10-18 16:14:00`|`Counterstrike Global Offensive`|
 |[Rigel &#45; Better draw and colors for health/ult and some strings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/666429-rigel-draw-colors-health-ult-strings.html)|`2024-10-18 16:11:00`|`Overwatch`|
