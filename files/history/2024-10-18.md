@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Using pymem for simple esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666084-using-pymem-simple-esp.html)|`2024-10-18 20:07:00`|`Counter-Strike 2`|
+|[R6 accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/665150-r6-accounts.html)|`2024-10-18 20:07:00`|`Rainbow Six Siege`|
+|[2017 Charm Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/662758-2017-charm-method.html)|`2024-10-18 20:07:00`|`Rainbow Six Siege`|
+|[im HWID Banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/665890-im-hwid-banned.html)|`2024-10-18 20:05:00`|`Rainbow Six Siege`|
+|[MWIII DMA Basic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/619202-mwiii-dma-basic.html)|`2024-10-18 20:01:00`|`Call of Duty: Modern Warfare III`|
 |[Auto shoot is not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/667378-auto-shoot.html)|`2024-10-18 19:42:00`|`Overwatch`|
 |[how to get roblox offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667374-roblox-offsets.html)|`2024-10-18 19:31:00`|`Other Games`|
 |[MW3 Unlock tool & Red&#45;Box Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/649015-mw3-unlock-tool-red-box-hack.html)|`2024-10-18 19:29:00`|`Call of Duty: Modern Warfare 3`|
