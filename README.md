@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTA V roll back to &#91;1&#46;69 &#45; b3337&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667054-gta-roll-1-69-b3337.html)|`2024-10-18 15:11:00`|`Grand Theft Auto V`|
+|[CS2 external esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/600259-cs2-external-esp.html)|`2024-10-18 15:03:00`|`Counter-Strike 2 Releases`|
 |[Any Genius Bot Maker Want to Solve This Puzzle? :thinking:](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/667265-genius-bot-maker-solve-puzzle-thinking.html)|`2024-10-18 14:39:00`|`Other MMORPG and Strategy`|
 |[Creating a cheat for Havoc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/667205-creating-cheat-havoc.html)|`2024-10-18 14:31:00`|`Unity`|
 |[Making a script to follow a runelite plugin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/runescape/667350-script-follow-runelite-plugin.html)|`2024-10-18 13:58:00`|`RuneScape`|
