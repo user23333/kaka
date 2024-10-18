@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External grenade prediction constants](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662467-external-grenade-prediction-constants.html)|`2024-10-18 11:14:00`|`Counter-Strike 2`|
 |[BandicamHook &#45; Hijack Bandicam's overlay for rendering onto the screen with DirectX11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/636162-bandicamhook-hijack-bandicams-overlay-rendering-onto-screen-directx11.html)|`2024-10-18 10:30:00`|`C and C++`|
 |[MiniRoyale Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667335-miniroyale-reversal.html)|`2024-10-18 10:21:00`|`Other FPS Games`|
 |[BannleEye &#45; Banning arbitrary players using BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667333-bannleeye-banning-arbitrary-players-using.html)|`2024-10-18 10:08:00`|`Anti-Cheat Bypass`|
