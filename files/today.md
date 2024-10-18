@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant hwid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667246-valorant-hwid.html)|`2024-10-19 07:58:00`|`Valorant`|
 |[seo64 Updated Sigs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/667016-seo64-updated-sigs.html)|`2024-10-19 07:44:00`|`Team Fortress 2`|
 |[not able to play heists with yim?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666613-able-play-heists-yim.html)|`2024-10-19 07:26:00`|`Grand Theft Auto V`|
 |[Just a vanguard bypass with Python &#40;Still working&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664827-vanguard-bypass-python.html)|`2024-10-19 07:30:00`|`Valorant`|
