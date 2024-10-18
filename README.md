@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypass Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667394-bypass-anticheat.html)|`2024-10-18 22:28:00`|`Anti-Cheat Bypass`|
+|[DMA DayZ Fuser ESP &#43; Radar Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/606723-dma-dayz-fuser-esp-radar-source-release.html)|`2024-10-18 22:26:00`|`DayZ SA`|
+|[Changing UniqueProcessId weird behaviour](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/667397-changing-uniqueprocessid-weird-behaviour.html)|`2024-10-18 22:26:00`|`General Programming and Reversing`|
 |[Sker Ritual](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/634621-sker-ritual.html)|`2024-10-18 22:06:00`|`Unity`|
 |[New auth riot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/665200-auth-riot.html)|`2024-10-18 21:59:00`|`League of Legends`|
 |[Cheats for pDxPLAY&#46;org available? &#40;Akros Anti&#45;cheat&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/650333-cheats-pdxplay-org-available-akros-anti-cheat.html)|`2024-10-18 21:55:00`|`CounterStrike 1.5, 1.6 and Mods`|
