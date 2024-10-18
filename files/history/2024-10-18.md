@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Invalid base address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/667403-invalid-base-address.html)|`2024-10-18 23:18:00`|`General Programming and Reversing`|
 |[RLMarlbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/633336-rlmarlbot.html)|`2024-10-18 23:05:00`|`Other Games`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2024-10-18 23:04:00`|`Escape from Tarkov`|
 |[How to inject DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/667359-inject-dll.html)|`2024-10-18 22:59:00`|`Garry's Mod`|
