@@ -13,6 +13,7 @@
 |7|[R&#42; has just broken the Yim patch for battleye and changed crossmaping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666988-broken-yim-patch-battleye-changed-crossmaping.html)|`2024-10-18 00:18:16`|`grand-theft-auto-v`|
 |20|[Rigel &#45; Better draw and colors for health/ult and some strings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/666429-rigel-draw-colors-health-ult-strings.html)|`2024-10-18 03:11:11`|`overwatch`|
 |5|[CS2 Free External Multi Cheat &#35; AIMBOT / RCS / ESP / MISC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/666738-cs2-free-external-multi-cheat-aimbot-rcs-esp-misc.html)|`2024-10-18 06:58:09`|`counter-strike-2-releases`|
+|7|[BannleEye &#45; Banning arbitrary players using BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667333-bannleeye-banning-arbitrary-players-using.html)|`2024-10-18 11:57:40`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
