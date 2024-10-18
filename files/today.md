@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ZwCreateThreadEx not found&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/667289-zwcreatethreadex-found.html)|`2024-10-18 16:28:00`|`General Programming and Reversing`|
+|["How we Outsmarted CSGO Cheaters with IdentityLogger"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/667356-outsmarted-csgo-cheaters-identitylogger.html)|`2024-10-18 16:14:00`|`Counterstrike Global Offensive`|
+|[Rigel &#45; Better draw and colors for health/ult and some strings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/666429-rigel-draw-colors-health-ult-strings.html)|`2024-10-18 16:11:00`|`Overwatch`|
 |[FiveM Locations Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340679-fivem-locations-thread.html)|`2024-10-18 16:06:00`|`Alternative Online Mods`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2024-10-18 16:02:00`|`Alternative Online Mods`|
 |[Valorant hwid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667246-valorant-hwid.html)|`2024-10-18 15:26:00`|`Valorant`|
