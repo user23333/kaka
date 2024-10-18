@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2024-10-18 18:46:00`|`Grand Theft Auto V`|
 |[DMA not working if my ram is over 2800mhz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/667361-dma-ram-2800mhz.html)|`2024-10-18 17:52:00`|`PC Hardware`|
 |[If you detected using kiddions mod, your character will change to mini tank](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667068-detected-using-kiddions-mod-character-change-mini-tank.html)|`2024-10-18 17:38:00`|`Grand Theft Auto V`|
 |[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2024-10-18 17:15:00`|`Elite: Dangerous`|
