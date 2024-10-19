@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[titanfall 2 external cheat &#91;aimbot, esp, &#46;&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/469406-titanfall-2-external-cheat-aimbot-esp.html)|`2024-10-19 18:28:00`|`Titanfall`|
 |[ESP boxes rendering at 0, 0, 0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667555-esp-boxes-rendering-0-0-0-a.html)|`2024-10-19 18:09:00`|`Counter-Strike 2`|
 |[Getting UnityPlayer pdb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/667554-getting-unityplayer-pdb.html)|`2024-10-19 18:00:00`|`Rust`|
 |[Access &#45; Noseh, does it still work ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667553-access-noseh.html)|`2024-10-19 17:43:00`|`Grand Theft Auto V`|
