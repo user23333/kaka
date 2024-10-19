@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VALO COLOR BOT SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/633956-valo-color-bot-source.html)|`2024-10-20 02:53:00`|`Valorant`|
+|[Crashing when calling CG&#95;GetPredictedPlayerState](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/666519-crashing-calling-cg_getpredictedplayerstate.html)|`2024-10-20 02:52:00`|`Call of Duty: Black Ops 3`|
 |["How we Outsmarted CSGO Cheaters with IdentityLogger"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/667356-outsmarted-csgo-cheaters-identitylogger.html)|`2024-10-20 02:50:00`|`Counterstrike Global Offensive`|
 |[zap&#45;client &#91;Legitbot, Ragebot, Glow, ESP & More&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/628823-zap-client-legitbot-ragebot-glow-esp.html)|`2024-10-20 02:47:00`|`Apex Legends`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-10-20 02:40:00`|`Playerunknown's Battlegrounds`|
