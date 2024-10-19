@@ -24,9 +24,12 @@
 |106|[Bodycam Internal V0&#46;1&#46;3&#46;0 &#40;fixed crashes&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47264)|`2024-10-20 00:14:46`|
 |40|[theHunter Internal Radar & ESP v1&#46;2&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47263)|`2024-10-20 00:14:46`|
 |152|[OriginPalia 3&#46;1&#46;3 PUBLIC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47262)|`2024-10-20 00:14:46`|
+|3|[SEOwnedDE Updated v1&#46;1 &#40;Non&#45;AVX/SSE2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47268)|`2024-10-20 03:53:00`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[korea vng taiwan safe bypass 3&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/666622-korea-vng-taiwan-safe-bypass-3-4-a.html)|`2024-10-20 03:52:00`|`PUBG Mobile`|
+|[SEOwnedDE Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/644283-seownedde-updated.html)|`2024-10-20 03:50:00`|`Team Fortress 2`|
 |[viewAngle in Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/667666-viewangle-rust.html)|`2024-10-20 03:41:00`|`Rust`|
 |[Exit hidden process](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667665-exit-hidden-process.html)|`2024-10-20 03:34:00`|`Anti-Cheat Bypass`|
 |[Sea of Thieves paks for FOV, no fog, and more&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/666959-sea-thieves-paks-fov-fog.html)|`2024-10-20 03:29:00`|`Sea of Thieves`|
