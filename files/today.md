@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Man, I'm just sick of this&#46; :](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667415-im-sick.html)|`2024-10-20 00:27:00`|`Grand Theft Auto V`|
+|[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2024-10-20 00:24:00`|`Elite: Dangerous`|
 |[Call of Duty Options Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/666858-call-duty-options-editor.html)|`2024-10-20 00:11:00`|`Call of Duty: Modern Warfare III`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-10-20 00:10:00`|`Rust`|
 |[Triggerbot patch Bypass for Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667460-triggerbot-patch-bypass-python.html)|`2024-10-20 00:02:00`|`Valorant`|
