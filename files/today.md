@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2024-10-19 10:51:00`|`Escape from Tarkov`|
+|[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2024-10-19 10:50:00`|`Escape from Tarkov`|
+|[How to break the shadowban loop?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/667400-break-shadowban-loop.html)|`2024-10-19 10:43:00`|`Call of Duty: Modern Warfare III`|
+|[Rocket League &#45; Miku Client Free, Unlock All, Title Spawning, etc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/643766-rocket-league-miku-client-free-unlock-title-spawning-etc.html)|`2024-10-19 10:23:00`|`Other Games`|
 |[Help with ESP Flicker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/667529-help-esp-flicker.html)|`2024-10-19 10:02:00`|`General Programming and Reversing`|
 |[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-10-19 09:49:00`|`Escape from Tarkov`|
 |[New method to make arduino UD again part 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/661526-method-arduino-ud-2-a.html)|`2024-10-19 09:49:00`|`Valorant`|
