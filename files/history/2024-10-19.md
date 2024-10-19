@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2024-10-19 15:13:00`|`Garry's Mod`|
+|[Cheating for the first time in rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/667353-cheating-time-rust.html)|`2024-10-19 15:07:00`|`Rust`|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2024-10-19 15:03:00`|`Battlefield 4`|
 |[GTA V roll back to &#91;1&#46;69 &#45; b3337&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667054-gta-roll-1-69-b3337.html)|`2024-10-19 14:50:00`|`Grand Theft Auto V`|
 |[Anti X&#45;Ray bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/666931-anti-ray-bypass.html)|`2024-10-19 13:53:00`|`Minecraft`|
 |[AddRect function is not rendered](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667536-addrect-function-rendered.html)|`2024-10-19 13:50:00`|`Counter-Strike 2`|
