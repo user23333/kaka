@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Once Human &#40;game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/614970-human-game.html)|`2024-10-19 08:53:00`|`Other MMORPG and Strategy`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2024-10-19 08:41:00`|`Other FPS Games`|
+|[making a damage hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/667520-damage-hack.html)|`2024-10-19 08:38:00`|`Titanfall`|
+|[how to obtain memory address from Cheat Engine table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/667162-obtain-memory-address-cheat-engine-table.html)|`2024-10-19 08:38:00`|`C and C++`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2024-10-19 08:30:00`|`Other FPS Games`|
 |[Valorant hwid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667246-valorant-hwid.html)|`2024-10-19 07:58:00`|`Valorant`|
 |[seo64 Updated Sigs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/667016-seo64-updated-sigs.html)|`2024-10-19 07:44:00`|`Team Fortress 2`|
 |[not able to play heists with yim?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666613-able-play-heists-yim.html)|`2024-10-19 07:26:00`|`Grand Theft Auto V`|
