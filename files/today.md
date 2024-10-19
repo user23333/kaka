@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[All Mouse NoRecoil &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-recoil-helpy-auto-config-probably-ud-universal.html)|`2024-10-20 04:49:00`|`Rainbow Six Siege`|
+|[COD CP exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/616611-cod-cp-exploit.html)|`2024-10-20 04:49:00`|`Call of Duty: Modern Warfare III`|
+|[Mouse AIM ASSIST &#40;controller emu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653697-mouse-aim-assist-controller-emu.html)|`2024-10-20 04:47:00`|`Call of Duty: Black Ops 6`|
 |[Apex Superglide Macro AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/648521-apex-superglide-macro-ahk.html)|`2024-10-20 04:39:00`|`Apex Legends`|
 |[Ban bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667671-ban-bypass.html)|`2024-10-20 04:39:00`|`Grand Theft Auto V`|
 |[&#91;Reverse Engineering&#93; Trying to reverse engineer window creation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667473-reverse-engineering-trying-reverse-engineer-window-creation.html)|`2024-10-20 04:38:00`|`Anti-Cheat Bypass`|
