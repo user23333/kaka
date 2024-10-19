@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2024-10-20 01:01:00`|`Alternative Online Mods`|
+|[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2024-10-20 00:57:00`|`Palia`|
 |[IDA Names/Structs/Labels](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667651-ida-names-structs-labels.html)|`2024-10-20 00:50:00`|`Counter-Strike 2`|
 |[Account Leveling Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/591842-account-leveling-bot.html)|`2024-10-20 00:49:00`|`League of Legends`|
 |[Issue with Parsec and Using Cheat on Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667526-issue-parsec-using-cheat-valorant.html)|`2024-10-20 00:46:00`|`Valorant`|
