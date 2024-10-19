@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SMS services get patched?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/664277-sms-services-patched.html)|`2024-10-19 23:20:00`|`Rainbow Six Siege`|
+|[Gmod&#45;SDK FIXED &#40;FULL WORKING 15/10/24&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/667003-gmod-sdk-fixed-15-10-24-a.html)|`2024-10-19 23:16:00`|`Garry's Mod`|
+|[FiveM External Source &#45; Krypted &#40;many Features&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/666614-fivem-external-source-krypted-features.html)|`2024-10-19 23:16:00`|`Alternative Online Mods`|
+|[Skin Replacements](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/650683-skin-replacements.html)|`2024-10-19 23:15:00`|`All Points Bulletin`|
 |[seo64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/662767-seo64.html)|`2024-10-19 22:15:00`|`Team Fortress 2`|
 |[You can no longer patch ScripthookV for online mode? &#40;eCoreTerminatin was removed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667634-patch-scripthookv-online-mode-ecoreterminatin-removed.html)|`2024-10-19 22:09:00`|`Grand Theft Auto V`|
 |[external sound esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/644134-external-sound-esp.html)|`2024-10-19 22:07:00`|`CounterStrike 1.5, 1.6 and Mods`|
