@@ -31,6 +31,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help with ESP Flicker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/667529-help-esp-flicker.html)|`2024-10-19 10:02:00`|`General Programming and Reversing`|
+|[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-10-19 09:49:00`|`Escape from Tarkov`|
+|[New method to make arduino UD again part 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/661526-method-arduino-ud-2-a.html)|`2024-10-19 09:49:00`|`Valorant`|
+|[The ultimate DMA newbie guide&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/631149-ultimate-dma-newbie-guide.html)|`2024-10-19 09:48:00`|`PC Hardware`|
+|[Minecraft Ping abuse method for 1&#46;20&#43;??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/667019-minecraft-ping-abuse-method-1-20-a.html)|`2024-10-19 09:41:00`|`Minecraft`|
+|[C&#43;&#43; triggerbot code help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667528-triggerbot-code-help.html)|`2024-10-19 09:39:00`|`Valorant`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2024-10-19 09:34:00`|`Other FPS Games`|
+|[External Grenade Prediction &#40;No bounces rn, will have&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667523-external-grenade-prediction-bounces-rn.html)|`2024-10-19 09:32:00`|`Counter-Strike 2`|
 |[Once Human &#40;game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/614970-human-game.html)|`2024-10-19 08:53:00`|`Other MMORPG and Strategy`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2024-10-19 08:41:00`|`Other FPS Games`|
 |[making a damage hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/667520-damage-hack.html)|`2024-10-19 08:38:00`|`Titanfall`|
