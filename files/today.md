@@ -29,6 +29,7 @@
 |1|[version&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47299)|`2024-10-20 04:30:59`|
 |1|[Vigor Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47292)|`2024-10-20 05:14:41`|
 |3|[Pixel Strike 3D Hack &#40;2024&#41; v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47288)|`2024-10-20 05:14:41`|
+|2|[ValoBanBeGone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47300)|`2024-10-20 07:53:14`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
