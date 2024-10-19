@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Superglide Macro AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/648521-apex-superglide-macro-ahk.html)|`2024-10-20 04:39:00`|`Apex Legends`|
 |[Ban bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667671-ban-bypass.html)|`2024-10-20 04:39:00`|`Grand Theft Auto V`|
 |[&#91;Reverse Engineering&#93; Trying to reverse engineer window creation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667473-reverse-engineering-trying-reverse-engineer-window-creation.html)|`2024-10-20 04:38:00`|`Anti-Cheat Bypass`|
 |[TerraHack for Terraria 1&#46;4&#46;4&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/644850-terrahack-terraria-1-4-4-9-a.html)|`2024-10-20 04:34:00`|`Other Games`|
