@@ -29,9 +29,11 @@
 |1|[Shika 5&#46;1&#46;0&#46;1&#45;stable Patch released&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47304)|`2024-10-21 05:12:44`|
 |0|[dsound&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47296)|`2024-10-21 05:12:44`|
 |1|[ioctl base driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47309)|`2024-10-21 05:56:51`|
+|1|[Prime Clicker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47302)|`2024-10-21 06:11:21`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple AutoClicker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-software/667765-simple-autoclicker.html)|`2024-10-21 06:03:00`|`Other Software`|
 |[R6 is finally taking action?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/666942-r6-finally-taking-action.html)|`2024-10-21 05:56:00`|`Rainbow Six Siege`|
 |[DMA with flipper zero](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/667302-dma-flipper-zero.html)|`2024-10-21 05:56:00`|`PC Hardware`|
 |[Duckman  / fix&#45;skill&#45;issue Linux version HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/667885-duckman-fix-skill-issue-linux-version-help.html)|`2024-10-21 05:55:00`|`Apex Legends`|
