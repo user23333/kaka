@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Duckside Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/641922-duckside-reversal-structs-offsets.html)|`2024-10-21 01:49:00`|`Other FPS Games`|
+|[cs 2 new arrays someone share?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667835-cs-2-arrays-share.html)|`2024-10-21 01:48:00`|`Counter-Strike 2`|
+|[Getting UnityPlayer pdb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/667554-getting-unityplayer-pdb.html)|`2024-10-21 01:43:00`|`Rust`|
 |[FragPunk Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/666506-fragpunk-reversal-structs-offsets.html)|`2024-10-21 01:33:00`|`Other FPS Games`|
 |[is there any rng modifiers for payday 3 if not who can make one](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/667686-rng-modifiers-payday-3-a.html)|`2024-10-21 01:32:00`|`Payday 3`|
 |[Account farming](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/667730-account-farming.html)|`2024-10-21 01:11:00`|`PUBG Mobile`|
