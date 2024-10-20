@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rage miss](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667836-rage-miss.html)|`2024-10-21 02:09:00`|`Counter-Strike 2`|
+|[seo64 Updated Sigs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/667016-seo64-updated-sigs.html)|`2024-10-21 02:00:00`|`Team Fortress 2`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2024-10-21 01:54:00`|`Counter-Strike 2 Releases`|
 |[can someone run me a few lobbies for max medal max level and samples](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/650976-run-lobbies-max-medal-max-level-samples.html)|`2024-10-21 01:53:00`|`HELLDIVERS 2`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-10-21 01:52:00`|`Rust`|
