@@ -34,9 +34,13 @@
 |3|[Pixel Strike 3D Hack &#40;2024&#41; v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47288)|`2024-10-20 05:14:41`|
 |2|[ValoBanBeGone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47300)|`2024-10-20 07:53:14`|
 |1|[ValoGen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47306)|`2024-10-20 20:51:41`|
+|1|[AIOCln](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47301)|`2024-10-20 21:11:26`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hitbox triggerbot not shooting in a match](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667648-hitbox-triggerbot-shooting-match.html)|`2024-10-20 21:06:00`|`Counter-Strike 2`|
+|[CS2 Bomb Timer Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667664-cs2-bomb-timer-python.html)|`2024-10-20 20:57:00`|`Counter-Strike 2`|
+|[Planetside 2 cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/643223-planetside-2-cheating.html)|`2024-10-20 20:52:00`|`PlanetSide 2`|
 |[How to actually work with EAC&#45;Secured Games, How to write UD drivers without cert?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/667752-actually-eac-secured-games-write-ud-drivers-cert.html)|`2024-10-20 20:46:00`|`Forum General`|
 |[Patience &#45; An External Linux Cheat &#91;Overlay/CLI&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/648832-patience-external-linux-cheat-overlay-cli.html)|`2024-10-20 20:05:00`|`Apex Legends`|
 |[Strinova Pixel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/643727-strinova-pixel.html)|`2024-10-20 19:49:00`|`Other FPS Games`|
