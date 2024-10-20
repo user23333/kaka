@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Speedi13 Trainer Fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/497810-speedi13-trainer-fixed.html)|`2024-10-20 22:59:00`|`Battlefield 1`|
 |[Weapon Name returning invalid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667760-weapon-name-returning-invalid.html)|`2024-10-20 22:48:00`|`Counter-Strike 2`|
 |[MWIII DMA Basic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/619202-mwiii-dma-basic.html)|`2024-10-20 22:27:00`|`Call of Duty: Modern Warfare III`|
 |[&#91;Help&#93; When dma is running I have no game audio](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/667442-help-dma-running-game-audio.html)|`2024-10-20 22:20:00`|`PC Hardware`|
