@@ -36,19 +36,19 @@ def update_cache():
 
     filter = set(thread["link"] for thread in cache["hottest"])
     for thread in block["hottest"]:
-        if not thread["link"] in filter:
+        if thread["link"] not in filter:
             print("hottest new thread: %(date)s %(title)s" % thread)
             cache["hottest"].append(thread)
 
     filter = set(thread["link"] for thread in cache["files"])
     for thread in block["files"]:
-        if not thread["link"] in filter:
+        if thread["link"] not in filter:
             print("files new thread: %(date)s %(title)s" % thread)
             cache["files"].append(thread)
 
     filter = set(thread["link"] for thread in cache["latest"])
     for thread in reversed(block["latest"]):
-        if not thread["link"] in filter:
+        if thread["link"] not in filter:
             print("latest new thread: %(date)s %(title)s" % thread)
             cache["latest"].insert(0, thread)
 
