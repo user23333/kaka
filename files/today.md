@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino Serial Communication suspicious?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667749-arduino-serial-communication-suspicious.html)|`2024-10-20 19:43:00`|`Valorant`|
+|[Drawing ESP externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665694-drawing-esp-externally.html)|`2024-10-20 19:43:00`|`Counter-Strike 2`|
 |[The old DKOM is back&#46; Say whatever you want&#46; I've verified it&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/573441-dkom-whatever-ive-verified.html)|`2024-10-20 19:18:00`|`Anti-Cheat Bypass`|
 |[All accounts I log into are banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/667635-accounts-log-banned.html)|`2024-10-20 18:30:00`|`League of Legends`|
 |[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2024-10-20 17:46:00`|`Other FPS Games`|
