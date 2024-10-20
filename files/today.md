@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[reversing esx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/667159-reversing-esx.html)|`2024-10-21 04:37:00`|`Alternative Online Mods`|
+|[Liar's Bar Cheats bullet trick?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667850-liars-bar-cheats-bullet-trick.html)|`2024-10-21 04:20:00`|`Other Games`|
 |[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-10-21 04:30:00`|`Counter-Strike 2`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-10-21 04:30:00`|`Playerunknown's Battlegrounds`|
 |[Rigel &#45; Better draw and colors for health/ult and some strings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/666429-rigel-draw-colors-health-ult-strings.html)|`2024-10-21 04:11:00`|`Overwatch`|
