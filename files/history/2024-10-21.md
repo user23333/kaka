@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ricochet signature scan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667866-ricochet-signature-scan.html)|`2024-10-21 07:05:00`|`Anti-Cheat Bypass`|
+|[Call of Duty: Modern Warfare III Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/605287-call-duty-modern-warfare-iii-reversal-structs-offsets.html)|`2024-10-21 07:03:00`|`Call of Duty: Modern Warfare III`|
+|[Anti&#45;tamper reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667890-anti-tamper-reversal.html)|`2024-10-21 07:00:00`|`Counter-Strike 2`|
 |[Dead by Daylight &#45; Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625318-dead-daylight-unlock-dlcs-skins.html)|`2024-10-21 06:53:00`|`Other FPS Games`|
 |[Got Banned in R6S &#45; Need Some Advice on HWID Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/667889-banned-r6s-advice-hwid-ban.html)|`2024-10-21 06:35:00`|`Rainbow Six Siege`|
 |[Chams materials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666662-chams-materials.html)|`2024-10-21 06:32:00`|`Counter-Strike 2`|
