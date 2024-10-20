@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2024-10-20 14:20:00`|`Unity`|
+|[Plutonium Automatic Spoofer &#40;SRC&#41; by Germanized &#40;me&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/667187-plutonium-automatic-spoofer-src-germanized.html)|`2024-10-20 14:03:00`|`Call of Duty: Black Ops 2`|
 |[Titanfall 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/191976-titanfall-2-reversal-structs-offsets.html)|`2024-10-20 13:57:00`|`Titanfall`|
 |[Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/594518-triggerbot.html)|`2024-10-20 13:53:00`|`Overwatch`|
 |[Re&#45;creating uedumper using dma&#46; Some questions&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/663818-re-creating-uedumper-using-dma-questions.html)|`2024-10-20 13:36:00`|`Unreal Engine 4`|
