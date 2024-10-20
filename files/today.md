@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;DMA&#93; CR3 Bypass By Fixing DTB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/600875-dma-cr3-bypass-fixing-dtb.html)|`2024-10-21 03:52:00`|`Anti-Cheat Bypass`|
+|[Logitech FiveM Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/667845-logitech-fivem-macro.html)|`2024-10-21 03:47:00`|`Alternative Online Mods`|
+|[&#91;Updated&#93; Dead by Daylight Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/635513-updated-dead-daylight-unlock-dlcs-skins.html)|`2024-10-21 03:46:00`|`Other FPS Games`|
+|[How to make your hooks work again](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/663786-hooks.html)|`2024-10-21 03:45:00`|`Combat Master`|
 |[Help Needed: Crash When Using Function to Get Bone Position&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/667844-help-crash-using-function-bone-position.html)|`2024-10-21 03:35:00`|`PUBG Mobile`|
 |[Glow Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/666381-glow-help.html)|`2024-10-21 03:27:00`|`Apex Legends`|
 |[Do you get unbanned even after getting banned multilple times?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667345-unbanned-getting-banned-multilple-times.html)|`2024-10-21 03:24:00`|`Valorant`|
