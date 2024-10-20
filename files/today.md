@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MWIII DMA Basic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/619202-mwiii-dma-basic.html)|`2024-10-20 22:27:00`|`Call of Duty: Modern Warfare III`|
 |[&#91;Help&#93; When dma is running I have no game audio](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/667442-help-dma-running-game-audio.html)|`2024-10-20 22:20:00`|`PC Hardware`|
 |[Is Zeebler &#91;PO&#93; Really A Activision Mole?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/666145-zeebler-po-activision-mole.html)|`2024-10-20 22:17:00`|`Call of Duty: Modern Warfare III`|
 |[Anybody know any League of legends script?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/660101-league-legends-script.html)|`2024-10-20 22:12:00`|`League of Legends`|
