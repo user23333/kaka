@@ -38,6 +38,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple AutoClicker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-software/667765-simple-autoclicker.html)|`2024-10-20 23:10:00`|`Other Software`|
+|[Nvidia leaked code/driver cert](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/491501-nvidia-leaked-code-driver-cert.html)|`2024-10-20 23:09:00`|`Anti-Cheat Bypass`|
+|[reversing esx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/667159-reversing-esx.html)|`2024-10-20 23:07:00`|`Alternative Online Mods`|
+|[How to get item ids](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/667764-item-ids.html)|`2024-10-20 23:04:00`|`General Programming and Reversing`|
+|[CraftRise Client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/658457-craftrise-client.html)|`2024-10-20 23:01:00`|`Minecraft`|
 |[Speedi13 Trainer Fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/497810-speedi13-trainer-fixed.html)|`2024-10-20 22:59:00`|`Battlefield 1`|
 |[Weapon Name returning invalid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667760-weapon-name-returning-invalid.html)|`2024-10-20 22:48:00`|`Counter-Strike 2`|
 |[MWIII DMA Basic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/619202-mwiii-dma-basic.html)|`2024-10-20 22:27:00`|`Call of Duty: Modern Warfare III`|
