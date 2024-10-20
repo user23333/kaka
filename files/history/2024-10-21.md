@@ -26,9 +26,17 @@
 |21|[DBD Rules 8&#46;3&#46;1 &#45; Haunted by Daylight Event](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47278)|`2024-10-21 00:20:00`|
 |5|[Liar's Bar Edit Level &#45; Rank&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47308)|`2024-10-21 02:57:52`|
 |1|[BatchFileEncryptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47303)|`2024-10-21 02:57:52`|
+|1|[Shika 5&#46;1&#46;0&#46;1&#45;stable Patch released&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47304)|`2024-10-21 05:12:44`|
+|0|[dsound&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47296)|`2024-10-21 05:12:44`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Genshin İmpact Shika Cheat 5&#46;0&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/660051-genshin-mpact-shika-cheat-5-0-0-1-a.html)|`2024-10-21 05:10:00`|`Genshin Impact`|
+|[&#91;Partial&#93; 5irT &#45; FiveM/RedM streaming files dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/653007-partial-5irt-fivem-redm-streaming-files-dumper.html)|`2024-10-21 05:09:00`|`Alternative Online Mods`|
+|[Mercy AI &#40;Pocket AI Assistant&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/638038-mercy-ai-pocket-ai-assistant.html)|`2024-10-21 05:09:00`|`Overwatch`|
+|[Strinova Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667041-strinova-reversal-structs-offsets.html)|`2024-10-21 05:07:00`|`Other FPS Games`|
+|[CS2 Free External Multi Cheat &#35; AIMBOT / RCS / ESP / MISC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/666738-cs2-free-external-multi-cheat-aimbot-rcs-esp-misc.html)|`2024-10-21 05:02:00`|`Counter-Strike 2 Releases`|
+|[You can no longer patch ScripthookV for online mode? &#40;eCoreTerminatin was removed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667634-patch-scripthookv-online-mode-ecoreterminatin-removed.html)|`2024-10-21 05:02:00`|`Grand Theft Auto V`|
 |[Modulation &#40;World, Props, Lights, Sun/clouds&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/658539-modulation-world-props-lights-sun-clouds.html)|`2024-10-21 04:49:00`|`Counter-Strike 2`|
 |[helpers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667837-helpers.html)|`2024-10-21 04:47:00`|`Counter-Strike 2`|
 |[Get NetEvents](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/667736-netevents.html)|`2024-10-21 04:42:00`|`Alternative Online Mods`|
