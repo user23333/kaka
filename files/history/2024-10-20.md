@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667739-internal-aimbot.html)|`2024-10-20 15:30:00`|`Counter-Strike 2`|
 |[Any Genius Bot Maker Want to Solve This Puzzle? :thinking:](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/667265-genius-bot-maker-solve-puzzle-thinking.html)|`2024-10-20 15:09:00`|`Other MMORPG and Strategy`|
 |[Visibility Check External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/667051-visibility-check-external.html)|`2024-10-20 14:54:00`|`Alternative Online Mods`|
 |[SkechWare CS2 Free External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/639949-skechware-cs2-free-external-cheat.html)|`2024-10-20 14:47:00`|`Counter-Strike 2 Releases`|
