@@ -24,9 +24,15 @@
 |194|[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47283)|`2024-10-21 00:20:00`|
 |23|[ SoT 3&#46;2 Dump &#40;season 14&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47280)|`2024-10-21 00:20:00`|
 |21|[DBD Rules 8&#46;3&#46;1 &#45; Haunted by Daylight Event](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47278)|`2024-10-21 00:20:00`|
+|5|[Liar's Bar Edit Level &#45; Rank&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47308)|`2024-10-21 02:57:52`|
+|1|[BatchFileEncryptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47303)|`2024-10-21 02:57:52`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Batch Encypting Program Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-software/667319-batch-encypting-program-python.html)|`2024-10-21 02:56:00`|`Other Software`|
+|[Strinova aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/650858-strinova-aimbot.html)|`2024-10-21 02:52:00`|`Other FPS Games`|
+|[Liar's Bar Edit Level &#45; Rank](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667689-liars-bar-edit-level-rank.html)|`2024-10-21 02:45:00`|`Other Games`|
+|[Simple Log Cleaner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/667715-simple-log-cleaner.html)|`2024-10-21 02:43:00`|`PC Software`|
 |[theHunter: Call of the Wild Internal Radar, ESP, & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644365-thehunter-call-wild-internal-radar-esp.html)|`2024-10-21 02:41:00`|`Other FPS Games`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2024-10-21 02:37:00`|`Overwatch`|
 |[arena breakout infinite  injecting  / ac bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667839-arena-breakout-infinite-injecting-ac-bypass.html)|`2024-10-21 02:36:00`|`Other FPS Games`|
