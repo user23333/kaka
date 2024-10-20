@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2024-10-21 02:18:00`|`Counter-Strike 2`|
+|[Weapon Name returning invalid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667760-weapon-name-returning-invalid.html)|`2024-10-21 02:18:00`|`Counter-Strike 2`|
+|[injector for mw3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/666850-injector-mw3.html)|`2024-10-21 02:07:00`|`Call of Duty: Modern Warfare III`|
+|[R&#42; has just broken the Yim patch for battleye and changed crossmaping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666988-broken-yim-patch-battleye-changed-crossmaping.html)|`2024-10-21 02:03:00`|`Grand Theft Auto V`|
+|[How to actually work with EAC&#45;Secured Games, How to write UD drivers without cert?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/667752-actually-eac-secured-games-write-ud-drivers-cert.html)|`2024-10-21 01:54:00`|`Forum General`|
 |[Rage miss](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667836-rage-miss.html)|`2024-10-21 02:09:00`|`Counter-Strike 2`|
 |[seo64 Updated Sigs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/667016-seo64-updated-sigs.html)|`2024-10-21 02:00:00`|`Team Fortress 2`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2024-10-21 01:54:00`|`Counter-Strike 2 Releases`|
