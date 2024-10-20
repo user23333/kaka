@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Making ImGui menu on external overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667755-imgui-menu-external-overlay.html)|`2024-10-21 04:07:00`|`Counter-Strike 2`|
+|[win11 24h2 hollowing process error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/667623-win11-24h2-hollowing-process-error.html)|`2024-10-21 04:01:00`|`General Programming and Reversing`|
 |[&#91;DMA&#93; CR3 Bypass By Fixing DTB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/600875-dma-cr3-bypass-fixing-dtb.html)|`2024-10-21 03:52:00`|`Anti-Cheat Bypass`|
 |[Logitech FiveM Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/667845-logitech-fivem-macro.html)|`2024-10-21 03:47:00`|`Alternative Online Mods`|
 |[&#91;Updated&#93; Dead by Daylight Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/635513-updated-dead-daylight-unlock-dlcs-skins.html)|`2024-10-21 03:46:00`|`Other FPS Games`|
