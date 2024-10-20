@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Alcatraz &#45; x64 binary obfuscator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/565486-alcatraz-x64-binary-obfuscator.html)|`2024-10-20 21:43:00`|`Anti-Cheat Bypass`|
 |[Making ImGui menu on external overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667755-imgui-menu-external-overlay.html)|`2024-10-20 21:15:00`|`Counter-Strike 2`|
 |[Hitbox triggerbot not shooting in a match](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667648-hitbox-triggerbot-shooting-match.html)|`2024-10-20 21:06:00`|`Counter-Strike 2`|
 |[CS2 Bomb Timer Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667664-cs2-bomb-timer-python.html)|`2024-10-20 20:57:00`|`Counter-Strike 2`|
