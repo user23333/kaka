@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-10-20 23:17:00`|`Escape from Tarkov`|
 |[Simple AutoClicker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-software/667765-simple-autoclicker.html)|`2024-10-20 23:10:00`|`Other Software`|
 |[Nvidia leaked code/driver cert](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/491501-nvidia-leaked-code-driver-cert.html)|`2024-10-20 23:09:00`|`Anti-Cheat Bypass`|
 |[reversing esx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/667159-reversing-esx.html)|`2024-10-20 23:07:00`|`Alternative Online Mods`|
