@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Account farming](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/667730-account-farming.html)|`2024-10-20 13:33:00`|`PUBG Mobile`|
+|[Valorant Acc Gen By Darthsaint0088/Germanized](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667728-valorant-acc-gen-darthsaint0088-germanized.html)|`2024-10-20 13:27:00`|`Valorant`|
 |[1920x1080 External ESP w/ auto&#45;updating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666996-1920x1080-external-esp-auto-updating.html)|`2024-10-20 13:21:00`|`Counter-Strike 2`|
 |[my esp is too slow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/667726-esp-slow.html)|`2024-10-20 13:12:00`|`Apex Legends`|
 |[Glow Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/666381-glow-help.html)|`2024-10-20 13:08:00`|`Apex Legends`|
