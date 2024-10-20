@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Got Banned in R6S &#45; Need Some Advice on HWID Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/667889-banned-r6s-advice-hwid-ban.html)|`2024-10-21 06:35:00`|`Rainbow Six Siege`|
+|[Chams materials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666662-chams-materials.html)|`2024-10-21 06:32:00`|`Counter-Strike 2`|
 |[Simple AutoClicker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-software/667765-simple-autoclicker.html)|`2024-10-21 06:03:00`|`Other Software`|
 |[R6 is finally taking action?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/666942-r6-finally-taking-action.html)|`2024-10-21 05:56:00`|`Rainbow Six Siege`|
 |[DMA with flipper zero](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/667302-dma-flipper-zero.html)|`2024-10-21 05:56:00`|`PC Hardware`|
