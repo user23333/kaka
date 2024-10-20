@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FragPunk Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/666506-fragpunk-reversal-structs-offsets.html)|`2024-10-21 01:33:00`|`Other FPS Games`|
+|[is there any rng modifiers for payday 3 if not who can make one](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/667686-rng-modifiers-payday-3-a.html)|`2024-10-21 01:32:00`|`Payday 3`|
 |[Account farming](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/667730-account-farming.html)|`2024-10-21 01:11:00`|`PUBG Mobile`|
 |[MWIII DMA Basic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/619202-mwiii-dma-basic.html)|`2024-10-21 01:11:00`|`Call of Duty: Modern Warfare III`|
 |[Ban bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667671-ban-bypass.html)|`2024-10-21 01:01:00`|`Grand Theft Auto V`|
