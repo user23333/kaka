@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[COMBAT MASTER &#124; ESP / AIMBOT & MORE &#40;March 2024&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/627935-combat-master-esp-aimbot-march-2024-a.html)|`2024-10-20 15:41:00`|`Combat Master`|
+|[Town of Salem 2 &#45; Role selector and Freeroam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/586190-town-salem-2-role-selector-freeroam.html)|`2024-10-20 15:38:00`|`Other MMORPG and Strategy`|
 |[Internal aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667739-internal-aimbot.html)|`2024-10-20 15:30:00`|`Counter-Strike 2`|
 |[Any Genius Bot Maker Want to Solve This Puzzle? :thinking:](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/667265-genius-bot-maker-solve-puzzle-thinking.html)|`2024-10-20 15:09:00`|`Other MMORPG and Strategy`|
 |[Visibility Check External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/667051-visibility-check-external.html)|`2024-10-20 14:54:00`|`Alternative Online Mods`|
