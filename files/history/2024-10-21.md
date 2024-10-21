@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to fix Triggerbot without needing to swap keys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/656742-fix-triggerbot-swap-keys.html)|`2024-10-21 15:55:00`|`Valorant`|
 |[Mouse AIM ASSIST &#40;controller emu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653697-mouse-aim-assist-controller-emu.html)|`2024-10-21 15:45:00`|`Call of Duty: Black Ops 6`|
 |[How To Disable The Battle Eye Anti&#45;Cheat and Load Money  into Your Accounts?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667932-disable-battle-eye-anti-cheat-load-money-accounts.html)|`2024-10-21 15:11:00`|`Grand Theft Auto V`|
 |[HWID, IP & GUID bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/667826-hwid-ip-guid-bans.html)|`2024-10-21 14:24:00`|`Battlefield 4`|
