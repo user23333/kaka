@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2024-10-22 00:59:00`|`Overwatch`|
+|[Strinova aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/650858-strinova-aimbot.html)|`2024-10-22 00:58:00`|`Other FPS Games`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2024-10-22 00:56:00`|`Counter-Strike 2`|
+|[zap&#45;client &#91;Legitbot, Ragebot, Glow, ESP & More&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/628823-zap-client-legitbot-ragebot-glow-esp.html)|`2024-10-22 00:55:00`|`Apex Legends`|
 |[VGK FW SOURCE &#40;WORKING LATEST PATCH&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667102-vgk-fw-source-patch.html)|`2024-10-22 00:53:00`|`Valorant`|
 |[MW19 GSC Mod Menu for Retail &#40;Free version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/667737-mw19-gsc-mod-menu-retail-free-version.html)|`2024-10-22 00:44:00`|`Call of Duty: Modern Warfare`|
 |[Does R6 hardware id ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/639127-r6-hardware-id-ban.html)|`2024-10-22 00:39:00`|`Rainbow Six Siege`|
