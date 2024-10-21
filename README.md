@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Drawing ESP externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665694-drawing-esp-externally.html)|`2024-10-21 13:57:00`|`Counter-Strike 2`|
 |[Bad entity list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667925-bad-entity-list.html)|`2024-10-21 13:20:00`|`Counter-Strike 2`|
 |[Updating Patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667831-updating-patterns.html)|`2024-10-21 12:30:00`|`Counter-Strike 2`|
 |[About the Recent "Banwave"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/663648-recent-banwave.html)|`2024-10-21 12:23:00`|`Genshin Impact`|
