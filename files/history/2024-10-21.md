@@ -40,6 +40,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dragon Ball SPARKING ZERO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/666057-dragon-ball-sparking-zero.html)|`2024-10-21 22:02:00`|`Other Games`|
+|[DayZ Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/639749-dayz-dumper.html)|`2024-10-21 21:58:00`|`DayZ SA`|
 |[IDA PRO &#124; My IDA dont want to fully analyze&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/667269-ida-pro-ida-dont-analyze.html)|`2024-10-21 21:47:00`|`General Programming and Reversing`|
 |[pubg mobile 3&#46;4 bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/667939-pubg-mobile-3-4-bypass.html)|`2024-10-21 21:47:00`|`PUBG Mobile`|
 |[L4D2 Perfect NoSpread in non zero ping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667960-l4d2-perfect-nospread-zero-ping.html)|`2024-10-21 21:45:00`|`Other FPS Games`|
