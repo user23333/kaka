@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Updating Patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667831-updating-patterns.html)|`2024-10-21 12:30:00`|`Counter-Strike 2`|
+|[About the Recent "Banwave"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/663648-recent-banwave.html)|`2024-10-21 12:23:00`|`Genshin Impact`|
 |[nbot rce options greyed out](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/667923-nbot-rce-options-greyed.html)|`2024-10-21 12:19:00`|`Call of Duty: Modern Warfare 3`|
 |[not able to play heists with yim?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666613-able-play-heists-yim.html)|`2024-10-21 12:17:00`|`Grand Theft Auto V`|
 |[How to inject DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/667359-inject-dll.html)|`2024-10-21 12:11:00`|`Garry's Mod`|
