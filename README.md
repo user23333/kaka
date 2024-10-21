@@ -17,6 +17,7 @@
 |7|[If you detected using kiddions mod, your character will change to mini tank](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667068-detected-using-kiddions-mod-character-change-mini-tank.html)|`2024-10-21 10:35:15`|`grand-theft-auto-v`|
 |14|[Triggerbot patch Bypass for Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667460-triggerbot-patch-bypass-python.html)|`2024-10-21 11:07:11`|`valorant`|
 |12|[Liar's Bar Edit Level &#45; Rank](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667689-liars-bar-edit-level-rank.html)|`2024-10-21 17:59:46`|`other-games`|
+|11|[The Truth Bar Menu &#45; V0&#46;1 &#124; Liar's bar internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667906-truth-bar-menu-v0-1-liars-bar-internal-cheat.html)|`2024-10-21 22:59:00`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
