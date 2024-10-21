@@ -40,6 +40,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mouse connected with Arduino USB Host Shield is not working on my other PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667200-mouse-connected-arduino-usb-host-shield-pc.html)|`2024-10-21 19:20:00`|`Valorant`|
+|[Call of Duty Options Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/666858-call-duty-options-editor.html)|`2024-10-21 19:14:00`|`Call of Duty: Modern Warfare III`|
 |[BincoHaX for 1&#46;69 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/250308-bincohax-1-69-external.html)|`2024-10-21 18:51:00`|`Grand Theft Auto V`|
 |[Draw Scene](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667945-draw-scene.html)|`2024-10-21 18:14:00`|`Counter-Strike 2`|
 |[Man, I'm just sick of this&#46; :](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667415-im-sick.html)|`2024-10-21 18:12:00`|`Grand Theft Auto V`|
