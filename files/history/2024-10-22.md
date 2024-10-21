@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MW19 GSC Mod Menu for Retail &#40;Free version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/667737-mw19-gsc-mod-menu-retail-free-version.html)|`2024-10-22 00:44:00`|`Call of Duty: Modern Warfare`|
+|[Does R6 hardware id ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/639127-r6-hardware-id-ban.html)|`2024-10-22 00:39:00`|`Rainbow Six Siege`|
+|[R6 is finally taking action?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/666942-r6-finally-taking-action.html)|`2024-10-22 00:38:00`|`Rainbow Six Siege`|
+|[pubg mobile 3&#46;4 bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/667939-pubg-mobile-3-4-bypass.html)|`2024-10-22 00:36:00`|`PUBG Mobile`|
+|[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2024-10-22 00:34:00`|`Elite: Dangerous`|
 |[Drawing ESP externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665694-drawing-esp-externally.html)|`2024-10-22 00:31:00`|`Counter-Strike 2`|
 |[L4D2 Perfect NoSpread in non zero ping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667960-l4d2-perfect-nospread-zero-ping.html)|`2024-10-22 00:29:00`|`Other FPS Games`|
 |[YimMenu &#91;1&#46;69 &#45; b3337&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3337.html)|`2024-10-22 00:28:00`|`Grand Theft Auto V`|
