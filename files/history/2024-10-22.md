@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Drawing ESP externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665694-drawing-esp-externally.html)|`2024-10-22 00:31:00`|`Counter-Strike 2`|
+|[L4D2 Perfect NoSpread in non zero ping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667960-l4d2-perfect-nospread-zero-ping.html)|`2024-10-22 00:29:00`|`Other FPS Games`|
+|[YimMenu &#91;1&#46;69 &#45; b3337&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3337.html)|`2024-10-22 00:28:00`|`Grand Theft Auto V`|
+|[Off The Grid Internal &#40;Aimbot, ESP, Exploits&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667656-grid-internal-aimbot-esp-exploits.html)|`2024-10-22 00:27:00`|`Other FPS Games`|
+|[Saving store items as blueprints](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/667756-saving-store-items-blueprints.html)|`2024-10-22 00:25:00`|`Call of Duty: Modern Warfare`|
+|[Any new info on anticheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/667984-info-anticheat.html)|`2024-10-22 00:24:00`|`Battlefield 1`|
+|[any new save file method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/667983-save-file-method.html)|`2024-10-22 00:23:00`|`Rainbow Six Siege`|
+|[1920x1080 External ESP w/ auto&#45;updating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666996-1920x1080-external-esp-auto-updating.html)|`2024-10-22 00:21:00`|`Counter-Strike 2`|
 |[Linux Dualboot Cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/667896-linux-dualboot-cheats.html)|`2024-10-22 00:07:00`|`Apex Legends`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2024-10-22 00:05:00`|`Apex Legends`|
 |[Arduino ApexCV simple magnet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/667959-arduino-apexcv-simple-magnet.html)|`2024-10-22 00:04:00`|`Apex Legends`|
