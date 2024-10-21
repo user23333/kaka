@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Paladins Multihack – Esp, Aimbot, Miscs &#91;Modified Odin V4&#46;2&#46;1&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/666945-paladins-multihack-esp-aimbot-miscs-modified-odin-v4-2-1-a.html)|`2024-10-21 16:10:00`|`Paladins`|
+|[Read/Write Kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667935-read-write-kernel.html)|`2024-10-21 16:01:00`|`Anti-Cheat Bypass`|
 |[How to fix Triggerbot without needing to swap keys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/656742-fix-triggerbot-swap-keys.html)|`2024-10-21 15:55:00`|`Valorant`|
 |[Mouse AIM ASSIST &#40;controller emu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653697-mouse-aim-assist-controller-emu.html)|`2024-10-21 15:45:00`|`Call of Duty: Black Ops 6`|
 |[How To Disable The Battle Eye Anti&#45;Cheat and Load Money  into Your Accounts?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667932-disable-battle-eye-anti-cheat-load-money-accounts.html)|`2024-10-21 15:11:00`|`Grand Theft Auto V`|
