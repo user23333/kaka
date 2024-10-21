@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Emulate Keyboard presses with Raspberry Pi 4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/660620-emulate-keyboard-presses-raspberry-pi-4-a.html)|`2024-10-21 23:50:00`|`Anti-Cheat Bypass`|
 |[is there aimbot detection?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667978-aimbot-detection.html)|`2024-10-21 23:43:00`|`Valorant`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2024-10-21 23:38:00`|`Other FPS Games`|
 |[Bodycam Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640993-bodycam-reversal-structs-offsets.html)|`2024-10-21 23:37:00`|`Other FPS Games`|
