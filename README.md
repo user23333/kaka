@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dragon Ball SPARKING ZERO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/666057-dragon-ball-sparking-zero.html)|`2024-10-22 07:50:00`|`Other Games`|
 |[How To Disable The Battle Eye Anti&#45;Cheat and Load Money  into Your Accounts?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667932-disable-battle-eye-anti-cheat-load-money-accounts.html)|`2024-10-22 07:43:00`|`Grand Theft Auto V`|
 |[ISO &#45; Open Source Kernel PE Dumper / Reconstruction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/668038-iso-source-kernel-pe-dumper-reconstruction.html)|`2024-10-22 07:43:00`|`General Programming and Reversing`|
 |[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-10-22 07:40:00`|`Counter-Strike 2`|
