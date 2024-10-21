@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VGK FW SOURCE &#40;WORKING LATEST PATCH&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667102-vgk-fw-source-patch.html)|`2024-10-22 00:53:00`|`Valorant`|
 |[MW19 GSC Mod Menu for Retail &#40;Free version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/667737-mw19-gsc-mod-menu-retail-free-version.html)|`2024-10-22 00:44:00`|`Call of Duty: Modern Warfare`|
 |[Does R6 hardware id ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/639127-r6-hardware-id-ban.html)|`2024-10-22 00:39:00`|`Rainbow Six Siege`|
 |[R6 is finally taking action?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/666942-r6-finally-taking-action.html)|`2024-10-22 00:38:00`|`Rainbow Six Siege`|
