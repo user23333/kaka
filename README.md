@@ -14,6 +14,7 @@
 |18|[Deadlock offset dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/666743-deadlock-offset-dumper.html)|`2024-10-21 06:57:11`|`deadlock`|
 |4|[Sea of thieves Season 13 FOV Slider, nosprint, and other cheats&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/666750-sea-thieves-season-13-fov-slider-nosprint-cheats.html)|`2024-10-21 09:19:31`|`sea-of-thieves`|
 |12|[Shit Py Spoofer I Made](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667673-shit-py-spoofer.html)|`2024-10-21 09:19:31`|`valorant`|
+|7|[If you detected using kiddions mod, your character will change to mini tank](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667068-detected-using-kiddions-mod-character-change-mini-tank.html)|`2024-10-21 10:35:15`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -36,6 +37,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sai's Color Aimbot v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/659687-sais-color-aimbot-v2.html)|`2024-10-21 09:54:00`|`Call of Duty: Modern Warfare III`|
+|[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2024-10-21 09:42:00`|`Other Games`|
+|[First Aim Assist Python Project &#45; Looking for Insights and Suggestions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667907-aim-assist-python-project-looking-insights-suggestions.html)|`2024-10-21 09:27:00`|`Valorant`|
+|[Jitter Aim for Controller and MnK after patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662259-jitter-aim-controller-mnk-patch.html)|`2024-10-21 09:25:00`|`Apex Legends`|
 |[Pixel Strike 3D Hack &#40;2024&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662658-pixel-strike-3d-hack-2024-a.html)|`2024-10-21 09:18:00`|`Other FPS Games`|
 |[BannleEye &#45; Banning arbitrary players using BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667333-bannleeye-banning-arbitrary-players-using.html)|`2024-10-21 09:10:00`|`Anti-Cheat Bypass`|
 |[The Truth Bar Menu &#45; V0&#46;1 &#124; Liar's bar internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667906-truth-bar-menu-v0-1-liars-bar-internal-cheat.html)|`2024-10-21 09:07:00`|`Other Games`|
