@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help fix bans on 5/10/30 Minutes&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/668014-help-fix-bans-5-10-30-minutes.html)|`2024-10-22 05:16:00`|`PUBG Mobile`|
+|[Gmod&#45;SDK FIXED &#40;FULL WORKING 15/10/24&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/667003-gmod-sdk-fixed-15-10-24-a.html)|`2024-10-22 05:13:00`|`Garry's Mod`|
+|[What cheats rn?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/657707-cheats-rn.html)|`2024-10-22 05:11:00`|`Garry's Mod`|
 |[Crossfire West cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/666574-crossfire-west-cheat.html)|`2024-10-22 04:52:00`|`CrossFire`|
 |[TriggerBot &#43; AimAssist Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/657777-triggerbot-aimassist-source.html)|`2024-10-22 04:46:00`|`Valorant`|
 |[Lockdown Protocol Cheat Table v0&#46;1&#46;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/659299-lockdown-protocol-cheat-table-v0-1-26-a.html)|`2024-10-22 04:32:00`|`Other Games`|
