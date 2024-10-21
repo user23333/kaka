@@ -12,6 +12,8 @@
 |16|[Man, I'm just sick of this&#46; :](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667415-im-sick.html)|`2024-10-21 00:20:00`|`grand-theft-auto-v`|
 |21|[seo64 Updated Sigs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/667016-seo64-updated-sigs.html)|`2024-10-21 00:20:00`|`team-fortress-2-a`|
 |18|[Deadlock offset dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/666743-deadlock-offset-dumper.html)|`2024-10-21 06:57:11`|`deadlock`|
+|4|[Sea of thieves Season 13 FOV Slider, nosprint, and other cheats&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/666750-sea-thieves-season-13-fov-slider-nosprint-cheats.html)|`2024-10-21 09:19:31`|`sea-of-thieves`|
+|12|[Shit Py Spoofer I Made](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667673-shit-py-spoofer.html)|`2024-10-21 09:19:31`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pixel Strike 3D Hack &#40;2024&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662658-pixel-strike-3d-hack-2024-a.html)|`2024-10-21 09:18:00`|`Other FPS Games`|
+|[BannleEye &#45; Banning arbitrary players using BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667333-bannleeye-banning-arbitrary-players-using.html)|`2024-10-21 09:10:00`|`Anti-Cheat Bypass`|
+|[The Truth Bar Menu &#45; V0&#46;1 &#124; Liar's bar internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667906-truth-bar-menu-v0-1-liars-bar-internal-cheat.html)|`2024-10-21 09:07:00`|`Other Games`|
+|[Want to make custom cheat, where do i start?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/667905-custom-cheat-start.html)|`2024-10-21 09:04:00`|`Team Fortress 2`|
+|[MmCopyMemory physical attempted write to readonly memory bluescreen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667687-mmcopymemory-physical-attempted-write-readonly-memory-bluescreen.html)|`2024-10-21 08:47:00`|`Anti-Cheat Bypass`|
 |[Linux Dualboot Cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/667896-linux-dualboot-cheats.html)|`2024-10-21 07:50:00`|`Apex Legends`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2024-10-21 07:20:00`|`Deadlock`|
 |[Ricochet signature scan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667866-ricochet-signature-scan.html)|`2024-10-21 07:05:00`|`Anti-Cheat Bypass`|
