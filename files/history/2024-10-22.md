@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DLL hook source that logs filenames from &#46;FF and &#46;PAK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-ghosts/668100-dll-hook-source-logs-filenames-ff-pak.html)|`2024-10-22 23:51:00`|`Call of Duty: Ghosts`|
+|[Anyone know if it's possible to edit your Overall Stats Data](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/661079-edit-overall-stats-data.html)|`2024-10-22 23:51:00`|`Escape from Tarkov`|
 |[Speedi13 Trainer Fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/497810-speedi13-trainer-fixed.html)|`2024-10-22 23:25:00`|`Battlefield 1`|
 |[PsCreateSystemThread/double](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/668098-pscreatesystemthread-double.html)|`2024-10-22 23:24:00`|`C and C++`|
 |[DMA DayZ Fuser ESP &#43; Radar Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/606723-dma-dayz-fuser-esp-radar-source-release.html)|`2024-10-22 23:22:00`|`DayZ SA`|
