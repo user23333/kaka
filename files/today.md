@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[OriginOTG &#45; Free Public Wallhacks/ESP for Off the Grid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667423-originotg-free-public-wallhacks-esp-grid.html)|`2024-10-23 04:41:00`|`Other FPS Games`|
+|[Skip Cluckin Bell preps&#33; Easy 500K](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666172-skip-cluckin-bell-preps-easy-500k.html)|`2024-10-23 04:36:00`|`Grand Theft Auto V`|
 |[Help Needed: Crash When Using Function to Get Bone Position&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/667844-help-crash-using-function-bone-position.html)|`2024-10-23 04:44:00`|`PUBG Mobile`|
 |[Sea of Thieves paks for FOV, no fog, and more&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/666959-sea-thieves-paks-fov-fog.html)|`2024-10-23 04:37:00`|`Sea of Thieves`|
 |[Crossfire West cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/666574-crossfire-west-cheat.html)|`2024-10-23 04:36:00`|`CrossFire`|
