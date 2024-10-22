@@ -11,6 +11,7 @@
 |23|[seo64 Updated Sigs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/667016-seo64-updated-sigs.html)|`2024-10-22 00:09:19`|`team-fortress-2-a`|
 |11|[The Truth Bar Menu &#45; V0&#46;1 &#124; Liar's bar internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667906-truth-bar-menu-v0-1-liars-bar-internal-cheat.html)|`2024-10-22 00:09:19`|`other-games`|
 |13|[Liar's Bar Edit Level &#45; Rank](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667689-liars-bar-edit-level-rank.html)|`2024-10-22 00:09:19`|`other-games`|
+|47|[Off The Grid Internal &#40;Aimbot, ESP, Exploits&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667656-grid-internal-aimbot-esp-exploits.html)|`2024-10-22 11:03:54`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Got Banned in R6S &#45; Need Some Advice on HWID Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/667889-banned-r6s-advice-hwid-ban.html)|`2024-10-22 10:46:00`|`Rainbow Six Siege`|
+|[How do i find exact value that dosen't change](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/664692-exact-value-dosent-change.html)|`2024-10-22 10:44:00`|`Forum General`|
+|[MW19 1&#46;20 cheat for MRON](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/658992-mw19-1-20-cheat-mron.html)|`2024-10-22 10:27:00`|`Call of Duty: Modern Warfare`|
 |[&#91;Reverse Engineering&#93; Trying to reverse engineer window creation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667473-reverse-engineering-trying-reverse-engineer-window-creation.html)|`2024-10-22 09:58:00`|`Anti-Cheat Bypass`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/183111-menu-showcase-thread.html)|`2024-10-22 09:56:00`|`Counterstrike Global Offensive`|
 |[How to make a Triggerbot step by step](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663652-triggerbot-step-step.html)|`2024-10-22 09:50:00`|`Valorant`|
