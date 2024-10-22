@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[raid ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668184-raid-esp.html)|`2024-10-23 03:11:00`|`Rust`|
+|[This Generation Is Easily Brainwashed &#40;USA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/668037-generation-easily-brainwashed-usa.html)|`2024-10-23 03:02:00`|`Off Topic`|
+|[Dale and Dawson Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/664163-dale-dawson-mod-menu.html)|`2024-10-23 03:00:00`|`Other Games`|
 |[Want to make custom cheat, where do i start?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/667905-custom-cheat-start.html)|`2024-10-23 02:52:00`|`Team Fortress 2`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2024-10-23 02:46:00`|`League of Legends`|
 |[ProcessMovement problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/667996-processmovement.html)|`2024-10-23 02:44:00`|`CounterStrike Source`|
