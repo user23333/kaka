@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Man, I'm just sick of this&#46; :](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667415-im-sick.html)|`2024-10-22 13:46:00`|`Grand Theft Auto V`|
+|[Viewing Steam Network Packets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/668022-viewing-steam-network-packets.html)|`2024-10-22 13:45:00`|`PC Software`|
 |[KmBox Net &#45; Not working correct](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/655841-kmbox-net-correct.html)|`2024-10-22 13:39:00`|`PC Hardware`|
 |[Help Needed: KMBox Net Setup & Connection Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/667522-help-kmbox-net-setup-connection-issues.html)|`2024-10-22 13:31:00`|`PC Hardware`|
 |[Modulation &#40;World, Props, Lights, Sun/clouds&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/658539-modulation-world-props-lights-sun-clouds.html)|`2024-10-22 13:22:00`|`Counter-Strike 2`|
