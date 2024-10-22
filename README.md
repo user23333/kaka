@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is Visible](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/668015-visible.html)|`2024-10-23 04:25:00`|`Deadlock`|
+|[FOV Pak Maker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/654130-fov-pak-maker.html)|`2024-10-23 04:13:00`|`Sea of Thieves`|
+|[How do i start with developing cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668148-start-developing-cheats.html)|`2024-10-23 04:12:00`|`Rust`|
 |[Cheat developement for beginner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/668182-cheat-developement-beginner.html)|`2024-10-23 04:06:00`|`Programming for Beginners`|
 |[zap&#45;client &#91;Legitbot, Ragebot, Glow, ESP & More&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/628823-zap-client-legitbot-ragebot-glow-esp.html)|`2024-10-23 04:06:00`|`Apex Legends`|
 |[Bypass &#40;HGW Game Watcher&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/668109-bypass-hgw-game-watcher.html)|`2024-10-23 03:59:00`|`CrossFire`|
