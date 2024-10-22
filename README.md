@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anti&#45;tamper reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667890-anti-tamper-reversal.html)|`2024-10-23 06:48:00`|`Counter-Strike 2`|
+|[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-10-23 06:47:00`|`Counter-Strike 2`|
+|[SPOOFER &#43; DEEP CLEANER &#43; BYPASS &#91;IN ONE&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/634340-spoofer-deep-cleaner-bypass.html)|`2024-10-23 06:46:00`|`Valorant`|
 |[Autostop / QuickStop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668214-autostop-quickstop.html)|`2024-10-23 06:43:00`|`Counter-Strike 2`|
 |[Read Entity Names](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668213-read-entity-names.html)|`2024-10-23 06:33:00`|`Counter-Strike 2`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2024-10-23 06:31:00`|`Phasmophobia`|
