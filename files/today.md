@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[KmBox Net &#45; Not working correct](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/655841-kmbox-net-correct.html)|`2024-10-22 13:39:00`|`PC Hardware`|
+|[Help Needed: KMBox Net Setup & Connection Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/667522-help-kmbox-net-setup-connection-issues.html)|`2024-10-22 13:31:00`|`PC Hardware`|
 |[Modulation &#40;World, Props, Lights, Sun/clouds&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/658539-modulation-world-props-lights-sun-clouds.html)|`2024-10-22 13:22:00`|`Counter-Strike 2`|
 |[SCUE4 Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667139-scue4-anticheat.html)|`2024-10-22 13:21:00`|`Anti-Cheat Bypass`|
 |[May I ask if using skCrypter in the kernel is good? Will it get banned by EAC and BE?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667165-using-skcrypter-kernel-banned-eac.html)|`2024-10-22 13:16:00`|`Anti-Cheat Bypass`|
