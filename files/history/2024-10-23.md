@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino Serial Communication suspicious?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667749-arduino-serial-communication-suspicious.html)|`2024-10-23 07:33:00`|`Valorant`|
+|[Memoriam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/563890-memoriam.html)|`2024-10-23 07:32:00`|`Garry's Mod`|
+|[Pixel Strike 3D Hack &#40;2024&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662658-pixel-strike-3d-hack-2024-a.html)|`2024-10-23 07:31:00`|`Other FPS Games`|
+|[How to make a Triggerbot step by step](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663652-triggerbot-step-step.html)|`2024-10-23 07:28:00`|`Valorant`|
 |[Anti&#45;tamper reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667890-anti-tamper-reversal.html)|`2024-10-23 06:48:00`|`Counter-Strike 2`|
 |[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-10-23 06:47:00`|`Counter-Strike 2`|
 |[SPOOFER &#43; DEEP CLEANER &#43; BYPASS &#91;IN ONE&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/634340-spoofer-deep-cleaner-bypass.html)|`2024-10-23 06:46:00`|`Valorant`|
