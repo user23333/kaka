@@ -12,6 +12,7 @@
 |23|[seo64 Updated Sigs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/667016-seo64-updated-sigs.html)|`2024-10-23 00:00:08`|`team-fortress-2-a`|
 |19|[Triggerbot patch Bypass for Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667460-triggerbot-patch-bypass-python.html)|`2024-10-23 00:00:08`|`valorant`|
 |13|[Shit Py Spoofer I Made](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667673-shit-py-spoofer.html)|`2024-10-23 00:23:16`|`valorant`|
+|8|[GTA5&#95;Decompiled&#95;169&#95;Build3315](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667189-gta5_decompiled_169_build3315.html)|`2024-10-23 03:23:51`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SCP SL Cheat v13&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/611154-scp-sl-cheat-v13-3-1-a.html)|`2024-10-23 03:15:00`|`Other Games`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2024-10-23 03:13:00`|`Counter-Strike 2`|
+|[anticheat detection question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668185-anticheat-detection-question.html)|`2024-10-23 03:13:00`|`Rust`|
 |[raid ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668184-raid-esp.html)|`2024-10-23 03:11:00`|`Rust`|
 |[This Generation Is Easily Brainwashed &#40;USA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/668037-generation-easily-brainwashed-usa.html)|`2024-10-23 03:02:00`|`Off Topic`|
 |[Dale and Dawson Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/664163-dale-dawson-mod-menu.html)|`2024-10-23 03:00:00`|`Other Games`|
