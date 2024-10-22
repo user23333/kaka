@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mortal online 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/660435-mortal-online-2-a.html)|`2024-10-22 14:33:00`|`Other MMORPG and Strategy`|
+|[Heist Editor v3&#46;6 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/451205-heist-editor-v3-6-external.html)|`2024-10-22 14:26:00`|`Grand Theft Auto V`|
 |[DayZ Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/639749-dayz-dumper.html)|`2024-10-22 14:07:00`|`DayZ SA`|
 |[How does AI Aim work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/659778-ai-aim.html)|`2024-10-22 14:05:00`|`PC Software`|
 |[Man, I'm just sick of this&#46; :](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667415-im-sick.html)|`2024-10-22 13:46:00`|`Grand Theft Auto V`|
