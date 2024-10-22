@@ -25,9 +25,14 @@
 |61|[AIOCln](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47301)|`2024-10-22 00:09:19`|
 |131|[ValoBanBeGone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47300)|`2024-10-22 00:09:19`|
 |1|[theHunter Internal Radar & ESP v1&#46;2&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47310)|`2024-10-22 04:28:51`|
+|95|[TheTruthBar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47311)|`2024-10-22 09:21:22`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CMLite &#124; Combat Master Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/582979-cmlite-combat-master-cheat.html)|`2024-10-22 09:04:00`|`Combat Master`|
+|[OV3RSW33T: AN OVERWAT Pack: Reborn & Recoded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/603412-ov3rsw33t-overwat-pack-reborn-recoded.html)|`2024-10-22 09:01:00`|`Overwatch`|
+|[Wicked Menu / Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/487033-wicked-menu-cheat-engine.html)|`2024-10-22 08:41:00`|`Grand Theft Auto V`|
+|[Getting rotation matrices / quaternions for rotating hitboxes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668040-getting-rotation-matrices-quaternions-rotating-hitboxes.html)|`2024-10-22 08:30:00`|`Counter-Strike 2`|
 |[Dragon Ball SPARKING ZERO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/666057-dragon-ball-sparking-zero.html)|`2024-10-22 07:50:00`|`Other Games`|
 |[How To Disable The Battle Eye Anti&#45;Cheat and Load Money  into Your Accounts?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667932-disable-battle-eye-anti-cheat-load-money-accounts.html)|`2024-10-22 07:43:00`|`Grand Theft Auto V`|
 |[ISO &#45; Open Source Kernel PE Dumper / Reconstruction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/668038-iso-source-kernel-pe-dumper-reconstruction.html)|`2024-10-22 07:43:00`|`General Programming and Reversing`|
