@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sea of Thieves paks for FOV, no fog, and more&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/666959-sea-thieves-paks-fov-fog.html)|`2024-10-23 04:37:00`|`Sea of Thieves`|
+|[Crossfire West cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/666574-crossfire-west-cheat.html)|`2024-10-23 04:36:00`|`CrossFire`|
+|[Sea of thieves Season 13 FOV Slider, nosprint, and other cheats&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/666750-sea-thieves-season-13-fov-slider-nosprint-cheats.html)|`2024-10-23 04:36:00`|`Sea of Thieves`|
 |[Is Visible](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/668015-visible.html)|`2024-10-23 04:25:00`|`Deadlock`|
 |[FOV Pak Maker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/654130-fov-pak-maker.html)|`2024-10-23 04:13:00`|`Sea of Thieves`|
 |[How do i start with developing cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668148-start-developing-cheats.html)|`2024-10-23 04:12:00`|`Rust`|
