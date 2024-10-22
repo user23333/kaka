@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Reverse Engineering&#93; Trying to reverse engineer window creation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667473-reverse-engineering-trying-reverse-engineer-window-creation.html)|`2024-10-22 09:58:00`|`Anti-Cheat Bypass`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/183111-menu-showcase-thread.html)|`2024-10-22 09:56:00`|`Counterstrike Global Offensive`|
+|[How to make a Triggerbot step by step](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663652-triggerbot-step-step.html)|`2024-10-22 09:50:00`|`Valorant`|
 |[CMLite &#124; Combat Master Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/582979-cmlite-combat-master-cheat.html)|`2024-10-22 09:04:00`|`Combat Master`|
 |[OV3RSW33T: AN OVERWAT Pack: Reborn & Recoded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/603412-ov3rsw33t-overwat-pack-reborn-recoded.html)|`2024-10-22 09:01:00`|`Overwatch`|
 |[Wicked Menu / Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/487033-wicked-menu-cheat-engine.html)|`2024-10-22 08:41:00`|`Grand Theft Auto V`|
