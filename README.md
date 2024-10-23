@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2024-10-24 01:08:00`|`Palia`|
+|[Colorbot for Apex S22](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/655828-colorbot-apex-s22.html)|`2024-10-24 01:07:00`|`Apex Legends`|
+|[Anti&#45;Cheat BloodStrike](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/660379-anti-cheat-bloodstrike.html)|`2024-10-24 01:07:00`|`Anti-Cheat Bypass`|
+|[how does anti &#45;aim work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668266-anti-aim.html)|`2024-10-24 01:05:00`|`Counter-Strike 2`|
+|[Call of Duty: Modern Warfare III Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/605287-call-duty-modern-warfare-iii-reversal-structs-offsets.html)|`2024-10-24 01:04:00`|`Call of Duty: Modern Warfare III`|
+|[Unibot &#124; Colorbot with aim, trigger & recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/668268-unibot-colorbot-aim-trigger-recoil.html)|`2024-10-24 01:01:00`|`Overwatch`|
+|[HWIDSPOOFER/Unban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/573734-hwidspoofer-unban.html)|`2024-10-24 00:59:00`|`Rainbow Six Siege`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-10-24 00:55:00`|`Rust`|
 |[Post your Menu/GUI Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/68024-post-menu-gui-framework.html)|`2024-10-24 00:53:00`|`C and C++`|
 |[Deadlock Cheat Esp&#43;AntiCheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/668223-deadlock-cheat-esp-anticheat.html)|`2024-10-24 00:45:00`|`Deadlock`|
