@@ -11,6 +11,7 @@
 |8|[GTA5&#95;Decompiled&#95;169&#95;Build3315](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667189-gta5_decompiled_169_build3315.html)|`2024-10-24 00:21:00`|`grand-theft-auto-v`|
 |8|[Ban bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667671-ban-bypass.html)|`2024-10-24 00:21:00`|`grand-theft-auto-v`|
 |18|[You can no longer patch ScripthookV for online mode? &#40;eCoreTerminatin was removed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667634-patch-scripthookv-online-mode-ecoreterminatin-removed.html)|`2024-10-24 00:21:00`|`grand-theft-auto-v`|
+|14|[OriginOTG &#45; Free Public Wallhacks/ESP for Off the Grid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667423-originotg-free-public-wallhacks-esp-grid.html)|`2024-10-24 07:34:32`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
