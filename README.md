@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help me choose communication method&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668099-help-choose-communication-method.html)|`2024-10-23 17:10:00`|`Anti-Cheat Bypass`|
 |[Do Bans carry over to other games?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/657912-bans-carry-games.html)|`2024-10-23 16:36:00`|`Call of Duty: Black Ops 6`|
 |[MTA:SA Runtime Lua Injector&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/668251-mta-sa-runtime-lua-injector.html)|`2024-10-23 16:23:00`|`Half Life`|
 |[Question about EAC ban transfer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668215-question-eac-ban-transfer.html)|`2024-10-23 16:05:00`|`Rust`|
