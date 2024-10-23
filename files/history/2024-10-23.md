@@ -26,9 +26,17 @@
 |102|[Shika 5&#46;1&#46;0&#46;1&#45;stable Patch released&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47304)|`2024-10-23 00:00:08`|
 |13|[BatchFileEncryptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47303)|`2024-10-23 00:00:08`|
 |16|[Prime Clicker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47302)|`2024-10-23 00:00:08`|
+|1|[esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47320)|`2024-10-23 09:19:52`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Triggerbot patch Bypass for Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667460-triggerbot-patch-bypass-python.html)|`2024-10-23 09:19:00`|`Valorant`|
+|[Free ESP Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668004-free-esp-cheat.html)|`2024-10-23 09:18:00`|`Counter-Strike 2`|
+|[Chaos Menu & Lua Executor "REDM"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/593368-chaos-menu-lua-executor-redm.html)|`2024-10-23 09:15:00`|`Red Dead Redemption 2`|
+|[Valorant DMA Based external Cheat&#40;Just run it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/645290-valorant-dma-based-external-cheat-run.html)|`2024-10-23 09:14:00`|`Valorant`|
+|[How to know what a program does ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/668225-program.html)|`2024-10-23 09:02:00`|`Programming for Beginners`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-10-23 08:55:00`|`Grand Theft Auto V`|
+|[Deadlock Cheat Esp&#43;AntiCheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/668223-deadlock-cheat-esp-anticheat.html)|`2024-10-23 08:48:00`|`Deadlock`|
 |[Arduino Serial Communication suspicious?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667749-arduino-serial-communication-suspicious.html)|`2024-10-23 07:33:00`|`Valorant`|
 |[Memoriam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/563890-memoriam.html)|`2024-10-23 07:32:00`|`Garry's Mod`|
 |[Pixel Strike 3D Hack &#40;2024&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662658-pixel-strike-3d-hack-2024-a.html)|`2024-10-23 07:31:00`|`Other FPS Games`|
