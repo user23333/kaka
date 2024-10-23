@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAAC imports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666237-eaac-imports.html)|`2024-10-23 13:38:00`|`Anti-Cheat Bypass`|
 |[battlfield 1 Evicted bfone v1&#46;07&#46;5107 internal Aim&#43;esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/650952-battlfield-1-evicted-bfone-v1-07-5107-internal-aim-esp.html)|`2024-10-23 13:08:00`|`Battlefield 1`|
 |[2 Pc Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668243-2-pc-triggerbot.html)|`2024-10-23 12:51:00`|`Valorant`|
 |[how to obtain memory address from Cheat Engine table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/667162-obtain-memory-address-cheat-engine-table.html)|`2024-10-23 12:47:00`|`C and C++`|
