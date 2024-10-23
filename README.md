@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666078-valorant.html)|`2024-10-23 21:00:00`|`Anti-Cheat Bypass`|
+|[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-10-23 20:57:00`|`Escape from Tarkov`|
+|[Arduino question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662882-arduino-question.html)|`2024-10-23 20:48:00`|`Valorant`|
 |[How to run cosmetic mods using Frosty Mods Manager on Battlefield V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/668247-run-cosmetic-mods-using-frosty-mods-manager-battlefield.html)|`2024-10-23 20:31:00`|`Battlefield V`|
 |[Is there a way to get old trophies and badges in Phasmophobia?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/668250-trophies-badges-phasmophobia.html)|`2024-10-23 20:23:00`|`Phasmophobia`|
 |[OV3RSW33T: AN OVERWAT Pack: Reborn & Recoded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/603412-ov3rsw33t-overwat-pack-reborn-recoded.html)|`2024-10-23 20:05:00`|`Overwatch`|
