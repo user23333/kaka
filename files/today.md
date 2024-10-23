@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unibot &#124; Open&#45;source colorbot with aim, trigger & recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/668270-unibot-source-colorbot-aim-trigger-recoil.html)|`2024-10-23 18:39:00`|`Other FPS Games`|
+|[Unibot &#124; Open&#45;source colorbot with aim, trigger & recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/668269-unibot-source-colorbot-aim-trigger-recoil.html)|`2024-10-23 18:35:00`|`THE FINALS`|
 |[Unibot &#124; Colorbot with aim, trigger & recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/668268-unibot-colorbot-aim-trigger-recoil.html)|`2024-10-23 18:28:00`|`Overwatch`|
 |[how does anti &#45;aim work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668266-anti-aim.html)|`2024-10-23 18:20:00`|`Counter-Strike 2`|
 |[Unibot &#124; Simple, fast, all&#45;in&#45;one colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668265-unibot-simple-fast-colorbot.html)|`2024-10-23 18:19:00`|`Valorant`|
