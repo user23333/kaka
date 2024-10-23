@@ -30,9 +30,11 @@
 |1|[Shit AFK Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47329)|`2024-10-24 04:43:29`|
 |1|[Python Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47323)|`2024-10-24 04:55:40`|
 |4|[Pasted Valorant Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47322)|`2024-10-24 05:24:02`|
+|1|[WayOfTheHunter&#45;internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47321)|`2024-10-24 07:40:32`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Way Of The Hunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/632584-hunter.html)|`2024-10-24 07:39:00`|`Other Games`|
 |[Is there anyway to bypass the eaac?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/668370-anyway-bypass-eaac.html)|`2024-10-24 07:25:00`|`Battlefield V`|
 |[Pumpkin Hunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/668411-pumpkin-hunter.html)|`2024-10-24 07:21:00`|`All Points Bulletin`|
 |[Escape from tarkov &#40;Error: 229&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/668338-escape-tarkov-error-229-a.html)|`2024-10-24 07:19:00`|`Escape from Tarkov`|
