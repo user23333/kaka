@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to run cosmetic mods using Frosty Mods Manager on Battlefield V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/668247-run-cosmetic-mods-using-frosty-mods-manager-battlefield.html)|`2024-10-23 20:31:00`|`Battlefield V`|
+|[Is there a way to get old trophies and badges in Phasmophobia?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/668250-trophies-badges-phasmophobia.html)|`2024-10-23 20:23:00`|`Phasmophobia`|
+|[OV3RSW33T: AN OVERWAT Pack: Reborn & Recoded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/603412-ov3rsw33t-overwat-pack-reborn-recoded.html)|`2024-10-23 20:05:00`|`Overwatch`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2024-10-23 20:04:00`|`Rainbow Six Siege`|
+|[korea vng taiwan safe bypass 3&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/666622-korea-vng-taiwan-safe-bypass-3-4-a.html)|`2024-10-23 20:02:00`|`PUBG Mobile`|
 |[SEOwnedDE Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/644283-seownedde-updated.html)|`2024-10-23 19:16:00`|`Team Fortress 2`|
 |[Unibot &#124; Open&#45;source colorbot with aim, trigger & recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/668270-unibot-source-colorbot-aim-trigger-recoil.html)|`2024-10-23 18:39:00`|`Other FPS Games`|
 |[Unibot &#124; Open&#45;source colorbot with aim, trigger & recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/668269-unibot-source-colorbot-aim-trigger-recoil.html)|`2024-10-23 18:35:00`|`THE FINALS`|
