@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2024-10-24 03:19:00`|`Apex Legends`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-10-24 03:17:00`|`Valorant`|
 |[VAC kernel&#45;mode bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668374-vac-kernel-mode-bypass.html)|`2024-10-24 03:11:00`|`Anti-Cheat Bypass`|
 |[Multi cheat &#35; Aimbot &#35; Esp &#35; Triggerbot &#35; Misc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/642513-multi-cheat-aimbot-esp-triggerbot-misc.html)|`2024-10-24 03:07:00`|`Counter-Strike 2 Releases`|
 |[R6 Credits via XBOX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/661115-r6-credits-via-xbox.html)|`2024-10-24 03:06:00`|`Rainbow Six Siege`|
