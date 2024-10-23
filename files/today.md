@@ -24,9 +24,13 @@
 |90|[ValoGen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47306)|`2024-10-24 00:21:00`|
 |151|[Shika 5&#46;1&#46;0&#46;1&#45;stable Patch released&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47304)|`2024-10-24 00:21:00`|
 |16|[BatchFileEncryptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47303)|`2024-10-24 00:21:00`|
+|2|[VAC kernel&#45;mode bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47331)|`2024-10-24 03:12:06`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VAC kernel&#45;mode bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668374-vac-kernel-mode-bypass.html)|`2024-10-24 03:11:00`|`Anti-Cheat Bypass`|
+|[Multi cheat &#35; Aimbot &#35; Esp &#35; Triggerbot &#35; Misc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/642513-multi-cheat-aimbot-esp-triggerbot-misc.html)|`2024-10-24 03:07:00`|`Counter-Strike 2 Releases`|
+|[R6 Credits via XBOX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/661115-r6-credits-via-xbox.html)|`2024-10-24 03:06:00`|`Rainbow Six Siege`|
 |[Glove/Knife issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667406-glove-knife-issues.html)|`2024-10-24 02:50:00`|`Counter-Strike 2`|
 |[Help with ESP Flicker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/667529-help-esp-flicker.html)|`2024-10-24 02:48:00`|`General Programming and Reversing`|
 |[Off the Grid Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/665981-grid-reversal-structs-offsets.html)|`2024-10-24 02:41:00`|`Other FPS Games`|
