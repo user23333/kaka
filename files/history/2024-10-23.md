@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[win11 24h2 hollowing process error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/667623-win11-24h2-hollowing-process-error.html)|`2024-10-23 22:46:00`|`General Programming and Reversing`|
+|[Need help for an short script for an Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/web-and-scripting/668231-help-short-script-game.html)|`2024-10-23 22:43:00`|`Web and Scripting`|
+|[DMIEDIT changing Processor ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/665806-dmiedit-changing-processor-id.html)|`2024-10-23 22:41:00`|`General Programming and Reversing`|
 |[Unloading Kiero ImGui hook while il2cpp resolver threads are running](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/668340-unloading-kiero-imgui-hook-il2cpp-resolver-threads-running.html)|`2024-10-23 22:34:00`|`Unity`|
 |[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-10-23 22:10:00`|`Overwatch`|
 |[Dragon Ball SPARKING ZERO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/666057-dragon-ball-sparking-zero.html)|`2024-10-23 21:44:00`|`Other Games`|
