@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lightkeeper Questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/668364-lightkeeper-questions.html)|`2024-10-24 01:47:00`|`Escape from Tarkov`|
+|[Problem with internal signature scanning&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/668363-internal-signature-scanning.html)|`2024-10-24 01:45:00`|`General Programming and Reversing`|
 |[OriginOTG &#45; Free Public Wallhacks/ESP for Off the Grid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667423-originotg-free-public-wallhacks-esp-grid.html)|`2024-10-24 01:39:00`|`Other FPS Games`|
 |[Yim Menu in Chinese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/668102-yim-menu-chinese.html)|`2024-10-24 01:32:00`|`Grand Theft Auto V`|
 |[battlfield 1 Evicted bfone v1&#46;07&#46;5107 internal Aim&#43;esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/650952-battlfield-1-evicted-bfone-v1-07-5107-internal-aim-esp.html)|`2024-10-24 01:31:00`|`Battlefield 1`|
