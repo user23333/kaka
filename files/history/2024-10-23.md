@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I am looking for a cheating software](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/668181-am-looking-cheating-software.html)|`2024-10-23 14:59:00`|`Call of Duty: Modern Warfare III`|
+|[FATE DMA Source With a lot of features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/659710-fate-dma-source-lot-features.html)|`2024-10-23 14:57:00`|`Apex Legends`|
 |[Panicore internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/658925-panicore-internal.html)|`2024-10-23 14:14:00`|`Other Games`|
 |[EAAC imports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666237-eaac-imports.html)|`2024-10-23 13:38:00`|`Anti-Cheat Bypass`|
 |[battlfield 1 Evicted bfone v1&#46;07&#46;5107 internal Aim&#43;esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/650952-battlfield-1-evicted-bfone-v1-07-5107-internal-aim-esp.html)|`2024-10-23 13:08:00`|`Battlefield 1`|
