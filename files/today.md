@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[100% UNDETECTED INJECTOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/508347-100-undetected-injector.html)|`2024-10-24 07:52:00`|`Anti-Cheat Bypass`|
 |[PUBG DMA cheat source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/667961-pubg-dma-cheat-source-code.html)|`2024-10-24 07:42:00`|`Playerunknown's Battlegrounds`|
 |[Way Of The Hunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/632584-hunter.html)|`2024-10-24 07:39:00`|`Other Games`|
 |[Is there anyway to bypass the eaac?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/668370-anyway-bypass-eaac.html)|`2024-10-24 07:25:00`|`Battlefield V`|
