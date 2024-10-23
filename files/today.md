@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[damage reduction cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/668383-damage-reduction-cheat.html)|`2024-10-24 06:49:00`|`Payday 3`|
 |[AutoScav: A scav bot using image analysis&#46; Works on live&#46; No bypass required&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/628120-autoscav-scav-bot-using-image-analysis-live-bypass-required.html)|`2024-10-24 06:39:00`|`Escape from Tarkov`|
 |[Cant use Write Process Memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/668221-cant-write-process-memory.html)|`2024-10-24 06:32:00`|`Programming for Beginners`|
 |[Is there a way to hide my skills from vanillahud](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/654376-hide-skills-vanillahud.html)|`2024-10-24 06:31:00`|`Payday 2`|
