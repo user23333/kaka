@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cant use Write Process Memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/668221-cant-write-process-memory.html)|`2024-10-24 06:32:00`|`Programming for Beginners`|
+|[Is there a way to hide my skills from vanillahud](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/654376-hide-skills-vanillahud.html)|`2024-10-24 06:31:00`|`Payday 2`|
+|[Trying to reverse Transform::GetPosition myself](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668405-trying-reverse-transform-getposition.html)|`2024-10-24 06:30:00`|`Rust`|
 |[Autostop / QuickStop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668214-autostop-quickstop.html)|`2024-10-24 06:27:00`|`Counter-Strike 2`|
 |[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-10-24 06:10:00`|`Escape from Tarkov`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2024-10-24 06:06:00`|`League of Legends`|
