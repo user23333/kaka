@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2024-10-25 03:24:00`|`Deadlock`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2024-10-25 03:22:00`|`Rainbow Six Siege`|
 |[What cheats rn?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/657707-cheats-rn.html)|`2024-10-25 03:16:00`|`Garry's Mod`|
 |[help with cranium](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/668412-help-cranium.html)|`2024-10-25 03:14:00`|`Garry's Mod`|
