@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[world of warships Aim Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/668362-world-warships-aim-mod.html)|`2024-10-25 06:52:00`|`Other FPS Games`|
+|[Nixware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/643902-nixware.html)|`2024-10-25 06:48:00`|`Garry's Mod`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2024-10-25 06:25:00`|`Overwatch`|
 |[Server RPC Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/666059-server-rpc-issues.html)|`2024-10-25 06:16:00`|`Unreal Engine 4`|
 |[What effects of cannabis on you body ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/366837-effects-cannabis-body.html)|`2024-10-25 06:14:00`|`Off Topic`|
