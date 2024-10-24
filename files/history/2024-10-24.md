@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Age of Empires 4 SP/MP Tools](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/662897-age-empires-4-sp-mp-tools.html)|`2024-10-24 17:47:00`|`Other MMORPG and Strategy`|
 |[Nvidia leaked code/driver cert](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/491501-nvidia-leaked-code-driver-cert.html)|`2024-10-24 17:16:00`|`Anti-Cheat Bypass`|
 |[ACE Anti Cheat Expert bypass, arduino shield, VM? how to?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668332-ace-anti-cheat-expert-bypass-arduino-shield-vm.html)|`2024-10-24 16:57:00`|`Anti-Cheat Bypass`|
 |[korea vng taiwan safe bypass 3&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/666622-korea-vng-taiwan-safe-bypass-3-4-a.html)|`2024-10-24 16:44:00`|`PUBG Mobile`|
