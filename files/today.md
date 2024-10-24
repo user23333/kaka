@@ -37,6 +37,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[💸 VALORANT EXTERNAL V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/638001-valorant-external-v2.html)|`2024-10-24 20:40:00`|`Valorant`|
+|[Where can I find a few things? guidance, please&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/668502-guidance-please.html)|`2024-10-24 20:31:00`|`DayZ SA`|
+|[Will anti&#45;cheat detection capabilities become stronger after reaching the Grandmaster](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668500-anti-cheat-detection-capabilities-stronger-reaching-grandmaster.html)|`2024-10-24 20:26:00`|`Apex Legends`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2024-10-24 20:15:00`|`Rainbow Six Siege`|
 |[Dexterion &#124; Semi External CS2 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/647464-dexterion-semi-external-cs2-cheat.html)|`2024-10-24 19:45:00`|`Counter-Strike 2`|
 |[Extras Addon for YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/620073-extras-addon-yimmenu.html)|`2024-10-24 19:35:00`|`Grand Theft Auto V`|
