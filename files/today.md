@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BF2 Alpha Tools 1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/376400-bf2-alpha-tools-1-5-a.html)|`2024-10-24 12:03:00`|`Battlefield 2`|
+|[Mouse Keyboard Input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/668461-mouse-keyboard-input.html)|`2024-10-24 11:54:00`|`Maple Story`|
 |[Possible bypass for all menus](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/668462-bypass-menus.html)|`2024-10-24 11:57:00`|`Grand Theft Auto V`|
 |[MouseClassServiceCallbackTrick?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668460-mouseclassservicecallbacktrick.html)|`2024-10-24 11:45:00`|`Anti-Cheat Bypass`|
 |[Cheat Engine Tables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/668459-cheat-engine-tables.html)|`2024-10-24 11:42:00`|`Grand Theft Auto V`|
