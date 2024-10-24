@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CounterStrike Source Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/157661-counterstrike-source-reversal-structs-offsets.html)|`2024-10-24 13:31:00`|`CounterStrike Source`|
+|[New Zealand method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668475-zealand-method.html)|`2024-10-24 13:25:00`|`Call of Duty: Black Ops 6`|
 |[Monolith Camos](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/668202-monolith-camos.html)|`2024-10-24 13:12:00`|`Combat Master`|
 |[KernelMode/UserMode bluescreens&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668471-kernelmode-usermode-bluescreens.html)|`2024-10-24 12:50:00`|`Anti-Cheat Bypass`|
 |[Bypass emulator not work need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/668074-bypass-emulator-help.html)|`2024-10-24 12:48:00`|`PUBG Mobile`|
