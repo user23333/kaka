@@ -34,9 +34,15 @@
 |1|[WayOfTheHunter&#45;internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47321)|`2024-10-24 07:40:32`|
 |1|[PUBG DMA cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47315)|`2024-10-24 07:46:47`|
 |1|[RailgunAnyGun&#46;CETRAINER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47338)|`2024-10-24 19:50:47`|
+|1|[ReiHook for Sker Ritual v1&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47319)|`2024-10-24 23:17:15`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sker Ritual](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/634621-sker-ritual.html)|`2024-10-24 23:15:00`|`Unity`|
+|[AMIDEWINx64 problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668517-amidewinx64.html)|`2024-10-24 23:13:00`|`Anti-Cheat Bypass`|
+|[Arduino ApexCV simple magnet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/667959-arduino-apexcv-simple-magnet.html)|`2024-10-24 23:08:00`|`Apex Legends`|
+|[&#91;Updated&#93; Dead by Daylight Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/635513-updated-dead-daylight-unlock-dlcs-skins.html)|`2024-10-24 23:07:00`|`Other FPS Games`|
+|[Is there open&#45;source projects in the Pubg forum like the Zap client?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/668515-source-projects-pubg-forum-zap-client.html)|`2024-10-24 23:04:00`|`Playerunknown's Battlegrounds`|
 |[R/W External Silent Aim POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/668514-external-silent-aim-poc.html)|`2024-10-24 22:55:00`|`Escape from Tarkov`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2024-10-24 22:49:00`|`Call of Duty: Black Ops 6`|
 |[Sea of Thieves paks for FOV, no fog, and more&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/666959-sea-thieves-paks-fov-fog.html)|`2024-10-24 22:46:00`|`Sea of Thieves`|
