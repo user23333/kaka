@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2024-10-25 06:25:00`|`Overwatch`|
 |[Server RPC Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/666059-server-rpc-issues.html)|`2024-10-25 06:16:00`|`Unreal Engine 4`|
 |[What effects of cannabis on you body ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/366837-effects-cannabis-body.html)|`2024-10-25 06:14:00`|`Off Topic`|
 |[Nika &#45; Light Weight C&#43;&#43; Linux Pasta Cheat &#45; Health Based Sense, Aimbot, TriggerBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/634402-nika-light-weight-linux-pasta-cheat-health-based-sense-aimbot-triggerbot.html)|`2024-10-25 06:07:00`|`Apex Legends`|
