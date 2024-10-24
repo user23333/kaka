@@ -36,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Liar's Bar Edit Level &#45; Rank](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667689-liars-bar-edit-level-rank.html)|`2024-10-24 09:01:00`|`Other Games`|
+|[The Midnight Walkers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/668422-midnight-walkers.html)|`2024-10-24 08:50:00`|`Other FPS Games`|
+|[Anybody know any League of legends script?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/660101-league-legends-script.html)|`2024-10-24 08:49:00`|`League of Legends`|
+|[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-10-24 08:40:00`|`Other Games`|
+|[Help me choose communication method&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668099-help-choose-communication-method.html)|`2024-10-24 08:40:00`|`Anti-Cheat Bypass`|
 |[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2024-10-24 07:57:00`|`Other FPS Games`|
 |[100% UNDETECTED INJECTOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/508347-100-undetected-injector.html)|`2024-10-24 07:52:00`|`Anti-Cheat Bypass`|
 |[PUBG DMA cheat source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/667961-pubg-dma-cheat-source-code.html)|`2024-10-24 07:42:00`|`Playerunknown's Battlegrounds`|
