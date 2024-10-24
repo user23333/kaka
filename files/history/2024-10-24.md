@@ -43,6 +43,7 @@
 |2|[DayZ1&#46;26Fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47339)|`2024-10-24 23:47:12`|
 |1|[Lockdown Protocol External Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47334)|`2024-10-24 23:47:12`|
 |2|[Lockdown Protocol External v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47333)|`2024-10-24 23:47:12`|
+|1|[johanna&#46;cc&#46;deadlock&#46;by&#46;pirolo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47327)|`2024-10-24 23:59:32`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
