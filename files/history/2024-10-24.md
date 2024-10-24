@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2024-10-24 22:38:00`|`Other FPS Games`|
+|[How can i make a steam id spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668512-steam-id-spoofer.html)|`2024-10-24 22:36:00`|`Counter-Strike 2`|
 |[Linux Dualboot Cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/667896-linux-dualboot-cheats.html)|`2024-10-24 22:28:00`|`Apex Legends`|
 |[Warframe Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/631004-warframe-cheat.html)|`2024-10-24 22:22:00`|`Other FPS Games`|
 |[Getting skins images with vtex parser for D3DX11CreateShaderResourceViewFromMemory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668507-getting-skins-images-vtex-parser-d3dx11createshaderresourceviewfrommemory.html)|`2024-10-24 21:32:00`|`Counter-Strike 2`|
