@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Getting skins images with vtex parser for D3DX11CreateShaderResourceViewFromMemory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668507-getting-skins-images-vtex-parser-d3dx11createshaderresourceviewfrommemory.html)|`2024-10-24 21:32:00`|`Counter-Strike 2`|
+|[Cs2 injection via loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668506-cs2-injection-via-loader.html)|`2024-10-24 21:19:00`|`Counter-Strike 2`|
 |[SEOwnedDE Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/644283-seownedde-updated.html)|`2024-10-24 21:12:00`|`Team Fortress 2`|
 |[DayZ Hacking and Bypassing &#45; noob question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/652658-dayz-hacking-bypassing-noob-question.html)|`2024-10-24 21:03:00`|`DayZ SA`|
 |[💸 VALORANT EXTERNAL V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/638001-valorant-external-v2.html)|`2024-10-24 20:40:00`|`Valorant`|
