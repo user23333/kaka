@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2024-10-24 20:15:00`|`Rainbow Six Siege`|
 |[Dexterion &#124; Semi External CS2 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/647464-dexterion-semi-external-cs2-cheat.html)|`2024-10-24 19:45:00`|`Counter-Strike 2`|
 |[Extras Addon for YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/620073-extras-addon-yimmenu.html)|`2024-10-24 19:35:00`|`Grand Theft Auto V`|
 |[Skeleton esp problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/668491-skeleton-esp.html)|`2024-10-24 18:44:00`|`Alternative Online Mods`|
