@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Possible bypass for all menus](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/668462-bypass-menus.html)|`2024-10-24 11:57:00`|`Grand Theft Auto V`|
 |[MouseClassServiceCallbackTrick?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668460-mouseclassservicecallbacktrick.html)|`2024-10-24 11:45:00`|`Anti-Cheat Bypass`|
 |[Cheat Engine Tables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/668459-cheat-engine-tables.html)|`2024-10-24 11:42:00`|`Grand Theft Auto V`|
 |[HWID BANNED LINUX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/644651-hwid-banned-linux.html)|`2024-10-24 11:35:00`|`Apex Legends`|
