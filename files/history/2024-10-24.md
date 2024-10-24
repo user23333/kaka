@@ -36,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ 1&#46;26 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/668418-dayz-1-26-cheat.html)|`2024-10-24 15:09:00`|`DayZ SA`|
+|[someone please update hyperhook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/668479-please-update-hyperhook.html)|`2024-10-24 15:09:00`|`Battlefield 4`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2024-10-24 14:58:00`|`Other FPS Games`|
+|[Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668477-silent-aim.html)|`2024-10-24 14:43:00`|`Counter-Strike 2`|
+|[Looking for boost servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/668476-looking-boost-servers.html)|`2024-10-24 14:40:00`|`Battlefield 4`|
 |[1920x1080 External ESP w/ auto&#45;updating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666996-1920x1080-external-esp-auto-updating.html)|`2024-10-24 14:37:00`|`Counter-Strike 2`|
 |[DMA DayZ Fuser ESP &#43; Radar Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/606723-dma-dayz-fuser-esp-radar-source-release.html)|`2024-10-24 14:24:00`|`DayZ SA`|
 |[I got banned for using AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlebit-remastered/603168-banned-using-ahk.html)|`2024-10-24 14:20:00`|`BattleBit Remastered`|
