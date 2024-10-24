@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HWID BANNED LINUX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/644651-hwid-banned-linux.html)|`2024-10-24 11:35:00`|`Apex Legends`|
+|[Patience &#45; An External Linux Cheat &#91;Overlay/CLI&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/648832-patience-external-linux-cheat-overlay-cli.html)|`2024-10-24 11:33:00`|`Apex Legends`|
 |[Crossfire West cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/666574-crossfire-west-cheat.html)|`2024-10-24 10:42:00`|`CrossFire`|
 |[Will cheat engines be detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/gunz/668435-cheat-engines-detected.html)|`2024-10-24 10:27:00`|`GunZ`|
 |[Hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/668433-hello.html)|`2024-10-24 10:25:00`|`Maple Story`|
