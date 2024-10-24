@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Extras Addon for YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/620073-extras-addon-yimmenu.html)|`2024-10-24 19:35:00`|`Grand Theft Auto V`|
 |[Skeleton esp problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/668491-skeleton-esp.html)|`2024-10-24 18:44:00`|`Alternative Online Mods`|
 |[Railgun barrel on any weapon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/668489-railgun-barrel-weapon.html)|`2024-10-24 18:26:00`|`Combat Master`|
 |[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2024-10-24 18:16:00`|`Escape from Tarkov`|
