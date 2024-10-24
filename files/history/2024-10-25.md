@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pi Pico alternative to Arduino Leonardo Host Shield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668248-pi-pico-alternative-arduino-leonardo-host-shield.html)|`2024-10-25 02:03:00`|`Valorant`|
+|[Pumpkin Hunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/668411-pumpkin-hunter.html)|`2024-10-25 01:57:00`|`All Points Bulletin`|
+|[Classes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/668384-classes.html)|`2024-10-25 01:56:00`|`Grand Theft Auto V`|
 |[Team Fortress 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/102936-team-fortress-2-reversal-structs-offsets.html)|`2024-10-25 01:42:00`|`Team Fortress 2`|
 |[BannleEye &#45; Banning arbitrary players using BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667333-bannleeye-banning-arbitrary-players-using.html)|`2024-10-25 01:30:00`|`Anti-Cheat Bypass`|
 |[Yim Menu in Chinese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/668102-yim-menu-chinese.html)|`2024-10-25 01:26:00`|`Grand Theft Auto V`|
