@@ -40,6 +40,9 @@
 |22|[TheTruthBar&#46;DLL &#124; v0&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47324)|`2024-10-24 23:31:40`|
 |1|[PumpkinHunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47335)|`2024-10-24 23:41:13`|
 |1|[theHunter Internal Radar & ESP v1&#46;2&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47332)|`2024-10-24 23:41:13`|
+|2|[DayZ1&#46;26Fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47339)|`2024-10-24 23:47:12`|
+|1|[Lockdown Protocol External Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47334)|`2024-10-24 23:47:12`|
+|2|[Lockdown Protocol External v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47333)|`2024-10-24 23:47:12`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
