@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SEOwnedDE Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/644283-seownedde-updated.html)|`2024-10-24 21:12:00`|`Team Fortress 2`|
+|[DayZ Hacking and Bypassing &#45; noob question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/652658-dayz-hacking-bypassing-noob-question.html)|`2024-10-24 21:03:00`|`DayZ SA`|
 |[💸 VALORANT EXTERNAL V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/638001-valorant-external-v2.html)|`2024-10-24 20:40:00`|`Valorant`|
 |[Where can I find a few things? guidance, please&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/668502-guidance-please.html)|`2024-10-24 20:31:00`|`DayZ SA`|
 |[Will anti&#45;cheat detection capabilities become stronger after reaching the Grandmaster](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668500-anti-cheat-detection-capabilities-stronger-reaching-grandmaster.html)|`2024-10-24 20:26:00`|`Apex Legends`|
