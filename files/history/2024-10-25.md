@@ -29,6 +29,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[YimMenu &#91;1&#46;69 &#45; b3337&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3337.html)|`2024-10-25 02:32:00`|`Grand Theft Auto V`|
+|[Help to find offsets for Abilities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/668535-help-offsets-abilities.html)|`2024-10-25 02:29:00`|`Overwatch`|
+|[about AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662127-ahk.html)|`2024-10-25 02:28:00`|`Apex Legends`|
+|[Will anti&#45;cheat detection capabilities become stronger after reaching the Grandmaster](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668500-anti-cheat-detection-capabilities-stronger-reaching-grandmaster.html)|`2024-10-25 02:27:00`|`Apex Legends`|
+|[Cs2 injection via loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668506-cs2-injection-via-loader.html)|`2024-10-25 02:24:00`|`Counter-Strike 2`|
+|[New Zealand method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668475-zealand-method.html)|`2024-10-25 02:22:00`|`Call of Duty: Black Ops 6`|
+|[How to start out with Arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668534-start-arduino.html)|`2024-10-25 02:14:00`|`Valorant`|
+|[Genshin İmpact Shika Cheat 5&#46;0&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/660051-genshin-mpact-shika-cheat-5-0-0-1-a.html)|`2024-10-25 02:12:00`|`Genshin Impact`|
 |[Pi Pico alternative to Arduino Leonardo Host Shield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668248-pi-pico-alternative-arduino-leonardo-host-shield.html)|`2024-10-25 02:03:00`|`Valorant`|
 |[Pumpkin Hunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/668411-pumpkin-hunter.html)|`2024-10-25 01:57:00`|`All Points Bulletin`|
 |[Classes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/668384-classes.html)|`2024-10-25 01:56:00`|`Grand Theft Auto V`|
