@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Off The Grid Internal &#40;Aimbot, ESP, Exploits&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667656-grid-internal-aimbot-esp-exploits.html)|`2024-10-25 03:54:00`|`Other FPS Games`|
 |[zap&#45;client &#91;Legitbot, Ragebot, Glow, ESP & More&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/628823-zap-client-legitbot-ragebot-glow-esp.html)|`2024-10-25 03:45:00`|`Apex Legends`|
 |[Color Detecting Aimbot &#40;Excalibur&#41; Reworked & Fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/xdefiant/654679-color-detecting-aimbot-excalibur-reworked-fixed.html)|`2024-10-25 03:32:00`|`xDefiant`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2024-10-25 03:24:00`|`Deadlock`|
