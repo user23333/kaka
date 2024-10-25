@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Speedi13 Trainer Fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/497810-speedi13-trainer-fixed.html)|`2024-10-26 07:54:00`|`Battlefield 1`|
 |[Broken AI Plunder AFK bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/668263-broken-ai-plunder-afk-bot.html)|`2024-10-26 07:34:00`|`Call of Duty: Modern Warfare III`|
 |[internal shitty past bf1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/523274-internal-shitty-past-bf1.html)|`2024-10-26 07:26:00`|`Battlefield 1`|
 |[Liar's Bar Edit Level &#45; Rank](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667689-liars-bar-edit-level-rank.html)|`2024-10-26 07:23:00`|`Other Games`|
