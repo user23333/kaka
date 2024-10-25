@@ -24,9 +24,17 @@
 |24|[Lockdown Protocol External Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47334)|`2024-10-26 00:19:15`|
 |56|[Lockdown Protocol External v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47333)|`2024-10-26 00:19:15`|
 |3|[theHunter Internal Radar & ESP v1&#46;2&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47332)|`2024-10-26 00:19:15`|
+|1|[DayZInternal v1&#46;4&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47350)|`2024-10-26 00:39:07`|
+|1|[Config for skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47349)|`2024-10-26 00:39:07`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R/W External Silent Aim POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/668514-external-silent-aim-poc.html)|`2024-10-26 00:33:00`|`Escape from Tarkov`|
+|[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2024-10-26 00:32:00`|`Other FPS Games`|
+|[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2024-10-26 00:32:00`|`DayZ SA`|
+|[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2024-10-26 00:28:00`|`Sea of Thieves`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2024-10-26 00:23:00`|`Call of Duty: Black Ops 6`|
+|[Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/636558-cheat-engine-table.html)|`2024-10-26 00:23:00`|`HELLDIVERS 2`|
 |[error in dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668653-error-dumper.html)|`2024-10-26 00:18:00`|`Rust`|
 |[A good solution for getting all the necessary bones &#40;given different ids&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/668673-solution-getting-bones-ids.html)|`2024-10-26 00:13:00`|`Deadlock`|
 |[Phasmo Icetrix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/432538-phasmo-icetrix.html)|`2024-10-26 00:12:00`|`Phasmophobia`|
