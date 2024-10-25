@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Broken AI Plunder AFK bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/668263-broken-ai-plunder-afk-bot.html)|`2024-10-25 19:19:00`|`Call of Duty: Modern Warfare III`|
 |[OriginOTG &#45; Free Public Wallhacks/ESP for Off the Grid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667423-originotg-free-public-wallhacks-esp-grid.html)|`2024-10-25 19:01:00`|`Other FPS Games`|
 |[AoE4 No Fog of War](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/500872-aoe4-fog-war.html)|`2024-10-25 18:57:00`|`Other MMORPG and Strategy`|
 |[CS2 external esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/600259-cs2-external-esp.html)|`2024-10-25 18:50:00`|`Counter-Strike 2 Releases`|
