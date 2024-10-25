@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HWID BAN and Network Card](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668614-hwid-ban-network-card.html)|`2024-10-26 02:46:00`|`Apex Legends`|
 |[about AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662127-ahk.html)|`2024-10-26 02:29:00`|`Apex Legends`|
 |[Spectre Divide Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/652896-spectre-divide-reversal-structs-offsets.html)|`2024-10-26 02:20:00`|`Other FPS Games`|
 |[EzFrags CS2 MultiHack &#91;MEME&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668670-ezfrags-cs2-multihack-meme.html)|`2024-10-26 02:15:00`|`Counter-Strike 2`|
