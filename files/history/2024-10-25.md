@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cultist Knives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658823-cultist-knives.html)|`2024-10-25 19:28:00`|`Escape from Tarkov`|
 |[HWID BAN and Network Card](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668614-hwid-ban-network-card.html)|`2024-10-25 19:27:00`|`Apex Legends`|
 |[CS2 External Cheat &#45; ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/655165-cs2-external-cheat-esp-aimbot.html)|`2024-10-25 19:23:00`|`Counter-Strike 2 Releases`|
 |[R6 Credits via XBOX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/661115-r6-credits-via-xbox.html)|`2024-10-25 19:13:00`|`Rainbow Six Siege`|
