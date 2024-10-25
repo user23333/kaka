@@ -12,6 +12,7 @@
 |8|[Ban bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667671-ban-bypass.html)|`2024-10-25 00:19:35`|`grand-theft-auto-v`|
 |18|[You can no longer patch ScripthookV for online mode? &#40;eCoreTerminatin was removed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667634-patch-scripthookv-online-mode-ecoreterminatin-removed.html)|`2024-10-25 00:19:35`|`grand-theft-auto-v`|
 |17|[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-10-25 10:06:31`|`other-games`|
+|15|[VAC kernel&#45;mode bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668374-vac-kernel-mode-bypass.html)|`2024-10-25 16:58:07`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
