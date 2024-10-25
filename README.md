@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant &#43; Arduino = Ban?&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668584-valorant-arduino-ban.html)|`2024-10-26 03:21:00`|`Valorant`|
+|[ACE Anti Cheat Expert bypass, arduino shield, VM? how to?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668332-ace-anti-cheat-expert-bypass-arduino-shield-vm.html)|`2024-10-26 03:20:00`|`Anti-Cheat Bypass`|
 |[SMBIOS Table Spoofing &#40;Kernel&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668708-smbios-table-spoofing-kernel.html)|`2024-10-26 03:06:00`|`Anti-Cheat Bypass`|
 |[Autofire](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668707-autofire.html)|`2024-10-26 03:03:00`|`Counter-Strike 2`|
 |[Question about TF2 menus&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/668685-question-tf2-menus.html)|`2024-10-26 02:53:00`|`Team Fortress 2`|
