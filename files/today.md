@@ -1,200 +1,39 @@
 # 🔥Hottest
 |Reply|Thread|Date|Forum|
 |-----|------|----|-----|
-|76|[BannleEye &#45; Banning arbitrary players using BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667333-bannleeye-banning-arbitrary-players-using.html)|`2024-10-25 00:19:35`|`anti-cheat-bypass`|
-|100|[The Truth Bar Menu &#45; V0&#46;1 &#124; Liar's bar internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667906-truth-bar-menu-v0-1-liars-bar-internal-cheat.html)|`2024-10-25 00:19:35`|`other-games`|
-|100|[Off The Grid Internal &#40;Aimbot, ESP, Exploits&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667656-grid-internal-aimbot-esp-exploits.html)|`2024-10-25 00:19:35`|`other-fps-games`|
-|19|[Liar's Bar Edit Level &#45; Rank](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667689-liars-bar-edit-level-rank.html)|`2024-10-25 00:19:35`|`other-games`|
-|25|[Man, I'm just sick of this&#46; :](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667415-im-sick.html)|`2024-10-25 00:19:35`|`grand-theft-auto-v`|
-|27|[Triggerbot patch Bypass for Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667460-triggerbot-patch-bypass-python.html)|`2024-10-25 00:19:35`|`valorant`|
-|13|[Shit Py Spoofer I Made](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667673-shit-py-spoofer.html)|`2024-10-25 00:19:35`|`valorant`|
-|17|[Free ESP Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668004-free-esp-cheat.html)|`2024-10-25 00:19:35`|`counter-strike-2-a`|
-|8|[Ban bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667671-ban-bypass.html)|`2024-10-25 00:19:35`|`grand-theft-auto-v`|
-|18|[You can no longer patch ScripthookV for online mode? &#40;eCoreTerminatin was removed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667634-patch-scripthookv-online-mode-ecoreterminatin-removed.html)|`2024-10-25 00:19:35`|`grand-theft-auto-v`|
-|17|[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-10-25 10:06:31`|`other-games`|
-|15|[VAC kernel&#45;mode bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668374-vac-kernel-mode-bypass.html)|`2024-10-25 16:58:07`|`anti-cheat-bypass`|
+|118|[The Truth Bar Menu &#45; V0&#46;1 &#124; Liar's bar internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667906-truth-bar-menu-v0-1-liars-bar-internal-cheat.html)|`2024-10-26 00:19:15`|`other-games`|
+|105|[Off The Grid Internal &#40;Aimbot, ESP, Exploits&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667656-grid-internal-aimbot-esp-exploits.html)|`2024-10-26 00:19:15`|`other-fps-games`|
+|19|[Liar's Bar Edit Level &#45; Rank](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667689-liars-bar-edit-level-rank.html)|`2024-10-26 00:19:15`|`other-games`|
+|27|[Man, I'm just sick of this&#46; :](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667415-im-sick.html)|`2024-10-26 00:19:15`|`grand-theft-auto-v`|
+|31|[Triggerbot patch Bypass for Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667460-triggerbot-patch-bypass-python.html)|`2024-10-26 00:19:15`|`valorant`|
+|19|[Free ESP Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668004-free-esp-cheat.html)|`2024-10-26 00:19:15`|`counter-strike-2-a`|
+|14|[Shit Py Spoofer I Made](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667673-shit-py-spoofer.html)|`2024-10-26 00:19:15`|`valorant`|
+|8|[Ban bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667671-ban-bypass.html)|`2024-10-26 00:19:15`|`grand-theft-auto-v`|
+|15|[VAC kernel&#45;mode bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668374-vac-kernel-mode-bypass.html)|`2024-10-26 00:19:15`|`anti-cheat-bypass`|
+|18|[You can no longer patch ScripthookV for online mode? &#40;eCoreTerminatin was removed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667634-patch-scripthookv-online-mode-ecoreterminatin-removed.html)|`2024-10-26 00:19:15`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
-|9|[DayZ1&#46;26Fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47339)|`2024-10-25 00:19:35`|
-|7|[RailgunAnyGun&#46;CETRAINER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47338)|`2024-10-25 00:19:35`|
-|4|[PumpkinHunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47335)|`2024-10-25 00:19:35`|
-|4|[Lockdown Protocol External Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47334)|`2024-10-25 00:19:35`|
-|6|[Lockdown Protocol External v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47333)|`2024-10-25 00:19:35`|
-|1|[theHunter Internal Radar & ESP v1&#46;2&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47332)|`2024-10-25 00:19:35`|
-|98|[VAC kernel&#45;mode bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47331)|`2024-10-25 00:19:35`|
-|10|[Shit AFK Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47329)|`2024-10-25 00:19:35`|
-|44|[release&#45;09&#46;08&#45;ShooterGame&#45;SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47328)|`2024-10-25 00:19:35`|
-|2|[johanna&#46;cc&#46;deadlock&#46;by&#46;pirolo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47327)|`2024-10-25 00:19:35`|
-|1|[theHunter Internal Radar & ESP v1&#46;2&#46;91](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47342)|`2024-10-25 01:42:32`|
-|1|[Off The Grid SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47341)|`2024-10-25 01:42:32`|
-|11|[HyperBar&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47345)|`2024-10-25 10:06:31`|
-|4|[Unibot&#45;2024&#45;10&#45;24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47346)|`2024-10-25 16:14:42`|
+|26|[Unibot&#45;2024&#45;10&#45;24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47346)|`2024-10-26 00:19:15`|
+|114|[HyperBar&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47345)|`2024-10-26 00:19:15`|
+|20|[theHunter Internal Radar & ESP v1&#46;2&#46;91](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47342)|`2024-10-26 00:19:15`|
+|10|[Off The Grid SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47341)|`2024-10-26 00:19:15`|
+|119|[DayZ1&#46;26Fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47339)|`2024-10-26 00:19:15`|
+|36|[RailgunAnyGun&#46;CETRAINER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47338)|`2024-10-26 00:19:15`|
+|27|[PumpkinHunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47335)|`2024-10-26 00:19:15`|
+|24|[Lockdown Protocol External Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47334)|`2024-10-26 00:19:15`|
+|56|[Lockdown Protocol External v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47333)|`2024-10-26 00:19:15`|
+|3|[theHunter Internal Radar & ESP v1&#46;2&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47332)|`2024-10-26 00:19:15`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
-|[BattlEyen't &#45; play offline raids without BattlEye on live version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/481919-battleyent-play-offline-raids-battleye-live-version.html)|`2024-10-25 23:42:00`|`Escape from Tarkov`|
-|[A good solution for getting all the necessary bones &#40;given different ids&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/668673-solution-getting-bones-ids.html)|`2024-10-25 23:36:00`|`Deadlock`|
-|[Throne and Liberty Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/649981-throne-liberty-reversal-structs-offsets.html)|`2024-10-25 23:33:00`|`Other MMORPG and Strategy`|
-|[ACE Anti Cheat Expert bypass, arduino shield, VM? how to?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668332-ace-anti-cheat-expert-bypass-arduino-shield-vm.html)|`2024-10-25 23:08:00`|`Anti-Cheat Bypass`|
-|[EzFrags CS2 MultiHack &#91;MEME&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668670-ezfrags-cs2-multihack-meme.html)|`2024-10-25 22:59:00`|`Counter-Strike 2`|
-|[Any new info on anticheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/667984-info-anticheat.html)|`2024-10-25 22:26:00`|`Battlefield 1`|
-|[Combat Master Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/580878-combat-master-reversal-structs-offsets.html)|`2024-10-25 22:23:00`|`Combat Master`|
-|[Shit Py Spoofer I Made](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667673-shit-py-spoofer.html)|`2024-10-25 22:09:00`|`Valorant`|
-|[How does PUBG Mobile detect if a debugger is attached or if ptrace is being used?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/668665-pubg-mobile-detect-debugger-attached-ptrace.html)|`2024-10-25 22:06:00`|`PUBG Mobile`|
-|[PUBG No recoil macro v7&#46;0 For all razer mouse using Razer synapse &#91;Undetected&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/658324-pubg-recoil-macro-v7-0-razer-mouse-using-razer-synapse-undetected.html)|`2024-10-25 21:58:00`|`PUBG Releases`|
-|[Damage hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/596442-damage-hack.html)|`2024-10-25 21:53:00`|`Battlefield 1`|
-|[Speedi13 Trainer Fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/497810-speedi13-trainer-fixed.html)|`2024-10-25 21:48:00`|`Battlefield 1`|
-|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2024-10-25 21:42:00`|`Counter-Strike 2 Releases`|
-|[Talk to the manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/668660-talk-manager.html)|`2024-10-25 21:32:00`|`PUBG Mobile`|
-|[Dragon Ball SPARKING ZERO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/666057-dragon-ball-sparking-zero.html)|`2024-10-25 21:21:00`|`Other Games`|
-|[Sai's Color AImbot v3 for BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668659-sais-color-aimbot-v3-bo6.html)|`2024-10-25 21:17:00`|`Call of Duty: Black Ops 6`|
-|[FiveM External Source &#45; Krypted &#40;many Features&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/666614-fivem-external-source-krypted-features.html)|`2024-10-25 21:14:00`|`Alternative Online Mods`|
-|[esp rendering help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668658-esp-rendering-help.html)|`2024-10-25 21:01:00`|`Counter-Strike 2`|
-|[are lua scripts on logitech detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668656-lua-scripts-logitech-detected.html)|`2024-10-25 20:57:00`|`Rust`|
-|[Fastest Python Valorant Triggerbot &#40;fr&#41;&#40;fr&#41;&#40;fr&#41; &#43; Addon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/641020-fastest-python-valorant-triggerbot-fr-fr-fr-addon.html)|`2024-10-25 20:52:00`|`Valorant`|
-|[Combat Master CE Godmode, MEGA XP, Instant Weapon/Player Max Level, Attachment Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/583715-combat-master-ce-godmode-mega-xp-instant-weapon-player-max-level-attachment-mod.html)|`2024-10-25 20:49:00`|`Combat Master`|
-|[error in dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668653-error-dumper.html)|`2024-10-25 20:46:00`|`Rust`|
-|[Pasted Valorant Triggerbot &#40;Tested 9&#43; Hours, No Ban&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668023-pasted-valorant-triggerbot-tested-9-hours-ban.html)|`2024-10-25 20:34:00`|`Valorant`|
-|[aimbot issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/668651-aimbot-issue.html)|`2024-10-25 20:31:00`|`Deadlock`|
-|[APEX ESP only p10000 source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668650-apex-esp-p10000-source.html)|`2024-10-25 20:24:00`|`Apex Legends`|
-|[win11 24h2 hollowing process error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/667623-win11-24h2-hollowing-process-error.html)|`2024-10-25 20:21:00`|`General Programming and Reversing`|
-|[Accessing array of classes with IL2CPP resolver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/668648-accessing-array-classes-il2cpp-resolver.html)|`2024-10-25 19:52:00`|`Unity`|
-|[please help me fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/668647-please-help-fix.html)|`2024-10-25 19:51:00`|`Playerunknown's Battlegrounds`|
-|[Cultist Knives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658823-cultist-knives.html)|`2024-10-25 19:28:00`|`Escape from Tarkov`|
-|[HWID BAN and Network Card](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668614-hwid-ban-network-card.html)|`2024-10-25 19:27:00`|`Apex Legends`|
-|[CS2 External Cheat &#45; ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/655165-cs2-external-cheat-esp-aimbot.html)|`2024-10-25 19:23:00`|`Counter-Strike 2 Releases`|
-|[R6 Credits via XBOX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/661115-r6-credits-via-xbox.html)|`2024-10-25 19:13:00`|`Rainbow Six Siege`|
-|[Broken AI Plunder AFK bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/668263-broken-ai-plunder-afk-bot.html)|`2024-10-25 19:19:00`|`Call of Duty: Modern Warfare III`|
-|[OriginOTG &#45; Free Public Wallhacks/ESP for Off the Grid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667423-originotg-free-public-wallhacks-esp-grid.html)|`2024-10-25 19:01:00`|`Other FPS Games`|
-|[AoE4 No Fog of War](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/500872-aoe4-fog-war.html)|`2024-10-25 18:57:00`|`Other MMORPG and Strategy`|
-|[CS2 external esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/600259-cs2-external-esp.html)|`2024-10-25 18:50:00`|`Counter-Strike 2 Releases`|
-|[Nvidia leaked code/driver cert](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/491501-nvidia-leaked-code-driver-cert.html)|`2024-10-25 18:39:00`|`Anti-Cheat Bypass`|
-|[Crossfire](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/668480-crossfire.html)|`2024-10-25 18:02:00`|`CrossFire`|
-|[Ardunio memory reading and transfer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668613-ardunio-memory-reading-transfer.html)|`2024-10-25 17:45:00`|`Call of Duty: Black Ops 6`|
-|[Do custom cheat Engine works ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668612-custom-cheat-engine.html)|`2024-10-25 17:40:00`|`Call of Duty: Black Ops 6`|
-|[How to Perm Spoof a SSD NVMe the real way&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667328-perm-spoof-ssd-nvme-real.html)|`2024-10-25 17:21:00`|`Anti-Cheat Bypass`|
-|[Residential VPN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668610-residential-vpn.html)|`2024-10-25 17:16:00`|`Valorant`|
-|[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2024-10-25 17:04:00`|`Other FPS Games`|
-|[Ark Survival Ascended &#45; Function not working in multiplayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/668604-ark-survival-ascended-function-multiplayer.html)|`2024-10-25 16:24:00`|`Other FPS Games`|
-|[Spectre Divide Colorbot & more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/660411-spectre-divide-colorbot.html)|`2024-10-25 16:16:00`|`Other FPS Games`|
-|[Having a VERY hard time with a windows hardware ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668603-hard-time-windows-hardware-ban.html)|`2024-10-25 16:05:00`|`Apex Legends`|
-|[My players array is missing players  help me Thx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668601-players-array-missing-players-help-thx.html)|`2024-10-25 15:36:00`|`Apex Legends`|
-|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-10-25 15:34:00`|`Playerunknown's Battlegrounds`|
-|[Bot Lobbies and Unlock tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668047-bot-lobbies-unlock-tool.html)|`2024-10-25 15:29:00`|`Call of Duty: Black Ops 6`|
-|[Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668477-silent-aim.html)|`2024-10-25 15:26:00`|`Counter-Strike 2`|
-|[Arena Breakout Infinite Internal Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/641795-arena-breakout-infinite-internal-hack.html)|`2024-10-25 15:24:00`|`Other FPS Games`|
-|[MW3 Aim Assist &#40; MOUSE &#43; KEYBOARD &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/650549-mw3-aim-assist-mouse-keyboard.html)|`2024-10-25 15:01:00`|`Call of Duty: Modern Warfare III`|
-|["Speedboost" Feature](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/668600-speedboost-feature.html)|`2024-10-25 15:15:00`|`Deadlock`|
-|[MW3 and Warzone DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/663777-mw3-warzone-dma-source.html)|`2024-10-25 14:28:00`|`Call of Duty: Modern Warfare III`|
-|[Kovaak's FPS Aim Trainer External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/595259-kovaaks-fps-aim-trainer-external-cheat.html)|`2024-10-25 13:57:00`|`Other FPS Games`|
-|[HWID Banned even after changing PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668593-hwid-banned-changing-pc.html)|`2024-10-25 13:55:00`|`Valorant`|
-|[Age of Empires 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/589592-age-empires-4-reversal-structs-offsets.html)|`2024-10-25 12:43:00`|`Other MMORPG and Strategy`|
-|[Remove teammates from esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668590-remove-teammates-esp.html)|`2024-10-25 12:36:00`|`Counter-Strike 2`|
-|[Regarding AHK Detection and Color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668589-regarding-ahk-detection-color-aimbot.html)|`2024-10-25 12:29:00`|`Call of Duty: Black Ops 6`|
-|[Heist Editor v3&#46;6 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/451205-heist-editor-v3-6-external.html)|`2024-10-25 12:17:00`|`Grand Theft Auto V`|
-|[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2024-10-25 11:25:00`|`Escape from Tarkov`|
-|[Valorant &#43; Arduino = Ban?&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668584-valorant-arduino-ban.html)|`2024-10-25 11:18:00`|`Valorant`|
-|[Universal Recoil &#40;like UMT program&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/617894-universal-recoil-umt-program.html)|`2024-10-25 11:11:00`|`Other FPS Games`|
-|[Is there anyway to bypass the eaac?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/668370-anyway-bypass-eaac.html)|`2024-10-25 11:00:00`|`Battlefield V`|
-|[Patience &#45; An External Linux Cheat &#91;Overlay/CLI&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/648832-patience-external-linux-cheat-overlay-cli.html)|`2024-10-25 10:44:00`|`Apex Legends`|
-|[Does Cheat Engine Get Auto&#45;Detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/660322-cheat-engine-auto-detected.html)|`2024-10-25 10:35:00`|`Call of Duty: Black Ops 6`|
-|[Bypass emulator not work need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/668074-bypass-emulator-help.html)|`2024-10-25 10:19:00`|`PUBG Mobile`|
-|[Anti Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/663482-anti-cheat.html)|`2024-10-25 10:15:00`|`Call of Duty: Black Ops 6`|
-|[Free ESP Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668004-free-esp-cheat.html)|`2024-10-25 10:07:00`|`Counter-Strike 2`|
-|[r6 no recoil the best one out](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/668547-r6-recoil.html)|`2024-10-25 10:03:00`|`Rainbow Six Siege`|
-|[seo64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/662767-seo64.html)|`2024-10-25 09:54:00`|`Team Fortress 2`|
-|[Overwatch Geforce Now](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/663262-overwatch-geforce.html)|`2024-10-25 09:20:00`|`Overwatch`|
-|[Lockdown Protocol Cheat Table v0&#46;1&#46;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/659299-lockdown-protocol-cheat-table-v0-1-26-a.html)|`2024-10-25 09:14:00`|`Other Games`|
-|[This Generation Is Easily Brainwashed &#40;USA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/668037-generation-easily-brainwashed-usa.html)|`2024-10-25 08:34:00`|`Off Topic`|
-|[R/W External Silent Aim POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/668514-external-silent-aim-poc.html)|`2024-10-25 08:20:00`|`Escape from Tarkov`|
-|[Getting entity list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668568-getting-entity-list.html)|`2024-10-25 08:15:00`|`Rust`|
-|[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2024-10-25 08:08:00`|`Grand Theft Auto V`|
-|[Lightkeeper Questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/668364-lightkeeper-questions.html)|`2024-10-25 08:06:00`|`Escape from Tarkov`|
-|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2024-10-25 08:00:00`|`Escape from Tarkov`|
-|[Javascript Reverse Engineering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/web-and-scripting/668567-javascript-reverse-engineering.html)|`2024-10-25 07:36:00`|`Web and Scripting`|
-|[get weird crash error on memcpy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668565-weird-crash-error-memcpy.html)|`2024-10-25 07:20:00`|`Counter-Strike 2`|
-|[Sker Ritual](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/634621-sker-ritual.html)|`2024-10-25 07:14:00`|`Unity`|
-|[Vigor internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662490-vigor-internal-cheat.html)|`2024-10-25 06:57:00`|`Other FPS Games`|
-|[world of warships Aim Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/668362-world-warships-aim-mod.html)|`2024-10-25 06:52:00`|`Other FPS Games`|
-|[Nixware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/643902-nixware.html)|`2024-10-25 06:48:00`|`Garry's Mod`|
-|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2024-10-25 06:25:00`|`Overwatch`|
-|[Server RPC Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/666059-server-rpc-issues.html)|`2024-10-25 06:16:00`|`Unreal Engine 4`|
-|[What effects of cannabis on you body ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/366837-effects-cannabis-body.html)|`2024-10-25 06:14:00`|`Off Topic`|
-|[Nika &#45; Light Weight C&#43;&#43; Linux Pasta Cheat &#45; Health Based Sense, Aimbot, TriggerBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/634402-nika-light-weight-linux-pasta-cheat-health-based-sense-aimbot-triggerbot.html)|`2024-10-25 06:07:00`|`Apex Legends`|
-|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-10-25 06:07:00`|`Valorant`|
-|[Linux Apex Optimization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/642605-linux-apex-optimization.html)|`2024-10-25 06:03:00`|`Apex Legends`|
-|[&#91;Updated&#93; Dead by Daylight Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/635513-updated-dead-daylight-unlock-dlcs-skins.html)|`2024-10-25 05:41:00`|`Other FPS Games`|
-|[Bypass &#40;HGW Game Watcher&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/668109-bypass-hgw-game-watcher.html)|`2024-10-25 05:25:00`|`CrossFire`|
-|[Progress was set to 0 :&#40;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-3-a/668343-progress-set-0-a.html)|`2024-10-25 05:32:00`|`Battlefield 3`|
-|[Developing bf2 cheat&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/630106-developing-bf2-cheat.html)|`2024-10-25 05:28:00`|`Battlefield 2`|
-|[Apex Doesn't Support Linux Anymore?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668550-apex-doesnt-support-linux-anymore.html)|`2024-10-25 05:19:00`|`Apex Legends`|
-|[Getting skins images with vtex parser for D3DX11CreateShaderResourceViewFromMemory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668507-getting-skins-images-vtex-parser-d3dx11createshaderresourceviewfrommemory.html)|`2024-10-25 05:14:00`|`Counter-Strike 2`|
-|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2024-10-25 04:53:00`|`DayZ SA`|
-|[Decrypting FiveM Escrow Aka FXAP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/657822-decrypting-fivem-escrow-aka-fxap.html)|`2024-10-25 04:52:00`|`Alternative Online Mods`|
-|[Base address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668019-base-address.html)|`2024-10-25 04:43:00`|`Valorant`|
-|[Online 3351 with latest yim bypass &#40;work&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/668432-online-3351-yim-bypass.html)|`2024-10-25 04:40:00`|`Grand Theft Auto V`|
-|[Gmod&#45;SDK FIXED &#40;FULL WORKING 15/10/24&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/667003-gmod-sdk-fixed-15-10-24-a.html)|`2024-10-25 04:39:00`|`Garry's Mod`|
-|[SCP SL Cheat v13&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/611154-scp-sl-cheat-v13-3-1-a.html)|`2024-10-25 04:21:00`|`Other Games`|
-|[Strinova Pixel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/643727-strinova-pixel.html)|`2024-10-25 04:14:00`|`Other FPS Games`|
-|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2024-10-25 04:12:00`|`Other FPS Games`|
-|[Liars Bar DLL &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/668545-liars-bar-dll-source.html)|`2024-10-25 04:11:00`|`Other Games`|
-|[Mech Warrior Online esp?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/665226-mech-warrior-online-esp.html)|`2024-10-25 04:10:00`|`Other FPS Games`|
-|[Off The Grid Internal &#40;Aimbot, ESP, Exploits&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667656-grid-internal-aimbot-esp-exploits.html)|`2024-10-25 03:54:00`|`Other FPS Games`|
-|[zap&#45;client &#91;Legitbot, Ragebot, Glow, ESP & More&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/628823-zap-client-legitbot-ragebot-glow-esp.html)|`2024-10-25 03:45:00`|`Apex Legends`|
-|[Color Detecting Aimbot &#40;Excalibur&#41; Reworked & Fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/xdefiant/654679-color-detecting-aimbot-excalibur-reworked-fixed.html)|`2024-10-25 03:32:00`|`xDefiant`|
-|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2024-10-25 03:24:00`|`Deadlock`|
-|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2024-10-25 03:22:00`|`Rainbow Six Siege`|
-|[What cheats rn?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/657707-cheats-rn.html)|`2024-10-25 03:16:00`|`Garry's Mod`|
-|[help with cranium](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/668412-help-cranium.html)|`2024-10-25 03:14:00`|`Garry's Mod`|
-|[Blazing Sails Hack &#91;Win10&#93; &#91;Steam/EGS&#93; &#124; ESP &#124; SpeedHack &#124; NoClip &#124; More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620821-blazing-sails-hack-win10-steam-egs-esp-speedhack-noclip.html)|`2024-10-25 03:11:00`|`Other FPS Games`|
-|[battlfield 1 Evicted bfone v1&#46;07&#46;5107 internal Aim&#43;esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/650952-battlfield-1-evicted-bfone-v1-07-5107-internal-aim-esp.html)|`2024-10-25 03:10:00`|`Battlefield 1`|
-|[VAC kernel&#45;mode bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668374-vac-kernel-mode-bypass.html)|`2024-10-25 03:07:00`|`Anti-Cheat Bypass`|
-|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2024-10-25 03:05:00`|`Grand Theft Auto V`|
-|[Exit hidden process](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667665-exit-hidden-process.html)|`2024-10-25 03:01:00`|`Anti-Cheat Bypass`|
-|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-10-25 02:39:00`|`Rust`|
-|[YimMenu &#91;1&#46;69 &#45; b3337&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3337.html)|`2024-10-25 02:32:00`|`Grand Theft Auto V`|
-|[Help to find offsets for Abilities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/668535-help-offsets-abilities.html)|`2024-10-25 02:29:00`|`Overwatch`|
-|[about AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662127-ahk.html)|`2024-10-25 02:28:00`|`Apex Legends`|
-|[Will anti&#45;cheat detection capabilities become stronger after reaching the Grandmaster](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668500-anti-cheat-detection-capabilities-stronger-reaching-grandmaster.html)|`2024-10-25 02:27:00`|`Apex Legends`|
-|[Cs2 injection via loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668506-cs2-injection-via-loader.html)|`2024-10-25 02:24:00`|`Counter-Strike 2`|
-|[New Zealand method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668475-zealand-method.html)|`2024-10-25 02:22:00`|`Call of Duty: Black Ops 6`|
-|[How to start out with Arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668534-start-arduino.html)|`2024-10-25 02:14:00`|`Valorant`|
-|[Genshin İmpact Shika Cheat 5&#46;0&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/660051-genshin-mpact-shika-cheat-5-0-0-1-a.html)|`2024-10-25 02:12:00`|`Genshin Impact`|
-|[Pi Pico alternative to Arduino Leonardo Host Shield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668248-pi-pico-alternative-arduino-leonardo-host-shield.html)|`2024-10-25 02:03:00`|`Valorant`|
-|[Pumpkin Hunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/668411-pumpkin-hunter.html)|`2024-10-25 01:57:00`|`All Points Bulletin`|
-|[Classes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/668384-classes.html)|`2024-10-25 01:56:00`|`Grand Theft Auto V`|
-|[Team Fortress 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/102936-team-fortress-2-reversal-structs-offsets.html)|`2024-10-25 01:42:00`|`Team Fortress 2`|
-|[BannleEye &#45; Banning arbitrary players using BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667333-bannleeye-banning-arbitrary-players-using.html)|`2024-10-25 01:30:00`|`Anti-Cheat Bypass`|
-|[Yim Menu in Chinese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/668102-yim-menu-chinese.html)|`2024-10-25 01:26:00`|`Grand Theft Auto V`|
-|[Vigor Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662145-vigor-reversal-structs-offsets.html)|`2024-10-25 01:28:00`|`Other FPS Games`|
-|[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2024-10-25 01:22:00`|`DayZ SA`|
-|[Triggerbot patch Bypass for Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667460-triggerbot-patch-bypass-python.html)|`2024-10-25 01:21:00`|`Valorant`|
-|[DMA DayZ Fuser ESP &#43; Radar Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/606723-dma-dayz-fuser-esp-radar-source-release.html)|`2024-10-25 01:20:00`|`DayZ SA`|
-|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2024-10-25 01:20:00`|`Call of Duty: Black Ops 6`|
-|[SEOwnedDE Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/644283-seownedde-updated.html)|`2024-10-25 01:10:00`|`Team Fortress 2`|
-|[theHunter: Call of the Wild Internal Radar, ESP, & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644365-thehunter-call-wild-internal-radar-esp.html)|`2024-10-25 01:07:00`|`Other FPS Games`|
-|[Call of Duty: Modern Warfare III Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/605287-call-duty-modern-warfare-iii-reversal-structs-offsets.html)|`2024-10-25 01:06:00`|`Call of Duty: Modern Warfare III`|
-|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-10-25 01:06:00`|`Grand Theft Auto V`|
-|[Unlock All Problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/668369-unlock.html)|`2024-10-25 01:02:00`|`Call of Duty: Modern Warfare III`|
-|[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-10-25 01:01:00`|`Other Games`|
-|[easy method to make Undetected Cheat Engine &#43; Driver &#43; DSE&#45;Patcher &#124; Bypass AC 2023](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/606839-easy-method-undetected-cheat-engine-driver-dse-patcher-bypass-ac-2023-a.html)|`2024-10-25 00:53:00`|`Anti-Cheat Bypass`|
-|[overwatch hardware ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/668410-overwatch-hardware-ban.html)|`2024-10-25 00:52:00`|`Overwatch`|
-|[DayZ 1&#46;26 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/668418-dayz-1-26-cheat.html)|`2024-10-25 00:50:00`|`DayZ SA`|
-|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2024-10-25 00:50:00`|`Other FPS Games`|
-|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2024-10-25 00:43:00`|`Other FPS Games`|
-|[The Truth Bar Menu &#45; V0&#46;1 &#124; Liar's bar internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667906-truth-bar-menu-v0-1-liars-bar-internal-cheat.html)|`2024-10-25 00:41:00`|`Other Games`|
-|[Is Visible](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/668015-visible.html)|`2024-10-25 00:31:00`|`Deadlock`|
-|[Linux Install Error?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668527-linux-install-error.html)|`2024-10-25 00:30:00`|`Apex Legends`|
-|[Sea of Thieves paks for FOV, no fog, and more&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/666959-sea-thieves-paks-fov-fog.html)|`2024-10-25 00:28:00`|`Sea of Thieves`|
-|[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-10-25 00:25:00`|`Overwatch`|
-|[PUBG DMA Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/644302-pubg-dma-cheat-run.html)|`2024-10-25 00:18:00`|`Playerunknown's Battlegrounds`|
-|[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-10-25 00:17:00`|`Escape from Tarkov`|
-|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2024-10-25 00:17:00`|`Apex Legends`|
-|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2024-10-25 00:12:00`|`Counter-Strike 2`|
-|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-10-25 00:09:00`|`Apex Legends`|
-|[Unibot &#124; An open&#45;source colorbot that just works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/603461-unibot-source-colorbot.html)|`2024-10-25 00:06:00`|`Valorant`|
-|[Off the Grid Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/665981-grid-reversal-structs-offsets.html)|`2024-10-25 00:05:00`|`Other FPS Games`|
-|[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-10-24 23:58:00`|`Deadlock`|
-|[DayZ Hacking and Bypassing &#45; noob question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/652658-dayz-hacking-bypassing-noob-question.html)|`2024-10-24 23:54:00`|`DayZ SA`|
-|[Escape The Backrooms Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/615556-escape-backrooms-internal.html)|`2024-10-24 23:53:00`|`Other FPS Games`|
+|[error in dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668653-error-dumper.html)|`2024-10-26 00:18:00`|`Rust`|
+|[A good solution for getting all the necessary bones &#40;given different ids&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/668673-solution-getting-bones-ids.html)|`2024-10-26 00:13:00`|`Deadlock`|
+|[Phasmo Icetrix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/432538-phasmo-icetrix.html)|`2024-10-26 00:12:00`|`Phasmophobia`|
+|[APEX ESP only p10000 source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668650-apex-esp-p10000-source.html)|`2024-10-26 00:11:00`|`Apex Legends`|
+|[Regarding AHK Detection and Color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668589-regarding-ahk-detection-color-aimbot.html)|`2024-10-26 00:08:00`|`Call of Duty: Black Ops 6`|
+|[Getting skins images with vtex parser for D3DX11CreateShaderResourceViewFromMemory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668507-getting-skins-images-vtex-parser-d3dx11createshaderresourceviewfrommemory.html)|`2024-10-26 00:07:00`|`Counter-Strike 2`|
+|[Getting entity list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668568-getting-entity-list.html)|`2024-10-26 00:05:00`|`Rust`|
+|[are lua scripts on logitech detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668656-lua-scripts-logitech-detected.html)|`2024-10-26 00:03:00`|`Rust`|
+|[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2024-10-26 00:03:00`|`Escape from Tarkov`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-10-26 00:03:00`|`Valorant`|
