@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Patience &#45; An External Linux Cheat &#91;Overlay/CLI&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/648832-patience-external-linux-cheat-overlay-cli.html)|`2024-10-25 10:44:00`|`Apex Legends`|
+|[Does Cheat Engine Get Auto&#45;Detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/660322-cheat-engine-auto-detected.html)|`2024-10-25 10:35:00`|`Call of Duty: Black Ops 6`|
+|[Bypass emulator not work need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/668074-bypass-emulator-help.html)|`2024-10-25 10:19:00`|`PUBG Mobile`|
+|[Anti Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/663482-anti-cheat.html)|`2024-10-25 10:15:00`|`Call of Duty: Black Ops 6`|
+|[Free ESP Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668004-free-esp-cheat.html)|`2024-10-25 10:07:00`|`Counter-Strike 2`|
 |[r6 no recoil the best one out](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/668547-r6-recoil.html)|`2024-10-25 10:03:00`|`Rainbow Six Siege`|
 |[seo64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/662767-seo64.html)|`2024-10-25 09:54:00`|`Team Fortress 2`|
 |[Overwatch Geforce Now](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/663262-overwatch-geforce.html)|`2024-10-25 09:20:00`|`Overwatch`|
