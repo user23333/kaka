@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pasted Valorant Triggerbot &#40;Tested 9&#43; Hours, No Ban&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668023-pasted-valorant-triggerbot-tested-9-hours-ban.html)|`2024-10-25 20:34:00`|`Valorant`|
+|[aimbot issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/668651-aimbot-issue.html)|`2024-10-25 20:31:00`|`Deadlock`|
+|[APEX ESP only p10000 source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668650-apex-esp-p10000-source.html)|`2024-10-25 20:24:00`|`Apex Legends`|
+|[win11 24h2 hollowing process error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/667623-win11-24h2-hollowing-process-error.html)|`2024-10-25 20:21:00`|`General Programming and Reversing`|
 |[Accessing array of classes with IL2CPP resolver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/668648-accessing-array-classes-il2cpp-resolver.html)|`2024-10-25 19:52:00`|`Unity`|
 |[please help me fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/668647-please-help-fix.html)|`2024-10-25 19:51:00`|`Playerunknown's Battlegrounds`|
 |[Cultist Knives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658823-cultist-knives.html)|`2024-10-25 19:28:00`|`Escape from Tarkov`|
