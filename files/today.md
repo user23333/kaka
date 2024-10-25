@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668477-silent-aim.html)|`2024-10-26 07:09:00`|`Counter-Strike 2`|
+|[Residential VPN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668610-residential-vpn.html)|`2024-10-26 07:09:00`|`Valorant`|
+|[View Matrix Search For Android Emulator EN &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/668737-view-matrix-search-android-emulator-en.html)|`2024-10-26 07:02:00`|`PUBG Mobile`|
 |[FSL problem :&#40;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/668671-fsl.html)|`2024-10-26 06:55:00`|`Grand Theft Auto V`|
 |[Is there open&#45;source projects in the Pubg forum like the Zap client?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/668515-source-projects-pubg-forum-zap-client.html)|`2024-10-26 06:52:00`|`Playerunknown's Battlegrounds`|
 |[Anti Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/663482-anti-cheat.html)|`2024-10-26 06:52:00`|`Call of Duty: Black Ops 6`|
