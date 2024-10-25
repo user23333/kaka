@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Accessing array of classes with IL2CPP resolver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/668648-accessing-array-classes-il2cpp-resolver.html)|`2024-10-25 19:52:00`|`Unity`|
+|[please help me fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/668647-please-help-fix.html)|`2024-10-25 19:51:00`|`Playerunknown's Battlegrounds`|
 |[Cultist Knives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658823-cultist-knives.html)|`2024-10-25 19:28:00`|`Escape from Tarkov`|
 |[HWID BAN and Network Card](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668614-hwid-ban-network-card.html)|`2024-10-25 19:27:00`|`Apex Legends`|
 |[CS2 External Cheat &#45; ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/655165-cs2-external-cheat-esp-aimbot.html)|`2024-10-25 19:23:00`|`Counter-Strike 2 Releases`|
