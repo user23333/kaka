@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Crossfire](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/668480-crossfire.html)|`2024-10-25 18:02:00`|`CrossFire`|
 |[Ardunio memory reading and transfer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668613-ardunio-memory-reading-transfer.html)|`2024-10-25 17:45:00`|`Call of Duty: Black Ops 6`|
 |[Do custom cheat Engine works ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668612-custom-cheat-engine.html)|`2024-10-25 17:40:00`|`Call of Duty: Black Ops 6`|
 |[How to Perm Spoof a SSD NVMe the real way&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667328-perm-spoof-ssd-nvme-real.html)|`2024-10-25 17:21:00`|`Anti-Cheat Bypass`|
