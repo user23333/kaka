@@ -12,6 +12,7 @@
 |15|[VAC kernel&#45;mode bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668374-vac-kernel-mode-bypass.html)|`2024-10-26 00:19:15`|`anti-cheat-bypass`|
 |18|[You can no longer patch ScripthookV for online mode? &#40;eCoreTerminatin was removed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667634-patch-scripthookv-online-mode-ecoreterminatin-removed.html)|`2024-10-26 00:19:15`|`grand-theft-auto-v`|
 |13|[Pasted Valorant Triggerbot &#40;Tested 9&#43; Hours, No Ban&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668023-pasted-valorant-triggerbot-tested-9-hours-ban.html)|`2024-10-26 01:00:18`|`valorant`|
+|16|[Online 3351 with latest yim bypass &#40;work&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/668432-online-3351-yim-bypass.html)|`2024-10-26 06:09:59`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2024-10-26 06:07:00`|`Apex Legends`|
+|[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-10-26 05:57:00`|`Escape from Tarkov`|
 |[Vigor internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662490-vigor-internal-cheat.html)|`2024-10-26 05:55:00`|`Other FPS Games`|
 |[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-10-26 05:50:00`|`Other Games`|
 |[How to replace side summoner names with champion names in spectator mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/668727-replace-summoner-names-champion-names-spectator-mode.html)|`2024-10-26 05:45:00`|`League of Legends`|
