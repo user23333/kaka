@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bot Lobbies and Unlock tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668047-bot-lobbies-unlock-tool.html)|`2024-10-25 15:29:00`|`Call of Duty: Black Ops 6`|
+|[Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668477-silent-aim.html)|`2024-10-25 15:26:00`|`Counter-Strike 2`|
+|[Arena Breakout Infinite Internal Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/641795-arena-breakout-infinite-internal-hack.html)|`2024-10-25 15:24:00`|`Other FPS Games`|
+|[MW3 Aim Assist &#40; MOUSE &#43; KEYBOARD &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/650549-mw3-aim-assist-mouse-keyboard.html)|`2024-10-25 15:01:00`|`Call of Duty: Modern Warfare III`|
 |["Speedboost" Feature](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/668600-speedboost-feature.html)|`2024-10-25 15:15:00`|`Deadlock`|
 |[MW3 and Warzone DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/663777-mw3-warzone-dma-source.html)|`2024-10-25 14:28:00`|`Call of Duty: Modern Warfare III`|
 |[Kovaak's FPS Aim Trainer External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/595259-kovaaks-fps-aim-trainer-external-cheat.html)|`2024-10-25 13:57:00`|`Other FPS Games`|
