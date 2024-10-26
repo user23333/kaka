@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust decryption automation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668743-rust-decryption-automation.html)|`2024-10-26 09:03:00`|`Rust`|
+|[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2024-10-26 08:54:00`|`THE FINALS`|
+|[Several questions about how to make my own external cheat more undetectable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668734-questions-own-external-cheat-undetectable.html)|`2024-10-26 08:50:00`|`Anti-Cheat Bypass`|
+|[DMA firmware question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/668106-dma-firmware-question.html)|`2024-10-26 08:48:00`|`Escape from Tarkov`|
+|[FamilyMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/631659-familymenu.html)|`2024-10-26 08:39:00`|`Red Dead Redemption 2`|
 |[Speedi13 Trainer Fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/497810-speedi13-trainer-fixed.html)|`2024-10-26 07:54:00`|`Battlefield 1`|
 |[Broken AI Plunder AFK bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/668263-broken-ai-plunder-afk-bot.html)|`2024-10-26 07:34:00`|`Call of Duty: Modern Warfare III`|
 |[internal shitty past bf1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/523274-internal-shitty-past-bf1.html)|`2024-10-26 07:26:00`|`Battlefield 1`|
