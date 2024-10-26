@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HWID Banned even after changing PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668593-hwid-banned-changing-pc.html)|`2024-10-26 18:43:00`|`Valorant`|
+|[nmi stackwalking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668798-nmi-stackwalking.html)|`2024-10-26 18:41:00`|`Anti-Cheat Bypass`|
+|[Multiple instances of steam/cs2 WITHOUT sandboxing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666875-multiple-instances-steam-cs2-sandboxing.html)|`2024-10-26 18:36:00`|`Counter-Strike 2`|
 |[Fastest Python Valorant Triggerbot &#40;fr&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612762-fastest-python-valorant-triggerbot-fr.html)|`2024-10-26 18:20:00`|`Valorant`|
 |[Help me choose communication method&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668099-help-choose-communication-method.html)|`2024-10-26 18:01:00`|`Anti-Cheat Bypass`|
 |[Help with finding function definition within DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/668772-help-finding-function-definition-dll.html)|`2024-10-26 18:00:00`|`General Programming and Reversing`|
