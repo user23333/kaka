@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fastest Python Valorant Triggerbot &#40;fr&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612762-fastest-python-valorant-triggerbot-fr.html)|`2024-10-26 18:20:00`|`Valorant`|
 |[Help me choose communication method&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668099-help-choose-communication-method.html)|`2024-10-26 18:01:00`|`Anti-Cheat Bypass`|
 |[Help with finding function definition within DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/668772-help-finding-function-definition-dll.html)|`2024-10-26 18:00:00`|`General Programming and Reversing`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/652967-marvel-rivals-reversal-structs-offsets.html)|`2024-10-26 17:52:00`|`Other FPS Games`|
