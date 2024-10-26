@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Faceit ID verification](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668669-faceit-id-verification.html)|`2024-10-26 17:26:00`|`Counter-Strike 2`|
+|[TFGhost](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/471765-tfghost.html)|`2024-10-26 17:26:00`|`Team Fortress 2`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2024-10-26 17:37:00`|`Other FPS Games`|
 |[get weird crash error on memcpy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668565-weird-crash-error-memcpy.html)|`2024-10-26 17:33:00`|`Counter-Strike 2`|
 |[DLL hook source code that logs filenames from Juiced DATs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/668791-dll-hook-source-code-logs-filenames-juiced-dats.html)|`2024-10-26 17:14:00`|`Other MMORPG and Strategy`|
