@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pessi "Money Options" lua script for YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597857-pessi-money-options-lua-script-yimmenu.html)|`2024-10-26 23:10:00`|`Grand Theft Auto V`|
+|[Zombies tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668766-zombies-tool.html)|`2024-10-26 23:07:00`|`Call of Duty: Black Ops 6`|
+|[Cs2 injection via loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668506-cs2-injection-via-loader.html)|`2024-10-26 23:05:00`|`Counter-Strike 2`|
+|[SEOwnedDE Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/644283-seownedde-updated.html)|`2024-10-26 23:02:00`|`Team Fortress 2`|
 |[overwatch hardware ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/668410-overwatch-hardware-ban.html)|`2024-10-26 22:25:00`|`Overwatch`|
 |[Decryptors dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/619952-decryptors-dumper.html)|`2024-10-26 22:18:00`|`Playerunknown's Battlegrounds`|
 |[My players array is missing players  help me Thx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668601-players-array-missing-players-help-thx.html)|`2024-10-26 22:03:00`|`Apex Legends`|
