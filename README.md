@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[is arduino good for colorbots atm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/651071-arduino-colorbots-atm.html)|`2024-10-27 04:20:00`|`Valorant`|
+|[Manual map without creating a thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/665677-manual-map-creating-thread.html)|`2024-10-27 04:15:00`|`Anti-Cheat Bypass`|
+|[Pro CS2 DMA &#45; Esp & Aimbot & Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656442-pro-cs2-dma-esp-aimbot-web-radar.html)|`2024-10-27 04:11:00`|`Counter-Strike 2`|
+|[internal shitty past bf1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/523274-internal-shitty-past-bf1.html)|`2024-10-27 04:10:00`|`Battlefield 1`|
 |[Is Visible](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/668015-visible.html)|`2024-10-27 04:04:00`|`Deadlock`|
 |[Sea of Thieves paks for FOV, no fog, and more&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/666959-sea-thieves-paks-fov-fog.html)|`2024-10-27 03:56:00`|`Sea of Thieves`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2024-10-27 03:45:00`|`Other FPS Games`|
