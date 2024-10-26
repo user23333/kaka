@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New to Cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668759-cheating.html)|`2024-10-26 14:49:00`|`Apex Legends`|
 |[&#91;VOTE&#93; November 2024 Member of the Month](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/668769-vote-november-2024-month.html)|`2024-10-26 14:35:00`|`Member of the Month`|
 |[How do I convert kmbox mouse coordinates to actual coordinates?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/668768-convert-kmbox-mouse-coordinates-actual-coordinates.html)|`2024-10-26 14:32:00`|`PC Hardware`|
 |[Basic jitter aim script for non logitech mice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/624352-basic-jitter-aim-script-logitech-mice.html)|`2024-10-26 14:26:00`|`Apex Legends`|
