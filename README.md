@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple Deadlock Internal &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/664240-simple-deadlock-internal-source.html)|`2024-10-26 19:30:00`|`Deadlock`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2024-10-26 19:22:00`|`Other FPS Games`|
 |[Internals, Externals, And Kernals &#124; The State of CS2 cheating&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668786-internals-externals-kernals-cs2-cheating.html)|`2024-10-26 19:12:00`|`Counter-Strike 2`|
 |[Black Ops 6 RTM Tool &#40;PS4&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/655292-black-ops-6-rtm-tool-ps4.html)|`2024-10-26 19:01:00`|`Call of Duty: Black Ops 6`|
 |[👽 VALORANT Skin Changer &#40;Just Inject it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/517551-valorant-skin-changer-inject.html)|`2024-10-26 19:00:00`|`Valorant`|
