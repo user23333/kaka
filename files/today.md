@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[camo service](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668781-camo-service.html)|`2024-10-26 16:23:00`|`Call of Duty: Black Ops 6`|
+|[Eternal Quest Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/668782-eternal-quest-online.html)|`2024-10-26 16:17:00`|`Other MMORPG and Strategy`|
+|[Sai's Color Aimbot BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668780-sais-color-aimbot-bo6.html)|`2024-10-26 16:10:00`|`Call of Duty: Black Ops 6`|
+|[How can some people still use Joytokey with Obs ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668779-people-joytokey-obs.html)|`2024-10-26 16:10:00`|`Apex Legends`|
 |[SCP SL Cheat v13&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/611154-scp-sl-cheat-v13-3-1-a.html)|`2024-10-26 15:40:00`|`Other Games`|
 |[Combat Master CE Godmode, MEGA XP, Instant Weapon/Player Max Level, Attachment Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/583715-combat-master-ce-godmode-mega-xp-instant-weapon-player-max-level-attachment-mod.html)|`2024-10-26 15:09:00`|`Combat Master`|
 |[New to Cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668759-cheating.html)|`2024-10-26 14:49:00`|`Apex Legends`|
