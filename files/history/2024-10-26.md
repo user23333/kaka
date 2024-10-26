@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The First Descendant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/602336-descendant-reversal-structs-offsets.html)|`2024-10-26 19:53:00`|`Other FPS Games`|
 |[Amalgam Paste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/668775-amalgam-paste.html)|`2024-10-26 19:51:00`|`Team Fortress 2`|
 |[Winebot Rose Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/625663-winebot-rose-online.html)|`2024-10-26 19:41:00`|`Other MMORPG and Strategy`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-10-26 19:39:00`|`Playerunknown's Battlegrounds`|
