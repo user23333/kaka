@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SharpMonoInjector Fixed and Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/408878-sharpmonoinjector-fixed-updated.html)|`2024-10-27 02:25:00`|`Unity`|
+|[Roblox DMA cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/653168-roblox-dma-cheat.html)|`2024-10-27 02:25:00`|`Forum General`|
+|[USB Host Shield not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668745-usb-host-shield.html)|`2024-10-27 02:22:00`|`Valorant`|
+|[DMA FIRMWARE AND BEGINNER CHEATS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/668666-dma-firmware-beginner-cheats.html)|`2024-10-27 02:20:00`|`Escape from Tarkov`|
 |[which menu works still?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/668854-menu.html)|`2024-10-27 02:09:00`|`Grand Theft Auto V`|
 |[Getting skin images wia LoadImageInternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668853-getting-skin-images-wia-loadimageinternal.html)|`2024-10-27 02:01:00`|`Counter-Strike 2`|
 |[Plutonium Automatic Spoofer &#40;SRC&#41; by Germanized &#40;me&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/667187-plutonium-automatic-spoofer-src-germanized.html)|`2024-10-27 01:56:00`|`Call of Duty: Black Ops 2`|
