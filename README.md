@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/652967-marvel-rivals-reversal-structs-offsets.html)|`2024-10-26 17:52:00`|`Other FPS Games`|
+|[Marvel Rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/650818-marvel-rivals.html)|`2024-10-26 17:48:00`|`Other FPS Games`|
+|[Lua Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668793-lua-script.html)|`2024-10-26 17:22:00`|`Rust`|
 |[Faceit ID verification](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668669-faceit-id-verification.html)|`2024-10-26 17:26:00`|`Counter-Strike 2`|
 |[TFGhost](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/471765-tfghost.html)|`2024-10-26 17:26:00`|`Team Fortress 2`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2024-10-26 17:37:00`|`Other FPS Games`|
