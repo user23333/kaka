@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[WinDbg now detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/668819-windbg-detected.html)|`2024-10-26 21:00:00`|`Alternative Online Mods`|
 |[DMA FIRMWARE AND BEGINNER CHEATS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/668666-dma-firmware-beginner-cheats.html)|`2024-10-26 21:11:00`|`Escape from Tarkov`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2024-10-26 21:08:00`|`Rainbow Six Siege`|
 |[Dbdm unlock all](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/668809-dbdm-unlock.html)|`2024-10-26 20:55:00`|`Other Games`|
