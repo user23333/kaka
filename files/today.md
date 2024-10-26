@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DLL hook source code that logs filenames from Juiced DATs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/668791-dll-hook-source-code-logs-filenames-juiced-dats.html)|`2024-10-26 17:14:00`|`Other MMORPG and Strategy`|
 |[Fun things to do&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/655211-fun.html)|`2024-10-26 16:59:00`|`Off Topic`|
 |[How Checking enemy visibility internally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668787-checking-enemy-visibility-internally.html)|`2024-10-26 16:49:00`|`Counter-Strike 2`|
 |[Can't find head offset when player leans/looks up or down](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/668784-cant-head-offset-player-leans-looks.html)|`2024-10-26 16:42:00`|`General Programming and Reversing`|
