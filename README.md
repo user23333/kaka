@@ -32,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do I convert kmbox mouse coordinates to actual coordinates?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/668768-convert-kmbox-mouse-coordinates-actual-coordinates.html)|`2024-10-26 14:32:00`|`PC Hardware`|
+|[Basic jitter aim script for non logitech mice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/624352-basic-jitter-aim-script-logitech-mice.html)|`2024-10-26 14:26:00`|`Apex Legends`|
+|[Crossfire West cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/666574-crossfire-west-cheat.html)|`2024-10-26 14:22:00`|`CrossFire`|
+|[Is Visible](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/668015-visible.html)|`2024-10-26 14:20:00`|`Deadlock`|
+|[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-10-26 14:18:00`|`Counter-Strike 2`|
+|[BattlEyen't &#45; play offline raids without BattlEye on live version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/481919-battleyent-play-offline-raids-battleye-live-version.html)|`2024-10-26 13:52:00`|`Escape from Tarkov`|
 |[Remove teammates from esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668590-remove-teammates-esp.html)|`2024-10-26 13:58:00`|`Counter-Strike 2`|
 |[HWID, IP & GUID bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/667826-hwid-ip-guid-bans.html)|`2024-10-26 13:42:00`|`Battlefield 4`|
 |[Roblox Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/668764-roblox-offsets.html)|`2024-10-26 13:21:00`|`General Programming and Reversing`|
