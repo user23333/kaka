@@ -13,6 +13,7 @@
 |19|[Online 3351 with latest yim bypass &#40;work&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/668432-online-3351-yim-bypass.html)|`2024-10-27 00:00:16`|`grand-theft-auto-v`|
 |3|[Bot Lobbies and Unlock tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668047-bot-lobbies-unlock-tool.html)|`2024-10-27 01:37:34`|`call-of-duty-black-ops-6-a`|
 |42|[DayZ 1&#46;26 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/668418-dayz-1-26-cheat.html)|`2024-10-27 04:39:48`|`dayz-sa`|
+|11|[EAAntiCheat is Activated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/668067-eaanticheat-activated.html)|`2024-10-27 05:12:03`|`battlefield-1-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Full Free Rust Script &#40;Undetected&#41; &#45;&#62; 30/04/2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/634920-free-rust-script-undetected-30-04-2024-a.html)|`2024-10-27 05:07:00`|`Rust`|
+|[DayZ 1&#46;26 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/668418-dayz-1-26-cheat.html)|`2024-10-27 05:06:00`|`DayZ SA`|
 |[How does PUBG Mobile detect if a debugger is attached or if ptrace is being used?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/668665-pubg-mobile-detect-debugger-attached-ptrace.html)|`2024-10-27 04:48:00`|`PUBG Mobile`|
 |[Bypass emulator not work need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/668074-bypass-emulator-help.html)|`2024-10-27 04:43:00`|`PUBG Mobile`|
 |[Client failed an aticheat back end check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/656233-client-failed-aticheat-check.html)|`2024-10-27 04:26:00`|`Apex Legends`|
