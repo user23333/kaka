@@ -12,6 +12,7 @@
 |14|[Pasted Valorant Triggerbot &#40;Tested 9&#43; Hours, No Ban&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668023-pasted-valorant-triggerbot-tested-9-hours-ban.html)|`2024-10-27 00:00:16`|`valorant`|
 |19|[Online 3351 with latest yim bypass &#40;work&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/668432-online-3351-yim-bypass.html)|`2024-10-27 00:00:16`|`grand-theft-auto-v`|
 |3|[Bot Lobbies and Unlock tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668047-bot-lobbies-unlock-tool.html)|`2024-10-27 01:37:34`|`call-of-duty-black-ops-6-a`|
+|42|[DayZ 1&#46;26 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/668418-dayz-1-26-cheat.html)|`2024-10-27 04:39:48`|`dayz-sa`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
