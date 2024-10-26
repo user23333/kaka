@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Text appears larger when moving farther away](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667550-text-appears-larger-moving-farther.html)|`2024-10-27 02:42:00`|`Counter-Strike 2`|
 |[SharpMonoInjector Fixed and Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/408878-sharpmonoinjector-fixed-updated.html)|`2024-10-27 02:25:00`|`Unity`|
 |[Roblox DMA cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/653168-roblox-dma-cheat.html)|`2024-10-27 02:25:00`|`Forum General`|
 |[USB Host Shield not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668745-usb-host-shield.html)|`2024-10-27 02:22:00`|`Valorant`|
