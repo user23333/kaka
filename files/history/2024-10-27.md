@@ -28,9 +28,12 @@
 |35|[PumpkinHunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47335)|`2024-10-27 00:00:16`|
 |48|[Lockdown Protocol External Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47334)|`2024-10-27 00:00:16`|
 |104|[Lockdown Protocol External v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47333)|`2024-10-27 00:00:16`|
+|2|[TOP MACRO LOGITECH RUST](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47367)|`2024-10-27 18:32:02`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bo3 Unlock all](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/653808-bo3-unlock.html)|`2024-10-27 18:25:00`|`Call of Duty: Black Ops 3`|
+|[viewAngle in Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/667666-viewangle-rust.html)|`2024-10-27 18:15:00`|`Rust`|
 |[Project Papercut &#45; Dale and Dawson](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/669016-project-papercut-dale-dawson.html)|`2024-10-27 18:14:00`|`Other Games`|
 |[BloodStrike Bone Names](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669008-bloodstrike-bone-names.html)|`2024-10-27 18:10:00`|`Other FPS Games`|
 |[Vanguard question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668173-vanguard-question.html)|`2024-10-27 18:07:00`|`Valorant`|
