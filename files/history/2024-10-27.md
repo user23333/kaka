@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How does these patch&#45;offsets work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/669057-patch-offsets.html)|`2024-10-27 23:50:00`|`Rainbow Six Siege`|
+|[Lag Switch DayZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/669049-lag-switch-dayz.html)|`2024-10-27 23:49:00`|`DayZ SA`|
 |[Starting point](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668046-starting.html)|`2024-10-27 23:44:00`|`Call of Duty: Black Ops 6`|
 |[any useful 64bit injectors？](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/669029-useful-64bit-injectors.html)|`2024-10-27 23:43:00`|`Battlefield 1`|
 |[Remove hwid ban for fortnite?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668911-remove-hwid-ban-fortnite.html)|`2024-10-27 23:40:00`|`Anti-Cheat Bypass`|
