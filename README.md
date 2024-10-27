@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2024-10-28 03:53:00`|`Apex Legends`|
+|[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2024-10-28 03:49:00`|`Grand Theft Auto V`|
 |[Project Papercut &#45; Dale and Dawson](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/669016-project-papercut-dale-dawson.html)|`2024-10-28 03:46:00`|`Other Games`|
 |[Yim Lua for auto&#45;completing sell missions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/668922-yim-lua-auto-completing-sell-missions.html)|`2024-10-28 03:45:00`|`Grand Theft Auto V`|
 |[Crossfire Hyper V blackscreen Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/669027-crossfire-hyper-blackscreen-help.html)|`2024-10-28 03:41:00`|`CrossFire`|
