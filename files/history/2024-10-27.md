@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Getting skins images with vtex parser for D3DX11CreateShaderResourceViewFromMemory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668507-getting-skins-images-vtex-parser-d3dx11createshaderresourceviewfrommemory.html)|`2024-10-27 19:34:00`|`Counter-Strike 2`|
+|[DMA: Deadlock &#40;Free&#41; &#124; Aimbot, ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/668813-dma-deadlock-free-aimbot-esp.html)|`2024-10-27 19:29:00`|`Deadlock`|
+|[Don't be a LOSER, don't buy a FUSER&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/669020-dont-loser-dont-buy-fuser.html)|`2024-10-27 19:28:00`|`PC Hardware`|
 |[Pi Pico alternative to Arduino Leonardo Host Shield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668248-pi-pico-alternative-arduino-leonardo-host-shield.html)|`2024-10-27 19:22:00`|`Valorant`|
 |[KernelMode/UserMode bluescreens&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668471-kernelmode-usermode-bluescreens.html)|`2024-10-27 19:01:00`|`Anti-Cheat Bypass`|
 |[Bo3 Unlock all](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/653808-bo3-unlock.html)|`2024-10-27 18:25:00`|`Call of Duty: Black Ops 3`|
