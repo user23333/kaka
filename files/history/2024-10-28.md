@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Skinchanger, external cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/662765-skinchanger-external-cs2.html)|`2024-10-28 07:32:00`|`Counter-Strike 2`|
 |[Question about EAC ban transfer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668215-question-eac-ban-transfer.html)|`2024-10-28 07:20:00`|`Rust`|
 |[are lua scripts on logitech detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668656-lua-scripts-logitech-detected.html)|`2024-10-28 07:13:00`|`Rust`|
 |[USB HOST SHIELD ISSUES](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669107-usb-host-shield-issues.html)|`2024-10-28 06:56:00`|`Valorant`|
