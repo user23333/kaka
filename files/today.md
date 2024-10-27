@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Age of Empires 4 SP/MP Tools](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/662897-age-empires-4-sp-mp-tools.html)|`2024-10-28 05:44:00`|`Other MMORPG and Strategy`|
+|[Dead by Daylight DMA FUSER ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/668845-dead-daylight-dma-fuser-esp.html)|`2024-10-28 05:41:00`|`Other FPS Games`|
+|[Basic jitter aim script for non logitech mice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/624352-basic-jitter-aim-script-logitech-mice.html)|`2024-10-28 05:39:00`|`Apex Legends`|
 |[Fun things to do&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/655211-fun.html)|`2024-10-28 05:32:00`|`Off Topic`|
 |[Any cheats, scripts or bots for Throne and Liberty yet?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/669099-cheats-scripts-bots-throne-liberty.html)|`2024-10-28 05:27:00`|`Other MMORPG and Strategy`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2024-10-28 05:23:00`|`Overwatch`|
