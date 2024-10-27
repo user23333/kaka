@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internals, Externals, And Kernals &#124; The State of CS2 cheating&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668786-internals-externals-kernals-cs2-cheating.html)|`2024-10-27 19:49:00`|`Counter-Strike 2`|
 |[Help in Making Pubg mobile 3&#46;4 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/662128-help-pubg-mobile-3-4-cheat.html)|`2024-10-27 19:44:00`|`PUBG Mobile`|
 |[Getting skins images with vtex parser for D3DX11CreateShaderResourceViewFromMemory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668507-getting-skins-images-vtex-parser-d3dx11createshaderresourceviewfrommemory.html)|`2024-10-27 19:34:00`|`Counter-Strike 2`|
 |[DMA: Deadlock &#40;Free&#41; &#124; Aimbot, ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/668813-dma-deadlock-free-aimbot-esp.html)|`2024-10-27 19:29:00`|`Deadlock`|
