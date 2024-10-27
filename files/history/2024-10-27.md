@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2024-10-27 23:57:00`|`Counter-Strike 2 Releases`|
+|[External Farlight 84 Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/661656-external-farlight-84-free-cheat.html)|`2024-10-27 23:56:00`|`Farlight 84`|
+|[Where i can found eac byppas for the first descent ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/669043-found-eac-byppas-descent.html)|`2024-10-27 23:52:00`|`Off Topic`|
 |[How does these patch&#45;offsets work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/669057-patch-offsets.html)|`2024-10-27 23:50:00`|`Rainbow Six Siege`|
 |[Lag Switch DayZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/669049-lag-switch-dayz.html)|`2024-10-27 23:49:00`|`DayZ SA`|
 |[Starting point](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668046-starting.html)|`2024-10-27 23:44:00`|`Call of Duty: Black Ops 6`|
