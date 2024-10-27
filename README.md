@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vanguard Spoofer Rev 2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612562-vanguard-spoofer-rev-2-a.html)|`2024-10-27 20:34:00`|`Valorant`|
 |[FOV Pak Maker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/654130-fov-pak-maker.html)|`2024-10-27 20:27:00`|`Sea of Thieves`|
 |[Crossfire Hyper V blackscreen Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/669027-crossfire-hyper-blackscreen-help.html)|`2024-10-27 20:12:00`|`CrossFire`|
 |[TORMENT CHEATPACK 3&#46;0 RELEASED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/651891-torment-cheatpack-3-0-released.html)|`2024-10-27 20:05:00`|`Star Wars Battlefront 2`|
