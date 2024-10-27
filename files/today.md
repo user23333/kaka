@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help with finding function definition within DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/668772-help-finding-function-definition-dll.html)|`2024-10-27 11:50:00`|`General Programming and Reversing`|
 |[&#91;Updated&#93; Dead by Daylight Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/635513-updated-dead-daylight-unlock-dlcs-skins.html)|`2024-10-27 11:35:00`|`Other FPS Games`|
 |[MouseClassServiceCallbackTrick?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668460-mouseclassservicecallbacktrick.html)|`2024-10-27 11:25:00`|`Anti-Cheat Bypass`|
 |[Rogue Company External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632738-rogue-company-external.html)|`2024-10-27 10:41:00`|`Other FPS Games`|
