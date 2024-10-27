@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dma card blocking pc from booting after firmware install](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668836-dma-card-blocking-pc-booting-firmware-install.html)|`2024-10-27 13:35:00`|`Call of Duty: Black Ops 6`|
+|[Avatar Stealer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/668908-avatar-stealer.html)|`2024-10-27 13:29:00`|`Rainbow Six Siege`|
 |[Silent Does Not Work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/668907-silent.html)|`2024-10-27 13:25:00`|`DayZ SA`|
 |[VMProtect &#43; Nuitka](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668906-vmprotect-nuitka.html)|`2024-10-27 13:17:00`|`Anti-Cheat Bypass`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2024-10-27 13:17:00`|`Deadlock`|
