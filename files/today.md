@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[maplelegends packet editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/639118-maplelegends-packet-editor.html)|`2024-10-27 12:38:00`|`Maple Story`|
+|[Dale and Dawson Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/664163-dale-dawson-mod-menu.html)|`2024-10-27 12:38:00`|`Other Games`|
+|[kdmapper zwmapviewofsection in system thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668602-kdmapper-zwmapviewofsection-system-thread.html)|`2024-10-27 12:23:00`|`Anti-Cheat Bypass`|
+|[Black Ops 6 &#40;bo6&#41; &#45; PS4 &#45; Lobby Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653596-black-ops-6-bo6-ps4-lobby-tool.html)|`2024-10-27 12:22:00`|`Call of Duty: Black Ops 6`|
 |[Rust external source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668822-rust-external-source.html)|`2024-10-27 12:39:00`|`Rust`|
 |[EAAntiCheat is Activated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/668067-eaanticheat-activated.html)|`2024-10-27 12:08:00`|`Battlefield 1`|
 |[Having a VERY hard time with a windows hardware ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668603-hard-time-windows-hardware-ban.html)|`2024-10-27 12:03:00`|`Apex Legends`|
