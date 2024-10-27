@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Silent Does Not Work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/668907-silent.html)|`2024-10-27 13:25:00`|`DayZ SA`|
+|[VMProtect &#43; Nuitka](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668906-vmprotect-nuitka.html)|`2024-10-27 13:17:00`|`Anti-Cheat Bypass`|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2024-10-27 13:17:00`|`Deadlock`|
 |[maplelegends packet editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/639118-maplelegends-packet-editor.html)|`2024-10-27 12:38:00`|`Maple Story`|
 |[Dale and Dawson Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/664163-dale-dawson-mod-menu.html)|`2024-10-27 12:38:00`|`Other Games`|
 |[kdmapper zwmapviewofsection in system thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668602-kdmapper-zwmapviewofsection-system-thread.html)|`2024-10-27 12:23:00`|`Anti-Cheat Bypass`|
