@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6 DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/624350-r6-dma.html)|`2024-10-27 15:11:00`|`Rainbow Six Siege`|
+|[My players array is missing players  help me Thx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668601-players-array-missing-players-help-thx.html)|`2024-10-27 15:06:00`|`Apex Legends`|
 |[camo service](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668781-camo-service.html)|`2024-10-27 14:54:00`|`Call of Duty: Black Ops 6`|
 |[Bloodstrike World To Screen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/650563-bloodstrike-world-screen.html)|`2024-10-27 14:26:00`|`Other FPS Games`|
 |[SkechWare CS2 Free External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/639949-skechware-cs2-free-external-cheat.html)|`2024-10-27 14:20:00`|`Counter-Strike 2 Releases`|
