@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypass emulator not work need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/668074-bypass-emulator-help.html)|`2024-10-28 03:36:00`|`PUBG Mobile`|
 |[DayZ 1&#46;26 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/668418-dayz-1-26-cheat.html)|`2024-10-28 03:34:00`|`DayZ SA`|
 |[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2024-10-28 03:25:00`|`Grand Theft Auto V`|
 |[Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669088-skin-changer.html)|`2024-10-28 03:21:00`|`Counter-Strike 2`|
