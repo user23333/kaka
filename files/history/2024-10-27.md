@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2024-10-27 22:28:00`|`Other FPS Games`|
+|[Memoriam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/563890-memoriam.html)|`2024-10-27 22:16:00`|`Garry's Mod`|
 |[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2024-10-27 21:57:00`|`Garry's Mod`|
 |[so my cheat worked fine but since the new ubdate  it isnt working right](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669040-cheat-fine-ubdate-isnt.html)|`2024-10-27 21:34:00`|`Counter-Strike 2`|
 |[Help me choose communication method&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668099-help-choose-communication-method.html)|`2024-10-27 21:23:00`|`Anti-Cheat Bypass`|
