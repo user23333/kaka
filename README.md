@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Force Movement with memory writing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668892-force-movement-memory-writing.html)|`2024-10-27 10:33:00`|`Counter-Strike 2`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2024-10-27 10:30:00`|`Other FPS Games`|
+|[Panicore Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/663164-panicore-internal.html)|`2024-10-27 10:21:00`|`Other Games`|
+|[Destiny 2 Inventory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/668891-destiny-2-inventory.html)|`2024-10-27 10:17:00`|`Other FPS Games`|
+|[Teleport when no host](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/659128-teleport-host.html)|`2024-10-27 10:12:00`|`Unreal Engine 4`|
+|[Can't Access XboxGames Directory Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/668890-cant-access-xboxgames-directory-files.html)|`2024-10-27 09:59:00`|`General Programming and Reversing`|
 |[Fun things to do&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/655211-fun.html)|`2024-10-27 09:18:00`|`Off Topic`|
 |[Online 3351 with latest yim bypass &#40;work&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/668432-online-3351-yim-bypass.html)|`2024-10-27 08:58:00`|`Grand Theft Auto V`|
 |[Casino Pacino for YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/593469-casino-pacino-yimmenu.html)|`2024-10-27 08:55:00`|`Grand Theft Auto V`|
