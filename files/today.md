@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What do you guys want posted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669083-guys-posted.html)|`2024-10-28 02:56:00`|`Valorant`|
 |[DMA: Deadlock &#40;Free&#41; &#124; Aimbot, ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/668813-dma-deadlock-free-aimbot-esp.html)|`2024-10-28 02:50:00`|`Deadlock`|
 |[I want to learn about cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/web-and-scripting/669065-learn-cheats.html)|`2024-10-28 02:46:00`|`Web and Scripting`|
 |[update patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669069-update-patterns.html)|`2024-10-28 02:45:00`|`Counter-Strike 2`|
