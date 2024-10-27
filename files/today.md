@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2024-10-28 04:30:00`|`Counter-Strike 2`|
+|[Lag Switch DayZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/669049-lag-switch-dayz.html)|`2024-10-28 04:27:00`|`DayZ SA`|
+|[fake pop on servers still possible?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/669042-fake-pop-servers.html)|`2024-10-28 04:26:00`|`DayZ SA`|
+|[EAAntiCheat is Activated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/668067-eaanticheat-activated.html)|`2024-10-28 04:24:00`|`Battlefield 1`|
+|[Faceit ID verification](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668669-faceit-id-verification.html)|`2024-10-28 04:23:00`|`Counter-Strike 2`|
 |[Viewmatrix External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/668401-viewmatrix-external.html)|`2024-10-28 04:13:00`|`CrossFire`|
 |[AiCheats &#45; BF4 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/668879-aicheats-bf4-external-esp.html)|`2024-10-28 04:04:00`|`Battlefield 4`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2024-10-28 03:53:00`|`Apex Legends`|
