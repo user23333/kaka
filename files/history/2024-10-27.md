@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[KernelMode/UserMode bluescreens&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668471-kernelmode-usermode-bluescreens.html)|`2024-10-27 19:01:00`|`Anti-Cheat Bypass`|
 |[Bo3 Unlock all](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/653808-bo3-unlock.html)|`2024-10-27 18:25:00`|`Call of Duty: Black Ops 3`|
 |[viewAngle in Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/667666-viewangle-rust.html)|`2024-10-27 18:15:00`|`Rust`|
 |[Project Papercut &#45; Dale and Dawson](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/669016-project-papercut-dale-dawson.html)|`2024-10-27 18:14:00`|`Other Games`|
