@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Recent Triggerbots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669235-recent-triggerbots.html)|`2024-10-28 23:33:00`|`Valorant`|
 |[How do i hook imgui Using OpenGL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/669233-hook-imgui-using-opengl.html)|`2024-10-28 23:20:00`|`C and C++`|
 |[&#91;Rumos&#93;VAC banned acc can only play without vac protect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/653385-rumos-vac-banned-acc-play-vac-protect.html)|`2024-10-28 23:17:00`|`Rust`|
 |[Decryption help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/669228-decryption-help.html)|`2024-10-28 22:50:00`|`Call of Duty: Modern Warfare III`|
