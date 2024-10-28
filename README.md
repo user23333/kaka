@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[unlock tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669207-unlock-tool.html)|`2024-10-28 19:09:00`|`Call of Duty: Black Ops 6`|
 |[Glow ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669205-glow-esp.html)|`2024-10-28 18:56:00`|`Counter-Strike 2`|
 |[Aim color](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668886-aim-color.html)|`2024-10-28 18:30:00`|`Valorant`|
 |[R6 DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/624350-r6-dma.html)|`2024-10-28 18:07:00`|`Rainbow Six Siege`|
