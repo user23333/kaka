@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bodycam Internal Esp, Aimbot, Exploits&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/668848-bodycam-internal-esp-aimbot-exploits.html)|`2024-10-29 05:38:00`|`Other FPS Games`|
+|[arena breakout infinite int injection method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669281-arena-breakout-infinite-int-injection-method.html)|`2024-10-29 05:30:00`|`Other FPS Games`|
 |[TOP MACRO Logitech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668884-top-macro-logitech.html)|`2024-10-29 05:33:00`|`Rust`|
 |[PokeMMO custom client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/669283-pokemmo-custom-client.html)|`2024-10-29 05:33:00`|`Programming for Beginners`|
 |[how to make cheats for an online game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/669257-cheats-online-game.html)|`2024-10-29 05:21:00`|`Programming for Beginners`|
