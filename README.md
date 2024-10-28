@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;VOTE&#93; November 2024 Member of the Month](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/668769-vote-november-2024-month.html)|`2024-10-28 22:32:00`|`Member of the Month`|
+|[Superadmin Lua Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/669226-superadmin-lua-script.html)|`2024-10-28 22:28:00`|`Garry's Mod`|
+|[Gravity Prediction&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/668080-gravity-prediction.html)|`2024-10-28 22:24:00`|`C and C++`|
 |[Roblox DMA cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/653168-roblox-dma-cheat.html)|`2024-10-28 22:13:00`|`Forum General`|
 |[Off the Grid Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/665981-grid-reversal-structs-offsets.html)|`2024-10-28 22:13:00`|`Other FPS Games`|
 |[How to get Unbanned in SCP:SL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/669224-unbanned-scp-sl.html)|`2024-10-28 22:12:00`|`Other Games`|
