@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-10-28 09:09:00`|`Escape from Tarkov`|
+|[Looking for someone from UK &#40; ee&#46;co&#46;uk &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669136-looking-uk-ee-co-uk.html)|`2024-10-28 09:07:00`|`Call of Duty: Black Ops 6`|
+|[is arduino good for colorbots atm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/651071-arduino-colorbots-atm.html)|`2024-10-28 09:05:00`|`Valorant`|
+|[how to quickly open 20 lvl with cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/667677-quickly-20-lvl-cheats.html)|`2024-10-28 09:02:00`|`Apex Legends`|
+|[ACE Anti Cheat Expert bypass, arduino shield, VM? how to?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668332-ace-anti-cheat-expert-bypass-arduino-shield-vm.html)|`2024-10-28 08:40:00`|`Anti-Cheat Bypass`|
+|[Remove hwid ban for fortnite?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668911-remove-hwid-ban-fortnite.html)|`2024-10-28 08:37:00`|`Anti-Cheat Bypass`|
 |[CS2 External Bhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/604580-cs2-external-bhop.html)|`2024-10-28 07:33:00`|`Counter-Strike 2 Releases`|
 |[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2024-10-28 07:31:00`|`Garry's Mod`|
 |[BF2 Where do I get bots?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/570748-bf2-bots.html)|`2024-10-28 07:25:00`|`Battlefield 2`|
