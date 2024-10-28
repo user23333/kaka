@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-10-29 01:06:00`|`Grand Theft Auto V`|
+|[zap&#45;client &#91;Legitbot, Ragebot, Glow, ESP & More&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/628823-zap-client-legitbot-ragebot-glow-esp.html)|`2024-10-29 01:05:00`|`Apex Legends`|
+|[Patching or Hook method  :dark1:](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/669198-patching-hook-method-dark1.html)|`2024-10-29 01:02:00`|`PUBG Mobile`|
+|[MmMapIoSpace in Vulnerable Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668915-mmmapiospace-vulnerable-drivers.html)|`2024-10-29 01:02:00`|`Anti-Cheat Bypass`|
+|[Online 3351 with latest yim bypass &#40;work&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/668432-online-3351-yim-bypass.html)|`2024-10-29 01:02:00`|`Grand Theft Auto V`|
 |[Recent Triggerbots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669235-recent-triggerbots.html)|`2024-10-29 00:57:00`|`Valorant`|
 |[Memoriam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/563890-memoriam.html)|`2024-10-29 00:54:00`|`Garry's Mod`|
 |[Reversing Unity Games &#40;IDA PRO&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/669244-reversing-unity-games-ida-pro.html)|`2024-10-29 00:53:00`|`General Programming and Reversing`|
