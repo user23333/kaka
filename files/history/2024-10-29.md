@@ -13,6 +13,7 @@
 |17|[EAAntiCheat is Activated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/668067-eaanticheat-activated.html)|`2024-10-29 00:19:39`|`battlefield-1-a`|
 |19|[Regarding AHK Detection and Color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668589-regarding-ahk-detection-color-aimbot.html)|`2024-10-29 04:18:33`|`call-of-duty-black-ops-6-a`|
 |15|[Yim Menu in Chinese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/668102-yim-menu-chinese.html)|`2024-10-29 06:42:06`|`grand-theft-auto-v`|
+|14|[Zombie aimbot and triggerbot AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669093-zombie-aimbot-triggerbot-ahk.html)|`2024-10-29 07:00:11`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[hide the com port on arduino while still using it&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669294-hide-com-port-arduino-using.html)|`2024-10-29 06:58:00`|`Valorant`|
+|[Is there currently any option to use arduino without usb hostshield?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662024-currently-option-arduino-usb-hostshield.html)|`2024-10-29 06:55:00`|`Valorant`|
 |[Request Anti&#45;AFK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669211-request-anti-afk.html)|`2024-10-29 06:52:00`|`Call of Duty: Black Ops 6`|
 |[is arduino good for colorbots atm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/651071-arduino-colorbots-atm.html)|`2024-10-29 06:49:00`|`Valorant`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2024-10-29 06:33:00`|`Counter-Strike 2`|
