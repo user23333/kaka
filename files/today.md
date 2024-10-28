@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2024-10-28 20:56:00`|`Phasmophobia`|
+|[How to load any dll on Arena Breakout:Infinite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637705-load-dll-arena-breakout-infinite.html)|`2024-10-28 20:56:00`|`Other FPS Games`|
+|[Titan Quest, and obtaining the Entity List](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/669215-titan-quest-obtaining-entity-list.html)|`2024-10-28 20:50:00`|`Other MMORPG and Strategy`|
 |[Battlefield 2042 &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/467604-battlefield-2042-reversal-structs-offsets.html)|`2024-10-28 20:27:00`|`Battlefield 2042`|
 |[MmMapIoSpace in Vulnerable Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668915-mmmapiospace-vulnerable-drivers.html)|`2024-10-28 20:16:00`|`Anti-Cheat Bypass`|
 |[Where da cheatz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669214-da-cheatz.html)|`2024-10-28 20:11:00`|`Call of Duty: Black Ops 6`|
