@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to Fix TPM Ban easily &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/626786-fix-tpm-ban-easily.html)|`2024-10-28 21:57:00`|`Valorant`|
 |[Simple c&#43;&#43; Logger for your projects](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/669220-simple-logger-projects.html)|`2024-10-28 21:51:00`|`General Programming and Reversing`|
 |[How to find the cursor &#40;for a trigger&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/658668-cursor-trigger.html)|`2024-10-28 21:50:00`|`All Points Bulletin`|
 |[Crete &#45; &#40;Alpha&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669219-crete-alpha.html)|`2024-10-28 21:43:00`|`Other FPS Games`|
