@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/669295-hello.html)|`2024-10-29 07:31:00`|`Off Topic`|
 |[hide the com port on arduino while still using it&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669294-hide-com-port-arduino-using.html)|`2024-10-29 06:58:00`|`Valorant`|
 |[Is there currently any option to use arduino without usb hostshield?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/662024-currently-option-arduino-usb-hostshield.html)|`2024-10-29 06:55:00`|`Valorant`|
 |[Request Anti&#45;AFK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669211-request-anti-afk.html)|`2024-10-29 06:52:00`|`Call of Duty: Black Ops 6`|
