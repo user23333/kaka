@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[free lol scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/669090-free-lol-scripts.html)|`2024-10-28 16:21:00`|`League of Legends`|
 |[mw19 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/631846-mw19-cheat.html)|`2024-10-28 16:06:00`|`Call of Duty: Modern Warfare`|
 |[Pasted Valorant Triggerbot &#40;Tested 9&#43; Hours, No Ban&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668023-pasted-valorant-triggerbot-tested-9-hours-ban.html)|`2024-10-28 15:51:00`|`Valorant`|
 |[Patience &#45; An External Linux Cheat &#91;Overlay/CLI&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/648832-patience-external-linux-cheat-overlay-cli.html)|`2024-10-28 15:24:00`|`Apex Legends`|
