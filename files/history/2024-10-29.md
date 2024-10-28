@@ -25,9 +25,17 @@
 |62|[theHunter Internal Radar & ESP v1&#46;2&#46;91](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47342)|`2024-10-29 00:19:39`|
 |19|[Off The Grid SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47341)|`2024-10-29 00:19:39`|
 |1|[Manifest1 &#45; NonUFSF](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47391)|`2024-10-29 00:41:42`|
+|1|[Crete &#45; CVars Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47393)|`2024-10-29 00:53:58`|
+|1|[Manifest 2 &#45; UFS Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47392)|`2024-10-29 00:53:58`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Reversing Unity Games &#40;IDA PRO&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/669244-reversing-unity-games-ida-pro.html)|`2024-10-29 00:53:00`|`General Programming and Reversing`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2024-10-29 00:53:00`|`Apex Legends`|
+|[Age of Empires 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/589592-age-empires-4-reversal-structs-offsets.html)|`2024-10-29 00:53:00`|`Other MMORPG and Strategy`|
+|[ALL LINUX PLAYERS &#45; READ THIS IMMEDIATELY &#45; NOT SAFE TO PLAY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668895-linux-players-read-immediately-safe-play.html)|`2024-10-29 00:49:00`|`Apex Legends`|
+|[Bot Lobbies and Unlock tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668047-bot-lobbies-unlock-tool.html)|`2024-10-29 00:47:00`|`Call of Duty: Black Ops 6`|
+|[Shit Py Spoofer I Made](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667673-shit-py-spoofer.html)|`2024-10-29 00:44:00`|`Valorant`|
 |[The Texas Chainsaw Massacre External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/638980-texas-chainsaw-massacre-external-cheat.html)|`2024-10-29 00:34:00`|`Other FPS Games`|
 |[Simple HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657458-simple-hwid-spoofer.html)|`2024-10-29 00:33:00`|`Overwatch`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2024-10-29 00:23:00`|`Counter-Strike 2`|
