@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help Needed: Crash When Using Function to Get Bone Position&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/667844-help-crash-using-function-bone-position.html)|`2024-10-28 14:27:00`|`PUBG Mobile`|
+|[Weird PeakMessage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/669158-weird-peakmessage.html)|`2024-10-28 14:25:00`|`C and C++`|
+|[FRAG lock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/669160-frag-lock.html)|`2024-10-28 14:21:00`|`Alternative Online Mods`|
+|[Better Sai's Color Aimbot &#124; Predictions &#124; Fine Tuned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/655781-sais-color-aimbot-predictions-fine-tuned.html)|`2024-10-28 14:18:00`|`Call of Duty: Modern Warfare III`|
+|[Anyone still making ToF cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tower-of-fantasy/669152-tof-cheats.html)|`2024-10-28 13:59:00`|`Tower of Fantasy`|
+|[The old AK19 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/668688-ak19-cheat.html)|`2024-10-28 13:55:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Warhammer 40,000: Space Marine 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/659896-warhammer-40-000-space-marine-2-a.html)|`2024-10-28 13:54:00`|`Other FPS Games`|
 |[Liars Bar DLL &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/668545-liars-bar-dll-source.html)|`2024-10-28 13:31:00`|`Other Games`|
 |[AFK Script for Plunder &#40;Read the Description&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/656179-afk-script-plunder-read-description.html)|`2024-10-28 13:21:00`|`Call of Duty: Modern Warfare III`|
