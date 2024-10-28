@@ -25,9 +25,11 @@
 |66|[RailgunAnyGun&#46;CETRAINER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47338)|`2024-10-28 00:14:45`|
 |49|[PumpkinHunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47335)|`2024-10-28 00:14:45`|
 |76|[Lockdown Protocol External Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47334)|`2024-10-28 00:14:45`|
+|1|[UnlockAllCC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47356)|`2024-10-28 19:58:46`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[UnlockAll for Castle Crashers v1&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/668824-unlockall-castle-crashers-v1-0-0-a.html)|`2024-10-28 19:58:00`|`Half Life`|
 |[Arduino Bypass Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667347-arduino-bypass-help.html)|`2024-10-28 19:32:00`|`Valorant`|
 |[Genshin İmpact Shika Cheat 5&#46;0&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/660051-genshin-mpact-shika-cheat-5-0-0-1-a.html)|`2024-10-28 19:24:00`|`Genshin Impact`|
 |[Regarding AHK Detection and Color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668589-regarding-ahk-detection-color-aimbot.html)|`2024-10-28 19:24:00`|`Call of Duty: Black Ops 6`|
