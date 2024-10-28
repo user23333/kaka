@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2024-10-28 17:17:00`|`Deadlock`|
+|[Battlefield 1 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/186728-battlefield-1-reversal-structs-offsets.html)|`2024-10-28 17:16:00`|`Battlefield 1`|
+|[CPU Serial number](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/669185-cpu-serial.html)|`2024-10-28 17:03:00`|`PC Hardware`|
 |[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2024-10-28 16:53:00`|`Other FPS Games`|
 |[fsl problem?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/669182-fsl.html)|`2024-10-28 16:51:00`|`Grand Theft Auto V`|
 |[offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/669181-offsets.html)|`2024-10-28 16:48:00`|`Battlefield 1`|
