@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Request Anti&#45;AFK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669211-request-anti-afk.html)|`2024-10-29 06:52:00`|`Call of Duty: Black Ops 6`|
+|[is arduino good for colorbots atm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/651071-arduino-colorbots-atm.html)|`2024-10-29 06:49:00`|`Valorant`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2024-10-29 06:33:00`|`Counter-Strike 2`|
 |[AiCheats &#45; BF4 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/668879-aicheats-bf4-external-esp.html)|`2024-10-29 06:33:00`|`Battlefield 4`|
 |[so my cheat worked fine but since the new ubdate  it isnt working right](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669040-cheat-fine-ubdate-isnt.html)|`2024-10-29 06:20:00`|`Counter-Strike 2`|
