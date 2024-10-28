@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[so my cheat worked fine but since the new ubdate  it isnt working right](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669040-cheat-fine-ubdate-isnt.html)|`2024-10-29 06:20:00`|`Counter-Strike 2`|
 |[AFK Script for Plunder &#40;Read the Description&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/656179-afk-script-plunder-read-description.html)|`2024-10-29 06:12:00`|`Call of Duty: Modern Warfare III`|
 |[&#91;UE4&#93;Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/244709-ue4-squad.html)|`2024-10-29 05:56:00`|`Other FPS Games`|
 |[Liar’s Deck and Dice Cheat &#45; Full GUI Mod for Card & Dice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/668894-liar-deck-dice-cheat-gui-mod-card-dice.html)|`2024-10-29 05:52:00`|`Other Games`|
