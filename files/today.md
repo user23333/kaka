@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[pointer&#45;encryption &#45; Pointer Protection To Prevent Easy&#45;Access Of Pointers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/669143-pointer-encryption-pointer-protection-prevent-easy-access-pointers.html)|`2024-10-28 11:06:00`|`C and C++`|
+|[A bypass for SAMP?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668580-bypass-samp.html)|`2024-10-28 11:03:00`|`Anti-Cheat Bypass`|
+|[PUBG GLOBAL EMU CHECKS EXPOSED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/668714-pubg-global-emu-checks-exposed.html)|`2024-10-28 10:56:00`|`PUBG Mobile`|
+|[hello have a modding tools for cart fury ps2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/662809-hello-modding-tools-cart-fury-ps2.html)|`2024-10-28 10:39:00`|`Forum General`|
 |[Heist Editor v3&#46;6 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/451205-heist-editor-v3-6-external.html)|`2024-10-28 10:22:00`|`Grand Theft Auto V`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2024-10-28 10:06:00`|`DayZ SA`|
 |[Call of Duty: Infinite Warfare internal trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/642762-call-duty-infinite-warfare-internal-trainer.html)|`2024-10-28 10:05:00`|`Other FPS Games`|
