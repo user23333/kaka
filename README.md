@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-10-28 12:26:00`|`Valorant`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2024-10-28 11:46:00`|`League of Legends`|
 |[CS2 Schema Dumper for Cheat base Schema system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669144-cs2-schema-dumper-cheat-base-schema-system.html)|`2024-10-28 11:42:00`|`Counter-Strike 2`|
 |[May I ask if using skCrypter in the kernel is good? Will it get banned by EAC and BE?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667165-using-skcrypter-kernel-banned-eac.html)|`2024-10-28 11:13:00`|`Anti-Cheat Bypass`|
