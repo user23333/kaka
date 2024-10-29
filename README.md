@@ -46,6 +46,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant DMA Based external Cheat&#40;Just run it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/645290-valorant-dma-based-external-cheat-run.html)|`2024-10-29 20:06:00`|`Valorant`|
+|[Pro CS2 DMA &#45; Esp & Aimbot & Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656442-pro-cs2-dma-esp-aimbot-web-radar.html)|`2024-10-29 20:01:00`|`Counter-Strike 2`|
 |[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-10-29 19:45:00`|`Counter-Strike 2`|
 |[Reading localpawn from entitylist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669357-reading-localpawn-entitylist.html)|`2024-10-29 19:39:00`|`Counter-Strike 2`|
 |[How to find the cursor &#40;for a trigger&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/658668-cursor-trigger.html)|`2024-10-29 19:37:00`|`All Points Bulletin`|
