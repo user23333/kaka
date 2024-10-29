@@ -25,9 +25,16 @@
 |8|[LiarsBarV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47379)|`2024-10-30 00:10:54`|
 |9|[Deadlock offset dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47378)|`2024-10-30 00:10:54`|
 |1|[GName&#95;dump&#46;7z](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47376)|`2024-10-30 00:10:54`|
+|1|[warpips&#95;v1 &#45; made by SpionQuark](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47387)|`2024-10-30 05:25:27`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[2 Pc Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668243-2-pc-triggerbot.html)|`2024-10-30 05:21:00`|`Valorant`|
+|[Warpips Cheattable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/669193-warpips-cheattable.html)|`2024-10-30 05:21:00`|`Cheat Engine Tables`|
+|[How to make undetected aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668723-undetected-aimbot.html)|`2024-10-30 05:19:00`|`Valorant`|
+|[Vanguard Spoofer Rev 2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612562-vanguard-spoofer-rev-2-a.html)|`2024-10-30 05:17:00`|`Valorant`|
+|[Recent Triggerbots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669235-recent-triggerbots.html)|`2024-10-30 05:16:00`|`Valorant`|
+|[Pasted Valorant Triggerbot &#40;Tested 9&#43; Hours, No Ban&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668023-pasted-valorant-triggerbot-tested-9-hours-ban.html)|`2024-10-30 05:15:00`|`Valorant`|
 |[MmMapIoSpace in Vulnerable Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668915-mmmapiospace-vulnerable-drivers.html)|`2024-10-30 05:10:00`|`Anti-Cheat Bypass`|
 |[Wicked Menu / Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/487033-wicked-menu-cheat-engine.html)|`2024-10-30 05:06:00`|`Grand Theft Auto V`|
 |[Call of Duty: Modern Warfare III Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/605287-call-duty-modern-warfare-iii-reversal-structs-offsets.html)|`2024-10-30 05:04:00`|`Call of Duty: Modern Warfare III`|
