@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Testing offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/669316-testing-offsets.html)|`2024-10-29 11:56:00`|`Escape from Tarkov`|
 |[EAAntiCheat is Activated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/668067-eaanticheat-activated.html)|`2024-10-29 11:20:00`|`Battlefield 1`|
 |[Need help with AHK scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669310-help-ahk-scripting.html)|`2024-10-29 10:49:00`|`Valorant`|
 |[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2024-10-29 10:45:00`|`Escape from Tarkov`|
