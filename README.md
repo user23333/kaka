@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Superadmin Lua Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/669226-superadmin-lua-script.html)|`2024-10-30 04:44:00`|`Garry's Mod`|
 |[Read access violation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669486-read-access-violation.html)|`2024-10-30 04:24:00`|`Counter-Strike 2`|
 |[Help with DMALibrary](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669484-help-dmalibrary.html)|`2024-10-30 04:22:00`|`Counter-Strike 2`|
 |[Battleye wont let me join Online and R&#42; Support is useless](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/669485-battleye-wont-join-online-support-useless.html)|`2024-10-30 04:20:00`|`Grand Theft Auto V`|
