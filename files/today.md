@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TOP MACRO Logitech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668884-top-macro-logitech.html)|`2024-10-30 00:54:00`|`Rust`|
+|[ALL LINUX PLAYERS &#45; READ THIS IMMEDIATELY &#45; NOT SAFE TO PLAY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668895-linux-players-read-immediately-safe-play.html)|`2024-10-30 00:52:00`|`Apex Legends`|
+|[PUBG DMA cheat source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/667961-pubg-dma-cheat-source-code.html)|`2024-10-30 00:51:00`|`Playerunknown's Battlegrounds`|
 |[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2024-10-30 00:44:00`|`Other FPS Games`|
 |[Age of Empires 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/589592-age-empires-4-reversal-structs-offsets.html)|`2024-10-30 00:42:00`|`Other MMORPG and Strategy`|
 |[is arduino good for colorbots atm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/651071-arduino-colorbots-atm.html)|`2024-10-30 00:39:00`|`Valorant`|
