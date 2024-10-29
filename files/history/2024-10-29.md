@@ -46,6 +46,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What to learn next?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/668876-learn.html)|`2024-10-29 15:12:00`|`General Programming and Reversing`|
 |[CS2 Schema Dumper for Cheat base Schema system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669144-cs2-schema-dumper-cheat-base-schema-system.html)|`2024-10-29 14:33:00`|`Counter-Strike 2`|
 |[SuperMarket Together Admin Panel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/655316-supermarket-admin-panel.html)|`2024-10-29 14:26:00`|`Other Games`|
 |[Decryptors dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/619952-decryptors-dumper.html)|`2024-10-29 14:24:00`|`Playerunknown's Battlegrounds`|
