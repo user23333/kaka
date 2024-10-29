@@ -14,6 +14,7 @@
 |19|[Regarding AHK Detection and Color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668589-regarding-ahk-detection-color-aimbot.html)|`2024-10-29 04:18:33`|`call-of-duty-black-ops-6-a`|
 |15|[Yim Menu in Chinese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/668102-yim-menu-chinese.html)|`2024-10-29 06:42:06`|`grand-theft-auto-v`|
 |14|[Zombie aimbot and triggerbot AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669093-zombie-aimbot-triggerbot-ahk.html)|`2024-10-29 07:00:11`|`call-of-duty-black-ops-6-a`|
+|6|[Fake Liar's Bar &#45; internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/668834-fake-liars-bar-internal.html)|`2024-10-29 10:07:27`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to get PsLoadedModuleList without DriverObject?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/668348-psloadedmodulelist-driverobject.html)|`2024-10-29 10:00:00`|`C and C++`|
+|[Escape from Tarkov Streamer&#45;List](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/632218-escape-tarkov-streamer-list.html)|`2024-10-29 09:45:00`|`Escape from Tarkov`|
+|[Rust decryption automation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668743-rust-decryption-automation.html)|`2024-10-29 09:42:00`|`Rust`|
 |[Pi Pico alternative to Arduino Leonardo Host Shield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668248-pi-pico-alternative-arduino-leonardo-host-shield.html)|`2024-10-29 08:29:00`|`Valorant`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2024-10-29 08:14:00`|`League of Legends`|
 |[val 5 valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/656225-val-5-valorant.html)|`2024-10-29 08:03:00`|`Valorant`|
