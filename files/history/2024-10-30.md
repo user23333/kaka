@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2024-10-30 05:48:00`|`Escape from Tarkov`|
 |[Autofire](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668707-autofire.html)|`2024-10-30 05:44:00`|`Counter-Strike 2`|
 |[This Generation Is Easily Brainwashed &#40;USA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/668037-generation-easily-brainwashed-usa.html)|`2024-10-30 05:35:00`|`Off Topic`|
 |[Dead by Daylight DMA FUSER ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/668845-dead-daylight-dma-fuser-esp.html)|`2024-10-30 05:33:00`|`Other FPS Games`|
