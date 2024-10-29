@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple Deadlock Internal &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/664240-simple-deadlock-internal-source.html)|`2024-10-29 12:36:00`|`Deadlock`|
 |[How To Build GH Injector v4&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/513770-build-gh-injector-v4-6-a.html)|`2024-10-29 12:31:00`|`General Programming and Reversing`|
 |[sln&#45;stealer &#45; Search for projects and create copies of them](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/669317-sln-stealer-search-projects-create-copies.html)|`2024-10-29 12:23:00`|`C and C++`|
 |[Testing offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/669316-testing-offsets.html)|`2024-10-29 11:56:00`|`Escape from Tarkov`|
