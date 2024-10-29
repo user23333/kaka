@@ -31,9 +31,12 @@
 |1|[Manifest1 &#45; NonUFSF](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47391)|`2024-10-29 00:41:42`|
 |1|[Crete &#45; CVars Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47393)|`2024-10-29 00:53:58`|
 |1|[Manifest 2 &#45; UFS Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47392)|`2024-10-29 00:53:58`|
+|1|[Amalgam Paste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47353)|`2024-10-29 13:58:02`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EzFrags CS2 MultiHack &#91;MEME&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668670-ezfrags-cs2-multihack-meme.html)|`2024-10-29 13:57:00`|`Counter-Strike 2`|
+|[Amalgam Paste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/668775-amalgam-paste.html)|`2024-10-29 13:54:00`|`Team Fortress 2`|
 |[Simple Deadlock Internal &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/664240-simple-deadlock-internal-source.html)|`2024-10-29 12:36:00`|`Deadlock`|
 |[How To Build GH Injector v4&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/513770-build-gh-injector-v4-6-a.html)|`2024-10-29 12:31:00`|`General Programming and Reversing`|
 |[sln&#45;stealer &#45; Search for projects and create copies of them](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/669317-sln-stealer-search-projects-create-copies.html)|`2024-10-29 12:23:00`|`C and C++`|
