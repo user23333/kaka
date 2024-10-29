@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fun things to do&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/655211-fun.html)|`2024-10-30 03:26:00`|`Off Topic`|
+|[ANY input for the ahk aio?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669470-input-ahk-aio.html)|`2024-10-30 03:26:00`|`Call of Duty: Black Ops 6`|
 |[IOCTL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/669462-ioctl.html)|`2024-10-30 03:24:00`|`Anti-Cheat Bypass`|
 |[Combat Master Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/580878-combat-master-reversal-structs-offsets.html)|`2024-10-30 03:16:00`|`Combat Master`|
 |[Gold Dropper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/567212-gold-dropper.html)|`2024-10-30 03:13:00`|`Red Dead Redemption 2`|
