@@ -27,6 +27,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2024-10-30 00:33:00`|`Call of Duty: Black Ops 6`|
+|[game ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/669439-game-ban.html)|`2024-10-30 00:32:00`|`Team Fortress 2`|
+|[Zombie aimbot and triggerbot AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669093-zombie-aimbot-triggerbot-ahk.html)|`2024-10-30 00:32:00`|`Call of Duty: Black Ops 6`|
+|[Fort Vault opening before it is finished](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/669440-fort-vault-finished.html)|`2024-10-30 00:31:00`|`Sea of Thieves`|
+|[What do you guys want posted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669083-guys-posted.html)|`2024-10-30 00:30:00`|`Valorant`|
+|[sln&#45;stealer &#45; Search for projects and create copies of them](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/669317-sln-stealer-search-projects-create-copies.html)|`2024-10-30 00:29:00`|`C and C++`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2024-10-30 00:29:00`|`Counter-Strike 2`|
+|[How to find the cursor &#40;for a trigger&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/658668-cursor-trigger.html)|`2024-10-30 00:27:00`|`All Points Bulletin`|
+|[Advanced APB Launcher &#40;with fixes&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/669030-advanced-apb-launcher-fixes.html)|`2024-10-30 00:24:00`|`All Points Bulletin`|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-10-30 00:23:00`|`Apex Legends`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2024-10-30 00:06:00`|`Overwatch`|
 |[Murky Divers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/643598-murky-divers.html)|`2024-10-30 00:06:00`|`Other Games`|
 |[need help to fix bug in regil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/669236-help-fix-bug-regil.html)|`2024-10-29 23:57:00`|`Overwatch`|
