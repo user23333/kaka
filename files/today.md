@@ -46,6 +46,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Phasmo Icetrix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/432538-phasmo-icetrix.html)|`2024-10-29 22:21:00`|`Phasmophobia`|
 |[Self&#45;Leak &#45; DOOMSDAY &#40;Internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/664457-self-leak-doomsday-internal.html)|`2024-10-29 22:09:00`|`Call of Duty: Black Ops 2`|
 |[Updated signature patters](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669372-updated-signature-patters.html)|`2024-10-29 22:08:00`|`Counter-Strike 2`|
 |[reading map name](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669374-reading-map-name.html)|`2024-10-29 22:06:00`|`Counter-Strike 2`|
