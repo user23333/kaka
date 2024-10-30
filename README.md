@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2024-10-30 16:39:00`|`Counter-Strike 2`|
+|[GTAHaX for 1&#46;69 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-69-external-thread-3-a.html)|`2024-10-30 16:26:00`|`Grand Theft Auto V`|
 |[Sync Overlay With Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/669543-sync-overlay-game.html)|`2024-10-30 16:00:00`|`General Programming and Reversing`|
 |[How to spoof VID/PID of kmbox nvideo?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/669539-spoof-vid-pid-kmbox-nvideo.html)|`2024-10-30 15:16:00`|`PC Hardware`|
 |[2 real mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668831-2-real-mouse.html)|`2024-10-30 14:52:00`|`Valorant`|
