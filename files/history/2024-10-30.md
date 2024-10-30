@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Greedy employees hurt shareholders&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/669570-greedy-employees-hurt-shareholders.html)|`2024-10-30 22:01:00`|`Off Topic`|
 |[&#91;Updated&#93; Dead by Daylight Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/635513-updated-dead-daylight-unlock-dlcs-skins.html)|`2024-10-30 21:27:00`|`Other FPS Games`|
 |[KMM cheats that aren't in Yimmenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666657-kmm-cheats-arent-yimmenu.html)|`2024-10-30 21:24:00`|`Grand Theft Auto V`|
 |[Off The Grid Internal &#40;Aimbot, ESP, Exploits&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667656-grid-internal-aimbot-esp-exploits.html)|`2024-10-30 21:19:00`|`Other FPS Games`|
