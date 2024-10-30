@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Risk of Rain 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/669262-risk-rain-2-a.html)|`2024-10-30 12:42:00`|`Unity`|
 |[&#91;UNO&#93; Looking for help to create a cheat for Uno](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/666546-uno-looking-help-create-cheat-uno.html)|`2024-10-30 12:13:00`|`Other Games`|
 |[Fake Liar's Bar &#45; internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/668834-fake-liars-bar-internal.html)|`2024-10-30 12:00:00`|`Other Games`|
 |[Internal esp flickers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669269-internal-esp-flickers.html)|`2024-10-30 11:59:00`|`Counter-Strike 2`|
