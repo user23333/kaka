@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2024-10-30 11:23:00`|`Elite: Dangerous`|
+|[CS2 external esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/600259-cs2-external-esp.html)|`2024-10-30 11:11:00`|`Counter-Strike 2 Releases`|
 |[FiveM External Source &#45; Krypted &#40;many Features&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/666614-fivem-external-source-krypted-features.html)|`2024-10-30 11:00:00`|`Alternative Online Mods`|
 |[Crossfire Hyper V blackscreen Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/669027-crossfire-hyper-blackscreen-help.html)|`2024-10-30 10:51:00`|`CrossFire`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2024-10-30 10:48:00`|`Counter-Strike 2 Releases`|
