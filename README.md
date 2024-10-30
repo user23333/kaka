@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino 2pc method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669552-arduino-2pc-method.html)|`2024-10-30 18:33:00`|`Valorant`|
+|[Nika &#45; Light Weight C&#43;&#43; Linux Pasta Cheat &#45; Health Based Sense, Aimbot, TriggerBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/634402-nika-light-weight-linux-pasta-cheat-health-based-sense-aimbot-triggerbot.html)|`2024-10-30 18:30:00`|`Apex Legends`|
+|[working 2024 Left 4 Dead 2 AIMBOT / ESP / SILENTAIM / BHOP / SPEEDHACK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620158-2024-left-4-dead-2-aimbot-esp-silentaim-bhop-speedhack.html)|`2024-10-30 18:27:00`|`Other FPS Games`|
 |[Sentinel Guard &#45; Steam launch option for protection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/641085-sentinel-guard-steam-launch-option-protection.html)|`2024-10-30 17:36:00`|`Apex Legends`|
 |[Blazing Sails Hack &#91;Win10&#93; &#91;Steam/EGS&#93; &#124; ESP &#124; SpeedHack &#124; NoClip &#124; More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620821-blazing-sails-hack-win10-steam-egs-esp-speedhack-noclip.html)|`2024-10-30 17:28:00`|`Other FPS Games`|
 |[Anniversary part 2 items](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/669546-anniversary-2-items.html)|`2024-10-30 17:21:00`|`Payday 3`|
