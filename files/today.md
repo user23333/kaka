@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Paladins Multihack – Esp, Aimbot, Miscs &#91;Modified Odin V4&#46;2&#46;1&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/666945-paladins-multihack-esp-aimbot-miscs-modified-odin-v4-2-1-a.html)|`2024-10-31 07:24:00`|`Paladins`|
+|[faceit stop my launch app](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669356-faceit-stop-launch-app.html)|`2024-10-31 07:17:00`|`Counter-Strike 2`|
 |[Anti Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/663482-anti-cheat.html)|`2024-10-31 07:14:00`|`Call of Duty: Black Ops 6`|
 |[Winter, Christmas & New Year's Banner Contest 2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/669633-winter-christmas-banner-contest-2024-a.html)|`2024-10-31 07:13:00`|`Information and Announcements`|
 |[&#91;Contest&#93; Winter, Christmas & New Year's Banner Contest 2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/669631-contest-winter-christmas-banner-contest-2024-a.html)|`2024-10-31 07:11:00`|`General Graphics`|
