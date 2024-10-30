@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Multi cheat &#35; Aimbot &#35; Esp &#35; Triggerbot &#35; Misc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/642513-multi-cheat-aimbot-esp-triggerbot-misc.html)|`2024-10-30 14:13:00`|`Counter-Strike 2 Releases`|
 |[Dead Frontier 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/458678-dead-frontier-2-a.html)|`2024-10-30 13:23:00`|`Other FPS Games`|
 |[Fix Vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/669238-fix-vehicle.html)|`2024-10-30 13:21:00`|`Alternative Online Mods`|
 |[Dearth &#91;SCP SL&#93; Cheat 13&#46;6&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/669532-dearth-scp-sl-cheat-13-6-9-a.html)|`2024-10-30 12:54:00`|`Other Games`|
