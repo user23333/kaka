@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Request Anti&#45;AFK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669211-request-anti-afk.html)|`2024-10-31 20:39:00`|`Call of Duty: Black Ops 6`|
+|[Zombie aimbot and triggerbot AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669093-zombie-aimbot-triggerbot-ahk.html)|`2024-10-31 20:32:00`|`Call of Duty: Black Ops 6`|
+|[Is there any method to have a perfect hitreg?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-3-a/669763-method-perfect-hitreg.html)|`2024-10-31 20:27:00`|`Battlefield 3`|
 |[Unlock tool with DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/665024-unlock-tool-dma.html)|`2024-10-31 20:10:00`|`Call of Duty: Modern Warfare III`|
 |[Unlock All Problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/668369-unlock.html)|`2024-10-31 20:09:00`|`Call of Duty: Modern Warfare III`|
 |[external capture card](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669762-external-capture-card.html)|`2024-10-31 20:07:00`|`Valorant`|
