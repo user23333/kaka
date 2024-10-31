@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA Process Dumper With Full support against CR3 shuffling&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/669881-dma-process-dumper-support-cr3-shuffling.html)|`2024-11-01 07:39:00`|`Anti-Cheat Bypass`|
 |[How can I make my triggerbot as fast as possible?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669880-triggerbot-fast.html)|`2024-11-01 07:36:00`|`Valorant`|
 |[Emulated dma card mac address spof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/669878-emulated-dma-card-mac-address-spof.html)|`2024-11-01 07:19:00`|`PC Hardware`|
 |[VAN 5 PERM SUSPEND/ACC LOCKED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669877-van-5-perm-suspend-acc-locked.html)|`2024-11-01 07:19:00`|`Valorant`|
