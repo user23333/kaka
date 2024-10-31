@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[updating offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669772-updating-offsets.html)|`2024-11-01 04:46:00`|`Counter-Strike 2`|
 |[BadPaste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/669845-badpaste.html)|`2024-11-01 04:44:00`|`Team Fortress 2`|
 |[Help Rapid Fire garry's mod c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/669844-help-rapid-fire-garrys-mod.html)|`2024-11-01 04:39:00`|`Garry's Mod`|
 |[UserMode to KernelMode cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669741-usermode-kernelmode-cheat.html)|`2024-11-01 04:26:00`|`Counter-Strike 2`|
