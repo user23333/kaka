@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Glow ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669205-glow-esp.html)|`2024-11-01 03:40:00`|`Counter-Strike 2`|
 |[old mw2 offhost/host menus](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/667425-mw2-offhost-host-menus.html)|`2024-11-01 03:37:00`|`Call of Duty 6: Modern Warfare 2`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-11-01 03:36:00`|`Valorant`|
 |[Battleye wont let me join Online and R&#42; Support is useless](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/669485-battleye-wont-join-online-support-useless.html)|`2024-11-01 03:31:00`|`Grand Theft Auto V`|
