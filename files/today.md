@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2024-11-01 06:05:00`|`Valorant`|
+|[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2024-11-01 06:02:00`|`Grand Theft Auto V`|
+|[arena breakout infinite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662705-arena-breakout-infinite.html)|`2024-11-01 05:59:00`|`Other FPS Games`|
 |[who has a good recoil pattern for the new rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/669856-recoil-pattern-rust.html)|`2024-11-01 05:52:00`|`Rust`|
 |[Having a VERY hard time with a windows hardware ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668603-hard-time-windows-hardware-ban.html)|`2024-11-01 05:49:00`|`Apex Legends`|
 |[problems using ZwMapViewOfSection on win11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/669855-using-zwmapviewofsection-win11.html)|`2024-11-01 05:48:00`|`Anti-Cheat Bypass`|
