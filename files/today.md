@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Supermarket Together Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/665134-supermarket-cheat-table.html)|`2024-11-01 04:51:00`|`Cheat Engine Tables`|
+|[Post Patch Force Local Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/669846-post-patch-force-local-game.html)|`2024-11-01 04:51:00`|`Escape from Tarkov`|
+|[Boosting/Bot Lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669805-boosting-bot-lobbies.html)|`2024-11-01 04:50:00`|`Call of Duty: Black Ops 6`|
 |[updating offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669772-updating-offsets.html)|`2024-11-01 04:46:00`|`Counter-Strike 2`|
 |[BadPaste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/669845-badpaste.html)|`2024-11-01 04:44:00`|`Team Fortress 2`|
 |[Help Rapid Fire garry's mod c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/669844-help-rapid-fire-garrys-mod.html)|`2024-11-01 04:39:00`|`Garry's Mod`|
