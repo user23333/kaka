@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kernel Level Cloaking &#40;AKECT&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/669808-kernel-level-cloaking-akect.html)|`2024-11-01 06:37:00`|`Anti-Cheat Bypass`|
+|[how to bypass ban DayzLand, DayZavr](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/647397-bypass-ban-dayzland-dayzavr.html)|`2024-11-01 06:28:00`|`DayZ SA`|
 |[Fake Liar's Bar &#45; internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/668834-fake-liars-bar-internal.html)|`2024-11-01 06:27:00`|`Other Games`|
 |[Project Papercut &#45; Dale and Dawson](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/669016-project-papercut-dale-dawson.html)|`2024-11-01 06:18:00`|`Other Games`|
 |[COD CP exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/616611-cod-cp-exploit.html)|`2024-11-01 06:13:00`|`Call of Duty: Modern Warfare III`|
