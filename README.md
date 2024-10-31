@@ -27,6 +27,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SCP SL Cheat v13&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/611154-scp-sl-cheat-v13-3-1-a.html)|`2024-11-01 00:39:00`|`Other Games`|
+|[Sai's Color Aimbot BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668780-sais-color-aimbot-bo6.html)|`2024-11-01 00:38:00`|`Call of Duty: Black Ops 6`|
+|[Apex Devs have Banned Linux from playing Apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/669799-apex-devs-banned-linux-playing-apex.html)|`2024-11-01 00:36:00`|`Apex Legends`|
+|[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-11-01 00:36:00`|`Escape from Tarkov`|
+|[AutoBunnyHop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/652300-autobunnyhop.html)|`2024-11-01 00:35:00`|`CrossFire`|
+|[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2024-11-01 00:34:00`|`Escape from Tarkov`|
+|[Liar’s Deck and Dice Cheat &#45; Full GUI Mod for Card & Dice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/668894-liar-deck-dice-cheat-gui-mod-card-dice.html)|`2024-11-01 00:30:00`|`Other Games`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2024-11-01 00:27:00`|`Overwatch`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2024-11-01 00:25:00`|`Phasmophobia`|
+|[Screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/669558-screenshots.html)|`2024-11-01 00:23:00`|`Playerunknown's Battlegrounds`|
 |[detecting login screen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/669786-detecting-login-screen.html)|`2024-11-01 00:11:00`|`PUBG Mobile`|
 |[HWID BANNED LINUX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/644651-hwid-banned-linux.html)|`2024-11-01 00:04:00`|`Apex Legends`|
 |[Arduino 2pc method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669552-arduino-2pc-method.html)|`2024-10-31 23:59:00`|`Valorant`|
