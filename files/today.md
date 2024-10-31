@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2024-10-31 13:44:00`|`Valorant`|
 |[Are Internal Valorant Triggerbots/Hacks Detected and how can i use external ones](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669459-internal-valorant-triggerbots-hacks-detected-external-ones.html)|`2024-10-31 13:23:00`|`Valorant`|
 |[Arduino ApexCV simple magnet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/667959-arduino-apexcv-simple-magnet.html)|`2024-10-31 12:28:00`|`Apex Legends`|
 |[ALL LINUX PLAYERS &#45; READ THIS IMMEDIATELY &#45; NOT SAFE TO PLAY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668895-linux-players-read-immediately-safe-play.html)|`2024-10-31 12:21:00`|`Apex Legends`|
