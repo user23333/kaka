@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[In&#45;depth ASUS Motherboard AMI Bios Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666894-depth-asus-motherboard-ami-bios-spoofing.html)|`2024-11-01 05:33:00`|`Anti-Cheat Bypass`|
 |[Bodycam Internal Esp, Aimbot, Exploits&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/668848-bodycam-internal-esp-aimbot-exploits.html)|`2024-11-01 05:17:00`|`Other FPS Games`|
 |[ARMA 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/114242-arma-3-reversal-structs-offsets.html)|`2024-11-01 05:16:00`|`ARMA 3`|
 |[Destiny 2 Inventory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/668891-destiny-2-inventory.html)|`2024-11-01 05:16:00`|`Other FPS Games`|
