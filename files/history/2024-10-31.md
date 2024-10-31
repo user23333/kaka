@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ChadAlphaMales Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/669776-chadalphamales-enhanced.html)|`2024-10-31 22:41:00`|`Team Fortress 2`|
+|[HP Victus HWID Spoofer Advice for VALORANT?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669775-hp-victus-hwid-spoofer-advice-valorant.html)|`2024-10-31 22:38:00`|`Valorant`|
+|[How I Inject the cheats to get inf Money in GTA5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/665544-inject-cheats-inf-money-gta5.html)|`2024-10-31 22:36:00`|`Grand Theft Auto V`|
 |[free lol scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/669090-free-lol-scripts.html)|`2024-10-31 22:32:00`|`League of Legends`|
 |[camo service](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668781-camo-service.html)|`2024-10-31 22:17:00`|`Call of Duty: Black Ops 6`|
 |[Play Together/Rank Boosting Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/353364-play-rank-boosting-thread.html)|`2024-10-31 22:14:00`|`Apex Legends`|
