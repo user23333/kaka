@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can't Access XboxGames Directory Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/668890-cant-access-xboxgames-directory-files.html)|`2024-10-31 14:46:00`|`General Programming and Reversing`|
+|[Question about game pass and MSA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668574-question-game-pass-msa.html)|`2024-10-31 14:43:00`|`Call of Duty: Black Ops 6`|
 |[Do i need to spoof after getting "Account Locked"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669628-spoof-getting-account-locked.html)|`2024-10-31 14:25:00`|`Valorant`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-10-31 14:14:00`|`Rust`|
 |[Hot Improved AHK Triggerbot/Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/631533-hot-improved-ahk-triggerbot-colorbot.html)|`2024-10-31 14:13:00`|`Valorant`|
