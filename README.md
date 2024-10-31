@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NoMoney](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/669715-nomoney.html)|`2024-10-31 11:40:00`|`Team Fortress 2`|
 |[Arduino 2pc method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669552-arduino-2pc-method.html)|`2024-10-31 11:16:00`|`Valorant`|
 |[MmMapIoSpace in Vulnerable Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668915-mmmapiospace-vulnerable-drivers.html)|`2024-10-31 10:59:00`|`Anti-Cheat Bypass`|
 |[winver/notepad overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/669714-winver-notepad-overlay.html)|`2024-10-31 10:54:00`|`Anti-Cheat Bypass`|
