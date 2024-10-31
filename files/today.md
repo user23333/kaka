@@ -12,6 +12,7 @@
 |28|[Liar’s Deck and Dice Cheat &#45; Full GUI Mod for Card & Dice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/668894-liar-deck-dice-cheat-gui-mod-card-dice.html)|`2024-10-31 00:20:45`|`other-games`|
 |14|[Fake Liar's Bar &#45; internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/668834-fake-liars-bar-internal.html)|`2024-10-31 00:20:45`|`other-games`|
 |19|[Regarding AHK Detection and Color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668589-regarding-ahk-detection-color-aimbot.html)|`2024-10-31 03:00:38`|`call-of-duty-black-ops-6-a`|
+|20|[ALL LINUX PLAYERS &#45; READ THIS IMMEDIATELY &#45; NOT SAFE TO PLAY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668895-linux-players-read-immediately-safe-play.html)|`2024-10-31 08:38:59`|`apex-legends`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[does cheat engine work on this game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/669676-cheat-engine-game.html)|`2024-10-31 08:34:00`|`Titanfall`|
+|[Patience &#45; An External Linux Cheat &#91;Overlay/CLI&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/648832-patience-external-linux-cheat-overlay-cli.html)|`2024-10-31 08:32:00`|`Apex Legends`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2024-10-31 08:31:00`|`Escape from Tarkov`|
+|[Dead by Daylight &#45; Skin Unlocker and Perk Unlocker &#124; Fiddler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662687-dead-daylight-skin-unlocker-perk-unlocker-fiddler.html)|`2024-10-31 08:17:00`|`Other FPS Games`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2024-10-31 08:01:00`|`Grand Theft Auto V`|
 |[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2024-10-31 07:54:00`|`Grand Theft Auto V`|
 |[CS2 Free External Multi Cheat &#35; AIMBOT / RCS / ESP / MISC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/666738-cs2-free-external-multi-cheat-aimbot-rcs-esp-misc.html)|`2024-10-31 07:51:00`|`Counter-Strike 2 Releases`|
 |[cheat engine script no recoil assaultcube 1&#46;3&#46;0&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/669635-cheat-engine-script-recoil-assaultcube-1-3-0-2-a.html)|`2024-10-31 07:45:00`|`Forum General`|
