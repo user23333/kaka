@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[winver/notepad overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/669714-winver-notepad-overlay.html)|`2024-10-31 10:54:00`|`Anti-Cheat Bypass`|
+|[Campaign Money/Other Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669561-campaign-money-cheats.html)|`2024-10-31 10:51:00`|`Call of Duty: Black Ops 6`|
+|[Bypass Protection against emulatated keystrokes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/669366-bypass-protection-emulatated-keystrokes.html)|`2024-10-31 10:48:00`|`Anti-Cheat Bypass`|
+|[Deadlock Offset Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/669067-deadlock-offset-dumper.html)|`2024-10-31 10:47:00`|`Deadlock`|
+|[Contractors VR &#124; ESP &#45; Infinite Ammo &#45; Rapid Fire &#45; No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/628494-contractors-vr-esp-infinite-ammo-rapid-fire-recoil.html)|`2024-10-31 10:16:00`|`Other FPS Games`|
 |[how to get game mode in cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/665828-game-mode-cs2.html)|`2024-10-31 09:55:00`|`Counter-Strike 2`|
 |[Vanguard Spoofer Rev 2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612562-vanguard-spoofer-rev-2-a.html)|`2024-10-31 09:18:00`|`Valorant`|
 |[does cheat engine work on this game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/669676-cheat-engine-game.html)|`2024-10-31 08:34:00`|`Titanfall`|
