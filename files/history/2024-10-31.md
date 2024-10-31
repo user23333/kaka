@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help Needed: Crash When Using Function to Get Bone Position&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/667844-help-crash-using-function-bone-position.html)|`2024-10-31 19:36:00`|`PUBG Mobile`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2024-10-31 19:34:00`|`Escape from Tarkov`|
+|[Helldivers 2 Havoc Hub](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/630894-helldivers-2-havoc-hub.html)|`2024-10-31 19:33:00`|`HELLDIVERS 2`|
+|[Crossfire West cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/666574-crossfire-west-cheat.html)|`2024-10-31 19:33:00`|`CrossFire`|
 |[CS2 external esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/600259-cs2-external-esp.html)|`2024-10-31 18:45:00`|`Counter-Strike 2 Releases`|
 |[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2024-10-31 18:46:00`|`Palia`|
 |[Blood Strike](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669750-blood-strike.html)|`2024-10-31 18:12:00`|`Other FPS Games`|
