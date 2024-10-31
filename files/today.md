@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[zap&#45;client &#91;Legitbot, Ragebot, Glow, ESP & More&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/628823-zap-client-legitbot-ragebot-glow-esp.html)|`2024-11-01 00:51:00`|`Apex Legends`|
+|[Nika &#45; Light Weight C&#43;&#43; Linux Pasta Cheat &#45; Health Based Sense, Aimbot, TriggerBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/634402-nika-light-weight-linux-pasta-cheat-health-based-sense-aimbot-triggerbot.html)|`2024-11-01 00:50:00`|`Apex Legends`|
+|[HWID, IP & GUID bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/667826-hwid-ip-guid-bans.html)|`2024-11-01 00:50:00`|`Battlefield 4`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-11-01 00:49:00`|`Grand Theft Auto V`|
+|[Pixel Gun 3D Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/663707-pixel-gun-3d-cheat-engine-table.html)|`2024-11-01 00:48:00`|`Cheat Engine Tables`|
+|[Unlock tool with DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/665024-unlock-tool-dma.html)|`2024-11-01 00:46:00`|`Call of Duty: Modern Warfare III`|
+|[TOP MACRO Logitech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668884-top-macro-logitech.html)|`2024-11-01 00:45:00`|`Rust`|
+|[Client failed an aticheat back end check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/656233-client-failed-aticheat-check.html)|`2024-11-01 00:43:00`|`Apex Legends`|
+|[Fast Valorant Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669778-fast-valorant-triggerbot.html)|`2024-11-01 00:41:00`|`Valorant`|
 |[SCP SL Cheat v13&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/611154-scp-sl-cheat-v13-3-1-a.html)|`2024-11-01 00:39:00`|`Other Games`|
 |[Sai's Color Aimbot BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668780-sais-color-aimbot-bo6.html)|`2024-11-01 00:38:00`|`Call of Duty: Black Ops 6`|
 |[Apex Devs have Banned Linux from playing Apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/669799-apex-devs-banned-linux-playing-apex.html)|`2024-11-01 00:36:00`|`Apex Legends`|
