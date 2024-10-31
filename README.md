@@ -14,6 +14,7 @@
 |19|[Regarding AHK Detection and Color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668589-regarding-ahk-detection-color-aimbot.html)|`2024-10-31 03:00:38`|`call-of-duty-black-ops-6-a`|
 |20|[ALL LINUX PLAYERS &#45; READ THIS IMMEDIATELY &#45; NOT SAFE TO PLAY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668895-linux-players-read-immediately-safe-play.html)|`2024-10-31 08:38:59`|`apex-legends`|
 |5|[Sai's Color AImbot v3 for BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668659-sais-color-aimbot-v3-bo6.html)|`2024-10-31 10:08:14`|`call-of-duty-black-ops-6-a`|
+|12|[Infinite Gobble&#45;Gums Duration Glitch &#43; &#46;ahk script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669584-infinite-gobble-gums-duration-glitch-ahk-script.html)|`2024-10-31 21:59:44`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[which menu works still?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/668854-menu.html)|`2024-10-31 21:56:00`|`Grand Theft Auto V`|
 |[What do you guys want posted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669083-guys-posted.html)|`2024-10-31 21:38:00`|`Valorant`|
 |[Hell Let Loose Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/664161-hell-loose-reversal-structs-offsets.html)|`2024-10-31 21:22:00`|`Other FPS Games`|
 |[HLL: Hell Let Loose](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/340677-hll-hell-loose.html)|`2024-10-31 21:22:00`|`Other FPS Games`|
