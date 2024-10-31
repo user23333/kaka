@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino ApexCV simple magnet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/667959-arduino-apexcv-simple-magnet.html)|`2024-10-31 12:28:00`|`Apex Legends`|
+|[ALL LINUX PLAYERS &#45; READ THIS IMMEDIATELY &#45; NOT SAFE TO PLAY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668895-linux-players-read-immediately-safe-play.html)|`2024-10-31 12:21:00`|`Apex Legends`|
+|[Client failed an aticheat back end check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/656233-client-failed-aticheat-check.html)|`2024-10-31 12:20:00`|`Apex Legends`|
+|[Frontier Def: pSilent, ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/668652-frontier-def-psilent-esp.html)|`2024-10-31 12:17:00`|`Titanfall`|
+|[Pasted Valorant Triggerbot &#40;Tested 9&#43; Hours, No Ban&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668023-pasted-valorant-triggerbot-tested-9-hours-ban.html)|`2024-10-31 12:15:00`|`Valorant`|
+|[Will anti&#45;cheat detection capabilities become stronger after reaching the Grandmaster](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668500-anti-cheat-detection-capabilities-stronger-reaching-grandmaster.html)|`2024-10-31 12:14:00`|`Apex Legends`|
 |[Several questions about how to make my own external cheat more undetectable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668734-questions-own-external-cheat-undetectable.html)|`2024-10-31 12:11:00`|`Anti-Cheat Bypass`|
 |[DMA: Deadlock &#40;Free&#41; &#124; Aimbot, ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/668813-dma-deadlock-free-aimbot-esp.html)|`2024-10-31 12:03:00`|`Deadlock`|
 |[NOT Lethal Force](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/649082-lethal-force.html)|`2024-10-31 11:58:00`|`Payday 3`|
