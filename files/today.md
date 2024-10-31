@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[who has a good recoil pattern for the new rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/669856-recoil-pattern-rust.html)|`2024-11-01 05:52:00`|`Rust`|
+|[Having a VERY hard time with a windows hardware ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668603-hard-time-windows-hardware-ban.html)|`2024-11-01 05:49:00`|`Apex Legends`|
+|[problems using ZwMapViewOfSection on win11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/669855-using-zwmapviewofsection-win11.html)|`2024-11-01 05:48:00`|`Anti-Cheat Bypass`|
 |[get ntoskrnl 24h2 without NtQuerySystemInformation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/669854-ntoskrnl-24h2-ntquerysysteminformation.html)|`2024-11-01 05:43:00`|`Anti-Cheat Bypass`|
 |[Driver bsod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/669853-driver-bsod.html)|`2024-11-01 05:43:00`|`Anti-Cheat Bypass`|
 |[In&#45;depth ASUS Motherboard AMI Bios Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666894-depth-asus-motherboard-ami-bios-spoofing.html)|`2024-11-01 05:33:00`|`Anti-Cheat Bypass`|
