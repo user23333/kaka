@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hell Let Loose Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/664161-hell-loose-reversal-structs-offsets.html)|`2024-10-31 21:22:00`|`Other FPS Games`|
+|[HLL: Hell Let Loose](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/340677-hll-hell-loose.html)|`2024-10-31 21:22:00`|`Other FPS Games`|
+|[updating offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669772-updating-offsets.html)|`2024-10-31 21:19:00`|`Counter-Strike 2`|
 |[How to get the signatures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/669771-signatures.html)|`2024-10-31 21:13:00`|`Deadlock`|
 |[About getting offset through TOG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/669379-getting-offset-tog.html)|`2024-10-31 21:12:00`|`Escape from Tarkov`|
 |[How to spoof VID/PID of kmbox nvideo?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/669539-spoof-vid-pid-kmbox-nvideo.html)|`2024-10-31 21:10:00`|`PC Hardware`|
