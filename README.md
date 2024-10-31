@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[val 5 valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/656225-val-5-valorant.html)|`2024-11-01 07:09:00`|`Valorant`|
+|[SharpMonoInjector Fixed and Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/408878-sharpmonoinjector-fixed-updated.html)|`2024-11-01 06:59:00`|`Unity`|
+|[SetWindowsHook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/667931-setwindowshook.html)|`2024-11-01 06:57:00`|`Call of Duty: Modern Warfare III`|
 |[Zydis&#95;Wrapper &#45; Simplified C&#43;&#43;17 Wrapper for Zydis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/669861-zydis_wrapper-simplified-17-wrapper-zydis.html)|`2024-11-01 06:55:00`|`C and C++`|
 |[Dale and Dawson Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/664163-dale-dawson-mod-menu.html)|`2024-11-01 06:52:00`|`Other Games`|
 |[Kernel Level Cloaking &#40;AKECT&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/669808-kernel-level-cloaking-akect.html)|`2024-11-01 06:37:00`|`Anti-Cheat Bypass`|
