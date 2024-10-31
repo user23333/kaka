@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[USB Host Shield not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668745-usb-host-shield.html)|`2024-11-01 02:01:00`|`Valorant`|
+|[Several questions about how to make my own external cheat more undetectable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668734-questions-own-external-cheat-undetectable.html)|`2024-11-01 01:49:00`|`Anti-Cheat Bypass`|
 |[For Honor &#45; Sciprt by florasSecret &#45; Autoblock, Parry, Deflects, D b/Unblockables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/414701-honor-sciprt-florassecret-autoblock-parry-deflects-unblockables.html)|`2024-11-01 01:45:00`|`Other MMORPG and Strategy`|
 |[Apex legends no longer playable on Linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/669797-apex-legends-playable-linux.html)|`2024-11-01 01:40:00`|`Apex Legends`|
 |[War Thunder &#45; Marker distance calculator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/669494-war-thunder-marker-distance-calculator.html)|`2024-11-01 01:39:00`|`Other MMORPG and Strategy`|
