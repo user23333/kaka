@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[LSCHaX for 1&#46;69 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/224075-lschax-1-69-external.html)|`2024-10-31 15:06:00`|`Grand Theft Auto V`|
+|[Bopl Battle Demo Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/669728-bopl-battle-demo-unlocker.html)|`2024-10-31 14:58:00`|`Other Games`|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2024-10-31 14:57:00`|`Deadlock`|
 |[Ghost recon breakpoint DMG cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/ghost-recon/634643-ghost-recon-breakpoint-dmg-cheat.html)|`2024-10-31 14:52:00`|`Ghost Recon`|
 |[Can't Access XboxGames Directory Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/668890-cant-access-xboxgames-directory-files.html)|`2024-10-31 14:46:00`|`General Programming and Reversing`|
 |[Question about game pass and MSA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668574-question-game-pass-msa.html)|`2024-10-31 14:43:00`|`Call of Duty: Black Ops 6`|
