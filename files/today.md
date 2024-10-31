@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino 2pc method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669552-arduino-2pc-method.html)|`2024-10-31 11:16:00`|`Valorant`|
+|[MmMapIoSpace in Vulnerable Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668915-mmmapiospace-vulnerable-drivers.html)|`2024-10-31 10:59:00`|`Anti-Cheat Bypass`|
 |[winver/notepad overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/669714-winver-notepad-overlay.html)|`2024-10-31 10:54:00`|`Anti-Cheat Bypass`|
 |[Campaign Money/Other Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669561-campaign-money-cheats.html)|`2024-10-31 10:51:00`|`Call of Duty: Black Ops 6`|
 |[Bypass Protection against emulatated keystrokes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/669366-bypass-protection-emulatated-keystrokes.html)|`2024-10-31 10:48:00`|`Anti-Cheat Bypass`|
