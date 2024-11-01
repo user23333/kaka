@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2024-11-01 17:41:00`|`Grand Theft Auto V`|
 |[Blazing Sails Hack &#91;Win10&#93; &#91;Steam/EGS&#93; &#124; ESP &#124; SpeedHack &#124; NoClip &#124; More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620821-blazing-sails-hack-win10-steam-egs-esp-speedhack-noclip.html)|`2024-11-01 17:33:00`|`Other FPS Games`|
 |[Updating Sigs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669934-updating-sigs.html)|`2024-11-01 17:21:00`|`Counter-Strike 2`|
 |[Cold War Trainer working 1&#46;25&#46;5 &#40;Geogeo paste&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/501719-cold-war-trainer-1-25-5-geogeo-paste.html)|`2024-11-01 17:14:00`|`Call of Duty: Black Ops Cold War`|
