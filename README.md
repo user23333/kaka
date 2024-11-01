@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2024-11-02 05:07:00`|`Escape from Tarkov`|
+|[cs2 mutex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669967-cs2-mutex.html)|`2024-11-02 05:04:00`|`Counter-Strike 2`|
+|[Kakacheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/669037-kakacheat.html)|`2024-11-02 05:04:00`|`Team Fortress 2`|
+|[Zodiak &#45; Fastcup Full Kernel Driver Cheat v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/665011-zodiak-fastcup-kernel-driver-cheat-v2.html)|`2024-11-02 05:02:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[My Hero Ultra Rumble Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/604426-hero-ultra-rumble-cheat-table.html)|`2024-11-02 04:47:00`|`Other Games`|
 |[Unable to a valid bone pointer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670015-unable-valid-bone-pointer.html)|`2024-11-02 04:43:00`|`Call of Duty: Black Ops 6`|
 |[Pasted Valorant Triggerbot &#40;Tested 9&#43; Hours, No Ban&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668023-pasted-valorant-triggerbot-tested-9-hours-ban.html)|`2024-11-02 04:32:00`|`Valorant`|
