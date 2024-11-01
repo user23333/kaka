@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TPM &#43; Secure Boot "Bypass"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/631852-tpm-secure-boot-bypass.html)|`2024-11-02 04:26:00`|`Valorant`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2024-11-02 04:26:00`|`Phasmophobia`|
+|[Battlefield 2042 &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/467604-battlefield-2042-reversal-structs-offsets.html)|`2024-11-02 04:23:00`|`Battlefield 2042`|
+|[BlackiDumpi: Dump your offsets quickly and easily](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/627049-blackidumpi-dump-offsets-quickly-easily.html)|`2024-11-02 04:09:00`|`Valorant`|
+|[War Thunder offset dumper source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/667525-war-thunder-offset-dumper-source.html)|`2024-11-02 04:07:00`|`Other MMORPG and Strategy`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2024-11-02 04:05:00`|`Deadlock`|
 |[BattlEyen't &#45; play offline raids without BattlEye on live version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/481919-battleyent-play-offline-raids-battleye-live-version.html)|`2024-11-02 03:56:00`|`Escape from Tarkov`|
 |[How can I make my triggerbot as fast as possible?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669880-triggerbot-fast.html)|`2024-11-02 03:44:00`|`Valorant`|
