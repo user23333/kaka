@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2024-11-01 16:19:00`|`Counter-Strike 2 Releases`|
+|[Nuclear Option &#40;game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/650799-nuclear-option-game.html)|`2024-11-01 16:06:00`|`Other MMORPG and Strategy`|
 |[Battlefield 2042 &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/467604-battlefield-2042-reversal-structs-offsets.html)|`2024-11-01 15:39:00`|`Battlefield 2042`|
 |[&#91;Rumos&#93;VAC banned acc can only play without vac protect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/653385-rumos-vac-banned-acc-play-vac-protect.html)|`2024-11-01 15:39:00`|`Rust`|
 |[Realm Royale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/284127-realm-royale-reversal-structs-offsets.html)|`2024-11-01 15:36:00`|`Paladins`|
