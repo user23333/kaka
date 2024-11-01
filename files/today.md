@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/614111-cs2-internal-cheat.html)|`2024-11-02 05:54:00`|`Counter-Strike 2`|
+|[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2024-11-02 05:49:00`|`Elite: Dangerous`|
 |[BadPaste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/669845-badpaste.html)|`2024-11-02 05:45:00`|`Team Fortress 2`|
 |[Proxy for KS&#95;Diagnostics&#95;Process](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/567912-proxy-ks_diagnostics_process.html)|`2024-11-02 05:42:00`|`Phasmophobia`|
 |[VS Debugging with manualmap injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/670049-vs-debugging-manualmap-injector.html)|`2024-11-02 05:37:00`|`Counter-Strike 2`|
