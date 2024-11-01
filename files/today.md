@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unlock All Problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/668369-unlock.html)|`2024-11-01 19:47:00`|`Call of Duty: Modern Warfare III`|
+|[Pumpkin Hunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/668411-pumpkin-hunter.html)|`2024-11-01 19:37:00`|`All Points Bulletin`|
 |[FamilyMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/631659-familymenu.html)|`2024-11-01 19:25:00`|`Red Dead Redemption 2`|
 |[GetPawnHandle&#40;&#41; &#45; nullptr &#91;Internal&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669947-getpawnhandle-nullptr-internal.html)|`2024-11-01 19:19:00`|`Counter-Strike 2`|
 |[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-11-01 19:18:00`|`Deadlock`|
