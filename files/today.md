@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Battlefield 2042 &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/467604-battlefield-2042-reversal-structs-offsets.html)|`2024-11-01 15:39:00`|`Battlefield 2042`|
+|[&#91;Rumos&#93;VAC banned acc can only play without vac protect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/653385-rumos-vac-banned-acc-play-vac-protect.html)|`2024-11-01 15:39:00`|`Rust`|
+|[Realm Royale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/284127-realm-royale-reversal-structs-offsets.html)|`2024-11-01 15:36:00`|`Paladins`|
 |[Paladins Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/217341-paladins-reversal-structs-offsets.html)|`2024-11-01 15:35:00`|`Paladins`|
 |[Current state of DMA cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/669335-current-dma-cheating.html)|`2024-11-01 15:34:00`|`Rust`|
 |[Solo Leveling Arise : Status Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/629737-solo-leveling-arise-status-editor.html)|`2024-11-01 15:34:00`|`Other MMORPG and Strategy`|
