@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pasted Valorant Triggerbot &#40;Tested 9&#43; Hours, No Ban&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668023-pasted-valorant-triggerbot-tested-9-hours-ban.html)|`2024-11-02 04:32:00`|`Valorant`|
 |[TPM &#43; Secure Boot "Bypass"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/631852-tpm-secure-boot-bypass.html)|`2024-11-02 04:26:00`|`Valorant`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2024-11-02 04:26:00`|`Phasmophobia`|
 |[Battlefield 2042 &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/467604-battlefield-2042-reversal-structs-offsets.html)|`2024-11-02 04:23:00`|`Battlefield 2042`|
