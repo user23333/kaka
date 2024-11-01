@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;PSA&#93; state of this forum and cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/669912-psa-forum-cheats.html)|`2024-11-01 13:26:00`|`Call of Duty: Modern Warfare`|
 |[Event/Trophy Savegame Keys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/617303-event-trophy-savegame-keys.html)|`2024-11-01 12:57:00`|`Phasmophobia`|
 |[Battlefield 1 &#45; 2x Damage Multiplier](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/500253-battlefield-1-2x-damage-multiplier.html)|`2024-11-01 12:35:00`|`Battlefield 1`|
 |[Is Visible](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/668015-visible.html)|`2024-11-01 12:30:00`|`Deadlock`|
