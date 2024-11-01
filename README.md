@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2024-11-02 01:23:00`|`Call of Duty: Black Ops 6`|
+|[Distance Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/669935-distance-esp.html)|`2024-11-02 01:22:00`|`Deadlock`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-11-02 01:20:00`|`Grand Theft Auto V`|
+|[get ntoskrnl 24h2 without NtQuerySystemInformation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/669854-ntoskrnl-24h2-ntquerysysteminformation.html)|`2024-11-02 01:17:00`|`Anti-Cheat Bypass`|
+|[BannleEye &#45; Banning arbitrary players using BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667333-bannleeye-banning-arbitrary-players-using.html)|`2024-11-02 01:17:00`|`Anti-Cheat Bypass`|
 |[Linux banned, what now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/669802-linux-banned.html)|`2024-11-02 01:12:00`|`Apex Legends`|
 |[Age of Empires 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/589592-age-empires-4-reversal-structs-offsets.html)|`2024-11-02 01:08:00`|`Other MMORPG and Strategy`|
 |[Bodycam Internal Esp, Aimbot, Exploits&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/668848-bodycam-internal-esp-aimbot-exploits.html)|`2024-11-02 01:05:00`|`Other FPS Games`|
