@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BadPaste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/669845-badpaste.html)|`2024-11-02 05:45:00`|`Team Fortress 2`|
+|[Proxy for KS&#95;Diagnostics&#95;Process](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/567912-proxy-ks_diagnostics_process.html)|`2024-11-02 05:42:00`|`Phasmophobia`|
+|[VS Debugging with manualmap injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/670049-vs-debugging-manualmap-injector.html)|`2024-11-02 05:37:00`|`Counter-Strike 2`|
 |[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2024-11-02 05:07:00`|`Escape from Tarkov`|
 |[cs2 mutex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669967-cs2-mutex.html)|`2024-11-02 05:04:00`|`Counter-Strike 2`|
 |[Kakacheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/669037-kakacheat.html)|`2024-11-02 05:04:00`|`Team Fortress 2`|
