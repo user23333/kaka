@@ -41,6 +41,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Autofire](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668707-autofire.html)|`2024-11-03 07:15:00`|`Counter-Strike 2`|
+|[VPN / bot lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670248-vpn-bot-lobbies.html)|`2024-11-03 07:13:00`|`Call of Duty: Black Ops 6`|
+|[Right Wing Extremism Is Out Of Control&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/670245-wing-extremism-control.html)|`2024-11-03 07:08:00`|`Off Topic`|
 |[flying dutchman and black pearls Model File](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/669803-flying-dutchman-black-pearls-model-file.html)|`2024-11-03 06:14:00`|`Sea of Thieves`|
 |[Sea of thieves Season 13 FOV Slider, nosprint, and other cheats&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/666750-sea-thieves-season-13-fov-slider-nosprint-cheats.html)|`2024-11-03 06:12:00`|`Sea of Thieves`|
 |[Distance Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/669935-distance-esp.html)|`2024-11-03 06:07:00`|`Deadlock`|
