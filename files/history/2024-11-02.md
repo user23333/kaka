@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Debin P3Ds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/657919-debin-p3ds.html)|`2024-11-02 19:54:00`|`DayZ SA`|
 |[after the 1 novenber update i got shadow banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670111-1-novenber-update-shadow-banned.html)|`2024-11-02 19:23:00`|`Call of Duty: Black Ops 6`|
 |[Fortnite Cheat Engine&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/669491-fortnite-cheat-engine.html)|`2024-11-02 19:31:00`|`Anti-Cheat Bypass`|
 |[How to set&#45;up things to update and run Rigel Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/643347-set-update-run-rigel-cheat.html)|`2024-11-02 19:11:00`|`Overwatch`|
