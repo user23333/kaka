@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DoubleTap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/655663-doubletap.html)|`2024-11-02 08:50:00`|`Counter-Strike 2`|
+|[Unlock All Tool Detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669175-unlock-tool-detections.html)|`2024-11-02 08:16:00`|`Call of Duty: Black Ops 6`|
+|[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2024-11-02 08:14:00`|`Garry's Mod`|
 |[VAC Possible Changes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668360-vac-changes.html)|`2024-11-02 06:56:00`|`Counter-Strike 2`|
 |[Definitive Ultimate Cheatpack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/633084-definitive-ultimate-cheatpack.html)|`2024-11-02 06:52:00`|`Star Wars Battlefront 2`|
 |[All Mouse NoRecoil &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-recoil-helpy-auto-config-probably-ud-universal.html)|`2024-11-02 06:46:00`|`Rainbow Six Siege`|
