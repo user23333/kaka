@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Skip Cluckin Bell preps&#33; Easy 500K](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666172-skip-cluckin-bell-preps-easy-500k.html)|`2024-11-03 03:50:00`|`Grand Theft Auto V`|
 |[DayZ Hacking and Bypassing &#45; noob question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/652658-dayz-hacking-bypassing-noob-question.html)|`2024-11-03 03:42:00`|`DayZ SA`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2024-11-03 03:40:00`|`Escape from Tarkov`|
 |[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2024-11-03 03:29:00`|`Grand Theft Auto V`|
