@@ -11,6 +11,7 @@
 |14|[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2024-11-03 00:07:45`|`valorant`|
 |22|[Hyperion analysis, the roblox anti&#45;tamper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/669481-hyperion-analysis-roblox-anti-tamper.html)|`2024-11-03 00:07:45`|`anti-cheat-bypass`|
 |15|[which menu works still?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/668854-menu.html)|`2024-11-03 00:07:45`|`grand-theft-auto-v`|
+|32|[TOP MACRO Logitech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668884-top-macro-logitech.html)|`2024-11-03 02:14:23`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,9 +30,19 @@
 |6|[FakeLiarsBar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47406)|`2024-11-03 01:09:23`|
 |1|[cs&#95;icon&#95;font&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47405)|`2024-11-03 01:09:23`|
 |1|[GoldenGets Menu v1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47402)|`2024-11-03 01:44:51`|
+|4|[ED Simple Module Editor update19](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47452)|`2024-11-03 02:14:23`|
+|1|[Amalgam Paste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47424)|`2024-11-03 02:14:23`|
+|3|[Payday3&#95;internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47418)|`2024-11-03 02:14:23`|
+|1|[Panicore v1&#46;1 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47412)|`2024-11-03 02:14:23`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2024-11-03 02:13:00`|`Valorant`|
+|[ODIN V4 FOR STEAM ONLY&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/645623-odin-v4-steam.html)|`2024-11-03 02:09:00`|`Paladins`|
+|[Amalgam Paste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/668775-amalgam-paste.html)|`2024-11-03 02:07:00`|`Team Fortress 2`|
+|[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2024-11-03 02:04:00`|`Elite: Dangerous`|
+|[Internal cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/611723-internal-cheese.html)|`2024-11-03 02:01:00`|`Payday 3`|
+|[DMA Process Dumper With Full support against CR3 shuffling&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/669881-dma-process-dumper-support-cr3-shuffling.html)|`2024-11-03 02:01:00`|`Anti-Cheat Bypass`|
 |[AHK Aim Assist Zombies &#43; Zombie Lock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669362-ahk-aim-assist-zombies-zombie-lock.html)|`2024-11-03 01:54:00`|`Call of Duty: Black Ops 6`|
 |[How to check a validity of cr3 before reading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670082-check-validity-cr3-reading.html)|`2024-11-03 01:54:00`|`Anti-Cheat Bypass`|
 |[Fortnite Cheat Engine&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/669491-fortnite-cheat-engine.html)|`2024-11-03 01:50:00`|`Anti-Cheat Bypass`|
