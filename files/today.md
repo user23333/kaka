@@ -24,9 +24,11 @@
 |5|[Crete &#45; CVars Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47393)|`2024-11-03 00:07:45`|
 |7|[Manifest 2 &#45; UFS Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47392)|`2024-11-03 00:07:45`|
 |7|[Manifest1 &#45; NonUFSF](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47391)|`2024-11-03 00:07:45`|
+|7|[Stupid&#46;Solutions v3 &#40;0&#46;15&#46;5&#46;1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47457)|`2024-11-03 00:50:50`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sai's Color Aimbot BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668780-sais-color-aimbot-bo6.html)|`2024-11-03 00:47:00`|`Call of Duty: Black Ops 6`|
 |[Post Patch Force Local Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/669846-post-patch-force-local-game.html)|`2024-11-03 00:43:00`|`Escape from Tarkov`|
 |[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2024-11-03 00:38:00`|`Other FPS Games`|
 |[BloodHunt Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/598136-bloodhunt-internal.html)|`2024-11-03 00:34:00`|`Other FPS Games`|
