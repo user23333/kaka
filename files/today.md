@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[hooking discord overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/367005-hooking-discord-overlay.html)|`2024-11-02 15:20:00`|`Anti-Cheat Bypass`|
+|[Payday 3 Black Market](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/606667-payday-3-black-market.html)|`2024-11-02 15:17:00`|`Payday 3`|
 |[Autofire](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668707-autofire.html)|`2024-11-02 15:11:00`|`Counter-Strike 2`|
 |[Biggest Cheat for siege shutdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/670092-biggest-cheat-siege-shutdown.html)|`2024-11-02 14:52:00`|`Rainbow Six Siege`|
 |[PUBG DMA Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/644302-pubg-dma-cheat-run.html)|`2024-11-02 14:49:00`|`Playerunknown's Battlegrounds`|
