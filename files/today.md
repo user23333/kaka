@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AHK Aim Assist Zombies &#43; Zombie Lock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669362-ahk-aim-assist-zombies-zombie-lock.html)|`2024-11-03 01:54:00`|`Call of Duty: Black Ops 6`|
+|[How to check a validity of cr3 before reading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670082-check-validity-cr3-reading.html)|`2024-11-03 01:54:00`|`Anti-Cheat Bypass`|
+|[Fortnite Cheat Engine&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/669491-fortnite-cheat-engine.html)|`2024-11-03 01:50:00`|`Anti-Cheat Bypass`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-11-03 01:45:00`|`Rust`|
 |[GoldenGets Menu lua for YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/669302-goldengets-menu-lua-yimmenu.html)|`2024-11-03 01:41:00`|`Grand Theft Auto V`|
 |[&#91;DMA&#93; PoC 1&#46;8&#46;9 infinite jump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/669724-dma-poc-1-8-9-infinite-jump.html)|`2024-11-03 01:40:00`|`Minecraft`|
