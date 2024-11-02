@@ -41,6 +41,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[flying dutchman and black pearls Model File](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/669803-flying-dutchman-black-pearls-model-file.html)|`2024-11-03 06:14:00`|`Sea of Thieves`|
+|[Sea of thieves Season 13 FOV Slider, nosprint, and other cheats&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/666750-sea-thieves-season-13-fov-slider-nosprint-cheats.html)|`2024-11-03 06:12:00`|`Sea of Thieves`|
+|[Distance Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/669935-distance-esp.html)|`2024-11-03 06:07:00`|`Deadlock`|
+|[any recommendations for no recoil/jitter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/670116-recommendations-recoil-jitter.html)|`2024-11-03 06:04:00`|`Apex Legends`|
+|[Vigor internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662490-vigor-internal-cheat.html)|`2024-11-03 05:59:00`|`Other FPS Games`|
 |[Counter strike in browser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/491975-counter-strike-browser.html)|`2024-11-03 05:57:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[How to Get DeadLock Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/660973-deadlock-offsets.html)|`2024-11-03 05:57:00`|`Deadlock`|
 |[Failed to get ViewModelFOV &#91;Internal&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/670240-failed-viewmodelfov-internal.html)|`2024-11-03 05:56:00`|`Counter-Strike 2`|
