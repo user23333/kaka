@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to check a validity of cr3 before reading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670082-check-validity-cr3-reading.html)|`2024-11-02 11:08:00`|`Anti-Cheat Bypass`|
 |[Introduction to Nsight Graphics — Render API Debugger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/opengl/658596-introduction-nsight-graphics-render-api-debugger.html)|`2024-11-02 10:42:00`|`OpenGL`|
 |[AHK Aim Assist Zombies &#43; Zombie Lock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669362-ahk-aim-assist-zombies-zombie-lock.html)|`2024-11-02 10:35:00`|`Call of Duty: Black Ops 6`|
 |[MW19 GSC Mod Menu for Retail &#40;Free version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/667737-mw19-gsc-mod-menu-retail-free-version.html)|`2024-11-02 10:20:00`|`Call of Duty: Modern Warfare`|
