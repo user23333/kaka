@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2024-11-03 03:29:00`|`Grand Theft Auto V`|
 |[How to disable Secure Flash?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/652385-disable-secure-flash.html)|`2024-11-03 03:19:00`|`Valorant`|
 |[Vanguard Spoofer Rev 2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612562-vanguard-spoofer-rev-2-a.html)|`2024-11-03 03:08:00`|`Valorant`|
 |[VGC BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/670122-vgc-bypass.html)|`2024-11-03 03:04:00`|`Valorant`|
