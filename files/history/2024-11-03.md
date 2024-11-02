@@ -31,6 +31,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670081-simple-unlocker.html)|`2024-11-03 01:38:00`|`Call of Duty: Black Ops 6`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2024-11-03 01:37:00`|`Rainbow Six Siege`|
+|[About rendering in Minecraft&#46; Creating ESP for Minecraft ALL versions &#40;No JNI&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/658762-rendering-minecraft-creating-esp-minecraft-versions-jni.html)|`2024-11-03 01:37:00`|`Minecraft`|
+|[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-11-03 01:36:00`|`Other Games`|
+|[Could you let me know which part I need to modify in the Simple Deadlock Internal &#43; S](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/670074-modify-simple-deadlock-internal.html)|`2024-11-03 01:36:00`|`Deadlock`|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2024-11-03 01:35:00`|`Deadlock`|
+|[Destiny 2 Inventory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/668891-destiny-2-inventory.html)|`2024-11-03 01:33:00`|`Other FPS Games`|
+|[Apex Devs have Banned Linux from playing Apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/669799-apex-devs-banned-linux-playing-apex.html)|`2024-11-03 01:32:00`|`Apex Legends`|
 |[After escaping from version 0&#46;15&#46;5, a black screen appears](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/669929-escaping-version-0-15-5-black-screen-appears.html)|`2024-11-03 01:31:00`|`Escape from Tarkov`|
 |[Nuclear Option &#40;game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/650799-nuclear-option-game.html)|`2024-11-03 01:31:00`|`Other MMORPG and Strategy`|
 |[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2024-11-03 01:28:00`|`Other FPS Games`|
