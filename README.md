@@ -13,6 +13,7 @@
 |7|[AHK Aim Assist Zombies &#43; Zombie Lock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669362-ahk-aim-assist-zombies-zombie-lock.html)|`2024-11-02 00:14:03`|`call-of-duty-black-ops-6-a`|
 |22|[Hyperion analysis, the roblox anti&#45;tamper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/669481-hyperion-analysis-roblox-anti-tamper.html)|`2024-11-02 13:51:28`|`anti-cheat-bypass`|
 |15|[which menu works still?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/668854-menu.html)|`2024-11-02 16:19:59`|`grand-theft-auto-v`|
+|14|[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2024-11-02 23:08:48`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Off the Grid Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/665981-grid-reversal-structs-offsets.html)|`2024-11-02 23:04:00`|`Other FPS Games`|
 |[esp sound](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/670129-esp-sound.html)|`2024-11-02 22:42:00`|`Counter-Strike 2`|
 |[Simple HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657458-simple-hwid-spoofer.html)|`2024-11-02 22:37:00`|`Overwatch`|
 |[2D Rader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/670128-2d-rader.html)|`2024-11-02 22:37:00`|`Counter-Strike 2`|
