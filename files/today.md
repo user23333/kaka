@@ -41,6 +41,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to start my own bot lobbies bo6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670219-start-own-bot-lobbies-bo6.html)|`2024-11-03 05:15:00`|`Call of Duty: Black Ops 6`|
+|[DMA ERROR HELP PLEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/668101-dma-error-help-please.html)|`2024-11-03 05:03:00`|`PC Hardware`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2024-11-03 05:17:00`|`Counter-Strike 2`|
 |[Legit module in kernel memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670215-legit-module-kernel-memory.html)|`2024-11-03 04:59:00`|`Anti-Cheat Bypass`|
 |[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-11-03 04:57:00`|`Overwatch`|
