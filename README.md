@@ -34,9 +34,14 @@
 |1|[Amalgam Paste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47424)|`2024-11-03 02:14:23`|
 |3|[Payday3&#95;internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47418)|`2024-11-03 02:14:23`|
 |1|[Panicore v1&#46;1 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47412)|`2024-11-03 02:14:23`|
+|1|[The Finals ColorBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47433)|`2024-11-03 02:33:08`|
+|1|[source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47432)|`2024-11-03 02:33:08`|
+|1|[The Finals ColorBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47431)|`2024-11-03 02:33:08`|
+|1|[ChadAlphaMalesEnhancedSRC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47430)|`2024-11-03 02:33:08`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ChadAlphaMales Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/669776-chadalphamales-enhanced.html)|`2024-11-03 02:16:00`|`Team Fortress 2`|
 |[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2024-11-03 02:13:00`|`Valorant`|
 |[ODIN V4 FOR STEAM ONLY&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/645623-odin-v4-steam.html)|`2024-11-03 02:09:00`|`Paladins`|
 |[Amalgam Paste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/668775-amalgam-paste.html)|`2024-11-03 02:07:00`|`Team Fortress 2`|
