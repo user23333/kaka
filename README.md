@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Introduction to Nsight Graphics — Render API Debugger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/opengl/658596-introduction-nsight-graphics-render-api-debugger.html)|`2024-11-02 10:42:00`|`OpenGL`|
+|[AHK Aim Assist Zombies &#43; Zombie Lock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669362-ahk-aim-assist-zombies-zombie-lock.html)|`2024-11-02 10:35:00`|`Call of Duty: Black Ops 6`|
+|[MW19 GSC Mod Menu for Retail &#40;Free version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/667737-mw19-gsc-mod-menu-retail-free-version.html)|`2024-11-02 10:20:00`|`Call of Duty: Modern Warfare`|
+|[Free ESP Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668004-free-esp-cheat.html)|`2024-11-02 10:17:00`|`Counter-Strike 2`|
+|[Heist Editor v3&#46;6 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/451205-heist-editor-v3-6-external.html)|`2024-11-02 10:12:00`|`Grand Theft Auto V`|
 |[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2024-11-02 10:02:00`|`Palia`|
 |[Any hope in Zombie Trainers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670072-hope-zombie-trainers.html)|`2024-11-02 09:49:00`|`Call of Duty: Black Ops 6`|
 |[can't read the right memory after the eac update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/670078-cant-read-memory-eac-update.html)|`2024-11-02 09:49:00`|`Apex Legends`|
