@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MWIII DMA Basic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/619202-mwiii-dma-basic.html)|`2024-11-02 21:30:00`|`Call of Duty: Modern Warfare III`|
 |[Destiny 2 Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669951-destiny-2-reversal.html)|`2024-11-02 21:26:00`|`Other FPS Games`|
 |[Destiny 2 Inventory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/668891-destiny-2-inventory.html)|`2024-11-02 21:23:00`|`Other FPS Games`|
 |[Read access violation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669486-read-access-violation.html)|`2024-11-02 21:06:00`|`Counter-Strike 2`|
