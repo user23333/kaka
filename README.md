@@ -41,6 +41,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter strike in browser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/491975-counter-strike-browser.html)|`2024-11-03 05:57:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[How to Get DeadLock Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/660973-deadlock-offsets.html)|`2024-11-03 05:57:00`|`Deadlock`|
+|[Failed to get ViewModelFOV &#91;Internal&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/670240-failed-viewmodelfov-internal.html)|`2024-11-03 05:56:00`|`Counter-Strike 2`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-11-03 05:48:00`|`Valorant`|
 |[Dual&#45;OS Setup with Cheat on Linux VM and Game on Windows 11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/669939-dual-os-setup-cheat-linux-vm-game-windows-11-a.html)|`2024-11-03 05:48:00`|`Apex Legends`|
 |[looking for a reliable rust esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/670225-looking-reliable-rust-esp.html)|`2024-11-03 05:48:00`|`Rust`|
