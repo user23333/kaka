@@ -28,9 +28,12 @@
 |1|[Titanfall 2 ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47428)|`2024-11-03 01:09:23`|
 |6|[FakeLiarsBar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47406)|`2024-11-03 01:09:23`|
 |1|[cs&#95;icon&#95;font&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47405)|`2024-11-03 01:09:23`|
+|1|[GoldenGets Menu v1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47402)|`2024-11-03 01:44:51`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GoldenGets Menu lua for YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/669302-goldengets-menu-lua-yimmenu.html)|`2024-11-03 01:41:00`|`Grand Theft Auto V`|
+|[&#91;DMA&#93; PoC 1&#46;8&#46;9 infinite jump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/669724-dma-poc-1-8-9-infinite-jump.html)|`2024-11-03 01:40:00`|`Minecraft`|
 |[Simple Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670081-simple-unlocker.html)|`2024-11-03 01:38:00`|`Call of Duty: Black Ops 6`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2024-11-03 01:37:00`|`Rainbow Six Siege`|
 |[About rendering in Minecraft&#46; Creating ESP for Minecraft ALL versions &#40;No JNI&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/658762-rendering-minecraft-creating-esp-minecraft-versions-jni.html)|`2024-11-03 01:37:00`|`Minecraft`|
