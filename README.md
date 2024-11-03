@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Zydis&#95;Wrapper &#45; Simplified C&#43;&#43;17 Wrapper for Zydis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/669861-zydis_wrapper-simplified-17-wrapper-zydis.html)|`2024-11-04 03:42:00`|`C and C++`|
+|[W2S Issue &#40;Help&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/670365-w2s-issue-help.html)|`2024-11-04 03:40:00`|`Unreal Engine 4`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-11-04 03:35:00`|`Grand Theft Auto V`|
 |[Albion Online Dungeon Checker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/670358-albion-online-dungeon-checker.html)|`2024-11-04 03:39:00`|`Other MMORPG and Strategy`|
 |[crash after mapping physical pages](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670363-crash-mapping-physical-pages.html)|`2024-11-04 03:25:00`|`Anti-Cheat Bypass`|
 |[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-11-04 03:19:00`|`Deadlock`|
