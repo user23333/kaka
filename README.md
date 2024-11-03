@@ -45,6 +45,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unlock All Tool Detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669175-unlock-tool-detections.html)|`2024-11-03 10:04:00`|`Call of Duty: Black Ops 6`|
 |[Josh's Aim Assist V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670254-joshs-aim-assist-v1.html)|`2024-11-03 09:59:00`|`Call of Duty: Black Ops 6`|
 |[Not having to deal with Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669915-deal-offsets.html)|`2024-11-03 09:57:00`|`Counter-Strike 2`|
 |[Overlay / application question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/670262-overlay-application-question.html)|`2024-11-03 09:46:00`|`Rainbow Six Siege`|
