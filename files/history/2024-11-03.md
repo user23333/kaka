@@ -16,6 +16,7 @@
 |7|[PUBLIC BOT LOBBY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669841-public-bot-lobby.html)|`2024-11-03 11:02:07`|`call-of-duty-black-ops-6-a`|
 |4|[Where da cheatz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669214-da-cheatz.html)|`2024-11-03 11:02:07`|`call-of-duty-black-ops-6-a`|
 |16|[Dual&#45;OS Setup with Cheat on Linux VM and Game on Windows 11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/669939-dual-os-setup-cheat-linux-vm-game-windows-11-a.html)|`2024-11-03 20:12:40`|`apex-legends`|
+|10|[Simple Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670081-simple-unlocker.html)|`2024-11-03 21:03:05`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -46,6 +47,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-11-03 21:00:00`|`Playerunknown's Battlegrounds`|
 |[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2024-11-03 20:18:00`|`Other FPS Games`|
 |[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2024-11-03 20:17:00`|`Other Games`|
 |[Manually change TPM serial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669488-manually-change-tpm-serial.html)|`2024-11-03 19:50:00`|`Valorant`|
