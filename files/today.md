@@ -47,6 +47,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How update a old CE table with pointers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/670278-update-ce-table-pointers.html)|`2024-11-03 23:41:00`|`Forum General`|
 |[New Jitter Aim CFG Stronger as JoyToKey and more&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/670324-jitter-aim-cfg-stronger-joytokey.html)|`2024-11-03 23:20:00`|`Apex Legends`|
 |[BattlEyen't &#45; play offline raids without BattlEye on live version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/481919-battleyent-play-offline-raids-battleye-live-version.html)|`2024-11-03 23:16:00`|`Escape from Tarkov`|
 |[Yolov5 Enemy Detection Models for AI AIMBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/634345-yolov5-enemy-detection-models-ai-aimbot.html)|`2024-11-03 23:16:00`|`Rainbow Six Siege`|
