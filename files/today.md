@@ -47,6 +47,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG DMA Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/644302-pubg-dma-cheat-run.html)|`2024-11-03 22:26:00`|`Playerunknown's Battlegrounds`|
+|[DayZ 1&#46;26 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/668418-dayz-1-26-cheat.html)|`2024-11-03 22:25:00`|`DayZ SA`|
+|[Can I get invite?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/670313-invite.html)|`2024-11-03 22:13:00`|`Deadlock`|
 |[Request Anti&#45;AFK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669211-request-anti-afk.html)|`2024-11-03 21:59:00`|`Call of Duty: Black Ops 6`|
 |[how to map drivers on 24h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666998-map-drivers-24h2.html)|`2024-11-03 21:46:00`|`Anti-Cheat Bypass`|
 |[reading map name](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669374-reading-map-name.html)|`2024-11-03 21:23:00`|`Counter-Strike 2`|
