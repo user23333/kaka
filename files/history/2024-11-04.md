@@ -25,9 +25,15 @@
 |16|[ChadAlphaMalesEnhancedSRC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47430)|`2024-11-04 00:15:39`|
 |11|[Titanfall 2 ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47428)|`2024-11-04 00:15:39`|
 |23|[Amalgam Paste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47424)|`2024-11-04 00:15:39`|
+|1|[csgo&#95;icon&#95;font&#46;ttf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47462)|`2024-11-04 06:32:24`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2/CSGO Icons font](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669443-cs2-csgo-icons-font.html)|`2024-11-04 06:28:00`|`Counter-Strike 2`|
+|[&#91;DMA&#93; PoC 1&#46;8&#46;9 infinite jump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/669724-dma-poc-1-8-9-infinite-jump.html)|`2024-11-04 06:24:00`|`Minecraft`|
+|[How to actually work with EAC&#45;Secured Games, How to write UD drivers without cert?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/667752-actually-eac-secured-games-write-ud-drivers-cert.html)|`2024-11-04 06:23:00`|`Forum General`|
+|[Need discord resize buffers offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670289-discord-resize-buffers-offset.html)|`2024-11-04 06:22:00`|`Anti-Cheat Bypass`|
+|[FiveM Simple External base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/645500-fivem-simple-external-base.html)|`2024-11-04 06:20:00`|`Alternative Online Mods`|
 |[bocw cheat src &#40; not finished&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/629054-bocw-cheat-src-finished.html)|`2024-11-04 06:09:00`|`Call of Duty: Black Ops Cold War`|
 |[Cheat Engine Table PS3D](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632973-cheat-engine-table-ps3d.html)|`2024-11-04 06:06:00`|`Other FPS Games`|
 |[Project Bloodstrike PC Esp Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/619430-project-bloodstrike-pc-esp-aimbot.html)|`2024-11-04 06:05:00`|`Other FPS Games`|
