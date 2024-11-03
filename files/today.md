@@ -45,6 +45,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Reading memory externally is detected by Hyperion AC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670273-reading-memory-externally-detected-hyperion-ac.html)|`2024-11-03 11:49:00`|`Anti-Cheat Bypass`|
 |[Arduino Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669493-arduino-colorbot.html)|`2024-11-03 11:31:00`|`Valorant`|
 |[R6 Old Sources](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/670261-r6-sources.html)|`2024-11-03 11:23:00`|`Rainbow Six Siege`|
 |[Simple Cheat Request&#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669582-simple-cheat-request-dma.html)|`2024-11-03 11:20:00`|`Call of Duty: Black Ops 6`|
