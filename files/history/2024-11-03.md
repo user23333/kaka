@@ -45,6 +45,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need discord resize buffers offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670289-discord-resize-buffers-offset.html)|`2024-11-03 18:05:00`|`Anti-Cheat Bypass`|
+|[Current state of DMA cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/669335-current-dma-cheating.html)|`2024-11-03 17:58:00`|`Rust`|
 |[Bypass Anti&#45;Cheat   Genshin Impact 5&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/658478-bypass-anti-cheat-genshin-impact-5-0-a.html)|`2024-11-03 17:36:00`|`Genshin Impact`|
 |[AHK colour aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/670286-ahk-colour-aimbot.html)|`2024-11-03 17:17:00`|`Apex Legends`|
 |[COD CP exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/616611-cod-cp-exploit.html)|`2024-11-03 17:15:00`|`Call of Duty: Modern Warfare III`|
