@@ -47,6 +47,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to map drivers on 24h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666998-map-drivers-24h2.html)|`2024-11-03 21:46:00`|`Anti-Cheat Bypass`|
 |[reading map name](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669374-reading-map-name.html)|`2024-11-03 21:23:00`|`Counter-Strike 2`|
 |[About the speed issue of executing FIXCR3 with DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/670305-speed-issue-executing-fixcr3-dma.html)|`2024-11-03 21:07:00`|`Apex Legends`|
 |[Bot Lobbies Creation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670304-bot-lobbies-creation.html)|`2024-11-03 21:07:00`|`Call of Duty: Black Ops 6`|
