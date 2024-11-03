@@ -45,6 +45,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spoofing on Lenovo?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/670294-spoofing-lenovo.html)|`2024-11-03 18:48:00`|`Valorant`|
 |[Script Decompiler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/670292-script-decompiler.html)|`2024-11-03 18:22:00`|`Grand Theft Auto V`|
 |[Heist Editor v3&#46;6 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/451205-heist-editor-v3-6-external.html)|`2024-11-03 18:21:00`|`Grand Theft Auto V`|
 |[Unibot &#124; An open&#45;source colorbot that just works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/603461-unibot-source-colorbot.html)|`2024-11-03 18:19:00`|`Valorant`|
