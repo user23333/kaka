@@ -47,6 +47,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New Jitter Aim CFG Stronger as JoyToKey and more&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/670324-jitter-aim-cfg-stronger-joytokey.html)|`2024-11-03 23:20:00`|`Apex Legends`|
+|[BattlEyen't &#45; play offline raids without BattlEye on live version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/481919-battleyent-play-offline-raids-battleye-live-version.html)|`2024-11-03 23:16:00`|`Escape from Tarkov`|
+|[Yolov5 Enemy Detection Models for AI AIMBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/634345-yolov5-enemy-detection-models-ai-aimbot.html)|`2024-11-03 23:16:00`|`Rainbow Six Siege`|
+|[Off The Grid Internal &#40;Aimbot, ESP, Exploits&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667656-grid-internal-aimbot-esp-exploits.html)|`2024-11-03 23:10:00`|`Other FPS Games`|
 |[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2024-11-03 22:55:00`|`Grand Theft Auto V`|
 |[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2024-11-03 22:48:00`|`Grand Theft Auto V`|
 |[I don't know how to write a prediction, please help me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670321-dont-write-prediction-please-help.html)|`2024-11-03 22:47:00`|`Call of Duty: Black Ops 6`|
