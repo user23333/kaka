@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BadPaste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/669845-badpaste.html)|`2024-11-04 04:40:00`|`Team Fortress 2`|
 |[Using Interception is less detectable than WPM?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/670353-using-interception-detectable-wpm.html)|`2024-11-04 04:32:00`|`Overwatch`|
 |[Bot Lobbies Creation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670304-bot-lobbies-creation.html)|`2024-11-04 04:26:00`|`Call of Duty: Black Ops 6`|
 |[Josh's Aim Assist V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670254-joshs-aim-assist-v1.html)|`2024-11-04 04:22:00`|`Call of Duty: Black Ops 6`|
