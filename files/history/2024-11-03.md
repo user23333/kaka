@@ -13,6 +13,8 @@
 |15|[which menu works still?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/668854-menu.html)|`2024-11-03 00:07:45`|`grand-theft-auto-v`|
 |32|[TOP MACRO Logitech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668884-top-macro-logitech.html)|`2024-11-03 02:14:23`|`rust`|
 |17|[Post Patch Force Local Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/669846-post-patch-force-local-game.html)|`2024-11-03 07:43:15`|`escape-from-tarkov`|
+|7|[PUBLIC BOT LOBBY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669841-public-bot-lobby.html)|`2024-11-03 11:02:07`|`call-of-duty-black-ops-6-a`|
+|4|[Where da cheatz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669214-da-cheatz.html)|`2024-11-03 11:02:07`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -43,6 +45,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Josh's Aim Assist V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670254-joshs-aim-assist-v1.html)|`2024-11-03 09:59:00`|`Call of Duty: Black Ops 6`|
+|[Not having to deal with Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669915-deal-offsets.html)|`2024-11-03 09:57:00`|`Counter-Strike 2`|
+|[Overlay / application question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/670262-overlay-application-question.html)|`2024-11-03 09:46:00`|`Rainbow Six Siege`|
 |[MW19 GSC Mod Menu for Retail &#40;Free version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/667737-mw19-gsc-mod-menu-retail-free-version.html)|`2024-11-03 09:06:00`|`Call of Duty: Modern Warfare`|
 |[Jitter Aim for Controller and MnK after patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662259-jitter-aim-controller-mnk-patch.html)|`2024-11-03 09:48:00`|`Apex Legends`|
 |[&#40;New&#41; Content Warning Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/635382-content-warning-cheat-menu.html)|`2024-11-03 09:44:00`|`Other Games`|
