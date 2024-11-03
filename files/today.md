@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does this game leave traces?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/670370-game-leave-traces.html)|`2024-11-04 04:12:00`|`Playerunknown's Battlegrounds`|
+|[Black Ops 6 RTM Tool &#40;PS4&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/655292-black-ops-6-rtm-tool-ps4.html)|`2024-11-04 04:10:00`|`Call of Duty: Black Ops 6`|
+|[Do I need script::get&#95;current &#40;&#41;&#45;&#62;yield&#40;&#41;; for STREAMING::REQUEST&#95;MODEL and why crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/670189-script-get_current-yield-streaming-request_model-crash.html)|`2024-11-04 04:09:00`|`Grand Theft Auto V`|
+|[TriggerBot &#43; AimAssist Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/657777-triggerbot-aimassist-source.html)|`2024-11-04 03:55:00`|`Valorant`|
+|[The Finals ColorBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/669800-finals-colorbot.html)|`2024-11-04 03:55:00`|`THE FINALS`|
 |[Get UserGroups without touching lua :3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/669964-usergroups-touching-lua-3-a.html)|`2024-11-04 03:52:00`|`Garry's Mod`|
 |[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2024-11-04 03:45:00`|`Elite: Dangerous`|
 |[Zydis&#95;Wrapper &#45; Simplified C&#43;&#43;17 Wrapper for Zydis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/669861-zydis_wrapper-simplified-17-wrapper-zydis.html)|`2024-11-04 03:42:00`|`C and C++`|
