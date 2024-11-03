@@ -45,6 +45,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/594518-triggerbot.html)|`2024-11-03 12:50:00`|`Overwatch`|
 |[Plz Help Crash Fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/670206-plz-help-crash-fix.html)|`2024-11-03 12:14:00`|`PUBG Mobile`|
 |[Kernel DA Tool &#43; Basic Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/669272-kernel-da-tool-basic-trainer.html)|`2024-11-03 12:01:00`|`Call of Duty: Black Ops Cold War`|
 |[Reading memory externally is detected by Hyperion AC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670273-reading-memory-externally-detected-hyperion-ac.html)|`2024-11-03 11:49:00`|`Anti-Cheat Bypass`|
