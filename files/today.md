@@ -27,9 +27,12 @@
 |23|[Amalgam Paste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47424)|`2024-11-04 00:15:39`|
 |1|[csgo&#95;icon&#95;font&#46;ttf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47462)|`2024-11-04 06:32:24`|
 |4|[Treason AIO V3 &#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47465)|`2024-11-04 06:41:53`|
+|3|[ENSD v19&#46;01&#46;00](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47458)|`2024-11-04 06:48:09`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2024-11-04 06:44:00`|`Elite: Dangerous`|
+|[Spoofing on Lenovo?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/670294-spoofing-lenovo.html)|`2024-11-04 06:42:00`|`Valorant`|
 |[Call of Duty: Modern Warfare III Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/605287-call-duty-modern-warfare-iii-reversal-structs-offsets.html)|`2024-11-04 06:39:00`|`Call of Duty: Modern Warfare III`|
 |[what are you most favourite movies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/668233-favourite-movies.html)|`2024-11-04 06:33:00`|`Off Topic`|
 |[CS2/CSGO Icons font](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669443-cs2-csgo-icons-font.html)|`2024-11-04 06:28:00`|`Counter-Strike 2`|
