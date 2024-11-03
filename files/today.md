@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2024-11-04 07:46:00`|`Escape from Tarkov`|
+|[Witch it ESP HACK/CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/670436-witch-esp-hack-cheat.html)|`2024-11-04 07:45:00`|`Other FPS Games`|
+|[VPN / bot lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670248-vpn-bot-lobbies.html)|`2024-11-04 07:44:00`|`Call of Duty: Black Ops 6`|
 |[Legit module in kernel memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670215-legit-module-kernel-memory.html)|`2024-11-04 07:41:00`|`Anti-Cheat Bypass`|
 |[Cr3 shuffling bull💩](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/670433-cr3-shuffling-bull.html)|`2024-11-04 07:27:00`|`Apex Legends`|
 |[The Truth Bar Menu &#45; V0&#46;1 &#124; Liar's bar internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667906-truth-bar-menu-v0-1-liars-bar-internal-cheat.html)|`2024-11-04 07:07:00`|`Other Games`|
