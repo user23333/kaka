@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Full Valorant External V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/670480-valorant-external-v1.html)|`2024-11-04 23:31:00`|`Valorant`|
+|[Any working afk macros?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/670275-afk-macros.html)|`2024-11-04 23:23:00`|`Call of Duty: Modern Warfare III`|
+|[Looking for RP / Rank LUA for Yimmenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/670499-looking-rp-rank-lua-yimmenu.html)|`2024-11-04 23:19:00`|`Grand Theft Auto V`|
 |[How do i get the player ping?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/670492-player-ping.html)|`2024-11-04 23:13:00`|`Counter-Strike 2`|
 |[internal shitty past bf1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/523274-internal-shitty-past-bf1.html)|`2024-11-04 22:28:00`|`Battlefield 1`|
 |[Pessi "Money Options" lua script for YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597857-pessi-money-options-lua-script-yimmenu.html)|`2024-11-04 22:50:00`|`Grand Theft Auto V`|
