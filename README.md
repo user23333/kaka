@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[isonzo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/670443-isonzo.html)|`2024-11-04 08:42:00`|`Other FPS Games`|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2024-11-04 08:37:00`|`Grand Theft Auto V`|
+|[Hitbox triggerbot not shooting in a match](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667648-hitbox-triggerbot-shooting-match.html)|`2024-11-04 08:01:00`|`Counter-Strike 2`|
 |[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2024-11-04 07:46:00`|`Escape from Tarkov`|
 |[Witch it ESP HACK/CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/670436-witch-esp-hack-cheat.html)|`2024-11-04 07:45:00`|`Other FPS Games`|
 |[VPN / bot lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670248-vpn-bot-lobbies.html)|`2024-11-04 07:44:00`|`Call of Duty: Black Ops 6`|
