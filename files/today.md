@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669274-vigor-internal-cheat.html)|`2024-11-05 01:40:00`|`Other FPS Games`|
+|[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2024-11-05 01:36:00`|`DayZ SA`|
 |[Bot lobby console method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670511-bot-lobby-console-method.html)|`2024-11-05 01:35:00`|`Call of Duty: Black Ops 6`|
 |[File to array of bytes tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/670510-file-array-bytes-tool.html)|`2024-11-05 01:34:00`|`Overwatch`|
 |[BannleEye &#45; Banning arbitrary players using BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667333-bannleeye-banning-arbitrary-players-using.html)|`2024-11-05 01:26:00`|`Anti-Cheat Bypass`|
