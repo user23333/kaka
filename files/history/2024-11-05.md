@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dual&#45;OS Setup with Cheat on Linux VM and Game on Windows 11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/669939-dual-os-setup-cheat-linux-vm-game-windows-11-a.html)|`2024-11-05 04:04:00`|`Apex Legends`|
+|[Distance Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/669935-distance-esp.html)|`2024-11-05 04:01:00`|`Deadlock`|
+|[Zodiak &#45; Fastcup Full Kernel Driver Cheat v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/665011-zodiak-fastcup-kernel-driver-cheat-v2.html)|`2024-11-05 03:58:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Server packets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/670446-server-packets.html)|`2024-11-05 03:48:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[oxware windows support](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/667900-oxware-windows-support.html)|`2024-11-05 03:38:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[offsets for verison 2023](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/666924-offsets-verison-2023-a.html)|`2024-11-05 03:38:00`|`CounterStrike 1.5, 1.6 and Mods`|
