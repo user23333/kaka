@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BannleEye &#45; Banning arbitrary players using BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667333-bannleeye-banning-arbitrary-players-using.html)|`2024-11-05 01:26:00`|`Anti-Cheat Bypass`|
+|[GTA Online & BattlEye &#45; November FAQ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/670508-gta-online-battleye-november-faq.html)|`2024-11-05 01:25:00`|`Grand Theft Auto V`|
+|[Fast Valorant Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669778-fast-valorant-triggerbot.html)|`2024-11-05 01:24:00`|`Valorant`|
+|[Any Grand RP money mods?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/670507-grand-rp-money-mods.html)|`2024-11-05 01:12:00`|`Alternative Online Mods`|
 |[Signatures for all IL2CPP exports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/670428-signatures-il2cpp-exports.html)|`2024-11-05 01:06:00`|`Combat Master`|
 |[A bypass for SAMP?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668580-bypass-samp.html)|`2024-11-05 01:01:00`|`Anti-Cheat Bypass`|
 |[evading eacs rizzing capabilities using multithreading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670505-evading-eacs-rizzing-capabilities-using-multithreading.html)|`2024-11-05 00:58:00`|`Anti-Cheat Bypass`|
