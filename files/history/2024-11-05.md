@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Question about updating offsets and EC&#45;EFI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/670434-question-updating-offsets-ec-efi.html)|`2024-11-05 06:00:00`|`Counter-Strike 2`|
 |[First Internal Bhop Attempt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/670535-internal-bhop-attempt.html)|`2024-11-05 05:51:00`|`Counter-Strike 2`|
 |[Arduino 2pc method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669552-arduino-2pc-method.html)|`2024-11-05 05:50:00`|`Valorant`|
 |[Post Patch Force Local Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/669846-post-patch-force-local-game.html)|`2024-11-05 05:37:00`|`Escape from Tarkov`|
