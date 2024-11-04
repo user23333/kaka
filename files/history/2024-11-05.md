@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Crashing when calling CG&#95;GetPredictedPlayerState](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/666519-crashing-calling-cg_getpredictedplayerstate.html)|`2024-11-05 03:27:00`|`Call of Duty: Black Ops 3`|
 |[I need a win11 paladins injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/668763-win11-paladins-injector.html)|`2024-11-05 03:06:00`|`Paladins`|
 |[Do I need script::get&#95;current &#40;&#41;&#45;&#62;yield&#40;&#41;; for STREAMING::REQUEST&#95;MODEL and why crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/670189-script-get_current-yield-streaming-request_model-crash.html)|`2024-11-05 02:56:00`|`Grand Theft Auto V`|
 |[Cr3 shuffling bull💩](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/670433-cr3-shuffling-bull.html)|`2024-11-05 02:54:00`|`Apex Legends`|
