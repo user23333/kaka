@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[external dex for roblox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670469-external-dex-roblox.html)|`2024-11-04 15:21:00`|`Other Games`|
 |[COD CP exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/616611-cod-cp-exploit.html)|`2024-11-04 15:11:00`|`Call of Duty: Modern Warfare III`|
 |[Hi, im concerned about bans in prevoius games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670465-hi-im-concerned-bans-prevoius-games.html)|`2024-11-04 14:40:00`|`Call of Duty: Black Ops 6`|
 |[Destiny 2 Dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/670408-destiny-2-dma.html)|`2024-11-04 14:40:00`|`Other FPS Games`|
