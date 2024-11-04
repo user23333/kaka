@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Avatar Stealer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/668908-avatar-stealer.html)|`2024-11-04 12:43:00`|`Rainbow Six Siege`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-11-04 12:43:00`|`Playerunknown's Battlegrounds`|
 |[AiCheats &#45; BF4 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/668879-aicheats-bf4-external-esp.html)|`2024-11-04 12:15:00`|`Battlefield 4`|
 |[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2024-11-04 12:15:00`|`Farlight 84`|
 |[FATE DMA Source With a lot of features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/659710-fate-dma-source-lot-features.html)|`2024-11-04 11:57:00`|`Apex Legends`|
