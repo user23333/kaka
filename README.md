@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AiCheats &#45; BF4 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/668879-aicheats-bf4-external-esp.html)|`2024-11-04 12:15:00`|`Battlefield 4`|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2024-11-04 12:15:00`|`Farlight 84`|
 |[FATE DMA Source With a lot of features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/659710-fate-dma-source-lot-features.html)|`2024-11-04 11:57:00`|`Apex Legends`|
 |[Linux cheating on apex is over](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/670455-linux-cheating-apex.html)|`2024-11-04 11:56:00`|`Apex Legends`|
 |[About the speed issue of executing FIXCR3 with DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/670305-speed-issue-executing-fixcr3-dma.html)|`2024-11-04 11:50:00`|`Apex Legends`|
