@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Event/Trophy Savegame Keys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/617303-event-trophy-savegame-keys.html)|`2024-11-05 05:33:00`|`Phasmophobia`|
 |[Dragon Ball Sparking Zero &#45; Auto Super Counter Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670199-dragon-ball-sparking-zero-auto-super-counter-help.html)|`2024-11-05 05:22:00`|`Other Games`|
 |[TriggerBot &#43; AimAssist Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/657777-triggerbot-aimassist-source.html)|`2024-11-05 05:20:00`|`Valorant`|
 |[Witch it ESP HACK/CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/670436-witch-esp-hack-cheat.html)|`2024-11-05 05:19:00`|`Other FPS Games`|
