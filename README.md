@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New Orbwalker for League of Legends &#45; Highly Accurate and Easy to Use&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/649151-orbwalker-league-legends-highly-accurate-easy.html)|`2024-11-04 17:56:00`|`League of Legends`|
 |[val 5 valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/656225-val-5-valorant.html)|`2024-11-04 16:17:00`|`Valorant`|
 |[Simple Deadlock opensource Where should I modify it to work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/670470-simple-deadlock-opensource-modify.html)|`2024-11-04 15:33:00`|`Deadlock`|
 |[external dex for roblox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670469-external-dex-roblox.html)|`2024-11-04 15:21:00`|`Other Games`|
