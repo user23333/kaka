@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-11-05 06:54:00`|`Valorant`|
 |[PUBLIC BOT LOBBY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669841-public-bot-lobby.html)|`2024-11-05 06:37:00`|`Call of Duty: Black Ops 6`|
 |[Apex Legends universal weapons anti recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662808-apex-legends-universal-weapons-anti-recoil.html)|`2024-11-05 06:37:00`|`Apex Legends`|
 |[Question about updating offsets and EC&#45;EFI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/670434-question-updating-offsets-ec-efi.html)|`2024-11-05 06:00:00`|`Counter-Strike 2`|
