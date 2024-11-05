@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cannot read Apex memory externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/670547-read-apex-memory-externally.html)|`2024-11-05 09:15:00`|`Apex Legends`|
+|[NOT Lethal Force](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/649082-lethal-force.html)|`2024-11-05 09:15:00`|`Payday 3`|
+|[My Hero Ultra Rumble Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/604426-hero-ultra-rumble-cheat-table.html)|`2024-11-05 09:06:00`|`Other Games`|
+|[Risk of Rain 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/669262-risk-rain-2-a.html)|`2024-11-05 08:39:00`|`Unity`|
 |[Arduino ApexCV simple magnet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/667959-arduino-apexcv-simple-magnet.html)|`2024-11-05 07:54:00`|`Apex Legends`|
 |[Looking for RP / Rank LUA for Yimmenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/670499-looking-rp-rank-lua-yimmenu.html)|`2024-11-05 07:44:00`|`Grand Theft Auto V`|
 |[help with team check &#40;internal esp&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/670525-help-team-check-internal-esp.html)|`2024-11-05 07:42:00`|`Counter-Strike 2`|
