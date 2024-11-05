@@ -51,6 +51,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Quick way to obtain CR3 and check it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/670570-quick-obtain-cr3-check.html)|`2024-11-05 14:47:00`|`Apex Legends`|
+|[GTA:O Money Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/662566-gta-money-tool.html)|`2024-11-05 14:47:00`|`Half Life`|
 |[Get UserGroups without touching lua :3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/669964-usergroups-touching-lua-3-a.html)|`2024-11-05 14:37:00`|`Garry's Mod`|
 |[SmmInfect &#45; Smm Backdoor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664482-smminfect-smm-backdoor.html)|`2024-11-05 14:37:00`|`Anti-Cheat Bypass`|
 |[SCUE4 Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667139-scue4-anticheat.html)|`2024-11-05 14:35:00`|`Anti-Cheat Bypass`|
