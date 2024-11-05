@@ -4,7 +4,7 @@ import requests
 from datetime import datetime, timedelta
 from pyquery import PyQuery as pq
 import user_agent
-
+# TODO: Try using cfscrape
 
 v1 = os.getenv('V1')
 v2 = os.getenv('V2')
