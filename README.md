@@ -52,6 +52,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hi, im concerned about bans in prevoius games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670465-hi-im-concerned-bans-prevoius-games.html)|`2024-11-05 22:27:00`|`Call of Duty: Black Ops 6`|
+|[Payday 3 Black Market](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/606667-payday-3-black-market.html)|`2024-11-05 22:24:00`|`Payday 3`|
+|[Reworked AHK Color Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/xdefiant/640961-reworked-ahk-color-aimbot.html)|`2024-11-05 22:16:00`|`xDefiant`|
 |[after the 1 novenber update i got shadow banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670111-1-novenber-update-shadow-banned.html)|`2024-11-05 22:11:00`|`Call of Duty: Black Ops 6`|
 |[faceit stop my launch app](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/669356-faceit-stop-launch-app.html)|`2024-11-05 21:53:00`|`Counter-Strike 2`|
 |[faceit block inject my exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/670601-faceit-block-inject-exe.html)|`2024-11-05 21:53:00`|`Counter-Strike 2`|
