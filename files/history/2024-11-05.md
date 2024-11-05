@@ -46,9 +46,13 @@
 |1|[Binary FileToArrayOfBytes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47481)|`2024-11-05 13:00:01`|
 |1|[Source FileToArrayOfBytes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47480)|`2024-11-05 13:00:01`|
 |1|[MW3/WZ3 External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47476)|`2024-11-05 13:00:01`|
+|1|[freehack&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47484)|`2024-11-05 13:17:29`|
+|7|[PhasmoMenu v0&#46;5&#46;4&#46;4 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47482)|`2024-11-05 13:17:29`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ELSWORD NA HACK FREE &#45; KMZ ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/670531-elsword-na-hack-free-kmz-engine.html)|`2024-11-05 13:09:00`|`Other MMORPG and Strategy`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2024-11-05 13:07:00`|`Phasmophobia`|
 |[MW3/WZ3 External Working Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/670337-mw3-wz3-external-base.html)|`2024-11-05 12:57:00`|`Call of Duty: Modern Warfare III`|
 |[making internal chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/670380-internal-chams.html)|`2024-11-05 12:37:00`|`Counterstrike Global Offensive`|
 |[information about MOD Pak / Obb Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/669959-information-mod-pak-obb-files.html)|`2024-11-05 12:28:00`|`PUBG Mobile`|
