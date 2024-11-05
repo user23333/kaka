@@ -27,9 +27,17 @@
 |11|[The Finals ColorBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47431)|`2024-11-05 00:09:09`|
 |16|[fortnite offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47479)|`2024-11-05 01:10:39`|
 |2|[rigel nov1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47450)|`2024-11-05 01:36:36`|
+|1|[0&#46;15&#46;5&#46;0 PVE Cheat Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47439)|`2024-11-05 10:29:41`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA Process Dumper With Full support against CR3 shuffling&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/669881-dma-process-dumper-support-cr3-shuffling.html)|`2024-11-05 10:19:00`|`Anti-Cheat Bypass`|
+|[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2024-11-05 10:18:00`|`Apex Legends`|
+|[Bodycam Internal Esp, Aimbot, Exploits&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/668848-bodycam-internal-esp-aimbot-exploits.html)|`2024-11-05 10:18:00`|`Other FPS Games`|
+|[Liar’s Deck and Dice Cheat &#45; Full GUI Mod for Card & Dice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/668894-liar-deck-dice-cheat-gui-mod-card-dice.html)|`2024-11-05 10:16:00`|`Other Games`|
+|[After escaping from version 0&#46;15&#46;5, a black screen appears](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/669929-escaping-version-0-15-5-black-screen-appears.html)|`2024-11-05 10:15:00`|`Escape from Tarkov`|
+|[BadPaste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/669845-badpaste.html)|`2024-11-05 10:07:00`|`Team Fortress 2`|
+|[The TCSM Trainer &#40;Outline ESP, Godmode, Invisible, more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/598623-tcsm-trainer-outline-esp-godmode-invisible.html)|`2024-11-05 10:00:00`|`Other FPS Games`|
 |[Cannot read Apex memory externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/670547-read-apex-memory-externally.html)|`2024-11-05 09:15:00`|`Apex Legends`|
 |[NOT Lethal Force](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/649082-lethal-force.html)|`2024-11-05 09:15:00`|`Payday 3`|
 |[My Hero Ultra Rumble Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/604426-hero-ultra-rumble-cheat-table.html)|`2024-11-05 09:06:00`|`Other Games`|
