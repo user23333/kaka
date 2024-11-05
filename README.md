@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2024-11-06 06:54:00`|`Alternative Online Mods`|
 |[Our newest member on the team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/670539-team.html)|`2024-11-06 06:52:00`|`Information and Announcements`|
 |[Assetto Corsa Alien &#45; &#91;Torque, Grip, Downforce and more&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/511184-assetto-corsa-alien-torque-grip-downforce.html)|`2024-11-06 06:50:00`|`Other Games`|
 |[Unlock All Tool Detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669175-unlock-tool-detections.html)|`2024-11-06 06:49:00`|`Call of Duty: Black Ops 6`|
