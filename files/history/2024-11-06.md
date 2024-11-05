@@ -11,6 +11,7 @@
 |26|[Hyperion analysis, the roblox anti&#45;tamper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/669481-hyperion-analysis-roblox-anti-tamper.html)|`2024-11-06 00:20:31`|`anti-cheat-bypass`|
 |15|[VGC BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/670122-vgc-bypass.html)|`2024-11-06 00:20:31`|`valorant`|
 |21|[Post Patch Force Local Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/669846-post-patch-force-local-game.html)|`2024-11-06 00:20:31`|`escape-from-tarkov`|
+|25|[Dual&#45;OS Setup with Cheat on Linux VM and Game on Windows 11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/669939-dual-os-setup-cheat-linux-vm-game-windows-11-a.html)|`2024-11-06 03:35:37`|`apex-legends`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -24,9 +25,13 @@
 |7|[external dex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47475)|`2024-11-06 00:20:31`|
 |3|[GooGooGaaGaa&#45;Steam&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47474)|`2024-11-06 00:20:31`|
 |10|[GooGooGaaGaa&#45;Epic&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47473)|`2024-11-06 00:20:31`|
+|1|[YimActions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47492)|`2024-11-06 03:35:37`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[7 Days to Die](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/455904-7-days-die.html)|`2024-11-06 03:35:00`|`Other FPS Games`|
+|[YimActions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/626168-yimactions.html)|`2024-11-06 03:34:00`|`Grand Theft Auto V`|
+|[EAC BSOD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/658448-eac-bsod.html)|`2024-11-06 03:33:00`|`Rust`|
 |[Liar’s Deck and Dice Cheat &#45; Full GUI Mod for Card & Dice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/668894-liar-deck-dice-cheat-gui-mod-card-dice.html)|`2024-11-06 03:22:00`|`Other Games`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2024-11-06 03:18:00`|`Overwatch`|
 |[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2024-11-06 03:14:00`|`Grand Theft Auto V`|
