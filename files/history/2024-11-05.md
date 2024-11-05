@@ -30,9 +30,13 @@
 |1|[0&#46;15&#46;5&#46;0 PVE Cheat Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47439)|`2024-11-05 10:29:41`|
 |1|[esp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47449)|`2024-11-05 10:59:27`|
 |2|[rabbit&#45;pubg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47453)|`2024-11-05 11:19:59`|
+|1|[Deadlock Dumper &#40;Sdk &#43; Offsets&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47460)|`2024-11-05 11:35:10`|
+|1|[main](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47459)|`2024-11-05 11:35:10`|
+|2|[Vigor Internal v1&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47455)|`2024-11-05 11:35:10`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[👽 VALORANT Skin Changer &#40;Just Inject it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/517551-valorant-skin-changer-inject.html)|`2024-11-05 11:31:00`|`Valorant`|
 |[Titanfall 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/191976-titanfall-2-reversal-structs-offsets.html)|`2024-11-05 11:02:00`|`Titanfall`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-11-05 10:47:00`|`Apex Legends`|
 |[Off the Grid Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/665981-grid-reversal-structs-offsets.html)|`2024-11-05 10:47:00`|`Other FPS Games`|
