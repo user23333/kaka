@@ -52,6 +52,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Reason for storing Old Punch RCS hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cs-go-releases/670632-reason-storing-punch-rcs-hack.html)|`2024-11-05 22:48:00`|`CS:GO Releases`|
 |[Hi, im concerned about bans in prevoius games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670465-hi-im-concerned-bans-prevoius-games.html)|`2024-11-05 22:27:00`|`Call of Duty: Black Ops 6`|
 |[Payday 3 Black Market](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/606667-payday-3-black-market.html)|`2024-11-05 22:24:00`|`Payday 3`|
 |[Reworked AHK Color Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/xdefiant/640961-reworked-ahk-color-aimbot.html)|`2024-11-05 22:16:00`|`xDefiant`|
