@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2024-11-06 07:38:00`|`Other FPS Games`|
+|[Wanted to get Arduino&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/670541-arduino.html)|`2024-11-06 07:36:00`|`Valorant`|
 |[EAAntiCheat is disabling all cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/670642-eaanticheat-disabling-cheats.html)|`2024-11-06 07:19:00`|`Battlefield 1`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2024-11-06 07:14:00`|`DayZ SA`|
 |[&#91;Dota 2&#93; decryption of intercepted packets&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/663729-dota-2-decryption-intercepted-packets.html)|`2024-11-06 07:09:00`|`Other Games`|
