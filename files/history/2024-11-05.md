@@ -40,6 +40,9 @@
 |1|[zydis&#95;wrapper&#45;master&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47469)|`2024-11-05 12:31:16`|
 |4|[Injector&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47467)|`2024-11-05 12:31:16`|
 |4|[Stupid&#46;Solutions v3&#46;1 &#40;Fixed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47486)|`2024-11-05 12:42:00`|
+|1|[external dex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47475)|`2024-11-05 12:54:08`|
+|1|[GooGooGaaGaa&#45;Steam&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47474)|`2024-11-05 12:54:08`|
+|1|[GooGooGaaGaa&#45;Epic&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47473)|`2024-11-05 12:54:08`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
