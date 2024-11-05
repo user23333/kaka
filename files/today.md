@@ -35,9 +35,16 @@
 |2|[Vigor Internal v1&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47455)|`2024-11-05 11:35:10`|
 |1|[mhur external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47466)|`2024-11-05 12:12:05`|
 |4|[Bodycam Internal V0&#46;1&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47464)|`2024-11-05 12:12:05`|
+|6|[Webs PVE Menu v6&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47472)|`2024-11-05 12:31:16`|
+|2|[DroppingTears&#95;XD&#45;&#40;J2K,SG,BHOP,SJ&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47471)|`2024-11-05 12:31:16`|
+|1|[zydis&#95;wrapper&#45;master&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47469)|`2024-11-05 12:31:16`|
+|4|[Injector&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47467)|`2024-11-05 12:31:16`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[information about MOD Pak / Obb Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/669959-information-mod-pak-obb-files.html)|`2024-11-05 12:28:00`|`PUBG Mobile`|
+|[Zydis&#95;Wrapper &#45; Simplified C&#43;&#43;17 Wrapper for Zydis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/669861-zydis_wrapper-simplified-17-wrapper-zydis.html)|`2024-11-05 12:14:00`|`C and C++`|
+|[Valorant Free Hack Project Nobody](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/670351-valorant-free-hack-project.html)|`2024-11-05 12:12:00`|`Valorant`|
 |[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2024-11-05 12:01:00`|`Other Games`|
 |["Vanguard Bypass" &#40;2PC / 1PC&#41; Using the Suspend Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663283-vanguard-bypass-2pc-1pc-using-suspend-method.html)|`2024-11-05 11:39:00`|`Valorant`|
 |[How to Get DeadLock Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/660973-deadlock-offsets.html)|`2024-11-05 11:35:00`|`Deadlock`|
