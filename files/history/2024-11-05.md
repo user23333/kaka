@@ -39,9 +39,11 @@
 |2|[DroppingTears&#95;XD&#45;&#40;J2K,SG,BHOP,SJ&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47471)|`2024-11-05 12:31:16`|
 |1|[zydis&#95;wrapper&#45;master&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47469)|`2024-11-05 12:31:16`|
 |4|[Injector&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47467)|`2024-11-05 12:31:16`|
+|4|[Stupid&#46;Solutions v3&#46;1 &#40;Fixed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47486)|`2024-11-05 12:42:00`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[making internal chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/670380-internal-chams.html)|`2024-11-05 12:37:00`|`Counterstrike Global Offensive`|
 |[information about MOD Pak / Obb Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/669959-information-mod-pak-obb-files.html)|`2024-11-05 12:28:00`|`PUBG Mobile`|
 |[Zydis&#95;Wrapper &#45; Simplified C&#43;&#43;17 Wrapper for Zydis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/669861-zydis_wrapper-simplified-17-wrapper-zydis.html)|`2024-11-05 12:14:00`|`C and C++`|
 |[Valorant Free Hack Project Nobody](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/670351-valorant-free-hack-project.html)|`2024-11-05 12:12:00`|`Valorant`|
