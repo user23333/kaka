@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Permanently Spoof Disk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670691-permanently-spoof-disk.html)|`2024-11-06 05:39:00`|`Anti-Cheat Bypass`|
+|[Off The Grid Internal &#40;Aimbot, ESP, Exploits&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667656-grid-internal-aimbot-esp-exploits.html)|`2024-11-06 05:36:00`|`Other FPS Games`|
 |[Approach to reading memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670549-approach-reading-memory.html)|`2024-11-06 05:25:00`|`Anti-Cheat Bypass`|
 |[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-11-06 05:23:00`|`Escape from Tarkov`|
 |[RAZER NEW ALL WEAPONS 1&#45;3 MS &#40;FREE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/640381-razer-weapons-1-3-ms-free.html)|`2024-11-06 05:13:00`|`Rust`|
