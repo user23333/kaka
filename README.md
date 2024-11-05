@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino ApexCV simple magnet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/667959-arduino-apexcv-simple-magnet.html)|`2024-11-05 07:54:00`|`Apex Legends`|
 |[Looking for RP / Rank LUA for Yimmenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/670499-looking-rp-rank-lua-yimmenu.html)|`2024-11-05 07:44:00`|`Grand Theft Auto V`|
 |[help with team check &#40;internal esp&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/670525-help-team-check-internal-esp.html)|`2024-11-05 07:42:00`|`Counter-Strike 2`|
 |[Wanted to get Arduino&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/670541-arduino.html)|`2024-11-05 07:33:00`|`Valorant`|
