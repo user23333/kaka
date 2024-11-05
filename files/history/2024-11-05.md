@@ -43,9 +43,13 @@
 |1|[external dex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47475)|`2024-11-05 12:54:08`|
 |1|[GooGooGaaGaa&#45;Steam&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47474)|`2024-11-05 12:54:08`|
 |1|[GooGooGaaGaa&#45;Epic&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47473)|`2024-11-05 12:54:08`|
+|1|[Binary FileToArrayOfBytes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47481)|`2024-11-05 13:00:01`|
+|1|[Source FileToArrayOfBytes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47480)|`2024-11-05 13:00:01`|
+|1|[MW3/WZ3 External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47476)|`2024-11-05 13:00:01`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MW3/WZ3 External Working Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/670337-mw3-wz3-external-base.html)|`2024-11-05 12:57:00`|`Call of Duty: Modern Warfare III`|
 |[making internal chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/670380-internal-chams.html)|`2024-11-05 12:37:00`|`Counterstrike Global Offensive`|
 |[information about MOD Pak / Obb Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/669959-information-mod-pak-obb-files.html)|`2024-11-05 12:28:00`|`PUBG Mobile`|
 |[Zydis&#95;Wrapper &#45; Simplified C&#43;&#43;17 Wrapper for Zydis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/669861-zydis_wrapper-simplified-17-wrapper-zydis.html)|`2024-11-05 12:14:00`|`C and C++`|
