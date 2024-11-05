@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bloodhunt cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/614168-bloodhunt-cheese.html)|`2024-11-06 07:51:00`|`Other FPS Games`|
+|[Someone know of a cheat to vrchat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/629437-cheat-vrchat.html)|`2024-11-06 07:49:00`|`Other FPS Games`|
 |[Josh's Aim Assist V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670254-joshs-aim-assist-v1.html)|`2024-11-06 07:47:00`|`Call of Duty: Black Ops 6`|
 |[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2024-11-06 07:38:00`|`Other FPS Games`|
 |[Wanted to get Arduino&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/670541-arduino.html)|`2024-11-06 07:36:00`|`Valorant`|
