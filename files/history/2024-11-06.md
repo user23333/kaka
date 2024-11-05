@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[pc completely freezes when EAC is initializing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/647081-pc-completely-freezes-eac-initializing.html)|`2024-11-06 04:53:00`|`Anti-Cheat Bypass`|
 |[Bypass C&#35;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/670649-bypass.html)|`2024-11-06 04:46:00`|`PUBG Mobile`|
 |[PUBLIC BOT LOBBY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669841-public-bot-lobby.html)|`2024-11-06 04:26:00`|`Call of Duty: Black Ops 6`|
 |[Battleye wont let me join Online and R&#42; Support is useless](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/669485-battleye-wont-join-online-support-useless.html)|`2024-11-06 04:35:00`|`Grand Theft Auto V`|
