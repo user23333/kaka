@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-11-06 11:35:00`|`Playerunknown's Battlegrounds`|
+|[MWIII DMA Basic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/619202-mwiii-dma-basic.html)|`2024-11-06 11:34:00`|`Call of Duty: Modern Warfare III`|
 |[Valorant DMA Based external Cheat&#40;Just run it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/645290-valorant-dma-based-external-cheat-run.html)|`2024-11-06 11:04:00`|`Valorant`|
 |[Lockdown Protocol Cheat Table v0&#46;1&#46;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/659299-lockdown-protocol-cheat-table-v0-1-26-a.html)|`2024-11-06 10:45:00`|`Other Games`|
 |[GhostHack 2&#46;0 public](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/579206-ghosthack-2-0-public.html)|`2024-11-06 10:44:00`|`Battlefield 2`|
