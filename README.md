@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypass C&#35;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/670649-bypass.html)|`2024-11-07 03:19:00`|`PUBG Mobile`|
+|[New Jitter Aim CFG Stronger as JoyToKey and more&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/670324-jitter-aim-cfg-stronger-joytokey.html)|`2024-11-07 03:18:00`|`Apex Legends`|
 |[i want nkow how to load kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670839-nkow-load-kernel.html)|`2024-11-07 03:10:00`|`Anti-Cheat Bypass`|
 |[Get TPM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/670661-tpm.html)|`2024-11-07 03:09:00`|`C and C++`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2024-11-07 03:06:00`|`League of Legends`|
