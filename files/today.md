@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2024-11-06 21:15:00`|`Other MMORPG and Strategy`|
 |[Valorant External Example](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/511104-valorant-external-example.html)|`2024-11-06 20:57:00`|`Valorant`|
 |[ELSWORD NA HACK FREE &#45; KMZ ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/670531-elsword-na-hack-free-kmz-engine.html)|`2024-11-06 20:49:00`|`Other MMORPG and Strategy`|
 |[Extras Addon for YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/620073-extras-addon-yimmenu.html)|`2024-11-06 20:41:00`|`Grand Theft Auto V`|
