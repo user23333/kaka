@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Idle Slayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/583257-idle-slayer.html)|`2024-11-06 16:21:00`|`Other MMORPG and Strategy`|
+|[Roblox executor help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/670390-roblox-executor-help.html)|`2024-11-06 16:10:00`|`C and C++`|
+|[Sea of thieves Season 13 FOV Slider, nosprint, and other cheats&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/666750-sea-thieves-season-13-fov-slider-nosprint-cheats.html)|`2024-11-06 16:02:00`|`Sea of Thieves`|
 |[Bypass emulator not work need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/668074-bypass-emulator-help.html)|`2024-11-06 15:39:00`|`PUBG Mobile`|
 |[Help with ZwWriteVirtualMemory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/670471-help-zwwritevirtualmemory.html)|`2024-11-06 15:35:00`|`Programming for Beginners`|
 |[External Farlight 84 Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/661656-external-farlight-84-free-cheat.html)|`2024-11-06 15:32:00`|`Farlight 84`|
