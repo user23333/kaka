@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-11-07 06:49:00`|`Other Games`|
 |[DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670871-dma.html)|`2024-11-07 06:37:00`|`Anti-Cheat Bypass`|
 |[Anyone willing to help me learn creating cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670870-willing-help-learn-creating-cheats.html)|`2024-11-07 06:27:00`|`Call of Duty: Black Ops 6`|
 |[R5 apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/670867-r5-apex.html)|`2024-11-07 06:18:00`|`Apex Legends`|
