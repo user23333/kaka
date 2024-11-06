@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How can i get player names from external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/670846-player-names-external.html)|`2024-11-07 04:05:00`|`Alternative Online Mods`|
 |[Mount and blade Bannerlord AUTOAIM ESP RADAR AUTOBLOCK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/658553-mount-blade-bannerlord-autoaim-esp-radar-autoblock.html)|`2024-11-07 03:43:00`|`Other MMORPG and Strategy`|
 |[For Honor &#45; Sciprt by florasSecret &#45; Autoblock, Parry, Deflects, D b/Unblockables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/414701-honor-sciprt-florassecret-autoblock-parry-deflects-unblockables.html)|`2024-11-07 03:43:00`|`Other MMORPG and Strategy`|
 |[Trump 2024 Official Signature Image](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/643647-trump-2024-official-signature-image.html)|`2024-11-07 03:40:00`|`Off Topic`|
