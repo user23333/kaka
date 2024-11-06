@@ -28,9 +28,14 @@
 |10|[GooGooGaaGaa&#45;Epic&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47473)|`2024-11-06 00:20:31`|
 |1|[YimActions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47492)|`2024-11-06 03:35:37`|
 |1|[Mordhau Unlock all V4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47496)|`2024-11-06 23:28:14`|
+|1|[32&#46;2&#46;1&#46;65](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47498)|`2024-11-06 23:37:43`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Free Hack Project Nobody](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/670351-valorant-free-hack-project.html)|`2024-11-06 23:31:00`|`Valorant`|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2024-11-06 23:30:00`|`Grand Theft Auto V`|
+|[CS2 TriggerBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/670755-cs2-triggerbot.html)|`2024-11-06 23:28:00`|`Counter-Strike 2`|
+|[After using fiddler my infamy went 6&#46;422&#46;640](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/670784-using-fiddler-infamy-6-422-640-a.html)|`2024-11-06 23:28:00`|`Payday 3`|
 |[faceit block inject my exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/670601-faceit-block-inject-exe.html)|`2024-11-06 23:22:00`|`Counter-Strike 2`|
 |[seo64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/662767-seo64.html)|`2024-11-06 22:57:00`|`Team Fortress 2`|
 |[PUBG DMA Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/644302-pubg-dma-cheat-run.html)|`2024-11-06 22:37:00`|`Playerunknown's Battlegrounds`|
