@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2024-11-07 06:10:00`|`Combat Arms`|
+|[AFK Bot Lobby Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670285-afk-bot-lobby-guide.html)|`2024-11-07 06:01:00`|`Call of Duty: Black Ops 6`|
+|[VGC BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/670122-vgc-bypass.html)|`2024-11-07 05:55:00`|`Valorant`|
+|[One armed robber Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/670863-armed-robber-internal.html)|`2024-11-07 05:51:00`|`Other FPS Games`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-11-07 05:47:00`|`Grand Theft Auto V`|
 |[opencv alternatives?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/670650-opencv-alternatives.html)|`2024-11-07 05:32:00`|`Valorant`|
 |[Alert Please return to GTA V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/670845-alert-please-return-gta.html)|`2024-11-07 05:31:00`|`Grand Theft Auto V`|
 |[Please make a cheat for Death Note Killer Within](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670862-please-cheat-death-note-killer.html)|`2024-11-07 05:30:00`|`Other Games`|
