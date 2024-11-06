@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rigel Internal / External not showing&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/666618-rigel-internal-external.html)|`2024-11-06 21:57:00`|`Overwatch`|
+|[Read Access Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/670766-read-access-crash.html)|`2024-11-06 21:55:00`|`Counter-Strike 2`|
 |[Free ESP Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668004-free-esp-cheat.html)|`2024-11-06 21:48:00`|`Counter-Strike 2`|
 |[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2024-11-06 21:46:00`|`Unity`|
 |[Libs And Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/670764-libs-bans.html)|`2024-11-06 21:43:00`|`PUBG Mobile`|
