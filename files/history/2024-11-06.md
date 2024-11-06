@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypass emulator not work need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/668074-bypass-emulator-help.html)|`2024-11-06 15:39:00`|`PUBG Mobile`|
+|[Help with ZwWriteVirtualMemory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/670471-help-zwwritevirtualmemory.html)|`2024-11-06 15:35:00`|`Programming for Beginners`|
+|[External Farlight 84 Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/661656-external-farlight-84-free-cheat.html)|`2024-11-06 15:32:00`|`Farlight 84`|
 |[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-11-06 15:08:00`|`Deadlock`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2024-11-06 14:39:00`|`Other FPS Games`|
 |[EC&#45;CS2 &#91;UM/KM/EFI/DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/604514-ec-cs2-um-km-efi-dma.html)|`2024-11-06 14:16:00`|`Counter-Strike 2 Releases`|
