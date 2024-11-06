@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[File to array of bytes tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/670510-file-array-bytes-tool.html)|`2024-11-06 10:04:00`|`Overwatch`|
+|[PhasmoTrophyHack New Update &#40;Easter2024 bind&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/629286-phasmotrophyhack-update-easter2024-bind.html)|`2024-11-06 09:47:00`|`Phasmophobia`|
+|[Overwatch 2 Color Aimbot With Interception Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/517558-overwatch-2-color-aimbot-interception-driver.html)|`2024-11-06 09:46:00`|`Overwatch`|
+|[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2024-11-06 09:27:00`|`Elite: Dangerous`|
 |[Updated offsets for Polonium?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/670717-updated-offsets-polonium.html)|`2024-11-06 09:17:00`|`Team Fortress 2`|
 |[Battlefield 2042 &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/467604-battlefield-2042-reversal-structs-offsets.html)|`2024-11-06 09:11:00`|`Battlefield 2042`|
 |[ioctl dispatch hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670512-ioctl-dispatch-hook.html)|`2024-11-06 09:05:00`|`Anti-Cheat Bypass`|
