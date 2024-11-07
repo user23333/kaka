@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ChadAlphaMales Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/669776-chadalphamales-enhanced.html)|`2024-11-07 21:38:00`|`Team Fortress 2`|
 |[Borderlands 3 &#40;Epic Games&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/521662-borderlands-3-epic-games.html)|`2024-11-07 21:22:00`|`Other FPS Games`|
 |[Script &#45; RP LOOP SAFE &#91;Kiddions&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/670658-script-rp-loop-safe-kiddions.html)|`2024-11-07 21:11:00`|`Grand Theft Auto V`|
 |[Payday 3 Black Market](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/606667-payday-3-black-market.html)|`2024-11-07 20:58:00`|`Payday 3`|
