@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ZeroHVCI &#45; Defeating HVCI without admin privileges or a kernel drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/650057-zerohvci-defeating-hvci-admin-privileges-kernel-drivers.html)|`2024-11-07 19:33:00`|`Anti-Cheat Bypass`|
 |[Destiny 2 Dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/670408-destiny-2-dma.html)|`2024-11-07 19:13:00`|`Other FPS Games`|
 |[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2024-11-07 19:04:00`|`Other MMORPG and Strategy`|
 |[broken skin textures on weapons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/670953-broken-skin-textures-weapons.html)|`2024-11-07 18:49:00`|`Counter-Strike 2`|
