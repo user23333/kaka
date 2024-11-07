@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CMS 2021 DLC Unlocker Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670900-cms-2021-dlc-unlocker-release.html)|`2024-11-07 14:32:00`|`Other Games`|
+|[val 5 valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/656225-val-5-valorant.html)|`2024-11-07 14:26:00`|`Valorant`|
 |[Injectors are detected since the new update &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/668680-injectors-detected-update.html)|`2024-11-07 14:09:00`|`Battlefield V`|
 |[Looking for Methods or Code to Simulate Enemy Deaths and Hits in Aimbot&#45;like Scenario](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/670898-looking-methods-code-simulate-enemy-deaths-hits-aimbot-scenario.html)|`2024-11-07 14:07:00`|`Counter-Strike 2`|
 |[Cold War Trainer working 1&#46;25&#46;5 &#40;Geogeo paste&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/501719-cold-war-trainer-1-25-5-geogeo-paste.html)|`2024-11-07 13:43:00`|`Call of Duty: Black Ops Cold War`|
