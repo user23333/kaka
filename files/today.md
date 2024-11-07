@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Approach to reading memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670549-approach-reading-memory.html)|`2024-11-08 03:17:00`|`Anti-Cheat Bypass`|
+|[Server sided player culling starting&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/671026-server-sided-player-culling-starting.html)|`2024-11-08 03:14:00`|`Rust`|
+|[How can i get player names from external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/670846-player-names-external.html)|`2024-11-08 03:14:00`|`Alternative Online Mods`|
+|[Dual&#45;OS Setup with Cheat on Linux VM and Game on Windows 11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/669939-dual-os-setup-cheat-linux-vm-game-windows-11-a.html)|`2024-11-08 03:12:00`|`Apex Legends`|
 |[overwatch hardware ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/668410-overwatch-hardware-ban.html)|`2024-11-08 03:04:00`|`Overwatch`|
 |[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-11-08 03:04:00`|`Overwatch`|
 |[Fastest Python Valorant Triggerbot &#40;fr&#41;&#40;fr&#41;&#40;fr&#41; &#43; Addon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/641020-fastest-python-valorant-triggerbot-fr-fr-fr-addon.html)|`2024-11-08 02:57:00`|`Valorant`|
