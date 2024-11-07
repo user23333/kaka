@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Destiny 2 Dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/670408-destiny-2-dma.html)|`2024-11-07 19:13:00`|`Other FPS Games`|
+|[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2024-11-07 19:04:00`|`Other MMORPG and Strategy`|
 |[broken skin textures on weapons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/670953-broken-skin-textures-weapons.html)|`2024-11-07 18:49:00`|`Counter-Strike 2`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2024-11-07 18:47:00`|`Counter-Strike 2`|
 |[DMA: Deadlock &#40;Free&#41; &#124; Aimbot, ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/668813-dma-deadlock-free-aimbot-esp.html)|`2024-11-07 18:31:00`|`Deadlock`|
