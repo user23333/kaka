@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2024-11-08 03:31:00`|`Escape from Tarkov`|
+|[GamerFun AI Aimbot & Triggerbot, Fast & Accurate &#40;works on every shooter games&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671029-gamerfun-ai-aimbot-triggerbot-fast-accurate-shooter-games.html)|`2024-11-08 03:30:00`|`Rainbow Six Siege`|
 |[Approach to reading memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670549-approach-reading-memory.html)|`2024-11-08 03:17:00`|`Anti-Cheat Bypass`|
 |[Server sided player culling starting&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/671026-server-sided-player-culling-starting.html)|`2024-11-08 03:14:00`|`Rust`|
 |[How can i get player names from external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/670846-player-names-external.html)|`2024-11-08 03:14:00`|`Alternative Online Mods`|
