@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking for RP / Rank LUA for Yimmenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/670499-looking-rp-rank-lua-yimmenu.html)|`2024-11-07 23:19:00`|`Grand Theft Auto V`|
+|[Multi cheat &#35; Aimbot &#35; Esp &#35; Triggerbot &#35; Misc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/642513-multi-cheat-aimbot-esp-triggerbot-misc.html)|`2024-11-07 23:19:00`|`Counter-Strike 2 Releases`|
+|[Mordhau cheat &#124;&#124; Patch &#35;28](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/612663-mordhau-cheat-patch-28-a.html)|`2024-11-07 23:00:00`|`Other FPS Games`|
 |[Fallout 76](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/305579-fallout-76-a.html)|`2024-11-07 22:52:00`|`Other FPS Games`|
 |[Blockpost internal cheat &#40;ESP&#43;Aimbot&#43;FOV changer&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669254-blockpost-internal-cheat-esp-aimbot-fov-changer.html)|`2024-11-07 22:09:00`|`Other FPS Games`|
 |[Descenders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/430508-descenders.html)|`2024-11-07 22:00:00`|`Other Games`|
