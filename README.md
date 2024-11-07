@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Injectors are detected since the new update &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/668680-injectors-detected-update.html)|`2024-11-07 14:09:00`|`Battlefield V`|
+|[Looking for Methods or Code to Simulate Enemy Deaths and Hits in Aimbot&#45;like Scenario](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/670898-looking-methods-code-simulate-enemy-deaths-hits-aimbot-scenario.html)|`2024-11-07 14:07:00`|`Counter-Strike 2`|
 |[Cold War Trainer working 1&#46;25&#46;5 &#40;Geogeo paste&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/501719-cold-war-trainer-1-25-5-geogeo-paste.html)|`2024-11-07 13:43:00`|`Call of Duty: Black Ops Cold War`|
 |[Kernel DA Tool &#43; Basic Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/669272-kernel-da-tool-basic-trainer.html)|`2024-11-07 13:34:00`|`Call of Duty: Black Ops Cold War`|
 |[Hi, im concerned about bans in prevoius games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670465-hi-im-concerned-bans-prevoius-games.html)|`2024-11-07 13:13:00`|`Call of Duty: Black Ops 6`|
