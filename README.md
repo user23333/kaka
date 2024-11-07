@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena breakout mobile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/670710-arena-breakout-mobile.html)|`2024-11-07 15:28:00`|`Android`|
+|[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2024-11-07 15:27:00`|`Other FPS Games`|
 |[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2024-11-07 15:20:00`|`Call of Duty: Black Ops 3`|
 |[ioctl dispatch hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670512-ioctl-dispatch-hook.html)|`2024-11-07 15:13:00`|`Anti-Cheat Bypass`|
 |[&#91;PSA&#93; state of this forum and cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/669912-psa-forum-cheats.html)|`2024-11-07 15:02:00`|`Call of Duty: Modern Warfare`|
