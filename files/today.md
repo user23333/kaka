@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Check if in game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/618071-check-game.html)|`2024-11-08 06:43:00`|`Counter-Strike 2`|
 |[EAC BSOD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/658448-eac-bsod.html)|`2024-11-08 06:32:00`|`Rust`|
 |[MS&#45;Worlds&#45;Artale XY Player Pointers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/670971-ms-worlds-artale-xy-player-pointers.html)|`2024-11-08 06:28:00`|`Maple Story`|
 |[broken skin textures on weapons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/670953-broken-skin-textures-weapons.html)|`2024-11-08 06:17:00`|`Counter-Strike 2`|
