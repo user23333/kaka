@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dll Base Address Different From What CE Shows?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/670890-dll-base-address-ce.html)|`2024-11-07 11:28:00`|`Programming for Beginners`|
 |[btbd&#45;access windows 11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670889-btbd-access-windows-11-a.html)|`2024-11-07 11:15:00`|`Anti-Cheat Bypass`|
 |[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2024-11-07 11:02:00`|`Sea of Thieves`|
 |[Ark Survival Ascended &#45; Function not working in multiplayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/668604-ark-survival-ascended-function-multiplayer.html)|`2024-11-07 10:54:00`|`Other FPS Games`|
