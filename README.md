@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vigor Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662145-vigor-reversal-structs-offsets.html)|`2024-11-08 05:23:00`|`Other FPS Games`|
+|[Python Color Triggerbot &#40;First cheat experience&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/668024-python-color-triggerbot-cheat-experience.html)|`2024-11-08 05:18:00`|`Valorant`|
+|[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2024-11-08 05:16:00`|`Other FPS Games`|
 |[Destiny 2 Dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/670408-destiny-2-dma.html)|`2024-11-08 05:11:00`|`Other FPS Games`|
 |[the fuck is this inflation??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/671042-fuck-inflation.html)|`2024-11-08 05:11:00`|`Apex Legends`|
 |[ioctl dispatch hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670512-ioctl-dispatch-hook.html)|`2024-11-08 05:05:00`|`Anti-Cheat Bypass`|
