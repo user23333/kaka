@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GdrvLoader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670915-gdrvloader.html)|`2024-11-07 15:48:00`|`Anti-Cheat Bypass`|
+|[velocity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/670914-velocity.html)|`2024-11-07 15:47:00`|`Counter-Strike 2`|
 |[Off The Grid Internal &#40;Aimbot, ESP, Exploits&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667656-grid-internal-aimbot-esp-exploits.html)|`2024-11-07 15:42:00`|`Other FPS Games`|
 |[FChunkedFixedUObjectArray Ark Ascended](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/660621-fchunkedfixeduobjectarray-ark-ascended.html)|`2024-11-07 15:29:00`|`Other FPS Games`|
 |[Arena breakout mobile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/670710-arena-breakout-mobile.html)|`2024-11-07 15:28:00`|`Android`|
