@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Reverse boosting patched ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670973-reverse-boosting-patched.html)|`2024-11-08 01:12:00`|`Call of Duty: Black Ops 6`|
+|[DayZ Hacking and Bypassing &#45; noob question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/652658-dayz-hacking-bypassing-noob-question.html)|`2024-11-08 01:04:00`|`DayZ SA`|
+|[opencv alternatives?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/670650-opencv-alternatives.html)|`2024-11-08 01:04:00`|`Valorant`|
+|[After using fiddler my infamy went 6&#46;422&#46;640](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/670784-using-fiddler-infamy-6-422-640-a.html)|`2024-11-08 01:01:00`|`Payday 3`|
 |[KMBOX&#45;NVideo For AI AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/670502-kmbox-nvideo-ai-aim.html)|`2024-11-08 00:57:00`|`Valorant`|
 |[Looking for RP / Rank LUA for Yimmenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/670499-looking-rp-rank-lua-yimmenu.html)|`2024-11-08 00:56:00`|`Grand Theft Auto V`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-11-08 00:46:00`|`Valorant`|
