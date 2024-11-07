@@ -24,9 +24,11 @@
 |9|[Source FileToArrayOfBytes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47480)|`2024-11-07 00:12:49`|
 |147|[fortnite offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47479)|`2024-11-07 00:12:49`|
 |91|[MW3/WZ3 External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47476)|`2024-11-07 00:12:49`|
+|2|[BO6&#95;DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47501)|`2024-11-07 19:50:19`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#45;0 rocket league](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670886-0-rocket-league.html)|`2024-11-07 19:49:00`|`Other Games`|
 |[ZeroHVCI &#45; Defeating HVCI without admin privileges or a kernel drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/650057-zerohvci-defeating-hvci-admin-privileges-kernel-drivers.html)|`2024-11-07 19:33:00`|`Anti-Cheat Bypass`|
 |[Destiny 2 Dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/670408-destiny-2-dma.html)|`2024-11-07 19:13:00`|`Other FPS Games`|
 |[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2024-11-07 19:04:00`|`Other MMORPG and Strategy`|
