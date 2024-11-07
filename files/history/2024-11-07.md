@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Read Access Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/670766-read-access-crash.html)|`2024-11-07 18:06:00`|`Counter-Strike 2`|
 |[What functions battleye hooks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670937-functions-battleye-hooks.html)|`2024-11-07 17:49:00`|`Anti-Cheat Bypass`|
 |[Dumping Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670930-dumping-question.html)|`2024-11-07 17:21:00`|`Anti-Cheat Bypass`|
 |[Mordhau Unlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/649061-mordhau-unlock.html)|`2024-11-07 17:03:00`|`Other FPS Games`|
