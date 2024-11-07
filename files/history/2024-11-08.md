@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AHK Aim Assist Zombies &#43; Zombie Lock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669362-ahk-aim-assist-zombies-zombie-lock.html)|`2024-11-08 07:50:00`|`Call of Duty: Black Ops 6`|
+|[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-11-08 07:50:00`|`Escape from Tarkov`|
 |[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-11-08 07:35:00`|`Deadlock`|
 |[COD CP exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/616611-cod-cp-exploit.html)|`2024-11-08 07:24:00`|`Call of Duty: Black Ops 6`|
 |[Someone know of a cheat to vrchat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/629437-cheat-vrchat.html)|`2024-11-08 07:23:00`|`Other FPS Games`|
