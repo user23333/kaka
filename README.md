@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6 All Gun Recoil Macro GUI ahk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/670741-r6-gun-recoil-macro-gui-ahk.html)|`2024-11-08 02:29:00`|`Rainbow Six Siege`|
+|[R/WPM Windows kernel driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670801-wpm-windows-kernel-driver.html)|`2024-11-08 02:28:00`|`Anti-Cheat Bypass`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2024-11-08 02:19:00`|`Call of Duty: Black Ops 6`|
+|[Free ESP Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668004-free-esp-cheat.html)|`2024-11-08 02:19:00`|`Counter-Strike 2`|
+|[TheFinals External Cheat with source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/626983-thefinals-external-cheat-source-code.html)|`2024-11-08 02:18:00`|`THE FINALS`|
+|[Trump wins election](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/670738-trump-wins-election.html)|`2024-11-08 02:13:00`|`Off Topic`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-11-08 02:10:00`|`Grand Theft Auto V`|
 |[&#40;DMA&#41; Black Ops 6: Fuser ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670830-dma-black-ops-6-fuser-esp.html)|`2024-11-08 02:09:00`|`Call of Duty: Black Ops 6`|
 |[ESP AND AIMBOT BOODSTRIKE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661608-esp-aimbot-boodstrike.html)|`2024-11-08 02:07:00`|`Other FPS Games`|
