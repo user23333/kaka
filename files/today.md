@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Script &#45; RP LOOP SAFE &#91;Kiddions&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/670658-script-rp-loop-safe-kiddions.html)|`2024-11-07 21:11:00`|`Grand Theft Auto V`|
+|[Payday 3 Black Market](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/606667-payday-3-black-market.html)|`2024-11-07 20:58:00`|`Payday 3`|
+|[DayZ 1&#46;26 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/668418-dayz-1-26-cheat.html)|`2024-11-07 20:57:00`|`DayZ SA`|
+|[Attach x64dbg = GTA Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/670600-attach-x64dbg-gta-crash.html)|`2024-11-07 20:55:00`|`Grand Theft Auto V`|
 |[How to actually work with EAC&#45;Secured Games, How to write UD drivers without cert?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/667752-actually-eac-secured-games-write-ud-drivers-cert.html)|`2024-11-07 20:51:00`|`Forum General`|
 |[Bypassing BO6 ANTICHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670968-bypassing-bo6-anticheat.html)|`2024-11-07 20:48:00`|`Call of Duty: Black Ops 6`|
 |[Dual&#45;OS Setup with Cheat on Linux VM and Game on Windows 11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/669939-dual-os-setup-cheat-linux-vm-game-windows-11-a.html)|`2024-11-07 20:30:00`|`Apex Legends`|
