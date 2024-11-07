@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Python Vertical Recoil Script Extended](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/295160-python-vertical-recoil-script-extended.html)|`2024-11-07 15:45:00`|`PUBG Releases`|
 |[GdrvLoader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670915-gdrvloader.html)|`2024-11-07 15:48:00`|`Anti-Cheat Bypass`|
 |[velocity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/670914-velocity.html)|`2024-11-07 15:47:00`|`Counter-Strike 2`|
 |[Off The Grid Internal &#40;Aimbot, ESP, Exploits&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667656-grid-internal-aimbot-esp-exploits.html)|`2024-11-07 15:42:00`|`Other FPS Games`|
