@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CLEAR&#95;PED&#95;TASKS&#95;IMMEDIATELY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/671072-clear_ped_tasks_immediately.html)|`2024-11-08 23:47:00`|`Alternative Online Mods`|
 |[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669274-vigor-internal-cheat.html)|`2024-11-08 23:42:00`|`Other FPS Games`|
 |[uintptr&#95;t vs void&#42;/int&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/671080-uintptr_t-vs-void-int.html)|`2024-11-08 23:29:00`|`Programming for Beginners`|
 |[How to actually work with EAC&#45;Secured Games, How to write UD drivers without cert?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/667752-actually-eac-secured-games-write-ud-drivers-cert.html)|`2024-11-08 23:07:00`|`Forum General`|
