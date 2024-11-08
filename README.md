@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2024-11-09 05:36:00`|`Deadlock`|
 |[GTA Online & BattlEye &#45; November FAQ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/670508-gta-online-battleye-november-faq.html)|`2024-11-09 05:19:00`|`Grand Theft Auto V`|
 |[Call of Duty: Modern Warfare III Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/605287-call-duty-modern-warfare-iii-reversal-structs-offsets.html)|`2024-11-09 05:19:00`|`Call of Duty: Modern Warfare III`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-11-09 05:18:00`|`Apex Legends`|
