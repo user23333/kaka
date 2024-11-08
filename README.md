@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2024-11-09 01:51:00`|`Elite: Dangerous`|
+|[how understand neverlose sdk?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671027-understand-neverlose-sdk.html)|`2024-11-09 01:51:00`|`Counter-Strike 2`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-11-09 01:49:00`|`Valorant`|
 |[Approach to reading memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670549-approach-reading-memory.html)|`2024-11-09 01:45:00`|`Anti-Cheat Bypass`|
 |[PUBLIC BOT LOBBY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669841-public-bot-lobby.html)|`2024-11-09 01:44:00`|`Call of Duty: Black Ops 6`|
 |[Does anyone know if this cheat is public?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/671022-cheat-public.html)|`2024-11-09 01:43:00`|`Valorant`|
