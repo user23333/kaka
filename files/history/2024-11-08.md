@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gran Saga](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/670877-gran-saga.html)|`2024-11-08 15:01:00`|`Other MMORPG and Strategy`|
+|[Arena Breakout Infinite Internal Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/641795-arena-breakout-infinite-internal-hack.html)|`2024-11-08 14:57:00`|`Other FPS Games`|
+|[Yolov5 Enemy Detection Models for AI AIMBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/634345-yolov5-enemy-detection-models-ai-aimbot.html)|`2024-11-08 14:56:00`|`Rainbow Six Siege`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2024-11-08 14:07:00`|`League of Legends`|
 |[Worth Creating a System thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671098-worth-creating-system-thread.html)|`2024-11-08 13:49:00`|`Anti-Cheat Bypass`|
 |[&#91;PSA&#93; state of this forum and cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/669912-psa-forum-cheats.html)|`2024-11-08 13:48:00`|`Call of Duty: Modern Warfare`|
