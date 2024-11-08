@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Problem Finding a Offset "Gmod"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/85440-finding-offset-gmod.html)|`2024-11-08 10:58:00`|`Garry's Mod`|
 |[Looking for Methods or Code to Simulate Enemy Deaths and Hits in Aimbot&#45;like Scenario](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/670898-looking-methods-code-simulate-enemy-deaths-hits-aimbot-scenario.html)|`2024-11-08 10:15:00`|`Counter-Strike 2`|
 |[DMA cheats make my pc crash/lag hard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/664585-dma-cheats-pc-crash-lag-hard.html)|`2024-11-08 10:08:00`|`PC Hardware`|
 |[Amalgam x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/639800-amalgam-x64.html)|`2024-11-08 09:58:00`|`Team Fortress 2`|
