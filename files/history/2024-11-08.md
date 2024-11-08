@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RDR2 injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/671155-rdr2-injector.html)|`2024-11-08 22:02:00`|`Red Dead Redemption 2`|
+|[Hog auto hook / SorjBot / Reaper quick escape](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/638065-hog-auto-hook-sorjbot-reaper-quick-escape.html)|`2024-11-08 21:57:00`|`Overwatch`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2024-11-08 21:13:00`|`Phasmophobia`|
 |[Arma Reforger Duplication Glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/665901-arma-reforger-duplication-glitch.html)|`2024-11-08 20:59:00`|`ARMA 3`|
 |[i want nkow how to load kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670839-nkow-load-kernel.html)|`2024-11-08 20:51:00`|`Anti-Cheat Bypass`|
