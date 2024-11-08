@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RadarHack Lua](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671227-radarhack-lua.html)|`2024-11-09 06:50:00`|`Counter-Strike 2`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-11-09 06:08:00`|`Playerunknown's Battlegrounds`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2024-11-09 05:36:00`|`Deadlock`|
 |[GTA Online & BattlEye &#45; November FAQ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/670508-gta-online-battleye-november-faq.html)|`2024-11-09 05:19:00`|`Grand Theft Auto V`|
