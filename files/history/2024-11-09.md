@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex AI Arduino Aim &#43; Silent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/670987-apex-ai-arduino-aim-silent.html)|`2024-11-09 04:09:00`|`Apex Legends`|
+|[Deadlock Cheat Base &#91;Internal/Very Simplest&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/671198-deadlock-cheat-base-internal-simplest.html)|`2024-11-09 04:08:00`|`Deadlock`|
+|[Simple Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670081-simple-unlocker.html)|`2024-11-09 04:05:00`|`Call of Duty: Black Ops 6`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2024-11-09 03:59:00`|`Escape from Tarkov`|
 |[Screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/669558-screenshots.html)|`2024-11-09 03:50:00`|`Playerunknown's Battlegrounds`|
 |[Brighter Shores Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/670902-brighter-shores-reversal-structs-offsets.html)|`2024-11-09 03:42:00`|`Other MMORPG and Strategy`|
 |[DMA: Deadlock &#40;Free&#41; &#124; Aimbot, ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/668813-dma-deadlock-free-aimbot-esp.html)|`2024-11-09 03:34:00`|`Deadlock`|
