@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Please make a cheat for Death Note Killer Within](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670862-please-cheat-death-note-killer.html)|`2024-11-08 19:31:00`|`Other Games`|
+|[Amalgam outdated?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/671133-amalgam-outdated.html)|`2024-11-08 19:31:00`|`Team Fortress 2`|
+|[Reversing Unity Games &#40;IDA PRO&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/669244-reversing-unity-games-ida-pro.html)|`2024-11-08 19:30:00`|`General Programming and Reversing`|
 |[AI Aimbot & Triggerbot, Fast & Accurate &#40;works on every shooter games&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671029-ai-aimbot-triggerbot-fast-accurate-shooter-games.html)|`2024-11-08 19:18:00`|`Rainbow Six Siege`|
 |[YoloV8 C&#43;&#43; implementation library, FP32 and FP16 working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/671132-yolov8-implementation-library-fp32-fp16.html)|`2024-11-08 19:06:00`|`C and C++`|
 |[Please Give all Cases for pubg x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/670757-please-pubg-x64.html)|`2024-11-08 19:00:00`|`PUBG Mobile`|
