@@ -24,9 +24,17 @@
 |1207|[PhasmoMenu v0&#46;5&#46;4&#46;4 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47482)|`2024-11-09 00:09:52`|
 |7|[Binary FileToArrayOfBytes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47481)|`2024-11-09 00:09:52`|
 |10|[Source FileToArrayOfBytes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47480)|`2024-11-09 00:09:52`|
+|1|[stcheattable v1&#46;6 &#45; by SpionQuark](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47517)|`2024-11-09 02:33:11`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Please Give all Cases for pubg x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/670757-please-pubg-x64.html)|`2024-11-09 02:32:00`|`PUBG Mobile`|
+|[Supermarket Together Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/665134-supermarket-cheat-table.html)|`2024-11-09 02:22:00`|`Cheat Engine Tables`|
+|[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2024-11-09 02:17:00`|`Other FPS Games`|
+|[Ghosts of Tabor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/574607-ghosts-tabor.html)|`2024-11-09 02:15:00`|`Other FPS Games`|
+|[Server sided player culling starting&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/671026-server-sided-player-culling-starting.html)|`2024-11-09 02:15:00`|`Rust`|
+|[How to get x y z of two objects in a 3d world game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/670756-objects-3d-world-game.html)|`2024-11-09 02:14:00`|`General Programming and Reversing`|
+|[ODIN V4 FOR STEAM ONLY&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/645623-odin-v4-steam.html)|`2024-11-09 02:12:00`|`Paladins`|
 |[InventoryChanger cases](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/639239-inventorychanger.html)|`2024-11-09 02:09:00`|`Counter-Strike 2`|
 |[Did Steam blacklisted Avast Sandbox?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671149-steam-blacklisted-avast-sandbox.html)|`2024-11-09 02:03:00`|`Counter-Strike 2`|
 |[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2024-11-09 02:01:00`|`Escape from Tarkov`|
