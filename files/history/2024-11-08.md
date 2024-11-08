@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to actually work with EAC&#45;Secured Games, How to write UD drivers without cert?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/667752-actually-eac-secured-games-write-ud-drivers-cert.html)|`2024-11-08 23:07:00`|`Forum General`|
+|[CS2 Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/606455-cs2-injector.html)|`2024-11-08 23:00:00`|`Counter-Strike 2`|
 |[how understand neverlose sdk?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671027-understand-neverlose-sdk.html)|`2024-11-08 22:50:00`|`Counter-Strike 2`|
 |[A quick question about Yim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671157-quick-question-yim.html)|`2024-11-08 22:41:00`|`Grand Theft Auto V`|
 |[RDR2 injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/671155-rdr2-injector.html)|`2024-11-08 22:02:00`|`Red Dead Redemption 2`|
