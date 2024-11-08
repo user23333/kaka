@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Please Give all Cases for pubg x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/670757-please-pubg-x64.html)|`2024-11-08 19:00:00`|`PUBG Mobile`|
+|[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2024-11-08 19:00:00`|`THE FINALS`|
 |[Rise Of Kingdoms decrypted global&#45;metadata&#46;dat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/636314-rise-kingdoms-decrypted-global-metadata-dat.html)|`2024-11-08 18:39:00`|`Other Games`|
 |[Post Patch Force Local Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/669846-post-patch-force-local-game.html)|`2024-11-08 18:35:00`|`Escape from Tarkov`|
 |[RCE Nbot only works on "vulnerable" marked players?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/671128-rce-nbot-vulnerable-marked-players.html)|`2024-11-08 18:32:00`|`Call of Duty: Modern Warfare 3`|
