@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[i want nkow how to load kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670839-nkow-load-kernel.html)|`2024-11-08 20:51:00`|`Anti-Cheat Bypass`|
+|[FamilyMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/631659-familymenu.html)|`2024-11-08 20:36:00`|`Red Dead Redemption 2`|
+|[warface clutch cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/670438-warface-clutch-cheats.html)|`2024-11-08 20:32:00`|`Warface`|
 |[Is there a Linux Cheat&#45; Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/671148-linux-cheat-rust.html)|`2024-11-08 20:20:00`|`Rust`|
 |[Fotd harpoon gun glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/670519-fotd-harpoon-gun-glitch.html)|`2024-11-08 20:05:00`|`Sea of Thieves`|
 |[is auto compiler possible to make](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/671138-auto-compiler.html)|`2024-11-08 19:55:00`|`Rust`|
