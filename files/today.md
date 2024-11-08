@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[InventoryChanger cases](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/639239-inventorychanger.html)|`2024-11-09 02:09:00`|`Counter-Strike 2`|
+|[Did Steam blacklisted Avast Sandbox?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671149-steam-blacklisted-avast-sandbox.html)|`2024-11-09 02:03:00`|`Counter-Strike 2`|
+|[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2024-11-09 02:01:00`|`Escape from Tarkov`|
+|[A quick question about Yim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671157-quick-question-yim.html)|`2024-11-09 02:00:00`|`Grand Theft Auto V`|
 |[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2024-11-09 01:51:00`|`Elite: Dangerous`|
 |[how understand neverlose sdk?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671027-understand-neverlose-sdk.html)|`2024-11-09 01:51:00`|`Counter-Strike 2`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-11-09 01:49:00`|`Valorant`|
