@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is there a Linux Cheat&#45; Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/671148-linux-cheat-rust.html)|`2024-11-08 20:20:00`|`Rust`|
+|[Fotd harpoon gun glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/670519-fotd-harpoon-gun-glitch.html)|`2024-11-08 20:05:00`|`Sea of Thieves`|
 |[is auto compiler possible to make](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/671138-auto-compiler.html)|`2024-11-08 19:55:00`|`Rust`|
 |[TD1 Full No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/440951-td1-recoil.html)|`2024-11-08 19:52:00`|`Tom Clancy's The Division`|
 |[Pro CS2 DMA &#45; Esp & Aimbot & Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656442-pro-cs2-dma-esp-aimbot-web-radar.html)|`2024-11-08 19:50:00`|`Counter-Strike 2`|
