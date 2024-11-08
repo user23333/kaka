@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666078-valorant.html)|`2024-11-08 15:30:00`|`Anti-Cheat Bypass`|
+|[&#91;Throne and Liberty&#93; Will EAC detect those py libraries?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/669739-throne-liberty-eac-detect-py-libraries.html)|`2024-11-08 15:02:00`|`Anti-Cheat Bypass`|
 |[How is C&#95;Inferno Read?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/655774-c_inferno-read.html)|`2024-11-08 14:25:00`|`Counter-Strike 2`|
 |[RLMarlbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/633336-rlmarlbot.html)|`2024-11-08 15:11:00`|`Other Games`|
 |[Gran Saga](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/670877-gran-saga.html)|`2024-11-08 15:01:00`|`Other MMORPG and Strategy`|
