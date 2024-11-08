@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VGC BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/670122-vgc-bypass.html)|`2024-11-09 01:06:00`|`Valorant`|
+|[Does base address vary?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/670941-base-address-vary.html)|`2024-11-09 01:03:00`|`Programming for Beginners`|
+|[DVAR's and unlocking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/669624-dvars-unlocking.html)|`2024-11-09 00:58:00`|`Call of Duty: Modern Warfare III`|
 |[Sons of the Forest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/572665-sons-forest.html)|`2024-11-09 00:57:00`|`Unity`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2024-11-09 00:54:00`|`Rainbow Six Siege`|
 |[Help with ZwWriteVirtualMemory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/670471-help-zwwritevirtualmemory.html)|`2024-11-09 00:49:00`|`Programming for Beginners`|
