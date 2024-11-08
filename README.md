@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Disability help&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/671091-disability-help.html)|`2024-11-08 11:42:00`|`Forum General`|
+|[unlock tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669207-unlock-tool.html)|`2024-11-08 11:41:00`|`Call of Duty: Black Ops 6`|
 |[Unibot &#124; An open&#45;source colorbot that just works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/603461-unibot-source-colorbot.html)|`2024-11-08 11:22:00`|`Valorant`|
 |[Ardunio memory reading and transfer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668613-ardunio-memory-reading-transfer.html)|`2024-11-08 11:17:00`|`Call of Duty: Black Ops 6`|
 |[Problem Finding a Offset "Gmod"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/85440-finding-offset-gmod.html)|`2024-11-08 10:58:00`|`Garry's Mod`|
