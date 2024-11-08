@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mordhau Unlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/649061-mordhau-unlock.html)|`2024-11-09 01:19:00`|`Other FPS Games`|
+|[Dual&#45;OS Setup with Cheat on Linux VM and Game on Windows 11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/669939-dual-os-setup-cheat-linux-vm-game-windows-11-a.html)|`2024-11-09 01:18:00`|`Apex Legends`|
+|[Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666078-valorant.html)|`2024-11-09 01:15:00`|`Anti-Cheat Bypass`|
 |[VGC BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/670122-vgc-bypass.html)|`2024-11-09 01:06:00`|`Valorant`|
 |[Does base address vary?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/670941-base-address-vary.html)|`2024-11-09 01:03:00`|`Programming for Beginners`|
 |[DVAR's and unlocking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/669624-dvars-unlocking.html)|`2024-11-09 00:58:00`|`Call of Duty: Modern Warfare III`|
