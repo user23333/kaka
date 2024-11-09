@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2024-11-09 21:20:00`|`Battlefield 4`|
+|[Spoofing Nvidia's UUID &#40;kernel &#45; hookless&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/575441-spoofing-nvidias-uuid-kernel-hookless.html)|`2024-11-09 21:16:00`|`Anti-Cheat Bypass`|
+|[Valorant Free Hack Project Nobody](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/670351-valorant-free-hack-project.html)|`2024-11-09 21:09:00`|`Valorant`|
+|[CS GO 2 Logitech script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671285-cs-2-logitech-script.html)|`2024-11-09 21:08:00`|`Counter-Strike 2`|
+|[How do I detect that CITemXp has appeared?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/671306-detect-citemxp-appeared.html)|`2024-11-09 21:07:00`|`Deadlock`|
 |[War Thunder test drive unlock tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/671076-war-thunder-test-drive-unlock-tool.html)|`2024-11-09 21:01:00`|`Other MMORPG and Strategy`|
 |[DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670871-dma.html)|`2024-11-09 20:56:00`|`Anti-Cheat Bypass`|
 |[RLMarlbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/633336-rlmarlbot.html)|`2024-11-09 20:53:00`|`Other Games`|
