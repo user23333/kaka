@@ -24,9 +24,14 @@
 |44|[freehack&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47484)|`2024-11-10 00:08:55`|
 |1696|[PhasmoMenu v0&#46;5&#46;4&#46;4 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47482)|`2024-11-10 00:08:55`|
 |7|[Binary FileToArrayOfBytes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47481)|`2024-11-10 00:08:55`|
+|2|[Battleye Virtualized with fixed Imports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47522)|`2024-11-10 03:57:27`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BEDaisy IDB with fixed Imports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671168-bedaisy-idb-fixed-imports.html)|`2024-11-10 03:57:00`|`Anti-Cheat Bypass`|
+|[Trump wins election](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/670738-trump-wins-election.html)|`2024-11-10 03:55:00`|`Off Topic`|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots &#40;Source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/643621-spankerfield-beautiful-esp-code-base-clean-screenshots-source.html)|`2024-11-10 03:45:00`|`Battlefield 4`|
+|[manual reviews](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/671314-manual-reviews.html)|`2024-11-10 03:43:00`|`Valorant`|
 |[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2024-11-10 03:49:00`|`Other FPS Games`|
 |[ESP is not showing &#91;internal&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671364-esp-internal.html)|`2024-11-10 03:46:00`|`Counter-Strike 2`|
 |[Panicore internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/658925-panicore-internal.html)|`2024-11-10 03:06:00`|`Other Games`|
