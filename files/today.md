@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;UD&#93; Bypass Vanguard using 2PC & Wifi &#40;no hardware&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/635782-ud-bypass-vanguard-using-2pc-wifi-hardware.html)|`2024-11-09 14:29:00`|`Valorant`|
+|[SCP SL LOKI CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/670550-scp-sl-loki-cheat.html)|`2024-11-09 14:26:00`|`Other FPS Games`|
+|[Call of Duty: Black Ops Cold War Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/421778-call-duty-black-ops-cold-war-reversal-structs-offsets.html)|`2024-11-09 14:13:00`|`Call of Duty: Black Ops Cold War`|
 |[Move CRC generating wrong values](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671267-move-crc-generating-wrong-values.html)|`2024-11-09 14:01:00`|`Counter-Strike 2`|
 |[Blackops 6 Python AFK Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671058-blackops-6-python-afk-bot.html)|`2024-11-09 12:46:00`|`Call of Duty: Black Ops 6`|
 |[Fast Valorant Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669778-fast-valorant-triggerbot.html)|`2024-11-09 11:30:00`|`Valorant`|
