@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Problems flashing STARK 75t](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/671347-flashing-stark-75t.html)|`2024-11-10 01:21:00`|`Other Hardware`|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2024-11-10 01:20:00`|`Battlefield 4`|
 |[Tpm Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/666357-tpm-bypass.html)|`2024-11-10 01:11:00`|`Valorant`|
 |[Project Zomboid Cheat &#45; Valkur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/645408-project-zomboid-cheat-valkur.html)|`2024-11-10 01:04:00`|`Other MMORPG and Strategy`|
 |[Issue with map parser for visible check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/647251-issue-map-parser-visible-check.html)|`2024-11-10 01:02:00`|`Counter-Strike 2`|
