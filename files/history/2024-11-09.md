@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Testing offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/669316-testing-offsets.html)|`2024-11-09 10:36:00`|`Escape from Tarkov`|
+|[Josh's Aim Assist V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670254-joshs-aim-assist-v1.html)|`2024-11-09 10:31:00`|`Call of Duty: Black Ops 6`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-11-09 10:31:00`|`Grand Theft Auto V`|
+|[obs&#45;studio jitter aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/670928-obs-studio-jitter-aim.html)|`2024-11-09 10:24:00`|`Apex Legends`|
+|[Armor Swap LGHUB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/671181-armor-swap-lghub.html)|`2024-11-09 10:17:00`|`Apex Legends`|
 |[Cr3 bruteforce taking forever &#40;stuck&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671235-cr3-bruteforce-taking-forever-stuck.html)|`2024-11-09 09:59:00`|`Anti-Cheat Bypass`|
 |[&#40;DMA&#41; Black Ops 6: Fuser ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670830-dma-black-ops-6-fuser-esp.html)|`2024-11-09 09:39:00`|`Call of Duty: Black Ops 6`|
 |[about Sai's Color Aimbot BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671150-sais-color-aimbot-bo6.html)|`2024-11-09 09:35:00`|`Call of Duty: Black Ops 6`|
