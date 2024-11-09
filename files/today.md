@@ -11,6 +11,7 @@
 |5|[VPN / bot lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670248-vpn-bot-lobbies.html)|`2024-11-09 00:09:52`|`call-of-duty-black-ops-6-a`|
 |21|[&#40;DMA&#41; Black Ops 6: Fuser ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670830-dma-black-ops-6-fuser-esp.html)|`2024-11-09 00:09:52`|`call-of-duty-black-ops-6-a`|
 |11|[GTA Online & BattlEye &#45; November FAQ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/670508-gta-online-battleye-november-faq.html)|`2024-11-09 00:09:52`|`grand-theft-auto-v`|
+|2|[zombies tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670424-zombies-tool.html)|`2024-11-09 11:02:59`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
