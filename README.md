@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[the fuck is this inflation??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/671042-fuck-inflation.html)|`2024-11-10 07:26:00`|`Apex Legends`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2024-11-10 07:25:00`|`Alternative Online Mods`|
+|[Apex AI Arduino Aim &#43; Silent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/670987-apex-ai-arduino-aim-silent.html)|`2024-11-10 07:25:00`|`Apex Legends`|
 |[tf2 keep crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/671399-tf2-crash.html)|`2024-11-10 07:12:00`|`Team Fortress 2`|
 |[Defeating EAC's PDB Shuffling by caching](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/660106-defeating-eacs-pdb-shuffling-caching.html)|`2024-11-10 06:58:00`|`Anti-Cheat Bypass`|
 |[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2024-11-10 06:51:00`|`Other FPS Games`|
