@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat Engine Table PS3D](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632973-cheat-engine-table-ps3d.html)|`2024-11-10 03:05:00`|`Other FPS Games`|
+|[AssaultCube Exploit &#91;Annoying Sound&#93; &#91;Ce&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/671361-assaultcube-exploit-annoying-sound-ce.html)|`2024-11-10 03:03:00`|`Other FPS Games`|
+|[AiCheats &#45; BF4 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/668879-aicheats-bf4-external-esp.html)|`2024-11-10 03:00:00`|`Battlefield 4`|
 |[rejoin previous server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668811-rejoin-previous-server.html)|`2024-11-10 02:58:00`|`Counter-Strike 2`|
 |[BO6 DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670998-bo6-dma-esp.html)|`2024-11-10 02:58:00`|`Call of Duty: Black Ops 6`|
 |[Help separate fake angle and real angle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/671332-help-separate-fake-angle-real-angle.html)|`2024-11-10 02:57:00`|`Garry's Mod`|
