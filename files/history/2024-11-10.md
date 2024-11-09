@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ChadAlphaMales Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/669776-chadalphamales-enhanced.html)|`2024-11-10 04:51:00`|`Team Fortress 2`|
+|[Pipsi&#45;SR &#91; Honkai: Star Rail Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/623438-pipsi-sr-honkai-star-rail-cheat.html)|`2024-11-10 04:47:00`|`Other MMORPG and Strategy`|
+|[War Thunder test drive unlock tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/671076-war-thunder-test-drive-unlock-tool.html)|`2024-11-10 04:40:00`|`Other MMORPG and Strategy`|
 |[Check if in game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/618071-check-game.html)|`2024-11-10 04:44:00`|`Counter-Strike 2`|
 |[Gran Saga](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/670877-gran-saga.html)|`2024-11-10 04:34:00`|`Other MMORPG and Strategy`|
 |[Fastest Python Valorant Triggerbot &#40;fr&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612762-fastest-python-valorant-triggerbot-fr.html)|`2024-11-10 04:18:00`|`Valorant`|
