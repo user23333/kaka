@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fishing Planet FishHAXZ &#45; Flyhack, No Fish Fight, InstaReel, Big Fish, and more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/418269-fishing-planet-fishhaxz-flyhack-fish-fight-instareel-fish.html)|`2024-11-09 18:09:00`|`Other Games`|
 |[How's the modding scene been in the past 3ish months for both p2c and f2c menus?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671282-hows-modding-scene-past-3ish-months-p2c-f2c-menus.html)|`2024-11-09 17:58:00`|`Grand Theft Auto V`|
 |[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2024-11-09 17:43:00`|`Other MMORPG and Strategy`|
 |[Liars bar Anti Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/671276-liars-bar-anti-cheat.html)|`2024-11-09 17:14:00`|`Other Games`|
