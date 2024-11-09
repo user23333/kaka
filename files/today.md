@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Liar’s Deck and Dice Cheat &#45; Full GUI Mod for Card & Dice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/668894-liar-deck-dice-cheat-gui-mod-card-dice.html)|`2024-11-10 01:46:00`|`Other Games`|
 |[C&#43;&#43; Colorbot Aim Assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/671353-colorbot-aim-assist.html)|`2024-11-10 01:37:00`|`All Points Bulletin`|
 |[BAN IN DAYZ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/671164-ban-dayz.html)|`2024-11-10 01:36:00`|`DayZ SA`|
 |[Cant find the m&#95;bCameraInThirdPerson offset in a2x dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671352-cant-m_bcamerainthirdperson-offset-a2x-dumper.html)|`2024-11-10 01:35:00`|`Counter-Strike 2`|
