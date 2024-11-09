@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fallout 76 duplication exploit &#40;new&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/656490-fallout-76-duplication-exploit.html)|`2024-11-09 15:03:00`|`Other FPS Games`|
 |[&#91;UD&#93; Bypass Vanguard using 2PC & Wifi &#40;no hardware&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/635782-ud-bypass-vanguard-using-2pc-wifi-hardware.html)|`2024-11-09 14:29:00`|`Valorant`|
 |[SCP SL LOKI CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/670550-scp-sl-loki-cheat.html)|`2024-11-09 14:26:00`|`Other FPS Games`|
 |[Call of Duty: Black Ops Cold War Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/421778-call-duty-black-ops-cold-war-reversal-structs-offsets.html)|`2024-11-09 14:13:00`|`Call of Duty: Black Ops Cold War`|
