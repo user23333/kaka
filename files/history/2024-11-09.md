@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Full Source Complex Python GUI &#43; Full Valorant Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/613998-source-complex-python-gui-valorant-cheat.html)|`2024-11-09 16:43:00`|`Valorant`|
 |[Eac lag switch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670992-eac-lag-switch.html)|`2024-11-09 15:54:00`|`Anti-Cheat Bypass`|
 |[Unc Type Hook kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671271-unc-type-hook-kernel.html)|`2024-11-09 15:51:00`|`Anti-Cheat Bypass`|
 |[Fallout 76 duplication exploit &#40;new&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/656490-fallout-76-duplication-exploit.html)|`2024-11-09 15:03:00`|`Other FPS Games`|
