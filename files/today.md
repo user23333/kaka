@@ -12,6 +12,7 @@
 |21|[&#40;DMA&#41; Black Ops 6: Fuser ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670830-dma-black-ops-6-fuser-esp.html)|`2024-11-09 00:09:52`|`call-of-duty-black-ops-6-a`|
 |11|[GTA Online & BattlEye &#45; November FAQ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/670508-gta-online-battleye-november-faq.html)|`2024-11-09 00:09:52`|`grand-theft-auto-v`|
 |2|[zombies tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670424-zombies-tool.html)|`2024-11-09 11:02:59`|`call-of-duty-black-ops-6-a`|
+|13|[BO6 DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670998-bo6-dma-esp.html)|`2024-11-09 22:08:43`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Winebot Rose Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/625663-winebot-rose-online.html)|`2024-11-09 21:55:00`|`Other MMORPG and Strategy`|
+|[ThunderTirnal &#45; WarThunder Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/660182-thundertirnal-warthunder-cheat.html)|`2024-11-09 21:48:00`|`Other MMORPG and Strategy`|
 |[Panicore internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/658925-panicore-internal.html)|`2024-11-09 21:46:00`|`Other Games`|
 |[manual reviews](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/671314-manual-reviews.html)|`2024-11-09 21:43:00`|`Valorant`|
 |[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2024-11-09 21:20:00`|`Battlefield 4`|
