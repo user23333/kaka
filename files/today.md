@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Contest&#93; Winter, Christmas & New Year's Banner Contest 2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/669631-contest-winter-christmas-banner-contest-2024-a.html)|`2024-11-10 11:42:00`|`General Graphics`|
 |[Another ColorBot Why Not](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671417-colorbot.html)|`2024-11-10 11:30:00`|`Call of Duty: Black Ops 6`|
 |[Josh's Aim Assist V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670254-joshs-aim-assist-v1.html)|`2024-11-10 11:17:00`|`Call of Duty: Black Ops 6`|
 |[Liars bar Anti Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/671276-liars-bar-anti-cheat.html)|`2024-11-10 11:09:00`|`Other Games`|
