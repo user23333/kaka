@@ -33,9 +33,13 @@
 |4|[Fivem Aimbot ahk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47531)|`2024-11-10 09:20:20`|
 |3|[PEDLIGHTS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47528)|`2024-11-10 09:20:20`|
 |2|[DeltaForceSDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47515)|`2024-11-10 20:46:17`|
+|1|[cs2Glow&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47500)|`2024-11-10 21:01:38`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[glow cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/670768-glow-cheat.html)|`2024-11-10 20:52:00`|`Counter-Strike 2`|
+|[Getting Started with Modding COD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671483-getting-started-modding-cod.html)|`2024-11-10 20:48:00`|`Call of Duty: Black Ops 6`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2024-11-10 20:47:00`|`Rainbow Six Siege`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2024-11-10 20:43:00`|`Other FPS Games`|
 |["Speedboost" Feature](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/668600-speedboost-feature.html)|`2024-11-10 20:35:00`|`Deadlock`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2024-11-10 20:08:00`|`Deadlock`|
