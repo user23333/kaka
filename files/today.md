@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[looking at you Rust &#40;Feature&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/671389-looking-rust-feature.html)|`2024-11-11 02:44:00`|`Rust`|
 |[indicators fonts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/671545-indicators-fonts.html)|`2024-11-11 02:37:00`|`Counterstrike Global Offensive`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2024-11-11 02:32:00`|`Escape from Tarkov`|
 |[finding ConsoleSystemIndex&#95;c&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/671544-finding-consolesystemindex_c.html)|`2024-11-11 02:29:00`|`Rust`|
