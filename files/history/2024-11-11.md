@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Trump wins election](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/670738-trump-wins-election.html)|`2024-11-11 03:20:00`|`Off Topic`|
 |[BO6 Enhanced Color Aim AHK GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671390-bo6-enhanced-color-aim-ahk-gui.html)|`2024-11-11 02:51:00`|`Call of Duty: Black Ops 6`|
 |[looking at you Rust &#40;Feature&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/671389-looking-rust-feature.html)|`2024-11-11 02:44:00`|`Rust`|
 |[indicators fonts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/671545-indicators-fonts.html)|`2024-11-11 02:37:00`|`Counterstrike Global Offensive`|
