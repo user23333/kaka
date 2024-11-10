@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[C&#43;&#43; Colorbot Aim Assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/671353-colorbot-aim-assist.html)|`2024-11-11 05:02:00`|`All Points Bulletin`|
 |[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2024-11-11 04:54:00`|`Escape from Tarkov`|
 |[Mordhau cheat &#124;&#124; Patch &#35;28](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/612663-mordhau-cheat-patch-28-a.html)|`2024-11-11 04:44:00`|`Other FPS Games`|
 |[DMA Fix cr3 with no performance impact](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/671559-dma-fix-cr3-performance-impact.html)|`2024-11-11 04:41:00`|`Apex Legends`|
