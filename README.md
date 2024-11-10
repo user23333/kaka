@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Josh's Aim Assist V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670254-joshs-aim-assist-v1.html)|`2024-11-10 11:17:00`|`Call of Duty: Black Ops 6`|
+|[Liars bar Anti Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/671276-liars-bar-anti-cheat.html)|`2024-11-10 11:09:00`|`Other Games`|
+|[FunClone &#45; x64 Function Cloner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671415-funclone-x64-function-cloner.html)|`2024-11-10 11:06:00`|`Anti-Cheat Bypass`|
 |[ssd ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/671413-ssd-ban.html)|`2024-11-10 10:46:00`|`Valorant`|
 |[New Boss?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/671412-boss.html)|`2024-11-10 10:45:00`|`Escape from Tarkov`|
 |[eac things](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671331-eac.html)|`2024-11-10 09:16:00`|`Anti-Cheat Bypass`|
