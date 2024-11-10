@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Weapon Class &#40;get weapon id&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660559-weapon-class-weapon-id.html)|`2024-11-10 22:56:00`|`Counter-Strike 2`|
 |[Brighter Shores Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/670902-brighter-shores-reversal-structs-offsets.html)|`2024-11-10 22:45:00`|`Other MMORPG and Strategy`|
 |[Yimenu & friend](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671226-yimenu-friend.html)|`2024-11-10 22:40:00`|`Grand Theft Auto V`|
 |[Sons of the Forest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/572665-sons-forest.html)|`2024-11-10 22:24:00`|`Unity`|
