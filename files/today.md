@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to get x y z of two objects in a 3d world game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/670756-objects-3d-world-game.html)|`2024-11-10 21:56:00`|`General Programming and Reversing`|
 |[Wicked Menu/ Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/372512-wicked-menu-cheat-engine.html)|`2024-11-10 21:40:00`|`Red Dead Redemption 2`|
 |[First Loader / Need source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671487-loader-source.html)|`2024-11-10 21:44:00`|`Anti-Cheat Bypass`|
 |[obs&#45;studio jitter aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/670928-obs-studio-jitter-aim.html)|`2024-11-10 21:24:00`|`Apex Legends`|
