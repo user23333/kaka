@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[All Mouse NoRecoil &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-recoil-helpy-auto-config-probably-ud-universal.html)|`2024-11-10 18:28:00`|`Rainbow Six Siege`|
+|[Battlefield 1 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/186728-battlefield-1-reversal-structs-offsets.html)|`2024-11-10 18:27:00`|`Battlefield 1`|
+|[Lockdown Protocol Cheat Table v0&#46;1&#46;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/659299-lockdown-protocol-cheat-table-v0-1-26-a.html)|`2024-11-10 18:21:00`|`Other Games`|
+|[AHK Zombies Color Aimbot BO6 &#40;Best one IMO&#41; &#40;Sai's&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671433-ahk-zombies-color-aimbot-bo6-imo-sais.html)|`2024-11-10 18:21:00`|`Call of Duty: Black Ops 6`|
 |[How's the modding scene been in the past 3ish months for both p2c and f2c menus?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671282-hows-modding-scene-past-3ish-months-p2c-f2c-menus.html)|`2024-11-10 17:48:00`|`Grand Theft Auto V`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2024-11-10 17:38:00`|`Other FPS Games`|
 |[How to scan and get offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/671456-scan-offsets.html)|`2024-11-10 17:26:00`|`League of Legends`|
