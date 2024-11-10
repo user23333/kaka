@@ -34,6 +34,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty Options Editor BO6 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671448-call-duty-options-editor-bo6-update.html)|`2024-11-10 15:14:00`|`Call of Duty: Black Ops 6`|
+|[Kovaak's FPS Aim Trainer External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/595259-kovaaks-fps-aim-trainer-external-cheat.html)|`2024-11-10 15:13:00`|`Other FPS Games`|
+|[Deadlock Cheat Base &#91;Internal/Very Simplest&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/671198-deadlock-cheat-base-internal-simplest.html)|`2024-11-10 15:13:00`|`Deadlock`|
+|[I'm gonna be that piece of shit i guess&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/668738-im-gonna-piece-shit-guess.html)|`2024-11-10 15:11:00`|`DayZ SA`|
+|[The Texas Chainsaw Massacre External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/638980-texas-chainsaw-massacre-external-cheat.html)|`2024-11-10 15:11:00`|`Other FPS Games`|
 |[Proxy for KS&#95;Diagnostics&#95;Process](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/567912-proxy-ks_diagnostics_process.html)|`2024-11-10 14:23:00`|`Phasmophobia`|
 |[working 2024 Left 4 Dead 2 AIMBOT / ESP / SILENTAIM / BHOP / SPEEDHACK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620158-2024-left-4-dead-2-aimbot-esp-silentaim-bhop-speedhack.html)|`2024-11-10 14:17:00`|`Other FPS Games`|
 |[Fast Valorant Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669778-fast-valorant-triggerbot.html)|`2024-11-10 14:26:00`|`Valorant`|
