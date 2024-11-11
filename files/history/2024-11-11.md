@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New Boss?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/671412-boss.html)|`2024-11-11 11:38:00`|`Escape from Tarkov`|
 |[Trolling LUA script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671434-trolling-lua-script.html)|`2024-11-11 11:24:00`|`Grand Theft Auto V`|
 |[FiveM ESP if the entity if visible](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/671592-fivem-esp-entity-visible.html)|`2024-11-11 10:43:00`|`Alternative Online Mods`|
 |[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-11-11 10:42:00`|`Escape from Tarkov`|
