@@ -14,6 +14,7 @@
 |3|[Bot lobby console method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670511-bot-lobby-console-method.html)|`2024-11-11 00:43:03`|`call-of-duty-black-ops-6-a`|
 |15|[YimMenu and clarifications&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/670737-yimmenu-clarifications.html)|`2024-11-11 02:22:01`|`grand-theft-auto-v`|
 |21|[AI Aimbot & Triggerbot, Fast & Accurate &#40;works on every shooter games&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671029-ai-aimbot-triggerbot-fast-accurate-shooter-games.html)|`2024-11-11 06:29:58`|`rainbow-six-siege`|
+|21|[BO6 Enhanced Color Aim AHK GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671390-bo6-enhanced-color-aim-ahk-gui.html)|`2024-11-11 12:11:07`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Base Addr](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/671598-base-addr.html)|`2024-11-11 12:06:00`|`PUBG Mobile`|
 |[New Boss?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/671412-boss.html)|`2024-11-11 11:38:00`|`Escape from Tarkov`|
 |[Trolling LUA script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671434-trolling-lua-script.html)|`2024-11-11 11:24:00`|`Grand Theft Auto V`|
 |[FiveM ESP if the entity if visible](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/671592-fivem-esp-entity-visible.html)|`2024-11-11 10:43:00`|`Alternative Online Mods`|
