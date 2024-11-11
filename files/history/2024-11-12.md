@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I will buy a new pc, but which one?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/671504-buy-pc.html)|`2024-11-12 04:52:00`|`Valorant`|
+|[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669274-vigor-internal-cheat.html)|`2024-11-12 04:49:00`|`Other FPS Games`|
 |[Il2CppInspector issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/670516-il2cppinspector-issue.html)|`2024-11-12 04:43:00`|`Phasmophobia`|
 |[Steam Linking/Unlinking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671336-steam-linking-unlinking.html)|`2024-11-12 04:28:00`|`Grand Theft Auto V`|
 |[ESP AND AIMBOT BOODSTRIKE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661608-esp-aimbot-boodstrike.html)|`2024-11-12 04:17:00`|`Other FPS Games`|
