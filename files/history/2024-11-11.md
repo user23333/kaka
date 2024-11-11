@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vigor internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662490-vigor-internal-cheat.html)|`2024-11-11 21:54:00`|`Other FPS Games`|
+|[Destiny 2 Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669951-destiny-2-reversal.html)|`2024-11-11 21:53:00`|`Other FPS Games`|
+|[Server sided player culling starting&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/671026-server-sided-player-culling-starting.html)|`2024-11-11 21:53:00`|`Rust`|
+|[FiveM Cheat &#124; Dumper & Trigger find](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/654012-fivem-cheat-dumper-trigger.html)|`2024-11-11 21:47:00`|`Alternative Online Mods`|
 |[noob question &#45; what prevents one from hijacking system dlls?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671650-noob-question-prevents-hijacking-system-dlls.html)|`2024-11-11 21:27:00`|`Anti-Cheat Bypass`|
 |[Valorant Python Colourbot/Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/671578-valorant-python-colourbot-triggerbot.html)|`2024-11-11 21:34:00`|`Valorant`|
 |[Black Ops 6 RTM Tool &#40;PS4&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/655292-black-ops-6-rtm-tool-ps4.html)|`2024-11-11 21:29:00`|`Call of Duty: Black Ops 6`|
