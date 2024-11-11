@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[tf2 keep crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/671399-tf2-crash.html)|`2024-11-11 18:22:00`|`Team Fortress 2`|
 |[Il2CppInspector issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/670516-il2cppinspector-issue.html)|`2024-11-11 18:07:00`|`Phasmophobia`|
 |[🔥 COD4 Cheat Menu for PC🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/671615-cod4-cheat-menu-pc.html)|`2024-11-11 17:53:00`|`Call of Duty 4: Modern Warfare`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2024-11-11 17:52:00`|`Phasmophobia`|
