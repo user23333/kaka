@@ -12,6 +12,7 @@
 |15|[Apex AI Arduino Aim &#43; Silent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/670987-apex-ai-arduino-aim-silent.html)|`2024-11-12 00:12:36`|`apex-legends`|
 |15|[YimMenu and clarifications&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/670737-yimmenu-clarifications.html)|`2024-11-12 00:12:36`|`grand-theft-auto-v`|
 |3|[Brighter Shores Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/670902-brighter-shores-reversal-structs-offsets.html)|`2024-11-12 01:27:06`|`other-mmorpg-and-strategy`|
+|5|[Bypassing BO6 ANTICHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670968-bypassing-bo6-anticheat.html)|`2024-11-12 01:41:21`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Will to Live online engine&#46;ini](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/671697-live-online-engine-ini.html)|`2024-11-12 01:36:00`|`Other FPS Games`|
+|[HWID Spoof on Warframe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/671435-hwid-spoof-warframe.html)|`2024-11-12 01:35:00`|`Other MMORPG and Strategy`|
 |[Fivem Aimbot Cheat &#43; pedLights](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/671402-fivem-aimbot-cheat-pedlights.html)|`2024-11-12 01:25:00`|`Alternative Online Mods`|
 |[dayz source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651347-dayz-source.html)|`2024-11-12 01:24:00`|`DayZ SA`|
 |[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2024-11-12 01:23:00`|`Valorant`|
