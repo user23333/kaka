@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RadarHack Lua](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671227-radarhack-lua.html)|`2024-11-11 17:25:00`|`Counter-Strike 2`|
+|[BO6 DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670998-bo6-dma-esp.html)|`2024-11-11 17:21:00`|`Call of Duty: Black Ops 6`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-11-11 17:16:00`|`Grand Theft Auto V`|
 |[WTB Private ESP / Aimbot FiveM & rpf creator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/671608-wtb-private-esp-aimbot-fivem-rpf-creator.html)|`2024-11-11 16:40:00`|`Alternative Online Mods`|
 |[wtf valorant ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/671607-wtf-valorant.html)|`2024-11-11 16:36:00`|`Valorant`|
 |[Wanted to get Arduino&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/670541-arduino.html)|`2024-11-11 16:31:00`|`Valorant`|
