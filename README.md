@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[🔥 COD4 Cheat Menu for PC🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/671615-cod4-cheat-menu-pc.html)|`2024-11-11 17:53:00`|`Call of Duty 4: Modern Warfare`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2024-11-11 17:52:00`|`Phasmophobia`|
 |[any ways to unlock all and do my level on gta rn?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671612-unlock-level-gta-rn.html)|`2024-11-11 17:37:00`|`Grand Theft Auto V`|
 |[Vanguard ban 152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/671611-vanguard-ban-152-a.html)|`2024-11-11 17:33:00`|`Valorant`|
 |[RadarHack Lua](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671227-radarhack-lua.html)|`2024-11-11 17:25:00`|`Counter-Strike 2`|
