@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CASES UPDATES BYPASS 3&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/671636-updates-bypass-3-5-a.html)|`2024-11-11 20:02:00`|`PUBG Mobile`|
+|[FOTD Harpoon Failure](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/671633-fotd-harpoon-failure.html)|`2024-11-11 19:58:00`|`Sea of Thieves`|
 |[SmmInfect &#45; Smm Backdoor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664482-smminfect-smm-backdoor.html)|`2024-11-11 19:34:00`|`Anti-Cheat Bypass`|
 |[Skittlz&#46;xyz / Simple Phasmo Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/671279-skittlz-xyz-simple-phasmo-menu.html)|`2024-11-11 19:32:00`|`Phasmophobia`|
 |[New World Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/new-world/471653-world-reversal-structs-offsets.html)|`2024-11-11 19:10:00`|`New World`|
