@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CounterStrike Global Offensive Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/103220-counterstrike-global-offensive-reversal-structs-offsets.html)|`2024-11-12 05:22:00`|`Counterstrike Global Offensive`|
 |[looking at you Rust &#40;Feature&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/671389-looking-rust-feature.html)|`2024-11-12 05:12:00`|`Rust`|
 |[Reimu &#45; Apex Legends No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/660847-reimu-apex-legends-recoil.html)|`2024-11-12 04:59:00`|`Apex Legends`|
 |[I will buy a new pc, but which one?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/671504-buy-pc.html)|`2024-11-12 04:52:00`|`Valorant`|
