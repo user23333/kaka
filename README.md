@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Did Steam blacklisted Avast Sandbox?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671149-steam-blacklisted-avast-sandbox.html)|`2024-11-12 02:28:00`|`Counter-Strike 2`|
+|[ParsePartialFromArray Protobufs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671703-parsepartialfromarray-protobufs.html)|`2024-11-12 02:23:00`|`Counter-Strike 2`|
 |[Script Decompiler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/670292-script-decompiler.html)|`2024-11-12 02:20:00`|`Grand Theft Auto V`|
 |[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2024-11-12 02:12:00`|`Unity`|
 |[GTAHaX for 1&#46;69 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-69-external-thread-3-a.html)|`2024-11-12 02:07:00`|`Grand Theft Auto V`|
