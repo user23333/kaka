@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Trolling LUA script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671434-trolling-lua-script.html)|`2024-11-12 06:07:00`|`Grand Theft Auto V`|
+|[Ultimate menu nightclub loop stopping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671428-ultimate-menu-nightclub-loop-stopping.html)|`2024-11-12 06:00:00`|`Grand Theft Auto V`|
+|[Help Spoofing &#43; New CPU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/671720-help-spoofing-cpu.html)|`2024-11-12 05:58:00`|`Valorant`|
+|[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2024-11-12 05:45:00`|`Sea of Thieves`|
 |[ESP is not showing &#91;internal&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671364-esp-internal.html)|`2024-11-12 05:33:00`|`Counter-Strike 2`|
 |[CounterStrike Global Offensive Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/103220-counterstrike-global-offensive-reversal-structs-offsets.html)|`2024-11-12 05:22:00`|`Counterstrike Global Offensive`|
 |[looking at you Rust &#40;Feature&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/671389-looking-rust-feature.html)|`2024-11-12 05:12:00`|`Rust`|
