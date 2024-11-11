@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Python Colourbot/Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/671578-valorant-python-colourbot-triggerbot.html)|`2024-11-11 21:34:00`|`Valorant`|
 |[Black Ops 6 RTM Tool &#40;PS4&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/655292-black-ops-6-rtm-tool-ps4.html)|`2024-11-11 21:29:00`|`Call of Duty: Black Ops 6`|
 |[ELSWORD NA HACK FREE &#45; KMZ ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/670531-elsword-na-hack-free-kmz-engine.html)|`2024-11-11 21:25:00`|`Other MMORPG and Strategy`|
 |[unlock tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669207-unlock-tool.html)|`2024-11-11 20:49:00`|`Call of Duty: Black Ops 6`|
