@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight &#45; ESP And Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625890-dead-daylight-esp.html)|`2024-11-11 08:36:00`|`Other FPS Games`|
+|[manual reviews](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/671314-manual-reviews.html)|`2024-11-11 08:28:00`|`Valorant`|
+|[Rust scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/671542-rust-scripts.html)|`2024-11-11 08:09:00`|`Rust`|
 |[HWID Spoof on Warframe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/671435-hwid-spoof-warframe.html)|`2024-11-11 07:44:00`|`Other MMORPG and Strategy`|
 |[&#45;0 rocket league](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670886-0-rocket-league.html)|`2024-11-11 07:24:00`|`Other Games`|
 |[Source Code EXTERNAL CrossFire](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/641756-source-code-external-crossfire.html)|`2024-11-11 07:22:00`|`CrossFire`|
