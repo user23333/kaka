@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to scan and get offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/671456-scan-offsets.html)|`2024-11-11 16:13:00`|`League of Legends`|
+|[Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666078-valorant.html)|`2024-11-11 16:10:00`|`Anti-Cheat Bypass`|
 |[Is there any cheat working after update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/671511-cheat-update.html)|`2024-11-11 15:54:00`|`Battlefield V`|
 |[Anti&#45;Cheat BloodStrike](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/660379-anti-cheat-bloodstrike.html)|`2024-11-11 15:38:00`|`Anti-Cheat Bypass`|
 |[InventoryChanger cases](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/639239-inventorychanger.html)|`2024-11-11 14:58:00`|`Counter-Strike 2`|
