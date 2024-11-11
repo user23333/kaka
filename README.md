@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TOP MACRO Logitech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668884-top-macro-logitech.html)|`2024-11-12 06:33:00`|`Rust`|
+|[Descenders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/430508-descenders.html)|`2024-11-12 06:32:00`|`Other Games`|
+|[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-11-12 06:32:00`|`Counter-Strike 2`|
 |[Keep Getting Banned On Overwatch With No Reason Given](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/671719-getting-banned-overwatch-reason.html)|`2024-11-12 06:27:00`|`Overwatch`|
 |[Difference between Vanguard and EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/671730-difference-vanguard-eac.html)|`2024-11-12 06:21:00`|`Valorant`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2024-11-12 06:20:00`|`Escape from Tarkov`|
