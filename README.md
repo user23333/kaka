@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Keep Getting Banned On Overwatch With No Reason Given](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/671719-getting-banned-overwatch-reason.html)|`2024-11-12 06:27:00`|`Overwatch`|
+|[Difference between Vanguard and EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/671730-difference-vanguard-eac.html)|`2024-11-12 06:21:00`|`Valorant`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2024-11-12 06:20:00`|`Escape from Tarkov`|
+|[Unlock All Tool Detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669175-unlock-tool-detections.html)|`2024-11-12 06:15:00`|`Call of Duty: Black Ops 6`|
 |[Trolling LUA script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671434-trolling-lua-script.html)|`2024-11-12 06:07:00`|`Grand Theft Auto V`|
 |[Ultimate menu nightclub loop stopping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671428-ultimate-menu-nightclub-loop-stopping.html)|`2024-11-12 06:00:00`|`Grand Theft Auto V`|
 |[Help Spoofing &#43; New CPU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/671720-help-spoofing-cpu.html)|`2024-11-12 05:58:00`|`Valorant`|
