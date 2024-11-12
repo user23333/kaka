@@ -25,9 +25,11 @@
 |378|[BO6&#95;DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47501)|`2024-11-13 00:18:32`|
 |73|[cs2Glow&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47500)|`2024-11-13 00:18:32`|
 |1|[Lockdown Protocol External v2&#46;5 &#45; Oni Edit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47504)|`2024-11-13 00:39:02`|
+|1|[BrighterShores&#45;2024&#45;11&#45;07](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47506)|`2024-11-13 03:52:35`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Brighter Shores Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/670902-brighter-shores-reversal-structs-offsets.html)|`2024-11-13 03:51:00`|`Other MMORPG and Strategy`|
 |[Difference between Vanguard and EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/671730-difference-vanguard-eac.html)|`2024-11-13 03:39:00`|`Valorant`|
 |[Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671590-skin-changer.html)|`2024-11-13 03:37:00`|`Counter-Strike 2`|
 |[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2024-11-13 03:33:00`|`Battlefield 4`|
