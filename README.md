@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM ESP if the entity if visible](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/671592-fivem-esp-entity-visible.html)|`2024-11-12 22:47:00`|`Alternative Online Mods`|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2024-11-12 22:43:00`|`Other FPS Games`|
+|[Rust scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/671542-rust-scripts.html)|`2024-11-12 22:43:00`|`Rust`|
 |[KMBOX&#45;NVideo For AI AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/670502-kmbox-nvideo-ai-aim.html)|`2024-11-12 22:39:00`|`Valorant`|
 |[can someone run me a few lobbies for max medal max level and samples](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/650976-run-lobbies-max-medal-max-level-samples.html)|`2024-11-12 22:22:00`|`HELLDIVERS 2`|
 |[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2024-11-12 22:20:00`|`Other Games`|
