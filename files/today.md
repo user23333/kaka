@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Destiny 2 Inventory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/668891-destiny-2-inventory.html)|`2024-11-12 11:44:00`|`Other FPS Games`|
+|[ESP For Arean Breakout infinite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661611-esp-arean-breakout-infinite.html)|`2024-11-12 11:43:00`|`Other FPS Games`|
 |[Diablo 4 zoom level](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/diablo-series/636402-diablo-4-zoom-level.html)|`2024-11-12 11:22:00`|`Diablo Series`|
 |[UE3 Depth game SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/671764-ue3-depth-game-sdk.html)|`2024-11-12 10:54:00`|`General Programming and Reversing`|
 |[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-11-12 10:30:00`|`Overwatch`|
