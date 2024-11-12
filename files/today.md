@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2024-11-13 02:44:00`|`Other FPS Games`|
+|[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2024-11-13 02:40:00`|`DayZ SA`|
 |[Is there any cheat working after update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/671511-cheat-update.html)|`2024-11-13 02:33:00`|`Battlefield V`|
 |[Tpm Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/666357-tpm-bypass.html)|`2024-11-13 02:32:00`|`Valorant`|
 |[PUNGM 3&#46;5 Magic Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/671795-pungm-3-5-magic-update.html)|`2024-11-13 02:22:00`|`PUBG Mobile`|
