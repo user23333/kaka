@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RLMarlbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/633336-rlmarlbot.html)|`2024-11-12 21:07:00`|`Other Games`|
+|[New Recoil Tables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/521836-recoil-tables.html)|`2024-11-12 21:05:00`|`Rust`|
+|[Dual&#45;OS Setup with Cheat on Linux VM and Game on Windows 11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/669939-dual-os-setup-cheat-linux-vm-game-windows-11-a.html)|`2024-11-12 21:02:00`|`Apex Legends`|
+|[Player names externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/671806-player-names-externally.html)|`2024-11-12 20:59:00`|`Alternative Online Mods`|
+|[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2024-11-12 20:56:00`|`Other FPS Games`|
 |[How does a resolver work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/671752-resolver.html)|`2024-11-12 20:48:00`|`Team Fortress 2`|
 |[What language do you play in?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/671805-language-play.html)|`2024-11-12 20:42:00`|`Escape from Tarkov`|
 |[bullet&#95;impact not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671694-bullet_impact.html)|`2024-11-12 20:22:00`|`Counter-Strike 2`|
