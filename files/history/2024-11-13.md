@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ETW Keyboard Manipulation Detection through USB packets&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/663333-etw-keyboard-manipulation-detection-usb-packets.html)|`2024-11-13 00:47:00`|`Anti-Cheat Bypass`|
+|[Rust scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/671542-rust-scripts.html)|`2024-11-13 00:42:00`|`Rust`|
+|[Max level, samples, medals and requisitions&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/634711-max-level-samples-medals-requisitions.html)|`2024-11-13 00:39:00`|`HELLDIVERS 2`|
+|[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2024-11-13 00:34:00`|`Escape from Tarkov`|
 |[TOP MACRO Logitech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668884-top-macro-logitech.html)|`2024-11-13 00:34:00`|`Rust`|
 |[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-11-13 00:31:00`|`Other Games`|
 |[Tom Clancy's The Division Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/171536-tom-clancys-division-reversal-structs-offsets.html)|`2024-11-13 00:30:00`|`Tom Clancy's The Division`|
