@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Another Addition to the Team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/671864-addition-team.html)|`2024-11-13 03:08:00`|`Information and Announcements`|
+|[seo64 fixed dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/671716-seo64-fixed-dll.html)|`2024-11-13 02:53:00`|`Team Fortress 2`|
+|[Cheap DMA cards](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/617995-cheap-dma-cards.html)|`2024-11-13 02:53:00`|`PC Hardware`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2024-11-13 02:44:00`|`Other FPS Games`|
 |[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2024-11-13 02:40:00`|`DayZ SA`|
 |[Is there any cheat working after update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/671511-cheat-update.html)|`2024-11-13 02:33:00`|`Battlefield V`|
