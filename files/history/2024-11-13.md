@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;DMA&#41; Black Ops 6: Fuser ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670830-dma-black-ops-6-fuser-esp.html)|`2024-11-13 05:37:00`|`Call of Duty: Black Ops 6`|
+|[Liars Bar DLL &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/668545-liars-bar-dll-source.html)|`2024-11-13 05:36:00`|`Other Games`|
 |[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2024-11-13 05:35:00`|`Valorant`|
 |[Help ineed VNG SDK 32BIT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/671887-help-ineed-vng-sdk-32bit.html)|`2024-11-13 05:34:00`|`PUBG Mobile`|
 |[find ipadview, ultra hdr 120fps and less recoil offset &#40;pubg 3&#46;5 32bit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/671800-ipadview-ultra-hdr-120fps-recoil-offset-pubg-3-5-32bit.html)|`2024-11-13 05:24:00`|`PUBG Mobile`|
