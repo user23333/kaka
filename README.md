@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to Unlock everything in Los santos custom](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671832-unlock-los-santos-custom.html)|`2024-11-13 06:24:00`|`Grand Theft Auto V`|
+|[How to Fix TPM Ban easily &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/626786-fix-tpm-ban-easily.html)|`2024-11-13 06:07:00`|`Valorant`|
 |[Help with internal pattern scanner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/671898-help-internal-pattern-scanner.html)|`2024-11-13 06:04:00`|`General Programming and Reversing`|
 |[Gta Online Fsl and Yimmenu Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671882-gta-online-fsl-yimmenu-help.html)|`2024-11-13 05:52:00`|`Grand Theft Auto V`|
 |[Liar’s Bar Cheats? &#40;Card Game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/665349-liar-bar-cheats-card-game.html)|`2024-11-13 05:50:00`|`Other Games`|
