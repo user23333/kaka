@@ -27,9 +27,12 @@
 |1|[Lockdown Protocol External v2&#46;5 &#45; Oni Edit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47504)|`2024-11-13 00:39:02`|
 |1|[BrighterShores&#45;2024&#45;11&#45;07](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47506)|`2024-11-13 03:52:35`|
 |1|[ApexArduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47510)|`2024-11-13 04:15:37`|
+|3|[Stupid&#46;Solutions v3&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47507)|`2024-11-13 07:37:46`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Updated chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/642477-updated-chams.html)|`2024-11-13 07:31:00`|`Rainbow Six Siege`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2024-11-13 07:30:00`|`Escape from Tarkov`|
 |[Fighting AC for the first time](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671908-fighting-ac-time.html)|`2024-11-13 07:12:00`|`Counter-Strike 2`|
 |[seo64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/662767-seo64.html)|`2024-11-13 07:02:00`|`Team Fortress 2`|
 |[New external ESP SoT Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/581265-external-esp-sot-helper.html)|`2024-11-13 06:58:00`|`Sea of Thieves`|
