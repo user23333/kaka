@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AI Aimbot & Triggerbot, Fast & Accurate &#40;works on every shooter games&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671029-ai-aimbot-triggerbot-fast-accurate-shooter-games.html)|`2024-11-12 20:10:00`|`Rainbow Six Siege`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2024-11-12 20:09:00`|`Counter-Strike 2`|
+|[How To Max Skill In Gta V Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671802-max-skill-gta-online.html)|`2024-11-12 20:06:00`|`Grand Theft Auto V`|
 |[ELSWORD NA HACK FREE &#45; KMZ ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/670531-elsword-na-hack-free-kmz-engine.html)|`2024-11-12 19:51:00`|`Other MMORPG and Strategy`|
 |[FOTD Harpoon Failure](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/671633-fotd-harpoon-failure.html)|`2024-11-12 19:48:00`|`Sea of Thieves`|
 |[rejoin previous server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668811-rejoin-previous-server.html)|`2024-11-12 19:16:00`|`Counter-Strike 2`|
