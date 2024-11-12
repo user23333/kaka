@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FOTD Harpoon Failure](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/671633-fotd-harpoon-failure.html)|`2024-11-13 00:53:00`|`Sea of Thieves`|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2024-11-13 00:53:00`|`Grand Theft Auto V`|
+|[PUBG DMA cheat source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/667961-pubg-dma-cheat-source-code.html)|`2024-11-13 00:53:00`|`Playerunknown's Battlegrounds`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-11-13 00:53:00`|`Playerunknown's Battlegrounds`|
+|[AHK GUI Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/480065-ahk-gui-aimbot.html)|`2024-11-13 00:52:00`|`Halo`|
+|[Easy cheats in growtopia for beginners](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/663649-easy-cheats-growtopia-beginners.html)|`2024-11-13 00:51:00`|`Other MMORPG and Strategy`|
 |[ETW Keyboard Manipulation Detection through USB packets&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/663333-etw-keyboard-manipulation-detection-usb-packets.html)|`2024-11-13 00:47:00`|`Anti-Cheat Bypass`|
 |[Rust scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/671542-rust-scripts.html)|`2024-11-13 00:42:00`|`Rust`|
 |[Max level, samples, medals and requisitions&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/634711-max-level-samples-medals-requisitions.html)|`2024-11-13 00:39:00`|`HELLDIVERS 2`|
