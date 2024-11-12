@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2024-11-12 23:28:00`|`Other FPS Games`|
+|[How to Unlock everything in Los santos custom](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671832-unlock-los-santos-custom.html)|`2024-11-12 23:23:00`|`Grand Theft Auto V`|
 |[Trying to make Python aim assist colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/671829-trying-python-aim-assist-colorbot.html)|`2024-11-12 23:02:00`|`Valorant`|
 |[Rust Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/452384-rust-scripting.html)|`2024-11-12 22:51:00`|`Rust`|
 |[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2024-11-12 22:51:00`|`Grand Theft Auto V`|
