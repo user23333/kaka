@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2024-11-13 06:39:00`|`Palia`|
+|[AFK Bot Lobby Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670285-afk-bot-lobby-guide.html)|`2024-11-13 06:37:00`|`Call of Duty: Black Ops 6`|
 |[How to Unlock everything in Los santos custom](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671832-unlock-los-santos-custom.html)|`2024-11-13 06:24:00`|`Grand Theft Auto V`|
 |[How to Fix TPM Ban easily &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/626786-fix-tpm-ban-easily.html)|`2024-11-13 06:07:00`|`Valorant`|
 |[Help with internal pattern scanner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/671898-help-internal-pattern-scanner.html)|`2024-11-13 06:04:00`|`General Programming and Reversing`|
