@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2024-11-13 05:35:00`|`Valorant`|
+|[Help ineed VNG SDK 32BIT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/671887-help-ineed-vng-sdk-32bit.html)|`2024-11-13 05:34:00`|`PUBG Mobile`|
+|[find ipadview, ultra hdr 120fps and less recoil offset &#40;pubg 3&#46;5 32bit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/671800-ipadview-ultra-hdr-120fps-recoil-offset-pubg-3-5-32bit.html)|`2024-11-13 05:24:00`|`PUBG Mobile`|
 |[manual reviews](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/671314-manual-reviews.html)|`2024-11-13 05:13:00`|`Valorant`|
 |[Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/636558-cheat-engine-table.html)|`2024-11-13 05:13:00`|`HELLDIVERS 2`|
 |[Broken Arrow &#43;4 trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/623538-broken-arrow-4-trainer.html)|`2024-11-13 04:59:00`|`Other MMORPG and Strategy`|
