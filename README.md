@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anti X&#45;Ray bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/666931-anti-ray-bypass.html)|`2024-11-12 17:58:00`|`Minecraft`|
+|[Lag Switch DayZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/669049-lag-switch-dayz.html)|`2024-11-12 17:58:00`|`DayZ SA`|
 |[Vanguard Spoofer &#124; No Windows Reset &#124; V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/589803-vanguard-spoofer-windows-reset-v2.html)|`2024-11-12 17:17:00`|`Valorant`|
 |[BO6 DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670998-bo6-dma-esp.html)|`2024-11-12 16:53:00`|`Call of Duty: Black Ops 6`|
 |[Multiple instances of steam/cs2 WITHOUT sandboxing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666875-multiple-instances-steam-cs2-sandboxing.html)|`2024-11-12 16:50:00`|`Counter-Strike 2`|
