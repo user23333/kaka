@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Plz Help Crash Fix x64 bit Global](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/671924-plz-help-crash-fix-x64-bit-global.html)|`2024-11-13 11:20:00`|`PUBG Mobile`|
 |[PUBG GLOBAL 3&#46;5&#46;0  SDK &#124;&#124; Offsets😊😊](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/671919-pubg-global-3-5-0-sdk-offsets.html)|`2024-11-13 11:01:00`|`PUBG Mobile`|
 |[All Mouse NoRecoil &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-recoil-helpy-auto-config-probably-ud-universal.html)|`2024-11-13 11:01:00`|`Rainbow Six Siege`|
 |[Battlefield 4 Boost Server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/654134-battlefield-4-boost-server.html)|`2024-11-13 09:58:00`|`Battlefield 4`|
