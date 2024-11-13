@@ -29,9 +29,11 @@
 |1|[BrighterShores&#45;2024&#45;11&#45;07](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47506)|`2024-11-13 03:52:35`|
 |1|[ApexArduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47510)|`2024-11-13 04:15:37`|
 |3|[Stupid&#46;Solutions v3&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47507)|`2024-11-13 07:37:46`|
+|1|[Zombies Aim Assist v1&#46;1 AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47552)|`2024-11-13 18:55:06`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Fake Players](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/671946-fivem-fake-players.html)|`2024-11-13 18:52:00`|`Alternative Online Mods`|
 |[Spoofing Nvidia's UUID &#40;kernel &#45; hookless&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/575441-spoofing-nvidias-uuid-kernel-hookless.html)|`2024-11-13 18:44:00`|`Anti-Cheat Bypass`|
 |[Apex Legends universal weapons anti recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662808-apex-legends-universal-weapons-anti-recoil.html)|`2024-11-13 18:09:00`|`Apex Legends`|
 |[Modded Lobbies like Cold War in BO6?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671687-modded-lobbies-cold-war-bo6.html)|`2024-11-13 18:01:00`|`Call of Duty: Black Ops 6`|
