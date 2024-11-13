@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[overwatch hardware ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/668410-overwatch-hardware-ban.html)|`2024-11-14 03:25:00`|`Overwatch`|
 |[Reference how to make an aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/672017-reference-aimbot.html)|`2024-11-14 03:20:00`|`Programming for Beginners`|
 |[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-11-14 03:19:00`|`Overwatch`|
 |[Hiding driver from EAC memory scan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671858-hiding-driver-eac-memory-scan.html)|`2024-11-14 03:15:00`|`Anti-Cheat Bypass`|
