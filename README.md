@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBGM 32BIT Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/671770-pubgm-32bit-offsets.html)|`2024-11-14 06:44:00`|`PUBG Mobile`|
+|[Anti&#45;Revolver Crasher &#40;R8 FIX&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672068-anti-revolver-crasher-r8-fix.html)|`2024-11-14 06:44:00`|`Counter-Strike 2`|
+|[PUBG GLOBAL 3&#46;5&#46;0  SDK &#124;&#124; Offsets😊😊](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/671919-pubg-global-3-5-0-sdk-offsets.html)|`2024-11-14 06:44:00`|`PUBG Mobile`|
 |[Integrating Forge API and Event&#45;Based Functionalities in Executable JAR with Lunar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/671580-integrating-forge-api-event-based-functionalities-executable-jar-lunar.html)|`2024-11-14 06:36:00`|`Minecraft`|
 |[Josh's Aim Assist V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670254-joshs-aim-assist-v1.html)|`2024-11-14 06:28:00`|`Call of Duty: Black Ops 6`|
 |[SCP SL Cheat v13&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/611154-scp-sl-cheat-v13-3-1-a.html)|`2024-11-14 06:25:00`|`Other Games`|
