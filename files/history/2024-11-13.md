@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBGM VNG 32BIT 3&#46;5 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/671931-pubgm-vng-32bit-3-5-offsets.html)|`2024-11-13 13:26:00`|`PUBG Mobile`|
 |[Fishing planet money/xp cheats for 5&#46;0&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/654709-fishing-planet-money-xp-cheats-5-0-5-a.html)|`2024-11-13 13:02:00`|`Other Games`|
 |[Helldivers 2&#45;&#45;AHK Stratagems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/625227-helldivers-2-ahk-stratagems.html)|`2024-11-13 12:42:00`|`HELLDIVERS 2`|
 |[Fivem Aimbot Cheat &#43; pedLights](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/671402-fivem-aimbot-cheat-pedlights.html)|`2024-11-13 12:30:00`|`Alternative Online Mods`|
