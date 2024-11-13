@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat Master CE Godmode, MEGA XP, Instant Weapon/Player Max Level, Attachment Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/583715-combat-master-ce-godmode-mega-xp-instant-weapon-player-max-level-attachment-mod.html)|`2024-11-14 04:27:00`|`Combat Master`|
+|[Campaign Money/Other Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669561-campaign-money-cheats.html)|`2024-11-14 04:10:00`|`Call of Duty: Black Ops 6`|
 |[Not working bhop &#91;Internal&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672027-bhop-internal.html)|`2024-11-14 04:15:00`|`Counter-Strike 2`|
 |[&#40;DMA&#41; Black Ops 6: Fuser ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670830-dma-black-ops-6-fuser-esp.html)|`2024-11-14 04:13:00`|`Call of Duty: Black Ops 6`|
 |[how do i begin making cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/671838-begin-cheats.html)|`2024-11-14 04:12:00`|`Valorant`|
