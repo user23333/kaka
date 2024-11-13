@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League of Legends&#46;exe "Path: &#91;Access is denied&#46;&#93;"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/672040-league-legends-exe-path-access-denied.html)|`2024-11-14 04:56:00`|`League of Legends`|
+|[DMA cheats make my pc crash/lag hard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/664585-dma-cheats-pc-crash-lag-hard.html)|`2024-11-14 04:56:00`|`PC Hardware`|
 |[Odin v4 For Windows 11 24H2/23H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/670695-odin-v4-windows-11-24h2-23h2.html)|`2024-11-14 04:45:00`|`Paladins`|
 |[Combat Master CE Godmode, MEGA XP, Instant Weapon/Player Max Level, Attachment Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/583715-combat-master-ce-godmode-mega-xp-instant-weapon-player-max-level-attachment-mod.html)|`2024-11-14 04:27:00`|`Combat Master`|
 |[Campaign Money/Other Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669561-campaign-money-cheats.html)|`2024-11-14 04:10:00`|`Call of Duty: Black Ops 6`|
