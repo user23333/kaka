@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Blackops 6 Python AFK Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671058-blackops-6-python-afk-bot.html)|`2024-11-14 06:56:00`|`Call of Duty: Black Ops 6`|
 |[Help with internal pattern scanner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/671898-help-internal-pattern-scanner.html)|`2024-11-14 06:54:00`|`General Programming and Reversing`|
 |[find ipadview, ultra hdr 120fps and less recoil offset &#40;pubg 3&#46;5 32bit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/671800-ipadview-ultra-hdr-120fps-recoil-offset-pubg-3-5-32bit.html)|`2024-11-14 06:51:00`|`PUBG Mobile`|
 |[LoL Skin Changer Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/672057-lol-skin-changer-undetected.html)|`2024-11-14 06:47:00`|`League of Legends`|
