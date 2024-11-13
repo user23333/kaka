@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Blackops 6 Python AFK Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671058-blackops-6-python-afk-bot.html)|`2024-11-13 19:32:00`|`Call of Duty: Black Ops 6`|
+|[Best language for coding a cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/671287-language-coding-cheat.html)|`2024-11-13 19:28:00`|`Programming for Beginners`|
 |[Rust &#124; Ban Discussion Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/469369-rust-ban-discussion-thread.html)|`2024-11-13 19:24:00`|`Rust`|
 |[is it possible to make Twisted Fate W triggerbot/Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/671595-twisted-fate-triggerbot-colorbot.html)|`2024-11-13 19:14:00`|`League of Legends`|
 |[Zodiak &#45; Fastcup Full Kernel Driver Cheat v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/665011-zodiak-fastcup-kernel-driver-cheat-v2.html)|`2024-11-13 18:55:00`|`CounterStrike 1.5, 1.6 and Mods`|
