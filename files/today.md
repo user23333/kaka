@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pixel Gun 3D internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/638262-pixel-gun-3d-internal-cheat.html)|`2024-11-14 05:34:00`|`Other FPS Games`|
+|[PUNGM 3&#46;5 Magic Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/671795-pungm-3-5-magic-update.html)|`2024-11-14 05:34:00`|`PUBG Mobile`|
+|[Unturned Server Unbanner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/624278-unturned-server-unbanner.html)|`2024-11-14 05:33:00`|`Other FPS Games`|
+|[Zombies Terminus strat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671554-zombies-terminus-strat.html)|`2024-11-14 05:26:00`|`Call of Duty: Black Ops 6`|
+|[Boosting/Bot Lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669805-boosting-bot-lobbies.html)|`2024-11-14 05:25:00`|`Call of Duty: Black Ops 6`|
 |[Troll cheat &#40;Restart any online lobby&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/671769-troll-cheat-restart-online-lobby.html)|`2024-11-14 05:23:00`|`Payday 3`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-11-14 05:22:00`|`Apex Legends`|
 |[BO6 Enhanced Color Aim AHK GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671390-bo6-enhanced-color-aim-ahk-gui.html)|`2024-11-14 05:17:00`|`Call of Duty: Black Ops 6`|
