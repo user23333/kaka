@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[LoL Skin Changer Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/672057-lol-skin-changer-undetected.html)|`2024-11-14 06:47:00`|`League of Legends`|
 |[PUBGM 32BIT Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/671770-pubgm-32bit-offsets.html)|`2024-11-14 06:44:00`|`PUBG Mobile`|
 |[Anti&#45;Revolver Crasher &#40;R8 FIX&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672068-anti-revolver-crasher-r8-fix.html)|`2024-11-14 06:44:00`|`Counter-Strike 2`|
 |[PUBG GLOBAL 3&#46;5&#46;0  SDK &#124;&#124; Offsets😊😊](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/671919-pubg-global-3-5-0-sdk-offsets.html)|`2024-11-14 06:44:00`|`PUBG Mobile`|
