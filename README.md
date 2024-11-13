@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cs2 close handle &#40;Mutex&#41; project files?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671991-cs2-close-handle-mutex-project-files.html)|`2024-11-14 07:24:00`|`Counter-Strike 2`|
+|[Thread for Posting Pve Exploits &#40;software free&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/647317-thread-posting-pve-exploits-software-free.html)|`2024-11-14 07:22:00`|`Escape from Tarkov`|
+|[The Ultimate Ultimate DMA Newbie Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/638326-ultimate-ultimate-dma-newbie-guide.html)|`2024-11-14 07:19:00`|`PC Hardware`|
 |[Blackops 6 Python AFK Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671058-blackops-6-python-afk-bot.html)|`2024-11-14 06:56:00`|`Call of Duty: Black Ops 6`|
 |[Help with internal pattern scanner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/671898-help-internal-pattern-scanner.html)|`2024-11-14 06:54:00`|`General Programming and Reversing`|
 |[find ipadview, ultra hdr 120fps and less recoil offset &#40;pubg 3&#46;5 32bit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/671800-ipadview-ultra-hdr-120fps-recoil-offset-pubg-3-5-32bit.html)|`2024-11-14 06:51:00`|`PUBG Mobile`|
