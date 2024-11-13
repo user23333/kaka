@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Source 2 SDK Generator Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/670820-source-2-sdk-generator-tool.html)|`2024-11-14 02:45:00`|`Counter-Strike 2`|
+|[New EAC/Fortnite internal AC CheatEngine detection method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/672005-eac-fortnite-internal-ac-cheatengine-detection-method.html)|`2024-11-14 02:34:00`|`Anti-Cheat Bypass`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2024-11-14 02:28:00`|`Grand Theft Auto V`|
 |[script lua rapidefire](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671571-script-lua-rapidefire.html)|`2024-11-14 02:24:00`|`Call of Duty: Black Ops 6`|
 |[&#35;FREETRUMP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/672000-freetrump.html)|`2024-11-14 02:21:00`|`Off Topic`|
