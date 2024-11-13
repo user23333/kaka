@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670871-dma.html)|`2024-11-14 07:50:00`|`Anti-Cheat Bypass`|
+|[Incorrect entity names for entity/dropped item esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671933-incorrect-entity-names-entity-dropped-item-esp.html)|`2024-11-14 07:47:00`|`Counter-Strike 2`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-11-14 07:27:00`|`Playerunknown's Battlegrounds`|
 |[cs2 close handle &#40;Mutex&#41; project files?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671991-cs2-close-handle-mutex-project-files.html)|`2024-11-14 07:24:00`|`Counter-Strike 2`|
 |[Thread for Posting Pve Exploits &#40;software free&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/647317-thread-posting-pve-exploits-software-free.html)|`2024-11-14 07:22:00`|`Escape from Tarkov`|
