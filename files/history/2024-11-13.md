@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Battlefield 4 Boost Server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/654134-battlefield-4-boost-server.html)|`2024-11-13 09:58:00`|`Battlefield 4`|
+|[Is Hyperhook not working anymore?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/670995-hyperhook-anymore.html)|`2024-11-13 09:53:00`|`Battlefield 4`|
+|[BO6 Bot Lobby with Consoles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671902-bo6-bot-lobby-consoles.html)|`2024-11-13 09:42:00`|`Call of Duty: Black Ops 6`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2024-11-13 09:40:00`|`Phasmophobia`|
 |[Zombies Aim Assist By ChatGPT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671910-zombies-aim-assist-chatgpt.html)|`2024-11-13 08:37:00`|`Call of Duty: Black Ops 6`|
 |[Risk of Rain 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/669262-risk-rain-2-a.html)|`2024-11-13 08:37:00`|`Unity`|
 |[indicators fonts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/671545-indicators-fonts.html)|`2024-11-13 08:24:00`|`Counterstrike Global Offensive`|
