@@ -14,6 +14,7 @@
 |4|[Call of Duty Options Editor BO6 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671448-call-duty-options-editor-bo6-update.html)|`2024-11-14 02:11:03`|`call-of-duty-black-ops-6-a`|
 |17|[Hiding driver from EAC memory scan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671858-hiding-driver-eac-memory-scan.html)|`2024-11-14 06:38:41`|`anti-cheat-bypass`|
 |25|[Worth Creating a System thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671098-worth-creating-system-thread.html)|`2024-11-14 21:03:38`|`anti-cheat-bypass`|
+|20|[External Offsets 3&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/671620-external-offsets-3-5-a.html)|`2024-11-14 23:57:20`|`pubg-mobile`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
