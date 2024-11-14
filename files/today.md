@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Way Of The Hunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/632584-hunter.html)|`2024-11-14 14:55:00`|`Other Games`|
 |[Python Image bot for Brighter Shores &#40;Old Chests Gold&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/672090-python-image-bot-brighter-shores-chests-gold.html)|`2024-11-14 14:36:00`|`Other MMORPG and Strategy`|
 |[Reverse boosting patched ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670973-reverse-boosting-patched.html)|`2024-11-14 14:20:00`|`Call of Duty: Black Ops 6`|
 |[COD CP exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/616611-cod-cp-exploit.html)|`2024-11-14 14:14:00`|`Call of Duty: Black Ops 6`|
