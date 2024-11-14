@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[on hvci，3 minutes, ineffective](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/672138-hvci-3-minutes-ineffective.html)|`2024-11-14 23:03:00`|`Valorant`|
+|[Vng sdk 3&#46;5 enjoy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/672136-vng-sdk-3-5-enjoy.html)|`2024-11-14 22:58:00`|`PUBG Mobile`|
 |[How to Unlock everything in Los santos custom](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671832-unlock-los-santos-custom.html)|`2024-11-14 22:30:00`|`Grand Theft Auto V`|
 |[Retrieve message from steam &#40; cgccl &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672132-retrieve-message-steam-cgccl.html)|`2024-11-14 21:52:00`|`Counter-Strike 2`|
 |[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2024-11-14 21:16:00`|`Other FPS Games`|
