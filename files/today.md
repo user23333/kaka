@@ -12,6 +12,7 @@
 |25|[Worth Creating a System thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671098-worth-creating-system-thread.html)|`2024-11-15 00:15:42`|`anti-cheat-bypass`|
 |20|[External Offsets 3&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/671620-external-offsets-3-5-a.html)|`2024-11-15 00:15:42`|`pubg-mobile`|
 |7|[Zombies Terminus strat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671554-zombies-terminus-strat.html)|`2024-11-15 01:44:52`|`call-of-duty-black-ops-6-a`|
+|8|[Fivem Aimbot Cheat &#43; pedLights](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/671402-fivem-aimbot-cheat-pedlights.html)|`2024-11-15 03:36:50`|`alternative-online-mods`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
