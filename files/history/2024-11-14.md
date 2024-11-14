@@ -13,6 +13,7 @@
 |6|[Bypassing BO6 ANTICHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670968-bypassing-bo6-anticheat.html)|`2024-11-14 00:21:11`|`call-of-duty-black-ops-6-a`|
 |4|[Call of Duty Options Editor BO6 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671448-call-duty-options-editor-bo6-update.html)|`2024-11-14 02:11:03`|`call-of-duty-black-ops-6-a`|
 |17|[Hiding driver from EAC memory scan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671858-hiding-driver-eac-memory-scan.html)|`2024-11-14 06:38:41`|`anti-cheat-bypass`|
+|25|[Worth Creating a System thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671098-worth-creating-system-thread.html)|`2024-11-14 21:03:38`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mordhau cheat &#124;&#124; Patch &#35;28](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/612663-mordhau-cheat-patch-28-a.html)|`2024-11-14 20:47:00`|`Other FPS Games`|
+|[Reversing Brighter Shores](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/672125-reversing-brighter-shores.html)|`2024-11-14 20:41:00`|`Other MMORPG and Strategy`|
 |[Brighter Shores Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/670902-brighter-shores-reversal-structs-offsets.html)|`2024-11-14 20:28:00`|`Other MMORPG and Strategy`|
 |[Ban 10 &#40;offline&#41; years need fix &#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/672120-ban-10-offline-fix.html)|`2024-11-14 19:54:00`|`PUBG Mobile`|
 |[Fast Valorant Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669778-fast-valorant-triggerbot.html)|`2024-11-14 19:32:00`|`Valorant`|
