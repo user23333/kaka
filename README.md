@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AI Aimbot & Triggerbot, Fast & Accurate &#40;works on every shooter games&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671029-ai-aimbot-triggerbot-fast-accurate-shooter-games.html)|`2024-11-15 00:48:00`|`Rainbow Six Siege`|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2024-11-15 00:37:00`|`Farlight 84`|
+|[👽 VALORANT Skin Changer &#40;Just Inject it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/517551-valorant-skin-changer-inject.html)|`2024-11-15 00:25:00`|`Valorant`|
 |[PUBG GLOBAL 3&#46;5&#46;0  SDK &#124;&#124; Offsets😊😊](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/671919-pubg-global-3-5-0-sdk-offsets.html)|`2024-11-15 00:34:00`|`PUBG Mobile`|
 |[is Arduino really UD?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/672146-arduino-ud.html)|`2024-11-15 00:33:00`|`Valorant`|
 |[OV3RSW33T: AN OVERWAT Pack: Reborn & Recoded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/603412-ov3rsw33t-overwat-pack-reborn-recoded.html)|`2024-11-15 00:27:00`|`Overwatch`|
