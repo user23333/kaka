@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Introduction to Unreal Engine Game Hacking&#33; Part 1: GWorld, GObjects, GNames, & SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/672085-introduction-unreal-engine-game-hacking-1-gworld-gobjects-gnames-sdk.html)|`2024-11-14 13:31:00`|`Unreal Engine 4`|
+|[Bot Lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671060-bot-lobby.html)|`2024-11-14 13:26:00`|`Call of Duty: Black Ops 6`|
 |[Client functions hooking exploiting the LTFX Slots ptr](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/210856-client-functions-hooking-exploiting-ltfx-slots-ptr.html)|`2024-11-14 12:50:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Vng Sdk 3&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/672082-vng-sdk-3-5-a.html)|`2024-11-14 11:54:00`|`PUBG Mobile`|
 |[👽 VALORANT Skin Changer &#40;Just Inject it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/517551-valorant-skin-changer-inject.html)|`2024-11-14 11:37:00`|`Valorant`|
