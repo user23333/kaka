@@ -13,6 +13,7 @@
 |20|[External Offsets 3&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/671620-external-offsets-3-5-a.html)|`2024-11-15 00:15:42`|`pubg-mobile`|
 |7|[Zombies Terminus strat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671554-zombies-terminus-strat.html)|`2024-11-15 01:44:52`|`call-of-duty-black-ops-6-a`|
 |8|[Fivem Aimbot Cheat &#43; pedLights](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/671402-fivem-aimbot-cheat-pedlights.html)|`2024-11-15 03:36:50`|`alternative-online-mods`|
+|7|[Bot Lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671060-bot-lobby.html)|`2024-11-15 07:25:52`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Zombies Aim Assist By ChatGPT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671910-zombies-aim-assist-chatgpt.html)|`2024-11-15 07:21:00`|`Call of Duty: Black Ops 6`|
+|[BO6 Color Aim Assist &#40;W&#46;I&#46;P&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671984-bo6-color-aim-assist.html)|`2024-11-15 07:19:00`|`Call of Duty: Black Ops 6`|
+|[Questions about arduino setup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/672217-questions-arduino-setup.html)|`2024-11-15 07:10:00`|`Valorant`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2024-11-15 06:48:00`|`Other FPS Games`|
 |[Full combat master Il2cpp dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/672209-combat-master-il2cpp-dump.html)|`2024-11-15 06:12:00`|`Combat Master`|
 |[how to fix &#40; grenade esp &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671962-fix-grenade-esp.html)|`2024-11-15 06:08:00`|`Counter-Strike 2`|
