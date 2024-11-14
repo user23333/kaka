@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to Unlock everything in Los santos custom](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671832-unlock-los-santos-custom.html)|`2024-11-15 05:50:00`|`Grand Theft Auto V`|
+|[Retrieve message from steam &#40; cgccl &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672132-retrieve-message-steam-cgccl.html)|`2024-11-15 05:48:00`|`Counter-Strike 2`|
 |[Map radar images](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672204-map-radar-images.html)|`2024-11-15 05:20:00`|`Counter-Strike 2`|
 |[is it possible to make Twisted Fate W triggerbot/Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/671595-twisted-fate-triggerbot-colorbot.html)|`2024-11-15 05:11:00`|`League of Legends`|
 |[League of Legends&#46;exe "Path: &#91;Access is denied&#46;&#93;"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/672040-league-legends-exe-path-access-denied.html)|`2024-11-15 05:09:00`|`League of Legends`|
