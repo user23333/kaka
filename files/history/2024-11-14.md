@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to find the cursor &#40;for a trigger&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/658668-cursor-trigger.html)|`2024-11-14 18:14:00`|`All Points Bulletin`|
 |[DMA Related Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/671678-dma-related-question.html)|`2024-11-14 17:39:00`|`Forum General`|
 |[Get player names externaly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/671955-player-names-externaly.html)|`2024-11-14 17:38:00`|`Garry's Mod`|
 |[I need SDK Kr 32bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/672110-sdk-kr-32bit.html)|`2024-11-14 17:36:00`|`PUBG Mobile`|
