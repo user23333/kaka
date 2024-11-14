@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[3&#46;5 GLOBAL GWorld GName](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/672176-3-5-global-gworld-gname.html)|`2024-11-15 02:46:00`|`PUBG Mobile`|
+|[VGK obfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671176-vgk-obfuscation.html)|`2024-11-15 02:45:00`|`Anti-Cheat Bypass`|
 |[Sword Art Online: Integral Factor &#43;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/636191-sword-art-online-integral-factor-3-a.html)|`2024-11-15 02:36:00`|`Other MMORPG and Strategy`|
 |[BO6 DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670998-bo6-dma-esp.html)|`2024-11-15 02:24:00`|`Call of Duty: Black Ops 6`|
 |[Yet Another Trigger Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/672144-trigger-bot.html)|`2024-11-15 02:23:00`|`Valorant`|
