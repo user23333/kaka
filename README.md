@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New EAC/Fortnite internal AC CheatEngine detection method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/672005-eac-fortnite-internal-ac-cheatengine-detection-method.html)|`2024-11-15 07:35:00`|`Anti-Cheat Bypass`|
 |[Zombies Aim Assist By ChatGPT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671910-zombies-aim-assist-chatgpt.html)|`2024-11-15 07:21:00`|`Call of Duty: Black Ops 6`|
 |[BO6 Color Aim Assist &#40;W&#46;I&#46;P&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671984-bo6-color-aim-assist.html)|`2024-11-15 07:19:00`|`Call of Duty: Black Ops 6`|
 |[Questions about arduino setup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/672217-questions-arduino-setup.html)|`2024-11-15 07:10:00`|`Valorant`|
