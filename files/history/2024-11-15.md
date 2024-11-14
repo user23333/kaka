@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Full combat master Il2cpp dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/672209-combat-master-il2cpp-dump.html)|`2024-11-15 06:12:00`|`Combat Master`|
+|[how to fix &#40; grenade esp &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671962-fix-grenade-esp.html)|`2024-11-15 06:08:00`|`Counter-Strike 2`|
+|[Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671590-skin-changer.html)|`2024-11-15 06:01:00`|`Counter-Strike 2`|
+|[afk bot for reverse boosting and farm xp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672208-afk-bot-reverse-boosting-farm-xp.html)|`2024-11-15 05:59:00`|`Call of Duty: Black Ops 6`|
 |[How to Unlock everything in Los santos custom](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671832-unlock-los-santos-custom.html)|`2024-11-15 05:50:00`|`Grand Theft Auto V`|
 |[Retrieve message from steam &#40; cgccl &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672132-retrieve-message-steam-cgccl.html)|`2024-11-15 05:48:00`|`Counter-Strike 2`|
 |[Map radar images](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672204-map-radar-images.html)|`2024-11-15 05:20:00`|`Counter-Strike 2`|
