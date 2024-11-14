@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG GLOBAL 3&#46;5&#46;0  SDK &#124;&#124; Offsets😊😊](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/671919-pubg-global-3-5-0-sdk-offsets.html)|`2024-11-15 00:34:00`|`PUBG Mobile`|
+|[is Arduino really UD?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/672146-arduino-ud.html)|`2024-11-15 00:33:00`|`Valorant`|
+|[OV3RSW33T: AN OVERWAT Pack: Reborn & Recoded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/603412-ov3rsw33t-overwat-pack-reborn-recoded.html)|`2024-11-15 00:27:00`|`Overwatch`|
+|[PUBLIC BOT LOBBY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669841-public-bot-lobby.html)|`2024-11-15 00:17:00`|`Call of Duty: Black Ops 6`|
+|[Tricking vgc to bypass the pop&#45;up](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/671978-tricking-vgc-bypass-pop.html)|`2024-11-15 00:16:00`|`Valorant`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-11-15 00:15:00`|`Rust`|
 |[F1 23 Online &#45; FULL BYPASS &#45; ENGINE POWER / GRIP HACK AND MORE&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/566121-f1-23-online-bypass-engine-power-grip-hack.html)|`2024-11-15 00:11:00`|`Other Games`|
 |[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2024-11-15 00:10:00`|`Other FPS Games`|
