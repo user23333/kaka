@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Get player names externaly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/671955-player-names-externaly.html)|`2024-11-14 17:38:00`|`Garry's Mod`|
+|[I need SDK Kr 32bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/672110-sdk-kr-32bit.html)|`2024-11-14 17:36:00`|`PUBG Mobile`|
 |[Red Dead Redemption 1 Cheat Table &#91;PC&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/672109-red-dead-redemption-1-cheat-table-pc.html)|`2024-11-14 17:32:00`|`Cheat Engine Tables`|
 |[PUBG MOBILE NEW EVENT Entity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/671937-pubg-mobile-event-entity.html)|`2024-11-14 17:08:00`|`PUBG Mobile`|
 |[KMBox Net not working with my mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/672099-kmbox-net-mouse.html)|`2024-11-14 17:07:00`|`Forum General`|
