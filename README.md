@@ -26,9 +26,11 @@
 |5|[Host Restart](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47549)|`2024-11-15 00:15:42`|
 |69|[stcheattable v1&#46;6&#46;5 &#45; by SpionQuark](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47537)|`2024-11-15 00:15:42`|
 |131|[Fivem Aimbot ahk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47531)|`2024-11-15 00:15:42`|
+|2|[Fortnite 32&#46;10&#95;37958378 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47565)|`2024-11-15 06:49:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2024-11-15 06:48:00`|`Other FPS Games`|
 |[Full combat master Il2cpp dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/672209-combat-master-il2cpp-dump.html)|`2024-11-15 06:12:00`|`Combat Master`|
 |[how to fix &#40; grenade esp &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671962-fix-grenade-esp.html)|`2024-11-15 06:08:00`|`Counter-Strike 2`|
 |[Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671590-skin-changer.html)|`2024-11-15 06:01:00`|`Counter-Strike 2`|
