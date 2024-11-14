@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG MOBILE NEW EVENT Entity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/671937-pubg-mobile-event-entity.html)|`2024-11-14 17:08:00`|`PUBG Mobile`|
+|[KMBox Net not working with my mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/672099-kmbox-net-mouse.html)|`2024-11-14 17:07:00`|`Forum General`|
 |[RLMarlbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/633336-rlmarlbot.html)|`2024-11-14 16:53:00`|`Other Games`|
 |[The Truth Bar Menu &#45; V0&#46;1 &#124; Liar's bar internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667906-truth-bar-menu-v0-1-liars-bar-internal-cheat.html)|`2024-11-14 16:53:00`|`Other Games`|
 |[arduino mouse compatibility](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671681-arduino-mouse-compatibility.html)|`2024-11-14 16:52:00`|`Anti-Cheat Bypass`|
