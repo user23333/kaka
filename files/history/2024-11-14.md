@@ -32,9 +32,12 @@
 |2|[warthunder&#95;unlocker&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47516)|`2024-11-14 05:10:44`|
 |1|[Force Restart](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47550)|`2024-11-14 05:24:48`|
 |1|[Host Restart](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47549)|`2024-11-14 05:24:48`|
+|1|[Red Dead Redemption 1 Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47563)|`2024-11-14 23:38:34`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Yet Another Trigger Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/672144-trigger-bot.html)|`2024-11-14 23:31:00`|`Valorant`|
+|[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2024-11-14 23:29:00`|`Escape from Tarkov`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2024-11-14 23:25:00`|`Other FPS Games`|
 |[Can I invite Non&#45;BE players to my heist?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/672140-invite-players-heist.html)|`2024-11-14 23:22:00`|`Grand Theft Auto V`|
 |[Skin Replacements](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/650683-skin-replacements.html)|`2024-11-14 23:17:00`|`All Points Bulletin`|
