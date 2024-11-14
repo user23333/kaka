@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Map radar images](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672204-map-radar-images.html)|`2024-11-15 05:20:00`|`Counter-Strike 2`|
+|[is it possible to make Twisted Fate W triggerbot/Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/671595-twisted-fate-triggerbot-colorbot.html)|`2024-11-15 05:11:00`|`League of Legends`|
 |[League of Legends&#46;exe "Path: &#91;Access is denied&#46;&#93;"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/672040-league-legends-exe-path-access-denied.html)|`2024-11-15 05:09:00`|`League of Legends`|
 |[How to Fix TPM Ban easily &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/626786-fix-tpm-ban-easily.html)|`2024-11-15 05:07:00`|`Valorant`|
 |[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-11-15 04:57:00`|`Other Games`|
