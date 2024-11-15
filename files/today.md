@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2024-11-16 01:19:00`|`Sea of Thieves`|
+|[New Jitter Aim CFG Stronger as JoyToKey and more&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/670324-jitter-aim-cfg-stronger-joytokey.html)|`2024-11-16 01:12:00`|`Apex Legends`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-11-16 01:09:00`|`Apex Legends`|
 |[Script Decompiler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/670292-script-decompiler.html)|`2024-11-16 01:02:00`|`Grand Theft Auto V`|
 |[Understanding how to make an unlock all](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671706-understanding-unlock.html)|`2024-11-16 01:01:00`|`Call of Duty: Black Ops 6`|
