@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GSC Decompiler/Compiler for Modern Warfare III](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/672347-gsc-decompiler-compiler-modern-warfare-iii.html)|`2024-11-15 20:52:00`|`Call of Duty: Modern Warfare III`|
+|[Liar’s Deck and Dice Cheat &#45; Full GUI Mod for Card & Dice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/668894-liar-deck-dice-cheat-gui-mod-card-dice.html)|`2024-11-15 20:42:00`|`Other Games`|
+|[Put benny's wheels in personal vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/376369-bennys-wheels-personal-vehicle.html)|`2024-11-15 20:42:00`|`Grand Theft Auto V`|
+|[Working L4D2 hack?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/664379-l4d2-hack.html)|`2024-11-15 20:21:00`|`Other FPS Games`|
 |[Kmbox NET Very slow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/672333-kmbox-net-slow.html)|`2024-11-15 19:52:00`|`Forum General`|
 |[Xenos injector v2&#46;3&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/124013-xenos-injector-v2-3-2-a.html)|`2024-11-15 19:50:00`|`General Programming and Reversing`|
 |[Firewall: Dropping/Discarding packets entirely blocking, no buffering/queueing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/672328-firewall-dropping-discarding-packets-entirely-blocking-buffering-queueing.html)|`2024-11-15 19:03:00`|`General Programming and Reversing`|
