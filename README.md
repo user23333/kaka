@@ -14,6 +14,7 @@
 |7|[Zombies Terminus strat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671554-zombies-terminus-strat.html)|`2024-11-15 01:44:52`|`call-of-duty-black-ops-6-a`|
 |8|[Fivem Aimbot Cheat &#43; pedLights](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/671402-fivem-aimbot-cheat-pedlights.html)|`2024-11-15 03:36:50`|`alternative-online-mods`|
 |7|[Bot Lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671060-bot-lobby.html)|`2024-11-15 07:25:52`|`call-of-duty-black-ops-6-a`|
+|8|[Liars bar Anti Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/671276-liars-bar-anti-cheat.html)|`2024-11-15 08:00:03`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
