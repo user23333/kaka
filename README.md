@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[uintptr&#95;t vs void&#42;/int&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/671080-uintptr_t-vs-void-int.html)|`2024-11-15 21:23:00`|`Programming for Beginners`|
 |[Fully setup my Arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/671911-setup-arduino.html)|`2024-11-15 21:08:00`|`Valorant`|
 |[TPM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/649260-tpm-spoofer.html)|`2024-11-15 20:53:00`|`Valorant`|
 |[GSC Decompiler/Compiler for Modern Warfare III](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/672347-gsc-decompiler-compiler-modern-warfare-iii.html)|`2024-11-15 20:52:00`|`Call of Duty: Modern Warfare III`|
