@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to use obs&#45;studio strafe macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/672376-obs-studio-strafe-macro.html)|`2024-11-15 23:52:00`|`Apex Legends`|
+|[Call of Duty Options Editor BO6 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671448-call-duty-options-editor-bo6-update.html)|`2024-11-15 23:49:00`|`Call of Duty: Black Ops 6`|
 |[Diablo 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/diablo-series/575478-diablo-4-reversal-structs-offsets.html)|`2024-11-15 23:39:00`|`Diablo Series`|
 |[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2024-11-15 23:32:00`|`Sea of Thieves`|
 |[Script Decompiler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/670292-script-decompiler.html)|`2024-11-15 23:09:00`|`Grand Theft Auto V`|
