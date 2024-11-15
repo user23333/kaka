@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty Options Editor BO6 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671448-call-duty-options-editor-bo6-update.html)|`2024-11-16 03:30:00`|`Call of Duty: Black Ops 6`|
+|[auto parry](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/671293-auto-parry.html)|`2024-11-16 03:30:00`|`Deadlock`|
 |[How can I change the health value using CE?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/666677-change-health-value-using-ce.html)|`2024-11-16 03:29:00`|`Minecraft`|
 |[Switcher menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671837-switcher-menu.html)|`2024-11-16 03:28:00`|`Grand Theft Auto V`|
 |[anti recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672415-anti-recoil.html)|`2024-11-16 03:26:00`|`Call of Duty: Black Ops 6`|
