@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Diablo 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/diablo-series/575478-diablo-4-reversal-structs-offsets.html)|`2024-11-15 23:39:00`|`Diablo Series`|
+|[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2024-11-15 23:32:00`|`Sea of Thieves`|
 |[Script Decompiler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/670292-script-decompiler.html)|`2024-11-15 23:09:00`|`Grand Theft Auto V`|
 |[How undetectable is making my own private cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671925-undetectable-own-private-cheat.html)|`2024-11-15 23:08:00`|`Rainbow Six Siege`|
 |[A more indepth ASUS motherboard spoofing guide&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/638105-indepth-asus-motherboard-spoofing-guide.html)|`2024-11-15 22:49:00`|`Valorant`|
