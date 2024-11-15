@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Firewall: Dropping/Discarding packets entirely blocking, no buffering/queueing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/672328-firewall-dropping-discarding-packets-entirely-blocking-buffering-queueing.html)|`2024-11-15 19:03:00`|`General Programming and Reversing`|
 |[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2024-11-15 18:54:00`|`Other FPS Games`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2024-11-15 18:44:00`|`DayZ SA`|
 |[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2024-11-15 18:42:00`|`Elite: Dangerous`|
