@@ -29,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[bo6 PDB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672408-bo6-pdb.html)|`2024-11-16 02:36:00`|`Call of Duty: Black Ops 6`|
+|[Problem writing to memory &#40;internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672390-writing-memory-internal.html)|`2024-11-16 02:33:00`|`Counter-Strike 2`|
+|[h4v0c Pizdarvanka](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/659041-h4v0c-pizdarvanka.html)|`2024-11-16 02:26:00`|`Other FPS Games`|
+|[Universal Injector PoC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/672405-universal-injector-poc.html)|`2024-11-16 02:20:00`|`Anti-Cheat Bypass`|
+|[Brighter Shores Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/670902-brighter-shores-reversal-structs-offsets.html)|`2024-11-16 02:16:00`|`Other MMORPG and Strategy`|
+|[AFK Bot Lobby Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670285-afk-bot-lobby-guide.html)|`2024-11-16 02:16:00`|`Call of Duty: Black Ops 6`|
+|[external dex for roblox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670469-external-dex-roblox.html)|`2024-11-16 02:16:00`|`Other Games`|
 |[Gunbound WC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/gunbound/672161-gunbound-wc.html)|`2024-11-16 02:13:00`|`Gunbound`|
 |[Kernel DA Tool &#43; Basic Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/669272-kernel-da-tool-basic-trainer.html)|`2024-11-16 02:09:00`|`Call of Duty: Black Ops Cold War`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-11-16 02:08:00`|`Rust`|
