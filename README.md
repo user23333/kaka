@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How does a resolver work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/671752-resolver.html)|`2024-11-15 13:16:00`|`Team Fortress 2`|
 |[Removing Money from self &#42;yim menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/672259-removing-money-self-yim-menu.html)|`2024-11-15 13:02:00`|`Grand Theft Auto V`|
 |[AHK crosshair and hold breath](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/672258-ahk-crosshair-hold-breath.html)|`2024-11-15 13:02:00`|`Escape from Tarkov`|
 |[New Achievement Manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/337663-achievement-manager.html)|`2024-11-15 12:41:00`|`Payday 2`|
