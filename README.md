@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[whats after assault cube](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/672321-whats-assault-cube.html)|`2024-11-15 18:28:00`|`Programming for Beginners`|
+|[How to find the cursor &#40;for a trigger&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/658668-cursor-trigger.html)|`2024-11-15 18:20:00`|`All Points Bulletin`|
+|[&#40;DMA&#41; Black Ops 6: Fuser ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670830-dma-black-ops-6-fuser-esp.html)|`2024-11-15 18:16:00`|`Call of Duty: Black Ops 6`|
 |[TX&#45;Admin Unban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/663968-tx-admin-unban.html)|`2024-11-15 17:59:00`|`Alternative Online Mods`|
 |[Hardware Spoof &#40;DLL&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/625205-hardware-spoof-dll.html)|`2024-11-15 17:58:00`|`Alternative Online Mods`|
 |[Load driver without detection?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671470-load-driver-detection.html)|`2024-11-15 17:44:00`|`Anti-Cheat Bypass`|
