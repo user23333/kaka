@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2024-11-15 13:59:00`|`Grand Theft Auto V`|
 |[DayZ 1&#46;21 &#45; 1&#46;24 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/634516-dayz-1-21-1-24-internal-cheat.html)|`2024-11-15 13:43:00`|`DayZ SA`|
 |[How does a resolver work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/671752-resolver.html)|`2024-11-15 13:16:00`|`Team Fortress 2`|
 |[Removing Money from self &#42;yim menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/672259-removing-money-self-yim-menu.html)|`2024-11-15 13:02:00`|`Grand Theft Auto V`|
