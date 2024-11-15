@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How can I change the health value using CE?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/666677-change-health-value-using-ce.html)|`2024-11-16 03:29:00`|`Minecraft`|
+|[Switcher menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671837-switcher-menu.html)|`2024-11-16 03:28:00`|`Grand Theft Auto V`|
+|[anti recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672415-anti-recoil.html)|`2024-11-16 03:26:00`|`Call of Duty: Black Ops 6`|
+|[FunClone &#45; x64 Function Cloner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671415-funclone-x64-function-cloner.html)|`2024-11-16 03:25:00`|`Anti-Cheat Bypass`|
 |[Mordhau cheat &#124;&#124; Patch &#35;28](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/612663-mordhau-cheat-patch-28-a.html)|`2024-11-16 03:23:00`|`Other FPS Games`|
 |[Steam Linking/Unlinking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671336-steam-linking-unlinking.html)|`2024-11-16 03:18:00`|`Grand Theft Auto V`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2024-11-16 03:13:00`|`Counter-Strike 2`|
