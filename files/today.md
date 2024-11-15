@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Where da cheatz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669214-da-cheatz.html)|`2024-11-16 02:44:00`|`Call of Duty: Black Ops 6`|
+|[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-11-16 02:42:00`|`Other Games`|
+|[Blackops 6 Python AFK Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671058-blackops-6-python-afk-bot.html)|`2024-11-16 02:40:00`|`Call of Duty: Black Ops 6`|
 |[bo6 PDB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672408-bo6-pdb.html)|`2024-11-16 02:36:00`|`Call of Duty: Black Ops 6`|
 |[Problem writing to memory &#40;internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672390-writing-memory-internal.html)|`2024-11-16 02:33:00`|`Counter-Strike 2`|
 |[h4v0c Pizdarvanka](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/659041-h4v0c-pizdarvanka.html)|`2024-11-16 02:26:00`|`Other FPS Games`|
