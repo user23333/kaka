@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2024-11-16 03:40:00`|`Escape from Tarkov`|
+|[Combat Master CE Godmode, MEGA XP, Instant Weapon/Player Max Level, Attachment Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/583715-combat-master-ce-godmode-mega-xp-instant-weapon-player-max-level-attachment-mod.html)|`2024-11-16 03:40:00`|`Combat Master`|
 |[Call of Duty Options Editor BO6 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671448-call-duty-options-editor-bo6-update.html)|`2024-11-16 03:30:00`|`Call of Duty: Black Ops 6`|
 |[auto parry](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/671293-auto-parry.html)|`2024-11-16 03:30:00`|`Deadlock`|
 |[How can I change the health value using CE?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/666677-change-health-value-using-ce.html)|`2024-11-16 03:29:00`|`Minecraft`|
