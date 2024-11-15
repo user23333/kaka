@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ash Echoes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/672252-ash-echoes.html)|`2024-11-15 12:37:00`|`Other MMORPG and Strategy`|
+|[How To Max Skill In Gta V Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671802-max-skill-gta-online.html)|`2024-11-15 12:23:00`|`Grand Theft Auto V`|
 |[Fedoraware is not open](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/672187-fedoraware.html)|`2024-11-15 12:20:00`|`Team Fortress 2`|
 |[Switcher menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671837-switcher-menu.html)|`2024-11-15 12:19:00`|`Grand Theft Auto V`|
 |[Can I invite Non&#45;BE players to my heist?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/672140-invite-players-heist.html)|`2024-11-15 12:15:00`|`Grand Theft Auto V`|
