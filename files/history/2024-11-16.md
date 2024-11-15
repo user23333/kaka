@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R/WPM Windows kernel driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670801-wpm-windows-kernel-driver.html)|`2024-11-16 00:40:00`|`Anti-Cheat Bypass`|
+|[24H2 Dma key states](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/672148-24h2-dma-key.html)|`2024-11-16 00:37:00`|`C and C++`|
+|[AHK crosshair and hold breath](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/672258-ahk-crosshair-hold-breath.html)|`2024-11-16 00:31:00`|`Escape from Tarkov`|
+|[Vanguard van 152, hard to eliminate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/672385-vanguard-van-152-hard-eliminate.html)|`2024-11-16 00:31:00`|`Valorant`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-11-16 00:31:00`|`Valorant`|
+|[MW3/WZ3 External Working Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/670337-mw3-wz3-external-base.html)|`2024-11-16 00:29:00`|`Call of Duty: Modern Warfare III`|
+|[Is the data I'm looking for there?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/659053-data-im-looking.html)|`2024-11-16 00:23:00`|`Call of Duty: Modern Warfare III`|
+|[DSE BYPASS DETECT VECTORS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/672381-dse-bypass-detect-vectors.html)|`2024-11-16 00:22:00`|`Anti-Cheat Bypass`|
 |[CS2 external esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/600259-cs2-external-esp.html)|`2024-11-16 00:18:00`|`Counter-Strike 2 Releases`|
 |[&#40;DMA&#41; Black Ops 6: Fuser ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670830-dma-black-ops-6-fuser-esp.html)|`2024-11-16 00:15:00`|`Call of Duty: Black Ops 6`|
 |[Call of Duty: Modern Warfare III Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/605287-call-duty-modern-warfare-iii-reversal-structs-offsets.html)|`2024-11-16 00:14:00`|`Call of Duty: Modern Warfare III`|
