@@ -26,9 +26,12 @@
 |6|[Force Restart](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47550)|`2024-11-16 00:19:32`|
 |8|[Host Restart](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47549)|`2024-11-16 00:19:32`|
 |98|[stcheattable v1&#46;6&#46;5 &#45; by SpionQuark](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47537)|`2024-11-16 00:19:32`|
+|1|[My Hero Ultra Rumble V14](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47561)|`2024-11-16 05:24:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/604426-hero-ultra-rumble-cheat-table.html)|`2024-11-16 05:21:00`|`Other Games`|
+|[Firewall: Dropping/Discarding packets entirely blocking, no buffering/queueing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/672328-firewall-dropping-discarding-packets-entirely-blocking-buffering-queueing.html)|`2024-11-16 05:14:00`|`General Programming and Reversing`|
 |[mapper?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/672315-mapper.html)|`2024-11-16 05:04:00`|`Maple Story`|
 |[about AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662127-ahk.html)|`2024-11-16 04:59:00`|`Apex Legends`|
 |[Reference how to make an aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/672017-reference-aimbot.html)|`2024-11-16 04:57:00`|`Programming for Beginners`|
