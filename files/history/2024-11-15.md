@@ -32,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#35;FREETRUMP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/672000-freetrump.html)|`2024-11-15 09:22:00`|`Off Topic`|
+|[Avatar Stealer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/668908-avatar-stealer.html)|`2024-11-15 09:20:00`|`Rainbow Six Siege`|
+|[External Farlight 84 Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/661656-external-farlight-84-free-cheat.html)|`2024-11-15 09:18:00`|`Farlight 84`|
+|[Hooking functions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/672237-hooking-functions.html)|`2024-11-15 09:17:00`|`General Programming and Reversing`|
+|[Updated chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/642477-updated-chams.html)|`2024-11-15 09:05:00`|`Rainbow Six Siege`|
+|[PUBG No recoil macro v7&#46;0 For all razer mouse using Razer synapse &#91;Undetected&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/658324-pubg-recoil-macro-v7-0-razer-mouse-using-razer-synapse-undetected.html)|`2024-11-15 09:00:00`|`PUBG Releases`|
 |[Fastest Python Valorant Triggerbot &#40;fr&#41;&#40;fr&#41;&#40;fr&#41; &#43; Addon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/641020-fastest-python-valorant-triggerbot-fr-fr-fr-addon.html)|`2024-11-15 07:53:00`|`Valorant`|
 |[Easy ZOMBIES Camo Grind/XP Farm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672219-easy-zombies-camo-grind-xp-farm.html)|`2024-11-15 07:44:00`|`Call of Duty: Black Ops 6`|
 |[New EAC/Fortnite internal AC CheatEngine detection method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/672005-eac-fortnite-internal-ac-cheatengine-detection-method.html)|`2024-11-15 07:35:00`|`Anti-Cheat Bypass`|
