@@ -27,9 +27,18 @@
 |9|[Force Restart](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47550)|`2024-11-17 00:08:50`|
 |2|[Bodycam Internal V0&#46;1&#46;3&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47555)|`2024-11-17 02:58:02`|
 |5|[Poc Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47584)|`2024-11-17 05:07:59`|
+|5|[rigel nov15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47569)|`2024-11-17 07:25:34`|
+|2|[2&#46;0&#46;3&#46;58850&#46;dec&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47567)|`2024-11-17 07:25:34`|
+|2|[Rust material](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47566)|`2024-11-17 07:25:34`|
+|1|[Test DLl hook file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47562)|`2024-11-17 07:25:34`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2024-11-17 07:22:00`|`Grand Theft Auto V`|
+|[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-11-17 07:18:00`|`Overwatch`|
+|[Diablo 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/diablo-series/575478-diablo-4-reversal-structs-offsets.html)|`2024-11-17 07:13:00`|`Diablo Series`|
+|[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2024-11-17 07:13:00`|`Other FPS Games`|
+|[Removing Money from self &#42;yim menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/672259-removing-money-self-yim-menu.html)|`2024-11-17 07:11:00`|`Grand Theft Auto V`|
 |[Way Of The Hunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/632584-hunter.html)|`2024-11-17 07:08:00`|`Other Games`|
 |[Offline Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/672362-offline-cheat.html)|`2024-11-17 07:04:00`|`Rainbow Six Siege`|
 |[BO6 DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670998-bo6-dma-esp.html)|`2024-11-17 07:04:00`|`Call of Duty: Black Ops 6`|
