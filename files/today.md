@@ -31,6 +31,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[bypass emulator full safety 3&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/672482-bypass-emulator-safety-3-5-a.html)|`2024-11-16 09:16:00`|`PUBG Mobile`|
+|[Can I invite Non&#45;BE players to my heist?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/672140-invite-players-heist.html)|`2024-11-16 09:11:00`|`Grand Theft Auto V`|
+|[Unable to operate with DMA firmware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/672475-unable-operate-dma-firmware.html)|`2024-11-16 09:07:00`|`General Programming and Reversing`|
+|[VGK obfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671176-vgk-obfuscation.html)|`2024-11-16 09:07:00`|`Anti-Cheat Bypass`|
+|[Fedoraware is not open](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/672187-fedoraware.html)|`2024-11-16 09:03:00`|`Team Fortress 2`|
+|[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2024-11-16 08:59:00`|`Grand Theft Auto V`|
+|[HeldEntity Display Name](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/671288-heldentity-display-name.html)|`2024-11-16 08:55:00`|`Rust`|
 |[DMA new SW freeze pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/672453-dma-sw-freeze-pc.html)|`2024-11-16 07:56:00`|`PC Hardware`|
 |[Read entity health lead my system halted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/672361-read-entity-health-lead-system-halted.html)|`2024-11-16 07:54:00`|`Apex Legends`|
 |[PUBG GLOBAL 3&#46;5 UE4 OFFSETS x32](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/672051-pubg-global-3-5-ue4-offsets-x32.html)|`2024-11-16 07:46:00`|`PUBG Mobile`|
