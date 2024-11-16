@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[theHunter: Call of the Wild Internal Radar, ESP, & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644365-thehunter-call-wild-internal-radar-esp.html)|`2024-11-17 03:19:00`|`Other FPS Games`|
+|[FOTD Harpoon Failure](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/671633-fotd-harpoon-failure.html)|`2024-11-17 03:17:00`|`Sea of Thieves`|
+|[Internal bunnyhop inconsistency](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672619-internal-bunnyhop-inconsistency.html)|`2024-11-17 03:15:00`|`Counter-Strike 2`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-11-17 03:14:00`|`Playerunknown's Battlegrounds`|
 |[DMA: Deadlock &#40;Free&#41; &#124; Aimbot, ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/668813-dma-deadlock-free-aimbot-esp.html)|`2024-11-17 03:07:00`|`Deadlock`|
 |[Tricking vgc to bypass the pop&#45;up](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/671978-tricking-vgc-bypass-pop.html)|`2024-11-17 03:05:00`|`Valorant`|
 |[injector source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/671052-injector-source-code.html)|`2024-11-17 03:02:00`|`Forum General`|
