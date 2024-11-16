@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Broken Arrow &#43;4 trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/623538-broken-arrow-4-trainer.html)|`2024-11-16 10:34:00`|`Other MMORPG and Strategy`|
+|[Python Image bot for Brighter Shores &#40;Old Chests Gold&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/672090-python-image-bot-brighter-shores-chests-gold.html)|`2024-11-16 10:31:00`|`Other MMORPG and Strategy`|
+|[easy method to make Undetected Cheat Engine &#43; Driver &#43; DSE&#45;Patcher &#124; Bypass AC 2023](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/606839-easy-method-undetected-cheat-engine-driver-dse-patcher-bypass-ac-2023-a.html)|`2024-11-16 10:16:00`|`Anti-Cheat Bypass`|
+|[AHK and REWASD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/672487-ahk-rewasd.html)|`2024-11-16 10:12:00`|`Programming for Beginners`|
+|[Dual&#45;OS Setup with Cheat on Linux VM and Game on Windows 11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/669939-dual-os-setup-cheat-linux-vm-game-windows-11-a.html)|`2024-11-16 09:49:00`|`Apex Legends`|
 |[bypass emulator full safety 3&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/672482-bypass-emulator-safety-3-5-a.html)|`2024-11-16 09:16:00`|`PUBG Mobile`|
 |[Can I invite Non&#45;BE players to my heist?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/672140-invite-players-heist.html)|`2024-11-16 09:11:00`|`Grand Theft Auto V`|
 |[Unable to operate with DMA firmware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/672475-unable-operate-dma-firmware.html)|`2024-11-16 09:07:00`|`General Programming and Reversing`|
