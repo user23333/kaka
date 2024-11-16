@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA Cr3 Shuffling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/672583-dma-cr3-shuffling.html)|`2024-11-16 23:23:00`|`Apex Legends`|
+|[Introduction to Unreal Engine Game Hacking&#33; Part 1: GWorld, GObjects, GNames, & SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/672085-introduction-unreal-engine-game-hacking-1-gworld-gobjects-gnames-sdk.html)|`2024-11-16 23:22:00`|`Unreal Engine 4`|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2024-11-16 23:12:00`|`Grand Theft Auto V`|
+|[FOTD Harpoon Failure](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/671633-fotd-harpoon-failure.html)|`2024-11-16 23:10:00`|`Sea of Thieves`|
 |[Defeating EAC's PDB Shuffling by caching](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/660106-defeating-eacs-pdb-shuffling-caching.html)|`2024-11-16 22:39:00`|`Anti-Cheat Bypass`|
 |[Zodiak &#45; Fastcup Full Kernel Driver Cheat v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/665011-zodiak-fastcup-kernel-driver-cheat-v2.html)|`2024-11-16 21:44:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[How to esp Tripwire installation kit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/672560-esp-tripwire-installation-kit.html)|`2024-11-16 21:38:00`|`Escape from Tarkov`|
