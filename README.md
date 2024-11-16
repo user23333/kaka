@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Battlefield V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/288137-battlefield-reversal-structs-offsets.html)|`2024-11-16 15:31:00`|`Battlefield V`|
 |[Fully setup my Arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/671911-setup-arduino.html)|`2024-11-16 15:13:00`|`Valorant`|
 |[Broken Arrow Beta &#43;2 trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/672506-broken-arrow-beta-2-trainer.html)|`2024-11-16 15:03:00`|`Other MMORPG and Strategy`|
 |[Free Animated imgui Loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/672274-free-animated-imgui-loader.html)|`2024-11-16 14:29:00`|`C and C++`|
