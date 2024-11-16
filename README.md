@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex CV YOLO v8 Aim Assist Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/624584-apex-cv-yolo-v8-aim-assist-bot.html)|`2024-11-17 05:59:00`|`Apex Legends`|
 |[KVM/QEMU Cheats still viable in 2024?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/672596-kvm-qemu-cheats-viable-2024-a.html)|`2024-11-17 05:21:00`|`Anti-Cheat Bypass`|
 |[War Thunder test drive unlock tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/671076-war-thunder-test-drive-unlock-tool.html)|`2024-11-17 04:49:00`|`Other MMORPG and Strategy`|
 |[modded cars for yim menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/665300-modded-cars-yim-menu.html)|`2024-11-17 04:45:00`|`Grand Theft Auto V`|
