@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;New&#41; Content Warning Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/635382-content-warning-cheat-menu.html)|`2024-11-16 20:42:00`|`Other Games`|
+|[DMA Fix cr3 with no performance impact](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/671559-dma-fix-cr3-performance-impact.html)|`2024-11-16 20:27:00`|`Apex Legends`|
+|[Age of Empires 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/589592-age-empires-4-reversal-structs-offsets.html)|`2024-11-16 20:26:00`|`Other MMORPG and Strategy`|
 |[evading eacs rizzing capabilities using multithreading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670505-evading-eacs-rizzing-capabilities-using-multithreading.html)|`2024-11-16 20:04:00`|`Anti-Cheat Bypass`|
 |[Pokemon TCGP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/671386-pokemon-tcgp.html)|`2024-11-16 19:55:00`|`Android`|
 |[Y2S4 WhiteNoise Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/643078-y2s4-whitenoise-cheat-table.html)|`2024-11-16 19:51:00`|`Rainbow Six Siege`|
