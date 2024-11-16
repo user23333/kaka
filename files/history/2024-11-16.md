@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hack Menu Left 4 Dead 2 &#45; Upcoming Release: Seeking Feedback and Collaboration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/672460-hack-menu-left-4-dead-2-upcoming-release-seeking-feedback-collaboration.html)|`2024-11-16 15:48:00`|`Half Life`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2024-11-16 15:41:00`|`Alternative Online Mods`|
 |[Battlefield V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/288137-battlefield-reversal-structs-offsets.html)|`2024-11-16 15:31:00`|`Battlefield V`|
 |[Fully setup my Arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/671911-setup-arduino.html)|`2024-11-16 15:13:00`|`Valorant`|
