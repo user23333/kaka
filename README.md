@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder test drive unlock tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/671076-war-thunder-test-drive-unlock-tool.html)|`2024-11-17 04:49:00`|`Other MMORPG and Strategy`|
+|[modded cars for yim menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/665300-modded-cars-yim-menu.html)|`2024-11-17 04:45:00`|`Grand Theft Auto V`|
+|[Help HWID questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/672528-help-hwid-questions.html)|`2024-11-17 04:44:00`|`Forum General`|
 |[Tpm Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/666357-tpm-bypass.html)|`2024-11-17 04:42:00`|`Valorant`|
 |[ODIN V4 FOR STEAM ONLY&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/645623-odin-v4-steam.html)|`2024-11-17 04:34:00`|`Paladins`|
 |[One Driver Call Setup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672558-driver-call-setup.html)|`2024-11-17 04:32:00`|`Call of Duty: Black Ops 6`|
