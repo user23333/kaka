@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Destiny 2 Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/672533-destiny-2-cheat-table.html)|`2024-11-16 19:46:00`|`Other FPS Games`|
 |[Rocket League &#45; Unlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/624955-rocket-league-unlock.html)|`2024-11-16 19:42:00`|`Other Games`|
 |[PUBG GLOBAL 3&#46;5&#46;0  SDK &#124;&#124; Offsets😊😊](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/671919-pubg-global-3-5-0-sdk-offsets.html)|`2024-11-16 19:30:00`|`PUBG Mobile`|
 |[Please help bo6 bot lobby set up](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672223-please-help-bo6-bot-lobby-set.html)|`2024-11-16 19:28:00`|`Call of Duty: Black Ops 6`|
