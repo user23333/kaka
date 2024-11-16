@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ODIN V4 FOR STEAM ONLY&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/645623-odin-v4-steam.html)|`2024-11-17 04:34:00`|`Paladins`|
+|[One Driver Call Setup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672558-driver-call-setup.html)|`2024-11-17 04:32:00`|`Call of Duty: Black Ops 6`|
+|[temp spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/672627-temp-spoofer.html)|`2024-11-17 04:32:00`|`Anti-Cheat Bypass`|
 |[TPM AND SB BYPASS &#43; SPOOFER &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/623808-tpm-sb-bypass-spoofer.html)|`2024-11-17 04:26:00`|`Valorant`|
 |[How to find encrypted strings and know what they are](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/671979-encrypted-strings.html)|`2024-11-17 03:55:00`|`Rust`|
 |[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669274-vigor-internal-cheat.html)|`2024-11-17 03:46:00`|`Other FPS Games`|
