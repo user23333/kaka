@@ -11,6 +11,7 @@
 |3|[BO6 Bot Lobby with Consoles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671902-bo6-bot-lobby-consoles.html)|`2024-11-18 00:20:39`|`call-of-duty-black-ops-6-a`|
 |7|[Zombies Terminus strat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671554-zombies-terminus-strat.html)|`2024-11-18 00:20:39`|`call-of-duty-black-ops-6-a`|
 |4|[Please help bo6 bot lobby set up](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672223-please-help-bo6-bot-lobby-set.html)|`2024-11-18 00:20:39`|`call-of-duty-black-ops-6-a`|
+|19|[Broken Arrow Beta &#43;2 trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/672506-broken-arrow-beta-2-trainer.html)|`2024-11-18 04:15:07`|`other-mmorpg-and-strategy`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2024-11-18 04:01:00`|`Phasmophobia`|
+|[11&#46;0&#46;5&#46;57534 Warden::LoadModule](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/world-of-warcraft/672246-11-0-5-57534-warden-loadmodule.html)|`2024-11-18 03:51:00`|`World of Warcraft`|
 |[Zombies Aim Assist By ChatGPT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671910-zombies-aim-assist-chatgpt.html)|`2024-11-18 03:52:00`|`Call of Duty: Black Ops 6`|
 |[Understanding how to make an unlock all](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671706-understanding-unlock.html)|`2024-11-18 03:43:00`|`Call of Duty: Black Ops 6`|
 |[Superadmin Lua Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/669226-superadmin-lua-script.html)|`2024-11-18 03:37:00`|`Garry's Mod`|
