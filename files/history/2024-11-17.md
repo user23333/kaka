@@ -38,6 +38,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Diablo Immortal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/502649-diablo-immortal.html)|`2024-11-17 22:27:00`|`Other MMORPG and Strategy`|
+|[OV3RSW33T: AN OVERWAT Pack: Reborn & Recoded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/603412-ov3rsw33t-overwat-pack-reborn-recoded.html)|`2024-11-17 22:18:00`|`Overwatch`|
+|[Superadmin Lua Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/669226-superadmin-lua-script.html)|`2024-11-17 22:13:00`|`Garry's Mod`|
+|[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2024-11-17 22:12:00`|`Other FPS Games`|
 |[NoSpread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672712-nospread.html)|`2024-11-17 21:35:00`|`Counter-Strike 2`|
 |[Destiny 2 Cheat Table v1&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/672496-destiny-2-cheat-table-v1-0-0-a.html)|`2024-11-17 21:27:00`|`Other FPS Games`|
 |[First Loader / Need source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671487-loader-source.html)|`2024-11-17 21:12:00`|`Anti-Cheat Bypass`|
