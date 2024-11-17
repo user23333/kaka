@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[LAPTOP HP 250 G8 &#45; Remove Van 152 &#45; COMPLETE PROCESS&#45;&#45; WORKING](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/672786-laptop-hp-250-g8-remove-van-152-complete-process.html)|`2024-11-18 05:55:00`|`Valorant`|
+|[BattlEyen't &#45; play offline raids without BattlEye on live version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/481919-battleyent-play-offline-raids-battleye-live-version.html)|`2024-11-18 05:53:00`|`Escape from Tarkov`|
+|[BO6 Color Aim Assist &#40;W&#46;I&#46;P&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671984-bo6-color-aim-assist.html)|`2024-11-18 05:53:00`|`Call of Duty: Black Ops 6`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2024-11-18 05:49:00`|`Overwatch`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-11-18 05:42:00`|`Grand Theft Auto V`|
 |[Dale & Dawnson Stationery Supplies &#40;DDSS&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/659974-dale-dawnson-stationery-supplies-ddss.html)|`2024-11-18 05:40:00`|`Unity`|
