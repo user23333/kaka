@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Yolov5 Enemy Detection Models for AI AIMBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/634345-yolov5-enemy-detection-models-ai-aimbot.html)|`2024-11-18 03:55:00`|`Rainbow Six Siege`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2024-11-18 04:01:00`|`Phasmophobia`|
 |[11&#46;0&#46;5&#46;57534 Warden::LoadModule](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/world-of-warcraft/672246-11-0-5-57534-warden-loadmodule.html)|`2024-11-18 03:51:00`|`World of Warcraft`|
 |[Zombies Aim Assist By ChatGPT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671910-zombies-aim-assist-chatgpt.html)|`2024-11-18 03:52:00`|`Call of Duty: Black Ops 6`|
