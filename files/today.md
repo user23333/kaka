@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking for hackers' YouTube channels to learn reverse engeineering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/672726-looking-hackers-youtube-channels-learn-reverse-engeineering.html)|`2024-11-17 23:22:00`|`Forum General`|
+|[cheat for apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/672725-cheat-apex.html)|`2024-11-17 23:15:00`|`Apex Legends`|
 |[best config for headshot and fast detect for sunoki tb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/672719-config-headshot-fast-detect-sunoki-tb.html)|`2024-11-17 23:03:00`|`Valorant`|
 |[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2024-11-17 22:55:00`|`Escape from Tarkov`|
 |[Battlefield 1 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/186728-battlefield-1-reversal-structs-offsets.html)|`2024-11-17 22:54:00`|`Battlefield 1`|
