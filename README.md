@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypassing Xigncode3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/564170-bypassing-xigncode3.html)|`2024-11-17 23:46:00`|`Anti-Cheat Bypass`|
 |[Mac M1 &#45; Dump LoL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/672730-mac-m1-dump-lol.html)|`2024-11-17 23:36:00`|`League of Legends`|
 |[Standalone name spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/672729-standalone-name-spoofer.html)|`2024-11-17 23:35:00`|`Payday 2`|
 |[leaked certificate driver load](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/672728-leaked-certificate-driver-load.html)|`2024-11-17 23:35:00`|`Anti-Cheat Bypass`|
