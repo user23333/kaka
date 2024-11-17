@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pairing up Lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671647-pairing-lobbies.html)|`2024-11-18 03:25:00`|`Call of Duty: Black Ops 6`|
+|[AFK Bot Lobby Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670285-afk-bot-lobby-guide.html)|`2024-11-18 03:24:00`|`Call of Duty: Black Ops 6`|
 |[Tournament Ready Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/672770-tournament-ready-driver.html)|`2024-11-18 03:10:00`|`Anti-Cheat Bypass`|
 |[ThunderTirnal &#45; WarThunder Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/660182-thundertirnal-warthunder-cheat.html)|`2024-11-18 03:08:00`|`Other MMORPG and Strategy`|
 |[Fiveguard "anti spoof"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/672662-fiveguard-anti-spoof.html)|`2024-11-18 03:01:00`|`Alternative Online Mods`|
