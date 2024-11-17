@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Broken Arrow &#43;4 trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/623538-broken-arrow-4-trainer.html)|`2024-11-17 11:24:00`|`Other MMORPG and Strategy`|
+|[Is There a Safe, Free Valorant Skin Changer for a Gamer in Need?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/672184-safe-free-valorant-skin-changer-gamer.html)|`2024-11-17 11:21:00`|`Valorant`|
 |[Banana Shooter Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/672670-banana-shooter-internal-cheat.html)|`2024-11-17 11:09:00`|`Other FPS Games`|
 |[CS2 Leaked &#43; Updated External w/ decent features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/666111-cs2-leaked-updated-external-decent-features.html)|`2024-11-17 10:21:00`|`Counter-Strike 2 Releases`|
 |[Dumping SCP Secret Laboratory &#40;il2cpp&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562901-dumping-scp-secret-laboratory-il2cpp.html)|`2024-11-17 10:14:00`|`Other FPS Games`|
