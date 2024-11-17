@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NoSpread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672712-nospread.html)|`2024-11-17 21:35:00`|`Counter-Strike 2`|
 |[Destiny 2 Cheat Table v1&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/672496-destiny-2-cheat-table-v1-0-0-a.html)|`2024-11-17 21:27:00`|`Other FPS Games`|
 |[First Loader / Need source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671487-loader-source.html)|`2024-11-17 21:12:00`|`Anti-Cheat Bypass`|
 |[KMBox Net Polling rate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/672711-kmbox-net-polling-rate.html)|`2024-11-17 21:09:00`|`Valorant`|
