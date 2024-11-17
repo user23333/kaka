@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Console Ban to PC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/672715-console-ban-pc.html)|`2024-11-18 01:50:00`|`Sea of Thieves`|
+|[external fast loot for my sigmas](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/672760-external-fast-loot-sigmas.html)|`2024-11-18 01:49:00`|`Rust`|
+|[Creating a cheat for Havoc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/667205-creating-cheat-havoc.html)|`2024-11-18 01:48:00`|`Unity`|
+|[Josh's Aim Assist V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670254-joshs-aim-assist-v1.html)|`2024-11-18 01:47:00`|`Call of Duty: Black Ops 6`|
+|[Chams without patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/672758-chams-patterns.html)|`2024-11-18 01:45:00`|`Counter-Strike 2 Releases`|
+|[Destiny 2 Cheat Table v1&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/672496-destiny-2-cheat-table-v1-0-0-a.html)|`2024-11-18 01:44:00`|`Other FPS Games`|
+|[&#91;UE4&#93;Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/244709-ue4-squad.html)|`2024-11-18 01:44:00`|`Other FPS Games`|
 |[leaked certificate driver load](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/672728-leaked-certificate-driver-load.html)|`2024-11-18 01:41:00`|`Anti-Cheat Bypass`|
 |[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-11-18 01:26:00`|`Overwatch`|
 |[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-11-18 01:24:00`|`Other Games`|
