@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Leaked &#43; Updated External w/ decent features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/666111-cs2-leaked-updated-external-decent-features.html)|`2024-11-17 10:21:00`|`Counter-Strike 2 Releases`|
+|[Dumping SCP Secret Laboratory &#40;il2cpp&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562901-dumping-scp-secret-laboratory-il2cpp.html)|`2024-11-17 10:14:00`|`Other FPS Games`|
+|[Chivalry 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/672665-chivalry-2-a.html)|`2024-11-17 09:57:00`|`Other Games`|
 |[Fiveguard "anti spoof"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/672662-fiveguard-anti-spoof.html)|`2024-11-17 09:19:00`|`Alternative Online Mods`|
 |[Age of Empires 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/589592-age-empires-4-reversal-structs-offsets.html)|`2024-11-17 09:18:00`|`Other MMORPG and Strategy`|
 |[MW19 GSC Mod Menu for Retail &#40;Free version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/667737-mw19-gsc-mod-menu-retail-free-version.html)|`2024-11-17 09:07:00`|`Call of Duty: Modern Warfare`|
