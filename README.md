@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[leaked certificate driver load](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/672728-leaked-certificate-driver-load.html)|`2024-11-18 01:41:00`|`Anti-Cheat Bypass`|
 |[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-11-18 01:26:00`|`Overwatch`|
 |[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-11-18 01:24:00`|`Other Games`|
 |[It's ENSD latest version detected? Or there is a way to use it and not being caught?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/672466-ensd-version-detected-caught.html)|`2024-11-18 01:23:00`|`Elite: Dangerous`|
