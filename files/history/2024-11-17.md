@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2024-11-17 18:07:00`|`Deadlock`|
+|[EAC cr3 Help needed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/659046-eac-cr3-help.html)|`2024-11-17 18:05:00`|`Rust`|
 |[DSE BYPASS DETECT VECTORS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/672381-dse-bypass-detect-vectors.html)|`2024-11-17 17:12:00`|`Anti-Cheat Bypass`|
 |[BO6 Bot Lobby with Consoles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671902-bo6-bot-lobby-consoles.html)|`2024-11-17 16:44:00`|`Call of Duty: Black Ops 6`|
 |[seo64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/662767-seo64.html)|`2024-11-17 15:50:00`|`Team Fortress 2`|
