@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-11-18 01:26:00`|`Overwatch`|
+|[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-11-18 01:24:00`|`Other Games`|
+|[It's ENSD latest version detected? Or there is a way to use it and not being caught?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/672466-ensd-version-detected-caught.html)|`2024-11-18 01:23:00`|`Elite: Dangerous`|
+|[Centralized Bot Lobby Starter Python Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672158-centralized-bot-lobby-starter-python-script.html)|`2024-11-18 01:20:00`|`Call of Duty: Black Ops 6`|
+|[troubles with m&#95;nSubclassID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672751-troubles-m_nsubclassid.html)|`2024-11-18 01:20:00`|`Counter-Strike 2`|
 |[NoSpread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672712-nospread.html)|`2024-11-18 00:56:00`|`Counter-Strike 2`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2024-11-18 00:55:00`|`Counter-Strike 2`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2024-11-18 00:52:00`|`Escape from Tarkov`|
