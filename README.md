@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RTCore driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671551-rtcore-driver.html)|`2024-11-18 04:52:00`|`Anti-Cheat Bypass`|
 |[KMBox Net Side Buttons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/671941-kmbox-net-buttons.html)|`2024-11-18 04:48:00`|`PC Hardware`|
 |[DMA Related Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/671678-dma-related-question.html)|`2024-11-18 04:43:00`|`Forum General`|
 |[No Fall Damage mods interfere with the new pick up med & armor repair kit feature](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/657579-fall-damage-mods-interfere-pick-med-armor-repair-kit-feature.html)|`2024-11-18 04:41:00`|`Payday 3`|
