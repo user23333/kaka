@@ -38,6 +38,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mac M1 &#45; Dump LoL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/672730-mac-m1-dump-lol.html)|`2024-11-17 23:36:00`|`League of Legends`|
+|[Standalone name spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/672729-standalone-name-spoofer.html)|`2024-11-17 23:35:00`|`Payday 2`|
+|[leaked certificate driver load](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/672728-leaked-certificate-driver-load.html)|`2024-11-17 23:35:00`|`Anti-Cheat Bypass`|
+|[ThunderTirnal &#45; WarThunder Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/660182-thundertirnal-warthunder-cheat.html)|`2024-11-17 23:35:00`|`Other MMORPG and Strategy`|
 |[Looking for hackers' YouTube channels to learn reverse engeineering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/672726-looking-hackers-youtube-channels-learn-reverse-engeineering.html)|`2024-11-17 23:22:00`|`Forum General`|
 |[cheat for apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/672725-cheat-apex.html)|`2024-11-17 23:15:00`|`Apex Legends`|
 |[best config for headshot and fast detect for sunoki tb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/672719-config-headshot-fast-detect-sunoki-tb.html)|`2024-11-17 23:03:00`|`Valorant`|
