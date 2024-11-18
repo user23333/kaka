@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Python Anti Aim CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672882-python-anti-aim-cs2.html)|`2024-11-18 17:41:00`|`Counter-Strike 2`|
 |[Is thundertirnal still safe to use?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/672866-thundertirnal-safe.html)|`2024-11-18 17:15:00`|`Forum General`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2024-11-18 16:55:00`|`Other FPS Games`|
 |[Unity Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/672876-unity-chams.html)|`2024-11-18 16:55:00`|`Unity`|
