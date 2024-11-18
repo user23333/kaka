@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA recoil control](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/672888-dma-recoil-control.html)|`2024-11-19 01:12:00`|`Rust`|
+|[Calling game function crashes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/672927-calling-game-function-crashes.html)|`2024-11-19 01:11:00`|`DayZ SA`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2024-11-19 01:08:00`|`Counter-Strike 2`|
+|[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-11-19 01:04:00`|`Overwatch`|
+|[yimmenu script for trolling players](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/672741-yimmenu-script-trolling-players.html)|`2024-11-19 01:03:00`|`Grand Theft Auto V`|
+|[Diablo 4 zoom level](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/diablo-series/636402-diablo-4-zoom-level.html)|`2024-11-19 01:00:00`|`Diablo Series`|
+|[BO6 DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670998-bo6-dma-esp.html)|`2024-11-19 01:00:00`|`Call of Duty: Black Ops 6`|
+|[script lua rapidefire](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671571-script-lua-rapidefire.html)|`2024-11-19 00:59:00`|`Call of Duty: Black Ops 6`|
 |[Treason's V3 AIO Aim Assist Edit &#40;BETA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670270-treasons-v3-aio-aim-assist-edit-beta.html)|`2024-11-19 00:59:00`|`Call of Duty: Black Ops 6`|
 |[Broken Arrow Beta &#43;2 trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/672506-broken-arrow-beta-2-trainer.html)|`2024-11-19 00:52:00`|`Other MMORPG and Strategy`|
 |[Simple Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670081-simple-unlocker.html)|`2024-11-19 00:51:00`|`Call of Duty: Black Ops 6`|
