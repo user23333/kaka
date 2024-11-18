@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[logitech mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673006-logitech-mouse.html)|`2024-11-19 05:23:00`|`Call of Duty: Black Ops 6`|
 |[Universal Injector PoC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/672405-universal-injector-poc.html)|`2024-11-19 05:09:00`|`Anti-Cheat Bypass`|
 |[PlayerWalkMovement class](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/673000-playerwalkmovement-class.html)|`2024-11-19 05:09:00`|`Rust`|
 |[Who said I'm not good at myself?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/672998-im.html)|`2024-11-19 05:03:00`|`Off Topic`|
