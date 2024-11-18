@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[use 2 or more mouses](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/672128-2-mouses.html)|`2024-11-18 14:58:00`|`Valorant`|
 |[melee and parry ability struct](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/672411-melee-parry-ability-struct.html)|`2024-11-18 14:54:00`|`Deadlock`|
 |[cant achieve 180 fake yaw](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/670513-cant-achieve-180-fake-yaw.html)|`2024-11-18 14:29:00`|`CounterStrike Source`|
 |[thirdperson just not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672859-thirdperson.html)|`2024-11-18 13:21:00`|`Counter-Strike 2`|
