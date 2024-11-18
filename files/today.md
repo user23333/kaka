@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cs2 Driver Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672943-cs2-driver-cheat.html)|`2024-11-19 04:15:00`|`Counter-Strike 2`|
+|[My laptop is legit garbage crap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/672992-laptop-legit-garbage-crap.html)|`2024-11-19 04:04:00`|`Valorant`|
 |[LAPTOP HP 250 G8 &#45; Remove Van 152 &#45; COMPLETE PROCESS&#45;&#45; WORKING](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/672786-laptop-hp-250-g8-remove-van-152-complete-process.html)|`2024-11-19 03:52:00`|`Valorant`|
 |[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-11-19 03:35:00`|`Deadlock`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2024-11-19 03:06:00`|`Other FPS Games`|
