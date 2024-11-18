@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ChadAlphaMales Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/669776-chadalphamales-enhanced.html)|`2024-11-19 07:21:00`|`Team Fortress 2`|
 |[easy method to make Undetected Cheat Engine &#43; Driver &#43; DSE&#45;Patcher &#124; Bypass AC 2023](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/606839-easy-method-undetected-cheat-engine-driver-dse-patcher-bypass-ac-2023-a.html)|`2024-11-19 07:14:00`|`Anti-Cheat Bypass`|
 |[disable DSE to load cheat engine driver DBK &#124; Bypass EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/602024-disable-dse-load-cheat-engine-driver-dbk-bypass-eac.html)|`2024-11-19 06:53:00`|`Anti-Cheat Bypass`|
 |[Memory Read](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/670402-memory-read.html)|`2024-11-19 06:40:00`|`Maple Story`|
