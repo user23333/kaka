@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;DMA&#41; Black Ops 6: Fuser ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670830-dma-black-ops-6-fuser-esp.html)|`2024-11-19 04:28:00`|`Call of Duty: Black Ops 6`|
+|[Doubt about project](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/672993-doubt-project.html)|`2024-11-19 04:26:00`|`League of Legends`|
 |[Cs2 Driver Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672943-cs2-driver-cheat.html)|`2024-11-19 04:15:00`|`Counter-Strike 2`|
 |[My laptop is legit garbage crap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/672992-laptop-legit-garbage-crap.html)|`2024-11-19 04:04:00`|`Valorant`|
 |[LAPTOP HP 250 G8 &#45; Remove Van 152 &#45; COMPLETE PROCESS&#45;&#45; WORKING](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/672786-laptop-hp-250-g8-remove-van-152-complete-process.html)|`2024-11-19 03:52:00`|`Valorant`|
