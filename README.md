@@ -24,9 +24,17 @@
 |243|[rigel nov15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47569)|`2024-11-19 00:20:49`|
 |4|[2&#46;0&#46;3&#46;58850&#46;dec&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47567)|`2024-11-19 00:20:49`|
 |18|[Rust material](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47566)|`2024-11-19 00:20:49`|
+|4|[Destiny 2 CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47581)|`2024-11-19 02:23:33`|
+|2|[dayz&#95;internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47568)|`2024-11-19 02:23:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I need case 10 64bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/672961-10-64bit.html)|`2024-11-19 02:20:00`|`PUBG Mobile`|
+|[seo64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/662767-seo64.html)|`2024-11-19 02:20:00`|`Team Fortress 2`|
+|[Max added money](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671123-max-added-money.html)|`2024-11-19 02:18:00`|`Grand Theft Auto V`|
+|[DayZ 1&#46;21 &#45; 1&#46;24 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/634516-dayz-1-21-1-24-internal-cheat.html)|`2024-11-19 02:17:00`|`DayZ SA`|
+|[BO6 Enhanced Color Aim AHK GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671390-bo6-enhanced-color-aim-ahk-gui.html)|`2024-11-19 02:07:00`|`Call of Duty: Black Ops 6`|
+|[Destiny 2 Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/672533-destiny-2-cheat-table.html)|`2024-11-19 02:03:00`|`Other FPS Games`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-11-19 01:48:00`|`Apex Legends`|
 |[DMA Cr3 Shuffling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/672583-dma-cr3-shuffling.html)|`2024-11-19 01:43:00`|`Apex Legends`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-11-19 01:42:00`|`Valorant`|
