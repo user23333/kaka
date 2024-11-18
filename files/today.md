@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669274-vigor-internal-cheat.html)|`2024-11-19 05:52:00`|`Other FPS Games`|
+|[Reversing Brighter Shores](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/672125-reversing-brighter-shores.html)|`2024-11-19 05:51:00`|`Other MMORPG and Strategy`|
+|[Help with coding dma radar hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/662481-help-coding-dma-radar-hack.html)|`2024-11-19 05:51:00`|`ARMA 3`|
 |[Sea of Thieves paks for FOV, no fog, and more&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/666959-sea-thieves-paks-fov-fog.html)|`2024-11-19 05:23:00`|`Sea of Thieves`|
 |[Pokemon TCGP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/671386-pokemon-tcgp.html)|`2024-11-19 05:39:00`|`Android`|
 |[Rockstar vs Steam vs Epic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/673009-rockstar-vs-steam-vs-epic.html)|`2024-11-19 05:39:00`|`Grand Theft Auto V`|
