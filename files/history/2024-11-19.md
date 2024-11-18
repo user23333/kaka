@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help hooking AssaultCube ammo function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/672962-help-hooking-assaultcube-ammo-function.html)|`2024-11-19 02:40:00`|`C and C++`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2024-11-19 02:40:00`|`Phasmophobia`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2024-11-19 02:40:00`|`Counter-Strike 2`|
+|[Fighting AC for the first time](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671908-fighting-ac-time.html)|`2024-11-19 02:39:00`|`Counter-Strike 2`|
+|[modded cars for yim menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/665300-modded-cars-yim-menu.html)|`2024-11-19 02:32:00`|`Grand Theft Auto V`|
+|[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-11-19 02:24:00`|`Other Games`|
 |[I need case 10 64bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/672961-10-64bit.html)|`2024-11-19 02:20:00`|`PUBG Mobile`|
 |[seo64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/662767-seo64.html)|`2024-11-19 02:20:00`|`Team Fortress 2`|
 |[Max added money](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671123-max-added-money.html)|`2024-11-19 02:18:00`|`Grand Theft Auto V`|
