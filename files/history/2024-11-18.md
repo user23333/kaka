@@ -12,6 +12,7 @@
 |7|[Zombies Terminus strat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671554-zombies-terminus-strat.html)|`2024-11-18 00:20:39`|`call-of-duty-black-ops-6-a`|
 |4|[Please help bo6 bot lobby set up](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672223-please-help-bo6-bot-lobby-set.html)|`2024-11-18 00:20:39`|`call-of-duty-black-ops-6-a`|
 |19|[Broken Arrow Beta &#43;2 trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/672506-broken-arrow-beta-2-trainer.html)|`2024-11-18 04:15:07`|`other-mmorpg-and-strategy`|
+|10|[Understanding how to make an unlock all](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671706-understanding-unlock.html)|`2024-11-18 18:53:36`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG No recoil macro v7&#46;0 For all razer mouse using Razer synapse &#91;Undetected&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/658324-pubg-recoil-macro-v7-0-razer-mouse-using-razer-synapse-undetected.html)|`2024-11-18 18:52:00`|`PUBG Releases`|
+|[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-11-18 18:49:00`|`Deadlock`|
 |[ZwProtectVirtualMemory not working in Tf2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/672890-zwprotectvirtualmemory-tf2.html)|`2024-11-18 18:40:00`|`Team Fortress 2`|
 |[DMA recoil control](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/672888-dma-recoil-control.html)|`2024-11-18 18:17:00`|`Rust`|
 |[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2024-11-18 18:07:00`|`Other FPS Games`|
