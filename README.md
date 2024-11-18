@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I NEED HELP FINDING AN UNLOCK TOOL FOR BO6 PLZZZZZZZZZZZZZZZZZZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672868-help-finding-unlock-tool-bo6-plzzzzzzzzzzzzzzzzzz.html)|`2024-11-18 19:57:00`|`Call of Duty: Black Ops 6`|
+|[Apex Legends universal weapons anti recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662808-apex-legends-universal-weapons-anti-recoil.html)|`2024-11-18 19:42:00`|`Apex Legends`|
 |[Rust AI Aimbot &#45; Beta](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/620721-rust-ai-aimbot-beta.html)|`2024-11-18 19:41:00`|`Rust`|
 |[Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/672620-mod-menu.html)|`2024-11-18 19:40:00`|`Among Us`|
 |[Macro Script for Camo Swap glitch MW camos to Bo6&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672497-macro-script-camo-swap-glitch-mw-camos-bo6.html)|`2024-11-18 19:40:00`|`Call of Duty: Black Ops 6`|
