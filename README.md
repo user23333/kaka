@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Universal Injector PoC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/672405-universal-injector-poc.html)|`2024-11-19 05:09:00`|`Anti-Cheat Bypass`|
+|[PlayerWalkMovement class](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/673000-playerwalkmovement-class.html)|`2024-11-19 05:09:00`|`Rust`|
 |[Who said I'm not good at myself?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/672998-im.html)|`2024-11-19 05:03:00`|`Off Topic`|
 |[How can i start making esp for PUBGM gameloop?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/672750-start-esp-pubgm-gameloop.html)|`2024-11-19 04:35:00`|`PUBG Mobile`|
 |[&#40;DMA&#41; Black Ops 6: Fuser ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670830-dma-black-ops-6-fuser-esp.html)|`2024-11-19 04:28:00`|`Call of Duty: Black Ops 6`|
