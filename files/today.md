@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dearth &#91;SCP SL&#93; Cheat 13&#46;6&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/669532-dearth-scp-sl-cheat-13-6-9-a.html)|`2024-11-18 19:12:00`|`Other Games`|
 |[PUBG No recoil macro v7&#46;0 For all razer mouse using Razer synapse &#91;Undetected&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/658324-pubg-recoil-macro-v7-0-razer-mouse-using-razer-synapse-undetected.html)|`2024-11-18 18:52:00`|`PUBG Releases`|
 |[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-11-18 18:49:00`|`Deadlock`|
 |[ZwProtectVirtualMemory not working in Tf2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/672890-zwprotectvirtualmemory-tf2.html)|`2024-11-18 18:40:00`|`Team Fortress 2`|
