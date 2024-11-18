@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2024-11-18 21:47:00`|`Combat Arms`|
 |[KVM/QEMU Cheats still viable in 2024?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/672596-kvm-qemu-cheats-viable-2024-a.html)|`2024-11-18 21:09:00`|`Anti-Cheat Bypass`|
 |[make the &#46;text section RWX in driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/672916-text-section-rwx-driver.html)|`2024-11-18 21:01:00`|`Anti-Cheat Bypass`|
 |[Ghost mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/672915-ghost-mapper.html)|`2024-11-18 21:00:00`|`Anti-Cheat Bypass`|
