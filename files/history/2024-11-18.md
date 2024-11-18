@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2024-11-18 20:27:00`|`Valorant`|
+|[about AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662127-ahk.html)|`2024-11-18 20:17:00`|`Apex Legends`|
+|[Combat Master CE Godmode, MEGA XP, Instant Weapon/Player Max Level, Attachment Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/583715-combat-master-ce-godmode-mega-xp-instant-weapon-player-max-level-attachment-mod.html)|`2024-11-18 20:05:00`|`Combat Master`|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2024-11-18 20:05:00`|`Sea of Thieves`|
 |[I NEED HELP FINDING AN UNLOCK TOOL FOR BO6 PLZZZZZZZZZZZZZZZZZZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672868-help-finding-unlock-tool-bo6-plzzzzzzzzzzzzzzzzzz.html)|`2024-11-18 19:57:00`|`Call of Duty: Black Ops 6`|
 |[Apex Legends universal weapons anti recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662808-apex-legends-universal-weapons-anti-recoil.html)|`2024-11-18 19:42:00`|`Apex Legends`|
 |[Rust AI Aimbot &#45; Beta](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/620721-rust-ai-aimbot-beta.html)|`2024-11-18 19:41:00`|`Rust`|
