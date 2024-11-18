@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA Cr3 Shuffling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/672583-dma-cr3-shuffling.html)|`2024-11-19 01:43:00`|`Apex Legends`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-11-19 01:42:00`|`Valorant`|
+|[Winebot Rose Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/625663-winebot-rose-online.html)|`2024-11-19 01:41:00`|`Other MMORPG and Strategy`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2024-11-19 01:40:00`|`Call of Duty: Black Ops 6`|
 |[BOT LOBBY Method Chrome Tabs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672955-bot-lobby-method-chrome-tabs.html)|`2024-11-19 01:40:00`|`Call of Duty: Black Ops 6`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-11-19 01:36:00`|`Rust`|
