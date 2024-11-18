@@ -29,9 +29,13 @@
 |3|[Broken Arrow &#43;2 CE Table v0&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47591)|`2024-11-18 19:33:51`|
 |2|[Destiny 2 Cheat Table v1&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47578)|`2024-11-18 19:33:51`|
 |1|[saved&#95;json&#95;vehicles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47587)|`2024-11-18 19:40:12`|
+|1|[Macro Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47585)|`2024-11-18 19:46:35`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust AI Aimbot &#45; Beta](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/620721-rust-ai-aimbot-beta.html)|`2024-11-18 19:41:00`|`Rust`|
+|[Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/672620-mod-menu.html)|`2024-11-18 19:40:00`|`Among Us`|
+|[Macro Script for Camo Swap glitch MW camos to Bo6&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672497-macro-script-camo-swap-glitch-mw-camos-bo6.html)|`2024-11-18 19:40:00`|`Call of Duty: Black Ops 6`|
 |[Astroneer Qbits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/431633-astroneer-qbits.html)|`2024-11-18 19:35:00`|`Unreal Engine 4`|
 |[Angos and ue4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/672717-angos-ue4.html)|`2024-11-18 19:32:00`|`PUBG Mobile`|
 |[New Jitter Aim CFG Stronger as JoyToKey and more&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/670324-jitter-aim-cfg-stronger-joytokey.html)|`2024-11-18 19:28:00`|`Apex Legends`|
