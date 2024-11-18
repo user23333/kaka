@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[All Mouse NoRecoil &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-recoil-helpy-auto-config-probably-ud-universal.html)|`2024-11-19 00:38:00`|`Rainbow Six Siege`|
+|[Call of Duty: Modern Warfare III Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/605287-call-duty-modern-warfare-iii-reversal-structs-offsets.html)|`2024-11-19 00:36:00`|`Call of Duty: Modern Warfare III`|
+|[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2024-11-19 00:28:00`|`Elite: Dangerous`|
+|[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2024-11-19 00:21:00`|`Sea of Thieves`|
 |[leaked certificate driver load](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/672728-leaked-certificate-driver-load.html)|`2024-11-19 00:20:00`|`Anti-Cheat Bypass`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2024-11-19 00:20:00`|`Overwatch`|
 |[Hero auto pick](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/672268-hero-auto-pick.html)|`2024-11-19 00:18:00`|`Overwatch`|
