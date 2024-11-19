@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Goat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/673075-goat.html)|`2024-11-19 19:47:00`|`Grand Theft Auto V`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2024-11-19 19:24:00`|`Other MMORPG and Strategy`|
 |[I need update this offests](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/673074-update-offests.html)|`2024-11-19 19:16:00`|`PUBG Mobile`|
 |[vps/vpn detected by Eprotect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/672939-vps-vpn-detected-eprotect.html)|`2024-11-19 19:15:00`|`Garry's Mod`|
