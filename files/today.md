@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Treason's V3 AIO Aim Assist Edit &#40;BETA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670270-treasons-v3-aio-aim-assist-edit-beta.html)|`2024-11-20 04:16:00`|`Call of Duty: Black Ops 6`|
+|[BO6 DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670998-bo6-dma-esp.html)|`2024-11-20 04:13:00`|`Call of Duty: Black Ops 6`|
+|[CUserCmd ViewAngles issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673142-cusercmd-viewangles-issue.html)|`2024-11-20 04:13:00`|`Counter-Strike 2`|
+|[Centralized Bot Lobby Starter Python Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672158-centralized-bot-lobby-starter-python-script.html)|`2024-11-20 04:12:00`|`Call of Duty: Black Ops 6`|
+|[Fiveguard "anti spoof"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/672662-fiveguard-anti-spoof.html)|`2024-11-20 04:09:00`|`Alternative Online Mods`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2024-11-20 04:03:00`|`Other MMORPG and Strategy`|
 |[How to get Unbanned in SCP:SL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/669224-unbanned-scp-sl.html)|`2024-11-20 04:00:00`|`Other Games`|
 |[ELSWORD NA HACK FREE &#45; KMZ ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/670531-elsword-na-hack-free-kmz-engine.html)|`2024-11-20 03:41:00`|`Other MMORPG and Strategy`|
 |[RLMarlbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/633336-rlmarlbot.html)|`2024-11-20 03:45:00`|`Other Games`|
