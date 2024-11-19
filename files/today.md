@@ -29,9 +29,14 @@
 |1|[Vigor Internal v1&#46;0&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47594)|`2024-11-20 01:40:48`|
 |2|[warthunder&#95;unlocker&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47575)|`2024-11-20 01:40:48`|
 |6|[Cs2 DX11 External Overlay Cheat v5&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47582)|`2024-11-20 02:21:58`|
+|1|[external dex precompiled](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47595)|`2024-11-20 06:14:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[external dex for roblox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670469-external-dex-roblox.html)|`2024-11-20 06:10:00`|`Other Games`|
+|[ZwMapViewOfSection not mapping correctly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/673028-zwmapviewofsection-mapping-correctly.html)|`2024-11-20 06:07:00`|`General Programming and Reversing`|
+|[BT6 Remove Shadow Ban & Towner Unlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/672827-bt6-remove-shadow-ban-towner-unlock.html)|`2024-11-20 06:05:00`|`Other FPS Games`|
+|[Good tutorials for linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/671182-tutorials-linux.html)|`2024-11-20 06:05:00`|`Programming for Beginners`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-11-20 05:44:00`|`Grand Theft Auto V`|
 |[ChadAlphaMales Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/669776-chadalphamales-enhanced.html)|`2024-11-20 05:35:00`|`Team Fortress 2`|
 |[Cs2 Driver Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672943-cs2-driver-cheat.html)|`2024-11-20 05:32:00`|`Counter-Strike 2`|
