@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Macro Script for Camo Swap glitch MW camos to Bo6&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672497-macro-script-camo-swap-glitch-mw-camos-bo6.html)|`2024-11-19 13:02:00`|`Call of Duty: Black Ops 6`|
 |[make the &#46;text section RWX in driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/672916-text-section-rwx-driver.html)|`2024-11-19 12:51:00`|`Anti-Cheat Bypass`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2024-11-19 12:46:00`|`DayZ SA`|
 |[A certificate that has expired but not revoked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673047-certificate-expired-revoked.html)|`2024-11-19 12:42:00`|`Anti-Cheat Bypass`|
