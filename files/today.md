@@ -24,9 +24,14 @@
 |15|[Warden Loader module](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47576)|`2024-11-20 00:21:46`|
 |296|[rigel nov15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47569)|`2024-11-20 00:21:46`|
 |46|[dayz&#95;internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47568)|`2024-11-20 00:21:46`|
+|1|[Vigor Internal v1&#46;0&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47594)|`2024-11-20 01:40:48`|
+|2|[warthunder&#95;unlocker&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47575)|`2024-11-20 01:40:48`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669274-vigor-internal-cheat.html)|`2024-11-20 01:40:00`|`Other FPS Games`|
+|[DSE BYPASS DETECT VECTORS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/672381-dse-bypass-detect-vectors.html)|`2024-11-20 01:38:00`|`Anti-Cheat Bypass`|
+|[War Thunder test drive unlock tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/671076-war-thunder-test-drive-unlock-tool.html)|`2024-11-20 01:33:00`|`Other MMORPG and Strategy`|
 |[AIMCOLOR SPECTRE DIVIDE UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662768-aimcolor-spectre-divide-ud.html)|`2024-11-20 01:30:00`|`Other FPS Games`|
 |[How to bypass DSE in Windows 24H2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673076-bypass-dse-windows-24h2.html)|`2024-11-20 01:29:00`|`Anti-Cheat Bypass`|
 |[How to Get DeadLock Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/660973-deadlock-offsets.html)|`2024-11-20 01:24:00`|`Deadlock`|
