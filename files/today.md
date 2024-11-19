@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Yet Another Trigger Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/672144-trigger-bot.html)|`2024-11-19 18:24:00`|`Valorant`|
+|[BO6 Detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672490-bo6-detections.html)|`2024-11-19 18:17:00`|`Call of Duty: Black Ops 6`|
 |[Mouse bugging out](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673042-mouse-bugging.html)|`2024-11-19 18:05:00`|`Valorant`|
 |[Red trust factor, why?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673062-red-trust-factor.html)|`2024-11-19 17:57:00`|`Counter-Strike 2`|
 |[KVM Bypass Using QEMU &#45; Vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/635411-kvm-bypass-using-qemu-vanguard.html)|`2024-11-19 17:28:00`|`League of Legends`|
