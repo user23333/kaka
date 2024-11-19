@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2024-11-19 10:47:00`|`Elite: Dangerous`|
+|[Basic UAV using DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672950-basic-uav-using-dma.html)|`2024-11-19 10:21:00`|`Call of Duty: Black Ops 6`|
+|[Shadowrun 2007 Aim/Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/673022-shadowrun-2007-aim-esp.html)|`2024-11-19 10:20:00`|`Other FPS Games`|
 |[A thread that shares rigel's config file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/633484-thread-shares-rigels-config-file.html)|`2024-11-19 09:55:00`|`Overwatch`|
 |[Is thundertirnal still safe to use?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/672866-thundertirnal-safe.html)|`2024-11-19 09:35:00`|`Forum General`|
 |[Any virtual keyboard signed driver to send keystrokes from my code?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/673029-virtual-keyboard-signed-driver-send-keystrokes-code.html)|`2024-11-19 09:33:00`|`General Programming and Reversing`|
