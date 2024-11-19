@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Perfect Silent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672937-perfect-silent.html)|`2024-11-20 06:29:00`|`Counter-Strike 2`|
+|[BO6 Enhanced Color Aim AHK GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671390-bo6-enhanced-color-aim-ahk-gui.html)|`2024-11-20 06:25:00`|`Call of Duty: Black Ops 6`|
+|[camo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673155-camo.html)|`2024-11-20 06:23:00`|`Call of Duty: Black Ops 6`|
+|[Vigor internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662490-vigor-internal-cheat.html)|`2024-11-20 06:19:00`|`Other FPS Games`|
 |[external dex for roblox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670469-external-dex-roblox.html)|`2024-11-20 06:10:00`|`Other Games`|
 |[ZwMapViewOfSection not mapping correctly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/673028-zwmapviewofsection-mapping-correctly.html)|`2024-11-20 06:07:00`|`General Programming and Reversing`|
 |[BT6 Remove Shadow Ban & Towner Unlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/672827-bt6-remove-shadow-ban-towner-unlock.html)|`2024-11-20 06:05:00`|`Other FPS Games`|
