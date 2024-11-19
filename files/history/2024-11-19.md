@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mouse bugging out](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673042-mouse-bugging.html)|`2024-11-19 18:05:00`|`Valorant`|
+|[Red trust factor, why?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673062-red-trust-factor.html)|`2024-11-19 17:57:00`|`Counter-Strike 2`|
 |[KVM Bypass Using QEMU &#45; Vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/635411-kvm-bypass-using-qemu-vanguard.html)|`2024-11-19 17:28:00`|`League of Legends`|
 |[💸 VALORANT EXTERNAL V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/638001-valorant-external-v2.html)|`2024-11-19 16:56:00`|`Valorant`|
 |[VGC Bypass using VPN?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/672886-vgc-bypass-using-vpn.html)|`2024-11-19 16:51:00`|`Valorant`|
