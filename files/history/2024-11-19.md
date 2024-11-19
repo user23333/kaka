@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[A thread that shares rigel's config file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/633484-thread-shares-rigels-config-file.html)|`2024-11-19 09:55:00`|`Overwatch`|
+|[Is thundertirnal still safe to use?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/672866-thundertirnal-safe.html)|`2024-11-19 09:35:00`|`Forum General`|
+|[Any virtual keyboard signed driver to send keystrokes from my code?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/673029-virtual-keyboard-signed-driver-send-keystrokes-code.html)|`2024-11-19 09:33:00`|`General Programming and Reversing`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2024-11-19 09:29:00`|`Escape from Tarkov`|
 |[Final Jitter aim for Controller&#40;and MnK&#41;, bugs fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/673025-final-jitter-aim-controller-mnk-bugs-fixed.html)|`2024-11-19 08:39:00`|`Apex Legends`|
 |[KMBOX B&#43; FW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673024-kmbox-fw.html)|`2024-11-19 08:32:00`|`Call of Duty: Black Ops 6`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-11-19 08:15:00`|`Grand Theft Auto V`|
