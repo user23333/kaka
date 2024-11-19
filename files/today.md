@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BO6 Color Aim Assist &#40;W&#46;I&#46;P&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671984-bo6-color-aim-assist.html)|`2024-11-20 01:13:00`|`Call of Duty: Black Ops 6`|
+|[Logan Paul defeats Mike Tyson](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/672737-logan-paul-defeats-mike-tyson.html)|`2024-11-20 01:13:00`|`Off Topic`|
+|[Yet Another Trigger Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/672144-trigger-bot.html)|`2024-11-20 01:13:00`|`Valorant`|
+|[Im Hwid banned but want to Play Bo6 legit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673104-im-hwid-banned-play-bo6-legit.html)|`2024-11-20 01:09:00`|`Call of Duty: Black Ops 6`|
+|[LAPTOP HP 250 G8 &#45; Remove Van 152 &#45; COMPLETE PROCESS&#45;&#45; WORKING](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/672786-laptop-hp-250-g8-remove-van-152-complete-process.html)|`2024-11-20 01:08:00`|`Valorant`|
 |[external fast loot for my sigmas](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/672760-external-fast-loot-sigmas.html)|`2024-11-20 00:47:00`|`Rust`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2024-11-20 00:41:00`|`Overwatch`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-11-20 00:26:00`|`Valorant`|
