@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New Jitter Aim CFG Stronger as JoyToKey and more&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/670324-jitter-aim-cfg-stronger-joytokey.html)|`2024-11-19 22:09:00`|`Apex Legends`|
+|[hello i need help to update the cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673090-hello-help-update-cheat.html)|`2024-11-19 22:03:00`|`Counter-Strike 2`|
+|[Getting weapons via "m&#95;hMyWeapons"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/673088-getting-weapons-via-m_hmyweapons.html)|`2024-11-19 22:01:00`|`Counterstrike Global Offensive`|
+|[I'm gonna be that piece of shit i guess&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/668738-im-gonna-piece-shit-guess.html)|`2024-11-19 22:01:00`|`DayZ SA`|
 |[GTAHaX for 1&#46;69 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-69-external-thread-3-a.html)|`2024-11-19 21:51:00`|`Grand Theft Auto V`|
 |[Diablo 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/diablo-series/575478-diablo-4-reversal-structs-offsets.html)|`2024-11-19 21:27:00`|`Diablo Series`|
 |[Supermarket Together Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/665134-supermarket-cheat-table.html)|`2024-11-19 21:26:00`|`Cheat Engine Tables`|
