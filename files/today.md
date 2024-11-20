@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2024-11-20 16:25:00`|`Other Games`|
+|[thirdperson just not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672859-thirdperson.html)|`2024-11-20 16:05:00`|`Counter-Strike 2`|
 |[Josh's AHKv2&#46;0 Color Aim Assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673209-joshs-ahkv2-0-color-aim-assist.html)|`2024-11-20 15:41:00`|`Call of Duty: Black Ops 6`|
 |[VMProtect Antitamper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/673207-vmprotect-antitamper.html)|`2024-11-20 15:20:00`|`General Programming and Reversing`|
 |[Get Address vom RAX with Address &#45; C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/673205-address-vom-rax-address.html)|`2024-11-20 15:18:00`|`C and C++`|
