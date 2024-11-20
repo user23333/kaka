@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-11-20 12:05:00`|`Other Games`|
 |[Is there to add bots for Doomsday Heist instead of players?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/673073-add-bots-doomsday-heist-instead-players.html)|`2024-11-20 11:52:00`|`Grand Theft Auto V`|
 |[Rocket League Mod/Cheat Template](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/580873-rocket-league-mod-cheat-template.html)|`2024-11-20 11:48:00`|`Other FPS Games`|
 |[Self&#45;Leak &#45; DOOMSDAY &#40;Internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/664457-self-leak-doomsday-internal.html)|`2024-11-20 11:39:00`|`Call of Duty: Black Ops 2`|
