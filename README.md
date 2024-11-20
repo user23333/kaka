@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Trump wins election](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/670738-trump-wins-election.html)|`2024-11-21 02:48:00`|`Off Topic`|
+|[My Hero Ultra Rumble Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/604426-hero-ultra-rumble-cheat-table.html)|`2024-11-21 02:47:00`|`Other Games`|
 |[ELSWORD NA HACK FREE &#45; KMZ ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/670531-elsword-na-hack-free-kmz-engine.html)|`2024-11-21 02:22:00`|`Other MMORPG and Strategy`|
 |[Undetected lagswitch using your router](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673309-undetected-lagswitch-using-router.html)|`2024-11-21 02:14:00`|`Valorant`|
 |[BO6 Detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672490-bo6-detections.html)|`2024-11-21 02:12:00`|`Call of Duty: Black Ops 6`|
