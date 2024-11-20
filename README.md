@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/672620-mod-menu.html)|`2024-11-20 17:16:00`|`Among Us`|
 |[Ue4Base giving 0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/673216-ue4base-giving-0-a.html)|`2024-11-20 16:52:00`|`PUBG Mobile`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2024-11-20 16:25:00`|`Other Games`|
 |[thirdperson just not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672859-thirdperson.html)|`2024-11-20 16:05:00`|`Counter-Strike 2`|
