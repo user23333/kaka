@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2024-11-20 23:33:00`|`Apex Legends`|
 |[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2024-11-20 23:29:00`|`Apex Legends`|
 |[Dearth &#91;SCP SL&#93; Cheat 13&#46;6&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/669532-dearth-scp-sl-cheat-13-6-9-a.html)|`2024-11-20 23:01:00`|`Other Games`|
 |[decrypt blizzard strings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/600790-decrypt-blizzard-strings.html)|`2024-11-20 22:54:00`|`Overwatch`|
