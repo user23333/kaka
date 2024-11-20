@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Manual Map Crash After The Last Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673306-manual-map-crash-update.html)|`2024-11-21 01:57:00`|`Counter-Strike 2`|
+|[Any Offsets? &#91;Pluto&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/673101-offsets-pluto.html)|`2024-11-21 01:56:00`|`Call of Duty: Black Ops 2`|
+|[Perfect Silent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672937-perfect-silent.html)|`2024-11-21 01:56:00`|`Counter-Strike 2`|
 |[CS2 Internal Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672787-cs2-internal-base.html)|`2024-11-21 01:46:00`|`Counter-Strike 2`|
 |[help with hooking UserCmd](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666831-help-hooking-usercmd.html)|`2024-11-21 01:46:00`|`Counter-Strike 2`|
 |[AFK Bot Lobby Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670285-afk-bot-lobby-guide.html)|`2024-11-21 01:44:00`|`Call of Duty: Black Ops 6`|
