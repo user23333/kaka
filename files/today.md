@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Red trust factor, why?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673062-red-trust-factor.html)|`2024-11-21 03:10:00`|`Counter-Strike 2`|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2024-11-21 03:07:00`|`Grand Theft Auto V`|
 |[The Goat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/673075-goat.html)|`2024-11-21 02:55:00`|`Grand Theft Auto V`|
 |[PlayerWalkMovement class](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/673000-playerwalkmovement-class.html)|`2024-11-21 02:54:00`|`Rust`|
 |[Trump wins election](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/670738-trump-wins-election.html)|`2024-11-21 02:48:00`|`Off Topic`|
