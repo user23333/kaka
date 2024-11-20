@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[decrypt blizzard strings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/600790-decrypt-blizzard-strings.html)|`2024-11-20 22:54:00`|`Overwatch`|
 |[Soft unlocks &#45; Are they packet editing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673282-soft-unlocks-packet-editing.html)|`2024-11-20 22:41:00`|`Call of Duty: Black Ops 6`|
 |[How to change signature](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673281-change-signature.html)|`2024-11-20 22:39:00`|`Valorant`|
 |[Extre Injector is not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/673192-extre-injector.html)|`2024-11-20 22:34:00`|`PC Software`|
