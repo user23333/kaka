@@ -14,6 +14,7 @@
 |8|[Python Image bot for Brighter Shores &#40;Old Chests Gold&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/672090-python-image-bot-brighter-shores-chests-gold.html)|`2024-11-20 01:58:54`|`other-mmorpg-and-strategy`|
 |24|[BO6 Color Aim Assist &#40;W&#46;I&#46;P&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671984-bo6-color-aim-assist.html)|`2024-11-20 05:09:48`|`call-of-duty-black-ops-6-a`|
 |0|[Easy ZOMBIES Camo Grind/XP Farm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672219-easy-zombies-camo-grind-xp-farm.html)|`2024-11-20 09:15:29`|`call-of-duty-black-ops-6-a`|
+|9|[DMA with ESP,Cr3 fix &#40;fix from FATE DMA SOURCE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/672072-dma-esp-cr3-fix-fix-fate-dma-source.html)|`2024-11-20 16:59:17`|`apex-legends`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
