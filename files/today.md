@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to change signature](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673281-change-signature.html)|`2024-11-20 22:39:00`|`Valorant`|
+|[Extre Injector is not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/673192-extre-injector.html)|`2024-11-20 22:34:00`|`PC Software`|
 |[Arma Reforger Duplication Glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/665901-arma-reforger-duplication-glitch.html)|`2024-11-20 22:29:00`|`ARMA 3`|
 |[DRAGON BALL Sparking&#33; ZERO &#45; Easy Inputs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/672857-dragon-ball-sparking-zero-easy-inputs.html)|`2024-11-20 22:16:00`|`Other Games`|
 |[Suggestions for better script parameters, taking SAI as an example](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673267-suggestions-script-parameters-taking-sai-example.html)|`2024-11-20 22:14:00`|`Call of Duty: Black Ops 6`|
