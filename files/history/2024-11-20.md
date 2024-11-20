@@ -13,6 +13,7 @@
 |13|[Yet Another Trigger Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/672144-trigger-bot.html)|`2024-11-20 00:21:46`|`valorant`|
 |8|[Python Image bot for Brighter Shores &#40;Old Chests Gold&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/672090-python-image-bot-brighter-shores-chests-gold.html)|`2024-11-20 01:58:54`|`other-mmorpg-and-strategy`|
 |24|[BO6 Color Aim Assist &#40;W&#46;I&#46;P&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671984-bo6-color-aim-assist.html)|`2024-11-20 05:09:48`|`call-of-duty-black-ops-6-a`|
+|0|[Easy ZOMBIES Camo Grind/XP Farm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672219-easy-zombies-camo-grind-xp-farm.html)|`2024-11-20 09:15:29`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BO6 Dma ESP Aim WebReadr](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673167-bo6-dma-esp-aim-webreadr.html)|`2024-11-20 08:57:00`|`Call of Duty: Black Ops 6`|
+|[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-11-20 08:54:00`|`Escape from Tarkov`|
+|[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2024-11-20 08:53:00`|`Other FPS Games`|
+|[The Texas Chainsaw Massacre External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/638980-texas-chainsaw-massacre-external-cheat.html)|`2024-11-20 08:46:00`|`Other FPS Games`|
+|[Please help bo6 bot lobby set up](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672223-please-help-bo6-bot-lobby-set.html)|`2024-11-20 08:44:00`|`Call of Duty: Black Ops 6`|
 |[Change ahk recoil patterns to python version &#40;ahk apex no recoil script to python&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/673165-change-ahk-recoil-patterns-python-version-ahk-apex-recoil-script-python.html)|`2024-11-20 07:57:00`|`Apex Legends`|
 |[COD Cold War Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/664523-cod-cold-war-menu.html)|`2024-11-20 07:45:00`|`Call of Duty: Black Ops Cold War`|
 |[Killing Floor 2 External Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/673060-killing-floor-2-external-hack.html)|`2024-11-20 07:44:00`|`Other Games`|
