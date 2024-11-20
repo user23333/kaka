@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Undetected lagswitch using your router](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673309-undetected-lagswitch-using-router.html)|`2024-11-21 02:14:00`|`Valorant`|
+|[BO6 Detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672490-bo6-detections.html)|`2024-11-21 02:12:00`|`Call of Duty: Black Ops 6`|
+|[DMA Card Flashing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673310-dma-card-flashing.html)|`2024-11-21 02:12:00`|`Anti-Cheat Bypass`|
+|[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-11-21 02:11:00`|`Deadlock`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-11-21 02:10:00`|`Rust`|
+|[Apex AI Arduino Aim &#43; Silent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/670987-apex-ai-arduino-aim-silent.html)|`2024-11-21 02:09:00`|`Apex Legends`|
 |[Manual Map Crash After The Last Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673306-manual-map-crash-update.html)|`2024-11-21 01:57:00`|`Counter-Strike 2`|
 |[Any Offsets? &#91;Pluto&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/673101-offsets-pluto.html)|`2024-11-21 01:56:00`|`Call of Duty: Black Ops 2`|
 |[Perfect Silent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672937-perfect-silent.html)|`2024-11-21 01:56:00`|`Counter-Strike 2`|
