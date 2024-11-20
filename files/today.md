@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;VERY NEW&#41; How to create A tarkov esp?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673125-create-tarkov-esp.html)|`2024-11-20 12:33:00`|`Escape from Tarkov`|
+|[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2024-11-20 12:28:00`|`Elite: Dangerous`|
+|[External Raycasting &#40;PhysX recreation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673196-external-raycasting-physx-recreation.html)|`2024-11-20 12:26:00`|`Escape from Tarkov`|
 |[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-11-20 12:05:00`|`Other Games`|
 |[Is there to add bots for Doomsday Heist instead of players?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/673073-add-bots-doomsday-heist-instead-players.html)|`2024-11-20 11:52:00`|`Grand Theft Auto V`|
 |[Rocket League Mod/Cheat Template](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/580873-rocket-league-mod-cheat-template.html)|`2024-11-20 11:48:00`|`Other FPS Games`|
