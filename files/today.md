@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Suggestions for better script parameters, taking SAI as an example](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673267-suggestions-script-parameters-taking-sai-example.html)|`2024-11-21 00:59:00`|`Call of Duty: Black Ops 6`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2024-11-21 00:58:00`|`Apex Legends`|
+|[Fiveguard "anti spoof"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/672662-fiveguard-anti-spoof.html)|`2024-11-21 00:56:00`|`Alternative Online Mods`|
+|[Please Give No Fog For X32 bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/673293-please-fog-x32-bit.html)|`2024-11-21 00:56:00`|`PUBG Mobile`|
 |[Triggerbot on Windows?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/673292-triggerbot-windows.html)|`2024-11-21 00:53:00`|`Apex Legends`|
 |[BO6 Color Aim Assist &#40;W&#46;I&#46;P&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671984-bo6-color-aim-assist.html)|`2024-11-21 00:49:00`|`Call of Duty: Black Ops 6`|
 |[how to get drivers to run rust cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673208-drivers-run-rust-cheats.html)|`2024-11-21 00:48:00`|`Valorant`|
