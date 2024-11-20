@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Shadowban Workaround](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673188-shadowban-workaround.html)|`2024-11-21 01:08:00`|`Call of Duty: Black Ops 6`|
+|[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-11-21 01:07:00`|`Other Games`|
+|[Logan Paul defeats Mike Tyson](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/672737-logan-paul-defeats-mike-tyson.html)|`2024-11-21 01:04:00`|`Off Topic`|
+|[America's Army: Proving Grounds NoRecoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/america-s-army-proving-grounds/673295-americas-army-proving-grounds-norecoil.html)|`2024-11-21 01:02:00`|`America's Army: Proving Grounds`|
 |[Suggestions for better script parameters, taking SAI as an example](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673267-suggestions-script-parameters-taking-sai-example.html)|`2024-11-21 00:59:00`|`Call of Duty: Black Ops 6`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2024-11-21 00:58:00`|`Apex Legends`|
 |[Fiveguard "anti spoof"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/672662-fiveguard-anti-spoof.html)|`2024-11-21 00:56:00`|`Alternative Online Mods`|
