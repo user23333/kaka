@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AI Aimbot & Triggerbot, Fast & Accurate &#40;works on every shooter games&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671029-ai-aimbot-triggerbot-fast-accurate-shooter-games.html)|`2024-11-21 07:22:00`|`Rainbow Six Siege`|
+|[Ue4Base giving 0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/673216-ue4base-giving-0-a.html)|`2024-11-21 07:18:00`|`PUBG Mobile`|
 |[L4D2 Perfect NoSpread in non zero ping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667960-l4d2-perfect-nospread-zero-ping.html)|`2024-11-21 07:06:00`|`Other FPS Games`|
 |[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2024-11-21 07:04:00`|`Other FPS Games`|
 |[How does VAC detect overlays](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673322-vac-detect-overlays.html)|`2024-11-21 06:51:00`|`Counter-Strike 2`|
