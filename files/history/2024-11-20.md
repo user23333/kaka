@@ -15,6 +15,7 @@
 |24|[BO6 Color Aim Assist &#40;W&#46;I&#46;P&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671984-bo6-color-aim-assist.html)|`2024-11-20 05:09:48`|`call-of-duty-black-ops-6-a`|
 |0|[Easy ZOMBIES Camo Grind/XP Farm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672219-easy-zombies-camo-grind-xp-farm.html)|`2024-11-20 09:15:29`|`call-of-duty-black-ops-6-a`|
 |9|[DMA with ESP,Cr3 fix &#40;fix from FATE DMA SOURCE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/672072-dma-esp-cr3-fix-fix-fate-dma-source.html)|`2024-11-20 16:59:17`|`apex-legends`|
+|14|[BOT LOBBY Method Chrome Tabs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672955-bot-lobby-method-chrome-tabs.html)|`2024-11-20 21:00:12`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,9 +33,17 @@
 |2|[warthunder&#95;unlocker&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47575)|`2024-11-20 01:40:48`|
 |6|[Cs2 DX11 External Overlay Cheat v5&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47582)|`2024-11-20 02:21:58`|
 |1|[external dex precompiled](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47595)|`2024-11-20 06:14:04`|
+|2|[The&#95;Goat&#46;lua](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47608)|`2024-11-20 21:00:12`|
+|4|[DMA Radar source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47606)|`2024-11-20 21:00:12`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[about AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662127-ahk.html)|`2024-11-20 20:58:00`|`Apex Legends`|
+|[Am I able to gift my good friend "these" items?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/664909-am-able-gift-friend-items.html)|`2024-11-20 20:52:00`|`Escape from Tarkov`|
+|[VGK obfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671176-vgk-obfuscation.html)|`2024-11-20 20:51:00`|`Anti-Cheat Bypass`|
+|[&#40;DMA&#41; Black Ops 6: RADAR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673045-dma-black-ops-6-radar.html)|`2024-11-20 20:50:00`|`Call of Duty: Black Ops 6`|
+|[The Goat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/673075-goat.html)|`2024-11-20 20:44:00`|`Grand Theft Auto V`|
+|[Broken Arrow &#43;4 trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/623538-broken-arrow-4-trainer.html)|`2024-11-20 20:36:00`|`Other MMORPG and Strategy`|
 |[modded cars for yim menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/665300-modded-cars-yim-menu.html)|`2024-11-20 20:25:00`|`Grand Theft Auto V`|
 |[Frame Flags](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/673257-frame-flags.html)|`2024-11-20 20:15:00`|`Alternative Online Mods`|
 |[PUBG DMA cheat source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/667961-pubg-dma-cheat-source-code.html)|`2024-11-20 20:11:00`|`Playerunknown's Battlegrounds`|
