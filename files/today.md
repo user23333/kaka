@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to change signature](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673281-change-signature.html)|`2024-11-21 01:40:00`|`Valorant`|
+|[ARMA 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/114242-arma-3-reversal-structs-offsets.html)|`2024-11-21 01:39:00`|`ARMA 3`|
+|[Solo AFK XP Method and AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673301-solo-afk-xp-method-ahk.html)|`2024-11-21 01:39:00`|`Call of Duty: Black Ops 6`|
+|[Apex CV YOLO v8 Aim Assist Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/624584-apex-cv-yolo-v8-aim-assist-bot.html)|`2024-11-21 01:38:00`|`Apex Legends`|
 |[&#40;VERY NEW&#41; How to create A tarkov esp?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673125-create-tarkov-esp.html)|`2024-11-21 01:28:00`|`Escape from Tarkov`|
 |[DMA with ESP,Cr3 fix &#40;fix from FATE DMA SOURCE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/672072-dma-esp-cr3-fix-fix-fate-dma-source.html)|`2024-11-21 01:19:00`|`Apex Legends`|
 |[Shadowban Workaround](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673188-shadowban-workaround.html)|`2024-11-21 01:08:00`|`Call of Duty: Black Ops 6`|
