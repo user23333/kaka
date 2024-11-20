@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lockdown Protocol Cheat Table v0&#46;1&#46;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/659299-lockdown-protocol-cheat-table-v0-1-26-a.html)|`2024-11-21 05:48:00`|`Other Games`|
+|[BLACK OPS 6 AIM ASSIST &#40;AHK&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671940-black-ops-6-aim-assist-ahk.html)|`2024-11-21 05:41:00`|`Call of Duty: Black Ops 6`|
 |[ZE&#45;hopELite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/645800-ze-hopelite.html)|`2024-11-21 05:42:00`|`CounterStrike Source`|
 |[Dead by Daylight &#45; Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625318-dead-daylight-unlock-dlcs-skins.html)|`2024-11-21 05:18:00`|`Other FPS Games`|
 |[Why do I need 4 posts to send a message?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/587713-4-posts-send-message.html)|`2024-11-21 05:10:00`|`Forum General`|
