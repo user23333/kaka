@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Triggerbot on Windows?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/673292-triggerbot-windows.html)|`2024-11-21 00:53:00`|`Apex Legends`|
+|[BO6 Color Aim Assist &#40;W&#46;I&#46;P&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671984-bo6-color-aim-assist.html)|`2024-11-21 00:49:00`|`Call of Duty: Black Ops 6`|
+|[how to get drivers to run rust cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673208-drivers-run-rust-cheats.html)|`2024-11-21 00:48:00`|`Valorant`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-11-21 00:45:00`|`Valorant`|
 |[&#91;censored&#93; question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673204-censored-question.html)|`2024-11-21 00:40:00`|`Call of Duty: Black Ops 6`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2024-11-21 00:33:00`|`Alternative Online Mods`|
 |[Josh's AHKv2&#46;0 Color Aim Assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673209-joshs-ahkv2-0-color-aim-assist.html)|`2024-11-21 00:33:00`|`Call of Duty: Black Ops 6`|
