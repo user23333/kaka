@@ -42,6 +42,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[View Matrix Without Ue4 Base 32 Bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/673446-view-matrix-ue4-base-32-bit.html)|`2024-11-21 23:11:00`|`PUBG Mobile`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2024-11-21 23:05:00`|`Phasmophobia`|
 |[OV3RSW33T: AN OVERWAT Pack: Reborn & Recoded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/603412-ov3rsw33t-overwat-pack-reborn-recoded.html)|`2024-11-21 22:47:00`|`Overwatch`|
 |[VMWare exposing HWID's?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673382-vmware-exposing-hwids.html)|`2024-11-21 22:45:00`|`Anti-Cheat Bypass`|
 |[Plz Give Crash Fix x32 bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/673433-plz-crash-fix-x32-bit.html)|`2024-11-21 22:42:00`|`PUBG Mobile`|
