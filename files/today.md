@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2024-11-22 01:37:00`|`Other FPS Games`|
+|[Dearth &#91;SCP SL&#93; Cheat 13&#46;5&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/669532-dearth-scp-sl-cheat-13-5-1-a.html)|`2024-11-22 01:36:00`|`Other Games`|
 |[Server Destroyer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/673464-server-destroyer.html)|`2024-11-22 01:26:00`|`Among Us`|
 |[BO6 Enhanced Color Aim AHK GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671390-bo6-enhanced-color-aim-ahk-gui.html)|`2024-11-22 01:22:00`|`Call of Duty: Black Ops 6`|
 |[simple cs2 esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673463-simple-cs2-esp.html)|`2024-11-22 01:15:00`|`Counter-Strike 2`|
