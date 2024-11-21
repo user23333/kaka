@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[IMS DLC &#124; Based on Sea of ​​Choros](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/620837-ims-dlc-based-sea-choros.html)|`2024-11-22 05:39:00`|`Sea of Thieves`|
+|[leaked certificate driver load](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/672728-leaked-certificate-driver-load.html)|`2024-11-22 05:38:00`|`Anti-Cheat Bypass`|
+|[A certificate that has expired but not revoked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673047-certificate-expired-revoked.html)|`2024-11-22 05:37:00`|`Anti-Cheat Bypass`|
 |[Banishment question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673396-banishment-question.html)|`2024-11-22 05:24:00`|`Call of Duty: Black Ops 6`|
 |[New CUserCmd and Input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666630-cusercmd-input.html)|`2024-11-22 05:23:00`|`Counter-Strike 2`|
 |[can exception be made to upload protected bo1 hack?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/673380-exception-upload-protected-bo1-hack.html)|`2024-11-22 05:21:00`|`Call of Duty: Black Ops`|
