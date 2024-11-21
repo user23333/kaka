@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[thirdperson just not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672859-thirdperson.html)|`2024-11-21 17:17:00`|`Counter-Strike 2`|
 |[How to Fix TPM Ban easily &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/626786-fix-tpm-ban-easily.html)|`2024-11-21 16:28:00`|`Valorant`|
 |[Banishment question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673396-banishment-question.html)|`2024-11-21 16:21:00`|`Call of Duty: Black Ops 6`|
 |[question about game ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/673394-question-game-ban.html)|`2024-11-21 16:01:00`|`Rust`|
