@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Brighter Shores Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/670902-brighter-shores-reversal-structs-offsets.html)|`2024-11-22 07:40:00`|`Other MMORPG and Strategy`|
+|[Cs2 Driver Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672943-cs2-driver-cheat.html)|`2024-11-22 07:36:00`|`Counter-Strike 2`|
 |[Demo of a recoil script generator i'm working on](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673504-demo-recoil-script-generator-im.html)|`2024-11-22 07:25:00`|`Call of Duty: Black Ops 6`|
 |[Astroneer Qbits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/431633-astroneer-qbits.html)|`2024-11-22 07:20:00`|`Unreal Engine 4`|
 |[Pixel Strike 3D Hack &#40;2024&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662658-pixel-strike-3d-hack-2024-a.html)|`2024-11-22 07:19:00`|`Other FPS Games`|
