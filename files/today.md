@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Age of Empires 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/589592-age-empires-4-reversal-structs-offsets.html)|`2024-11-21 15:58:00`|`Other MMORPG and Strategy`|
 |[Random Game Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/673393-random-game-ban.html)|`2024-11-21 15:47:00`|`Rust`|
 |[Blackops 6 Python AFK Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671058-blackops-6-python-afk-bot.html)|`2024-11-21 15:19:00`|`Call of Duty: Black Ops 6`|
 |[external dex for roblox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670469-external-dex-roblox.html)|`2024-11-21 15:09:00`|`Other Games`|
