@@ -35,9 +35,11 @@
 |1|[bgmi 3&#46;5 32&#45;bit SDK ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47639)|`2024-11-21 21:48:22`|
 |0|[Android Pokemon TCG Pocket Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47638)|`2024-11-21 21:48:22`|
 |1|[iOS Pokemon TCG Pocket Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47637)|`2024-11-21 21:48:22`|
+|1|[Idle Slayer CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47636)|`2024-11-21 21:54:26`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GMOD&#45;SDK fully fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/673425-gmod-sdk-fixed.html)|`2024-11-21 21:52:00`|`Garry's Mod`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2024-11-21 21:42:00`|`DayZ SA`|
 |[kiero hook &#45;1 error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/672636-kiero-hook-1-error.html)|`2024-11-21 21:32:00`|`General Programming and Reversing`|
 |[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-11-21 21:03:00`|`Overwatch`|
