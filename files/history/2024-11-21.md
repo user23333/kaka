@@ -36,9 +36,15 @@
 |0|[Android Pokemon TCG Pocket Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47638)|`2024-11-21 21:48:22`|
 |1|[iOS Pokemon TCG Pocket Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47637)|`2024-11-21 21:48:22`|
 |1|[Idle Slayer CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47636)|`2024-11-21 21:54:26`|
+|1|[METRIA CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47635)|`2024-11-21 22:18:36`|
+|1|[My Hero Ultra Rumble V14 Hitlerjoe&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47634)|`2024-11-21 22:18:36`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2024-11-21 22:15:00`|`Grand Theft Auto V`|
+|[Reversing Brighter Shores](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/672125-reversing-brighter-shores.html)|`2024-11-21 22:11:00`|`Other MMORPG and Strategy`|
+|[METRIA &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673362-metria-steam.html)|`2024-11-21 21:58:00`|`Other MMORPG and Strategy`|
+|[Disk spoof realistic disk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673426-disk-spoof-realistic-disk.html)|`2024-11-21 21:57:00`|`Anti-Cheat Bypass`|
 |[GMOD&#45;SDK fully fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/673425-gmod-sdk-fixed.html)|`2024-11-21 21:52:00`|`Garry's Mod`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2024-11-21 21:42:00`|`DayZ SA`|
 |[kiero hook &#45;1 error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/672636-kiero-hook-1-error.html)|`2024-11-21 21:32:00`|`General Programming and Reversing`|
