@@ -43,6 +43,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Page fault hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673349-page-fault-hook.html)|`2024-11-21 23:43:00`|`Anti-Cheat Bypass`|
 |[how to detect if a player is in the game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673449-detect-player-game.html)|`2024-11-21 23:38:00`|`Counter-Strike 2`|
 |[Banana Shooter Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/672670-banana-shooter-internal-cheat.html)|`2024-11-21 23:36:00`|`Other FPS Games`|
 |[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2024-11-21 23:35:00`|`Escape from Tarkov`|
