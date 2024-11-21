@@ -41,6 +41,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[A&#46;I&#46; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/663992-aimbot.html)|`2024-11-21 22:33:00`|`C and C++`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-11-21 22:30:00`|`Grand Theft Auto V`|
+|[Sai's Color Aimbot Python and RAZER mouse move](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/666127-sais-color-aimbot-python-razer-mouse-move.html)|`2024-11-21 22:28:00`|`Call of Duty: Modern Warfare III`|
+|[Fighting AC for the first time](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671908-fighting-ac-time.html)|`2024-11-21 22:27:00`|`Counter-Strike 2`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2024-11-21 22:26:00`|`Rainbow Six Siege`|
+|[Fish Idle 2 Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/653727-fish-idle-2-cheat-engine.html)|`2024-11-21 22:20:00`|`Other Games`|
 |[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2024-11-21 22:15:00`|`Grand Theft Auto V`|
 |[Reversing Brighter Shores](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/672125-reversing-brighter-shores.html)|`2024-11-21 22:11:00`|`Other MMORPG and Strategy`|
 |[METRIA &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673362-metria-steam.html)|`2024-11-21 21:58:00`|`Other MMORPG and Strategy`|
