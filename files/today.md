@@ -38,9 +38,12 @@
 |1|[Idle Slayer CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47636)|`2024-11-21 21:54:26`|
 |1|[METRIA CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47635)|`2024-11-21 22:18:36`|
 |1|[My Hero Ultra Rumble V14 Hitlerjoe&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47634)|`2024-11-21 22:18:36`|
+|1|[Freestyle ShotBot 2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47633)|`2024-11-21 22:45:14`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Plz Give Crash Fix x32 bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/673433-plz-crash-fix-x32-bit.html)|`2024-11-21 22:42:00`|`PUBG Mobile`|
+|[FreeStyle GunZ ShotBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/gunz/673351-freestyle-gunz-shotbot.html)|`2024-11-21 22:38:00`|`GunZ`|
 |[A&#46;I&#46; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/663992-aimbot.html)|`2024-11-21 22:33:00`|`C and C++`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-11-21 22:30:00`|`Grand Theft Auto V`|
 |[Sai's Color Aimbot Python and RAZER mouse move](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/666127-sais-color-aimbot-python-razer-mouse-move.html)|`2024-11-21 22:28:00`|`Call of Duty: Modern Warfare III`|
