@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2024-11-21 13:01:00`|`Garry's Mod`|
+|[Is the data I'm looking for there?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/659053-data-im-looking.html)|`2024-11-21 13:00:00`|`Call of Duty: Modern Warfare III`|
 |[How to bypass be to use heist editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/672782-bypass-heist-editor.html)|`2024-11-21 12:57:00`|`Grand Theft Auto V`|
 |[&#91;Always Updated&#93; Color aimbot razer mouse injector coded in python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/659124-updated-color-aimbot-razer-mouse-injector-coded-python.html)|`2024-11-21 12:45:00`|`Other FPS Games`|
 |[can exception be made to upload protected bo1 hack?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/673380-exception-upload-protected-bo1-hack.html)|`2024-11-21 12:41:00`|`Call of Duty: Black Ops`|
