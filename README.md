@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Astroneer Qbits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/431633-astroneer-qbits.html)|`2024-11-22 07:20:00`|`Unreal Engine 4`|
+|[Pixel Strike 3D Hack &#40;2024&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662658-pixel-strike-3d-hack-2024-a.html)|`2024-11-22 07:19:00`|`Other FPS Games`|
+|[FiveM Locations Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340679-fivem-locations-thread.html)|`2024-11-22 07:13:00`|`Alternative Online Mods`|
+|[Mordhau cheat &#124;&#124; Patch &#35;28](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/612663-mordhau-cheat-patch-28-a.html)|`2024-11-22 07:13:00`|`Other FPS Games`|
+|[RUST DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/672695-rust-dma.html)|`2024-11-22 07:11:00`|`Rust`|
+|[Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/672620-mod-menu.html)|`2024-11-22 07:09:00`|`Among Us`|
 |[GSC Decompiler/Compiler for Modern Warfare III](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/672347-gsc-decompiler-compiler-modern-warfare-iii.html)|`2024-11-22 07:04:00`|`Call of Duty: Modern Warfare III`|
 |[Broken Arrow Cheat&#45; XDClient](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673500-broken-arrow-cheat-xdclient.html)|`2024-11-22 06:59:00`|`Other MMORPG and Strategy`|
 |[Can't find the MetadataCache function in reverse engineered il2cpp code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/673363-cant-metadatacache-function-reverse-engineered-il2cpp-code.html)|`2024-11-22 06:51:00`|`Unity`|
