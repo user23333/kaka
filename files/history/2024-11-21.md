@@ -12,6 +12,7 @@
 |14|[BOT LOBBY Method Chrome Tabs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672955-bot-lobby-method-chrome-tabs.html)|`2024-11-21 00:23:05`|`call-of-duty-black-ops-6-a`|
 |9|[DMA with ESP,Cr3 fix &#40;fix from FATE DMA SOURCE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/672072-dma-esp-cr3-fix-fix-fate-dma-source.html)|`2024-11-21 00:23:05`|`apex-legends`|
 |9|[Macro Script for Camo Swap glitch MW camos to Bo6&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672497-macro-script-camo-swap-glitch-mw-camos-bo6.html)|`2024-11-21 00:43:34`|`call-of-duty-black-ops-6-a`|
+|21|[Destiny 2 Cheat Table v1&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/672496-destiny-2-cheat-table-v1-0-0-a.html)|`2024-11-21 09:15:33`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Forcing Weapons, Skins etc&#46; Through DDL Buffer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673365-forcing-weapons-skins-etc-ddl-buffer.html)|`2024-11-21 09:15:00`|`Call of Duty: Black Ops 6`|
+|[XGuard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/450415-xguard.html)|`2024-11-21 09:13:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[New CUserCmd and Input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666630-cusercmd-input.html)|`2024-11-21 09:06:00`|`Counter-Strike 2`|
+|[Josh's Aim Assist V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670254-joshs-aim-assist-v1.html)|`2024-11-21 09:00:00`|`Call of Duty: Black Ops 6`|
+|[disable DSE to load cheat engine driver DBK &#124; Bypass EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/602024-disable-dse-load-cheat-engine-driver-dbk-bypass-eac.html)|`2024-11-21 08:56:00`|`Anti-Cheat Bypass`|
+|[Idle Slayer &#43;27](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673364-idle-slayer-27-a.html)|`2024-11-21 08:43:00`|`Other MMORPG and Strategy`|
+|[Battlefield 1 aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/673219-battlefield-1-aim-assist.html)|`2024-11-21 08:40:00`|`Battlefield 1`|
 |[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2024-11-21 07:57:00`|`Grand Theft Auto V`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2024-11-21 07:57:00`|`Overwatch`|
 |[New to Rust DMA: need help with programming&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/673201-rust-dma-help-programming.html)|`2024-11-21 07:55:00`|`Rust`|
