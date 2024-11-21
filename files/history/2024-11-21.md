@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[💸 VALORANT EXTERNAL V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/638001-valorant-external-v2.html)|`2024-11-21 18:55:00`|`Valorant`|
+|[Tpm Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/666357-tpm-bypass.html)|`2024-11-21 18:53:00`|`Valorant`|
 |[Anyone know how level hack possible?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/668746-level-hack.html)|`2024-11-21 18:37:00`|`Among Us`|
 |[leaked certificate driver load](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/672728-leaked-certificate-driver-load.html)|`2024-11-21 18:34:00`|`Anti-Cheat Bypass`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2024-11-21 18:30:00`|`Counter-Strike 2 Releases`|
