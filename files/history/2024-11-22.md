@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2024-11-22 01:58:00`|`Alternative Online Mods`|
 |[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-11-22 01:51:00`|`Other Games`|
 |[Final Jitter aim for Controller&#40;and MnK&#41;, bugs fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/673025-final-jitter-aim-controller-mnk-bugs-fixed.html)|`2024-11-22 01:49:00`|`Apex Legends`|
 |[How to bypass DSE in Windows 24H2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673076-bypass-dse-windows-24h2.html)|`2024-11-22 01:49:00`|`Anti-Cheat Bypass`|
