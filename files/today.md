@@ -13,6 +13,7 @@
 |9|[DMA with ESP,Cr3 fix &#40;fix from FATE DMA SOURCE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/672072-dma-esp-cr3-fix-fix-fate-dma-source.html)|`2024-11-21 00:23:05`|`apex-legends`|
 |9|[Macro Script for Camo Swap glitch MW camos to Bo6&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672497-macro-script-camo-swap-glitch-mw-camos-bo6.html)|`2024-11-21 00:43:34`|`call-of-duty-black-ops-6-a`|
 |21|[Destiny 2 Cheat Table v1&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/672496-destiny-2-cheat-table-v1-0-0-a.html)|`2024-11-21 09:15:33`|`other-fps-games`|
+|10|[BO6 Detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672490-bo6-detections.html)|`2024-11-21 14:37:14`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,9 +31,12 @@
 |1|[5&#46;1&#46;1&#45;0&#43;&#43;&#43;UE5&#43;Release&#45;5&#46;1&#45;Stalker2&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47632)|`2024-11-21 05:58:24`|
 |1|[STALKER 2 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47630)|`2024-11-21 05:58:24`|
 |1|[Valorant&#45;9&#45;10&#45;SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47615)|`2024-11-21 05:58:24`|
+|3|[requirements&#46;txt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47612)|`2024-11-21 14:37:14`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is there to add bots for Doomsday Heist instead of players?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/673073-add-bots-doomsday-heist-instead-players.html)|`2024-11-21 14:25:00`|`Grand Theft Auto V`|
+|[AIMCOLOR SPECTRE DIVIDE UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662768-aimcolor-spectre-divide-ud.html)|`2024-11-21 14:18:00`|`Other FPS Games`|
 |[Close fight movement macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/673315-close-fight-movement-macro.html)|`2024-11-21 14:08:00`|`Apex Legends`|
 |[Parsing VadRoot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/663815-parsing-vadroot.html)|`2024-11-21 13:50:00`|`General Programming and Reversing`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2024-11-21 13:22:00`|`Other FPS Games`|
