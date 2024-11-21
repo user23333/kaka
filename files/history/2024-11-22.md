@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Idle Slayer &#43;27](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673364-idle-slayer-27-a.html)|`2024-11-22 03:57:00`|`Other MMORPG and Strategy`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2024-11-22 03:57:00`|`Escape from Tarkov`|
 |[ColorBot in Python using the Razer driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/651901-colorbot-python-using-razer-driver.html)|`2024-11-22 03:50:00`|`Valorant`|
 |[The Finals ColorBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/669800-finals-colorbot.html)|`2024-11-22 03:45:00`|`THE FINALS`|
 |[Banned On Pirated Dayz Servers&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/673482-banned-pirated-dayz-servers.html)|`2024-11-22 03:41:00`|`DayZ SA`|
