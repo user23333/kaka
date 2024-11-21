@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-11-22 05:50:00`|`Counter-Strike 2`|
+|[BattlEyen't &#45; play offline raids without BattlEye on live version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/481919-battleyent-play-offline-raids-battleye-live-version.html)|`2024-11-22 05:48:00`|`Escape from Tarkov`|
+|[TOP MACRO Logitech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668884-top-macro-logitech.html)|`2024-11-22 05:47:00`|`Rust`|
 |[Full Free Rust Script &#40;Undetected&#41; &#45;&#62; 30/04/2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/634920-free-rust-script-undetected-30-04-2024-a.html)|`2024-11-22 05:45:00`|`Rust`|
 |[Xenos injector v2&#46;3&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/124013-xenos-injector-v2-3-2-a.html)|`2024-11-22 05:43:00`|`General Programming and Reversing`|
 |[IMS DLC &#124; Based on Sea of ​​Choros](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/620837-ims-dlc-based-sea-choros.html)|`2024-11-22 05:39:00`|`Sea of Thieves`|
