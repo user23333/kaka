@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can't find the MetadataCache function in reverse engineered il2cpp code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/673363-cant-metadatacache-function-reverse-engineered-il2cpp-code.html)|`2024-11-22 06:51:00`|`Unity`|
 |[Free Animated imgui Loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/672274-free-animated-imgui-loader.html)|`2024-11-22 06:49:00`|`C and C++`|
 |[Proper Viewmodel changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/658247-proper-viewmodel-changer.html)|`2024-11-22 06:44:00`|`Counter-Strike 2`|
 |[CS2 Internal Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672787-cs2-internal-base.html)|`2024-11-22 06:27:00`|`Counter-Strike 2`|
