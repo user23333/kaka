@@ -38,9 +38,14 @@
 |5|[bf1 aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47645)|`2024-11-22 09:23:26`|
 |9|[GamerFunAI&#45;Menu&#45;101&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47655)|`2024-11-22 10:38:51`|
 |3|[Pokemon Go Android Mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47648)|`2024-11-22 10:38:51`|
+|2|[PhasmoMenu v0&#46;5&#46;4&#46;6 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47659)|`2024-11-22 13:18:44`|
+|4|[johanna&#46;deadlock&#46;update&#46;22&#46;11&#46;24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47657)|`2024-11-22 13:18:44`|
+|1|[America's Army: Proving Grounds NoRecoil tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47656)|`2024-11-22 13:18:44`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Diablo Immortal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/502649-diablo-immortal.html)|`2024-11-22 13:15:00`|`Other MMORPG and Strategy`|
+|[America's Army: Proving Grounds NoRecoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/america-s-army-proving-grounds/673295-americas-army-proving-grounds-norecoil.html)|`2024-11-22 13:01:00`|`America's Army: Proving Grounds`|
 |[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-11-22 12:40:00`|`Overwatch`|
 |[what cheat providers do yall use?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673532-cheat-providers-yall.html)|`2024-11-22 12:23:00`|`Call of Duty: Black Ops 6`|
 |[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2024-11-22 12:15:00`|`Unity`|
