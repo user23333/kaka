@@ -41,6 +41,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2024-11-22 12:15:00`|`Unity`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-11-22 12:10:00`|`Valorant`|
+|[Universal Injector PoC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/672405-universal-injector-poc.html)|`2024-11-22 12:03:00`|`Anti-Cheat Bypass`|
+|[Khanxbahria's Mouse Instruct was taken down&#46;&#46;&#46; anybody still have a copy of the repo?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673530-khanxbahrias-mouse-instruct-copy-repo.html)|`2024-11-22 12:00:00`|`Valorant`|
 |[theHunter: Call of the Wild Internal Radar, ESP, & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644365-thehunter-call-wild-internal-radar-esp.html)|`2024-11-22 11:58:00`|`Other FPS Games`|
 |[Arduino HID Mouse &#43; Free Libraries](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/642071-arduino-hid-mouse-free-libraries.html)|`2024-11-22 11:58:00`|`Valorant`|
 |[How to change signature](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673281-change-signature.html)|`2024-11-22 11:55:00`|`Valorant`|
