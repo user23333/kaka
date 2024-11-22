@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I'm gonna be that piece of shit i guess&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/668738-im-gonna-piece-shit-guess.html)|`2024-11-23 01:36:00`|`DayZ SA`|
+|[Solo AFK XP Method and AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673301-solo-afk-xp-method-ahk.html)|`2024-11-23 01:34:00`|`Call of Duty: Black Ops 6`|
+|[Apex CV YOLO v8 Aim Assist Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/624584-apex-cv-yolo-v8-aim-assist-bot.html)|`2024-11-23 01:34:00`|`Apex Legends`|
+|[My anti recoil script in c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/673617-anti-recoil-script.html)|`2024-11-23 01:28:00`|`Rust`|
+|[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2024-11-23 01:28:00`|`Other FPS Games`|
 |[Linux External Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673491-linux-external-aimbot.html)|`2024-11-23 01:17:00`|`Counter-Strike 2`|
 |[Josh's AHKv2&#46;0 Color Aim Assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673209-joshs-ahkv2-0-color-aim-assist.html)|`2024-11-23 01:11:00`|`Call of Duty: Black Ops 6`|
 |[Treason's V3 AIO Aim Assist Edit &#40;BETA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670270-treasons-v3-aio-aim-assist-edit-beta.html)|`2024-11-23 01:01:00`|`Call of Duty: Black Ops 6`|
