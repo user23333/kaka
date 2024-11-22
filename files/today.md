@@ -11,6 +11,7 @@
 |17|[Josh's AHKv2&#46;0 Color Aim Assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673209-joshs-ahkv2-0-color-aim-assist.html)|`2024-11-23 00:11:28`|`call-of-duty-black-ops-6-a`|
 |3|[Bo6 Battle pass tokens dupe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672640-bo6-battle-pass-tokens-dupe.html)|`2024-11-23 00:11:28`|`call-of-duty-black-ops-6-a`|
 |8|[Cs2 Driver Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672943-cs2-driver-cheat.html)|`2024-11-23 00:11:28`|`counter-strike-2-a`|
+|16|[Shadowban Workaround](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673188-shadowban-workaround.html)|`2024-11-23 02:35:32`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AI Aimbot & Triggerbot, Fast & Accurate &#40;works on every shooter games&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671029-ai-aimbot-triggerbot-fast-accurate-shooter-games.html)|`2024-11-23 02:34:00`|`Rainbow Six Siege`|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2024-11-23 02:28:00`|`Phasmophobia`|
+|[Palia Hack &#40;ESP/Autofish/Movements&#41; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/637286-palia-hack-esp-autofish-movements-internal.html)|`2024-11-23 02:26:00`|`Palia`|
+|[Dale & Dawnson Stationery Supplies &#40;DDSS&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/659974-dale-dawnson-stationery-supplies-ddss.html)|`2024-11-23 02:12:00`|`Unity`|
 |[question about ApplyPawnHighlight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/673650-question-applypawnhighlight.html)|`2024-11-23 02:08:00`|`Unreal Engine 4`|
 |[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-11-23 02:07:00`|`Other Games`|
 |[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2024-11-23 02:05:00`|`Garry's Mod`|
