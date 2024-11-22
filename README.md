@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can't load fusion plugin in IDA9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/672522-cant-load-fusion-plugin-ida9.html)|`2024-11-23 03:29:00`|`C and C++`|
+|[Any Offsets? &#91;Pluto&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/673101-offsets-pluto.html)|`2024-11-23 03:25:00`|`Call of Duty: Black Ops 2`|
+|[Battlefield 1 aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/673219-battlefield-1-aim-assist.html)|`2024-11-23 03:24:00`|`Battlefield 1`|
+|[Valorant asus spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673647-valorant-asus-spoofing.html)|`2024-11-23 03:24:00`|`Valorant`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2024-11-23 03:24:00`|`Phasmophobia`|
 |[Generate class](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673672-generate-class.html)|`2024-11-23 03:10:00`|`Counter-Strike 2`|
 |[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-11-23 03:04:00`|`Overwatch`|
 |[Khanxbahria's Mouse Instruct was taken down&#46;&#46;&#46; anybody still have a copy of the repo?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673530-khanxbahrias-mouse-instruct-copy-repo.html)|`2024-11-23 03:03:00`|`Valorant`|
