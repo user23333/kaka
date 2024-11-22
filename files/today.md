@@ -44,6 +44,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[LAPTOP HP 250 G8 &#45; Remove Van 152 &#45; COMPLETE PROCESS&#45;&#45; WORKING](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/672786-laptop-hp-250-g8-remove-van-152-complete-process.html)|`2024-11-22 14:54:00`|`Valorant`|
 |[Decrypting IL2CPP Metadata and Assembly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/671918-decrypting-il2cpp-metadata-assembly.html)|`2024-11-22 14:40:00`|`Unity`|
 |[Abusing &#95;&#95;sidt and the IDTR structure as a means of acquiring ntoskrnl base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673366-abusing-__sidt-idtr-structure-means-acquiring-ntoskrnl-base.html)|`2024-11-22 13:19:00`|`Anti-Cheat Bypass`|
 |[Diablo Immortal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/502649-diablo-immortal.html)|`2024-11-22 13:15:00`|`Other MMORPG and Strategy`|
