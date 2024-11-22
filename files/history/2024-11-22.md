@@ -28,9 +28,20 @@
 |9|[STALKER 2 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47630)|`2024-11-22 00:00:17`|
 |29|[Valorant&#45;9&#45;10&#45;SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47615)|`2024-11-22 00:00:17`|
 |2|[OriginPalia 3&#46;1&#46;4 PUBLIC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47652)|`2024-11-22 06:43:18`|
+|8|[pwnus zen ahk script latest vers 11/21/2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47654)|`2024-11-22 09:23:26`|
+|2|[XDClient1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47653)|`2024-11-22 09:23:26`|
+|2|[johanna&#46;deadlock&#46;V1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47651)|`2024-11-22 09:23:26`|
+|1|[deadlocked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47650)|`2024-11-22 09:23:26`|
+|1|[ShotBot Fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47647)|`2024-11-22 09:23:26`|
+|1|[NO STRANGERS Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47646)|`2024-11-22 09:23:26`|
+|5|[bf1 aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47645)|`2024-11-22 09:23:26`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-11-22 09:16:00`|`Deadlock`|
+|[VMWare exposing HWID's?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673382-vmware-exposing-hwids.html)|`2024-11-22 09:14:00`|`Anti-Cheat Bypass`|
+|[Disk spoof realistic disk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673426-disk-spoof-realistic-disk.html)|`2024-11-22 09:12:00`|`Anti-Cheat Bypass`|
+|[Rust &#124; Ban Discussion Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/469369-rust-ban-discussion-thread.html)|`2024-11-22 09:00:00`|`Rust`|
 |[Subterranauts INFINITE STAMINA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/673129-subterranauts-infinite-stamina.html)|`2024-11-22 07:57:00`|`Other Games`|
 |[DRAGON BALL Sparking&#33; ZERO &#45; Easy Inputs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/672857-dragon-ball-sparking-zero-easy-inputs.html)|`2024-11-22 07:53:00`|`Other Games`|
 |[Shadowban Workaround](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673188-shadowban-workaround.html)|`2024-11-22 07:49:00`|`Call of Duty: Black Ops 6`|
