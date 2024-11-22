@@ -41,9 +41,13 @@
 |2|[PhasmoMenu v0&#46;5&#46;4&#46;6 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47659)|`2024-11-22 13:18:44`|
 |4|[johanna&#46;deadlock&#46;update&#46;22&#46;11&#46;24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47657)|`2024-11-22 13:18:44`|
 |1|[America's Army: Proving Grounds NoRecoil tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47656)|`2024-11-22 13:18:44`|
+|1|[Broken Arrow &#43;13 Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47661)|`2024-11-22 16:22:48`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Broken Arrow &#43;13 Trainer&#40;CT table&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673542-broken-arrow-13-trainer-ct-table.html)|`2024-11-22 16:19:00`|`Other MMORPG and Strategy`|
+|[💸 VALORANT EXTERNAL V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/638001-valorant-external-v2.html)|`2024-11-22 15:45:00`|`Valorant`|
+|[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/582006-demonologist-internal.html)|`2024-11-22 15:45:00`|`Other Games`|
 |[LAPTOP HP 250 G8 &#45; Remove Van 152 &#45; COMPLETE PROCESS&#45;&#45; WORKING](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/672786-laptop-hp-250-g8-remove-van-152-complete-process.html)|`2024-11-22 14:54:00`|`Valorant`|
 |[Decrypting IL2CPP Metadata and Assembly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/671918-decrypting-il2cpp-metadata-assembly.html)|`2024-11-22 14:40:00`|`Unity`|
 |[Abusing &#95;&#95;sidt and the IDTR structure as a means of acquiring ntoskrnl base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673366-abusing-__sidt-idtr-structure-means-acquiring-ntoskrnl-base.html)|`2024-11-22 13:19:00`|`Anti-Cheat Bypass`|
