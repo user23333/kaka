@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA with ESP,Cr3 fix &#40;fix from FATE DMA SOURCE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/672072-dma-esp-cr3-fix-fix-fate-dma-source.html)|`2024-11-23 04:36:00`|`Apex Legends`|
 |[Ways to use Color aimbot without being banned&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673679-color-aimbot-banned.html)|`2024-11-23 04:16:00`|`Valorant`|
 |[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-11-23 03:59:00`|`Counter-Strike 2`|
 |[DMA DayZ Fuser ESP &#43; Radar Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/606723-dma-dayz-fuser-esp-radar-source-release.html)|`2024-11-23 03:59:00`|`DayZ SA`|
