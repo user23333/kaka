@@ -46,6 +46,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My anti recoil script in c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/673617-anti-recoil-script.html)|`2024-11-22 20:39:00`|`Rust`|
+|[Rocket League crahes on inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/673616-rocket-league-crahes-inject.html)|`2024-11-22 20:37:00`|`Other Games`|
 |[Logitech mouse driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673609-logitech-mouse-driver.html)|`2024-11-22 20:20:00`|`Valorant`|
 |[Use AHK script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673608-ahk-script.html)|`2024-11-22 20:17:00`|`Valorant`|
 |[Josh's Aim Assist V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670254-joshs-aim-assist-v1.html)|`2024-11-22 19:52:00`|`Call of Duty: Black Ops 6`|
