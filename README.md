@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Age of Empires 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/589592-age-empires-4-reversal-structs-offsets.html)|`2024-11-23 04:54:00`|`Other MMORPG and Strategy`|
 |[How undetectable is making my own private cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671925-undetectable-own-private-cheat.html)|`2024-11-23 04:47:00`|`Rainbow Six Siege`|
 |[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-11-23 04:44:00`|`Escape from Tarkov`|
 |[DMA with ESP,Cr3 fix &#40;fix from FATE DMA SOURCE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/672072-dma-esp-cr3-fix-fix-fate-dma-source.html)|`2024-11-23 04:36:00`|`Apex Legends`|
