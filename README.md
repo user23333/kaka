@@ -46,6 +46,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA FIRMWARE AND BEGINNER CHEATS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/668666-dma-firmware-beginner-cheats.html)|`2024-11-22 23:14:00`|`Escape from Tarkov`|
+|[AiCheats &#45; BF4 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/668879-aicheats-bf4-external-esp.html)|`2024-11-22 23:06:00`|`Battlefield 4`|
 |[Fast Valorant Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669778-fast-valorant-triggerbot.html)|`2024-11-22 22:58:00`|`Valorant`|
 |[Ingame world to screen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673631-ingame-world-screen.html)|`2024-11-22 22:53:00`|`Counter-Strike 2`|
 |[Chams without patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/672758-chams-patterns.html)|`2024-11-22 22:50:00`|`Counter-Strike 2 Releases`|
