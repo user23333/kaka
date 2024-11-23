@@ -30,9 +30,12 @@
 |58|[OriginPalia 3&#46;1&#46;4 PUBLIC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47652)|`2024-11-23 00:11:28`|
 |15|[johanna&#46;deadlock&#46;V1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47651)|`2024-11-23 00:11:28`|
 |1|[MouseInstruct by Khanxbahria](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47660)|`2024-11-23 03:15:11`|
+|2|[Minecraft Bedrock Xp Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47683)|`2024-11-23 23:25:27`|
+|1|[idle slayer 1305 cheat table fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47679)|`2024-11-23 23:25:27`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[A Lua script for the Patrick McReary random event&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/673824-lua-script-patrick-mcreary-random-event.html)|`2024-11-23 23:23:00`|`Grand Theft Auto V`|
 |[Fastest Python Valorant Triggerbot &#40;fr&#41;&#40;fr&#41;&#40;fr&#41; &#43; Addon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/641020-fastest-python-valorant-triggerbot-fr-fr-fr-addon.html)|`2024-11-23 23:02:00`|`Valorant`|
 |[How to change the bit in cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673785-change-bit-cs2.html)|`2024-11-23 22:56:00`|`Anti-Cheat Bypass`|
 |[New to exploiting in BFV and don't know what to do](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/673764-exploiting-bfv-dont.html)|`2024-11-23 22:37:00`|`Battlefield V`|
