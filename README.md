@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Things you should cache &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673689-cache-dma.html)|`2024-11-24 06:36:00`|`Call of Duty: Black Ops 6`|
+|[External RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673895-external-rcs.html)|`2024-11-24 06:35:00`|`Counter-Strike 2`|
+|[Game crashes trying to spawn vehicle &#40;C&#43;&#43;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/673885-game-crashes-trying-spawn-vehicle.html)|`2024-11-24 06:35:00`|`Grand Theft Auto V`|
+|[Sea of thieves Season 13 FOV Slider, nosprint, and other cheats&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/666750-sea-thieves-season-13-fov-slider-nosprint-cheats.html)|`2024-11-24 06:15:00`|`Sea of Thieves`|
 |[Veh hook returning invalid handle&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/673884-veh-hook-returning-invalid-handle.html)|`2024-11-24 06:14:00`|`C and C++`|
 |[DMA Card Flashing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673310-dma-card-flashing.html)|`2024-11-24 06:09:00`|`Anti-Cheat Bypass`|
 |[DMA device](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673882-dma-device.html)|`2024-11-24 06:04:00`|`Anti-Cheat Bypass`|
