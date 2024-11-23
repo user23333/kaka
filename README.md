@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AFK Bot Lobby Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670285-afk-bot-lobby-guide.html)|`2024-11-24 06:42:00`|`Call of Duty: Black Ops 6`|
+|[Spoofing/Editing Serials on Insyde BIOS HP Systems&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/628213-spoofing-editing-serials-insyde-bios-hp-systems.html)|`2024-11-24 06:33:00`|`Valorant`|
 |[Things you should cache &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673689-cache-dma.html)|`2024-11-24 06:36:00`|`Call of Duty: Black Ops 6`|
 |[External RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673895-external-rcs.html)|`2024-11-24 06:35:00`|`Counter-Strike 2`|
 |[Game crashes trying to spawn vehicle &#40;C&#43;&#43;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/673885-game-crashes-trying-spawn-vehicle.html)|`2024-11-24 06:35:00`|`Grand Theft Auto V`|
