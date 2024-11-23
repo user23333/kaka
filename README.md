@@ -32,9 +32,13 @@
 |1|[MouseInstruct by Khanxbahria](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47660)|`2024-11-23 03:15:11`|
 |2|[Minecraft Bedrock Xp Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47683)|`2024-11-23 23:25:27`|
 |1|[idle slayer 1305 cheat table fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47679)|`2024-11-23 23:25:27`|
+|1|[Valorant Minion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47667)|`2024-11-23 23:34:16`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Handling THREADSTACK0 as a Base Address in Terraria Pointer Chains](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/673826-handling-threadstack0-base-address-terraria-pointer-chains.html)|`2024-11-23 23:29:00`|`Other Games`|
+|[VALORANT MINION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673460-valorant-minion.html)|`2024-11-23 23:27:00`|`Valorant`|
+|[load object skin crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673825-load-object-skin-crash.html)|`2024-11-23 23:26:00`|`Valorant`|
 |[A Lua script for the Patrick McReary random event&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/673824-lua-script-patrick-mcreary-random-event.html)|`2024-11-23 23:23:00`|`Grand Theft Auto V`|
 |[Fastest Python Valorant Triggerbot &#40;fr&#41;&#40;fr&#41;&#40;fr&#41; &#43; Addon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/641020-fastest-python-valorant-triggerbot-fr-fr-fr-addon.html)|`2024-11-23 23:02:00`|`Valorant`|
 |[How to change the bit in cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673785-change-bit-cs2.html)|`2024-11-23 22:56:00`|`Anti-Cheat Bypass`|
