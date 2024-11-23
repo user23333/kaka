@@ -4,17 +4,16 @@ import json
 from datetime import datetime
 import panel
 
-TODAY_STR = datetime.now().strftime("%Y-%m-%d")
-CACHE_FILE = "files/today.json"
-TODAY_FILE = "files/today.md"
-HISTORY_FILE = "files/history/%s.md" % TODAY_STR
+TODAY_DATE = datetime.now().strftime("%Y-%m-%d")
+TODAY_FILE = "files/history/%s.md" % TODAY_DATE
+CACHE_FILE = "files/cache.json"
 
 if not os.path.exists("files"):
     os.makedirs("files/history", exist_ok=True)
 
 
 def load_cache():
-    default = {"date": TODAY_STR, "hottest": [], "files": [], "latest": []}
+    default = {"date": TODAY_DATE, "hottest": [], "files": [], "latest": []}
     try:
         with open(CACHE_FILE, "r", encoding="utf-8") as file:
             cache = json.load(file)
@@ -76,7 +75,6 @@ def save_to_markdown(data):
         for thread in data["latest"]:
             file.write("|[%(title)s](%(link)s)|`%(date)s`|`%(forum)s`|\n" % thread)
 
-    shutil.copy2(TODAY_FILE, HISTORY_FILE)
     shutil.copy2(TODAY_FILE, "README.md")
 
 
