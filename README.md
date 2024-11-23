@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Decrypting IL2CPP Metadata and Assembly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/671918-decrypting-il2cpp-metadata-assembly.html)|`2024-11-24 06:51:00`|`Unity`|
 |[AFK Bot Lobby Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670285-afk-bot-lobby-guide.html)|`2024-11-24 06:42:00`|`Call of Duty: Black Ops 6`|
 |[Spoofing/Editing Serials on Insyde BIOS HP Systems&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/628213-spoofing-editing-serials-insyde-bios-hp-systems.html)|`2024-11-24 06:33:00`|`Valorant`|
 |[Things you should cache &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673689-cache-dma.html)|`2024-11-24 06:36:00`|`Call of Duty: Black Ops 6`|
