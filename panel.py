@@ -29,8 +29,9 @@ def get_between(s, first, last):
     start = s.find(first)
     if start == -1:
         return None
+    start += len(first)
 
-    end = s.find(last, start + len(first))
+    end = s.find(last, start)
     if end == -1:
         return None
 
