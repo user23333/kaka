@@ -27,6 +27,34 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-11-24 02:26:00`|`Apex Legends`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-11-24 02:25:00`|`Grand Theft Auto V`|
+|[Rise Of Kingdoms decrypted global&#45;metadata&#46;dat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/636314-rise-kingdoms-decrypted-global-metadata-dat.html)|`2024-11-24 02:19:00`|`Other Games`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2024-11-24 02:02:00`|`Escape from Tarkov`|
+|[Undetected Cheat Engine &#43; Driver &#124; 2023 &#124; Bypass Anticheats &#40;BE / EAC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/504191-undetected-cheat-engine-driver-2023-bypass-anticheats-eac.html)|`2024-11-24 02:00:00`|`Anti-Cheat Bypass`|
+|[Broken Arrow Cheat&#45; XDClient](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673500-broken-arrow-cheat-xdclient.html)|`2024-11-24 01:53:00`|`Other MMORPG and Strategy`|
+|[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2024-11-24 01:51:00`|`Elite: Dangerous`|
+|[AHK Zombies Color Aimbot BO6 &#40;Best one IMO&#41; &#40;Sai's&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671433-ahk-zombies-color-aimbot-bo6-imo-sais.html)|`2024-11-24 01:51:00`|`Call of Duty: Black Ops 6`|
+|[CUserCmd ViewAngles issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673142-cusercmd-viewangles-issue.html)|`2024-11-24 01:43:00`|`Counter-Strike 2`|
+|[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-11-24 01:42:00`|`Deadlock`|
+|[Centralized Bot Lobby Starter Python Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672158-centralized-bot-lobby-starter-python-script.html)|`2024-11-24 01:33:00`|`Call of Duty: Black Ops 6`|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2024-11-24 01:11:00`|`Grand Theft Auto V`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2024-11-24 01:18:00`|`Call of Duty: Black Ops 6`|
+|[XGuard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/450415-xguard.html)|`2024-11-24 01:16:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Perfect Silent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672937-perfect-silent.html)|`2024-11-24 01:14:00`|`Counter-Strike 2`|
+|[SpookSuite &#45; Content Warning Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/631549-spooksuite-content-warning-cheat.html)|`2024-11-24 01:07:00`|`Other Games`|
+|[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2024-11-24 00:57:00`|`Palia`|
+|[Pokemon TCGP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/671386-pokemon-tcgp.html)|`2024-11-24 00:52:00`|`Android`|
+|[Running multiple instances of cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673837-running-multiple-instances-cs2.html)|`2024-11-24 00:51:00`|`Counter-Strike 2`|
+|[Linux External Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673491-linux-external-aimbot.html)|`2024-11-24 00:48:00`|`Counter-Strike 2`|
+|[SkechWare CS2 Free External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/639949-skechware-cs2-free-external-cheat.html)|`2024-11-24 00:32:00`|`Counter-Strike 2 Releases`|
+|[Disk spoof realistic disk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673426-disk-spoof-realistic-disk.html)|`2024-11-24 00:45:00`|`Anti-Cheat Bypass`|
+|[Sai's Color Aimbot BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668780-sais-color-aimbot-bo6.html)|`2024-11-24 00:44:00`|`Call of Duty: Black Ops 6`|
+|[UNBAN Method BO6 &#33; &#40;Free&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673668-unban-method-bo6-free.html)|`2024-11-24 00:43:00`|`Call of Duty: Black Ops 6`|
+|[Josh's AHKv2&#46;0 Color Aim Assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673209-joshs-ahkv2-0-color-aim-assist.html)|`2024-11-24 00:42:00`|`Call of Duty: Black Ops 6`|
+|[Rust &#124; Ban Discussion Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/469369-rust-ban-discussion-thread.html)|`2024-11-24 00:30:00`|`Rust`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-11-24 00:25:00`|`Valorant`|
+|[Page fault hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673349-page-fault-hook.html)|`2024-11-24 00:25:00`|`Anti-Cheat Bypass`|
 |[Strinova Basic Internal &#40;ESP/AIMBOT&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/643994-strinova-basic-internal-esp-aimbot.html)|`2024-11-24 00:17:00`|`Other FPS Games`|
 |[Do You Love Crypto?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/673834-love-crypto.html)|`2024-11-24 00:13:00`|`Off Topic`|
 |[Rocket League &#45; Unlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/673831-rocket-league-unlock.html)|`2024-11-24 00:03:00`|`Other Games`|
