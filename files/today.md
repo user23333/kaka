@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spoofing Nvidia's UUID &#40;kernel &#45; hookless&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/575441-spoofing-nvidias-uuid-kernel-hookless.html)|`2024-11-23 23:44:00`|`Anti-Cheat Bypass`|
 |[Handling THREADSTACK0 as a Base Address in Terraria Pointer Chains](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/673826-handling-threadstack0-base-address-terraria-pointer-chains.html)|`2024-11-23 23:29:00`|`Other Games`|
 |[VALORANT MINION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673460-valorant-minion.html)|`2024-11-23 23:27:00`|`Valorant`|
 |[load object skin crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673825-load-object-skin-crash.html)|`2024-11-23 23:26:00`|`Valorant`|
