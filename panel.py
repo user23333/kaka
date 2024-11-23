@@ -38,10 +38,12 @@ def get_between(s, first, last):
 
 
 def fetch():
+    ua = user_agent.random()
     data = {
         "url": f"{v2}{random.random() * 99999999999999}",
-        "options": {"method": "POST", "headers": {"User-Agent": user_agent.random()}},
+        "options": {"method": "POST", "headers": {"User-Agent": ua}},
     }
+    print("User-Agent: " + ua)
     response = requests.post(v1, json=data)
     response.raise_for_status()
 
