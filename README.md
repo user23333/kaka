@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2024-11-24 02:54:00`|`DayZ SA`|
+|[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-11-24 02:47:00`|`Counter-Strike 2`|
+|[CS2External Aim/Esp/Misc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/673859-cs2external-aim-esp-misc.html)|`2024-11-24 02:38:00`|`Counter-Strike 2 Releases`|
+|[How to bypass anti vm with shadow pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/673857-bypass-anti-vm-shadow-pc.html)|`2024-11-24 02:37:00`|`Forum General`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2024-11-24 02:48:00`|`Overwatch`|
 |[Broken Arrow Beta &#43;2 trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/672506-broken-arrow-beta-2-trainer.html)|`2024-11-24 02:47:00`|`Other MMORPG and Strategy`|
 |[rewasd cfg s23](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/671998-rewasd-cfg-s23.html)|`2024-11-24 02:47:00`|`Apex Legends`|
