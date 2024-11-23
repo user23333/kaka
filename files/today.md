@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Write a Letter Proposing that Microsoft Prohibit Anti&#45;Cheat Software from Entering th](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673738-write-letter-proposing-microsoft-prohibit-anti-cheat-software-entering-th.html)|`2024-11-23 18:10:00`|`Anti-Cheat Bypass`|
+|[Random Game Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/673393-random-game-ban.html)|`2024-11-23 18:10:00`|`Rust`|
+|[Troll cheat &#40;Restart any online lobby&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/671769-troll-cheat-restart-online-lobby.html)|`2024-11-23 18:00:00`|`Payday 3`|
 |[Question about my automated program](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/673229-question-automated-program.html)|`2024-11-23 17:53:00`|`Rust`|
 |[Killing Floor 2 External Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/673060-killing-floor-2-external-hack.html)|`2024-11-23 17:42:00`|`Other Games`|
 |[GTAHaX for 1&#46;69 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-69-external-thread-3-a.html)|`2024-11-23 17:21:00`|`Grand Theft Auto V`|
