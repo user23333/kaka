@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[2 HID Mouse connected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673901-2-hid-mouse-connected.html)|`2024-11-24 07:34:00`|`Valorant`|
 |[Is there to add bots for Doomsday Heist instead of players?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/673073-add-bots-doomsday-heist-instead-players.html)|`2024-11-24 07:23:00`|`Grand Theft Auto V`|
 |[Write a Letter Proposing that Microsoft Prohibit Anti&#45;Cheat Software from Entering th](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673738-write-letter-proposing-microsoft-prohibit-anti-cheat-software-entering-th.html)|`2024-11-24 07:20:00`|`Anti-Cheat Bypass`|
 |[KMBOX B&#43; FW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673024-kmbox-fw.html)|`2024-11-24 07:11:00`|`Call of Duty: Black Ops 6`|
