@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rewasd Ban? or not, is there a risk of a ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673752-rewasd-ban-risk-ban.html)|`2024-11-23 21:06:00`|`Call of Duty: Black Ops 6`|
+|[Strinova Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667041-strinova-reversal-structs-offsets.html)|`2024-11-23 21:02:00`|`Other FPS Games`|
 |[Is there to add bots for Doomsday Heist instead of players?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/673073-add-bots-doomsday-heist-instead-players.html)|`2024-11-23 20:41:00`|`Grand Theft Auto V`|
 |[Osussit External AimAssist &#91;Osu&#33;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/623903-osussit-external-aimassist-osu.html)|`2024-11-23 20:39:00`|`Other Games`|
 |[Need help to update my rigle&#46; aimbot and esp don't work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/673745-help-update-rigle-aimbot-esp-dont.html)|`2024-11-23 20:26:00`|`Overwatch`|
