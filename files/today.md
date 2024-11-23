@@ -12,6 +12,7 @@
 |3|[Bo6 Battle pass tokens dupe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672640-bo6-battle-pass-tokens-dupe.html)|`2024-11-23 00:11:28`|`call-of-duty-black-ops-6-a`|
 |8|[Cs2 Driver Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672943-cs2-driver-cheat.html)|`2024-11-23 00:11:28`|`counter-strike-2-a`|
 |16|[Shadowban Workaround](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673188-shadowban-workaround.html)|`2024-11-23 02:35:32`|`call-of-duty-black-ops-6-a`|
+|31|[DRAGON BALL Sparking&#33; ZERO &#45; Easy Inputs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/672857-dragon-ball-sparking-zero-easy-inputs.html)|`2024-11-23 10:09:54`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino HID Mouse &#43; Free Libraries](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/642071-arduino-hid-mouse-free-libraries.html)|`2024-11-23 09:54:00`|`Valorant`|
+|[Demo of a recoil script generator i'm working on](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673504-demo-recoil-script-generator-im.html)|`2024-11-23 09:43:00`|`Call of Duty: Black Ops 6`|
 |[Mordhau Powerful Cheat Table &#40;Dumpers&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/663281-mordhau-powerful-cheat-table-dumpers.html)|`2024-11-23 08:44:00`|`Other FPS Games`|
 |[Cheat not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672854-cheat.html)|`2024-11-23 08:36:00`|`Counter-Strike 2`|
 |[Lethal Menu &#45; Lethal Company Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/615575-lethal-menu-lethal-company-cheat.html)|`2024-11-23 08:28:00`|`Lethal Company`|
