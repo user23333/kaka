@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[rewasd cfg s23](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/671998-rewasd-cfg-s23.html)|`2024-11-24 02:47:00`|`Apex Legends`|
+|[DRAGON BALL Sparking&#33; ZERO &#45; Easy Inputs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/672857-dragon-ball-sparking-zero-easy-inputs.html)|`2024-11-24 02:38:00`|`Other Games`|
+|[Unable to find Static Address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/673858-unable-static-address.html)|`2024-11-24 02:38:00`|`General Programming and Reversing`|
 |[Logitech mouse driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673609-logitech-mouse-driver.html)|`2024-11-24 02:33:00`|`Valorant`|
 |[Games with shit anti cheat&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/673855-games-shit-anti-cheat.html)|`2024-11-24 02:26:00`|`Off Topic`|
 |[CMS 2021 DLC Unlocker Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670900-cms-2021-dlc-unlocker-release.html)|`2024-11-24 02:25:00`|`Other Games`|
