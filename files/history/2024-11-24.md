@@ -11,6 +11,7 @@
 |6|[The Goat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/673075-goat.html)|`2024-11-24 00:17:33`|`grand-theft-auto-v`|
 |16|[Shadowban Workaround](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673188-shadowban-workaround.html)|`2024-11-24 00:17:33`|`call-of-duty-black-ops-6-a`|
 |12|[&#40;DMA&#41; Black Ops 6: RADAR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673045-dma-black-ops-6-radar.html)|`2024-11-24 00:17:33`|`call-of-duty-black-ops-6-a`|
+|5|[Any Hard Unlock Tools?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673136-hard-unlock-tools.html)|`2024-11-24 07:27:48`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is there to add bots for Doomsday Heist instead of players?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/673073-add-bots-doomsday-heist-instead-players.html)|`2024-11-24 07:23:00`|`Grand Theft Auto V`|
+|[Write a Letter Proposing that Microsoft Prohibit Anti&#45;Cheat Software from Entering th](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673738-write-letter-proposing-microsoft-prohibit-anti-cheat-software-entering-th.html)|`2024-11-24 07:20:00`|`Anti-Cheat Bypass`|
 |[KMBOX B&#43; FW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673024-kmbox-fw.html)|`2024-11-24 07:11:00`|`Call of Duty: Black Ops 6`|
 |[Im Hwid banned but want to Play Bo6 legit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673104-im-hwid-banned-play-bo6-legit.html)|`2024-11-24 07:07:00`|`Call of Duty: Black Ops 6`|
 |[vps/vpn detected by Eprotect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/672939-vps-vpn-detected-eprotect.html)|`2024-11-24 07:04:00`|`Garry's Mod`|
