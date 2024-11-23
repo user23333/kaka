@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2024-11-24 02:48:00`|`Overwatch`|
+|[Broken Arrow Beta &#43;2 trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/672506-broken-arrow-beta-2-trainer.html)|`2024-11-24 02:47:00`|`Other MMORPG and Strategy`|
 |[rewasd cfg s23](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/671998-rewasd-cfg-s23.html)|`2024-11-24 02:47:00`|`Apex Legends`|
 |[DRAGON BALL Sparking&#33; ZERO &#45; Easy Inputs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/672857-dragon-ball-sparking-zero-easy-inputs.html)|`2024-11-24 02:38:00`|`Other Games`|
 |[Unable to find Static Address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/673858-unable-static-address.html)|`2024-11-24 02:38:00`|`General Programming and Reversing`|
