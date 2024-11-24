@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ghost mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/672915-ghost-mapper.html)|`2024-11-24 21:43:00`|`Anti-Cheat Bypass`|
 |[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-11-24 21:40:00`|`Overwatch`|
 |[Demo of a recoil script generator i'm working on](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673504-demo-recoil-script-generator-im.html)|`2024-11-24 21:28:00`|`Call of Duty: Black Ops 6`|
 |[glitches](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/673969-glitches.html)|`2024-11-24 21:27:00`|`Grand Theft Auto V`|
