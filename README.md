@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[UWorld Always Return 0 With HVCI Off](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673918-uworld-return-0-hvci.html)|`2024-11-24 11:44:00`|`Valorant`|
 |[Object Detection Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/673637-object-detection-script.html)|`2024-11-24 11:14:00`|`League of Legends`|
 |[League of Legends&#46;exe "Path: &#91;Access is denied&#46;&#93;"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/672040-league-legends-exe-path-access-denied.html)|`2024-11-24 11:11:00`|`League of Legends`|
 |[CMLite &#124; Combat Master Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/582979-cmlite-combat-master-cheat.html)|`2024-11-24 10:50:00`|`Combat Master`|
