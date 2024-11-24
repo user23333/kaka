@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2024-11-25 02:31:00`|`Escape from Tarkov`|
+|[banning cod server ips to disable hit reg nerfs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673920-banning-cod-server-ips-disable-hit-reg-nerfs.html)|`2024-11-25 02:29:00`|`Call of Duty: Black Ops 6`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-11-25 02:19:00`|`Rust`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2024-11-25 02:13:00`|`Other Games`|
+|[XGuard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/450415-xguard.html)|`2024-11-25 02:09:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Sot new glitch or bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/674037-sot-glitch-bug.html)|`2024-11-25 02:07:00`|`Sea of Thieves`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2024-11-25 02:07:00`|`Alternative Online Mods`|
 |[BO6 DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670998-bo6-dma-esp.html)|`2024-11-25 02:03:00`|`Call of Duty: Black Ops 6`|
