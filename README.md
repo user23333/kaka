@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2024-11-24 12:17:00`|`Garry's Mod`|
+|[banning cod server ips to disable hit reg nerfs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673920-banning-cod-server-ips-disable-hit-reg-nerfs.html)|`2024-11-24 12:13:00`|`Call of Duty: Black Ops 6`|
+|[Valorant asus spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673647-valorant-asus-spoofing.html)|`2024-11-24 12:07:00`|`Valorant`|
 |[UWorld Always Return 0 With HVCI Off](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673918-uworld-return-0-hvci.html)|`2024-11-24 11:44:00`|`Valorant`|
 |[Object Detection Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/673637-object-detection-script.html)|`2024-11-24 11:14:00`|`League of Legends`|
 |[League of Legends&#46;exe "Path: &#91;Access is denied&#46;&#93;"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/672040-league-legends-exe-path-access-denied.html)|`2024-11-24 11:11:00`|`League of Legends`|
