@@ -26,9 +26,11 @@
 |8|[America's Army: Proving Grounds NoRecoil tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47656)|`2024-11-24 00:17:33`|
 |177|[GamerFunAI&#45;Menu&#45;101&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47655)|`2024-11-24 00:17:33`|
 |2|[warthunder&#95;unlocker&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47669)|`2024-11-24 10:18:02`|
+|1|[casino&#95;patrick&#46;lua](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47689)|`2024-11-24 13:52:22`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[A Lua script for the Patrick McReary random event&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/673824-lua-script-patrick-mcreary-random-event.html)|`2024-11-24 13:49:00`|`Grand Theft Auto V`|
 |[ChadAlphaMales Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/669776-chadalphamales-enhanced.html)|`2024-11-24 13:26:00`|`Team Fortress 2`|
 |[Lavender Premium External Source with Anti Cheat Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/659043-lavender-premium-external-source-anti-cheat-bypass.html)|`2024-11-24 13:19:00`|`Alternative Online Mods`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2024-11-24 13:06:00`|`Counter-Strike 2`|
