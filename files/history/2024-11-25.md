@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2024-11-25 07:04:00`|`Garry's Mod`|
+|[Rewasd Ban? or not, is there a risk of a ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673752-rewasd-ban-risk-ban.html)|`2024-11-25 06:57:00`|`Call of Duty: Black Ops 6`|
 |[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-11-25 06:54:00`|`Overwatch`|
 |[ΛPEX FΞͶIX &#45; reWASD s21 cfg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/645869-pex-ix-rewasd-s21-cfg.html)|`2024-11-25 06:50:00`|`Apex Legends`|
 |[Handling THREADSTACK0 as a Base Address in Terraria Pointer Chains](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/673826-handling-threadstack0-base-address-terraria-pointer-chains.html)|`2024-11-25 06:48:00`|`Other Games`|
