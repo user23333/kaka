@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New CUserCmd and Input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666630-cusercmd-input.html)|`2024-11-24 22:38:00`|`Counter-Strike 2`|
 |[Guide to Spoofing MSI Motherboard for All Games, Including VALORANT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/644410-guide-spoofing-msi-motherboard-games-including-valorant.html)|`2024-11-24 22:31:00`|`Valorant`|
 |[OV3RSW33T: AN OVERWAT Pack: Reborn & Recoded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/603412-ov3rsw33t-overwat-pack-reborn-recoded.html)|`2024-11-24 22:21:00`|`Overwatch`|
 |[C&#43;&#43; GDI Esp For Assault Cube](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/674001-gdi-esp-assault-cube.html)|`2024-11-24 22:26:00`|`Programming for Beginners`|
