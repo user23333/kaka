@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force Mobile K2&#95;DrawText](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/674022-delta-force-mobile-k2_drawtext.html)|`2024-11-25 00:58:00`|`Other FPS Games`|
 |[what scripts do you use for YIM menu?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/673951-scripts-yim-menu.html)|`2024-11-25 00:50:00`|`Grand Theft Auto V`|
 |[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-11-25 00:46:00`|`Other Games`|
 |[Bonecaller dupe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/674018-bonecaller-dupe.html)|`2024-11-25 00:42:00`|`Sea of Thieves`|
