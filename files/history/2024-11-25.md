@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[fivem server ac detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/673865-fivem-server-ac-detection.html)|`2024-11-25 07:31:00`|`Alternative Online Mods`|
+|[Disk spoof realistic disk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673426-disk-spoof-realistic-disk.html)|`2024-11-25 07:28:00`|`Anti-Cheat Bypass`|
+|[Need help to make Cheat Engine undetectable on BattlEye &#40;Destiny 2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674096-help-cheat-engine-undetectable-battleye-destiny-2-a.html)|`2024-11-25 07:27:00`|`Anti-Cheat Bypass`|
+|[UNBAN FOR TARKOV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/674074-unban-tarkov.html)|`2024-11-25 07:26:00`|`Escape from Tarkov`|
 |[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2024-11-25 07:04:00`|`Garry's Mod`|
 |[Rewasd Ban? or not, is there a risk of a ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673752-rewasd-ban-risk-ban.html)|`2024-11-25 06:57:00`|`Call of Duty: Black Ops 6`|
 |[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-11-25 06:54:00`|`Overwatch`|
