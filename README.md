@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[melee and parry ability struct](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/672411-melee-parry-ability-struct.html)|`2024-11-25 03:30:00`|`Deadlock`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-11-25 03:10:00`|`Apex Legends`|
 |[&#40;DMA&#41; Black Ops 6: RADAR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673045-dma-black-ops-6-radar.html)|`2024-11-25 03:07:00`|`Call of Duty: Black Ops 6`|
 |[Destiny 2 Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669951-destiny-2-reversal.html)|`2024-11-25 03:06:00`|`Other FPS Games`|
