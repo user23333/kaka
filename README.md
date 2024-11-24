@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-11-25 01:35:00`|`Deadlock`|
+|[win11 24h2 hollowing process error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/667623-win11-24h2-hollowing-process-error.html)|`2024-11-25 01:34:00`|`General Programming and Reversing`|
+|[Do You Love Crypto?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/673834-love-crypto.html)|`2024-11-25 01:34:00`|`Off Topic`|
+|[Games with shit anti cheat&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/673855-games-shit-anti-cheat.html)|`2024-11-25 01:32:00`|`Off Topic`|
+|[A Lua script for the Patrick McReary random event&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/673824-lua-script-patrick-mcreary-random-event.html)|`2024-11-25 01:31:00`|`Grand Theft Auto V`|
+|[Kernel Driver Mapping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674032-kernel-driver-mapping.html)|`2024-11-25 01:31:00`|`Anti-Cheat Bypass`|
+|[DRAGON BALL Sparking&#33; ZERO &#45; Auto Online Stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/673913-dragon-ball-sparking-zero-auto-online-stuff.html)|`2024-11-25 01:24:00`|`Other Games`|
 |[Destiny 2 Cheat Table v1&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/672496-destiny-2-cheat-table-v1-0-0-a.html)|`2024-11-25 01:23:00`|`Other FPS Games`|
 |[Fallout 76 Duplication Exploit &#40;updated, sort of&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/673727-fallout-76-duplication-exploit-updated-sort.html)|`2024-11-25 01:12:00`|`Other FPS Games`|
 |[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2024-11-25 01:04:00`|`Elite: Dangerous`|
