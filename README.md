@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sot new glitch or bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/674037-sot-glitch-bug.html)|`2024-11-25 02:07:00`|`Sea of Thieves`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2024-11-25 02:07:00`|`Alternative Online Mods`|
+|[BO6 DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670998-bo6-dma-esp.html)|`2024-11-25 02:03:00`|`Call of Duty: Black Ops 6`|
+|[Broken Arrow &#43;13 Trainer&#40;CT table&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673542-broken-arrow-13-trainer-ct-table.html)|`2024-11-25 01:57:00`|`Other MMORPG and Strategy`|
+|[UWorld Always Return 0 With HVCI Off](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673918-uworld-return-0-hvci.html)|`2024-11-25 01:55:00`|`Valorant`|
 |[Unable to find Static Address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/673858-unable-static-address.html)|`2024-11-25 01:54:00`|`General Programming and Reversing`|
 |[External RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673895-external-rcs.html)|`2024-11-25 01:47:00`|`Counter-Strike 2`|
 |[Triggering IPI within a type&#45;1 hypervisor&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674034-triggering-ipi-type-1-hypervisor.html)|`2024-11-25 01:42:00`|`Anti-Cheat Bypass`|
