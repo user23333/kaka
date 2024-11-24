@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;DMA&#41; Black Ops 6: RADAR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673045-dma-black-ops-6-radar.html)|`2024-11-24 15:52:00`|`Call of Duty: Black Ops 6`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2024-11-24 15:50:00`|`Counter-Strike 2`|
 |[Help with offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673909-help-offsets.html)|`2024-11-24 15:46:00`|`Counter-Strike 2`|
 |[ViewMatrix Without UE4 & Random pointer access&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/673939-viewmatrix-ue4-random-pointer-access.html)|`2024-11-24 15:44:00`|`PUBG Mobile`|
 |[Python Image bot for Brighter Shores &#40;Old Chests Gold&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/672090-python-image-bot-brighter-shores-chests-gold.html)|`2024-11-24 15:26:00`|`Other MMORPG and Strategy`|
