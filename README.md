@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;DMA&#41; Black Ops 6: RADAR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673045-dma-black-ops-6-radar.html)|`2024-11-25 03:07:00`|`Call of Duty: Black Ops 6`|
+|[Destiny 2 Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669951-destiny-2-reversal.html)|`2024-11-25 03:06:00`|`Other FPS Games`|
+|[AI Aimbot & Triggerbot, Fast & Accurate &#40;works on every shooter games&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671029-ai-aimbot-triggerbot-fast-accurate-shooter-games.html)|`2024-11-25 03:05:00`|`Rainbow Six Siege`|
 |[Strinova Basic Internal &#40;ESP/AIMBOT&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/643994-strinova-basic-internal-esp-aimbot.html)|`2024-11-25 02:56:00`|`Other FPS Games`|
 |[Cronus Zen or Titan Two?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673461-cronus-zen-titan.html)|`2024-11-25 02:35:00`|`Call of Duty: Black Ops 6`|
 |[External Raycasting &#40;PhysX recreation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673196-external-raycasting-physx-recreation.html)|`2024-11-25 02:33:00`|`Escape from Tarkov`|
