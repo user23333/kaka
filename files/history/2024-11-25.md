@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-11-25 06:54:00`|`Overwatch`|
+|[ΛPEX FΞͶIX &#45; reWASD s21 cfg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/645869-pex-ix-rewasd-s21-cfg.html)|`2024-11-25 06:50:00`|`Apex Legends`|
 |[Handling THREADSTACK0 as a Base Address in Terraria Pointer Chains](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/673826-handling-threadstack0-base-address-terraria-pointer-chains.html)|`2024-11-25 06:48:00`|`Other Games`|
 |[ChadAlphaMales Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/669776-chadalphamales-enhanced.html)|`2024-11-25 06:47:00`|`Team Fortress 2`|
 |[Rust 1MS Logitech Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/583325-rust-1ms-logitech-macro.html)|`2024-11-25 06:24:00`|`Rust`|
