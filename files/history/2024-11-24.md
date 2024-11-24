@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Raycasting &#40;PhysX recreation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673196-external-raycasting-physx-recreation.html)|`2024-11-24 12:24:00`|`Escape from Tarkov`|
 |[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2024-11-24 12:17:00`|`Garry's Mod`|
 |[banning cod server ips to disable hit reg nerfs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673920-banning-cod-server-ips-disable-hit-reg-nerfs.html)|`2024-11-24 12:13:00`|`Call of Duty: Black Ops 6`|
 |[Valorant asus spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673647-valorant-asus-spoofing.html)|`2024-11-24 12:07:00`|`Valorant`|
