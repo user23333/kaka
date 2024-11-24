@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Demo of a recoil script generator i'm working on](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673504-demo-recoil-script-generator-im.html)|`2024-11-24 21:28:00`|`Call of Duty: Black Ops 6`|
+|[glitches](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/673969-glitches.html)|`2024-11-24 21:27:00`|`Grand Theft Auto V`|
+|[Manual Map Crash After The Last Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673306-manual-map-crash-update.html)|`2024-11-24 21:20:00`|`Counter-Strike 2`|
+|[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669274-vigor-internal-cheat.html)|`2024-11-24 21:13:00`|`Other FPS Games`|
+|[Any SPTarkov cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673963-sptarkov-cheats.html)|`2024-11-24 21:09:00`|`Escape from Tarkov`|
 |[Black ops 3 Anticheat can bypass it ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/592445-black-ops-3-anticheat-bypass.html)|`2024-11-24 20:29:00`|`Call of Duty: Black Ops 3`|
 |[fc25 GTF](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/672848-fc25-gtf.html)|`2024-11-24 20:26:00`|`Other Games`|
 |[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-11-24 20:15:00`|`Escape from Tarkov`|
