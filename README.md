@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2024-11-24 15:10:00`|`Phasmophobia`|
+|[BOT LOBBY Method Chrome Tabs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672955-bot-lobby-method-chrome-tabs.html)|`2024-11-24 15:09:00`|`Call of Duty: Black Ops 6`|
 |[Lethal Menu &#45; Lethal Company Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/615575-lethal-menu-lethal-company-cheat.html)|`2024-11-24 15:03:00`|`Lethal Company`|
 |[Uninject dll?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/673928-uninject-dll.html)|`2024-11-24 14:26:00`|`General Programming and Reversing`|
 |[bo3 nbot crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/672870-bo3-nbot-crash.html)|`2024-11-24 14:02:00`|`Call of Duty: Black Ops 3`|
