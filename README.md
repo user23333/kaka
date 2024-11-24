@@ -11,6 +11,7 @@
 |6|[The Goat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/673075-goat.html)|`2024-11-25 00:20:55`|`grand-theft-auto-v`|
 |16|[Shadowban Workaround](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673188-shadowban-workaround.html)|`2024-11-25 00:20:55`|`call-of-duty-black-ops-6-a`|
 |9|[UNBAN Method BO6 &#33; &#40;Free&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673668-unban-method-bo6-free.html)|`2024-11-25 00:20:55`|`call-of-duty-black-ops-6-a`|
+|15|[VALORANT MINION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673460-valorant-minion.html)|`2024-11-25 07:59:57`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any third&#45;party dll files in the game folder prevent the game from starting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664742-third-party-dll-files-game-folder-prevent-game-starting.html)|`2024-11-25 07:55:00`|`Anti-Cheat Bypass`|
+|[CR3 DMA FIX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674098-cr3-dma-fix.html)|`2024-11-25 07:54:00`|`Anti-Cheat Bypass`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2024-11-25 07:50:00`|`Call of Duty: Black Ops 6`|
 |[fivem server ac detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/673865-fivem-server-ac-detection.html)|`2024-11-25 07:31:00`|`Alternative Online Mods`|
 |[Disk spoof realistic disk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673426-disk-spoof-realistic-disk.html)|`2024-11-25 07:28:00`|`Anti-Cheat Bypass`|
