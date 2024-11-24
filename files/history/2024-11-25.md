@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Undetected Cheat Engine &#43; Driver &#124; 2023 &#124; Bypass Anticheats &#40;BE / EAC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/504191-undetected-cheat-engine-driver-2023-bypass-anticheats-eac.html)|`2024-11-25 03:51:00`|`Anti-Cheat Bypass`|
 |[Liar’s Deck and Dice Cheat &#45; Full GUI Mod for Card & Dice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/668894-liar-deck-dice-cheat-gui-mod-card-dice.html)|`2024-11-25 03:46:00`|`Other Games`|
 |[My Hero Ultra Rumble Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/604426-hero-ultra-rumble-cheat-table.html)|`2024-11-25 03:42:00`|`Other Games`|
 |[&#91;UE4&#93;Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/244709-ue4-squad.html)|`2024-11-25 03:38:00`|`Other FPS Games`|
