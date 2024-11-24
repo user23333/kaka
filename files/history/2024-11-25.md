@@ -24,9 +24,13 @@
 |35|[MouseInstruct by Khanxbahria](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47660)|`2024-11-25 00:20:55`|
 |1032|[PhasmoMenu v0&#46;5&#46;4&#46;6 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47659)|`2024-11-25 00:20:55`|
 |106|[johanna&#46;deadlock&#46;update&#46;22&#46;11&#46;24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47657)|`2024-11-25 00:20:55`|
+|1|[stcheattable v1&#46;7 &#45; by SpionQuark](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47714)|`2024-11-25 05:42:26`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Crash skeleton esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/673954-crash-skeleton-esp.html)|`2024-11-25 05:42:00`|`Alternative Online Mods`|
+|[Static address problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/674092-static-address.html)|`2024-11-25 05:38:00`|`General Programming and Reversing`|
+|[Dead by Daylight DMA FUSER ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/668845-dead-daylight-dma-fuser-esp.html)|`2024-11-25 05:38:00`|`Other FPS Games`|
 |[Smoke Kills External Overlay FPS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673684-smoke-kills-external-overlay-fps.html)|`2024-11-25 05:23:00`|`Counter-Strike 2`|
 |[Centralized Bot Lobby Starter Python Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672158-centralized-bot-lobby-starter-python-script.html)|`2024-11-25 05:22:00`|`Call of Duty: Black Ops 6`|
 |[DMA Cr3 Shuffling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/672583-dma-cr3-shuffling.html)|`2024-11-25 05:17:00`|`Apex Legends`|
