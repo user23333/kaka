@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;VOTE&#93; December 2024 Member of the Month](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/674094-vote-december-2024-month.html)|`2024-11-25 06:04:00`|`Member of the Month`|
+|[BOT LOBBY Method Chrome Tabs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672955-bot-lobby-method-chrome-tabs.html)|`2024-11-25 05:58:00`|`Call of Duty: Black Ops 6`|
 |[Osussist v3 MultiHack for osu&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/671577-osussist-v3-multihack-osu.html)|`2024-11-25 05:47:00`|`Other Games`|
 |[Crash skeleton esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/673954-crash-skeleton-esp.html)|`2024-11-25 05:42:00`|`Alternative Online Mods`|
 |[Static address problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/674092-static-address.html)|`2024-11-25 05:38:00`|`General Programming and Reversing`|
