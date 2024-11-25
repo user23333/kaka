@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Parsing VadRoot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/663815-parsing-vadroot.html)|`2024-11-25 11:38:00`|`General Programming and Reversing`|
+|[Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/672620-mod-menu.html)|`2024-11-25 11:32:00`|`Among Us`|
+|[OverlayCord on DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/661691-overlaycord-dma.html)|`2024-11-25 11:29:00`|`General Programming and Reversing`|
+|[What Lua are there for visual?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/674043-lua-visual.html)|`2024-11-25 11:21:00`|`Garry's Mod`|
 |[How to resolve Actor list &#40;Vigor&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/674130-resolve-actor-list-vigor.html)|`2024-11-25 11:21:00`|`Unreal Engine 4`|
 |[BotOps Hub &#40;bot lobby tool, no VM required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674129-botops-hub-bot-lobby-tool-vm-required.html)|`2024-11-25 11:01:00`|`Call of Duty: Black Ops 6`|
 |[Pokemon Go Trainer for PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/674126-pokemon-trainer-pc.html)|`2024-11-25 10:25:00`|`Other MMORPG and Strategy`|
