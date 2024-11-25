@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to convert lib patching into memory patching?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/674171-convert-lib-patching-memory-patching.html)|`2024-11-26 03:47:00`|`PUBG Mobile`|
+|[Stealth hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/674228-stealth-hack.html)|`2024-11-26 03:46:00`|`Generals and Zero Hour`|
+|[How draw fov correctly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/674227-draw-fov-correctly.html)|`2024-11-26 03:35:00`|`Counter-Strike 2`|
 |[External Cheats Detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/643527-external-cheats-detected.html)|`2024-11-26 03:43:00`|`Alternative Online Mods`|
 |[badge stuck on all clothing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/674180-badge-stuck-clothing.html)|`2024-11-26 03:40:00`|`Grand Theft Auto V`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2024-11-26 03:40:00`|`Other FPS Games`|
