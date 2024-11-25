@@ -12,6 +12,7 @@
 |16|[Shadowban Workaround](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673188-shadowban-workaround.html)|`2024-11-25 00:20:55`|`call-of-duty-black-ops-6-a`|
 |9|[UNBAN Method BO6 &#33; &#40;Free&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673668-unban-method-bo6-free.html)|`2024-11-25 00:20:55`|`call-of-duty-black-ops-6-a`|
 |15|[VALORANT MINION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673460-valorant-minion.html)|`2024-11-25 07:59:57`|`valorant`|
+|28|[Broken Arrow &#43;13 Trainer&#40;CT table&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673542-broken-arrow-13-trainer-ct-table.html)|`2024-11-25 12:52:52`|`other-mmorpg-and-strategy`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
