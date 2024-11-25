@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AHK Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673410-ahk-triggerbot.html)|`2024-11-26 03:05:00`|`Valorant`|
+|[Black ops 6 esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674218-black-ops-6-esp.html)|`2024-11-26 03:04:00`|`Call of Duty: Black Ops 6`|
+|[Fish Idle 2 Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/653727-fish-idle-2-cheat-engine.html)|`2024-11-26 02:57:00`|`Other Games`|
 |[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669274-vigor-internal-cheat.html)|`2024-11-26 02:57:00`|`Other FPS Games`|
 |[&#91;Internal&#93; ThirdPerson Trace](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/674215-internal-thirdperson-trace.html)|`2024-11-26 02:56:00`|`Counter-Strike 2`|
 |[Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/594518-triggerbot.html)|`2024-11-26 02:48:00`|`Overwatch`|
