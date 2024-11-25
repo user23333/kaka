@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[internal shitty past bf1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/523274-internal-shitty-past-bf1.html)|`2024-11-25 17:40:00`|`Battlefield 1`|
+|[War Thunder test drive unlock tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/671076-war-thunder-test-drive-unlock-tool.html)|`2024-11-25 17:35:00`|`Other MMORPG and Strategy`|
+|[Question about my automated program](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/673229-question-automated-program.html)|`2024-11-25 17:34:00`|`Rust`|
 |[What do you guys want posted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669083-guys-posted.html)|`2024-11-25 16:56:00`|`Valorant`|
 |[3 monitor with dual pc Black Ops 6 Wall hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/673941-3-monitor-dual-pc-black-ops-6-wall-hack.html)|`2024-11-25 16:21:00`|`Forum General`|
 |[How to check kernel memory pool allocation?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673385-check-kernel-memory-pool-allocation.html)|`2024-11-25 16:20:00`|`Anti-Cheat Bypass`|
