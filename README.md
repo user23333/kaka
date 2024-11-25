@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do I change my username?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/674150-change-username.html)|`2024-11-25 17:53:00`|`Among Us`|
 |[internal shitty past bf1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/523274-internal-shitty-past-bf1.html)|`2024-11-25 17:40:00`|`Battlefield 1`|
 |[War Thunder test drive unlock tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/671076-war-thunder-test-drive-unlock-tool.html)|`2024-11-25 17:35:00`|`Other MMORPG and Strategy`|
 |[Question about my automated program](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/673229-question-automated-program.html)|`2024-11-25 17:34:00`|`Rust`|
