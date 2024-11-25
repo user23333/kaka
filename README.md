@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to get TOD&#95;Sky externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/674132-tod_sky-externally.html)|`2024-11-26 03:57:00`|`Escape from Tarkov`|
+|[How to obtain which legendary character the enemy is?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/674135-obtain-legendary-character-enemy.html)|`2024-11-26 03:55:00`|`Apex Legends`|
 |[how to convert lib patching into memory patching?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/674171-convert-lib-patching-memory-patching.html)|`2024-11-26 03:47:00`|`PUBG Mobile`|
 |[Stealth hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/674228-stealth-hack.html)|`2024-11-26 03:46:00`|`Generals and Zero Hour`|
 |[How draw fov correctly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/674227-draw-fov-correctly.html)|`2024-11-26 03:35:00`|`Counter-Strike 2`|
