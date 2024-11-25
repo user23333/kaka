@@ -30,6 +30,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pokemon Go Trainer for PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/674126-pokemon-trainer-pc.html)|`2024-11-25 10:25:00`|`Other MMORPG and Strategy`|
+|[TOP MACRO Logitech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668884-top-macro-logitech.html)|`2024-11-25 10:20:00`|`Rust`|
+|[Lethal Menu &#45; Lethal Company Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/615575-lethal-menu-lethal-company-cheat.html)|`2024-11-25 10:08:00`|`Lethal Company`|
+|[esp rendering stops after bot resets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/674003-esp-rendering-stops-bot-resets.html)|`2024-11-25 09:54:00`|`Counter-Strike 2`|
+|[WarHook &#45; War Thunder Arcade mode cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/516723-warhook-war-thunder-arcade-mode-cheat.html)|`2024-11-25 09:54:00`|`Other MMORPG and Strategy`|
+|[Kovaak's FPS Aim Trainer External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/595259-kovaaks-fps-aim-trainer-external-cheat.html)|`2024-11-25 09:51:00`|`Other FPS Games`|
+|[centity&#95;t/GetTagPos in Zombies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-5-world-at-war/674125-centity_t-gettagpos-zombies.html)|`2024-11-25 09:51:00`|`Call of Duty 5: World at War`|
 |[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2024-11-25 09:24:00`|`Tom Clancy's The Division`|
 |[External Cheats Detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/643527-external-cheats-detected.html)|`2024-11-25 09:22:00`|`Alternative Online Mods`|
 |[Sai's Color Aimbot Python and RAZER mouse move](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/666127-sais-color-aimbot-python-razer-mouse-move.html)|`2024-11-25 09:03:00`|`Call of Duty: Modern Warfare III`|
