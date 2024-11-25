@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I'm gonna be that piece of shit i guess&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/668738-im-gonna-piece-shit-guess.html)|`2024-11-25 22:10:00`|`DayZ SA`|
 |[badge stuck on all clothing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/674180-badge-stuck-clothing.html)|`2024-11-25 21:49:00`|`Grand Theft Auto V`|
 |[Winebot Rose Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/625663-winebot-rose-online.html)|`2024-11-25 21:47:00`|`Other MMORPG and Strategy`|
 |[More additions to the staff team&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/674179-additions-staff-team.html)|`2024-11-25 21:44:00`|`Information and Announcements`|
