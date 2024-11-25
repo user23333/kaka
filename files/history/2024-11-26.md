@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[badge stuck on all clothing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/674180-badge-stuck-clothing.html)|`2024-11-26 03:40:00`|`Grand Theft Auto V`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2024-11-26 03:40:00`|`Other FPS Games`|
 |[AHK Zombies Color Aimbot BO6 &#40;Best one IMO&#41; &#40;Sai's&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671433-ahk-zombies-color-aimbot-bo6-imo-sais.html)|`2024-11-26 03:33:00`|`Call of Duty: Black Ops 6`|
 |[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2024-11-26 03:22:00`|`Garry's Mod`|
 |[One armed robber Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/670863-armed-robber-internal.html)|`2024-11-26 03:25:00`|`Other FPS Games`|
