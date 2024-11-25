@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ragnarok Origin Global PC cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/624052-ragnarok-origin-global-pc-cheat.html)|`2024-11-25 13:46:00`|`Other MMORPG and Strategy`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2024-11-25 13:21:00`|`League of Legends`|
 |["Vanguard Bypass" &#40;2PC / 1PC&#41; Using the Suspend Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663283-vanguard-bypass-2pc-1pc-using-suspend-method.html)|`2024-11-25 13:19:00`|`Valorant`|
 |[Help enemy abilities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/674133-help-enemy-abilities.html)|`2024-11-25 12:26:00`|`Overwatch`|
