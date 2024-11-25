@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-11-25 20:37:00`|`Escape from Tarkov`|
 |[Full Free Rust Script &#40;Undetected&#41; &#45;&#62; 30/04/2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/634920-free-rust-script-undetected-30-04-2024-a.html)|`2024-11-25 19:52:00`|`Rust`|
 |[Python Image bot for Brighter Shores &#40;Old Chests Gold&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/672090-python-image-bot-brighter-shores-chests-gold.html)|`2024-11-25 19:46:00`|`Other MMORPG and Strategy`|
 |[HOW TO GET UNBANNED?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/674170-unbanned.html)|`2024-11-25 19:24:00`|`Grand Theft Auto V`|
