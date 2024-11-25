@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-11-26 04:54:00`|`Escape from Tarkov`|
+|[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2024-11-26 04:52:00`|`Escape from Tarkov`|
+|[Games with shit anti cheat&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/673855-games-shit-anti-cheat.html)|`2024-11-26 04:51:00`|`Off Topic`|
+|[When we going to be able to afford to live](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/635503-able-afford-live.html)|`2024-11-26 04:50:00`|`Off Topic`|
+|[seo64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/662767-seo64.html)|`2024-11-26 04:49:00`|`Team Fortress 2`|
 |[Paladins Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/217341-paladins-reversal-structs-offsets.html)|`2024-11-26 04:45:00`|`Paladins`|
 |[Simple AFK Reverse Boosting Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674235-simple-afk-reverse-boosting-bot.html)|`2024-11-26 04:38:00`|`Call of Duty: Black Ops 6`|
 |[Solo AFK XP Method and AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673301-solo-afk-xp-method-ahk.html)|`2024-11-26 04:39:00`|`Call of Duty: Black Ops 6`|
