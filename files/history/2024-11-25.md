@@ -32,9 +32,14 @@
 |1|[Strinova 1&#46;1&#46;1&#46;9 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47702)|`2024-11-25 18:46:34`|
 |2|[WarChill Free old source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47712)|`2024-11-25 19:13:05`|
 |2|[Internal ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47700)|`2024-11-25 19:13:05`|
+|1|[AutoLocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47709)|`2024-11-25 19:25:10`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HOW TO GET UNBANNED?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/674170-unbanned.html)|`2024-11-25 19:24:00`|`Grand Theft Auto V`|
+|[UNBAN Method BO6 &#33; &#40;Free&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673668-unban-method-bo6-free.html)|`2024-11-25 19:24:00`|`Call of Duty: Black Ops 6`|
+|[how to convert lib patching into memory patching?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/674171-convert-lib-patching-memory-patching.html)|`2024-11-25 19:15:00`|`PUBG Mobile`|
+|[My Personal Built Auto Locker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673911-personal-built-auto-locker.html)|`2024-11-25 19:14:00`|`Valorant`|
 |[FATE DMA Source With a lot of features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/659710-fate-dma-source-lot-features.html)|`2024-11-25 19:10:00`|`Apex Legends`|
 |[RunString &#91;Download&#93; File bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/665977-runstring-download-file-bypass.html)|`2024-11-25 19:04:00`|`Garry's Mod`|
 |[any colour aimbots the dont lock onto objective?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674158-colour-aimbots-dont-lock-onto-objective.html)|`2024-11-25 18:34:00`|`Call of Duty: Black Ops 6`|
