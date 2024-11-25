@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help enemy abilities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/674133-help-enemy-abilities.html)|`2024-11-25 12:26:00`|`Overwatch`|
+|[How to get TOD&#95;Sky externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/674132-tod_sky-externally.html)|`2024-11-25 12:25:00`|`Escape from Tarkov`|
+|[would it be possible to use a rasberry pi 4 as a dma?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673925-rasberry-pi-4-dma.html)|`2024-11-25 12:23:00`|`Valorant`|
+|[Josh's Aim Assist V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670254-joshs-aim-assist-v1.html)|`2024-11-25 12:18:00`|`Call of Duty: Black Ops 6`|
 |[Parsing VadRoot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/663815-parsing-vadroot.html)|`2024-11-25 11:38:00`|`General Programming and Reversing`|
 |[Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/672620-mod-menu.html)|`2024-11-25 11:32:00`|`Among Us`|
 |[OverlayCord on DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/661691-overlaycord-dma.html)|`2024-11-25 11:29:00`|`General Programming and Reversing`|
