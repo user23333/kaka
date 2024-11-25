@@ -12,6 +12,7 @@
 |6|[The Goat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/673075-goat.html)|`2024-11-26 00:16:38`|`grand-theft-auto-v`|
 |16|[Shadowban Workaround](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673188-shadowban-workaround.html)|`2024-11-26 00:16:38`|`call-of-duty-black-ops-6-a`|
 |8|[Broken Arrow Cheat&#45; XDClient](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673500-broken-arrow-cheat-xdclient.html)|`2024-11-26 01:46:30`|`other-mmorpg-and-strategy`|
+|38|[BotOps Hub &#40;bot lobby tool, no VM required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674129-botops-hub-bot-lobby-tool-vm-required.html)|`2024-11-26 05:07:55`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2024-11-26 05:06:00`|`Grand Theft Auto V`|
+|[RunString &#91;Download&#93; File bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/665977-runstring-download-file-bypass.html)|`2024-11-26 05:05:00`|`Garry's Mod`|
+|[Osussist v3 MultiHack for osu&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/671577-osussist-v3-multihack-osu.html)|`2024-11-26 05:04:00`|`Other Games`|
+|[Wanting to learn C&#43;&#43;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/669325-learn.html)|`2024-11-26 05:02:00`|`Programming for Beginners`|
+|[Debug EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666377-debug-eac.html)|`2024-11-26 04:55:00`|`Anti-Cheat Bypass`|
 |[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-11-26 04:54:00`|`Escape from Tarkov`|
 |[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2024-11-26 04:52:00`|`Escape from Tarkov`|
 |[Games with shit anti cheat&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/673855-games-shit-anti-cheat.html)|`2024-11-26 04:51:00`|`Off Topic`|
