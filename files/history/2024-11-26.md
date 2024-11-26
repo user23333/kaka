@@ -14,6 +14,7 @@
 |8|[Broken Arrow Cheat&#45; XDClient](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673500-broken-arrow-cheat-xdclient.html)|`2024-11-26 01:46:30`|`other-mmorpg-and-strategy`|
 |38|[BotOps Hub &#40;bot lobby tool, no VM required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674129-botops-hub-bot-lobby-tool-vm-required.html)|`2024-11-26 05:07:55`|`call-of-duty-black-ops-6-a`|
 |18|[Controller Emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673578-controller-emulation.html)|`2024-11-26 12:00:42`|`call-of-duty-black-ops-6-a`|
+|5|[Any Hard Unlock Tools?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673136-hard-unlock-tools.html)|`2024-11-26 19:52:07`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fast Valorant Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669778-fast-valorant-triggerbot.html)|`2024-11-26 19:46:00`|`Valorant`|
 |[The Apex Legends Dream &#40;apexbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/576478-apex-legends-dream-apexbot.html)|`2024-11-26 19:33:00`|`Apex Legends`|
 |[Ark SE Dupe method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/674324-ark-se-dupe-method.html)|`2024-11-26 19:28:00`|`Forum General`|
 |[UNBAN FOR TARKOV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/674074-unban-tarkov.html)|`2024-11-26 18:20:00`|`Escape from Tarkov`|
