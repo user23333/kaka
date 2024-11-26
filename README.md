@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ツ Silent Night](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/604599-silent-night.html)|`2024-11-27 07:50:00`|`Grand Theft Auto V`|
+|[Possibility to modify the time spent in GTA Online in 2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/674268-possibility-modify-time-spent-gta-online-2024-a.html)|`2024-11-27 07:46:00`|`Grand Theft Auto V`|
 |[Elite unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/673878-elite-unlocker.html)|`2024-11-27 07:44:00`|`Rainbow Six Siege`|
 |[Kernel DA Tool &#43; Basic Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/669272-kernel-da-tool-basic-trainer.html)|`2024-11-27 07:12:00`|`Call of Duty: Black Ops Cold War`|
 |[ace HWID BAN HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674479-ace-hwid-ban-help.html)|`2024-11-27 07:01:00`|`Anti-Cheat Bypass`|
