@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Issue with 3rd person](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/674288-issue-3rd-person.html)|`2024-11-26 12:19:00`|`Counter-Strike 2`|
 |[PVE&#45;Coop Hack&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/674285-pve-coop-hack.html)|`2024-11-26 11:39:00`|`Escape from Tarkov`|
 |[Another ColorBot Why Not](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671417-colorbot.html)|`2024-11-26 11:18:00`|`Call of Duty: Black Ops 6`|
 |[any colour aimbots the dont lock onto objective?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674158-colour-aimbots-dont-lock-onto-objective.html)|`2024-11-26 11:16:00`|`Call of Duty: Black Ops 6`|
