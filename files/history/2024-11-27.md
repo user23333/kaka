@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rocket league offsets script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/674468-rocket-league-offsets-script.html)|`2024-11-27 06:02:00`|`Other Games`|
+|[Bypass game hwid ban&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674467-bypass-game-hwid-ban.html)|`2024-11-27 06:01:00`|`Anti-Cheat Bypass`|
+|[Rocket league offsets script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/674465-rocket-league-offsets-script.html)|`2024-11-27 05:58:00`|`Other Games`|
 |[Hideout](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/674464-hideout.html)|`2024-11-27 05:53:00`|`Escape from Tarkov`|
 |[Self&#45;Leak &#45; DOOMSDAY &#40;Internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/664457-self-leak-doomsday-internal.html)|`2024-11-27 05:43:00`|`Call of Duty: Black Ops 2`|
 |[question about esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673700-question-esp.html)|`2024-11-27 05:36:00`|`Counter-Strike 2`|
