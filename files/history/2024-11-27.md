@@ -24,9 +24,15 @@
 |112|[Controller&#95;Emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47685)|`2024-11-27 00:14:33`|
 |23|[Minecraft Bedrock Xp Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47683)|`2024-11-27 00:14:33`|
 |72|[johanna&#46;deadlock&#46;update&#46;23&#46;11&#46;24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47681)|`2024-11-27 00:14:33`|
+|1|[fc3&#46;py](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47729)|`2024-11-27 02:43:33`|
+|2|[Controller Emulation &#45; Source Code V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47728)|`2024-11-27 02:43:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CSSO Internal ESP Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/648328-csso-internal-esp-cheat.html)|`2024-11-27 02:38:00`|`CounterStrike Source`|
+|[Controller Emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673578-controller-emulation.html)|`2024-11-27 02:38:00`|`Call of Duty: Black Ops 6`|
+|[Far Cry 3 Memory Editor &#45; Python &#43; pymem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/far-cry/674305-cry-3-memory-editor-python-pymem.html)|`2024-11-27 02:33:00`|`Far Cry`|
+|[BO6 Enhanced Color Aim AHK GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671390-bo6-enhanced-color-aim-ahk-gui.html)|`2024-11-27 02:27:00`|`Call of Duty: Black Ops 6`|
 |[SuperMarket Together Admin Panel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/655316-supermarket-admin-panel.html)|`2024-11-27 02:26:00`|`Other Games`|
 |[Issue with 3rd person](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/674288-issue-3rd-person.html)|`2024-11-27 02:24:00`|`Counter-Strike 2`|
 |[&#91;Internal&#93; ThirdPerson Trace](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/674215-internal-thirdperson-trace.html)|`2024-11-27 02:21:00`|`Counter-Strike 2`|
