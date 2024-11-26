@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Apex Legends Dream &#40;apexbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/576478-apex-legends-dream-apexbot.html)|`2024-11-26 19:33:00`|`Apex Legends`|
+|[Ark SE Dupe method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/674324-ark-se-dupe-method.html)|`2024-11-26 19:28:00`|`Forum General`|
 |[UNBAN FOR TARKOV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/674074-unban-tarkov.html)|`2024-11-26 18:20:00`|`Escape from Tarkov`|
 |[3 Offsets I can't find in script&#46;json](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/655641-3-offsets-cant-script-json.html)|`2024-11-26 18:19:00`|`Rust`|
 |[CS2 AHK AIMBOT TRIGGERBOT BHOP EXTERNAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/674154-cs2-ahk-aimbot-triggerbot-bhop-external.html)|`2024-11-26 18:12:00`|`Counter-Strike 2 Releases`|
