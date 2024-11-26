@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[question about esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673700-question-esp.html)|`2024-11-27 05:36:00`|`Counter-Strike 2`|
+|[How draw fov correctly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/674227-draw-fov-correctly.html)|`2024-11-27 05:34:00`|`Counter-Strike 2`|
+|[Changing team in Heists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/674461-changing-team-heists.html)|`2024-11-27 05:30:00`|`Grand Theft Auto V`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2024-11-27 05:26:00`|`Escape from Tarkov`|
 |[UWorld Return 0x0 with HVCI off](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/674460-uworld-return-0x0-hvci.html)|`2024-11-27 05:19:00`|`Valorant`|
 |[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2024-11-27 05:16:00`|`Elite: Dangerous`|
