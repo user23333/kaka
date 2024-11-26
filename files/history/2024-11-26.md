@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Risk of Rain 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/669262-risk-rain-2-a.html)|`2024-11-26 20:56:00`|`Unity`|
+|[Possibility to modify the time spent in GTA Online in 2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/674268-possibility-modify-time-spent-gta-online-2024-a.html)|`2024-11-26 20:56:00`|`Grand Theft Auto V`|
+|[Looking for mods compatible with an Italian RedM server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/674335-looking-mods-compatible-italian-redm-server.html)|`2024-11-26 20:55:00`|`Red Dead Redemption 2`|
 |[Strinova Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667041-strinova-reversal-structs-offsets.html)|`2024-11-26 20:22:00`|`Other FPS Games`|
 |[Is there anything to supervive?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/674177-supervive.html)|`2024-11-26 19:56:00`|`Other MMORPG and Strategy`|
 |[question about lua menus](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/674325-question-lua-menus.html)|`2024-11-26 19:52:00`|`Garry's Mod`|
