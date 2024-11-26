@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[eros fantasy &#40;steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/674290-eros-fantasy-steam.html)|`2024-11-26 13:04:00`|`Other Games`|
+|[SpookSuite &#45; Content Warning Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/631549-spooksuite-content-warning-cheat.html)|`2024-11-26 13:02:00`|`Other Games`|
 |[Issue with 3rd person](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/674288-issue-3rd-person.html)|`2024-11-26 12:19:00`|`Counter-Strike 2`|
 |[PVE&#45;Coop Hack&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/674285-pve-coop-hack.html)|`2024-11-26 11:39:00`|`Escape from Tarkov`|
 |[Another ColorBot Why Not](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671417-colorbot.html)|`2024-11-26 11:18:00`|`Call of Duty: Black Ops 6`|
