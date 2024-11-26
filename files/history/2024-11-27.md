@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[shadow banning accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674306-shadow-banning-accounts.html)|`2024-11-27 01:57:00`|`Call of Duty: Black Ops 6`|
 |[Another ColorBot Why Not](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671417-colorbot.html)|`2024-11-27 01:53:00`|`Call of Duty: Black Ops 6`|
 |[GoldenGets Menu lua for YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/669302-goldengets-menu-lua-yimmenu.html)|`2024-11-27 01:52:00`|`Grand Theft Auto V`|
 |[any colour aimbots the dont lock onto objective?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674158-colour-aimbots-dont-lock-onto-objective.html)|`2024-11-27 01:41:00`|`Call of Duty: Black Ops 6`|
