@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Tpm Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/666357-tpm-bypass.html)|`2024-11-26 15:40:00`|`Valorant`|
+|[FACEIT AC TPM 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/652744-faceit-ac-tpm-2-0-a.html)|`2024-11-26 15:35:00`|`Anti-Cheat Bypass`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2024-11-26 15:10:00`|`Other Games`|
+|[VMWare exposing HWID's?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673382-vmware-exposing-hwids.html)|`2024-11-26 14:54:00`|`Anti-Cheat Bypass`|
 |[Destiny 2 Inventory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/668891-destiny-2-inventory.html)|`2024-11-26 14:55:00`|`Other FPS Games`|
 |[How to get started on KMbox Net for Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/674296-started-kmbox-net-valorant.html)|`2024-11-26 14:36:00`|`Valorant`|
 |[External RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673895-external-rcs.html)|`2024-11-26 14:32:00`|`Counter-Strike 2`|
