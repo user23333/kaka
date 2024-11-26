@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Battleye opened after I terminated it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/674374-battleye-terminated.html)|`2024-11-26 22:41:00`|`Escape from Tarkov`|
+|[Weapon esp not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/674373-weapon-esp.html)|`2024-11-26 22:38:00`|`Counter-Strike 2`|
+|[FSL Keeps crashing the game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/674371-fsl-crashing-game.html)|`2024-11-26 22:38:00`|`Grand Theft Auto V`|
+|[Apex AI Arduino Aim &#43; Silent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/670987-apex-ai-arduino-aim-silent.html)|`2024-11-26 22:35:00`|`Apex Legends`|
+|[Gmod python esp &#40;11/10/2024&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/671400-gmod-python-esp-11-10-2024-a.html)|`2024-11-26 22:34:00`|`Garry's Mod`|
 |[War Thunder Test drive unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/584439-war-thunder-test-drive-unlocker.html)|`2024-11-26 22:26:00`|`Other MMORPG and Strategy`|
 |[Spectator list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/674368-spectator-list.html)|`2024-11-26 22:13:00`|`Counter-Strike 2`|
 |[CS2 External Cheat Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/619124-cs2-external-cheat-base.html)|`2024-11-26 22:05:00`|`Counter-Strike 2`|
