@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SuperMarket Together Admin Panel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/655316-supermarket-admin-panel.html)|`2024-11-27 02:26:00`|`Other Games`|
+|[Issue with 3rd person](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/674288-issue-3rd-person.html)|`2024-11-27 02:24:00`|`Counter-Strike 2`|
+|[&#91;Internal&#93; ThirdPerson Trace](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/674215-internal-thirdperson-trace.html)|`2024-11-27 02:21:00`|`Counter-Strike 2`|
+|[Bypass EAC Shuffle cr3 using multithreading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674386-bypass-eac-shuffle-cr3-using-multithreading.html)|`2024-11-27 02:20:00`|`Anti-Cheat Bypass`|
+|[Apex CV YOLO v8 Aim Assist Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/624584-apex-cv-yolo-v8-aim-assist-bot.html)|`2024-11-27 02:13:00`|`Apex Legends`|
+|[AHK &#46;mouse moving libs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/669722-ahk-mouse-moving-libs.html)|`2024-11-27 02:01:00`|`Forum General`|
 |[shadow banning accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674306-shadow-banning-accounts.html)|`2024-11-27 01:57:00`|`Call of Duty: Black Ops 6`|
 |[Another ColorBot Why Not](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671417-colorbot.html)|`2024-11-27 01:53:00`|`Call of Duty: Black Ops 6`|
 |[GoldenGets Menu lua for YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/669302-goldengets-menu-lua-yimmenu.html)|`2024-11-27 01:52:00`|`Grand Theft Auto V`|
