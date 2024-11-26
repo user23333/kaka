@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-11-26 09:08:00`|`Playerunknown's Battlegrounds`|
+|[Ghosts of Tabor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/574607-ghosts-tabor.html)|`2024-11-26 09:07:00`|`Other FPS Games`|
+|[infestation the new beginning cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/infestation-survivor-stories-newz/674260-infestation-beginning-cheat.html)|`2024-11-26 08:50:00`|`Infestation Survivor Stories: NewZ`|
+|[Skip Cluckin Bell preps&#33; Easy 500K](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666172-skip-cluckin-bell-preps-easy-500k.html)|`2024-11-26 08:39:00`|`Grand Theft Auto V`|
 |[ZE&#45;hopELite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/645800-ze-hopelite.html)|`2024-11-26 07:59:00`|`CounterStrike Source`|
 |[Simple Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670081-simple-unlocker.html)|`2024-11-26 07:57:00`|`Call of Duty: Black Ops 6`|
 |[Is there a Linux Cheat&#45; Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/671148-linux-cheat-rust.html)|`2024-11-26 07:56:00`|`Rust`|
