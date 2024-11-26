@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-11-27 06:28:00`|`Escape from Tarkov`|
+|[disable DSE to load cheat engine driver DBK &#124; Bypass EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/602024-disable-dse-load-cheat-engine-driver-dbk-bypass-eac.html)|`2024-11-27 06:23:00`|`Anti-Cheat Bypass`|
 |[Rocket league offsets script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/674468-rocket-league-offsets-script.html)|`2024-11-27 06:02:00`|`Other Games`|
 |[Bypass game hwid ban&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674467-bypass-game-hwid-ban.html)|`2024-11-27 06:01:00`|`Anti-Cheat Bypass`|
 |[Rocket league offsets script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/674465-rocket-league-offsets-script.html)|`2024-11-27 05:58:00`|`Other Games`|
