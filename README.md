@@ -11,6 +11,7 @@
 |16|[Shadowban Workaround](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673188-shadowban-workaround.html)|`2024-11-27 00:14:33`|`call-of-duty-black-ops-6-a`|
 |8|[Broken Arrow Cheat&#45; XDClient](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673500-broken-arrow-cheat-xdclient.html)|`2024-11-27 00:14:33`|`other-mmorpg-and-strategy`|
 |5|[Any Hard Unlock Tools?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673136-hard-unlock-tools.html)|`2024-11-27 00:14:33`|`call-of-duty-black-ops-6-a`|
+|18|[Battlefield 1 aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/673219-battlefield-1-aim-assist.html)|`2024-11-27 02:52:02`|`battlefield-1-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -26,9 +27,13 @@
 |72|[johanna&#46;deadlock&#46;update&#46;23&#46;11&#46;24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47681)|`2024-11-27 00:14:33`|
 |1|[fc3&#46;py](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47729)|`2024-11-27 02:43:33`|
 |2|[Controller Emulation &#45; Source Code V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47728)|`2024-11-27 02:43:33`|
+|2|[UC&#95;BO6&#95;DMA&#95;FUSER&#95;ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47727)|`2024-11-27 02:52:02`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GamerFun AI Menu: All mouse Aimbot, Triggerbot & Recoil Control Using LGUB Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671029-gamerfun-ai-menu-mouse-aimbot-triggerbot-recoil-control-using-lgub-drivers.html)|`2024-11-27 02:51:00`|`Rainbow Six Siege`|
+|[&#40;DMA&#41; Black Ops 6: Fuser ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670830-dma-black-ops-6-fuser-esp.html)|`2024-11-27 02:44:00`|`Call of Duty: Black Ops 6`|
+|[How undetectable is making my own private cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671925-undetectable-own-private-cheat.html)|`2024-11-27 02:43:00`|`Rainbow Six Siege`|
 |[CSSO Internal ESP Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/648328-csso-internal-esp-cheat.html)|`2024-11-27 02:38:00`|`CounterStrike Source`|
 |[Controller Emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673578-controller-emulation.html)|`2024-11-27 02:38:00`|`Call of Duty: Black Ops 6`|
 |[Far Cry 3 Memory Editor &#45; Python &#43; pymem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/far-cry/674305-cry-3-memory-editor-python-pymem.html)|`2024-11-27 02:33:00`|`Far Cry`|
