@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiniAc ban after spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/674253-finiac-ban-spoofing.html)|`2024-11-26 21:29:00`|`Grand Theft Auto V`|
+|[lpmapper shellcode?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674341-lpmapper-shellcode.html)|`2024-11-26 21:29:00`|`Anti-Cheat Bypass`|
+|[Any aimbots?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/674282-aimbots.html)|`2024-11-26 21:27:00`|`Call of Duty: Black Ops 2`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2024-11-26 21:18:00`|`Grand Theft Auto V`|
+|[All Mouse NoRecoil &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-recoil-helpy-auto-config-probably-ud-universal.html)|`2024-11-26 21:10:00`|`Rainbow Six Siege`|
+|[Linux External Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673491-linux-external-aimbot.html)|`2024-11-26 21:09:00`|`Counter-Strike 2`|
 |[Risk of Rain 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/669262-risk-rain-2-a.html)|`2024-11-26 20:56:00`|`Unity`|
 |[Possibility to modify the time spent in GTA Online in 2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/674268-possibility-modify-time-spent-gta-online-2024-a.html)|`2024-11-26 20:56:00`|`Grand Theft Auto V`|
 |[Looking for mods compatible with an Italian RedM server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/674335-looking-mods-compatible-italian-redm-server.html)|`2024-11-26 20:55:00`|`Red Dead Redemption 2`|
