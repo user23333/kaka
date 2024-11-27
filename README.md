@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dma firmware creation question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/673714-dma-firmware-creation-question.html)|`2024-11-28 00:48:00`|`Programming for Beginners`|
+|[modded cars for yim menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/665300-modded-cars-yim-menu.html)|`2024-11-28 00:36:00`|`Grand Theft Auto V`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-11-28 00:35:00`|`Rust`|
+|[easy method to make Undetected Cheat Engine &#43; Driver &#43; DSE&#45;Patcher &#124; Bypass AC 2023](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/606839-easy-method-undetected-cheat-engine-driver-dse-patcher-bypass-ac-2023-a.html)|`2024-11-28 00:29:00`|`Anti-Cheat Bypass`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2024-11-28 00:24:00`|`Other FPS Games`|
 |[disable DSE to load cheat engine driver DBK &#124; Bypass EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/602024-disable-dse-load-cheat-engine-driver-dbk-bypass-eac.html)|`2024-11-28 00:28:00`|`Anti-Cheat Bypass`|
 |[BotOps Hub &#40;bot lobby tool, no VM required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674129-botops-hub-bot-lobby-tool-vm-required.html)|`2024-11-28 00:26:00`|`Call of Duty: Black Ops 6`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2024-11-28 00:23:00`|`Escape from Tarkov`|
