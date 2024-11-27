@@ -30,9 +30,11 @@
 |2|[Controller Emulation &#45; Source Code V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47728)|`2024-11-27 02:43:33`|
 |2|[UC&#95;BO6&#95;DMA&#95;FUSER&#95;ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47727)|`2024-11-27 02:52:02`|
 |4|[Lockdown Protocol Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47703)|`2024-11-27 09:07:23`|
+|2|[BO6 DMA Radar src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47723)|`2024-11-27 15:15:38`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;DMA&#41; Black Ops 6: RADAR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673045-dma-black-ops-6-radar.html)|`2024-11-27 15:07:00`|`Call of Duty: Black Ops 6`|
 |[Make your arduino UD again](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/641022-arduino-ud.html)|`2024-11-27 14:25:00`|`Valorant`|
 |[AHK Script Strinova](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/674508-ahk-script-strinova.html)|`2024-11-27 13:28:00`|`Other FPS Games`|
 |[any cheats for Garry's Mod rn?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/674477-cheats-garrys-mod-rn.html)|`2024-11-27 12:54:00`|`Garry's Mod`|
