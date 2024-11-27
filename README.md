@@ -37,6 +37,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to bypass ban DayzLand, DayZavr](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/647397-bypass-ban-dayzland-dayzavr.html)|`2024-11-27 23:05:00`|`DayZ SA`|
+|[Class Editor &#40;online&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/674590-class-editor-online.html)|`2024-11-27 23:04:00`|`Call of Duty: Black Ops 3`|
+|[Deep Rock Galactic: Deep Dive Delirium &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/617904-deep-rock-galactic-deep-dive-delirium-internal.html)|`2024-11-27 22:58:00`|`Other FPS Games`|
 |[Cronus Zen or Titan Two?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673461-cronus-zen-titan.html)|`2024-11-27 22:50:00`|`Call of Duty: Black Ops 6`|
 |[hook syscall without DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/674589-hook-syscall-dll.html)|`2024-11-27 22:50:00`|`Other FPS Games`|
 |[how the flip do i get rep](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/674588-flip-rep.html)|`2024-11-27 22:32:00`|`Off Topic`|
