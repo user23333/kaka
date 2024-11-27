@@ -32,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG GLOBAL EMU CHECKS EXPOSED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/668714-pubg-global-emu-checks-exposed.html)|`2024-11-27 10:37:00`|`PUBG Mobile`|
+|[CANNNOT GET UNBANNED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/662461-cannnot-unbanned.html)|`2024-11-27 10:37:00`|`Deadlock`|
+|[Pearson Vue Installer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674499-pearson-vue-installer.html)|`2024-11-27 10:21:00`|`Anti-Cheat Bypass`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-11-27 10:17:00`|`Playerunknown's Battlegrounds`|
+|[Player dies when spectate or undermap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/674498-player-dies-spectate-undermap.html)|`2024-11-27 10:15:00`|`Grand Theft Auto V`|
+|[ZE&#45;Elite version 4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/458162-ze-elite-version-4-a.html)|`2024-11-27 10:10:00`|`CounterStrike Source`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2024-11-27 08:59:00`|`Counter-Strike 2 Releases`|
 |[best yolov8 model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/674489-yolov8-model.html)|`2024-11-27 08:53:00`|`Apex Legends`|
 |[Can't load fusion plugin in IDA9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/672522-cant-load-fusion-plugin-ida9.html)|`2024-11-27 08:17:00`|`C and C++`|
