@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[More additions to the staff team&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/674179-additions-staff-team.html)|`2024-11-27 17:54:00`|`Information and Announcements`|
+|[strinova spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/674539-strinova-spoofer.html)|`2024-11-27 17:53:00`|`Other FPS Games`|
 |[Valorant Speed&#45;Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673640-valorant-speed-hack.html)|`2024-11-27 17:48:00`|`Valorant`|
 |[dentity V/ NeoX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/674535-dentity-neox.html)|`2024-11-27 17:46:00`|`Other Games`|
 |[Wicked Menu / Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/487033-wicked-menu-cheat-engine.html)|`2024-11-27 17:40:00`|`Grand Theft Auto V`|
