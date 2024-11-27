@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2024-11-27 17:20:00`|`Other FPS Games`|
+|[OV3RSW33T: AN OVERWAT Pack: Reborn & Recoded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/603412-ov3rsw33t-overwat-pack-reborn-recoded.html)|`2024-11-27 17:20:00`|`Overwatch`|
 |[DayZ 1&#46;21 &#45; 1&#46;24 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/634516-dayz-1-21-1-24-internal-cheat.html)|`2024-11-27 17:14:00`|`DayZ SA`|
 |[Brighter Shores &#45; Gates Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/674515-brighter-shores-gates-scripts.html)|`2024-11-27 17:03:00`|`Other MMORPG and Strategy`|
 |[Hypervisor EPT Hooking Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/674514-hypervisor-ept-hooking-question.html)|`2024-11-27 16:51:00`|`General Programming and Reversing`|
