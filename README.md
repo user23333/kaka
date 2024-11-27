@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to check a validity of cr3 before reading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670082-check-validity-cr3-reading.html)|`2024-11-27 18:47:00`|`Anti-Cheat Bypass`|
 |[Panicore internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/658925-panicore-internal.html)|`2024-11-27 18:35:00`|`Other Games`|
 |[WXO Jitter / Anti&#45;Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/673923-wxo-jitter-anti-recoil.html)|`2024-11-27 18:16:00`|`Apex Legends`|
 |[Rocket League Wintrading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/628382-rocket-league-wintrading.html)|`2024-11-27 17:55:00`|`Other Games`|
