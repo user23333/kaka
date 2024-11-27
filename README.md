@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Fiveguard serials ban&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/658955-fivem-fiveguard-serials-ban.html)|`2024-11-27 11:35:00`|`Alternative Online Mods`|
+|[Warframe Loot Modifier](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662459-warframe-loot-modifier.html)|`2024-11-27 11:27:00`|`Other FPS Games`|
+|[Checking for context switch usermode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674082-checking-context-switch-usermode.html)|`2024-11-27 11:21:00`|`Anti-Cheat Bypass`|
 |[bypass emulator full safety 3&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/672482-bypass-emulator-safety-3-5-a.html)|`2024-11-27 11:18:00`|`PUBG Mobile`|
 |[seo64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/662767-seo64.html)|`2024-11-27 11:06:00`|`Team Fortress 2`|
 |[Best way to hook SSL packets avoiding anti&#45;cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674475-hook-ssl-packets-avoiding-anti-cheat.html)|`2024-11-27 11:01:00`|`Anti-Cheat Bypass`|
