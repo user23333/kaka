@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to check a validity of cr3 before reading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/670082-check-validity-cr3-reading.html)|`2024-11-28 01:08:00`|`Anti-Cheat Bypass`|
+|[WarHook &#45; War Thunder Arcade mode cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/516723-warhook-war-thunder-arcade-mode-cheat.html)|`2024-11-28 01:04:00`|`Other MMORPG and Strategy`|
+|[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2024-11-28 00:58:00`|`Garry's Mod`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2024-11-28 00:54:00`|`Counter-Strike 2`|
 |[How To Bypass eac with just adding a dll?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674638-bypass-eac-adding-dll.html)|`2024-11-28 00:53:00`|`Anti-Cheat Bypass`|
 |[Dma firmware creation question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/673714-dma-firmware-creation-question.html)|`2024-11-28 00:48:00`|`Programming for Beginners`|
