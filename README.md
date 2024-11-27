@@ -37,6 +37,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Skip Cluckin Bell preps&#33; Easy 500K](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666172-skip-cluckin-bell-preps-easy-500k.html)|`2024-11-27 22:10:00`|`Grand Theft Auto V`|
+|[modded cars for yim menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/665300-modded-cars-yim-menu.html)|`2024-11-27 22:06:00`|`Grand Theft Auto V`|
+|[about AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662127-ahk.html)|`2024-11-27 22:05:00`|`Apex Legends`|
+|[Max level, samples, medals and requisitions&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/634711-max-level-samples-medals-requisitions.html)|`2024-11-27 22:05:00`|`HELLDIVERS 2`|
 |[Simple AFK Reverse Boosting Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674235-simple-afk-reverse-boosting-bot.html)|`2024-11-27 21:29:00`|`Call of Duty: Black Ops 6`|
 |[How to get x y z of two objects in a 3d world game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/670756-objects-3d-world-game.html)|`2024-11-27 21:13:00`|`General Programming and Reversing`|
 |[Strinova Pixel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/643727-strinova-pixel.html)|`2024-11-27 20:29:00`|`Other FPS Games`|
