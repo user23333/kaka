@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hypervisor EPT Hooking Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/674514-hypervisor-ept-hooking-question.html)|`2024-11-27 16:51:00`|`General Programming and Reversing`|
 |[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2024-11-27 16:35:00`|`Garry's Mod`|
 |[how do you prevent or lessen desync kicks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/673726-prevent-lessen-desync-kicks.html)|`2024-11-27 16:34:00`|`Grand Theft Auto V`|
 |[Launcher ban the proper way?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/674513-launcher-ban-proper.html)|`2024-11-27 16:30:00`|`Escape from Tarkov`|
