@@ -13,6 +13,7 @@
 |5|[Any Hard Unlock Tools?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673136-hard-unlock-tools.html)|`2024-11-27 00:14:33`|`call-of-duty-black-ops-6-a`|
 |18|[Battlefield 1 aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/673219-battlefield-1-aim-assist.html)|`2024-11-27 02:52:02`|`battlefield-1-a`|
 |13|[banning cod server ips to disable hit reg nerfs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673920-banning-cod-server-ips-disable-hit-reg-nerfs.html)|`2024-11-27 11:21:06`|`call-of-duty-black-ops-6-a`|
+|4|[Page fault hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673349-page-fault-hook.html)|`2024-11-27 15:45:10`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
