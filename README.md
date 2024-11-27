@@ -28,9 +28,16 @@
 |1|[fc3&#46;py](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47729)|`2024-11-27 02:43:33`|
 |2|[Controller Emulation &#45; Source Code V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47728)|`2024-11-27 02:43:33`|
 |2|[UC&#95;BO6&#95;DMA&#95;FUSER&#95;ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47727)|`2024-11-27 02:52:02`|
+|4|[Lockdown Protocol Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47703)|`2024-11-27 09:07:23`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2024-11-27 08:59:00`|`Counter-Strike 2 Releases`|
+|[best yolov8 model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/674489-yolov8-model.html)|`2024-11-27 08:53:00`|`Apex Legends`|
+|[Can't load fusion plugin in IDA9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/672522-cant-load-fusion-plugin-ida9.html)|`2024-11-27 08:17:00`|`C and C++`|
+|[DMA device](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673882-dma-device.html)|`2024-11-27 08:14:00`|`Anti-Cheat Bypass`|
+|[FreeStyle GunZ ShotBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/gunz/673351-freestyle-gunz-shotbot.html)|`2024-11-27 08:13:00`|`GunZ`|
+|[Quickswap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/674484-quickswap.html)|`2024-11-27 08:06:00`|`Sea of Thieves`|
 |[ツ Silent Night](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/604599-silent-night.html)|`2024-11-27 07:50:00`|`Grand Theft Auto V`|
 |[Possibility to modify the time spent in GTA Online in 2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/674268-possibility-modify-time-spent-gta-online-2024-a.html)|`2024-11-27 07:46:00`|`Grand Theft Auto V`|
 |[Elite unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/673878-elite-unlocker.html)|`2024-11-27 07:44:00`|`Rainbow Six Siege`|
