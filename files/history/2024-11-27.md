@@ -12,6 +12,7 @@
 |8|[Broken Arrow Cheat&#45; XDClient](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673500-broken-arrow-cheat-xdclient.html)|`2024-11-27 00:14:33`|`other-mmorpg-and-strategy`|
 |5|[Any Hard Unlock Tools?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673136-hard-unlock-tools.html)|`2024-11-27 00:14:33`|`call-of-duty-black-ops-6-a`|
 |18|[Battlefield 1 aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/673219-battlefield-1-aim-assist.html)|`2024-11-27 02:52:02`|`battlefield-1-a`|
+|13|[banning cod server ips to disable hit reg nerfs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673920-banning-cod-server-ips-disable-hit-reg-nerfs.html)|`2024-11-27 11:21:06`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[bypass emulator full safety 3&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/672482-bypass-emulator-safety-3-5-a.html)|`2024-11-27 11:18:00`|`PUBG Mobile`|
+|[seo64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/662767-seo64.html)|`2024-11-27 11:06:00`|`Team Fortress 2`|
+|[Best way to hook SSL packets avoiding anti&#45;cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674475-hook-ssl-packets-avoiding-anti-cheat.html)|`2024-11-27 11:01:00`|`Anti-Cheat Bypass`|
 |[PUBG GLOBAL EMU CHECKS EXPOSED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/668714-pubg-global-emu-checks-exposed.html)|`2024-11-27 10:37:00`|`PUBG Mobile`|
 |[CANNNOT GET UNBANNED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/662461-cannnot-unbanned.html)|`2024-11-27 10:37:00`|`Deadlock`|
 |[Pearson Vue Installer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674499-pearson-vue-installer.html)|`2024-11-27 10:21:00`|`Anti-Cheat Bypass`|
