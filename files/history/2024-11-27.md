@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2024-11-27 16:35:00`|`Garry's Mod`|
+|[how do you prevent or lessen desync kicks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/673726-prevent-lessen-desync-kicks.html)|`2024-11-27 16:34:00`|`Grand Theft Auto V`|
+|[Launcher ban the proper way?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/674513-launcher-ban-proper.html)|`2024-11-27 16:30:00`|`Escape from Tarkov`|
 |[The Finals ColorBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/669800-finals-colorbot.html)|`2024-11-27 16:06:00`|`THE FINALS`|
 |[Xbox refund credit method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/673763-xbox-refund-credit-method.html)|`2024-11-27 15:37:00`|`Rainbow Six Siege`|
 |[Spawn vehicles in GTA San Andreas using DLL or trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/674510-spawn-vehicles-gta-san-andreas-using-dll-trainer.html)|`2024-11-27 15:23:00`|`Other MMORPG and Strategy`|
