@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[disable DSE to load cheat engine driver DBK &#124; Bypass EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/602024-disable-dse-load-cheat-engine-driver-dbk-bypass-eac.html)|`2024-11-28 00:28:00`|`Anti-Cheat Bypass`|
+|[BotOps Hub &#40;bot lobby tool, no VM required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674129-botops-hub-bot-lobby-tool-vm-required.html)|`2024-11-28 00:26:00`|`Call of Duty: Black Ops 6`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2024-11-28 00:23:00`|`Escape from Tarkov`|
+|[strinova spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/674539-strinova-spoofer.html)|`2024-11-28 00:22:00`|`Other FPS Games`|
+|[Launcher ban the proper way?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/674513-launcher-ban-proper.html)|`2024-11-28 00:22:00`|`Escape from Tarkov`|
+|[Warframe Loot Modifier](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662459-warframe-loot-modifier.html)|`2024-11-28 00:22:00`|`Other FPS Games`|
 |[Strinova Pixel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/643727-strinova-pixel.html)|`2024-11-28 00:07:00`|`Other FPS Games`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-11-28 00:06:00`|`Apex Legends`|
 |[Supermarket Together Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/665134-supermarket-cheat-table.html)|`2024-11-28 00:04:00`|`Cheat Engine Tables`|
