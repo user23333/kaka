@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AHK Zombies Color Aimbot BO6 &#40;Best one IMO&#41; &#40;Sai's&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671433-ahk-zombies-color-aimbot-bo6-imo-sais.html)|`2024-11-28 03:09:00`|`Call of Duty: Black Ops 6`|
+|[AHK &#46;mouse moving libs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/669722-ahk-mouse-moving-libs.html)|`2024-11-28 03:06:00`|`Forum General`|
+|[Eternal Quest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/674648-eternal-quest.html)|`2024-11-28 03:03:00`|`Unity`|
+|[Temp spoofer driver &#40;randomize all serials&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/594353-temp-spoofer-driver-randomize-serials.html)|`2024-11-28 03:02:00`|`Valorant`|
 |[the finals color bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/674647-finals-color-bot.html)|`2024-11-28 02:52:00`|`THE FINALS`|
 |[Skip Cluckin Bell preps&#33; Easy 500K](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666172-skip-cluckin-bell-preps-easy-500k.html)|`2024-11-28 02:48:00`|`Grand Theft Auto V`|
 |[VALO COLOR BOT SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/633956-valo-color-bot-source.html)|`2024-11-28 02:29:00`|`Valorant`|
