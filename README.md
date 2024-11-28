@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dumping Kernel Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674723-dumping-kernel-drivers.html)|`2024-11-28 14:23:00`|`Anti-Cheat Bypass`|
+|[are lua scripts on logitech detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668656-lua-scripts-logitech-detected.html)|`2024-11-28 14:16:00`|`Rust`|
 |[FATE DMA Source With a lot of features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/659710-fate-dma-source-lot-features.html)|`2024-11-28 14:10:00`|`Apex Legends`|
 |[Color aimbot and triggerbot based on C&#43;&#43;, fully UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/663392-color-aimbot-triggerbot-based-ud.html)|`2024-11-28 13:47:00`|`Overwatch`|
 |[LABS CARD 99999 USES](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/674663-labs-card-99999-a.html)|`2024-11-28 13:18:00`|`Escape from Tarkov`|
