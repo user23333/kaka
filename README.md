@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2024-11-28 23:08:00`|`Other FPS Games`|
+|[Looking for CS2 P2C Cheat Dev](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/674778-looking-cs2-p2c-cheat-dev.html)|`2024-11-28 23:03:00`|`Counter-Strike 2`|
+|[Linux External Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673491-linux-external-aimbot.html)|`2024-11-28 23:02:00`|`Counter-Strike 2`|
 |[Wanting to learn C&#43;&#43;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/669325-learn.html)|`2024-11-28 22:27:00`|`Programming for Beginners`|
 |[Raid 0 Serials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/674776-raid-0-serials.html)|`2024-11-28 22:27:00`|`Valorant`|
 |[Hooking Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674773-hooking-question.html)|`2024-11-28 22:09:00`|`Anti-Cheat Bypass`|
