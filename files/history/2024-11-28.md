@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-11-28 18:58:00`|`Valorant`|
 |[Help Needed: Bypassing NVIDIA Inspector Captcha on DayZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/673832-help-bypassing-nvidia-inspector-captcha-dayz.html)|`2024-11-28 18:38:00`|`Off Topic`|
 |[Requesting for BOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/674752-requesting-bot.html)|`2024-11-28 18:18:00`|`Other Games`|
 |[ace HWID BAN HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674479-ace-hwid-ban-help.html)|`2024-11-28 18:12:00`|`Anti-Cheat Bypass`|
