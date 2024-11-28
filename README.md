@@ -11,6 +11,7 @@
 |43|[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2024-11-29 00:18:38`|`tom-clancy-s-the-division`|
 |12|[simple cs2 esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673463-simple-cs2-esp.html)|`2024-11-29 00:18:38`|`counter-strike-2-a`|
 |22|[any colour aimbots the dont lock onto objective?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674158-colour-aimbots-dont-lock-onto-objective.html)|`2024-11-29 00:18:38`|`call-of-duty-black-ops-6-a`|
+|5|[Valorant Speed&#45;Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673640-valorant-speed-hack.html)|`2024-11-29 00:58:41`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
