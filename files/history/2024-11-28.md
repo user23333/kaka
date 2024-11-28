@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[KVM Bypass Using QEMU &#45; Vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/635411-kvm-bypass-using-qemu-vanguard.html)|`2024-11-28 20:50:00`|`League of Legends`|
+|[Vanguard literally killed this section&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/663631-vanguard-literally-killed-section.html)|`2024-11-28 20:46:00`|`League of Legends`|
+|[Help with Python Script in bot lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673667-help-python-script-bot-lobbies.html)|`2024-11-28 20:42:00`|`Call of Duty: Black Ops 6`|
+|[Risk of Rain 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/669262-risk-rain-2-a.html)|`2024-11-28 20:41:00`|`Unity`|
+|[Destiny 2 Inventory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/668891-destiny-2-inventory.html)|`2024-11-28 20:33:00`|`Other FPS Games`|
+|[esp renders on wrong positions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/674762-esp-renders-wrong-positions.html)|`2024-11-28 20:28:00`|`Alternative Online Mods`|
 |[Darling v1&#46;1 &#40;RGH/JTAG&#41; BO2/BO1 RME WITH SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/674759-darling-v1-1-rgh-jtag-bo2-bo1-rme-source.html)|`2024-11-28 20:09:00`|`Call of Duty: Black Ops 2`|
 |[COD CP exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/616611-cod-cp-exploit.html)|`2024-11-28 20:01:00`|`Call of Duty: Black Ops 6`|
 |[RUST EAC HWID BANS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/674709-rust-eac-hwid-bans.html)|`2024-11-28 19:56:00`|`Rust`|
