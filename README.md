@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Projectiles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/674878-valorant-projectiles.html)|`2024-11-29 06:23:00`|`Valorant`|
 |[Dma reading in c&#35;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-/635826-dma-reading.html)|`2024-11-29 05:53:00`|`C#`|
 |[Cheap DMA cards](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/617995-cheap-dma-cards.html)|`2024-11-29 05:49:00`|`PC Hardware`|
 |[Ida reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/674874-ida-reversing.html)|`2024-11-29 05:42:00`|`General Programming and Reversing`|
