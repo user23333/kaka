@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AHK Script Strinova](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/674508-ahk-script-strinova.html)|`2024-11-28 19:24:00`|`Other FPS Games`|
+|[How to check kernel memory pool allocation?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673385-check-kernel-memory-pool-allocation.html)|`2024-11-28 19:22:00`|`Anti-Cheat Bypass`|
+|[memory aimbot error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/674756-memory-aimbot-error.html)|`2024-11-28 19:18:00`|`Alternative Online Mods`|
 |[Yim without FSL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/674755-yim-fsl.html)|`2024-11-28 19:05:00`|`Grand Theft Auto V`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-11-28 18:58:00`|`Valorant`|
 |[Help Needed: Bypassing NVIDIA Inspector Captcha on DayZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/673832-help-bypassing-nvidia-inspector-captcha-dayz.html)|`2024-11-28 18:38:00`|`Off Topic`|
