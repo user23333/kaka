@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Color aimbot and triggerbot based on C&#43;&#43;, fully UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/663392-color-aimbot-triggerbot-based-ud.html)|`2024-11-28 13:47:00`|`Overwatch`|
 |[LABS CARD 99999 USES](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/674663-labs-card-99999-a.html)|`2024-11-28 13:18:00`|`Escape from Tarkov`|
 |[Forza Motorsport tuning glitch?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/674717-forza-motorsport-tuning-glitch.html)|`2024-11-28 13:12:00`|`Other Games`|
 |[3 monitor with dual pc Black Ops 6 Wall hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/673941-3-monitor-dual-pc-black-ops-6-wall-hack.html)|`2024-11-28 12:45:00`|`Forum General`|
