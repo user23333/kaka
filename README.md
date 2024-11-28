@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[who can explain to the old man](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/674667-explain.html)|`2024-11-29 02:49:00`|`Grand Theft Auto V`|
+|[Connecting lobbies together](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674849-connecting-lobbies.html)|`2024-11-29 02:42:00`|`Call of Duty: Black Ops 6`|
+|[BloodStrike Test Wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/674848-bloodstrike-test-wallhack.html)|`2024-11-29 02:42:00`|`Other FPS Games`|
+|[anti recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672415-anti-recoil.html)|`2024-11-29 02:40:00`|`Call of Duty: Black Ops 6`|
+|[about AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662127-ahk.html)|`2024-11-29 02:38:00`|`Apex Legends`|
 |[Broken Arrow &#43;13 Trainer&#40;CT table&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673542-broken-arrow-13-trainer-ct-table.html)|`2024-11-29 02:38:00`|`Other MMORPG and Strategy`|
 |[Minimum allowed key overlap for counterstrafes? &#40;Snap Tap, SOCD&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/674643-minimum-allowed-key-overlap-counterstrafes-snap-tap-socd.html)|`2024-11-29 02:34:00`|`Counter-Strike 2`|
 |[Weapon esp not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/674373-weapon-esp.html)|`2024-11-29 02:32:00`|`Counter-Strike 2`|
