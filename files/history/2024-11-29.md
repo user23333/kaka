@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant External Example &#45; IOCTL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673016-valorant-external-example-ioctl.html)|`2024-11-29 05:36:00`|`Valorant`|
+|[VALORANT MINION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673460-valorant-minion.html)|`2024-11-29 05:33:00`|`Valorant`|
 |[Pro CS2 DMA &#45; Esp & Aimbot & Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656442-pro-cs2-dma-esp-aimbot-web-radar.html)|`2024-11-29 05:24:00`|`Counter-Strike 2`|
 |[Ghosts of Tabor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/574607-ghosts-tabor.html)|`2024-11-29 05:20:00`|`Other FPS Games`|
 |[AssaultCube 1&#46;3&#46;0&#46;2 internal esp box scaling issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/674872-assaultcube-1-3-0-2-internal-esp-box-scaling-issue.html)|`2024-11-29 05:07:00`|`Programming for Beginners`|
