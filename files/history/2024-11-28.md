@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Wicked Menu/ Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/372512-wicked-menu-cheat-engine.html)|`2024-11-28 16:41:00`|`Red Dead Redemption 2`|
 |[Linux External ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/674732-linux-external-esp-aimbot.html)|`2024-11-28 16:34:00`|`Counter-Strike 2`|
 |[S&#46;T&#46;A&#46;L&#46;K&#46;E&#46;R&#46; 2: Heart of Chornobyl Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/673320-2-heart-chornobyl-reversal-structs-offsets.html)|`2024-11-28 16:26:00`|`Other FPS Games`|
 |[Cronus Zen or Titan Two?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673461-cronus-zen-titan.html)|`2024-11-28 16:22:00`|`Call of Duty: Black Ops 6`|
