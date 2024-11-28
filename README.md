@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AssaultCube 1&#46;3&#46;0&#46;2 internal esp box scaling issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/674872-assaultcube-1-3-0-2-internal-esp-box-scaling-issue.html)|`2024-11-29 05:07:00`|`Programming for Beginners`|
+|[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2024-11-29 05:06:00`|`Tom Clancy's The Division`|
+|[Token Ban System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/674870-token-ban-system.html)|`2024-11-29 05:02:00`|`Alternative Online Mods`|
 |[Make your arduino UD again](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/641022-arduino-ud.html)|`2024-11-29 04:52:00`|`Valorant`|
 |[How much info can rust admins get on your bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/674737-info-rust-admins-bans.html)|`2024-11-29 04:38:00`|`Rust`|
 |[Right bones for aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/674076-bones-aimbot.html)|`2024-11-29 04:33:00`|`Team Fortress 2`|
