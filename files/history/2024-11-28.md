@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RUST EAC HWID BANS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/674709-rust-eac-hwid-bans.html)|`2024-11-28 19:56:00`|`Rust`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-11-28 19:55:00`|`Playerunknown's Battlegrounds`|
+|[How much info can rust admins get on your bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/674737-info-rust-admins-bans.html)|`2024-11-28 19:54:00`|`Rust`|
+|[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2024-11-28 19:54:00`|`Tom Clancy's The Division`|
 |[1v1&#46;lol cheat esp/aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/674721-1v1-lol-cheat-esp-aimbot.html)|`2024-11-28 19:29:00`|`Other FPS Games`|
 |[AHK Script Strinova](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/674508-ahk-script-strinova.html)|`2024-11-28 19:24:00`|`Other FPS Games`|
 |[How to check kernel memory pool allocation?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673385-check-kernel-memory-pool-allocation.html)|`2024-11-28 19:22:00`|`Anti-Cheat Bypass`|
