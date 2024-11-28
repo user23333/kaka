@@ -29,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Broken Arrow &#43;13 Trainer&#40;CT table&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673542-broken-arrow-13-trainer-ct-table.html)|`2024-11-29 02:38:00`|`Other MMORPG and Strategy`|
+|[Minimum allowed key overlap for counterstrafes? &#40;Snap Tap, SOCD&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/674643-minimum-allowed-key-overlap-counterstrafes-snap-tap-socd.html)|`2024-11-29 02:34:00`|`Counter-Strike 2`|
+|[Weapon esp not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/674373-weapon-esp.html)|`2024-11-29 02:32:00`|`Counter-Strike 2`|
+|[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2024-11-29 02:31:00`|`Grand Theft Auto V`|
+|[Battlefield 1 aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/673219-battlefield-1-aim-assist.html)|`2024-11-29 02:30:00`|`Battlefield 1`|
+|[Strinova Pixel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/643727-strinova-pixel.html)|`2024-11-29 02:23:00`|`Other FPS Games`|
+|[GamerFun AI Menu: All mouse Aimbot, Triggerbot & Recoil Control Using LGUB Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671029-gamerfun-ai-menu-mouse-aimbot-triggerbot-recoil-control-using-lgub-drivers.html)|`2024-11-29 02:21:00`|`Rainbow Six Siege`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2024-11-29 02:14:00`|`League of Legends`|
 |[FOG OF WAR BYPASS?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/674448-fog-war-bypass.html)|`2024-11-29 02:14:00`|`Playerunknown's Battlegrounds`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2024-11-29 02:09:00`|`Other MMORPG and Strategy`|
