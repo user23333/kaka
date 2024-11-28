@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Banned for colorbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674657-banned-colorbot.html)|`2024-11-29 06:52:00`|`Call of Duty: Black Ops 6`|
 |[FiveM Cheat &#124; Dumper & Trigger find](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/654012-fivem-cheat-dumper-trigger.html)|`2024-11-29 06:37:00`|`Alternative Online Mods`|
 |[Valorant Projectiles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/674878-valorant-projectiles.html)|`2024-11-29 06:23:00`|`Valorant`|
 |[Dma reading in c&#35;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-/635826-dma-reading.html)|`2024-11-29 05:53:00`|`C#`|
