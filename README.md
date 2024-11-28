@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Requesting for BOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/674752-requesting-bot.html)|`2024-11-28 18:18:00`|`Other Games`|
+|[ace HWID BAN HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674479-ace-hwid-ban-help.html)|`2024-11-28 18:12:00`|`Anti-Cheat Bypass`|
 |[who can explain to the old man](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/674667-explain.html)|`2024-11-28 17:58:00`|`Grand Theft Auto V`|
 |[ViewMatrix Without UE4 & Random pointer access&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/673939-viewmatrix-ue4-random-pointer-access.html)|`2024-11-28 17:55:00`|`PUBG Mobile`|
 |[Is netlimiter detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674307-netlimiter-detected.html)|`2024-11-28 17:51:00`|`Call of Duty: Black Ops 6`|
