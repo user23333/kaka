@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does anyone own a copy of exalted to share?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/674320-own-copy-exalted-share.html)|`2024-11-28 11:31:00`|`League of Legends`|
+|[SetModel stalled？](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/674707-setmodel-stalled.html)|`2024-11-28 11:31:00`|`Counter-Strike 2`|
+|[Change abilities of heroes in MP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/674310-change-abilities-heroes-mp.html)|`2024-11-28 11:29:00`|`Star Wars Battlefront 2`|
+|[DRAGON BALL Sparking&#33; ZERO &#45; Auto Online Stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/673913-dragon-ball-sparking-zero-auto-online-stuff.html)|`2024-11-28 11:18:00`|`Other Games`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-11-28 10:52:00`|`Grand Theft Auto V`|
 |[FiniAc ban after spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/674253-finiac-ban-spoofing.html)|`2024-11-28 10:52:00`|`Grand Theft Auto V`|
 |[TheFinals External Cheat with source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/626983-thefinals-external-cheat-source-code.html)|`2024-11-28 10:48:00`|`THE FINALS`|
