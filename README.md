@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Crossfire&#95;cn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/674505-crossfire_cn.html)|`2024-11-28 15:12:00`|`CrossFire`|
+|[What is better than DMA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674670-dma.html)|`2024-11-28 15:05:00`|`Call of Duty: Black Ops 6`|
+|[Decrypting IL2CPP Metadata and Assembly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/671918-decrypting-il2cpp-metadata-assembly.html)|`2024-11-28 15:00:00`|`Unity`|
 |[Dumping Kernel Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674723-dumping-kernel-drivers.html)|`2024-11-28 14:23:00`|`Anti-Cheat Bypass`|
 |[are lua scripts on logitech detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668656-lua-scripts-logitech-detected.html)|`2024-11-28 14:16:00`|`Rust`|
 |[FATE DMA Source With a lot of features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/659710-fate-dma-source-lot-features.html)|`2024-11-28 14:10:00`|`Apex Legends`|
