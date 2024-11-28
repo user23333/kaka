@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Darling v1&#46;1 &#40;RGH/JTAG&#41; BO2/BO1 RME WITH SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/674759-darling-v1-1-rgh-jtag-bo2-bo1-rme-source.html)|`2024-11-28 20:09:00`|`Call of Duty: Black Ops 2`|
+|[COD CP exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/616611-cod-cp-exploit.html)|`2024-11-28 20:01:00`|`Call of Duty: Black Ops 6`|
 |[RUST EAC HWID BANS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/674709-rust-eac-hwid-bans.html)|`2024-11-28 19:56:00`|`Rust`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-11-28 19:55:00`|`Playerunknown's Battlegrounds`|
 |[How much info can rust admins get on your bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/674737-info-rust-admins-bans.html)|`2024-11-28 19:54:00`|`Rust`|
