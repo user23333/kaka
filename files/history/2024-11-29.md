@@ -13,6 +13,7 @@
 |22|[any colour aimbots the dont lock onto objective?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674158-colour-aimbots-dont-lock-onto-objective.html)|`2024-11-29 00:18:38`|`call-of-duty-black-ops-6-a`|
 |5|[Valorant Speed&#45;Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673640-valorant-speed-hack.html)|`2024-11-29 00:58:41`|`valorant`|
 |10|[Easy CS2 Antiaim Jitter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673511-easy-cs2-antiaim-jitter.html)|`2024-11-29 01:29:44`|`counter-strike-2-a`|
+|0|[Pokemon TCG Pocket &#91;2024&#93; &#91;Mobile Game&#93; &#45; Cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/674084-pokemon-tcg-pocket-2024-mobile-game-cheats.html)|`2024-11-29 07:15:19`|`other-mmorpg-and-strategy`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Modern Warfare III Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/605287-call-duty-modern-warfare-iii-reversal-structs-offsets.html)|`2024-11-29 07:14:00`|`Call of Duty: Modern Warfare III`|
+|[Sai's Color Aimbot BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668780-sais-color-aimbot-bo6.html)|`2024-11-29 07:11:00`|`Call of Duty: Black Ops 6`|
 |[Banned for colorbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674657-banned-colorbot.html)|`2024-11-29 06:52:00`|`Call of Duty: Black Ops 6`|
 |[FiveM Cheat &#124; Dumper & Trigger find](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/654012-fivem-cheat-dumper-trigger.html)|`2024-11-29 06:37:00`|`Alternative Online Mods`|
 |[Valorant Projectiles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/674878-valorant-projectiles.html)|`2024-11-29 06:23:00`|`Valorant`|
