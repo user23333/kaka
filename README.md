@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to stop sending lua errors to the server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/674639-stop-sending-lua-errors-server.html)|`2024-11-29 03:03:00`|`Garry's Mod`|
 |[who can explain to the old man](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/674667-explain.html)|`2024-11-29 02:49:00`|`Grand Theft Auto V`|
 |[Connecting lobbies together](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674849-connecting-lobbies.html)|`2024-11-29 02:42:00`|`Call of Duty: Black Ops 6`|
 |[BloodStrike Test Wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/674848-bloodstrike-test-wallhack.html)|`2024-11-29 02:42:00`|`Other FPS Games`|
