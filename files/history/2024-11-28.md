@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Local website integration in cheat menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/674440-local-website-integration-cheat-menu.html)|`2024-11-28 15:49:00`|`Grand Theft Auto V`|
 |[Linux &#45; Bypassing VAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/634811-linux-bypassing-vac.html)|`2024-11-28 15:42:00`|`Counter-Strike 2`|
 |[Crossfire&#95;cn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/674505-crossfire_cn.html)|`2024-11-28 15:12:00`|`CrossFire`|
 |[What is better than DMA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674670-dma.html)|`2024-11-28 15:05:00`|`Call of Duty: Black Ops 6`|
