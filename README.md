@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2024-11-29 02:14:00`|`League of Legends`|
+|[FOG OF WAR BYPASS?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/674448-fog-war-bypass.html)|`2024-11-29 02:14:00`|`Playerunknown's Battlegrounds`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2024-11-29 02:09:00`|`Other MMORPG and Strategy`|
+|[Full Valorant External V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/670480-valorant-external-v1.html)|`2024-11-29 02:01:00`|`Valorant`|
+|[DMA Cr3 Shuffling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/672583-dma-cr3-shuffling.html)|`2024-11-29 01:59:00`|`Apex Legends`|
 |[easy method to make Undetected Cheat Engine &#43; Driver &#43; DSE&#45;Patcher &#124; Bypass AC 2023](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/606839-easy-method-undetected-cheat-engine-driver-dse-patcher-bypass-ac-2023-a.html)|`2024-11-29 01:56:00`|`Anti-Cheat Bypass`|
 |[Rewasd Ban? or not, is there a risk of a ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673752-rewasd-ban-risk-ban.html)|`2024-11-29 01:53:00`|`Call of Duty: Black Ops 6`|
 |[Analyzing Dump in IDA Pro till Completion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674837-analyzing-dump-ida-pro-till-completion.html)|`2024-11-29 01:53:00`|`Call of Duty: Black Ops 6`|
