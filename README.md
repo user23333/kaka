@@ -36,9 +36,11 @@
 |2|[Stalker2&#45;Win64&#45;Shipping&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47743)|`2024-11-29 10:14:46`|
 |10|[AI aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47724)|`2024-11-29 10:14:46`|
 |7|[Valorant Minion Ver 0&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47720)|`2024-11-29 10:14:46`|
+|2|[rigel nov28](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47747)|`2024-11-29 22:32:51`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What do you guys want posted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669083-guys-posted.html)|`2024-11-29 22:22:00`|`Valorant`|
 |[Pokemon Go Trainer for PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/674126-pokemon-trainer-pc.html)|`2024-11-29 21:53:00`|`Other MMORPG and Strategy`|
 |[Mapper does not find function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674993-mapper-function.html)|`2024-11-29 21:52:00`|`Anti-Cheat Bypass`|
 |[WXO Jitter / Anti&#45;Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/673923-wxo-jitter-anti-recoil.html)|`2024-11-29 21:51:00`|`Apex Legends`|
