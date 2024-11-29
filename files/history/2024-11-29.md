@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pokemon Go Trainer for PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/674126-pokemon-trainer-pc.html)|`2024-11-29 21:53:00`|`Other MMORPG and Strategy`|
 |[Mapper does not find function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674993-mapper-function.html)|`2024-11-29 21:52:00`|`Anti-Cheat Bypass`|
 |[WXO Jitter / Anti&#45;Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/673923-wxo-jitter-anti-recoil.html)|`2024-11-29 21:51:00`|`Apex Legends`|
 |[shadow banning accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674306-shadow-banning-accounts.html)|`2024-11-29 21:48:00`|`Call of Duty: Black Ops 6`|
