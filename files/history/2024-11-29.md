@@ -39,6 +39,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/672620-mod-menu.html)|`2024-11-29 21:30:00`|`Among Us`|
+|[Calling syscall&#95;hook fails](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/return-to-castle-wolfenstein/674991-calling-syscall_hook-fails.html)|`2024-11-29 21:28:00`|`Return To Castle Wolfenstein`|
+|[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2024-11-29 21:18:00`|`DayZ SA`|
 |[Vigor Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662145-vigor-reversal-structs-offsets.html)|`2024-11-29 21:06:00`|`Other FPS Games`|
 |[Osussist v3 MultiHack for osu&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/671577-osussist-v3-multihack-osu.html)|`2024-11-29 20:57:00`|`Other Games`|
 |[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2024-11-29 20:56:00`|`Elite: Dangerous`|
