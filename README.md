@@ -40,6 +40,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino HID Mouse &#43; Free Libraries](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/642071-arduino-hid-mouse-free-libraries.html)|`2024-11-29 22:49:00`|`Valorant`|
+|[crash taking local player internally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/674997-crash-taking-local-player-internally.html)|`2024-11-29 22:46:00`|`Unreal Engine 4`|
 |[What do you guys want posted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669083-guys-posted.html)|`2024-11-29 22:22:00`|`Valorant`|
 |[Pokemon Go Trainer for PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/674126-pokemon-trainer-pc.html)|`2024-11-29 21:53:00`|`Other MMORPG and Strategy`|
 |[Mapper does not find function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674993-mapper-function.html)|`2024-11-29 21:52:00`|`Anti-Cheat Bypass`|
