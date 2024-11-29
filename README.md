@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pokemon TCGP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/671386-pokemon-tcgp.html)|`2024-11-29 15:51:00`|`Android`|
 |[mouse to xbox controller python script for aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/674910-mouse-xbox-controller-python-script-aimbot.html)|`2024-11-29 14:26:00`|`General Programming and Reversing`|
 |[does anticheatexpert ban ram？](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674909-anticheatexpert-ban-ram.html)|`2024-11-29 14:18:00`|`Anti-Cheat Bypass`|
 |[Help with offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673909-help-offsets.html)|`2024-11-29 13:55:00`|`Counter-Strike 2`|
