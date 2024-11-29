@@ -40,6 +40,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Heist Editor patched or simply broken?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/625003-heist-editor-patched-simply-broken.html)|`2024-11-29 23:28:00`|`Grand Theft Auto V`|
+|[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2024-11-29 23:21:00`|`Other FPS Games`|
+|[Unjust Bans in Black Ops 6 – Let’s Investigate Together](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675006-unjust-bans-black-ops-6-investigate.html)|`2024-11-29 23:20:00`|`Call of Duty: Black Ops 6`|
+|[crash taking local player internally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675005-crash-taking-local-player-internally.html)|`2024-11-29 23:15:00`|`Other FPS Games`|
 |[DMA for BO6/Warzone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675001-dma-bo6-warzone.html)|`2024-11-29 22:58:00`|`Call of Duty: Black Ops 6`|
 |[A more indepth ASUS motherboard spoofing guide&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/638105-indepth-asus-motherboard-spoofing-guide.html)|`2024-11-29 22:56:00`|`Valorant`|
 |[DMA Fuser needed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/674998-dma-fuser.html)|`2024-11-29 22:51:00`|`Other Hardware`|
