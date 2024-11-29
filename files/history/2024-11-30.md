@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex CV YOLO v8 Aim Assist Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/624584-apex-cv-yolo-v8-aim-assist-bot.html)|`2024-11-30 07:33:00`|`Apex Legends`|
+|[How many games does it take on average to know if you're delay ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675055-games-average-youre-delay-ban.html)|`2024-11-30 07:32:00`|`Valorant`|
 |[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2024-11-30 07:24:00`|`Garry's Mod`|
 |[UNBAN Method BO6 &#33; &#40;Free&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673668-unban-method-bo6-free.html)|`2024-11-30 07:13:00`|`Call of Duty: Black Ops 6`|
 |[Solo AFK XP Method and AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673301-solo-afk-xp-method-ahk.html)|`2024-11-30 07:11:00`|`Call of Duty: Black Ops 6`|
