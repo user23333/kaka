@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[banning cod server ips to disable hit reg nerfs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673920-banning-cod-server-ips-disable-hit-reg-nerfs.html)|`2024-11-29 13:28:00`|`Call of Duty: Black Ops 6`|
+|[mayhembot &#40;esp, aimbot & more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/522922-mayhembot-esp-aimbot.html)|`2024-11-29 13:15:00`|`Call of Duty 4: Modern Warfare`|
 |[Using a Hijacked Driver Object](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674904-using-hijacked-driver-object.html)|`2024-11-29 13:02:00`|`Anti-Cheat Bypass`|
 |[Shadow ban lobbies &#45; escape method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674903-shadow-ban-lobbies-escape-method.html)|`2024-11-29 13:01:00`|`Call of Duty: Black Ops 6`|
 |[ΛPEX FΞͶIX &#45; reWASD s21 cfg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/645869-pex-ix-rewasd-s21-cfg.html)|`2024-11-29 12:33:00`|`Apex Legends`|
