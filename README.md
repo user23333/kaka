@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-11-30 02:15:00`|`Apex Legends`|
+|[Cs2 Driver Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672943-cs2-driver-cheat.html)|`2024-11-30 02:06:00`|`Counter-Strike 2`|
+|[UWorld Return 0x0 with HVCI off](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/674460-uworld-return-0x0-hvci.html)|`2024-11-30 02:02:00`|`Valorant`|
+|[Hanzo aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/675018-hanzo-aimbot.html)|`2024-11-30 01:57:00`|`Overwatch`|
 |[Best way to hook SSL packets avoiding anti&#45;cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674475-hook-ssl-packets-avoiding-anti-cheat.html)|`2024-11-30 01:46:00`|`Anti-Cheat Bypass`|
 |[who can explain to the old man](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/674667-explain.html)|`2024-11-30 01:31:00`|`Grand Theft Auto V`|
 |[VALORANT MINION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673460-valorant-minion.html)|`2024-11-30 01:27:00`|`Valorant`|
