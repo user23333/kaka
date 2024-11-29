@@ -40,6 +40,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC Bypass &#40;Temporary&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/627251-eac-bypass-temporary.html)|`2024-11-29 23:37:00`|`Sea of Thieves`|
 |[Heist Editor patched or simply broken?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/625003-heist-editor-patched-simply-broken.html)|`2024-11-29 23:28:00`|`Grand Theft Auto V`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2024-11-29 23:21:00`|`Other FPS Games`|
 |[Unjust Bans in Black Ops 6 – Let’s Investigate Together](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675006-unjust-bans-black-ops-6-investigate.html)|`2024-11-29 23:20:00`|`Call of Duty: Black Ops 6`|
