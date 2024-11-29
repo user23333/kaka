@@ -16,6 +16,7 @@
 |0|[Pokemon TCG Pocket &#91;2024&#93; &#91;Mobile Game&#93; &#45; Cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/674084-pokemon-tcg-pocket-2024-mobile-game-cheats.html)|`2024-11-29 07:15:19`|`other-mmorpg-and-strategy`|
 |17|[shadow banning accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674306-shadow-banning-accounts.html)|`2024-11-29 08:42:22`|`call-of-duty-black-ops-6-a`|
 |20|[DRAGON BALL Sparking&#33; ZERO &#45; Auto Online Stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/673913-dragon-ball-sparking-zero-auto-online-stuff.html)|`2024-11-29 11:07:07`|`other-games`|
+|3|[WXO Jitter / Anti&#45;Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/673923-wxo-jitter-anti-recoil.html)|`2024-11-29 14:44:27`|`apex-legends`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -37,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[mouse to xbox controller python script for aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/674910-mouse-xbox-controller-python-script-aimbot.html)|`2024-11-29 14:26:00`|`General Programming and Reversing`|
 |[does anticheatexpert ban ram？](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674909-anticheatexpert-ban-ram.html)|`2024-11-29 14:18:00`|`Anti-Cheat Bypass`|
 |[Help with offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673909-help-offsets.html)|`2024-11-29 13:55:00`|`Counter-Strike 2`|
 |[banning cod server ips to disable hit reg nerfs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673920-banning-cod-server-ips-disable-hit-reg-nerfs.html)|`2024-11-29 13:28:00`|`Call of Duty: Black Ops 6`|
