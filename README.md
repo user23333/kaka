@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Best way to hook SSL packets avoiding anti&#45;cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674475-hook-ssl-packets-avoiding-anti-cheat.html)|`2024-11-30 01:46:00`|`Anti-Cheat Bypass`|
 |[who can explain to the old man](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/674667-explain.html)|`2024-11-30 01:31:00`|`Grand Theft Auto V`|
 |[VALORANT MINION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673460-valorant-minion.html)|`2024-11-30 01:27:00`|`Valorant`|
 |[External autowall & hitchance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/674830-external-autowall-hitchance.html)|`2024-11-30 01:26:00`|`Counter-Strike 2`|
