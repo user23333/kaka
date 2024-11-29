@@ -37,6 +37,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RLMarlbot V1&#46;7&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/674247-rlmarlbot-v1-7-1-a.html)|`2024-11-29 11:35:00`|`Other FPS Games`|
+|[How to check kernel memory pool allocation?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673385-check-kernel-memory-pool-allocation.html)|`2024-11-29 11:35:00`|`Anti-Cheat Bypass`|
+|[lpmapper shellcode?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674341-lpmapper-shellcode.html)|`2024-11-29 11:31:00`|`Anti-Cheat Bypass`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2024-11-29 11:28:00`|`Escape from Tarkov`|
+|[Yolov5 Enemy Detection Models for AI AIMBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/634345-yolov5-enemy-detection-models-ai-aimbot.html)|`2024-11-29 11:13:00`|`Rainbow Six Siege`|
 |[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2024-11-29 11:01:00`|`Other FPS Games`|
 |[ZE&#45;hopELite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/645800-ze-hopelite.html)|`2024-11-29 10:17:00`|`CounterStrike Source`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2024-11-29 09:52:00`|`Other FPS Games`|
