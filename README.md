@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Acceleration/TopSpeed editor&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/675241-external-acceleration-topspeed-editor.html)|`2024-12-01 07:47:00`|`Alternative Online Mods`|
 |[Is there a way to replace 3D models or textures while using FSL?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/675240-replace-3d-models-textures-using-fsl.html)|`2024-12-01 07:43:00`|`Grand Theft Auto V`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-12-01 07:42:00`|`Valorant`|
 |[Spoofing Nvidia's UUID &#40;kernel &#45; hookless&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/575441-spoofing-nvidias-uuid-kernel-hookless.html)|`2024-12-01 07:33:00`|`Anti-Cheat Bypass`|
