@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Genshin Impact](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/418492-genshin-impact.html)|`2024-11-30 17:26:00`|`Genshin Impact`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2024-11-30 16:21:00`|`Other FPS Games`|
 |[Question about "Defense Matrix"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/675029-question-defense-matrix.html)|`2024-11-30 15:42:00`|`Overwatch`|
 |[DMA Card Flashing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673310-dma-card-flashing.html)|`2024-11-30 15:29:00`|`Anti-Cheat Bypass`|
