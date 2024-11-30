@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Destiny 2 Cheat Table v1&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/672496-destiny-2-cheat-table-v1-0-0-a.html)|`2024-11-30 18:38:00`|`Other FPS Games`|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2024-11-30 18:35:00`|`Other FPS Games`|
+|[disable DSE to load cheat engine driver DBK &#124; Bypass EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/602024-disable-dse-load-cheat-engine-driver-dbk-bypass-eac.html)|`2024-11-30 18:35:00`|`Anti-Cheat Bypass`|
 |[Yim without FSL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/674755-yim-fsl.html)|`2024-11-30 18:31:00`|`Grand Theft Auto V`|
 |[Reporting of installed mods by GTA V client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/675092-reporting-installed-mods-gta-client.html)|`2024-11-30 18:25:00`|`Grand Theft Auto V`|
 |[Redmatch 2 cheat internal many features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675091-redmatch-2-cheat-internal-features.html)|`2024-11-30 18:21:00`|`Other FPS Games`|
