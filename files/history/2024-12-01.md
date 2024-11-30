@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rocket League Unlock All &#43; Thorami Bot &#43; Xeno Inj](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/661082-rocket-league-unlock-thorami-bot-xeno-inj.html)|`2024-12-01 03:12:00`|`Half Life`|
+|[Diablo Immortal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/502649-diablo-immortal.html)|`2024-12-01 03:11:00`|`Other MMORPG and Strategy`|
+|[mouse to xbox controller python script for aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/674910-mouse-xbox-controller-python-script-aimbot.html)|`2024-12-01 03:05:00`|`General Programming and Reversing`|
+|[AOB Injection in Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/674248-aob-injection-cheat-engine.html)|`2024-12-01 03:01:00`|`Programming for Beginners`|
+|[Liar’s Deck and Dice Cheat &#45; Full GUI Mod for Card & Dice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/668894-liar-deck-dice-cheat-gui-mod-card-dice.html)|`2024-12-01 02:58:00`|`Other Games`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2024-12-01 02:58:00`|`Other Games`|
 |[Half&#45;Sword External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/675149-half-sword-external.html)|`2024-12-01 02:56:00`|`Other Games`|
 |[Pattern scanning in C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/675148-pattern-scanning.html)|`2024-12-01 02:54:00`|`C and C++`|
