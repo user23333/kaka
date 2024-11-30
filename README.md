@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[UnlockAll for Castle Crashers v1&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/668824-unlockall-castle-crashers-v1-0-0-a.html)|`2024-11-30 08:17:00`|`Half Life`|
+|[TPM AND SB BYPASS &#43; SPOOFER &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/623808-tpm-sb-bypass-spoofer.html)|`2024-11-30 08:09:00`|`Valorant`|
+|[gpu vms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675063-gpu-vms.html)|`2024-11-30 08:02:00`|`Call of Duty: Black Ops 6`|
 |[Pokemon TCG Pocket &#91;2024&#93; &#91;Mobile Game&#93; &#45; Cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/674084-pokemon-tcg-pocket-2024-mobile-game-cheats.html)|`2024-11-30 07:50:00`|`Other MMORPG and Strategy`|
 |[YimMenu Mouse Stuck in Centre of Screen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/675034-yimmenu-mouse-stuck-centre-screen.html)|`2024-11-30 07:50:00`|`Grand Theft Auto V`|
 |[Rec Room question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/675054-rec-question.html)|`2024-11-30 07:42:00`|`Other Games`|
