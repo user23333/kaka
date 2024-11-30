@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SO&#45;NightCity &#124; Update 26&#45;28&#46;11&#46;24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/675144-nightcity-update-26-28-11-24-a.html)|`2024-12-01 02:19:00`|`Warface`|
+|[No working cheat menus for this game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront/636026-cheat-menus-game.html)|`2024-12-01 01:53:00`|`Star Wars Battlefront`|
+|[Vanguard literally killed this section&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/663631-vanguard-literally-killed-section.html)|`2024-12-01 01:51:00`|`League of Legends`|
 |[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2024-12-01 01:53:00`|`HELLDIVERS 2`|
 |[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669274-vigor-internal-cheat.html)|`2024-12-01 01:42:00`|`Other FPS Games`|
 |[BotOps Hub &#40;bot lobby tool, no VM required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674129-botops-hub-bot-lobby-tool-vm-required.html)|`2024-12-01 01:30:00`|`Call of Duty: Black Ops 6`|
