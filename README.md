@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sea of Thieves paks for FOV, no fog, and more&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/666959-sea-thieves-paks-fov-fog.html)|`2024-11-30 22:32:00`|`Sea of Thieves`|
 |[ViewMatrix Without UE4 & Random pointer access&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/673939-viewmatrix-ue4-random-pointer-access.html)|`2024-11-30 22:22:00`|`PUBG Mobile`|
 |[Internal CS2 Crash Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675110-internal-cs2-crash-issue.html)|`2024-11-30 22:01:00`|`Counter-Strike 2`|
 |[Intave AntiCheat SRC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/675104-intave-anticheat-src.html)|`2024-11-30 22:00:00`|`Minecraft`|
