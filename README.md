@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Centralized Bot Lobby Starter Python Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672158-centralized-bot-lobby-starter-python-script.html)|`2024-11-30 13:30:00`|`Call of Duty: Black Ops 6`|
+|[Destiny 2 Inventory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/668891-destiny-2-inventory.html)|`2024-11-30 13:26:00`|`Other FPS Games`|
 |[RUST EAC HWID BANS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/674709-rust-eac-hwid-bans.html)|`2024-11-30 13:13:00`|`Rust`|
 |[anyway to store lost slam van?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/675077-anyway-store-lost-slam-van.html)|`2024-11-30 13:07:00`|`Grand Theft Auto V`|
 |[Call of Duty: Modern Warfare III Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/605287-call-duty-modern-warfare-iii-reversal-structs-offsets.html)|`2024-11-30 13:02:00`|`Call of Duty: Modern Warfare III`|
