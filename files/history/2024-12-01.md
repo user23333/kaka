@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Raycasting &#40;PhysX recreation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673196-external-raycasting-physx-recreation.html)|`2024-12-01 04:38:00`|`Escape from Tarkov`|
+|[Does someone has the new patterns signatures?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675227-patterns-signatures.html)|`2024-12-01 04:36:00`|`Counter-Strike 2`|
 |[about AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662127-ahk.html)|`2024-12-01 04:23:00`|`Apex Legends`|
 |[How I Inject the cheats to get inf Money in GTA5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/665544-inject-cheats-inf-money-gta5.html)|`2024-12-01 04:18:00`|`Grand Theft Auto V`|
 |[Cs2 Driver Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/672943-cs2-driver-cheat.html)|`2024-12-01 04:09:00`|`Counter-Strike 2`|
