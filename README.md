@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cs2 Internal Box ESP Full Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675097-cs2-internal-box-esp-source.html)|`2024-12-01 01:02:00`|`Counter-Strike 2`|
+|[Apex Rage External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/660129-apex-rage-external-cheat.html)|`2024-12-01 01:02:00`|`Apex Legends`|
+|[Valorant DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664033-valorant-dma-source.html)|`2024-12-01 01:00:00`|`Valorant`|
+|[Is there anything to supervive?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/674177-supervive.html)|`2024-12-01 00:59:00`|`Other MMORPG and Strategy`|
+|[Color aimbot and triggerbot based on C&#43;&#43;, fully UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/663392-color-aimbot-triggerbot-based-ud.html)|`2024-12-01 00:57:00`|`Overwatch`|
 |[Fallout 76 Duplication Exploit &#40;updated, sort of&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/673727-fallout-76-duplication-exploit-updated-sort.html)|`2024-12-01 00:51:00`|`Other FPS Games`|
 |[Josh's Aim Assist V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670254-joshs-aim-assist-v1.html)|`2024-12-01 00:48:00`|`Call of Duty: Black Ops 6`|
 |[General guidance needed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675125-guidance.html)|`2024-12-01 00:48:00`|`Counter-Strike 2`|
