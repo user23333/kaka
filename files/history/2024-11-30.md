@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ViewMatrix Without UE4 & Random pointer access&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/673939-viewmatrix-ue4-random-pointer-access.html)|`2024-11-30 22:22:00`|`PUBG Mobile`|
 |[Internal CS2 Crash Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675110-internal-cs2-crash-issue.html)|`2024-11-30 22:01:00`|`Counter-Strike 2`|
 |[Intave AntiCheat SRC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/675104-intave-anticheat-src.html)|`2024-11-30 22:00:00`|`Minecraft`|
 |[decrypt &#46;pak &#46;npk cry engine 3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/675069-decrypt-pak-npk-cry-engine-3-a.html)|`2024-11-30 21:58:00`|`General Programming and Reversing`|
