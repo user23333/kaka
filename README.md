@@ -11,6 +11,7 @@
 |5|[WXO Jitter / Anti&#45;Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/673923-wxo-jitter-anti-recoil.html)|`2024-12-01 00:21:24`|`apex-legends`|
 |7|[Simple AFK Reverse Boosting Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674235-simple-afk-reverse-boosting-bot.html)|`2024-12-01 00:21:24`|`call-of-duty-black-ops-6-a`|
 |6|[CR3 DMA FIX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674098-cr3-dma-fix.html)|`2024-12-01 00:21:24`|`anti-cheat-bypass`|
+|14|[Is there anything to supervive?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/674177-supervive.html)|`2024-12-01 02:39:15`|`other-mmorpg-and-strategy`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Modern Warfare III Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/605287-call-duty-modern-warfare-iii-reversal-structs-offsets.html)|`2024-12-01 02:34:00`|`Call of Duty: Modern Warfare III`|
+|[Sea of Thieves paks for FOV, no fog, and more&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/666959-sea-thieves-paks-fov-fog.html)|`2024-12-01 02:33:00`|`Sea of Thieves`|
+|[bullet tracers draw position](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/675026-bullet-tracers-draw-position.html)|`2024-12-01 02:32:00`|`Rust`|
+|[straftat esp/aim/recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/673959-straftat-esp-aim-recoil.html)|`2024-12-01 02:25:00`|`Other FPS Games`|
+|[How to debug these crashes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675145-debug-crashes.html)|`2024-12-01 02:22:00`|`Counter-Strike 2`|
 |[SO&#45;NightCity &#124; Update 26&#45;28&#46;11&#46;24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/675144-nightcity-update-26-28-11-24-a.html)|`2024-12-01 02:19:00`|`Warface`|
 |[No working cheat menus for this game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront/636026-cheat-menus-game.html)|`2024-12-01 01:53:00`|`Star Wars Battlefront`|
 |[Vanguard literally killed this section&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/663631-vanguard-literally-killed-section.html)|`2024-12-01 01:51:00`|`League of Legends`|
