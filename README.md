@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AFK Bot Lobby Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670285-afk-bot-lobby-guide.html)|`2024-12-01 06:40:00`|`Call of Duty: Black Ops 6`|
+|[Color Bot Banned Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675036-color-bot-banned-thread.html)|`2024-12-01 06:37:00`|`Call of Duty: Black Ops 6`|
 |[Strinova aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/650858-strinova-aimbot.html)|`2024-12-01 06:29:00`|`Other FPS Games`|
 |[Controller Emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673578-controller-emulation.html)|`2024-12-01 05:52:00`|`Call of Duty: Black Ops 6`|
 |[disable DSE to load cheat engine driver DBK &#124; Bypass EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/602024-disable-dse-load-cheat-engine-driver-dbk-bypass-eac.html)|`2024-12-01 05:51:00`|`Anti-Cheat Bypass`|
