@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 BHOP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675157-cs2-bhop.html)|`2024-12-01 03:14:00`|`Counter-Strike 2`|
 |[best yolov8 model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/674489-yolov8-model.html)|`2024-12-01 03:22:00`|`Apex Legends`|
 |[Apex CV YOLO v8 Aim Assist Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/624584-apex-cv-yolo-v8-aim-assist-bot.html)|`2024-12-01 03:17:00`|`Apex Legends`|
 |[Rocket League Unlock All &#43; Thorami Bot &#43; Xeno Inj](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/661082-rocket-league-unlock-thorami-bot-xeno-inj.html)|`2024-12-01 03:12:00`|`Half Life`|
