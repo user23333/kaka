@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight &#45; Permanent Prestige](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658804-dead-daylight-permanent-prestige.html)|`2024-11-30 10:03:00`|`Other FPS Games`|
+|[Sons of the Forest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/572665-sons-forest.html)|`2024-11-30 09:57:00`|`Unity`|
+|[Rocket League Unlock All &#43; Thorami Bot &#43; Xeno Inj](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/661082-rocket-league-unlock-thorami-bot-xeno-inj.html)|`2024-11-30 09:54:00`|`Half Life`|
+|[Broken AI Plunder AFK bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/668263-broken-ai-plunder-afk-bot.html)|`2024-11-30 09:36:00`|`Call of Duty: Modern Warfare III`|
+|[how to bypass van restriction window](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675066-bypass-van-restriction-window.html)|`2024-11-30 09:04:00`|`Valorant`|
 |[UnlockAll for Castle Crashers v1&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/668824-unlockall-castle-crashers-v1-0-0-a.html)|`2024-11-30 08:17:00`|`Half Life`|
 |[TPM AND SB BYPASS &#43; SPOOFER &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/623808-tpm-sb-bypass-spoofer.html)|`2024-11-30 08:09:00`|`Valorant`|
 |[gpu vms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675063-gpu-vms.html)|`2024-11-30 08:02:00`|`Call of Duty: Black Ops 6`|
