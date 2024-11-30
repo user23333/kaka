@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Logitech G HUB simple no&#45;recoil script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675126-logitech-hub-simple-recoil-script.html)|`2024-11-30 23:24:00`|`Call of Duty: Black Ops 6`|
+|[I came across a way to still use logitech in valorart](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675124-logitech-valorart.html)|`2024-11-30 23:20:00`|`Valorant`|
+|[Is there anything to supervive?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/674177-supervive.html)|`2024-11-30 23:11:00`|`Other MMORPG and Strategy`|
 |[Apex Rage External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/660129-apex-rage-external-cheat.html)|`2024-11-30 22:59:00`|`Apex Legends`|
 |[Undetected Unlock All Tool &#40;only unlock all without other hacks&#41;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675121-undetected-unlock-tool-unlock-hacks.html)|`2024-11-30 22:54:00`|`Call of Duty: Black Ops 6`|
 |[Please help bypass warframe protection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674884-please-help-bypass-warframe-protection.html)|`2024-11-30 22:47:00`|`Anti-Cheat Bypass`|
