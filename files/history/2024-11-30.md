@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AHK Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673410-ahk-triggerbot.html)|`2024-11-30 19:38:00`|`Valorant`|
 |[Weapon esp not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/674373-weapon-esp.html)|`2024-11-30 19:27:00`|`Counter-Strike 2`|
 |[script ps5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675098-script-ps5.html)|`2024-11-30 19:26:00`|`Call of Duty: Black Ops 6`|
 |[REDM Playername Externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/675033-redm-playername-externally.html)|`2024-11-30 19:25:00`|`Red Dead Redemption 2`|
