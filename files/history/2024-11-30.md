@@ -27,9 +27,15 @@
 |45|[BO6 DMA Radar src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47723)|`2024-11-30 00:19:35`|
 |2|[CS2External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47753)|`2024-11-30 02:40:02`|
 |1|[My Hero Ultra Rumble Endeavor Gamma Extender](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47731)|`2024-11-30 11:01:24`|
+|1|[mouse to controller aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47751)|`2024-11-30 11:30:55`|
+|0|[FortniteGame&#45;32&#46;11&#45;CL&#45;38371047&#45;Windows SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47750)|`2024-11-30 11:30:55`|
+|2|[friendlyhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47740)|`2024-11-30 11:30:55`|
+|2|[precision&#45;cheat&#45;menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47738)|`2024-11-30 11:30:55`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[mouse to xbox controller python script for aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/674910-mouse-xbox-controller-python-script-aimbot.html)|`2024-11-30 11:22:00`|`General Programming and Reversing`|
+|[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2024-11-30 11:11:00`|`Tom Clancy's The Division`|
 |[MHUR Hitbox Extender Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/674289-mhur-hitbox-extender-release.html)|`2024-11-30 10:53:00`|`Other Games`|
 |[Simple AFK Reverse Boosting Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674235-simple-afk-reverse-boosting-bot.html)|`2024-11-30 10:50:00`|`Call of Duty: Black Ops 6`|
 |[Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/672620-mod-menu.html)|`2024-11-30 10:47:00`|`Among Us`|
