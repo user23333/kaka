@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help Needed: Bypassing NVIDIA Inspector Captcha on DayZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/673832-help-bypassing-nvidia-inspector-captcha-dayz.html)|`2024-12-01 17:44:00`|`Off Topic`|
+|[Unlimited abilities &#45; Standalone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/637550-unlimited-abilities-standalone.html)|`2024-12-01 17:43:00`|`Star Wars Battlefront 2`|
 |[ZRK Multihack Updates Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/663860-zrk-multihack-updates-cheat.html)|`2024-12-01 15:50:00`|`Counter-Strike 2`|
 |[Simple AFK Reverse Boosting Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674235-simple-afk-reverse-boosting-bot.html)|`2024-12-01 15:28:00`|`Call of Duty: Black Ops 6`|
 |[Supermarket Together Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/665134-supermarket-cheat-table.html)|`2024-12-01 15:01:00`|`Cheat Engine Tables`|
