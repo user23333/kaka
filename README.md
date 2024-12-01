@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[any colour aimbots the dont lock onto objective?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674158-colour-aimbots-dont-lock-onto-objective.html)|`2024-12-01 12:24:00`|`Call of Duty: Black Ops 6`|
 |[Supervive Reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673467-supervive-reversing.html)|`2024-12-01 12:02:00`|`Other MMORPG and Strategy`|
 |[Banned for colorbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674657-banned-colorbot.html)|`2024-12-01 11:59:00`|`Call of Duty: Black Ops 6`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-12-01 11:55:00`|`Apex Legends`|
