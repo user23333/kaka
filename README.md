@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiniAc ban after spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/674253-finiac-ban-spoofing.html)|`2024-12-01 13:56:00`|`Grand Theft Auto V`|
 |[Cheat System Setup Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675264-cheat-system-setup-tool.html)|`2024-12-01 13:44:00`|`Call of Duty: Black Ops 6`|
 |[Mike Tyson IS NOT THE GOAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/675262-mike-tyson-goat.html)|`2024-12-01 13:09:00`|`Off Topic`|
 |[Rust ollvm pass plugin &#40;LLVM 19&#46;1&#46;4&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust-language-/675261-rust-ollvm-pass-plugin-llvm-19-1-4-a.html)|`2024-12-01 12:49:00`|`Rust (Language)`|
