@@ -14,6 +14,7 @@
 |14|[Is there anything to supervive?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/674177-supervive.html)|`2024-12-01 02:39:15`|`other-mmorpg-and-strategy`|
 |14|[UWorld Return 0x0 with HVCI off](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/674460-uworld-return-0x0-hvci.html)|`2024-12-01 10:46:57`|`valorant`|
 |13|[Unjust Bans in Black Ops 6 – Let’s Investigate Together](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675006-unjust-bans-black-ops-6-investigate.html)|`2024-12-01 12:23:47`|`call-of-duty-black-ops-6-a`|
+|3|[Bypass EAC Shuffle cr3 using multithreading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674386-bypass-eac-shuffle-cr3-using-multithreading.html)|`2024-12-01 13:30:06`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
