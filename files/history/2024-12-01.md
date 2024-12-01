@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Playerpose offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675330-playerpose-offsets.html)|`2024-12-01 22:27:00`|`Counter-Strike 2`|
+|[Strinova Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667041-strinova-reversal-structs-offsets.html)|`2024-12-01 22:17:00`|`Other FPS Games`|
 |[Can i write fivem cheat in c&#35;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/674880-write-fivem-cheat.html)|`2024-12-01 21:51:00`|`Alternative Online Mods`|
 |[Duckside Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/641922-duckside-reversal-structs-offsets.html)|`2024-12-01 21:39:00`|`Other FPS Games`|
 |[PUBG DMA cheat source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/667961-pubg-dma-cheat-source-code.html)|`2024-12-01 21:38:00`|`Playerunknown's Battlegrounds`|
