@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ΛPEX FΞͶIX &#45; reWASD s21 cfg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/645869-pex-ix-rewasd-s21-cfg.html)|`2024-12-01 21:26:00`|`Apex Legends`|
+|[Bypass &#45; sv&#95;quantize&#95;movement&#95;input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675326-bypass-sv_quantize_movement_input.html)|`2024-12-01 21:24:00`|`Counter-Strike 2`|
+|[mw19 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/631846-mw19-cheat.html)|`2024-12-01 21:22:00`|`Call of Duty: Modern Warfare`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2024-12-01 21:15:00`|`Escape from Tarkov`|
+|[Auto DRAGON BALL Sparking&#33; ZERO &#40;3&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/675324-auto-dragon-ball-sparking-zero-3-0-a.html)|`2024-12-01 21:15:00`|`Other Games`|
 |[BannleEye &#45; Banning arbitrary players using BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667333-bannleeye-banning-arbitrary-players-using.html)|`2024-12-01 19:47:00`|`Anti-Cheat Bypass`|
 |[IDA Free 9&#46;0 Couldn't Load Sigmaker Plugin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675315-ida-free-9-0-couldnt-load-sigmaker-plugin.html)|`2024-12-01 19:37:00`|`Counter-Strike 2`|
 |[DMA Into Normal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675312-dma-normal-cheat.html)|`2024-12-01 19:11:00`|`Call of Duty: Black Ops 6`|
