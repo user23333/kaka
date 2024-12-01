@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[need to fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/675265-fix.html)|`2024-12-01 14:18:00`|`Overwatch`|
+|[Undetected Unlock All Tool &#40;only unlock all without other hacks&#41;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675121-undetected-unlock-tool-unlock-hacks.html)|`2024-12-01 14:12:00`|`Call of Duty: Black Ops 6`|
+|[Half Sword Offsets And Others](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/675073-half-sword-offsets.html)|`2024-12-01 14:08:00`|`Other Games`|
+|[&#91;Internal&#93; ThirdPerson Trace](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/674215-internal-thirdperson-trace.html)|`2024-12-01 14:07:00`|`Counter-Strike 2`|
 |[FiniAc ban after spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/674253-finiac-ban-spoofing.html)|`2024-12-01 13:56:00`|`Grand Theft Auto V`|
 |[Cheat System Setup Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675264-cheat-system-setup-tool.html)|`2024-12-01 13:44:00`|`Call of Duty: Black Ops 6`|
 |[Mike Tyson IS NOT THE GOAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/675262-mike-tyson-goat.html)|`2024-12-01 13:09:00`|`Off Topic`|
