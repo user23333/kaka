@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypass &#45; sv&#95;quantize&#95;movement&#95;input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675326-bypass-sv_quantize_movement_input.html)|`2024-12-02 06:37:00`|`Counter-Strike 2`|
+|[&#40;DMA&#41; Black Ops 6: Fuser ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670830-dma-black-ops-6-fuser-esp.html)|`2024-12-02 06:34:00`|`Call of Duty: Black Ops 6`|
 |[Server&#45;side handled possibilities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/675416-server-handled-possibilities.html)|`2024-12-02 06:28:00`|`Alternative Online Mods`|
 |[shadow banning accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674306-shadow-banning-accounts.html)|`2024-12-02 06:18:00`|`Call of Duty: Black Ops 6`|
 |[Controller Emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673578-controller-emulation.html)|`2024-12-02 05:59:00`|`Call of Duty: Black Ops 6`|
