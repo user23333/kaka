@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA Into Normal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675312-dma-normal-cheat.html)|`2024-12-01 19:11:00`|`Call of Duty: Black Ops 6`|
 |[GMOD&#45;SDK &#124; Nice menu &#124; Free&#45;cam &#124; LUA Executor &#124; Lots of features &#124; Source Included](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/453047-gmod-sdk-nice-menu-free-cam-lua-executor-lots-features-source-included.html)|`2024-12-01 18:03:00`|`Garry's Mod`|
 |[Triggerbot on Windows?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/673292-triggerbot-windows.html)|`2024-12-01 18:03:00`|`Apex Legends`|
 |[Help Needed: Bypassing NVIDIA Inspector Captcha on DayZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/673832-help-bypassing-nvidia-inspector-captcha-dayz.html)|`2024-12-01 17:44:00`|`Off Topic`|
