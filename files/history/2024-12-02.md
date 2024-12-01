@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2024-12-02 06:54:00`|`Escape from Tarkov`|
 |[ViewMatrix Without UE4 & Random pointer access&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/673939-viewmatrix-ue4-random-pointer-access.html)|`2024-12-02 06:45:00`|`PUBG Mobile`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2024-12-02 06:44:00`|`Grand Theft Auto V`|
 |[Any free dma firmware that's ud for tarkov?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/675418-free-dma-firmware-thats-ud-tarkov.html)|`2024-12-02 06:43:00`|`Escape from Tarkov`|
