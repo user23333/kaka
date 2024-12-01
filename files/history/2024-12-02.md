@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2024-12-02 04:30:00`|`Escape from Tarkov`|
+|[mouse movement with vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675397-mouse-movement-vanguard.html)|`2024-12-02 04:27:00`|`Anti-Cheat Bypass`|
+|[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-12-02 04:26:00`|`Other Games`|
+|[Editing effects without altering the memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675254-editing-effects-altering-memory.html)|`2024-12-02 04:03:00`|`Valorant`|
+|[Does anyone play without a vanguard?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675396-play-vanguard.html)|`2024-12-02 04:01:00`|`Valorant`|
 |[Wargod Befor Detection Cleaner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/675392-wargod-befor-detection-cleaner.html)|`2024-12-02 03:37:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[strinova spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/674539-strinova-spoofer.html)|`2024-12-02 03:34:00`|`Other FPS Games`|
 |[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2024-12-02 03:24:00`|`Unity`|
