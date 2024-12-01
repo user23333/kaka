@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Editing effects without altering the memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675254-editing-effects-altering-memory.html)|`2024-12-01 11:33:00`|`Valorant`|
+|[Using a Hijacked Driver Object](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674904-using-hijacked-driver-object.html)|`2024-12-01 11:19:00`|`Anti-Cheat Bypass`|
+|[Pubg Mobile Global 32 bit internal dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/675253-pubg-mobile-global-32-bit-internal-dll.html)|`2024-12-01 11:14:00`|`Cheat Engine Tables`|
+|[Tournament Ready Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/672770-tournament-ready-driver.html)|`2024-12-01 11:06:00`|`Anti-Cheat Bypass`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2024-12-01 11:04:00`|`Rainbow Six Siege`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2024-12-01 10:47:00`|`Escape from Tarkov`|
 |[How to determine if the enemy is behind Newcastle's Q skill](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/674718-determine-enemy-newcastles-skill.html)|`2024-12-01 10:27:00`|`Apex Legends`|
 |[Unturned BattlEye harmony check?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675251-unturned-battleye-harmony-check.html)|`2024-12-01 10:21:00`|`Other FPS Games`|
 |[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2024-12-01 10:05:00`|`Elite: Dangerous`|
