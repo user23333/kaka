@@ -29,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669274-vigor-internal-cheat.html)|`2024-12-02 05:39:00`|`Other FPS Games`|
+|[Winter, Christmas & New Year's Banner Contest 2024 &#45; Winners&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/675333-winter-christmas-banner-contest-2024-winners.html)|`2024-12-02 05:39:00`|`Information and Announcements`|
+|[Shadow ban lobbies &#45; escape method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674903-shadow-ban-lobbies-escape-method.html)|`2024-12-02 05:38:00`|`Call of Duty: Black Ops 6`|
+|[Valorant Aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675119-valorant-aimbot.html)|`2024-12-02 05:38:00`|`Valorant`|
+|[How many games does it take on average to know if you're delay ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675055-games-average-youre-delay-ban.html)|`2024-12-02 05:35:00`|`Valorant`|
+|[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2024-12-02 05:34:00`|`Palia`|
+|[GamerFun AI Menu: All mouse Aimbot, Triggerbot & Recoil Control Using LGUB Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671029-gamerfun-ai-menu-mouse-aimbot-triggerbot-recoil-control-using-lgub-drivers.html)|`2024-12-02 05:31:00`|`Rainbow Six Siege`|
 |[NEW Roblox DLL Injector Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/665341-roblox-dll-injector.html)|`2024-12-02 05:34:00`|`Other Games`|
 |[IDA Free 9&#46;0 Couldn't Load Sigmaker Plugin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/675315-ida-free-9-0-couldnt-load-sigmaker-plugin.html)|`2024-12-02 05:28:00`|`General Programming and Reversing`|
 |[Elite unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/673878-elite-unlocker.html)|`2024-12-02 05:27:00`|`Rainbow Six Siege`|
