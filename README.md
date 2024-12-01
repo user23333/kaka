@@ -25,9 +25,12 @@
 |18|[Stalker2&#45;Win64&#45;Shipping&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47743)|`2024-12-02 00:08:08`|
 |165|[friendlyhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47740)|`2024-12-02 00:08:08`|
 |29|[ESP ASSAULT CUBE GDI C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47739)|`2024-12-02 00:08:08`|
+|10|[33&#46;00 All Changed Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47768)|`2024-12-02 04:58:55`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unity Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/672876-unity-chams.html)|`2024-12-02 04:58:00`|`Unity`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2024-12-02 04:55:00`|`Counter-Strike 2`|
 |[Any updated DayZ P3D Debinarizer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/671503-updated-dayz-p3d-debinarizer.html)|`2024-12-02 04:50:00`|`DayZ SA`|
 |[Equip inventory item problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675399-equip-inventory-item.html)|`2024-12-02 04:41:00`|`Counter-Strike 2`|
 |[Ai aimmy on black ops 6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675398-ai-aimmy-black-ops-6-a.html)|`2024-12-02 04:39:00`|`Call of Duty: Black Ops 6`|
