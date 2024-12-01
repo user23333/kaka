@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2024-12-02 03:24:00`|`Unity`|
+|[How to determine if the enemy is behind Newcastle's Q skill](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/674718-determine-enemy-newcastles-skill.html)|`2024-12-02 03:23:00`|`Apex Legends`|
 |[BotOps6 Hub Patched?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675388-botops6-hub-patched.html)|`2024-12-02 03:20:00`|`Call of Duty: Black Ops 6`|
 |[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-12-02 03:18:00`|`Escape from Tarkov`|
 |[Mouse Script &#91;Rust&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675383-mouse-script-rust.html)|`2024-12-02 02:41:00`|`Anti-Cheat Bypass`|
