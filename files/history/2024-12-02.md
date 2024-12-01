@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NEW Roblox DLL Injector Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/665341-roblox-dll-injector.html)|`2024-12-02 05:34:00`|`Other Games`|
+|[IDA Free 9&#46;0 Couldn't Load Sigmaker Plugin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/675315-ida-free-9-0-couldnt-load-sigmaker-plugin.html)|`2024-12-02 05:28:00`|`General Programming and Reversing`|
+|[Elite unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/673878-elite-unlocker.html)|`2024-12-02 05:27:00`|`Rainbow Six Siege`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2024-12-02 05:00:00`|`League of Legends`|
 |[Unity Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/672876-unity-chams.html)|`2024-12-02 04:58:00`|`Unity`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2024-12-02 04:55:00`|`Counter-Strike 2`|
