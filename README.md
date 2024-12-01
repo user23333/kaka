@@ -12,6 +12,7 @@
 |7|[Simple AFK Reverse Boosting Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674235-simple-afk-reverse-boosting-bot.html)|`2024-12-01 00:21:24`|`call-of-duty-black-ops-6-a`|
 |6|[CR3 DMA FIX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674098-cr3-dma-fix.html)|`2024-12-01 00:21:24`|`anti-cheat-bypass`|
 |14|[Is there anything to supervive?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/674177-supervive.html)|`2024-12-01 02:39:15`|`other-mmorpg-and-strategy`|
+|14|[UWorld Return 0x0 with HVCI off](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/674460-uworld-return-0x0-hvci.html)|`2024-12-01 10:46:57`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to determine if the enemy is behind Newcastle's Q skill](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/674718-determine-enemy-newcastles-skill.html)|`2024-12-01 10:27:00`|`Apex Legends`|
+|[Unturned BattlEye harmony check?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675251-unturned-battleye-harmony-check.html)|`2024-12-01 10:21:00`|`Other FPS Games`|
+|[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2024-12-01 10:05:00`|`Elite: Dangerous`|
 |[How to Translate Rigel into Other Languages](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/675106-translate-rigel-languages.html)|`2024-12-01 09:42:00`|`Overwatch`|
 |[Logan Paul defeats Mike Tyson](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/672737-logan-paul-defeats-mike-tyson.html)|`2024-12-01 09:13:00`|`Off Topic`|
 |[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2024-12-01 09:11:00`|`Elite: Dangerous`|
