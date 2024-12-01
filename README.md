@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GetModuleInfo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/675334-getmoduleinfo.html)|`2024-12-01 22:38:00`|`General Programming and Reversing`|
+|[CS2 AutoWall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675332-cs2-autowall.html)|`2024-12-01 22:36:00`|`Counter-Strike 2`|
+|[Winter, Christmas & New Year's Banner Contest 2024 &#45; Winners&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/675333-winter-christmas-banner-contest-2024-winners.html)|`2024-12-01 22:36:00`|`Information and Announcements`|
+|[Odin v4 For Windows 11 24H2/23H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/670695-odin-v4-windows-11-24h2-23h2.html)|`2024-12-01 22:35:00`|`Paladins`|
 |[Playerpose offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675330-playerpose-offsets.html)|`2024-12-01 22:27:00`|`Counter-Strike 2`|
 |[Strinova Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667041-strinova-reversal-structs-offsets.html)|`2024-12-01 22:17:00`|`Other FPS Games`|
 |[Can i write fivem cheat in c&#35;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/674880-write-fivem-cheat.html)|`2024-12-01 21:51:00`|`Alternative Online Mods`|
