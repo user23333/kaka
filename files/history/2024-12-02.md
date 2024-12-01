@@ -12,6 +12,7 @@
 |13|[Unjust Bans in Black Ops 6 – Let’s Investigate Together](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675006-unjust-bans-black-ops-6-investigate.html)|`2024-12-02 00:08:08`|`call-of-duty-black-ops-6-a`|
 |3|[1v1&#46;lol cheat esp/aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/674721-1v1-lol-cheat-esp-aimbot.html)|`2024-12-02 00:08:08`|`other-fps-games`|
 |3|[Bypass EAC Shuffle cr3 using multithreading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674386-bypass-eac-shuffle-cr3-using-multithreading.html)|`2024-12-02 04:53:00`|`anti-cheat-bypass`|
+|7|[CS2 AHK AIMBOT TRIGGERBOT BHOP EXTERNAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/674154-cs2-ahk-aimbot-triggerbot-bhop-external.html)|`2024-12-02 07:58:58`|`counter-strike-2-releases`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
