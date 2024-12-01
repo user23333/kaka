@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTA Native UI library](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/675335-gta-native-ui-library.html)|`2024-12-01 22:44:00`|`Grand Theft Auto V`|
 |[GetModuleInfo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/675334-getmoduleinfo.html)|`2024-12-01 22:38:00`|`General Programming and Reversing`|
 |[CS2 AutoWall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675332-cs2-autowall.html)|`2024-12-01 22:36:00`|`Counter-Strike 2`|
 |[Winter, Christmas & New Year's Banner Contest 2024 &#45; Winners&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/675333-winter-christmas-banner-contest-2024-winners.html)|`2024-12-01 22:36:00`|`Information and Announcements`|
