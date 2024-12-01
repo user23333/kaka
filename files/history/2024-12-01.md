@@ -15,6 +15,7 @@
 |14|[UWorld Return 0x0 with HVCI off](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/674460-uworld-return-0x0-hvci.html)|`2024-12-01 10:46:57`|`valorant`|
 |13|[Unjust Bans in Black Ops 6 – Let’s Investigate Together](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675006-unjust-bans-black-ops-6-investigate.html)|`2024-12-01 12:23:47`|`call-of-duty-black-ops-6-a`|
 |3|[Bypass EAC Shuffle cr3 using multithreading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674386-bypass-eac-shuffle-cr3-using-multithreading.html)|`2024-12-01 13:30:06`|`anti-cheat-bypass`|
+|3|[1v1&#46;lol cheat esp/aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/674721-1v1-lol-cheat-esp-aimbot.html)|`2024-12-01 22:57:32`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to make a dump?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/673212-dump.html)|`2024-12-01 22:55:00`|`Genshin Impact`|
 |[GTA Native UI library](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/675335-gta-native-ui-library.html)|`2024-12-01 22:44:00`|`Grand Theft Auto V`|
 |[GetModuleInfo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/675334-getmoduleinfo.html)|`2024-12-01 22:38:00`|`General Programming and Reversing`|
 |[CS2 AutoWall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675332-cs2-autowall.html)|`2024-12-01 22:36:00`|`Counter-Strike 2`|
