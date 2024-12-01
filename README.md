@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[i need a zombies cheat for plutonium that actually works still](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/675044-zombies-cheat-plutonium-actually.html)|`2024-12-01 23:53:00`|`Call of Duty: Black Ops 2`|
 |[No longer able to debug in visual studio](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/675339-able-debug-visual-studio.html)|`2024-12-01 23:36:00`|`General Programming and Reversing`|
 |[Token Ban System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/674870-token-ban-system.html)|`2024-12-01 23:06:00`|`Alternative Online Mods`|
 |[Any ud free dma firmware?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/675052-ud-free-dma-firmware.html)|`2024-12-01 23:01:00`|`Rust`|
