@@ -13,6 +13,7 @@
 |6|[CR3 DMA FIX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674098-cr3-dma-fix.html)|`2024-12-01 00:21:24`|`anti-cheat-bypass`|
 |14|[Is there anything to supervive?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/674177-supervive.html)|`2024-12-01 02:39:15`|`other-mmorpg-and-strategy`|
 |14|[UWorld Return 0x0 with HVCI off](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/674460-uworld-return-0x0-hvci.html)|`2024-12-01 10:46:57`|`valorant`|
+|13|[Unjust Bans in Black Ops 6 – Let’s Investigate Together](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675006-unjust-bans-black-ops-6-investigate.html)|`2024-12-01 12:23:47`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Supervive Reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673467-supervive-reversing.html)|`2024-12-01 12:02:00`|`Other MMORPG and Strategy`|
 |[Banned for colorbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674657-banned-colorbot.html)|`2024-12-01 11:59:00`|`Call of Duty: Black Ops 6`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-12-01 11:55:00`|`Apex Legends`|
 |[S&#46;T&#46;A&#46;L&#46;K&#46;E&#46;R&#46; 2: Heart of Chornobyl Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/673320-2-heart-chornobyl-reversal-structs-offsets.html)|`2024-12-01 11:52:00`|`Other FPS Games`|
