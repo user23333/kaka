@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help with CUserCmd](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675433-help-cusercmd.html)|`2024-12-03 06:07:00`|`Counter-Strike 2`|
+|[Max added money](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671123-max-added-money.html)|`2024-12-03 05:56:00`|`Grand Theft Auto V`|
 |[decrypt &#46;pak &#46;npk cry engine 3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/675069-decrypt-pak-npk-cry-engine-3-a.html)|`2024-12-03 05:50:00`|`General Programming and Reversing`|
 |[Apex Rage External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/660129-apex-rage-external-cheat.html)|`2024-12-03 05:47:00`|`Apex Legends`|
 |[Rage Cheat Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675560-rage-cheat-source-code.html)|`2024-12-03 05:43:00`|`Counter-Strike 2`|
