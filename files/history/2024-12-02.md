@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Where can i get the latest UserCmd Struct ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675466-usercmd-struct.html)|`2024-12-02 18:48:00`|`Counter-Strike 2`|
+|[XGuard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/450415-xguard.html)|`2024-12-02 18:45:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Arduino Aimbot by sonixaep indian scammer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675464-arduino-aimbot-sonixaep-indian-scammer.html)|`2024-12-02 18:41:00`|`Valorant`|
 |[Please help bypass warframe protection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674884-please-help-bypass-warframe-protection.html)|`2024-12-02 18:24:00`|`Anti-Cheat Bypass`|
 |[Pixel Strike 3D Entity List/NetworkManager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/663519-pixel-strike-3d-entity-list-networkmanager.html)|`2024-12-02 18:13:00`|`Other FPS Games`|
 |[The Ultimate Ultimate DMA Newbie Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/638326-ultimate-ultimate-dma-newbie-guide.html)|`2024-12-02 18:12:00`|`PC Hardware`|
