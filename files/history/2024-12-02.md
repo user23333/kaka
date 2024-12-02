@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NoSpread Valorant Not Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675483-nospread-valorant.html)|`2024-12-02 20:33:00`|`Valorant`|
+|[Token Ban System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/674870-token-ban-system.html)|`2024-12-02 20:30:00`|`Alternative Online Mods`|
 |[how to convert lib patching into memory patching?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/674171-convert-lib-patching-memory-patching.html)|`2024-12-02 20:16:00`|`PUBG Mobile`|
 |[How does the cheat detection or ban system work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/675482-cheat-detection-ban-system.html)|`2024-12-02 20:12:00`|`Overwatch`|
 |[FamilyMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/631659-familymenu.html)|`2024-12-02 20:01:00`|`Red Dead Redemption 2`|
