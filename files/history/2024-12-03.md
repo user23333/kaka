@@ -11,6 +11,7 @@
 |3|[Undetected Unlock All Tool &#40;only unlock all without other hacks&#41;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675121-undetected-unlock-tool-unlock-hacks.html)|`2024-12-03 00:12:58`|`call-of-duty-black-ops-6-a`|
 |9|[Yim without FSL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/674755-yim-fsl.html)|`2024-12-03 00:12:58`|`grand-theft-auto-v`|
 |6|[Banned for colorbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674657-banned-colorbot.html)|`2024-12-03 00:12:58`|`call-of-duty-black-ops-6-a`|
+|10|[AHK Script Strinova](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/674508-ahk-script-strinova.html)|`2024-12-03 04:38:49`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Universal Ac bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/658736-universal-ac-bypass.html)|`2024-12-03 04:12:00`|`Anti-Cheat Bypass`|
+|[how to bypass ban DayzLand, DayZavr](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/647397-bypass-ban-dayzland-dayzavr.html)|`2024-12-03 04:09:00`|`DayZ SA`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2024-12-03 04:26:00`|`Other MMORPG and Strategy`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2024-12-03 04:17:00`|`Counter-Strike 2`|
 |[How to start cheating on PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675534-start-cheating-pc.html)|`2024-12-03 04:09:00`|`Call of Duty: Black Ops 6`|
