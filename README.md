@@ -30,9 +30,12 @@
 |2|[Lockdown Protocol External v3&#46;0 &#45; Oni Edit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47761)|`2024-12-03 05:28:12`|
 |1|[Vigor Internal v1&#46;0&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47766)|`2024-12-03 05:55:32`|
 |2|[mhur external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47767)|`2024-12-03 06:30:32`|
+|1|[rigel nov 28 crash fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47758)|`2024-12-03 06:54:40`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-12-03 06:50:00`|`Overwatch`|
+|[Valorant DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664033-valorant-dma-source.html)|`2024-12-03 06:50:00`|`Valorant`|
 |[Color Bot Banned Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675036-color-bot-banned-thread.html)|`2024-12-03 06:26:00`|`Call of Duty: Black Ops 6`|
 |[How to determine if the enemy is behind Newcastle's Q skill](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/674718-determine-enemy-newcastles-skill.html)|`2024-12-03 06:22:00`|`Apex Legends`|
 |[Modding online lobbies for other players](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/675567-modding-online-lobbies-players.html)|`2024-12-03 06:15:00`|`Grand Theft Auto V`|
