@@ -27,6 +27,7 @@
 |161|[Stupid&#46;Solutions v3&#46;2&#46;1 &#40;Fixed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47745)|`2024-12-03 00:12:58`|
 |1|[isonzo Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47776)|`2024-12-03 04:58:14`|
 |2|[jengabase&#45;x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47772)|`2024-12-03 05:14:01`|
+|2|[Lockdown Protocol External v3&#46;0 &#45; Oni Edit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47761)|`2024-12-03 05:28:12`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
