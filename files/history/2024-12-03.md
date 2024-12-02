@@ -29,9 +29,14 @@
 |2|[jengabase&#45;x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47772)|`2024-12-03 05:14:01`|
 |2|[Lockdown Protocol External v3&#46;0 &#45; Oni Edit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47761)|`2024-12-03 05:28:12`|
 |1|[Vigor Internal v1&#46;0&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47766)|`2024-12-03 05:55:32`|
+|2|[mhur external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47767)|`2024-12-03 06:30:32`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Color Bot Banned Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675036-color-bot-banned-thread.html)|`2024-12-03 06:26:00`|`Call of Duty: Black Ops 6`|
+|[How to determine if the enemy is behind Newcastle's Q skill](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/674718-determine-enemy-newcastles-skill.html)|`2024-12-03 06:22:00`|`Apex Legends`|
+|[Modding online lobbies for other players](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/675567-modding-online-lobbies-players.html)|`2024-12-03 06:15:00`|`Grand Theft Auto V`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2024-12-03 06:10:00`|`Counter-Strike 2`|
 |[Help with CUserCmd](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675433-help-cusercmd.html)|`2024-12-03 06:07:00`|`Counter-Strike 2`|
 |[Max added money](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/671123-max-added-money.html)|`2024-12-03 05:56:00`|`Grand Theft Auto V`|
 |[decrypt &#46;pak &#46;npk cry engine 3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/675069-decrypt-pak-npk-cry-engine-3-a.html)|`2024-12-03 05:50:00`|`General Programming and Reversing`|
