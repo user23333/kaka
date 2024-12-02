@@ -33,6 +33,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-12-02 17:18:00`|`Apex Legends`|
+|[Fish Idle 2 Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/653727-fish-idle-2-cheat-engine.html)|`2024-12-02 17:12:00`|`Other Games`|
+|[Issue with 3rd person](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/674288-issue-3rd-person.html)|`2024-12-02 17:09:00`|`Counter-Strike 2`|
+|[Need recoil tables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/675450-recoil-tables.html)|`2024-12-02 17:09:00`|`Rust`|
+|[Knock&#45;Knock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/675448-knock-knock.html)|`2024-12-02 17:08:00`|`Escape from Tarkov`|
+|[Infinite Mount Energy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/guild-wars-2-a/667524-infinite-mount-energy.html)|`2024-12-02 17:08:00`|`Guild Wars 2`|
+|[Auto DRAGON BALL Sparking&#33; ZERO &#40;3&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/675324-auto-dragon-ball-sparking-zero-3-0-a.html)|`2024-12-02 17:06:00`|`Other Games`|
 |[Fallout 76 Duplication Exploit &#40;updated, sort of&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/673727-fallout-76-duplication-exploit-updated-sort.html)|`2024-12-02 16:36:00`|`Other FPS Games`|
 |[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2024-12-02 16:08:00`|`Battlefield 4`|
 |[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-12-02 15:54:00`|`Deadlock`|
