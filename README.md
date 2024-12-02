@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2024-12-02 19:28:00`|`Counter-Strike 2`|
+|[Camera position/rotation in Pixel Strike 3D](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667048-camera-position-rotation-pixel-strike-3d.html)|`2024-12-02 19:26:00`|`Other FPS Games`|
+|[Burnout Paradise &#40;not the remaster&#41; &#45; "Debugger detected&#46; This application will now q](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/675469-burnout-paradise-remaster-debugger-detected-application.html)|`2024-12-02 19:23:00`|`Other MMORPG and Strategy`|
 |[Liar’s Deck and Dice Cheat &#45; Full GUI Mod for Card & Dice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/668894-liar-deck-dice-cheat-gui-mod-card-dice.html)|`2024-12-02 18:54:00`|`Other Games`|
 |[Elgato 4k Pro as a fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675467-elgato-4k-pro-fuser.html)|`2024-12-02 18:52:00`|`Anti-Cheat Bypass`|
 |[Where can i get the latest UserCmd Struct ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675466-usercmd-struct.html)|`2024-12-02 18:48:00`|`Counter-Strike 2`|
