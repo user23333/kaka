@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Ultimate Ultimate DMA Newbie Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/638326-ultimate-ultimate-dma-newbie-guide.html)|`2024-12-02 18:12:00`|`PC Hardware`|
+|[How to get Atomic Tire livery for Karin previon on PC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/675456-atomic-tire-livery-karin-previon-pc.html)|`2024-12-02 18:01:00`|`Grand Theft Auto V`|
+|[ace HWID BAN HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674479-ace-hwid-ban-help.html)|`2024-12-02 17:47:00`|`Anti-Cheat Bypass`|
+|[Strinova Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667041-strinova-reversal-structs-offsets.html)|`2024-12-02 17:45:00`|`Other FPS Games`|
 |[GTA Native UI library](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/675335-gta-native-ui-library.html)|`2024-12-02 17:53:00`|`Grand Theft Auto V`|
 |[Supervive Reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673467-supervive-reversing.html)|`2024-12-02 17:40:00`|`Other MMORPG and Strategy`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-12-02 17:18:00`|`Apex Legends`|
