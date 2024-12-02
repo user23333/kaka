@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2024-12-03 04:26:00`|`Other MMORPG and Strategy`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2024-12-03 04:17:00`|`Counter-Strike 2`|
+|[How to start cheating on PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675534-start-cheating-pc.html)|`2024-12-03 04:09:00`|`Call of Duty: Black Ops 6`|
 |[Casino Heist everything resets to default but preps are done](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/675533-casino-heist-resets-default-preps.html)|`2024-12-03 03:59:00`|`Grand Theft Auto V`|
 |[External visibility check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/591548-external-visibility-check.html)|`2024-12-03 03:59:00`|`Counter-Strike 2`|
 |[Dragon Ball Sparking&#33; ZERO SUPER COUNTER MACRO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/675468-dragon-ball-sparking-zero-super-counter-macro.html)|`2024-12-03 03:58:00`|`Other Games`|
