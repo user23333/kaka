@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Getting incorrect health values from m&#95;iHealth](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675442-getting-incorrect-health-values-m_ihealth.html)|`2024-12-02 13:28:00`|`Counter-Strike 2`|
+|[PAKS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/675439-paks.html)|`2024-12-02 13:09:00`|`Sea of Thieves`|
 |[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-12-02 12:39:00`|`Counter-Strike 2`|
 |[Cronus Zen Script for BO6 Bot Lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675438-cronus-zen-script-bo6-bot-lobby.html)|`2024-12-02 12:36:00`|`Call of Duty: Black Ops 6`|
 |[Mike Tyson IS NOT THE GOAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/675262-mike-tyson-goat.html)|`2024-12-02 12:12:00`|`Off Topic`|
