@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gmod python esp &#40;11/10/2024&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/671400-gmod-python-esp-11-10-2024-a.html)|`2024-12-03 06:58:00`|`Garry's Mod`|
 |[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-12-03 06:50:00`|`Overwatch`|
 |[Valorant DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664033-valorant-dma-source.html)|`2024-12-03 06:50:00`|`Valorant`|
 |[Color Bot Banned Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675036-color-bot-banned-thread.html)|`2024-12-03 06:26:00`|`Call of Duty: Black Ops 6`|
