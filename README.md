@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How many games does it take on average to know if you're delay ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675055-games-average-youre-delay-ban.html)|`2024-12-03 03:47:00`|`Valorant`|
+|[Valorant Aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675119-valorant-aimbot.html)|`2024-12-03 03:46:00`|`Valorant`|
 |[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-12-03 03:38:00`|`Other Games`|
 |[DEEP ROCK GALACTIC &#45; ENABLE DEVELOPER CONSOLE &#45; CARGO &#45; PACKS &#45; RESOURCES &#45; XP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/609290-deep-rock-galactic-enable-developer-console-cargo-packs-resources-xp.html)|`2024-12-03 03:32:00`|`Other FPS Games`|
 |[Inject Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/672073-inject-method.html)|`2024-12-03 03:29:00`|`Alternative Online Mods`|
