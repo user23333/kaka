@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2024-12-03 04:39:00`|`Other FPS Games`|
+|[Winter, Christmas & New Year's Banner Contest 2024 &#45; Winners&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/675333-winter-christmas-banner-contest-2024-winners.html)|`2024-12-03 04:38:00`|`Information and Announcements`|
 |[Universal Ac bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/658736-universal-ac-bypass.html)|`2024-12-03 04:12:00`|`Anti-Cheat Bypass`|
 |[how to bypass ban DayzLand, DayZavr](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/647397-bypass-ban-dayzland-dayzavr.html)|`2024-12-03 04:09:00`|`DayZ SA`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2024-12-03 04:26:00`|`Other MMORPG and Strategy`|
