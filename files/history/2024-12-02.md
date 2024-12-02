@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to convert lib patching into memory patching?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/674171-convert-lib-patching-memory-patching.html)|`2024-12-02 20:16:00`|`PUBG Mobile`|
+|[How does the cheat detection or ban system work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/675482-cheat-detection-ban-system.html)|`2024-12-02 20:12:00`|`Overwatch`|
+|[FamilyMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/631659-familymenu.html)|`2024-12-02 20:01:00`|`Red Dead Redemption 2`|
+|[Need MainBuild 26&#46;07](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/675481-mainbuild-26-07-a.html)|`2024-12-02 19:59:00`|`Rainbow Six Siege`|
 |[How to Perm Spoof a SSD NVMe the real way&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667328-perm-spoof-ssd-nvme-real.html)|`2024-12-02 19:52:00`|`Anti-Cheat Bypass`|
 |[Fiveguard "anti spoof"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/672662-fiveguard-anti-spoof.html)|`2024-12-02 19:44:00`|`Alternative Online Mods`|
 |[does anticheatexpert ban ram？](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674909-anticheatexpert-ban-ram.html)|`2024-12-02 19:36:00`|`Anti-Cheat Bypass`|
