@@ -27,9 +27,15 @@
 |165|[friendlyhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47740)|`2024-12-02 00:08:08`|
 |29|[ESP ASSAULT CUBE GDI C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47739)|`2024-12-02 00:08:08`|
 |10|[33&#46;00 All Changed Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47768)|`2024-12-02 04:58:55`|
+|18|[FortniteGame&#45;33&#46;00&#45;CL&#45;38324112&#45;Windows SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47771)|`2024-12-02 09:21:11`|
+|14|[Stupid&#46;Solutions v3&#46;2&#46;1 &#40;Fixed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47745)|`2024-12-02 09:21:11`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VALORANT MINION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673460-valorant-minion.html)|`2024-12-02 08:56:00`|`Valorant`|
+|[VALO COLOR BOT SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/633956-valo-color-bot-source.html)|`2024-12-02 08:46:00`|`Valorant`|
+|[ateris&#45;x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/675255-ateris-x64.html)|`2024-12-02 08:41:00`|`Team Fortress 2`|
+|[Odin v4 For Windows 11 24H2/23H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/670695-odin-v4-windows-11-24h2-23h2.html)|`2024-12-02 08:15:00`|`Paladins`|
 |[CS2External Aim/Esp/Misc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/673859-cs2external-aim-esp-misc.html)|`2024-12-02 07:44:00`|`Counter-Strike 2 Releases`|
 |[What are the safe hacks to use in this game? warframe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675012-safe-hacks-game-warframe.html)|`2024-12-02 07:31:00`|`Other FPS Games`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2024-12-02 07:28:00`|`Escape from Tarkov`|
