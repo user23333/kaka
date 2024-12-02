@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Liar’s Deck and Dice Cheat &#45; Full GUI Mod for Card & Dice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/668894-liar-deck-dice-cheat-gui-mod-card-dice.html)|`2024-12-02 18:54:00`|`Other Games`|
+|[Elgato 4k Pro as a fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675467-elgato-4k-pro-fuser.html)|`2024-12-02 18:52:00`|`Anti-Cheat Bypass`|
 |[Where can i get the latest UserCmd Struct ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675466-usercmd-struct.html)|`2024-12-02 18:48:00`|`Counter-Strike 2`|
 |[XGuard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/450415-xguard.html)|`2024-12-02 18:45:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Arduino Aimbot by sonixaep indian scammer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675464-arduino-aimbot-sonixaep-indian-scammer.html)|`2024-12-02 18:41:00`|`Valorant`|
