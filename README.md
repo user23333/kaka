@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[custom IoCreateDriver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675511-custom-iocreatedriver.html)|`2024-12-02 22:29:00`|`Anti-Cheat Bypass`|
+|[Isonzo Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675510-isonzo-internal-cheat.html)|`2024-12-02 22:25:00`|`Other FPS Games`|
 |["Vanguard Bypass" &#40;2PC / 1PC&#41; Using the Suspend Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/663283-vanguard-bypass-2pc-1pc-using-suspend-method.html)|`2024-12-02 22:06:00`|`Valorant`|
 |[banning cod server ips to disable hit reg nerfs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673920-banning-cod-server-ips-disable-hit-reg-nerfs.html)|`2024-12-02 22:04:00`|`Call of Duty: Black Ops 6`|
 |[Prometheus &#45; hacking framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675507-prometheus-hacking-framework.html)|`2024-12-02 21:54:00`|`Anti-Cheat Bypass`|
