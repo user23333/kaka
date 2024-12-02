@@ -16,6 +16,7 @@
 |11|[Color Bot Banned Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675036-color-bot-banned-thread.html)|`2024-12-02 11:26:23`|`call-of-duty-black-ops-6-a`|
 |3|[Undetected Unlock All Tool &#40;only unlock all without other hacks&#41;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675121-undetected-unlock-tool-unlock-hacks.html)|`2024-12-02 18:36:43`|`call-of-duty-black-ops-6-a`|
 |9|[Yim without FSL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/674755-yim-fsl.html)|`2024-12-02 18:36:43`|`grand-theft-auto-v`|
+|6|[Banned for colorbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674657-banned-colorbot.html)|`2024-12-02 21:26:42`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gernade Tracing Line &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/675222-gernade-tracing-line.html)|`2024-12-02 21:16:00`|`PUBG Mobile`|
+|[Simple AFK Reverse Boosting Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674235-simple-afk-reverse-boosting-bot.html)|`2024-12-02 21:15:00`|`Call of Duty: Black Ops 6`|
 |[NoSpread Valorant Not Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675483-nospread-valorant.html)|`2024-12-02 20:33:00`|`Valorant`|
 |[Token Ban System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/674870-token-ban-system.html)|`2024-12-02 20:30:00`|`Alternative Online Mods`|
 |[how to convert lib patching into memory patching?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/674171-convert-lib-patching-memory-patching.html)|`2024-12-02 20:16:00`|`PUBG Mobile`|
