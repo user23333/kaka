@@ -26,9 +26,14 @@
 |38|[SPT&#45;AKI&#45;External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47746)|`2024-12-03 00:12:58`|
 |161|[Stupid&#46;Solutions v3&#46;2&#46;1 &#40;Fixed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47745)|`2024-12-03 00:12:58`|
 |1|[isonzo Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47776)|`2024-12-03 04:58:14`|
+|2|[jengabase&#45;x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47772)|`2024-12-03 05:14:01`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[jengabase x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/675424-jengabase-x64.html)|`2024-12-03 05:12:00`|`Team Fortress 2`|
+|[Help on 3rd Person Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/674987-help-3rd-person-aimbot.html)|`2024-12-03 05:08:00`|`C and C++`|
+|[Dma cheating cs2 only radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675552-dma-cheating-cs2-radar.html)|`2024-12-03 05:00:00`|`Counter-Strike 2`|
+|[Colorbot &#45; Aim Assist, Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/627913-colorbot-aim-assist-triggerbot.html)|`2024-12-03 04:53:00`|`Valorant`|
 |[Isonzo Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675510-isonzo-internal-cheat.html)|`2024-12-03 04:58:00`|`Other FPS Games`|
 |[Games with shit anti cheat&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/673855-games-shit-anti-cheat.html)|`2024-12-03 04:56:00`|`Off Topic`|
 |[Starting with Memory Coding DayZSA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/673509-starting-memory-coding-dayzsa.html)|`2024-12-03 04:49:00`|`DayZ SA`|
