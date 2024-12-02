@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Casino Heist everything resets to default but preps are done](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/675533-casino-heist-resets-default-preps.html)|`2024-12-03 03:59:00`|`Grand Theft Auto V`|
+|[External visibility check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/591548-external-visibility-check.html)|`2024-12-03 03:59:00`|`Counter-Strike 2`|
+|[Dragon Ball Sparking&#33; ZERO SUPER COUNTER MACRO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/675468-dragon-ball-sparking-zero-super-counter-macro.html)|`2024-12-03 03:58:00`|`Other Games`|
 |[How many games does it take on average to know if you're delay ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675055-games-average-youre-delay-ban.html)|`2024-12-03 03:47:00`|`Valorant`|
 |[Valorant Aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675119-valorant-aimbot.html)|`2024-12-03 03:46:00`|`Valorant`|
 |[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-12-03 03:38:00`|`Other Games`|
