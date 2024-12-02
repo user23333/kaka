@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[capture card as fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/675573-capture-card-fuser.html)|`2024-12-03 07:30:00`|`PC Hardware`|
 |[LABS CARD 99999 USES](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/674663-labs-card-99999-a.html)|`2024-12-03 07:19:00`|`Escape from Tarkov`|
 |[How to create an auto wall in python?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675521-create-auto-wall-python.html)|`2024-12-03 07:13:00`|`Counter-Strike 2`|
 |[Gmod python esp &#40;11/10/2024&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/671400-gmod-python-esp-11-10-2024-a.html)|`2024-12-03 06:58:00`|`Garry's Mod`|
