@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2024-12-03 16:15:00`|`DayZ SA`|
+|[BloodStrike Test Wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/674848-bloodstrike-test-wallhack.html)|`2024-12-03 16:12:00`|`Other FPS Games`|
 |[Most Advanced External Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675599-advanced-external-aimbot.html)|`2024-12-03 15:55:00`|`Valorant`|
 |[cant achieve 180 fake yaw](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/670513-cant-achieve-180-fake-yaw.html)|`2024-12-03 15:08:00`|`CounterStrike Source`|
 |[How does the cheat detection or ban system work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/675482-cheat-detection-ban-system.html)|`2024-12-03 14:58:00`|`Overwatch`|
