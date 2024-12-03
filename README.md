@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[S&#46;T&#46;A&#46;L&#46;K&#46;E&#46;R&#46; 2: Heart of Chornobyl Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/673320-2-heart-chornobyl-reversal-structs-offsets.html)|`2024-12-04 04:10:00`|`Other FPS Games`|
 |[Most Advanced External Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675599-advanced-external-aimbot.html)|`2024-12-04 03:57:00`|`Valorant`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2024-12-04 03:56:00`|`Call of Duty: Black Ops 6`|
 |[Outriders Worldslayer &#45; &#40;Epic, Gamepass, Steam&#41; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/565800-outriders-worldslayer-epic-gamepass-steam-cheat-table.html)|`2024-12-04 03:38:00`|`Other Games`|
