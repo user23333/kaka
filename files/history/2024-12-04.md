@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape The Backrooms Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/615556-escape-backrooms-internal.html)|`2024-12-04 05:36:00`|`Other FPS Games`|
+|[Sons of the Forest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/572665-sons-forest.html)|`2024-12-04 05:28:00`|`Unity`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2024-12-04 05:22:00`|`Alternative Online Mods`|
 |[GTA V Online PC Gets Next Gen 2025 &#45; Update Coming Next](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/670008-gta-online-pc-gen-2025-update-coming.html)|`2024-12-04 05:11:00`|`Grand Theft Auto V`|
 |[Centralized Bot Lobby Starter Python Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672158-centralized-bot-lobby-starter-python-script.html)|`2024-12-04 04:58:00`|`Call of Duty: Black Ops 6`|
