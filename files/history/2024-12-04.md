@@ -11,6 +11,7 @@
 |6|[Banned for colorbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674657-banned-colorbot.html)|`2024-12-04 00:13:12`|`call-of-duty-black-ops-6-a`|
 |10|[AHK Script Strinova](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/674508-ahk-script-strinova.html)|`2024-12-04 00:13:12`|`other-fps-games`|
 |9|[internal without hypervisor EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674779-internal-hypervisor-eac.html)|`2024-12-04 00:13:12`|`anti-cheat-bypass`|
+|7|[What is better than DMA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674670-dma.html)|`2024-12-04 05:27:35`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2024-12-04 05:22:00`|`Alternative Online Mods`|
 |[GTA V Online PC Gets Next Gen 2025 &#45; Update Coming Next](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/670008-gta-online-pc-gen-2025-update-coming.html)|`2024-12-04 05:11:00`|`Grand Theft Auto V`|
 |[Centralized Bot Lobby Starter Python Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672158-centralized-bot-lobby-starter-python-script.html)|`2024-12-04 04:58:00`|`Call of Duty: Black Ops 6`|
 |[VPN Connecting To Lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675679-vpn-connecting-lobby.html)|`2024-12-04 04:58:00`|`Call of Duty: Black Ops 6`|
