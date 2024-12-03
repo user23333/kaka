@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How does the cheat detection or ban system work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/675482-cheat-detection-ban-system.html)|`2024-12-03 14:58:00`|`Overwatch`|
+|[Deep Rock Galactic: Deep Dive Delirium &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/617904-deep-rock-galactic-deep-dive-delirium-internal.html)|`2024-12-03 14:57:00`|`Other FPS Games`|
+|[MHUR Hitbox Extender Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/674289-mhur-hitbox-extender-release.html)|`2024-12-03 14:53:00`|`Other Games`|
 |[Equip inventory item problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675399-equip-inventory-item.html)|`2024-12-03 14:46:00`|`Counter-Strike 2`|
 |[Gernade Tracing Line &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/675222-gernade-tracing-line.html)|`2024-12-03 14:38:00`|`PUBG Mobile`|
 |[Execute raw C&#43;&#43; code from a string at runtime](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/674504-execute-raw-code-string-runtime.html)|`2024-12-03 14:34:00`|`General Programming and Reversing`|
