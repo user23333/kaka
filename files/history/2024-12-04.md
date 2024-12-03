@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Elgato 4k Pro as a fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675467-elgato-4k-pro-fuser.html)|`2024-12-04 03:24:00`|`Anti-Cheat Bypass`|
 |[What was the first game you cheated on?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/328889-game-cheated.html)|`2024-12-04 02:47:00`|`Off Topic`|
 |[How do you get 2box/get bot&#45;lobbies in Warzone?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675655-2box-bot-lobbies-warzone.html)|`2024-12-04 02:40:00`|`Call of Duty: Black Ops 6`|
 |[VALORANT MINION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673460-valorant-minion.html)|`2024-12-04 02:27:00`|`Valorant`|
