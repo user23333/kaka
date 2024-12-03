@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669274-vigor-internal-cheat.html)|`2024-12-04 04:54:00`|`Other FPS Games`|
 |[help with offsets cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675371-help-offsets-cs2.html)|`2024-12-04 04:48:00`|`Counter-Strike 2`|
 |[cant achieve 180 fake yaw](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/670513-cant-achieve-180-fake-yaw.html)|`2024-12-04 04:45:00`|`CounterStrike Source`|
 |[seowned&#40;DE&#41;x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/639908-seowned-de-x64.html)|`2024-12-04 04:39:00`|`Team Fortress 2`|
