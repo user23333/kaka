@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[is there any no recoil files or apps available](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/675621-recoil-files-apps-available.html)|`2024-12-03 20:39:00`|`PUBG Mobile`|
+|[TPM &#43; Secure Boot "Bypass"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/631852-tpm-secure-boot-bypass.html)|`2024-12-03 20:23:00`|`Valorant`|
 |[xbox game lua file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675618-xbox-game-lua-file.html)|`2024-12-03 20:16:00`|`Call of Duty: Black Ops 6`|
 |[VALO COLOR BOT SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/633956-valo-color-bot-source.html)|`2024-12-03 20:15:00`|`Valorant`|
 |[Rust 1MS Logitech Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/583325-rust-1ms-logitech-macro.html)|`2024-12-03 20:11:00`|`Rust`|
