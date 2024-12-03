@@ -24,9 +24,17 @@
 |107|[rigel nov 28 crash fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47758)|`2024-12-04 00:13:12`|
 |135|[cs2 internal esp ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47756)|`2024-12-04 00:13:12`|
 |484|[CS2External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47753)|`2024-12-04 00:13:12`|
+|1|[pubg mobile global 32Bit gameloop internalDLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47762)|`2024-12-04 04:35:18`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GhostHack 2&#46;0 public](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/579206-ghosthack-2-0-public.html)|`2024-12-04 04:35:00`|`Battlefield 2`|
+|[what servers to play to avoid bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/675674-servers-play-avoid-bans.html)|`2024-12-04 04:31:00`|`Rust`|
+|[Is there anything to supervive?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/674177-supervive.html)|`2024-12-04 04:31:00`|`Other MMORPG and Strategy`|
+|[&#40;DMA&#41; Black Ops 6: Fuser ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670830-dma-black-ops-6-fuser-esp.html)|`2024-12-04 04:29:00`|`Call of Duty: Black Ops 6`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2024-12-04 04:23:00`|`Other FPS Games`|
+|[Pubg Mobile Global 32 bit internal dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/675253-pubg-mobile-global-32-bit-internal-dll.html)|`2024-12-04 04:22:00`|`Cheat Engine Tables`|
+|[Bo6 Mouse Movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675673-bo6-mouse-movement.html)|`2024-12-04 04:21:00`|`Call of Duty: Black Ops 6`|
 |[S&#46;T&#46;A&#46;L&#46;K&#46;E&#46;R&#46; 2: Heart of Chornobyl Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/673320-2-heart-chornobyl-reversal-structs-offsets.html)|`2024-12-04 04:10:00`|`Other FPS Games`|
 |[Most Advanced External Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675599-advanced-external-aimbot.html)|`2024-12-04 03:57:00`|`Valorant`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2024-12-04 03:56:00`|`Call of Duty: Black Ops 6`|
