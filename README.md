@@ -12,6 +12,7 @@
 |9|[Yim without FSL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/674755-yim-fsl.html)|`2024-12-03 00:12:58`|`grand-theft-auto-v`|
 |6|[Banned for colorbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674657-banned-colorbot.html)|`2024-12-03 00:12:58`|`call-of-duty-black-ops-6-a`|
 |10|[AHK Script Strinova](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/674508-ahk-script-strinova.html)|`2024-12-03 04:38:49`|`other-fps-games`|
+|8|[strinova spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/674539-strinova-spoofer.html)|`2024-12-03 15:52:42`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
