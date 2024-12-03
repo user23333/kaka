@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[xbox game lua file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675618-xbox-game-lua-file.html)|`2024-12-03 20:16:00`|`Call of Duty: Black Ops 6`|
+|[VALO COLOR BOT SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/633956-valo-color-bot-source.html)|`2024-12-03 20:15:00`|`Valorant`|
+|[Rust 1MS Logitech Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/583325-rust-1ms-logitech-macro.html)|`2024-12-03 20:11:00`|`Rust`|
 |[Gold Dropper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/567212-gold-dropper.html)|`2024-12-03 19:53:00`|`Red Dead Redemption 2`|
 |[Redmatch 2 cheat internal many features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675091-redmatch-2-cheat-internal-features.html)|`2024-12-03 19:51:00`|`Other FPS Games`|
 |[Making a software similar to Cronus Zen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675569-software-similar-cronus-zen.html)|`2024-12-03 19:50:00`|`Call of Duty: Black Ops 6`|
