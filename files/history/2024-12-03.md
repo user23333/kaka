@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Destiny 2 Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669951-destiny-2-reversal.html)|`2024-12-03 22:20:00`|`Other FPS Games`|
+|[How to give a kernel driver cheat withouth getting dumped](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/675627-kernel-driver-cheat-withouth-getting-dumped.html)|`2024-12-03 22:16:00`|`Forum General`|
+|[How to make the firmware of DMA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/675626-firmware-dma.html)|`2024-12-03 22:13:00`|`Playerunknown's Battlegrounds`|
+|[External Raycasting &#40;PhysX recreation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673196-external-raycasting-physx-recreation.html)|`2024-12-03 22:12:00`|`Escape from Tarkov`|
 |[Once Human &#40;game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/614970-human-game.html)|`2024-12-03 22:00:00`|`Other MMORPG and Strategy`|
 |[matchmacking in gameloop vs matchmacking in android x86](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/675313-matchmacking-gameloop-vs-matchmacking-android-x86.html)|`2024-12-03 21:57:00`|`PUBG Mobile`|
 |[GamerFun AI Menu: All mouse Aimbot, Triggerbot & Recoil Control Using LGUB Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671029-gamerfun-ai-menu-mouse-aimbot-triggerbot-recoil-control-using-lgub-drivers.html)|`2024-12-03 21:05:00`|`Rainbow Six Siege`|
