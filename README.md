@@ -34,6 +34,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gernade Tracing Line &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/675222-gernade-tracing-line.html)|`2024-12-03 14:38:00`|`PUBG Mobile`|
+|[Execute raw C&#43;&#43; code from a string at runtime](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/674504-execute-raw-code-string-runtime.html)|`2024-12-03 14:34:00`|`General Programming and Reversing`|
+|[FOG OF WAR BYPASS?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/674448-fog-war-bypass.html)|`2024-12-03 14:32:00`|`Playerunknown's Battlegrounds`|
+|[Apex Legends universal weapons anti recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662808-apex-legends-universal-weapons-anti-recoil.html)|`2024-12-03 14:25:00`|`Apex Legends`|
+|[BincoHaX for 1&#46;69 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/250308-bincohax-1-69-external.html)|`2024-12-03 14:25:00`|`Grand Theft Auto V`|
 |[Strinova Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667041-strinova-reversal-structs-offsets.html)|`2024-12-03 13:36:00`|`Other FPS Games`|
 |[anyone have the cvar list for this game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675596-cvar-list-game.html)|`2024-12-03 13:04:00`|`Call of Duty: Black Ops 6`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2024-12-03 12:36:00`|`Call of Duty: Black Ops 6`|
