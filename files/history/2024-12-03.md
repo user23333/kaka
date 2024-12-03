@@ -34,6 +34,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ateris&#45;x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/675255-ateris-x64.html)|`2024-12-03 10:40:00`|`Team Fortress 2`|
+|[Working ThreadSafe DirectX Renderer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/675564-threadsafe-directx-renderer.html)|`2024-12-03 10:30:00`|`Team Fortress 2`|
+|[Simple AFK Reverse Boosting Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674235-simple-afk-reverse-boosting-bot.html)|`2024-12-03 10:02:00`|`Call of Duty: Black Ops 6`|
+|[NoSpread Valorant Not Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675483-nospread-valorant.html)|`2024-12-03 09:48:00`|`Valorant`|
+|[The savior we didn't want but needed&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/675591-savior-didnt.html)|`2024-12-03 09:44:00`|`Off Topic`|
+|[Treason's V3 AIO Aim Assist Edit &#40;BETA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670270-treasons-v3-aio-aim-assist-edit-beta.html)|`2024-12-03 09:27:00`|`Call of Duty: Black Ops 6`|
+|[Introduction to Unreal Engine Game Hacking&#33; Part 1: GWorld, GObjects, GNames, & SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/672085-introduction-unreal-engine-game-hacking-1-gworld-gobjects-gnames-sdk.html)|`2024-12-03 09:24:00`|`Unreal Engine 4`|
 |[Elgato 4k Pro as a fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675467-elgato-4k-pro-fuser.html)|`2024-12-03 09:03:00`|`Anti-Cheat Bypass`|
 |[The Hell Diver 2 team will help you farm samples: 100/100/100&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/663050-hell-diver-2-team-help-farm-samples-100-100-100-a.html)|`2024-12-03 08:59:00`|`HELLDIVERS 2`|
 |[Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671590-skin-changer.html)|`2024-12-03 08:33:00`|`Counter-Strike 2`|
