@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Equip inventory item problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675399-equip-inventory-item.html)|`2024-12-03 14:46:00`|`Counter-Strike 2`|
 |[Gernade Tracing Line &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/675222-gernade-tracing-line.html)|`2024-12-03 14:38:00`|`PUBG Mobile`|
 |[Execute raw C&#43;&#43; code from a string at runtime](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/674504-execute-raw-code-string-runtime.html)|`2024-12-03 14:34:00`|`General Programming and Reversing`|
 |[FOG OF WAR BYPASS?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/674448-fog-war-bypass.html)|`2024-12-03 14:32:00`|`Playerunknown's Battlegrounds`|
