@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Throne and Liberty Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/649981-throne-liberty-reversal-structs-offsets.html)|`2024-12-03 22:38:00`|`Other MMORPG and Strategy`|
+|[PUBGm Skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/626228-pubgm-skin-changer.html)|`2024-12-03 22:30:00`|`PUBG Mobile`|
 |[Destiny 2 Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669951-destiny-2-reversal.html)|`2024-12-03 22:20:00`|`Other FPS Games`|
 |[How to give a kernel driver cheat withouth getting dumped](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/675627-kernel-driver-cheat-withouth-getting-dumped.html)|`2024-12-03 22:16:00`|`Forum General`|
 |[How to make the firmware of DMA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/675626-firmware-dma.html)|`2024-12-03 22:13:00`|`Playerunknown's Battlegrounds`|
