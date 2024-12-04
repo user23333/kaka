@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking for controller Recoil controller](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/675768-looking-controller-recoil-controller.html)|`2024-12-05 05:27:00`|`Apex Legends`|
+|[ZwAllocateVirtualMemory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/675579-zwallocatevirtualmemory.html)|`2024-12-05 05:26:00`|`C and C++`|
+|[enemy players on match hud](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/675829-enemy-players-match-hud.html)|`2024-12-05 05:26:00`|`Team Fortress 2`|
+|[DayZ Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/675827-dayz-macro.html)|`2024-12-05 05:22:00`|`DayZ SA`|
 |[AI Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/668747-ai-aimbot.html)|`2024-12-05 05:06:00`|`Sea of Thieves`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2024-12-05 05:01:00`|`Other MMORPG and Strategy`|
 |[Re: Finding Strings with Decryption Keys/Values](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/675810-re-finding-strings-decryption-keys-values.html)|`2024-12-05 04:47:00`|`Rainbow Six Siege`|
