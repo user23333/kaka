@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rocket League Mod/Cheat Template](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/580873-rocket-league-mod-cheat-template.html)|`2024-12-04 17:37:00`|`Other FPS Games`|
 |[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-12-04 16:52:00`|`Overwatch`|
 |[Solo AFK XP Method and AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673301-solo-afk-xp-method-ahk.html)|`2024-12-04 16:45:00`|`Call of Duty: Black Ops 6`|
 |[Hello ShouldForceNewUserTraining Bypass Here&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675735-hello-shouldforcenewusertraining-bypass.html)|`2024-12-04 16:37:00`|`Counter-Strike 2`|
