@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2024-12-04 21:32:00`|`Counter-Strike 2`|
+|[angos aob](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/675763-angos-aob.html)|`2024-12-04 21:30:00`|`PUBG Mobile`|
+|[keybd&#95;event detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/675379-keybd_event-detection.html)|`2024-12-04 21:27:00`|`Overwatch`|
+|[Please help bypass warframe protection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674884-please-help-bypass-warframe-protection.html)|`2024-12-04 21:14:00`|`Anti-Cheat Bypass`|
+|[custom IoCreateDriver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675511-custom-iocreatedriver.html)|`2024-12-04 21:13:00`|`Anti-Cheat Bypass`|
+|[EAC Bypass &#40;Temporary&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/627251-eac-bypass-temporary.html)|`2024-12-04 21:07:00`|`Sea of Thieves`|
 |[Valorant External Mouse Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675703-valorant-external-mouse-aimbot.html)|`2024-12-04 20:58:00`|`Valorant`|
 |[Phasmophobia ML bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/675741-phasmophobia-ml-bypass.html)|`2024-12-04 20:53:00`|`Phasmophobia`|
 |[Once Human &#40;game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/614970-human-game.html)|`2024-12-04 20:41:00`|`Other MMORPG and Strategy`|
