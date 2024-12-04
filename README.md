@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[No longer able to debug in visual studio](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/675339-able-debug-visual-studio.html)|`2024-12-05 04:19:00`|`General Programming and Reversing`|
+|[VPN Connecting To Lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675679-vpn-connecting-lobby.html)|`2024-12-05 04:14:00`|`Call of Duty: Black Ops 6`|
+|[AHK Zombies Color Aimbot BO6 &#40;Best one IMO&#41; &#40;Sai's&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671433-ahk-zombies-color-aimbot-bo6-imo-sais.html)|`2024-12-05 04:02:00`|`Call of Duty: Black Ops 6`|
+|[Combat Arms: Classic Addresses](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/481026-combat-arms-classic-addresses.html)|`2024-12-05 04:00:00`|`Combat Arms`|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2024-12-05 03:59:00`|`Grand Theft Auto V`|
 |[Source Code EXTERNAL CrossFire](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/641756-source-code-external-crossfire.html)|`2024-12-05 03:57:00`|`CrossFire`|
 |[64 bit emulator haack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/675806-64-bit-emulator-haack.html)|`2024-12-05 03:56:00`|`PUBG Mobile`|
 |[MHUR Hitbox Extender Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/674289-mhur-hitbox-extender-release.html)|`2024-12-05 03:52:00`|`Other Games`|
