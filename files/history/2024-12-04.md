@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hoyo Game dumper dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/666159-hoyo-game-dumper-dll.html)|`2024-12-04 19:23:00`|`Other Games`|
+|[External Esp crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/675748-external-esp-crash.html)|`2024-12-04 19:21:00`|`PUBG Mobile`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2024-12-04 19:02:00`|`Other Games`|
 |[Multiple instances of steam/cs2 WITHOUT sandboxing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666875-multiple-instances-steam-cs2-sandboxing.html)|`2024-12-04 18:26:00`|`Counter-Strike 2`|
 |[L4D2 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/622950-l4d2-cheat.html)|`2024-12-04 17:54:00`|`Other FPS Games`|
