@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rocket League &#45; Unlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/624955-rocket-league-unlock.html)|`2024-12-05 06:09:00`|`Other Games`|
+|[Fish Idle 2 Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/653727-fish-idle-2-cheat-engine.html)|`2024-12-05 05:50:00`|`Other Games`|
 |[Phasmophobia ML bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/675741-phasmophobia-ml-bypass.html)|`2024-12-05 05:52:00`|`Phasmophobia`|
 |[The Cheesing Within l Death Note The Killer Within Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/675838-cheesing-death-note-killer-internal-cheat.html)|`2024-12-05 05:50:00`|`Other Games`|
 |[Pluto T6ZM Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/675767-pluto-t6zm-offsets.html)|`2024-12-05 05:49:00`|`Call of Duty: Black Ops 2`|
