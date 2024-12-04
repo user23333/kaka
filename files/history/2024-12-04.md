@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant External Mouse Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675703-valorant-external-mouse-aimbot.html)|`2024-12-04 20:58:00`|`Valorant`|
+|[Phasmophobia ML bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/675741-phasmophobia-ml-bypass.html)|`2024-12-04 20:53:00`|`Phasmophobia`|
+|[Once Human &#40;game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/614970-human-game.html)|`2024-12-04 20:41:00`|`Other MMORPG and Strategy`|
 |[Intave AntiCheat SRC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/675104-intave-anticheat-src.html)|`2024-12-04 20:38:00`|`Minecraft`|
 |[cshell&#46;dll not showing up in CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/675757-cshell-dll-ce.html)|`2024-12-04 20:24:00`|`Combat Arms`|
 |[all emulator bypass bgmi file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/675756-emulator-bypass-bgmi-file.html)|`2024-12-04 20:12:00`|`PUBG Mobile`|
