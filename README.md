@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[UngTool 1&#46;0 &#45; 1&#46;68](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/639045-ungtool-1-0-1-68-a.html)|`2024-12-04 13:09:00`|`Grand Theft Auto V`|
+|[Undetected Cheat Engine &#43; Driver &#124; 2023 &#124; Bypass Anticheats &#40;BE / EAC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/504191-undetected-cheat-engine-driver-2023-bypass-anticheats-eac.html)|`2024-12-04 12:59:00`|`Anti-Cheat Bypass`|
 |[Rocket League Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/179108-rocket-league-reversal-structs-offsets.html)|`2024-12-04 12:08:00`|`Other FPS Games`|
 |[How does the cheat detection or ban system work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/675482-cheat-detection-ban-system.html)|`2024-12-04 11:47:00`|`Overwatch`|
 |[Valorant Aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675119-valorant-aimbot.html)|`2024-12-04 11:41:00`|`Valorant`|
