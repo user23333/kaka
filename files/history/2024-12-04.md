@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2024-12-04 23:49:00`|`Escape from Tarkov`|
 |[The Ultimate Ultimate DMA Newbie Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/638326-ultimate-ultimate-dma-newbie-guide.html)|`2024-12-04 23:35:00`|`PC Hardware`|
 |[Operation: Harsh Doorstop &#45; Internal Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/572097-operation-harsh-doorstop-internal-hack.html)|`2024-12-04 23:33:00`|`Other FPS Games`|
 |[Wicked Menu / Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/487033-wicked-menu-cheat-engine.html)|`2024-12-04 23:19:00`|`Grand Theft Auto V`|
