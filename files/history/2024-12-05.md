@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cant achieve 180 fake yaw](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/670513-cant-achieve-180-fake-yaw.html)|`2024-12-05 07:07:00`|`CounterStrike Source`|
+|[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2024-12-05 07:04:00`|`Other MMORPG and Strategy`|
 |[EAC Bypass &#40;Temporary&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/627251-eac-bypass-temporary.html)|`2024-12-05 06:52:00`|`Sea of Thieves`|
 |[Aimbot Problem AssaultCube](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/675685-aimbot-assaultcube.html)|`2024-12-05 06:47:00`|`Programming for Beginners`|
 |[How to equip any item on this game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/591436-equip-item-game.html)|`2024-12-05 06:35:00`|`Paladins`|
