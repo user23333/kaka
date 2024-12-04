@@ -25,9 +25,14 @@
 |54|[mhur external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47767)|`2024-12-05 00:14:04`|
 |92|[Vigor Internal v1&#46;0&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47766)|`2024-12-05 00:14:04`|
 |23|[pubg mobile global 32Bit gameloop internalDLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47762)|`2024-12-05 00:14:04`|
+|1|[Duckside SDK Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47796)|`2024-12-05 05:37:01`|
+|1|[valorant colorbot&#46;py](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47794)|`2024-12-05 05:37:01`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 external esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/600259-cs2-external-esp.html)|`2024-12-05 05:32:00`|`Counter-Strike 2 Releases`|
+|[My Hero Ultra Rumble Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/604426-hero-ultra-rumble-cheat-table.html)|`2024-12-05 05:30:00`|`Other Games`|
+|[Josh's Aim Assist V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670254-joshs-aim-assist-v1.html)|`2024-12-05 05:30:00`|`Call of Duty: Black Ops 6`|
 |[Looking for controller Recoil controller](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/675768-looking-controller-recoil-controller.html)|`2024-12-05 05:27:00`|`Apex Legends`|
 |[ZwAllocateVirtualMemory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/675579-zwallocatevirtualmemory.html)|`2024-12-05 05:26:00`|`C and C++`|
 |[enemy players on match hud](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/675829-enemy-players-match-hud.html)|`2024-12-05 05:26:00`|`Team Fortress 2`|
