@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MHUR Hitbox Extender Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/674289-mhur-hitbox-extender-release.html)|`2024-12-05 03:52:00`|`Other Games`|
+|[WZ BO6 Working Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675805-wz-bo6-base.html)|`2024-12-05 03:51:00`|`Call of Duty: Black Ops 6`|
+|[MW3/WZ3 External Working Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/670337-mw3-wz3-external-base.html)|`2024-12-05 03:50:00`|`Call of Duty: Modern Warfare III`|
+|[Valorant External Example &#45; IOCTL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673016-valorant-external-example-ioctl.html)|`2024-12-05 03:48:00`|`Valorant`|
 |[How to make the firmware of DMA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/675626-firmware-dma.html)|`2024-12-05 03:40:00`|`Playerunknown's Battlegrounds`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-12-05 03:37:00`|`Playerunknown's Battlegrounds`|
 |[how do p2cs send chat message?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675726-p2cs-send-chat-message.html)|`2024-12-05 03:37:00`|`Call of Duty: Black Ops 6`|
