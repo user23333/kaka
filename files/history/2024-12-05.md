@@ -27,6 +27,7 @@
 |23|[pubg mobile global 32Bit gameloop internalDLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47762)|`2024-12-05 00:14:04`|
 |1|[Duckside SDK Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47796)|`2024-12-05 05:37:01`|
 |1|[valorant colorbot&#46;py](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47794)|`2024-12-05 05:37:01`|
+|3|[FortniteGame&#45;33&#46;00&#45;CL&#45;38504598&#45;Windows SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47798)|`2024-12-05 07:35:47`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
