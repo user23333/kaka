@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Customizable Anti&#45;Recoil Script for Two Weapons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/675656-customizable-anti-recoil-script-weapons.html)|`2024-12-06 07:48:00`|`Rainbow Six Siege`|
+|[Tom Clancys XDefiant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/xdefiant/464903-tom-clancys-xdefiant-reversal-structs-offsets.html)|`2024-12-06 07:48:00`|`xDefiant`|
+|[Ricochet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675960-ricochet.html)|`2024-12-06 07:45:00`|`Call of Duty: Black Ops 6`|
 |[Prometheus &#45; hacking framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675507-prometheus-hacking-framework.html)|`2024-12-06 07:38:00`|`Anti-Cheat Bypass`|
 |[Kernel Mode Exception Handler Using PicoContext](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675862-kernel-mode-exception-handler-using-picocontext.html)|`2024-12-06 07:37:00`|`Anti-Cheat Bypass`|
 |[RiotLogin &#45; Automatic Riot Client Login Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/597675-riotlogin-automatic-riot-client-login-tool.html)|`2024-12-06 07:25:00`|`League of Legends`|
