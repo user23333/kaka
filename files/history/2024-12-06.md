@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BO6 Dma ESP Aim WebReadr](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673167-bo6-dma-esp-aim-webreadr.html)|`2024-12-06 05:37:00`|`Call of Duty: Black Ops 6`|
+|[logitech g600 script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/675949-logitech-g600-script.html)|`2024-12-06 04:57:00`|`Playerunknown's Battlegrounds`|
 |[Team Fortress 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/102936-team-fortress-2-reversal-structs-offsets.html)|`2024-12-06 04:52:00`|`Team Fortress 2`|
 |[There is any OW2 Dma Cheat released here?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/675846-ow2-dma-cheat-released.html)|`2024-12-06 04:42:00`|`Overwatch`|
 |[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2024-12-06 04:37:00`|`Palia`|
