@@ -30,9 +30,12 @@
 |1|[valorant colorbot&#46;py](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47794)|`2024-12-05 05:37:01`|
 |3|[FortniteGame&#45;33&#46;00&#45;CL&#45;38504598&#45;Windows SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47798)|`2024-12-05 07:35:47`|
 |3|[cs2&#95;internal&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47777)|`2024-12-05 16:18:19`|
+|2|[FortniteGame&#45;33&#46;00 SDK &#40;Fixed Functions&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47799)|`2024-12-05 17:15:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Strinova ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675885-strinova-esp.html)|`2024-12-05 17:00:00`|`Other FPS Games`|
+|[Aimbot issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/672673-aimbot-issue.html)|`2024-12-05 16:59:00`|`Alternative Online Mods`|
 |[My beginner tarkov DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/629124-beginner-tarkov-dma.html)|`2024-12-05 16:56:00`|`Escape from Tarkov`|
 |[Linux External ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/674732-linux-external-esp-aimbot.html)|`2024-12-05 16:49:00`|`Counter-Strike 2`|
 |[Fastest And Safest Way To Get Money](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/669218-fastest-safest-money.html)|`2024-12-05 16:46:00`|`Grand Theft Auto V`|
