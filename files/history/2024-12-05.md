@@ -31,9 +31,13 @@
 |3|[FortniteGame&#45;33&#46;00&#45;CL&#45;38504598&#45;Windows SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47798)|`2024-12-05 07:35:47`|
 |3|[cs2&#95;internal&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47777)|`2024-12-05 16:18:19`|
 |2|[FortniteGame&#45;33&#46;00 SDK &#40;Fixed Functions&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47799)|`2024-12-05 17:15:33`|
+|2|[isonzo Internal Cheat V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47801)|`2024-12-05 17:31:48`|
+|4|[HyperCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47800)|`2024-12-05 17:31:48`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fallout 76 offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675889-fallout-76-offsets.html)|`2024-12-05 17:25:00`|`Other FPS Games`|
+|[HyperCE: use your cheat engine in any games&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675770-hyperce-cheat-engine-games.html)|`2024-12-05 17:24:00`|`Anti-Cheat Bypass`|
 |[Strinova ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675885-strinova-esp.html)|`2024-12-05 17:00:00`|`Other FPS Games`|
 |[Aimbot issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/672673-aimbot-issue.html)|`2024-12-05 16:59:00`|`Alternative Online Mods`|
 |[My beginner tarkov DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/629124-beginner-tarkov-dma.html)|`2024-12-05 16:56:00`|`Escape from Tarkov`|
