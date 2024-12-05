@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2024-12-06 01:11:00`|`Counter-Strike 2`|
+|[xDefiant Is Shutting Down In 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/xdefiant/675928-xdefiant-shutting-2025-a.html)|`2024-12-06 01:03:00`|`xDefiant`|
 |[Rage Cheat Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/675560-rage-cheat-source-code.html)|`2024-12-06 00:53:00`|`Counter-Strike 2 Releases`|
 |[Color Bot Banned Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675036-color-bot-banned-thread.html)|`2024-12-06 00:53:00`|`Call of Duty: Black Ops 6`|
 |[Amsterdam Solutions is a scam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675925-amsterdam-solutions-scam.html)|`2024-12-06 00:50:00`|`Valorant`|
