@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Introduction to Unreal Engine Game Hacking&#33; Part 1: GWorld, GObjects, GNames, & SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/672085-introduction-unreal-engine-game-hacking-1-gworld-gobjects-gnames-sdk.html)|`2024-12-05 11:24:00`|`Unreal Engine 4`|
+|[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-12-05 11:21:00`|`Other Games`|
+|[PVE advantage&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/675871-pve-advantage.html)|`2024-12-05 11:11:00`|`Escape from Tarkov`|
 |[Kernel Mode Exception Handler Using PicoContext](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675862-kernel-mode-exception-handler-using-picocontext.html)|`2024-12-05 11:01:00`|`Anti-Cheat Bypass`|
 |[Mouse Movement Not Working As Expected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/675859-mouse-movement-expected.html)|`2024-12-05 10:58:00`|`Overwatch`|
 |[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2024-12-05 10:48:00`|`Grand Theft Auto V`|
