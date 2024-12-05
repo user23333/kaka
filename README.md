@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GamerFun AI Menu: All mouse Aimbot, Triggerbot & Recoil Control Using LGUB Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671029-gamerfun-ai-menu-mouse-aimbot-triggerbot-recoil-control-using-lgub-drivers.html)|`2024-12-06 03:41:00`|`Rainbow Six Siege`|
+|[Isonzo Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675510-isonzo-internal-cheat.html)|`2024-12-06 03:38:00`|`Other FPS Games`|
+|[pcileech&#45;multimedia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/623718-pcileech-multimedia.html)|`2024-12-06 03:28:00`|`Anti-Cheat Bypass`|
 |[Aimbot with fov](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675791-aimbot-fov.html)|`2024-12-06 03:36:00`|`Counter-Strike 2`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-12-06 03:28:00`|`Apex Legends`|
 |[Sai's Color Aimbot v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/659687-sais-color-aimbot-v2.html)|`2024-12-06 03:12:00`|`Call of Duty: Modern Warfare III`|
