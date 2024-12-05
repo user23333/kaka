@@ -29,9 +29,11 @@
 |1|[Duckside SDK Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47796)|`2024-12-05 05:37:01`|
 |1|[valorant colorbot&#46;py](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47794)|`2024-12-05 05:37:01`|
 |3|[FortniteGame&#45;33&#46;00&#45;CL&#45;38504598&#45;Windows SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47798)|`2024-12-05 07:35:47`|
+|3|[cs2&#95;internal&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47777)|`2024-12-05 16:18:19`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rage Cheat Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/675560-rage-cheat-source-code.html)|`2024-12-05 16:02:00`|`Counter-Strike 2 Releases`|
 |[Most Advanced External Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675599-advanced-external-aimbot.html)|`2024-12-05 15:56:00`|`Valorant`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2024-12-05 15:00:00`|`Escape from Tarkov`|
 |[Unable to decrypt Name Strings in External ESP Android properly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/675881-unable-decrypt-name-strings-external-esp-android-properly.html)|`2024-12-05 14:57:00`|`PUBG Mobile`|
