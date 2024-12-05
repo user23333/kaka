@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Soldier 76 Complete Recoil Control](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/675745-soldier-76-complete-recoil-control.html)|`2024-12-05 18:59:00`|`Overwatch`|
 |[camo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673155-camo.html)|`2024-12-05 19:03:00`|`Call of Duty: Black Ops 6`|
 |[simple cs2 esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673463-simple-cs2-esp.html)|`2024-12-05 18:59:00`|`Counter-Strike 2`|
 |[Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/675138-question.html)|`2024-12-05 18:57:00`|`Alternative Online Mods`|
