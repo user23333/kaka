@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Get User Cmd Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675914-user-cmd-crash.html)|`2024-12-06 01:59:00`|`Counter-Strike 2`|
+|[War Thunder switched to BattleEye from EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675894-war-thunder-switched-battleeye-eac.html)|`2024-12-06 01:58:00`|`Anti-Cheat Bypass`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2024-12-06 01:49:00`|`Other MMORPG and Strategy`|
 |[Aimbot Problem AssaultCube](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/675685-aimbot-assaultcube.html)|`2024-12-06 01:46:00`|`Programming for Beginners`|
 |[TPM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/649260-tpm-spoofer.html)|`2024-12-06 01:43:00`|`Valorant`|
