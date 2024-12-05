@@ -24,9 +24,11 @@
 |126|[valorant colorbot&#46;py](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47794)|`2024-12-06 00:09:37`|
 |26|[emu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47791)|`2024-12-06 00:09:37`|
 |35|[Win&#45;Kernel&#45;Logger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47790)|`2024-12-06 00:09:37`|
+|2|[Death Note Killer Within Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47797)|`2024-12-06 00:36:09`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Cheesing Within l Death Note The Killer Within Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/675838-cheesing-death-note-killer-internal-cheat.html)|`2024-12-06 00:22:00`|`Other Games`|
 |[Strinova Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667041-strinova-reversal-structs-offsets.html)|`2024-12-06 00:08:00`|`Other FPS Games`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-12-06 00:08:00`|`Valorant`|
 |[WZ BO6 Working Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675805-wz-bo6-base.html)|`2024-12-06 00:07:00`|`Call of Duty: Black Ops 6`|
