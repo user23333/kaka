@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2024-12-05 15:00:00`|`Escape from Tarkov`|
 |[Unable to decrypt Name Strings in External ESP Android properly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/675881-unable-decrypt-name-strings-external-esp-android-properly.html)|`2024-12-05 14:57:00`|`PUBG Mobile`|
 |[A more indepth ASUS motherboard spoofing guide&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/638105-indepth-asus-motherboard-spoofing-guide.html)|`2024-12-05 14:37:00`|`Valorant`|
 |[Hide the view items](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/675880-hide-view-items.html)|`2024-12-05 14:33:00`|`Escape from Tarkov`|
