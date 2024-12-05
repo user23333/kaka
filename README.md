@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BEST dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675875-dma.html)|`2024-12-05 12:32:00`|`Valorant`|
+|[angos aob](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/675763-angos-aob.html)|`2024-12-05 12:19:00`|`PUBG Mobile`|
 |[Universal Ac bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/658736-universal-ac-bypass.html)|`2024-12-05 12:10:00`|`Anti-Cheat Bypass`|
 |[Team Fortress 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/102936-team-fortress-2-reversal-structs-offsets.html)|`2024-12-05 12:08:00`|`Team Fortress 2`|
 |[Will I Get Banned for Using WeMod in My Local 7D2TD Game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/673031-banned-using-wemod-local-7d2td-game.html)|`2024-12-05 12:07:00`|`Forum General`|
