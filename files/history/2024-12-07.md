@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Darkstorm For TF&#46;exe &#40;For newer x32 builds&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/675699-darkstorm-tf-exe-x32-builds.html)|`2024-12-07 01:51:00`|`Team Fortress 2`|
+|[Unjust Bans in Black Ops 6 – Let’s Investigate Together](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675006-unjust-bans-black-ops-6-investigate.html)|`2024-12-07 01:51:00`|`Call of Duty: Black Ops 6`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/652967-marvel-rivals-reversal-structs-offsets.html)|`2024-12-07 01:42:00`|`Other FPS Games`|
 |[Nuclear Nightmare](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/675437-nuclear-nightmare.html)|`2024-12-07 01:40:00`|`Other Games`|
 |[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-12-07 01:18:00`|`Other Games`|
