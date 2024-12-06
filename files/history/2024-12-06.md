@@ -33,9 +33,12 @@
 |2|[cs2&#45;esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47810)|`2024-12-06 11:10:28`|
 |1|[WZ BO6 Working Base by Sbaggy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47808)|`2024-12-06 11:10:28`|
 |1|[No Recoil ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47809)|`2024-12-06 11:41:31`|
+|3|[HyperCE&#95;v2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47815)|`2024-12-06 18:35:52`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking for Apex DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/676020-looking-apex-dma.html)|`2024-12-06 18:29:00`|`Apex Legends`|
+|[SharpMonoInjector Fixed and Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/408878-sharpmonoinjector-fixed-updated.html)|`2024-12-06 18:27:00`|`Unity`|
 |[Hoyo Game dumper dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/666159-hoyo-game-dumper-dll.html)|`2024-12-06 18:10:00`|`Other Games`|
 |[Gray Zone Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/634880-gray-zone-warfare-reversal-structs-offsets.html)|`2024-12-06 18:06:00`|`Other FPS Games`|
 |[Boss container](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/676014-boss-container.html)|`2024-12-06 17:58:00`|`Escape from Tarkov`|
