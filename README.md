@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nuclear Nightmare](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/675437-nuclear-nightmare.html)|`2024-12-07 01:40:00`|`Other Games`|
 |[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-12-07 01:18:00`|`Other Games`|
 |[Marvel Rivals Arduino Colorbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675965-marvel-rivals-arduino-colorbot.html)|`2024-12-07 01:16:00`|`Other FPS Games`|
 |[Detect Ingame DirectX Version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/675935-detect-ingame-directx-version.html)|`2024-12-07 01:15:00`|`General Programming and Reversing`|
