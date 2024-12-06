@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Invalid relative location and bones positions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/675979-invalid-relative-location-bones-positions.html)|`2024-12-06 13:16:00`|`PUBG Mobile`|
 |[DMA Firmware Bar Controller](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675978-dma-firmware-bar-controller.html)|`2024-12-06 13:07:00`|`Anti-Cheat Bypass`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/652967-marvel-rivals-reversal-structs-offsets.html)|`2024-12-06 12:58:00`|`Other FPS Games`|
 |[AI Aimbot Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675977-ai-aimbot-issue.html)|`2024-12-06 12:50:00`|`Call of Duty: Black Ops 6`|
