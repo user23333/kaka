@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2024-12-06 16:10:00`|`Battlefield 4`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-12-06 16:19:00`|`Playerunknown's Battlegrounds`|
 |[Invincible from HWID bans? pc permanent spoofed without spoofer or doing anything??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675989-invincible-hwid-bans-pc-permanent-spoofed-spoofer-doing.html)|`2024-12-06 16:12:00`|`Valorant`|
 |[Calling dll main without a handle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675988-calling-dll-main-handle.html)|`2024-12-06 15:32:00`|`Anti-Cheat Bypass`|
