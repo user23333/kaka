@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Member of the Month &#45; December 2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/675421-month-december-2024-a.html)|`2024-12-07 02:16:00`|`Member of the Month`|
+|[How can I find out all the CS2 launch options?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676055-cs2-launch-options.html)|`2024-12-07 02:08:00`|`Counter-Strike 2`|
+|[ObRegisterCallbacks not working as intended](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/675995-obregistercallbacks-intended.html)|`2024-12-07 02:04:00`|`General Programming and Reversing`|
+|[Popular Servers Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/676054-popular-servers-anticheat.html)|`2024-12-07 02:01:00`|`Garry's Mod`|
 |[DRAGON BALL Sparking&#33; ZERO &#45; Auto Online Stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/673913-dragon-ball-sparking-zero-auto-online-stuff.html)|`2024-12-07 01:54:00`|`Other Games`|
 |[Darkstorm For TF&#46;exe &#40;For newer x32 builds&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/675699-darkstorm-tf-exe-x32-builds.html)|`2024-12-07 01:51:00`|`Team Fortress 2`|
 |[Unjust Bans in Black Ops 6 – Let’s Investigate Together](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675006-unjust-bans-black-ops-6-investigate.html)|`2024-12-07 01:51:00`|`Call of Duty: Black Ops 6`|
