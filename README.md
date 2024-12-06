@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Calling dll main without a handle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675988-calling-dll-main-handle.html)|`2024-12-06 15:32:00`|`Anti-Cheat Bypass`|
 |[EAC Bypass &#40;Temporary&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/627251-eac-bypass-temporary.html)|`2024-12-06 15:04:00`|`Sea of Thieves`|
 |[Valorant Support Says I am HWID Banned But I am Not?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675945-valorant-support-am-hwid-banned-am.html)|`2024-12-06 15:01:00`|`Valorant`|
 |[Chat Spammer &#91;Internal&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675984-chat-spammer-internal.html)|`2024-12-06 14:57:00`|`Counter-Strike 2`|
