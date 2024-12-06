@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino Aimbot by sonixaep indian scammer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675464-arduino-aimbot-sonixaep-indian-scammer.html)|`2024-12-07 04:18:00`|`Valorant`|
+|[Centralized Bot Lobby Starter Python Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672158-centralized-bot-lobby-starter-python-script.html)|`2024-12-07 04:13:00`|`Call of Duty: Black Ops 6`|
 |[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669274-vigor-internal-cheat.html)|`2024-12-07 04:06:00`|`Other FPS Games`|
 |[Troll cheat &#40;Restart any online lobby&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/671769-troll-cheat-restart-online-lobby.html)|`2024-12-07 04:03:00`|`Payday 3`|
 |[mouse movement with vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675397-mouse-movement-vanguard.html)|`2024-12-07 03:58:00`|`Anti-Cheat Bypass`|
