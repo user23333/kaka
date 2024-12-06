@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chat Spammer &#91;Internal&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675984-chat-spammer-internal.html)|`2024-12-07 00:39:00`|`Counter-Strike 2`|
+|[MS&#45;Worlds&#45;Artale XY Player Pointers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/670971-ms-worlds-artale-xy-player-pointers.html)|`2024-12-07 00:34:00`|`Maple Story`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2024-12-07 00:32:00`|`Alternative Online Mods`|
+|[Assetto Corsa Alien &#45; &#91;Torque, Grip, Downforce and more&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/511184-assetto-corsa-alien-torque-grip-downforce.html)|`2024-12-07 00:30:00`|`Other Games`|
+|[requesting anything that can help on dofus on unity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/675849-requesting-help-dofus-unity.html)|`2024-12-07 00:26:00`|`Other Games`|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-12-07 00:25:00`|`Apex Legends`|
+|[Pattern scanning in C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/675148-pattern-scanning.html)|`2024-12-07 00:22:00`|`C and C++`|
 |[Aim Assist in pure C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675938-aim-assist-pure.html)|`2024-12-07 00:16:00`|`Valorant`|
 |[How long does TPM / fTPM ban last ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676050-tpm-ftpm-ban.html)|`2024-12-07 00:16:00`|`Valorant`|
 |[Marvel Rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/650818-marvel-rivals.html)|`2024-12-07 00:14:00`|`Other FPS Games`|
