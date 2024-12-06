@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypass HWID of Anti Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/676045-bypass-hwid-anti-cheat.html)|`2024-12-06 23:23:00`|`General Programming and Reversing`|
+|[Member of the Month &#45; December 2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/675421-month-december-2024-a.html)|`2024-12-06 22:55:00`|`Member of the Month`|
 |[Dale & Dawson Stationery Supplies Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/673690-dale-dawson-stationery-supplies-tool.html)|`2024-12-06 23:01:00`|`Unity`|
 |[what servers to play to avoid bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/675674-servers-play-avoid-bans.html)|`2024-12-06 22:48:00`|`Rust`|
 |[How do RUST servers ban? byIP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/673481-rust-servers-ban-byip.html)|`2024-12-06 22:39:00`|`Rust`|
