@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2024-12-06 23:45:00`|`Counter-Strike 2 Releases`|
 |[Bypass HWID of Anti Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/676045-bypass-hwid-anti-cheat.html)|`2024-12-06 23:23:00`|`General Programming and Reversing`|
 |[Member of the Month &#45; December 2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/675421-month-december-2024-a.html)|`2024-12-06 22:55:00`|`Member of the Month`|
 |[Dale & Dawson Stationery Supplies Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/673690-dale-dawson-stationery-supplies-tool.html)|`2024-12-06 23:01:00`|`Unity`|
