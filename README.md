@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do i get the other players positions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676212-players-positions.html)|`2024-12-08 01:37:00`|`Counter-Strike 2`|
+|[Player names externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/671806-player-names-externally.html)|`2024-12-08 01:37:00`|`Alternative Online Mods`|
 |[Calling Native](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/676077-calling-native.html)|`2024-12-08 01:35:00`|`Alternative Online Mods`|
 |[Latest 2024 UnBan Method &#45; EAC/BE And Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/676059-2024-unban-method-eac.html)|`2024-12-08 01:34:00`|`Anti-Cheat Bypass`|
 |[FiveM Native Invoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/657319-fivem-native-invoker.html)|`2024-12-08 01:23:00`|`Alternative Online Mods`|
