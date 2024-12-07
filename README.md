@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA recommendations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676127-dma-recommendations.html)|`2024-12-07 17:29:00`|`Call of Duty: Black Ops 6`|
 |[Unable to decrypt Name Strings in External ESP Android properly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/675881-unable-decrypt-name-strings-external-esp-android-properly.html)|`2024-12-07 17:25:00`|`PUBG Mobile`|
 |[animated imgui elements](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/676126-animated-imgui-elements.html)|`2024-12-07 17:25:00`|`C and C++`|
 |[How do I unban Valorant without doing a clean install? I would also like to know if t](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676125-unban-valorant-doing-clean-install.html)|`2024-12-07 17:18:00`|`Valorant`|
