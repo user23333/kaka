@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Somewhat working DarkStorm 64&#45;bit base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/676234-somewhat-darkstorm-64-bit-base.html)|`2024-12-08 05:19:00`|`Team Fortress 2`|
 |[How is C&#95;Inferno Read?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/655774-c_inferno-read.html)|`2024-12-08 05:05:00`|`Counter-Strike 2`|
 |[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2024-12-08 04:47:00`|`Elite: Dangerous`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2024-12-08 04:42:00`|`Other Games`|
