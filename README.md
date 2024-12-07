@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[A beginner's guide to Web Assemblies &#40;WASM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/676216-beginners-guide-web-assemblies-wasm.html)|`2024-12-08 02:32:00`|`General Programming and Reversing`|
 |[Apex Rage External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/660129-apex-rage-external-cheat.html)|`2024-12-08 02:23:00`|`Apex Legends`|
 |[POE2 CE Maphack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/676215-poe2-ce-maphack.html)|`2024-12-08 02:22:00`|`Cheat Engine Tables`|
 |[Help with cs2 Box ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675948-help-cs2-box-esp.html)|`2024-12-08 02:19:00`|`Counter-Strike 2`|
