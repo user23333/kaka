@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2024-12-08 01:00:00`|`Escape from Tarkov`|
+|[Method of my esp to draw  &#40;INTERNAL&#41; is it outdate?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676200-method-esp-draw-internal-outdate.html)|`2024-12-08 01:00:00`|`Counter-Strike 2`|
+|[Deep Rock Galactic: Deep Dive Delirium &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/617904-deep-rock-galactic-deep-dive-delirium-internal.html)|`2024-12-08 00:58:00`|`Other FPS Games`|
+|[BotOps Hub &#40;bot lobby tool, no VM required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674129-botops-hub-bot-lobby-tool-vm-required.html)|`2024-12-08 00:56:00`|`Call of Duty: Black Ops 6`|
 |[Throne and Liberty Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/649981-throne-liberty-reversal-structs-offsets.html)|`2024-12-08 00:57:00`|`Other MMORPG and Strategy`|
 |[No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/675931-recoil.html)|`2024-12-08 00:55:00`|`Rainbow Six Siege`|
 |[BOT LOBBY Method Chrome Tabs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672955-bot-lobby-method-chrome-tabs.html)|`2024-12-08 00:55:00`|`Call of Duty: Black Ops 6`|
