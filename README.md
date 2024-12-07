@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Tournament Ready Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/672770-tournament-ready-driver.html)|`2024-12-08 04:28:00`|`Anti-Cheat Bypass`|
+|[Prometheus &#45; hacking framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675507-prometheus-hacking-framework.html)|`2024-12-08 04:24:00`|`Anti-Cheat Bypass`|
 |[BEST dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675875-dma.html)|`2024-12-08 04:07:00`|`Valorant`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2024-12-08 04:03:00`|`Other FPS Games`|
 |[Most Advanced External Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675599-advanced-external-aimbot.html)|`2024-12-08 03:58:00`|`Valorant`|
