@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do you dump Honkai: Star Rail?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676117-dump-honkai-star-rail.html)|`2024-12-07 14:10:00`|`Other MMORPG and Strategy`|
+|[Python Aimbot Color / Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675728-python-aimbot-color-colorbot.html)|`2024-12-07 14:08:00`|`Call of Duty: Black Ops 6`|
 |[No working cheat menus for this game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront/636026-cheat-menus-game.html)|`2024-12-07 13:50:00`|`Star Wars Battlefront`|
 |[titanfall 2 external cheat &#91;aimbot, esp, &#46;&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/469406-titanfall-2-external-cheat-aimbot-esp.html)|`2024-12-07 13:48:00`|`Titanfall`|
 |[Rocket League Wintrading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/628382-rocket-league-wintrading.html)|`2024-12-07 12:59:00`|`Other Games`|
