@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Getting Health value](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/676029-getting-health-value.html)|`2024-12-07 12:47:00`|`Programming for Beginners`|
 |[CS2 Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/606455-cs2-injector.html)|`2024-12-07 12:13:00`|`Counter-Strike 2`|
 |[Calling dll main without a handle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675988-calling-dll-main-handle.html)|`2024-12-07 12:02:00`|`Anti-Cheat Bypass`|
 |[Project Zomboid Cheat &#124; EtherHack &#124; Powered by Java &#124; 41&#46;78&#46;16](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/590798-project-zomboid-cheat-etherhack-powered-java-41-78-16-a.html)|`2024-12-07 11:53:00`|`Other MMORPG and Strategy`|
