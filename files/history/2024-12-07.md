@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rocket League Wintrading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/628382-rocket-league-wintrading.html)|`2024-12-07 12:59:00`|`Other Games`|
 |[Getting Health value](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/676029-getting-health-value.html)|`2024-12-07 12:47:00`|`Programming for Beginners`|
 |[CS2 Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/606455-cs2-injector.html)|`2024-12-07 12:13:00`|`Counter-Strike 2`|
 |[Calling dll main without a handle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675988-calling-dll-main-handle.html)|`2024-12-07 12:02:00`|`Anti-Cheat Bypass`|
