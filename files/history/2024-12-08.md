@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FreeStyle GunZ ShotBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/gunz/673351-freestyle-gunz-shotbot.html)|`2024-12-08 03:24:00`|`GunZ`|
+|[First time trying to make a cheat for rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/676224-time-trying-cheat-rust.html)|`2024-12-08 03:24:00`|`Rust`|
 |[Arduino Aimbot by sonixaep indian scammer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675464-arduino-aimbot-sonixaep-indian-scammer.html)|`2024-12-08 03:17:00`|`Valorant`|
 |[mouse movement with vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675397-mouse-movement-vanguard.html)|`2024-12-08 03:16:00`|`Anti-Cheat Bypass`|
 |[BO6 Dma ESP Aim WebReadr](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673167-bo6-dma-esp-aim-webreadr.html)|`2024-12-08 03:11:00`|`Call of Duty: Black Ops 6`|
