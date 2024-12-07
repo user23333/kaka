@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TPM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/649260-tpm-spoofer.html)|`2024-12-07 21:56:00`|`Valorant`|
+|[custom IoCreateDriver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675511-custom-iocreatedriver.html)|`2024-12-07 21:55:00`|`Anti-Cheat Bypass`|
 |[OPEN IV Online Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/670556-iv-online-bypass.html)|`2024-12-07 21:43:00`|`Grand Theft Auto V`|
 |[Base address of Module](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/676164-base-address-module.html)|`2024-12-07 21:17:00`|`General Programming and Reversing`|
 |[&#91;DMA&#93; Grayzone Warfare &#45; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675890-dma-grayzone-warfare-esp.html)|`2024-12-07 20:48:00`|`Other FPS Games`|
