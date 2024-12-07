@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Aim Assist in pure C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675938-aim-assist-pure.html)|`2024-12-08 05:39:00`|`Valorant`|
+|[How do I unban Valorant without doing a clean install? I would also like to know if t](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676125-unban-valorant-doing-clean-install.html)|`2024-12-08 05:39:00`|`Valorant`|
 |[Phasmophobia ML bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/675741-phasmophobia-ml-bypass.html)|`2024-12-08 05:29:00`|`Phasmophobia`|
 |[Somewhat working DarkStorm 64&#45;bit base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/676234-somewhat-darkstorm-64-bit-base.html)|`2024-12-08 05:19:00`|`Team Fortress 2`|
 |[How is C&#95;Inferno Read?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/655774-c_inferno-read.html)|`2024-12-08 05:05:00`|`Counter-Strike 2`|
