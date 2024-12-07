@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676136-valorant-triggerbot.html)|`2024-12-07 20:22:00`|`Valorant`|
+|[all emulator bypass bgmi file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/675756-emulator-bypass-bgmi-file.html)|`2024-12-07 20:21:00`|`PUBG Mobile`|
+|[NoSpread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676134-nospread.html)|`2024-12-07 20:05:00`|`Counter-Strike 2`|
+|[Prometheus &#45; hacking framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675507-prometheus-hacking-framework.html)|`2024-12-07 20:00:00`|`Anti-Cheat Bypass`|
+|[fw1 wrong render text position, wtf ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/676133-fw1-wrong-render-text-position-wtf.html)|`2024-12-07 19:58:00`|`Deadlock`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2024-12-07 19:39:00`|`Sea of Thieves`|
 |[Winter, Christmas & New Year's Banner Contest 2024 &#45; Winners&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/675333-winter-christmas-banner-contest-2024-winners.html)|`2024-12-07 19:18:00`|`Information and Announcements`|
 |[My Hero Ultra Rumble Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/604426-hero-ultra-rumble-cheat-table.html)|`2024-12-07 19:08:00`|`Other Games`|
