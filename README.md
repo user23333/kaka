@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[sot banning system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/676228-sot-banning-system.html)|`2024-12-08 03:43:00`|`Sea of Thieves`|
 |[OPEN IV Online Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/670556-iv-online-bypass.html)|`2024-12-08 03:36:00`|`Grand Theft Auto V`|
 |[packs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/676225-packs.html)|`2024-12-08 03:28:00`|`Sea of Thieves`|
 |[FreeStyle GunZ ShotBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/gunz/673351-freestyle-gunz-shotbot.html)|`2024-12-08 03:24:00`|`GunZ`|
