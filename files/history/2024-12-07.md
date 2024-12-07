@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Base address of Module](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/676164-base-address-module.html)|`2024-12-07 21:17:00`|`General Programming and Reversing`|
 |[&#91;DMA&#93; Grayzone Warfare &#45; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675890-dma-grayzone-warfare-esp.html)|`2024-12-07 20:48:00`|`Other FPS Games`|
 |[Help with cs2 Box ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675948-help-cs2-box-esp.html)|`2024-12-07 20:48:00`|`Counter-Strike 2`|
 |[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2024-12-07 20:39:00`|`Other FPS Games`|
