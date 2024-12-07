@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[are there any money methods without FSL?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/675137-money-methods-fsl.html)|`2024-12-07 16:05:00`|`Grand Theft Auto V`|
 |[MiniRoyale Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667335-miniroyale-reversal.html)|`2024-12-07 14:57:00`|`Other FPS Games`|
 |[How do you dump Honkai: Star Rail?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676117-dump-honkai-star-rail.html)|`2024-12-07 14:10:00`|`Other MMORPG and Strategy`|
 |[Python Aimbot Color / Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675728-python-aimbot-color-colorbot.html)|`2024-12-07 14:08:00`|`Call of Duty: Black Ops 6`|
