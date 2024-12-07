@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[No working cheat menus for this game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront/636026-cheat-menus-game.html)|`2024-12-07 13:50:00`|`Star Wars Battlefront`|
 |[titanfall 2 external cheat &#91;aimbot, esp, &#46;&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/469406-titanfall-2-external-cheat-aimbot-esp.html)|`2024-12-07 13:48:00`|`Titanfall`|
 |[Rocket League Wintrading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/628382-rocket-league-wintrading.html)|`2024-12-07 12:59:00`|`Other Games`|
 |[Getting Health value](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/676029-getting-health-value.html)|`2024-12-07 12:47:00`|`Programming for Beginners`|
