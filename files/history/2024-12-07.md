@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unable to decrypt Name Strings in External ESP Android properly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/675881-unable-decrypt-name-strings-external-esp-android-properly.html)|`2024-12-07 17:25:00`|`PUBG Mobile`|
+|[animated imgui elements](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/676126-animated-imgui-elements.html)|`2024-12-07 17:25:00`|`C and C++`|
+|[How do I unban Valorant without doing a clean install? I would also like to know if t](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676125-unban-valorant-doing-clean-install.html)|`2024-12-07 17:18:00`|`Valorant`|
 |[are there any money methods without FSL?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/675137-money-methods-fsl.html)|`2024-12-07 16:05:00`|`Grand Theft Auto V`|
 |[MiniRoyale Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667335-miniroyale-reversal.html)|`2024-12-07 14:57:00`|`Other FPS Games`|
 |[How do you dump Honkai: Star Rail?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676117-dump-honkai-star-rail.html)|`2024-12-07 14:10:00`|`Other MMORPG and Strategy`|
