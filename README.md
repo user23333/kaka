@@ -13,6 +13,7 @@
 |9|[Bypass &#45; sv&#95;quantize&#95;movement&#95;input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675326-bypass-sv_quantize_movement_input.html)|`2024-12-07 00:20:28`|`counter-strike-2-a`|
 |5|[colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675794-colorbot.html)|`2024-12-07 04:10:11`|`valorant`|
 |5|[1v1&#46;lol cheat esp/aimbot/fly/unlock tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675644-1v1-lol-cheat-esp-aimbot-fly-unlock-tool.html)|`2024-12-07 06:09:40`|`other-fps-games`|
+|12|[Aim Assist in pure C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675938-aim-assist-pure.html)|`2024-12-07 15:57:27`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
