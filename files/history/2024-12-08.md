@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Throne and Liberty Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/649981-throne-liberty-reversal-structs-offsets.html)|`2024-12-08 00:57:00`|`Other MMORPG and Strategy`|
+|[No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/675931-recoil.html)|`2024-12-08 00:55:00`|`Rainbow Six Siege`|
+|[BOT LOBBY Method Chrome Tabs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672955-bot-lobby-method-chrome-tabs.html)|`2024-12-08 00:55:00`|`Call of Duty: Black Ops 6`|
+|[jengabase x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/675424-jengabase-x64.html)|`2024-12-08 00:53:00`|`Team Fortress 2`|
 |[ace HWID BAN HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674479-ace-hwid-ban-help.html)|`2024-12-08 00:46:00`|`Anti-Cheat Bypass`|
 |[ACCOUNT LOCKED AFTER TRAINING?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676173-account-locked-training.html)|`2024-12-08 00:41:00`|`Valorant`|
 |[Schema System Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676196-schema-system-help.html)|`2024-12-08 00:32:00`|`Counter-Strike 2`|
