@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Truth Bar Menu &#45; V0&#46;1 &#124; Liar's bar internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667906-truth-bar-menu-v0-1-liars-bar-internal-cheat.html)|`2024-12-08 23:00:00`|`Other Games`|
+|[Killed my account&#46; Questions?&#33;?&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676135-killed-account-questions.html)|`2024-12-08 22:58:00`|`Call of Duty: Black Ops 6`|
 |[How would someone use the cs2 SDK?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676339-cs2-sdk.html)|`2024-12-08 22:55:00`|`Counter-Strike 2`|
 |[Internal features without signatures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676078-internal-features-signatures.html)|`2024-12-08 22:52:00`|`Counter-Strike 2`|
 |[ListDictionary object](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/676334-listdictionary-object.html)|`2024-12-08 22:39:00`|`Rust`|
