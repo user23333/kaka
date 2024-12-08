@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypass HWID of Anti Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/676045-bypass-hwid-anti-cheat.html)|`2024-12-08 16:29:00`|`General Programming and Reversing`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2024-12-08 16:27:00`|`Call of Duty: Black Ops 6`|
 |[DMA Detection?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/676281-dma-detection.html)|`2024-12-08 16:14:00`|`Escape from Tarkov`|
 |[Universal Unity Internal Cheat Template](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/676280-universal-unity-internal-cheat-template.html)|`2024-12-08 16:10:00`|`General Programming and Reversing`|
 |[Idle Slayer &#43;27](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673364-idle-slayer-27-a.html)|`2024-12-08 16:07:00`|`Other MMORPG and Strategy`|
