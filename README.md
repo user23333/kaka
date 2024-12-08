@@ -37,6 +37,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2024-12-08 20:59:00`|`Valorant`|
+|[Arduino &#43; Host Shield spoofed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675982-arduino-host-shield-spoofed.html)|`2024-12-08 20:50:00`|`Valorant`|
+|[Hero auto pick](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/672268-hero-auto-pick.html)|`2024-12-08 20:47:00`|`Overwatch`|
+|[After changing motherboard, will suspension be HWID?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/676321-changing-motherboard-suspension-hwid.html)|`2024-12-08 20:43:00`|`Rust`|
+|[FiveM Cheat &#124; Dumper & Trigger find](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/654012-fivem-cheat-dumper-trigger.html)|`2024-12-08 20:37:00`|`Alternative Online Mods`|
+|[RLMarlbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/633336-rlmarlbot.html)|`2024-12-08 20:36:00`|`Other Games`|
 |[Strinova Basic Internal &#40;ESP/AIMBOT&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/643994-strinova-basic-internal-esp-aimbot.html)|`2024-12-08 20:26:00`|`Other FPS Games`|
 |[WINMINE minesweeper my 1st hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/675958-winmine-minesweeper-1st-hack.html)|`2024-12-08 19:40:00`|`Programming for Beginners`|
 |[Centralized Bot Lobby Starter Python Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672158-centralized-bot-lobby-starter-python-script.html)|`2024-12-08 19:19:00`|`Call of Duty: Black Ops 6`|
