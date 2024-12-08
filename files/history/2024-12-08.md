@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ghosts of Tabor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/574607-ghosts-tabor.html)|`2024-12-08 14:47:00`|`Other FPS Games`|
 |[Titanfall 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/191976-titanfall-2-reversal-structs-offsets.html)|`2024-12-08 14:12:00`|`Titanfall`|
 |[CS2 Free External Multi Cheat &#35; AIMBOT / RCS / ESP / MISC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/666738-cs2-free-external-multi-cheat-aimbot-rcs-esp-misc.html)|`2024-12-08 13:15:00`|`Counter-Strike 2 Releases`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2024-12-08 13:07:00`|`Other FPS Games`|
