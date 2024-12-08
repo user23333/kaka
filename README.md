@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-12-09 07:42:00`|`Deadlock`|
 |[&#91;Y8S2&#93; Updated QoL Logitech No recoil lua script &#40;all operators&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/591557-y8s2-updated-qol-logitech-recoil-lua-script-operators.html)|`2024-12-09 07:41:00`|`Rainbow Six Siege`|
 |[R6 DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/624350-r6-dma.html)|`2024-12-09 07:21:00`|`Rainbow Six Siege`|
 |[How to equip any item on this game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/591436-equip-item-game.html)|`2024-12-09 06:32:00`|`Paladins`|
