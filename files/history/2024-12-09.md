@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Xenuine decryption with Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/676383-xenuine-decryption-rust.html)|`2024-12-09 06:29:00`|`Playerunknown's Battlegrounds`|
+|[Free ESP Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/668004-free-esp-cheat.html)|`2024-12-09 06:28:00`|`Counter-Strike 2`|
+|[VGK obfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671176-vgk-obfuscation.html)|`2024-12-09 06:26:00`|`Anti-Cheat Bypass`|
+|[BattlEyen't &#45; play offline raids without BattlEye on live version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/481919-battleyent-play-offline-raids-battleye-live-version.html)|`2024-12-09 06:25:00`|`Escape from Tarkov`|
+|[ace HWID BAN HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674479-ace-hwid-ban-help.html)|`2024-12-09 06:23:00`|`Anti-Cheat Bypass`|
 |[Getting functions realisation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/676382-getting-functions-realisation.html)|`2024-12-09 06:10:00`|`Rust`|
 |[1v1&#46;lol offsets For Codding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676381-1v1-lol-offsets-codding.html)|`2024-12-09 06:10:00`|`Other FPS Games`|
 |[DRAGON BALL Sparking&#33; ZERO &#45; Auto Online Stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/673913-dragon-ball-sparking-zero-auto-online-stuff.html)|`2024-12-09 06:09:00`|`Other Games`|
