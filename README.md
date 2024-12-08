@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need a cheat for Epic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/676270-cheat-epic.html)|`2024-12-08 17:50:00`|`Among Us`|
+|[Can't load pdb file in ida 8&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/676304-cant-load-pdb-file-ida-8-2-a.html)|`2024-12-08 17:49:00`|`PC Software`|
 |[Subtick bhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676287-subtick-bhop.html)|`2024-12-08 17:37:00`|`Counter-Strike 2`|
 |[what servers to play to avoid bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/675674-servers-play-avoid-bans.html)|`2024-12-08 17:19:00`|`Rust`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2024-12-08 17:15:00`|`Other FPS Games`|
