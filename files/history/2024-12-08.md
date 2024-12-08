@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GIRLS' FRONTLINE 2:EXILIUM CN PC cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/653607-girls-frontline-2-exilium-cn-pc-cheat.html)|`2024-12-08 18:26:00`|`Other MMORPG and Strategy`|
+|[What is this cheat function called](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/676309-cheat-function-called.html)|`2024-12-08 18:16:00`|`Unreal Engine 4`|
 |[Hot Improved AHK Triggerbot/Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/631533-hot-improved-ahk-triggerbot-colorbot.html)|`2024-12-08 18:02:00`|`Valorant`|
 |[Need a cheat for Epic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/676270-cheat-epic.html)|`2024-12-08 17:50:00`|`Among Us`|
 |[Can't load pdb file in ida 8&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/676304-cant-load-pdb-file-ida-8-2-a.html)|`2024-12-08 17:49:00`|`PC Software`|
