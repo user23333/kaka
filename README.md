@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project Zomboid Cheat &#124; EtherHack &#124; Powered by Java &#124; 41&#46;78&#46;16 &#124; Continued](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676271-project-zomboid-cheat-etherhack-powered-java-41-78-16-continued.html)|`2024-12-08 11:55:00`|`Other MMORPG and Strategy`|
+|[Destiny 2 Inventory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/668891-destiny-2-inventory.html)|`2024-12-08 11:53:00`|`Other FPS Games`|
 |[Assault Cube Esp/Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676039-assault-cube-esp-aimbot.html)|`2024-12-08 11:48:00`|`Other FPS Games`|
 |[👽 VALORANT Skin Changer &#40;Just Inject it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/517551-valorant-skin-changer-inject.html)|`2024-12-08 11:47:00`|`Valorant`|
 |[Autofire cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/676027-autofire-cheat.html)|`2024-12-08 10:55:00`|`Rainbow Six Siege`|
