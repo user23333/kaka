@@ -31,9 +31,15 @@
 |1|[poe2mh](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47833)|`2024-12-08 15:35:38`|
 |4|[Vigor Internal v1&#46;0&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47832)|`2024-12-08 15:40:50`|
 |2|[RemedyBS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47830)|`2024-12-08 15:59:01`|
+|2|[Isonzo Internal Cheat V3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47836)|`2024-12-08 16:20:23`|
+|2|[Idle Slatyer &#43;27](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47829)|`2024-12-08 16:20:23`|
+|1|[aim&#95;assist&#95;v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47821)|`2024-12-08 16:20:23`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA Detection?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/676281-dma-detection.html)|`2024-12-08 16:14:00`|`Escape from Tarkov`|
+|[Universal Unity Internal Cheat Template](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/676280-universal-unity-internal-cheat-template.html)|`2024-12-08 16:10:00`|`General Programming and Reversing`|
+|[Idle Slayer &#43;27](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673364-idle-slayer-27-a.html)|`2024-12-08 16:07:00`|`Other MMORPG and Strategy`|
 |[Blazing Sails Hack &#91;Win10&#93; &#91;Steam/EGS&#93; &#124; ESP &#124; SpeedHack &#124; NoClip &#124; More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620821-blazing-sails-hack-win10-steam-egs-esp-speedhack-noclip.html)|`2024-12-08 15:56:00`|`Other FPS Games`|
 |[1v1&#46;lol Cheat By: RPNMods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676264-1v1-lol-cheat-rpnmods.html)|`2024-12-08 15:29:00`|`Other FPS Games`|
 |[&#91;PSA&#93; state of this forum and cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/669912-psa-forum-cheats.html)|`2024-12-08 15:26:00`|`Call of Duty: Modern Warfare`|
