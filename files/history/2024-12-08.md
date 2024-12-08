@@ -37,6 +37,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Centralized Bot Lobby Starter Python Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672158-centralized-bot-lobby-starter-python-script.html)|`2024-12-08 19:19:00`|`Call of Duty: Black Ops 6`|
+|[Aimbot Problem AssaultCube](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/675685-aimbot-assaultcube.html)|`2024-12-08 19:18:00`|`Programming for Beginners`|
+|[Yet another &#45; Bot Lobby Manager for VM/VPS/NO&#45;VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676312-bot-lobby-manager-vm-vps-vm.html)|`2024-12-08 19:17:00`|`Call of Duty: Black Ops 6`|
+|[CS2External Aim/Esp/Misc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/673859-cs2external-aim-esp-misc.html)|`2024-12-08 19:14:00`|`Counter-Strike 2 Releases`|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2024-12-08 19:09:00`|`Grand Theft Auto V`|
 |[GFL2 Exilium Reversal, Structs and Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/676034-gfl2-exilium-reversal-structs-offset.html)|`2024-12-08 18:40:00`|`Half Life`|
 |[GIRLS' FRONTLINE 2:EXILIUM CN PC cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/653607-girls-frontline-2-exilium-cn-pc-cheat.html)|`2024-12-08 18:26:00`|`Other MMORPG and Strategy`|
 |[What is this cheat function called](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/676309-cheat-function-called.html)|`2024-12-08 18:16:00`|`Unreal Engine 4`|
