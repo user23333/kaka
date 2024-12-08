@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fastest Python Valorant Triggerbot &#40;fr&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612762-fastest-python-valorant-triggerbot-fr.html)|`2024-12-08 21:49:00`|`Valorant`|
 |[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2024-12-08 20:59:00`|`Valorant`|
 |[Arduino &#43; Host Shield spoofed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675982-arduino-host-shield-spoofed.html)|`2024-12-08 20:50:00`|`Valorant`|
 |[Hero auto pick](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/672268-hero-auto-pick.html)|`2024-12-08 20:47:00`|`Overwatch`|
