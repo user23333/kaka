@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2024-12-09 17:01:00`|`Other FPS Games`|
+|[The Finals ColorBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/669800-finals-colorbot.html)|`2024-12-09 16:59:00`|`THE FINALS`|
+|[Fastest Yolo inference method for Person Detection CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676429-fastest-yolo-inference-method-person-detection-cs2.html)|`2024-12-09 16:57:00`|`Counter-Strike 2`|
 |[PUBG DMA cheat source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/667961-pubg-dma-cheat-source-code.html)|`2024-12-09 16:34:00`|`Playerunknown's Battlegrounds`|
 |[Prometheus &#45; hacking framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675507-prometheus-hacking-framework.html)|`2024-12-09 16:24:00`|`Anti-Cheat Bypass`|
 |[HyperCE: use your cheat engine in any games&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675770-hyperce-cheat-engine-games.html)|`2024-12-09 16:20:00`|`Anti-Cheat Bypass`|
