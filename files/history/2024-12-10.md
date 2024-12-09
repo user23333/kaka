@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need recoil tables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/675450-recoil-tables.html)|`2024-12-10 07:55:00`|`Rust`|
+|[hardware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676431-hardware.html)|`2024-12-10 07:52:00`|`Valorant`|
 |[Strinova Basic Internal &#40;ESP/AIMBOT&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/643994-strinova-basic-internal-esp-aimbot.html)|`2024-12-10 07:40:00`|`Other FPS Games`|
 |[Wicked Menu/ Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/372512-wicked-menu-cheat-engine.html)|`2024-12-10 07:32:00`|`Red Dead Redemption 2`|
 |[DMA cr3 down to 500ms now what ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/676369-dma-cr3-500ms.html)|`2024-12-10 07:31:00`|`Apex Legends`|
