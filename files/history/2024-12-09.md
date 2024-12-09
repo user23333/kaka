@@ -26,9 +26,14 @@
 |9|[Idle Slatyer &#43;27](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47829)|`2024-12-09 00:14:54`|
 |75|[aim&#95;assist&#95;v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47821)|`2024-12-09 00:14:54`|
 |116|[5&#46;3&#46;2&#45;1400244&#43;&#43;&#43;depot&#95;marvel&#43;S0&#95;release&#45;Marve](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47818)|`2024-12-09 00:14:54`|
+|13|[NexusAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47817)|`2024-12-09 20:30:00`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hero auto pick](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/672268-hero-auto-pick.html)|`2024-12-09 20:26:00`|`Overwatch`|
+|[THE FINALS Skin Changer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/673296-finals-skin-changer.html)|`2024-12-09 20:22:00`|`THE FINALS`|
+|[GTA Native UI library](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/675335-gta-native-ui-library.html)|`2024-12-09 20:13:00`|`Grand Theft Auto V`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2024-12-09 20:01:00`|`Other MMORPG and Strategy`|
 |[Patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676492-patterns.html)|`2024-12-09 19:18:00`|`Counter-Strike 2`|
 |[Strinova aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/650858-strinova-aimbot.html)|`2024-12-09 19:00:00`|`Other FPS Games`|
 |[Any arduino Board recommendations?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676490-arduino-board-recommendations.html)|`2024-12-09 19:05:00`|`Valorant`|
