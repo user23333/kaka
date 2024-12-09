@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-12-10 03:10:00`|`Apex Legends`|
+|[Bot Lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676548-bot-lobbies.html)|`2024-12-10 03:08:00`|`Call of Duty: Black Ops 6`|
+|[Hot Improved AHK Triggerbot/Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/631533-hot-improved-ahk-triggerbot-colorbot.html)|`2024-12-10 03:02:00`|`Valorant`|
+|[Has the game undergone any changes?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676546-game-undergone-changes.html)|`2024-12-10 03:01:00`|`Counter-Strike 2`|
 |[SharpMonoInjector Fixed and Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/408878-sharpmonoinjector-fixed-updated.html)|`2024-12-10 02:53:00`|`Unity`|
 |[1v1&#46;lol internal cheat / aimbot / esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676527-1v1-lol-internal-cheat-aimbot-esp.html)|`2024-12-10 02:49:00`|`Other FPS Games`|
 |[&#91;Always Updated&#93; Color aimbot razer mouse injector coded in python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/659124-updated-color-aimbot-razer-mouse-injector-coded-python.html)|`2024-12-10 02:44:00`|`Other FPS Games`|
