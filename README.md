@@ -34,9 +34,14 @@
 |1|[Marvel Rivals SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47845)|`2024-12-09 21:34:24`|
 |1|[supersus no fog](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47843)|`2024-12-09 21:46:33`|
 |1|[Supermarket Together CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47839)|`2024-12-09 21:46:33`|
+|2|[Delta SDK 2024&#45;12&#45;04 GLOBAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47850)|`2024-12-09 23:17:52`|
+|3|[mhur external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47849)|`2024-12-09 23:17:52`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New Forum Creation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/676520-forum-creation.html)|`2024-12-09 23:00:00`|`Forum General`|
+|[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2024-12-09 22:59:00`|`Palia`|
+|[SharpMonoInjector Fixed and Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/408878-sharpmonoinjector-fixed-updated.html)|`2024-12-09 22:57:00`|`Unity`|
 |[Issue changing gloves with inventory changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676519-issue-changing-gloves-inventory-changer.html)|`2024-12-09 22:44:00`|`Counter-Strike 2`|
 |[Pro CS2 DMA &#45; Esp & Aimbot & Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656442-pro-cs2-dma-esp-aimbot-web-radar.html)|`2024-12-09 22:36:00`|`Counter-Strike 2`|
 |[What needs to be changed in the current HWID?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/676517-changed-current-hwid.html)|`2024-12-09 22:27:00`|`Anti-Cheat Bypass`|
