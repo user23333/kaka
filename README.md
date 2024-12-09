@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676492-patterns.html)|`2024-12-09 19:18:00`|`Counter-Strike 2`|
+|[Strinova aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/650858-strinova-aimbot.html)|`2024-12-09 19:00:00`|`Other FPS Games`|
 |[Any arduino Board recommendations?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676490-arduino-board-recommendations.html)|`2024-12-09 19:05:00`|`Valorant`|
 |[TPM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/649260-tpm-spoofer.html)|`2024-12-09 18:43:00`|`Valorant`|
 |[Reimu &#45; Apex Legends No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/660847-reimu-apex-legends-recoil.html)|`2024-12-09 18:29:00`|`Apex Legends`|
