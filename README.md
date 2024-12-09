@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Scrnesystem crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676530-scrnesystem-crash.html)|`2024-12-10 01:40:00`|`Counter-Strike 2`|
+|[Free Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676229-free-internal-cheat.html)|`2024-12-10 01:40:00`|`Counter-Strike 2`|
+|[Looking to trade a good acct for a sb one&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676332-looking-trade-acct-sb.html)|`2024-12-10 01:33:00`|`Call of Duty: Black Ops 6`|
 |[memory aimbot not aiming when scoped in with a sniper rifle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/676528-memory-aimbot-aiming-scoped-sniper-rifle.html)|`2024-12-10 01:26:00`|`Alternative Online Mods`|
 |[Path of Exile 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676435-path-exile-2-reversal-structs-offsets.html)|`2024-12-10 01:22:00`|`Other MMORPG and Strategy`|
 |[R6:S General Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/158003-r6-discussion.html)|`2024-12-10 01:09:00`|`Rainbow Six Siege`|
