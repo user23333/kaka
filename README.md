@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2024-12-09 11:52:00`|`Other FPS Games`|
+|[MacOS Rust External ESP w/ Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/676320-macos-rust-external-esp-bypass.html)|`2024-12-09 11:49:00`|`Rust`|
+|[Has anyone tried using YOLO AI detection to play Marvel Rivals? Join the discussion&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676414-tried-using-yolo-ai-detection-play-marvel-rivals-join-discussion.html)|`2024-12-09 11:49:00`|`Other FPS Games`|
+|[custom IoCreateDriver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675511-custom-iocreatedriver.html)|`2024-12-09 11:42:00`|`Anti-Cheat Bypass`|
+|[C&#35; Remapper / Aim Assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/656729-remapper-aim-assist.html)|`2024-12-09 11:40:00`|`Apex Legends`|
+|[Spoofing Nvidia's UUID &#40;kernel &#45; hookless&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/575441-spoofing-nvidias-uuid-kernel-hookless.html)|`2024-12-09 11:34:00`|`Anti-Cheat Bypass`|
 |[Super Sus Unlock All ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/652479-super-sus-unlock.html)|`2024-12-09 11:23:00`|`Other Games`|
 |[FiveM Fiveguard serials ban&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/658955-fivem-fiveguard-serials-ban.html)|`2024-12-09 10:57:00`|`Alternative Online Mods`|
 |[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2024-12-09 10:55:00`|`Battlefield 4`|
