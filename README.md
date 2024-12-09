@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Issue changing gloves with inventory changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676519-issue-changing-gloves-inventory-changer.html)|`2024-12-09 22:44:00`|`Counter-Strike 2`|
+|[Pro CS2 DMA &#45; Esp & Aimbot & Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656442-pro-cs2-dma-esp-aimbot-web-radar.html)|`2024-12-09 22:36:00`|`Counter-Strike 2`|
 |[What needs to be changed in the current HWID?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/676517-changed-current-hwid.html)|`2024-12-09 22:27:00`|`Anti-Cheat Bypass`|
 |[Steam Hook keeps crashing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/676515-steam-hook-crashing.html)|`2024-12-09 22:16:00`|`Alternative Online Mods`|
 |[Lavender Premium External Source with Anti Cheat Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/659043-lavender-premium-external-source-anti-cheat-bypass.html)|`2024-12-09 21:56:00`|`Alternative Online Mods`|
