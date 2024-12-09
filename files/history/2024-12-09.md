@@ -27,9 +27,12 @@
 |75|[aim&#95;assist&#95;v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47821)|`2024-12-09 00:14:54`|
 |116|[5&#46;3&#46;2&#45;1400244&#43;&#43;&#43;depot&#95;marvel&#43;S0&#95;release&#45;Marve](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47818)|`2024-12-09 00:14:54`|
 |13|[NexusAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47817)|`2024-12-09 20:30:00`|
+|6|[HyperCE&#95;v2&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47848)|`2024-12-09 21:34:24`|
+|1|[Marvel Rivals SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47845)|`2024-12-09 21:34:24`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6:S General Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/158003-r6-discussion.html)|`2024-12-09 21:16:00`|`Rainbow Six Siege`|
 |[Combat Master ESP&Aimbot Internal Auto Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/676427-combat-master-esp-aimbot-internal-auto-update.html)|`2024-12-09 20:49:00`|`Combat Master`|
 |[Hero auto pick](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/672268-hero-auto-pick.html)|`2024-12-09 20:26:00`|`Overwatch`|
 |[THE FINALS Skin Changer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/673296-finals-skin-changer.html)|`2024-12-09 20:22:00`|`THE FINALS`|
