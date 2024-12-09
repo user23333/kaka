@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Acc Gen By Darthsaint0088 no capcha or proxies needed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676568-valorant-acc-gen-darthsaint0088-capcha-proxies.html)|`2024-12-10 05:03:00`|`Valorant`|
+|[Project Zomboid Cheat &#124; EtherHack &#124; Powered by Java &#124; 41&#46;78&#46;16 &#124; Continued](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676271-project-zomboid-cheat-etherhack-powered-java-41-78-16-continued.html)|`2024-12-10 05:03:00`|`Other MMORPG and Strategy`|
 |[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2024-12-10 04:51:00`|`Elite: Dangerous`|
 |[Xenuine decryption with Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/676383-xenuine-decryption-rust.html)|`2024-12-10 04:48:00`|`Playerunknown's Battlegrounds`|
 |[Rocket League &#45; ThoramiBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/593885-rocket-league-thoramibot.html)|`2024-12-10 04:44:00`|`Other Games`|
