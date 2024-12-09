@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[theHunter: Call of the Wild Internal Radar, ESP, & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644365-thehunter-call-wild-internal-radar-esp.html)|`2024-12-10 01:55:00`|`Other FPS Games`|
+|[1v1&#46;lol Cheat By: RPNMods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676264-1v1-lol-cheat-rpnmods.html)|`2024-12-10 01:54:00`|`Other FPS Games`|
 |[Scrnesystem crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676530-scrnesystem-crash.html)|`2024-12-10 01:40:00`|`Counter-Strike 2`|
 |[Free Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676229-free-internal-cheat.html)|`2024-12-10 01:40:00`|`Counter-Strike 2`|
 |[Looking to trade a good acct for a sb one&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676332-looking-trade-acct-sb.html)|`2024-12-10 01:33:00`|`Call of Duty: Black Ops 6`|
