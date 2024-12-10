@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2024-12-11 06:33:00`|`Alternative Online Mods`|
 |[HELP PLS&#33; Csgo2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/676317-help-pls-csgo2.html)|`2024-12-11 06:27:00`|`Forum General`|
 |[sot banning system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/676228-sot-banning-system.html)|`2024-12-11 06:25:00`|`Sea of Thieves`|
 |[HWID BAN / Delay Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676266-hwid-ban-delay-ban.html)|`2024-12-11 06:19:00`|`Valorant`|
