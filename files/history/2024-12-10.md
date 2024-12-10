@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ZE&#45;Elite version 4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/458162-ze-elite-version-4-a.html)|`2024-12-10 14:34:00`|`CounterStrike Source`|
+|[CRC Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676600-crc-crash.html)|`2024-12-10 14:33:00`|`Counter-Strike 2`|
 |[Third Person &#91;EXTERNAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656892-third-person-external.html)|`2024-12-10 13:40:00`|`Counter-Strike 2`|
 |[spoofer not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/676395-spoofer.html)|`2024-12-10 13:39:00`|`Anti-Cheat Bypass`|
 |[CR3 dirbase 24h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675080-cr3-dirbase-24h2.html)|`2024-12-10 13:39:00`|`Anti-Cheat Bypass`|
