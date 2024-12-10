@@ -40,6 +40,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Possible EAC switch?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/675936-eac-switch.html)|`2024-12-10 23:21:00`|`Escape from Tarkov`|
 |[Black ops 6 Bot Lobbies service Cheapest in market](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676648-black-ops-6-bot-lobbies-service-cheapest-market.html)|`2024-12-10 23:11:00`|`Call of Duty: Black Ops 6`|
 |[anti recoil with camera angles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/676351-anti-recoil-camera-angles.html)|`2024-12-10 23:04:00`|`Alternative Online Mods`|
 |[Internal features without signatures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676078-internal-features-signatures.html)|`2024-12-10 22:54:00`|`Counter-Strike 2`|
