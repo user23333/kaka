@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Blazing Sails Hack &#91;Win10&#93; &#91;Steam/EGS&#93; &#124; ESP &#124; SpeedHack &#124; NoClip &#124; More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620821-blazing-sails-hack-win10-steam-egs-esp-speedhack-noclip.html)|`2024-12-10 17:53:00`|`Other FPS Games`|
 |[Internal Overlay Hooking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/676625-internal-overlay-hooking.html)|`2024-12-10 17:49:00`|`Alternative Online Mods`|
 |[Someone know of a cheat to vrchat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/629437-cheat-vrchat.html)|`2024-12-10 17:48:00`|`Other FPS Games`|
 |[Latest 2024 UnBan Method &#45; EAC/BE And Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/676059-2024-unban-method-eac.html)|`2024-12-10 17:46:00`|`Anti-Cheat Bypass`|
