@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2024-12-10 16:14:00`|`Other FPS Games`|
+|[Uninject dll?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/673928-uninject-dll.html)|`2024-12-10 16:13:00`|`General Programming and Reversing`|
+|[bo3 nbot crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/672870-bo3-nbot-crash.html)|`2024-12-10 16:11:00`|`Call of Duty: Black Ops 3`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2024-12-10 14:47:00`|`Other FPS Games`|
 |[Strinova aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/650858-strinova-aimbot.html)|`2024-12-10 14:46:00`|`Other FPS Games`|
 |[C&#35; Remapper / Aim Assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/656729-remapper-aim-assist.html)|`2024-12-10 14:42:00`|`Apex Legends`|
