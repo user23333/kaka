@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2024-12-10 14:47:00`|`Other FPS Games`|
+|[Strinova aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/650858-strinova-aimbot.html)|`2024-12-10 14:46:00`|`Other FPS Games`|
+|[C&#35; Remapper / Aim Assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/656729-remapper-aim-assist.html)|`2024-12-10 14:42:00`|`Apex Legends`|
 |[ZE&#45;Elite version 4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/458162-ze-elite-version-4-a.html)|`2024-12-10 14:34:00`|`CounterStrike Source`|
 |[CRC Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676600-crc-crash.html)|`2024-12-10 14:33:00`|`Counter-Strike 2`|
 |[Third Person &#91;EXTERNAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656892-third-person-external.html)|`2024-12-10 13:40:00`|`Counter-Strike 2`|
