@@ -13,6 +13,7 @@
 |5|[Rage Cheat Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/675560-rage-cheat-source-code.html)|`2024-12-10 00:15:40`|`counter-strike-2-releases`|
 |8|[Activision patched reverse boost?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675769-activision-patched-reverse-boost.html)|`2024-12-10 04:10:43`|`call-of-duty-black-ops-6-a`|
 |10|[WZ BO6 Working Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675805-wz-bo6-base.html)|`2024-12-10 05:49:01`|`call-of-duty-black-ops-6-a`|
+|9|[POE2 CE Maphack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/676215-poe2-ce-maphack.html)|`2024-12-10 20:14:01`|`cheat-engine-tables`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,9 +36,11 @@
 |2|[TL SDK 09&#45;12&#45;2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47852)|`2024-12-10 11:44:15`|
 |2|[1v1 Demon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47851)|`2024-12-10 11:44:15`|
 |2|[itsmemadd fw](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47846)|`2024-12-10 11:44:15`|
+|1|[Marvel Rivals SDK 12&#45;10&#45;2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47856)|`2024-12-10 20:14:01`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TheFinals External Cheat with source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/626983-thefinals-external-cheat-source-code.html)|`2024-12-10 20:01:00`|`THE FINALS`|
 |[BGMI 3&#46;5 32&#45;bit SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/673391-bgmi-3-5-32-bit-sdk.html)|`2024-12-10 19:51:00`|`PUBG Mobile`|
 |[Bullet Trace?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676195-bullet-trace.html)|`2024-12-10 19:39:00`|`Call of Duty: Black Ops 6`|
 |[I have learned everything here](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/676322-learned.html)|`2024-12-10 19:37:00`|`PlanetSide 2`|
