@@ -29,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GFL2 Exilium Reversal, Structs and Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/676034-gfl2-exilium-reversal-structs-offset.html)|`2024-12-10 10:18:00`|`Half Life`|
+|[Orcs Must Die&#33; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/675893-orcs-die-external.html)|`2024-12-10 10:16:00`|`Other MMORPG and Strategy`|
+|[HyperCE: use your cheat engine in any games&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675770-hyperce-cheat-engine-games.html)|`2024-12-10 10:13:00`|`Anti-Cheat Bypass`|
+|[locked case and case key &#40; new event items&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/676331-locked-key-event-items.html)|`2024-12-10 10:11:00`|`Escape from Tarkov`|
+|[&#91;DMA&#93; Grayzone Warfare &#45; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675890-dma-grayzone-warfare-esp.html)|`2024-12-10 10:10:00`|`Other FPS Games`|
+|[Phasmophobia ML bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/675741-phasmophobia-ml-bypass.html)|`2024-12-10 09:54:00`|`Phasmophobia`|
+|[black ops 6, c9, razer anti recoil macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675724-black-ops-6-c9-razer-anti-recoil-macro.html)|`2024-12-10 09:48:00`|`Call of Duty: Black Ops 6`|
 |[Hacking players count for ragemp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/676581-hacking-players-count-ragemp.html)|`2024-12-10 08:41:00`|`Alternative Online Mods`|
 |[Yet another &#45; Bot Lobby Manager for VM/VPS/NO&#45;VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676312-bot-lobby-manager-vm-vps-vm.html)|`2024-12-10 08:33:00`|`Call of Duty: Black Ops 6`|
 |[Aim Assist in pure C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675938-aim-assist-pure.html)|`2024-12-10 08:26:00`|`Valorant`|
