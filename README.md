@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gray Zone Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/634880-gray-zone-warfare-reversal-structs-offsets.html)|`2024-12-10 17:42:00`|`Other FPS Games`|
+|[game just closes internal esp ?pls help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676590-game-closes-internal-esp-pls-help.html)|`2024-12-10 17:39:00`|`Counter-Strike 2`|
 |[Infinity Nikki Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676624-infinity-nikki-reversal-structs-offsets.html)|`2024-12-10 17:25:00`|`Other FPS Games`|
 |[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2024-12-10 16:26:00`|`Palia`|
 |[Finding decryption routines](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/665514-finding-decryption-routines.html)|`2024-12-10 16:44:00`|`Rust`|
