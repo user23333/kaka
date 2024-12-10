@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Maths Behind Aimbot &#45; Detailed tutorial&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/676729-maths-aimbot-detailed-tutorial.html)|`2024-12-11 05:27:00`|`Programming for Beginners`|
+|[Better ways to render externally?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676726-render-externally.html)|`2024-12-11 05:22:00`|`Counter-Strike 2`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2024-12-11 05:05:00`|`Counter-Strike 2`|
 |[how to get localteam right ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676721-localteam.html)|`2024-12-11 04:57:00`|`Counter-Strike 2`|
 |[No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/675931-recoil.html)|`2024-12-11 04:53:00`|`Rainbow Six Siege`|
