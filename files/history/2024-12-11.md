@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[First World Bank DLC Items](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/676663-world-bank-dlc-items.html)|`2024-12-11 01:14:00`|`Payday 3`|
+|[I'm wondering how to do it, but I don't know how and I need help &#40;fivem&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/676662-im-wondering-dont-help-fivem.html)|`2024-12-11 01:10:00`|`Alternative Online Mods`|
+|[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2024-12-11 01:02:00`|`Other FPS Games`|
 |[Infinity Nikki Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676624-infinity-nikki-reversal-structs-offsets.html)|`2024-12-11 00:58:00`|`Other FPS Games`|
 |[Mouse movement?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676646-mouse-movement.html)|`2024-12-11 00:56:00`|`Counter-Strike 2`|
 |[After changing motherboard, will suspension be HWID?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/676321-changing-motherboard-suspension-hwid.html)|`2024-12-11 00:55:00`|`Rust`|
