@@ -40,6 +40,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Skip Cluckin Bell preps&#33; Easy 500K](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/666172-skip-cluckin-bell-preps-easy-500k.html)|`2024-12-10 20:43:00`|`Grand Theft Auto V`|
+|[POE2 CE Maphack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/676215-poe2-ce-maphack.html)|`2024-12-10 20:42:00`|`Cheat Engine Tables`|
+|[Has anyone tried using YOLO AI detection to play Marvel Rivals? Join the discussion&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676414-tried-using-yolo-ai-detection-play-marvel-rivals-join-discussion.html)|`2024-12-10 20:38:00`|`Other FPS Games`|
+|[Internal cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/611723-internal-cheese.html)|`2024-12-10 20:37:00`|`Payday 3`|
 |[TheFinals External Cheat with source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/626983-thefinals-external-cheat-source-code.html)|`2024-12-10 20:01:00`|`THE FINALS`|
 |[BGMI 3&#46;5 32&#45;bit SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/673391-bgmi-3-5-32-bit-sdk.html)|`2024-12-10 19:51:00`|`PUBG Mobile`|
 |[Bullet Trace?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676195-bullet-trace.html)|`2024-12-10 19:39:00`|`Call of Duty: Black Ops 6`|
