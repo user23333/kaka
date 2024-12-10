@@ -28,9 +28,14 @@
 |1|[Kovaak's External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47858)|`2024-12-11 03:23:10`|
 |1|[1,26&#46;159040](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47857)|`2024-12-11 03:29:34`|
 |1|[GZW&#45;minDMAtrix&#45;16645746](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47859)|`2024-12-11 04:53:45`|
+|1|[Infinity Nikke SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47864)|`2024-12-11 06:31:37`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HELP PLS&#33; Csgo2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/676317-help-pls-csgo2.html)|`2024-12-11 06:27:00`|`Forum General`|
+|[sot banning system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/676228-sot-banning-system.html)|`2024-12-11 06:25:00`|`Sea of Thieves`|
+|[HWID BAN / Delay Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676266-hwid-ban-delay-ban.html)|`2024-12-11 06:19:00`|`Valorant`|
+|[CSSO Internal ESP Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/648328-csso-internal-esp-cheat.html)|`2024-12-11 06:15:00`|`CounterStrike Source`|
 |[Loop for updating VAR values &#124; No matter FPS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/676735-loop-updating-var-values-matter-fps.html)|`2024-12-11 06:09:00`|`Rust`|
 |[ACCOUNT LOCKED AFTER TRAINING?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676173-account-locked-training.html)|`2024-12-11 06:02:00`|`Valorant`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2024-12-11 05:56:00`|`Other FPS Games`|
