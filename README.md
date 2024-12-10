@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Infinity Nikki Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676624-infinity-nikki-reversal-structs-offsets.html)|`2024-12-11 00:58:00`|`Other FPS Games`|
+|[Mouse movement?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676646-mouse-movement.html)|`2024-12-11 00:56:00`|`Counter-Strike 2`|
+|[After changing motherboard, will suspension be HWID?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/676321-changing-motherboard-suspension-hwid.html)|`2024-12-11 00:55:00`|`Rust`|
+|[Fast Valorant Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669778-fast-valorant-triggerbot.html)|`2024-12-11 00:54:00`|`Valorant`|
 |[Autofire cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/676027-autofire-cheat.html)|`2024-12-11 00:51:00`|`Rainbow Six Siege`|
 |[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2024-12-11 00:51:00`|`Farlight 84`|
 |[Appeal for Account Ban Never Go Thru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/676658-appeal-account-ban-thru.html)|`2024-12-11 00:50:00`|`Apex Legends`|
