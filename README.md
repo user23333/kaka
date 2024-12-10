@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Third Person &#91;EXTERNAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656892-third-person-external.html)|`2024-12-10 13:40:00`|`Counter-Strike 2`|
+|[spoofer not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/676395-spoofer.html)|`2024-12-10 13:39:00`|`Anti-Cheat Bypass`|
+|[CR3 dirbase 24h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675080-cr3-dirbase-24h2.html)|`2024-12-10 13:39:00`|`Anti-Cheat Bypass`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2024-12-10 13:33:00`|`Other Games`|
 |[Lockdown Protocol Cheat Table v0&#46;1&#46;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/659299-lockdown-protocol-cheat-table-v0-1-26-a.html)|`2024-12-10 13:27:00`|`Other Games`|
 |[Darling v1&#46;1 &#40;RGH/JTAG&#41; BO2/BO1 RME WITH SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/674759-darling-v1-1-rgh-jtag-bo2-bo1-rme-source.html)|`2024-12-10 12:22:00`|`Call of Duty: Black Ops 2`|
