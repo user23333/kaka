@@ -40,6 +40,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;DMA&#41; Black Ops 6: RADAR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673045-dma-black-ops-6-radar.html)|`2024-12-10 23:44:00`|`Call of Duty: Black Ops 6`|
+|[BotOps Hub &#40;bot lobby tool, no VM required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674129-botops-hub-bot-lobby-tool-vm-required.html)|`2024-12-10 23:41:00`|`Call of Duty: Black Ops 6`|
+|[Sea of thieves Season 13 FOV Slider, nosprint, and other cheats&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/666750-sea-thieves-season-13-fov-slider-nosprint-cheats.html)|`2024-12-10 23:27:00`|`Sea of Thieves`|
+|[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-12-10 23:25:00`|`Overwatch`|
 |[Possible EAC switch?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/675936-eac-switch.html)|`2024-12-10 23:21:00`|`Escape from Tarkov`|
 |[Black ops 6 Bot Lobbies service Cheapest in market](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676648-black-ops-6-bot-lobbies-service-cheapest-market.html)|`2024-12-10 23:11:00`|`Call of Duty: Black Ops 6`|
 |[anti recoil with camera angles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/676351-anti-recoil-camera-angles.html)|`2024-12-10 23:04:00`|`Alternative Online Mods`|
