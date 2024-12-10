@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Autofire cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/676027-autofire-cheat.html)|`2024-12-10 11:59:00`|`Rainbow Six Siege`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-12-10 11:56:00`|`Grand Theft Auto V`|
 |[Assetto Corsa No Hesi traffic NoClip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/676049-assetto-corsa-hesi-traffic-noclip.html)|`2024-12-10 11:54:00`|`Other Games`|
 |[Pressing key in python works but not in c&#43;&#43;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/676595-pressing-key-python.html)|`2024-12-10 11:54:00`|`Programming for Beginners`|
 |[Is reclass safe to run with Rust open?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/676594-reclass-safe-run-rust.html)|`2024-12-10 11:42:00`|`Rust`|
