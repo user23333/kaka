@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[memory aimbot not aiming when scoped in with a sniper rifle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/676528-memory-aimbot-aiming-scoped-sniper-rifle.html)|`2024-12-11 04:07:00`|`Alternative Online Mods`|
+|[GamerFun AI Menu: All mouse Aimbot, Triggerbot & Recoil Control Using LGUB Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671029-gamerfun-ai-menu-mouse-aimbot-triggerbot-recoil-control-using-lgub-drivers.html)|`2024-12-11 04:06:00`|`Rainbow Six Siege`|
+|[Lavender Premium External Source with Anti Cheat Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/659043-lavender-premium-external-source-anti-cheat-bypass.html)|`2024-12-11 03:59:00`|`Alternative Online Mods`|
 |[GTAHaX for 1&#46;69 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-69-external-thread-3-a.html)|`2024-12-11 03:45:00`|`Grand Theft Auto V`|
 |[Sons of the Forest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/572665-sons-forest.html)|`2024-12-11 03:37:00`|`Unity`|
 |[cheat engine error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/676711-cheat-engine-error.html)|`2024-12-11 03:33:00`|`Anti-Cheat Bypass`|
