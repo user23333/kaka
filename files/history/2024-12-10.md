@@ -26,9 +26,18 @@
 |69|[Isonzo Internal Cheat V3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47836)|`2024-12-10 00:15:40`|
 |42|[Ether Hack 2&#46;9&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47835)|`2024-12-10 00:15:40`|
 |83|[poe2mh](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47833)|`2024-12-10 00:15:40`|
+|3|[1v1&#46;lol DumpFIle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47840)|`2024-12-10 11:13:12`|
+|1|[player information tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47838)|`2024-12-10 11:13:12`|
+|1|[Unity Internal Template](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47837)|`2024-12-10 11:13:12`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat Legit &#43; UD &#43; auto&#45;update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/660280-cheat-legit-ud-auto-update.html)|`2024-12-10 11:09:00`|`Among Us`|
+|[Universal Unity Internal Cheat Template](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/676280-universal-unity-internal-cheat-template.html)|`2024-12-10 11:05:00`|`General Programming and Reversing`|
+|[warhammer 40k darktide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/676392-warhammer-40k-darktide.html)|`2024-12-10 11:04:00`|`Other Games`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2024-12-10 10:57:00`|`Other MMORPG and Strategy`|
+|[Pokemon Go Mods/Cheats&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/673485-pokemon-mods-cheats.html)|`2024-12-10 10:57:00`|`Other Games`|
+|[1v1&#46;lol offsets For Codding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676381-1v1-lol-offsets-codding.html)|`2024-12-10 10:51:00`|`Other FPS Games`|
 |[GFL2 Exilium Reversal, Structs and Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/676034-gfl2-exilium-reversal-structs-offset.html)|`2024-12-10 10:18:00`|`Half Life`|
 |[Orcs Must Die&#33; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/675893-orcs-die-external.html)|`2024-12-10 10:16:00`|`Other MMORPG and Strategy`|
 |[HyperCE: use your cheat engine in any games&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675770-hyperce-cheat-engine-games.html)|`2024-12-10 10:13:00`|`Anti-Cheat Bypass`|
