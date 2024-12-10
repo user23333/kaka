@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BGMI 3&#46;5 32&#45;bit SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/673391-bgmi-3-5-32-bit-sdk.html)|`2024-12-10 19:51:00`|`PUBG Mobile`|
+|[Bullet Trace?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676195-bullet-trace.html)|`2024-12-10 19:39:00`|`Call of Duty: Black Ops 6`|
+|[I have learned everything here](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/676322-learned.html)|`2024-12-10 19:37:00`|`PlanetSide 2`|
 |[GenHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/490868-genhack.html)|`2024-12-10 19:32:00`|`Generals and Zero Hour`|
 |[Eft External Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/660130-eft-external-source.html)|`2024-12-10 19:16:00`|`Escape from Tarkov`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2024-12-10 19:15:00`|`Escape from Tarkov`|
