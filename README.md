@@ -12,6 +12,7 @@
 |12|[POE2 CE Maphack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/676215-poe2-ce-maphack.html)|`2024-12-11 00:14:48`|`cheat-engine-tables`|
 |10|[WZ BO6 Working Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675805-wz-bo6-base.html)|`2024-12-11 00:14:48`|`call-of-duty-black-ops-6-a`|
 |9|[Subtick bhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676287-subtick-bhop.html)|`2024-12-11 00:40:32`|`counter-strike-2-a`|
+|8|[Activision patched reverse boost?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675769-activision-patched-reverse-boost.html)|`2024-12-11 09:25:48`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BincoHaX for 1&#46;69 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/250308-bincohax-1-69-external.html)|`2024-12-11 09:23:00`|`Grand Theft Auto V`|
+|[1v1&#46;lol internal cheat / aimbot / esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676527-1v1-lol-internal-cheat-aimbot-esp.html)|`2024-12-11 09:09:00`|`Other FPS Games`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2024-12-11 09:04:00`|`Grand Theft Auto V`|
+|[cfemen & gir489's Ready or Not hook v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632144-cfemen-gir489s-ready-hook-v1-0-a.html)|`2024-12-11 09:01:00`|`Other FPS Games`|
+|[Somewhat working DarkStorm 64&#45;bit base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/676234-somewhat-darkstorm-64-bit-base.html)|`2024-12-11 08:54:00`|`Team Fortress 2`|
 |[&#91;UNIVERSAL&#93;&#91;LUA&#93; Script Engine &#91;ProbablyUD&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/676743-universal-lua-script-engine-probablyud.html)|`2024-12-11 07:52:00`|`Rainbow Six Siege`|
 |[All Mouse NoRecoil &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-recoil-helpy-auto-config-probably-ud-universal.html)|`2024-12-11 07:14:00`|`Rainbow Six Siege`|
 |[Is reclass safe to run with Rust open?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/676594-reclass-safe-run-rust.html)|`2024-12-11 07:00:00`|`Rust`|
