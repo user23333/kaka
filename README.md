@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stoopid Cheat v2 &#43;  ItemSpawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/650980-stoopid-cheat-v2-itemspawner.html)|`2024-12-12 03:04:00`|`Escape from Tarkov`|
+|[How to Find Offsets&#91;Normal Ones, Basenetworkable and GOM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/470503-offsets-normal-ones-basenetworkable-gom.html)|`2024-12-12 03:03:00`|`Rust`|
+|[working 2024 Left 4 Dead 2 AIMBOT / ESP / SILENTAIM / BHOP / SPEEDHACK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620158-2024-left-4-dead-2-aimbot-esp-silentaim-bhop-speedhack.html)|`2024-12-12 02:45:00`|`Other FPS Games`|
 |[MSFS 2024 career](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/676849-msfs-2024-career.html)|`2024-12-12 02:14:00`|`Other Games`|
 |[Fake Player Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/676848-fake-player-method.html)|`2024-12-12 02:09:00`|`Alternative Online Mods`|
 |[PUBG DMA Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/644302-pubg-dma-cheat-run.html)|`2024-12-12 02:50:00`|`Playerunknown's Battlegrounds`|
