@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust &#124; Ban Discussion Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/469369-rust-ban-discussion-thread.html)|`2024-12-12 07:24:00`|`Rust`|
+|[Give them a hand driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/676773-hand-driver.html)|`2024-12-12 07:22:00`|`Rust`|
+|[After changing motherboard, will suspension be HWID?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/676321-changing-motherboard-suspension-hwid.html)|`2024-12-12 07:20:00`|`Rust`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2024-12-12 07:19:00`|`League of Legends`|
+|[MacOS Rust External ESP w/ Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/676320-macos-rust-external-esp-bypass.html)|`2024-12-12 07:18:00`|`Rust`|
+|[Rust External Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/631374-rust-external-source.html)|`2024-12-12 07:15:00`|`Rust`|
 |[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2024-12-12 07:12:00`|`Other FPS Games`|
 |[coding a knife changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676885-coding-knife-changer.html)|`2024-12-12 06:55:00`|`Counter-Strike 2`|
 |[Unity with mono &#46;PDB download python script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/676882-unity-mono-pdb-download-python-script.html)|`2024-12-12 06:35:00`|`Escape from Tarkov`|
