@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Autofire cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/676027-autofire-cheat.html)|`2024-12-12 05:03:00`|`Rainbow Six Siege`|
+|[Subtick bhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676287-subtick-bhop.html)|`2024-12-12 04:57:00`|`Counter-Strike 2`|
 |[Fivem External Player Name Problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/676872-fivem-external-player-name.html)|`2024-12-12 04:49:00`|`Alternative Online Mods`|
 |[Is reclass safe to run with Rust open?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/676594-reclass-safe-run-rust.html)|`2024-12-12 04:43:00`|`Rust`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-12-12 04:36:00`|`Apex Legends`|
