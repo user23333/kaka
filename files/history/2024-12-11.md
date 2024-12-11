@@ -40,6 +40,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How is C&#95;Inferno Read?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/655774-c_inferno-read.html)|`2024-12-11 17:38:00`|`Counter-Strike 2`|
+|[xp or unlocker script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/676791-xp-unlocker-script.html)|`2024-12-11 17:36:00`|`Titanfall`|
 |[anyone know how to use &#91;censored&#93; never die](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/676788-censored-die.html)|`2024-12-11 17:18:00`|`League of Legends`|
 |[ViewModel setup error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676784-viewmodel-setup-error.html)|`2024-12-11 16:33:00`|`Counter-Strike 2`|
 |[simple cs2 esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673463-simple-cs2-esp.html)|`2024-12-11 16:27:00`|`Counter-Strike 2`|
