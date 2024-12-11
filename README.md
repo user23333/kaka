@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unity with mono &#46;PDB download python script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/676882-unity-mono-pdb-download-python-script.html)|`2024-12-12 06:35:00`|`Escape from Tarkov`|
+|[Any Weapon and Calling Cards Unlock Tool ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/676387-weapon-calling-cards-unlock-tool.html)|`2024-12-12 06:27:00`|`Call of Duty: Black Ops Cold War`|
 |[R6hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/652875-r6hack.html)|`2024-12-12 06:16:00`|`Rainbow Six Siege`|
 |[about AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/662127-ahk.html)|`2024-12-12 06:06:00`|`Apex Legends`|
 |[Yet another &#45; Bot Lobby Manager for VM/VPS/NO&#45;VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676312-bot-lobby-manager-vm-vps-vm.html)|`2024-12-12 05:51:00`|`Call of Duty: Black Ops 6`|
