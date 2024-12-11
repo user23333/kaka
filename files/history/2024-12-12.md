@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DRAGON BALL Sparking&#33; ZERO &#45; Auto Online Stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/673913-dragon-ball-sparking-zero-auto-online-stuff.html)|`2024-12-12 03:20:00`|`Other Games`|
+|[Is there a way to cheat money that will save ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/676840-cheat-money-save.html)|`2024-12-12 03:20:00`|`Grand Theft Auto V`|
 |[Stoopid Cheat v2 &#43;  ItemSpawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/650980-stoopid-cheat-v2-itemspawner.html)|`2024-12-12 03:04:00`|`Escape from Tarkov`|
 |[How to Find Offsets&#91;Normal Ones, Basenetworkable and GOM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/470503-offsets-normal-ones-basenetworkable-gom.html)|`2024-12-12 03:03:00`|`Rust`|
 |[working 2024 Left 4 Dead 2 AIMBOT / ESP / SILENTAIM / BHOP / SPEEDHACK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620158-2024-left-4-dead-2-aimbot-esp-silentaim-bhop-speedhack.html)|`2024-12-12 02:45:00`|`Other FPS Games`|
