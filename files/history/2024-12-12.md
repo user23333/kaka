@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cannot read array elements &#40;?&#41; TranslateLinearToPhysicalAddress Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676846-read-array-elements-translatelineartophysicaladdress-issue.html)|`2024-12-12 01:13:00`|`Valorant`|
+|[Uninject dll?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/673928-uninject-dll.html)|`2024-12-12 01:02:00`|`General Programming and Reversing`|
+|[Arduino FirmWare UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676366-arduino-firmware-ud.html)|`2024-12-12 01:02:00`|`Valorant`|
 |[OBS screen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676593-obs-screen.html)|`2024-12-12 00:58:00`|`Valorant`|
 |[Free vouch afk lobby&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676843-free-vouch-afk-lobby.html)|`2024-12-12 00:58:00`|`Call of Duty: Black Ops 6`|
 |[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2024-12-12 00:56:00`|`Battlefield 4`|
