@@ -16,6 +16,7 @@
 |9|[Latest 2024 UnBan Method &#45; EAC/BE And Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/676059-2024-unban-method-eac.html)|`2024-12-11 14:58:53`|`anti-cheat-bypass`|
 |3|[Aimbot with fov](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675791-aimbot-fov.html)|`2024-12-11 17:33:49`|`counter-strike-2-a`|
 |0|[DMA Firmware Bar Controller](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675978-dma-firmware-bar-controller.html)|`2024-12-11 22:45:47`|`anti-cheat-bypass`|
+|27|[Arduino FirmWare UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676366-arduino-firmware-ud.html)|`2024-12-11 23:56:31`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -43,6 +44,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Get SteamID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676820-steamid.html)|`2024-12-11 23:53:00`|`Counter-Strike 2`|
+|[Eft External Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/660130-eft-external-source.html)|`2024-12-11 23:53:00`|`Escape from Tarkov`|
 |[Treason's V3 AIO Aim Assist Edit &#40;BETA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670270-treasons-v3-aio-aim-assist-edit-beta.html)|`2024-12-11 23:41:00`|`Call of Duty: Black Ops 6`|
 |[Cheap bot lobbys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676813-cheap-bot-lobbys.html)|`2024-12-11 23:40:00`|`Call of Duty: Black Ops 6`|
 |[bo3 nbot crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/672870-bo3-nbot-crash.html)|`2024-12-11 23:20:00`|`Call of Duty: Black Ops 3`|
