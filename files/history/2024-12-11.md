@@ -42,6 +42,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[esp crashing game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/676806-esp-crashing-game.html)|`2024-12-11 22:10:00`|`DayZ SA`|
+|[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2024-12-11 21:59:00`|`Elite: Dangerous`|
 |[Undetectable among us Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/637492-undetectable-cheat.html)|`2024-12-11 21:44:00`|`Among Us`|
 |[Latest ideas on emulator bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/676533-ideas-emulator-bypass.html)|`2024-12-11 21:41:00`|`PUBG Mobile`|
 |[Apex CV YOLO v8 Aim Assist Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/624584-apex-cv-yolo-v8-aim-assist-bot.html)|`2024-12-11 21:25:00`|`Apex Legends`|
