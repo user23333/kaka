@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is reclass safe to run with Rust open?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/676594-reclass-safe-run-rust.html)|`2024-12-12 04:43:00`|`Rust`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-12-12 04:36:00`|`Apex Legends`|
 |[POE2 CE Maphack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/676215-poe2-ce-maphack.html)|`2024-12-12 04:28:00`|`Cheat Engine Tables`|
 |[Now you can not join invite only or solo lobby without battleye after today's update&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/676702-join-invite-solo-lobby-battleye-todays-update.html)|`2024-12-12 04:16:00`|`Grand Theft Auto V`|
