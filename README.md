@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to equip any item on this game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/591436-equip-item-game.html)|`2024-12-13 03:16:00`|`Paladins`|
 |[Marvel Rivals Arduino Colorbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675965-marvel-rivals-arduino-colorbot.html)|`2024-12-13 03:13:00`|`Other FPS Games`|
 |[Small Rust Internal Cheat Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/612421-rust-internal-cheat-base.html)|`2024-12-13 03:11:00`|`Rust`|
 |[Any working unturned cheats? &#40;December 2024&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676529-unturned-cheats-december-2024-a.html)|`2024-12-13 03:09:00`|`Other FPS Games`|
