@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Arduino Colorbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675965-marvel-rivals-arduino-colorbot.html)|`2024-12-13 03:13:00`|`Other FPS Games`|
+|[Small Rust Internal Cheat Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/612421-rust-internal-cheat-base.html)|`2024-12-13 03:11:00`|`Rust`|
+|[Any working unturned cheats? &#40;December 2024&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676529-unturned-cheats-december-2024-a.html)|`2024-12-13 03:09:00`|`Other FPS Games`|
+|[BotOps Hub &#40;bot lobby tool, no VM required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674129-botops-hub-bot-lobby-tool-vm-required.html)|`2024-12-13 03:09:00`|`Call of Duty: Black Ops 6`|
+|[dump all offsets EAZY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/677016-dump-offsets-eazy.html)|`2024-12-13 03:01:00`|`Combat Master`|
 |[Aim Assist in pure C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675938-aim-assist-pure.html)|`2024-12-13 02:58:00`|`Valorant`|
 |[damn report ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/677014-damn-report-ban.html)|`2024-12-13 02:57:00`|`PUBG Mobile`|
 |[Marvel Rivals Python Instalocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677013-marvel-rivals-python-instalocker.html)|`2024-12-13 02:53:00`|`Other FPS Games`|
