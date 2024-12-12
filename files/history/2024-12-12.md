@@ -32,9 +32,16 @@
 |2|[precision&#45;the&#45;division](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47876)|`2024-12-12 05:59:35`|
 |1|[Infinty Nikki SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47878)|`2024-12-12 08:45:38`|
 |3|[FortniteGame&#45;33&#46;10&#45;CL&#45;38630093 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47877)|`2024-12-12 08:45:38`|
+|2|[SOCOM U&#46;S NAVY SEALs &#45; ESP v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47879)|`2024-12-12 10:17:46`|
+|11|[BO6 ESP/AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47873)|`2024-12-12 10:17:46`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sai's Color AImbot v3 for BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668659-sais-color-aimbot-v3-bo6.html)|`2024-12-12 10:11:00`|`Call of Duty: Black Ops 6`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-12-12 10:10:00`|`Playerunknown's Battlegrounds`|
+|[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2024-12-12 09:59:00`|`Other FPS Games`|
+|[Latest 2024 UnBan Method &#45; EAC/BE And Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/676059-2024-unban-method-eac.html)|`2024-12-12 09:44:00`|`Anti-Cheat Bypass`|
+|[Tournament Ready Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/672770-tournament-ready-driver.html)|`2024-12-12 09:08:00`|`Anti-Cheat Bypass`|
 |[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-12-12 08:44:00`|`Escape from Tarkov`|
 |[Internal Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/676892-internal-base.html)|`2024-12-12 08:33:00`|`Playerunknown's Battlegrounds`|
 |[Infinity Nikki Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676624-infinity-nikki-reversal-structs-offsets.html)|`2024-12-12 08:32:00`|`Other FPS Games`|
