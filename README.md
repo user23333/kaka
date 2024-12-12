@@ -11,6 +11,7 @@
 |10|[Latest 2024 UnBan Method &#45; EAC/BE And Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/676059-2024-unban-method-eac.html)|`2024-12-13 00:13:39`|`anti-cheat-bypass`|
 |3|[Question about Marvel Rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676258-question-marvel-rivals.html)|`2024-12-13 00:13:39`|`other-fps-games`|
 |0|[DMA Firmware Bar Controller](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675978-dma-firmware-bar-controller.html)|`2024-12-13 00:13:39`|`anti-cheat-bypass`|
+|4|[Path of Exile 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676435-path-exile-2-reversal-structs-offsets.html)|`2024-12-13 01:31:57`|`other-mmorpg-and-strategy`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Undetectable among us Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/637492-undetectable-cheat.html)|`2024-12-13 01:25:00`|`Among Us`|
+|[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2024-12-13 01:24:00`|`Grand Theft Auto V`|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2024-12-13 01:17:00`|`Other FPS Games`|
+|[DMA Firmware Bar Controller](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675978-dma-firmware-bar-controller.html)|`2024-12-13 01:16:00`|`Anti-Cheat Bypass`|
+|[Yet another &#45; Bot Lobby Manager for VM/VPS/NO&#45;VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676312-bot-lobby-manager-vm-vps-vm.html)|`2024-12-13 01:16:00`|`Call of Duty: Black Ops 6`|
 |[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2024-12-13 01:14:00`|`Other FPS Games`|
 |[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2024-12-13 01:13:00`|`Elite: Dangerous`|
 |[Off the Grid Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/665981-grid-reversal-structs-offsets.html)|`2024-12-13 01:04:00`|`Other FPS Games`|
