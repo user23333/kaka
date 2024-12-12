@@ -37,6 +37,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project Zomboid Cheat &#124; EtherHack &#124; Powered by Java &#124; 41&#46;78&#46;16](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/590798-project-zomboid-cheat-etherhack-powered-java-41-78-16-a.html)|`2024-12-12 18:32:00`|`Other MMORPG and Strategy`|
+|[GMOD&#45;SDK &#124; Nice menu &#124; Free&#45;cam &#124; LUA Executor &#124; Lots of features &#124; Source Included](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/453047-gmod-sdk-nice-menu-free-cam-lua-executor-lots-features-source-included.html)|`2024-12-12 18:10:00`|`Garry's Mod`|
+|[BGMI 3&#46;5 32&#45;bit SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/673391-bgmi-3-5-32-bit-sdk.html)|`2024-12-12 18:09:00`|`PUBG Mobile`|
 |[Popular Servers Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/676054-popular-servers-anticheat.html)|`2024-12-12 18:06:00`|`Garry's Mod`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2024-12-12 17:57:00`|`Grand Theft Auto V`|
 |[World Prop ESP for GRust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/676346-world-prop-esp-grust.html)|`2024-12-12 17:54:00`|`Garry's Mod`|
