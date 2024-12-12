@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[THE FINALS Skin Changer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/673296-finals-skin-changer.html)|`2024-12-13 05:24:00`|`THE FINALS`|
+|[DayZ 1&#46;26 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/668418-dayz-1-26-cheat.html)|`2024-12-13 05:24:00`|`DayZ SA`|
+|[ΛPEX FΞͶIX &#45; reWASD s21 cfg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/645869-pex-ix-rewasd-s21-cfg.html)|`2024-12-13 05:21:00`|`Apex Legends`|
+|[reverting to 1&#46;69 from 1&#46;70 &#40;to play online&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/676860-reverting-1-69-1-70-play-online.html)|`2024-12-13 05:16:00`|`Grand Theft Auto V`|
 |[CS2 Python Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/633657-cs2-python-cheat.html)|`2024-12-13 05:01:00`|`Counter-Strike 2 Releases`|
 |[Looking for Apex DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/676020-looking-apex-dma.html)|`2024-12-13 04:59:00`|`Apex Legends`|
 |[Get SteamID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676820-steamid.html)|`2024-12-13 04:50:00`|`Counter-Strike 2`|
