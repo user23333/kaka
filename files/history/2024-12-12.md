@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust DMA ESP and more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/626013-rust-dma-esp.html)|`2024-12-12 13:04:00`|`Rust`|
 |[class IRenderer externo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/663516-class-irenderer-externo.html)|`2024-12-12 12:51:00`|`Warface`|
 |[SO&#45;NightCity &#124; Update 26&#45;28&#46;11&#46;24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/675144-nightcity-update-26-28-11-24-a.html)|`2024-12-12 12:50:00`|`Warface`|
 |[What is better than DMA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674670-dma.html)|`2024-12-12 12:30:00`|`Call of Duty: Black Ops 6`|
