@@ -26,6 +26,8 @@
 |37|[SAR External 1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47871)|`2024-12-13 00:13:39`|
 |104|[Hawk Tuah Protocol v3&#46;1 &#45; Oni Edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47870)|`2024-12-13 00:13:39`|
 |222|[LSCHaX for 1&#46;70](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47869)|`2024-12-13 00:13:39`|
+|3|[Marvel: Rivals SDK &#40;Actually Working&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47887)|`2024-12-13 04:14:20`|
+|1|[MiniGarageMod v1&#46;70&#95;unknowncheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47886)|`2024-12-13 04:14:20`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
