@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant ai triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676908-valorant-ai-triggerbot.html)|`2024-12-12 22:10:00`|`Valorant`|
+|[titanfall 2 external cheat &#91;aimbot, esp, &#46;&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/469406-titanfall-2-external-cheat-aimbot-esp.html)|`2024-12-12 22:00:00`|`Titanfall`|
 |[DRAGON BALL Sparking&#33; ZERO &#45; Easy Inputs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/672857-dragon-ball-sparking-zero-easy-inputs.html)|`2024-12-12 21:52:00`|`Other Games`|
 |[are there any money methods without FSL?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/675137-money-methods-fsl.html)|`2024-12-12 21:51:00`|`Grand Theft Auto V`|
 |[DMA Dupe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/676977-dma-dupe.html)|`2024-12-12 21:50:00`|`DayZ SA`|
