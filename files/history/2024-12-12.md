@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Server crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676644-server-crash.html)|`2024-12-12 16:56:00`|`Call of Duty: Black Ops 6`|
+|[FSL problem :&#40;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/668671-fsl.html)|`2024-12-12 16:17:00`|`Grand Theft Auto V`|
 |[Path of Exile 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676435-path-exile-2-reversal-structs-offsets.html)|`2024-12-12 16:30:00`|`Other MMORPG and Strategy`|
 |[Skip heist prep &#40;After 1&#46;70 update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/676713-skip-heist-prep-1-70-update.html)|`2024-12-12 16:30:00`|`Grand Theft Auto V`|
 |[ARMA 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/114242-arma-3-reversal-structs-offsets.html)|`2024-12-12 16:19:00`|`ARMA 3`|
