@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Python Instalocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677013-marvel-rivals-python-instalocker.html)|`2024-12-13 02:53:00`|`Other FPS Games`|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2024-12-13 02:50:00`|`Grand Theft Auto V`|
+|[POE2 CE Maphack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/676215-poe2-ce-maphack.html)|`2024-12-13 02:49:00`|`Cheat Engine Tables`|
+|[MSFS 2024 career](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/676849-msfs-2024-career.html)|`2024-12-13 02:47:00`|`Other Games`|
+|[Put benny's wheels in personal vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/376369-bennys-wheels-personal-vehicle.html)|`2024-12-13 02:46:00`|`Grand Theft Auto V`|
 |[&#91;UD&#93; Bypass Vanguard using 2PC & Wifi &#40;no hardware&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/635782-ud-bypass-vanguard-using-2pc-wifi-hardware.html)|`2024-12-13 02:39:00`|`Valorant`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/652967-marvel-rivals-reversal-structs-offsets.html)|`2024-12-13 02:25:00`|`Other FPS Games`|
 |[World Prop ESP for GRust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/676346-world-prop-esp-grust.html)|`2024-12-13 02:24:00`|`Garry's Mod`|
