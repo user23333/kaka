@@ -28,9 +28,14 @@
 |222|[LSCHaX for 1&#46;70](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47869)|`2024-12-13 00:13:39`|
 |3|[Marvel: Rivals SDK &#40;Actually Working&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47887)|`2024-12-13 04:14:20`|
 |1|[MiniGarageMod v1&#46;70&#95;unknowncheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47886)|`2024-12-13 04:14:20`|
+|1|[SOCOM U&#46;S NAVY SEALs &#45; ESP source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47884)|`2024-12-13 04:31:42`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Silent aim, is it possible with a2x?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677021-silent-aim-a2x.html)|`2024-12-13 04:23:00`|`Counter-Strike 2`|
+|[&#91;PCSX2&#93; SOCOM U&#46;S NAVY SEALs &#45; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/676890-pcsx2-socom-navy-seals-esp.html)|`2024-12-13 04:22:00`|`Other Games`|
+|[Hot Improved AHK Triggerbot/Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/631533-hot-improved-ahk-triggerbot-colorbot.html)|`2024-12-13 04:17:00`|`Valorant`|
+|[Is there a way to continue with online cheating?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/676902-continue-online-cheating.html)|`2024-12-13 04:14:00`|`Grand Theft Auto V`|
 |[Popular Servers Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/676054-popular-servers-anticheat.html)|`2024-12-13 03:54:00`|`Garry's Mod`|
 |[No recoil for ak47 Via Razer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/677019-recoil-ak47-via-razer.html)|`2024-12-13 03:47:00`|`Call of Duty: Black Ops 6`|
 |[black ops 6, c9, razer anti recoil macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675724-black-ops-6-c9-razer-anti-recoil-macro.html)|`2024-12-13 03:45:00`|`Call of Duty: Black Ops 6`|
