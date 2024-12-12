@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2024-12-12 22:25:00`|`Elite: Dangerous`|
+|[HyperCE: use your cheat engine in any games&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675770-hyperce-cheat-engine-games.html)|`2024-12-12 22:14:00`|`Anti-Cheat Bypass`|
 |[Valorant ai triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676908-valorant-ai-triggerbot.html)|`2024-12-12 22:10:00`|`Valorant`|
 |[titanfall 2 external cheat &#91;aimbot, esp, &#46;&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/469406-titanfall-2-external-cheat-aimbot-esp.html)|`2024-12-12 22:00:00`|`Titanfall`|
 |[DRAGON BALL Sparking&#33; ZERO &#45; Easy Inputs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/672857-dragon-ball-sparking-zero-easy-inputs.html)|`2024-12-12 21:52:00`|`Other Games`|
