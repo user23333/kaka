@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fast Valorant Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669778-fast-valorant-triggerbot.html)|`2024-12-12 23:21:00`|`Valorant`|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2024-12-12 23:20:00`|`Other FPS Games`|
 |[CRC Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676600-crc-crash.html)|`2024-12-12 23:14:00`|`Counter-Strike 2`|
 |[VALORANT MINION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673460-valorant-minion.html)|`2024-12-12 23:04:00`|`Valorant`|
 |[Looking to trade a good acct for a sb one&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676332-looking-trade-acct-sb.html)|`2024-12-12 22:49:00`|`Call of Duty: Black Ops 6`|
