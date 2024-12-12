@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can't find attack range in Minecraft with CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/676333-cant-attack-range-minecraft-ce.html)|`2024-12-13 01:59:00`|`Minecraft`|
+|[Pubg Mobile Global 32 bit internal dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/675253-pubg-mobile-global-32-bit-internal-dll.html)|`2024-12-13 01:54:00`|`Cheat Engine Tables`|
 |[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-12-13 01:43:00`|`Other Games`|
 |[UWorld Return 0x0 with HVCI off](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/674460-uworld-return-0x0-hvci.html)|`2024-12-13 01:42:00`|`Valorant`|
 |[Amalgam Paste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/668775-amalgam-paste.html)|`2024-12-13 01:41:00`|`Team Fortress 2`|
