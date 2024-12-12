@@ -37,6 +37,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2024-12-12 11:05:00`|`Grand Theft Auto V`|
+|[Is there a way to continue with online cheating?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/676902-continue-online-cheating.html)|`2024-12-12 10:45:00`|`Grand Theft Auto V`|
+|[how to get unsecuredsouls deadlock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/676172-unsecuredsouls-deadlock.html)|`2024-12-12 10:42:00`|`Deadlock`|
 |[Sai's Color AImbot v3 for BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668659-sais-color-aimbot-v3-bo6.html)|`2024-12-12 10:11:00`|`Call of Duty: Black Ops 6`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-12-12 10:10:00`|`Playerunknown's Battlegrounds`|
 |[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2024-12-12 09:59:00`|`Other FPS Games`|
