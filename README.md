@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2024-12-13 18:03:00`|`Phasmophobia`|
 |[Does anyone know a good Dma for Marvel Rivals and other games?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677082-dma-marvel-rivals-games.html)|`2024-12-13 17:51:00`|`Other FPS Games`|
 |[Question about Marvel Rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676258-question-marvel-rivals.html)|`2024-12-13 17:28:00`|`Other FPS Games`|
 |[The Finals ColorBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/669800-finals-colorbot.html)|`2024-12-13 17:25:00`|`THE FINALS`|
