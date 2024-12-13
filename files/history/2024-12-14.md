@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Colorbot &#40;Arduino & No Arduino Support&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677136-marvel-rivals-colorbot-arduino-arduino-support.html)|`2024-12-14 03:22:00`|`Other FPS Games`|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2024-12-14 03:01:00`|`Phasmophobia`|
 |[New to exploiting in BFV and don't know what to do](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/673764-exploiting-bfv-dont.html)|`2024-12-14 03:02:00`|`Battlefield V`|
 |[Hide Window Handle &#45; &#40; Hookless &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/676808-hide-window-handle-hookless.html)|`2024-12-14 02:51:00`|`Anti-Cheat Bypass`|
 |[What is better than DMA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674670-dma.html)|`2024-12-14 02:33:00`|`Call of Duty: Black Ops 6`|
