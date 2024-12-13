@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does anyone know a good Dma for Marvel Rivals and other games?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677082-dma-marvel-rivals-games.html)|`2024-12-14 01:07:00`|`Other FPS Games`|
+|[Logitech G HUB simple no&#45;recoil script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675126-logitech-hub-simple-recoil-script.html)|`2024-12-14 01:04:00`|`Call of Duty: Black Ops 6`|
 |[cfemen & gir489's Ready or Not hook v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632144-cfemen-gir489s-ready-hook-v1-0-a.html)|`2024-12-14 00:54:00`|`Other FPS Games`|
 |[Rust ollvm pass plugin &#40;LLVM 19&#46;1&#46;4&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust-language-/675261-rust-ollvm-pass-plugin-llvm-19-1-4-a.html)|`2024-12-14 00:47:00`|`Rust (Language)`|
 |[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2024-12-14 00:40:00`|`Other FPS Games`|
