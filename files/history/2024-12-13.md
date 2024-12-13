@@ -30,9 +30,14 @@
 |1|[MiniGarageMod v1&#46;70&#95;unknowncheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47886)|`2024-12-13 04:14:20`|
 |1|[SOCOM U&#46;S NAVY SEALs &#45; ESP source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47884)|`2024-12-13 04:31:42`|
 |1|[Asthmaphobia Patch update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47881)|`2024-12-13 07:52:22`|
+|3|[mhur external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47883)|`2024-12-13 09:14:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Games with shit anti cheat&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/673855-games-shit-anti-cheat.html)|`2024-12-13 09:02:00`|`Off Topic`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2024-12-13 08:54:00`|`Escape from Tarkov`|
+|[Ghosts of Tabor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/574607-ghosts-tabor.html)|`2024-12-13 08:43:00`|`Other FPS Games`|
+|[Valorant account generator and shop checker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/586266-valorant-account-generator-shop-checker.html)|`2024-12-13 08:39:00`|`Valorant`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2024-12-13 07:51:00`|`Phasmophobia`|
 |[Is there any way to boost playtime/stats on an account?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/676637-boost-playtime-stats-account.html)|`2024-12-13 07:47:00`|`Grand Theft Auto V`|
 |[MacOS Rust External ESP w/ Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/676320-macos-rust-external-esp-bypass.html)|`2024-12-13 07:40:00`|`Rust`|
