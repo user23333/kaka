@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBGM 32BIT Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/671770-pubgm-32bit-offsets.html)|`2024-12-13 15:45:00`|`PUBG Mobile`|
 |[Dofus 3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/677073-dofus-3-0-a.html)|`2024-12-13 15:40:00`|`Unity`|
 |[Combat Master ESP&Aimbot Internal Auto Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/676427-combat-master-esp-aimbot-internal-auto-update.html)|`2024-12-13 15:29:00`|`Combat Master`|
 |[Rust DMA ESP and more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/626013-rust-dma-esp.html)|`2024-12-13 15:00:00`|`Rust`|
