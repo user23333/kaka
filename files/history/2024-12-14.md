@@ -11,6 +11,7 @@
 |4|[Question about Marvel Rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676258-question-marvel-rivals.html)|`2024-12-14 00:19:55`|`other-fps-games`|
 |11|[Free Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/676229-free-internal-cheat.html)|`2024-12-14 00:19:55`|`counter-strike-2-releases`|
 |8|[Skip heist prep &#40;After 1&#46;70 update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/676713-skip-heist-prep-1-70-update.html)|`2024-12-14 00:19:55`|`grand-theft-auto-v`|
+|11|[Now you can not join invite only or solo lobby without battleye after today's update&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/676702-join-invite-solo-lobby-battleye-todays-update.html)|`2024-12-14 02:42:56`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What is better than DMA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674670-dma.html)|`2024-12-14 02:33:00`|`Call of Duty: Black Ops 6`|
+|[The First Descendant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/602336-descendant-reversal-structs-offsets.html)|`2024-12-14 02:32:00`|`Other FPS Games`|
 |[NoSpread Valorant Not Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675483-nospread-valorant.html)|`2024-12-14 02:10:00`|`Valorant`|
 |[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2024-12-14 02:03:00`|`Other FPS Games`|
 |[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-12-14 01:49:00`|`Other Games`|
