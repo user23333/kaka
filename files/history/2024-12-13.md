@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Ban 152 &#124; Hardware Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/631445-valorant-ban-152-hardware-ban.html)|`2024-12-13 19:44:00`|`Valorant`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2024-12-13 19:40:00`|`Other FPS Games`|
 |[Paladins Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/217341-paladins-reversal-structs-offsets.html)|`2024-12-13 19:30:00`|`Paladins`|
 |[Play Together/Rank Boosting Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/353364-play-rank-boosting-thread.html)|`2024-12-13 19:16:00`|`Apex Legends`|
 |[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2024-12-13 18:52:00`|`Other Games`|
