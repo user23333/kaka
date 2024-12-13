@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Prometheus &#45; hacking framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675507-prometheus-hacking-framework.html)|`2024-12-14 04:31:00`|`Anti-Cheat Bypass`|
 |[Are there any map penetration hacks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/676603-map-penetration-hacks.html)|`2024-12-14 04:26:00`|`Combat Arms`|
 |[GMS v255&#46;4 NGS &#43; CRC Bypass and Miss GodMode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/677147-gms-v255-4-ngs-crc-bypass-miss-godmode.html)|`2024-12-14 04:17:00`|`Maple Story`|
 |[Skip heist prep &#40;After 1&#46;70 update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/676713-skip-heist-prep-1-70-update.html)|`2024-12-14 04:05:00`|`Grand Theft Auto V`|
