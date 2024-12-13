@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Helldiver 2 cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/676665-helldiver-2-cheats.html)|`2024-12-13 16:47:00`|`HELLDIVERS 2`|
 |[First World Bank DLC Items](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/676663-world-bank-dlc-items.html)|`2024-12-13 16:15:00`|`Payday 3`|
 |[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2024-12-13 16:10:00`|`Other FPS Games`|
 |[GIRLS' FRONTLINE 2:EXILIUM CN PC cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/653607-girls-frontline-2-exilium-cn-pc-cheat.html)|`2024-12-13 15:53:00`|`Other MMORPG and Strategy`|
