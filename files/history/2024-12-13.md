@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG DMA cheat source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/667961-pubg-dma-cheat-source-code.html)|`2024-12-13 21:40:00`|`Playerunknown's Battlegrounds`|
 |[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-12-13 21:14:00`|`Counter-Strike 2`|
 |[Strinova Internal &#40;Aimbot & ESP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677105-strinova-internal-aimbot-esp.html)|`2024-12-13 20:59:00`|`Other FPS Games`|
 |[Tusiphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673488-tusiphobia-update.html)|`2024-12-13 20:50:00`|`Phasmophobia`|
