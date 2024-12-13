@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AHK MultiScript &#124; Pean's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605440-ahk-multiscript-peans-rcs.html)|`2024-12-14 06:50:00`|`Counter-Strike 2 Releases`|
+|[spoofing on a imac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677162-spoofing-imac.html)|`2024-12-14 06:46:00`|`Anti-Cheat Bypass`|
 |[Universal Recoil &#40;like UMT program&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/617894-universal-recoil-umt-program.html)|`2024-12-14 06:40:00`|`Other FPS Games`|
 |[Searching Skyrim version 1&#46;9&#46;32&#46;0&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/677158-searching-skyrim-version-1-9-32-0-8-a.html)|`2024-12-14 06:24:00`|`Other Games`|
 |[Unturned BattlEye harmony check?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675251-unturned-battleye-harmony-check.html)|`2024-12-14 06:22:00`|`Other FPS Games`|
