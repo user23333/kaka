@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2024-12-14 07:35:00`|`Other MMORPG and Strategy`|
+|[Appeal for Account Ban Never Go Thru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/676658-appeal-account-ban-thru.html)|`2024-12-14 07:33:00`|`Apex Legends`|
+|[Identity map on intel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677168-identity-map-intel.html)|`2024-12-14 07:31:00`|`Anti-Cheat Bypass`|
+|[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2024-12-14 07:30:00`|`Grand Theft Auto V`|
 |[Is it still possible to use kiddions menu to add cash?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677164-kiddions-menu-add-cash.html)|`2024-12-14 07:11:00`|`Grand Theft Auto V`|
 |[Sai's Color AImbot v3 for BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668659-sais-color-aimbot-v3-bo6.html)|`2024-12-14 07:10:00`|`Call of Duty: Black Ops 6`|
 |[spoofing on a imac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677163-spoofing-imac.html)|`2024-12-14 06:53:00`|`Anti-Cheat Bypass`|
