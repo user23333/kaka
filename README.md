@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is there any available Logitech SCRIPT?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/677121-available-logitech-script.html)|`2024-12-13 23:34:00`|`THE FINALS`|
+|[GetLocalActorId External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/677120-getlocalactorid-external.html)|`2024-12-13 23:31:00`|`Warface`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2024-12-13 23:15:00`|`Rainbow Six Siege`|
 |[xp or unlocker script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/676791-xp-unlocker-script.html)|`2024-12-13 23:09:00`|`Titanfall`|
 |[We need v1&#46;2 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677118-v1-2-update.html)|`2024-12-13 23:03:00`|`Other FPS Games`|
