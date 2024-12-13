@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Amalgam Paste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/668775-amalgam-paste.html)|`2024-12-14 07:51:00`|`Team Fortress 2`|
 |[RocketLeague Tool &#91;Function Logger &#43; Object Explorer&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/651431-rocketleague-tool-function-logger-object-explorer.html)|`2024-12-14 07:48:00`|`Other Games`|
 |[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669274-vigor-internal-cheat.html)|`2024-12-14 07:45:00`|`Other FPS Games`|
 |[Marvel Rivals Python Instalocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677013-marvel-rivals-python-instalocker.html)|`2024-12-14 07:40:00`|`Other FPS Games`|
