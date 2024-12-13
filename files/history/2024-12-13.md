@@ -36,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2024-12-13 18:52:00`|`Other Games`|
+|[The Finals External Cheat DMA&#33;&#33;&#40;Just Run It&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/640995-finals-external-cheat-dma-run.html)|`2024-12-13 18:43:00`|`THE FINALS`|
+|[DMA DayZ Fuser ESP &#43; Radar Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/606723-dma-dayz-fuser-esp-radar-source-release.html)|`2024-12-13 18:38:00`|`DayZ SA`|
+|[Isonzo Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675510-isonzo-internal-cheat.html)|`2024-12-13 18:31:00`|`Other FPS Games`|
+|[PUBG No recoil macro v7&#46;0 For all razer mouse using Razer synapse &#91;Undetected&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/658324-pubg-recoil-macro-v7-0-razer-mouse-using-razer-synapse-undetected.html)|`2024-12-13 18:28:00`|`PUBG Releases`|
 |[Team Fortress 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/102936-team-fortress-2-reversal-structs-offsets.html)|`2024-12-13 18:49:00`|`Team Fortress 2`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2024-12-13 18:03:00`|`Phasmophobia`|
 |[Does anyone know a good Dma for Marvel Rivals and other games?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677082-dma-marvel-rivals-games.html)|`2024-12-13 17:51:00`|`Other FPS Games`|
