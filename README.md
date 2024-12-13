@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/465314-super-animal-royale-hack.html)|`2024-12-13 23:45:00`|`Other Games`|
+|[Get vector3 from Transform](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677122-vector3-transform.html)|`2024-12-13 23:41:00`|`Rust`|
 |[Is there any available Logitech SCRIPT?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/677121-available-logitech-script.html)|`2024-12-13 23:34:00`|`THE FINALS`|
 |[GetLocalActorId External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/677120-getlocalactorid-external.html)|`2024-12-13 23:31:00`|`Warface`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2024-12-13 23:15:00`|`Rainbow Six Siege`|
