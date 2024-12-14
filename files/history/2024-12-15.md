@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat Master &#124; Fully Featured Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/677171-combat-master-featured-internal.html)|`2024-12-15 05:25:00`|`Combat Master`|
+|[AHK MultiScript &#124; Pean's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605440-ahk-multiscript-peans-rcs.html)|`2024-12-15 05:15:00`|`Counter-Strike 2 Releases`|
+|[coding a knife changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676885-coding-knife-changer.html)|`2024-12-15 05:14:00`|`Counter-Strike 2`|
 |[How Can I Dump VGK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/677325-dump-vgk.html)|`2024-12-15 05:11:00`|`Valorant`|
 |[Strinova Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667041-strinova-reversal-structs-offsets.html)|`2024-12-15 05:11:00`|`Other FPS Games`|
 |[cfemen & gir489's Ready or Not hook v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632144-cfemen-gir489s-ready-hook-v1-0-a.html)|`2024-12-15 05:07:00`|`Other FPS Games`|
