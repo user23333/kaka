@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;GTA5&#93; Help for GTAV Classes &#45; tls&#95;Context&#46;hpp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677284-gta5-help-gtav-classes-tls_context-hpp.html)|`2024-12-15 00:44:00`|`Grand Theft Auto V`|
+|[intercept the voice chat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677212-intercept-voice-chat.html)|`2024-12-15 00:39:00`|`Counter-Strike 2`|
 |[Rocket League &#45; ThoramiBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/593885-rocket-league-thoramibot.html)|`2024-12-15 00:38:00`|`Other Games`|
 |[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2024-12-15 00:34:00`|`Other FPS Games`|
 |[asphyxia not looking for the right pattern](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677281-asphyxia-looking-pattern.html)|`2024-12-15 00:34:00`|`Counter-Strike 2`|
