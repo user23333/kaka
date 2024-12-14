@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat Master &#124; Fully Featured Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/677171-combat-master-featured-internal.html)|`2024-12-14 14:18:00`|`Combat Master`|
+|[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2024-12-14 14:02:00`|`Valorant`|
 |[Marvel Rivals Color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676766-marvel-rivals-color-aimbot.html)|`2024-12-14 13:31:00`|`Other FPS Games`|
 |[PUBG GLOBAL EMU CHECKS EXPOSED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/668714-pubg-global-emu-checks-exposed.html)|`2024-12-14 13:25:00`|`PUBG Mobile`|
 |[Buying a new pc to play rust again](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677196-buying-pc-play-rust.html)|`2024-12-14 13:09:00`|`Rust`|
