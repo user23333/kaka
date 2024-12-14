@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rocket League &#45; ThoramiBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/593885-rocket-league-thoramibot.html)|`2024-12-15 00:38:00`|`Other Games`|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2024-12-15 00:34:00`|`Other FPS Games`|
+|[asphyxia not looking for the right pattern](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677281-asphyxia-looking-pattern.html)|`2024-12-15 00:34:00`|`Counter-Strike 2`|
+|[Nvidia DX12 Fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/677185-nvidia-dx12-fix.html)|`2024-12-15 00:32:00`|`Rainbow Six Siege`|
+|[Ultimate Menu Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/565688-ultimate-menu-script.html)|`2024-12-15 00:31:00`|`Grand Theft Auto V`|
+|[Identity map on intel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677168-identity-map-intel.html)|`2024-12-15 00:31:00`|`Anti-Cheat Bypass`|
+|[Winebot Rose Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/625663-winebot-rose-online.html)|`2024-12-15 00:28:00`|`Other MMORPG and Strategy`|
+|[Marvel Rivals Color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676766-marvel-rivals-color-aimbot.html)|`2024-12-15 00:28:00`|`Other FPS Games`|
+|[cipher that im trying to solve](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/677198-cipher-im-trying-solve.html)|`2024-12-15 00:27:00`|`General Programming and Reversing`|
 |[DayZ&#45;InternalHack&#45;FullFeatures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/677192-dayz-internalhack-fullfeatures.html)|`2024-12-15 00:19:00`|`DayZ SA`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-12-15 00:16:00`|`Rust`|
 |[ARMA 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/114242-arma-3-reversal-structs-offsets.html)|`2024-12-15 00:10:00`|`ARMA 3`|
