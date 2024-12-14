@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676766-marvel-rivals-color-aimbot.html)|`2024-12-14 13:31:00`|`Other FPS Games`|
 |[PUBG GLOBAL EMU CHECKS EXPOSED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/668714-pubg-global-emu-checks-exposed.html)|`2024-12-14 13:25:00`|`PUBG Mobile`|
 |[Buying a new pc to play rust again](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677196-buying-pc-play-rust.html)|`2024-12-14 13:09:00`|`Rust`|
 |[best youtube videos to learn how to make an internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/677207-youtube-videos-learn-internal.html)|`2024-12-14 13:06:00`|`Programming for Beginners`|
