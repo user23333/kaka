@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat Master CE Godmode, MEGA XP, Instant Weapon/Player Max Level, Attachment Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/583715-combat-master-ce-godmode-mega-xp-instant-weapon-player-max-level-attachment-mod.html)|`2024-12-14 23:09:00`|`Combat Master`|
+|[&#91;GTA5&#93; Help for GTAV Classes &#45; tls&#95;Context&#46;hpp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677284-gta5-help-gtav-classes-tls_context-hpp.html)|`2024-12-14 23:07:00`|`Grand Theft Auto V`|
+|[What to do after basics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/676218-basics.html)|`2024-12-14 23:06:00`|`Programming for Beginners`|
+|[There is any OW2 Dma Cheat released here?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/675846-ow2-dma-cheat-released.html)|`2024-12-14 23:02:00`|`Overwatch`|
+|[Vanguard van 152, hard to eliminate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/672385-vanguard-van-152-hard-eliminate.html)|`2024-12-14 22:55:00`|`Valorant`|
 |[Is there any way to boost playtime/stats on an account?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/676637-boost-playtime-stats-account.html)|`2024-12-14 22:41:00`|`Grand Theft Auto V`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2024-12-14 22:29:00`|`Call of Duty: Black Ops 6`|
 |[GTA V roll back to &#91;1&#46;69 &#45; b3337&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/667054-gta-roll-1-69-b3337.html)|`2024-12-14 22:09:00`|`Grand Theft Auto V`|
