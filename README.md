@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[my game closing after i open my Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677154-game-closing-menu.html)|`2024-12-14 23:18:00`|`Grand Theft Auto V`|
 |[Combat Master CE Godmode, MEGA XP, Instant Weapon/Player Max Level, Attachment Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/583715-combat-master-ce-godmode-mega-xp-instant-weapon-player-max-level-attachment-mod.html)|`2024-12-14 23:09:00`|`Combat Master`|
 |[&#91;GTA5&#93; Help for GTAV Classes &#45; tls&#95;Context&#46;hpp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677284-gta5-help-gtav-classes-tls_context-hpp.html)|`2024-12-14 23:07:00`|`Grand Theft Auto V`|
 |[What to do after basics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/676218-basics.html)|`2024-12-14 23:06:00`|`Programming for Beginners`|
