@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to get enemy name with profile when spectating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677303-enemy-name-profile-spectating.html)|`2024-12-15 00:58:00`|`Counter-Strike 2`|
+|[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2024-12-15 00:56:00`|`Other FPS Games`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-12-15 00:48:00`|`Valorant`|
 |[&#91;GTA5&#93; Help for GTAV Classes &#45; tls&#95;Context&#46;hpp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677284-gta5-help-gtav-classes-tls_context-hpp.html)|`2024-12-15 00:44:00`|`Grand Theft Auto V`|
 |[intercept the voice chat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677212-intercept-voice-chat.html)|`2024-12-15 00:39:00`|`Counter-Strike 2`|
