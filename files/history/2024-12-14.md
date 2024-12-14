@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Updated No Recoil Script, All Mouse's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/603258-updated-recoil-script-mouses.html)|`2024-12-14 11:48:00`|`Rainbow Six Siege`|
+|[No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/675931-recoil.html)|`2024-12-14 11:42:00`|`Rainbow Six Siege`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2024-12-14 11:42:00`|`Phasmophobia`|
+|[Garry's Mod Server Crasher Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/663135-garrys-mod-server-crasher-exploit.html)|`2024-12-14 11:37:00`|`Garry's Mod`|
 |[&#91;UNIVERSAL&#93;&#91;LUA&#93; Script Engine &#91;ProbablyUD&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/676743-universal-lua-script-engine-probablyud.html)|`2024-12-14 11:22:00`|`Rainbow Six Siege`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2024-12-14 10:47:00`|`League of Legends`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2024-12-14 10:35:00`|`Other FPS Games`|
