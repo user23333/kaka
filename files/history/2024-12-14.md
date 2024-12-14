@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Buying a new pc to play rust again](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677196-buying-pc-play-rust.html)|`2024-12-14 13:09:00`|`Rust`|
+|[best youtube videos to learn how to make an internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/677207-youtube-videos-learn-internal.html)|`2024-12-14 13:06:00`|`Programming for Beginners`|
+|[ShellShock Live Trajectory Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/378458-shellshock-live-trajectory-trainer.html)|`2024-12-14 12:53:00`|`Other FPS Games`|
+|[Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/677204-internal-cheat.html)|`2024-12-14 12:52:00`|`Overwatch`|
+|[finding cs2 bonematrix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677018-finding-cs2-bonematrix.html)|`2024-12-14 12:39:00`|`Counter-Strike 2`|
 |[NorAdrenaline &#40;edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/412747-noradrenaline-edit.html)|`2024-12-14 12:50:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2024-12-14 12:30:00`|`Grand Theft Auto V`|
 |[Solo Leveling: Arise 1&#46;0&#46;24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/632972-solo-leveling-arise-1-0-24-a.html)|`2024-12-14 12:19:00`|`Other MMORPG and Strategy`|
