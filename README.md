@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force Update stopping GHub?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677297-delta-force-update-stopping-ghub.html)|`2024-12-14 23:52:00`|`Other FPS Games`|
 |[Helldiver 2 cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/676665-helldiver-2-cheats.html)|`2024-12-14 23:39:00`|`HELLDIVERS 2`|
 |[Free Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/676229-free-internal-cheat.html)|`2024-12-14 23:31:00`|`Counter-Strike 2 Releases`|
 |[my game closing after i open my Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677154-game-closing-menu.html)|`2024-12-14 23:18:00`|`Grand Theft Auto V`|
