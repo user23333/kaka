@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[about battle eye ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/677235-battle-eye-ban.html)|`2024-12-14 19:17:00`|`Other Games`|
+|[1v1&#46;lol Cheat By: NetWare](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676402-1v1-lol-cheat-netware.html)|`2024-12-14 19:12:00`|`Other FPS Games`|
+|[xp or unlocker script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/676791-xp-unlocker-script.html)|`2024-12-14 19:10:00`|`Titanfall`|
+|[VALORANT MINION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673460-valorant-minion.html)|`2024-12-14 19:07:00`|`Valorant`|
 |[Fivem Lua hook resource](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/677156-fivem-lua-hook-resource.html)|`2024-12-14 18:39:00`|`Alternative Online Mods`|
 |[finding CG&#95;Player](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/quake-live/677228-finding-cg_player.html)|`2024-12-14 18:33:00`|`Quake Live`|
 |[Ultimate COD WW2 Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/650299-ultimate-cod-ww2-thread.html)|`2024-12-14 18:27:00`|`Other Games`|
