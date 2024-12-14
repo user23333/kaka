@@ -12,6 +12,7 @@
 |11|[Free Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/676229-free-internal-cheat.html)|`2024-12-14 00:19:55`|`counter-strike-2-releases`|
 |8|[Skip heist prep &#40;After 1&#46;70 update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/676713-skip-heist-prep-1-70-update.html)|`2024-12-14 00:19:55`|`grand-theft-auto-v`|
 |11|[Now you can not join invite only or solo lobby without battleye after today's update&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/676702-join-invite-solo-lobby-battleye-todays-update.html)|`2024-12-14 02:42:56`|`grand-theft-auto-v`|
+|1|[Fastest Yolo inference method for Person Detection CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676429-fastest-yolo-inference-method-person-detection-cs2.html)|`2024-12-14 11:56:12`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
