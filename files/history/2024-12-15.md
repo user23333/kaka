@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[va&#95;text fortnite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/659910-va_text-fortnite.html)|`2024-12-15 07:24:00`|`Half Life`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2024-12-15 07:15:00`|`Other FPS Games`|
 |[SO&#45;NightCity &#124; Update 26&#45;28&#46;11&#46;24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/675144-nightcity-update-26-28-11-24-a.html)|`2024-12-15 06:35:00`|`Warface`|
 |[EAC and Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677175-eac-scripting.html)|`2024-12-15 06:33:00`|`Rust`|
