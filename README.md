@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Genesis Bot V1&#46;1&#46;0 &#91;RL Ranked Bot&#93; with Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/677130-genesis-bot-v1-1-0-rl-ranked-bot-source-code.html)|`2024-12-14 15:57:00`|`Other Games`|
 |[Question about how to make cheats for fps games like marvel rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677211-question-cheats-fps-games-marvel-rivals.html)|`2024-12-14 15:00:00`|`Other FPS Games`|
 |[Buckshot Roulette Multiplayer Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/675742-buckshot-roulette-multiplayer-hack.html)|`2024-12-14 14:38:00`|`Other Games`|
 |[Combat Master &#124; Fully Featured Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/677171-combat-master-featured-internal.html)|`2024-12-14 14:18:00`|`Combat Master`|
