@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2024-12-14 12:30:00`|`Grand Theft Auto V`|
+|[Solo Leveling: Arise 1&#46;0&#46;24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/632972-solo-leveling-arise-1-0-24-a.html)|`2024-12-14 12:19:00`|`Other MMORPG and Strategy`|
+|[America's Army: Proving Grounds NoRecoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/america-s-army-proving-grounds/673295-americas-army-proving-grounds-norecoil.html)|`2024-12-14 12:13:00`|`America's Army: Proving Grounds`|
 |[Updated No Recoil Script, All Mouse's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/603258-updated-recoil-script-mouses.html)|`2024-12-14 11:48:00`|`Rainbow Six Siege`|
 |[No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/675931-recoil.html)|`2024-12-14 11:42:00`|`Rainbow Six Siege`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2024-12-14 11:42:00`|`Phasmophobia`|
