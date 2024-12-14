@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Destiny 2 Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669951-destiny-2-reversal.html)|`2024-12-14 19:33:00`|`Other FPS Games`|
 |[about battle eye ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/677235-battle-eye-ban.html)|`2024-12-14 19:17:00`|`Other Games`|
 |[1v1&#46;lol Cheat By: NetWare](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676402-1v1-lol-cheat-netware.html)|`2024-12-14 19:12:00`|`Other FPS Games`|
 |[xp or unlocker script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/676791-xp-unlocker-script.html)|`2024-12-14 19:10:00`|`Titanfall`|
