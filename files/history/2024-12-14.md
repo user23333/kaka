@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2024-12-14 16:57:00`|`Sea of Thieves`|
+|[&#91;Always updated&#93; color aimbot for &#42;Almost any 3d game, coded fully in python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/657882-updated-color-aimbot-3d-game-coded-python.html)|`2024-12-14 16:53:00`|`Other FPS Games`|
 |[Any ud free dma firmware?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/675052-ud-free-dma-firmware.html)|`2024-12-14 16:17:00`|`Rust`|
 |[Too many DMA threads often lead to software disconnection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/677213-dma-threads-lead-software-disconnection.html)|`2024-12-14 15:50:00`|`Apex Legends`|
 |[Aim Assist in pure C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675938-aim-assist-pure.html)|`2024-12-14 15:27:00`|`Valorant`|
