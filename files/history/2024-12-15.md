@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any working cheats for Steam CS 1&#46;6 now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/677378-cheats-steam-cs-1-6-a.html)|`2024-12-15 16:26:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[how to mix rcs with aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676214-mix-rcs-aimbot.html)|`2024-12-15 16:26:00`|`Counter-Strike 2`|
+|[RCS and aimbot cannot be used together quickly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677377-rcs-aimbot-quickly.html)|`2024-12-15 16:22:00`|`Counter-Strike 2`|
+|[Marvel Rivals Arduino Colorbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675965-marvel-rivals-arduino-colorbot.html)|`2024-12-15 16:22:00`|`Other FPS Games`|
 |[Rust Lua Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677056-rust-lua-release.html)|`2024-12-15 16:21:00`|`Rust`|
 |[Alternative last free version of cheat 06&#46;2020](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/458599-alternative-free-version-cheat-06-2020-a.html)|`2024-12-15 16:20:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Idle Slayer &#43;27](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673364-idle-slayer-27-a.html)|`2024-12-15 16:15:00`|`Other MMORPG and Strategy`|
