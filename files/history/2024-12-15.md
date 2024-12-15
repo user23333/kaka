@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA Dupe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/676977-dma-dupe.html)|`2024-12-15 20:33:00`|`DayZ SA`|
 |[Fivem Lua hook resource](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/677156-fivem-lua-hook-resource.html)|`2024-12-15 20:24:00`|`Alternative Online Mods`|
 |[BO6 Fuser ESP/AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676862-bo6-fuser-esp-aim.html)|`2024-12-15 20:00:00`|`Call of Duty: Black Ops 6`|
 |[apex offstes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/677391-apex-offstes.html)|`2024-12-15 19:58:00`|`Apex Legends`|
