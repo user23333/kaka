@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spoofing on asus to bypass VAN 152?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/677434-spoofing-asus-bypass-van-152-a.html)|`2024-12-15 23:39:00`|`Valorant`|
+|[Centralized Bot Lobby Starter Python Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672158-centralized-bot-lobby-starter-python-script.html)|`2024-12-15 23:39:00`|`Call of Duty: Black Ops 6`|
 |[createsnapshot for bullet tracers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677455-createsnapshot-bullet-tracers.html)|`2024-12-15 23:31:00`|`Counter-Strike 2`|
 |[FiveM Scanners](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677446-fivem-scanners.html)|`2024-12-15 23:13:00`|`Anti-Cheat Bypass`|
 |[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-12-15 22:47:00`|`Escape from Tarkov`|
