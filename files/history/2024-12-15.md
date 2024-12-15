@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CUserCmd & CCSGOInput](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677383-cusercmd-ccsgoinput.html)|`2024-12-15 17:27:00`|`Counter-Strike 2`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2024-12-15 17:23:00`|`Other FPS Games`|
+|[&#40;As a beginner&#41; I'm currently having trouble deciding which game to work on after CS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/677382-beginner-im-currently-trouble-deciding-game-cs.html)|`2024-12-15 17:22:00`|`Programming for Beginners`|
 |[Marvel Rivals Python Instalocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677013-marvel-rivals-python-instalocker.html)|`2024-12-15 17:04:00`|`Other FPS Games`|
 |[Disturbing&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/675918-disturbing.html)|`2024-12-15 16:47:00`|`Off Topic`|
 |[Any working cheats for Steam CS 1&#46;6 now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/677378-cheats-steam-cs-1-6-a.html)|`2024-12-15 16:26:00`|`CounterStrike 1.5, 1.6 and Mods`|
