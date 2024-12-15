@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What was the first game you cheated on?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/328889-game-cheated.html)|`2024-12-16 06:50:00`|`Off Topic`|
 |[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2024-12-16 06:41:00`|`Other FPS Games`|
 |[ecx / midnight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/677339-ecx-midnight.html)|`2024-12-16 06:18:00`|`Team Fortress 2`|
 |[Developer's Diary: Issues in Developing External Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/637495-developers-diary-issues-developing-external-cheats.html)|`2024-12-16 06:13:00`|`General Programming and Reversing`|
