@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How would someone use the cs2 SDK?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676339-cs2-sdk.html)|`2024-12-16 07:23:00`|`Counter-Strike 2`|
+|[BotOps Hub &#40;bot lobby tool, no VM required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674129-botops-hub-bot-lobby-tool-vm-required.html)|`2024-12-16 07:18:00`|`Call of Duty: Black Ops 6`|
 |[Appeal for Account Ban Never Go Thru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/676658-appeal-account-ban-thru.html)|`2024-12-16 07:11:00`|`Apex Legends`|
 |[Help with Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676632-help-crash.html)|`2024-12-16 07:07:00`|`Counter-Strike 2`|
 |[Help with cs2 Box ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675948-help-cs2-box-esp.html)|`2024-12-16 07:00:00`|`Counter-Strike 2`|
