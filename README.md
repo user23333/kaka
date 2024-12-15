@@ -30,6 +30,7 @@
 |27|[Infinty Nikki SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47878)|`2024-12-15 00:20:33`|
 |1|[cfemen & gir489's Ready or Not hook v1&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47910)|`2024-12-15 05:39:34`|
 |7|[cminternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47900)|`2024-12-15 09:45:12`|
+|1|[IdleSlayer Build: 16451851](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47921)|`2024-12-15 17:00:12`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
