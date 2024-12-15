@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Get User Cmd Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675914-user-cmd-crash.html)|`2024-12-16 07:51:00`|`Counter-Strike 2`|
+|[Linux &#45; Bypassing VAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/634811-linux-bypassing-vac.html)|`2024-12-16 07:49:00`|`Counter-Strike 2`|
+|[RCS and aimbot cannot be used together quickly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677377-rcs-aimbot-quickly.html)|`2024-12-16 07:48:00`|`Counter-Strike 2`|
 |[Writing from kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676722-writing-kernel.html)|`2024-12-16 07:44:00`|`Counter-Strike 2`|
 |[Silent aim, is it possible with a2x?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677021-silent-aim-a2x.html)|`2024-12-16 07:43:00`|`Counter-Strike 2`|
 |[&#91;DMA&#93; Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677518-dma-squad.html)|`2024-12-16 07:42:00`|`Other FPS Games`|
