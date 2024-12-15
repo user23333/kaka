@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Too many DMA threads often lead to software disconnection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/677213-dma-threads-lead-software-disconnection.html)|`2024-12-16 00:55:00`|`Apex Legends`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-12-16 00:52:00`|`Rust`|
+|[Better ways to render externally?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676726-render-externally.html)|`2024-12-16 00:52:00`|`Counter-Strike 2`|
+|[Apex Rage External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/660129-apex-rage-external-cheat.html)|`2024-12-16 00:52:00`|`Apex Legends`|
+|[Looking for hackers' YouTube channels to learn reverse engeineering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/672726-looking-hackers-youtube-channels-learn-reverse-engeineering.html)|`2024-12-16 00:51:00`|`Forum General`|
 |[how to get localteam right ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676721-localteam.html)|`2024-12-16 00:50:00`|`Counter-Strike 2`|
 |[CS2 External Cheat Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/619124-cs2-external-cheat-base.html)|`2024-12-16 00:48:00`|`Counter-Strike 2`|
 |[Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/465314-super-animal-royale-hack.html)|`2024-12-16 00:39:00`|`Other Games`|
