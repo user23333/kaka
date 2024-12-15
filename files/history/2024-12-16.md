@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Welcoming back a familiar face](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/676669-welcoming-familiar.html)|`2024-12-16 03:36:00`|`Information and Announcements`|
 |[Fast Level Up &#40;RP&#41; Trick, Patch, or Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677482-fast-level-rp-trick-patch-hack.html)|`2024-12-16 03:17:00`|`Grand Theft Auto V`|
 |[Strinova aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/650858-strinova-aimbot.html)|`2024-12-16 03:20:00`|`Other FPS Games`|
 |[Centralized Bot Lobby Starter Python Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672158-centralized-bot-lobby-starter-python-script.html)|`2024-12-16 03:12:00`|`Call of Duty: Black Ops 6`|
