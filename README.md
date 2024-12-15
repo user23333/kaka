@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do I make a avatar and sig????](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/signatures-and-avatars/677421-avatar-sig.html)|`2024-12-15 21:51:00`|`Signatures and Avatars`|
+|[Python cs2 esp external detectability](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676800-python-cs2-esp-external-detectability.html)|`2024-12-15 21:36:00`|`Counter-Strike 2`|
 |[Engine Prediction?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677026-engine-prediction.html)|`2024-12-15 21:34:00`|`Counter-Strike 2`|
 |[Crash on reading memory from client DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676178-crash-reading-memory-client-dll.html)|`2024-12-15 21:31:00`|`Counter-Strike 2`|
 |[Get SteamID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676820-steamid.html)|`2024-12-15 21:29:00`|`Counter-Strike 2`|
