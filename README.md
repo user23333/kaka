@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ecx / midnight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/677339-ecx-midnight.html)|`2024-12-16 06:18:00`|`Team Fortress 2`|
+|[Developer's Diary: Issues in Developing External Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/637495-developers-diary-issues-developing-external-cheats.html)|`2024-12-16 06:13:00`|`General Programming and Reversing`|
+|[Any way to easily make money?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677513-easily-money.html)|`2024-12-16 06:10:00`|`Grand Theft Auto V`|
 |[Quickswap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/674484-quickswap.html)|`2024-12-16 05:59:00`|`Sea of Thieves`|
 |[Sea of thieves Season 13 FOV Slider, nosprint, and other cheats&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/666750-sea-thieves-season-13-fov-slider-nosprint-cheats.html)|`2024-12-16 05:50:00`|`Sea of Thieves`|
 |[How to get enemy name with profile when spectating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677303-enemy-name-profile-spectating.html)|`2024-12-16 05:48:00`|`Counter-Strike 2`|
