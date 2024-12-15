@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TFT: Any Hidden Mouse Click Workarounds?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/671710-tft-hidden-mouse-click-workarounds.html)|`2024-12-15 13:14:00`|`League of Legends`|
 |[Josh's Aim Assist V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670254-joshs-aim-assist-v1.html)|`2024-12-15 12:36:00`|`Call of Duty: Black Ops 6`|
 |[external base code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/677349-external-base-code.html)|`2024-12-15 12:30:00`|`Overwatch`|
 |[Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/636558-cheat-engine-table.html)|`2024-12-15 12:26:00`|`HELLDIVERS 2`|
