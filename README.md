@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Biker MC Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677233-biker-mc-patch.html)|`2024-12-15 18:55:00`|`Grand Theft Auto V`|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-12-15 18:50:00`|`Apex Legends`|
 |[Tusiphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673488-tusiphobia-update.html)|`2024-12-15 18:22:00`|`Phasmophobia`|
 |[&#91;Warframe&#93; Lua Script XYZ Movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677314-warframe-lua-script-xyz-movement.html)|`2024-12-15 17:53:00`|`Other FPS Games`|
 |[CUserCmd & CCSGOInput](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677383-cusercmd-ccsgoinput.html)|`2024-12-15 17:27:00`|`Counter-Strike 2`|
