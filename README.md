@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Engine Prediction?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677026-engine-prediction.html)|`2024-12-15 21:34:00`|`Counter-Strike 2`|
+|[Crash on reading memory from client DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676178-crash-reading-memory-client-dll.html)|`2024-12-15 21:31:00`|`Counter-Strike 2`|
+|[Get SteamID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676820-steamid.html)|`2024-12-15 21:29:00`|`Counter-Strike 2`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2024-12-15 21:08:00`|`Phasmophobia`|
 |[DMA Dupe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/676977-dma-dupe.html)|`2024-12-15 20:33:00`|`DayZ SA`|
 |[Fivem Lua hook resource](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/677156-fivem-lua-hook-resource.html)|`2024-12-15 20:24:00`|`Alternative Online Mods`|
