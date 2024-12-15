@@ -37,6 +37,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fivem Lua hook resource](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/677156-fivem-lua-hook-resource.html)|`2024-12-15 20:24:00`|`Alternative Online Mods`|
+|[BO6 Fuser ESP/AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676862-bo6-fuser-esp-aim.html)|`2024-12-15 20:00:00`|`Call of Duty: Black Ops 6`|
+|[apex offstes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/677391-apex-offstes.html)|`2024-12-15 19:58:00`|`Apex Legends`|
 |[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2024-12-15 19:47:00`|`DayZ SA`|
 |[Garry's Mod Server Crasher Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/663135-garrys-mod-server-crasher-exploit.html)|`2024-12-15 18:57:00`|`Garry's Mod`|
 |[Biker MC Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677233-biker-mc-patch.html)|`2024-12-15 18:55:00`|`Grand Theft Auto V`|
