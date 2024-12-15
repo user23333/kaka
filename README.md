@@ -14,6 +14,7 @@
 |17|[Combat Master ESP&Aimbot Internal Auto Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/676427-combat-master-esp-aimbot-internal-auto-update.html)|`2024-12-15 02:34:09`|`combat-master`|
 |11|[Now you can not join invite only or solo lobby without battleye after today's update&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/676702-join-invite-solo-lobby-battleye-todays-update.html)|`2024-12-15 03:46:48`|`grand-theft-auto-v`|
 |9|[Marvel Rivals Colorbot &#40;Arduino & No Arduino Support&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677136-marvel-rivals-colorbot-arduino-arduino-support.html)|`2024-12-15 06:59:27`|`other-fps-games`|
+|11|[Marvel Rivals Python Instalocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677013-marvel-rivals-python-instalocker.html)|`2024-12-15 09:45:12`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,9 +29,14 @@
 |9|[SOCOM U&#46;S NAVY SEALs &#45; ESP v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47879)|`2024-12-15 00:20:33`|
 |27|[Infinty Nikki SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47878)|`2024-12-15 00:20:33`|
 |1|[cfemen & gir489's Ready or Not hook v1&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47910)|`2024-12-15 05:39:34`|
+|7|[cminternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47900)|`2024-12-15 09:45:12`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Auto Updating Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/636910-auto-updating-super-animal-royale-hack.html)|`2024-12-15 09:31:00`|`Other Games`|
+|[Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/465314-super-animal-royale-hack.html)|`2024-12-15 09:28:00`|`Other Games`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/652967-marvel-rivals-reversal-structs-offsets.html)|`2024-12-15 09:25:00`|`Other FPS Games`|
+|[Project Zomboid Cheat &#124; EtherHack &#124; Powered by Java &#124; 41&#46;78&#46;16 &#124; Continued](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676271-project-zomboid-cheat-etherhack-powered-java-41-78-16-continued.html)|`2024-12-15 09:14:00`|`Other MMORPG and Strategy`|
 |[There is any OW2 Dma Cheat released here?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/675846-ow2-dma-cheat-released.html)|`2024-12-15 07:39:00`|`Overwatch`|
 |[va&#95;text fortnite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/659910-va_text-fortnite.html)|`2024-12-15 07:24:00`|`Half Life`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2024-12-15 07:15:00`|`Other FPS Games`|
