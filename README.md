@@ -12,6 +12,7 @@
 |14|[BO6 Fuser ESP/AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676862-bo6-fuser-esp-aim.html)|`2024-12-16 00:09:57`|`call-of-duty-black-ops-6-a`|
 |18|[Hide Window Handle &#45; &#40; Hookless &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/676808-hide-window-handle-hookless.html)|`2024-12-16 00:09:57`|`anti-cheat-bypass`|
 |8|[Bot Lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676548-bot-lobbies.html)|`2024-12-16 04:27:17`|`call-of-duty-black-ops-6-a`|
+|52|[Marvel Rivals aimbot and esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677440-marvel-rivals-aimbot-esp.html)|`2024-12-16 05:10:16`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Online Enabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663128-online-enabler.html)|`2024-12-16 04:57:00`|`Grand Theft Auto V`|
+|[CR3 24H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/677506-cr3-24h2.html)|`2024-12-16 04:56:00`|`Apex Legends`|
+|[Bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/672824-bypass.html)|`2024-12-16 04:56:00`|`HELLDIVERS 2`|
 |[DayZ&#45;InternalHack&#45;FullFeatures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/677192-dayz-internalhack-fullfeatures.html)|`2024-12-16 04:50:00`|`DayZ SA`|
 |[any one have the updated offset on gmod ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/677463-updated-offset-gmod.html)|`2024-12-16 04:37:00`|`Garry's Mod`|
 |[Possible to avoid being crashed by a server?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/677167-avoid-crashed-server.html)|`2024-12-16 04:35:00`|`Garry's Mod`|
