@@ -31,9 +31,11 @@
 |1|[cfemen & gir489's Ready or Not hook v1&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47910)|`2024-12-15 05:39:34`|
 |7|[cminternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47900)|`2024-12-15 09:45:12`|
 |1|[IdleSlayer Build: 16451851](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47921)|`2024-12-15 17:00:12`|
+|4|[Rivals Instalocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47896)|`2024-12-15 17:18:27`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Python Instalocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677013-marvel-rivals-python-instalocker.html)|`2024-12-15 17:04:00`|`Other FPS Games`|
 |[Disturbing&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/675918-disturbing.html)|`2024-12-15 16:47:00`|`Off Topic`|
 |[Any working cheats for Steam CS 1&#46;6 now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/677378-cheats-steam-cs-1-6-a.html)|`2024-12-15 16:26:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[how to mix rcs with aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676214-mix-rcs-aimbot.html)|`2024-12-15 16:26:00`|`Counter-Strike 2`|
