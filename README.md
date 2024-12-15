@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;BrawlHalla BotMonster&#93; Improving BotMonster](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/664219-brawlhalla-botmonster-improving-botmonster.html)|`2024-12-15 14:04:00`|`Other Games`|
+|[No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/675931-recoil.html)|`2024-12-15 13:58:00`|`Rainbow Six Siege`|
 |[KMBOX NET](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/677368-kmbox-net.html)|`2024-12-15 13:52:00`|`Forum General`|
 |[How to use any graphic mod in online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677367-graphic-mod-online.html)|`2024-12-15 13:44:00`|`Grand Theft Auto V`|
 |[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2024-12-15 13:30:00`|`Sea of Thieves`|
