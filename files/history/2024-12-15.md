@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTA:SA/SAMP cheat menu mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/677373-gta-sa-samp-cheat-menu-mod.html)|`2024-12-15 15:11:00`|`Other Single Player Games`|
 |[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2024-12-15 14:34:00`|`Tom Clancy's The Division`|
 |[Pls make a cheat for cabal mobile infinite combo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/677372-pls-cheat-cabal-mobile-infinite-combo.html)|`2024-12-15 14:28:00`|`Other Games`|
 |[&#91;BrawlHalla BotMonster&#93; Improving BotMonster](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/664219-brawlhalla-botmonster-improving-botmonster.html)|`2024-12-15 14:04:00`|`Other Games`|
