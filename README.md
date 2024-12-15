@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Writing from kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676722-writing-kernel.html)|`2024-12-16 07:44:00`|`Counter-Strike 2`|
+|[Silent aim, is it possible with a2x?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677021-silent-aim-a2x.html)|`2024-12-16 07:43:00`|`Counter-Strike 2`|
+|[&#91;DMA&#93; Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677518-dma-squad.html)|`2024-12-16 07:42:00`|`Other FPS Games`|
+|[game just closes internal esp ?pls help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676590-game-closes-internal-esp-pls-help.html)|`2024-12-16 07:42:00`|`Counter-Strike 2`|
 |[asphyxia not looking for the right pattern](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677281-asphyxia-looking-pattern.html)|`2024-12-16 07:41:00`|`Counter-Strike 2`|
 |[Is there to add bots for Doomsday Heist instead of players?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/673073-add-bots-doomsday-heist-instead-players.html)|`2024-12-16 07:39:00`|`Grand Theft Auto V`|
 |[rcs doesnt control do anything but changing my viewangles to 0,0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676208-rcs-doesnt-control-changing-viewangles-0-0-a.html)|`2024-12-16 07:27:00`|`Counter-Strike 2`|
