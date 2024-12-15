@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[drawing issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/671507-drawing-issue.html)|`2024-12-16 02:38:00`|`Red Dead Redemption 2`|
+|[RDR2 injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/671155-rdr2-injector.html)|`2024-12-16 02:36:00`|`Red Dead Redemption 2`|
+|[Finding the necessary offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/677472-finding-offsets.html)|`2024-12-16 02:32:00`|`PlanetSide 2`|
+|[Latest 2024 UnBan Method &#45; EAC/BE And Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/676059-2024-unban-method-eac.html)|`2024-12-16 02:28:00`|`Anti-Cheat Bypass`|
 |[Arduino FirmWare UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676366-arduino-firmware-ud.html)|`2024-12-16 02:13:00`|`Valorant`|
 |[Genesis Bot V1&#46;1&#46;0 &#91;RL Ranked Bot&#93; with Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/677130-genesis-bot-v1-1-0-rl-ranked-bot-source-code.html)|`2024-12-16 02:12:00`|`Other Games`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-12-16 02:10:00`|`Grand Theft Auto V`|
