@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Small Rust Internal Cheat Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/612421-rust-internal-cheat-base.html)|`2024-12-16 22:45:00`|`Rust`|
 |[Phasmophobia cheat hub](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/677606-phasmophobia-cheat-hub.html)|`2024-12-16 21:45:00`|`Phasmophobia`|
 |[Rust External Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/631374-rust-external-source.html)|`2024-12-16 22:00:00`|`Rust`|
 |[Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677601-crash.html)|`2024-12-16 21:28:00`|`Counter-Strike 2`|
