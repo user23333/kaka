@@ -27,9 +27,17 @@
 |1009|[Ultimate&#95;Menu V2&#46;4 1&#46;70](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47885)|`2024-12-16 00:09:57`|
 |6|[SOCOM U&#46;S NAVY SEALs &#45; ESP source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47884)|`2024-12-16 00:09:57`|
 |13|[version&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47911)|`2024-12-16 04:27:17`|
+|1|[Auto Updating SAR cheat v1&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47930)|`2024-12-16 09:27:27`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Autofire cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/676027-autofire-cheat.html)|`2024-12-16 09:20:00`|`Rainbow Six Siege`|
+|[&#124; Dota 2 &#124; Nest of Throns: skills without cooldowns &#124; EXTERNAL &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/677527-dota-2-nest-throns-skills-cooldowns-external.html)|`2024-12-16 09:16:00`|`Other MMORPG and Strategy`|
+|[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2024-12-16 09:05:00`|`Grand Theft Auto V`|
+|[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2024-12-16 08:53:00`|`Other FPS Games`|
+|[Anyway to launch Marvel Rivals without any of these clients ? &#40;Steam, Epic&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677364-anyway-launch-marvel-rivals-clients-steam-epic.html)|`2024-12-16 08:51:00`|`Other FPS Games`|
+|[石头剪刀布 Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677523-exploit.html)|`2024-12-16 08:44:00`|`Rust`|
+|[No Spread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/677521-spread.html)|`2024-12-16 08:40:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2024-12-16 07:59:00`|`Overwatch`|
 |[My external overlay wont take inputs to ImGui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677193-external-overlay-wont-inputs-imgui.html)|`2024-12-16 07:57:00`|`Counter-Strike 2`|
 |[Any working cheats for Steam CS 1&#46;6 now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/677378-cheats-steam-cs-1-6-a.html)|`2024-12-16 07:54:00`|`CounterStrike 1.5, 1.6 and Mods`|
