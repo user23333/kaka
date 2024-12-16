@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need help learning how to make head only for color triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/677538-help-learning-head-color-triggerbot.html)|`2024-12-16 18:46:00`|`Valorant`|
+|[Making a script need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677511-script-help.html)|`2024-12-16 18:46:00`|`Rust`|
 |[Signed Spoofer By Microsoft&#40;EAC & BE&#41;  Early Christmas Present](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677190-signed-spoofer-microsoft-eac-christmas.html)|`2024-12-16 18:26:00`|`Anti-Cheat Bypass`|
 |[Mouse Script &#91;Rust&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675383-mouse-script-rust.html)|`2024-12-16 18:22:00`|`Anti-Cheat Bypass`|
 |[Any ways to inject my own signed dll into EAC/BE?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677323-inject-own-signed-dll-eac.html)|`2024-12-16 18:17:00`|`Anti-Cheat Bypass`|
