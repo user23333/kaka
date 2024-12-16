@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Assassin's Creed 2 Memory Modifier](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/677546-assassins-creed-2-memory-modifier.html)|`2024-12-16 16:31:00`|`Other Games`|
+|[ypassing CR3 with MmAccessFault & Reading PDB via KPROCESS&#46;DirectoryTableBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/661477-ypassing-cr3-mmaccessfault-reading-pdb-via-kprocess-directorytablebase.html)|`2024-12-16 16:28:00`|`Anti-Cheat Bypass`|
 |[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2024-12-16 15:53:00`|`DayZ SA`|
 |[Marvel Rivals Colorbot &#40;Arduino & No Arduino Support&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677136-marvel-rivals-colorbot-arduino-arduino-support.html)|`2024-12-16 15:36:00`|`Other FPS Games`|
 |[Valorant External Example](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/511104-valorant-external-example.html)|`2024-12-16 15:00:00`|`Valorant`|
