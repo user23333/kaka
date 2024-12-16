@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/452384-rust-scripting.html)|`2024-12-16 23:30:00`|`Rust`|
 |[100% UNDETECTED INJECTOR&#33; &#124; EAC/BE/VGK BYPASS&#33; 🔥🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677613-100-undetected-injector-eac-vgk-bypass.html)|`2024-12-16 23:12:00`|`Anti-Cheat Bypass`|
 |[Small Rust Internal Cheat Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/612421-rust-internal-cheat-base.html)|`2024-12-16 22:45:00`|`Rust`|
 |[Phasmophobia cheat hub](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/677606-phasmophobia-cheat-hub.html)|`2024-12-16 21:45:00`|`Phasmophobia`|
