@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DnD Beyond Dice Manipulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/javascript/677642-dnd-beyond-dice-manipulation.html)|`2024-12-17 04:20:00`|`Javascript`|
+|[Welcoming back a familiar face](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/676669-welcoming-familiar.html)|`2024-12-17 04:15:00`|`Information and Announcements`|
+|[Is it just me or rust crate documentations usually suck](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/677639-rust-crate-documentations-usually-suck.html)|`2024-12-17 04:14:00`|`General Programming and Reversing`|
+|[Walking ActiveProcessLinks on 24h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/676512-walking-activeprocesslinks-24h2.html)|`2024-12-17 04:10:00`|`General Programming and Reversing`|
 |[Anti X&#45;Ray bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/666931-anti-ray-bypass.html)|`2024-12-17 04:02:00`|`Minecraft`|
 |[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2024-12-17 03:57:00`|`Garry's Mod`|
 |[TORMENT CHEATPACK 3&#46;0 RELEASED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/651891-torment-cheatpack-3-0-released.html)|`2024-12-17 03:52:00`|`Star Wars Battlefront 2`|
