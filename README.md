@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PAKS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/675439-paks.html)|`2024-12-17 06:09:00`|`Sea of Thieves`|
+|[New Ban Evasion System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/676955-ban-evasion-system.html)|`2024-12-17 06:07:00`|`Sea of Thieves`|
+|[Is there to add bots for Doomsday Heist instead of players?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/673073-add-bots-doomsday-heist-instead-players.html)|`2024-12-17 06:01:00`|`Grand Theft Auto V`|
 |[Making a script need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677511-script-help.html)|`2024-12-17 05:39:00`|`Rust`|
 |[Free Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/676229-free-internal-cheat.html)|`2024-12-17 05:35:00`|`Counter-Strike 2 Releases`|
 |[Kernel Driver Cheat by Zebra](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/610522-kernel-driver-cheat-zebra.html)|`2024-12-17 05:34:00`|`CounterStrike 1.5, 1.6 and Mods`|
