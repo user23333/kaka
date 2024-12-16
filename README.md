@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2024-12-17 06:45:00`|`Tom Clancy's The Division`|
+|[Killing Floor 2 External Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/673060-killing-floor-2-external-hack.html)|`2024-12-17 06:43:00`|`Other Games`|
 |[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2024-12-17 06:18:00`|`Elite: Dangerous`|
 |[Tool for you federal agents&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/677655-tool-federal-agents.html)|`2024-12-17 06:18:00`|`General Programming and Reversing`|
 |[The Finals External Cheat DMA&#33;&#33;&#40;Just Run It&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/640995-finals-external-cheat-dma-run.html)|`2024-12-17 06:17:00`|`THE FINALS`|
