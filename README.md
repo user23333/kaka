@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Yet another &#45; Bot Lobby Manager for VM/VPS/NO&#45;VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676312-bot-lobby-manager-vm-vps-vm.html)|`2024-12-16 10:34:00`|`Call of Duty: Black Ops 6`|
+|[Should I learn GameHacking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/677528-learn-gamehacking.html)|`2024-12-16 10:14:00`|`Forum General`|
+|[OW Color Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/677532-ow-color-triggerbot.html)|`2024-12-16 10:07:00`|`Half Life`|
+|[im looking to unlock everything from agents dlc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677531-im-looking-unlock-agents-dlc.html)|`2024-12-16 10:07:00`|`Grand Theft Auto V`|
+|[Fastest Yolo inference method for Person Detection CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676429-fastest-yolo-inference-method-person-detection-cs2.html)|`2024-12-16 10:04:00`|`Counter-Strike 2`|
 |[Autofire cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/676027-autofire-cheat.html)|`2024-12-16 09:20:00`|`Rainbow Six Siege`|
 |[&#124; Dota 2 &#124; Nest of Throns: skills without cooldowns &#124; EXTERNAL &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/677527-dota-2-nest-throns-skills-cooldowns-external.html)|`2024-12-16 09:16:00`|`Other MMORPG and Strategy`|
 |[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2024-12-16 09:05:00`|`Grand Theft Auto V`|
