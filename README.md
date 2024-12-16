@@ -25,9 +25,14 @@
 |833|[PhasmoMenu v0&#46;5&#46;4&#46;7 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47890)|`2024-12-17 00:12:50`|
 |495|[Marvel: Rivals SDK &#40;Actually Working&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47887)|`2024-12-17 00:12:50`|
 |4|[Bodycam Internal V0&#46;1&#46;3&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47909)|`2024-12-17 02:41:02`|
+|2|[idle slayer cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47924)|`2024-12-17 02:57:57`|
+|3|[DescentInternal 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47922)|`2024-12-17 02:57:57`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[idle slayer cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/677306-idle-slayer-cheat.html)|`2024-12-17 02:56:00`|`Other MMORPG and Strategy`|
+|[NukedOut &#45; Free for all challenge](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/677539-nukedout-free-challenge.html)|`2024-12-17 02:54:00`|`Call of Duty: Black Ops 6`|
+|[Modest Menu Lua Scripting Megathread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/463868-modest-menu-lua-scripting-megathread.html)|`2024-12-17 02:54:00`|`Grand Theft Auto V`|
 |[Marvel Rivals Color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676766-marvel-rivals-color-aimbot.html)|`2024-12-17 02:42:00`|`Other FPS Games`|
 |[LSCHaX for 1&#46;70 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/224075-lschax-1-70-external.html)|`2024-12-17 02:39:00`|`Grand Theft Auto V`|
 |[Anyone can invite me please ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/666158-invite-please.html)|`2024-12-17 02:35:00`|`Deadlock`|
