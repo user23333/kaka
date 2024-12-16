@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NukedOut &#45; Free for all challenge](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/677539-nukedout-free-challenge.html)|`2024-12-16 19:12:00`|`Call of Duty: Black Ops 6`|
+|[older versions of rewasd](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/663658-versions-rewasd.html)|`2024-12-16 19:01:00`|`Call of Duty: Modern Warfare III`|
 |[Marvel rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677559-marvel-rivals.html)|`2024-12-16 18:59:00`|`Other FPS Games`|
 |[DMA Dupe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/676977-dma-dupe.html)|`2024-12-16 18:56:00`|`DayZ SA`|
 |[Does EAC game ban you for scripts?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677332-eac-game-ban-scripts.html)|`2024-12-16 18:50:00`|`Rust`|
