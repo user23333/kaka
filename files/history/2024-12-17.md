@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2024-12-17 04:39:00`|`Escape from Tarkov`|
+|[GamerFun AI Menu: All mouse Aimbot, Triggerbot & Recoil Control Using LGUB Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671029-gamerfun-ai-menu-mouse-aimbot-triggerbot-recoil-control-using-lgub-drivers.html)|`2024-12-17 04:37:00`|`Rainbow Six Siege`|
+|[CS2 double tap and no spread fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677624-cs2-double-tap-spread-fix.html)|`2024-12-17 04:34:00`|`Counter-Strike 2`|
+|[about faceit banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677627-faceit-banned.html)|`2024-12-17 04:34:00`|`Counter-Strike 2`|
 |[DnD Beyond Dice Manipulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/javascript/677642-dnd-beyond-dice-manipulation.html)|`2024-12-17 04:20:00`|`Javascript`|
 |[Welcoming back a familiar face](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/676669-welcoming-familiar.html)|`2024-12-17 04:15:00`|`Information and Announcements`|
 |[Is it just me or rust crate documentations usually suck](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/677639-rust-crate-documentations-usually-suck.html)|`2024-12-17 04:14:00`|`General Programming and Reversing`|
