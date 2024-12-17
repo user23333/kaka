@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Question about vac monitoring](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677793-question-vac-monitoring.html)|`2024-12-18 07:22:00`|`Counter-Strike 2`|
+|[SignTool error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677698-signtool-error.html)|`2024-12-18 07:06:00`|`Anti-Cheat Bypass`|
+|[Hide Window Handle &#45; &#40; Hookless &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/676808-hide-window-handle-hookless.html)|`2024-12-18 07:03:00`|`Anti-Cheat Bypass`|
 |[BulletTP &#124; Does not hit &#124; Cracked Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677790-bullettp-hit-cracked-rust.html)|`2024-12-18 06:57:00`|`Rust`|
 |[mapper vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677789-mapper-vulnerable-driver.html)|`2024-12-18 06:53:00`|`Anti-Cheat Bypass`|
 |[SCP SL Cheat v13&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/611154-scp-sl-cheat-v13-3-1-a.html)|`2024-12-18 06:40:00`|`Other Games`|
