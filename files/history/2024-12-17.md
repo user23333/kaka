@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2024-12-17 10:21:00`|`League of Legends`|
+|[Rocket League &#45; Dumper &#40;x64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/402519-rocket-league-dumper-x64.html)|`2024-12-17 10:18:00`|`Other FPS Games`|
+|[banning cod server ips to disable hit reg nerfs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673920-banning-cod-server-ips-disable-hit-reg-nerfs.html)|`2024-12-17 10:07:00`|`Call of Duty: Black Ops 6`|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-12-17 09:46:00`|`Apex Legends`|
+|[League OSX Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/666668-league-osx-internal.html)|`2024-12-17 09:44:00`|`League of Legends`|
 |[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2024-12-17 08:57:00`|`Combat Arms`|
 |[Combat Master &#124; Fully Featured Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/677171-combat-master-featured-internal.html)|`2024-12-17 08:42:00`|`Combat Master`|
 |[Raspberry Pi 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/661844-raspberry-pi-5-a.html)|`2024-12-17 08:29:00`|`Valorant`|
