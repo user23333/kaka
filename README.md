@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AFK Bot Lobby Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670285-afk-bot-lobby-guide.html)|`2024-12-18 05:06:00`|`Call of Duty: Black Ops 6`|
+|[Pubg Mobile Global 32 bit internal dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/675253-pubg-mobile-global-32-bit-internal-dll.html)|`2024-12-18 05:04:00`|`PUBG Mobile`|
+|[FiveM sv&#95;pureLevel changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/640619-fivem-sv_purelevel-changer.html)|`2024-12-18 05:03:00`|`Alternative Online Mods`|
+|[RAZER NEW ALL WEAPONS 1&#45;3 MS &#40;FREE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/640381-razer-weapons-1-3-ms-free.html)|`2024-12-18 04:58:00`|`Rust`|
 |[Simple Online Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677320-simple-online-bypass.html)|`2024-12-18 04:56:00`|`Grand Theft Auto V`|
 |[Bloodstrike cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677756-bloodstrike-cheat.html)|`2024-12-18 04:54:00`|`Other FPS Games`|
 |[DMA Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/677753-dma-cheat.html)|`2024-12-18 04:49:00`|`H1Z1`|
