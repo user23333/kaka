@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat Master &#124; Fully Featured Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/677171-combat-master-featured-internal.html)|`2024-12-18 02:32:00`|`Combat Master`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2024-12-18 02:31:00`|`DayZ SA`|
+|[about faceit banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677627-faceit-banned.html)|`2024-12-18 02:30:00`|`Counter-Strike 2`|
+|[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2024-12-18 02:28:00`|`Sea of Thieves`|
 |[Signed Spoofer By Microsoft&#40;EAC & BE&#41;  Early Christmas Present](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677190-signed-spoofer-microsoft-eac-christmas.html)|`2024-12-18 02:20:00`|`Anti-Cheat Bypass`|
 |[January 2025 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/677740-january-2025-motm-nominations.html)|`2024-12-18 02:10:00`|`Member of the Month`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2024-12-18 02:10:00`|`Call of Duty: Black Ops 6`|
