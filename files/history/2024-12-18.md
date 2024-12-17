@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2024-12-18 01:57:00`|`Apex Legends`|
+|[Delta Force Update stopping GHub?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677297-delta-force-update-stopping-ghub.html)|`2024-12-18 01:56:00`|`Other FPS Games`|
+|[Genesis Bot V1&#46;1&#46;0 &#91;RL Ranked Bot&#93; with Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/677130-genesis-bot-v1-1-0-rl-ranked-bot-source-code.html)|`2024-12-18 01:55:00`|`Other Games`|
 |[Rust DMA ESP and more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/626013-rust-dma-esp.html)|`2024-12-18 01:50:00`|`Rust`|
 |[Finding il2cpp&#95;GetHandle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677680-finding-il2cpp_gethandle.html)|`2024-12-18 01:47:00`|`Rust`|
 |[im looking to unlock everything from agents dlc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677531-im-looking-unlock-agents-dlc.html)|`2024-12-18 01:29:00`|`Grand Theft Auto V`|
