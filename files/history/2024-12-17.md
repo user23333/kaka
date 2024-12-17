@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2024-12-17 08:57:00`|`Combat Arms`|
+|[Combat Master &#124; Fully Featured Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/677171-combat-master-featured-internal.html)|`2024-12-17 08:42:00`|`Combat Master`|
+|[Raspberry Pi 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/661844-raspberry-pi-5-a.html)|`2024-12-17 08:29:00`|`Valorant`|
 |[Dauntless Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/677218-dauntless-trainer.html)|`2024-12-17 07:16:00`|`Other Games`|
 |[A thread that shares rigel's config file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/633484-thread-shares-rigels-config-file.html)|`2024-12-17 07:09:00`|`Overwatch`|
 |[DMA &#40;Entity Esp &#43; Player Bones&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677658-dma-entity-esp-player-bones.html)|`2024-12-17 06:52:00`|`Rust`|
