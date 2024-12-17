@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2024-12-17 19:21:00`|`Other FPS Games`|
+|[&#91;Always Updated&#93; Color aimbot razer mouse injector coded in python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/659124-updated-color-aimbot-razer-mouse-injector-coded-python.html)|`2024-12-17 19:17:00`|`Other FPS Games`|
 |[EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677693-eac.html)|`2024-12-17 18:50:00`|`Anti-Cheat Bypass`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2024-12-17 18:36:00`|`Phasmophobia`|
 |[Rogue Company Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/604154-rogue-company-internal-cheat.html)|`2024-12-17 18:33:00`|`Other FPS Games`|
