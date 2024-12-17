@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need help spoofing acer laptop w insyde bios](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/677684-help-spoofing-acer-laptop-insyde-bios.html)|`2024-12-17 16:03:00`|`Valorant`|
 |[BattlEye &#45; What's Detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677662-battleye-whats-detected.html)|`2024-12-17 15:43:00`|`Grand Theft Auto V`|
 |[Rust Lua Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677056-rust-lua-release.html)|`2024-12-17 15:13:00`|`Rust`|
 |[External Closes when in Pure Fivem server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/677681-external-closes-pure-fivem-server.html)|`2024-12-17 15:09:00`|`Alternative Online Mods`|
