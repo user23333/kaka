@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to equip any item on this game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/591436-equip-item-game.html)|`2024-12-17 17:30:00`|`Paladins`|
 |[Too many DMA threads often lead to software disconnection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/677213-dma-threads-lead-software-disconnection.html)|`2024-12-17 16:44:00`|`Apex Legends`|
 |[We need God to provide PS2&#45;dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/677673-god-provide-ps2-dump.html)|`2024-12-17 16:50:00`|`PlanetSide 2`|
 |[What is better than DMA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674670-dma.html)|`2024-12-17 16:13:00`|`Call of Duty: Black Ops 6`|
