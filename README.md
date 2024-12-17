@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need a Dumper or someone that can dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/677716-dumper-dump.html)|`2024-12-17 23:20:00`|`Alternative Online Mods`|
 |[rig slot machines](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677715-rig-slot-machines.html)|`2024-12-17 23:12:00`|`Grand Theft Auto V`|
 |[Any good bases for noobs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677685-bases-noobs.html)|`2024-12-17 23:10:00`|`Counter-Strike 2`|
 |[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2024-12-17 23:09:00`|`Farlight 84`|
