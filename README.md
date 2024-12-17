@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[rig slot machines](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677715-rig-slot-machines.html)|`2024-12-17 23:12:00`|`Grand Theft Auto V`|
+|[Any good bases for noobs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677685-bases-noobs.html)|`2024-12-17 23:10:00`|`Counter-Strike 2`|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2024-12-17 23:09:00`|`Farlight 84`|
 |[Empty session tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677713-empty-session-tool.html)|`2024-12-17 22:46:00`|`Grand Theft Auto V`|
 |[save editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/677712-save-editor.html)|`2024-12-17 22:46:00`|`Phasmophobia`|
 |[KmBox alternative](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/677636-kmbox-alternative.html)|`2024-12-17 22:38:00`|`Valorant`|
