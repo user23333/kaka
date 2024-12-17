@@ -25,9 +25,13 @@
 |99|[Bodycam Internal V0&#46;1&#46;3&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47909)|`2024-12-18 00:13:00`|
 |36|[ChristmasPresent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47902)|`2024-12-18 00:13:00`|
 |286|[cminternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47900)|`2024-12-18 00:13:00`|
+|2|[DayZ&#45;Lazarus](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47906)|`2024-12-18 05:24:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Engine Prediction?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677026-engine-prediction.html)|`2024-12-18 05:22:00`|`Counter-Strike 2`|
+|[DayZ&#45;InternalHack&#45;FullFeatures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/677192-dayz-internalhack-fullfeatures.html)|`2024-12-18 05:18:00`|`DayZ SA`|
+|[Casino Pacino for YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/593469-casino-pacino-yimmenu.html)|`2024-12-18 05:15:00`|`Grand Theft Auto V`|
 |[AFK Bot Lobby Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670285-afk-bot-lobby-guide.html)|`2024-12-18 05:06:00`|`Call of Duty: Black Ops 6`|
 |[Pubg Mobile Global 32 bit internal dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/675253-pubg-mobile-global-32-bit-internal-dll.html)|`2024-12-18 05:04:00`|`PUBG Mobile`|
 |[FiveM sv&#95;pureLevel changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/640619-fivem-sv_purelevel-changer.html)|`2024-12-18 05:03:00`|`Alternative Online Mods`|
