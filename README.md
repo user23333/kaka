@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nickname change on banned account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/677677-nickname-change-banned-account.html)|`2024-12-17 16:25:00`|`Escape from Tarkov`|
+|[Player names externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/671806-player-names-externally.html)|`2024-12-17 16:22:00`|`Alternative Online Mods`|
 |[Need help spoofing acer laptop w insyde bios](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/677684-help-spoofing-acer-laptop-insyde-bios.html)|`2024-12-17 16:03:00`|`Valorant`|
 |[BattlEye &#45; What's Detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677662-battleye-whats-detected.html)|`2024-12-17 15:43:00`|`Grand Theft Auto V`|
 |[Rust Lua Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677056-rust-lua-release.html)|`2024-12-17 15:13:00`|`Rust`|
