@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Lua Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677056-rust-lua-release.html)|`2024-12-17 15:13:00`|`Rust`|
+|[External Closes when in Pure Fivem server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/677681-external-closes-pure-fivem-server.html)|`2024-12-17 15:09:00`|`Alternative Online Mods`|
 |[HyperCE: use your cheat engine in any games&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675770-hyperce-cheat-engine-games.html)|`2024-12-17 14:46:00`|`Anti-Cheat Bypass`|
 |[Finding il2cpp&#95;GetHandle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677680-finding-il2cpp_gethandle.html)|`2024-12-17 14:41:00`|`Rust`|
 |[OverlayCord on DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/661691-overlaycord-dma.html)|`2024-12-17 14:21:00`|`General Programming and Reversing`|
