@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Problem with TPM 2&#46;0 and Security Boot, Problem with TPM 2&#46;0 and Security Boots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/677726-tpm-2-0-security-boot-tpm-2-0-security-boots.html)|`2024-12-18 02:59:00`|`Valorant`|
+|[FamilyMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/631659-familymenu.html)|`2024-12-18 02:58:00`|`Red Dead Redemption 2`|
 |[How is this guy playing with StaffBesting for 2 months without ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/677746-guy-playing-staffbesting-2-months-ban.html)|`2024-12-18 02:53:00`|`Valorant`|
 |[Combat Master &#124; Fully Featured Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/677171-combat-master-featured-internal.html)|`2024-12-18 02:32:00`|`Combat Master`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2024-12-18 02:31:00`|`DayZ SA`|
