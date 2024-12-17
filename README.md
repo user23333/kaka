@@ -11,6 +11,7 @@
 |15|[Strinova Internal &#40;Aimbot & ESP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677105-strinova-internal-aimbot-esp.html)|`2024-12-18 00:13:00`|`other-fps-games`|
 |20|[Hide Window Handle &#45; &#40; Hookless &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/676808-hide-window-handle-hookless.html)|`2024-12-18 00:13:00`|`anti-cheat-bypass`|
 |20|[100% UNDETECTED INJECTOR&#33; &#124; EAC/BE/VGK BYPASS&#33; 🔥🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677613-100-undetected-injector-eac-vgk-bypass.html)|`2024-12-18 00:13:00`|`anti-cheat-bypass`|
+|25|[Combat Master &#124; Fully Featured Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/677171-combat-master-featured-internal.html)|`2024-12-18 04:13:11`|`combat-master`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Centralized Bot Lobby Starter Python Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672158-centralized-bot-lobby-starter-python-script.html)|`2024-12-18 04:12:00`|`Call of Duty: Black Ops 6`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-12-18 04:11:00`|`Valorant`|
+|[valorant hwid spoof tutorial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/677750-valorant-hwid-spoof-tutorial.html)|`2024-12-18 04:07:00`|`Valorant`|
+|[EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677693-eac.html)|`2024-12-18 03:57:00`|`Anti-Cheat Bypass`|
+|[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2024-12-18 03:57:00`|`Palia`|
 |[Strinova Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667041-strinova-reversal-structs-offsets.html)|`2024-12-18 03:47:00`|`Other FPS Games`|
 |[How to equip any item on this game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/591436-equip-item-game.html)|`2024-12-18 03:45:00`|`Paladins`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2024-12-18 03:30:00`|`Other FPS Games`|
