@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Yolov8 model for marvel rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677707-yolov8-model-marvel-rivals.html)|`2024-12-17 23:55:00`|`Other FPS Games`|
 |[Replacing TextureParameter in DynamicMaterialInstance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/665985-replacing-textureparameter-dynamicmaterialinstance.html)|`2024-12-17 23:48:00`|`Valorant`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2024-12-17 23:45:00`|`Counter-Strike 2`|
 |[Need a Dumper or someone that can dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/677716-dumper-dump.html)|`2024-12-17 23:20:00`|`Alternative Online Mods`|
