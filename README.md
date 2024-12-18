@@ -12,6 +12,7 @@
 |20|[Hide Window Handle &#45; &#40; Hookless &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/676808-hide-window-handle-hookless.html)|`2024-12-18 00:13:00`|`anti-cheat-bypass`|
 |20|[100% UNDETECTED INJECTOR&#33; &#124; EAC/BE/VGK BYPASS&#33; 🔥🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677613-100-undetected-injector-eac-vgk-bypass.html)|`2024-12-18 00:13:00`|`anti-cheat-bypass`|
 |25|[Combat Master &#124; Fully Featured Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/677171-combat-master-featured-internal.html)|`2024-12-18 04:13:11`|`combat-master`|
+|23|[EAC DMA cr3 shuffling fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677322-eac-dma-cr3-shuffling-fix.html)|`2024-12-18 12:14:15`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FACEIT DLL Hijack Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677628-faceit-dll-hijack-exploit.html)|`2024-12-18 11:59:00`|`Anti-Cheat Bypass`|
+|[&#124; Dota 2 &#124; Nest of Throns: skills without cooldowns &#124; EXTERNAL &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/677527-dota-2-nest-throns-skills-cooldowns-external.html)|`2024-12-18 11:56:00`|`Other MMORPG and Strategy`|
 |[&#91;DMA&#43;KMBOX&#93; Apex DMA Paste &#45; Glow&#43;Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/622378-dma-kmbox-apex-dma-paste-glow-aim.html)|`2024-12-18 11:45:00`|`Apex Legends`|
 |[Too many DMA threads often lead to software disconnection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/677213-dma-threads-lead-software-disconnection.html)|`2024-12-18 10:59:00`|`Apex Legends`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-12-18 10:44:00`|`Playerunknown's Battlegrounds`|
