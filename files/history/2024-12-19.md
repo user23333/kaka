@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do I find SetValue function in IDA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/677635-setvalue-function-ida.html)|`2024-12-19 03:41:00`|`Garry's Mod`|
+|[Bloodstrike cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677756-bloodstrike-cheat.html)|`2024-12-19 03:41:00`|`Other FPS Games`|
 |[Marvel Rivals Colorbot &#40;Arduino & No Arduino Support&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677136-marvel-rivals-colorbot-arduino-arduino-support.html)|`2024-12-19 03:39:00`|`Marvel Rivals`|
 |[Can you get banned if you use cheats in PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/677830-banned-cheats-pve.html)|`2024-12-19 03:21:00`|`Escape from Tarkov`|
 |[A new addition to our staff team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/677739-addition-staff-team.html)|`2024-12-19 03:19:00`|`Information and Announcements`|
