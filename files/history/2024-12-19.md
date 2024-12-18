@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How update a old CE table with pointers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/670278-update-ce-table-pointers.html)|`2024-12-19 05:45:00`|`Forum General`|
+|[Editing effects without altering the memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675254-editing-effects-altering-memory.html)|`2024-12-19 05:41:00`|`Valorant`|
+|[DMA Guidance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/669223-dma-guidance.html)|`2024-12-19 05:41:00`|`Forum General`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2024-12-19 05:40:00`|`Marvel Rivals`|
 |[Simple Online Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677320-simple-online-bypass.html)|`2024-12-19 05:31:00`|`Grand Theft Auto V`|
 |[How to bypass anti vm with shadow pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/673857-bypass-anti-vm-shadow-pc.html)|`2024-12-19 05:21:00`|`Forum General`|
 |[Auto Ping for Ranked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/677807-auto-ping-ranked.html)|`2024-12-19 05:19:00`|`Call of Duty: Black Ops 6`|
