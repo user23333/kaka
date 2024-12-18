@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CR3 24H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/677506-cr3-24h2.html)|`2024-12-18 22:06:00`|`Apex Legends`|
+|[Apex Rage External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/660129-apex-rage-external-cheat.html)|`2024-12-18 22:05:00`|`Apex Legends`|
+|[EAC Bypass &#40;Temporary&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/627251-eac-bypass-temporary.html)|`2024-12-18 22:04:00`|`Sea of Thieves`|
+|[Project Zomboid Cheat &#45; EsdPZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/584072-project-zomboid-cheat-esdpz.html)|`2024-12-18 22:03:00`|`Other MMORPG and Strategy`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2024-12-18 21:54:00`|`Phasmophobia`|
 |[Mono/IL2CPP Game List](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/590622-mono-il2cpp-game-list.html)|`2024-12-18 21:52:00`|`Unity`|
 |[Nickname change on banned account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/677677-nickname-change-banned-account.html)|`2024-12-18 21:43:00`|`Escape from Tarkov`|
