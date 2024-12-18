@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can you get banned if you use cheats in PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/677830-banned-cheats-pve.html)|`2024-12-19 03:21:00`|`Escape from Tarkov`|
 |[A new addition to our staff team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/677739-addition-staff-team.html)|`2024-12-19 03:19:00`|`Information and Announcements`|
 |[BattlEye &#45; What's Detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677662-battleye-whats-detected.html)|`2024-12-19 03:15:00`|`Grand Theft Auto V`|
 |[Nickname change on banned account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/677677-nickname-change-banned-account.html)|`2024-12-19 03:12:00`|`Escape from Tarkov`|
