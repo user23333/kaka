@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[save editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/677712-save-editor.html)|`2024-12-18 10:11:00`|`Phasmophobia`|
+|[Infinity Nikki Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676624-infinity-nikki-reversal-structs-offsets.html)|`2024-12-18 10:05:00`|`Other FPS Games`|
+|[Steam bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/677815-steam-bans.html)|`2024-12-18 10:02:00`|`Call of Duty: Black Ops 6`|
+|[Growtopia Save&#46;dat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/677811-growtopia-save-dat.html)|`2024-12-18 09:31:00`|`Other Games`|
 |[esp testing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677805-esp-testing.html)|`2024-12-18 09:11:00`|`Rust`|
 |[Easiest Way to Make and Upload Hex Files to Your Arduino Leonardo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/677804-easiest-upload-hex-files-arduino-leonardo.html)|`2024-12-18 08:46:00`|`Valorant`|
 |[Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/677723-offsets.html)|`2024-12-18 08:44:00`|`Garry's Mod`|
