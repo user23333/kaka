@@ -28,9 +28,17 @@
 |4165|[version&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47911)|`2024-12-19 00:12:31`|
 |157|[cfemen & gir489's Ready or Not hook v1&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47910)|`2024-12-19 00:12:31`|
 |142|[Bodycam Internal V0&#46;1&#46;3&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47909)|`2024-12-19 00:12:31`|
+|1|[Auto Updating SAR cheat v1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47914)|`2024-12-19 04:56:07`|
+|1|[SAROffsetFinder v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47913)|`2024-12-19 04:56:07`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Auto Updating Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/636910-auto-updating-super-animal-royale-hack.html)|`2024-12-19 04:55:00`|`Other Games`|
+|[Memory Scanner for THREADSTACK0 and pointers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/677899-memory-scanner-threadstack0-pointers.html)|`2024-12-19 04:53:00`|`General Programming and Reversing`|
+|[Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/465314-super-animal-royale-hack.html)|`2024-12-19 04:50:00`|`Other Games`|
+|[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2024-12-19 04:45:00`|`Grand Theft Auto V`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2024-12-19 04:44:00`|`Other FPS Games`|
+|[Trouble disabling mouse input when imgui menu is open](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677890-trouble-disabling-mouse-input-imgui-menu.html)|`2024-12-19 04:42:00`|`Counter-Strike 2`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-12-19 04:40:00`|`Valorant`|
 |[ecx / midnight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/677339-ecx-midnight.html)|`2024-12-19 04:37:00`|`Team Fortress 2`|
 |[cant inject 64bit image into wow64 process](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/677841-cant-inject-64bit-image-wow64-process.html)|`2024-12-19 04:18:00`|`Team Fortress 2`|
