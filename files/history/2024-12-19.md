@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2024-12-19 00:32:00`|`Valorant`|
+|[Yolov8 model for marvel rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677707-yolov8-model-marvel-rivals.html)|`2024-12-19 00:29:00`|`Other FPS Games`|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-12-19 00:26:00`|`Apex Legends`|
+|[Project Zomboid Cheat &#45; EsdPZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/584072-project-zomboid-cheat-esdpz.html)|`2024-12-19 00:26:00`|`Other MMORPG and Strategy`|
+|[Genesis Bot V1&#46;1&#46;0 &#91;RL Ranked Bot&#93; with Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/677130-genesis-bot-v1-1-0-rl-ranked-bot-source-code.html)|`2024-12-19 00:24:00`|`Other Games`|
+|[Marvel Rivals Colorbot &#40;Arduino & No Arduino Support&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677136-marvel-rivals-colorbot-arduino-arduino-support.html)|`2024-12-19 00:24:00`|`Other FPS Games`|
+|[BO6 SRC INTERNAL RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/677479-bo6-src-internal-release.html)|`2024-12-19 00:19:00`|`Call of Duty: Black Ops 6`|
+|[Path of Exile 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676435-path-exile-2-reversal-structs-offsets.html)|`2024-12-19 00:13:00`|`Other MMORPG and Strategy`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2024-12-19 00:10:00`|`Counter-Strike 2`|
 |[complete preps and heist after Battleye Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/676777-complete-preps-heist-battleye-update.html)|`2024-12-19 00:08:00`|`Grand Theft Auto V`|
 |[Marvel Rivals aimbot and esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677440-marvel-rivals-aimbot-esp.html)|`2024-12-19 00:06:00`|`Other FPS Games`|
