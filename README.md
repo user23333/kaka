@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cold War ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/677838-cold-war-esp.html)|`2024-12-18 20:10:00`|`Call of Duty: Black Ops Cold War`|
+|[Something new](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/677837-something-new.html)|`2024-12-18 20:03:00`|`PUBG Mobile`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2024-12-18 19:58:00`|`Other Games`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2024-12-18 19:48:00`|`Counter-Strike 2 Releases`|
 |[Need help for gtav modding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/677348-help-gtav-modding.html)|`2024-12-18 19:17:00`|`Alternative Online Mods`|
 |[Fallout 76 Text Mod things](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/677834-fallout-76-text-mod.html)|`2024-12-18 19:45:00`|`Off Topic`|
