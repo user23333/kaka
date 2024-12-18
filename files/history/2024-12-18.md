@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-12-18 15:35:00`|`Apex Legends`|
 |[100% UNDETECTED INJECTOR&#33; &#124; EAC/BE/VGK BYPASS&#33; 🔥🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677613-100-undetected-injector-eac-vgk-bypass.html)|`2024-12-18 15:32:00`|`Anti-Cheat Bypass`|
 |[Multiversus Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/677826-multiversus-hack.html)|`2024-12-18 15:00:00`|`Other Games`|
 |[WHelp on Wow64 NtQuerySystemInformation&#40;SystemExtendedHandleInformation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/677825-whelp-wow64-ntquerysysteminformation-systemextendedhandleinformation.html)|`2024-12-18 14:58:00`|`General Programming and Reversing`|
