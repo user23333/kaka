@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[LSCHaX for 1&#46;70 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/224075-lschax-1-70-external.html)|`2024-12-19 01:41:00`|`Grand Theft Auto V`|
+|[Is Rewasd Safe now ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/677879-rewasd-safe.html)|`2024-12-19 01:39:00`|`Apex Legends`|
 |[Updated chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/642477-updated-chams.html)|`2024-12-19 01:30:00`|`Rainbow Six Siege`|
 |[Why do all of my accounts &#60; level 100 get banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/677823-accounts-level-100-banned.html)|`2024-12-19 01:28:00`|`Rainbow Six Siege`|
 |[Pixel Gun 3D Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/663707-pixel-gun-3d-cheat-engine-table.html)|`2024-12-19 01:17:00`|`Cheat Engine Tables`|
