@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cold War ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/677838-cold-war-esp.html)|`2024-12-19 05:54:00`|`Call of Duty: Black Ops Cold War`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2024-12-19 05:52:00`|`League of Legends`|
 |[&#46;NET decompiler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/665997-net-decompiler.html)|`2024-12-19 05:47:00`|`Forum General`|
 |[How update a old CE table with pointers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/670278-update-ce-table-pointers.html)|`2024-12-19 05:45:00`|`Forum General`|
 |[Editing effects without altering the memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675254-editing-effects-altering-memory.html)|`2024-12-19 05:41:00`|`Valorant`|
