@@ -11,6 +11,9 @@
 |35|[Combat Master &#124; Fully Featured Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/677171-combat-master-featured-internal.html)|`2024-12-19 00:12:31`|`combat-master`|
 |13|[Simple Online Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677320-simple-online-bypass.html)|`2024-12-19 00:12:31`|`grand-theft-auto-v`|
 |23|[EAC DMA cr3 shuffling fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677322-eac-dma-cr3-shuffling-fix.html)|`2024-12-19 00:12:31`|`anti-cheat-bypass`|
+|173|[Marvel Rivals aimbot and esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677440-marvel-rivals-aimbot-esp.html)|`2024-12-19 02:54:50`|`marvel-rivals`|
+|42|[Marvel Rivals Colorbot &#40;Arduino & No Arduino Support&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677136-marvel-rivals-colorbot-arduino-arduino-support.html)|`2024-12-19 02:54:50`|`marvel-rivals`|
+|21|[Marvel Rivals Python Instalocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677013-marvel-rivals-python-instalocker.html)|`2024-12-19 02:54:50`|`marvel-rivals`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat Arms: Classic Addresses](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/481026-combat-arms-classic-addresses.html)|`2024-12-19 02:53:00`|`Combat Arms`|
+|[Marvel Rivals aimbot and esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677440-marvel-rivals-aimbot-esp.html)|`2024-12-19 02:20:00`|`Marvel Rivals`|
 |[RainbowSix Internal Rage Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/677592-rainbowsix-internal-rage-source.html)|`2024-12-19 02:24:00`|`Rainbow Six Siege`|
 |[Rose Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/677728-rose-mod-menu.html)|`2024-12-19 02:23:00`|`Red Dead Redemption 2`|
 |[esp testing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677805-esp-testing.html)|`2024-12-19 02:19:00`|`Rust`|
