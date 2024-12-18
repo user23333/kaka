@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[A new addition to our staff team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/677739-addition-staff-team.html)|`2024-12-19 03:19:00`|`Information and Announcements`|
+|[BattlEye &#45; What's Detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677662-battleye-whats-detected.html)|`2024-12-19 03:15:00`|`Grand Theft Auto V`|
+|[Nickname change on banned account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/677677-nickname-change-banned-account.html)|`2024-12-19 03:12:00`|`Escape from Tarkov`|
+|[save editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/677712-save-editor.html)|`2024-12-19 03:09:00`|`Phasmophobia`|
+|[Lockdown Protocol Cheat Table v0&#46;1&#46;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/659299-lockdown-protocol-cheat-table-v0-1-26-a.html)|`2024-12-19 03:05:00`|`Other Games`|
 |[DMA &#40;Entity Esp &#43; Player Bones&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677658-dma-entity-esp-player-bones.html)|`2024-12-19 03:03:00`|`Rust`|
 |[Combat Arms: Classic Addresses](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/481026-combat-arms-classic-addresses.html)|`2024-12-19 02:53:00`|`Combat Arms`|
 |[Marvel Rivals aimbot and esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677440-marvel-rivals-aimbot-esp.html)|`2024-12-19 02:20:00`|`Marvel Rivals`|
