@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BulletTP &#124; Does not hit &#124; Cracked Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677790-bullettp-hit-cracked-rust.html)|`2024-12-19 07:17:00`|`Rust`|
 |[Yolov8 model for marvel rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677707-yolov8-model-marvel-rivals.html)|`2024-12-19 07:15:00`|`Marvel Rivals`|
 |[Basic AMI &#43; ARP spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677766-basic-ami-arp-spoofer.html)|`2024-12-19 07:14:00`|`Anti-Cheat Bypass`|
 |[spoofer not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/676395-spoofer.html)|`2024-12-19 07:11:00`|`Anti-Cheat Bypass`|
