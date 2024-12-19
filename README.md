@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Something new](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/677837-something-new.html)|`2024-12-19 16:41:00`|`PUBG Mobile`|
 |[banning cod server ips to disable hit reg nerfs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673920-banning-cod-server-ips-disable-hit-reg-nerfs.html)|`2024-12-19 15:34:00`|`Call of Duty: Black Ops 6`|
 |[AHK Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/677757-ahk-scripts.html)|`2024-12-19 15:19:00`|`Apex Legends`|
 |[SonyHelper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677820-sonyhelper.html)|`2024-12-19 15:06:00`|`Anti-Cheat Bypass`|
