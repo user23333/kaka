@@ -39,6 +39,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-12-19 11:45:00`|`Deadlock`|
+|[BO6 Windows Edition Uninstalls Itself](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/677933-bo6-windows-edition-uninstalls.html)|`2024-12-19 11:41:00`|`Call of Duty: Black Ops 6`|
+|[DayZ&#45;InternalHack&#45;FullFeatures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/677192-dayz-internalhack-fullfeatures.html)|`2024-12-19 11:40:00`|`DayZ SA`|
+|[Project ideas and suggestions&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/677886-project-ideas-suggestions.html)|`2024-12-19 11:36:00`|`Valorant`|
 |[How to Perm Spoof a SSD NVMe the real way&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667328-perm-spoof-ssd-nvme-real.html)|`2024-12-19 11:31:00`|`Anti-Cheat Bypass`|
 |[Amalgam Paste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/668775-amalgam-paste.html)|`2024-12-19 11:28:00`|`Team Fortress 2`|
 |[Josh's Aim Assist V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670254-joshs-aim-assist-v1.html)|`2024-12-19 11:17:00`|`Call of Duty: Black Ops 6`|
