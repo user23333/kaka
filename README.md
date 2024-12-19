@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dofus 3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/677073-dofus-3-0-a.html)|`2024-12-19 13:15:00`|`Unity`|
 |[Interactive ESP &#91;Internal&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677461-interactive-esp-internal.html)|`2024-12-19 12:29:00`|`Counter-Strike 2`|
 |[Ricochet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677936-ricochet.html)|`2024-12-19 12:21:00`|`Anti-Cheat Bypass`|
 |[&#91;Always Updated&#93; Color aimbot razer mouse injector coded in python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/659124-updated-color-aimbot-razer-mouse-injector-coded-python.html)|`2024-12-19 12:00:00`|`Other FPS Games`|
