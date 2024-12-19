@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/671590-skin-changer.html)|`2024-12-20 03:49:00`|`Counter-Strike 2`|
+|[GTA:SA/SAMP cheat menu mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/677373-gta-sa-samp-cheat-menu-mod.html)|`2024-12-20 03:49:00`|`Other Single Player Games`|
+|[Certeficates leak :&#41; Apple and etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678013-certeficates-leak-apple-etc.html)|`2024-12-20 03:49:00`|`Anti-Cheat Bypass`|
+|[BugCheck 24H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/678010-bugcheck-24h2.html)|`2024-12-20 03:43:00`|`General Programming and Reversing`|
 |[SCS2 &#45; Semi&#45;External Mod for Counter&#45;Strike 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/651580-scs2-semi-external-mod-counter-strike-2-a.html)|`2024-12-20 03:40:00`|`Counter-Strike 2 Releases`|
 |[cfemen & gir489's Ready or Not hook v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632144-cfemen-gir489s-ready-hook-v1-0-a.html)|`2024-12-20 03:26:00`|`Other FPS Games`|
 |[SmmInfect &#45; Smm Backdoor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664482-smminfect-smm-backdoor.html)|`2024-12-20 03:32:00`|`Anti-Cheat Bypass`|
