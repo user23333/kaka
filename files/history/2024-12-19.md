@@ -15,6 +15,7 @@
 |42|[Marvel Rivals Colorbot &#40;Arduino & No Arduino Support&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677136-marvel-rivals-colorbot-arduino-arduino-support.html)|`2024-12-19 02:54:50`|`marvel-rivals`|
 |21|[Marvel Rivals Python Instalocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677013-marvel-rivals-python-instalocker.html)|`2024-12-19 02:54:50`|`marvel-rivals`|
 |9|[Is there a way to continue with online cheating?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/676902-continue-online-cheating.html)|`2024-12-19 04:14:58`|`grand-theft-auto-v`|
+|8|[Valorant ai triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676908-valorant-ai-triggerbot.html)|`2024-12-19 11:03:17`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -38,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Helldivers 2&#45;&#45;AHK Stratagems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/625227-helldivers-2-ahk-stratagems.html)|`2024-12-19 11:00:00`|`HELLDIVERS 2`|
+|[about faceit banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677627-faceit-banned.html)|`2024-12-19 10:55:00`|`Counter-Strike 2`|
 |[Yet another &#45; Bot Lobby Manager for VM/VPS/NO&#45;VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676312-bot-lobby-manager-vm-vps-vm.html)|`2024-12-19 10:02:00`|`Call of Duty: Black Ops 6`|
 |[HyperCE: use your cheat engine in any games&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675770-hyperce-cheat-engine-games.html)|`2024-12-19 09:52:00`|`Anti-Cheat Bypass`|
 |[how to give xp through friend code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/665747-xp-friend-code.html)|`2024-12-19 09:42:00`|`HELLDIVERS 2`|
