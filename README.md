@@ -44,6 +44,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Why there is no hack for this game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/597118-hack-game.html)|`2024-12-19 23:46:00`|`Battlefield 2042`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2024-12-19 23:35:00`|`Other FPS Games`|
 |[Nuclear Nightmare](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/675437-nuclear-nightmare.html)|`2024-12-19 23:23:00`|`Other Games`|
 |[Fault in Non&#45;paged memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677895-fault-paged-memory.html)|`2024-12-19 23:18:00`|`Counter-Strike 2`|
