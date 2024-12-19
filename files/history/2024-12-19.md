@@ -43,6 +43,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Load Custom RPFs With YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677966-load-custom-rpfs-yimmenu.html)|`2024-12-19 21:14:00`|`Grand Theft Auto V`|
 |[Garen Ult execute](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/677963-garen-ult-execute.html)|`2024-12-19 20:44:00`|`League of Legends`|
 |[Start Cheating GTA V &#40;Again&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677832-start-cheating-gta.html)|`2024-12-19 20:40:00`|`Grand Theft Auto V`|
 |[Hooking NtUserValidateHandleSecure](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677959-hooking-ntuservalidatehandlesecure.html)|`2024-12-19 20:33:00`|`Anti-Cheat Bypass`|
