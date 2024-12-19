@@ -27,9 +27,13 @@
 |7|[Super Animal Royale Offset Finder v1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47928)|`2024-12-20 00:13:01`|
 |7|[RocketDumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47926)|`2024-12-20 00:13:01`|
 |1|[CS2External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47952)|`2024-12-20 02:56:36`|
+|2|[UngTool 1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47944)|`2024-12-20 05:09:32`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Trouble disabling mouse input when imgui menu is open](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677890-trouble-disabling-mouse-input-imgui-menu.html)|`2024-12-20 05:05:00`|`Counter-Strike 2`|
+|[UngTool 1&#46;0 &#45; 1&#46;68](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/639045-ungtool-1-0-1-68-a.html)|`2024-12-20 05:03:00`|`Grand Theft Auto V`|
+|[Internal Triggerbot Inaccuracy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/678005-internal-triggerbot-inaccuracy.html)|`2024-12-20 05:00:00`|`Counter-Strike 2`|
 |[Arena Breakout Infinite Internal Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/641795-arena-breakout-infinite-internal-hack.html)|`2024-12-20 04:41:00`|`Other FPS Games`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2024-12-20 04:31:00`|`Apex Legends`|
 |[Odin v4 For Windows 11 24H2/23H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/670695-odin-v4-windows-11-24h2-23h2.html)|`2024-12-20 04:18:00`|`Paladins`|
