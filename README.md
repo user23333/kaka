@@ -16,6 +16,7 @@
 |21|[Marvel Rivals Python Instalocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677013-marvel-rivals-python-instalocker.html)|`2024-12-19 02:54:50`|`marvel-rivals`|
 |9|[Is there a way to continue with online cheating?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/676902-continue-online-cheating.html)|`2024-12-19 04:14:58`|`grand-theft-auto-v`|
 |8|[Valorant ai triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676908-valorant-ai-triggerbot.html)|`2024-12-19 11:03:17`|`valorant`|
+|8|[Genesis Bot V1&#46;1&#46;0 &#91;RL Ranked Bot&#93; with Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/677130-genesis-bot-v1-1-0-rl-ranked-bot-source-code.html)|`2024-12-19 13:47:05`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
