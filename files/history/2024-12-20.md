@@ -31,9 +31,14 @@
 |2|[johanna&#46;cc&#46;deadlock&#46;by&#46;pirolo december update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47957)|`2024-12-20 06:26:44`|
 |1|[asc2&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47936)|`2024-12-20 06:37:04`|
 |5|[R6 Rage Cheat Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47937)|`2024-12-20 07:07:58`|
+|1|[razer rapid fire macros](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47964)|`2024-12-20 07:24:42`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Razer macros: rapid fire](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/677911-razer-macros-rapid-fire.html)|`2024-12-20 07:17:00`|`Call of Duty: Black Ops 6`|
+|[Host&#95;IsSecureServerAllowed sig](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/677806-host_issecureserverallowed-sig.html)|`2024-12-20 07:15:00`|`Team Fortress 2`|
+|[Atom V4 Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crysis/677859-atom-v4-source-code.html)|`2024-12-20 07:15:00`|`Crysis`|
+|[Arduino FirmWare UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676366-arduino-firmware-ud.html)|`2024-12-20 07:13:00`|`Valorant`|
 |[Fivem external anti headshot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/677656-fivem-external-anti-headshot.html)|`2024-12-20 07:03:00`|`Alternative Online Mods`|
 |[Basic Kernel Driver Source &#91;Foundational&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677856-basic-kernel-driver-source-foundational.html)|`2024-12-20 06:55:00`|`Anti-Cheat Bypass`|
 |[Auto IDA64 script python BaseNetworkable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677705-auto-ida64-script-python-basenetworkable.html)|`2024-12-20 06:54:00`|`Rust`|
