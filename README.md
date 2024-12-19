@@ -28,9 +28,11 @@
 |7|[RocketDumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47926)|`2024-12-20 00:13:01`|
 |1|[CS2External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47952)|`2024-12-20 02:56:36`|
 |2|[UngTool 1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47944)|`2024-12-20 05:09:32`|
+|2|[johanna&#46;cc&#46;deadlock&#46;by&#46;pirolo december update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47957)|`2024-12-20 06:26:44`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Triggerbot won't detect the head color outline](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/678049-triggerbot-wont-detect-head-color-outline.html)|`2024-12-20 06:20:00`|`Valorant`|
 |[Cold War ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/677838-cold-war-esp.html)|`2024-12-20 05:38:00`|`Call of Duty: Black Ops Cold War`|
 |[Phasmophobia cheat hub](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/677606-phasmophobia-cheat-hub.html)|`2024-12-20 05:38:00`|`Phasmophobia`|
 |[Aim Assist in pure C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675938-aim-assist-pure.html)|`2024-12-20 05:38:00`|`Valorant`|
