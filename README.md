@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RLMarlbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/633336-rlmarlbot.html)|`2024-12-20 02:33:00`|`Other Games`|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2024-12-20 02:33:00`|`Grand Theft Auto V`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2024-12-20 02:29:00`|`Counter-Strike 2`|
+|[Kernel Driver EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/678003-kernel-driver-eac.html)|`2024-12-20 02:29:00`|`Rust`|
+|[BO6 Windows Edition Uninstalls Itself](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/677933-bo6-windows-edition-uninstalls.html)|`2024-12-20 02:29:00`|`Call of Duty: Black Ops 6`|
+|[Helldivers 2&#45;&#45;AHK Stratagems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/625227-helldivers-2-ahk-stratagems.html)|`2024-12-20 02:23:00`|`HELLDIVERS 2`|
 |[Frameware Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/677239-frameware-release.html)|`2024-12-20 02:00:00`|`Overwatch`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2024-12-20 01:54:00`|`Escape from Tarkov`|
 |[esp testing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677805-esp-testing.html)|`2024-12-20 01:53:00`|`Rust`|
