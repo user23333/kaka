@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[D3D11RenderThread Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/678052-d3d11renderthread-crash.html)|`2024-12-20 06:46:00`|`Counter-Strike 2`|
 |[Assassin's Creed 2 Memory Modifier](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/677546-assassins-creed-2-memory-modifier.html)|`2024-12-20 06:36:00`|`Other Single Player Games`|
 |[Updated chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/642477-updated-chams.html)|`2024-12-20 06:33:00`|`Rainbow Six Siege`|
 |[Triggerbot won't detect the head color outline](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/678049-triggerbot-wont-detect-head-color-outline.html)|`2024-12-20 06:20:00`|`Valorant`|
