@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Infinite Internal Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/641795-arena-breakout-infinite-internal-hack.html)|`2024-12-19 08:25:00`|`Other FPS Games`|
+|[Kernel threads](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677896-kernel-threads.html)|`2024-12-19 08:23:00`|`Anti-Cheat Bypass`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2024-12-19 08:09:00`|`Rainbow Six Siege`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2024-12-19 07:48:00`|`Grand Theft Auto V`|
 |[Black ops 6 afk mp bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/677676-black-ops-6-afk-mp-bypass.html)|`2024-12-19 07:29:00`|`Call of Duty: Black Ops 6`|
 |[BulletTP &#124; Does not hit &#124; Cracked Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677790-bullettp-hit-cracked-rust.html)|`2024-12-19 07:17:00`|`Rust`|
