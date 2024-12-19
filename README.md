@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Lua Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677056-rust-lua-release.html)|`2024-12-20 05:28:00`|`Rust`|
+|[BO6 Enhanced Color Aim AHK GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671390-bo6-enhanced-color-aim-ahk-gui.html)|`2024-12-20 05:25:00`|`Call of Duty: Black Ops 6`|
 |[Trouble disabling mouse input when imgui menu is open](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677890-trouble-disabling-mouse-input-imgui-menu.html)|`2024-12-20 05:05:00`|`Counter-Strike 2`|
 |[UngTool 1&#46;0 &#45; 1&#46;68](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/639045-ungtool-1-0-1-68-a.html)|`2024-12-20 05:03:00`|`Grand Theft Auto V`|
 |[Internal Triggerbot Inaccuracy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/678005-internal-triggerbot-inaccuracy.html)|`2024-12-20 05:00:00`|`Counter-Strike 2`|
