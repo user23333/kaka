@@ -30,9 +30,15 @@
 |2|[UngTool 1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47944)|`2024-12-20 05:09:32`|
 |2|[johanna&#46;cc&#46;deadlock&#46;by&#46;pirolo december update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47957)|`2024-12-20 06:26:44`|
 |1|[asc2&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47936)|`2024-12-20 06:37:04`|
+|5|[R6 Rage Cheat Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47937)|`2024-12-20 07:07:58`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fivem external anti headshot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/677656-fivem-external-anti-headshot.html)|`2024-12-20 07:03:00`|`Alternative Online Mods`|
+|[Basic Kernel Driver Source &#91;Foundational&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677856-basic-kernel-driver-source-foundational.html)|`2024-12-20 06:55:00`|`Anti-Cheat Bypass`|
+|[Auto IDA64 script python BaseNetworkable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677705-auto-ida64-script-python-basenetworkable.html)|`2024-12-20 06:54:00`|`Rust`|
+|[MacOS Rust External ESP w/ Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/676320-macos-rust-external-esp-bypass.html)|`2024-12-20 06:53:00`|`Rust`|
+|[RainbowSix Internal Rage Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/677592-rainbowsix-internal-rage-source.html)|`2024-12-20 06:52:00`|`Rainbow Six Siege`|
 |[D3D11RenderThread Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/678052-d3d11renderthread-crash.html)|`2024-12-20 06:46:00`|`Counter-Strike 2`|
 |[Assassin's Creed 2 Memory Modifier](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/677546-assassins-creed-2-memory-modifier.html)|`2024-12-20 06:36:00`|`Other Single Player Games`|
 |[Updated chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/642477-updated-chams.html)|`2024-12-20 06:33:00`|`Rainbow Six Siege`|
