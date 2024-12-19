@@ -43,6 +43,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Garen Ult execute](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/677963-garen-ult-execute.html)|`2024-12-19 20:44:00`|`League of Legends`|
+|[Start Cheating GTA V &#40;Again&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677832-start-cheating-gta.html)|`2024-12-19 20:40:00`|`Grand Theft Auto V`|
+|[Hooking NtUserValidateHandleSecure](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677959-hooking-ntuservalidatehandlesecure.html)|`2024-12-19 20:33:00`|`Anti-Cheat Bypass`|
 |[i coded this abbomination](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/675239-coded-abbomination.html)|`2024-12-19 19:43:00`|`Off Topic`|
 |[Rust Lua Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677056-rust-lua-release.html)|`2024-12-19 19:43:00`|`Rust`|
 |[CS2 external esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/600259-cs2-external-esp.html)|`2024-12-19 19:36:00`|`Counter-Strike 2 Releases`|
