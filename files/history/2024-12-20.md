@@ -37,6 +37,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BincoHaX for 1&#46;70 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/250308-bincohax-1-70-external.html)|`2024-12-20 16:13:00`|`Grand Theft Auto V`|
+|[War Thunder offset dumper source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/667525-war-thunder-offset-dumper-source.html)|`2024-12-20 16:09:00`|`Other MMORPG and Strategy`|
+|[Dark and Darker &#91;Aimbot,Esp,Misc&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/618062-dark-darker-aimbot-esp-misc.html)|`2024-12-20 15:33:00`|`Other FPS Games`|
 |[Josh's Aim Assist V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670254-joshs-aim-assist-v1.html)|`2024-12-20 15:56:00`|`Call of Duty: Black Ops 6`|
 |[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2024-12-20 14:01:00`|`Other FPS Games`|
 |[Hunt Showdown Internal or External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677824-hunt-showdown-internal-external.html)|`2024-12-20 13:57:00`|`Other FPS Games`|
