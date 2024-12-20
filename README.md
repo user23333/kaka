@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC DMA cr3 shuffling fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677322-eac-dma-cr3-shuffling-fix.html)|`2024-12-21 04:11:00`|`Anti-Cheat Bypass`|
+|[ChatGPT&#45;Hook By Narov](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/678198-chatgpt-hook-narov.html)|`2024-12-21 04:06:00`|`Team Fortress 2`|
+|[VPN error when searching a game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/678197-vpn-error-searching-game.html)|`2024-12-21 04:05:00`|`Call of Duty: Black Ops 6`|
+|[Temporary VAC Bans &#45; 24h](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/678196-temporary-vac-bans-24h.html)|`2024-12-21 04:01:00`|`Counter-Strike 2`|
+|[USN Journal hooking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/678195-usn-journal-hooking.html)|`2024-12-21 03:57:00`|`General Programming and Reversing`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2024-12-21 03:52:00`|`Sea of Thieves`|
 |[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2024-12-21 03:49:00`|`Farlight 84`|
 |[head bone position](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/677595-head-bone-position.html)|`2024-12-21 03:41:00`|`Call of Duty: Black Ops 6`|
