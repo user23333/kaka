@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2024-12-21 03:49:00`|`Farlight 84`|
 |[head bone position](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/677595-head-bone-position.html)|`2024-12-21 03:41:00`|`Call of Duty: Black Ops 6`|
 |[how to bypass server ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/678191-bypass-server-ban.html)|`2024-12-21 03:34:00`|`Alternative Online Mods`|
 |[Driver advice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678063-driver-advice.html)|`2024-12-21 03:32:00`|`Anti-Cheat Bypass`|
