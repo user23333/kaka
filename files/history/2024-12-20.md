@@ -37,6 +37,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BSOD When calling GetModuleBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/678000-bsod-calling-getmodulebase.html)|`2024-12-20 10:49:00`|`General Programming and Reversing`|
+|[How do I find SetValue function in IDA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/677635-setvalue-function-ida.html)|`2024-12-20 10:49:00`|`Garry's Mod`|
+|[Driver advice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678063-driver-advice.html)|`2024-12-20 10:40:00`|`Anti-Cheat Bypass`|
+|[Centralized Bot Lobby Starter Python Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672158-centralized-bot-lobby-starter-python-script.html)|`2024-12-20 10:30:00`|`Call of Duty: Black Ops 6`|
 |[how to give xp through friend code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/665747-xp-friend-code.html)|`2024-12-20 09:35:00`|`HELLDIVERS 2`|
 |[Shot Around Walls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/678067-shot-walls.html)|`2024-12-20 09:31:00`|`Escape from Tarkov`|
 |[W11 24H2 data ptr driver communication method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/652498-w11-24h2-data-ptr-driver-communication-method.html)|`2024-12-20 09:26:00`|`Anti-Cheat Bypass`|
