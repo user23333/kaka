@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[D3D11RenderThread Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/678052-d3d11renderthread-crash.html)|`2024-12-21 00:36:00`|`Counter-Strike 2`|
+|[How do i find and insert CFeatures into my project?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677630-insert-cfeatures-project.html)|`2024-12-21 00:30:00`|`Counter-Strike 2`|
+|[Helldivers 2&#45;&#45;AHK Stratagems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/625227-helldivers-2-ahk-stratagems.html)|`2024-12-21 00:29:00`|`HELLDIVERS 2`|
+|[Fix Vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/669238-fix-vehicle.html)|`2024-12-21 00:26:00`|`Alternative Online Mods`|
+|[cfemen & gir489's Satisfactory Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661834-cfemen-gir489s-satisfactory-cheat.html)|`2024-12-21 00:26:00`|`Other FPS Games`|
 |[Question about vac monitoring](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677793-question-vac-monitoring.html)|`2024-12-21 00:21:00`|`Counter-Strike 2`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2024-12-21 00:15:00`|`Other FPS Games`|
 |[Help with Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676632-help-crash.html)|`2024-12-21 00:11:00`|`Counter-Strike 2`|
