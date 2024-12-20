@@ -12,6 +12,7 @@
 |9|[YimMenu&#46;dll 1&#46;70 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678007-yimmenu-dll-1-70-update.html)|`2024-12-21 00:21:11`|`grand-theft-auto-v`|
 |12|[FACEIT DLL Hijack Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677628-faceit-dll-hijack-exploit.html)|`2024-12-21 00:21:11`|`anti-cheat-bypass`|
 |12|[RainbowSix Internal Rage Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/677592-rainbowsix-internal-rage-source.html)|`2024-12-21 03:25:47`|`rainbow-six-siege`|
+|4|[Start Cheating GTA V &#40;Again&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677832-start-cheating-gta.html)|`2024-12-21 07:54:44`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ImGui Multiviewport with internal overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/direct3d/678215-imgui-multiviewport-internal-overlay.html)|`2024-12-21 07:51:00`|`Direct3D`|
+|[DMA Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/655804-dma-radar.html)|`2024-12-21 07:50:00`|`Apex Legends`|
+|[Lavender Premium External Source with Anti Cheat Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/659043-lavender-premium-external-source-anti-cheat-bypass.html)|`2024-12-21 07:48:00`|`Alternative Online Mods`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2024-12-21 07:48:00`|`Call of Duty: Black Ops 6`|
 |[Rocket League &#45; Dumper &#40;x64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/402519-rocket-league-dumper-x64.html)|`2024-12-21 07:36:00`|`Other FPS Games`|
 |[Simple Online Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677320-simple-online-bypass.html)|`2024-12-21 07:17:00`|`Grand Theft Auto V`|
