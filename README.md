@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal &#40;How to find offsets into the memory&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/678206-internal-offsets-memory.html)|`2024-12-21 06:25:00`|`Garry's Mod`|
+|[Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/677723-offsets.html)|`2024-12-21 06:20:00`|`Garry's Mod`|
+|[RainbowSix Internal Rage Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/677592-rainbowsix-internal-rage-source.html)|`2024-12-21 06:19:00`|`Rainbow Six Siege`|
+|[DayZ&#45;InternalHack&#45;FullFeatures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/677192-dayz-internalhack-fullfeatures.html)|`2024-12-21 06:19:00`|`DayZ SA`|
+|[I need help starting in gmod internal cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/677848-help-starting-gmod-internal-cheating.html)|`2024-12-21 06:17:00`|`Garry's Mod`|
 |[FC25 Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/666895-fc25-reversal.html)|`2024-12-21 06:11:00`|`Other Games`|
 |[DMA &#40;Entity Esp &#43; Player Bones&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677658-dma-entity-esp-player-bones.html)|`2024-12-21 05:26:00`|`Rust`|
 |[How is this guy playing with StaffBesting for 2 months without ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/677746-guy-playing-staffbesting-2-months-ban.html)|`2024-12-21 05:23:00`|`Valorant`|
