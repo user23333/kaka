@@ -37,6 +37,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to give xp through friend code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/665747-xp-friend-code.html)|`2024-12-20 09:35:00`|`HELLDIVERS 2`|
+|[Shot Around Walls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/678067-shot-walls.html)|`2024-12-20 09:31:00`|`Escape from Tarkov`|
+|[W11 24H2 data ptr driver communication method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/652498-w11-24h2-data-ptr-driver-communication-method.html)|`2024-12-20 09:26:00`|`Anti-Cheat Bypass`|
+|[rig slot machines](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677715-rig-slot-machines.html)|`2024-12-20 09:22:00`|`Grand Theft Auto V`|
+|[Load Custom RPFs With YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677966-load-custom-rpfs-yimmenu.html)|`2024-12-20 09:20:00`|`Grand Theft Auto V`|
+|[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2024-12-20 09:12:00`|`Escape from Tarkov`|
 |[BotOps Hub &#40;bot lobby tool, no VM required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674129-botops-hub-bot-lobby-tool-vm-required.html)|`2024-12-20 08:37:00`|`Call of Duty: Black Ops 6`|
 |[EAC DMA cr3 shuffling fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677322-eac-dma-cr3-shuffling-fix.html)|`2024-12-20 08:34:00`|`Anti-Cheat Bypass`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2024-12-20 08:22:00`|`DayZ SA`|
