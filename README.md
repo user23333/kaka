@@ -40,6 +40,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AI Aimbot for Multiple FPS and 3PS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677901-ai-aimbot-multiple-fps-3ps.html)|`2024-12-21 11:52:00`|`Other FPS Games`|
+|[The Cheesing Within l Death Note The Killer Within Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/675838-cheesing-death-note-killer-internal-cheat.html)|`2024-12-21 11:50:00`|`Other Games`|
+|[Plutonium MW3 internal Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/492220-plutonium-mw3-internal-hack.html)|`2024-12-21 11:43:00`|`Call of Duty: Modern Warfare 3`|
+|[How do i hook imgui Using OpenGL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/669233-hook-imgui-using-opengl.html)|`2024-12-21 11:39:00`|`C and C++`|
 |[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2024-12-21 11:41:00`|`Escape from Tarkov`|
 |[OW Color Trigger &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/678234-ow-color-trigger-source.html)|`2024-12-21 11:33:00`|`Overwatch`|
 |[Rust Lua Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677056-rust-lua-release.html)|`2024-12-21 11:24:00`|`Rust`|
