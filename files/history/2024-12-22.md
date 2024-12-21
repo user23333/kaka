@@ -12,6 +12,7 @@
 |4|[Start Cheating GTA V &#40;Again&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677832-start-cheating-gta.html)|`2024-12-22 00:15:44`|`grand-theft-auto-v`|
 |11|[BO6 SRC INTERNAL RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/677479-bo6-src-internal-release.html)|`2024-12-22 00:15:44`|`call-of-duty-black-ops-6-a`|
 |5|[BattlEye &#45; What's Detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677662-battleye-whats-detected.html)|`2024-12-22 03:00:00`|`grand-theft-auto-v`|
+|20|[Certeficates leak :&#41; Apple and etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678013-certeficates-leak-apple-etc.html)|`2024-12-22 04:44:51`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
