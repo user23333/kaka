@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RCS not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/678404-rcs.html)|`2024-12-22 06:48:00`|`Counter-Strike 2`|
 |[Driver advice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678063-driver-advice.html)|`2024-12-22 06:42:00`|`Anti-Cheat Bypass`|
 |[The Truth Bar Menu &#45; V0&#46;1 &#124; Liar's bar internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667906-truth-bar-menu-v0-1-liars-bar-internal-cheat.html)|`2024-12-22 06:37:00`|`Other Games`|
 |[OW Color Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/677675-ow-color-triggerbot.html)|`2024-12-22 06:23:00`|`Overwatch`|
