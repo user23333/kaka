@@ -40,6 +40,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Odin v4 For Windows 11 24H2/23H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/670695-odin-v4-windows-11-24h2-23h2.html)|`2024-12-21 12:49:00`|`Paladins`|
 |[Certeficates leak :&#41; Apple and etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678013-certeficates-leak-apple-etc.html)|`2024-12-21 12:43:00`|`Anti-Cheat Bypass`|
 |[KMBOX NET](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/677368-kmbox-net.html)|`2024-12-21 12:26:00`|`Forum General`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2024-12-21 12:24:00`|`Counter-Strike 2`|
