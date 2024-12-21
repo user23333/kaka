@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant DTC cheats to use cuz bored](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/678213-valorant-dtc-cheats-cuz-bored.html)|`2024-12-22 02:48:00`|`Valorant`|
+|[Accurate virtual to physical address translation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678372-accurate-virtual-physical-address-translation.html)|`2024-12-22 02:47:00`|`Anti-Cheat Bypass`|
 |[Is Rewasd Safe now ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/677879-rewasd-safe.html)|`2024-12-22 02:41:00`|`Apex Legends`|
 |[Host&#95;IsSecureServerAllowed sig](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/677806-host_issecureserverallowed-sig.html)|`2024-12-22 02:34:00`|`Team Fortress 2`|
 |[i need infos about injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678286-infos-injector.html)|`2024-12-22 02:33:00`|`Marvel Rivals`|
