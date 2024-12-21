@@ -43,6 +43,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BugCheck 24H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/678010-bugcheck-24h2.html)|`2024-12-21 23:38:00`|`General Programming and Reversing`|
 |[Linux &#45; Bypassing VAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/634811-linux-bypassing-vac.html)|`2024-12-21 23:27:00`|`Counter-Strike 2`|
 |[Rust arduino cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/678298-rust-arduino-cheat.html)|`2024-12-21 23:26:00`|`Rust`|
 |[Free Weekend](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/678296-free-weekend.html)|`2024-12-21 23:22:00`|`Escape from Tarkov`|
