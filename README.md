@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Certeficates leak :&#41; Apple and etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678013-certeficates-leak-apple-etc.html)|`2024-12-22 01:52:00`|`Anti-Cheat Bypass`|
+|[SSDT hooking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/678312-ssdt-hooking.html)|`2024-12-22 01:51:00`|`C and C++`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2024-12-22 01:50:00`|`Other FPS Games`|
 |[External aimbot in c&#35; using InputSimulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/678284-external-aimbot-using-inputsimulator.html)|`2024-12-22 01:48:00`|`Escape from Tarkov`|
 |[skin name and icon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/678163-skin-name-icon.html)|`2024-12-22 01:47:00`|`Counter-Strike 2`|
 |[Free Weekend](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/678296-free-weekend.html)|`2024-12-22 01:45:00`|`Escape from Tarkov`|
