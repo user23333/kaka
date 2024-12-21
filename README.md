@@ -43,6 +43,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[external glow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/678278-external-glow.html)|`2024-12-21 21:11:00`|`Counter-Strike 2`|
 |[Undetectable among us Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/637492-undetectable-cheat.html)|`2024-12-21 20:59:00`|`Among Us`|
 |[Tricking vgc to bypass the pop&#45;up](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/671978-tricking-vgc-bypass-pop.html)|`2024-12-21 20:49:00`|`Valorant`|
 |[Ni no Kuni: CrossWorlds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/500789-ni-kuni-crossworlds.html)|`2024-12-21 20:35:00`|`Other MMORPG and Strategy`|
