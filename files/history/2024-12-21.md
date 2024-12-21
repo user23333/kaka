@@ -43,6 +43,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex CV YOLO v8 Aim Assist Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/624584-apex-cv-yolo-v8-aim-assist-bot.html)|`2024-12-21 22:38:00`|`Apex Legends`|
+|[Modded with frends legit/modded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678291-modded-frends-legit-modded.html)|`2024-12-21 22:37:00`|`Grand Theft Auto V`|
+|[i need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678290-help.html)|`2024-12-21 22:36:00`|`Grand Theft Auto V`|
+|[Claim vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678287-claim-vehicle.html)|`2024-12-21 22:29:00`|`Grand Theft Auto V`|
+|[i need infos about injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678286-infos-injector.html)|`2024-12-21 22:24:00`|`Marvel Rivals`|
 |[Paladins Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/217341-paladins-reversal-structs-offsets.html)|`2024-12-21 22:13:00`|`Paladins`|
 |[External aimbot in c&#35; using InputSimulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/678284-external-aimbot-using-inputsimulator.html)|`2024-12-21 22:01:00`|`Escape from Tarkov`|
 |[CR3 24H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/677506-cr3-24h2.html)|`2024-12-21 21:52:00`|`Apex Legends`|
