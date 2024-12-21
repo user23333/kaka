@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BotOps Hub &#40;bot lobby tool, no VM required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674129-botops-hub-bot-lobby-tool-vm-required.html)|`2024-12-22 05:27:00`|`Call of Duty: Black Ops 6`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2024-12-22 05:23:00`|`Alternative Online Mods`|
+|[How to play casino alone ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678293-play-casino.html)|`2024-12-22 05:23:00`|`Grand Theft Auto V`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2024-12-22 05:22:00`|`League of Legends`|
+|[RocketLeague Tool &#91;Function Logger &#43; Object Explorer&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/651431-rocketleague-tool-function-logger-object-explorer.html)|`2024-12-22 05:19:00`|`Other Games`|
 |[Modded with frends legit/modded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678291-modded-frends-legit-modded.html)|`2024-12-22 05:20:00`|`Grand Theft Auto V`|
 |[Undetected injector EAC &#40;22&#46;12&#46;2024&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678400-undetected-injector-eac-22-12-2024-a.html)|`2024-12-22 05:16:00`|`Anti-Cheat Bypass`|
 |[CS2External Aim/Esp/Misc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/673859-cs2external-aim-esp-misc.html)|`2024-12-22 05:13:00`|`Counter-Strike 2 Releases`|
