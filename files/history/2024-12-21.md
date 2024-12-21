@@ -40,6 +40,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2024-12-21 17:53:00`|`Grand Theft Auto V`|
 |[Arena Breakout without AC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/678253-arena-breakout-ac.html)|`2024-12-21 17:44:00`|`Other FPS Games`|
 |[DMA Guidance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/669223-dma-guidance.html)|`2024-12-21 17:43:00`|`Forum General`|
 |[How To Unlock the New Noose Outfit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678251-unlock-noose-outfit.html)|`2024-12-21 17:20:00`|`Grand Theft Auto V`|
