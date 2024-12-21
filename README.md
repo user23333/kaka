@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BincoHaX for 1&#46;70 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/250308-bincohax-1-70-external.html)|`2024-12-22 03:43:00`|`Grand Theft Auto V`|
+|[DAYZ Source External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/678388-dayz-source-external.html)|`2024-12-22 03:40:00`|`DayZ SA`|
 |[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-12-22 03:33:00`|`Counter-Strike 2`|
 |[Shot Around Walls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/678067-shot-walls.html)|`2024-12-22 03:31:00`|`Escape from Tarkov`|
 |[Shadow Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/678302-shadow-bans.html)|`2024-12-22 03:31:00`|`Call of Duty: Black Ops 6`|
