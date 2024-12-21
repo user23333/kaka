@@ -27,9 +27,17 @@
 |155|[CS2External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47952)|`2024-12-21 00:21:11`|
 |346|[MarvelRivals&#95;V1&#46;onnx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47945)|`2024-12-21 00:21:11`|
 |3|[HelDriver&#95;Ver1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47958)|`2024-12-21 02:33:21`|
+|1|[SoT offset and SDK dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47991)|`2024-12-21 08:35:42`|
+|1|[mhur external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47990)|`2024-12-21 08:35:42`|
+|2|[HoloCure](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47989)|`2024-12-21 08:35:42`|
+|2|[cs2go](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47988)|`2024-12-21 08:35:42`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do I start learning c&#43;&#43; to make my own dma reading memory only cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/678219-start-learning-own-dma-reading-memory-cheat.html)|`2024-12-21 08:35:00`|`Rainbow Six Siege`|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2024-12-21 08:30:00`|`Counter-Strike 2 Releases`|
+|[lib injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/678218-lib-injection.html)|`2024-12-21 08:21:00`|`PUBG Mobile`|
+|[HoloCure Simple Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/514570-holocure-simple-cheat.html)|`2024-12-21 08:19:00`|`Other Games`|
 |[ImGui Multiviewport with internal overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/direct3d/678215-imgui-multiviewport-internal-overlay.html)|`2024-12-21 07:51:00`|`Direct3D`|
 |[DMA Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/655804-dma-radar.html)|`2024-12-21 07:50:00`|`Apex Legends`|
 |[Lavender Premium External Source with Anti Cheat Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/659043-lavender-premium-external-source-anti-cheat-bypass.html)|`2024-12-21 07:48:00`|`Alternative Online Mods`|
