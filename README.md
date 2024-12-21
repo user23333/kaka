@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External aimbot in c&#35; using InputSimulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/678284-external-aimbot-using-inputsimulator.html)|`2024-12-22 01:48:00`|`Escape from Tarkov`|
+|[skin name and icon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/678163-skin-name-icon.html)|`2024-12-22 01:47:00`|`Counter-Strike 2`|
+|[Free Weekend](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/678296-free-weekend.html)|`2024-12-22 01:45:00`|`Escape from Tarkov`|
 |[Dump EAC your usermode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678130-dump-eac-usermode.html)|`2024-12-22 01:31:00`|`Anti-Cheat Bypass`|
 |[The Finals ColorBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/669800-finals-colorbot.html)|`2024-12-22 01:31:00`|`THE FINALS`|
 |[Why ns dont work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/678308-ns-dont.html)|`2024-12-22 01:18:00`|`Counter-Strike 2`|
