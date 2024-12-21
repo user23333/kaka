@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Helldiver 2 cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/676665-helldiver-2-cheats.html)|`2024-12-22 03:12:00`|`HELLDIVERS 2`|
+|[Basic AMI &#43; ARP spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677766-basic-ami-arp-spoofer.html)|`2024-12-22 03:08:00`|`Anti-Cheat Bypass`|
+|[esp testing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677805-esp-testing.html)|`2024-12-22 03:01:00`|`Rust`|
+|[Which language would be better for making a external cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/678042-language-external-cheat.html)|`2024-12-22 03:00:00`|`Rust`|
 |[A new addition to our staff team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/677739-addition-staff-team.html)|`2024-12-22 02:59:00`|`Information and Announcements`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2024-12-22 02:58:00`|`Grand Theft Auto V`|
 |[TOP MACRO Logitech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668884-top-macro-logitech.html)|`2024-12-22 02:58:00`|`Rust`|
