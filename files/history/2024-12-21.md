@@ -40,6 +40,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout without AC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/678253-arena-breakout-ac.html)|`2024-12-21 17:44:00`|`Other FPS Games`|
+|[DMA Guidance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/669223-dma-guidance.html)|`2024-12-21 17:43:00`|`Forum General`|
 |[How To Unlock the New Noose Outfit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678251-unlock-noose-outfit.html)|`2024-12-21 17:20:00`|`Grand Theft Auto V`|
 |[Free HWID Spoofer &#40;KERNEL, EAC/EAC UD&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/426540-free-hwid-spoofer-kernel-eac-eac-ud.html)|`2024-12-21 17:04:00`|`Anti-Cheat Bypass`|
 |[Finding offsets and Dumping lib](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/443848-finding-offsets-dumping-lib.html)|`2024-12-21 17:03:00`|`PUBG Mobile`|
