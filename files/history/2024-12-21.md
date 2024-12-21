@@ -43,6 +43,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Paladins Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/217341-paladins-reversal-structs-offsets.html)|`2024-12-21 22:13:00`|`Paladins`|
+|[External aimbot in c&#35; using InputSimulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/678284-external-aimbot-using-inputsimulator.html)|`2024-12-21 22:01:00`|`Escape from Tarkov`|
 |[CR3 24H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/677506-cr3-24h2.html)|`2024-12-21 21:52:00`|`Apex Legends`|
 |[DMA Radar v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/639021-dma-radar-v2.html)|`2024-12-21 21:47:00`|`Escape from Tarkov`|
 |[FiveM sv&#95;pureLevel changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/640619-fivem-sv_purelevel-changer.html)|`2024-12-21 21:33:00`|`Alternative Online Mods`|
