@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is Rewasd Safe now ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/677879-rewasd-safe.html)|`2024-12-22 02:41:00`|`Apex Legends`|
+|[Host&#95;IsSecureServerAllowed sig](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/677806-host_issecureserverallowed-sig.html)|`2024-12-22 02:34:00`|`Team Fortress 2`|
+|[i need infos about injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678286-infos-injector.html)|`2024-12-22 02:33:00`|`Marvel Rivals`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2024-12-22 02:28:00`|`Escape from Tarkov`|
 |[YimMenu&#46;dll 1&#46;70 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678007-yimmenu-dll-1-70-update.html)|`2024-12-22 02:28:00`|`Grand Theft Auto V`|
 |[Schlachtfeld 1 &#45; Internal Visual ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/654049-schlachtfeld-1-internal-visual-esp.html)|`2024-12-22 02:27:00`|`Battlefield 1`|
