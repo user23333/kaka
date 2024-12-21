@@ -13,6 +13,7 @@
 |12|[FACEIT DLL Hijack Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677628-faceit-dll-hijack-exploit.html)|`2024-12-21 00:21:11`|`anti-cheat-bypass`|
 |12|[RainbowSix Internal Rage Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/677592-rainbowsix-internal-rage-source.html)|`2024-12-21 03:25:47`|`rainbow-six-siege`|
 |4|[Start Cheating GTA V &#40;Again&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677832-start-cheating-gta.html)|`2024-12-21 07:54:44`|`grand-theft-auto-v`|
+|11|[BO6 SRC INTERNAL RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/677479-bo6-src-internal-release.html)|`2024-12-21 10:50:09`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -39,6 +40,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Yolov8 model for marvel rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677707-yolov8-model-marvel-rivals.html)|`2024-12-21 10:36:00`|`Marvel Rivals`|
+|[Any way to Making Cash with Battleeye / Yimmenu ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678227-cash-battleeye-yimmenu.html)|`2024-12-21 10:20:00`|`Grand Theft Auto V`|
+|[VALORANT MINION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673460-valorant-minion.html)|`2024-12-21 10:12:00`|`Valorant`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2024-12-21 10:11:00`|`League of Legends`|
 |[Marvel Rivals aimbot and esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677440-marvel-rivals-aimbot-esp.html)|`2024-12-21 09:39:00`|`Marvel Rivals`|
 |[Basic AMI &#43; ARP spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677766-basic-ami-arp-spoofer.html)|`2024-12-21 09:36:00`|`Anti-Cheat Bypass`|
 |[Any working unturned cheats? &#40;December 2024&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676529-unturned-cheats-december-2024-a.html)|`2024-12-21 09:33:00`|`Other FPS Games`|
