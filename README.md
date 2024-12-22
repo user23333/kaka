@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Definitive Ultimate Cheatpack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/633084-definitive-ultimate-cheatpack.html)|`2024-12-23 07:05:00`|`Star Wars Battlefront 2`|
+|[Logitech FiveM Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/667845-logitech-fivem-macro.html)|`2024-12-23 07:00:00`|`Alternative Online Mods`|
 |[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-12-23 06:43:00`|`Escape from Tarkov`|
 |[Any working cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/677732-cheats.html)|`2024-12-23 06:35:00`|`Alternative Online Mods`|
 |[Mordhau cheat &#124;&#124; Patch &#35;28](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/612663-mordhau-cheat-patch-28-a.html)|`2024-12-23 06:34:00`|`Other FPS Games`|
