@@ -12,6 +12,7 @@
 |11|[BO6 SRC INTERNAL RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/677479-bo6-src-internal-release.html)|`2024-12-23 00:00:12`|`call-of-duty-black-ops-6-a`|
 |12|[Free Cheat Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/677967-free-cheat-chams.html)|`2024-12-23 00:00:12`|`rainbow-six-siege`|
 |18|[DMA &#40;Entity Esp &#43; Player Bones&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677658-dma-entity-esp-player-bones.html)|`2024-12-23 03:06:38`|`rust`|
+|29|[Undetected injector EAC &#40;22&#46;12&#46;2024&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678400-undetected-injector-eac-22-12-2024-a.html)|`2024-12-23 07:57:52`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust server IP bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/678421-rust-server-ip-bans.html)|`2024-12-23 07:54:00`|`Rust`|
 |[solution to apex linux ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/678551-solution-apex-linux-ban.html)|`2024-12-23 07:39:00`|`Apex Legends`|
 |[Tricking vgc to bypass the pop&#45;up](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/671978-tricking-vgc-bypass-pop.html)|`2024-12-23 07:44:00`|`Valorant`|
 |[Permanent “Unlock All Tool”?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/678542-permanent-unlock-tool.html)|`2024-12-23 07:43:00`|`Call of Duty: Black Ops 6`|
