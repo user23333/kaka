@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simeon Premium Deluxe Motorsport](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678245-simeon-premium-deluxe-motorsport.html)|`2024-12-22 11:21:00`|`Grand Theft Auto V`|
+|[1v1&#46;lol internal cheat / aimbot / esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676527-1v1-lol-internal-cheat-aimbot-esp.html)|`2024-12-22 11:11:00`|`Other FPS Games`|
+|[👽 VALORANT Skin Changer &#40;Just Inject it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/517551-valorant-skin-changer-inject.html)|`2024-12-22 11:11:00`|`Valorant`|
+|[Rocket League Afk Script?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/678435-rocket-league-afk-script.html)|`2024-12-22 11:09:00`|`Off Topic`|
 |[Anyone got a hwid spoofer for B760M DS3H DDR4?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678282-hwid-spoofer-b760m-ds3h-ddr4.html)|`2024-12-22 10:36:00`|`Anti-Cheat Bypass`|
 |[MacOS Rust External ESP w/ Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/676320-macos-rust-external-esp-bypass.html)|`2024-12-22 10:34:00`|`Rust`|
 |[PC Check Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/678431-pc-check-help.html)|`2024-12-22 10:26:00`|`Alternative Online Mods`|
