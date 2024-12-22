@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Helldivers 2&#45;&#45;AHK Stratagems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/625227-helldivers-2-ahk-stratagems.html)|`2024-12-22 19:30:00`|`HELLDIVERS 2`|
 |[Rust server IP tracking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/678446-rust-server-ip-tracking.html)|`2024-12-22 18:33:00`|`Rust`|
 |[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2024-12-22 18:23:00`|`Other FPS Games`|
 |[Need For Speed World launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/630562-speed-world-launcher.html)|`2024-12-22 18:05:00`|`Other MMORPG and Strategy`|
