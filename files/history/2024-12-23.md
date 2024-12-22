@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to get money in GTA Online&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/678504-money-gta-online.html)|`2024-12-23 01:29:00`|`Alternative Online Mods`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2024-12-23 01:23:00`|`Overwatch`|
 |[Where is this ChatGPTHook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/678279-chatgpthook.html)|`2024-12-23 01:13:00`|`Team Fortress 2`|
 |[External aimbot in c&#35; using InputSimulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/678284-external-aimbot-using-inputsimulator.html)|`2024-12-23 01:09:00`|`Escape from Tarkov`|
