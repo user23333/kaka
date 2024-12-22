@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Getting player crouch state](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/678537-getting-player-crouch.html)|`2024-12-23 05:41:00`|`Counter-Strike 2`|
 |[Walking ActiveProcessLinks on 24h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/676512-walking-activeprocesslinks-24h2.html)|`2024-12-23 05:32:00`|`General Programming and Reversing`|
 |[Having trouble hacking Assault Cube &#40;im sorta new&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/677909-trouble-hacking-assault-cube-im-sorta.html)|`2024-12-23 05:04:00`|`Off Topic`|
 |[SCP SL Cheat v13&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/611154-scp-sl-cheat-v13-3-1-a.html)|`2024-12-23 05:01:00`|`Other Games`|
