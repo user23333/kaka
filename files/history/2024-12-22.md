@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Trying to make this triggerbot shoot through walls&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/678484-trying-triggerbot-shoot-walls.html)|`2024-12-22 22:52:00`|`Counter-Strike 2`|
 |[Marvel Rivals Color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/676766-marvel-rivals-color-aimbot.html)|`2024-12-22 22:46:00`|`Marvel Rivals`|
 |[Is swapping an existing character's gender possible after 1&#46;70?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678426-swapping-existing-characters-gender-1-70-a.html)|`2024-12-22 22:35:00`|`Grand Theft Auto V`|
 |[Any Ark cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/678475-ark-cheats.html)|`2024-12-22 21:56:00`|`Other FPS Games`|
