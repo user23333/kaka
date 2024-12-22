@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;BrawlHalla BotMonster&#93; Improving BotMonster](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/664219-brawlhalla-botmonster-improving-botmonster.html)|`2024-12-22 16:24:00`|`Other Games`|
+|[SCP SL Cheat v13&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/611154-scp-sl-cheat-v13-3-1-a.html)|`2024-12-22 16:20:00`|`Other Games`|
+|[Fully setup my Arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/671911-setup-arduino.html)|`2024-12-22 16:20:00`|`Valorant`|
 |[Where is this ChatGPTHook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/678279-chatgpthook.html)|`2024-12-22 15:24:00`|`Team Fortress 2`|
 |[GamerFun AI Menu: All mouse Aimbot, Triggerbot & Recoil Control Using LGUB Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671029-gamerfun-ai-menu-mouse-aimbot-triggerbot-recoil-control-using-lgub-drivers.html)|`2024-12-22 14:01:00`|`Rainbow Six Siege`|
 |[Ni no Kuni: CrossWorlds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/500789-ni-kuni-crossworlds.html)|`2024-12-22 13:38:00`|`Other MMORPG and Strategy`|
