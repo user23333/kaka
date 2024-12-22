@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/678449-rust-internal-cheat.html)|`2024-12-22 19:39:00`|`Rust`|
+|[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2024-12-22 19:38:00`|`Grand Theft Auto V`|
 |[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2024-12-22 19:34:00`|`Elite: Dangerous`|
 |[Helldivers 2&#45;&#45;AHK Stratagems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/625227-helldivers-2-ahk-stratagems.html)|`2024-12-22 19:30:00`|`HELLDIVERS 2`|
 |[Rust server IP tracking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/678446-rust-server-ip-tracking.html)|`2024-12-22 18:33:00`|`Rust`|
