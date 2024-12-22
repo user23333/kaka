@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Start Cheating GTA V &#40;Again&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677832-start-cheating-gta.html)|`2024-12-22 11:40:00`|`Grand Theft Auto V`|
+|[Khanxbahria's Mouse Instruct was taken down&#46;&#46;&#46; anybody still have a copy of the repo?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673530-khanxbahrias-mouse-instruct-copy-repo.html)|`2024-12-22 11:38:00`|`Valorant`|
+|[Tom Clancy's The Division Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/171536-tom-clancys-division-reversal-structs-offsets.html)|`2024-12-22 11:34:00`|`Tom Clancy's The Division`|
 |[Simeon Premium Deluxe Motorsport](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678245-simeon-premium-deluxe-motorsport.html)|`2024-12-22 11:21:00`|`Grand Theft Auto V`|
 |[1v1&#46;lol internal cheat / aimbot / esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676527-1v1-lol-internal-cheat-aimbot-esp.html)|`2024-12-22 11:11:00`|`Other FPS Games`|
 |[👽 VALORANT Skin Changer &#40;Just Inject it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/517551-valorant-skin-changer-inject.html)|`2024-12-22 11:11:00`|`Valorant`|
