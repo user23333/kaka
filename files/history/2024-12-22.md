@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2024-12-22 23:21:00`|`Other MMORPG and Strategy`|
+|[Overwatch hacks detected as of today 2024&#45;10&#45;25](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/668686-overwatch-hacks-detected-2024-10-25-a.html)|`2024-12-22 23:20:00`|`Overwatch`|
+|[Gold Dropper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/567212-gold-dropper.html)|`2024-12-22 23:16:00`|`Red Dead Redemption 2`|
 |[Banned for gameshare](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/677997-banned-gameshare.html)|`2024-12-22 23:02:00`|`Sea of Thieves`|
 |[Warframe &#124; Chams &#124; Loot/Coin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/600451-warframe-chams-loot-coin-changer.html)|`2024-12-22 22:58:00`|`Other FPS Games`|
 |[&#91;Warframe&#93; Player Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/678485-warframe-player-offset.html)|`2024-12-22 22:57:00`|`Other FPS Games`|
