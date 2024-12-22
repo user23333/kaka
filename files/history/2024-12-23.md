@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2024-12-23 04:37:00`|`Escape from Tarkov`|
+|[How To Unlock the New Noose Outfit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678251-unlock-noose-outfit.html)|`2024-12-23 04:37:00`|`Grand Theft Auto V`|
+|[Simeon Premium Deluxe Motorsport](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678245-simeon-premium-deluxe-motorsport.html)|`2024-12-23 04:36:00`|`Grand Theft Auto V`|
 |[Any way to Making Cash with Battleeye / Yimmenu ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678227-cash-battleeye-yimmenu.html)|`2024-12-23 04:33:00`|`Grand Theft Auto V`|
 |[Help With AI Aimbot  Aimmy/SunOner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/677671-help-ai-aimbot-aimmy-sunoner.html)|`2024-12-23 04:29:00`|`THE FINALS`|
 |[seo64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/662767-seo64.html)|`2024-12-23 04:27:00`|`Team Fortress 2`|
