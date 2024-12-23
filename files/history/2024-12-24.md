@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Custom RPF replace or addon cars in online with OS projects](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678671-custom-rpf-replace-addon-cars-online-os-projects.html)|`2024-12-24 05:24:00`|`Grand Theft Auto V`|
+|[I Found A Way To Play Online Without Getting Kicked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678565-found-play-online-getting-kicked.html)|`2024-12-24 05:20:00`|`Grand Theft Auto V`|
+|[&#91;UNIVERSAL&#93;&#91;LUA&#93; Script Engine &#91;ProbablyUD&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/676743-universal-lua-script-engine-probablyud.html)|`2024-12-24 05:16:00`|`Rainbow Six Siege`|
 |[Any working cheats for Steam CS 1&#46;6 now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/677378-cheats-steam-cs-1-6-a.html)|`2024-12-24 05:15:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2024-12-24 05:07:00`|`Phasmophobia`|
 |[coding a knife changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676885-coding-knife-changer.html)|`2024-12-24 04:54:00`|`Counter-Strike 2`|
