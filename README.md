@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[coding a knife changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/676885-coding-knife-changer.html)|`2024-12-24 04:54:00`|`Counter-Strike 2`|
+|[CHARACTER DUPE BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/678543-character-dupe-bypass.html)|`2024-12-24 04:54:00`|`DayZ SA`|
 |[csharp rcs work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/678301-csharp-rcs.html)|`2024-12-24 04:40:00`|`Counter-Strike 2`|
 |[Fastest Python Valorant Triggerbot &#40;fr&#41;&#40;fr&#41;&#40;fr&#41; &#43; Addon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/641020-fastest-python-valorant-triggerbot-fr-fr-fr-addon.html)|`2024-12-24 04:38:00`|`Valorant`|
 |[Making client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/678668-client.html)|`2024-12-24 04:33:00`|`Sea of Thieves`|
