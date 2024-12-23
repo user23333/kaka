@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cheat loader / multi loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-/676787-cheat-loader-multi-loader.html)|`2024-12-24 06:07:00`|`C#`|
+|[Deep Rock Galactic: Deep Dive Delirium &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/617904-deep-rock-galactic-deep-dive-delirium-internal.html)|`2024-12-24 06:00:00`|`Other Single Player Games`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2024-12-24 05:34:00`|`Other FPS Games`|
 |[Team Fortress 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/102936-team-fortress-2-reversal-structs-offsets.html)|`2024-12-24 05:34:00`|`Team Fortress 2`|
 |[Cant get kernel module image base in VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/678672-cant-kernel-module-image-base-vm.html)|`2024-12-24 05:30:00`|`General Programming and Reversing`|
