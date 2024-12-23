@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Autoupdating NoRecoil and NoSpread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/678646-autoupdating-norecoil-nospread.html)|`2024-12-24 01:42:00`|`Rainbow Six Siege`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-12-24 01:37:00`|`Grand Theft Auto V`|
 |[Banned for gameshare](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/677997-banned-gameshare.html)|`2024-12-24 01:32:00`|`Sea of Thieves`|
 |[Unlock MPM on HP Insyde Bioses &#40;Laptop&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/627328-unlock-mpm-hp-insyde-bioses-laptop.html)|`2024-12-24 01:18:00`|`Valorant`|
 |[My external overlay wont take inputs to ImGui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677193-external-overlay-wont-inputs-imgui.html)|`2024-12-24 01:17:00`|`Counter-Strike 2`|
