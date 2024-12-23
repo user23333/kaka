@@ -28,9 +28,12 @@
 |285|[pastersolutions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48003)|`2024-12-24 00:00:35`|
 |9|[Nest of Throns: skills without cooldowns r4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48002)|`2024-12-24 04:41:15`|
 |1|[Asthmaphobia &#91;new&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48023)|`2024-12-24 07:10:11`|
+|2|[Tusiphobia &#91;new&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48025)|`2024-12-24 07:55:02`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I need help starting in gmod internal cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/677848-help-starting-gmod-internal-cheating.html)|`2024-12-24 07:54:00`|`Garry's Mod`|
+|[Tusiphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673488-tusiphobia-update.html)|`2024-12-24 07:50:00`|`Phasmophobia`|
 |[Marvel Rivals Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678685-marvel-rivals-internal.html)|`2024-12-24 07:22:00`|`Marvel Rivals`|
 |[Destiny 2 Cheat Table v1&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/672496-destiny-2-cheat-table-v1-0-0-a.html)|`2024-12-24 07:19:00`|`Other FPS Games`|
 |[CS2GO: Retold](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/678554-cs2go-retold.html)|`2024-12-24 07:16:00`|`Counter-Strike 2 Releases`|
