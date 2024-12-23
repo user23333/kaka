@@ -37,6 +37,7 @@
 |3|[METRIA V5&#46;5&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48015)|`2024-12-23 20:52:19`|
 |1|[War thunder test drive unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48012)|`2024-12-23 20:52:19`|
 |1|[DayZ External source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48011)|`2024-12-23 20:52:19`|
+|3|[HyperCE&#95;v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48017)|`2024-12-23 21:30:56`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
