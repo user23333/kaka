@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Making client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/678668-client.html)|`2024-12-24 04:33:00`|`Sea of Thieves`|
 |[Battlefield 1 recommendation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/678665-battlefield-1-recommendation.html)|`2024-12-24 04:17:00`|`Battlefield 1`|
 |[Anticheat CR3 / PT shuffling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678662-anticheat-cr3-pt-shuffling.html)|`2024-12-24 04:15:00`|`Anti-Cheat Bypass`|
 |[BO6 DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670998-bo6-dma-esp.html)|`2024-12-24 04:13:00`|`Call of Duty: Black Ops 6`|
