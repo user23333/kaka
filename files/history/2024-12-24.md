@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unlock MPM on HP Insyde Bioses &#40;Laptop&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/627328-unlock-mpm-hp-insyde-bioses-laptop.html)|`2024-12-24 01:18:00`|`Valorant`|
+|[My external overlay wont take inputs to ImGui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677193-external-overlay-wont-inputs-imgui.html)|`2024-12-24 01:17:00`|`Counter-Strike 2`|
+|[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2024-12-24 01:06:00`|`Grand Theft Auto V`|
 |[deleted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/678645-deleted.html)|`2024-12-24 01:11:00`|`Other MMORPG and Strategy`|
 |[Hot Improved AHK Triggerbot/Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/631533-hot-improved-ahk-triggerbot-colorbot.html)|`2024-12-24 01:11:00`|`Valorant`|
 |[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2024-12-24 01:07:00`|`Grand Theft Auto V`|
