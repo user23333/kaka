@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-12-24 00:45:00`|`Deadlock`|
+|[Rust internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/678449-rust-internal-cheat.html)|`2024-12-24 00:39:00`|`Rust`|
+|[FACEIT Ban Evasion Bypass &#91;ASUS MB&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678633-faceit-ban-evasion-bypass-asus-mb.html)|`2024-12-24 00:39:00`|`Anti-Cheat Bypass`|
 |[Polonium base paste &#40;32&#45;bit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/665922-polonium-base-paste-32-bit.html)|`2024-12-24 00:37:00`|`Team Fortress 2`|
 |[Can someone please help me?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/678643-please-help.html)|`2024-12-24 00:34:00`|`Counterstrike Global Offensive`|
 |[GamerFun AI Menu: All mouse Aimbot, Triggerbot & Recoil Control Using LGUB Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671029-gamerfun-ai-menu-mouse-aimbot-triggerbot-recoil-control-using-lgub-drivers.html)|`2024-12-24 00:33:00`|`Rainbow Six Siege`|
