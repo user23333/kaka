@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Updated chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/642477-updated-chams.html)|`2024-12-23 10:19:00`|`Rainbow Six Siege`|
+|[I Found A Way To Play Online Without Getting Kicked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678565-found-play-online-getting-kicked.html)|`2024-12-23 09:45:00`|`Grand Theft Auto V`|
+|[Accurate virtual to physical address translation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678372-accurate-virtual-physical-address-translation.html)|`2024-12-23 09:44:00`|`Anti-Cheat Bypass`|
+|[how to force sign and uninstal kb:5004237](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678552-force-sign-uninstal-kb-5004237-a.html)|`2024-12-23 09:31:00`|`Anti-Cheat Bypass`|
 |[BO6 DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670998-bo6-dma-esp.html)|`2024-12-23 08:56:00`|`Call of Duty: Black Ops 6`|
 |[CS2GO: Retold](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/678554-cs2go-retold.html)|`2024-12-23 08:55:00`|`Counter-Strike 2 Releases`|
 |[W11 24H2 data ptr driver communication method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/652498-w11-24h2-data-ptr-driver-communication-method.html)|`2024-12-23 08:28:00`|`Anti-Cheat Bypass`|
