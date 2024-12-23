@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Permanent “Unlock All Tool”?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/678542-permanent-unlock-tool.html)|`2024-12-24 03:18:00`|`Call of Duty: Black Ops 6`|
+|[DAYZ Source External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/678388-dayz-source-external.html)|`2024-12-24 03:13:00`|`DayZ SA`|
+|[how to inject dlls without ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/678655-inject-dlls-ban.html)|`2024-12-24 03:08:00`|`Rainbow Six Siege`|
 |[&#91;Always Updated&#93; Color aimbot razer mouse injector coded in python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/659124-updated-color-aimbot-razer-mouse-injector-coded-python.html)|`2024-12-24 03:00:00`|`Other FPS Games`|
 |[Working ThreadSafe DirectX Renderer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/675564-threadsafe-directx-renderer.html)|`2024-12-24 02:51:00`|`Team Fortress 2`|
 |[Certeficates leak :&#41; Apple and etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678013-certeficates-leak-apple-etc.html)|`2024-12-24 02:49:00`|`Anti-Cheat Bypass`|
