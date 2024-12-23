@@ -29,9 +29,18 @@
 |2|[Rocket League SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48013)|`2024-12-23 04:28:38`|
 |1|[TCSM Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48014)|`2024-12-23 07:33:42`|
 |0|[nfsw launcher&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48009)|`2024-12-23 07:33:42`|
+|1|[kxrmajunkies sniper quick scope](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48006)|`2024-12-23 20:17:03`|
+|1|[Nest of Throns: skills without cooldowns r4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48002)|`2024-12-23 20:17:03`|
+|4|[RivalsX Final UC Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47999)|`2024-12-23 20:17:03`|
+|3|[Frameware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=47998)|`2024-12-23 20:17:03`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple Quick Scope Macro &#40;razer synapse&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/678423-simple-quick-scope-macro-razer-synapse.html)|`2024-12-23 20:16:00`|`Call of Duty: Black Ops 6`|
+|[Multihack for AssaultCube v1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/678422-multihack-assaultcube-v1-3-a.html)|`2024-12-23 20:16:00`|`Other FPS Games`|
+|[Banned for gameshare](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/677997-banned-gameshare.html)|`2024-12-23 20:12:00`|`Sea of Thieves`|
+|[Undetectable among us Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/637492-undetectable-cheat.html)|`2024-12-23 20:10:00`|`Among Us`|
+|[FC25 Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/666895-fc25-reversal.html)|`2024-12-23 20:06:00`|`Other Games`|
 |[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2024-12-23 19:52:00`|`Tom Clancy's The Division`|
 |[DMA &#40;Entity Esp &#43; Player Bones&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677658-dma-entity-esp-player-bones.html)|`2024-12-23 19:51:00`|`Rust`|
 |[Mini&#45;filter hooking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678593-mini-filter-hooking.html)|`2024-12-23 19:50:00`|`Anti-Cheat Bypass`|
