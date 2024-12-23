@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2024-12-23 13:17:00`|`Other FPS Games`|
+|[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-12-23 13:16:00`|`Deadlock`|
 |[Left 4 Dead 1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/678569-left-4-dead-1-a.html)|`2024-12-23 12:38:00`|`Other FPS Games`|
 |[FamilyMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/631659-familymenu.html)|`2024-12-23 12:33:00`|`Red Dead Redemption 2`|
 |[Signed Spoofer By Microsoft&#40;EAC & BE&#41;  Early Christmas Present](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677190-signed-spoofer-microsoft-eac-christmas.html)|`2024-12-23 12:32:00`|`Anti-Cheat Bypass`|
