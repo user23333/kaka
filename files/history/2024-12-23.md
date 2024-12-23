@@ -41,6 +41,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[YimMenu&#46;dll 1&#46;70 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678007-yimmenu-dll-1-70-update.html)|`2024-12-23 22:08:00`|`Grand Theft Auto V`|
+|[Cryptidcurrency](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/678616-cryptidcurrency.html)|`2024-12-23 22:05:00`|`Off Topic`|
+|[Heaven Burns Red mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/674155-heaven-burns-red-mod.html)|`2024-12-23 21:58:00`|`Other MMORPG and Strategy`|
 |[Get Module Base From NtQuerySystemInfomation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678582-module-base-ntquerysysteminfomation.html)|`2024-12-23 21:36:00`|`Anti-Cheat Bypass`|
 |[Pubg Mobile Global 32 bit internal dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/675253-pubg-mobile-global-32-bit-internal-dll.html)|`2024-12-23 21:34:00`|`PUBG Mobile`|
 |[Raycast &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/678606-raycast-external.html)|`2024-12-23 20:40:00`|`Garry's Mod`|
