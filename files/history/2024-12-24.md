@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Yolov8 model for marvel rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677707-yolov8-model-marvel-rivals.html)|`2024-12-24 01:51:00`|`Marvel Rivals`|
+|[Player names externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/671806-player-names-externally.html)|`2024-12-24 01:50:00`|`Alternative Online Mods`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2024-12-24 01:48:00`|`Counter-Strike 2`|
 |[Autoupdating NoRecoil and NoSpread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/678646-autoupdating-norecoil-nospread.html)|`2024-12-24 01:42:00`|`Rainbow Six Siege`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-12-24 01:37:00`|`Grand Theft Auto V`|
 |[Banned for gameshare](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/677997-banned-gameshare.html)|`2024-12-24 01:32:00`|`Sea of Thieves`|
