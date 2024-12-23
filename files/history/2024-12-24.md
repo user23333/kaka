@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AHK MultiScript &#124; Pean's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605440-ahk-multiscript-peans-rcs.html)|`2024-12-24 00:20:00`|`Counter-Strike 2 Releases`|
+|[Free Cheat Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/677967-free-cheat-chams.html)|`2024-12-24 00:12:00`|`Rainbow Six Siege`|
+|[Loading Item Placement for other players](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678639-loading-item-placement-players.html)|`2024-12-24 00:00:00`|`Grand Theft Auto V`|
 |[HyperCE: use your cheat engine in any games&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675770-hyperce-cheat-engine-games.html)|`2024-12-23 23:58:00`|`Anti-Cheat Bypass`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-12-23 23:57:00`|`Rust`|
 |[FACEIT DLL Hijack Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677628-faceit-dll-hijack-exploit.html)|`2024-12-23 23:51:00`|`Anti-Cheat Bypass`|
