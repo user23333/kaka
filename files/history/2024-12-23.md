@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CR3 24H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/677506-cr3-24h2.html)|`2024-12-23 16:29:00`|`Apex Legends`|
+|[Is Rewasd Safe now ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/677879-rewasd-safe.html)|`2024-12-23 16:24:00`|`Apex Legends`|
+|[Tool for you federal agents&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/677655-tool-federal-agents.html)|`2024-12-23 16:20:00`|`General Programming and Reversing`|
+|[C&#43;&#43; GDI Esp For Assault Cube](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/674001-gdi-esp-assault-cube.html)|`2024-12-23 16:16:00`|`Programming for Beginners`|
+|[Maths Behind Aimbot &#45; Detailed tutorial&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/676729-maths-aimbot-detailed-tutorial.html)|`2024-12-23 16:14:00`|`Programming for Beginners`|
 |[Need Help Analyzing DLLs for nBot &#40;BO2/BO3&#41; – Possible Malware?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/678581-help-analyzing-dlls-nbot-bo2-bo3-malware.html)|`2024-12-23 16:08:00`|`General Programming and Reversing`|
 |[Treason's V3 AIO Aim Assist Edit &#40;BETA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670270-treasons-v3-aio-aim-assist-edit-beta.html)|`2024-12-23 16:00:00`|`Call of Duty: Black Ops 6`|
 |[Uninject dll?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/673928-uninject-dll.html)|`2024-12-23 15:57:00`|`General Programming and Reversing`|
