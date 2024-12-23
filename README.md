@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need Help Analyzing DLLs for nBot &#40;BO2/BO3&#41; – Possible Malware?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/678581-help-analyzing-dlls-nbot-bo2-bo3-malware.html)|`2024-12-23 16:08:00`|`General Programming and Reversing`|
+|[Treason's V3 AIO Aim Assist Edit &#40;BETA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670270-treasons-v3-aio-aim-assist-edit-beta.html)|`2024-12-23 16:00:00`|`Call of Duty: Black Ops 6`|
+|[Uninject dll?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/673928-uninject-dll.html)|`2024-12-23 15:57:00`|`General Programming and Reversing`|
 |[Free Weekend](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/678296-free-weekend.html)|`2024-12-23 15:45:00`|`Escape from Tarkov`|
 |[Contractors Showdown VR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644324-contractors-showdown-vr.html)|`2024-12-23 15:24:00`|`Other FPS Games`|
 |[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2024-12-23 15:08:00`|`HELLDIVERS 2`|
