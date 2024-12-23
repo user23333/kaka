@@ -25,9 +25,12 @@
 |4|[nfsw launcher&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48009)|`2024-12-24 00:00:35`|
 |2|[kxrmajunkies sniper quick scope](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48006)|`2024-12-24 00:00:35`|
 |285|[pastersolutions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48003)|`2024-12-24 00:00:35`|
+|9|[Nest of Throns: skills without cooldowns r4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48002)|`2024-12-24 04:41:15`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[csharp rcs work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/678301-csharp-rcs.html)|`2024-12-24 04:40:00`|`Counter-Strike 2`|
+|[Fastest Python Valorant Triggerbot &#40;fr&#41;&#40;fr&#41;&#40;fr&#41; &#43; Addon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/641020-fastest-python-valorant-triggerbot-fr-fr-fr-addon.html)|`2024-12-24 04:38:00`|`Valorant`|
 |[Making client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/678668-client.html)|`2024-12-24 04:33:00`|`Sea of Thieves`|
 |[Battlefield 1 recommendation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/678665-battlefield-1-recommendation.html)|`2024-12-24 04:17:00`|`Battlefield 1`|
 |[Anticheat CR3 / PT shuffling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678662-anticheat-cr3-pt-shuffling.html)|`2024-12-24 04:15:00`|`Anti-Cheat Bypass`|
