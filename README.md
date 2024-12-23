@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Using Shika on main account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/678305-using-shika-main-account.html)|`2024-12-23 17:44:00`|`Genshin Impact`|
+|[trying to adapt vgc bypass to 1 pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/678587-trying-adapt-vgc-bypass-1-pc.html)|`2024-12-23 17:43:00`|`Valorant`|
 |[&#91;STEAM &#124; XBOX &#124; STEAMDECK&#93; PalworldInternal &#45; Post Nuclear](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/621709-steam-xbox-steamdeck-palworldinternal-post-nuclear.html)|`2024-12-23 16:58:00`|`Palworld`|
 |[Aim Assist in pure C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675938-aim-assist-pure.html)|`2024-12-23 16:47:00`|`Valorant`|
 |[What should someone who wants to develop a script for League of Legends do?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/678304-develop-script-league-legends.html)|`2024-12-23 16:44:00`|`League of Legends`|
