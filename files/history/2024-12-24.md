@@ -32,6 +32,7 @@
 |9|[Nest of Throns: skills without cooldowns r4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48002)|`2024-12-24 04:41:15`|
 |1|[Asthmaphobia &#91;new&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48023)|`2024-12-24 07:10:11`|
 |2|[Tusiphobia &#91;new&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48025)|`2024-12-24 07:55:02`|
+|2|[Nest of Throns: skills without cooldowns r5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48036)|`2024-12-24 22:42:11`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
