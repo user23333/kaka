@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SCP SL LOKI CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/670550-scp-sl-loki-cheat.html)|`2024-12-24 15:22:00`|`Other FPS Games`|
 |[Update ActorArrayDecryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/678777-update-actorarraydecryption.html)|`2024-12-24 14:29:00`|`PUBG Mobile`|
 |[Advanced FiveM Ban Evasion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/678385-advanced-fivem-ban-evasion.html)|`2024-12-24 14:24:00`|`Alternative Online Mods`|
 |[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2024-12-24 14:19:00`|`Elite: Dangerous`|
