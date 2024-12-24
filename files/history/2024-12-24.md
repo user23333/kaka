@@ -14,6 +14,7 @@
 |3|[Delta Force hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677988-delta-force-hack.html)|`2024-12-24 01:36:45`|`other-fps-games`|
 |7|[Any way to Making Cash with Battleeye / Yimmenu ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678227-cash-battleeye-yimmenu.html)|`2024-12-24 06:56:28`|`grand-theft-auto-v`|
 |4|[OW Color Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/677675-ow-color-triggerbot.html)|`2024-12-24 08:39:16`|`overwatch`|
+|18|[Rust internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/678449-rust-internal-cheat.html)|`2024-12-24 11:32:55`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669274-vigor-internal-cheat.html)|`2024-12-24 11:20:00`|`Other FPS Games`|
 |[EFI driver changing windows boot logo & msg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678764-efi-driver-changing-windows-boot-logo-msg.html)|`2024-12-24 11:12:00`|`Anti-Cheat Bypass`|
 |[How to install ADD&#45;ON mods into "online" mode while using FSL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678763-install-add-mods-online-mode-using-fsl.html)|`2024-12-24 11:07:00`|`Grand Theft Auto V`|
 |[Marvel Rivals TriggerBot & AimAssist &#40;MouseBased Undetected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678761-marvel-rivals-triggerbot-aimassist-mousebased-undetected.html)|`2024-12-24 10:48:00`|`Marvel Rivals`|
