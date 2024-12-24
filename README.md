@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fastest Python Valorant Triggerbot &#40;fr&#41;&#40;fr&#41;&#40;fr&#41; &#43; Addon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/641020-fastest-python-valorant-triggerbot-fr-fr-fr-addon.html)|`2024-12-25 02:32:00`|`Valorant`|
+|[How to bypass ban from Foxhole](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676377-bypass-ban-foxhole.html)|`2024-12-25 02:30:00`|`Other MMORPG and Strategy`|
+|[Fix Vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/669238-fix-vehicle.html)|`2024-12-25 02:19:00`|`Alternative Online Mods`|
+|[Projectile Entity Detection Fails in Inferno](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/678846-projectile-entity-detection-fails-inferno.html)|`2024-12-25 02:18:00`|`Counter-Strike 2`|
 |[DMA Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/655804-dma-radar.html)|`2024-12-25 02:06:00`|`Apex Legends`|
 |[xp or unlocker server or somthn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/678772-xp-unlocker-server-somthn.html)|`2024-12-25 02:03:00`|`Battlefield 2042`|
 |[Get Module Base From NtQuerySystemInfomation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678582-module-base-ntquerysysteminfomation.html)|`2024-12-25 02:00:00`|`Anti-Cheat Bypass`|
