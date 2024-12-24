@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-12-24 11:52:00`|`Other Games`|
 |[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669274-vigor-internal-cheat.html)|`2024-12-24 11:20:00`|`Other FPS Games`|
 |[EFI driver changing windows boot logo & msg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678764-efi-driver-changing-windows-boot-logo-msg.html)|`2024-12-24 11:12:00`|`Anti-Cheat Bypass`|
 |[How to install ADD&#45;ON mods into "online" mode while using FSL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678763-install-add-mods-online-mode-using-fsl.html)|`2024-12-24 11:07:00`|`Grand Theft Auto V`|
