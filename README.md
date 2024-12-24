@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC killing my thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678597-eac-killing-thread.html)|`2024-12-24 21:18:00`|`Anti-Cheat Bypass`|
 |[Any working unturned cheats? &#40;December 2024&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676529-unturned-cheats-december-2024-a.html)|`2024-12-24 21:11:00`|`Other FPS Games`|
 |[RLMarlbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/633336-rlmarlbot.html)|`2024-12-24 21:11:00`|`Other Games`|
 |[GMOD&#45;SDK &#124; Nice menu &#124; Free&#45;cam &#124; LUA Executor &#124; Lots of features &#124; Source Included](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/453047-gmod-sdk-nice-menu-free-cam-lua-executor-lots-features-source-included.html)|`2024-12-24 21:09:00`|`Garry's Mod`|
