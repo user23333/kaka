@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Destiny 2 Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669951-destiny-2-reversal.html)|`2024-12-25 04:04:00`|`Other FPS Games`|
+|[dump any manual mapped driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677845-dump-manual-mapped-driver.html)|`2024-12-25 04:02:00`|`Anti-Cheat Bypass`|
+|[How to get money in GTA Online&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678504-money-gta-online.html)|`2024-12-25 04:00:00`|`Grand Theft Auto V`|
 |[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2024-12-25 03:52:00`|`Escape from Tarkov`|
 |[Crashing B06 game servers in ranked play?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/678858-crashing-b06-game-servers-ranked-play.html)|`2024-12-25 03:50:00`|`Call of Duty: Black Ops 6`|
 |[pack a punch camo in multiplayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/677908-pack-punch-camo-multiplayer.html)|`2024-12-25 03:50:00`|`Call of Duty: Black Ops 6`|
