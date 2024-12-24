@@ -34,6 +34,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any working unturned cheats? &#40;December 2024&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676529-unturned-cheats-december-2024-a.html)|`2024-12-24 21:11:00`|`Other FPS Games`|
+|[RLMarlbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/633336-rlmarlbot.html)|`2024-12-24 21:11:00`|`Other Games`|
+|[GMOD&#45;SDK &#124; Nice menu &#124; Free&#45;cam &#124; LUA Executor &#124; Lots of features &#124; Source Included](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/453047-gmod-sdk-nice-menu-free-cam-lua-executor-lots-features-source-included.html)|`2024-12-24 21:09:00`|`Garry's Mod`|
+|[Pattern scanning in C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/675148-pattern-scanning.html)|`2024-12-24 21:01:00`|`C and C++`|
+|[Memory Scanner for THREADSTACK0 and pointers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/677899-memory-scanner-threadstack0-pointers.html)|`2024-12-24 21:00:00`|`General Programming and Reversing`|
 |[Globals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678813-globals.html)|`2024-12-24 20:51:00`|`Grand Theft Auto V`|
 |[gmod skd broken](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/678812-gmod-skd-broken.html)|`2024-12-24 20:51:00`|`Garry's Mod`|
 |[&#91;Always updated&#93; color aimbot for &#42;Almost any 3d game, coded fully in python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/657882-updated-color-aimbot-3d-game-coded-python.html)|`2024-12-24 20:47:00`|`Other FPS Games`|
