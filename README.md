@@ -15,6 +15,7 @@
 |7|[Any way to Making Cash with Battleeye / Yimmenu ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678227-cash-battleeye-yimmenu.html)|`2024-12-24 06:56:28`|`grand-theft-auto-v`|
 |4|[OW Color Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/677675-ow-color-triggerbot.html)|`2024-12-24 08:39:16`|`overwatch`|
 |18|[Rust internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/678449-rust-internal-cheat.html)|`2024-12-24 11:32:55`|`rust`|
+|9|[Autoupdating NoRecoil and NoSpread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/678646-autoupdating-norecoil-nospread.html)|`2024-12-24 21:43:34`|`rainbow-six-siege`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
