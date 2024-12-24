@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/655804-dma-radar.html)|`2024-12-25 02:06:00`|`Apex Legends`|
+|[xp or unlocker server or somthn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/678772-xp-unlocker-server-somthn.html)|`2024-12-25 02:03:00`|`Battlefield 2042`|
+|[Get Module Base From NtQuerySystemInfomation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678582-module-base-ntquerysysteminfomation.html)|`2024-12-25 02:00:00`|`Anti-Cheat Bypass`|
 |[DMA &#40;Entity Esp &#43; Player Bones&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677658-dma-entity-esp-player-bones.html)|`2024-12-25 01:53:00`|`Rust`|
 |[IDA help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/678843-ida-help.html)|`2024-12-25 01:49:00`|`Rainbow Six Siege`|
 |[How do I start learning c&#43;&#43; to make my own dma reading memory only cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/678219-start-learning-own-dma-reading-memory-cheat.html)|`2024-12-25 01:44:00`|`Rainbow Six Siege`|
