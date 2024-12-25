@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[WZ BO6 Working Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675805-wz-bo6-base.html)|`2024-12-26 00:33:00`|`Call of Duty: Black Ops 6`|
+|[no recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/678852-recoil.html)|`2024-12-26 00:24:00`|`Rainbow Six Siege`|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2024-12-26 00:23:00`|`HELLDIVERS 2`|
+|[Fastest Python Valorant Triggerbot &#40;fr&#41;&#40;fr&#41;&#40;fr&#41; &#43; Addon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/641020-fastest-python-valorant-triggerbot-fr-fr-fr-addon.html)|`2024-12-26 00:22:00`|`Valorant`|
+|[Anticheat CR3 / PT shuffling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678661-anticheat-cr3-pt-shuffling.html)|`2024-12-26 00:20:00`|`Anti-Cheat Bypass`|
+|[pasted CE table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/677920-pasted-ce-table.html)|`2024-12-26 00:18:00`|`Palworld`|
+|[No recoil for ak47 Via Razer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/677019-recoil-ak47-via-razer.html)|`2024-12-26 00:18:00`|`Call of Duty: Black Ops 6`|
 |[PUBG DMA cheat source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/667961-pubg-dma-cheat-source-code.html)|`2024-12-26 00:16:00`|`Playerunknown's Battlegrounds`|
 |[Perfoma css steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/678961-perfoma-css-steam.html)|`2024-12-26 00:15:00`|`CounterStrike Source`|
 |[Memory Scanner for THREADSTACK0 and pointers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/677899-memory-scanner-threadstack0-pointers.html)|`2024-12-26 00:13:00`|`General Programming and Reversing`|
