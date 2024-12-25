@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Aimbot &#43; ESP for GTA 5 Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678840-aimbot-esp-gta-5-online.html)|`2024-12-26 01:50:00`|`Grand Theft Auto V`|
+|[EAC DMA cr3 shuffling fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677322-eac-dma-cr3-shuffling-fix.html)|`2024-12-26 01:48:00`|`Anti-Cheat Bypass`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2024-12-26 01:43:00`|`Other FPS Games`|
 |[Linux Cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678957-linux-cheats.html)|`2024-12-26 01:40:00`|`Marvel Rivals`|
 |[UWorld Always Return 0 With HVCI Off](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673918-uworld-return-0-hvci.html)|`2024-12-26 01:40:00`|`Valorant`|
