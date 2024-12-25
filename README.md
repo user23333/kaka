@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Tusiphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673488-tusiphobia-update.html)|`2024-12-25 18:30:00`|`Phasmophobia`|
+|[Confused on how League determines where characters are](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/678826-confused-league-determines-characters.html)|`2024-12-25 18:29:00`|`League of Legends`|
 |[Chams occlusion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/678922-chams-occlusion.html)|`2024-12-25 17:48:00`|`Escape from Tarkov`|
 |[Python: Morrowind Memory Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/678921-python-morrowind-memory-editor.html)|`2024-12-25 17:44:00`|`Other Single Player Games`|
 |[Where to start in making my own mod menu?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678920-start-own-mod-menu.html)|`2024-12-25 17:31:00`|`Grand Theft Auto V`|
