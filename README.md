@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dragon Ball Sparking Zero &#45; Auto Super Counter Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670199-dragon-ball-sparking-zero-auto-super-counter-help.html)|`2024-12-26 02:08:00`|`Other Games`|
+|[emulator detection new 3&#46;5 problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/678609-emulator-detection-3-5-a.html)|`2024-12-26 02:06:00`|`PUBG Mobile`|
+|[Update ActorArrayDecryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/678777-update-actorarraydecryption.html)|`2024-12-26 02:05:00`|`PUBG Mobile`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2024-12-26 02:02:00`|`Counter-Strike 2`|
 |[Aimbot &#43; ESP for GTA 5 Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678840-aimbot-esp-gta-5-online.html)|`2024-12-26 01:50:00`|`Grand Theft Auto V`|
 |[EAC DMA cr3 shuffling fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677322-eac-dma-cr3-shuffling-fix.html)|`2024-12-26 01:48:00`|`Anti-Cheat Bypass`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2024-12-26 01:43:00`|`Other FPS Games`|
