@@ -24,6 +24,7 @@
 |31|[TCSM Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48014)|`2024-12-26 00:16:38`|
 |33|[Rocket League SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48013)|`2024-12-26 00:16:38`|
 |27|[War thunder test drive unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48012)|`2024-12-26 00:16:38`|
+|1|[MarvelRivals&#95;TriggerBot&AimAssist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48042)|`2024-12-26 03:26:40`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
