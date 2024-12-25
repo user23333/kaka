@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Garry's mod dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/679011-garrys-mod-dumper.html)|`2024-12-26 06:27:00`|`Garry's Mod`|
+|[help w/ getting cs2 data from memory &#40;external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/678889-help-getting-cs2-data-memory-external.html)|`2024-12-26 06:22:00`|`Counter-Strike 2`|
+|[Can't properly print out player&#95;say messages](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/679010-cant-properly-print-player_say-messages.html)|`2024-12-26 06:13:00`|`Garry's Mod`|
+|[Helldivers 2&#45;&#45;AHK Stratagems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/625227-helldivers-2-ahk-stratagems.html)|`2024-12-26 06:11:00`|`HELLDIVERS 2`|
 |[PAKS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/675439-paks.html)|`2024-12-26 06:02:00`|`Sea of Thieves`|
 |[how to inject dll into battle eye &#40;r6&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678656-inject-dll-battle-eye-r6.html)|`2024-12-26 05:51:00`|`Anti-Cheat Bypass`|
 |[Where to start in making my own mod menu?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678920-start-own-mod-menu.html)|`2024-12-26 05:44:00`|`Grand Theft Auto V`|
