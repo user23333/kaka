@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2024-12-25 22:13:00`|`Other FPS Games`|
+|[how do i get unbanned from val??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/678540-unbanned-val.html)|`2024-12-25 22:12:00`|`Valorant`|
 |[Marvel Rivals Color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/676766-marvel-rivals-color-aimbot.html)|`2024-12-25 21:57:00`|`Marvel Rivals`|
 |[TEMP spoofer &#124; Reappearing ban &#124; Help needed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678186-temp-spoofer-reappearing-ban-help.html)|`2024-12-25 21:45:00`|`Anti-Cheat Bypass`|
 |[AIMi &#45; AI Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/609872-aimi-ai-aimbot.html)|`2024-12-25 21:44:00`|`Counter-Strike 2 Releases`|
