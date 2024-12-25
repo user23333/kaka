@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC killing my thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678597-eac-killing-thread.html)|`2024-12-25 23:02:00`|`Anti-Cheat Bypass`|
 |[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2024-12-25 22:13:00`|`Other FPS Games`|
 |[how do i get unbanned from val??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/678540-unbanned-val.html)|`2024-12-25 22:12:00`|`Valorant`|
 |[Marvel Rivals Color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/676766-marvel-rivals-color-aimbot.html)|`2024-12-25 21:57:00`|`Marvel Rivals`|
