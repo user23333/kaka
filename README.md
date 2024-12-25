@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to inject dll into battle eye &#40;r6&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678656-inject-dll-battle-eye-r6.html)|`2024-12-26 05:51:00`|`Anti-Cheat Bypass`|
 |[Where to start in making my own mod menu?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678920-start-own-mod-menu.html)|`2024-12-26 05:44:00`|`Grand Theft Auto V`|
 |[Auto Updating Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/636910-auto-updating-super-animal-royale-hack.html)|`2024-12-26 05:39:00`|`Other Games`|
 |[GPU accelerated hardware controlled color aimbot for any 3D game python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/679002-gpu-accelerated-hardware-controlled-color-aimbot-3d-game-python.html)|`2024-12-26 05:37:00`|`Other FPS Games`|
