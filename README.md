@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2024-12-25 19:26:00`|`Phasmophobia`|
 |[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2024-12-25 19:02:00`|`Elite: Dangerous`|
 |[Blazing Sails Hack &#91;Win10&#93; &#91;Steam/EGS&#93; &#124; ESP &#124; SpeedHack &#124; NoClip &#124; More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620821-blazing-sails-hack-win10-steam-egs-esp-speedhack-noclip.html)|`2024-12-25 18:52:00`|`Other FPS Games`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2024-12-25 18:54:00`|`Other FPS Games`|
