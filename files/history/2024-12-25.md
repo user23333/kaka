@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anticheat CR3 / PT shuffling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678661-anticheat-cr3-pt-shuffling.html)|`2024-12-25 13:45:00`|`Anti-Cheat Bypass`|
+|[bo3 nbot crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/672870-bo3-nbot-crash.html)|`2024-12-25 13:45:00`|`Call of Duty: Black Ops 3`|
 |[how to force sign and uninstal kb:5004237](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678552-force-sign-uninstal-kb-5004237-a.html)|`2024-12-25 13:39:00`|`Anti-Cheat Bypass`|
 |[Marvel Rivals external esp base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678898-marvel-rivals-external-esp-base.html)|`2024-12-25 13:25:00`|`Marvel Rivals`|
 |[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2024-12-25 13:25:00`|`Farlight 84`|
