@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[D3D11RenderThread Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/678052-d3d11renderthread-crash.html)|`2024-12-25 12:46:00`|`Counter-Strike 2`|
 |[⭐ Moderators Needed to Expand and Revamp the Single Player Cheats Section ⭐](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/676859-moderators-expand-revamp-single-player-cheats-section.html)|`2024-12-25 12:13:00`|`Information and Announcements`|
 |[VALO COLOR BOT SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/633956-valo-color-bot-source.html)|`2024-12-25 11:17:00`|`Valorant`|
 |[Why ns dont work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/678308-ns-dont.html)|`2024-12-25 11:09:00`|`Counter-Strike 2`|
