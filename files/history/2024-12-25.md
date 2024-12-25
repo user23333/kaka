@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TEMP spoofer &#124; Reappearing ban &#124; Help needed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678186-temp-spoofer-reappearing-ban-help.html)|`2024-12-25 21:45:00`|`Anti-Cheat Bypass`|
+|[AIMi &#45; AI Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/609872-aimi-ai-aimbot.html)|`2024-12-25 21:44:00`|`Counter-Strike 2 Releases`|
 |[Unturned Online Cheat &#91;ESP/AIMBOT/ETC&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/618970-unturned-online-cheat-esp-aimbot-etc.html)|`2024-12-25 21:30:00`|`Other FPS Games`|
 |[Fastest Python Valorant Triggerbot &#40;fr&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612762-fastest-python-valorant-triggerbot-fr.html)|`2024-12-25 21:24:00`|`Valorant`|
 |[How manage jumping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/678927-manage-jumping.html)|`2024-12-25 20:54:00`|`Counter-Strike 2`|
