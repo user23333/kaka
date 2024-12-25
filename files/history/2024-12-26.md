@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2024-12-26 05:27:00`|`Grand Theft Auto V`|
+|[&#124; Dota 2 &#124; Nest of Throns: skills without cooldowns &#124; EXTERNAL &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/677527-dota-2-nest-throns-skills-cooldowns-external.html)|`2024-12-26 05:25:00`|`Other MMORPG and Strategy`|
 |[Goose Goose Duck AC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-/678956-goose-goose-duck-ac-bypass.html)|`2024-12-26 05:08:00`|`C#`|
 |[Help with ban evading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/678997-help-ban-evading.html)|`2024-12-26 05:00:00`|`Rust`|
 |[GPU accelerated hardware controlled color aimbot for any 3D game python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/678996-gpu-accelerated-hardware-controlled-color-aimbot-3d-game-python.html)|`2024-12-26 04:51:00`|`Valorant`|
