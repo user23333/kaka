@@ -26,9 +26,23 @@
 |27|[War thunder test drive unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48012)|`2024-12-26 00:16:38`|
 |1|[MarvelRivals&#95;TriggerBot&AimAssist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48042)|`2024-12-26 03:26:40`|
 |8|[Vigor Internal v1&#46;0&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48038)|`2024-12-26 04:12:36`|
+|24|[MarvelRivals&#95;unknowncheats&#46;me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48060)|`2024-12-26 08:36:59`|
+|2|[Mafia4321x &#45; Version 4&#46;5 Razer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48059)|`2024-12-26 08:36:59`|
+|1|[ac&#95;cheat&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48056)|`2024-12-26 08:36:59`|
+|1|[Best&#46;pt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48055)|`2024-12-26 08:36:59`|
+|2|[WarzoneGF&#45;Release&#46;ahk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48054)|`2024-12-26 08:36:59`|
+|1|[Morrowind&#46;rar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48047)|`2024-12-26 08:36:59`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Color aimbot and triggerbot based on C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678686-color-aimbot-triggerbot-based.html)|`2024-12-26 08:36:00`|`Marvel Rivals`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2024-12-26 08:26:00`|`Phasmophobia`|
+|[External console commands execution on CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/609179-external-console-commands-execution-cs2.html)|`2024-12-26 08:25:00`|`Counter-Strike 2`|
+|[What kind of ban is VAN61 error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679024-ban-van61-error.html)|`2024-12-26 08:22:00`|`Valorant`|
+|[Marvel Rivals AntiCheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678876-marvel-rivals-anticheat.html)|`2024-12-26 08:20:00`|`Marvel Rivals`|
+|[Python: Morrowind Memory Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/678921-python-morrowind-memory-editor.html)|`2024-12-26 08:20:00`|`Other Single Player Games`|
+|[People are still playing on linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/679023-people-playing-linux.html)|`2024-12-26 08:18:00`|`Apex Legends`|
+|[Warzone GeoFence/Geoblocking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/678934-warzone-geofence-geoblocking.html)|`2024-12-26 08:16:00`|`Call of Duty: Black Ops 6`|
 |[Rocket League &#45; ThoramiBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/593885-rocket-league-thoramibot.html)|`2024-12-26 07:52:00`|`Other Games`|
 |[CSS Internal Cheat Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/589918-css-internal-cheat-base.html)|`2024-12-26 07:42:00`|`CounterStrike Source`|
 |[Counter&#45;Strike: Source internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/459683-counter-strike-source-internal-cheat.html)|`2024-12-26 07:40:00`|`CounterStrike Source`|
