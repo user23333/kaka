@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sunoki's fully updated TriggerBot &#43; Spoofer by Mafia4321x](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679046-sunokis-updated-triggerbot-spoofer-mafia4321x.html)|`2024-12-26 13:32:00`|`Valorant`|
+|[Does anybody have a free EAC spoofer &#40;fortnite&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679045-free-eac-spoofer-fortnite.html)|`2024-12-26 13:30:00`|`Anti-Cheat Bypass`|
 |[Let's talk about EAC new obfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/488156-talk-eac-obfuscation.html)|`2024-12-26 13:01:00`|`Anti-Cheat Bypass`|
 |[Aim Assist in pure C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675938-aim-assist-pure.html)|`2024-12-26 12:56:00`|`Valorant`|
 |[Simple Quick Scope Macro &#40;razer synapse&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/678423-simple-quick-scope-macro-razer-synapse.html)|`2024-12-26 12:47:00`|`Call of Duty: Black Ops 6`|
