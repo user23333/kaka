@@ -14,6 +14,7 @@
 |4|[How to boot/ddos a server/game in ranked?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/677992-boot-ddos-server-game-ranked.html)|`2024-12-27 00:45:30`|`call-of-duty-black-ops-6-a`|
 |8|[Permanent “Unlock All Tool”?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/678542-permanent-unlock-tool.html)|`2024-12-27 01:10:55`|`call-of-duty-black-ops-6-a`|
 |7|[I Found A Way To Play Online Without Getting Kicked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678565-found-play-online-getting-kicked.html)|`2024-12-27 03:21:31`|`grand-theft-auto-v`|
+|9|[Valorant DTC cheats to use cuz bored](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/678213-valorant-dtc-cheats-cuz-bored.html)|`2024-12-27 03:53:05`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2024-12-27 03:47:00`|`Grand Theft Auto V`|
 |[Does anybody have a free EAC spoofer &#40;fortnite&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679045-free-eac-spoofer-fortnite.html)|`2024-12-27 03:43:00`|`Anti-Cheat Bypass`|
 |[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2024-12-27 03:40:00`|`Battlefield 4`|
 |[game ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/669439-game-ban.html)|`2024-12-27 03:35:00`|`Team Fortress 2`|
