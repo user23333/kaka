@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Free Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/676229-free-internal-cheat.html)|`2024-12-26 20:15:00`|`Counter-Strike 2 Releases`|
+|[100% UNDETECTED INJECTOR&#33; &#124; EAC/BE/VGK BYPASS&#33; 🔥🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677613-100-undetected-injector-eac-vgk-bypass.html)|`2024-12-26 19:58:00`|`Anti-Cheat Bypass`|
 |[BE flags or detects keyloggers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/679075-flags-detects-keyloggers.html)|`2024-12-26 19:27:00`|`Playerunknown's Battlegrounds`|
 |[12 Days of Hungarian Christmas](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678904-12-days-hungarian-christmas.html)|`2024-12-26 19:24:00`|`Anti-Cheat Bypass`|
 |[NULLPOINTER &#45; KERNEL EXTERNAL FULL C&#45;BASED CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677302-nullpointer-kernel-external-based-cheat.html)|`2024-12-26 19:18:00`|`Counter-Strike 2`|
