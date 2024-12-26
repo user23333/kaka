@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2024-12-27 03:23:00`|`Grand Theft Auto V`|
 |[BE flags or detects keyloggers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/679075-flags-detects-keyloggers.html)|`2024-12-27 03:21:00`|`Playerunknown's Battlegrounds`|
 |[don't be mad, im really new](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/678232-dont-mad-im.html)|`2024-12-27 03:18:00`|`Programming for Beginners`|
 |[how to never get kicked using yim menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/679001-kicked-using-yim-menu.html)|`2024-12-27 03:13:00`|`Grand Theft Auto V`|
