@@ -32,9 +32,14 @@
 |1|[Best&#46;pt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48055)|`2024-12-26 08:36:59`|
 |2|[WarzoneGF&#45;Release&#46;ahk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48054)|`2024-12-26 08:36:59`|
 |1|[Morrowind&#46;rar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48047)|`2024-12-26 08:36:59`|
+|3|[Valo&#45;Aim&#45;Assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48053)|`2024-12-26 10:04:11`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Strinova Internal &#40;Aimbot & ESP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677105-strinova-internal-aimbot-esp.html)|`2024-12-26 09:51:00`|`Other FPS Games`|
+|[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-12-26 09:50:00`|`Deadlock`|
+|[GIRLS' FRONTLINE 2:EXILIUM CN PC cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/653607-girls-frontline-2-exilium-cn-pc-cheat.html)|`2024-12-26 09:37:00`|`Other MMORPG and Strategy`|
+|[Chams occlusion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/678922-chams-occlusion.html)|`2024-12-26 09:36:00`|`Escape from Tarkov`|
 |[Color aimbot and triggerbot based on C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678686-color-aimbot-triggerbot-based.html)|`2024-12-26 08:36:00`|`Marvel Rivals`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2024-12-26 08:26:00`|`Phasmophobia`|
 |[External console commands execution on CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/609179-external-console-commands-execution-cs2.html)|`2024-12-26 08:25:00`|`Counter-Strike 2`|
