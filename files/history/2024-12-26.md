@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Empty session tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677713-empty-session-tool.html)|`2024-12-26 15:20:00`|`Grand Theft Auto V`|
+|[EAC killing my thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678597-eac-killing-thread.html)|`2024-12-26 15:13:00`|`Anti-Cheat Bypass`|
 |[Failing to get module base of ndis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/678558-failing-module-base-ndis.html)|`2024-12-26 15:09:00`|`Forum General`|
 |[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-12-26 14:57:00`|`Other Games`|
 |[looking for player for make team&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/679054-looking-player-team.html)|`2024-12-26 14:55:00`|`Grand Theft Auto V`|
