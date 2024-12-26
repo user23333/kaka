@@ -13,6 +13,7 @@
 |11|[Color aimbot and triggerbot based on C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678686-color-aimbot-triggerbot-based.html)|`2024-12-27 00:17:59`|`marvel-rivals`|
 |4|[How to boot/ddos a server/game in ranked?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/677992-boot-ddos-server-game-ranked.html)|`2024-12-27 00:45:30`|`call-of-duty-black-ops-6-a`|
 |8|[Permanent “Unlock All Tool”?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/678542-permanent-unlock-tool.html)|`2024-12-27 01:10:55`|`call-of-duty-black-ops-6-a`|
+|7|[I Found A Way To Play Online Without Getting Kicked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678565-found-play-online-getting-kicked.html)|`2024-12-27 03:21:31`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BE flags or detects keyloggers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/679075-flags-detects-keyloggers.html)|`2024-12-27 03:21:00`|`Playerunknown's Battlegrounds`|
+|[don't be mad, im really new](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/678232-dont-mad-im.html)|`2024-12-27 03:18:00`|`Programming for Beginners`|
+|[how to never get kicked using yim menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/679001-kicked-using-yim-menu.html)|`2024-12-27 03:13:00`|`Grand Theft Auto V`|
+|[Assetto Corsa No Hesi traffic NoClip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/676049-assetto-corsa-hesi-traffic-noclip.html)|`2024-12-27 03:11:00`|`Other Games`|
 |[Aim Assist in pure C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675938-aim-assist-pure.html)|`2024-12-27 03:08:00`|`Valorant`|
 |[BO6 DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670998-bo6-dma-esp.html)|`2024-12-27 02:59:00`|`Call of Duty: Black Ops 6`|
 |[&#91; External &#93; SPT&#45;AKI CheatBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/626274-external-spt-aki-cheatbase.html)|`2024-12-27 02:54:00`|`Escape from Tarkov`|
