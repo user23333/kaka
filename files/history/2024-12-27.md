@@ -29,6 +29,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2024-12-27 01:31:00`|`Escape from Tarkov`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2024-12-27 01:25:00`|`Other FPS Games`|
+|[pasted CE table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/677920-pasted-ce-table.html)|`2024-12-27 01:25:00`|`Palworld`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-12-27 01:22:00`|`Playerunknown's Battlegrounds`|
+|[Rocket League &#45; Unlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/624955-rocket-league-unlock.html)|`2024-12-27 01:22:00`|`Other Games`|
+|[Genesis Bot V1&#46;1&#46;0 &#91;RL Ranked Bot&#93; with Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/677130-genesis-bot-v1-1-0-rl-ranked-bot-source-code.html)|`2024-12-27 01:22:00`|`Other Games`|
+|[How to Prevent Crashes?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/679073-prevent-crashes.html)|`2024-12-27 01:20:00`|`Phasmophobia`|
+|[Warzone GeoFence/Geoblocking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/678934-warzone-geofence-geoblocking.html)|`2024-12-27 01:15:00`|`Call of Duty: Black Ops 6`|
 |[What is causing this issue with the ESP?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/678894-causing-issue-esp.html)|`2024-12-27 01:07:00`|`Valorant`|
 |[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669274-vigor-internal-cheat.html)|`2024-12-27 00:55:00`|`Other FPS Games`|
 |[Mike Tyson IS NOT THE GOAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/675262-mike-tyson-goat.html)|`2024-12-27 00:46:00`|`Off Topic`|
