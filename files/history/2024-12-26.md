@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2024-12-26 11:30:00`|`Farlight 84`|
+|[Perfect Smoke Raytrace/Vischeck &#40;EXTERNAL&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679034-perfect-smoke-raytrace-vischeck-external.html)|`2024-12-26 11:20:00`|`Valorant`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-12-26 10:46:00`|`Rust`|
 |[Get Module Base From NtQuerySystemInfomation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678582-module-base-ntquerysysteminfomation.html)|`2024-12-26 10:39:00`|`Anti-Cheat Bypass`|
 |[Voices of the Void Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/678546-voices-void-cheat.html)|`2024-12-26 10:38:00`|`Other Games`|
