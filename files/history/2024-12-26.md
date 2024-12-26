@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BE flags or detects keyloggers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/679075-flags-detects-keyloggers.html)|`2024-12-26 19:27:00`|`Playerunknown's Battlegrounds`|
+|[12 Days of Hungarian Christmas](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678904-12-days-hungarian-christmas.html)|`2024-12-26 19:24:00`|`Anti-Cheat Bypass`|
 |[NULLPOINTER &#45; KERNEL EXTERNAL FULL C&#45;BASED CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677302-nullpointer-kernel-external-based-cheat.html)|`2024-12-26 19:18:00`|`Counter-Strike 2`|
 |[Getting module base of a dll in current process id](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679074-getting-module-base-dll-current-process-id.html)|`2024-12-26 19:15:00`|`Anti-Cheat Bypass`|
 |[Anyone have a Fortnite Dataset For Yolo or Yolov4 Model?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-software/618968-fortnite-dataset-yolo-yolov4-model.html)|`2024-12-26 18:58:00`|`Other Software`|
