@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spoofer HWID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/679089-spoofer-hwid.html)|`2024-12-27 00:31:00`|`Grand Theft Auto V`|
+|[new pattern squirrel scripts ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/678880-pattern-squirrel-scripts.html)|`2024-12-27 00:27:00`|`Apex Legends`|
+|[Getting module base of a dll in current process id](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/679092-getting-module-base-dll-current-process-id.html)|`2024-12-27 00:27:00`|`Rust`|
+|[Unpacking PUBG &#40;NON mobile&#41; PAK files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/679100-unpacking-pubg-mobile-pak-files.html)|`2024-12-27 00:24:00`|`Playerunknown's Battlegrounds`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2024-12-27 00:20:00`|`Counter-Strike 2`|
 |[Rigel / switching to kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/646323-rigel-switching-kernel.html)|`2024-12-27 00:08:00`|`Overwatch`|
 |[AFK Script for Plunder &#40;Read the Description&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/656179-afk-script-plunder-read-description.html)|`2024-12-27 00:05:00`|`Call of Duty: Modern Warfare III`|
 |[Fastest Python Valorant Triggerbot &#40;fr&#41;&#40;fr&#41;&#40;fr&#41; &#43; Addon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/641020-fastest-python-valorant-triggerbot-fr-fr-fr-addon.html)|`2024-12-27 00:05:00`|`Valorant`|
