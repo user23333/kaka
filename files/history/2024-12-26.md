@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Aim Assist in pure C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675938-aim-assist-pure.html)|`2024-12-26 12:56:00`|`Valorant`|
 |[Simple Quick Scope Macro &#40;razer synapse&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/678423-simple-quick-scope-macro-razer-synapse.html)|`2024-12-26 12:47:00`|`Call of Duty: Black Ops 6`|
 |[maplestory world   player X  Y](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/678118-maplestory-world-player.html)|`2024-12-26 12:37:00`|`Maple Story`|
 |[Data packets are sent and received in the game League of Legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/679041-data-packets-sent-received-game-league-legends.html)|`2024-12-26 12:19:00`|`League of Legends`|
