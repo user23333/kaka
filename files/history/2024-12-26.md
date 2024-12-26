@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What Is the Best Method for Implementing Anti&#45;Flash in an Internal Cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679084-method-implementing-anti-flash-internal-cheat.html)|`2024-12-26 21:21:00`|`Counter-Strike 2`|
 |[How to bypass IP ban from the server &#40;SCP: SL&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/679000-bypass-ip-ban-server-scp-sl.html)|`2024-12-26 20:56:00`|`Other Games`|
 |[Rigel / switching to kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/646323-rigel-switching-kernel.html)|`2024-12-26 20:56:00`|`Overwatch`|
 |[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2024-12-26 20:52:00`|`Grand Theft Auto V`|
