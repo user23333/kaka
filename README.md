@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat Arms: Classic Addresses](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/481026-combat-arms-classic-addresses.html)|`2024-12-26 23:57:00`|`Combat Arms`|
+|[Leak new AutoStrafe&#46; Update &#45; sv&#95;quantize&#95;movement&#95;input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679096-leak-autostrafe-update-sv_quantize_movement_input.html)|`2024-12-26 23:57:00`|`Counter-Strike 2`|
+|[Elon Musk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/678909-elon-musk.html)|`2024-12-26 23:56:00`|`Off Topic`|
 |[Mono/IL2CPP Game List](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/590622-mono-il2cpp-game-list.html)|`2024-12-26 23:52:00`|`Unity`|
 |[Simeon Premium Deluxe Motorsport](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678245-simeon-premium-deluxe-motorsport.html)|`2024-12-26 23:40:00`|`Grand Theft Auto V`|
 |[Linux &#45; Bypassing VAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/634811-linux-bypassing-vac.html)|`2024-12-26 23:18:00`|`Counter-Strike 2`|
