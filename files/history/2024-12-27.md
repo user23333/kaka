@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FACEIT DLL Hijack Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677628-faceit-dll-hijack-exploit.html)|`2024-12-27 05:17:00`|`Anti-Cheat Bypass`|
+|[Valorant Arduino Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679163-valorant-arduino-colorbot.html)|`2024-12-27 05:13:00`|`Valorant`|
+|[Reliable ESP's out there?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/679162-reliable-esps.html)|`2024-12-27 05:12:00`|`Call of Duty: Black Ops 6`|
+|[DayZ DMA Fuser Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/592499-dayz-dma-fuser-overlay.html)|`2024-12-27 05:04:00`|`DayZ SA`|
+|[Cheap DMA cards](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/617995-cheap-dma-cards.html)|`2024-12-27 05:03:00`|`PC Hardware`|
 |[FamilyMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/631659-familymenu.html)|`2024-12-27 05:02:00`|`Red Dead Redemption 2`|
 |[GamerFun AI Menu: All mouse Aimbot, Triggerbot & Recoil Control Using LGUB Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671029-gamerfun-ai-menu-mouse-aimbot-triggerbot-recoil-control-using-lgub-drivers.html)|`2024-12-27 04:59:00`|`Rainbow Six Siege`|
 |[Mordhau cheat &#124;&#124; Patch &#35;28](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/612663-mordhau-cheat-patch-28-a.html)|`2024-12-27 04:50:00`|`Other FPS Games`|
