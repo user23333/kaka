@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help Needed: Bypassing NVIDIA Inspector Captcha on DayZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/673832-help-bypassing-nvidia-inspector-captcha-dayz.html)|`2024-12-27 04:23:00`|`Off Topic`|
 |[Yolov8 model for marvel rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677707-yolov8-model-marvel-rivals.html)|`2024-12-27 03:59:00`|`Marvel Rivals`|
 |[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2024-12-27 03:47:00`|`Grand Theft Auto V`|
 |[Does anybody have a free EAC spoofer &#40;fortnite&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679045-free-eac-spoofer-fortnite.html)|`2024-12-27 03:43:00`|`Anti-Cheat Bypass`|
