@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669274-vigor-internal-cheat.html)|`2024-12-27 00:55:00`|`Other FPS Games`|
 |[Mike Tyson IS NOT THE GOAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/675262-mike-tyson-goat.html)|`2024-12-27 00:46:00`|`Off Topic`|
 |[Marvel Rivals TriggerBot & AimAssist &#40;MouseBased Undetected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678761-marvel-rivals-triggerbot-aimassist-mousebased-undetected.html)|`2024-12-27 00:45:00`|`Marvel Rivals`|
 |[&#124; Dota 2 &#124; Nest of Throns: skills without cooldowns &#124; EXTERNAL &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/677527-dota-2-nest-throns-skills-cooldowns-external.html)|`2024-12-27 00:45:00`|`Other MMORPG and Strategy`|
