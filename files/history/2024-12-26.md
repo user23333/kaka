@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2024-12-26 15:56:00`|`Counter-Strike 2`|
+|[Combat Master CE Godmode, MEGA XP, Instant Weapon/Player Max Level, Attachment Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/583715-combat-master-ce-godmode-mega-xp-instant-weapon-player-max-level-attachment-mod.html)|`2024-12-26 15:55:00`|`Combat Master`|
 |[FSL Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678437-fsl-issues.html)|`2024-12-26 15:38:00`|`Grand Theft Auto V`|
 |[Empty session tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/677713-empty-session-tool.html)|`2024-12-26 15:20:00`|`Grand Theft Auto V`|
 |[EAC killing my thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678597-eac-killing-thread.html)|`2024-12-26 15:13:00`|`Anti-Cheat Bypass`|
