@@ -11,6 +11,7 @@
 |17|[Autoupdating NoRecoil and NoSpread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/678646-autoupdating-norecoil-nospread.html)|`2024-12-27 00:17:59`|`rainbow-six-siege`|
 |7|[Any way to Making Cash with Battleeye / Yimmenu ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678227-cash-battleeye-yimmenu.html)|`2024-12-27 00:17:59`|`grand-theft-auto-v`|
 |11|[Color aimbot and triggerbot based on C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678686-color-aimbot-triggerbot-based.html)|`2024-12-27 00:17:59`|`marvel-rivals`|
+|4|[How to boot/ddos a server/game in ranked?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/677992-boot-ddos-server-game-ranked.html)|`2024-12-27 00:45:30`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Colorbot &#40;Arduino & No Arduino Support&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677136-marvel-rivals-colorbot-arduino-arduino-support.html)|`2024-12-27 00:40:00`|`Marvel Rivals`|
+|[Arduno Micro, is disabling CDC &#40;serial com port&#41; enough to avoid outright detection?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679104-arduno-micro-disabling-cdc-serial-com-port-avoid-outright-detection.html)|`2024-12-27 00:34:00`|`Anti-Cheat Bypass`|
 |[Spoofer HWID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/679089-spoofer-hwid.html)|`2024-12-27 00:31:00`|`Grand Theft Auto V`|
 |[new pattern squirrel scripts ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/678880-pattern-squirrel-scripts.html)|`2024-12-27 00:27:00`|`Apex Legends`|
 |[Getting module base of a dll in current process id](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/679092-getting-module-base-dll-current-process-id.html)|`2024-12-27 00:27:00`|`Rust`|
