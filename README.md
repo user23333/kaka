@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[internal shitty past bf1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/523274-internal-shitty-past-bf1.html)|`2024-12-27 23:54:00`|`Battlefield 1`|
 |[banning cod server ips to disable hit reg nerfs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673920-banning-cod-server-ips-disable-hit-reg-nerfs.html)|`2024-12-27 23:47:00`|`Call of Duty: Black Ops 6`|
 |[CS2 Python Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/633657-cs2-python-cheat.html)|`2024-12-27 23:42:00`|`Counter-Strike 2 Releases`|
 |[Why am I unable to locate the GOM offset and the gameObjectManager's structure?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/679190-am-unable-locate-gom-offset-gameobjectmanagers-structure.html)|`2024-12-27 23:37:00`|`Escape from Tarkov`|
