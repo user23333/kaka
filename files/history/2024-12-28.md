@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2024-12-28 03:49:00`|`Escape from Tarkov`|
+|[RealmRoyale Internal Hack Source &#43; bin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/621617-realmroyale-internal-hack-source-bin.html)|`2024-12-28 03:45:00`|`Paladins`|
 |[Blazing Sails Hack &#91;Win10&#93; &#91;Steam/EGS&#93; &#124; ESP &#124; SpeedHack &#124; NoClip &#124; More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620821-blazing-sails-hack-win10-steam-egs-esp-speedhack-noclip.html)|`2024-12-28 03:35:00`|`Other FPS Games`|
 |[Getting module base of a dll in current process id](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679074-getting-module-base-dll-current-process-id.html)|`2024-12-28 03:31:00`|`Anti-Cheat Bypass`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2024-12-28 03:30:00`|`Other FPS Games`|
