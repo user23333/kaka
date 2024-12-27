@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2024-12-27 21:19:00`|`Counter-Strike 2`|
+|[Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679260-crash.html)|`2024-12-27 21:17:00`|`Counter-Strike 2`|
+|[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2024-12-27 21:15:00`|`Other FPS Games`|
+|[Dev balaclava crashing desktop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/679258-dev-balaclava-crashing-desktop.html)|`2024-12-27 21:05:00`|`Escape from Tarkov`|
 |[What Is the Best Method for Implementing Anti&#45;Flash in an Internal Cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679084-method-implementing-anti-flash-internal-cheat.html)|`2024-12-27 21:05:00`|`Counter-Strike 2`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2024-12-27 21:04:00`|`Other FPS Games`|
 |[Play together thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/321960-play-thread.html)|`2024-12-27 20:59:00`|`Grand Theft Auto V`|
