@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Tarkov DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/678998-tarkov-dma.html)|`2024-12-27 20:48:00`|`Escape from Tarkov`|
+|[pointer dereference incorrectly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679249-pointer-dereference-incorrectly.html)|`2024-12-27 20:33:00`|`Anti-Cheat Bypass`|
+|[RealmRoyale Internal Hack Source &#43; bin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/621617-realmroyale-internal-hack-source-bin.html)|`2024-12-27 20:25:00`|`Paladins`|
+|[Pro CS2 DMA &#45; Esp & Aimbot & Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656442-pro-cs2-dma-esp-aimbot-web-radar.html)|`2024-12-27 20:17:00`|`Counter-Strike 2`|
+|[Osussist v3 MultiHack for osu&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/671577-osussist-v3-multihack-osu.html)|`2024-12-27 20:16:00`|`Other Games`|
 |[Vanguard vs Kernel Level Cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/679244-vanguard-vs-kernel-level-cheats.html)|`2024-12-27 19:59:00`|`League of Legends`|
 |[Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/672620-mod-menu.html)|`2024-12-27 19:49:00`|`Among Us`|
 |[Rust internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/678449-rust-internal-cheat.html)|`2024-12-27 19:34:00`|`Rust`|
