@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-12-27 17:46:00`|`Deadlock`|
+|[BGMI 3&#46;5 SDK & MAGIC SHELL&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/679233-bgmi-3-5-sdk-magic-shell.html)|`2024-12-27 17:45:00`|`PUBG Mobile`|
 |[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-12-27 17:09:00`|`Counter-Strike 2`|
 |[Profit from botting MvM?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/679192-profit-botting-mvm.html)|`2024-12-27 16:29:00`|`Team Fortress 2`|
 |[Frontier Def: pSilent, ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/668652-frontier-def-psilent-esp.html)|`2024-12-27 16:28:00`|`Titanfall`|
