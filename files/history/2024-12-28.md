@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-12-28 03:21:00`|`Playerunknown's Battlegrounds`|
+|[Mark Specials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/678295-mark-specials.html)|`2024-12-28 03:20:00`|`Payday 2`|
 |[Delayed Ban &#40;Unspoofable Laptop?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679263-delayed-ban-unspoofable-laptop.html)|`2024-12-28 03:16:00`|`Valorant`|
 |[GPU accelerated hardware controlled color aimbot for any 3D game python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/678996-gpu-accelerated-hardware-controlled-color-aimbot-3d-game-python.html)|`2024-12-28 03:12:00`|`Valorant`|
 |[&#91;UE4&#93;Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/244709-ue4-squad.html)|`2024-12-28 03:10:00`|`Other FPS Games`|
