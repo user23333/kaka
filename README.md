@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What kind of ban is VAN61 error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679024-ban-van61-error.html)|`2024-12-27 11:52:00`|`Valorant`|
 |[Combat Master CE Godmode, MEGA XP, Instant Weapon/Player Max Level, Attachment Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/583715-combat-master-ce-godmode-mega-xp-instant-weapon-player-max-level-attachment-mod.html)|`2024-12-27 11:47:00`|`Combat Master`|
 |[&#91;Always updated&#93; color aimbot for &#42;Almost any 3d game, coded fully in python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/657882-updated-color-aimbot-3d-game-coded-python.html)|`2024-12-27 11:42:00`|`Other FPS Games`|
 |[Any Ark Cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/679210-ark-cheats.html)|`2024-12-27 11:26:00`|`Other FPS Games`|
