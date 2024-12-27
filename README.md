@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Windows version bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/679392-windows-version-bypass.html)|`2024-12-28 07:26:00`|`Marvel Rivals`|
 |[Deep Rock Galactic Gamepass/Windows version Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/567321-deep-rock-galactic-gamepass-windows-version-cheat-table.html)|`2024-12-28 07:12:00`|`Cheat Engine Tables`|
 |[Colorbot Silentaim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679391-colorbot-silentaim.html)|`2024-12-28 07:10:00`|`Valorant`|
 |[I Found A Way To Play Online Without Getting Kicked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678565-found-play-online-getting-kicked.html)|`2024-12-28 06:43:00`|`Grand Theft Auto V`|
