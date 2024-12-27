@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ban sot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/678479-ban-sot.html)|`2024-12-28 00:49:00`|`Sea of Thieves`|
+|[Apex Rage External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/660129-apex-rage-external-cheat.html)|`2024-12-28 00:48:00`|`Apex Legends`|
+|[Issue with AntiAim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679353-issue-antiaim.html)|`2024-12-28 00:47:00`|`Counter-Strike 2`|
 |[Sunoki's TB removed keybind &#43; added toggle shooting rate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679352-sunokis-tb-removed-keybind-added-toggle-shooting-rate.html)|`2024-12-28 00:43:00`|`Valorant`|
 |[Is it possible to run multiple instances of SoT on one PC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/677812-run-multiple-instances-sot-pc.html)|`2024-12-28 00:42:00`|`Sea of Thieves`|
 |[Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679260-crash.html)|`2024-12-28 00:31:00`|`Counter-Strike 2`|
