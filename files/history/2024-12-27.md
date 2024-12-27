@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Thread for Posting Pve Exploits &#40;software free&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/647317-thread-posting-pve-exploits-software-free.html)|`2024-12-27 10:06:00`|`Escape from Tarkov`|
+|[Call of Duty Options Editor BO6 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671448-call-duty-options-editor-bo6-update.html)|`2024-12-27 09:46:00`|`Call of Duty: Black Ops 6`|
+|[America's Army: Proving Grounds NoRecoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/america-s-army-proving-grounds/673295-americas-army-proving-grounds-norecoil.html)|`2024-12-27 09:35:00`|`America's Army: Proving Grounds`|
+|[Put benny's wheels in personal vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/376369-bennys-wheels-personal-vehicle.html)|`2024-12-27 09:17:00`|`Grand Theft Auto V`|
 |[GetComponentsInChildren &#43; More for externals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/665731-getcomponentsinchildren-externals.html)|`2024-12-27 08:47:00`|`Escape from Tarkov`|
 |[&#91;VOTE&#93; January 2025 Member of the Month](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/679187-vote-january-2025-month.html)|`2024-12-27 08:21:00`|`Member of the Month`|
 |[Hell Let Loose Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/664161-hell-loose-reversal-structs-offsets.html)|`2024-12-27 08:15:00`|`Other FPS Games`|
