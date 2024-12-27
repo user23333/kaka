@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DEATH NOTE Killer Within Cheat &#45; Cosmetics, ESP, Kill anyone, spawn items, and more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/679215-death-note-killer-cheat-cosmetics-esp-kill-spawn-items.html)|`2024-12-27 12:14:00`|`Other Games`|
 |[100% UNDETECTED INJECTOR&#33; &#124; EAC/BE/VGK BYPASS&#33; 🔥🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677613-100-undetected-injector-eac-vgk-bypass.html)|`2024-12-27 12:08:00`|`Anti-Cheat Bypass`|
 |[What kind of ban is VAN61 error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679024-ban-van61-error.html)|`2024-12-27 11:52:00`|`Valorant`|
 |[Combat Master CE Godmode, MEGA XP, Instant Weapon/Player Max Level, Attachment Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/583715-combat-master-ce-godmode-mega-xp-instant-weapon-player-max-level-attachment-mod.html)|`2024-12-27 11:47:00`|`Combat Master`|
