@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2024-12-28 02:25:00`|`Grand Theft Auto V`|
+|[Has anyone tried using YOLO AI detection to play Marvel Rivals? Join the discussion&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/676414-tried-using-yolo-ai-detection-play-marvel-rivals-join-discussion.html)|`2024-12-28 02:25:00`|`Marvel Rivals`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2024-12-28 02:24:00`|`Other FPS Games`|
+|[Delta Force ColorBot ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/679363-delta-force-colorbot.html)|`2024-12-28 02:21:00`|`Other FPS Games`|
+|[Rust internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/678449-rust-internal-cheat.html)|`2024-12-28 02:19:00`|`Rust`|
+|[Linux Cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678957-linux-cheats.html)|`2024-12-28 02:17:00`|`Marvel Rivals`|
 |[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2024-12-28 02:12:00`|`Escape from Tarkov`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-12-28 02:08:00`|`Grand Theft Auto V`|
 |[Lets discuss my color aimbot for VAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679361-discuss-color-aimbot-val.html)|`2024-12-28 01:55:00`|`Valorant`|
