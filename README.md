@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mafia4321x &#45; Valorant 100% working Color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679227-mafia4321x-valorant-100-color-aimbot.html)|`2024-12-27 14:30:00`|`Valorant`|
+|[BO6 Fuser ESP/AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676862-bo6-fuser-esp-aim.html)|`2024-12-27 14:21:00`|`Call of Duty: Black Ops 6`|
+|[Roblox External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/659119-roblox-external.html)|`2024-12-27 14:19:00`|`Other Games`|
+|[No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/675931-recoil.html)|`2024-12-27 14:13:00`|`Rainbow Six Siege`|
 |[PUBG MOBILE Gameloop Emulator Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/576303-pubg-mobile-gameloop-emulator-cheat.html)|`2024-12-27 14:00:00`|`PUBG Mobile`|
 |[Signed Spoofer By Microsoft&#40;EAC & BE&#41;  Early Christmas Present](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677190-signed-spoofer-microsoft-eac-christmas.html)|`2024-12-27 13:59:00`|`Anti-Cheat Bypass`|
 |[any  gmod scripts to spawn a weapon ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/678654-gmod-scripts-spawn-weapon.html)|`2024-12-27 13:46:00`|`Garry's Mod`|
