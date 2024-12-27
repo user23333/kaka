@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sons of the Forest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/572665-sons-forest.html)|`2024-12-28 01:37:00`|`Unity`|
+|[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2024-12-28 01:35:00`|`DayZ SA`|
 |[Marvel Rivals TriggerBot & AimAssist &#40;MouseBased Undetected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678761-marvel-rivals-triggerbot-aimassist-mousebased-undetected.html)|`2024-12-28 01:28:00`|`Marvel Rivals`|
 |[Perfect Smoke Raytrace/Vischeck &#40;EXTERNAL&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679034-perfect-smoke-raytrace-vischeck-external.html)|`2024-12-28 01:26:00`|`Valorant`|
 |[pasted CE table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/677920-pasted-ce-table.html)|`2024-12-28 01:25:00`|`Palworld`|
