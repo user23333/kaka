@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Profit from botting MvM?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/679192-profit-botting-mvm.html)|`2024-12-27 16:29:00`|`Team Fortress 2`|
+|[Frontier Def: pSilent, ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/668652-frontier-def-psilent-esp.html)|`2024-12-27 16:28:00`|`Titanfall`|
 |[find ipadview, ultra hdr 120fps and less recoil offset &#40;pubg 3&#46;5 32bit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/671800-ipadview-ultra-hdr-120fps-recoil-offset-pubg-3-5-32bit.html)|`2024-12-27 16:14:00`|`PUBG Mobile`|
 |[Pipsi&#45;ZZZ &#91; Zenless Zone Zero Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/645862-pipsi-zzz-zenless-zone-zero-cheat.html)|`2024-12-27 16:11:00`|`Other MMORPG and Strategy`|
 |[Bodycam Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/647419-bodycam-internal-cheat.html)|`2024-12-27 15:33:00`|`Other FPS Games`|
