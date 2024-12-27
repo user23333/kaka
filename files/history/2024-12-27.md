@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Why am I unable to locate the GOM offset and the gameObjectManager's structure?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/679190-am-unable-locate-gom-offset-gameobjectmanagers-structure.html)|`2024-12-27 23:37:00`|`Escape from Tarkov`|
+|[&#91;REIMU&#93; Apex Recoil &#91;NO MOUSE&#95;EVENT / INPUT&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/679345-reimu-apex-recoil-mouse_event-input.html)|`2024-12-27 23:37:00`|`Apex Legends`|
 |[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2024-12-27 23:32:00`|`Elite: Dangerous`|
 |[Internal cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/611723-internal-cheese.html)|`2024-12-27 23:18:00`|`Payday 3`|
 |[How to Perm Spoof a SSD NVMe the real way&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667328-perm-spoof-ssd-nvme-real.html)|`2024-12-27 23:11:00`|`Anti-Cheat Bypass`|
