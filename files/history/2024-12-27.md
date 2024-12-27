@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does EAC's PT shuffling also prevent MmCopyVirtualfrom functioning? &#40;in a signed driv](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679013-eacs-pt-shuffling-prevent-mmcopyvirtualfrom-functioning-signed-driv.html)|`2024-12-27 12:52:00`|`Anti-Cheat Bypass`|
+|[Voices of the Void Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/678546-voices-void-cheat.html)|`2024-12-27 12:51:00`|`Other Games`|
+|[Python: Morrowind Memory Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/678921-python-morrowind-memory-editor.html)|`2024-12-27 12:50:00`|`Other Single Player Games`|
 |[A simple game to start game hack dev?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/679067-simple-game-start-game-hack-dev.html)|`2024-12-27 12:35:00`|`Other MMORPG and Strategy`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2024-12-27 12:32:00`|`Other FPS Games`|
 |[DEATH NOTE Killer Within Cheat &#45; Cosmetics, ESP, Kill anyone, spawn items, and more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/679215-death-note-killer-cheat-cosmetics-esp-kill-spawn-items.html)|`2024-12-27 12:14:00`|`Other Games`|
