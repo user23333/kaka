@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sunoki's TB removed keybind &#43; added toggle shooting rate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679352-sunokis-tb-removed-keybind-added-toggle-shooting-rate.html)|`2024-12-28 00:43:00`|`Valorant`|
+|[Is it possible to run multiple instances of SoT on one PC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/677812-run-multiple-instances-sot-pc.html)|`2024-12-28 00:42:00`|`Sea of Thieves`|
 |[Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679260-crash.html)|`2024-12-28 00:31:00`|`Counter-Strike 2`|
 |[&#91;REIMU&#93; Apex Recoil &#91;NO MOUSE&#95;EVENT / INPUT&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/679345-reimu-apex-recoil-mouse_event-input.html)|`2024-12-28 00:31:00`|`Apex Legends`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-12-28 00:29:00`|`Rust`|
