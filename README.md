@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2024-12-28 21:02:00`|`Alternative Online Mods`|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2024-12-28 21:01:00`|`Other FPS Games`|
+|[What skills do I need to have for bypassing ac's?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679375-skills-bypassing-acs.html)|`2024-12-28 21:00:00`|`Anti-Cheat Bypass`|
+|[Dynamic Analysis on Linux&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/679449-dynamic-analysis-linux.html)|`2024-12-28 20:55:00`|`General Programming and Reversing`|
 |[Bone array](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/678884-bone-array.html)|`2024-12-28 20:39:00`|`Counter-Strike 2`|
 |[Auto accept](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679446-auto-accept.html)|`2024-12-28 20:37:00`|`Counter-Strike 2`|
 |[fivem ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678392-fivem-esp.html)|`2024-12-28 20:29:00`|`Grand Theft Auto V`|
