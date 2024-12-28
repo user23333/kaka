@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What game should I begin with?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/679140-game-begin.html)|`2024-12-28 18:21:00`|`Forum General`|
 |[Game pass unban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/679220-game-pass-unban.html)|`2024-12-28 18:04:00`|`Call of Duty: Black Ops 6`|
 |[Invoking Natives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/679437-invoking-natives.html)|`2024-12-28 17:30:00`|`Grand Theft Auto V`|
 |[Vulnerable driver detection traces](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679436-vulnerable-driver-detection-traces.html)|`2024-12-28 17:23:00`|`Anti-Cheat Bypass`|
