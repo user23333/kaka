@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2024-12-29 04:41:00`|`Valorant`|
+|[Shadow Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/678302-shadow-bans.html)|`2024-12-29 04:41:00`|`Call of Duty: Black Ops 6`|
 |[xp or unlocker server or somthn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/678592-xp-unlocker-server-somthn.html)|`2024-12-29 04:37:00`|`Battlefield 4`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-12-29 04:30:00`|`Apex Legends`|
 |[Overdrill activator non/host](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/679479-overdrill-activator-host.html)|`2024-12-29 04:28:00`|`Payday 2`|
