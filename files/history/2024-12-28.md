@@ -12,6 +12,7 @@
 |7|[I Found A Way To Play Online Without Getting Kicked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678565-found-play-online-getting-kicked.html)|`2024-12-28 00:00:50`|`grand-theft-auto-v`|
 |9|[Valorant DTC cheats to use cuz bored](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/678213-valorant-dtc-cheats-cuz-bored.html)|`2024-12-28 00:00:50`|`valorant`|
 |9|[How to get money in GTA Online&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678504-money-gta-online.html)|`2024-12-28 07:22:40`|`grand-theft-auto-v`|
+|27|[GPU accelerated hardware controlled color aimbot for any 3D game python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/678996-gpu-accelerated-hardware-controlled-color-aimbot-3d-game-python.html)|`2024-12-28 10:27:33`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -26,9 +27,13 @@
 |1|[Voices of the Void Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48039)|`2024-12-28 00:00:50`|
 |143|[Vigor Internal v1&#46;0&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48038)|`2024-12-28 00:00:50`|
 |2|[aim&#95;assist&#95;v11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48066)|`2024-12-28 09:21:55`|
+|4|[ThoramiBot v1&#46;02](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48067)|`2024-12-28 10:27:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2024-12-28 10:07:00`|`Escape from Tarkov`|
+|[Character Dupe Success 12/27](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/679358-character-dupe-success-12-27-a.html)|`2024-12-28 10:01:00`|`DayZ SA`|
+|[League TFT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/679164-league-tft.html)|`2024-12-28 09:34:00`|`League of Legends`|
 |[Kernel&#45;Level Approach to Bypass Vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679405-kernel-level-approach-bypass-vanguard.html)|`2024-12-28 09:17:00`|`Anti-Cheat Bypass`|
 |[&#91;CaptainDMA M2 NVME&#93; My computer refuses to recognize my dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/679404-captaindma-m2-nvme-computer-refuses-recognize-dma.html)|`2024-12-28 08:59:00`|`PC Hardware`|
 |[&#91;STEAM &#124; XBOX &#124; STEAMDECK&#93; PalworldInternal &#45; Post Nuclear](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/621709-steam-xbox-steamdeck-palworldinternal-post-nuclear.html)|`2024-12-28 08:54:00`|`Palworld`|
