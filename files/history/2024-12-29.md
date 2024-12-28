@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-12-29 04:30:00`|`Apex Legends`|
+|[Overdrill activator non/host](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/679479-overdrill-activator-host.html)|`2024-12-29 04:28:00`|`Payday 2`|
 |[Raycast &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/678606-raycast-external.html)|`2024-12-29 04:04:00`|`Garry's Mod`|
 |[Marvel Rivals TriggerBot & AimAssist &#40;MouseBased Undetected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678761-marvel-rivals-triggerbot-aimassist-mousebased-undetected.html)|`2024-12-29 04:04:00`|`Marvel Rivals`|
 |[Coding prediction for moving targets Externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/679477-coding-prediction-moving-targets-externally.html)|`2024-12-29 03:45:00`|`Alternative Online Mods`|
