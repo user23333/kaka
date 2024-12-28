@@ -25,9 +25,14 @@
 |444|[MarvelRivals&#95;TriggerBot&AimAssist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48042)|`2024-12-28 00:00:50`|
 |1|[Voices of the Void Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48039)|`2024-12-28 00:00:50`|
 |143|[Vigor Internal v1&#46;0&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48038)|`2024-12-28 00:00:50`|
+|2|[aim&#95;assist&#95;v11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48066)|`2024-12-28 09:21:55`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kernel&#45;Level Approach to Bypass Vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679405-kernel-level-approach-bypass-vanguard.html)|`2024-12-28 09:17:00`|`Anti-Cheat Bypass`|
+|[&#91;CaptainDMA M2 NVME&#93; My computer refuses to recognize my dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/679404-captaindma-m2-nvme-computer-refuses-recognize-dma.html)|`2024-12-28 08:59:00`|`PC Hardware`|
+|[&#91;STEAM &#124; XBOX &#124; STEAMDECK&#93; PalworldInternal &#45; Post Nuclear](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/621709-steam-xbox-steamdeck-palworldinternal-post-nuclear.html)|`2024-12-28 08:54:00`|`Palworld`|
+|[Yet another &#45; Bot Lobby Manager for VM/VPS/NO&#45;VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676312-bot-lobby-manager-vm-vps-vm.html)|`2024-12-28 08:45:00`|`Call of Duty: Black Ops 6`|
 |[Rocket League &#45; ThoramiBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/593885-rocket-league-thoramibot.html)|`2024-12-28 07:59:00`|`Other Games`|
 |[Trading Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/679348-trading-bot.html)|`2024-12-28 07:55:00`|`Elite: Dangerous`|
 |[Marvel Rivals aimbot and esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677440-marvel-rivals-aimbot-esp.html)|`2024-12-28 07:53:00`|`Marvel Rivals`|
