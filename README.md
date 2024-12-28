@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Coding prediction for moving targets Externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/679477-coding-prediction-moving-targets-externally.html)|`2024-12-29 03:45:00`|`Alternative Online Mods`|
 |[BO6 Fuser ESP/AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676862-bo6-fuser-esp-aim.html)|`2024-12-29 03:08:00`|`Call of Duty: Black Ops 6`|
 |[Free Cheat Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/677967-free-cheat-chams.html)|`2024-12-29 03:03:00`|`Rainbow Six Siege`|
 |[Aim Assist in pure C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675938-aim-assist-pure.html)|`2024-12-29 02:44:00`|`Valorant`|
