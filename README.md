@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bone array](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/678884-bone-array.html)|`2024-12-29 05:40:00`|`Counter-Strike 2`|
+|[BadPaste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/669845-badpaste.html)|`2024-12-29 05:40:00`|`Team Fortress 2`|
 |[FamilyMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/631659-familymenu.html)|`2024-12-29 05:30:00`|`Red Dead Redemption 2`|
 |[Spoofer HWID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/679089-spoofer-hwid.html)|`2024-12-29 05:20:00`|`Grand Theft Auto V`|
 |[STRIDEN Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/679481-striden-reversal-structs-offsets.html)|`2024-12-29 04:48:00`|`Other FPS Games`|
