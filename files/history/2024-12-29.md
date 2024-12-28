@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Don't be a LOSER, don't buy a FUSER&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/669020-dont-loser-dont-buy-fuser.html)|`2024-12-29 07:48:00`|`PC Hardware`|
 |[cs2 signatures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/678524-cs2-signatures.html)|`2024-12-29 07:42:00`|`Counter-Strike 2`|
 |[Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679260-crash.html)|`2024-12-29 07:41:00`|`Counter-Strike 2`|
 |[pasted CE table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/677920-pasted-ce-table.html)|`2024-12-29 07:19:00`|`Palworld`|
