@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[pasted CE table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/677920-pasted-ce-table.html)|`2024-12-29 07:19:00`|`Palworld`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2024-12-29 07:13:00`|`Call of Duty: Black Ops 6`|
+|[Linux Cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678957-linux-cheats.html)|`2024-12-29 07:11:00`|`Marvel Rivals`|
 |[Current Situations About Cheats / Spoofers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679382-current-situations-cheats-spoofers.html)|`2024-12-29 06:58:00`|`Valorant`|
 |[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2024-12-29 06:50:00`|`Other FPS Games`|
 |[warface ru ports address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/679490-warface-ru-ports-address.html)|`2024-12-29 06:40:00`|`Warface`|
