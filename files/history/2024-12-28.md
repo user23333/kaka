@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Yolov8 model for marvel rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677707-yolov8-model-marvel-rivals.html)|`2024-12-28 17:20:00`|`Marvel Rivals`|
 |[Unturned DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/601369-unturned-dma.html)|`2024-12-28 16:54:00`|`Other FPS Games`|
 |[Game's Integrity Check Failed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679433-games-integrity-check-failed.html)|`2024-12-28 16:52:00`|`Anti-Cheat Bypass`|
 |[Zenless Zone Zero Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/661103-zenless-zone-zero-dump.html)|`2024-12-28 16:35:00`|`Other Games`|
