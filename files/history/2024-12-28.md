@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Crashing B06 game servers in ranked play?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/678858-crashing-b06-game-servers-ranked-play.html)|`2024-12-28 11:39:00`|`Call of Duty: Black Ops 6`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2024-12-28 11:35:00`|`Phasmophobia`|
 |[H1EMU &#45; ESP/AIMBOT/MAGIC BULLET/TELEPORT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/614865-h1emu-esp-aimbot-magic-bullet-teleport.html)|`2024-12-28 11:28:00`|`H1Z1`|
 |[Gamepass Dump?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/679408-gamepass-dump.html)|`2024-12-28 11:18:00`|`Call of Duty: Black Ops 6`|
 |[Arduino FirmWare UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676366-arduino-firmware-ud.html)|`2024-12-28 11:14:00`|`Valorant`|
