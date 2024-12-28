@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What is great tool to find offsets in OSX league](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/679068-tool-offsets-osx-league.html)|`2024-12-29 00:41:00`|`League of Legends`|
+|[Rust ollvm pass plugin &#40;LLVM 19&#46;1&#46;4&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust-language-/675261-rust-ollvm-pass-plugin-llvm-19-1-4-a.html)|`2024-12-29 00:40:00`|`Rust (Language)`|
 |[State of arduino cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679231-arduino-cheating.html)|`2024-12-29 00:39:00`|`Valorant`|
 |[Is there a way to raise money using a mod menu like yim and scripts for it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/679240-raise-money-using-mod-menu-yim-scripts.html)|`2024-12-29 00:36:00`|`Grand Theft Auto V`|
 |[How to make better ESP using entity bounds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/679351-esp-using-entity-bounds.html)|`2024-12-29 00:20:00`|`Apex Legends`|
