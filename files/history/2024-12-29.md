@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BO6 Enhanced Color Aim AHK GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671390-bo6-enhanced-color-aim-ahk-gui.html)|`2024-12-29 23:25:00`|`Call of Duty: Black Ops 6`|
+|[Vanguard vs Kernel Level Cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/679244-vanguard-vs-kernel-level-cheats.html)|`2024-12-29 23:24:00`|`League of Legends`|
 |[Help Request: Modified Cheat Engine for Roblox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679611-help-request-modified-cheat-engine-roblox.html)|`2024-12-29 23:05:00`|`Anti-Cheat Bypass`|
 |[Frameware Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/677239-frameware-release.html)|`2024-12-29 23:05:00`|`Overwatch`|
 |[Strinova Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667041-strinova-reversal-structs-offsets.html)|`2024-12-29 22:54:00`|`Other FPS Games`|
