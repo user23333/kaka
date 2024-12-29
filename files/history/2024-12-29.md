@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BO1 Zombies &#40;Plutonium / Steam&#41; Centity&#95;t struct / refdef](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/679556-bo1-zombies-plutonium-steam-centity_t-struct-refdef.html)|`2024-12-29 13:20:00`|`Call of Duty: Black Ops`|
+|[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2024-12-29 13:17:00`|`Grand Theft Auto V`|
 |[Please make a cheat for Death Note Killer Within](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670862-please-cheat-death-note-killer.html)|`2024-12-29 12:53:00`|`Other Games`|
 |[&#91;REIMU&#93; Apex Recoil &#91;NO MOUSE&#95;EVENT / INPUT&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/679345-reimu-apex-recoil-mouse_event-input.html)|`2024-12-29 12:37:00`|`Apex Legends`|
 |[overlapping chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/678257-overlapping-chams.html)|`2024-12-29 12:28:00`|`Counter-Strike 2`|
