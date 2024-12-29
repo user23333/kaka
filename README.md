@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Palworld Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/620076-palworld-reversal-structs-offsets.html)|`2024-12-29 21:23:00`|`Palworld`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2024-12-29 21:22:00`|`Grand Theft Auto V`|
+|[ZE&#45;hopELite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/645800-ze-hopelite.html)|`2024-12-29 21:17:00`|`CounterStrike Source`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2024-12-29 21:05:00`|`Grand Theft Auto V`|
 |[Who know how to bypass VM?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/666859-bypass-vm.html)|`2024-12-29 20:55:00`|`CrossFire`|
 |[Dark and Darker &#91;Aimbot,Esp,Misc&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/618062-dark-darker-aimbot-esp-misc.html)|`2024-12-29 20:54:00`|`Other FPS Games`|
 |[cbaseclientstate class](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/679060-cbaseclientstate-class.html)|`2024-12-29 20:11:00`|`Garry's Mod`|
