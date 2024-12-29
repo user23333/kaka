@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2024-12-30 02:16:00`|`Escape from Tarkov`|
+|[100% UNDETECTED INJECTOR&#33; &#124; EAC/BE/VGK BYPASS&#33; 🔥🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677613-100-undetected-injector-eac-vgk-bypass.html)|`2024-12-30 02:11:00`|`Anti-Cheat Bypass`|
+|[STAT Editor&#40;Int,Float,Bool&#41;&#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476043-stat-editor-int-float-bool-external.html)|`2024-12-30 02:11:00`|`Grand Theft Auto V`|
+|[Certeficates leak :&#41; Apple and etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678013-certeficates-leak-apple-etc.html)|`2024-12-30 02:08:00`|`Anti-Cheat Bypass`|
+|[do trackers that can bypass streamer mode still exist?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679221-trackers-bypass-streamer-mode-exist.html)|`2024-12-30 02:07:00`|`Valorant`|
 |[Destiny 2 Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/672533-destiny-2-cheat-table.html)|`2024-12-30 01:55:00`|`Other FPS Games`|
 |[Auto accept](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679446-auto-accept.html)|`2024-12-30 01:53:00`|`Counter-Strike 2`|
 |[how to host?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/679629-host.html)|`2024-12-30 01:53:00`|`Grand Theft Auto V`|
