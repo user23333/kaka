@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[C&#35; Remapper / Aim Assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/656729-remapper-aim-assist.html)|`2024-12-29 19:25:00`|`Apex Legends`|
 |[PUBG DMA cheat source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/667961-pubg-dma-cheat-source-code.html)|`2024-12-29 18:53:00`|`Playerunknown's Battlegrounds`|
 |[edit camo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/679569-edit-camo.html)|`2024-12-29 18:52:00`|`Call of Duty: Black Ops 6`|
 |[Kernel&#45;Level Approach to Bypass Vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679405-kernel-level-approach-bypass-vanguard.html)|`2024-12-29 18:51:00`|`Anti-Cheat Bypass`|
