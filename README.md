@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2024-12-29 21:53:00`|`Counter-Strike 2`|
+|[SonyHelper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677820-sonyhelper.html)|`2024-12-29 21:52:00`|`Anti-Cheat Bypass`|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2024-12-29 21:49:00`|`Sea of Thieves`|
 |[Does EAC's PT shuffling also prevent MmCopyVirtualfrom functioning? &#40;in a signed driv](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679013-eacs-pt-shuffling-prevent-mmcopyvirtualfrom-functioning-signed-driv.html)|`2024-12-29 21:42:00`|`Anti-Cheat Bypass`|
 |[maplestory world   player X  Y](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/678118-maplestory-world-player.html)|`2024-12-29 21:34:00`|`Maple Story`|
 |[BGMI 3&#46;5 SDK & MAGIC SHELL&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/679233-bgmi-3-5-sdk-magic-shell.html)|`2024-12-29 21:41:00`|`PUBG Mobile`|
