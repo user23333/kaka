@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Missing first quest for BTR?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/679658-missing-quest-btr.html)|`2024-12-30 06:09:00`|`Escape from Tarkov`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-12-30 05:56:00`|`Rust`|
 |[Sons of the Forest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/572665-sons-forest.html)|`2024-12-30 05:49:00`|`Unity`|
 |[Ultimate Menu Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/565688-ultimate-menu-script.html)|`2024-12-30 05:44:00`|`Grand Theft Auto V`|
 |[Python: Morrowind NPC ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/679656-python-morrowind-npc-esp.html)|`2024-12-30 05:39:00`|`Other Single Player Games`|
