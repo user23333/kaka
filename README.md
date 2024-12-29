@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Game's Integrity Check Failed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679433-games-integrity-check-failed.html)|`2024-12-29 10:50:00`|`Anti-Cheat Bypass`|
+|[YimMenu&#46;dll 1&#46;70 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678007-yimmenu-dll-1-70-update.html)|`2024-12-29 10:42:00`|`Grand Theft Auto V`|
+|[Question about mouse movement bypass&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/679419-question-mouse-movement-bypass.html)|`2024-12-29 10:29:00`|`Forum General`|
 |[Python: Morrowind Memory Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/678921-python-morrowind-memory-editor.html)|`2024-12-29 09:45:00`|`Other Single Player Games`|
 |[&#91;UNIVERSAL&#93;&#91;LUA&#93; Script Engine &#91;ProbablyUD&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/676743-universal-lua-script-engine-probablyud.html)|`2024-12-29 09:44:00`|`Rainbow Six Siege`|
 |[Box Cheats Menu w/ Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/679547-box-cheats-menu-bypass.html)|`2024-12-29 09:36:00`|`HELLDIVERS 2`|
