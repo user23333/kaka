@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sai's Color Aimbot v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/659687-sais-color-aimbot-v2.html)|`2024-12-29 08:38:00`|`Call of Duty: Modern Warfare III`|
+|[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2024-12-29 08:28:00`|`Other FPS Games`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2024-12-29 08:26:00`|`Alternative Online Mods`|
+|[Rocket League &#45; ThoramiBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/593885-rocket-league-thoramibot.html)|`2024-12-29 08:19:00`|`Other Games`|
+|[Keep getting VAL 5 bans that started at 2min and keeps increasing by couple mins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679497-getting-val-5-bans-started-2min-increasing-couple-mins.html)|`2024-12-29 08:19:00`|`Valorant`|
+|[Project Zomboid Cheat &#124; EtherHack &#124; Powered by Java &#124; 41&#46;78&#46;16 &#124; Continued](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676271-project-zomboid-cheat-etherhack-powered-java-41-78-16-continued.html)|`2024-12-29 08:14:00`|`Other MMORPG and Strategy`|
 |[no&#45;import &#45; Obfuscate WinAPI calls to make them more difficult to decipher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/679495-import-obfuscate-winapi-calls-difficult-decipher.html)|`2024-12-29 07:53:00`|`C and C++`|
 |[Don't be a LOSER, don't buy a FUSER&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/669020-dont-loser-dont-buy-fuser.html)|`2024-12-29 07:48:00`|`PC Hardware`|
 |[cs2 signatures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/678524-cs2-signatures.html)|`2024-12-29 07:42:00`|`Counter-Strike 2`|
