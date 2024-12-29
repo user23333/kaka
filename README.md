@@ -12,6 +12,7 @@
 |9|[How to get money in GTA Online&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678504-money-gta-online.html)|`2024-12-29 00:08:06`|`grand-theft-auto-v`|
 |27|[GPU accelerated hardware controlled color aimbot for any 3D game python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/678996-gpu-accelerated-hardware-controlled-color-aimbot-3d-game-python.html)|`2024-12-29 00:08:06`|`valorant`|
 |7|[Marvel Rivals external esp base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678898-marvel-rivals-external-esp-base.html)|`2024-12-29 05:23:18`|`marvel-rivals`|
+|8|[Warzone GeoFence/Geoblocking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/678934-warzone-geofence-geoblocking.html)|`2024-12-29 19:44:05`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TOP MACRO Logitech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668884-top-macro-logitech.html)|`2024-12-29 19:43:00`|`Rust`|
 |[C&#35; Remapper / Aim Assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/656729-remapper-aim-assist.html)|`2024-12-29 19:25:00`|`Apex Legends`|
 |[PUBG DMA cheat source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/667961-pubg-dma-cheat-source-code.html)|`2024-12-29 18:53:00`|`Playerunknown's Battlegrounds`|
 |[edit camo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/679569-edit-camo.html)|`2024-12-29 18:52:00`|`Call of Duty: Black Ops 6`|
