@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG MOBILE ESP AND MAGIC CODE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/675515-pubg-mobile-esp-magic-code.html)|`2024-12-30 07:20:00`|`Playerunknown's Battlegrounds`|
+|[Cheaper Lattice?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/679668-cheaper-lattice.html)|`2024-12-30 07:14:00`|`Marvel Rivals`|
 |[Bug after the last DLC released](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/679667-bug-dlc-released.html)|`2024-12-30 07:12:00`|`Grand Theft Auto V`|
 |[using pc to get money on xbox seres x?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/679666-using-pc-money-xbox-seres.html)|`2024-12-30 07:09:00`|`Grand Theft Auto V`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2024-12-30 07:08:00`|`Alternative Online Mods`|
