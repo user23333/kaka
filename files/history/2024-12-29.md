@@ -27,9 +27,12 @@
 |4|[Morrowind&#46;rar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48047)|`2024-12-29 00:08:06`|
 |509|[MarvelRivals&#95;TriggerBot&AimAssist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48042)|`2024-12-29 00:08:06`|
 |3|[DEATHNOTE Cheater Within v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48076)|`2024-12-29 10:13:47`|
+|1|[BGMI 3&#46;5 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48075)|`2024-12-29 21:42:36`|
+|3|[Stupid&#46;Solutions v3&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48068)|`2024-12-29 21:42:36`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BGMI 3&#46;5 SDK & MAGIC SHELL&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/679233-bgmi-3-5-sdk-magic-shell.html)|`2024-12-29 21:41:00`|`PUBG Mobile`|
 |[Memory Scanner for THREADSTACK0 and pointers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/677899-memory-scanner-threadstack0-pointers.html)|`2024-12-29 21:25:00`|`General Programming and Reversing`|
 |[Palworld Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/620076-palworld-reversal-structs-offsets.html)|`2024-12-29 21:23:00`|`Palworld`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2024-12-29 21:22:00`|`Grand Theft Auto V`|
