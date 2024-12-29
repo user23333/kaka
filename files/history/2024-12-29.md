@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2024-12-29 17:10:00`|`Other FPS Games`|
 |[Dropped weapon Esp also shows for the players guns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679565-dropped-weapon-esp-players-guns.html)|`2024-12-29 16:56:00`|`Counter-Strike 2`|
 |[Reliable ESP's out there?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/679162-reliable-esps.html)|`2024-12-29 16:48:00`|`Call of Duty: Black Ops 6`|
 |[BO6 DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670998-bo6-dma-esp.html)|`2024-12-29 16:44:00`|`Call of Duty: Black Ops 6`|
