@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Colorbot &#40;Arduino & No Arduino Support&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677136-marvel-rivals-colorbot-arduino-arduino-support.html)|`2024-12-30 04:26:00`|`Marvel Rivals`|
+|[How do I start learning c&#43;&#43; to make my own dma reading memory only cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/678219-start-learning-own-dma-reading-memory-cheat.html)|`2024-12-30 04:26:00`|`Rainbow Six Siege`|
+|[Does phasmophobia actually have anti&#45;cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/678989-phasmophobia-actually-anti-cheat.html)|`2024-12-30 04:24:00`|`Phasmophobia`|
+|[Garry's mod dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/679011-garrys-mod-dumper.html)|`2024-12-30 04:20:00`|`Garry's Mod`|
 |[NoMoney](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/669715-nomoney.html)|`2024-12-30 04:15:00`|`Team Fortress 2`|
 |[Ragebot missing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679642-ragebot-missing.html)|`2024-12-30 04:05:00`|`Counter-Strike 2`|
 |[Current anticheat state](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/679641-current-anticheat.html)|`2024-12-30 04:03:00`|`Overwatch`|
