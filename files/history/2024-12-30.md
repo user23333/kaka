@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NoMoney](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/669715-nomoney.html)|`2024-12-30 04:15:00`|`Team Fortress 2`|
+|[Ragebot missing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679642-ragebot-missing.html)|`2024-12-30 04:05:00`|`Counter-Strike 2`|
+|[Current anticheat state](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/679641-current-anticheat.html)|`2024-12-30 04:03:00`|`Overwatch`|
 |[no&#45;import &#45; Obfuscate WinAPI calls to make them more difficult to decipher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/679495-import-obfuscate-winapi-calls-difficult-decipher.html)|`2024-12-30 03:59:00`|`C and C++`|
 |[seo64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/662767-seo64.html)|`2024-12-30 03:54:00`|`Team Fortress 2`|
 |[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2024-12-30 03:52:00`|`Grand Theft Auto V`|
