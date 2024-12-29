@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Getting module base of a dll in current process id](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679074-getting-module-base-dll-current-process-id.html)|`2024-12-29 12:08:00`|`Anti-Cheat Bypass`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2024-12-29 12:07:00`|`Rainbow Six Siege`|
 |[Banned on b06 after first time using loud chair &#45; how do i fix?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/679373-banned-b06-time-using-loud-chair-fix.html)|`2024-12-29 11:56:00`|`Call of Duty: Black Ops 6`|
 |[Crashing B06 game servers in ranked play?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/678858-crashing-b06-game-servers-ranked-play.html)|`2024-12-29 11:55:00`|`Call of Duty: Black Ops 6`|
 |[Keybind](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/675311-keybind.html)|`2024-12-29 11:37:00`|`CounterStrike Source`|
