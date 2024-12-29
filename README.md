@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need the name of a cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/679578-name-cheat.html)|`2024-12-30 01:24:00`|`Sea of Thieves`|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2024-12-30 01:22:00`|`Grand Theft Auto V`|
+|[ESP Flickering when I pick up a gun](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/679464-esp-flickering-pick-gun.html)|`2024-12-30 01:13:00`|`Alternative Online Mods`|
 |[Can't host or join online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/679623-cant-host-join-online.html)|`2024-12-30 01:12:00`|`Grand Theft Auto V`|
 |[Guide to Triggerbot &#43; Download](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679622-guide-triggerbot-download.html)|`2024-12-30 01:05:00`|`Valorant`|
 |[CR3 dirbase 24h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675080-cr3-dirbase-24h2.html)|`2024-12-30 01:00:00`|`Anti-Cheat Bypass`|
