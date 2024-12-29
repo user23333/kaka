@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Disable Vanguard / Vanguard bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/679635-disable-vanguard-vanguard-bypass.html)|`2024-12-30 03:30:00`|`League of Legends`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2024-12-30 02:47:00`|`Counter-Strike 2`|
 |[What are the best current best free cheats for cs2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679138-current-free-cheats-cs2.html)|`2024-12-30 02:45:00`|`Counter-Strike 2`|
 |[DMA Radar v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/639021-dma-radar-v2.html)|`2024-12-30 02:45:00`|`Escape from Tarkov`|
