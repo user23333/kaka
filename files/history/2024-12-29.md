@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to Bypass Ban in Delta Force?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/679069-bypass-ban-delta-force.html)|`2024-12-29 18:25:00`|`Other FPS Games`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2024-12-29 17:55:00`|`Other FPS Games`|
 |[Color aimbot and triggerbot based on C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678686-color-aimbot-triggerbot-based.html)|`2024-12-29 17:50:00`|`Marvel Rivals`|
 |[LSCHaX for 1&#46;70 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/224075-lschax-1-70-external.html)|`2024-12-29 17:41:00`|`Grand Theft Auto V`|
