@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Who know how to bypass VM?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/666859-bypass-vm.html)|`2024-12-29 20:55:00`|`CrossFire`|
+|[Dark and Darker &#91;Aimbot,Esp,Misc&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/618062-dark-darker-aimbot-esp-misc.html)|`2024-12-29 20:54:00`|`Other FPS Games`|
 |[cbaseclientstate class](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/679060-cbaseclientstate-class.html)|`2024-12-29 20:11:00`|`Garry's Mod`|
 |[Need the name of a cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/679578-name-cheat.html)|`2024-12-29 19:49:00`|`Sea of Thieves`|
 |[TOP MACRO Logitech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668884-top-macro-logitech.html)|`2024-12-29 19:43:00`|`Rust`|
