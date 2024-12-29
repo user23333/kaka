@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals aimbot and esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677440-marvel-rivals-aimbot-esp.html)|`2024-12-30 05:08:00`|`Marvel Rivals`|
+|[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2024-12-30 05:05:00`|`Other FPS Games`|
+|[Useful exports for reversing purposes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/679616-useful-exports-reversing-purposes.html)|`2024-12-30 05:04:00`|`DayZ SA`|
+|[FACEIT DLL Hijack Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677628-faceit-dll-hijack-exploit.html)|`2024-12-30 05:03:00`|`Anti-Cheat Bypass`|
+|[Nvidia leaked code/driver cert](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/491501-nvidia-leaked-code-driver-cert.html)|`2024-12-30 05:01:00`|`Anti-Cheat Bypass`|
+|[Getting module base of a dll in current process id](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679074-getting-module-base-dll-current-process-id.html)|`2024-12-30 04:59:00`|`Anti-Cheat Bypass`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2024-12-30 04:57:00`|`Call of Duty: Black Ops 6`|
 |[Challenge mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/679649-challenge-mode.html)|`2024-12-30 04:54:00`|`Phasmophobia`|
 |[Rocket League &#45; ThoramiBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/593885-rocket-league-thoramibot.html)|`2024-12-30 04:53:00`|`Other Games`|
