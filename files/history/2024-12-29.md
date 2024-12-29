@@ -29,9 +29,14 @@
 |3|[DEATHNOTE Cheater Within v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48076)|`2024-12-29 10:13:47`|
 |1|[BGMI 3&#46;5 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48075)|`2024-12-29 21:42:36`|
 |3|[Stupid&#46;Solutions v3&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48068)|`2024-12-29 21:42:36`|
+|2|[EFT&#95;dump&#95;0&#46;16&#46;0&#46;0&#46;34447](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48079)|`2024-12-29 21:48:27`|
+|2|[Marvel&#46;Rivals&#46;5&#46;3&#46;2&#46;1442700&#46;SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48065)|`2024-12-29 21:48:27`|
+|2|[palworld table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48061)|`2024-12-29 21:48:27`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does EAC's PT shuffling also prevent MmCopyVirtualfrom functioning? &#40;in a signed driv](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679013-eacs-pt-shuffling-prevent-mmcopyvirtualfrom-functioning-signed-driv.html)|`2024-12-29 21:42:00`|`Anti-Cheat Bypass`|
+|[maplestory world   player X  Y](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/678118-maplestory-world-player.html)|`2024-12-29 21:34:00`|`Maple Story`|
 |[BGMI 3&#46;5 SDK & MAGIC SHELL&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/679233-bgmi-3-5-sdk-magic-shell.html)|`2024-12-29 21:41:00`|`PUBG Mobile`|
 |[Memory Scanner for THREADSTACK0 and pointers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/677899-memory-scanner-threadstack0-pointers.html)|`2024-12-29 21:25:00`|`General Programming and Reversing`|
 |[Palworld Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/620076-palworld-reversal-structs-offsets.html)|`2024-12-29 21:23:00`|`Palworld`|
