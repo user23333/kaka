@@ -11,6 +11,7 @@
 |9|[How to get money in GTA Online&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678504-money-gta-online.html)|`2024-12-30 00:12:23`|`grand-theft-auto-v`|
 |7|[Marvel Rivals external esp base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678898-marvel-rivals-external-esp-base.html)|`2024-12-30 00:12:23`|`marvel-rivals`|
 |9|[Warzone GeoFence/Geoblocking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/678934-warzone-geofence-geoblocking.html)|`2024-12-30 00:12:23`|`call-of-duty-black-ops-6-a`|
+|17|[Is there a way to raise money using a mod menu like yim and scripts for it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/679240-raise-money-using-mod-menu-yim-scripts.html)|`2024-12-30 01:34:56`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
