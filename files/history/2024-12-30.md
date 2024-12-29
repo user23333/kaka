@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DEATH NOTE Killer Within Cheat &#45; Cosmetics, ESP, Kill anyone, spawn items, and more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/679215-death-note-killer-cheat-cosmetics-esp-kill-spawn-items.html)|`2024-12-30 07:30:00`|`Other Games`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2024-12-30 07:26:00`|`League of Legends`|
+|[Anticheat CR3 / PT shuffling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678661-anticheat-cr3-pt-shuffling.html)|`2024-12-30 07:24:00`|`Anti-Cheat Bypass`|
+|[All Mouse NoRecoil &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-recoil-helpy-auto-config-probably-ud-universal.html)|`2024-12-30 07:19:00`|`Rainbow Six Siege`|
 |[PUBG MOBILE ESP AND MAGIC CODE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/675515-pubg-mobile-esp-magic-code.html)|`2024-12-30 07:20:00`|`Playerunknown's Battlegrounds`|
 |[Cheaper Lattice?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/679668-cheaper-lattice.html)|`2024-12-30 07:14:00`|`Marvel Rivals`|
 |[Bug after the last DLC released](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/679667-bug-dlc-released.html)|`2024-12-30 07:12:00`|`Grand Theft Auto V`|
