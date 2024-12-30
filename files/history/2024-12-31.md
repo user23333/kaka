@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals TriggerBot & AimAssist &#40;MouseBased Undetected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678761-marvel-rivals-triggerbot-aimassist-mousebased-undetected.html)|`2024-12-31 00:35:00`|`Marvel Rivals`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2024-12-31 00:29:00`|`Other FPS Games`|
+|[Box Cheats Menu w/ Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/679547-box-cheats-menu-bypass.html)|`2024-12-31 00:28:00`|`HELLDIVERS 2`|
+|[&#91;Warframe&#93; Player Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/678485-warframe-player-offset.html)|`2024-12-31 00:22:00`|`Other FPS Games`|
+|[Valthrun External CS2 Hack &#40;Aimbot, ESP, Grenade Helper&#46; and more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679740-valthrun-external-cs2-hack-aimbot-esp-grenade-helper.html)|`2024-12-31 00:20:00`|`Counter-Strike 2`|
+|[BO6 Fuser ESP/AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676862-bo6-fuser-esp-aim.html)|`2024-12-31 00:19:00`|`Call of Duty: Black Ops 6`|
+|[titanfall 2 external cheat &#91;aimbot, esp, &#46;&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/469406-titanfall-2-external-cheat-aimbot-esp.html)|`2024-12-31 00:17:00`|`Titanfall`|
 |[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2024-12-31 00:16:00`|`Other FPS Games`|
 |[RealmRoyale Internal Hack Source &#43; bin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/621617-realmroyale-internal-hack-source-bin.html)|`2024-12-31 00:16:00`|`Paladins`|
 |[Bodycam Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640993-bodycam-reversal-structs-offsets.html)|`2024-12-31 00:08:00`|`Other FPS Games`|
