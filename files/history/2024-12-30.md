@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any working cheats for Steam CS 1&#46;6 now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/677378-cheats-steam-cs-1-6-a.html)|`2024-12-30 18:20:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Changing the MAC entries in the ARP Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679714-changing-mac-entries-arp-table.html)|`2024-12-30 17:43:00`|`Anti-Cheat Bypass`|
 |[Aim Assist in pure C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675938-aim-assist-pure.html)|`2024-12-30 17:05:00`|`Valorant`|
 |[Fivem need macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/679710-fivem-macro.html)|`2024-12-30 16:54:00`|`Alternative Online Mods`|
