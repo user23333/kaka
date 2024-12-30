@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2024-12-31 05:39:00`|`Deadlock`|
 |[Lavender Premium External Source with Anti Cheat Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/659043-lavender-premium-external-source-anti-cheat-bypass.html)|`2024-12-31 05:24:00`|`Alternative Online Mods`|
 |[Powerful PC setup, but a failure in the bot lobby&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/679551-powerful-pc-setup-failure-bot-lobby.html)|`2024-12-31 05:11:00`|`Call of Duty: Black Ops 6`|
 |[&#91;STEAM&#93; TCSM Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/649480-steam-tcsm-internal-cheat.html)|`2024-12-31 05:06:00`|`Other Games`|
