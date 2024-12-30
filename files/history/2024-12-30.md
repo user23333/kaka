@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Undetected injector EAC &#40;22&#46;12&#46;2024&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678400-undetected-injector-eac-22-12-2024-a.html)|`2024-12-30 13:42:00`|`Anti-Cheat Bypass`|
 |[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2024-12-30 13:12:00`|`Battlefield 4`|
 |[People are still playing on linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/679023-people-playing-linux.html)|`2024-12-30 13:02:00`|`Apex Legends`|
 |[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2024-12-30 12:36:00`|`Grand Theft Auto V`|
