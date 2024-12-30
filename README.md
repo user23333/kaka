@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2024-12-30 21:20:00`|`Playerunknown's Battlegrounds`|
+|[Why am I unable to locate the GOM offset and the gameObjectManager's structure?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/679190-am-unable-locate-gom-offset-gameobjectmanagers-structure.html)|`2024-12-30 21:13:00`|`Escape from Tarkov`|
 |[Overdrill activator non/host](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/679479-overdrill-activator-host.html)|`2024-12-30 20:50:00`|`Payday 2`|
 |[Remaster: Spankerfield &#43; Hyperhook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/679728-remaster-spankerfield-hyperhook.html)|`2024-12-30 20:22:00`|`Battlefield 4`|
 |[Destiny 2 Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669951-destiny-2-reversal.html)|`2024-12-30 20:21:00`|`Other FPS Games`|
