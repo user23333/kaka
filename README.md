@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals AntiCheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678876-marvel-rivals-anticheat.html)|`2024-12-30 12:05:00`|`Marvel Rivals`|
 |[Updated chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/642477-updated-chams.html)|`2024-12-30 11:38:00`|`Rainbow Six Siege`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2024-12-30 11:29:00`|`Other Games`|
 |[How is HVH right now? worth to play?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679697-hvh-worth-play.html)|`2024-12-30 11:29:00`|`Counter-Strike 2`|
