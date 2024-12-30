@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[All Mouse NoRecoil &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-recoil-helpy-auto-config-probably-ud-universal.html)|`2024-12-31 05:01:00`|`Rainbow Six Siege`|
+|[Strinova Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667041-strinova-reversal-structs-offsets.html)|`2024-12-31 04:59:00`|`Other FPS Games`|
+|[head positions for driver and passengers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/679803-head-positions-driver-passengers.html)|`2024-12-31 04:57:00`|`ARMA 3`|
 |[Helldivers 2&#45;&#45;AHK Stratagems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/625227-helldivers-2-ahk-stratagems.html)|`2024-12-31 04:51:00`|`HELLDIVERS 2`|
 |[Easiest ViewMatrix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/673942-easiest-viewmatrix.html)|`2024-12-31 04:50:00`|`CrossFire`|
 |[Does EAC's PT shuffling also prevent MmCopyVirtualfrom functioning? &#40;in a signed driv](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679013-eacs-pt-shuffling-prevent-mmcopyvirtualfrom-functioning-signed-driv.html)|`2024-12-31 04:48:00`|`Anti-Cheat Bypass`|
