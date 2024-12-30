@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2024-12-31 04:41:00`|`Counter-Strike 2`|
 |[What music are you listening right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/music-and-videos/86098-music-listening.html)|`2024-12-31 04:20:00`|`Music and Videos`|
 |[How do i Make a undected driver I can use for cheating?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679796-undected-driver-cheating.html)|`2024-12-31 04:07:00`|`Anti-Cheat Bypass`|
 |[Bot lobby &#45; In&#45;Depth guide BO6 &#40;NO VPS/VM's Needed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/679718-bot-lobby-depth-guide-bo6-vps-vms.html)|`2024-12-31 04:07:00`|`Call of Duty: Black Ops 6`|
