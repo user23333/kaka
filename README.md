@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA &#40;Entity Esp &#43; Player Bones&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677658-dma-entity-esp-player-bones.html)|`2024-12-30 10:58:00`|`Rust`|
+|[Bo6 zombies tools](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/679628-bo6-zombies-tools.html)|`2024-12-30 10:58:00`|`Call of Duty: Black Ops 6`|
+|[edit camo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/679569-edit-camo.html)|`2024-12-30 10:57:00`|`Call of Duty: Black Ops 6`|
+|[Reversing Quantum Unity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/679692-reversing-quantum-unity.html)|`2024-12-30 10:38:00`|`General Programming and Reversing`|
+|[ExAllocatePoolWithTag  Or AllocateIndependentPages](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679394-exallocatepoolwithtag-allocateindependentpages.html)|`2024-12-30 10:33:00`|`Anti-Cheat Bypass`|
+|[NVIDIA Internal Render Blocking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679587-nvidia-internal-render-blocking.html)|`2024-12-30 10:25:00`|`Anti-Cheat Bypass`|
 |[No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/675931-recoil.html)|`2024-12-30 09:53:00`|`Rainbow Six Siege`|
 |[easy method to make Undetected Cheat Engine &#43; Driver &#43; DSE&#45;Patcher &#124; Bypass AC 2023](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/606839-easy-method-undetected-cheat-engine-driver-dse-patcher-bypass-ac-2023-a.html)|`2024-12-30 09:39:00`|`Anti-Cheat Bypass`|
 |[CS2 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/614111-cs2-internal-cheat.html)|`2024-12-30 09:31:00`|`Counter-Strike 2`|
