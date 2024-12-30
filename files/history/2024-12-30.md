@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is Xigmapper or voygar Still can be used to load Efi drivers or it’s detected any oth](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/679219-xigmapper-voygar-load-efi-drivers-detected-oth.html)|`2024-12-30 16:40:00`|`Forum General`|
 |[Entitylist issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679072-entitylist-issue.html)|`2024-12-30 16:34:00`|`Counter-Strike 2`|
 |[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2024-12-30 16:33:00`|`Counter-Strike 2`|
 |[pasted CE table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/677920-pasted-ce-table.html)|`2024-12-30 16:08:00`|`Palworld`|
