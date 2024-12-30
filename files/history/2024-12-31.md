@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Guide to Triggerbot &#43; Download](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679622-guide-triggerbot-download.html)|`2024-12-31 03:39:00`|`Valorant`|
+|[Easiest Cheat to make?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/679791-easiest-cheat.html)|`2024-12-31 03:38:00`|`Call of Duty: Black Ops 6`|
+|[Aim Assist in pure C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675938-aim-assist-pure.html)|`2024-12-31 03:36:00`|`Valorant`|
 |[Linux External ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/674732-linux-external-esp-aimbot.html)|`2024-12-31 03:34:00`|`Counter-Strike 2 Releases`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2024-12-31 03:28:00`|`Apex Legends`|
 |[Hosting with Yim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/679451-hosting-yim.html)|`2024-12-31 03:27:00`|`Grand Theft Auto V`|
