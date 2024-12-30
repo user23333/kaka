@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does EAC's PT shuffling also prevent MmCopyVirtualfrom functioning? &#40;in a signed driv](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679013-eacs-pt-shuffling-prevent-mmcopyvirtualfrom-functioning-signed-driv.html)|`2024-12-31 04:48:00`|`Anti-Cheat Bypass`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2024-12-31 04:41:00`|`Counter-Strike 2`|
 |[What music are you listening right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/music-and-videos/86098-music-listening.html)|`2024-12-31 04:20:00`|`Music and Videos`|
 |[How do i Make a undected driver I can use for cheating?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679796-undected-driver-cheating.html)|`2024-12-31 04:07:00`|`Anti-Cheat Bypass`|
