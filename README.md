@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Powerful PC setup, but a failure in the bot lobby&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/679551-powerful-pc-setup-failure-bot-lobby.html)|`2024-12-31 05:11:00`|`Call of Duty: Black Ops 6`|
+|[&#91;STEAM&#93; TCSM Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/649480-steam-tcsm-internal-cheat.html)|`2024-12-31 05:06:00`|`Other Games`|
+|[Hero skills and abilities, Ana Sleep Dart&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/679804-hero-skills-abilities-ana-sleep-dart.html)|`2024-12-31 05:03:00`|`Overwatch`|
 |[All Mouse NoRecoil &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-recoil-helpy-auto-config-probably-ud-universal.html)|`2024-12-31 05:01:00`|`Rainbow Six Siege`|
 |[Strinova Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667041-strinova-reversal-structs-offsets.html)|`2024-12-31 04:59:00`|`Other FPS Games`|
 |[head positions for driver and passengers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/679803-head-positions-driver-passengers.html)|`2024-12-31 04:57:00`|`ARMA 3`|
