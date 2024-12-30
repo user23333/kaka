@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ragebot missing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679642-ragebot-missing.html)|`2024-12-31 01:15:00`|`Counter-Strike 2`|
+|[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2024-12-31 01:14:00`|`Palia`|
 |[How to unlock weapon tints ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/679553-unlock-weapon-tints.html)|`2024-12-31 01:11:00`|`Grand Theft Auto V`|
 |[Bone structure & matrix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679767-bone-structure-matrix.html)|`2024-12-31 01:08:00`|`Counter-Strike 2`|
 |[OW2 HWID detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/679624-ow2-hwid-detection.html)|`2024-12-31 01:05:00`|`Overwatch`|
