@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lethal Menu &#45; Lethal Company Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/615575-lethal-menu-lethal-company-cheat.html)|`2024-12-30 23:39:00`|`Lethal Company`|
 |[A Way to trick COD into thinking a player is playing on a different platform](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/679745-trick-cod-thinking-player-playing-platform.html)|`2024-12-30 23:08:00`|`Call of Duty: Black Ops 6`|
 |[POE2 CE Maphack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/676215-poe2-ce-maphack.html)|`2024-12-30 23:02:00`|`Cheat Engine Tables`|
 |[Where should I start?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/679572-start.html)|`2024-12-30 22:56:00`|`Escape from Tarkov`|
