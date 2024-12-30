@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-12-31 00:49:00`|`Rust`|
+|[DayZ 1&#46;26 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/668418-dayz-1-26-cheat.html)|`2024-12-31 00:48:00`|`DayZ SA`|
 |[Basic DMA cheating questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/679746-basic-dma-cheating-questions.html)|`2024-12-31 00:43:00`|`General Programming and Reversing`|
 |[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2024-12-31 00:39:00`|`Escape from Tarkov`|
 |[Marvel Rivals TriggerBot & AimAssist &#40;MouseBased Undetected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678761-marvel-rivals-triggerbot-aimassist-mousebased-undetected.html)|`2024-12-31 00:35:00`|`Marvel Rivals`|
