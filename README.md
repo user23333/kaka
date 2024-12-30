@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to unlock weapon tints ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/679553-unlock-weapon-tints.html)|`2024-12-31 01:11:00`|`Grand Theft Auto V`|
+|[Bone structure & matrix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679767-bone-structure-matrix.html)|`2024-12-31 01:08:00`|`Counter-Strike 2`|
+|[OW2 HWID detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/679624-ow2-hwid-detection.html)|`2024-12-31 01:05:00`|`Overwatch`|
+|[Disable Vanguard / Vanguard bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/679635-disable-vanguard-vanguard-bypass.html)|`2024-12-31 01:04:00`|`League of Legends`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2024-12-31 01:00:00`|`Escape from Tarkov`|
 |[Drift&#46;Wav &#45; Anubis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/679543-drift-wav-anubis.html)|`2024-12-31 00:57:00`|`Other FPS Games`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2024-12-31 00:55:00`|`Grand Theft Auto V`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2024-12-31 00:49:00`|`Rust`|
