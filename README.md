@@ -12,6 +12,7 @@
 |9|[Warzone GeoFence/Geoblocking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/678934-warzone-geofence-geoblocking.html)|`2024-12-31 00:18:08`|`call-of-duty-black-ops-6-a`|
 |12|[Latest EAC Driver IDA Database with Named/Decrypted Imports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679385-eac-driver-ida-database-named-decrypted-imports.html)|`2024-12-31 00:18:08`|`anti-cheat-bypass`|
 |17|[Is there a way to raise money using a mod menu like yim and scripts for it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/679240-raise-money-using-mod-menu-yim-scripts.html)|`2024-12-31 01:47:37`|`grand-theft-auto-v`|
+|5|[Box Cheats Menu w/ Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/679547-box-cheats-menu-bypass.html)|`2024-12-31 07:24:53`|`helldivers-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Challenge mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/679649-challenge-mode.html)|`2024-12-31 07:24:00`|`Phasmophobia`|
 |[Toram Online &#45; STEAM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/484409-toram-online-steam.html)|`2024-12-31 07:10:00`|`Other MMORPG and Strategy`|
 |[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2024-12-31 07:09:00`|`Elite: Dangerous`|
 |[Simple item ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/672151-simple-item-esp.html)|`2024-12-31 07:07:00`|`DayZ SA`|
