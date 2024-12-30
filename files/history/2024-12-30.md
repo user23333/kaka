@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does someone have a Palworld cheat that works in multiplayer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/679724-palworld-cheat-multiplayer.html)|`2024-12-30 19:47:00`|`Palworld`|
+|[Mordhau cheat &#124;&#124; Patch &#35;28](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/612663-mordhau-cheat-patch-28-a.html)|`2024-12-30 19:44:00`|`Other FPS Games`|
+|[Marvel Rivals Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678685-marvel-rivals-internal.html)|`2024-12-30 19:43:00`|`Marvel Rivals`|
 |[fivem ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678392-fivem-esp.html)|`2024-12-30 19:53:00`|`Grand Theft Auto V`|
 |[Palworld Lifmunk Effigy ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/679723-palworld-lifmunk-effigy-esp.html)|`2024-12-30 19:25:00`|`Palworld`|
 |[7DTD 1&#46;1 B14 Creative and Debug Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/665983-7dtd-1-1-b14-creative-debug-assembly-csharp-dll.html)|`2024-12-30 19:20:00`|`Other FPS Games`|
