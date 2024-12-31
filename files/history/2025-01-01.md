@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[rust external SOURCE IMGUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/680030-rust-external-source-imgui.html)|`2026-01-01 06:36:00`|`Rust`|
+|[Valorant Color aimbot release source &#43; bypass and spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679470-valorant-color-aimbot-release-source-bypass-spoofer.html)|`2026-01-01 06:30:00`|`Valorant`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2026-01-01 06:30:00`|`Grand Theft Auto V`|
 |[Mouse driver movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680028-mouse-driver-movement.html)|`2026-01-01 06:18:00`|`Valorant`|
 |[offset not consistently found???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679808-offset-consistently-found.html)|`2026-01-01 06:18:00`|`Counter-Strike 2`|
 |[Fiddler &#40;UNLOCK REWARDS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/679850-fiddler-unlock-rewards.html)|`2026-01-01 06:04:00`|`Marvel Rivals`|
