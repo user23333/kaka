@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is Rust a must&#45;have for bypassing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/679573-rust-bypassing.html)|`2026-01-01 00:46:00`|`Rust`|
+|[How do i Make a undected driver I can use for cheating?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679796-undected-driver-cheating.html)|`2026-01-01 00:42:00`|`Anti-Cheat Bypass`|
+|[Teleport Empty or NPC&#45;Occupied Vehicles Externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/679998-teleport-empty-npc-occupied-vehicles-externally.html)|`2026-01-01 00:39:00`|`Alternative Online Mods`|
+|[Getting offsets to C&#35; managed types](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-/679997-getting-offsets-managed-types.html)|`2026-01-01 00:39:00`|`C#`|
 |[RustEdit password](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/625052-rustedit-password.html)|`2026-01-01 00:31:00`|`Rust`|
 |[Disable Vanguard / Vanguard bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/679635-disable-vanguard-vanguard-bypass.html)|`2026-01-01 00:28:00`|`League of Legends`|
 |[internal aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679988-internal-aim.html)|`2026-01-01 00:26:00`|`Counter-Strike 2`|
