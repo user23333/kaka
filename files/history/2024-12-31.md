@@ -29,9 +29,12 @@
 |1|[BGMI 3&#46;5 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48075)|`2024-12-31 00:18:08`|
 |778|[Stupid&#46;Solutions v3&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48068)|`2024-12-31 00:18:08`|
 |1|[Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48089)|`2024-12-31 00:58:25`|
+|1|[Memory&#46;scanner&#46;2024&#45;12&#45;29](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48093)|`2024-12-31 17:33:01`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can someone help me convert from HaX to STAT Editor and copy stats of a legit user?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/679860-help-convert-hax-stat-editor-copy-stats-legit-user.html)|`2024-12-31 17:31:00`|`Grand Theft Auto V`|
+|[Memory Scanner for THREADSTACK0 and pointers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/677899-memory-scanner-threadstack0-pointers.html)|`2024-12-31 17:30:00`|`General Programming and Reversing`|
 |[How to edit total cases?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/678580-edit-total.html)|`2024-12-31 17:19:00`|`Phasmophobia`|
 |[forcing dev console](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/679857-forcing-dev-console.html)|`2024-12-31 17:04:00`|`Programming for Beginners`|
 |[Valorant Agent Instant Lock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679852-valorant-agent-instant-lock.html)|`2024-12-31 15:41:00`|`Valorant`|
