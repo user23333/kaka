@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Current Situations About Cheats / Spoofers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679382-current-situations-cheats-spoofers.html)|`2024-12-31 09:16:00`|`Valorant`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2024-12-31 09:11:00`|`DayZ SA`|
+|[Bug after the last DLC released](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/679667-bug-dlc-released.html)|`2024-12-31 09:10:00`|`Grand Theft Auto V`|
+|[Need help accessing private variable IL2CPP game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/679822-help-accessing-private-variable-il2cpp-game.html)|`2024-12-31 08:50:00`|`Unity`|
+|[Bypass Protection against emulatated keystrokes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/669366-bypass-protection-emulatated-keystrokes.html)|`2024-12-31 08:48:00`|`Anti-Cheat Bypass`|
 |[What are the Independence Day and Halloween enablement codes, please?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/679819-independence-day-halloween-enablement-codes-please.html)|`2024-12-31 08:32:00`|`Grand Theft Auto V`|
 |[BO6 Enhanced Color Aim AHK GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671390-bo6-enhanced-color-aim-ahk-gui.html)|`2024-12-31 08:26:00`|`Call of Duty: Black Ops 6`|
 |[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2024-12-31 08:15:00`|`Other Games`|
