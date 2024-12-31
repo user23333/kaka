@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to edit total cases?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/678580-edit-total.html)|`2024-12-31 17:19:00`|`Phasmophobia`|
 |[forcing dev console](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/679857-forcing-dev-console.html)|`2024-12-31 17:04:00`|`Programming for Beginners`|
 |[Valorant Agent Instant Lock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679852-valorant-agent-instant-lock.html)|`2024-12-31 15:41:00`|`Valorant`|
 |[Using Shika on main account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/678305-using-shika-main-account.html)|`2024-12-31 15:37:00`|`Genshin Impact`|
