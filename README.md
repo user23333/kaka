@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Infinity Nikki Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676624-infinity-nikki-reversal-structs-offsets.html)|`2026-01-01 02:13:00`|`Other FPS Games`|
+|[Shared Memory Queston](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679847-shared-memory-queston.html)|`2026-01-01 02:06:00`|`Anti-Cheat Bypass`|
+|[WIshes hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/680005-wishes-hack.html)|`2026-01-01 02:05:00`|`Genshin Impact`|
+|[Tusiphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673488-tusiphobia-update.html)|`2026-01-01 02:02:00`|`Phasmophobia`|
+|[Proxy on phasmo voice chat doesn’t work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/679866-proxy-phasmo-voice-chat-doesn.html)|`2026-01-01 01:59:00`|`Phasmophobia`|
 |[what are people using nowadays?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/679985-people-using-nowadays.html)|`2026-01-01 01:35:00`|`Grand Theft Auto V`|
 |[r4c and smg 11 no recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/680004-r4c-smg-11-recoil.html)|`2026-01-01 01:29:00`|`Rainbow Six Siege`|
 |[External Raycasting &#40;PhysX recreation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673196-external-raycasting-physx-recreation.html)|`2026-01-01 01:28:00`|`Escape from Tarkov`|
