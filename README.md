@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheaper Lattice?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/679668-cheaper-lattice.html)|`2024-12-31 12:15:00`|`Marvel Rivals`|
+|[The Finals Decrypting And Dumping SDK Tutorial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/640297-finals-decrypting-dumping-sdk-tutorial.html)|`2024-12-31 12:15:00`|`THE FINALS`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2024-12-31 12:11:00`|`Marvel Rivals`|
+|[Undetected Cheat Engine &#43; Driver &#124; 2023 &#124; Bypass Anticheats &#40;BE / EAC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/504191-undetected-cheat-engine-driver-2023-bypass-anticheats-eac.html)|`2024-12-31 11:52:00`|`Anti-Cheat Bypass`|
 |[Valorant Unlock ALL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679639-valorant-unlock.html)|`2024-12-31 11:58:00`|`Valorant`|
 |[Remaster: Spankerfield &#43; Hyperhook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/679728-remaster-spankerfield-hyperhook.html)|`2024-12-31 11:42:00`|`Battlefield 4`|
 |[BotOps Hub &#40;bot lobby tool, no VM required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674129-botops-hub-bot-lobby-tool-vm-required.html)|`2024-12-31 11:37:00`|`Call of Duty: Black Ops 6`|
