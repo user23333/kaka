@@ -14,6 +14,7 @@
 |17|[Is there a way to raise money using a mod menu like yim and scripts for it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/679240-raise-money-using-mod-menu-yim-scripts.html)|`2024-12-31 01:47:37`|`grand-theft-auto-v`|
 |5|[Box Cheats Menu w/ Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/679547-box-cheats-menu-bypass.html)|`2024-12-31 07:24:53`|`helldivers-2-a`|
 |4|[Valorant Color aimbot release source &#43; bypass and spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679470-valorant-color-aimbot-release-source-bypass-spoofer.html)|`2024-12-31 08:47:10`|`valorant`|
+|14|[Current Situations About Cheats / Spoofers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679382-current-situations-cheats-spoofers.html)|`2024-12-31 10:52:46`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to Bypass Ban in Delta Force?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/679069-bypass-ban-delta-force.html)|`2024-12-31 10:45:00`|`Other FPS Games`|
+|[Jnjector for valorant &#45; P100 not work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679830-jnjector-valorant-p100.html)|`2024-12-31 10:43:00`|`Valorant`|
+|[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2024-12-31 10:29:00`|`Tom Clancy's The Division`|
 |[PUBG No recoil macro v7&#46;0 For all razer mouse using Razer synapse &#91;Undetected&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/658324-pubg-recoil-macro-v7-0-razer-mouse-using-razer-synapse-undetected.html)|`2024-12-31 10:01:00`|`PUBG Releases`|
 |[Post your Menu/GUI Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/68024-post-menu-gui-framework.html)|`2024-12-31 09:58:00`|`C and C++`|
 |[FiveM External Source &#45; Krypted &#40;many Features&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/666614-fivem-external-source-krypted-features.html)|`2024-12-31 09:32:00`|`Alternative Online Mods`|
