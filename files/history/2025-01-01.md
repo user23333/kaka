@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fiddler &#40;UNLOCK REWARDS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/679850-fiddler-unlock-rewards.html)|`2026-01-01 06:04:00`|`Marvel Rivals`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-01-01 05:58:00`|`Marvel Rivals`|
 |[Easiest Cheat to make?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/679791-easiest-cheat.html)|`2026-01-01 05:39:00`|`Call of Duty: Black Ops 6`|
 |[Any shi for sparking zero? offline or online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680026-shi-sparking-zero-offline-online.html)|`2026-01-01 05:33:00`|`Other Games`|
 |[Throne and liberty Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/680025-throne-liberty-script.html)|`2026-01-01 05:27:00`|`Other MMORPG and Strategy`|
