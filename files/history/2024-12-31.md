@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[any free external esp cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/679821-free-external-esp-cheats.html)|`2024-12-31 19:55:00`|`Rainbow Six Siege`|
 |[directional strafer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/679867-directional-strafer.html)|`2024-12-31 19:52:00`|`Counterstrike Global Offensive`|
 |[&#91;DMA&#93; PoC 1&#46;8&#46;9 infinite jump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/669724-dma-poc-1-8-9-infinite-jump.html)|`2024-12-31 19:51:00`|`Minecraft`|
 |[Proxy on phasmo voice chat doesn’t work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/679866-proxy-phasmo-voice-chat-doesn.html)|`2024-12-31 19:34:00`|`Phasmophobia`|
