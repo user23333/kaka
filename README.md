@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Destiny 2 Fly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680043-destiny-2-fly.html)|`2026-01-01 07:50:00`|`Other FPS Games`|
+|[Valthrun External CS2 Hack &#40;Aimbot, ESP, Grenade Helper&#46; and more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679740-valthrun-external-cs2-hack-aimbot-esp-grenade-helper.html)|`2026-01-01 07:48:00`|`Counter-Strike 2`|
+|[rocket league speed flip python macro/script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/471802-rocket-league-speed-flip-python-macro-script.html)|`2026-01-01 07:47:00`|`Other Games`|
 |[Destiny 2 Weapons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680039-destiny-2-weapons.html)|`2026-01-01 07:35:00`|`Other FPS Games`|
 |[EAC DMA cr3 shuffling fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677322-eac-dma-cr3-shuffling-fix.html)|`2026-01-01 07:34:00`|`Anti-Cheat Bypass`|
 |[7DTD 1&#46;2 Creative and Debug Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/679721-7dtd-1-2-creative-debug-assembly-csharp-dll.html)|`2026-01-01 07:30:00`|`Other FPS Games`|
