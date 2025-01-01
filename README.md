@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MANUAL SERIAL DISK CHANGING](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/680056-manual-serial-disk-changing.html)|`2025-01-01 10:12:00`|`Anti-Cheat Bypass`|
+|[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2025-01-01 10:08:00`|`Palia`|
+|[Overwatch 2 Color Aimbot With Interception Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/517558-overwatch-2-color-aimbot-interception-driver.html)|`2025-01-01 10:06:00`|`Overwatch`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-01-01 09:53:00`|`Call of Duty: Black Ops 6`|
 |[Pattern scanning in C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/675148-pattern-scanning.html)|`2025-01-01 08:51:00`|`C and C++`|
 |[Foxhole](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/680046-foxhole.html)|`2025-01-01 08:11:00`|`Other MMORPG and Strategy`|
 |[Destiny 2 Cheat Table &#43; Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680045-destiny-2-cheat-table-cheat-engine.html)|`2025-01-01 08:10:00`|`Other FPS Games`|
