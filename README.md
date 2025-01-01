@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DLL hook source code to spawn the vehicle Banshee in GTA 3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/680073-dll-hook-source-code-spawn-vehicle-banshee-gta-3-a.html)|`2025-01-01 18:30:00`|`Other MMORPG and Strategy`|
+|[Any bypass to play Valorant on a portable drive?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679820-bypass-play-valorant-portable-drive.html)|`2025-01-01 18:22:00`|`Valorant`|
 |[PoE2 Atlas Fog Remove](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/680072-poe2-atlas-fog-remove.html)|`2025-01-01 18:14:00`|`Other MMORPG and Strategy`|
 |[seo64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/662767-seo64.html)|`2025-01-01 17:21:00`|`Team Fortress 2`|
 |[Nexus External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/680070-nexus-external-esp.html)|`2025-01-01 16:51:00`|`Garry's Mod`|
