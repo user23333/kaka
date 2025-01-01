@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ 1&#46;26 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/668418-dayz-1-26-cheat.html)|`2025-01-01 16:38:00`|`DayZ SA`|
+|[Should I learn Game Hacking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/677528-learn-game-hacking.html)|`2025-01-01 16:23:00`|`Forum General`|
+|[How to find addresses for esp in any game if they are encrypted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/678096-addresses-esp-game-encrypted.html)|`2025-01-01 16:20:00`|`Programming for Beginners`|
 |[Cheaper Lattice?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/679668-cheaper-lattice.html)|`2025-01-01 16:00:00`|`Marvel Rivals`|
 |[Delayed Ban &#40;Unspoofable Laptop?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679263-delayed-ban-unspoofable-laptop.html)|`2025-01-01 15:44:00`|`Valorant`|
 |[Keep getting VAL 5 bans that started at 2min and keeps increasing by couple mins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679497-getting-val-5-bans-started-2min-increasing-couple-mins.html)|`2025-01-01 15:43:00`|`Valorant`|
