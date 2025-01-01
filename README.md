@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-01-01 15:05:00`|`Phasmophobia`|
 |[PUBG memory scan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/680067-pubg-memory-scan.html)|`2025-01-01 14:53:00`|`Playerunknown's Battlegrounds`|
 |[Looking for &#40;Simple&#41; External ESP Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/676622-looking-simple-external-esp-source.html)|`2025-01-01 14:11:00`|`Playerunknown's Battlegrounds`|
 |[How blatant can I wall hack in pubg pc?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/679868-blatant-wall-hack-pubg-pc.html)|`2025-01-01 14:09:00`|`Playerunknown's Battlegrounds`|
