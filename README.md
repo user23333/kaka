@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Teleport Empty or NPC&#45;Occupied Vehicles Externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/679998-teleport-empty-npc-occupied-vehicles-externally.html)|`2025-01-02 01:25:00`|`Alternative Online Mods`|
+|[Valorant Agent Instant Lock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679852-valorant-agent-instant-lock.html)|`2025-01-02 01:22:00`|`Valorant`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-01-02 01:07:00`|`Grand Theft Auto V`|
 |[Help with PUBG kr](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/678791-help-pubg-kr.html)|`2025-01-02 01:05:00`|`PUBG Mobile`|
 |[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-01-02 01:00:00`|`Grand Theft Auto V`|
