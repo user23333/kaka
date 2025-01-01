@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[xp or unlocker server or somthn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/678592-xp-unlocker-server-somthn.html)|`2025-01-02 03:42:00`|`Battlefield 4`|
+|[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2025-01-02 03:42:00`|`Valorant`|
 |[Marvel Rivals aimbot and esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677440-marvel-rivals-aimbot-esp.html)|`2025-01-02 03:37:00`|`Marvel Rivals`|
 |[seownedde&#43;&#43; &#40;x64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/663393-seownedde-x64.html)|`2025-01-02 03:35:00`|`Team Fortress 2`|
 |[BLACK OPS 6 AIM ASSIST &#40;AHK&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671940-black-ops-6-aim-assist-ahk.html)|`2025-01-02 03:35:00`|`Call of Duty: Black Ops 6`|
