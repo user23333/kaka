@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Liars Bar 0&#46;92 Version Cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680109-liars-bar-0-92-version-cheat.html)|`2025-01-02 02:54:00`|`Other Games`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-01-02 02:14:00`|`Other FPS Games`|
 |[Upgrade AutoWall &#40;Peneration System&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680107-upgrade-autowall-peneration-system.html)|`2025-01-02 02:50:00`|`Counter-Strike 2`|
 |[XGuard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/450415-xguard.html)|`2025-01-02 02:42:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-01-02 02:35:00`|`Grand Theft Auto V`|
