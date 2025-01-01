@@ -25,9 +25,16 @@
 |61|[Fuel to Spacestation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48084)|`2025-01-02 00:19:33`|
 |49|[EFT&#95;dump&#95;0&#46;16&#46;0&#46;0&#46;34447](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48079)|`2025-01-02 00:19:33`|
 |71|[DEATHNOTE Cheater Within v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48076)|`2025-01-02 00:19:33`|
+|1|[Pixel Strike 3D Hack &#40;2024&#41; v4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48095)|`2025-01-02 05:29:10`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pixel Strike 3D Hack &#40;2024&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662658-pixel-strike-3d-hack-2024-a.html)|`2025-01-02 05:27:00`|`Other FPS Games`|
+|[vgk dma firmware problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/680127-vgk-dma-firmware.html)|`2025-01-02 05:23:00`|`Anti-Cheat Bypass`|
+|[Treason's V3 AIO Aim Assist Edit &#40;BETA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670270-treasons-v3-aio-aim-assist-edit-beta.html)|`2025-01-02 05:22:00`|`Call of Duty: Black Ops 6`|
+|[Disable Vanguard / Vanguard bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/679635-disable-vanguard-vanguard-bypass.html)|`2025-01-02 05:11:00`|`League of Legends`|
+|[Lethal Menu &#45; Lethal Company Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/615575-lethal-menu-lethal-company-cheat.html)|`2025-01-02 05:09:00`|`Lethal Company`|
+|[Liar’s Deck and Dice Cheat &#45; Full GUI Mod for Card & Dice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/668894-liar-deck-dice-cheat-gui-mod-card-dice.html)|`2025-01-02 04:57:00`|`Other Games`|
 |[Delayed Ban &#40;Unspoofable Laptop?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679263-delayed-ban-unspoofable-laptop.html)|`2025-01-02 04:53:00`|`Valorant`|
 |[D3d11 hook Questions&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/680075-d3d11-hook-questions.html)|`2025-01-02 04:52:00`|`Anti-Cheat Bypass`|
 |[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669274-vigor-internal-cheat.html)|`2025-01-02 04:48:00`|`Other FPS Games`|
