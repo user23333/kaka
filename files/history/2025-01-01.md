@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delayed Ban &#40;Unspoofable Laptop?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679263-delayed-ban-unspoofable-laptop.html)|`2025-01-01 15:44:00`|`Valorant`|
+|[Keep getting VAL 5 bans that started at 2min and keeps increasing by couple mins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679497-getting-val-5-bans-started-2min-increasing-couple-mins.html)|`2025-01-01 15:43:00`|`Valorant`|
 |[Constant VAN 5 &#91;Delay&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679766-constant-van-5-delay.html)|`2025-01-01 15:42:00`|`Valorant`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-01-01 15:17:00`|`Other FPS Games`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-01-01 15:11:00`|`Other MMORPG and Strategy`|
