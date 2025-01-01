@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TOP MACRO Logitech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668884-top-macro-logitech.html)|`2025-01-02 07:30:00`|`Rust`|
 |[Bigger Hitboxes &#45; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/680142-bigger-hitboxes-esp.html)|`2025-01-02 07:25:00`|`H1Z1`|
 |[Bigger Hitboxes &#45; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/680141-bigger-hitboxes-esp.html)|`2025-01-02 07:23:00`|`H1Z1`|
 |[Auto queue and freeze matchmaking queue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/680140-auto-queue-freeze-matchmaking-queue.html)|`2025-01-02 07:18:00`|`Team Fortress 2`|
