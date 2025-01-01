@@ -11,6 +11,7 @@
 |9|[Warzone GeoFence/Geoblocking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/678934-warzone-geofence-geoblocking.html)|`2025-01-01 00:00:14`|`call-of-duty-black-ops-6-a`|
 |20|[Is there a way to raise money using a mod menu like yim and scripts for it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/679240-raise-money-using-mod-menu-yim-scripts.html)|`2025-01-01 00:00:14`|`grand-theft-auto-v`|
 |14|[Current Situations About Cheats / Spoofers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679382-current-situations-cheats-spoofers.html)|`2025-01-01 00:00:14`|`valorant`|
+|13|[Sunoki's fully updated TriggerBot &#43; Spoofer by Mafia4321x](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679046-sunokis-updated-triggerbot-spoofer-mafia4321x.html)|`2025-01-01 09:10:28`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pattern scanning in C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/675148-pattern-scanning.html)|`2025-01-01 08:51:00`|`C and C++`|
+|[Foxhole](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/680046-foxhole.html)|`2025-01-01 08:11:00`|`Other MMORPG and Strategy`|
+|[Destiny 2 Cheat Table &#43; Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680045-destiny-2-cheat-table-cheat-engine.html)|`2025-01-01 08:10:00`|`Other FPS Games`|
+|[looking for someone to bypass an ac of roblox, willing to pay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/680044-looking-bypass-ac-roblox-willing-pay.html)|`2025-01-01 08:06:00`|`Anti-Cheat Bypass`|
 |[Destiny 2 Fly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680043-destiny-2-fly.html)|`2026-01-01 07:50:00`|`Other FPS Games`|
 |[Valthrun External CS2 Hack &#40;Aimbot, ESP, Grenade Helper&#46; and more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679740-valthrun-external-cs2-hack-aimbot-esp-grenade-helper.html)|`2026-01-01 07:48:00`|`Counter-Strike 2`|
 |[rocket league speed flip python macro/script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/471802-rocket-league-speed-flip-python-macro-script.html)|`2026-01-01 07:47:00`|`Other Games`|
