@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/675931-recoil.html)|`2025-01-02 03:20:00`|`Rainbow Six Siege`|
+|[Skip heist prep &#40;After 1&#46;70 update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/676713-skip-heist-prep-1-70-update.html)|`2025-01-02 03:15:00`|`Grand Theft Auto V`|
+|[Antiafk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680081-antiafk.html)|`2025-01-02 03:10:00`|`Counter-Strike 2`|
 |[Getting resource node coordinates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/guild-wars-2-a/678273-getting-resource-node-coordinates.html)|`2025-01-02 03:06:00`|`Guild Wars 2`|
 |[Pro CS2 DMA &#45; Esp & Aimbot & Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656442-pro-cs2-dma-esp-aimbot-web-radar.html)|`2025-01-02 03:06:00`|`Counter-Strike 2`|
 |[KMbox/Arduino detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679736-kmbox-arduino-detection.html)|`2025-01-02 03:04:00`|`Anti-Cheat Bypass`|
