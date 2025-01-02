@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|["silent aim"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680139-silent-aim.html)|`2025-01-02 14:43:00`|`Counter-Strike 2`|
+|[BaseNetworkable class](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/680037-basenetworkable-class.html)|`2025-01-02 14:40:00`|`Rust`|
 |[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2025-01-02 13:56:00`|`Other Games`|
 |[Guide to Triggerbot &#43; Download](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679622-guide-triggerbot-download.html)|`2025-01-02 13:31:00`|`Valorant`|
 |[Panicore internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/658925-panicore-internal.html)|`2025-01-02 13:29:00`|`Other Games`|
