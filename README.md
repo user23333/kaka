@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-01-03 03:36:00`|`Valorant`|
+|[Member of the Month &#45; January 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/680280-month-january-2025-a.html)|`2025-01-03 03:35:00`|`Member of the Month`|
 |[Path of Exile 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676435-path-exile-2-reversal-structs-offsets.html)|`2025-01-03 03:24:00`|`Other MMORPG and Strategy`|
 |[EAC Bypass &#40;Temporary&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/627251-eac-bypass-temporary.html)|`2025-01-03 03:13:00`|`Sea of Thieves`|
 |[DRAGON BALL Sparking&#33; ZERO &#45; Easy Inputs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/672857-dragon-ball-sparking-zero-easy-inputs.html)|`2025-01-03 02:57:00`|`Other Games`|
