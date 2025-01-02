@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[maplestory world   player X  Y](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/678118-maplestory-world-player.html)|`2025-01-02 22:54:00`|`Maple Story`|
 |[Internal cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/611723-internal-cheese.html)|`2025-01-02 22:35:00`|`Payday 3`|
 |[Is there a way to raise money using a mod menu like yim and scripts for it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/679240-raise-money-using-mod-menu-yim-scripts.html)|`2025-01-02 22:04:00`|`Grand Theft Auto V`|
 |[Path of Exile 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676435-path-exile-2-reversal-structs-offsets.html)|`2025-01-02 21:36:00`|`Other MMORPG and Strategy`|
