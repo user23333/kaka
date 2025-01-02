@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Path of Exile 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676435-path-exile-2-reversal-structs-offsets.html)|`2025-01-02 21:36:00`|`Other MMORPG and Strategy`|
 |[Skybox Material/Texture not applying &#40;vtex vs vtex&#95;c issue&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679750-skybox-material-texture-applying-vtex-vs-vtex_c-issue.html)|`2025-01-02 20:46:00`|`Counter-Strike 2`|
 |[Frameware Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/677239-frameware-release.html)|`2025-01-02 20:35:00`|`Overwatch`|
 |[Unreal Engine 5   game crash after loading DBVM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/680254-unreal-engine-5-game-crash-loading-dbvm.html)|`2025-01-02 20:33:00`|`Anti-Cheat Bypass`|
