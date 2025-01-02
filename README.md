@@ -24,6 +24,7 @@
 |211|[Mafia4321x Valorant color aimbot source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48086)|`2025-01-03 00:13:25`|
 |196|[Cs2 DX11 External Overlay Cheat Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48085)|`2025-01-03 00:13:25`|
 |77|[Fuel to Spacestation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48084)|`2025-01-03 00:13:25`|
+|1|[Effigy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48105)|`2025-01-03 05:54:55`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
