@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[KMbox/Arduino detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679736-kmbox-arduino-detection.html)|`2025-01-03 02:53:00`|`Anti-Cheat Bypass`|
+|[Disable Vanguard / Vanguard bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/679635-disable-vanguard-vanguard-bypass.html)|`2025-01-03 02:47:00`|`League of Legends`|
 |[do trackers that can bypass streamer mode still exist?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679221-trackers-bypass-streamer-mode-exist.html)|`2025-01-03 02:36:00`|`Valorant`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-01-03 02:36:00`|`Grand Theft Auto V`|
 |[TPM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/649260-tpm-spoofer.html)|`2025-01-03 02:28:00`|`Valorant`|
