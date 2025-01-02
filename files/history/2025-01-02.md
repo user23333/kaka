@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2025-01-02 13:56:00`|`Other Games`|
 |[Guide to Triggerbot &#43; Download](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679622-guide-triggerbot-download.html)|`2025-01-02 13:31:00`|`Valorant`|
 |[Panicore internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/658925-panicore-internal.html)|`2025-01-02 13:29:00`|`Other Games`|
 |[Marvel Rivals external esp base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678898-marvel-rivals-external-esp-base.html)|`2025-01-02 13:17:00`|`Marvel Rivals`|
