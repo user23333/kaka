@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Zodiak &#45; Fastcup Full Kernel Driver Cheat v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/665011-zodiak-fastcup-kernel-driver-cheat-v2.html)|`2025-01-02 12:16:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[MANUAL SERIAL DISK CHANGING](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/680056-manual-serial-disk-changing.html)|`2025-01-02 12:00:00`|`Anti-Cheat Bypass`|
 |[SCP SL 14&#46;0 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/679166-scp-sl-14-0-cheat.html)|`2025-01-02 11:50:00`|`Other FPS Games`|
 |[HoloCure Simple Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/514570-holocure-simple-cheat.html)|`2025-01-02 11:42:00`|`Other Games`|
