@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I'm gonna be that piece of shit i guess&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/668738-im-gonna-piece-shit-guess.html)|`2025-01-03 16:50:00`|`DayZ SA`|
 |[&#91;STEAM&#93; STALKER 2 &#45; Full Bright & Infinite Ammo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/680359-steam-stalker-2-bright-infinite-ammo.html)|`2025-01-03 16:35:00`|`Cheat Engine Tables`|
 |[TFBot Controlling Player?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/680226-tfbot-controlling-player.html)|`2025-01-03 16:32:00`|`Team Fortress 2`|
 |[Problem with logitech lua recoil script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/680352-logitech-lua-recoil-script.html)|`2025-01-03 16:20:00`|`Rainbow Six Siege`|
