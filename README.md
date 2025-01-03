@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Getting offsets to C&#35; managed types](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-/679997-getting-offsets-managed-types.html)|`2025-01-04 02:48:00`|`C#`|
+|[BO6 Fuser ESP/AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676862-bo6-fuser-esp-aim.html)|`2025-01-04 02:47:00`|`Call of Duty: Black Ops 6`|
 |[dll injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680413-dll-injector.html)|`2025-01-04 02:42:00`|`Marvel Rivals`|
 |[Random Outfit :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/680383-random-outfit.html)|`2025-01-04 02:25:00`|`Alternative Online Mods`|
 |[is there any client side skin unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680349-client-skin-unlocker.html)|`2025-01-04 02:22:00`|`Marvel Rivals`|
