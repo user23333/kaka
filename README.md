@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;STEAM&#93; STALKER 2 &#45; Full Bright & Infinite Ammo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/680359-steam-stalker-2-bright-infinite-ammo.html)|`2025-01-03 16:35:00`|`Cheat Engine Tables`|
+|[TFBot Controlling Player?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/680226-tfbot-controlling-player.html)|`2025-01-03 16:32:00`|`Team Fortress 2`|
+|[Problem with logitech lua recoil script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/680352-logitech-lua-recoil-script.html)|`2025-01-03 16:20:00`|`Rainbow Six Siege`|
+|[Fake Liar's Bar &#45; internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/668834-fake-liars-bar-internal.html)|`2025-01-03 16:17:00`|`Other Games`|
+|[No recoil script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/679739-recoil-script.html)|`2025-01-03 16:16:00`|`Apex Legends`|
 |[DMA Radar PC Stuttering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/680353-dma-radar-pc-stuttering.html)|`2025-01-03 16:25:00`|`Off Topic`|
 |[EAC DMA cr3 shuffling fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677322-eac-dma-cr3-shuffling-fix.html)|`2025-01-03 16:24:00`|`Anti-Cheat Bypass`|
 |[I Keep Getting Banned 14 Day on FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/679824-getting-banned-14-day-fivem.html)|`2025-01-03 16:12:00`|`Alternative Online Mods`|
