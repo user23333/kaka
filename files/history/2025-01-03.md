@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[sparking zero auto counter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680374-sparking-zero-auto-counter.html)|`2025-01-03 20:45:00`|`Other Games`|
+|[BloodStrike Test Wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/674848-bloodstrike-test-wallhack.html)|`2025-01-03 20:44:00`|`Other FPS Games`|
 |[NEW Roblox DLL Injector Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/665341-roblox-dll-injector.html)|`2025-01-03 20:03:00`|`Other Games`|
 |[Spectators](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/680369-spectators.html)|`2025-01-03 20:00:00`|`Warface`|
 |[Skybox Material/Texture not applying &#40;vtex vs vtex&#95;c issue&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679750-skybox-material-texture-applying-vtex-vs-vtex_c-issue.html)|`2025-01-03 19:59:00`|`Counter-Strike 2`|
