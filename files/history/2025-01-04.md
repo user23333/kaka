@@ -11,6 +11,7 @@
 |7|[Rust internal SOURCE GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/679682-rust-internal-source-gui.html)|`2025-01-04 00:13:11`|`rust`|
 |6|[Bot lobby &#45; In&#45;Depth guide BO6 &#40;NO VPS/VM's Needed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/679718-bot-lobby-depth-guide-bo6-vps-vms.html)|`2025-01-04 00:13:11`|`call-of-duty-black-ops-6-a`|
 |4|[Colorbot Silentaim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679391-colorbot-silentaim.html)|`2025-01-04 00:13:11`|`valorant`|
+|17|[Valorant Agent Instant Lock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679852-valorant-agent-instant-lock.html)|`2025-01-04 05:40:04`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -25,9 +26,13 @@
 |33|[Memory&#46;scanner&#46;2024&#45;12&#45;29](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48093)|`2025-01-04 00:13:11`|
 |10|[Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48089)|`2025-01-04 00:13:11`|
 |1|[medal&#45;overlay&#45;hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48115)|`2025-01-04 03:40:55`|
+|2|[pastersolutions&#95;&#91;unknowncheats&#46;me&#93;&#95;utf8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48117)|`2025-01-04 05:40:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA &#40;Entity Esp &#43; Player Bones&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677658-dma-entity-esp-player-bones.html)|`2025-01-04 05:35:00`|`Rust`|
+|[Can't implement teleport of self](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/680436-cant-implement-teleport-self.html)|`2025-01-04 05:22:00`|`Grand Theft Auto V`|
+|[Undetected injector EAC &#40;22&#46;12&#46;2024&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678400-undetected-injector-eac-22-12-2024-a.html)|`2025-01-04 05:19:00`|`Anti-Cheat Bypass`|
 |[Players Chams&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/638066-players-chams.html)|`2025-01-04 05:06:00`|`Alternative Online Mods`|
 |[Member of the Month &#45; January 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/680280-month-january-2025-a.html)|`2025-01-04 04:55:00`|`Member of the Month`|
 |[Bone array](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/678884-bone-array.html)|`2025-01-04 04:41:00`|`Counter-Strike 2`|
