@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Keep resetting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/680338-resetting.html)|`2025-01-04 01:38:00`|`Grand Theft Auto V`|
+|[The Isle legacy Cheat Engine Table 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/645143-isle-legacy-cheat-engine-table-2-0-a.html)|`2025-01-04 01:27:00`|`Unreal Engine 4`|
+|[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2025-01-04 01:25:00`|`Tom Clancy's The Division`|
+|[Assetto Corsa No Hesi traffic NoClip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/676049-assetto-corsa-hesi-traffic-noclip.html)|`2025-01-04 01:20:00`|`Other Games`|
+|[tpm 2&#46;0 bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680273-tpm-2-0-bypass.html)|`2025-01-04 01:19:00`|`Valorant`|
+|[Fastest Python Valorant Triggerbot &#40;fr&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612762-fastest-python-valorant-triggerbot-fr.html)|`2025-01-04 01:16:00`|`Valorant`|
 |[Dump BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/680407-dump-bo6.html)|`2025-01-04 01:25:00`|`Call of Duty: Black Ops 6`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-01-04 01:24:00`|`Call of Duty: Black Ops 6`|
 |[Get rotation of enemy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/680406-rotation-enemy.html)|`2025-01-04 01:17:00`|`PUBG Mobile`|
