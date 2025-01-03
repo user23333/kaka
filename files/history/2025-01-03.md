@@ -11,6 +11,7 @@
 |11|[&#91;REIMU&#93; Apex Recoil &#91;NO MOUSE&#95;EVENT / INPUT&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/679345-reimu-apex-recoil-mouse_event-input.html)|`2025-01-03 00:13:25`|`apex-legends`|
 |14|[Guide to Triggerbot &#43; Download](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679622-guide-triggerbot-download.html)|`2025-01-03 00:13:25`|`valorant`|
 |17|[DEATH NOTE Killer Within Cheat &#45; Cosmetics, ESP, Kill anyone, spawn items, and more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/679215-death-note-killer-cheat-cosmetics-esp-kill-spawn-items.html)|`2025-01-03 00:13:25`|`other-games`|
+|13|[Dev balaclava crashing desktop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/679258-dev-balaclava-crashing-desktop.html)|`2025-01-03 12:16:45`|`escape-from-tarkov`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Undetected R6 Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/678779-undetected-r6-injector.html)|`2025-01-03 12:08:00`|`Rainbow Six Siege`|
+|[Unban method for a account you actually play on](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/680339-unban-method-account-actually-play.html)|`2025-01-03 12:02:00`|`Rainbow Six Siege`|
 |[Hell Let Loose Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/664161-hell-loose-reversal-structs-offsets.html)|`2025-01-03 11:51:00`|`Other FPS Games`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-01-03 11:08:00`|`Alternative Online Mods`|
 |[Chams FLinearColor being really weird](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/680334-chams-flinearcolor-weird.html)|`2025-01-03 10:54:00`|`Unreal Engine 4`|
