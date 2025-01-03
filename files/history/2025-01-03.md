@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Frameware Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/677239-frameware-release.html)|`2025-01-03 21:28:00`|`Overwatch`|
+|[Memoriam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/563890-memoriam.html)|`2025-01-03 21:27:00`|`Garry's Mod`|
+|[Game's Integrity Check Failed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679433-games-integrity-check-failed.html)|`2025-01-03 21:16:00`|`Anti-Cheat Bypass`|
 |[Asking for help how to do purple without recognizing reyna's skills](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680022-help-purple-recognizing-reynas-skills.html)|`2025-01-03 21:10:00`|`Valorant`|
 |[SSDT hooking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/678312-ssdt-hooking.html)|`2025-01-03 21:09:00`|`C and C++`|
 |[Pipsi&#45;ZZZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/680378-pipsi-zzz.html)|`2025-01-03 21:08:00`|`Other MMORPG and Strategy`|
