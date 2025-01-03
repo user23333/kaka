@@ -30,9 +30,11 @@
 |1|[Effigy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48105)|`2025-01-03 05:54:55`|
 |3|[cfemen & gir489's Ready or Not hook v1&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48143)|`2025-01-03 09:15:46`|
 |1|[reimu&#95;apex&#95;recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48096)|`2025-01-03 17:10:38`|
+|1|[STALKER2&#45;Fullbright&#45;Ammo&#45;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48146)|`2025-01-03 22:42:11`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Autoupdating NoRecoil and NoSpread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/678646-autoupdating-norecoil-nospread.html)|`2025-01-03 22:38:00`|`Rainbow Six Siege`|
 |[Random Outfit :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/680383-random-outfit.html)|`2025-01-03 21:48:00`|`Alternative Online Mods`|
 |[How do i get the camera position in CS2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680313-camera-position-cs2.html)|`2025-01-03 21:45:00`|`Counter-Strike 2`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-01-03 21:35:00`|`Other FPS Games`|
