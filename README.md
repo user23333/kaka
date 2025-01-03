@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NEW Roblox DLL Injector Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/665341-roblox-dll-injector.html)|`2025-01-03 20:03:00`|`Other Games`|
+|[Spectators](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/680369-spectators.html)|`2025-01-03 20:00:00`|`Warface`|
+|[Skybox Material/Texture not applying &#40;vtex vs vtex&#95;c issue&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679750-skybox-material-texture-applying-vtex-vs-vtex_c-issue.html)|`2025-01-03 19:59:00`|`Counter-Strike 2`|
 |[Valorant Agent Instant Lock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679852-valorant-agent-instant-lock.html)|`2025-01-03 19:42:00`|`Valorant`|
 |[SCP: Secret Laboratory cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680263-scp-secret-laboratory-cheat.html)|`2025-01-03 19:29:00`|`Other FPS Games`|
 |[Counter&#45;Strike: Source internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/459683-counter-strike-source-internal-cheat.html)|`2025-01-03 19:07:00`|`CounterStrike Source`|
