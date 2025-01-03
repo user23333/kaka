@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-01-04 04:34:00`|`Other MMORPG and Strategy`|
+|[It's about war thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/672554-war-thunder.html)|`2025-01-04 04:31:00`|`Other MMORPG and Strategy`|
 |[Doing topmost without topmost](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/680432-doing-topmost-topmost.html)|`2025-01-04 04:28:00`|`Rust`|
 |[Assault Cube newest offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/644465-assault-cube-offsets.html)|`2025-01-04 04:20:00`|`Programming for Beginners`|
 |[&#40;DMA&#41; Black Ops 6: Fuser ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670830-dma-black-ops-6-fuser-esp.html)|`2025-01-04 03:57:00`|`Call of Duty: Black Ops 6`|
