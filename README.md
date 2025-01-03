@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[simple cs2 esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673463-simple-cs2-esp.html)|`2025-01-04 03:12:00`|`Counter-Strike 2`|
+|[BO6 DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670998-bo6-dma-esp.html)|`2025-01-04 03:08:00`|`Call of Duty: Black Ops 6`|
+|[Calling method by pointer fails with Release version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/680415-calling-method-pointer-fails-release-version.html)|`2025-01-04 03:07:00`|`General Programming and Reversing`|
 |[Getting offsets to C&#35; managed types](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-/679997-getting-offsets-managed-types.html)|`2025-01-04 02:48:00`|`C#`|
 |[BO6 Fuser ESP/AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676862-bo6-fuser-esp-aim.html)|`2025-01-04 02:47:00`|`Call of Duty: Black Ops 6`|
 |[dll injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680413-dll-injector.html)|`2025-01-04 02:42:00`|`Marvel Rivals`|
