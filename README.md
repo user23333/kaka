@@ -13,6 +13,7 @@
 |4|[Colorbot Silentaim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679391-colorbot-silentaim.html)|`2025-01-04 00:13:11`|`valorant`|
 |17|[Valorant Agent Instant Lock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679852-valorant-agent-instant-lock.html)|`2025-01-04 05:40:04`|`valorant`|
 |3|[Palworld Lifmunk Effigy ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/679723-palworld-lifmunk-effigy-esp.html)|`2025-01-04 05:58:15`|`palworld`|
+|1|[Missing first quest for BTR?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/679658-missing-quest-btr.html)|`2025-01-04 07:11:03`|`escape-from-tarkov`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TFBot Controlling Player?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/680226-tfbot-controlling-player.html)|`2025-01-04 07:04:00`|`Team Fortress 2`|
 |[Proxy for KS&#95;Diagnostics&#95;Process](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/567912-proxy-ks_diagnostics_process.html)|`2025-01-04 06:47:00`|`Phasmophobia`|
 |[Play Together/Rank Boosting Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/353364-play-rank-boosting-thread.html)|`2025-01-04 06:44:00`|`Apex Legends`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-01-04 06:42:00`|`Grand Theft Auto V`|
