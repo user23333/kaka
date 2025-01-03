@@ -24,9 +24,13 @@
 |420|[VGK&#95;Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48094)|`2025-01-04 00:13:11`|
 |33|[Memory&#46;scanner&#46;2024&#45;12&#45;29](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48093)|`2025-01-04 00:13:11`|
 |10|[Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48089)|`2025-01-04 00:13:11`|
+|1|[medal&#45;overlay&#45;hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48115)|`2025-01-04 03:40:55`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[zap&#45;client &#91;Legitbot, Ragebot, Glow, ESP & More&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/628823-zap-client-legitbot-ragebot-glow-esp.html)|`2025-01-04 03:39:00`|`Apex Legends`|
+|[CounterStrike Source Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/157661-counterstrike-source-reversal-structs-offsets.html)|`2025-01-04 03:36:00`|`CounterStrike Source`|
+|[medal&#45;overlay&#45;hook &#45; Hijack Medal&#46;tv's in&#45;game overlay for rendering onto the screen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/679823-medal-overlay-hook-hijack-medal-tvs-game-overlay-rendering-onto-screen.html)|`2025-01-04 03:35:00`|`C and C++`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-01-04 03:24:00`|`Counter-Strike 2`|
 |[Destiny 2 Cheat Table &#43; Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680045-destiny-2-cheat-table-cheat-engine.html)|`2025-01-04 03:24:00`|`Other FPS Games`|
 |[How to make Battleye ignore OpenIV online bypass without the usage of a mod menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/680409-battleye-ignore-openiv-online-bypass-usage-mod-menu.html)|`2025-01-04 03:21:00`|`Grand Theft Auto V`|
