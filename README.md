@@ -13,6 +13,7 @@
 |17|[DEATH NOTE Killer Within Cheat &#45; Cosmetics, ESP, Kill anyone, spawn items, and more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/679215-death-note-killer-cheat-cosmetics-esp-kill-spawn-items.html)|`2025-01-03 00:13:25`|`other-games`|
 |13|[Dev balaclava crashing desktop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/679258-dev-balaclava-crashing-desktop.html)|`2025-01-03 12:16:45`|`escape-from-tarkov`|
 |7|[Rust internal SOURCE GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/679682-rust-internal-source-gui.html)|`2025-01-03 19:30:06`|`rust`|
+|6|[Bot lobby &#45; In&#45;Depth guide BO6 &#40;NO VPS/VM's Needed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/679718-bot-lobby-depth-guide-bo6-vps-vms.html)|`2025-01-03 21:11:44`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Asking for help how to do purple without recognizing reyna's skills](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680022-help-purple-recognizing-reynas-skills.html)|`2025-01-03 21:10:00`|`Valorant`|
+|[SSDT hooking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/678312-ssdt-hooking.html)|`2025-01-03 21:09:00`|`C and C++`|
+|[Pipsi&#45;ZZZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/680378-pipsi-zzz.html)|`2025-01-03 21:08:00`|`Other MMORPG and Strategy`|
+|[FACEIT Ban Evasion Bypass &#91;ASUS MB&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678633-faceit-ban-evasion-bypass-asus-mb.html)|`2025-01-03 21:06:00`|`Anti-Cheat Bypass`|
+|[Marvel Rivals external esp base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678898-marvel-rivals-external-esp-base.html)|`2025-01-03 20:54:00`|`Marvel Rivals`|
 |[sparking zero auto counter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680374-sparking-zero-auto-counter.html)|`2025-01-03 20:45:00`|`Other Games`|
 |[BloodStrike Test Wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/674848-bloodstrike-test-wallhack.html)|`2025-01-03 20:44:00`|`Other FPS Games`|
 |[NEW Roblox DLL Injector Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/665341-roblox-dll-injector.html)|`2025-01-03 20:03:00`|`Other Games`|
