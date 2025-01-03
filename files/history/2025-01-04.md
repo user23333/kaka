@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[People are still playing on linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/679023-people-playing-linux.html)|`2025-01-04 03:41:00`|`Apex Legends`|
 |[zap&#45;client &#91;Legitbot, Ragebot, Glow, ESP & More&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/628823-zap-client-legitbot-ragebot-glow-esp.html)|`2025-01-04 03:39:00`|`Apex Legends`|
 |[CounterStrike Source Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/157661-counterstrike-source-reversal-structs-offsets.html)|`2025-01-04 03:36:00`|`CounterStrike Source`|
 |[medal&#45;overlay&#45;hook &#45; Hijack Medal&#46;tv's in&#45;game overlay for rendering onto the screen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/679823-medal-overlay-hook-hijack-medal-tvs-game-overlay-rendering-onto-screen.html)|`2025-01-04 03:35:00`|`C and C++`|
