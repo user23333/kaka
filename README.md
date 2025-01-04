@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ZenHv &#45; my first attempt at an SVM hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/680495-zenhv-attempt-svm-hypervisor.html)|`2025-01-05 04:52:00`|`C and C++`|
+|[Free Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/676229-free-internal-cheat.html)|`2025-01-05 04:34:00`|`Counter-Strike 2 Releases`|
 |[any ud free cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680530-ud-free-cheat.html)|`2025-01-05 04:40:00`|`Marvel Rivals`|
 |[Panicore internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/658925-panicore-internal.html)|`2025-01-05 04:31:00`|`Other Games`|
 |[Ultimate menu: Nightclub safe loop safe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/680499-ultimate-menu-nightclub-safe-loop-safe.html)|`2025-01-05 04:27:00`|`Grand Theft Auto V`|
