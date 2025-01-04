@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Panicore internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/658925-panicore-internal.html)|`2025-01-05 04:31:00`|`Other Games`|
+|[Ultimate menu: Nightclub safe loop safe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/680499-ultimate-menu-nightclub-safe-loop-safe.html)|`2025-01-05 04:27:00`|`Grand Theft Auto V`|
+|[dll injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680413-dll-injector.html)|`2025-01-05 04:26:00`|`Marvel Rivals`|
+|[GTA San Andreas Entity List](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/680605-gta-san-andreas-entity-list.html)|`2025-01-05 04:25:00`|`General Programming and Reversing`|
+|[how to fix so the fivem cheat work on all versions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/680604-fix-fivem-cheat-versions.html)|`2025-01-05 04:25:00`|`Alternative Online Mods`|
+|[Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/680474-cheat-engine.html)|`2025-01-05 04:16:00`|`Escape from Tarkov`|
 |[Phasmo Icetrix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/432538-phasmo-icetrix.html)|`2025-01-05 03:49:00`|`Phasmophobia`|
 |[Skittlz&#46;xyz / Simple Phasmo Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/671279-skittlz-xyz-simple-phasmo-menu.html)|`2025-01-05 03:48:00`|`Phasmophobia`|
 |[How to play with yim menu with a friend?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/680507-play-yim-menu-friend.html)|`2025-01-05 03:43:00`|`Grand Theft Auto V`|
