@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Weapon Icon ESP &#45; SVG Parser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680481-weapon-icon-esp-svg-parser.html)|`2025-01-04 10:41:00`|`Counter-Strike 2`|
+|[&#91;Always updated&#93; color aimbot for &#42;Almost any 3d game, coded fully in python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/657882-updated-color-aimbot-3d-game-coded-python.html)|`2025-01-04 10:36:00`|`Other FPS Games`|
+|[Easy Injection Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680479-easy-injection-method.html)|`2025-01-04 10:25:00`|`Marvel Rivals`|
 |[All Mouse NoRecoil &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-recoil-helpy-auto-config-probably-ud-universal.html)|`2025-01-04 09:53:00`|`Rainbow Six Siege`|
 |[Can't find offset on monster array](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/680476-cant-offset-monster-array.html)|`2025-01-04 09:44:00`|`Maple Story`|
 |[Echocalypse: The Scarlet Covenant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680475-echocalypse-scarlet-covenant.html)|`2025-01-04 09:43:00`|`Other Games`|
