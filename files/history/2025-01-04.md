@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Easiest ViewMatrix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/673942-easiest-viewmatrix.html)|`2025-01-04 17:12:00`|`CrossFire`|
+|[Spectre Divide Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/652896-spectre-divide-reversal-structs-offsets.html)|`2025-01-04 17:09:00`|`Other FPS Games`|
 |[Prevent Friendly Fire OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680418-prevent-friendly-fire-offsets.html)|`2025-01-04 17:04:00`|`Counter-Strike 2`|
 |[Ultimate menu: Nightclub safe loop safe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/680499-ultimate-menu-nightclub-safe-loop-safe.html)|`2025-01-04 16:48:00`|`Grand Theft Auto V`|
 |[virtual hook allocation vtables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/680498-virtual-hook-allocation-vtables.html)|`2025-01-04 16:47:00`|`Unreal Engine 4`|
