@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2025-01-04 17:56:00`|`Other Games`|
+|[Reading bomb time giving weird values](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680506-reading-bomb-time-giving-weird-values.html)|`2025-01-04 17:55:00`|`Counter-Strike 2`|
 |[RocketLeague Tool &#91;Function Logger &#43; Object Explorer&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/651431-rocketleague-tool-function-logger-object-explorer.html)|`2025-01-04 17:50:00`|`Other Games`|
 |[Disable Vanguard / Vanguard bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/679635-disable-vanguard-vanguard-bypass.html)|`2025-01-04 17:41:00`|`League of Legends`|
 |[Do not trigger when HP is at its maximum ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/680503-trigger-hp-maximum.html)|`2025-01-04 17:39:00`|`Overwatch`|
