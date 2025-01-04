@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ask a question about the driver signature certificate&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679871-question-driver-signature-certificate.html)|`2025-01-05 05:23:00`|`Anti-Cheat Bypass`|
+|[No Spread doesnt work smoothly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680621-spread-doesnt-smoothly.html)|`2025-01-05 05:21:00`|`Counter-Strike 2`|
 |[How to edit total cases?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/678580-edit-total.html)|`2025-01-05 05:14:00`|`Phasmophobia`|
 |[How do i make a bomb timer in lua?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680478-bomb-timer-lua.html)|`2025-01-05 05:06:00`|`Counter-Strike 2`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-01-05 05:03:00`|`Counter-Strike 2`|
