@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Question about : FindTaskActiveByType](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/680511-question-findtaskactivebytype.html)|`2025-01-04 19:42:00`|`Alternative Online Mods`|
+|[External chams&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/670282-external-chams.html)|`2025-01-04 19:39:00`|`Call of Duty: Modern Warfare III`|
 |[Gameguardian Lua Code not work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/680508-gameguardian-lua-code.html)|`2025-01-04 19:22:00`|`Programming for Beginners`|
 |[SCP SL Cheat v13&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/611154-scp-sl-cheat-v13-3-1-a.html)|`2025-01-04 19:18:00`|`Other Games`|
 |[Windows version bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/679392-windows-version-bypass.html)|`2025-01-04 18:49:00`|`Marvel Rivals`|
