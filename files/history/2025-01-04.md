@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Local Server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/680381-rust-local-server.html)|`2025-01-04 23:20:00`|`Rust`|
+|[Latest EAC Driver IDA Database with Named/Decrypted Imports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679385-eac-driver-ida-database-named-decrypted-imports.html)|`2025-01-04 23:19:00`|`Anti-Cheat Bypass`|
 |[How do I start learning c&#43;&#43; to make my own dma reading memory only cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/678219-start-learning-own-dma-reading-memory-cheat.html)|`2025-01-04 23:13:00`|`Rainbow Six Siege`|
 |[seo64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/662767-seo64.html)|`2025-01-04 23:11:00`|`Team Fortress 2`|
 |[Tarkov DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/678998-tarkov-dma.html)|`2025-01-04 23:05:00`|`Escape from Tarkov`|
