@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Liars Bar DLL &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/668545-liars-bar-dll-source.html)|`2025-01-04 11:45:00`|`Other Games`|
+|[7DTD 1&#46;2 Creative and Debug Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/679721-7dtd-1-2-creative-debug-assembly-csharp-dll.html)|`2025-01-04 11:44:00`|`Other FPS Games`|
 |[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-01-04 11:23:00`|`Farlight 84`|
 |[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2025-01-04 11:18:00`|`Combat Arms`|
 |[Weapon Icon ESP &#45; SVG Parser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680481-weapon-icon-esp-svg-parser.html)|`2025-01-04 10:41:00`|`Counter-Strike 2`|
