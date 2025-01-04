@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-01-05 06:09:00`|`Other MMORPG and Strategy`|
+|[Why no one is posting PAT file?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/680501-posting-pat-file.html)|`2025-01-05 06:08:00`|`Playerunknown's Battlegrounds`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-01-05 06:03:00`|`Other FPS Games`|
+|[Character Dupe Success 12/27](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/679358-character-dupe-success-12-27-a.html)|`2025-01-05 05:59:00`|`DayZ SA`|
 |[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2025-01-05 05:55:00`|`Escape from Tarkov`|
 |[Unban method for a account you actually play on](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/680339-unban-method-account-actually-play.html)|`2025-01-05 05:51:00`|`Rainbow Six Siege`|
 |[I can't get my cheat engine to work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/680398-cant-cheat-engine.html)|`2025-01-05 05:32:00`|`Rainbow Six Siege`|
