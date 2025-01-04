@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I can't get my cheat engine to work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/680398-cant-cheat-engine.html)|`2025-01-05 05:32:00`|`Rainbow Six Siege`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-01-05 05:27:00`|`Rainbow Six Siege`|
 |[Ask a question about the driver signature certificate&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679871-question-driver-signature-certificate.html)|`2025-01-05 05:23:00`|`Anti-Cheat Bypass`|
 |[No Spread doesnt work smoothly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680621-spread-doesnt-smoothly.html)|`2025-01-05 05:21:00`|`Counter-Strike 2`|
 |[How to edit total cases?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/678580-edit-total.html)|`2025-01-05 05:14:00`|`Phasmophobia`|
