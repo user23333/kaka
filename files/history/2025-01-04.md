@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Traces](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/680512-rust-traces.html)|`2025-01-04 19:48:00`|`Rust`|
 |[Question about : FindTaskActiveByType](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/680511-question-findtaskactivebytype.html)|`2025-01-04 19:42:00`|`Alternative Online Mods`|
 |[External chams&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/670282-external-chams.html)|`2025-01-04 19:39:00`|`Call of Duty: Modern Warfare III`|
 |[Gameguardian Lua Code not work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/680508-gameguardian-lua-code.html)|`2025-01-04 19:22:00`|`Programming for Beginners`|
