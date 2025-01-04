@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-01-05 07:26:00`|`Call of Duty: Black Ops 6`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-01-05 07:26:00`|`Playerunknown's Battlegrounds`|
+|[Reading bomb time giving weird values](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680506-reading-bomb-time-giving-weird-values.html)|`2025-01-05 07:23:00`|`Counter-Strike 2`|
 |[Grand Theft Auto V Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144819-grand-theft-auto-scripting.html)|`2025-01-05 07:15:00`|`Grand Theft Auto V`|
 |[BOT LOBBY Method Chrome Tabs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672955-bot-lobby-method-chrome-tabs.html)|`2025-01-05 06:50:00`|`Call of Duty: Black Ops 6`|
 |[Tarkov DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/678998-tarkov-dma.html)|`2025-01-05 06:37:00`|`Escape from Tarkov`|
