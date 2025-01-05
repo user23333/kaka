@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG DMA Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/644302-pubg-dma-cheat-run.html)|`2025-01-06 03:07:00`|`Playerunknown's Battlegrounds`|
+|[fivem memory aimbot not working with adhesive on](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/680382-fivem-memory-aimbot-adhesive.html)|`2025-01-06 03:04:00`|`Alternative Online Mods`|
 |[Casino Pacino for YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/593469-casino-pacino-yimmenu.html)|`2025-01-06 02:58:00`|`Grand Theft Auto V`|
 |[Steam Hook keeps crashing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/676515-steam-hook-crashing.html)|`2025-01-06 02:58:00`|`Alternative Online Mods`|
 |[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2025-01-06 02:57:00`|`DayZ SA`|
