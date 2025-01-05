@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Toram Online &#45; STEAM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/484409-toram-online-steam.html)|`2025-01-05 09:13:00`|`Other MMORPG and Strategy`|
+|[Need Help for Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680637-help-offsets.html)|`2025-01-05 09:13:00`|`Counter-Strike 2`|
+|[DMA FACEIT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680644-dma-faceit.html)|`2025-01-05 09:13:00`|`Counter-Strike 2`|
+|[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2025-01-05 08:53:00`|`Escape from Tarkov`|
+|[Internal cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/611723-internal-cheese.html)|`2025-01-05 08:40:00`|`Payday 3`|
 |[keyauth error code 3 exit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/680635-keyauth-error-code-3-exit.html)|`2025-01-05 07:56:00`|`Forum General`|
 |[How can I bypass battle eye anti&#45;cheat in order to play GTA Online on Linux?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678938-bypass-battle-eye-anti-cheat-play-gta-online-linux.html)|`2025-01-05 07:45:00`|`Grand Theft Auto V`|
 |[EAC DMA cr3 shuffling fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677322-eac-dma-cr3-shuffling-fix.html)|`2025-01-05 07:44:00`|`Anti-Cheat Bypass`|
