@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2025-01-05 23:43:00`|`Other FPS Games`|
 |[Auto movement tool / Self bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/679810-auto-movement-tool-self-bot.html)|`2025-01-05 23:19:00`|`Among Us`|
 |["silent aim"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680139-silent-aim.html)|`2025-01-05 23:14:00`|`Counter-Strike 2`|
 |[External Offsets Pseudo Auto&#45;Updater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/667151-external-offsets-pseudo-auto-updater.html)|`2025-01-05 23:11:00`|`Counter-Strike 2`|
