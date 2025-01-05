@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2025-01-06 07:05:00`|`Deadlock`|
+|[Multiple instances of steam/cs2 WITHOUT sandboxing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666875-multiple-instances-steam-cs2-sandboxing.html)|`2025-01-06 07:04:00`|`Counter-Strike 2`|
+|[Knife skins doesn't update itself after few selections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680772-knife-skins-doesnt-update-selections.html)|`2025-01-06 07:00:00`|`Counter-Strike 2`|
 |[SCP: Secret Laboratory cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680263-scp-secret-laboratory-cheat.html)|`2025-01-06 06:43:00`|`Other FPS Games`|
 |[How legit do I need to be?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680439-legit.html)|`2025-01-06 06:42:00`|`Valorant`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-01-06 06:42:00`|`Playerunknown's Battlegrounds`|
