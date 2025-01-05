@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Throne and Liberty speed hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/680702-throne-liberty-speed-hack.html)|`2025-01-05 22:48:00`|`Other MMORPG and Strategy`|
 |[Arena breakout infinite cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/679606-arena-breakout-infinite-cheats.html)|`2025-01-05 22:42:00`|`Other FPS Games`|
 |[Router IP ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680700-router-ip-ban.html)|`2025-01-05 22:40:00`|`Valorant`|
 |[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-01-05 22:28:00`|`Battlefield 4`|
