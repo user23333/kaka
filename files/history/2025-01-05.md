@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Claim vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678287-claim-vehicle.html)|`2025-01-05 12:26:00`|`Grand Theft Auto V`|
+|[Marvel Rivals AntiCheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678876-marvel-rivals-anticheat.html)|`2025-01-05 12:25:00`|`Marvel Rivals`|
 |[color triggerbot detectable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680666-color-triggerbot-detectable.html)|`2025-01-05 11:45:00`|`Valorant`|
 |[pasted CE table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/677920-pasted-ce-table.html)|`2025-01-05 11:46:00`|`Palworld`|
 |[server file dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/680665-server-file-dumper.html)|`2025-01-05 11:41:00`|`Alternative Online Mods`|
