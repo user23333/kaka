@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-01-05 17:18:00`|`Farlight 84`|
+|[Arduino Spoofing issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680631-arduino-spoofing-issue.html)|`2025-01-05 17:03:00`|`Valorant`|
 |[sv&#95;cheats 1 local](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/680532-sv_cheats-1-local.html)|`2025-01-05 16:58:00`|`Garry's Mod`|
 |[RunString &#91;Download&#93; File bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/665977-runstring-download-file-bypass.html)|`2025-01-05 16:57:00`|`Garry's Mod`|
 |[FACEIT/DMA help&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680652-faceit-dma-help.html)|`2025-01-05 16:51:00`|`Counter-Strike 2`|
