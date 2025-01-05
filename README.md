@@ -26,9 +26,13 @@
 |21|[medal&#45;overlay&#45;hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48115)|`2025-01-06 00:10:37`|
 |287|[cs2 internal esp ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48112)|`2025-01-06 00:10:37`|
 |72|[Effigy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48105)|`2025-01-06 00:10:37`|
+|1|[Devour 5&#46;1&#46;3 Unlock All Robes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48128)|`2025-01-06 03:58:27`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking for cool Rust ESP/visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/680708-looking-cool-rust-esp-visuals.html)|`2025-01-06 03:57:00`|`Rust`|
+|[DEVOUR &#45; Unlock All Robes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/439326-devour-unlock-robes.html)|`2025-01-06 03:57:00`|`Other Games`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-01-06 03:53:00`|`Other MMORPG and Strategy`|
 |[Does BattlEye ban all of the accounts linked to your PC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/680709-battleye-ban-accounts-linked-pc.html)|`2025-01-06 03:47:00`|`Escape from Tarkov`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-01-06 03:42:00`|`Sea of Thieves`|
 |[any ud free cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680530-ud-free-cheat.html)|`2025-01-06 03:29:00`|`Marvel Rivals`|
