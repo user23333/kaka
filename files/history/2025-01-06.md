@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Memory Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666065-memory-editor.html)|`2025-01-06 02:50:00`|`Counter-Strike 2`|
+|[Hackerino for steam css](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/680327-hackerino-steam-css.html)|`2025-01-06 02:49:00`|`CounterStrike Source`|
+|[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2025-01-06 02:49:00`|`Grand Theft Auto V`|
+|[Weird issue with m&#95;flNextPrimaryAttack in prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/680265-weird-issue-m_flnextprimaryattack-prediction.html)|`2025-01-06 02:49:00`|`CounterStrike Source`|
 |[RunString &#91;Download&#93; File bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/665977-runstring-download-file-bypass.html)|`2025-01-06 02:46:00`|`Garry's Mod`|
 |[External Weapon Spawning replaces the fists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/680758-external-weapon-spawning-replaces-fists.html)|`2025-01-06 02:43:00`|`Alternative Online Mods`|
 |[BloodStrike Test Wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/674848-bloodstrike-test-wallhack.html)|`2025-01-06 02:19:00`|`Other FPS Games`|
