@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SCP: Secret Laboratory cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680263-scp-secret-laboratory-cheat.html)|`2025-01-06 06:43:00`|`Other FPS Games`|
+|[How legit do I need to be?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680439-legit.html)|`2025-01-06 06:42:00`|`Valorant`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-01-06 06:42:00`|`Playerunknown's Battlegrounds`|
 |[DSE question to disable it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/680770-dse-question-disable.html)|`2025-01-06 06:34:00`|`Anti-Cheat Bypass`|
 |[Pipsi&#45;ZZZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/680378-pipsi-zzz.html)|`2025-01-06 06:34:00`|`Other MMORPG and Strategy`|
 |[dll injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680413-dll-injector.html)|`2025-01-06 06:33:00`|`Marvel Rivals`|
