@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Casino Pacino for YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/593469-casino-pacino-yimmenu.html)|`2025-01-06 02:58:00`|`Grand Theft Auto V`|
+|[Steam Hook keeps crashing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/676515-steam-hook-crashing.html)|`2025-01-06 02:58:00`|`Alternative Online Mods`|
+|[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2025-01-06 02:57:00`|`DayZ SA`|
 |[Memory Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666065-memory-editor.html)|`2025-01-06 02:50:00`|`Counter-Strike 2`|
 |[Hackerino for steam css](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/680327-hackerino-steam-css.html)|`2025-01-06 02:49:00`|`CounterStrike Source`|
 |[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2025-01-06 02:49:00`|`Grand Theft Auto V`|
