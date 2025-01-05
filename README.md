@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[C&#43;&#43; c&#95;trace is always returning 0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/680638-c_trace-returning-0-a.html)|`2025-01-06 01:34:00`|`Off Topic`|
 |[&#91;REIMU&#93; Apex Recoil &#91;NO MOUSE&#95;EVENT / INPUT&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/679345-reimu-apex-recoil-mouse_event-input.html)|`2025-01-06 01:29:00`|`Apex Legends`|
 |[Anyone know if it's possible to edit your Overall Stats Data](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/661079-edit-overall-stats-data.html)|`2025-01-06 01:24:00`|`Escape from Tarkov`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-01-06 01:20:00`|`Escape from Tarkov`|
