@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2025-01-05 21:50:00`|`Grand Theft Auto V`|
+|[Any shi for sparking zero? offline or online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680026-shi-sparking-zero-offline-online.html)|`2025-01-05 21:50:00`|`Other Games`|
+|[HoloCure Simple Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/514570-holocure-simple-cheat.html)|`2025-01-05 21:47:00`|`Other Games`|
 |[Bodycam Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640993-bodycam-reversal-structs-offsets.html)|`2025-01-05 21:43:00`|`Other FPS Games`|
 |[MW19 1&#46;20 cheat for MRON](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/658992-mw19-1-20-cheat-mron.html)|`2025-01-05 21:37:00`|`Call of Duty: Modern Warfare`|
 |[Hosting a Lobby with Yimmenu without crashing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/680473-hosting-lobby-yimmenu-crashing.html)|`2025-01-05 21:31:00`|`Grand Theft Auto V`|
