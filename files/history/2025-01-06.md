@@ -39,6 +39,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-01-06 10:58:00`|`Call of Duty: Black Ops 6`|
+|[Disk Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/644109-disk-spoofer.html)|`2025-01-06 10:47:00`|`PC Hardware`|
+|[esp not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680792-esp.html)|`2025-01-06 10:43:00`|`Counter-Strike 2`|
+|[Arduino good to go?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680674-arduino.html)|`2025-01-06 10:24:00`|`Valorant`|
 |[anyway to store lost slam van?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/675077-anyway-store-lost-slam-van.html)|`2025-01-06 10:04:00`|`Grand Theft Auto V`|
 |[Let's talk about EAC new obfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/488156-talk-eac-obfuscation.html)|`2025-01-06 10:00:00`|`Anti-Cheat Bypass`|
 |[Operation Harsh Doorstop Internal &#124; Silent Aim, Magic Bullet, STW, Spammer, Other](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680217-operation-harsh-doorstop-internal-silent-aim-magic-bullet-stw-spammer.html)|`2025-01-06 09:28:00`|`Other FPS Games`|
