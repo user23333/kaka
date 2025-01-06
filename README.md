@@ -43,6 +43,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[auto cooker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/680869-auto-cooker.html)|`2025-01-06 22:33:00`|`Payday 2`|
 |[Ragnarok NDL, Auto Pots, Skill spam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/ragnarok/675449-ragnarok-ndl-auto-pots-skill-spam.html)|`2025-01-06 22:30:00`|`Ragnarok`|
 |[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2025-01-06 22:00:00`|`Elite: Dangerous`|
 |[how do i do](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/680865-how-do-i-do.html)|`2025-01-06 21:55:00`|`Grand Theft Auto V`|
