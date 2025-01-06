@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino good to go?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680674-arduino.html)|`2025-01-07 00:32:00`|`Valorant`|
+|[Looking for cool Rust ESP/visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/680708-looking-cool-rust-esp-visuals.html)|`2025-01-07 00:26:00`|`Rust`|
+|[Possible easy bypass for BE NEED CHECKING](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/680881-easy-bypass-checking.html)|`2025-01-07 00:25:00`|`Grand Theft Auto V`|
+|[Valorant Account Unban Method? &#40;Compromised Account&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680331-valorant-account-unban-method-compromised-account.html)|`2025-01-07 00:24:00`|`Valorant`|
+|[Marvel Rivals AntiCheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678876-marvel-rivals-anticheat.html)|`2025-01-07 00:20:00`|`Marvel Rivals`|
+|[how do i do](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/680865-how-do-i-do.html)|`2025-01-07 00:12:00`|`Grand Theft Auto V`|
 |[Accessing the x64 DLL inside of x86 process](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/680810-accessing-x64-dll-inside-x86-process.html)|`2025-01-07 00:07:00`|`General Programming and Reversing`|
 |[Marvel Rivals aimbot and esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677440-marvel-rivals-aimbot-esp.html)|`2025-01-07 00:05:00`|`Marvel Rivals`|
 |[Interceptor the kdmapper loaded driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/680856-interceptor-kdmapper-loaded-driver.html)|`2025-01-07 00:04:00`|`Anti-Cheat Bypass`|
