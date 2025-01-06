@@ -43,6 +43,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Another AMIDEWIN&#45;Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680878-amidewin-spoofer.html)|`2025-01-06 23:53:00`|`Valorant`|
+|[YimMenu Lua Scripting Megathread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/680877-yimmenu-lua-scripting-megathread.html)|`2025-01-06 23:50:00`|`Grand Theft Auto V`|
 |[CS:GO Edgebug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/680471-cs-edgebug.html)|`2025-01-06 22:49:00`|`Counterstrike Global Offensive`|
 |[auto cooker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/680869-auto-cooker.html)|`2025-01-06 22:33:00`|`Payday 2`|
 |[Ragnarok NDL, Auto Pots, Skill spam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/ragnarok/675449-ragnarok-ndl-auto-pots-skill-spam.html)|`2025-01-06 22:30:00`|`Ragnarok`|
