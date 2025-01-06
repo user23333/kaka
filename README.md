@@ -42,6 +42,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM sv&#95;pureLevel changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/640619-fivem-sv_purelevel-changer.html)|`2025-01-06 19:08:00`|`Alternative Online Mods`|
 |[How do the current GameGuard bypasses work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680852-current-gameguard-bypasses.html)|`2025-01-06 18:41:00`|`HELLDIVERS 2`|
 |[Marvel Rivals AntiCheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678876-marvel-rivals-anticheat.html)|`2025-01-06 18:39:00`|`Marvel Rivals`|
 |[pasted CE table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/677920-pasted-ce-table.html)|`2025-01-06 18:30:00`|`Palworld`|
