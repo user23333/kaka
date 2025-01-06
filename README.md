@@ -43,6 +43,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Interceptor the kdmapper loaded driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/680856-interceptor-kdmapper-loaded-driver.html)|`2025-01-06 19:33:00`|`Anti-Cheat Bypass`|
 |[GRENADE TRACING LINE &#91; INTERNAL &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/680854-grenade-tracing-line-internal.html)|`2025-01-06 19:24:00`|`PUBG Mobile`|
 |[FiveM sv&#95;pureLevel changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/640619-fivem-sv_purelevel-changer.html)|`2025-01-06 19:08:00`|`Alternative Online Mods`|
 |[How do the current GameGuard bypasses work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680852-current-gameguard-bypasses.html)|`2025-01-06 18:41:00`|`HELLDIVERS 2`|
