@@ -36,9 +36,12 @@
 |1|[NullPointer&#45;V2&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48157)|`2025-01-06 05:24:06`|
 |1|[OUTFIT EDITOR&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48153)|`2025-01-06 06:25:26`|
 |2|[injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48151)|`2025-01-06 06:33:41`|
+|2|[ReadyOrNot internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48172)|`2025-01-06 11:45:07`|
+|1|[1v1 Demon &#40;Rage update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48171)|`2025-01-06 11:45:07`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[1v1&#46;lol internal cheat / aimbot / esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676527-1v1-lol-internal-cheat-aimbot-esp.html)|`2025-01-06 11:43:00`|`Other FPS Games`|
 |[xp or unlocker server or somthn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/678592-xp-unlocker-server-somthn.html)|`2025-01-06 11:29:00`|`Battlefield 4`|
 |[Combat Master Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/580878-combat-master-reversal-structs-offsets.html)|`2025-01-06 11:15:00`|`Combat Master`|
 |[Skin Finisher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680793-skin-finisher.html)|`2025-01-06 11:15:00`|`Valorant`|
