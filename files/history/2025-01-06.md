@@ -42,6 +42,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[pasted CE table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/677920-pasted-ce-table.html)|`2025-01-06 18:30:00`|`Palworld`|
+|[MultiVersus Auto Dodge && More??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680830-multiversus-auto-dodge.html)|`2025-01-06 18:13:00`|`Other Games`|
 |[Brawlhalla](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680715-brawlhalla.html)|`2025-01-06 18:11:00`|`Other Games`|
 |[&#91;BrawlHalla BotMonster&#93; Improving BotMonster](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/664219-brawlhalla-botmonster-improving-botmonster.html)|`2025-01-06 18:08:00`|`Other Games`|
 |[Wuthering Waves v1&#46;1 hellokittyfan48 WW&#45;enhancer &#40;Multihit, Dumb enemies, ESP, Fly&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/645722-wuthering-waves-v1-1-hellokittyfan48-ww-enhancer-multihit-dumb-enemies-esp-fly.html)|`2025-01-06 18:08:00`|`Other MMORPG and Strategy`|
