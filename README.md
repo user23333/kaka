@@ -42,6 +42,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do the current GameGuard bypasses work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680852-current-gameguard-bypasses.html)|`2025-01-06 18:41:00`|`HELLDIVERS 2`|
+|[Marvel Rivals AntiCheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678876-marvel-rivals-anticheat.html)|`2025-01-06 18:39:00`|`Marvel Rivals`|
 |[pasted CE table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/677920-pasted-ce-table.html)|`2025-01-06 18:30:00`|`Palworld`|
 |[MultiVersus Auto Dodge && More??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680830-multiversus-auto-dodge.html)|`2025-01-06 18:13:00`|`Other Games`|
 |[Brawlhalla](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680715-brawlhalla.html)|`2025-01-06 18:11:00`|`Other Games`|
