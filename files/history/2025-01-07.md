@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2025-01-07 06:35:00`|`Tom Clancy's The Division`|
+|[Check if anticheats detect my vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/680760-check-anticheats-detect-vulnerable-driver.html)|`2025-01-07 06:33:00`|`Anti-Cheat Bypass`|
 |[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-01-07 06:29:00`|`HELLDIVERS 2`|
 |[OW Color Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/677675-ow-color-triggerbot.html)|`2025-01-07 06:28:00`|`Overwatch`|
 |[Any AoB for Godmode that isn't Miss Godmode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/680925-aob-godmode-isnt-miss-godmode.html)|`2025-01-07 06:26:00`|`Maple Story`|
