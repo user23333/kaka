@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Easiest ViewMatrix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/673942-easiest-viewmatrix.html)|`2025-01-06 17:06:00`|`CrossFire`|
 |[forcing dev console](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/679857-forcing-dev-console.html)|`2025-01-06 16:36:00`|`Programming for Beginners`|
 |[Updated GHUB recoil script LUA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/680399-updated-ghub-recoil-script-lua.html)|`2025-01-06 16:33:00`|`Rainbow Six Siege`|
 |[TFBot Controlling Player?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/680226-tfbot-controlling-player.html)|`2025-01-06 15:40:00`|`Team Fortress 2`|
