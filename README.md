@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;DRIVER&#93; IOCTL / ShadowRegion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680922-driver-ioctl-shadowregion.html)|`2025-01-07 05:34:00`|`Valorant`|
+|[&#91;PYTHON&#93; Pop&#45;up Bypass &#91;TMP,HVCI,SB&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680921-python-pop-bypass-tmp-hvci-sb.html)|`2025-01-07 05:30:00`|`Valorant`|
 |[Suspend&#95;Process](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/680919-suspend_process.html)|`2025-01-07 05:22:00`|`Anti-Cheat Bypass`|
 |[Destiny 2 Cheat Table &#43; Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680045-destiny-2-cheat-table-cheat-engine.html)|`2025-01-07 05:07:00`|`Other FPS Games`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-01-07 05:05:00`|`Other FPS Games`|
