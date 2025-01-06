@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-01-07 00:52:00`|`Apex Legends`|
+|[NULLPOINTER &#45; KERNEL EXTERNAL FULL C&#45;BASED CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677302-nullpointer-kernel-external-based-cheat.html)|`2025-01-07 00:50:00`|`Counter-Strike 2`|
+|[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-01-07 00:49:00`|`Grand Theft Auto V`|
+|[premium p2c FiveM injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/680887-premium-p2c-fivem-injector.html)|`2025-01-07 00:47:00`|`Alternative Online Mods`|
 |[Game's Integrity Check Failed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679433-games-integrity-check-failed.html)|`2025-01-07 00:42:00`|`Anti-Cheat Bypass`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-01-07 00:41:00`|`Valorant`|
 |[Aimbot &#43;ESP &#43; Chams and etc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680110-aimbot-esp-chams-etc.html)|`2025-01-07 00:38:00`|`Marvel Rivals`|
