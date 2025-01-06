@@ -39,6 +39,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[anyway to store lost slam van?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/675077-anyway-store-lost-slam-van.html)|`2025-01-06 10:04:00`|`Grand Theft Auto V`|
+|[Let's talk about EAC new obfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/488156-talk-eac-obfuscation.html)|`2025-01-06 10:00:00`|`Anti-Cheat Bypass`|
+|[Operation Harsh Doorstop Internal &#124; Silent Aim, Magic Bullet, STW, Spammer, Other](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680217-operation-harsh-doorstop-internal-silent-aim-magic-bullet-stw-spammer.html)|`2025-01-06 09:28:00`|`Other FPS Games`|
+|[Spinning rune solver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/680787-spinning-rune-solver.html)|`2025-01-06 09:20:00`|`Maple Story`|
 |[Marvel Rivals aimbot and esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677440-marvel-rivals-aimbot-esp.html)|`2025-01-06 08:51:00`|`Marvel Rivals`|
 |[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-01-06 08:36:00`|`Other FPS Games`|
 |[Combat Master &#124; Fully Featured Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/677171-combat-master-featured-internal.html)|`2025-01-06 08:36:00`|`Combat Master`|
