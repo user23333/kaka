@@ -42,6 +42,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Brawlhalla](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680715-brawlhalla.html)|`2025-01-06 18:11:00`|`Other Games`|
+|[&#91;BrawlHalla BotMonster&#93; Improving BotMonster](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/664219-brawlhalla-botmonster-improving-botmonster.html)|`2025-01-06 18:08:00`|`Other Games`|
+|[Wuthering Waves v1&#46;1 hellokittyfan48 WW&#45;enhancer &#40;Multihit, Dumb enemies, ESP, Fly&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/645722-wuthering-waves-v1-1-hellokittyfan48-ww-enhancer-multihit-dumb-enemies-esp-fly.html)|`2025-01-06 18:08:00`|`Other MMORPG and Strategy`|
+|[PUBGm mod skin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/613768-pubgm-mod-skin.html)|`2025-01-06 17:57:00`|`PUBG Mobile`|
 |[Claim vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678287-claim-vehicle.html)|`2025-01-06 17:51:00`|`Grand Theft Auto V`|
 |[How do i Make a undected driver I can use for cheating?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679796-undected-driver-cheating.html)|`2025-01-06 17:38:00`|`Anti-Cheat Bypass`|
 |[Disable Vanguard / Vanguard bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/679635-disable-vanguard-vanguard-bypass.html)|`2025-01-06 17:22:00`|`League of Legends`|
