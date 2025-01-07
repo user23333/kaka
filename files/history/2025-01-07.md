@@ -28,9 +28,15 @@
 |66|[NullPointer&#45;V2&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48157)|`2025-01-07 00:09:33`|
 |30|[ZenHv&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48154)|`2025-01-07 00:09:33`|
 |12|[modmap&#45;updated&#45;for&#45;win11&#45;23h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48178)|`2025-01-07 14:36:14`|
+|2|[NetEase Protect Usermode module](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48179)|`2025-01-07 16:36:31`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kernel injectors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680980-kernel-injectors.html)|`2025-01-07 16:32:00`|`Counter-Strike 2`|
+|[Auto Updating Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/636910-auto-updating-super-animal-royale-hack.html)|`2025-01-07 16:32:00`|`Other Games`|
+|[Updated GHUB recoil script LUA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/680399-updated-ghub-recoil-script-lua.html)|`2025-01-07 16:24:00`|`Rainbow Six Siege`|
+|[Cs2 armory pass botting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680976-cs2-armory-pass-botting.html)|`2025-01-07 16:06:00`|`Counter-Strike 2`|
+|[The ultimate DMA newbie guide&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/631149-ultimate-dma-newbie-guide.html)|`2025-01-07 16:04:00`|`PC Hardware`|
 |[Liars Bar DLL &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/668545-liars-bar-dll-source.html)|`2025-01-07 15:46:00`|`Other Games`|
 |[Claim vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678287-claim-vehicle.html)|`2025-01-07 15:43:00`|`Grand Theft Auto V`|
 |[midnight murder club hack?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/678241-midnight-murder-club-hack.html)|`2025-01-07 15:07:00`|`Other FPS Games`|
