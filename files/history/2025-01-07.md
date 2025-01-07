@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do the bans work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680804-bans.html)|`2025-01-07 10:55:00`|`Marvel Rivals`|
+|[HLL: Hell Let Loose](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/340677-hll-hell-loose.html)|`2025-01-07 10:55:00`|`Other FPS Games`|
+|[Marvel Rivals Undetected/Safe Free Macro 009](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680962-marvel-rivals-undetected-safe-free-macro-009-a.html)|`2025-01-07 10:47:00`|`Marvel Rivals`|
+|[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2025-01-07 10:46:00`|`Other FPS Games`|
+|[antirecoil/spread cs 1&#46;6 weapon lua script GHUB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/679557-antirecoil-spread-cs-1-6-weapon-lua-script-ghub.html)|`2025-01-07 10:46:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Get rotation of enemy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/680406-rotation-enemy.html)|`2025-01-07 10:42:00`|`PUBG Mobile`|
+|[Colorbot Silentaim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679391-colorbot-silentaim.html)|`2025-01-07 10:32:00`|`Valorant`|
 |[Bypassing TLS Callbacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680958-bypassing-tls-callbacks.html)|`2025-01-07 10:18:00`|`Counter-Strike 2`|
 |[Undetected R6 Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/678779-undetected-r6-injector.html)|`2025-01-07 10:10:00`|`Rainbow Six Siege`|
 |[BloodStrike Test Wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/674848-bloodstrike-test-wallhack.html)|`2025-01-07 10:08:00`|`Other FPS Games`|
