@@ -11,6 +11,7 @@
 |20|[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-01-08 00:04:36`|`helldivers-2-a`|
 |7|[rust external SOURCE IMGUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/680030-rust-external-source-imgui.html)|`2025-01-08 00:04:36`|`rust`|
 |3|[ApexDMA / Snoogens101](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/680096-apexdma-snoogens101.html)|`2025-01-08 00:04:36`|`apex-legends`|
+|0|[This is how Bans work in Marvel Rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680697-bans-marvel-rivals.html)|`2025-01-08 00:56:39`|`marvel-rivals`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-01-08 00:55:00`|`Rust`|
+|[Ban Recovery Assistance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/680972-ban-recovery-assistance.html)|`2025-01-08 00:53:00`|`Escape from Tarkov`|
+|[Delay Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680389-delay-ban.html)|`2025-01-08 00:49:00`|`Valorant`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-01-08 00:47:00`|`Call of Duty: Black Ops 6`|
+|[Hackerino for steam css](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/680327-hackerino-steam-css.html)|`2025-01-08 00:47:00`|`CounterStrike Source`|
+|[Bigger Hitboxes &#45; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/680142-bigger-hitboxes-esp.html)|`2025-01-08 00:45:00`|`H1Z1`|
+|[Is Arduino &#43; USB Hostshield still viable?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/681030-arduino-usb-hostshield-viable.html)|`2025-01-08 00:44:00`|`Valorant`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-01-08 00:40:00`|`Escape from Tarkov`|
 |[&#91;PYTHON&#93; Pop&#45;up Bypass &#91;TMP,HVCI,SB&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680921-python-pop-bypass-tmp-hvci-sb.html)|`2025-01-08 00:37:00`|`Valorant`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-01-08 00:35:00`|`Other MMORPG and Strategy`|
