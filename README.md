@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Source of lobby crasher 2017](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/681027-source-lobby-crasher-2017-a.html)|`2025-01-08 04:01:00`|`Counterstrike Global Offensive`|
+|[Marvel Rivals AntiCheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678876-marvel-rivals-anticheat.html)|`2025-01-08 03:59:00`|`Marvel Rivals`|
 |[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2025-01-08 03:51:00`|`Escape from Tarkov`|
 |[zap&#45;client &#91;Legitbot, Ragebot, Glow, ESP & More&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/628823-zap-client-legitbot-ragebot-glow-esp.html)|`2025-01-08 03:45:00`|`Apex Legends`|
 |[Appeal for Account Ban Never Go Thru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/676658-appeal-account-ban-thru.html)|`2025-01-08 03:43:00`|`Apex Legends`|
