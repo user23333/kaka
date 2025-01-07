@@ -32,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AssaultCube ESP keeps drawing outside of map](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/680693-assaultcube-esp-drawing-outside-map.html)|`2025-01-07 21:26:00`|`Off Topic`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-01-07 21:16:00`|`Call of Duty: Black Ops 6`|
+|[xp or unlocker server or somthn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/678592-xp-unlocker-server-somthn.html)|`2025-01-07 21:12:00`|`Battlefield 4`|
+|[How do i give money to others using yimenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681020-money-using-yimenu.html)|`2025-01-07 21:10:00`|`Grand Theft Auto V`|
+|[BO6 Fuser ESP/AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676862-bo6-fuser-esp-aim.html)|`2025-01-07 21:07:00`|`Call of Duty: Black Ops 6`|
+|[How do the current GameGuard bypasses work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680852-current-gameguard-bypasses.html)|`2025-01-07 21:05:00`|`HELLDIVERS 2`|
 |[Cheap DMA Board/Card](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/680323-cheap-dma-board-card.html)|`2025-01-07 21:00:00`|`Other Hardware`|
 |[What main code does GMOD use?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/680797-main-code-gmod.html)|`2025-01-07 20:46:00`|`Garry's Mod`|
 |[Source Code EXTERNAL CrossFire](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/641756-source-code-external-crossfire.html)|`2025-01-07 20:43:00`|`CrossFire`|
