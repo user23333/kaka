@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kmbox NET Colorbot release &#91;PYTHON&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/638056-kmbox-net-colorbot-release-python.html)|`2025-01-07 13:08:00`|`Valorant`|
+|[pasted CE table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/677920-pasted-ce-table.html)|`2025-01-07 12:34:00`|`Palworld`|
 |[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2025-01-07 12:56:00`|`Deadlock`|
 |[Easy Injection Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680479-easy-injection-method.html)|`2025-01-07 12:27:00`|`Marvel Rivals`|
 |[EAC DMA cr3 shuffling fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677322-eac-dma-cr3-shuffling-fix.html)|`2025-01-07 11:56:00`|`Anti-Cheat Bypass`|
