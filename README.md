@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[midnight murder club hack?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/678241-midnight-murder-club-hack.html)|`2025-01-07 15:07:00`|`Other FPS Games`|
+|[BE Hypervisor rdtsc bypass&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/680719-hypervisor-rdtsc-bypass.html)|`2025-01-07 15:06:00`|`Anti-Cheat Bypass`|
 |[&#91;Unity&#93;Netcode,Mirror,Fishnet Server Networking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/680973-unity-netcode-mirror-fishnet-server-networking.html)|`2025-01-07 14:52:00`|`Anti-Cheat Bypass`|
 |[im new and need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/680289-im-help.html)|`2025-01-07 14:47:00`|`Programming for Beginners`|
 |[Animal jam Classic item spawning](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680060-animal-jam-classic-item-spawning.html)|`2025-01-07 14:35:00`|`Other Games`|
