@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fix Vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/669238-fix-vehicle.html)|`2025-01-08 02:51:00`|`Alternative Online Mods`|
 |[Elden ring new Cheat Table &#43; Online &#40;risky&#41; &#43; CE Undetected &#43; future updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661671-elden-ring-cheat-table-online-risky-ce-undetected-future-updates.html)|`2025-01-08 02:45:00`|`Other FPS Games`|
 |[ESP & STREAM PROOF](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/680915-esp-stream-proof.html)|`2025-01-08 02:42:00`|`Alternative Online Mods`|
 |[Aimbot using only x,y and z position of players&#40;no bones&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/681072-aimbot-using-position-players-bones.html)|`2025-01-08 02:37:00`|`Forum General`|
