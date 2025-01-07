@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Knife skins doesn't update itself after few selections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680772-knife-skins-doesnt-update-selections.html)|`2025-01-08 07:49:00`|`Counter-Strike 2`|
+|[What Injector is good for r6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/681113-injector-r6.html)|`2025-01-08 07:25:00`|`Rainbow Six Siege`|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-01-08 07:24:00`|`Battlefield 4`|
 |[Dragon Ball SPARKING ZERO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/666057-dragon-ball-sparking-zero.html)|`2025-01-08 07:39:00`|`Other Games`|
 |[Making Brawlhalla Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/679816-brawlhalla-bot.html)|`2025-01-08 07:17:00`|`Other Games`|
 |[Member of the Month &#45; January 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/680280-month-january-2025-a.html)|`2025-01-08 07:10:00`|`Member of the Month`|
