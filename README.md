@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overdrill activator non/host](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/679479-overdrill-activator-host.html)|`2025-01-07 08:38:00`|`Payday 2`|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-01-07 08:32:00`|`Grand Theft Auto V`|
+|[What exactly am I missing here?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680379-exactly-am-missing.html)|`2025-01-07 08:25:00`|`Counter-Strike 2`|
+|[Multiversus Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/677826-multiversus-hack.html)|`2025-01-07 08:16:00`|`Other Games`|
+|[Mouse driver movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680028-mouse-driver-movement.html)|`2025-01-07 08:14:00`|`Valorant`|
+|[Notepad&#43;&#43; WriteFile Overflow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/680955-notepad-writefile-overflow.html)|`2025-01-07 08:11:00`|`C and C++`|
 |[Unban method for a account you actually play on](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/680339-unban-method-account-actually-play.html)|`2025-01-07 07:42:00`|`Rainbow Six Siege`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-01-07 07:49:00`|`Other FPS Games`|
 |[Bot Lobby VPN Trouble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/680927-bot-lobby-vpn-trouble.html)|`2025-01-07 07:20:00`|`Call of Duty: Black Ops 6`|
