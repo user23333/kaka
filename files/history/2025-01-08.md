@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Star Wars Battlefront II &#45; Server Menu &#45;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/680218-star-wars-battlefront-ii-server-menu.html)|`2025-01-08 01:25:00`|`Star Wars Battlefront 2`|
+|[HoloCure Simple Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/514570-holocure-simple-cheat.html)|`2025-01-08 01:25:00`|`Other Games`|
+|[Djcowely's BO6 Aim assist Objective ignore AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/680903-djcowelys-bo6-aim-assist-objective-ignore-ahk.html)|`2025-01-08 01:24:00`|`Call of Duty: Black Ops 6`|
+|[Unc Type Hook kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671271-unc-type-hook-kernel.html)|`2025-01-08 01:11:00`|`Anti-Cheat Bypass`|
+|[AHK MultiScript &#124; Pean's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605440-ahk-multiscript-peans-rcs.html)|`2025-01-08 01:08:00`|`Counter-Strike 2 Releases`|
 |[&#91;REIMU&#93; Apex Recoil &#91;NO MOUSE&#95;EVENT / INPUT&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/679345-reimu-apex-recoil-mouse_event-input.html)|`2025-01-08 01:04:00`|`Apex Legends`|
 |[What is the rust script's detection vectors?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/681061-rust-scripts-detection-vectors.html)|`2025-01-08 01:03:00`|`Rust`|
 |[S&#46;T&#46;A&#46;L&#46;K&#46;E&#46;R&#46; 2: Heart of Chornobyl Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/673320-2-heart-chornobyl-reversal-structs-offsets.html)|`2025-01-08 01:02:00`|`Other FPS Games`|
