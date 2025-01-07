@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how do i get online mod menus working on linux/steam deck?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/680630-online-mod-menus-linux-steam-deck.html)|`2025-01-08 04:32:00`|`Red Dead Redemption 2`|
+|[itempresetslist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/680491-itempresetslist.html)|`2025-01-08 04:28:00`|`Escape from Tarkov`|
 |[CS:GO Edgebug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/680471-cs-edgebug.html)|`2025-01-08 04:19:00`|`Counterstrike Global Offensive`|
 |[Unban method for a account you actually play on](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/680339-unban-method-account-actually-play.html)|`2025-01-08 04:17:00`|`Rainbow Six Siege`|
 |[Source of lobby crasher 2017](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/681027-source-lobby-crasher-2017-a.html)|`2025-01-08 04:01:00`|`Counterstrike Global Offensive`|
