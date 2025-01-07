@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC DMA cr3 shuffling fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677322-eac-dma-cr3-shuffling-fix.html)|`2025-01-07 11:56:00`|`Anti-Cheat Bypass`|
 |[Undetected CE for CW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/680552-undetected-ce-cw.html)|`2025-01-07 11:31:00`|`Call of Duty: Black Ops Cold War`|
 |[Ragnarok NDL, Auto Pots, Skill spam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/ragnarok/675449-ragnarok-ndl-auto-pots-skill-spam.html)|`2025-01-07 11:27:00`|`Ragnarok`|
 |[people not being banned while cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/680963-people-banned-cheating.html)|`2025-01-07 11:13:00`|`Rainbow Six Siege`|
