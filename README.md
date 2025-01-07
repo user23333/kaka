@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[YimMenu Lua Scripting Megathread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/680877-yimmenu-lua-scripting-megathread.html)|`2025-01-08 02:32:00`|`Grand Theft Auto V`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-01-08 02:31:00`|`Alternative Online Mods`|
+|[CSSO Internal ESP Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/648328-csso-internal-esp-cheat.html)|`2025-01-08 02:23:00`|`CounterStrike Source`|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-01-08 02:19:00`|`Apex Legends`|
 |[Is kiddion ultimate menu safer than using Yimmenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/680970-kiddion-ultimate-menu-safer-using-yimmenu.html)|`2025-01-08 02:06:00`|`Grand Theft Auto V`|
 |[BE Hypervisor rdtsc bypass&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/680719-hypervisor-rdtsc-bypass.html)|`2025-01-08 02:06:00`|`Anti-Cheat Bypass`|
 |[Best norecoil and esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/681066-norecoil-esp.html)|`2025-01-08 02:03:00`|`Rainbow Six Siege`|
