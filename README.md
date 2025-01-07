@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypassing TLS Callbacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680958-bypassing-tls-callbacks.html)|`2025-01-07 10:18:00`|`Counter-Strike 2`|
+|[Undetected R6 Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/678779-undetected-r6-injector.html)|`2025-01-07 10:10:00`|`Rainbow Six Siege`|
+|[BloodStrike Test Wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/674848-bloodstrike-test-wallhack.html)|`2025-01-07 10:08:00`|`Other FPS Games`|
+|[what is timescale offset?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/680957-timescale-offset.html)|`2025-01-07 09:29:00`|`Escape from Tarkov`|
 |[Overdrill activator non/host](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/679479-overdrill-activator-host.html)|`2025-01-07 08:38:00`|`Payday 2`|
 |[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-01-07 08:32:00`|`Grand Theft Auto V`|
 |[What exactly am I missing here?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680379-exactly-am-missing.html)|`2025-01-07 08:25:00`|`Counter-Strike 2`|
