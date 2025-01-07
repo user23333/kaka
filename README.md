@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-01-08 03:28:00`|`Sea of Thieves`|
 |[Rocket League &#45; ThoramiBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/593885-rocket-league-thoramibot.html)|`2025-01-08 03:20:00`|`Other Games`|
 |[any way to teleport while moving externally?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/681079-teleport-moving-externally.html)|`2025-01-08 03:20:00`|`Alternative Online Mods`|
 |[pcileech&#45;multimedia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/623718-pcileech-multimedia.html)|`2025-01-08 03:13:00`|`Anti-Cheat Bypass`|
