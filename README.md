@@ -13,6 +13,7 @@
 |10|[Mouse driver movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680028-mouse-driver-movement.html)|`2025-01-07 00:09:33`|`valorant`|
 |6|[Kernel ARP Table Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679845-kernel-arp-table-spoofing.html)|`2025-01-07 01:28:30`|`anti-cheat-bypass`|
 |14|[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-01-07 14:12:35`|`helldivers-2-a`|
+|3|[ApexDMA / Snoogens101](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/680096-apexdma-snoogens101.html)|`2025-01-07 15:46:21`|`apex-legends`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Claim vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678287-claim-vehicle.html)|`2025-01-07 15:43:00`|`Grand Theft Auto V`|
 |[midnight murder club hack?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/678241-midnight-murder-club-hack.html)|`2025-01-07 15:07:00`|`Other FPS Games`|
 |[BE Hypervisor rdtsc bypass&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/680719-hypervisor-rdtsc-bypass.html)|`2025-01-07 15:06:00`|`Anti-Cheat Bypass`|
 |[&#91;Unity&#93;Netcode,Mirror,Fishnet Server Networking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/680973-unity-netcode-mirror-fishnet-server-networking.html)|`2025-01-07 14:52:00`|`Anti-Cheat Bypass`|
