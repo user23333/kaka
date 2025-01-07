@@ -27,6 +27,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-01-08 00:40:00`|`Escape from Tarkov`|
+|[&#91;PYTHON&#93; Pop&#45;up Bypass &#91;TMP,HVCI,SB&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680921-python-pop-bypass-tmp-hvci-sb.html)|`2025-01-08 00:37:00`|`Valorant`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-01-08 00:35:00`|`Other MMORPG and Strategy`|
+|[What is at the core of an effective EAC bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/681050-core-effective-eac-bypass.html)|`2025-01-08 00:29:00`|`Anti-Cheat Bypass`|
+|[Path of Exile 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676435-path-exile-2-reversal-structs-offsets.html)|`2025-01-08 00:28:00`|`Other MMORPG and Strategy`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-01-08 00:25:00`|`Apex Legends`|
+|[Undetected injector EAC &#40;22&#46;12&#46;2024&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678400-undetected-injector-eac-22-12-2024-a.html)|`2025-01-08 00:24:00`|`Anti-Cheat Bypass`|
+|[anyway to store lost slam van?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/675077-anyway-store-lost-slam-van.html)|`2025-01-08 00:23:00`|`Grand Theft Auto V`|
+|[DSE question to disable it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/680770-dse-question-disable.html)|`2025-01-08 00:22:00`|`Anti-Cheat Bypass`|
+|[dll injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680413-dll-injector.html)|`2025-01-08 00:20:00`|`Marvel Rivals`|
 |[Valorant Agent Instant Lock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679852-valorant-agent-instant-lock.html)|`2025-01-08 00:04:00`|`Valorant`|
 |[Internal cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/611723-internal-cheese.html)|`2025-01-07 23:52:00`|`Payday 3`|
 |[NULLPOINTER &#45; KERNEL EXTERNAL FULL C&#45;BASED CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677302-nullpointer-kernel-external-based-cheat.html)|`2025-01-07 23:49:00`|`Counter-Strike 2`|
