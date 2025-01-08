@@ -32,6 +32,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project Zomboid Cheat &#45; Valkur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/645408-project-zomboid-cheat-valkur.html)|`2025-01-08 10:01:00`|`Other MMORPG and Strategy`|
+|[soulbound&#46;game &#40;Web game / Discord game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/681135-soulbound-game-web-game-discord-game.html)|`2025-01-08 10:00:00`|`Other MMORPG and Strategy`|
+|[Signed Spoofer By Microsoft&#40;EAC & BE&#41;  Early Christmas Present](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677190-signed-spoofer-microsoft-eac-christmas.html)|`2025-01-08 09:58:00`|`Anti-Cheat Bypass`|
+|[Destiny 2 Cheat Table &#43; Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680045-destiny-2-cheat-table-cheat-engine.html)|`2025-01-08 09:53:00`|`Other FPS Games`|
+|[What main code does GMOD use?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/680797-main-code-gmod.html)|`2025-01-08 09:49:00`|`Garry's Mod`|
+|[Animal jam Classic item spawning](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680060-animal-jam-classic-item-spawning.html)|`2025-01-08 09:44:00`|`Other Games`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-01-08 09:43:00`|`Overwatch`|
+|[i have a problem with unityplayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/681132-unityplayer.html)|`2025-01-08 09:40:00`|`Rust`|
 |[Easy Injection Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680479-easy-injection-method.html)|`2025-01-08 08:05:00`|`Marvel Rivals`|
 |[There is a 50% probability that the diffusion calculation is spread&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681026-50-probability-diffusion-calculation-spread.html)|`2025-01-08 08:02:00`|`Counter-Strike 2`|
 |[Knife skins doesn't update itself after few selections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680772-knife-skins-doesnt-update-selections.html)|`2025-01-08 07:49:00`|`Counter-Strike 2`|
