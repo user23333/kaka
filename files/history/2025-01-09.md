@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-01-09 07:17:00`|`Overwatch`|
+|[Signed Spoofer By Microsoft&#40;EAC & BE&#41;  Early Christmas Present](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677190-signed-spoofer-microsoft-eac-christmas.html)|`2025-01-09 07:10:00`|`Anti-Cheat Bypass`|
 |[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2025-01-09 06:42:00`|`Other FPS Games`|
 |[Valorant Account Unban Method? &#40;Compromised Account&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680331-valorant-account-unban-method-compromised-account.html)|`2025-01-09 06:31:00`|`Valorant`|
 |[Box Cheats Menu w/ Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/679547-box-cheats-menu-bypass.html)|`2025-01-09 06:25:00`|`HELLDIVERS 2`|
