@@ -29,6 +29,7 @@
 |24|[materials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48159)|`2025-01-08 00:04:36`|
 |21|[Guardian Platform Begone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48158)|`2025-01-08 00:04:36`|
 |2|[Webs PVE v7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48162)|`2025-01-08 03:57:47`|
+|1|[Elden Ring &#45; Cheat Table V1&#46;1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48191)|`2025-01-08 12:00:16`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
