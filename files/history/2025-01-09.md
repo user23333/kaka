@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike Test Wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/674848-bloodstrike-test-wallhack.html)|`2025-01-09 04:33:00`|`Other FPS Games`|
 |[STRAFTAT Mono Internal Cheat/Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/681236-straftat-mono-internal-cheat-base.html)|`2025-01-09 04:27:00`|`Other FPS Games`|
 |[Marvel Rivals aimbot and esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677440-marvel-rivals-aimbot-esp.html)|`2025-01-09 04:15:00`|`Marvel Rivals`|
 |[Getting BSOD after 50min using cheat &#40;GetModuleAddress issue&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/681235-getting-bsod-50min-using-cheat-getmoduleaddress-issue.html)|`2025-01-09 04:11:00`|`Rust`|
