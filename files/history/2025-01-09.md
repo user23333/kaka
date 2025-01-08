@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NEW Pubgm 3&#46;6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681262-pubgm-3-6-offsets.html)|`2025-01-09 07:40:00`|`PUBG Mobile`|
 |[Need help with keybinds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/681233-help-keybinds.html)|`2025-01-09 07:34:00`|`Payday 2`|
 |[ACE Bypass Spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/681069-ace-bypass-spoof.html)|`2025-01-09 07:34:00`|`Anti-Cheat Bypass`|
 |[YimMenu&#46;dll 1&#46;70 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678007-yimmenu-dll-1-70-update.html)|`2025-01-09 07:31:00`|`Grand Theft Auto V`|
