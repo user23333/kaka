@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dll Base Address Different From What CE Shows?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/670890-dll-base-address-ce.html)|`2025-01-08 16:42:00`|`Programming for Beginners`|
+|[Bot lobby &#45; In&#45;Depth guide BO6 &#40;NO VPS/VM's Needed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/679718-bot-lobby-depth-guide-bo6-vps-vms.html)|`2025-01-08 16:40:00`|`Call of Duty: Black Ops 6`|
+|[Brawlhalla](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680715-brawlhalla.html)|`2025-01-08 16:39:00`|`Other Games`|
 |[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-01-08 16:32:00`|`Marvel Rivals`|
 |[Ultimate COD WW2 Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/650299-ultimate-cod-ww2-thread.html)|`2025-01-08 15:18:00`|`Other Games`|
 |[is Learning OPENGL helpful for mobile game hacking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/opengl/679066-learning-opengl-helpful-mobile-game-hacking.html)|`2025-01-08 15:11:00`|`OpenGL`|
