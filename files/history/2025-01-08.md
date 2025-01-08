@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[bypass files hash checking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/681191-bypass-files-hash-checking.html)|`2025-01-08 19:20:00`|`Anti-Cheat Bypass`|
 |[External chams&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/670282-external-chams.html)|`2025-01-08 19:10:00`|`Call of Duty: Modern Warfare III`|
 |[《Sea of Thieves》DMA cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/680138-sea-thieves-dma-cheat.html)|`2025-01-08 18:47:00`|`Sea of Thieves`|
 |[Knife model changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680911-knife-model-changer.html)|`2025-01-08 18:22:00`|`Counter-Strike 2`|
