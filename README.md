@@ -15,6 +15,7 @@
 |7|[Valorant Account Unban Method? &#40;Compromised Account&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680331-valorant-account-unban-method-compromised-account.html)|`2025-01-08 06:39:20`|`valorant`|
 |9|[Star Wars Battlefront II &#45; Server Menu &#45;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/680218-star-wars-battlefront-ii-server-menu.html)|`2025-01-08 06:50:17`|`star-wars-battlefront-2-a`|
 |14|[any ud free cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680530-ud-free-cheat.html)|`2025-01-08 08:39:42`|`marvel-rivals`|
+|22|[Djcowely's BO6 Aim assist Objective ignore AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/680903-djcowelys-bo6-aim-assist-objective-ignore-ahk.html)|`2025-01-08 21:13:37`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA Card Freezes after while &#45;&#62; 2Green Static LEDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/672556-dma-card-freezes-2green-static-leds.html)|`2025-01-08 21:12:00`|`PC Hardware`|
+|[fivem memory aimbot not working with adhesive on](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/680382-fivem-memory-aimbot-adhesive.html)|`2025-01-08 20:57:00`|`Alternative Online Mods`|
+|[Remaster: Spankerfield &#43; Hyperhook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/679728-remaster-spankerfield-hyperhook.html)|`2025-01-08 20:56:00`|`Battlefield 4`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-01-08 20:33:00`|`Other Games`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-01-08 20:28:00`|`Other FPS Games`|
 |[How do i give money to others using yimenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681020-money-using-yimenu.html)|`2025-01-08 20:22:00`|`Grand Theft Auto V`|
