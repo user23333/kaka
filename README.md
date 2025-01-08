@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Free Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/676229-free-internal-cheat.html)|`2025-01-08 22:59:00`|`Counter-Strike 2 Releases`|
+|[script ps5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675098-script-ps5.html)|`2025-01-08 22:57:00`|`Call of Duty: Black Ops 6`|
 |[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2025-01-08 22:51:00`|`Other FPS Games`|
 |[How to dump decrypted global&#45;metadata to file&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/632659-dump-decrypted-global-metadata-file.html)|`2025-01-08 22:33:00`|`Unity`|
 |[Proper Viewmodel changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/658247-proper-viewmodel-changer.html)|`2025-01-08 22:24:00`|`Counter-Strike 2`|
