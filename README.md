@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA &#40;Cant disable Virtualization&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/681169-dma-cant-disable-virtualization.html)|`2025-01-08 14:45:00`|`PC Hardware`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2025-01-08 14:24:00`|`Deadlock`|
 |[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2025-01-08 14:24:00`|`Deadlock`|
 |[YimMenu LUA Script to Autokick Freemode Bots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681167-yimmenu-lua-script-autokick-freemode-bots.html)|`2025-01-08 14:20:00`|`Grand Theft Auto V`|
