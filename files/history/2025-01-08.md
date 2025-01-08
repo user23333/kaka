@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Andromeda DeadLock &#40;Internal Base&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/681199-andromeda-deadlock-internal-base.html)|`2025-01-08 21:28:00`|`Deadlock`|
+|[Things you should cache &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673689-cache-dma.html)|`2025-01-08 21:16:00`|`Call of Duty: Black Ops 6`|
 |[DMA Card Freezes after while &#45;&#62; 2Green Static LEDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/672556-dma-card-freezes-2green-static-leds.html)|`2025-01-08 21:12:00`|`PC Hardware`|
 |[fivem memory aimbot not working with adhesive on](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/680382-fivem-memory-aimbot-adhesive.html)|`2025-01-08 20:57:00`|`Alternative Online Mods`|
 |[Remaster: Spankerfield &#43; Hyperhook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/679728-remaster-spankerfield-hyperhook.html)|`2025-01-08 20:56:00`|`Battlefield 4`|
