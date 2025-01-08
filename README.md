@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[YimMenu LUA Script to Autokick Freemode Bots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681167-yimmenu-lua-script-autokick-freemode-bots.html)|`2025-01-09 03:17:00`|`Grand Theft Auto V`|
+|[AssaultCube ESP keeps drawing outside of map](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/680693-assaultcube-esp-drawing-outside-map.html)|`2025-01-09 03:13:00`|`Off Topic`|
 |[No recoil script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/679739-recoil-script.html)|`2025-01-09 03:07:00`|`Apex Legends`|
 |[Need help fixing a bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681229-help-fixing-bug.html)|`2025-01-09 03:03:00`|`Counter-Strike 2`|
 |[DMA CUSTOM FIRMWARE GUIDE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/613135-dma-custom-firmware-guide.html)|`2025-01-09 03:03:00`|`Anti-Cheat Bypass`|
