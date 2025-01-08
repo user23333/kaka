@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mapper does not find function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674993-mapper-function.html)|`2025-01-09 03:38:00`|`Anti-Cheat Bypass`|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-01-09 03:37:00`|`Counter-Strike 2 Releases`|
 |[Plutonium MW3 internal Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/492220-plutonium-mw3-internal-hack.html)|`2025-01-09 03:31:00`|`Call of Duty: Modern Warfare 3`|
 |[YimMenu LUA Script to Autokick Freemode Bots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681167-yimmenu-lua-script-autokick-freemode-bots.html)|`2025-01-09 03:17:00`|`Grand Theft Auto V`|
 |[AssaultCube ESP keeps drawing outside of map](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/680693-assaultcube-esp-drawing-outside-map.html)|`2025-01-09 03:13:00`|`Off Topic`|
