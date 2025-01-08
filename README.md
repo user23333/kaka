@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2025-01-08 14:24:00`|`Deadlock`|
+|[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2025-01-08 14:24:00`|`Deadlock`|
+|[YimMenu LUA Script to Autokick Freemode Bots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681167-yimmenu-lua-script-autokick-freemode-bots.html)|`2025-01-08 14:20:00`|`Grand Theft Auto V`|
 |[Liars Bar DLL &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/668545-liars-bar-dll-source.html)|`2025-01-08 14:12:00`|`Other Games`|
 |[Can't Interact with Anything Inside Compound Gold Rooms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681136-cant-interact-inside-compound-gold.html)|`2025-01-08 14:11:00`|`Grand Theft Auto V`|
 |[Rust internal SOURCE GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/679682-rust-internal-source-gui.html)|`2025-01-08 14:07:00`|`Rust`|
