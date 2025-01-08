@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[new pattern squirrel scripts ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/678880-pattern-squirrel-scripts.html)|`2025-01-09 05:20:00`|`Apex Legends`|
+|[server file dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/680665-server-file-dumper.html)|`2025-01-09 05:11:00`|`Alternative Online Mods`|
 |[color triggerbot detectable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680666-color-triggerbot-detectable.html)|`2025-01-09 05:02:00`|`Valorant`|
 |[Need Help Analyzing DLLs for nBot &#40;BO2/BO3&#41; – Possible Malware?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/678581-help-analyzing-dlls-nbot-bo2-bo3-malware.html)|`2025-01-09 04:47:00`|`General Programming and Reversing`|
 |[BloodStrike Test Wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/674848-bloodstrike-test-wallhack.html)|`2025-01-09 04:33:00`|`Other FPS Games`|
