@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[《Sea of Thieves》DMA cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/680138-sea-thieves-dma-cheat.html)|`2025-01-08 18:47:00`|`Sea of Thieves`|
 |[Knife model changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680911-knife-model-changer.html)|`2025-01-08 18:22:00`|`Counter-Strike 2`|
 |[Engine Prediction, Edge Jump issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681179-engine-prediction-edge-jump-issue.html)|`2025-01-08 18:19:00`|`Counter-Strike 2`|
 |[DMA cheats make my pc crash/lag hard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/664585-dma-cheats-pc-crash-lag-hard.html)|`2025-01-08 18:08:00`|`PC Hardware`|
