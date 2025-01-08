@@ -11,6 +11,7 @@
 |22|[Djcowely's BO6 Aim assist Objective ignore AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/680903-djcowelys-bo6-aim-assist-objective-ignore-ahk.html)|`2025-01-09 00:13:29`|`call-of-duty-black-ops-6-a`|
 |7|[Valorant Account Unban Method? &#40;Compromised Account&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680331-valorant-account-unban-method-compromised-account.html)|`2025-01-09 00:13:29`|`valorant`|
 |9|[Star Wars Battlefront II &#45; Server Menu &#45;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/680218-star-wars-battlefront-ii-server-menu.html)|`2025-01-09 00:13:29`|`star-wars-battlefront-2-a`|
+|3|[Marvel Rivals Undetected/Safe Free Macro 009](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680962-marvel-rivals-undetected-safe-free-macro-009-a.html)|`2025-01-09 03:10:55`|`marvel-rivals`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[No recoil script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/679739-recoil-script.html)|`2025-01-09 03:07:00`|`Apex Legends`|
+|[Need help fixing a bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681229-help-fixing-bug.html)|`2025-01-09 03:03:00`|`Counter-Strike 2`|
+|[DMA CUSTOM FIRMWARE GUIDE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/613135-dma-custom-firmware-guide.html)|`2025-01-09 03:03:00`|`Anti-Cheat Bypass`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-01-09 03:02:00`|`Other FPS Games`|
 |[Admin ESP &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/681227-admin-esp-dma.html)|`2025-01-09 02:45:00`|`Rust`|
 |[&#40;As a beginner&#41; I'm currently having trouble deciding which game to work on after CS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/677382-beginner-im-currently-trouble-deciding-game-cs.html)|`2025-01-09 02:43:00`|`Programming for Beginners`|
 |[DMA ERROR HELP PLEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/668101-dma-error-help-please.html)|`2025-01-09 02:43:00`|`PC Hardware`|
