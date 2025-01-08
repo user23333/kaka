@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Liars Bar DLL &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/668545-liars-bar-dll-source.html)|`2025-01-08 14:12:00`|`Other Games`|
+|[Can't Interact with Anything Inside Compound Gold Rooms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681136-cant-interact-inside-compound-gold.html)|`2025-01-08 14:11:00`|`Grand Theft Auto V`|
+|[Rust internal SOURCE GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/679682-rust-internal-source-gui.html)|`2025-01-08 14:07:00`|`Rust`|
+|[Did Hoyo remove the VM restriction from Genshin Impact?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/673206-hoyo-remove-vm-restriction-genshin-impact.html)|`2025-01-08 13:57:00`|`Genshin Impact`|
 |[Aim Assist in pure C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675938-aim-assist-pure.html)|`2025-01-08 13:40:00`|`Valorant`|
 |[Bypassing TLS Callbacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680958-bypassing-tls-callbacks.html)|`2025-01-08 13:21:00`|`Counter-Strike 2`|
 |[pasted CE table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/677920-pasted-ce-table.html)|`2025-01-08 13:11:00`|`Palworld`|
