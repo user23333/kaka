@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[1v1&#46;lol internal cheat / aimbot / esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676527-1v1-lol-internal-cheat-aimbot-esp.html)|`2025-01-09 06:11:00`|`Other FPS Games`|
+|[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2025-01-09 06:11:00`|`Other FPS Games`|
+|[Kernel FindProcessByName&#46;h](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/681255-kernel-findprocessbyname.html)|`2025-01-09 06:06:00`|`C and C++`|
+|[Can't Interact with Anything Inside Compound Gold Rooms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681136-cant-interact-inside-compound-gold.html)|`2025-01-09 06:02:00`|`Grand Theft Auto V`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-01-09 05:57:00`|`Counter-Strike 2`|
 |[Yolov8 model for marvel rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677707-yolov8-model-marvel-rivals.html)|`2025-01-09 05:55:00`|`Marvel Rivals`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-01-09 05:50:00`|`Other MMORPG and Strategy`|
 |[Djcowely's BO6 Aim assist Objective ignore AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/680903-djcowelys-bo6-aim-assist-objective-ignore-ahk.html)|`2025-01-09 05:48:00`|`Call of Duty: Black Ops 6`|
