@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[IW4X unban after alterware update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/681411-iw4x-unban-alterware-update.html)|`2025-01-10 05:07:00`|`Call of Duty 6: Modern Warfare 2`|
 |[What is at the core of an effective EAC bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/681050-core-effective-eac-bypass.html)|`2025-01-10 04:54:00`|`Anti-Cheat Bypass`|
 |[CurrentWeapon and 3&#46;6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681408-currentweapon-3-6-offsets.html)|`2025-01-10 04:47:00`|`PUBG Mobile`|
 |[How to make external hit override?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/681407-external-hit-override.html)|`2025-01-10 04:46:00`|`Rust`|
