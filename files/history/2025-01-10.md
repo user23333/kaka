@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ImGui menu №2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/681367-imgui-menu-2-a.html)|`2025-01-10 00:32:00`|`C and C++`|
+|[&#91;CS2&#93; External ESP &#40;Python&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/681368-cs2-external-esp-python.html)|`2025-01-10 00:27:00`|`Counter-Strike 2 Releases`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-01-10 00:26:00`|`Call of Duty: Black Ops 6`|
+|[ImGui menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/681364-imgui-menu.html)|`2025-01-10 00:22:00`|`C and C++`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-01-10 00:21:00`|`Counter-Strike 2`|
 |[DMA &#40;Entity Esp &#43; Player Bones&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677658-dma-entity-esp-player-bones.html)|`2025-01-10 00:16:00`|`Rust`|
 |[There is a 50% probability that the diffusion calculation is spread&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681026-50-probability-diffusion-calculation-spread.html)|`2025-01-10 00:15:00`|`Counter-Strike 2`|
 |[Initializing FNames](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/681362-initializing-fnames.html)|`2025-01-10 00:14:00`|`Unreal Engine 4`|
