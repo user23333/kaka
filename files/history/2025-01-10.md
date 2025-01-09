@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FoxHole](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/677885-foxhole.html)|`2025-01-10 07:53:00`|`Other MMORPG and Strategy`|
 |[Longest thread on Pfister Comet in Grand Theft Auto 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681426-thread-pfister-comet-grand-theft-auto-5-a.html)|`2025-01-10 07:43:00`|`Grand Theft Auto V`|
 |[UFO/Alien/??? Tattoo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/483800-ufo-alien-tattoo.html)|`2025-01-10 07:39:00`|`Grand Theft Auto V`|
 |[loot limit removal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/681331-loot-limit-removal.html)|`2025-01-10 07:39:00`|`Payday 2`|
