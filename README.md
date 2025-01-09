@@ -28,9 +28,11 @@
 |224|[Webs PVE v7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48162)|`2025-01-09 00:13:29`|
 |1|[SDK&#95;3&#46;6&#95;@unknowncheats&#46;me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48204)|`2025-01-09 12:13:37`|
 |1|[Ares&#45;Core&#43;release&#45;10&#46;00&#45;ShooterGame](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48197)|`2025-01-09 19:52:34`|
+|1|[SOT SDK 07&#46;01&#46;25](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48182)|`2025-01-09 19:58:24`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-01-09 19:54:00`|`Sea of Thieves`|
 |[Share your opinion and experience regarding the cheat market](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681340-share-opinion-experience-regarding-cheat-market.html)|`2025-01-09 19:52:00`|`Counter-Strike 2`|
 |[RU Warface external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/681338-ru-warface-external-cheat.html)|`2025-01-09 19:40:00`|`Warface`|
 |[fivem memory aimbot not working with adhesive on](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/680382-fivem-memory-aimbot-adhesive.html)|`2025-01-09 19:29:00`|`Alternative Online Mods`|
