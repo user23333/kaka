@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PhasmoTamper &#45; invisible anti&#45;tampering code patcher and DLL loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/681276-phasmotamper-invisible-anti-tampering-code-patcher-dll-loader.html)|`2025-01-09 12:28:00`|`Phasmophobia`|
 |[FACEIT Ban Evasion Bypass &#91;ASUS MB&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678633-faceit-ban-evasion-bypass-asus-mb.html)|`2025-01-09 12:02:00`|`Anti-Cheat Bypass`|
 |[Can someone share the code for automatic throwing help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/681283-share-code-automatic-throwing-help.html)|`2025-01-09 11:42:00`|`Apex Legends`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-01-09 11:35:00`|`League of Legends`|
