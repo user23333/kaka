@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-01-10 05:20:00`|`Alternative Online Mods`|
+|[Admin ESP &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/681227-admin-esp-dma.html)|`2025-01-10 05:19:00`|`Rust`|
+|[Contractors Showdown PVCR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/681413-contractors-showdown-pvcr.html)|`2025-01-10 05:18:00`|`Other FPS Games`|
+|[No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/675931-recoil.html)|`2025-01-10 05:17:00`|`Rainbow Six Siege`|
 |[IW4X unban after alterware update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/681411-iw4x-unban-alterware-update.html)|`2025-01-10 05:07:00`|`Call of Duty 6: Modern Warfare 2`|
 |[What is at the core of an effective EAC bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/681050-core-effective-eac-bypass.html)|`2025-01-10 04:54:00`|`Anti-Cheat Bypass`|
 |[CurrentWeapon and 3&#46;6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681408-currentweapon-3-6-offsets.html)|`2025-01-10 04:47:00`|`PUBG Mobile`|
