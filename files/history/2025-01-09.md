@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[hvci after getting banned top eu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/681036-hvci-getting-banned-top-eu.html)|`2025-01-09 22:10:00`|`Valorant`|
+|[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2025-01-09 22:05:00`|`THE FINALS`|
 |[Anyone can invite me please ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/666158-invite-please.html)|`2025-01-09 21:48:00`|`Deadlock`|
 |[PUBG 3&#46;6 32 BIT &#92; arm/v7a](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681209-pubg-3-6-32-bit-arm-v7a.html)|`2025-01-09 21:41:00`|`PUBG Mobile`|
 |[Dayz cheat by Flanders1337](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/681345-dayz-cheat-flanders1337.html)|`2025-01-09 21:28:00`|`DayZ SA`|
