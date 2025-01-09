@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[UFO/Alien/??? Tattoo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/483800-ufo-alien-tattoo.html)|`2025-01-10 07:39:00`|`Grand Theft Auto V`|
+|[loot limit removal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/681331-loot-limit-removal.html)|`2025-01-10 07:39:00`|`Payday 2`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-01-10 07:29:00`|`Grand Theft Auto V`|
 |[Spectators](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/680369-spectators.html)|`2025-01-10 07:27:00`|`Warface`|
 |[EAC Banned &#45; unsure what to do](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/681341-eac-banned-unsure.html)|`2025-01-10 07:27:00`|`Rust`|
