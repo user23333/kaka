@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hoyo Game dumper dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/666159-hoyo-game-dumper-dll.html)|`2025-01-09 15:01:00`|`Other Games`|
+|[Free and safe cheat client for hypixel skyblock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/672784-free-safe-cheat-client-hypixel-skyblock.html)|`2025-01-09 15:00:00`|`Minecraft`|
 |[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2025-01-09 14:49:00`|`Sea of Thieves`|
 |[Odin v4 For Windows 11 24H2/23H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/670695-odin-v4-windows-11-24h2-23h2.html)|`2025-01-09 14:45:00`|`Paladins`|
 |[Query memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/680763-query-memory.html)|`2025-01-09 14:18:00`|`Anti-Cheat Bypass`|
