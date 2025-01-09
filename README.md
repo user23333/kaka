@@ -12,6 +12,7 @@
 |7|[Valorant Account Unban Method? &#40;Compromised Account&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680331-valorant-account-unban-method-compromised-account.html)|`2025-01-09 00:13:29`|`valorant`|
 |9|[Star Wars Battlefront II &#45; Server Menu &#45;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/680218-star-wars-battlefront-ii-server-menu.html)|`2025-01-09 00:13:29`|`star-wars-battlefront-2-a`|
 |3|[Marvel Rivals Undetected/Safe Free Macro 009](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680962-marvel-rivals-undetected-safe-free-macro-009-a.html)|`2025-01-09 03:10:55`|`marvel-rivals`|
+|9|[YimMenu Lua Scripting Megathread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/680877-yimmenu-lua-scripting-megathread.html)|`2025-01-09 10:31:16`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-01-09 10:06:00`|`Marvel Rivals`|
+|[MANUAL SERIAL DISK CHANGING](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/680056-manual-serial-disk-changing.html)|`2025-01-09 10:00:00`|`Anti-Cheat Bypass`|
+|[External chams&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/670282-external-chams.html)|`2025-01-09 09:42:00`|`Call of Duty: Modern Warfare III`|
+|[EAC DMA cr3 shuffling fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677322-eac-dma-cr3-shuffling-fix.html)|`2025-01-09 09:38:00`|`Anti-Cheat Bypass`|
 |[Cheap DMA cards](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/617995-cheap-dma-cards.html)|`2025-01-09 08:34:00`|`PC Hardware`|
 |[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2025-01-09 08:32:00`|`Other FPS Games`|
 |[Arduino detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/681264-arduino-detection.html)|`2025-01-09 08:27:00`|`Valorant`|
