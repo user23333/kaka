@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Logitech G Hub](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/681312-logitech-hub.html)|`2025-01-09 16:51:00`|`Apex Legends`|
+|[whats the best way to hijack an overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/681141-whats-hijack-overlay.html)|`2025-01-09 16:49:00`|`Anti-Cheat Bypass`|
 |[DMA &#40;Cant disable Virtualization&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/681169-dma-cant-disable-virtualization.html)|`2025-01-09 16:42:00`|`PC Hardware`|
 |[Remaster: Spankerfield &#43; Hyperhook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/679728-remaster-spankerfield-hyperhook.html)|`2025-01-09 16:38:00`|`Battlefield 4`|
 |[GTFO Hax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/518895-gtfo-hax.html)|`2025-01-09 16:36:00`|`Other FPS Games`|
