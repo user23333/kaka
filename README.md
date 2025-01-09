@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ban Data Collection Thread/Unban Method Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/420476-ban-data-collection-thread-unban-method-discussion.html)|`2025-01-10 03:51:00`|`Escape from Tarkov`|
 |[PhasmoTamper &#45; invisible anti&#45;tampering code patcher and DLL loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/681276-phasmotamper-invisible-anti-tampering-code-patcher-dll-loader.html)|`2025-01-10 03:40:00`|`Phasmophobia`|
 |[How do I know what kinda ban I got, and what do I do now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/681391-kinda-ban.html)|`2025-01-10 03:40:00`|`Rainbow Six Siege`|
 |[callstack spoofer using rop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/681390-callstack-spoofer-using-rop.html)|`2025-01-10 03:37:00`|`Valorant`|
