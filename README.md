@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kernel ARP Table Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679845-kernel-arp-table-spoofing.html)|`2025-01-09 15:50:00`|`Anti-Cheat Bypass`|
+|[Accessing the x64 DLL inside of x86 process](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/680810-accessing-x64-dll-inside-x86-process.html)|`2025-01-09 15:47:00`|`General Programming and Reversing`|
 |[Latest EAC Driver IDA Database with Named/Decrypted Imports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679385-eac-driver-ida-database-named-decrypted-imports.html)|`2025-01-09 15:44:00`|`Anti-Cheat Bypass`|
 |[&#91;DMA&#93; Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677518-dma-squad.html)|`2025-01-09 15:31:00`|`Other FPS Games`|
 |[Is there a Super glide macro?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/681166-super-glide-macro.html)|`2025-01-09 15:28:00`|`Apex Legends`|
