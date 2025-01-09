@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do the current GameGuard bypasses work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680852-current-gameguard-bypasses.html)|`2025-01-09 17:43:00`|`HELLDIVERS 2`|
 |[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2025-01-09 17:34:00`|`Deadlock`|
 |[Web radar advice for a newbie](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/681239-web-radar-advice-newbie.html)|`2025-01-09 16:59:00`|`Rust`|
 |[DMA &#40;Entity Esp &#43; EXPLOITS &#43; AIMBOT&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/681314-dma-entity-esp-exploits-aimbot.html)|`2025-01-09 17:27:00`|`Rust`|
