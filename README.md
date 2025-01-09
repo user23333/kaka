@@ -11,6 +11,7 @@
 |8|[Valorant Account Unban Method? &#40;Compromised Account&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680331-valorant-account-unban-method-compromised-account.html)|`2025-01-10 00:18:22`|`valorant`|
 |12|[YimMenu Lua Scripting Megathread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/680877-yimmenu-lua-scripting-megathread.html)|`2025-01-10 00:18:22`|`grand-theft-auto-v`|
 |15|[any ud free cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680530-ud-free-cheat.html)|`2025-01-10 00:18:22`|`marvel-rivals`|
+|20|[Delta Force: Hawk Ops AI AIM model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/681142-delta-force-hawk-ops-ai-aim-model.html)|`2025-01-10 06:58:09`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[asphyxia Pattern not found bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680053-asphyxia-pattern-found-bug.html)|`2025-01-10 06:52:00`|`Counter-Strike 2`|
 |[pasted CE table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/677920-pasted-ce-table.html)|`2025-01-10 06:38:00`|`Palworld`|
 |[counter strike global offensive cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/681422-counter-strike-global-offensive-cheat.html)|`2025-01-10 06:31:00`|`Counterstrike Global Offensive`|
 |[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2025-01-10 06:14:00`|`Other FPS Games`|
