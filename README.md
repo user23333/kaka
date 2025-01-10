@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends No Recoil &#91;Logitech Only&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/680089-apex-legends-recoil-logitech.html)|`2025-01-11 02:48:00`|`Apex Legends`|
+|[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2025-01-11 02:47:00`|`Counter-Strike 2`|
 |[Nidavellir Server Browser &#124; Find Multiplayer Matches with Ease&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/680063-nidavellir-server-browser-multiplayer-matches-ease.html)|`2025-01-11 02:46:00`|`Call of Duty: Black Ops 3`|
 |[Mouse driver movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680028-mouse-driver-movement.html)|`2025-01-11 02:40:00`|`Valorant`|
 |[BSOD When reading kernel memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681446-bsod-reading-kernel-memory.html)|`2025-01-11 02:38:00`|`Counter-Strike 2`|
