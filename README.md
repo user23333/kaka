@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;As a beginner&#41; I'm currently having trouble deciding which game to work on after CS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/677382-beginner-im-currently-trouble-deciding-game-cs.html)|`2025-01-11 00:57:00`|`Programming for Beginners`|
+|[&#91;UNIVERSAL&#93;&#91;LUA&#93; Script Engine &#91;ProbablyUD&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/676743-universal-lua-script-engine-probablyud.html)|`2025-01-11 00:57:00`|`Rainbow Six Siege`|
+|[About injection on eac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/681547-injection-eac.html)|`2025-01-11 00:52:00`|`Anti-Cheat Bypass`|
 |[External: Get the position of all bones in one call of the loop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/681545-external-position-bones-call-loop.html)|`2025-01-11 00:50:00`|`CounterStrike Source`|
 |[Yet again new Recoil Tables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/680864-recoil-tables.html)|`2025-01-11 00:46:00`|`Rust`|
 |[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2025-01-11 00:37:00`|`Escape from Tarkov`|
