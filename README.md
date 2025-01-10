@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I need help with tpm please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/681450-help-tpm-please.html)|`2025-01-10 13:43:00`|`Valorant`|
 |[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-01-10 13:36:00`|`Grand Theft Auto V`|
 |[CSS &#40;STEAM&#41; Full External&#40;Kernel&#41; WH and other functions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/680279-css-steam-external-kernel-wh-functions.html)|`2025-01-10 13:33:00`|`CounterStrike Source`|
 |[Aimbot using only x,y and z position of players&#40;no bones&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/681072-aimbot-using-position-players-bones.html)|`2025-01-10 13:32:00`|`Forum General`|
