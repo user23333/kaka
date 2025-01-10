@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Do Steam Community Bans Transfer to New Accounts?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/681028-steam-community-bans-transfer-accounts.html)|`2025-01-10 15:50:00`|`Forum General`|
 |[My first internal on valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680909-internal-valorant.html)|`2025-01-10 15:34:00`|`Valorant`|
 |[How does arduino work as a replacement for kmbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/681460-arduino-replacement-kmbox.html)|`2025-01-10 15:03:00`|`Anti-Cheat Bypass`|
 |[XIGN bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/681459-xign-bypass.html)|`2025-01-10 15:00:00`|`Anti-Cheat Bypass`|
