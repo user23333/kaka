@@ -49,6 +49,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bot's detection problem &#40;3&#46;6&#41; &#40;External&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681499-bots-detection-3-6-external.html)|`2025-01-11 07:09:00`|`PUBG Mobile`|
+|[Heroic Might Damage Reduction Fix &#40;online&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/651180-heroic-damage-reduction-fix-online.html)|`2025-01-11 07:07:00`|`Star Wars Battlefront 2`|
 |[asphyxia Pattern not found bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680053-asphyxia-pattern-found-bug.html)|`2025-01-11 06:52:00`|`Counter-Strike 2`|
 |[From coding to hacking: An introduction guide to practical &#40;external&#41; game hacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/267073-coding-hacking-introduction-guide-practical-external-game-hacking.html)|`2025-01-11 06:50:00`|`Programming for Beginners`|
 |[Best Python Library to render an External?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/681511-python-library-render-external.html)|`2025-01-11 06:49:00`|`General Programming and Reversing`|
