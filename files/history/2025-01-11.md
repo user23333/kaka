@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CCHook:Reloaded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/return-to-castle-wolfenstein/492818-cchook-reloaded.html)|`2025-01-11 01:52:00`|`Return To Castle Wolfenstein`|
 |[Valorant Color aimbot release source &#43; bypass and spoofer NOW GPU ACCELERATED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/681454-valorant-color-aimbot-release-source-bypass-spoofer-gpu-accelerated.html)|`2025-01-11 01:48:00`|`Valorant`|
 |[Pixel Gun 3D internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/638262-pixel-gun-3d-internal-cheat.html)|`2025-01-11 01:37:00`|`Other FPS Games`|
 |[Aim Assist in pure C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675938-aim-assist-pure.html)|`2025-01-11 01:34:00`|`Valorant`|
