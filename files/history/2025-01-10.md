@@ -25,9 +25,13 @@
 |37|[1v1 Demon &#40;Rage update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48171)|`2025-01-10 00:18:22`|
 |69|[Kernel Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48168)|`2025-01-10 00:18:22`|
 |24|[sigmaker9xrc1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48167)|`2025-01-10 00:18:22`|
+|1|[hackerino&#95;v3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48181)|`2025-01-10 13:59:11`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2025-01-10 13:57:00`|`Counter-Strike 2`|
+|[Hackerino for steam css](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/680327-hackerino-steam-css.html)|`2025-01-10 13:57:00`|`CounterStrike Source`|
+|[&#124;Dota2&#124; source compile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/681451-dota2-source-compile.html)|`2025-01-10 13:56:00`|`Other MMORPG and Strategy`|
 |[I need help with tpm please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/681450-help-tpm-please.html)|`2025-01-10 13:43:00`|`Valorant`|
 |[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-01-10 13:36:00`|`Grand Theft Auto V`|
 |[CSS &#40;STEAM&#41; Full External&#40;Kernel&#41; WH and other functions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/680279-css-steam-external-kernel-wh-functions.html)|`2025-01-10 13:33:00`|`CounterStrike Source`|
