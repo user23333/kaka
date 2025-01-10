@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to Grind infinit HG Wins, Levels and Money](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/680032-grind-infinit-hg-wins-levels-money.html)|`2025-01-10 22:11:00`|`Sea of Thieves`|
+|[&#40;Ubisoft&#41; Steep Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/660783-ubisoft-steep-cheats.html)|`2025-01-10 21:58:00`|`Other Games`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/183111-menu-showcase-thread.html)|`2025-01-10 21:32:00`|`Counterstrike Global Offensive`|
 |[Hack by eVOL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/341723-hack-evol.html)|`2025-01-10 21:27:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[RunString &#91;Download&#93; File bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/665977-runstring-download-file-bypass.html)|`2025-01-10 21:26:00`|`Garry's Mod`|
