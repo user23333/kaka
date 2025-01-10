@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Give please crash fix for x32 bit, ver 3&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681214-please-crash-fix-x32-bit-ver-3-6-a.html)|`2025-01-10 16:23:00`|`PUBG Mobile`|
+|[How to get Playernames external in AltV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/681465-playernames-external-altv.html)|`2025-01-10 16:19:00`|`Alternative Online Mods`|
 |[DMA &#40;Cant disable Virtualization&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/681169-dma-cant-disable-virtualization.html)|`2025-01-10 16:07:00`|`PC Hardware`|
 |[Do Steam Community Bans Transfer to New Accounts?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/681028-steam-community-bans-transfer-accounts.html)|`2025-01-10 15:50:00`|`Forum General`|
 |[My first internal on valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680909-internal-valorant.html)|`2025-01-10 15:34:00`|`Valorant`|
