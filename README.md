@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-01-10 19:57:00`|`Call of Duty: Black Ops 3`|
+|[YimMenu Lua Scripting Megathread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/680877-yimmenu-lua-scripting-megathread.html)|`2025-01-10 19:56:00`|`Grand Theft Auto V`|
 |[&#91;CS2&#93; External Cheat &#40;Aimbot,Triggerbot,Esp&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/681505-cs2-external-cheat-aimbot-triggerbot-esp.html)|`2025-01-10 19:28:00`|`Counter-Strike 2 Releases`|
 |[FiveM sv&#95;pureLevel changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/640619-fivem-sv_purelevel-changer.html)|`2025-01-10 19:24:00`|`Alternative Online Mods`|
 |[FPS Killer / Player Freezer Feature](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/681502-fps-killer-player-freezer-feature.html)|`2025-01-10 18:55:00`|`Escape from Tarkov`|
