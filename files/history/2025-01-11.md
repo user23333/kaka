@@ -49,6 +49,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheap DMA Board/Card](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/680323-cheap-dma-board-card.html)|`2025-01-11 05:09:00`|`Other Hardware`|
+|[Dump BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/680407-dump-bo6.html)|`2025-01-11 05:05:00`|`Call of Duty: Black Ops 6`|
+|[I want to get multiple game and vac bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/681284-multiple-game-vac-bans.html)|`2025-01-11 05:05:00`|`Forum General`|
+|[How to bypass ban from Foxhole](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676377-bypass-ban-foxhole.html)|`2025-01-11 05:00:00`|`Other MMORPG and Strategy`|
 |[Auto movement tool / Self bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/679810-auto-movement-tool-self-bot.html)|`2025-01-11 04:50:00`|`Among Us`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2025-01-11 04:47:00`|`Other FPS Games`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-01-11 04:46:00`|`Playerunknown's Battlegrounds`|
