@@ -26,9 +26,13 @@
 |69|[Kernel Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48168)|`2025-01-10 00:18:22`|
 |24|[sigmaker9xrc1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48167)|`2025-01-10 00:18:22`|
 |1|[hackerino&#95;v3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48181)|`2025-01-10 13:59:11`|
+|1|[Mafia4321x v8&#46;0&#46;xml](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48226)|`2025-01-10 16:13:01`|
+|1|[Mafia4321x&#45;v8&#46;0&#46;xml](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48225)|`2025-01-10 16:13:01`|
+|1|[Mafia4321x&#45;v7&#46;5&#46;xml](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48224)|`2025-01-10 16:13:01`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA &#40;Cant disable Virtualization&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/681169-dma-cant-disable-virtualization.html)|`2025-01-10 16:07:00`|`PC Hardware`|
 |[Do Steam Community Bans Transfer to New Accounts?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/681028-steam-community-bans-transfer-accounts.html)|`2025-01-10 15:50:00`|`Forum General`|
 |[My first internal on valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680909-internal-valorant.html)|`2025-01-10 15:34:00`|`Valorant`|
 |[How does arduino work as a replacement for kmbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/681460-arduino-replacement-kmbox.html)|`2025-01-10 15:03:00`|`Anti-Cheat Bypass`|
