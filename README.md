@@ -37,9 +37,14 @@
 |1|[precision&#45;the&#45;division](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48211)|`2025-01-11 04:15:59`|
 |1|[aw&#45;bot v1&#46;1 &#45; made by EFK&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48208)|`2025-01-11 04:15:59`|
 |1|[PhasmoTamper&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48207)|`2025-01-11 04:15:59`|
+|1|[Marvel&#46;Rivals&#46;5&#46;3&#46;2&#46;&#46;1525091&#46;SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48237)|`2025-01-11 04:29:44`|
+|1|[PhasmoTamper&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48217)|`2025-01-11 04:29:44`|
+|1|[valkur&#95;source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48212)|`2025-01-11 04:29:44`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GetModule BSOD&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/681571-getmodule-bsod.html)|`2025-01-11 04:28:00`|`Rust`|
+|[FPS Killer / Player Freezer Feature](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/681502-fps-killer-player-freezer-feature.html)|`2025-01-11 04:20:00`|`Escape from Tarkov`|
 |[PhasmoTamper &#45; invisible anti&#45;tampering code patcher and DLL loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/681276-phasmotamper-invisible-anti-tampering-code-patcher-dll-loader.html)|`2025-01-11 04:12:00`|`Phasmophobia`|
 |[Marvel Rivals TriggerBot & AimAssist &#40;MouseBased Undetected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678761-marvel-rivals-triggerbot-aimassist-mousebased-undetected.html)|`2025-01-11 04:07:00`|`Marvel Rivals`|
 |[fivem memory aimbot not working with adhesive on](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/680382-fivem-memory-aimbot-adhesive.html)|`2025-01-11 04:05:00`|`Alternative Online Mods`|
