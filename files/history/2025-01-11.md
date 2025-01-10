@@ -33,9 +33,18 @@
 |1|[CS2 External Bhop &#40;Works in fullscreen&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48194)|`2025-01-11 03:52:21`|
 |2|[Delta Force by loli](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48193)|`2025-01-11 03:52:21`|
 |1|[cs2 internal ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48202)|`2025-01-11 03:58:20`|
+|1|[PhasmoTamper&#46;bundle&#46;gz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48213)|`2025-01-11 04:15:59`|
+|1|[precision&#45;the&#45;division](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48211)|`2025-01-11 04:15:59`|
+|1|[aw&#45;bot v1&#46;1 &#45; made by EFK&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48208)|`2025-01-11 04:15:59`|
+|1|[PhasmoTamper&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48207)|`2025-01-11 04:15:59`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PhasmoTamper &#45; invisible anti&#45;tampering code patcher and DLL loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/681276-phasmotamper-invisible-anti-tampering-code-patcher-dll-loader.html)|`2025-01-11 04:12:00`|`Phasmophobia`|
+|[Marvel Rivals TriggerBot & AimAssist &#40;MouseBased Undetected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678761-marvel-rivals-triggerbot-aimassist-mousebased-undetected.html)|`2025-01-11 04:07:00`|`Marvel Rivals`|
+|[fivem memory aimbot not working with adhesive on](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/680382-fivem-memory-aimbot-adhesive.html)|`2025-01-11 04:05:00`|`Alternative Online Mods`|
+|[pasted CE table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/677920-pasted-ce-table.html)|`2025-01-11 04:04:00`|`Palworld`|
+|[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2025-01-11 04:04:00`|`Tom Clancy's The Division`|
 |[internal ubdated to latest game patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681217-internal-ubdated-game-patch.html)|`2025-01-11 03:55:00`|`Counter-Strike 2`|
 |[NULLPOINTER &#45; KERNEL EXTERNAL FULL C&#45;BASED CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677302-nullpointer-kernel-external-based-cheat.html)|`2025-01-11 03:55:00`|`Counter-Strike 2`|
 |[Free Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/676229-free-internal-cheat.html)|`2025-01-11 03:51:00`|`Counter-Strike 2 Releases`|
