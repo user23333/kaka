@@ -49,6 +49,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty Options Editor BO6 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671448-call-duty-options-editor-bo6-update.html)|`2025-01-11 05:20:00`|`Call of Duty: Black Ops 6`|
+|[Machine&#45;learned trust scoring for player matchmaking&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681579-machine-learned-trust-scoring-player-matchmaking.html)|`2025-01-11 05:19:00`|`Counter-Strike 2`|
+|[MY DMA DEAD AFTER 4 HOURS OF PLAYING](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/679401-dma-dead-4-hours-playing.html)|`2025-01-11 05:19:00`|`Other Hardware`|
 |[Cheap DMA Board/Card](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/680323-cheap-dma-board-card.html)|`2025-01-11 05:09:00`|`Other Hardware`|
 |[Dump BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/680407-dump-bo6.html)|`2025-01-11 05:05:00`|`Call of Duty: Black Ops 6`|
 |[I want to get multiple game and vac bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/681284-multiple-game-vac-bans.html)|`2025-01-11 05:05:00`|`Forum General`|
