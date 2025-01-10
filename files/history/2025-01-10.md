@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Basic Kernel Driver Source &#91;Foundational&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677856-basic-kernel-driver-source-foundational.html)|`2025-01-10 16:41:00`|`Anti-Cheat Bypass`|
+|[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2025-01-10 16:40:00`|`Valorant`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-01-10 16:40:00`|`Marvel Rivals`|
+|[Albion Online Dungeon Checker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/670358-albion-online-dungeon-checker.html)|`2025-01-10 16:37:00`|`Other MMORPG and Strategy`|
+|[Safe Enviorment Gameloop Fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681483-safe-enviorment-gameloop-fix.html)|`2025-01-10 16:35:00`|`PUBG Mobile`|
 |[Give please crash fix for x32 bit, ver 3&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681214-please-crash-fix-x32-bit-ver-3-6-a.html)|`2025-01-10 16:23:00`|`PUBG Mobile`|
 |[How to get Playernames external in AltV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/681465-playernames-external-altv.html)|`2025-01-10 16:19:00`|`Alternative Online Mods`|
 |[DMA &#40;Cant disable Virtualization&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/681169-dma-cant-disable-virtualization.html)|`2025-01-10 16:07:00`|`PC Hardware`|
