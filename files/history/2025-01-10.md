@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[about overlay hijacking method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/681536-overlay-hijacking-method.html)|`2025-01-10 23:23:00`|`Anti-Cheat Bypass`|
 |[KmBox not connected &#40;please help&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/676599-kmbox-connected-please-help.html)|`2025-01-10 22:34:00`|`Other Hardware`|
 |[how to get permanent ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/680401-permanent-ban.html)|`2025-01-10 22:31:00`|`League of Legends`|
 |[How to Grind infinit HG Wins, Levels and Money](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/680032-grind-infinit-hg-wins-levels-money.html)|`2025-01-10 22:11:00`|`Sea of Thieves`|
