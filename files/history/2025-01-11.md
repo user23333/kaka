@@ -49,6 +49,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Best Python Library to render an External?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/681511-python-library-render-external.html)|`2025-01-11 06:49:00`|`General Programming and Reversing`|
 |[Easy Injection Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680479-easy-injection-method.html)|`2025-01-11 06:36:00`|`Marvel Rivals`|
 |[dll injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680413-dll-injector.html)|`2025-01-11 06:31:00`|`Marvel Rivals`|
 |[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2025-01-11 06:30:00`|`Elite: Dangerous`|
