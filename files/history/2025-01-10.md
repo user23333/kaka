@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/183111-menu-showcase-thread.html)|`2025-01-10 21:32:00`|`Counterstrike Global Offensive`|
+|[Hack by eVOL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/341723-hack-evol.html)|`2025-01-10 21:27:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[RunString &#91;Download&#93; File bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/665977-runstring-download-file-bypass.html)|`2025-01-10 21:26:00`|`Garry's Mod`|
+|[Any working cheats for Steam CS 1&#46;6 now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/677378-cheats-steam-cs-1-6-a.html)|`2025-01-10 21:26:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Simple Python script to get function addresses from Ghidra](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/681515-simple-python-script-function-addresses-ghidra.html)|`2025-01-10 21:22:00`|`General Programming and Reversing`|
 |[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2025-01-10 21:16:00`|`Other Games`|
 |[Best Python Library to render an External?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/681511-python-library-render-external.html)|`2025-01-10 21:05:00`|`General Programming and Reversing`|
