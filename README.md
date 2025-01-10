@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Aimbot using only x,y and z position of players&#40;no bones&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/681072-aimbot-using-position-players-bones.html)|`2025-01-10 13:32:00`|`Forum General`|
+|[Share your opinion and experience regarding the cheat market](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681340-share-opinion-experience-regarding-cheat-market.html)|`2025-01-10 13:24:00`|`Counter-Strike 2`|
+|[Ragebot acting weird on high ping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681289-ragebot-acting-weird-ping.html)|`2025-01-10 13:22:00`|`Counter-Strike 2`|
+|[Star Wars Battlefront II &#45; Server Menu &#45;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/680218-star-wars-battlefront-ii-server-menu.html)|`2025-01-10 13:18:00`|`Star Wars Battlefront 2`|
 |[Engine Prediction, Edge Jump issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681179-engine-prediction-edge-jump-issue.html)|`2025-01-10 13:16:00`|`Counter-Strike 2`|
 |[&#124; Dota 2 &#124; Nest of Throns: skills without cooldowns &#124; EXTERNAL &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/677527-dota-2-nest-throns-skills-cooldowns-external.html)|`2025-01-10 12:54:00`|`Other MMORPG and Strategy`|
 |[Making Brawlhalla Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/679816-brawlhalla-bot.html)|`2025-01-10 12:42:00`|`Other Games`|
