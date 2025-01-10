@@ -40,9 +40,21 @@
 |1|[Marvel&#46;Rivals&#46;5&#46;3&#46;2&#46;&#46;1525091&#46;SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48237)|`2025-01-11 04:29:44`|
 |1|[PhasmoTamper&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48217)|`2025-01-11 04:29:44`|
 |1|[valkur&#95;source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48212)|`2025-01-11 04:29:44`|
+|15|[sdk&#43;dll patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48238)|`2025-01-11 04:46:29`|
+|1|[1v1&#46;lol Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48223)|`2025-01-11 04:46:29`|
+|1|[Nest of Throns: skills without cooldowns r6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48221)|`2025-01-11 04:46:29`|
+|2|[CashMaster&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48220)|`2025-01-11 04:46:29`|
+|1|[Valo&#45;Aim&#45;Assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48219)|`2025-01-11 04:46:29`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-01-11 04:46:00`|`Playerunknown's Battlegrounds`|
+|[1v1&#46;lol Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/681423-1v1-lol-trainer.html)|`2025-01-11 04:45:00`|`Other FPS Games`|
+|[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2025-01-11 04:43:00`|`Palia`|
+|[esp issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/681572-esp-issue.html)|`2025-01-11 04:40:00`|`Unreal Engine 4`|
+|[lua for yimmenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681573-lua-yimmenu.html)|`2025-01-11 04:39:00`|`Grand Theft Auto V`|
+|[Cheap DMA cards](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/617995-cheap-dma-cards.html)|`2025-01-11 04:38:00`|`PC Hardware`|
+|[simple cs2 esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/673463-simple-cs2-esp.html)|`2025-01-11 04:33:00`|`Counter-Strike 2`|
 |[GetModule BSOD&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/681571-getmodule-bsod.html)|`2025-01-11 04:28:00`|`Rust`|
 |[FPS Killer / Player Freezer Feature](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/681502-fps-killer-player-freezer-feature.html)|`2025-01-11 04:20:00`|`Escape from Tarkov`|
 |[PhasmoTamper &#45; invisible anti&#45;tampering code patcher and DLL loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/681276-phasmotamper-invisible-anti-tampering-code-patcher-dll-loader.html)|`2025-01-11 04:12:00`|`Phasmophobia`|
