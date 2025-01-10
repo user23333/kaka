@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What is this cheat function called](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/676309-cheat-function-called.html)|`2025-01-11 00:33:00`|`Unreal Engine 4`|
+|[Fortnite HWID Banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/591214-fortnite-hwid-banned.html)|`2025-01-11 00:31:00`|`Other Games`|
+|[How to inject dll into the ace&#45;protected crossfire&#46;exe process at ring3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/681541-inject-dll-ace-protected-crossfire-exe-process-ring3.html)|`2025-01-11 00:30:00`|`CrossFire`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-01-11 00:27:00`|`Call of Duty: Black Ops 6`|
+|[Vase & Boxes ESP issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/681539-vase-boxes-esp-issues.html)|`2025-01-11 00:23:00`|`Deadlock`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-01-11 00:18:00`|`Alternative Online Mods`|
+|[Undetected R6 Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/678779-undetected-r6-injector.html)|`2025-01-11 00:15:00`|`Rainbow Six Siege`|
+|[Aimbot &#43;ESP &#43; Chams and etc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680110-aimbot-esp-chams-etc.html)|`2025-01-11 00:12:00`|`Marvel Rivals`|
 |[What is some way to moving mouse aside arduino that still undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/681281-moving-mouse-aside-arduino-undetected.html)|`2025-01-11 00:10:00`|`Valorant`|
 |[Grand Theft Auto V Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144819-grand-theft-auto-scripting.html)|`2025-01-11 00:06:00`|`Grand Theft Auto V`|
 |[Delay Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680389-delay-ban.html)|`2025-01-11 00:05:00`|`Valorant`|
