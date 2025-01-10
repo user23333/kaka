@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FACEIT Ban Evasion Bypass &#91;ASUS MB&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678633-faceit-ban-evasion-bypass-asus-mb.html)|`2025-01-10 14:12:00`|`Anti-Cheat Bypass`|
+|[Valorant Color aimbot release source &#43; bypass and spoofer NOW GPU ACCELERATED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/681454-valorant-color-aimbot-release-source-bypass-spoofer-gpu-accelerated.html)|`2025-01-10 14:11:00`|`Valorant`|
 |[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2025-01-10 13:57:00`|`Counter-Strike 2`|
 |[Hackerino for steam css](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/680327-hackerino-steam-css.html)|`2025-01-10 13:57:00`|`CounterStrike Source`|
 |[&#124;Dota2&#124; source compile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/681451-dota2-source-compile.html)|`2025-01-10 13:56:00`|`Other MMORPG and Strategy`|
