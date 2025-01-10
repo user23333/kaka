@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unable to get driver Handle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/680551-unable-driver-handle.html)|`2025-01-11 01:05:00`|`Programming for Beginners`|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-01-11 01:04:00`|`Apex Legends`|
+|[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2025-01-11 01:04:00`|`Other Games`|
+|[Logitech Recoil Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/680150-logitech-recoil-script.html)|`2025-01-11 01:02:00`|`Rainbow Six Siege`|
 |[&#40;As a beginner&#41; I'm currently having trouble deciding which game to work on after CS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/677382-beginner-im-currently-trouble-deciding-game-cs.html)|`2025-01-11 00:57:00`|`Programming for Beginners`|
 |[&#91;UNIVERSAL&#93;&#91;LUA&#93; Script Engine &#91;ProbablyUD&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/676743-universal-lua-script-engine-probablyud.html)|`2025-01-11 00:57:00`|`Rainbow Six Siege`|
 |[About injection on eac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/681547-injection-eac.html)|`2025-01-11 00:52:00`|`Anti-Cheat Bypass`|
