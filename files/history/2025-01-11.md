@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Interceptor the kdmapper loaded driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/680856-interceptor-kdmapper-loaded-driver.html)|`2025-01-11 03:08:00`|`Anti-Cheat Bypass`|
+|[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-01-11 03:06:00`|`Marvel Rivals`|
+|[BTD6 IL2CPP Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/680430-btd6-il2cpp-dump.html)|`2025-01-11 03:00:00`|`Unity`|
 |[Pubg Mobile And Lite Unpack Repack Bms All Versions Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/680510-pubg-mobile-lite-unpack-repack-bms-versions.html)|`2025-01-11 02:57:00`|`Half Life`|
 |[Remaster: Spankerfield &#43; Hyperhook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/679728-remaster-spankerfield-hyperhook.html)|`2025-01-11 02:56:00`|`Battlefield 4`|
 |[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-01-11 02:53:00`|`Other FPS Games`|
