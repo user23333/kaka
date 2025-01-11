@@ -51,6 +51,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fastest Python Valorant Triggerbot &#40;fr&#41;&#40;fr&#41;&#40;fr&#41; &#43; Addon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/641020-fastest-python-valorant-triggerbot-fr-fr-fr-addon.html)|`2025-01-11 12:40:00`|`Valorant`|
 |[What is at the core of an effective EAC bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/681050-core-effective-eac-bypass.html)|`2025-01-11 12:39:00`|`Anti-Cheat Bypass`|
 |[Zoom Tool &#40;Magnifier&#41; for All Games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640423-zoom-tool-magnifier-games.html)|`2025-01-11 12:17:00`|`Other FPS Games`|
 |[UNLOVED Cheat Engine Table V0&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/681642-unloved-cheat-engine-table-v0-5-a.html)|`2025-01-11 12:08:00`|`Other FPS Games`|
