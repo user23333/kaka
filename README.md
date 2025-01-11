@@ -51,6 +51,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BSOD When reading kernel memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/681651-bsod-reading-kernel-memory.html)|`2025-01-11 14:41:00`|`Anti-Cheat Bypass`|
 |[Heist Instant Finish Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681647-heist-instant-finish-scripts.html)|`2025-01-11 14:00:00`|`Grand Theft Auto V`|
 |[ultra hdr 120fps not showing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681646-ultra-hdr-120fps.html)|`2025-01-11 13:36:00`|`PUBG Mobile`|
 |[GetModule BSOD &#45; help&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/681645-getmodule-bsod-help.html)|`2025-01-11 13:28:00`|`Anti-Cheat Bypass`|
