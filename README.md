@@ -51,6 +51,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2025-01-11 10:48:00`|`THE FINALS`|
+|[Looking for &#40;Simple&#41; External ESP Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/676622-looking-simple-external-esp-source.html)|`2025-01-11 10:37:00`|`Playerunknown's Battlegrounds`|
+|[premium p2c FiveM injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/680887-premium-p2c-fivem-injector.html)|`2025-01-11 10:27:00`|`Alternative Online Mods`|
+|[ImGui Louder source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/681342-imgui-louder-source.html)|`2025-01-11 10:22:00`|`C and C++`|
+|[Knife skins doesn't update itself after few selections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680772-knife-skins-doesnt-update-selections.html)|`2025-01-11 10:20:00`|`Counter-Strike 2`|
 |[Safe Enviorment Gameloop Fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681483-safe-enviorment-gameloop-fix.html)|`2025-01-11 10:01:00`|`PUBG Mobile`|
 |[External Weapon Spawning replaces the fists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/680758-external-weapon-spawning-replaces-fists.html)|`2025-01-11 09:58:00`|`Alternative Online Mods`|
 |[Server VPN Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/681624-server-vpn-bypass.html)|`2025-01-11 09:58:00`|`Rust`|
