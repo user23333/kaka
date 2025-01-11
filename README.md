@@ -51,6 +51,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Engine Prediction, Edge Jump issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681179-engine-prediction-edge-jump-issue.html)|`2025-01-11 11:41:00`|`Counter-Strike 2`|
+|[Treason's V3 AIO Aim Assist Edit &#40;BETA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670270-treasons-v3-aio-aim-assist-edit-beta.html)|`2025-01-11 11:37:00`|`Call of Duty: Black Ops 6`|
 |[2025 Pubg Razer mouse no recoil macro release&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/681438-2025-pubg-razer-mouse-recoil-macro-release.html)|`2025-01-11 11:14:00`|`PUBG Releases`|
 |[DMA Radar v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/639021-dma-radar-v2.html)|`2025-01-11 11:13:00`|`Escape from Tarkov`|
 |[Temp spoofer driver &#40;randomize all serials&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/594353-temp-spoofer-driver-randomize-serials.html)|`2025-01-11 11:03:00`|`Valorant`|
