@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[keyauth error code 3 exit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/680635-keyauth-error-code-3-exit.html)|`2025-01-12 04:29:00`|`Forum General`|
+|[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2025-01-12 04:22:00`|`Garry's Mod`|
+|[Getting bones for each player and mine too?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/681776-getting-bones-player-mine.html)|`2025-01-12 04:16:00`|`Call of Duty: Black Ops 2`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-01-12 04:13:00`|`Call of Duty: Black Ops 6`|
+|[Aimbot using only x,y and z position of players&#40;no bones&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/681072-aimbot-using-position-players-bones.html)|`2025-01-12 04:13:00`|`Forum General`|
 |[GetModule BSOD &#45; help&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/681645-getmodule-bsod-help.html)|`2025-01-12 04:06:00`|`Anti-Cheat Bypass`|
 |[Rocket League Afk Script?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/678435-rocket-league-afk-script.html)|`2025-01-12 04:04:00`|`Off Topic`|
 |[How do i get the name of the current map?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681773-name-current-map.html)|`2025-01-12 04:01:00`|`Counter-Strike 2`|
