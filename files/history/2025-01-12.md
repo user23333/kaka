@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends No Recoil &#91;Logitech Only&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/680089-apex-legends-recoil-logitech.html)|`2025-01-12 03:48:00`|`Apex Legends`|
+|[BO6 DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670998-bo6-dma-esp.html)|`2025-01-12 03:48:00`|`Call of Duty: Black Ops 6`|
 |[Are there any free Samples, Reqs and super credit bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/681617-free-samples-reqs-super-credit-bypass.html)|`2025-01-12 03:38:00`|`HELLDIVERS 2`|
 |[Ultimate COD WW2 Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/650299-ultimate-cod-ww2-thread.html)|`2025-01-12 03:35:00`|`Other Games`|
 |[OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/681769-offsets.html)|`2025-01-12 03:35:00`|`Alternative Online Mods`|
