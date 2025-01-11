@@ -50,6 +50,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2025-01-11 08:29:00`|`Escape from Tarkov`|
+|[Steam Automated Name Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/681611-steam-automated-name-changer.html)|`2025-01-11 08:22:00`|`Forum General`|
+|[Can't Interact with Anything Inside Compound Gold Rooms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681136-cant-interact-inside-compound-gold.html)|`2025-01-11 08:08:00`|`Grand Theft Auto V`|
+|[How do i give money to others using yimenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681020-money-using-yimenu.html)|`2025-01-11 08:07:00`|`Grand Theft Auto V`|
+|[Dauntless Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/677218-dauntless-trainer.html)|`2025-01-11 08:06:00`|`Other Games`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-01-11 07:44:00`|`Rainbow Six Siege`|
 |[Free Cheat Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/677967-free-cheat-chams.html)|`2025-01-11 07:42:00`|`Rainbow Six Siege`|
 |[YimMenu&#46;dll 1&#46;70 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678007-yimmenu-dll-1-70-update.html)|`2025-01-11 07:22:00`|`Grand Theft Auto V`|
