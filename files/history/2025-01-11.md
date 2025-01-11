@@ -51,6 +51,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[are there no new hvci / tpm bypasses?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/681461-hvci-tpm-bypasses.html)|`2025-01-11 15:45:00`|`Valorant`|
+|[Whats the best internal Valorant cheats UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/681655-whats-internal-valorant-cheats-ud.html)|`2025-01-11 15:42:00`|`Valorant`|
 |[Need some Info/Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/681654-info-help.html)|`2025-01-11 15:36:00`|`Palworld`|
 |[Motherboards where removing HWID bans is easy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/681568-motherboards-removing-hwid-bans-easy.html)|`2025-01-11 15:28:00`|`Valorant`|
 |[multi&#45;threaded autowall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/678001-multi-threaded-autowall.html)|`2025-01-11 15:26:00`|`Counter-Strike 2`|
