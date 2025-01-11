@@ -52,6 +52,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MAGIC SHELL 3&#46;6 PUBG MOBILE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681402-magic-shell-3-6-pubg-mobile.html)|`2025-01-11 22:29:00`|`PUBG Mobile`|
 |[kick when lua&#95;openscript&#95;cl with bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/681649-kick-lua_openscript_cl-bypass.html)|`2025-01-11 22:21:00`|`Garry's Mod`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-01-11 22:07:00`|`League of Legends`|
 |[Show you the dll of imported to process](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/681681-dll-imported-process.html)|`2025-01-11 21:08:00`|`C and C++`|
