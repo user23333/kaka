@@ -52,6 +52,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG DMA cheat source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/667961-pubg-dma-cheat-source-code.html)|`2025-01-11 18:42:00`|`Playerunknown's Battlegrounds`|
 |[MW3 Vac Bypass ? Something like VAC Disabled for MW2 ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/681666-mw3-vac-bypass-vac-disabled-mw2.html)|`2025-01-11 18:22:00`|`Call of Duty: Modern Warfare 3`|
 |[Easiest ViewMatrix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/673942-easiest-viewmatrix.html)|`2025-01-11 18:03:00`|`CrossFire`|
 |[Drawing a Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/681663-drawing-radar.html)|`2025-01-11 18:01:00`|`Rust`|
