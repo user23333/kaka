@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-01-12 00:38:00`|`Apex Legends`|
+|[Dead island 2 External Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/595262-dead-island-2-external-menu.html)|`2025-01-12 00:38:00`|`Other FPS Games`|
+|[Mouse driver movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680028-mouse-driver-movement.html)|`2025-01-12 00:36:00`|`Valorant`|
+|[Bot's detection problem &#40;3&#46;6&#41; &#40;External&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681499-bots-detection-3-6-external.html)|`2025-01-12 00:34:00`|`PUBG Mobile`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-01-12 00:26:00`|`Marvel Rivals`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-01-12 00:22:00`|`Apex Legends`|
 |[Removing Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681704-removing-skins.html)|`2025-01-12 00:21:00`|`Counter-Strike 2`|
