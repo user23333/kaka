@@ -12,6 +12,7 @@
 |16|[YimMenu Lua Scripting Megathread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/680877-yimmenu-lua-scripting-megathread.html)|`2025-01-11 00:10:09`|`grand-theft-auto-v`|
 |16|[any ud free cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680530-ud-free-cheat.html)|`2025-01-11 00:10:09`|`marvel-rivals`|
 |12|[premium p2c FiveM injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/680887-premium-p2c-fivem-injector.html)|`2025-01-11 02:47:02`|`alternative-online-mods`|
+|7|[FPS Killer / Player Freezer Feature](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/681502-fps-killer-player-freezer-feature.html)|`2025-01-11 10:05:45`|`escape-from-tarkov`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -50,6 +51,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Safe Enviorment Gameloop Fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681483-safe-enviorment-gameloop-fix.html)|`2025-01-11 10:01:00`|`PUBG Mobile`|
+|[External Weapon Spawning replaces the fists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/680758-external-weapon-spawning-replaces-fists.html)|`2025-01-11 09:58:00`|`Alternative Online Mods`|
+|[Server VPN Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/681624-server-vpn-bypass.html)|`2025-01-11 09:58:00`|`Rust`|
+|[Rust Valorant Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/681614-rust-valorant-radar.html)|`2025-01-11 09:46:00`|`Valorant`|
 |[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2025-01-11 08:29:00`|`Escape from Tarkov`|
 |[Steam Automated Name Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/681611-steam-automated-name-changer.html)|`2025-01-11 08:22:00`|`Forum General`|
 |[Can't Interact with Anything Inside Compound Gold Rooms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681136-cant-interact-inside-compound-gold.html)|`2025-01-11 08:08:00`|`Grand Theft Auto V`|
