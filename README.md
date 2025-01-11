@@ -51,6 +51,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[2025 Pubg Razer mouse no recoil macro release&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/681438-2025-pubg-razer-mouse-recoil-macro-release.html)|`2025-01-11 11:14:00`|`PUBG Releases`|
+|[DMA Radar v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/639021-dma-radar-v2.html)|`2025-01-11 11:13:00`|`Escape from Tarkov`|
 |[Temp spoofer driver &#40;randomize all serials&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/594353-temp-spoofer-driver-randomize-serials.html)|`2025-01-11 11:03:00`|`Valorant`|
 |[How do I install VMM&#46;dll and leechcore&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/681616-install-vmm-dll-leechcore-dll.html)|`2025-01-11 10:58:00`|`Call of Duty: Black Ops 6`|
 |[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2025-01-11 10:53:00`|`Elite: Dangerous`|
