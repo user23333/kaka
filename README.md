@@ -52,6 +52,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Warp Player into vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/681682-external-warp-player-vehicle.html)|`2025-01-11 21:27:00`|`Alternative Online Mods`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-01-11 21:18:00`|`Other FPS Games`|
 |[Andromeda DeadLock &#40;Internal Base&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/681199-andromeda-deadlock-internal-base.html)|`2025-01-11 21:03:00`|`Deadlock`|
 |[Centralized Bot Lobby Starter Python Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672158-centralized-bot-lobby-starter-python-script.html)|`2025-01-11 20:59:00`|`Call of Duty: Black Ops 6`|
