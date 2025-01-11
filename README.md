@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kernel ARP Table Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679845-kernel-arp-table-spoofing.html)|`2025-01-12 05:44:00`|`Anti-Cheat Bypass`|
 |[ETS2/TruckersMP &#45; no damage and speed limit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/681605-ets2-truckersmp-damage-speed-limit.html)|`2025-01-12 05:37:00`|`Other Games`|
 |[PUBG DMA cheat source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/667961-pubg-dma-cheat-source-code.html)|`2025-01-12 05:36:00`|`Playerunknown's Battlegrounds`|
 |[1v1&#46;lol rage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/681753-1v1-lol-rage-cheat.html)|`2025-01-12 05:26:00`|`Other Games`|
