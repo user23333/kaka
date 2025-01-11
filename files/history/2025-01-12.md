@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[2025 Pubg Razer mouse no recoil macro release&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/681438-2025-pubg-razer-mouse-recoil-macro-release.html)|`2025-01-12 01:38:00`|`PUBG Releases`|
+|[Valorant Color aimbot release source &#43; bypass and spoofer NOW GPU ACCELERATED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/681454-valorant-color-aimbot-release-source-bypass-spoofer-gpu-accelerated.html)|`2025-01-12 01:37:00`|`Valorant`|
 |[YimMenu Lua Scripting Megathread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/680877-yimmenu-lua-scripting-megathread.html)|`2025-01-12 01:30:00`|`Grand Theft Auto V`|
 |[Path of Exile 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676435-path-exile-2-reversal-structs-offsets.html)|`2025-01-12 01:28:00`|`Other MMORPG and Strategy`|
 |[Question about cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/681746-question-cheating.html)|`2025-01-12 01:24:00`|`Apex Legends`|
