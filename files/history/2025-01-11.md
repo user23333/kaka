@@ -52,6 +52,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Andromeda DeadLock &#40;Internal Base&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/681199-andromeda-deadlock-internal-base.html)|`2025-01-11 21:03:00`|`Deadlock`|
+|[Centralized Bot Lobby Starter Python Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672158-centralized-bot-lobby-starter-python-script.html)|`2025-01-11 20:59:00`|`Call of Duty: Black Ops 6`|
+|[Get custom weapon names](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/678757-custom-weapon-names.html)|`2025-01-11 20:58:00`|`Alternative Online Mods`|
+|[Yim or KMM without FSL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681680-yim-kmm-fsl.html)|`2025-01-11 20:54:00`|`Grand Theft Auto V`|
+|[asking about efi drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/681678-efi-drivers.html)|`2025-01-11 20:37:00`|`Anti-Cheat Bypass`|
+|[vgk dma firmware problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/680127-vgk-dma-firmware.html)|`2025-01-11 20:30:00`|`Anti-Cheat Bypass`|
 |[YimMenu Lua Scripting Megathread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/680877-yimmenu-lua-scripting-megathread.html)|`2025-01-11 20:21:00`|`Grand Theft Auto V`|
 |[Strinova Internal &#40;Aimbot & ESP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677105-strinova-internal-aimbot-esp.html)|`2025-01-11 20:10:00`|`Other FPS Games`|
 |[AHK MultiScript &#124; Pean's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605440-ahk-multiscript-peans-rcs.html)|`2025-01-11 19:42:00`|`Counter-Strike 2 Releases`|
