@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can't find attack range in Minecraft with CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/676333-cant-attack-range-minecraft-ce.html)|`2025-01-12 06:34:00`|`Minecraft`|
+|[Controller Emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673578-controller-emulation.html)|`2025-01-12 06:31:00`|`Call of Duty: Black Ops 6`|
 |[How do i make a cs2 thirdperson hack?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681559-cs2-thirdperson-hack.html)|`2025-01-12 06:28:00`|`Counter-Strike 2`|
 |[fabric injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/664955-fabric-injection.html)|`2025-01-12 06:25:00`|`Minecraft`|
 |[Marvel Rivals AntiCheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678876-marvel-rivals-anticheat.html)|`2025-01-12 06:21:00`|`Marvel Rivals`|
