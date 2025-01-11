@@ -26,9 +26,11 @@
 |22|[Nest of Throns: skills without cooldowns r6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48221)|`2025-01-12 00:33:08`|
 |1|[stcheattable v1&#46;8 &#45; by SpionQuark](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48251)|`2025-01-12 03:08:17`|
 |1|[UNLOVED Cheat Engine Table v0&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48250)|`2025-01-12 03:08:17`|
+|1|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48252)|`2025-01-12 03:30:14`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-01-12 03:28:00`|`Other Games`|
 |[SANALIKA GAME](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/680001-sanalika-game.html)|`2025-01-12 03:12:00`|`Other MMORPG and Strategy`|
 |[internal ubdated to latest game patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681217-internal-ubdated-game-patch.html)|`2025-01-12 03:12:00`|`Counter-Strike 2`|
 |[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-01-12 03:11:00`|`Other FPS Games`|
