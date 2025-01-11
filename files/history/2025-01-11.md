@@ -51,6 +51,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ultra hdr 120fps not showing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681646-ultra-hdr-120fps.html)|`2025-01-11 13:36:00`|`PUBG Mobile`|
 |[GetModule BSOD &#45; help&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/681645-getmodule-bsod-help.html)|`2025-01-11 13:28:00`|`Anti-Cheat Bypass`|
 |[Logitech G Hub](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/681312-logitech-hub.html)|`2025-01-11 12:51:00`|`Apex Legends`|
 |[Fastest Python Valorant Triggerbot &#40;fr&#41;&#40;fr&#41;&#40;fr&#41; &#43; Addon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/641020-fastest-python-valorant-triggerbot-fr-fr-fr-addon.html)|`2025-01-11 12:40:00`|`Valorant`|
