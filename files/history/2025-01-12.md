@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-01-12 22:24:00`|`Other FPS Games`|
+|[PUBG GLOBAL 3&#46;6 UE4 OFFSETS x32](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681383-pubg-global-3-6-ue4-offsets-x32.html)|`2025-01-12 22:18:00`|`PUBG Mobile`|
+|[New Magic Shell](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681404-magic-shell.html)|`2025-01-12 22:18:00`|`PUBG Mobile`|
+|[&#91;CS2&#93; External Cheat &#40;Aimbot,Triggerbot,Esp&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/681505-cs2-external-cheat-aimbot-triggerbot-esp.html)|`2025-01-12 22:16:00`|`Counter-Strike 2 Releases`|
 |[Game Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/681906-game-ban.html)|`2025-01-12 22:07:00`|`Rust`|
 |[External Offsets 3&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681380-external-offsets-3-6-a.html)|`2025-01-12 21:56:00`|`PUBG Mobile`|
 |[Driver changing Endian](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/681902-driver-changing-endian.html)|`2025-01-12 21:53:00`|`General Programming and Reversing`|
