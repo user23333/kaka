@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[C&#43;&#43; imgui esp BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/681861-imgui-esp-bo6.html)|`2025-01-13 00:24:00`|`C and C++`|
+|[Aimbot &#43;ESP &#43; Chams and etc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680110-aimbot-esp-chams-etc.html)|`2025-01-13 00:09:00`|`Marvel Rivals`|
 |[Autoupdating NoRecoil and NoSpread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/678646-autoupdating-norecoil-nospread.html)|`2025-01-13 00:04:00`|`Rainbow Six Siege`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-01-12 23:58:00`|`Alternative Online Mods`|
 |[Desync on legacy 2018 LBY&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/681913-desync-legacy-2018-lby.html)|`2025-01-12 23:57:00`|`Counterstrike Global Offensive`|
