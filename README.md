@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Heroic Might Damage Reduction Fix &#40;online&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/651180-heroic-damage-reduction-fix-online.html)|`2025-01-13 07:01:00`|`Star Wars Battlefront 2`|
 |[Actual Cheap Lattice Transfer Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/681974-actual-cheap-lattice-transfer-method.html)|`2025-01-13 06:52:00`|`Marvel Rivals`|
 |[internal esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681823-internal-esp.html)|`2025-01-13 06:52:00`|`Counter-Strike 2`|
 |[Marvel Rivals Undetected/Safe Free Macro 009](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680962-marvel-rivals-undetected-safe-free-macro-009-a.html)|`2025-01-13 06:29:00`|`Marvel Rivals`|
