@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TOF&#45;SIH](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tower-of-fantasy/628284-tof-sih.html)|`2025-01-13 03:42:00`|`Tower of Fantasy`|
+|[How to safely play Rust after being banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/681957-safely-play-rust-banned.html)|`2025-01-13 03:40:00`|`Rust`|
 |[How to save your progress with FSL?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681917-save-progress-fsl.html)|`2025-01-13 03:41:00`|`Grand Theft Auto V`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-01-13 03:40:00`|`Valorant`|
 |[Can I remove my Xbox account from activtion if it's permanent ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/681699-remove-xbox-account-activtion-permanent-ban.html)|`2025-01-13 03:40:00`|`Call of Duty: Black Ops 6`|
