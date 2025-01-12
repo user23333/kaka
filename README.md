@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Premium Cheats similar to EloCarry?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/681880-premium-cheats-similar-elocarry.html)|`2025-01-12 18:12:00`|`Apex Legends`|
 |[why it dont work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681876-dont.html)|`2025-01-12 17:55:00`|`Grand Theft Auto V`|
 |[Grand Theft Auto V Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144819-grand-theft-auto-scripting.html)|`2025-01-12 17:54:00`|`Grand Theft Auto V`|
 |[rewasd or any other method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/681425-rewasd-method.html)|`2025-01-12 17:09:00`|`Apex Legends`|
