@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Raycast &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/678606-raycast-external.html)|`2025-01-12 20:16:00`|`Garry's Mod`|
+|[How can I obtain a signing certificate for my driver?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677986-obtain-signing-certificate-driver.html)|`2025-01-12 20:15:00`|`Anti-Cheat Bypass`|
 |[&#91;GHUB&#93; Mouse&Keyboard Lib &#91;C&#43;&#43;&#93;&#91;LogiCVE&#93;&#91;GFCK&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/680315-ghub-mouse-keyboard-lib-logicve-gfck.html)|`2025-01-12 19:39:00`|`C and C++`|
 |[My first internal on valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680909-internal-valorant.html)|`2025-01-12 19:14:00`|`Valorant`|
 |[Old CS:GO binaries](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/681884-cs-binaries.html)|`2025-01-12 19:02:00`|`Counterstrike Global Offensive`|
