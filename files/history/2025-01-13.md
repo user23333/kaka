@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to save your progress with FSL?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681917-save-progress-fsl.html)|`2025-01-13 03:41:00`|`Grand Theft Auto V`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-01-13 03:40:00`|`Valorant`|
+|[Can I remove my Xbox account from activtion if it's permanent ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/681699-remove-xbox-account-activtion-permanent-ban.html)|`2025-01-13 03:40:00`|`Call of Duty: Black Ops 6`|
+|[DMA &#40;Entity Esp &#43; Player Bones&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677658-dma-entity-esp-player-bones.html)|`2025-01-13 03:38:00`|`Rust`|
 |[External version checking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/681955-external-version-checking.html)|`2025-01-13 03:32:00`|`Alternative Online Mods`|
 |[How to inject dll into the ace&#45;protected crossfire&#46;exe process at ring3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/681541-inject-dll-ace-protected-crossfire-exe-process-ring3.html)|`2025-01-13 03:31:00`|`CrossFire`|
 |[BO6 DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670998-bo6-dma-esp.html)|`2025-01-13 03:30:00`|`Call of Duty: Black Ops 6`|
