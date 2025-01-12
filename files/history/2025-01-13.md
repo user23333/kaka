@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dev balaclava crashing desktop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/679258-dev-balaclava-crashing-desktop.html)|`2025-01-13 05:16:00`|`Escape from Tarkov`|
+|[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669274-vigor-internal-cheat.html)|`2025-01-13 05:05:00`|`Other FPS Games`|
 |[Kernel FindProcessByName&#46;h](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/681255-kernel-findprocessbyname.html)|`2025-01-13 04:39:00`|`C and C++`|
 |[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-01-13 04:26:00`|`Marvel Rivals`|
 |[BO6 Fuser ESP/AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676862-bo6-fuser-esp-aim.html)|`2025-01-13 04:21:00`|`Call of Duty: Black Ops 6`|
