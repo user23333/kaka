@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Aimbot &#43;ESP &#43; Chams and etc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680110-aimbot-esp-chams-etc.html)|`2025-01-12 11:13:00`|`Marvel Rivals`|
+|[Unturned DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/601369-unturned-dma.html)|`2025-01-12 11:12:00`|`Other FPS Games`|
+|[Valorant HVCI Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/681781-valorant-hvci-bypass.html)|`2025-01-12 11:05:00`|`Valorant`|
+|[The Texas Chainsaw Massacre External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/638980-texas-chainsaw-massacre-external-cheat.html)|`2025-01-12 11:04:00`|`Other FPS Games`|
 |[Does BattlEye ban all of the accounts linked to your PC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/680709-battleye-ban-accounts-linked-pc.html)|`2025-01-12 10:45:00`|`Escape from Tarkov`|
 |[internal esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681823-internal-esp.html)|`2025-01-12 10:45:00`|`Counter-Strike 2`|
 |[AHK KD Dropper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/681801-ahk-kd-dropper.html)|`2025-01-12 10:43:00`|`Escape from Tarkov`|
