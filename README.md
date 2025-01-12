@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My first internal on valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680909-internal-valorant.html)|`2025-01-12 19:14:00`|`Valorant`|
 |[Old CS:GO binaries](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/681884-cs-binaries.html)|`2025-01-12 19:02:00`|`Counterstrike Global Offensive`|
 |[Steps to learn Kernal Drivers&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/680494-steps-learn-kernal-drivers.html)|`2025-01-12 19:02:00`|`Anti-Cheat Bypass`|
 |[Dupe methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/681606-dupe-methods.html)|`2025-01-12 18:50:00`|`DayZ SA`|
