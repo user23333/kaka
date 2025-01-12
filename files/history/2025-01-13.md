@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-01-13 00:35:00`|`Other FPS Games`|
+|[Yim or KMM without FSL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681680-yim-kmm-fsl.html)|`2025-01-13 00:31:00`|`Grand Theft Auto V`|
+|[Faceit Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681916-faceit-cheats.html)|`2025-01-13 00:30:00`|`Counter-Strike 2`|
 |[C&#43;&#43; imgui esp BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/681861-imgui-esp-bo6.html)|`2025-01-13 00:24:00`|`C and C++`|
 |[Aimbot &#43;ESP &#43; Chams and etc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680110-aimbot-esp-chams-etc.html)|`2025-01-13 00:09:00`|`Marvel Rivals`|
 |[Autoupdating NoRecoil and NoSpread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/678646-autoupdating-norecoil-nospread.html)|`2025-01-13 00:04:00`|`Rainbow Six Siege`|
