@@ -12,6 +12,7 @@
 |15|[GTA Online modding is DEAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681359-gta-online-modding-dead.html)|`2025-01-12 00:33:08`|`grand-theft-auto-v`|
 |2|[How do I install VMM&#46;dll and leechcore&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/681616-install-vmm-dll-leechcore-dll.html)|`2025-01-12 00:33:08`|`call-of-duty-black-ops-6-a`|
 |1|[Bot Lobby VPN Trouble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/680927-bot-lobby-vpn-trouble.html)|`2025-01-12 18:29:53`|`call-of-duty-black-ops-6-a`|
+|8|[Valorant Color aimbot release source &#43; bypass and spoofer NOW GPU ACCELERATED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/681454-valorant-color-aimbot-release-source-bypass-spoofer-gpu-accelerated.html)|`2025-01-12 21:09:34`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unable to get driver Handle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/680551-unable-driver-handle.html)|`2025-01-12 20:58:00`|`Programming for Beginners`|
 |[Failed to find some patterns for GTA5 &#40;Note: Found game version 1&#46;70&#45;3411 but this Y](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681899-failed-patterns-gta5-note-found-game-version-1-70-3411-a.html)|`2025-01-12 20:49:00`|`Grand Theft Auto V`|
 |[Best Way to Use Lexis Mod Menu to Earn?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681803-lexis-mod-menu-earn.html)|`2025-01-12 20:42:00`|`Grand Theft Auto V`|
 |[Raycast &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/678606-raycast-external.html)|`2025-01-12 20:16:00`|`Garry's Mod`|
