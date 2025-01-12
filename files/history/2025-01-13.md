@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can't use C&#43;&#43; runtime in my DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/681909-cant-runtime-dll.html)|`2025-01-13 01:33:00`|`C and C++`|
+|[Smoke Grenade Alpha/Transparency](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681938-smoke-grenade-alpha-transparency.html)|`2025-01-13 01:31:00`|`Counter-Strike 2`|
 |[Delta Force: Hawk Ops AI AIM model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/681142-delta-force-hawk-ops-ai-aim-model.html)|`2025-01-13 01:23:00`|`Other FPS Games`|
 |[How to Inject?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/681924-inject.html)|`2025-01-13 01:17:00`|`Marvel Rivals`|
 |[How to get my name from game or steam directly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681923-name-game-steam-directly.html)|`2025-01-13 01:15:00`|`Counter-Strike 2`|
