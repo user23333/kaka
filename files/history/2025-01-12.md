@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Free Cheat Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/677967-free-cheat-chams.html)|`2025-01-12 09:32:00`|`Rainbow Six Siege`|
+|[Need some Info/Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/681654-info-help.html)|`2025-01-12 09:26:00`|`Palworld`|
+|[Zodiak &#45; Fastcup Full Kernel Driver Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/658126-zodiak-fastcup-kernel-driver-cheat.html)|`2025-01-12 09:08:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[esp not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680792-esp.html)|`2025-01-12 08:54:00`|`Counter-Strike 2`|
 |[Valve has been tracking and listening to all of us&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681798-valve-tracking-listening.html)|`2025-01-12 07:57:00`|`Counter-Strike 2`|
 |[Autoupdating NoRecoil and NoSpread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/678646-autoupdating-norecoil-nospread.html)|`2025-01-12 07:49:00`|`Rainbow Six Siege`|
 |[Motherboards where removing HWID bans is easy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/681568-motherboards-removing-hwid-bans-easy.html)|`2025-01-12 07:42:00`|`Valorant`|
