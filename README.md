@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Game Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/681906-game-ban.html)|`2025-01-12 22:07:00`|`Rust`|
+|[External Offsets 3&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681380-external-offsets-3-6-a.html)|`2025-01-12 21:56:00`|`PUBG Mobile`|
 |[Driver changing Endian](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/681902-driver-changing-endian.html)|`2025-01-12 21:53:00`|`General Programming and Reversing`|
 |[Chaos Menu & Lua Executor "REDM"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/593368-chaos-menu-lua-executor-redm.html)|`2025-01-12 21:19:00`|`Red Dead Redemption 2`|
 |[Don't be a LOSER, don't buy a FUSER&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/669020-dont-loser-dont-buy-fuser.html)|`2025-01-12 21:17:00`|`PC Hardware`|
