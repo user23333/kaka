@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Full Unity InputManager Functionality &#40;External Version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/663749-unity-inputmanager-functionality-external-version.html)|`2025-01-13 21:08:00`|`Escape from Tarkov`|
+|[cs2 dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/662735-cs2-dma.html)|`2025-01-13 21:07:00`|`Counter-Strike 2 Releases`|
+|[LENOVO SPOOFER &#40;UUID AND SN&#41; &#40;EFI&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679679-lenovo-spoofer-uuid-sn-efi.html)|`2025-01-13 21:07:00`|`Valorant`|
+|[The binding of isaac rep&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/675617-binding-isaac-rep.html)|`2025-01-13 21:03:00`|`Other Games`|
+|[FPS Killer / Player Freezer Feature](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/681502-fps-killer-player-freezer-feature.html)|`2025-01-13 21:00:00`|`Escape from Tarkov`|
 |[how to make finger/hand esp forr my skeleton](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682016-finger-hand-esp-forr-skeleton.html)|`2025-01-13 20:45:00`|`Counter-Strike 2`|
 |[Mod skin 3&#46;6 index](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/682014-mod-skin-3-6-index.html)|`2025-01-13 20:36:00`|`PUBG Mobile`|
 |[Bot Detection Problem solved&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/682012-bot-detection-solved.html)|`2025-01-13 20:16:00`|`PUBG Mobile`|
