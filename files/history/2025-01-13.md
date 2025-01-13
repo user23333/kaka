@@ -12,6 +12,7 @@
 |8|[Valorant Color aimbot release source &#43; bypass and spoofer NOW GPU ACCELERATED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/681454-valorant-color-aimbot-release-source-bypass-spoofer-gpu-accelerated.html)|`2025-01-13 00:08:37`|`valorant`|
 |1|[Bot Lobby VPN Trouble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/680927-bot-lobby-vpn-trouble.html)|`2025-01-13 00:08:37`|`call-of-duty-black-ops-6-a`|
 |9|[&#91;PYTHON&#93; Pop&#45;up Bypass &#91;TMP,HVCI,SB&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680921-python-pop-bypass-tmp-hvci-sb.html)|`2025-01-13 05:43:52`|`valorant`|
+|0|[Aimbot or no recoil script for controller](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/681376-aimbot-recoil-script-controller.html)|`2025-01-13 23:52:13`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FindWindowA detection in EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682038-findwindowa-detection-eac.html)|`2025-01-13 23:47:00`|`Anti-Cheat Bypass`|
 |[How to compile a source code &#40;&#46;exe, &#46;dll, for beginners&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/681883-compile-source-code-exe-dll-beginners.html)|`2025-01-13 23:43:00`|`Forum General`|
 |[Anyone recognizing this menu?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682034-recognizing-menu.html)|`2025-01-13 23:06:00`|`Valorant`|
 |[Skelet Bone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/681065-skelet-bone.html)|`2025-01-13 23:05:00`|`Rust`|
