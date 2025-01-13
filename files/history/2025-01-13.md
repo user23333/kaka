@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Am I overlooking anything? &#40;Spoofing&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/681995-am-overlooking-spoofing.html)|`2025-01-13 13:23:00`|`Valorant`|
 |[Nidavellir Server Browser &#124; Find Multiplayer Matches with Ease&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/680063-nidavellir-server-browser-multiplayer-matches-ease.html)|`2025-01-13 13:07:00`|`Call of Duty: Black Ops 3`|
 |[sending RMI&#40;RequestShootHit&#41; without using addresses](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/681437-sending-rmi-requestshoothit-using-addresses.html)|`2025-01-13 13:06:00`|`Warface`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-01-13 12:33:00`|`Counter-Strike 2 Releases`|
