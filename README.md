@@ -13,6 +13,7 @@
 |0|[Aimbot or no recoil script for controller](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/681376-aimbot-recoil-script-controller.html)|`2025-01-14 00:16:00`|`call-of-duty-black-ops-6-a`|
 |28|[&#91;CS2&#93; External Cheat &#40;Aimbot,Triggerbot,Esp&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/681505-cs2-external-cheat-aimbot-triggerbot-esp.html)|`2025-01-14 00:49:25`|`counter-strike-2-releases`|
 |6|[internal ubdated to latest game patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681217-internal-ubdated-game-patch.html)|`2025-01-14 02:11:27`|`counter-strike-2-a`|
+|3|[Rust Valorant Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/681614-rust-valorant-radar.html)|`2025-01-14 03:36:28`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Centralized Bot Lobby Starter Python Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672158-centralized-bot-lobby-starter-python-script.html)|`2025-01-14 03:25:00`|`Call of Duty: Black Ops 6`|
+|[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2025-01-14 03:21:00`|`Escape from Tarkov`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-01-14 03:23:00`|`Other FPS Games`|
 |[Yim or KMM without FSL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681680-yim-kmm-fsl.html)|`2025-01-14 03:18:00`|`Grand Theft Auto V`|
 |[If I do not have a LG mouse for macros/scripts what software can I use?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/682069-lg-mouse-macros-scripts-software.html)|`2025-01-14 02:59:00`|`Rust`|
