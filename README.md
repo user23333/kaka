@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Color aimbot release source &#43; bypass and spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679470-valorant-color-aimbot-release-source-bypass-spoofer.html)|`2025-01-14 05:37:00`|`Valorant`|
 |[DMA finally came](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/682091-dma-finally.html)|`2025-01-14 05:23:00`|`PC Hardware`|
 |[vehicle tration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/682090-vehicle-tration.html)|`2025-01-14 05:18:00`|`Alternative Online Mods`|
 |[Vanguard Spoofer Rev 2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612562-vanguard-spoofer-rev-2-a.html)|`2025-01-14 05:11:00`|`Valorant`|
