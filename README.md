@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Drawing a Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/681663-drawing-radar.html)|`2025-01-14 02:57:00`|`Rust`|
+|[Player names externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/671806-player-names-externally.html)|`2025-01-14 02:57:00`|`Alternative Online Mods`|
 |[devtools fiveguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/682067-devtools-fiveguard.html)|`2025-01-14 02:53:00`|`Alternative Online Mods`|
 |[EAC Driver with Deobfuscated Imports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/660437-eac-driver-deobfuscated-imports.html)|`2025-01-14 02:51:00`|`Anti-Cheat Bypass`|
 |[Make wallhack with Cheat Engine &#40;AC&#45;130 boxes&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/681037-wallhack-cheat-engine-ac-130-boxes.html)|`2025-01-14 02:48:00`|`Call of Duty 6: Modern Warfare 2`|
