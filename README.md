@@ -26,9 +26,13 @@
 |40|[DescentInternal 2&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48227)|`2025-01-14 00:16:00`|
 |51|[Mafia4321x v8&#46;0&#46;xml](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48226)|`2025-01-14 00:16:00`|
 |4|[Mafia4321x&#45;v8&#46;0&#46;xml](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48225)|`2025-01-14 00:16:00`|
+|1|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48275)|`2025-01-14 03:15:01`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Path of Exile 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676435-path-exile-2-reversal-structs-offsets.html)|`2025-01-14 03:08:00`|`Other MMORPG and Strategy`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-01-14 03:06:00`|`Overwatch`|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-01-14 03:05:00`|`Other Games`|
 |[Drawing a Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/681663-drawing-radar.html)|`2025-01-14 02:57:00`|`Rust`|
 |[Player names externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/671806-player-names-externally.html)|`2025-01-14 02:57:00`|`Alternative Online Mods`|
 |[devtools fiveguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/682067-devtools-fiveguard.html)|`2025-01-14 02:53:00`|`Alternative Online Mods`|
