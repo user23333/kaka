@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Would someone be so kind and share the bone IDs of the fingers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682002-share-bone-ids-fingers.html)|`2025-01-13 17:17:00`|`Counter-Strike 2`|
+|[Plutonium MW3 internal Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/492220-plutonium-mw3-internal-hack.html)|`2025-01-13 17:07:00`|`Call of Duty: Modern Warfare 3`|
+|[Rocket League &#45; ThoramiBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/593885-rocket-league-thoramibot.html)|`2025-01-13 17:06:00`|`Other Games`|
+|[Rust ollvm pass plugin &#40;LLVM 19&#46;1&#46;4&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust-language-/675261-rust-ollvm-pass-plugin-llvm-19-1-4-a.html)|`2025-01-13 17:03:00`|`Rust (Language)`|
 |[I need a simple "Marvel Rivals" hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/682000-simple-marvel-rivals-hack.html)|`2025-01-13 16:17:00`|`Marvel Rivals`|
 |[Looking for hackers' YouTube channels to learn reverse engeineering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/672726-looking-hackers-youtube-channels-learn-reverse-engeineering.html)|`2025-01-13 16:02:00`|`Forum General`|
 |[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2025-01-13 15:50:00`|`Apex Legends`|
