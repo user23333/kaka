@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MY DMA DEAD AFTER 4 HOURS OF PLAYING](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/679401-dma-dead-4-hours-playing.html)|`2025-01-14 04:56:00`|`Other Hardware`|
 |[spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682036-spoofing.html)|`2025-01-14 04:47:00`|`Valorant`|
 |[I want to get multiple game and vac bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/681284-multiple-game-vac-bans.html)|`2025-01-14 04:40:00`|`Forum General`|
 |[C&#43;&#43; c&#95;trace is always returning 0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/680638-c_trace-returning-0-a.html)|`2025-01-14 04:40:00`|`Off Topic`|
