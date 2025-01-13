@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do I install VMM&#46;dll and leechcore&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/681616-install-vmm-dll-leechcore-dll.html)|`2025-01-13 11:15:00`|`Call of Duty: Black Ops 6`|
 |[ETS2 &#40;truckersmp&#41; reversing&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/681959-ets2-truckersmp-reversing.html)|`2025-01-13 11:05:00`|`Other Games`|
 |[ahk colorbot locked?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/681942-ahk-colorbot-locked.html)|`2025-01-13 11:04:00`|`Valorant`|
 |[Xenos injector v2&#46;3&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/124013-xenos-injector-v2-3-2-a.html)|`2025-01-13 10:36:00`|`General Programming and Reversing`|
