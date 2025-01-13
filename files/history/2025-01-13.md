@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any tips on finding GObjects?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/681760-tips-finding-gobjects.html)|`2025-01-13 19:03:00`|`All Points Bulletin`|
 |[Debugging Kernel Communication: Device Object Access in Manual Mapped Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/681555-debugging-kernel-communication-device-object-access-manual-mapped-driver.html)|`2025-01-13 18:39:00`|`Programming for Beginners`|
 |[EAC DMA cr3 shuffling fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677322-eac-dma-cr3-shuffling-fix.html)|`2025-01-13 18:17:00`|`Anti-Cheat Bypass`|
 |[BetterAimAssist: Valorant aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682003-betteraimassist-valorant-aim-assist.html)|`2025-01-13 18:03:00`|`Valorant`|
