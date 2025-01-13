@@ -28,9 +28,13 @@
 |51|[Mafia4321x v8&#46;0&#46;xml](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48226)|`2025-01-14 00:16:00`|
 |4|[Mafia4321x&#45;v8&#46;0&#46;xml](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48225)|`2025-01-14 00:16:00`|
 |1|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48275)|`2025-01-14 03:15:01`|
+|1|[fop2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48241)|`2025-01-14 05:21:57`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[vehicle tration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/682090-vehicle-tration.html)|`2025-01-14 05:18:00`|`Alternative Online Mods`|
+|[Vanguard Spoofer Rev 2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612562-vanguard-spoofer-rev-2-a.html)|`2025-01-14 05:11:00`|`Valorant`|
+|[Debugging Kernel Communication: Device Object Access in Manual Mapped Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/681555-debugging-kernel-communication-device-object-access-manual-mapped-driver.html)|`2025-01-14 05:09:00`|`Programming for Beginners`|
 |[Remaster: Spankerfield &#43; Hyperhook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/679728-remaster-spankerfield-hyperhook.html)|`2025-01-14 05:04:00`|`Battlefield 4`|
 |[MY DMA DEAD AFTER 4 HOURS OF PLAYING](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/679401-dma-dead-4-hours-playing.html)|`2025-01-14 04:56:00`|`Other Hardware`|
 |[spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682036-spoofing.html)|`2025-01-14 04:47:00`|`Valorant`|
