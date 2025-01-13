@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[devtools fiveguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/682067-devtools-fiveguard.html)|`2025-01-14 02:53:00`|`Alternative Online Mods`|
+|[EAC Driver with Deobfuscated Imports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/660437-eac-driver-deobfuscated-imports.html)|`2025-01-14 02:51:00`|`Anti-Cheat Bypass`|
+|[Make wallhack with Cheat Engine &#40;AC&#45;130 boxes&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/681037-wallhack-cheat-engine-ac-130-boxes.html)|`2025-01-14 02:48:00`|`Call of Duty 6: Modern Warfare 2`|
+|[Assetto Corsa Alien &#45; &#91;Torque, Grip, Downforce and more&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/511184-assetto-corsa-alien-torque-grip-downforce.html)|`2025-01-14 02:41:00`|`Other Games`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-01-14 02:44:00`|`Alternative Online Mods`|
 |[skeleton esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/682066-skeleton-esp.html)|`2025-01-14 02:44:00`|`DayZ SA`|
 |[Valorant Keyboard Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/681752-valorant-keyboard-method.html)|`2025-01-14 02:43:00`|`Valorant`|
