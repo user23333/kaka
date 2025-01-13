@@ -12,6 +12,7 @@
 |10|[&#91;PYTHON&#93; Pop&#45;up Bypass &#91;TMP,HVCI,SB&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680921-python-pop-bypass-tmp-hvci-sb.html)|`2025-01-14 00:16:00`|`valorant`|
 |0|[Aimbot or no recoil script for controller](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/681376-aimbot-recoil-script-controller.html)|`2025-01-14 00:16:00`|`call-of-duty-black-ops-6-a`|
 |28|[&#91;CS2&#93; External Cheat &#40;Aimbot,Triggerbot,Esp&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/681505-cs2-external-cheat-aimbot-triggerbot-esp.html)|`2025-01-14 00:49:25`|`counter-strike-2-releases`|
+|6|[internal ubdated to latest game patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681217-internal-ubdated-game-patch.html)|`2025-01-14 02:11:27`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BSOD cr0 writing on AMD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/682061-bsod-cr0-writing-amd.html)|`2025-01-14 02:11:00`|`General Programming and Reversing`|
+|[Chivalry 2 Simple Lightweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/681745-chivalry-2-simple-lightweight-cheat.html)|`2025-01-14 02:08:00`|`Other Games`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-01-14 02:07:00`|`Escape from Tarkov`|
+|[Luna &#124; Free CS2 Cheat &#124; INTERNAL &#124; ESP, Aim, BHop, &#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/681945-luna-free-cs2-cheat-internal-esp-aim-bhop.html)|`2025-01-14 02:03:00`|`Counter-Strike 2 Releases`|
 |[x32dbg breakpoint crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/682045-x32dbg-breakpoint-crash.html)|`2025-01-14 01:53:00`|`PC Software`|
 |[External version checking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/681955-external-version-checking.html)|`2025-01-14 01:50:00`|`Alternative Online Mods`|
 |[Andromeda DeadLock &#40;Internal Base&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/681199-andromeda-deadlock-internal-base.html)|`2025-01-14 01:48:00`|`Deadlock`|
