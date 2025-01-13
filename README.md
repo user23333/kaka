@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Full Unity InputManager Functionality &#40;External Version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/663749-unity-inputmanager-functionality-external-version.html)|`2025-01-14 00:30:00`|`Escape from Tarkov`|
+|[Am I going insane? Migrating my shit to 24H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/682039-am-insane-migrating-shit-24h2.html)|`2025-01-14 00:16:00`|`General Programming and Reversing`|
 |[FindWindowA detection in EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682038-findwindowa-detection-eac.html)|`2025-01-14 00:15:00`|`Anti-Cheat Bypass`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-01-14 00:14:00`|`Other FPS Games`|
 |[External Offsets 3&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681380-external-offsets-3-6-a.html)|`2025-01-14 00:10:00`|`PUBG Mobile`|
