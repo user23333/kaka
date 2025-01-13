@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I need a simple "Marvel Rivals" hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/682000-simple-marvel-rivals-hack.html)|`2025-01-13 16:17:00`|`Marvel Rivals`|
 |[Looking for hackers' YouTube channels to learn reverse engeineering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/672726-looking-hackers-youtube-channels-learn-reverse-engeineering.html)|`2025-01-13 16:02:00`|`Forum General`|
 |[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2025-01-13 15:50:00`|`Apex Legends`|
 |[multi&#45;threaded autowall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/678001-multi-threaded-autowall.html)|`2025-01-13 15:36:00`|`Counter-Strike 2`|
