@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I want to get multiple game and vac bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/681284-multiple-game-vac-bans.html)|`2025-01-14 04:40:00`|`Forum General`|
+|[C&#43;&#43; c&#95;trace is always returning 0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/680638-c_trace-returning-0-a.html)|`2025-01-14 04:40:00`|`Off Topic`|
 |[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-01-14 04:17:00`|`Battlefield 4`|
 |[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2025-01-14 04:10:00`|`Other FPS Games`|
 |[sending RMI&#40;RequestShootHit&#41; without using addresses](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/681437-sending-rmi-requestshoothit-using-addresses.html)|`2025-01-14 04:08:00`|`Warface`|
