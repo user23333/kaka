@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is it possible to get 10&#43; days delay ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/682065-10-days-delay-ban.html)|`2025-01-14 02:36:00`|`Call of Duty: Black Ops 6`|
+|[My Hero Ultra Rumble Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/604426-hero-ultra-rumble-cheat-table.html)|`2025-01-14 02:34:00`|`Other Games`|
+|[HID HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682048-hid-help.html)|`2025-01-14 02:33:00`|`Valorant`|
+|[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-01-14 02:33:00`|`Marvel Rivals`|
+|[2025 Pubg Razer mouse no recoil macro release&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/681438-2025-pubg-razer-mouse-recoil-macro-release.html)|`2025-01-14 02:32:00`|`PUBG Releases`|
+|[Admin ESP &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/681227-admin-esp-dma.html)|`2025-01-14 02:22:00`|`Rust`|
 |[BSOD cr0 writing on AMD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/682061-bsod-cr0-writing-amd.html)|`2025-01-14 02:11:00`|`General Programming and Reversing`|
 |[Chivalry 2 Simple Lightweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/681745-chivalry-2-simple-lightweight-cheat.html)|`2025-01-14 02:08:00`|`Other Games`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-01-14 02:07:00`|`Escape from Tarkov`|
