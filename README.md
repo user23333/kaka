@@ -37,9 +37,14 @@
 |1|[BetterAimAssist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48272)|`2025-01-14 13:48:26`|
 |1|[UNLOVED Cheat Engine Table v0&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48257)|`2025-01-14 14:00:17`|
 |2|[Chivalrious 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48254)|`2025-01-14 14:24:51`|
+|1|[DLL&#95;Lister](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48261)|`2025-01-14 14:40:17`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Spoofers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/682142-fivem-spoofers.html)|`2025-01-14 14:39:00`|`Alternative Online Mods`|
+|[Show you the dll of imported to process](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/assembly/681860-dll-imported-process.html)|`2025-01-14 14:38:00`|`Assembly`|
+|[Triggerbot python 2ms speed SUPER FAST](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679700-triggerbot-python-2ms-speed-super-fast.html)|`2025-01-14 14:29:00`|`Valorant`|
+|[Guide to Triggerbot &#43; Download](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679622-guide-triggerbot-download.html)|`2025-01-14 14:25:00`|`Valorant`|
 |[Universal No Recoil script using python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/678809-universal-recoil-script-using-python.html)|`2025-01-14 14:14:00`|`Other FPS Games`|
 |[Helldivers 2&#45;&#45;AHK Stratagems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/625227-helldivers-2-ahk-stratagems.html)|`2025-01-14 14:13:00`|`HELLDIVERS 2`|
 |[Undetectable among us Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/637492-undetectable-cheat.html)|`2025-01-14 14:04:00`|`Among Us`|
