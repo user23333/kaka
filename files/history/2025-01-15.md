@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Recoil Scripts and Mouse Movement over Serial Bus with RP2040 &#40;MausDriver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/680251-recoil-scripts-mouse-movement-serial-bus-rp2040-mausdriver.html)|`2025-01-15 05:43:00`|`Rust`|
+|[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2025-01-15 05:42:00`|`Other Games`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-01-15 05:30:00`|`Alternative Online Mods`|
 |[Vigor internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662490-vigor-internal-cheat.html)|`2025-01-15 05:26:00`|`Other FPS Games`|
 |[FPS Killer / Player Freezer Feature](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/681502-fps-killer-player-freezer-feature.html)|`2025-01-15 05:25:00`|`Escape from Tarkov`|
