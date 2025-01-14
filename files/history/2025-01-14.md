@@ -33,6 +33,8 @@
 |1|[fop2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48241)|`2025-01-14 05:21:57`|
 |1|[STALKER2&#45;Fullbright&#45;Ammo&#45;CT&#45;v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48277)|`2025-01-14 13:42:37`|
 |1|[KingVone Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48276)|`2025-01-14 13:42:37`|
+|1|[BetterAimAssist Compiled](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48273)|`2025-01-14 13:48:26`|
+|1|[BetterAimAssist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48272)|`2025-01-14 13:48:26`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
