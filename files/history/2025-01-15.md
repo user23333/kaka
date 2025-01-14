@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-01-15 01:57:00`|`Sea of Thieves`|
+|[Valorant Color aimbot release source &#43; bypass and spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679470-valorant-color-aimbot-release-source-bypass-spoofer.html)|`2025-01-15 01:56:00`|`Valorant`|
+|[How to Inject?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/681924-inject.html)|`2025-01-15 01:56:00`|`Marvel Rivals`|
+|[External version checking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/681955-external-version-checking.html)|`2025-01-15 01:54:00`|`Alternative Online Mods`|
 |[How to compile a source code &#40;&#46;exe, &#46;dll, for beginners&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/681883-compile-source-code-exe-dll-beginners.html)|`2025-01-15 01:52:00`|`Forum General`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-01-15 01:45:00`|`Playerunknown's Battlegrounds`|
 |[VALORANT MINION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673460-valorant-minion.html)|`2025-01-15 01:37:00`|`Valorant`|
