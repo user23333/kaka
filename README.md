@@ -16,6 +16,7 @@
 |3|[Rust Valorant Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/681614-rust-valorant-radar.html)|`2025-01-14 03:36:28`|`valorant`|
 |3|[how to inject?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/681958-inject.html)|`2025-01-14 07:26:04`|`rainbow-six-siege`|
 |20|[Valorant Keyboard Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/681752-valorant-keyboard-method.html)|`2025-01-14 10:49:23`|`valorant`|
+|5|[R6 Recoil &#124; Info and Data Collection &#124; &#91;All Operator&#93;&#91;All Attachments&#93;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/681544-r6-recoil-info-data-collection-operator-attachments.html)|`2025-01-14 20:58:49`|`rainbow-six-siege`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -41,6 +42,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project Zomboid Cheat &#124; EtherHack &#124; Powered by Java &#124; 41&#46;78&#46;16 &#124; Continued](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676271-project-zomboid-cheat-etherhack-powered-java-41-78-16-continued.html)|`2025-01-14 20:55:00`|`Other MMORPG and Strategy`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-01-14 20:55:00`|`Apex Legends`|
+|[FPS Killer / Player Freezer Feature](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/681502-fps-killer-player-freezer-feature.html)|`2025-01-14 20:51:00`|`Escape from Tarkov`|
 |[Has anyone been ban in PVE?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/682190-ban-pve.html)|`2025-01-14 20:30:00`|`Escape from Tarkov`|
 |[How much time it take to ban if tpm is enabled](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682189-time-ban-tpm-enabled.html)|`2025-01-14 20:24:00`|`Valorant`|
 |[Set sensititvity in cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682185-set-sensititvity-cs2.html)|`2025-01-14 20:17:00`|`Counter-Strike 2`|
