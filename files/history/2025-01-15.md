@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-01-15 03:22:00`|`Grand Theft Auto V`|
+|[Injector &#45; Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682236-injector-help.html)|`2025-01-15 03:21:00`|`Anti-Cheat Bypass`|
 |[Microphone glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/682234-microphone-glitch.html)|`2025-01-15 03:09:00`|`PUBG Mobile`|
 |[bypass mod restriction on a minecraft modded server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/681667-bypass-mod-restriction-minecraft-modded-server.html)|`2025-01-15 03:06:00`|`Minecraft`|
 |[UNLOVED Cheat Engine Table V0&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/681642-unloved-cheat-engine-table-v0-5-a.html)|`2025-01-15 03:01:00`|`Other FPS Games`|
