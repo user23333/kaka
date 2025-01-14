@@ -41,6 +41,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust ollvm pass plugin &#40;LLVM 19&#46;1&#46;4&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust-language-/675261-rust-ollvm-pass-plugin-llvm-19-1-4-a.html)|`2025-01-14 18:26:00`|`Rust (Language)`|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-01-14 18:19:00`|`Grand Theft Auto V`|
+|[How to prevent cheese detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/682156-prevent-cheese-detection.html)|`2025-01-14 18:17:00`|`Marvel Rivals`|
 |[Dofus 3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/677073-dofus-3-0-a.html)|`2025-01-14 18:11:00`|`Unity`|
 |[someone can share left foot and right foot bone ids](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682154-share-left-foot-foot-bone-ids.html)|`2025-01-14 18:00:00`|`Counter-Strike 2`|
 |[Aim Assist in pure C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/675938-aim-assist-pure.html)|`2025-01-14 17:44:00`|`Valorant`|
