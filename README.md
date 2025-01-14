@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VMProtect Anti hooking bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/682267-vmprotect-anti-hooking-bypass.html)|`2025-01-15 04:37:00`|`General Programming and Reversing`|
+|[Lockdown Protocol Cheat Table v0&#46;1&#46;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/659299-lockdown-protocol-cheat-table-v0-1-26-a.html)|`2025-01-15 04:36:00`|`Other Games`|
 |[Eac Overley](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682265-eac-overley.html)|`2025-01-15 04:33:00`|`Anti-Cheat Bypass`|
 |[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-01-15 04:29:00`|`Marvel Rivals`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-01-15 04:26:00`|`Counter-Strike 2`|
