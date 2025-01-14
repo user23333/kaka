@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Microphone glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/682234-microphone-glitch.html)|`2025-01-15 03:09:00`|`PUBG Mobile`|
+|[bypass mod restriction on a minecraft modded server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/681667-bypass-mod-restriction-minecraft-modded-server.html)|`2025-01-15 03:06:00`|`Minecraft`|
+|[UNLOVED Cheat Engine Table V0&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/681642-unloved-cheat-engine-table-v0-5-a.html)|`2025-01-15 03:01:00`|`Other FPS Games`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-01-15 02:48:00`|`Overwatch`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-01-15 02:40:00`|`Grand Theft Auto V`|
 |[&#91;LINUX&#93; Do you know how to rollback tf2 to 32bit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/682099-linux-rollback-tf2-32bit.html)|`2025-01-15 02:29:00`|`Team Fortress 2`|
