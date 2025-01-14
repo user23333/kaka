@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino Ban Wave?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682275-arduino-ban-wave.html)|`2025-01-15 06:07:00`|`Valorant`|
+|[Camera shaking antiaim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682276-camera-shaking-antiaim.html)|`2025-01-15 06:05:00`|`Counter-Strike 2`|
+|[Plutonium Black Ops 2 &#124; Menu ESP & MORE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/466909-plutonium-black-ops-2-menu-esp.html)|`2025-01-15 06:03:00`|`Call of Duty: Black Ops 2`|
+|[Getting bones for each player and mine too?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/681776-getting-bones-player-mine.html)|`2025-01-15 06:02:00`|`Call of Duty: Black Ops 2`|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots &#40;Source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/643621-spankerfield-beautiful-esp-code-base-clean-screenshots-source.html)|`2025-01-15 05:58:00`|`Battlefield 4`|
 |[Recoil Scripts and Mouse Movement over Serial Bus with RP2040 &#40;MausDriver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/680251-recoil-scripts-mouse-movement-serial-bus-rp2040-mausdriver.html)|`2025-01-15 05:43:00`|`Rust`|
 |[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2025-01-15 05:42:00`|`Other Games`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-01-15 05:30:00`|`Alternative Online Mods`|
