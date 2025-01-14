@@ -42,6 +42,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664033-valorant-dma-source.html)|`2025-01-14 22:05:00`|`Valorant`|
+|[Dual PC ML Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682199-dual-pc-ml-aimbot.html)|`2025-01-14 22:04:00`|`Valorant`|
 |[Updated GHUB recoil script LUA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/680399-updated-ghub-recoil-script-lua.html)|`2025-01-14 21:31:00`|`Rainbow Six Siege`|
 |[ImGui WndProc Hooking Watermark](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/682126-imgui-wndproc-hooking-watermark.html)|`2025-01-14 21:10:00`|`C and C++`|
 |[Project Zomboid Cheat &#124; EtherHack &#124; Powered by Java &#124; 41&#46;78&#46;16 &#124; Continued](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676271-project-zomboid-cheat-etherhack-powered-java-41-78-16-continued.html)|`2025-01-14 20:55:00`|`Other MMORPG and Strategy`|
