@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CR3 Shuffling on Hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682046-cr3-shuffling-hypervisor.html)|`2025-01-15 19:19:00`|`Anti-Cheat Bypass`|
 |[Tour de Force](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/682318-tour-de-force.html)|`2025-01-15 19:10:00`|`Grand Theft Auto V`|
 |[valorant new method for TB?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682317-valorant-method-tb.html)|`2025-01-15 19:06:00`|`Valorant`|
 |[PUBG Every time you block for 72 hours, you temporarily block the current computer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682201-pubg-time-block-72-hours-temporarily-block-current-computer.html)|`2025-01-15 19:01:00`|`Anti-Cheat Bypass`|
