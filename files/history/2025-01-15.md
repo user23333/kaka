@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA Radar v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/639021-dma-radar-v2.html)|`2025-01-15 22:41:00`|`Escape from Tarkov`|
+|[FiveM Ban avoiding with Virtual Machine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/503164-fivem-ban-avoiding-virtual-machine.html)|`2025-01-15 22:37:00`|`Alternative Online Mods`|
+|[Finding Offsets Using IDA &#40;CS2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682224-finding-offsets-using-ida-cs2.html)|`2025-01-15 22:10:00`|`Counter-Strike 2`|
 |[EAC Banned &#45; unsure what to do](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/681341-eac-banned-unsure.html)|`2025-01-15 22:19:00`|`Rust`|
 |[visible check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/682330-visible-check.html)|`2025-01-15 21:51:00`|`Alternative Online Mods`|
 |[CS2External Aim/Esp/Misc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/673859-cs2external-aim-esp-misc.html)|`2025-01-15 21:38:00`|`Counter-Strike 2 Releases`|
