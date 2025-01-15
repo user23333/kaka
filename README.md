@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Tour de Force](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/682318-tour-de-force.html)|`2025-01-15 19:10:00`|`Grand Theft Auto V`|
+|[valorant new method for TB?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682317-valorant-method-tb.html)|`2025-01-15 19:06:00`|`Valorant`|
+|[PUBG Every time you block for 72 hours, you temporarily block the current computer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682201-pubg-time-block-72-hours-temporarily-block-current-computer.html)|`2025-01-15 19:01:00`|`Anti-Cheat Bypass`|
 |[Paladins Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/217341-paladins-reversal-structs-offsets.html)|`2025-01-15 18:59:00`|`Paladins`|
 |[Universal Macro Tools &#40;All Games&#45;All Mouse&#41; NoRecoil&#45;Rapidfire](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/369416-universal-macro-tools-games-mouse-norecoil-rapidfire.html)|`2025-01-15 18:46:00`|`Other FPS Games`|
 |[How to make better ESP using entity bounds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/679351-esp-using-entity-bounds.html)|`2025-01-15 18:46:00`|`Apex Legends`|
