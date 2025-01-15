@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Injector for Rust pirate EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/682143-injector-rust-pirate-eac.html)|`2025-01-16 00:47:00`|`Rust`|
 |[Evade HWID Ban in Deadlock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/657741-evade-hwid-ban-deadlock.html)|`2025-01-16 00:43:00`|`Deadlock`|
 |[Console&#46;Debug&#60;&#33;&#62;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/682323-console-debug.html)|`2025-01-16 00:43:00`|`Rust`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-01-16 00:23:00`|`Rust`|
