@@ -27,9 +27,13 @@
 |80|[stcheattable v1&#46;8 &#45; by SpionQuark](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48251)|`2025-01-15 00:20:06`|
 |1|[internal&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48259)|`2025-01-15 07:47:50`|
 |1|[EscapeFromTarkovAHK&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48258)|`2025-01-15 15:11:54`|
+|2|[Elden Ring &#45; Cheat Table V2&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48271)|`2025-01-15 16:31:26`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Division 1 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/516112-division-1-internal.html)|`2025-01-15 16:27:00`|`Tom Clancy's The Division`|
+|[Dual PC ML Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682199-dual-pc-ml-aimbot.html)|`2025-01-15 16:18:00`|`Valorant`|
+|[Elden ring new Cheat Table &#43; Online &#40;risky&#41; &#43; CE Undetected &#43; future updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661671-elden-ring-cheat-table-online-risky-ce-undetected-future-updates.html)|`2025-01-15 16:11:00`|`Other FPS Games`|
 |[Any Weapon and Calling Cards Unlock Tool ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/676387-weapon-calling-cards-unlock-tool.html)|`2025-01-15 16:01:00`|`Call of Duty: Black Ops Cold War`|
 |[Is it possible to get 10&#43; days delay ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/682065-10-days-delay-ban.html)|`2025-01-15 15:52:00`|`Call of Duty: Black Ops 6`|
 |[VIEWMATRIX 3&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681882-viewmatrix-3-6-a.html)|`2025-01-15 15:46:00`|`PUBG Mobile`|
