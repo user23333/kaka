@@ -24,9 +24,11 @@
 |40|[internal&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48259)|`2025-01-16 00:20:18`|
 |4|[EscapeFromTarkovAHK&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48258)|`2025-01-16 00:20:18`|
 |3|[UNLOVED Cheat Engine Table v0&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48257)|`2025-01-16 00:20:18`|
+|1|[Coin Pusher Casino CE Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48291)|`2025-01-16 01:40:15`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Coin Pusher Casino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/682302-coin-pusher-casino.html)|`2025-01-16 01:38:00`|`Cheat Engine Tables`|
 |[Backtrack issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682390-backtrack-issue.html)|`2025-01-16 01:26:00`|`Counter-Strike 2`|
 |[Luna &#124; Free CS2 Cheat &#124; INTERNAL &#124; ESP, Aim, BHop, &#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/681945-luna-free-cs2-cheat-internal-esp-aim-bhop.html)|`2025-01-16 01:16:00`|`Counter-Strike 2 Releases`|
 |[Treason's V3 AIO Aim Assist Edit &#40;BETA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670270-treasons-v3-aio-aim-assist-edit-beta.html)|`2025-01-16 01:09:00`|`Call of Duty: Black Ops 6`|
