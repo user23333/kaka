@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Less Recoil not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681869-recoil.html)|`2025-01-16 02:46:00`|`PUBG Mobile`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-01-16 02:45:00`|`Overwatch`|
 |[DMA Flash LED indicator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682403-dma-flash-led-indicator.html)|`2025-01-16 02:42:00`|`Anti-Cheat Bypass`|
 |[&#91;Warframe&#93; Player Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/678485-warframe-player-offset.html)|`2025-01-16 02:30:00`|`Other FPS Games`|
 |[Aim bot and recoil control kernel cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682400-aim-bot-recoil-control-kernel-cheat.html)|`2025-01-16 02:28:00`|`Counter-Strike 2`|
