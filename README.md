@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[If I do not have a LG mouse for macros/scripts what software can I use?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/682069-lg-mouse-macros-scripts-software.html)|`2025-01-15 19:45:00`|`Rust`|
 |[Buying Tarkov accounts with VPN?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/680230-buying-tarkov-accounts-vpn.html)|`2025-01-15 19:41:00`|`Escape from Tarkov`|
 |[Dark Hours](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/668682-dark-hours.html)|`2025-01-15 19:40:00`|`Other FPS Games`|
 |[CR3 Shuffling on Hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682046-cr3-shuffling-hypervisor.html)|`2025-01-15 19:19:00`|`Anti-Cheat Bypass`|
