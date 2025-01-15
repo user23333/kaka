@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2025-01-15 11:39:00`|`Tom Clancy's The Division`|
 |[people not being banned while cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/680963-people-banned-cheating.html)|`2025-01-15 11:29:00`|`Rainbow Six Siege`|
 |[What to read from an entity?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/682293-read-entity.html)|`2025-01-15 11:22:00`|`Rust`|
 |[RainbowSix Internal Rage Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/677592-rainbowsix-internal-rage-source.html)|`2025-01-15 11:20:00`|`Rainbow Six Siege`|
