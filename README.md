@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Universal Macro Tools &#40;All Games&#45;All Mouse&#41; NoRecoil&#45;Rapidfire](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/369416-universal-macro-tools-games-mouse-norecoil-rapidfire.html)|`2025-01-15 18:46:00`|`Other FPS Games`|
+|[How to make better ESP using entity bounds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/679351-esp-using-entity-bounds.html)|`2025-01-15 18:46:00`|`Apex Legends`|
 |[Helldivers 2&#45;&#45;AHK Stratagems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/625227-helldivers-2-ahk-stratagems.html)|`2025-01-15 18:30:00`|`HELLDIVERS 2`|
 |[Frontier Def: pSilent, ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/668652-frontier-def-psilent-esp.html)|`2025-01-15 18:24:00`|`Titanfall`|
 |[Fast Valorant Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669778-fast-valorant-triggerbot.html)|`2025-01-15 17:55:00`|`Valorant`|
