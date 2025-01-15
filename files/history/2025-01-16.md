@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SEOwnedDE Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/644283-seownedde-updated.html)|`2025-01-16 07:18:00`|`Team Fortress 2`|
+|[NULLPOINTER &#45; KERNEL EXTERNAL FULL C&#45;BASED CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/677302-nullpointer-kernel-external-based-cheat.html)|`2025-01-16 07:15:00`|`Counter-Strike 2`|
 |[Base internal sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682422-base-internal-sdk.html)|`2025-01-16 07:03:00`|`Valorant`|
 |[CPedDrawHandler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/682419-cpeddrawhandler.html)|`2025-01-16 06:26:00`|`Alternative Online Mods`|
 |[GTA Online modding is DEAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681359-gta-online-modding-dead.html)|`2025-01-16 06:26:00`|`Grand Theft Auto V`|
