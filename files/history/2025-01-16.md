@@ -26,9 +26,13 @@
 |3|[UNLOVED Cheat Engine Table v0&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48257)|`2025-01-16 00:20:18`|
 |1|[Coin Pusher Casino CE Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48291)|`2025-01-16 01:40:15`|
 |1|[Dynasty Warriors Origins Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48288)|`2025-01-16 01:46:18`|
+|1|[Stardiver Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48289)|`2025-01-16 01:52:21`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stardiver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/682299-stardiver.html)|`2025-01-16 01:50:00`|`Cheat Engine Tables`|
+|[Offset to fix safe envirement GameloopEx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/682393-offset-fix-safe-envirement-gameloopex.html)|`2025-01-16 01:49:00`|`PUBG Mobile`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-01-16 01:49:00`|`Counter-Strike 2`|
 |[Crash Pubg Mobile x32](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/682392-crash-pubg-mobile-x32.html)|`2025-01-16 01:46:00`|`PUBG Mobile`|
 |[Dynasty Warriors Origins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/682297-dynasty-warriors-origins.html)|`2025-01-16 01:45:00`|`Cheat Engine Tables`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-01-16 01:41:00`|`League of Legends`|
