@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[efi loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682210-efi-loader.html)|`2025-01-15 07:56:00`|`Anti-Cheat Bypass`|
 |[internal esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681823-internal-esp.html)|`2025-01-15 07:43:00`|`Counter-Strike 2`|
 |[ETS2 &#40;truckersmp&#41; reversing&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/681959-ets2-truckersmp-reversing.html)|`2025-01-15 07:41:00`|`Other Games`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-01-15 07:23:00`|`Grand Theft Auto V`|
