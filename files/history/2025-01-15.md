@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is it possible to still change my legacy level?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/672889-change-legacy-level.html)|`2025-01-15 23:43:00`|`Phasmophobia`|
 |[Dont know what to see in IDA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/682179-dont-ida.html)|`2025-01-15 23:46:00`|`General Programming and Reversing`|
 |[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-01-15 23:38:00`|`Other FPS Games`|
 |[Admin ESP &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/681227-admin-esp-dma.html)|`2025-01-15 23:14:00`|`Rust`|
