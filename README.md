@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kernel DA Tool &#43; Basic Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/669272-kernel-da-tool-basic-trainer.html)|`2025-01-15 14:23:00`|`Call of Duty: Black Ops Cold War`|
 |[How to store spawned vehicles inside a garage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/682191-store-spawned-vehicles-inside-garage.html)|`2025-01-15 14:03:00`|`Grand Theft Auto V`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-01-15 13:50:00`|`Other FPS Games`|
 |[Arena Breakout Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682305-arena-breakout-internal.html)|`2025-01-15 13:48:00`|`Other FPS Games`|
