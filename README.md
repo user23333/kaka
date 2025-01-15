@@ -26,9 +26,11 @@
 |40|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48252)|`2025-01-15 00:20:06`|
 |80|[stcheattable v1&#46;8 &#45; by SpionQuark](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48251)|`2025-01-15 00:20:06`|
 |1|[internal&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48259)|`2025-01-15 07:47:50`|
+|1|[EscapeFromTarkovAHK&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48258)|`2025-01-15 15:11:54`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA &#40;Entity Esp &#43; Player Bones&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677658-dma-entity-esp-player-bones.html)|`2025-01-15 15:05:00`|`Rust`|
 |[AHK KD Dropper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/681801-ahk-kd-dropper.html)|`2025-01-15 14:56:00`|`Escape from Tarkov`|
 |[Kernel DA Tool &#43; Basic Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/669272-kernel-da-tool-basic-trainer.html)|`2025-01-15 14:23:00`|`Call of Duty: Black Ops Cold War`|
 |[How to store spawned vehicles inside a garage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/682191-store-spawned-vehicles-inside-garage.html)|`2025-01-15 14:03:00`|`Grand Theft Auto V`|
