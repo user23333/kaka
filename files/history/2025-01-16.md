@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ZenHv &#45; my first attempt at an SVM hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/680495-zenhv-attempt-svm-hypervisor.html)|`2025-01-16 00:56:00`|`C and C++`|
+|[I can't inject EAC by hooking dx11's vtable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlebit-remastered/682387-cant-inject-eac-hooking-dx11s-vtable.html)|`2025-01-16 00:56:00`|`BattleBit Remastered`|
+|[Free dma fw vs paid?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/682145-free-dma-fw-vs-paid.html)|`2025-01-16 00:55:00`|`Escape from Tarkov`|
+|[Is there any working cs2 skinchanger?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682232-cs2-skinchanger.html)|`2025-01-16 00:53:00`|`Counter-Strike 2`|
 |[Injector for Rust pirate EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/682143-injector-rust-pirate-eac.html)|`2025-01-16 00:47:00`|`Rust`|
 |[Evade HWID Ban in Deadlock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/657741-evade-hwid-ban-deadlock.html)|`2025-01-16 00:43:00`|`Deadlock`|
 |[Console&#46;Debug&#60;&#33;&#62;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/682323-console-debug.html)|`2025-01-16 00:43:00`|`Rust`|
