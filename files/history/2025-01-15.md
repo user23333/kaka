@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC Banned &#45; unsure what to do](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/681341-eac-banned-unsure.html)|`2025-01-15 22:19:00`|`Rust`|
 |[visible check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/682330-visible-check.html)|`2025-01-15 21:51:00`|`Alternative Online Mods`|
 |[CS2External Aim/Esp/Misc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/673859-cs2external-aim-esp-misc.html)|`2025-01-15 21:38:00`|`Counter-Strike 2 Releases`|
 |[How to safely play Rust after being banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/681957-safely-play-rust-banned.html)|`2025-01-15 20:59:00`|`Rust`|
