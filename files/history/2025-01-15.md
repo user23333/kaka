@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Starting as a developer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/680329-starting-developer.html)|`2025-01-15 15:36:00`|`General Programming and Reversing`|
 |[YIM MENU XML SPAWNS / Working Lua's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/622764-yim-menu-xml-spawns-luas.html)|`2025-01-15 15:30:00`|`Grand Theft Auto V`|
 |[DLL / Driver Mapping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/682310-dll-driver-mapping.html)|`2025-01-15 15:27:00`|`Forum General`|
 |[DMA &#40;Entity Esp &#43; Player Bones&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677658-dma-entity-esp-player-bones.html)|`2025-01-15 15:05:00`|`Rust`|
