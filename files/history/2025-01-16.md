@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CPedDrawHandler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/682419-cpeddrawhandler.html)|`2025-01-16 06:26:00`|`Alternative Online Mods`|
+|[GTA Online modding is DEAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681359-gta-online-modding-dead.html)|`2025-01-16 06:26:00`|`Grand Theft Auto V`|
+|[Bodycam Simple Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682418-bodycam-simple-internal.html)|`2025-01-16 06:25:00`|`Other FPS Games`|
 |[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2025-01-16 06:12:00`|`Other FPS Games`|
 |[Player names externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/671806-player-names-externally.html)|`2025-01-16 06:11:00`|`Alternative Online Mods`|
 |[How to prevent cheese detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/682156-prevent-cheese-detection.html)|`2025-01-16 06:08:00`|`Marvel Rivals`|
