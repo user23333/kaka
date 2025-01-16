@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2025-01-16 10:53:00`|`Overwatch`|
+|[&#91;STEAM &#124; XBOX &#124; STEAMDECK&#93; PalworldInternal &#45; Post Nuclear](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/621709-steam-xbox-steamdeck-palworldinternal-post-nuclear.html)|`2025-01-16 10:51:00`|`Palworld`|
+|[palworld internal update with &#42;spawnpal&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/623520-palworld-internal-update-spawnpal.html)|`2025-01-16 10:51:00`|`Palworld`|
+|[pasted CE table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/677920-pasted-ce-table.html)|`2025-01-16 10:50:00`|`Palworld`|
+|[Odin V3/4 &#40;Paladins & Realm Royale&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/576012-odin-v3-4-paladins-realm-royale.html)|`2025-01-16 10:49:00`|`Paladins`|
+|[How to equip any item on this game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/591436-equip-item-game.html)|`2025-01-16 10:49:00`|`Paladins`|
 |[RealmRoyale Internal Hack Source &#43; bin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/621617-realmroyale-internal-hack-source-bin.html)|`2025-01-16 10:48:00`|`Paladins`|
 |[Odin v4 For Windows 11 24H2/23H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/670695-odin-v4-windows-11-24h2-23h2.html)|`2025-01-16 10:47:00`|`Paladins`|
 |[ODIN V4 FOR STEAM ONLY&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/645623-odin-v4-steam.html)|`2025-01-16 10:47:00`|`Paladins`|
