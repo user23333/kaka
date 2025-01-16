@@ -24,9 +24,14 @@
 |240|[BetterAimAssist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48272)|`2025-01-17 00:11:35`|
 |11|[Elden Ring &#45; Cheat Table V2&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48271)|`2025-01-17 00:11:35`|
 |215|[simple internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48266)|`2025-01-17 00:11:35`|
+|3|[Vigor cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48279)|`2025-01-17 01:34:34`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-01-17 01:31:00`|`Other Games`|
+|[Osussist v3 MultiHack for osu&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/671577-osussist-v3-multihack-osu.html)|`2025-01-17 01:31:00`|`Other Games`|
+|[Vigor internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662490-vigor-internal-cheat.html)|`2025-01-17 01:28:00`|`Other FPS Games`|
+|[External Raycasting &#40;PhysX recreation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673196-external-raycasting-physx-recreation.html)|`2025-01-17 01:28:00`|`Escape from Tarkov`|
 |[C&#43;&#43; c&#95;trace is always returning 0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/680638-c_trace-returning-0-a.html)|`2025-01-17 01:22:00`|`Off Topic`|
 |[PUBG Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/682495-pubg-macro.html)|`2025-01-17 01:19:00`|`Playerunknown's Battlegrounds`|
 |[Hey Guys,How to quick trigger BattlEye ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682482-hey-guys-quick-trigger-battleye-ban.html)|`2025-01-17 01:19:00`|`Anti-Cheat Bypass`|
