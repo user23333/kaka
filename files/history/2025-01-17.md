@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[YimMenu&#46;dll 1&#46;70 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678007-yimmenu-dll-1-70-update.html)|`2025-01-17 06:06:00`|`Grand Theft Auto V`|
+|[Ni no Kuni: CrossWorlds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/500789-ni-kuni-crossworlds.html)|`2025-01-17 05:58:00`|`Other MMORPG and Strategy`|
+|[Valorant HWID Ban Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682573-valorant-hwid-ban-issue.html)|`2025-01-17 05:53:00`|`Valorant`|
 |[I'm looking for a jitter for the controller](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/682487-im-looking-jitter-controller.html)|`2025-01-17 05:55:00`|`Apex Legends`|
 |[Finding Offsets Using IDA &#40;CS2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682224-finding-offsets-using-ida-cs2.html)|`2025-01-17 05:54:00`|`Counter-Strike 2`|
 |[straftat esp/aim/recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/673959-straftat-esp-aim-recoil.html)|`2025-01-17 05:45:00`|`Other FPS Games`|
