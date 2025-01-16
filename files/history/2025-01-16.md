@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to make better ESP using entity bounds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/679351-esp-using-entity-bounds.html)|`2025-01-16 15:07:00`|`Apex Legends`|
 |[efi loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682210-efi-loader.html)|`2025-01-16 14:36:00`|`Anti-Cheat Bypass`|
 |[I'm gonna be that piece of shit i guess&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/668738-im-gonna-piece-shit-guess.html)|`2025-01-16 14:16:00`|`DayZ SA`|
 |[Creating Particles/Beams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682044-creating-particles-beams.html)|`2025-01-16 14:06:00`|`Counter-Strike 2`|
