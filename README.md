@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Signed Spoofer By Microsoft&#40;EAC & BE&#41;  Early Christmas Present](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677190-signed-spoofer-microsoft-eac-christmas.html)|`2025-01-17 04:55:00`|`Anti-Cheat Bypass`|
 |[Third Person Spectator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682558-third-person-spectator.html)|`2025-01-17 05:01:00`|`Counter-Strike 2`|
 |[World Prop ESP for GRust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/676346-world-prop-esp-grust.html)|`2025-01-17 05:00:00`|`Garry's Mod`|
 |[Best route to inject a DLL into EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/680518-route-inject-dll-eac.html)|`2025-01-17 04:57:00`|`Anti-Cheat Bypass`|
