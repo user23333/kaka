@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat Master &#124; Fully Featured Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/677171-combat-master-featured-internal.html)|`2025-01-16 17:40:00`|`Combat Master`|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-01-16 17:39:00`|`Phasmophobia`|
+|[Magic Bullet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/682480-magic-bullet.html)|`2025-01-16 17:37:00`|`Deadlock`|
 |[FPS Killer / Player Freezer Feature](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/681502-fps-killer-player-freezer-feature.html)|`2025-01-16 17:20:00`|`Escape from Tarkov`|
 |[Shield Visible Check for external&#40;DMA also&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/682477-shield-visible-check-external-dma.html)|`2025-01-16 17:16:00`|`Apex Legends`|
 |[How to inject dll into the ace&#45;protected crossfire&#46;exe process at ring3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/681541-inject-dll-ace-protected-crossfire-exe-process-ring3.html)|`2025-01-16 17:06:00`|`CrossFire`|
