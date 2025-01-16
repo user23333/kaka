@@ -26,9 +26,19 @@
 |11|[Elden Ring &#45; Cheat Table V2&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48271)|`2025-01-17 00:11:35`|
 |215|[simple internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48266)|`2025-01-17 00:11:35`|
 |3|[Vigor cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48279)|`2025-01-17 01:34:34`|
+|3|[cs2 aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48284)|`2025-01-17 04:27:00`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-01-17 04:25:00`|`Escape from Tarkov`|
+|[Desync on legacy 2018 LBY&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/681913-desync-legacy-2018-lby.html)|`2025-01-17 04:25:00`|`Counterstrike Global Offensive`|
+|[Luna &#124; Free CS2 Cheat &#124; INTERNAL &#124; ESP, Aim, BHop, &#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/681945-luna-free-cs2-cheat-internal-esp-aim-bhop.html)|`2025-01-17 04:24:00`|`Counter-Strike 2 Releases`|
+|[my program doesn't read the pointer correctly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/682529-program-doesnt-read-pointer-correctly.html)|`2025-01-17 04:19:00`|`Programming for Beginners`|
+|[SOURCE &#124; External Aimbot w/ Dynamic Hitbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/682229-source-external-aimbot-dynamic-hitbox.html)|`2025-01-17 04:18:00`|`Counter-Strike 2 Releases`|
+|[Warzone cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/682530-warzone-cheats.html)|`2025-01-17 04:18:00`|`Call of Duty: Black Ops 6`|
+|[loot limit removal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/681331-loot-limit-removal.html)|`2025-01-17 04:15:00`|`Payday 2`|
+|[New to hacking&#46; Need a HWID Spoofer reccomendations&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/681356-hacking-hwid-spoofer-reccomendations.html)|`2025-01-17 04:13:00`|`Escape from Tarkov`|
+|[FPS Killer / Player Freezer Feature](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/681502-fps-killer-player-freezer-feature.html)|`2025-01-17 04:11:00`|`Escape from Tarkov`|
 |[Will using aimbot with DMA cheat increase the risk of ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/678434-using-aimbot-dma-cheat-increase-risk-ban.html)|`2025-01-17 04:06:00`|`Valorant`|
 |[TPM AND SB BYPASS &#43; SPOOFER &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/623808-tpm-sb-bypass-spoofer.html)|`2025-01-17 04:03:00`|`Valorant`|
 |[Valorant DTC cheats to use cuz bored](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/678213-valorant-dtc-cheats-cuz-bored.html)|`2025-01-17 04:02:00`|`Valorant`|
