@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What is this calling convention and how to hook it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/682383-calling-convention-hook.html)|`2025-01-16 12:31:00`|`General Programming and Reversing`|
 |[I can't inject EAC by hooking dx11's vtable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682438-cant-inject-eac-hooking-dx11s-vtable.html)|`2025-01-16 11:57:00`|`Anti-Cheat Bypass`|
 |[any tutorial how to removing grass, fog, water?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/682437-tutorial-removing-grass-fog-water.html)|`2025-01-16 11:43:00`|`Unity`|
 |[Player info &#40;names&#41; externally in gmod x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/682436-player-info-names-externally-gmod-x64.html)|`2025-01-16 11:18:00`|`Garry's Mod`|
