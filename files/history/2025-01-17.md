@@ -27,9 +27,13 @@
 |215|[simple internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48266)|`2025-01-17 00:11:35`|
 |3|[Vigor cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48279)|`2025-01-17 01:34:34`|
 |3|[cs2 aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48284)|`2025-01-17 04:27:00`|
+|1|[asthmaphobia features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48286)|`2025-01-17 04:54:09`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-01-17 04:52:00`|`Phasmophobia`|
+|[countering anti&#45;SWH execution measures on EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682562-countering-anti-swh-execution-measures-eac.html)|`2025-01-17 04:50:00`|`Anti-Cheat Bypass`|
+|[Isonzo Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675510-isonzo-internal-cheat.html)|`2025-01-17 04:50:00`|`Other FPS Games`|
 |[How easy is it to get on the same server with a mate ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/682561-easy-server-mate.html)|`2025-01-17 04:45:00`|`Sea of Thieves`|
 |[EAC DMA cr3 shuffling fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677322-eac-dma-cr3-shuffling-fix.html)|`2025-01-17 04:40:00`|`Anti-Cheat Bypass`|
 |[Looking for &#40;Simple&#41; External ESP Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/676622-looking-simple-external-esp-source.html)|`2025-01-17 04:34:00`|`Playerunknown's Battlegrounds`|
