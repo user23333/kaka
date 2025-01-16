@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unlink from shadow ban accounts xD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/682096-unlink-shadow-ban-accounts-xd.html)|`2025-01-16 22:52:00`|`Call of Duty: Black Ops 6`|
+|[Creating ESP for DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/682500-creating-esp-dma.html)|`2025-01-16 22:51:00`|`Forum General`|
 |[BO6 Enhanced Color Aim AHK GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671390-bo6-enhanced-color-aim-ahk-gui.html)|`2025-01-16 22:37:00`|`Call of Duty: Black Ops 6`|
 |[&#91;LINUX&#93; Do you know how to rollback tf2 to 32bit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/682099-linux-rollback-tf2-32bit.html)|`2025-01-16 22:34:00`|`Team Fortress 2`|
 |[Am I overlooking anything? &#40;Spoofing&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/681995-am-overlooking-spoofing.html)|`2025-01-16 22:15:00`|`Valorant`|
