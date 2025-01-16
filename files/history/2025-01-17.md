@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I'm looking for a jitter for the controller](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/682487-im-looking-jitter-controller.html)|`2025-01-17 05:55:00`|`Apex Legends`|
+|[Finding Offsets Using IDA &#40;CS2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682224-finding-offsets-using-ida-cs2.html)|`2025-01-17 05:54:00`|`Counter-Strike 2`|
 |[straftat esp/aim/recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/673959-straftat-esp-aim-recoil.html)|`2025-01-17 05:45:00`|`Other FPS Games`|
 |[Rainbow Six Siege Auto Updating No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/682571-rainbow-six-siege-auto-updating-recoil.html)|`2025-01-17 05:41:00`|`Rainbow Six Siege`|
 |[Signed Spoofer By Microsoft&#40;EAC & BE&#41;  Early Christmas Present](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677190-signed-spoofer-microsoft-eac-christmas.html)|`2025-01-17 04:55:00`|`Anti-Cheat Bypass`|
