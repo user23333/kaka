@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Am I overlooking anything? &#40;Spoofing&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/681995-am-overlooking-spoofing.html)|`2025-01-16 22:15:00`|`Valorant`|
+|[DMA cheat ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/682159-dma-cheat-esp.html)|`2025-01-16 22:09:00`|`Programming for Beginners`|
 |[CR3 Shuffling on Hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682046-cr3-shuffling-hypervisor.html)|`2025-01-16 21:59:00`|`Anti-Cheat Bypass`|
 |[UnrealEngine FFrame ExecFunc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682499-unrealengine-fframe-execfunc.html)|`2025-01-16 21:49:00`|`Other FPS Games`|
 |[Internal cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/611723-internal-cheese.html)|`2025-01-16 21:33:00`|`Payday 3`|
