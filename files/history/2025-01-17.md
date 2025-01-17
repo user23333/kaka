@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AOB Pattern Scanning in Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/682603-aob-pattern-scanning-python.html)|`2025-01-17 12:10:00`|`General Programming and Reversing`|
 |[How to change float value](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/682135-change-float-value.html)|`2025-01-17 11:29:00`|`Unity`|
 |[Hook float in il2cpp unity game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/682470-hook-float-il2cpp-unity-game.html)|`2025-01-17 11:27:00`|`General Programming and Reversing`|
 |[2025 Pubg Razer mouse no recoil macro release&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/681438-2025-pubg-razer-mouse-recoil-macro-release.html)|`2025-01-17 11:18:00`|`PUBG Releases`|
