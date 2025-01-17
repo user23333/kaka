@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino c&#43;&#43; colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682731-arduino-colorbot.html)|`2025-01-18 06:23:00`|`Valorant`|
+|[CS2 Free External Multi Cheat &#35; AIMBOT / RCS / ESP / MISC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/666738-cs2-free-external-multi-cheat-aimbot-rcs-esp-misc.html)|`2025-01-18 06:08:00`|`Counter-Strike 2 Releases`|
 |[Mike Tyson exposed&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/682728-mike-tyson-exposed.html)|`2025-01-18 05:55:00`|`Off Topic`|
 |[PvZCheatV&#46; Plants vs Zombies&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/681165-pvzcheatv-plants-vs-zombies.html)|`2025-01-18 05:55:00`|`Other Games`|
 |[Anti&#45;Cheats and the Use of Anti&#45;Debuggers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/682727-anti-cheats-anti-debuggers.html)|`2025-01-18 05:52:00`|`C and C++`|
