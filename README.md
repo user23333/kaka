@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA DNA ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/682630-dma-dna-id.html)|`2025-01-17 17:21:00`|`PC Hardware`|
+|[apex legends no recoil and superglide LGHUB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/679230-apex-legends-recoil-superglide-lghub.html)|`2025-01-17 17:07:00`|`Apex Legends`|
 |[Current Situations About Cheats / Spoofers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679382-current-situations-cheats-spoofers.html)|`2025-01-17 16:53:00`|`Valorant`|
 |[Stardiver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/682299-stardiver.html)|`2025-01-17 16:46:00`|`Cheat Engine Tables`|
 |[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2025-01-17 16:45:00`|`Elite: Dangerous`|
