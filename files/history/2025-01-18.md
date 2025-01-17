@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Wanting a Fresh FiveM start&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/682677-fresh-fivem-start.html)|`2025-01-18 03:20:00`|`Alternative Online Mods`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-01-18 03:20:00`|`Alternative Online Mods`|
+|[Sea of Thieves Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/649766-sea-thieves-spoofer.html)|`2025-01-18 03:15:00`|`Sea of Thieves`|
+|[&#91;GHUB&#93; Mouse&Keyboard Lib &#91;C&#43;&#43;&#93;&#91;LogiCVE&#93;&#91;GFCK&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/680315-ghub-mouse-keyboard-lib-logicve-gfck.html)|`2025-01-18 03:13:00`|`C and C++`|
 |[rust offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/682681-rust-offsets.html)|`2025-01-18 02:56:00`|`Rust`|
 |[Fallout 76 Guardian Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682629-fallout-76-guardian-mod.html)|`2025-01-18 02:41:00`|`Other FPS Games`|
 |[SendInput vs keybd&#95;event](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/682662-sendinput-vs-keybd_event.html)|`2025-01-18 02:33:00`|`Apex Legends`|
