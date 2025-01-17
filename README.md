@@ -28,6 +28,7 @@
 |3|[Vigor cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48279)|`2025-01-17 01:34:34`|
 |3|[cs2 aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48284)|`2025-01-17 04:27:00`|
 |1|[asthmaphobia features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48286)|`2025-01-17 04:54:09`|
+|1|[Minecraft&#46;Windows&#46;1&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48312)|`2025-01-17 15:39:12`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
