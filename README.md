@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 external esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/600259-cs2-external-esp.html)|`2025-01-17 20:59:00`|`Counter-Strike 2 Releases`|
+|[Enigma protector 7&#46;0 HWID & anti&#45;debugger Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/682671-enigma-protector-7-0-hwid-anti-debugger-bypass.html)|`2025-01-17 20:58:00`|`Programming for Beginners`|
+|[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2025-01-17 20:55:00`|`Grand Theft Auto V`|
 |[Less Recoil not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681869-recoil.html)|`2025-01-17 20:34:00`|`PUBG Mobile`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-01-17 20:01:00`|`Valorant`|
 |[offset to fix ban x32 gl](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/682667-offset-fix-ban-x32-gl.html)|`2025-01-17 19:56:00`|`PUBG Mobile`|
