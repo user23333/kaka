@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gold Dropper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/567212-gold-dropper.html)|`2025-01-17 22:44:00`|`Red Dead Redemption 2`|
 |[Stalcraft DMA cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/642801-stalcraft-dma-cheat.html)|`2025-01-17 22:26:00`|`Other FPS Games`|
 |[BGMI 3&#46;6 32&#45;bit SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/682475-bgmi-3-6-32-bit-sdk.html)|`2025-01-17 21:55:00`|`PUBG Mobile`|
 |[clean weapon names](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/682675-clean-weapon-names.html)|`2025-01-17 21:53:00`|`Call of Duty: Black Ops 6`|
