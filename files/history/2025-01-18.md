@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mike Tyson exposed&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/682728-mike-tyson-exposed.html)|`2025-01-18 05:55:00`|`Off Topic`|
+|[PvZCheatV&#46; Plants vs Zombies&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/681165-pvzcheatv-plants-vs-zombies.html)|`2025-01-18 05:55:00`|`Other Games`|
 |[Anti&#45;Cheats and the Use of Anti&#45;Debuggers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/682727-anti-cheats-anti-debuggers.html)|`2025-01-18 05:52:00`|`C and C++`|
 |[Plutonium Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/682287-plutonium-internal.html)|`2025-01-18 05:46:00`|`Call of Duty: Modern Warfare 3`|
 |[Fusion/SigScan ida 9 sp1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/682221-fusion-sigscan-ida-9-sp1.html)|`2025-01-18 05:42:00`|`General Programming and Reversing`|
