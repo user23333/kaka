@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is it possible to get 10&#43; days delay ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/682065-10-days-delay-ban.html)|`2025-01-18 07:28:00`|`Call of Duty: Black Ops 6`|
 |[Offset to fix safe envirement GameloopEx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/682393-offset-fix-safe-envirement-gameloopex.html)|`2025-01-18 07:24:00`|`PUBG Mobile`|
 |[Where to find Scripts for TitanTwo or Zen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/682738-scripts-titantwo-zen.html)|`2025-01-18 07:19:00`|`Call of Duty: Black Ops 6`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-01-18 07:03:00`|`Other FPS Games`|
