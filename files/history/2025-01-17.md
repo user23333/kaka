@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GamerFun AI Menu: All mouse Aimbot, Triggerbot & Recoil Control Using LGUB Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671029-gamerfun-ai-menu-mouse-aimbot-triggerbot-recoil-control-using-lgub-drivers.html)|`2025-01-17 10:53:00`|`Rainbow Six Siege`|
 |[Sons of the Forest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/572665-sons-forest.html)|`2025-01-17 09:55:00`|`Unity`|
 |[&#91;CS2&#93; External Cheat &#40;Aimbot,Triggerbot,Esp&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/681505-cs2-external-cheat-aimbot-triggerbot-esp.html)|`2025-01-17 09:25:00`|`Counter-Strike 2 Releases`|
 |[DMG detector script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/682527-dmg-detector-script.html)|`2025-01-17 09:15:00`|`Garry's Mod`|
