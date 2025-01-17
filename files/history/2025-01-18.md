@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-01-18 01:44:00`|`HELLDIVERS 2`|
+|[Looking for List of GrantedAccess and ObAttributes Flags in Windows Internals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682678-looking-list-grantedaccess-obattributes-flags-windows-internals.html)|`2025-01-18 01:43:00`|`Anti-Cheat Bypass`|
+|[ツ Silent Night](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/604599-silent-night.html)|`2025-01-18 01:39:00`|`Grand Theft Auto V`|
+|[Lua Menu &#40;Heavily scripted by ChatGPT&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/682688-lua-menu-heavily-scripted-chatgpt.html)|`2025-01-18 01:39:00`|`Garry's Mod`|
+|[Fast Valorant Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669778-fast-valorant-triggerbot.html)|`2025-01-18 01:38:00`|`Valorant`|
 |[&#91;CS2&#93; External Cheat &#40;Aimbot,Triggerbot,Esp&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/681505-cs2-external-cheat-aimbot-triggerbot-esp.html)|`2025-01-18 01:27:00`|`Counter-Strike 2 Releases`|
 |[PUBGm Skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/626228-pubgm-skin-changer.html)|`2025-01-18 01:20:00`|`PUBG Mobile`|
 |[R6 Recoil &#124; Info and Data Collection &#124; &#91;All Operator&#93;&#91;All Attachments&#93;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/681544-r6-recoil-info-data-collection-operator-attachments.html)|`2025-01-18 01:19:00`|`Rainbow Six Siege`|
