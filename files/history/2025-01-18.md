@@ -27,9 +27,12 @@
 |133|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48275)|`2025-01-18 00:15:13`|
 |1|[Fusion/SigScan ida 9 sp1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48283)|`2025-01-18 05:43:04`|
 |1|[TiggyHook Plutonium IW5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48287)|`2025-01-18 05:49:08`|
+|2|[johanna&#46;deadlock&#46;external&#46;1&#46;14&#46;25](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48281)|`2025-01-18 06:40:30`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Secure boot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682733-secure-boot.html)|`2025-01-18 06:37:00`|`Valorant`|
+|[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2025-01-18 06:35:00`|`Deadlock`|
 |[Arduino c&#43;&#43; colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682731-arduino-colorbot.html)|`2025-01-18 06:23:00`|`Valorant`|
 |[CS2 Free External Multi Cheat &#35; AIMBOT / RCS / ESP / MISC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/666738-cs2-free-external-multi-cheat-aimbot-rcs-esp-misc.html)|`2025-01-18 06:08:00`|`Counter-Strike 2 Releases`|
 |[Mike Tyson exposed&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/682728-mike-tyson-exposed.html)|`2025-01-18 05:55:00`|`Off Topic`|
