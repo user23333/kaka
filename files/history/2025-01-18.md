@@ -11,6 +11,7 @@
 |17|[99% auto updatable Simple Internal Cheat &#40;no need decryption&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/682116-99-auto-updatable-simple-internal-cheat-decryption.html)|`2025-01-18 00:15:13`|`rust`|
 |9|[Yim or KMM without FSL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681680-yim-kmm-fsl.html)|`2025-01-18 00:15:13`|`grand-theft-auto-v`|
 |4|[I need a simple "Marvel Rivals" hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/682000-simple-marvel-rivals-hack.html)|`2025-01-18 00:15:13`|`marvel-rivals`|
+|13|[How to prevent cheese detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/682156-prevent-cheese-detection.html)|`2025-01-18 00:36:19`|`marvel-rivals`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-01-18 00:33:00`|`Other FPS Games`|
+|[Fastest Python Valorant Triggerbot &#40;fr&#41;&#40;fr&#41;&#40;fr&#41; &#43; Addon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/641020-fastest-python-valorant-triggerbot-fr-fr-fr-addon.html)|`2025-01-18 00:19:00`|`Valorant`|
+|[Hey Guys,How to quick trigger BattlEye ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682482-hey-guys-quick-trigger-battleye-ban.html)|`2025-01-18 00:19:00`|`Anti-Cheat Bypass`|
 |[Shield Visible Check for external&#40;DMA also&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/682477-shield-visible-check-external-dma.html)|`2025-01-18 00:11:00`|`Apex Legends`|
 |[EAC MouseClass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682407-eac-mouseclass.html)|`2025-01-18 00:08:00`|`Anti-Cheat Bypass`|
 |[Current Situations About Cheats / Spoofers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679382-current-situations-cheats-spoofers.html)|`2025-01-18 00:05:00`|`Valorant`|
