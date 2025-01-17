@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Less Recoil not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681869-recoil.html)|`2025-01-17 20:34:00`|`PUBG Mobile`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-01-17 20:01:00`|`Valorant`|
 |[offset to fix ban x32 gl](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/682667-offset-fix-ban-x32-gl.html)|`2025-01-17 19:56:00`|`PUBG Mobile`|
 |[Exploring Advanced Aimbot Possibilities Beyond Color&#45;Based Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682666-exploring-advanced-aimbot-possibilities-beyond-color-based-methods.html)|`2025-01-17 19:50:00`|`Valorant`|
