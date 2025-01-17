@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;CS2&#93; External Cheat &#40;Aimbot,Triggerbot,Esp&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/681505-cs2-external-cheat-aimbot-triggerbot-esp.html)|`2025-01-18 01:27:00`|`Counter-Strike 2 Releases`|
+|[PUBGm Skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/626228-pubgm-skin-changer.html)|`2025-01-18 01:20:00`|`PUBG Mobile`|
+|[R6 Recoil &#124; Info and Data Collection &#124; &#91;All Operator&#93;&#91;All Attachments&#93;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/681544-r6-recoil-info-data-collection-operator-attachments.html)|`2025-01-18 01:19:00`|`Rainbow Six Siege`|
+|[Any UP method for BF3 XP ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-3-a/682686-method-bf3-xp.html)|`2025-01-18 01:16:00`|`Battlefield 3`|
 |[Help About b3258 , new FiveM Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/682426-help-b3258-fivem-update.html)|`2025-01-18 01:07:00`|`Alternative Online Mods`|
 |[Bot Lobby VPN Trouble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/680927-bot-lobby-vpn-trouble.html)|`2025-01-18 01:05:00`|`Call of Duty: Black Ops 6`|
 |[Aim bot and recoil control kernel cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682400-aim-bot-recoil-control-kernel-cheat.html)|`2025-01-18 01:04:00`|`Counter-Strike 2`|
