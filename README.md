@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[rust offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/682681-rust-offsets.html)|`2025-01-18 02:56:00`|`Rust`|
 |[Fallout 76 Guardian Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682629-fallout-76-guardian-mod.html)|`2025-01-18 02:41:00`|`Other FPS Games`|
 |[SendInput vs keybd&#95;event](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/682662-sendinput-vs-keybd_event.html)|`2025-01-18 02:33:00`|`Apex Legends`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-01-18 02:33:00`|`Apex Legends`|
