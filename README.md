@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My beginner tarkov DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/629124-beginner-tarkov-dma.html)|`2025-01-18 04:13:00`|`Escape from Tarkov`|
+|[Can DMA be done on laptop?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/682292-dma-laptop.html)|`2025-01-18 04:01:00`|`PC Hardware`|
+|[Bloodstrike Cheat / Source?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682536-bloodstrike-cheat-source.html)|`2025-01-18 04:00:00`|`Other FPS Games`|
 |[February 2025 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/682707-february-2025-motm-nominations.html)|`2025-01-18 03:34:00`|`Member of the Month`|
 |[I want to get into rust cheat development](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/682476-rust-cheat-development.html)|`2025-01-18 03:32:00`|`Rust`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-01-18 03:28:00`|`Other MMORPG and Strategy`|
