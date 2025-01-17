@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Aimbot Issue with Merged Enemy Color Contours – Need Help&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682579-aimbot-issue-merged-enemy-color-contours-help.html)|`2025-01-18 00:51:00`|`Valorant`|
+|[Exploring Advanced Aimbot Possibilities Beyond Color&#45;Based Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682666-exploring-advanced-aimbot-possibilities-beyond-color-based-methods.html)|`2025-01-18 00:48:00`|`Valorant`|
+|[External version checking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/681955-external-version-checking.html)|`2025-01-18 00:47:00`|`Alternative Online Mods`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-01-18 00:42:00`|`Rust`|
 |[Issue Connecting VXE R1 SE Mouse to Arduino Leonardo R3 USB Host Shield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682664-issue-connecting-vxe-r1-se-mouse-arduino-leonardo-r3-usb-host-shield.html)|`2025-01-18 00:39:00`|`Valorant`|
 |[External Raycasting &#40;PhysX recreation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673196-external-raycasting-physx-recreation.html)|`2025-01-18 00:36:00`|`Escape from Tarkov`|
