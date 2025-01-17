@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VAN: RESTRICTION: 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682610-van-restriction-2-a.html)|`2025-01-17 13:48:00`|`Valorant`|
 |[ActorArray issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/682588-actorarray-issue.html)|`2025-01-17 12:34:00`|`Unreal Engine 4`|
 |[UE5  Packet Function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/682409-ue5-packet-function.html)|`2025-01-17 12:28:00`|`Other MMORPG and Strategy`|
 |[Fake Liar's Bar &#45; internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/668834-fake-liars-bar-internal.html)|`2025-01-17 12:28:00`|`Other Games`|
