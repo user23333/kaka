@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[99% auto updatable Simple Internal Cheat &#40;no need decryption&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/682116-99-auto-updatable-simple-internal-cheat-decryption.html)|`2025-01-19 03:10:00`|`Rust`|
+|[EAC DRIVER CR3 BSOD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682742-eac-driver-cr3-bsod.html)|`2025-01-19 03:00:00`|`Anti-Cheat Bypass`|
 |[EFT SPT 3&#46;10&#46;4 Cheat &#40;Update to lIllIIllII's cheat&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/682753-eft-spt-3-10-4-cheat-update-lilliilliis-cheat.html)|`2025-01-19 02:56:00`|`Escape from Tarkov`|
 |[medal&#45;overlay&#45;hook &#45; Hijack Medal&#46;tv's in&#45;game overlay for rendering onto the screen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/679823-medal-overlay-hook-hijack-medal-tvs-game-overlay-rendering-onto-screen.html)|`2025-01-19 02:32:00`|`C and C++`|
 |[Combat Master &#124; Fully Featured Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/677171-combat-master-featured-internal.html)|`2025-01-19 02:31:00`|`Combat Master`|
