@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-01-18 15:17:00`|`Counter-Strike 2`|
 |[Longest thread on Pfister Comet in Grand Theft Auto 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681426-thread-pfister-comet-grand-theft-auto-5-a.html)|`2025-01-18 13:17:00`|`Grand Theft Auto V`|
 |[BGMI 3&#46;6 32&#45;bit SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/682475-bgmi-3-6-32-bit-sdk.html)|`2025-01-18 12:58:00`|`PUBG Mobile`|
 |[EFT & Arena Simple radar &#91;DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/682758-eft-arena-simple-radar-dma.html)|`2025-01-18 12:42:00`|`Escape from Tarkov`|
