@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2025-01-19 06:52:00`|`Counter-Strike 2`|
 |[External mouse&#95;event aimbot issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682877-external-mouse_event-aimbot-issue.html)|`2025-01-19 06:45:00`|`Counter-Strike 2`|
 |[Third Person Spectator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682558-third-person-spectator.html)|`2025-01-19 06:45:00`|`Counter-Strike 2`|
 |[20&#45;Hour Cooldowns – Aimbots Are Being Detected&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682413-20-hour-cooldowns-aimbots-detected.html)|`2025-01-19 06:19:00`|`Counter-Strike 2`|
