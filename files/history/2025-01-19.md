@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Toram Online &#45; STEAM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/484409-toram-online-steam.html)|`2025-01-19 01:01:00`|`Other MMORPG and Strategy`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-01-19 01:00:00`|`Other FPS Games`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-01-19 01:00:00`|`Counter-Strike 2`|
+|[Chivalry 2 Simple Lightweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/681745-chivalry-2-simple-lightweight-cheat.html)|`2025-01-19 00:58:00`|`Other Games`|
 |[Where to start for creating my own cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/682744-start-creating-own-cheat.html)|`2025-01-19 00:53:00`|`Team Fortress 2`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-01-19 00:46:00`|`Alternative Online Mods`|
 |[Help About b3258 , new FiveM Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/682426-help-b3258-fivem-update.html)|`2025-01-19 00:45:00`|`Alternative Online Mods`|
