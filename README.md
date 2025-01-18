@@ -31,9 +31,15 @@
 |1|[Fusion/SigScan ida 9 sp1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48283)|`2025-01-18 05:43:04`|
 |1|[TiggyHook Plutonium IW5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48287)|`2025-01-18 05:49:08`|
 |2|[johanna&#46;deadlock&#46;external&#46;1&#46;14&#46;25](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48281)|`2025-01-18 06:40:30`|
+|2|[Osussist v3 src Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48282)|`2025-01-18 22:18:50`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Captain 4K Fuser 120Hz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/682851-captain-4k-fuser-120hz.html)|`2025-01-18 22:06:00`|`PC Hardware`|
+|[Unlocking Marketplace on Bedrock PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/636119-unlocking-marketplace-bedrock-pc.html)|`2025-01-18 22:06:00`|`Minecraft`|
+|[How to Fix TPM Ban easily &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/626786-fix-tpm-ban-easily.html)|`2025-01-18 22:02:00`|`Valorant`|
+|[20&#45;Hour Cooldowns – Aimbots Are Being Detected&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682413-20-hour-cooldowns-aimbots-detected.html)|`2025-01-18 21:58:00`|`Counter-Strike 2`|
+|[Raycast &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/678606-raycast-external.html)|`2025-01-18 21:58:00`|`Garry's Mod`|
 |[how "much" malware is there in paid cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/682777-malware-paid-cheats.html)|`2025-01-18 21:15:00`|`Off Topic`|
 |[Unlock MPM on HP Insyde Bioses &#40;Laptop&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/627328-unlock-mpm-hp-insyde-bioses-laptop.html)|`2025-01-18 21:33:00`|`Valorant`|
 |[What music are you listening right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/music-and-videos/86098-music-listening.html)|`2025-01-18 21:28:00`|`Music and Videos`|
