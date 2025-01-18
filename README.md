@@ -12,6 +12,8 @@
 |9|[Yim or KMM without FSL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681680-yim-kmm-fsl.html)|`2025-01-18 00:15:13`|`grand-theft-auto-v`|
 |4|[I need a simple "Marvel Rivals" hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/682000-simple-marvel-rivals-hack.html)|`2025-01-18 00:15:13`|`marvel-rivals`|
 |13|[How to prevent cheese detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/682156-prevent-cheese-detection.html)|`2025-01-18 00:36:19`|`marvel-rivals`|
+|14|[20&#45;Hour Cooldowns – Aimbots Are Being Detected&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682413-20-hour-cooldowns-aimbots-detected.html)|`2025-01-18 10:09:23`|`counter-strike-2-a`|
+|9|[internal esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681823-internal-esp.html)|`2025-01-18 10:09:23`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Strinova Internal &#40;Aimbot & ESP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677105-strinova-internal-aimbot-esp.html)|`2025-01-18 10:01:00`|`Other FPS Games`|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-01-18 10:00:00`|`Grand Theft Auto V`|
+|[Signed Spoofer By Microsoft&#40;EAC & BE&#41;  Early Christmas Present](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677190-signed-spoofer-microsoft-eac-christmas.html)|`2025-01-18 09:36:00`|`Anti-Cheat Bypass`|
+|[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-01-18 09:12:00`|`Marvel Rivals`|
+|[EAC DRIVER CR3 BSOD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682742-eac-driver-cr3-bsod.html)|`2025-01-18 09:11:00`|`Anti-Cheat Bypass`|
 |[BetterAimAssist: Valorant aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682003-betteraimassist-valorant-aim-assist.html)|`2025-01-18 08:46:00`|`Valorant`|
 |[Project Zomboid Cheat &#45; Valkur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/645408-project-zomboid-cheat-valkur.html)|`2025-01-18 08:44:00`|`Other MMORPG and Strategy`|
 |[need a arduino hid colorbot source for val](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682741-arduino-hid-colorbot-source-val.html)|`2025-01-18 08:42:00`|`Valorant`|
