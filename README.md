@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Outfit Editor   and  BBOB&#40;browser extension that generates Outfits Code for Bincohax&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/624819-outfit-editor-bbob-browser-extension-generates-outfits-code-bincohax.html)|`2025-01-18 11:27:00`|`Grand Theft Auto V`|
+|[Updated Roblox Hyperion Bypass &#91;Payload Fixed&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682751-updated-roblox-hyperion-bypass-payload-fixed.html)|`2025-01-18 11:19:00`|`Anti-Cheat Bypass`|
 |[Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682411-injector.html)|`2025-01-18 11:11:00`|`Valorant`|
 |[How to avoid the Echo AC Scanner?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/682750-avoid-echo-ac-scanner.html)|`2025-01-18 11:07:00`|`Alternative Online Mods`|
 |[Other ways then LDR&#95;DATA&#95;TABLE&#95;ENTRY to enumerate module list in kernel driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/682749-ldr_data_table_entry-enumerate-module-list-kernel-driver.html)|`2025-01-18 11:00:00`|`C and C++`|
