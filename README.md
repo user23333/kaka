@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-01-18 15:30:00`|`Battlefield 4`|
+|[clean weapon names](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/682675-clean-weapon-names.html)|`2025-01-18 15:29:00`|`Call of Duty: Black Ops 6`|
 |[ZenHv &#45; my first attempt at an SVM hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/680495-zenhv-attempt-svm-hypervisor.html)|`2025-01-18 15:24:00`|`C and C++`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-01-18 15:17:00`|`Counter-Strike 2`|
 |[Longest thread on Pfister Comet in Grand Theft Auto 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681426-thread-pfister-comet-grand-theft-auto-5-a.html)|`2025-01-18 13:17:00`|`Grand Theft Auto V`|
