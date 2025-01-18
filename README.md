@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino FirmWare UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676366-arduino-firmware-ud.html)|`2025-01-18 22:22:00`|`Valorant`|
+|[Online Session With Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/682852-online-session-mod-menu.html)|`2025-01-18 22:11:00`|`Grand Theft Auto V`|
 |[Captain 4K Fuser 120Hz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/682851-captain-4k-fuser-120hz.html)|`2025-01-18 22:06:00`|`PC Hardware`|
 |[Unlocking Marketplace on Bedrock PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/636119-unlocking-marketplace-bedrock-pc.html)|`2025-01-18 22:06:00`|`Minecraft`|
 |[How to Fix TPM Ban easily &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/626786-fix-tpm-ban-easily.html)|`2025-01-18 22:02:00`|`Valorant`|
