@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682411-injector.html)|`2025-01-18 11:11:00`|`Valorant`|
+|[How to avoid the Echo AC Scanner?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/682750-avoid-echo-ac-scanner.html)|`2025-01-18 11:07:00`|`Alternative Online Mods`|
+|[Other ways then LDR&#95;DATA&#95;TABLE&#95;ENTRY to enumerate module list in kernel driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/682749-ldr_data_table_entry-enumerate-module-list-kernel-driver.html)|`2025-01-18 11:00:00`|`C and C++`|
 |[Contractors Exfilzone VR &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682747-contractors-exfilzone-vr-steam.html)|`2025-01-18 10:12:00`|`Other FPS Games`|
 |[Strinova Internal &#40;Aimbot & ESP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677105-strinova-internal-aimbot-esp.html)|`2025-01-18 10:01:00`|`Other FPS Games`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-01-18 10:00:00`|`Grand Theft Auto V`|
