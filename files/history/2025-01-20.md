@@ -11,6 +11,7 @@
 |13|[Has anyone been ban in PVE?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/682190-ban-pve.html)|`2025-01-20 00:17:48`|`escape-from-tarkov`|
 |6|[SOURCE &#124; External Aimbot w/ Dynamic Hitbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/682229-source-external-aimbot-dynamic-hitbox.html)|`2025-01-20 00:17:48`|`counter-strike-2-releases`|
 |8|[CR3 Shuffling on Hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682046-cr3-shuffling-hypervisor.html)|`2025-01-20 00:17:48`|`anti-cheat-bypass`|
+|9|[EAC MouseClass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682407-eac-mouseclass.html)|`2025-01-20 02:54:42`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GamerFun AI Menu: All mouse Aimbot, Triggerbot & Recoil Control Using LGUB Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671029-gamerfun-ai-menu-mouse-aimbot-triggerbot-recoil-control-using-lgub-drivers.html)|`2025-01-20 02:47:00`|`Rainbow Six Siege`|
+|[devtools fiveguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/682067-devtools-fiveguard.html)|`2025-01-20 02:46:00`|`Alternative Online Mods`|
+|[My beginner tarkov DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/629124-beginner-tarkov-dma.html)|`2025-01-20 02:41:00`|`Escape from Tarkov`|
+|[I need a simple "Marvel Rivals" hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/682000-simple-marvel-rivals-hack.html)|`2025-01-20 02:39:00`|`Marvel Rivals`|
+|[Noob questions regarding gameguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683031-noob-questions-regarding-gameguard.html)|`2025-01-20 02:35:00`|`Anti-Cheat Bypass`|
+|[Block server commands DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/683082-block-server-commands-dma.html)|`2025-01-20 02:33:00`|`Rust`|
+|[&#91;PCSX2&#93; SOCOM U&#46;S NAVY SEALs &#45; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/676890-pcsx2-socom-navy-seals-esp.html)|`2025-01-20 02:33:00`|`Other Games`|
+|[Cheat Engine &#43; Driver Questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683004-cheat-engine-driver-questions.html)|`2025-01-20 02:25:00`|`Anti-Cheat Bypass`|
+|[👽 VALORANT Skin Changer &#40;Just Inject it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/517551-valorant-skin-changer-inject.html)|`2025-01-20 02:22:00`|`Valorant`|
 |[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/682483-demonologist-internal.html)|`2025-01-20 01:45:00`|`Other Games`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-01-20 01:35:00`|`Call of Duty: Black Ops 6`|
 |[99% auto updatable Simple Internal Cheat &#40;no need decryption&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/682116-99-auto-updatable-simple-internal-cheat-decryption.html)|`2025-01-20 01:30:00`|`Rust`|
