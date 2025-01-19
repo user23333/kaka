@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-01-19 23:35:00`|`Grand Theft Auto V`|
 |[Noob questions regarding gameguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683031-noob-questions-regarding-gameguard.html)|`2025-01-19 23:12:00`|`Anti-Cheat Bypass`|
 |[ipad view, small cross new](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/683030-ipad-view-cross.html)|`2025-01-19 23:10:00`|`PUBG Mobile`|
 |[Hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/669295-hello.html)|`2025-01-19 22:56:00`|`Off Topic`|
