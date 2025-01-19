@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Player info &#40;names&#41; externally in gmod x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/682436-player-info-names-externally-gmod-x64.html)|`2025-01-19 17:27:00`|`Garry's Mod`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-01-19 17:22:00`|`Sea of Thieves`|
 |[Redmatch 2 cheat internal many features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675091-redmatch-2-cheat-internal-features.html)|`2025-01-19 17:10:00`|`Other FPS Games`|
 |[Exploring Advanced Aimbot Possibilities Beyond Color&#45;Based Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682666-exploring-advanced-aimbot-possibilities-beyond-color-based-methods.html)|`2025-01-19 17:09:00`|`Valorant`|
