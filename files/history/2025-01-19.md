@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;CS2&#93; Expression External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/682984-cs2-expression-external.html)|`2025-01-19 11:56:00`|`Counter-Strike 2 Releases`|
+|[Rigel / switching to kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/646323-rigel-switching-kernel.html)|`2025-01-19 11:52:00`|`Overwatch`|
 |[FactoryReset&#45;GModv2&#46;bat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/682956-factoryreset-gmodv2-bat.html)|`2025-01-19 11:21:00`|`Garry's Mod`|
 |[&#40;New&#41; Content Warning Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/635382-content-warning-cheat-menu.html)|`2025-01-19 11:04:00`|`Other Games`|
 |[Anti&#45;Cheat BloodStrike](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/660379-anti-cheat-bloodstrike.html)|`2025-01-19 10:46:00`|`Anti-Cheat Bypass`|
