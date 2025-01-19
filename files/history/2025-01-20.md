@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cronus Script &#45; Max Out Stealth](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/683111-cronus-script-max-stealth.html)|`2025-01-20 05:42:00`|`Grand Theft Auto V`|
+|[Pro CS2 DMA &#45; Esp & Aimbot & Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656442-pro-cs2-dma-esp-aimbot-web-radar.html)|`2025-01-20 05:40:00`|`Counter-Strike 2`|
 |[HOW TO GET SHADOW BAN IN B06 ACCOUNT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/682743-shadow-ban-b06-account.html)|`2025-01-20 05:36:00`|`Call of Duty: Black Ops 6`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-01-20 05:21:00`|`Rainbow Six Siege`|
 |[Can I get flagged/detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683107-flagged-detected.html)|`2025-01-20 05:15:00`|`Counter-Strike 2`|
