@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DENUVO ANTI CHEAT BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682775-denuvo-anti-cheat-bypass.html)|`2025-01-19 09:48:00`|`Anti-Cheat Bypass`|
+|[internal esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681823-internal-esp.html)|`2025-01-19 09:42:00`|`Counter-Strike 2`|
+|[Mike Tyson exposed&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/682728-mike-tyson-exposed.html)|`2025-01-19 09:33:00`|`Off Topic`|
+|[how "much" malware is there in paid cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/682777-malware-paid-cheats.html)|`2025-01-19 09:31:00`|`Off Topic`|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-01-19 09:28:00`|`Other FPS Games`|
+|[il2cpp unity hook not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/682957-il2cpp-unity-hook.html)|`2025-01-19 09:19:00`|`C and C++`|
 |[KMDU &#45; Kernel Mode Dumper Utilities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682955-kmdu-kernel-mode-dumper-utilities.html)|`2025-01-19 08:51:00`|`Anti-Cheat Bypass`|
 |[Terraria Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/682954-terraria-cheat-engine-table.html)|`2025-01-19 08:44:00`|`Other MMORPG and Strategy`|
 |[LENOVO SPOOFER &#40;UUID AND SN&#41; &#40;EFI&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679679-lenovo-spoofer-uuid-sn-efi.html)|`2025-01-19 08:36:00`|`Valorant`|
