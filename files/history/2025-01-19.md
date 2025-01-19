@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MAGIC SHELL 3&#46;6 PUBG MOBILE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681402-magic-shell-3-6-pubg-mobile.html)|`2025-01-19 12:50:00`|`PUBG Mobile`|
 |[Raft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/570450-raft.html)|`2025-01-19 12:26:00`|`Unity`|
 |[Parsing PE Headers Bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682986-parsing-pe-headers-bug.html)|`2025-01-19 12:22:00`|`Anti-Cheat Bypass`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-01-19 12:20:00`|`Apex Legends`|
