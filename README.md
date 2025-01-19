@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Plutonium Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/682287-plutonium-internal.html)|`2025-01-19 15:54:00`|`Call of Duty: Modern Warfare 3`|
 |[RLMarlbot V1&#46;7&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/674247-rlmarlbot-v1-7-1-a.html)|`2025-01-19 14:59:00`|`Other Games`|
 |[DMA Radar v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/639021-dma-radar-v2.html)|`2025-01-19 14:23:00`|`Escape from Tarkov`|
 |[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2025-01-19 14:21:00`|`Escape from Tarkov`|
