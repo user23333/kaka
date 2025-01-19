@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-01-19 17:22:00`|`Sea of Thieves`|
 |[Redmatch 2 cheat internal many features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675091-redmatch-2-cheat-internal-features.html)|`2025-01-19 17:10:00`|`Other FPS Games`|
 |[Exploring Advanced Aimbot Possibilities Beyond Color&#45;Based Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682666-exploring-advanced-aimbot-possibilities-beyond-color-based-methods.html)|`2025-01-19 17:09:00`|`Valorant`|
 |[UE5  Packet Function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/682409-ue5-packet-function.html)|`2025-01-19 16:35:00`|`Other MMORPG and Strategy`|
