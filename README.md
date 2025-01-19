@@ -12,6 +12,7 @@
 |9|[internal esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681823-internal-esp.html)|`2025-01-19 00:12:37`|`counter-strike-2-a`|
 |11|[Has anyone been ban in PVE?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/682190-ban-pve.html)|`2025-01-19 00:12:37`|`escape-from-tarkov`|
 |8|[CR3 Shuffling on Hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682046-cr3-shuffling-hypervisor.html)|`2025-01-19 01:47:39`|`anti-cheat-bypass`|
+|5|[SOURCE &#124; External Aimbot w/ Dynamic Hitbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/682229-source-external-aimbot-dynamic-hitbox.html)|`2025-01-19 10:55:25`|`counter-strike-2-releases`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anti&#45;Cheat BloodStrike](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/660379-anti-cheat-bloodstrike.html)|`2025-01-19 10:46:00`|`Anti-Cheat Bypass`|
+|[Cheat Garry's Mod ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/682948-cheat-garrys-mod.html)|`2025-01-19 10:43:00`|`Garry's Mod`|
+|[Chris's Public Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/america-s-army-proving-grounds/275994-chriss-public-cheat.html)|`2025-01-19 10:42:00`|`America's Army: Proving Grounds`|
+|[Has anyone been ban in PVE?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/682190-ban-pve.html)|`2025-01-19 10:30:00`|`Escape from Tarkov`|
+|[Yim and FSL Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/682962-yim-fsl-help.html)|`2025-01-19 10:29:00`|`Grand Theft Auto V`|
 |[DENUVO ANTI CHEAT BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682775-denuvo-anti-cheat-bypass.html)|`2025-01-19 09:48:00`|`Anti-Cheat Bypass`|
 |[internal esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681823-internal-esp.html)|`2025-01-19 09:42:00`|`Counter-Strike 2`|
 |[Mike Tyson exposed&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/682728-mike-tyson-exposed.html)|`2025-01-19 09:33:00`|`Off Topic`|
