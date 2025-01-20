@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Calls to GetEngine or FindObjectFast in Dumper&#45;7 crash issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/683197-calls-getengine-findobjectfast-dumper-7-crash-issue.html)|`2025-01-20 23:01:00`|`Unreal Engine 4`|
 |[Dumper&#45;7 &#45; A universal, automatic Unreal Engine SDK Generator for UE4 and UE5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/594092-dumper-7-universal-automatic-unreal-engine-sdk-generator-ue4-ue5.html)|`2025-01-20 22:43:00`|`Unreal Engine 4`|
 |[How easy is it to get on the same server with a mate ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/682561-easy-server-mate.html)|`2025-01-20 22:35:00`|`Sea of Thieves`|
 |[Trouble with Exe's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/683147-trouble-exes.html)|`2025-01-20 22:34:00`|`Off Topic`|
