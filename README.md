@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Better aimbot with CTFWeaponBaseGun::FireProjectile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/682587-aimbot-ctfweaponbasegun-fireprojectile.html)|`2025-01-21 06:50:00`|`Team Fortress 2`|
 |[External Raycasting &#40;PhysX recreation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673196-external-raycasting-physx-recreation.html)|`2025-01-21 06:47:00`|`Escape from Tarkov`|
 |[instant skin update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682308-instant-skin-update.html)|`2025-01-21 06:24:00`|`Counter-Strike 2`|
 |[Free Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/676229-free-internal-cheat.html)|`2025-01-21 06:23:00`|`Counter-Strike 2 Releases`|
