@@ -14,6 +14,7 @@
 |9|[EAC MouseClass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682407-eac-mouseclass.html)|`2025-01-20 02:54:42`|`anti-cheat-bypass`|
 |10|[Aim bot and recoil control kernel cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682400-aim-bot-recoil-control-kernel-cheat.html)|`2025-01-20 04:24:59`|`counter-strike-2-a`|
 |2|[Minecraft Bedrock Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/682617-minecraft-bedrock-cheat-engine-table.html)|`2025-01-20 16:33:47`|`minecraft`|
+|7|[Injector for Rust pirate EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/682143-injector-rust-pirate-eac.html)|`2025-01-20 18:08:06`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
