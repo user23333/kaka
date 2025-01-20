@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How easy is it to get on the same server with a mate ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/682561-easy-server-mate.html)|`2025-01-20 22:35:00`|`Sea of Thieves`|
+|[Trouble with Exe's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/683147-trouble-exes.html)|`2025-01-20 22:34:00`|`Off Topic`|
 |[Getting bones is too slow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/683093-getting-bones-slow.html)|`2025-01-20 22:13:00`|`Rust`|
 |[How do the current GameGuard bypasses work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680852-current-gameguard-bypasses.html)|`2025-01-20 22:08:00`|`HELLDIVERS 2`|
 |[no recoil tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/683188-recoil-tool.html)|`2025-01-20 21:29:00`|`Rainbow Six Siege`|
