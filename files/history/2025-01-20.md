@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vanguard and arduino uno](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682773-vanguard-arduino-uno.html)|`2025-01-20 19:01:00`|`Valorant`|
+|[Secure boot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682733-secure-boot.html)|`2025-01-20 18:59:00`|`Valorant`|
 |[Is it possible to still change my legacy level?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/672889-change-legacy-level.html)|`2025-01-20 18:49:00`|`Phasmophobia`|
 |[Buying Tarkov accounts with VPN?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/680230-buying-tarkov-accounts-vpn.html)|`2025-01-20 18:20:00`|`Escape from Tarkov`|
 |[Marvel Rivals Colorbot &#40;Arduino & No Arduino Support&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677136-marvel-rivals-colorbot-arduino-arduino-support.html)|`2025-01-20 18:16:00`|`Marvel Rivals`|
