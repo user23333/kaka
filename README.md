@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/452384-rust-scripting.html)|`2025-01-20 19:21:00`|`Rust`|
 |[Vanguard and arduino uno](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682773-vanguard-arduino-uno.html)|`2025-01-20 19:01:00`|`Valorant`|
 |[Secure boot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682733-secure-boot.html)|`2025-01-20 18:59:00`|`Valorant`|
 |[Is it possible to still change my legacy level?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/672889-change-legacy-level.html)|`2025-01-20 18:49:00`|`Phasmophobia`|
