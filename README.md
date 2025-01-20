@@ -13,6 +13,7 @@
 |8|[CR3 Shuffling on Hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682046-cr3-shuffling-hypervisor.html)|`2025-01-20 00:17:48`|`anti-cheat-bypass`|
 |9|[EAC MouseClass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682407-eac-mouseclass.html)|`2025-01-20 02:54:42`|`anti-cheat-bypass`|
 |10|[Aim bot and recoil control kernel cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682400-aim-bot-recoil-control-kernel-cheat.html)|`2025-01-20 04:24:59`|`counter-strike-2-a`|
+|2|[Minecraft Bedrock Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/682617-minecraft-bedrock-cheat-engine-table.html)|`2025-01-20 16:33:47`|`minecraft`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -37,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GIRLS' FRONTLINE 2:EXILIUM CN PC cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/653607-girls-frontline-2-exilium-cn-pc-cheat.html)|`2025-01-20 16:26:00`|`Other MMORPG and Strategy`|
+|[&#91;Warframe&#93; Player Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/678485-warframe-player-offset.html)|`2025-01-20 16:17:00`|`Other FPS Games`|
+|[EAC DRIVER CR3 BSOD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682742-eac-driver-cr3-bsod.html)|`2025-01-20 16:16:00`|`Anti-Cheat Bypass`|
 |[Unmap driver jmp ret to handler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683166-unmap-driver-jmp-ret-handler.html)|`2025-01-20 15:58:00`|`Anti-Cheat Bypass`|
 |[Bypass EAC Shuffle cr3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683164-bypass-eac-shuffle-cr3.html)|`2025-01-20 15:48:00`|`Anti-Cheat Bypass`|
 |[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-01-20 15:31:00`|`Battlefield 4`|
