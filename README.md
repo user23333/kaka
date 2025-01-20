@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Epic Games / EAC Clowns leaked spread info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683261-epic-games-eac-clowns-leaked-spread-info.html)|`2025-01-21 05:40:00`|`Anti-Cheat Bypass`|
+|[Elon Musk has shown a sign of love to Nazi&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/683272-elon-musk-shown-sign-love-nazi.html)|`2025-01-21 05:40:00`|`Off Topic`|
+|[Where to start writing a cheat for the game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/683097-start-writing-cheat-game.html)|`2025-01-21 05:38:00`|`Deadlock`|
 |[Vigor internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662490-vigor-internal-cheat.html)|`2025-01-21 05:32:00`|`Other FPS Games`|
 |[Best language to learn how to code ESP?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/683270-language-learn-code-esp.html)|`2025-01-21 05:19:00`|`Escape from Tarkov`|
 |[Auto Maple Bot 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/683269-auto-maple-bot-2025-a.html)|`2025-01-21 05:11:00`|`Maple Story`|
