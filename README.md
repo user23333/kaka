@@ -12,6 +12,7 @@
 |7|[Injector for Rust pirate EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/682143-injector-rust-pirate-eac.html)|`2025-01-21 00:10:45`|`rust`|
 |2|[Minecraft Bedrock Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/682617-minecraft-bedrock-cheat-engine-table.html)|`2025-01-21 00:10:45`|`minecraft`|
 |7|[BGMI 3&#46;6 32&#45;bit SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/682475-bgmi-3-6-32-bit-sdk.html)|`2025-01-21 01:08:05`|`pubg-mobile`|
+|9|[Battleeye Kick while using YimMenu and FSL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/682755-battleeye-kick-using-yimmenu-fsl.html)|`2025-01-21 04:07:11`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Colorbot &#40;Arduino & No Arduino Support&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677136-marvel-rivals-colorbot-arduino-arduino-support.html)|`2025-01-21 04:06:00`|`Marvel Rivals`|
 |[Player info &#40;names&#41; externally in gmod x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/682436-player-info-names-externally-gmod-x64.html)|`2025-01-21 03:53:00`|`Garry's Mod`|
 |[Rust Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/452384-rust-scripting.html)|`2025-01-21 03:52:00`|`Rust`|
 |[Patterns and XRef Reversals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/683264-patterns-xref-reversals.html)|`2025-01-21 03:51:00`|`Alternative Online Mods`|
