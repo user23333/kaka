@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TPM AND SB BYPASS &#43; SPOOFER &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/623808-tpm-sb-bypass-spoofer.html)|`2025-01-21 05:57:00`|`Valorant`|
 |[Epic Games / EAC Clowns leaked spread info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683261-epic-games-eac-clowns-leaked-spread-info.html)|`2025-01-21 05:40:00`|`Anti-Cheat Bypass`|
 |[Elon Musk has shown a sign of love to Nazi&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/683272-elon-musk-shown-sign-love-nazi.html)|`2025-01-21 05:40:00`|`Off Topic`|
 |[Where to start writing a cheat for the game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/683097-start-writing-cheat-game.html)|`2025-01-21 05:38:00`|`Deadlock`|
