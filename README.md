@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Workflow for rank &#40;RP&#41; increase on new account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/683143-workflow-rank-rp-increase-account.html)|`2025-01-21 04:22:00`|`Grand Theft Auto V`|
+|[Buying Tarkov accounts with VPN?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/680230-buying-tarkov-accounts-vpn.html)|`2025-01-21 04:20:00`|`Escape from Tarkov`|
+|[Updated Roblox Hyperion Bypass &#91;Payload Fixed&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682751-updated-roblox-hyperion-bypass-payload-fixed.html)|`2025-01-21 04:15:00`|`Anti-Cheat Bypass`|
+|[GIRLS' FRONTLINE 2:EXILIUM CN PC cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/653607-girls-frontline-2-exilium-cn-pc-cheat.html)|`2025-01-21 04:13:00`|`Other MMORPG and Strategy`|
+|[Marvel Rivals Undetected/Safe Free Macro 009](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680962-marvel-rivals-undetected-safe-free-macro-009-a.html)|`2025-01-21 04:12:00`|`Marvel Rivals`|
 |[Marvel Rivals Colorbot &#40;Arduino & No Arduino Support&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677136-marvel-rivals-colorbot-arduino-arduino-support.html)|`2025-01-21 04:06:00`|`Marvel Rivals`|
 |[Player info &#40;names&#41; externally in gmod x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/682436-player-info-names-externally-gmod-x64.html)|`2025-01-21 03:53:00`|`Garry's Mod`|
 |[Rust Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/452384-rust-scripting.html)|`2025-01-21 03:52:00`|`Rust`|
