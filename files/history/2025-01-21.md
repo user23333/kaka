@@ -27,9 +27,15 @@
 |38|[Bodycam Simple Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48295)|`2025-01-21 00:10:45`|
 |1|[STRAFTAT&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48321)|`2025-01-21 01:08:05`|
 |2|[Fortnite's EAC Driver with Imports v8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48313)|`2025-01-21 01:08:05`|
+|1|[Terraria&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48335)|`2025-01-21 01:24:03`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[99% auto updatable Simple Internal Cheat &#40;no need decryption&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/682116-99-auto-updatable-simple-internal-cheat-decryption.html)|`2025-01-21 01:23:00`|`Rust`|
+|[crash taking local player internally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/674997-crash-taking-local-player-internally.html)|`2025-01-21 01:19:00`|`Unreal Engine 4`|
+|[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2025-01-21 01:19:00`|`Apex Legends`|
+|[Fastest Python Valorant Triggerbot &#40;fr&#41;&#40;fr&#41;&#40;fr&#41; &#43; Addon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/641020-fastest-python-valorant-triggerbot-fr-fr-fr-addon.html)|`2025-01-21 01:10:00`|`Valorant`|
+|[Terraria Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/682954-terraria-cheat-engine-table.html)|`2025-01-21 01:09:00`|`Other MMORPG and Strategy`|
 |[STRAFTAT Mono Internal Cheat/Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/681236-straftat-mono-internal-cheat-base.html)|`2025-01-21 01:06:00`|`Other FPS Games`|
 |[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2025-01-21 01:06:00`|`Escape from Tarkov`|
 |[Latest EAC Driver IDA Database with Named/Decrypted Imports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679385-eac-driver-ida-database-named-decrypted-imports.html)|`2025-01-21 01:02:00`|`Anti-Cheat Bypass`|
