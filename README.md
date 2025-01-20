@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Easy Injection Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680479-easy-injection-method.html)|`2025-01-20 23:40:00`|`Marvel Rivals`|
 |[My W2S displaying wrong values](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/683129-w2s-displaying-wrong-values.html)|`2025-01-20 23:26:00`|`Minecraft`|
 |[Project Zomboid Cheat &#45; Valkur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/645408-project-zomboid-cheat-valkur.html)|`2025-01-20 23:24:00`|`Other MMORPG and Strategy`|
 |[Deep Rock Galactic: Deep Dive Delirium &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/617904-deep-rock-galactic-deep-dive-delirium-internal.html)|`2025-01-20 23:19:00`|`Other Single Player Games`|
