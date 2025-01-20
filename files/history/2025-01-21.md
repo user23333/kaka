@@ -11,6 +11,7 @@
 |9|[EAC MouseClass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682407-eac-mouseclass.html)|`2025-01-21 00:10:45`|`anti-cheat-bypass`|
 |7|[Injector for Rust pirate EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/682143-injector-rust-pirate-eac.html)|`2025-01-21 00:10:45`|`rust`|
 |2|[Minecraft Bedrock Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/682617-minecraft-bedrock-cheat-engine-table.html)|`2025-01-21 00:10:45`|`minecraft`|
+|7|[BGMI 3&#46;6 32&#45;bit SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/682475-bgmi-3-6-32-bit-sdk.html)|`2025-01-21 01:08:05`|`pubg-mobile`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -24,9 +25,15 @@
 |22|[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48297)|`2025-01-21 00:10:45`|
 |4|[bgmi 3&#46;6 32&#45;bit SDK ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48296)|`2025-01-21 00:10:45`|
 |38|[Bodycam Simple Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48295)|`2025-01-21 00:10:45`|
+|1|[STRAFTAT&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48321)|`2025-01-21 01:08:05`|
+|2|[Fortnite's EAC Driver with Imports v8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48313)|`2025-01-21 01:08:05`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[STRAFTAT Mono Internal Cheat/Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/681236-straftat-mono-internal-cheat-base.html)|`2025-01-21 01:06:00`|`Other FPS Games`|
+|[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2025-01-21 01:06:00`|`Escape from Tarkov`|
+|[Latest EAC Driver IDA Database with Named/Decrypted Imports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679385-eac-driver-ida-database-named-decrypted-imports.html)|`2025-01-21 01:02:00`|`Anti-Cheat Bypass`|
+|[Debugging Kernel Communication: Device Object Access in Manual Mapped Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/681555-debugging-kernel-communication-device-object-access-manual-mapped-driver.html)|`2025-01-21 01:02:00`|`Programming for Beginners`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-01-21 00:54:00`|`Escape from Tarkov`|
 |[Luna &#124; Free CS2 Cheat &#124; INTERNAL &#124; ESP, Aim, BHop, &#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/681945-luna-free-cs2-cheat-internal-esp-aim-bhop.html)|`2025-01-21 00:53:00`|`Counter-Strike 2 Releases`|
 |[PUBG No recoil macro For all razer mouse using Razer synapse &#91;Undetected&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/658324-pubg-recoil-macro-razer-mouse-using-razer-synapse-undetected.html)|`2025-01-21 00:48:00`|`PUBG Releases`|
