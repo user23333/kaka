@@ -33,9 +33,15 @@
 |2|[BetterAimAssist v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48298)|`2025-01-20 03:50:58`|
 |3|[CS2 Updated Bhop 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48301)|`2025-01-20 04:24:59`|
 |4|[simple internal v2 &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48300)|`2025-01-20 04:24:59`|
+|2|[FortniteGame&#45;33&#46;20&#45;CL&#45;39082670 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48309)|`2025-01-20 09:17:58`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Parsing PE Headers Bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682986-parsing-pe-headers-bug.html)|`2025-01-20 09:02:00`|`Anti-Cheat Bypass`|
+|[Hook float in il2cpp unity game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/682470-hook-float-il2cpp-unity-game.html)|`2025-01-20 09:01:00`|`General Programming and Reversing`|
+|[Contractors Exfilzone VR &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682747-contractors-exfilzone-vr-steam.html)|`2025-01-20 09:00:00`|`Other FPS Games`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-01-20 08:58:00`|`Counter-Strike 2`|
+|[Humanized aimbot using AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683133-humanized-aimbot-using-ai.html)|`2025-01-20 08:56:00`|`Counter-Strike 2`|
 |[List of Dayz pirated servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/624834-list-dayz-pirated-servers.html)|`2025-01-20 07:52:00`|`DayZ SA`|
 |[I'm gonna be that piece of shit i guess&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/668738-im-gonna-piece-shit-guess.html)|`2025-01-20 07:51:00`|`DayZ SA`|
 |[Dupe patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/673162-dupe-patch.html)|`2025-01-20 07:48:00`|`DayZ SA`|
