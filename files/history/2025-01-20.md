@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Getting bones is too slow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/683093-getting-bones-slow.html)|`2025-01-20 22:13:00`|`Rust`|
+|[How do the current GameGuard bypasses work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680852-current-gameguard-bypasses.html)|`2025-01-20 22:08:00`|`HELLDIVERS 2`|
 |[no recoil tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/683188-recoil-tool.html)|`2025-01-20 21:29:00`|`Rainbow Six Siege`|
 |[Debugging Kernel Communication: Device Object Access in Manual Mapped Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/681555-debugging-kernel-communication-device-object-access-manual-mapped-driver.html)|`2025-01-20 21:19:00`|`Programming for Beginners`|
 |[Vanguard Spoofer Rev 2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612562-vanguard-spoofer-rev-2-a.html)|`2025-01-20 21:09:00`|`Valorant`|
