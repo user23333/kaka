@@ -41,6 +41,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[anort not working to fix crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/683359-anort-fix-crash.html)|`2025-01-21 23:34:00`|`PUBG Mobile`|
+|[simulateinputkey C&#43;&#43; internal offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683186-simulateinputkey-internal-offset.html)|`2025-01-21 23:34:00`|`Valorant`|
+|[countering anti&#45;SWH execution measures on EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682562-countering-anti-swh-execution-measures-eac.html)|`2025-01-21 23:33:00`|`Anti-Cheat Bypass`|
+|[WZ BO6 Working Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675805-wz-bo6-base.html)|`2025-01-21 23:29:00`|`Call of Duty: Black Ops 6`|
 |[Hide changes in scenesystem&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683349-hide-changes-scenesystem-dll.html)|`2025-01-21 23:27:00`|`Counter-Strike 2`|
 |[SOURCE &#124; External Aimbot w/ Dynamic Hitbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/682229-source-external-aimbot-dynamic-hitbox.html)|`2025-01-21 23:18:00`|`Counter-Strike 2 Releases`|
 |[Treason's V3 AIO Aim Assist Edit &#40;BETA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670270-treasons-v3-aio-aim-assist-edit-beta.html)|`2025-01-21 23:15:00`|`Call of Duty: Black Ops 6`|
