@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dump BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/680407-dump-bo6.html)|`2025-01-22 00:56:00`|`Call of Duty: Black Ops 6`|
+|[Battlefield V internal hackers ESP and aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/567196-battlefield-internal-hackers-esp-aimbot.html)|`2025-01-22 00:56:00`|`Battlefield V`|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-01-22 00:55:00`|`Apex Legends`|
+|[Any dumper can be used right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/683320-dumper.html)|`2025-01-22 00:53:00`|`Apex Legends`|
+|[RevEmu/Steam ID spoofer for CSS v92&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/492863-revemu-steam-id-spoofer-css-v92.html)|`2025-01-22 00:52:00`|`CounterStrike Source`|
 |[Skyrim Cheats Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/682599-skyrim-cheats-python.html)|`2025-01-22 00:48:00`|`Other Games`|
 |[Request for Css v92 steam&#45;id spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/672461-request-css-v92-steam-id-spoofer.html)|`2025-01-22 00:47:00`|`CounterStrike Source`|
 |[Why there is no hack for this game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/597118-hack-game.html)|`2025-01-22 00:41:00`|`Battlefield 2042`|
