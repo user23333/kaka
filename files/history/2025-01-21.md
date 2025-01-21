@@ -15,6 +15,7 @@
 |9|[Battleeye Kick while using YimMenu and FSL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/682755-battleeye-kick-using-yimmenu-fsl.html)|`2025-01-21 04:07:11`|`grand-theft-auto-v`|
 |1|[Dynasty Warriors Origins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/682297-dynasty-warriors-origins.html)|`2025-01-21 14:51:45`|`cheat-engine-tables`|
 |6|[CS2 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/682717-cs2-cheat.html)|`2025-01-21 18:33:25`|`counter-strike-2-releases`|
+|9|[Better aimbot with CTFWeaponBaseGun::FireProjectile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/682587-aimbot-ctfweaponbasegun-fireprojectile.html)|`2025-01-21 20:53:27`|`team-fortress-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -36,9 +37,15 @@
 |1|[Valo&#45;Aim&#45;Assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48315)|`2025-01-21 19:32:40`|
 |2|[zula dll ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48307)|`2025-01-21 19:32:40`|
 |1|[Valo&#95;tb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48314)|`2025-01-21 19:39:14`|
+|1|[Project Hardline English Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48360)|`2025-01-21 20:53:27`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[project hardline cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/665723-project-hardline-cheat.html)|`2025-01-21 20:42:00`|`Other FPS Games`|
+|[Hyperion analysis, the roblox anti&#45;tamper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/669481-hyperion-analysis-roblox-anti-tamper.html)|`2025-01-21 20:37:00`|`Anti-Cheat Bypass`|
+|[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2025-01-21 20:34:00`|`Other FPS Games`|
+|[There is no best purple HSV range recommended ？](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683335-purple-hsv-range-recommended.html)|`2025-01-21 20:31:00`|`Valorant`|
+|[Is it possible to still change my legacy level?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/672889-change-legacy-level.html)|`2025-01-21 20:28:00`|`Phasmophobia`|
 |[PUBG DMA cheat source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/667961-pubg-dma-cheat-source-code.html)|`2025-01-21 20:14:00`|`Playerunknown's Battlegrounds`|
 |[Best injector right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683334-injector.html)|`2025-01-21 20:08:00`|`Counter-Strike 2`|
 |[Fast Valorant Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669778-fast-valorant-triggerbot.html)|`2025-01-21 19:39:00`|`Valorant`|
