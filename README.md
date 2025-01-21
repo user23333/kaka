@@ -25,9 +25,12 @@
 |51|[FortniteGame&#45;33&#46;20&#45;CL&#45;39082670 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48309)|`2025-01-22 00:12:34`|
 |11|[zula dll ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48307)|`2025-01-22 00:12:34`|
 |1|[Hell Let Loose Cheat &#91;Source&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48361)|`2025-01-22 00:34:11`|
+|2|[SCS2 &#45; Sneakys CS2 Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48318)|`2025-01-22 00:45:59`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Why there is no hack for this game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/597118-hack-game.html)|`2025-01-22 00:41:00`|`Battlefield 2042`|
+|[SCS2 &#45; Semi&#45;External Mod for Counter&#45;Strike 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/651580-scs2-semi-external-mod-counter-strike-2-a.html)|`2025-01-22 00:36:00`|`Counter-Strike 2 Releases`|
 |[ZE&#45;Elite version 4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/458162-ze-elite-version-4-a.html)|`2025-01-22 00:31:00`|`CounterStrike Source`|
 |[There is no best purple HSV range recommended ？](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683335-purple-hsv-range-recommended.html)|`2025-01-22 00:29:00`|`Valorant`|
 |[20&#45;Hour Cooldowns – Aimbots Are Being Detected&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682413-20-hour-cooldowns-aimbots-detected.html)|`2025-01-22 00:24:00`|`Counter-Strike 2`|
