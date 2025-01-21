@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Launch without EAC &#40;Not a Bypass&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/679717-launch-eac-bypass.html)|`2025-01-21 15:50:00`|`Sea of Thieves`|
 |[Unlock all for ID Cards](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/680730-unlock-id-cards.html)|`2025-01-21 14:15:00`|`Phasmophobia`|
 |[Fastest Python Valorant Triggerbot &#40;fr&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612762-fastest-python-valorant-triggerbot-fr.html)|`2025-01-21 14:07:00`|`Valorant`|
 |[bypass XC3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/683160-bypass-xc3.html)|`2025-01-21 13:29:00`|`Other Single Player Games`|
