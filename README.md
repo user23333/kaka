@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[melee and parry ability struct](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/672411-melee-parry-ability-struct.html)|`2025-01-21 22:51:00`|`Deadlock`|
 |[Use DMA without a fuser/OBS &#40;poor mans way&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/679488-dma-fuser-obs-poor-mans.html)|`2025-01-21 22:28:00`|`PC Hardware`|
 |[So wait valorant bans Product ID / Windows product key ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683249-wait-valorant-bans-product-id-windows-product-key.html)|`2025-01-21 22:25:00`|`Valorant`|
 |[How to Bypass Ban in Delta Force?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/679069-bypass-ban-delta-force.html)|`2025-01-21 22:23:00`|`Other FPS Games`|
