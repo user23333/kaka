@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help Me Update No Recoil Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/683298-help-update-recoil-script.html)|`2025-01-21 11:10:00`|`Playerunknown's Battlegrounds`|
+|[Claim vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678287-claim-vehicle.html)|`2025-01-21 10:35:00`|`Grand Theft Auto V`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-01-21 10:32:00`|`League of Legends`|
 |[FiveM Fiveguard serials ban&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/658955-fivem-fiveguard-serials-ban.html)|`2025-01-21 10:18:00`|`Alternative Online Mods`|
 |[How do i make my own spoofer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/681782-own-spoofer.html)|`2025-01-21 10:14:00`|`Alternative Online Mods`|
 |[New CUserCmd and Input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666630-cusercmd-input.html)|`2025-01-21 10:12:00`|`Counter-Strike 2`|
