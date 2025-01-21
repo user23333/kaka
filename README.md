@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683191-valorant-cheat.html)|`2025-01-21 17:35:00`|`Valorant`|
 |[Fast Instaban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683287-fast-instaban.html)|`2025-01-21 17:30:00`|`Valorant`|
 |[RE&#45;Class DMA Plugin help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/683321-re-class-dma-plugin-help.html)|`2025-01-21 17:28:00`|`Call of Duty: Black Ops 6`|
 |[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2025-01-21 17:07:00`|`THE FINALS`|
