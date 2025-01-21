@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TFGhost](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/471765-tfghost.html)|`2025-01-22 06:12:00`|`Team Fortress 2`|
+|[HLL: Hell Let Loose](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/340677-hll-hell-loose.html)|`2025-01-22 06:07:00`|`Other FPS Games`|
+|[Undetected Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/683279-undetected-injector.html)|`2025-01-22 06:06:00`|`General Programming and Reversing`|
 |[WorldToScreen &#45; Y value practically always 0&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683340-worldtoscreen-value-practically-0-a.html)|`2025-01-22 05:49:00`|`Counter-Strike 2`|
 |[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-01-22 05:41:00`|`Other FPS Games`|
 |[countering anti&#45;SWH execution measures on EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682562-countering-anti-swh-execution-measures-eac.html)|`2025-01-22 05:22:00`|`Anti-Cheat Bypass`|
