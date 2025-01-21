@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any working ESP or similar cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/683302-esp-similar-cheats.html)|`2025-01-21 11:43:00`|`Battlefield 1`|
+|[Skittlz&#46;xyz / Simple Phasmo Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/671279-skittlz-xyz-simple-phasmo-menu.html)|`2025-01-21 11:32:00`|`Phasmophobia`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-01-21 11:18:00`|`Other FPS Games`|
+|[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-01-21 11:18:00`|`Other FPS Games`|
 |[Help Me Update No Recoil Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/683298-help-update-recoil-script.html)|`2025-01-21 11:10:00`|`Playerunknown's Battlegrounds`|
 |[Claim vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678287-claim-vehicle.html)|`2025-01-21 10:35:00`|`Grand Theft Auto V`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-01-21 10:32:00`|`League of Legends`|
