@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Auto Bhop Assistance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683263-auto-bhop-assistance.html)|`2025-01-21 12:35:00`|`Counter-Strike 2`|
+|[Humanized aimbot using AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683133-humanized-aimbot-using-ai.html)|`2025-01-21 12:32:00`|`Counter-Strike 2`|
 |[Give vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/683304-vehicle.html)|`2025-01-21 12:04:00`|`Grand Theft Auto V`|
 |[Any working ESP or similar cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/683302-esp-similar-cheats.html)|`2025-01-21 11:43:00`|`Battlefield 1`|
 |[Skittlz&#46;xyz / Simple Phasmo Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/671279-skittlz-xyz-simple-phasmo-menu.html)|`2025-01-21 11:32:00`|`Phasmophobia`|
