@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Undetected Cheat Engine &#43; Driver &#124; 2023 &#124; Bypass Anticheats &#40;BE / EAC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/504191-undetected-cheat-engine-driver-2023-bypass-anticheats-eac.html)|`2025-01-21 09:10:00`|`Anti-Cheat Bypass`|
+|[External chams&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/670282-external-chams.html)|`2025-01-21 08:57:00`|`Call of Duty: Modern Warfare III`|
+|[KMDU &#45; Kernel Mode Dumper Utilities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682955-kmdu-kernel-mode-dumper-utilities.html)|`2025-01-21 08:53:00`|`Anti-Cheat Bypass`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-01-21 08:40:00`|`Escape from Tarkov`|
+|[UE5  Packet Function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/682409-ue5-packet-function.html)|`2025-01-21 08:26:00`|`Other MMORPG and Strategy`|
 |[Undetected Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/683279-undetected-injector.html)|`2025-01-21 07:44:00`|`General Programming and Reversing`|
 |[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2025-01-21 07:43:00`|`Deadlock`|
 |[no recoil tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/683188-recoil-tool.html)|`2025-01-21 07:36:00`|`Rainbow Six Siege`|
