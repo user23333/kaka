@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-01-21 13:13:00`|`Call of Duty: Black Ops 3`|
+|[Pluto T6ZM Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/675767-pluto-t6zm-offsets.html)|`2025-01-21 13:12:00`|`Call of Duty: Black Ops 2`|
+|[Remaster: Spankerfield &#43; Hyperhook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/679728-remaster-spankerfield-hyperhook.html)|`2025-01-21 13:09:00`|`Battlefield 4`|
 |[Auto Bhop Assistance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683263-auto-bhop-assistance.html)|`2025-01-21 12:35:00`|`Counter-Strike 2`|
 |[Humanized aimbot using AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683133-humanized-aimbot-using-ai.html)|`2025-01-21 12:32:00`|`Counter-Strike 2`|
 |[Give vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/683304-vehicle.html)|`2025-01-21 12:04:00`|`Grand Theft Auto V`|
