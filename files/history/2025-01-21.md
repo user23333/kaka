@@ -41,6 +41,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Use DMA without a fuser/OBS &#40;poor mans way&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/679488-dma-fuser-obs-poor-mans.html)|`2025-01-21 22:28:00`|`PC Hardware`|
+|[So wait valorant bans Product ID / Windows product key ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683249-wait-valorant-bans-product-id-windows-product-key.html)|`2025-01-21 22:25:00`|`Valorant`|
+|[How to Bypass Ban in Delta Force?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/679069-bypass-ban-delta-force.html)|`2025-01-21 22:23:00`|`Other FPS Games`|
+|[HWID BAN : Changing hardware components](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683344-hwid-ban-changing-hardware-components.html)|`2025-01-21 22:22:00`|`Valorant`|
+|[csgo crashes after injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/683075-csgo-crashes-injection.html)|`2025-01-21 22:15:00`|`Counterstrike Global Offensive`|
+|[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2025-01-21 22:10:00`|`Garry's Mod`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-01-21 21:51:00`|`Other FPS Games`|
 |[Operation Harsh Doorstop Internal &#124; Silent Aim, Magic Bullet, STW, Spammer, Other](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680217-operation-harsh-doorstop-internal-silent-aim-magic-bullet-stw-spammer.html)|`2025-01-21 21:43:00`|`Other FPS Games`|
 |[Any dumper can be used right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/683320-dumper.html)|`2025-01-21 21:28:00`|`Apex Legends`|
