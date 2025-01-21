@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Which bypass and script you use ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/682704-bypass-script.html)|`2025-01-21 15:57:00`|`League of Legends`|
 |[Launch without EAC &#40;Not a Bypass&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/679717-launch-eac-bypass.html)|`2025-01-21 15:50:00`|`Sea of Thieves`|
 |[Unlock all for ID Cards](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/680730-unlock-id-cards.html)|`2025-01-21 14:15:00`|`Phasmophobia`|
 |[Fastest Python Valorant Triggerbot &#40;fr&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612762-fastest-python-valorant-triggerbot-fr.html)|`2025-01-21 14:07:00`|`Valorant`|
