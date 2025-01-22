@@ -12,6 +12,7 @@
 |6|[CS2 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/682717-cs2-cheat.html)|`2025-01-22 00:12:34`|`counter-strike-2-releases`|
 |9|[Better aimbot with CTFWeaponBaseGun::FireProjectile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/682587-aimbot-ctfweaponbasegun-fireprojectile.html)|`2025-01-22 00:12:34`|`team-fortress-2-a`|
 |4|[Chams with no recoil and more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/682715-chams-recoil.html)|`2025-01-22 02:35:09`|`rainbow-six-siege`|
+|6|[countering anti&#45;SWH execution measures on EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682562-countering-anti-swh-execution-measures-eac.html)|`2025-01-22 12:16:38`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Godmode hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/681498-godmode-hook.html)|`2025-01-22 12:13:00`|`Combat Master`|
+|[FiveM Spoofers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/682142-fivem-spoofers.html)|`2025-01-22 12:12:00`|`Alternative Online Mods`|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-01-22 12:11:00`|`Other Games`|
+|[&#91;Updated&#93; Dead by Daylight Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/635513-updated-dead-daylight-unlock-dlcs-skins.html)|`2025-01-22 11:58:00`|`Other FPS Games`|
 |[KMDU &#45; Kernel Mode Dumper Utilities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682955-kmdu-kernel-mode-dumper-utilities.html)|`2025-01-22 11:51:00`|`Anti-Cheat Bypass`|
 |[Need help with flashing mod bios MSI please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683429-help-flashing-mod-bios-msi-please.html)|`2025-01-22 11:05:00`|`Valorant`|
 |[PUBG Aimbot ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/683428-pubg-aimbot-esp.html)|`2025-01-22 11:03:00`|`PUBG Releases`|
