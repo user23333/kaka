@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-01-22 21:31:00`|`Alternative Online Mods`|
+|[Issue Connecting VXE R1 SE Mouse to Arduino Leonardo R3 USB Host Shield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682664-issue-connecting-vxe-r1-se-mouse-arduino-leonardo-r3-usb-host-shield.html)|`2025-01-22 21:27:00`|`Valorant`|
 |[How do i make my own spoofer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/681782-own-spoofer.html)|`2025-01-22 21:01:00`|`Alternative Online Mods`|
 |[how to fix in zoom esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/683498-fix-zoom-esp.html)|`2025-01-22 20:56:00`|`Escape from Tarkov`|
 |[Color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683497-color-aimbot.html)|`2025-01-22 20:55:00`|`Valorant`|
