@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HVCI not enabled &#62;:&#40;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683387-hvci-enabled.html)|`2025-01-23 03:11:00`|`Valorant`|
+|[ODIN V4 FOR STEAM ONLY&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/645623-odin-v4-steam.html)|`2025-01-23 03:08:00`|`Paladins`|
+|[FlyHack Bar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/683547-flyhack-bar.html)|`2025-01-23 03:04:00`|`Rust`|
+|[DLL hijacker from an existing Process&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/683545-dll-hijacker-existing-process.html)|`2025-01-23 03:00:00`|`C and C++`|
 |[Player info &#40;names&#41; externally in gmod x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/682436-player-info-names-externally-gmod-x64.html)|`2025-01-23 02:57:00`|`Garry's Mod`|
 |[Luna &#124; Free CS2 Cheat &#124; INTERNAL &#124; ESP, Aim, BHop, &#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/681945-luna-free-cs2-cheat-internal-esp-aim-bhop.html)|`2025-01-23 02:41:00`|`Counter-Strike 2 Releases`|
 |[Fastest Python Valorant Triggerbot &#40;fr&#41;&#40;fr&#41;&#40;fr&#41; &#43; Addon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/641020-fastest-python-valorant-triggerbot-fr-fr-fr-addon.html)|`2025-01-23 02:32:00`|`Valorant`|
