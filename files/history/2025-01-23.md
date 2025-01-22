@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-01-23 04:50:00`|`Call of Duty: Black Ops 6`|
+|[DMA cheat ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/682159-dma-cheat-esp.html)|`2025-01-23 04:35:00`|`Programming for Beginners`|
 |[Anyone willing to help me learn creating cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670870-willing-help-learn-creating-cheats.html)|`2025-01-23 04:33:00`|`Call of Duty: Black Ops 6`|
 |[Is there any available Logitech SCRIPT?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/677121-available-logitech-script.html)|`2025-01-23 04:15:00`|`THE FINALS`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-01-23 03:57:00`|`Alternative Online Mods`|
