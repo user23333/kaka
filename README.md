@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do i make my own spoofer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/681782-own-spoofer.html)|`2025-01-22 21:01:00`|`Alternative Online Mods`|
 |[how to fix in zoom esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/683498-fix-zoom-esp.html)|`2025-01-22 20:56:00`|`Escape from Tarkov`|
 |[Color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683497-color-aimbot.html)|`2025-01-22 20:55:00`|`Valorant`|
 |[2  pc's cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683496-2-pcs-cheating.html)|`2025-01-22 20:54:00`|`Valorant`|
