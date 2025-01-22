@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Global Ban 10y](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/683485-global-ban-10y.html)|`2025-01-22 18:43:00`|`PUBG Mobile`|
+|[Hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/669295-hello.html)|`2025-01-22 18:42:00`|`Off Topic`|
+|[mini&#45;map tracking tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/683014-mini-map-tracking-tool.html)|`2025-01-22 18:31:00`|`League of Legends`|
+|[project hardline cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/665723-project-hardline-cheat.html)|`2025-01-22 18:26:00`|`Other FPS Games`|
 |[Battleeye Kick while using YimMenu and FSL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/682755-battleeye-kick-using-yimmenu-fsl.html)|`2025-01-22 18:25:00`|`Grand Theft Auto V`|
 |[February 2025 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/682707-february-2025-motm-nominations.html)|`2025-01-22 18:25:00`|`Member of the Month`|
 |[buying bloodstrike source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/683483-buying-bloodstrike-source.html)|`2025-01-22 18:18:00`|`Other Games`|
