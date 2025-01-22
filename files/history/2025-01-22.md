@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2025-01-22 22:54:00`|`Grand Theft Auto V`|
 |[Rust Ban Evasion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/683408-rust-ban-evasion.html)|`2025-01-22 22:37:00`|`Forum General`|
 |[BGMI Emulator Bypass Making](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/683175-bgmi-emulator-bypass.html)|`2025-01-22 22:32:00`|`PUBG Mobile`|
 |[How to fix YimMenu desync and no player joining your sessions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/683405-fix-yimmenu-desync-player-joining-sessions.html)|`2025-01-22 22:24:00`|`Grand Theft Auto V`|
