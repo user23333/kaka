@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Crew Motorfest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/683441-crew-motorfest.html)|`2025-01-22 15:36:00`|`Other Games`|
+|[DLL hook source code that injects into default&#46;xbe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/xbox/683440-dll-hook-source-code-injects-default-xbe.html)|`2025-01-22 15:36:00`|`XBOX`|
 |[My W2S displaying wrong values](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/683129-w2s-displaying-wrong-values.html)|`2025-01-22 15:25:00`|`Minecraft`|
 |[Need help with ejecting a dll and imgui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/683268-help-ejecting-dll-imgui.html)|`2025-01-22 15:25:00`|`General Programming and Reversing`|
 |[DMA cheat ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/682159-dma-cheat-esp.html)|`2025-01-22 15:24:00`|`Programming for Beginners`|
