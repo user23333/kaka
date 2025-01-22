@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Discord Overlay Hijack &#40;with ImGui&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/683571-external-discord-overlay-hijack-imgui.html)|`2025-01-23 07:12:00`|`General Programming and Reversing`|
 |[Zula dll cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682239-zula-dll-cheat.html)|`2025-01-23 07:10:00`|`Other FPS Games`|
 |[List of every item in the game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/683570-list-item-game.html)|`2025-01-23 07:03:00`|`Escape from Tarkov`|
 |[February 2025 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/682707-february-2025-motm-nominations.html)|`2025-01-23 06:49:00`|`Member of the Month`|
