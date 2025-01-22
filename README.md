@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any Good Valorant Cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683376-valorant-cheats.html)|`2025-01-22 18:05:00`|`Valorant`|
+|[Hoyo Game dumper dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/666159-hoyo-game-dumper-dll.html)|`2025-01-22 18:03:00`|`Other Games`|
+|[Delta Force Update stopping GHub?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677297-delta-force-update-stopping-ghub.html)|`2025-01-22 18:01:00`|`Other FPS Games`|
+|[Rocket League &#45; ThoramiBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/593885-rocket-league-thoramibot.html)|`2025-01-22 17:39:00`|`Other Games`|
 |[Bloodstrike Cheat / Source?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682536-bloodstrike-cheat-source.html)|`2025-01-22 17:46:00`|`Other FPS Games`|
 |[Vanguard and arduino uno](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682773-vanguard-arduino-uno.html)|`2025-01-22 17:37:00`|`Valorant`|
 |[CHARACTER DUPE BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/678543-character-dupe-bypass.html)|`2025-01-22 17:02:00`|`DayZ SA`|
