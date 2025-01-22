@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[KMDU &#45; Kernel Mode Dumper Utilities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682955-kmdu-kernel-mode-dumper-utilities.html)|`2025-01-22 11:51:00`|`Anti-Cheat Bypass`|
 |[Need help with flashing mod bios MSI please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683429-help-flashing-mod-bios-msi-please.html)|`2025-01-22 11:05:00`|`Valorant`|
 |[PUBG Aimbot ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/683428-pubg-aimbot-esp.html)|`2025-01-22 11:03:00`|`PUBG Releases`|
 |[Wargods bypass in 2025?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/683427-wargods-bypass-2025-a.html)|`2025-01-22 10:44:00`|`CounterStrike 1.5, 1.6 and Mods`|
