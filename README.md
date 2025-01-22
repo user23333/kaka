@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[WZ BO6 Working Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675805-wz-bo6-base.html)|`2025-01-23 01:07:00`|`Call of Duty: Black Ops 6`|
+|[My Hero Ultra Rumble Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/604426-hero-ultra-rumble-cheat-table.html)|`2025-01-23 01:02:00`|`Other Games`|
+|[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2025-01-23 01:00:00`|`Counter-Strike 2`|
+|[EFT & Arena Simple radar &#91;DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/682758-eft-arena-simple-radar-dma.html)|`2025-01-23 00:57:00`|`Escape from Tarkov`|
 |[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-01-23 00:56:00`|`Sea of Thieves`|
 |[Looking for Hitsound method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/683434-looking-hitsound-method.html)|`2025-01-23 00:55:00`|`Alternative Online Mods`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-01-23 00:55:00`|`Counter-Strike 2`|
