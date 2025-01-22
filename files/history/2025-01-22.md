@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[P100 DLL Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/518015-p100-dll-injector.html)|`2025-01-22 16:33:00`|`Valorant`|
+|[Bot Lobby with only 1 PC and 1 Xbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/683284-bot-lobby-1-pc-1-xbox.html)|`2025-01-22 16:32:00`|`Call of Duty: Black Ops 6`|
+|[HOW TO GET SHADOW BAN IN B06 ACCOUNT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/682743-shadow-ban-b06-account.html)|`2025-01-22 16:27:00`|`Call of Duty: Black Ops 6`|
 |[DEVOUR &#45; Unlock All Robes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/439326-devour-unlock-robes.html)|`2025-01-22 16:06:00`|`Other Games`|
 |[The Crew Motorfest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/683441-crew-motorfest.html)|`2025-01-22 15:36:00`|`Other Games`|
 |[DLL hook source code that injects into default&#46;xbe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/xbox/683440-dll-hook-source-code-injects-default-xbe.html)|`2025-01-22 15:36:00`|`XBOX`|
