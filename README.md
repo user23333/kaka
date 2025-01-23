@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2025-01-24 05:35:00`|`Deadlock`|
 |[I want to start hacking eft&#46;&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/683634-start-hacking-eft.html)|`2025-01-24 05:33:00`|`Escape from Tarkov`|
 |[Strinova Basic Internal &#40;ESP/AIMBOT&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/643994-strinova-basic-internal-esp-aimbot.html)|`2025-01-24 05:31:00`|`Other FPS Games`|
 |[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2025-01-24 05:30:00`|`Elite: Dangerous`|
