@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG DMA cheat source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/667961-pubg-dma-cheat-source-code.html)|`2025-01-24 02:24:00`|`Playerunknown's Battlegrounds`|
+|[No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/675931-recoil.html)|`2025-01-24 02:21:00`|`Rainbow Six Siege`|
+|[does anyone got a public script/cheat for steam rust?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/682513-public-script-cheat-steam-rust.html)|`2025-01-24 02:11:00`|`Rust`|
+|[I want to get multiple game and vac bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/681284-multiple-game-vac-bans.html)|`2025-01-24 02:09:00`|`Forum General`|
+|[HiredOps Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/629531-hiredops-chams.html)|`2025-01-24 02:08:00`|`Other FPS Games`|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-01-24 02:07:00`|`Apex Legends`|
+|[anyone know a free game with low anti cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/683630-free-game-low-anti-cheat.html)|`2025-01-24 02:06:00`|`Forum General`|
+|[Elon Musk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/678909-elon-musk.html)|`2025-01-24 02:04:00`|`Off Topic`|
 |[Palworld Lifmunk Effigy ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/679723-palworld-lifmunk-effigy-esp.html)|`2025-01-24 01:53:00`|`Palworld`|
 |[Bot Lobby with only 1 PC and 1 Xbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/683284-bot-lobby-1-pc-1-xbox.html)|`2025-01-24 01:47:00`|`Call of Duty: Black Ops 6`|
 |[C&#43;&#43; BHop Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683393-bhop-internal.html)|`2025-01-24 01:46:00`|`Counter-Strike 2`|
