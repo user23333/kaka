@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-01-23 23:36:00`|`Counter-Strike 2`|
+|[Achiving Transparency in DX12/Vulkan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/683644-achiving-transparency-dx12-vulkan.html)|`2025-01-23 23:33:00`|`C and C++`|
 |[Helldivers 2 "Table for Cheat Engine"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/683642-helldivers-2-table-cheat-engine.html)|`2025-01-23 23:21:00`|`HELLDIVERS 2`|
 |[Hoyo Game dumper dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/666159-hoyo-game-dumper-dll.html)|`2025-01-23 22:54:00`|`Other Games`|
 |[Fivem External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/683637-fivem-external.html)|`2025-01-23 22:52:00`|`Alternative Online Mods`|
