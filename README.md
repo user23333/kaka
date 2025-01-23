@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Zula dll cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682239-zula-dll-cheat.html)|`2025-01-24 07:26:00`|`Other FPS Games`|
 |[data ptr swap win 11 24h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683598-data-ptr-swap-win-11-24h2.html)|`2025-01-24 07:21:00`|`Anti-Cheat Bypass`|
 |[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2025-01-24 07:13:00`|`DayZ SA`|
 |[W11 24H2 data ptr driver communication method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/652498-w11-24h2-data-ptr-driver-communication-method.html)|`2025-01-24 07:12:00`|`Anti-Cheat Bypass`|
