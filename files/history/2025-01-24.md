@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683096-valorant-internal.html)|`2025-01-24 00:28:00`|`Valorant`|
+|[GTA Online modding is DEAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681359-gta-online-modding-dead.html)|`2025-01-24 00:18:00`|`Grand Theft Auto V`|
+|[💸 VALORANT EXTERNAL V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/638001-valorant-external-v2.html)|`2025-01-24 00:13:00`|`Valorant`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-01-24 00:12:00`|`Rust`|
 |[Any new click method bypasses?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683134-click-method-bypasses.html)|`2025-01-24 00:09:00`|`Valorant`|
 |[Ultimate customizable TRIGGERBOT &#40;0&#45;100ms&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683552-ultimate-customizable-triggerbot-0-100ms.html)|`2025-01-24 00:07:00`|`Valorant`|
 |[Issue Connecting VXE R1 SE Mouse to Arduino Leonardo R3 USB Host Shield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682664-issue-connecting-vxe-r1-se-mouse-arduino-leonardo-r3-usb-host-shield.html)|`2025-01-24 00:07:00`|`Valorant`|
