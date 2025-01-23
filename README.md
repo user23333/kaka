@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hoyo Game dumper dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/666159-hoyo-game-dumper-dll.html)|`2025-01-23 22:54:00`|`Other Games`|
+|[Fivem External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/683637-fivem-external.html)|`2025-01-23 22:52:00`|`Alternative Online Mods`|
 |[HiredOps Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/629531-hiredops-chams.html)|`2025-01-23 22:33:00`|`Other FPS Games`|
 |[No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/675931-recoil.html)|`2025-01-23 22:29:00`|`Rainbow Six Siege`|
 |[Fishing Planet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/683635-fishing-planet.html)|`2025-01-23 22:20:00`|`Other Games`|
