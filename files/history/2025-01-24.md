@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[dbd&#45;extrenal&#45;aura ONLY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/683597-dbd-extrenal-aura.html)|`2025-01-24 01:26:00`|`Other FPS Games`|
+|[Marvel Rivals Undetected/Safe Free Macro 009](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680962-marvel-rivals-undetected-safe-free-macro-009-a.html)|`2025-01-24 01:26:00`|`Marvel Rivals`|
+|[Black panther macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/683574-black-panther-macro.html)|`2025-01-24 01:22:00`|`Marvel Rivals`|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-01-24 01:22:00`|`Grand Theft Auto V`|
+|[Does GHUB Stuff work on non&#45;logitech mice?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/683641-ghub-stuff-logitech-mice.html)|`2025-01-24 01:19:00`|`Rainbow Six Siege`|
+|[entitylist only for own team when selecting a team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/683652-entitylist-own-team-selecting-team.html)|`2025-01-24 01:17:00`|`Alternative Online Mods`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-01-24 01:16:00`|`Valorant`|
+|[Fivem External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/683637-fivem-external.html)|`2025-01-24 01:13:00`|`Alternative Online Mods`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-01-24 01:01:00`|`Escape from Tarkov`|
 |[R6 Recoil &#124; Info and Data Collection &#124; &#91;All Operator&#93;&#91;All Attachments&#93;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/681544-r6-recoil-info-data-collection-operator-attachments.html)|`2025-01-24 01:00:00`|`Rainbow Six Siege`|
 |[SCS2 &#45; Semi&#45;External Mod for Counter&#45;Strike 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/651580-scs2-semi-external-mod-counter-strike-2-a.html)|`2025-01-24 00:47:00`|`Counter-Strike 2 Releases`|
