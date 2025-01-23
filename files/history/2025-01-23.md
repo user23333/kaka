@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kernel injectors and red trust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683603-kernel-injectors-red-trust.html)|`2025-01-23 17:52:00`|`Counter-Strike 2`|
 |[20&#45;Hour Cooldowns – Aimbots Are Being Detected&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682413-20-hour-cooldowns-aimbots-detected.html)|`2025-01-23 17:44:00`|`Counter-Strike 2`|
 |[Simple Quick Scope Macro &#40;razer synapse&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/678423-simple-quick-scope-macro-razer-synapse.html)|`2025-01-23 17:17:00`|`Call of Duty: Black Ops 6`|
 |[Bone To Gather &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/682301-bone-gather-steam.html)|`2025-01-23 17:15:00`|`Cheat Engine Tables`|
