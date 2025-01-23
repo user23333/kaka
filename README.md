@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Undetected injector EAC &#40;22&#46;12&#46;2024&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678400-undetected-injector-eac-22-12-2024-a.html)|`2025-01-24 07:06:00`|`Anti-Cheat Bypass`|
+|[Why is Vanguard so bad at detecting colorbots?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683535-vanguard-bad-detecting-colorbots.html)|`2025-01-24 07:02:00`|`Valorant`|
+|[I Need DSE&#45;Patcher for Win11&#45; 24H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683763-dse-patcher-win11-24h2.html)|`2025-01-24 07:00:00`|`Anti-Cheat Bypass`|
+|[Cheat Engine &#43; Driver Questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683004-cheat-engine-driver-questions.html)|`2025-01-24 06:56:00`|`Anti-Cheat Bypass`|
 |[Undetected Cheat Engine &#43; Driver &#124; 2023 &#124; Bypass Anticheats &#40;BE / EAC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/504191-undetected-cheat-engine-driver-2023-bypass-anticheats-eac.html)|`2025-01-24 06:53:00`|`Anti-Cheat Bypass`|
 |[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-01-24 06:48:00`|`Battlefield 4`|
 |[Marvel Rivals VTable Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/683762-marvel-rivals-vtable-dump.html)|`2025-01-24 06:44:00`|`Marvel Rivals`|
