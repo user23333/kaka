@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SCS2 &#45; Semi&#45;External Mod for Counter&#45;Strike 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/651580-scs2-semi-external-mod-counter-strike-2-a.html)|`2025-01-24 00:47:00`|`Counter-Strike 2 Releases`|
+|[Luna &#124; Free CS2 Cheat &#124; INTERNAL &#124; ESP, Aim, BHop, &#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/681945-luna-free-cs2-cheat-internal-esp-aim-bhop.html)|`2025-01-24 00:46:00`|`Counter-Strike 2 Releases`|
+|[Global Ban 10y](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/683485-global-ban-10y.html)|`2025-01-24 00:43:00`|`PUBG Mobile`|
+|[Recoil Control System in CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683648-recoil-control-system-cs2.html)|`2025-01-24 00:40:00`|`Counter-Strike 2`|
 |[Valorant internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683096-valorant-internal.html)|`2025-01-24 00:28:00`|`Valorant`|
 |[GTA Online modding is DEAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681359-gta-online-modding-dead.html)|`2025-01-24 00:18:00`|`Grand Theft Auto V`|
 |[💸 VALORANT EXTERNAL V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/638001-valorant-external-v2.html)|`2025-01-24 00:13:00`|`Valorant`|
