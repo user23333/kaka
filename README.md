@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[data ptr swap win 11 24h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683598-data-ptr-swap-win-11-24h2.html)|`2025-01-23 15:17:00`|`Anti-Cheat Bypass`|
+|[dbd&#45;extrenal&#45;aura ONLY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/683597-dbd-extrenal-aura.html)|`2025-01-23 15:16:00`|`Other FPS Games`|
 |[How do commend bots work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683595-commend-bots.html)|`2025-01-23 15:01:00`|`Counter-Strike 2`|
 |[RUST MAP PASSWORD UNLOCKER / REWRITER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/683593-rust-map-password-unlocker-rewriter.html)|`2025-01-23 14:15:00`|`Rust`|
 |[Good R6S Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/683591-r6s-cheat.html)|`2025-01-23 13:58:00`|`Rainbow Six Siege`|
