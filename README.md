@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[In&#45;depth ASUS Motherboard AMI Bios Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/666894-depth-asus-motherboard-ami-bios-spoofing.html)|`2025-01-23 18:52:00`|`Anti-Cheat Bypass`|
 |[Are there any free Samples, Reqs and super credit bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/681617-free-samples-reqs-super-credit-bypass.html)|`2025-01-23 18:39:00`|`HELLDIVERS 2`|
 |[Сreating a pixel aimbot for ahk&#46; I need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/683616-reating-pixel-aimbot-ahk-help.html)|`2025-01-23 18:38:00`|`Forum General`|
 |[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-01-23 18:37:00`|`Call of Duty: Black Ops 3`|
