@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple Quick Scope Macro &#40;razer synapse&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/678423-simple-quick-scope-macro-razer-synapse.html)|`2025-01-23 17:17:00`|`Call of Duty: Black Ops 6`|
+|[Bone To Gather &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/682301-bone-gather-steam.html)|`2025-01-23 17:15:00`|`Cheat Engine Tables`|
+|[rdo crashing when injecting/running](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/611650-rdo-crashing-injecting-running.html)|`2025-01-23 17:15:00`|`Red Dead Redemption 2`|
+|[Pubg Mobile Global 32 bit internal dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/675253-pubg-mobile-global-32-bit-internal-dll.html)|`2025-01-23 17:13:00`|`PUBG Mobile`|
 |[Universal Ac bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/658736-universal-ac-bypass.html)|`2025-01-23 16:40:00`|`Anti-Cheat Bypass`|
 |[External Raycasting &#40;PhysX recreation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673196-external-raycasting-physx-recreation.html)|`2025-01-23 16:11:00`|`Escape from Tarkov`|
 |[Universal No Recoil script using python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/678809-universal-recoil-script-using-python.html)|`2025-01-23 16:07:00`|`Other FPS Games`|
