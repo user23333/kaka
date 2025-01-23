@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-01-24 01:01:00`|`Escape from Tarkov`|
+|[R6 Recoil &#124; Info and Data Collection &#124; &#91;All Operator&#93;&#91;All Attachments&#93;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/681544-r6-recoil-info-data-collection-operator-attachments.html)|`2025-01-24 01:00:00`|`Rainbow Six Siege`|
 |[SCS2 &#45; Semi&#45;External Mod for Counter&#45;Strike 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/651580-scs2-semi-external-mod-counter-strike-2-a.html)|`2025-01-24 00:47:00`|`Counter-Strike 2 Releases`|
 |[Luna &#124; Free CS2 Cheat &#124; INTERNAL &#124; ESP, Aim, BHop, &#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/681945-luna-free-cs2-cheat-internal-esp-aim-bhop.html)|`2025-01-24 00:46:00`|`Counter-Strike 2 Releases`|
 |[Global Ban 10y](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/683485-global-ban-10y.html)|`2025-01-24 00:43:00`|`PUBG Mobile`|
