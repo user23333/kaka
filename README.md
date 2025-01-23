@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Rage Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683538-cs2-rage-menu.html)|`2025-01-23 11:51:00`|`Counter-Strike 2`|
+|[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-01-23 11:50:00`|`HELLDIVERS 2`|
 |[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2025-01-23 11:25:00`|`Overwatch`|
 |[EAC Remote Access VS Keyboard Usage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683586-eac-remote-access-vs-keyboard-usage.html)|`2025-01-23 11:24:00`|`Anti-Cheat Bypass`|
 |[Ultimate menu: Nightclub safe loop safe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/680499-ultimate-menu-nightclub-safe-loop-safe.html)|`2025-01-23 11:12:00`|`Grand Theft Auto V`|
