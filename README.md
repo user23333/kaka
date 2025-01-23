@@ -33,6 +33,8 @@
 |1|[Minecraft&#46;Windows&#46;4&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48352)|`2025-01-23 01:30:44`|
 |1|[KingVon Internal fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48351)|`2025-01-23 15:57:41`|
 |1|[ExfilzoneEACBypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48323)|`2025-01-23 19:45:48`|
+|1|[MarvelRivalsSDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48385)|`2025-01-23 23:10:59`|
+|2|[FortniteGame&#45;33&#46;20&#45;CL&#45;39277041 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48378)|`2025-01-23 23:10:59`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
