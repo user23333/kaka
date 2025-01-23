@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GamerFun AI Menu: All mouse Aimbot, Triggerbot & Recoil Control Using LGUB Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671029-gamerfun-ai-menu-mouse-aimbot-triggerbot-recoil-control-using-lgub-drivers.html)|`2025-01-23 18:20:00`|`Rainbow Six Siege`|
 |[BO6 Enhanced Color Aim AHK GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671390-bo6-enhanced-color-aim-ahk-gui.html)|`2025-01-23 18:00:00`|`Call of Duty: Black Ops 6`|
 |[How to Inject?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/681924-inject.html)|`2025-01-23 17:55:00`|`Marvel Rivals`|
 |[Kernel injectors and red trust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683603-kernel-injectors-red-trust.html)|`2025-01-23 17:52:00`|`Counter-Strike 2`|
