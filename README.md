@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ultimate menu: Nightclub safe loop safe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/680499-ultimate-menu-nightclub-safe-loop-safe.html)|`2025-01-23 11:12:00`|`Grand Theft Auto V`|
 |[Fallout 76 NifScope &#46;nif editing question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/683583-fallout-76-nifscope-nif-editing-question.html)|`2025-01-23 10:17:00`|`Other FPS Games`|
 |[HLL: Hell Let Loose](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/340677-hll-hell-loose.html)|`2025-01-23 09:59:00`|`Other FPS Games`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-01-23 09:28:00`|`Counter-Strike 2 Releases`|
