@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Exploring Advanced Aimbot Possibilities Beyond Color&#45;Based Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682666-exploring-advanced-aimbot-possibilities-beyond-color-based-methods.html)|`2025-01-23 22:05:00`|`Valorant`|
+|[Avoiding ban through network](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683489-avoiding-ban-network.html)|`2025-01-23 22:03:00`|`Valorant`|
+|[RE&#45;Class DMA Plugin help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/683321-re-class-dma-plugin-help.html)|`2025-01-23 22:03:00`|`Call of Duty: Black Ops 6`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-01-23 21:58:00`|`Other MMORPG and Strategy`|
 |[PUBG DMA cheat source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/667961-pubg-dma-cheat-source-code.html)|`2025-01-23 21:55:00`|`Playerunknown's Battlegrounds`|
 |[Help Me Update No Recoil Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/683298-help-update-recoil-script.html)|`2025-01-23 21:52:00`|`Playerunknown's Battlegrounds`|
 |[How to obtain skill cooldown?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/682371-obtain-skill-cooldown.html)|`2025-01-23 21:44:00`|`Marvel Rivals`|
