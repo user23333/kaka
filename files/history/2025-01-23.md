@@ -32,9 +32,11 @@
 |2|[Marvel Rivals SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48375)|`2025-01-23 01:30:44`|
 |1|[Minecraft&#46;Windows&#46;4&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48352)|`2025-01-23 01:30:44`|
 |1|[KingVon Internal fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48351)|`2025-01-23 15:57:41`|
+|1|[ExfilzoneEACBypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48323)|`2025-01-23 19:45:48`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Contractors Exfilzone VR &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682747-contractors-exfilzone-vr-steam.html)|`2025-01-23 19:42:00`|`Other FPS Games`|
 |[rgb vs hsv &#40;color aimbot/triggerbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683557-rgb-vs-hsv-color-aimbot-triggerbot.html)|`2025-01-23 19:38:00`|`Valorant`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-01-23 19:01:00`|`Phasmophobia`|
 |[Frameware Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/677239-frameware-release.html)|`2025-01-23 19:00:00`|`Overwatch`|
