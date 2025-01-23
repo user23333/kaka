@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-01-24 03:40:00`|`Other FPS Games`|
+|[Hell Let Loose](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/458816-hell-loose.html)|`2025-01-24 03:39:00`|`Other FPS Games`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-01-24 03:39:00`|`Other FPS Games`|
+|[Kovaak's FPS Aim Trainer External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/595259-kovaaks-fps-aim-trainer-external-cheat.html)|`2025-01-24 03:38:00`|`Other FPS Games`|
 |[Hell Let Loose Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/683373-hell-loose-internal-cheat.html)|`2025-01-24 03:20:00`|`Other FPS Games`|
 |[Deep Rock Galactic: Deep Dive Delirium &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/617904-deep-rock-galactic-deep-dive-delirium-internal.html)|`2025-01-24 03:15:00`|`Other Single Player Games`|
 |[Raycast &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/678606-raycast-external.html)|`2025-01-24 03:13:00`|`Garry's Mod`|
