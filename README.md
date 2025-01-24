@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat Garry's Mod ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/682948-cheat-garrys-mod.html)|`2025-01-25 07:35:00`|`Garry's Mod`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-01-25 07:29:00`|`Playerunknown's Battlegrounds`|
 |[VALORANT MINION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673460-valorant-minion.html)|`2025-01-25 07:25:00`|`Valorant`|
 |[Mouse&#95;Event detected now](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/683536-mouse_event-detected.html)|`2025-01-25 07:05:00`|`Rainbow Six Siege`|
 |[Riot Vanguard Full Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683732-riot-vanguard-analysis.html)|`2025-01-25 07:03:00`|`Anti-Cheat Bypass`|
