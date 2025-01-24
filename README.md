@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[need help getting a railgun](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/683789-help-getting-railgun.html)|`2025-01-24 10:41:00`|`Grand Theft Auto V`|
+|[BLACK OPS 6 AIM ASSIST &#40;AHK&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671940-black-ops-6-aim-assist-ahk.html)|`2025-01-24 10:41:00`|`Call of Duty: Black Ops 6`|
+|[Aimbot &#43;ESP &#43; Chams and etc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680110-aimbot-esp-chams-etc.html)|`2025-01-24 10:33:00`|`Marvel Rivals`|
+|[GL 32BIT 10MIN BAN FIX PLZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/683792-gl-32bit-10min-ban-fix-plz.html)|`2025-01-24 10:13:00`|`Playerunknown's Battlegrounds`|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots &#40;Source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/643621-spankerfield-beautiful-esp-code-base-clean-screenshots-source.html)|`2025-01-24 10:09:00`|`Battlefield 4`|
 |[Tarkov Pve Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/683099-tarkov-pve-cheat-engine.html)|`2025-01-24 09:58:00`|`Escape from Tarkov`|
 |[List of every item in the game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/683570-list-item-game.html)|`2025-01-24 09:56:00`|`Escape from Tarkov`|
 |[Contractors Exfilzone VR &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682747-contractors-exfilzone-vr-steam.html)|`2025-01-24 09:55:00`|`Other FPS Games`|
