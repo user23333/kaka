@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mouse&#95;Event detected now](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/683536-mouse_event-detected.html)|`2025-01-25 07:05:00`|`Rainbow Six Siege`|
+|[Riot Vanguard Full Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683732-riot-vanguard-analysis.html)|`2025-01-25 07:03:00`|`Anti-Cheat Bypass`|
 |[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-01-25 06:54:00`|`Marvel Rivals`|
 |[How to use any Tools for Fivem without it detecting and crashing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/683548-tools-fivem-detecting-crashing.html)|`2025-01-25 06:49:00`|`Alternative Online Mods`|
 |[need help getting a railgun](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/683789-help-getting-railgun.html)|`2025-01-25 06:38:00`|`Grand Theft Auto V`|
