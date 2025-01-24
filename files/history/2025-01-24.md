@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AHK MultiScript &#124; Pean's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605440-ahk-multiscript-peans-rcs.html)|`2025-01-24 12:13:00`|`Counter-Strike 2 Releases`|
 |[Dynamic Humanized Aimbot Logic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683798-dynamic-humanized-aimbot-logic.html)|`2025-01-24 11:55:00`|`Counter-Strike 2`|
 |[DMA CUSTOM FIRMWARE GUIDE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/613135-dma-custom-firmware-guide.html)|`2025-01-24 11:16:00`|`Anti-Cheat Bypass`|
 |[EFT SPT 3&#46;10&#46;4 Cheat &#40;Update to lIllIIllII's cheat&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/682753-eft-spt-3-10-4-cheat-update-lilliilliis-cheat.html)|`2025-01-24 10:51:00`|`Escape from Tarkov`|
