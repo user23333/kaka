@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Remaster: Spankerfield &#43; Hyperhook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/679728-remaster-spankerfield-hyperhook.html)|`2025-01-25 02:35:00`|`Battlefield 4`|
 |[SCS2 &#45; Semi&#45;External Mod for Counter&#45;Strike 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/651580-scs2-semi-external-mod-counter-strike-2-a.html)|`2025-01-25 02:33:00`|`Counter-Strike 2 Releases`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-01-25 02:19:00`|`Rust`|
 |[Chaos Menu & Lua Executor "REDM"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/593368-chaos-menu-lua-executor-redm.html)|`2025-01-25 02:18:00`|`Red Dead Redemption 2`|
