@@ -12,6 +12,7 @@
 |6|[KMDU &#45; Kernel Mode Dumper Utilities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682955-kmdu-kernel-mode-dumper-utilities.html)|`2025-01-24 00:10:29`|`anti-cheat-bypass`|
 |15|[Hell Let Loose Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/683373-hell-loose-internal-cheat.html)|`2025-01-24 00:10:29`|`other-fps-games`|
 |9|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-01-24 04:54:34`|`counter-strike-2-a`|
+|3|[EFT & Arena Simple radar &#91;DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/682758-eft-arena-simple-radar-dma.html)|`2025-01-24 09:59:00`|`escape-from-tarkov`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Tarkov Pve Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/683099-tarkov-pve-cheat-engine.html)|`2025-01-24 09:58:00`|`Escape from Tarkov`|
+|[List of every item in the game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/683570-list-item-game.html)|`2025-01-24 09:56:00`|`Escape from Tarkov`|
+|[Contractors Exfilzone VR &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682747-contractors-exfilzone-vr-steam.html)|`2025-01-24 09:55:00`|`Other FPS Games`|
+|[DENUVO ANTI CHEAT BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/682775-denuvo-anti-cheat-bypass.html)|`2025-01-24 09:50:00`|`Anti-Cheat Bypass`|
+|[launch without EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/683790-launch-eac.html)|`2025-01-24 09:43:00`|`Sea of Thieves`|
+|[CSS &#40;STEAM&#41; Full External&#40;Kernel&#41; WH and other functions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/680279-css-steam-external-kernel-wh-functions.html)|`2025-01-24 09:42:00`|`CounterStrike Source`|
 |[CSGO2 BUG ESP USING CS2 FILES WORKS ON MATCHMAKING &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683766-csgo2-bug-esp-using-cs2-files-matchmaking.html)|`2025-01-24 08:32:00`|`Counter-Strike 2`|
 |[Definitive Ultimate Cheatpack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/633084-definitive-ultimate-cheatpack.html)|`2025-01-24 08:31:00`|`Star Wars Battlefront 2`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-01-24 08:22:00`|`Other Games`|
