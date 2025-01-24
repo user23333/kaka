@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stalker 2: Heart of Chernobyl &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/683026-stalker-2-heart-chernobyl-external.html)|`2025-01-24 16:25:00`|`Other Single Player Games`|
+|[VPN Connecting To Lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675679-vpn-connecting-lobby.html)|`2025-01-24 15:57:00`|`Call of Duty: Black Ops 6`|
+|[PUBG No recoil macro For all razer mouse using Razer synapse &#91;Undetected&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/658324-pubg-recoil-macro-razer-mouse-using-razer-synapse-undetected.html)|`2025-01-24 15:28:00`|`PUBG Releases`|
 |[SOURCE &#124; External Aimbot w/ Dynamic Hitbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/682229-source-external-aimbot-dynamic-hitbox.html)|`2025-01-24 15:28:00`|`Counter-Strike 2 Releases`|
 |[YimMenu&#46;dll 1&#46;70 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678007-yimmenu-dll-1-70-update.html)|`2025-01-24 15:12:00`|`Grand Theft Auto V`|
 |[How does arduino work as a replacement for kmbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/681460-arduino-replacement-kmbox.html)|`2025-01-24 14:58:00`|`Anti-Cheat Bypass`|
