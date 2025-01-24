@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG PC Steelseries macro?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/680768-pubg-pc-steelseries-macro.html)|`2025-01-25 04:40:00`|`PUBG Releases`|
 |[Hell Let Loose Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/683373-hell-loose-internal-cheat.html)|`2025-01-25 04:30:00`|`Other FPS Games`|
 |[Dynamic Humanized Aimbot Logic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683798-dynamic-humanized-aimbot-logic.html)|`2025-01-25 04:30:00`|`Counter-Strike 2`|
 |[Team Fortress 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/102936-team-fortress-2-reversal-structs-offsets.html)|`2025-01-25 03:55:00`|`Team Fortress 2`|
