@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bot Lobby with only 1 PC and 1 Xbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/683284-bot-lobby-1-pc-1-xbox.html)|`2025-01-25 06:10:00`|`Call of Duty: Black Ops 6`|
 |[I Need DSE&#45;Patcher for Win11&#45; 24H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683763-dse-patcher-win11-24h2.html)|`2025-01-25 06:00:00`|`Anti-Cheat Bypass`|
 |[Python can only read some memory??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/683905-python-read-memory.html)|`2025-01-25 05:59:00`|`Alternative Online Mods`|
 |[anyone know a free game with low anti cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/683630-free-game-low-anti-cheat.html)|`2025-01-25 05:42:00`|`Forum General`|
