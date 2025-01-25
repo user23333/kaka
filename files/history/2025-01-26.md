@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GamerFun AI Menu: All mouse Aimbot, Triggerbot & Recoil Control Using LGUB Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671029-gamerfun-ai-menu-mouse-aimbot-triggerbot-recoil-control-using-lgub-drivers.html)|`2025-01-26 03:51:00`|`Rainbow Six Siege`|
+|[Rocket League &#45; Unlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/624955-rocket-league-unlock.html)|`2025-01-26 03:51:00`|`Other Games`|
 |[Writing an interpreter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/684032-writing-interpreter.html)|`2025-01-26 03:44:00`|`General Programming and Reversing`|
 |[Using vuln driver to r/w directly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684031-using-vuln-driver-directly.html)|`2025-01-26 03:43:00`|`Anti-Cheat Bypass`|
 |[Internal Draw Crash Problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684030-internal-draw-crash.html)|`2025-01-26 03:42:00`|`Valorant`|
