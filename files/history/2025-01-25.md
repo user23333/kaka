@@ -33,9 +33,12 @@
 |60|[Minecraft&#46;Windows&#46;4&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48352)|`2025-01-25 00:11:25`|
 |1|[Universal Unity Hacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48417)|`2025-01-25 12:00:08`|
 |1|[ZortMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48414)|`2025-01-25 12:00:08`|
+|1|[NamedVTableDump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48410)|`2025-01-25 21:42:02`|
+|1|[Readable VTables Dump Marvel Rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48409)|`2025-01-25 21:42:02`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Skin Finisher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680793-skin-finisher.html)|`2025-01-25 21:36:00`|`Valorant`|
 |[JNI exploiting Thaumcraft 4 mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/683985-jni-exploiting-thaumcraft-4-mod.html)|`2025-01-25 21:27:00`|`Minecraft`|
 |[Issue Connecting VXE R1 SE Mouse to Arduino Leonardo R3 USB Host Shield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682664-issue-connecting-vxe-r1-se-mouse-arduino-leonardo-r3-usb-host-shield.html)|`2025-01-25 21:21:00`|`Valorant`|
 |[val unlock all](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683984-val-unlock.html)|`2025-01-25 21:02:00`|`Valorant`|
