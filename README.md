@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Seriously no free cheat out there?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/683908-seriously-free-cheat.html)|`2025-01-25 17:33:00`|`Call of Duty: Black Ops 6`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-01-25 17:09:00`|`Counter-Strike 2`|
 |[Belt Problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/683960-belt.html)|`2025-01-25 16:43:00`|`Rust`|
 |[Wuthering Waves v1&#46;1 hellokittyfan48 WW&#45;enhancer &#40;Multihit, Dumb enemies, ESP, Fly&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/645722-wuthering-waves-v1-1-hellokittyfan48-ww-enhancer-multihit-dumb-enemies-esp-fly.html)|`2025-01-25 16:36:00`|`Other MMORPG and Strategy`|
