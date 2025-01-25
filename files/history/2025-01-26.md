@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Riot Vanguard Full Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683732-riot-vanguard-analysis.html)|`2025-01-26 05:53:00`|`Anti-Cheat Bypass`|
+|[Need Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/684049-update.html)|`2025-01-26 05:52:00`|`PUBG Mobile`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-01-26 05:49:00`|`Marvel Rivals`|
 |[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-01-26 05:43:00`|`Grand Theft Auto V`|
 |[Ultimate HvH CHEAT with ZXCMODULE &#40;Backtrack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/683074-ultimate-hvh-cheat-zxcmodule-backtrack.html)|`2025-01-26 05:42:00`|`Garry's Mod`|
 |[Marvel Rivals VTable Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/683762-marvel-rivals-vtable-dump.html)|`2025-01-26 05:26:00`|`Marvel Rivals`|
