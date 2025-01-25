@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-01-26 02:12:00`|`Rust`|
+|[Aim at YOLO detected objects](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682380-aim-yolo-detected-objects.html)|`2025-01-26 01:35:00`|`Counter-Strike 2`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-01-26 01:58:00`|`Playerunknown's Battlegrounds`|
 |[3 new accounts banned, will the main one be banned too?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/683900-3-accounts-banned-main-banned.html)|`2025-01-26 01:34:00`|`Overwatch`|
 |[Bypass EAC Shuffle cr3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683164-bypass-eac-shuffle-cr3.html)|`2025-01-26 01:32:00`|`Anti-Cheat Bypass`|
