@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[1 click woofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683983-1-click-woofer.html)|`2025-01-25 20:57:00`|`Valorant`|
+|[Workin Vgk bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683982-workin-vgk-bypass.html)|`2025-01-25 20:51:00`|`Valorant`|
+|[HOW TO GET SHADOW BAN IN B06 ACCOUNT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/682743-shadow-ban-b06-account.html)|`2025-01-25 20:50:00`|`Call of Duty: Black Ops 6`|
+|[BLACK OPS 6 AIM ASSIST &#40;AHK&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671940-black-ops-6-aim-assist-ahk.html)|`2025-01-25 20:47:00`|`Call of Duty: Black Ops 6`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-01-25 20:47:00`|`Other FPS Games`|
 |[working r6 injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/683981-r6-injector.html)|`2025-01-25 20:45:00`|`Rainbow Six Siege`|
 |[Outfit Editor   and  BBOB&#40;browser extension that generates Outfits Code for Bincohax&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/624819-outfit-editor-bbob-browser-extension-generates-outfits-code-bincohax.html)|`2025-01-25 20:39:00`|`Grand Theft Auto V`|
