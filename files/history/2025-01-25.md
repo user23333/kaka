@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Universal No Recoil script using python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/678809-universal-recoil-script-using-python.html)|`2025-01-25 11:29:00`|`Other FPS Games`|
 |[What be the limits for Yim&#43;Ultimate heist %?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/682427-limits-yim-ultimate-heist.html)|`2025-01-25 11:19:00`|`Grand Theft Auto V`|
 |[Outlast Trials, Cosmetic Unlocker?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/683805-outlast-trials-cosmetic-unlocker.html)|`2025-01-25 11:11:00`|`Other Games`|
 |[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2025-01-25 11:06:00`|`Other FPS Games`|
