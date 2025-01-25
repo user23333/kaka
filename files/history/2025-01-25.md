@@ -17,6 +17,7 @@
 |13|[Any new click method bypasses?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683134-click-method-bypasses.html)|`2025-01-25 11:28:16`|`valorant`|
 |8|[Humanized aimbot using AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683133-humanized-aimbot-using-ai.html)|`2025-01-25 11:42:08`|`counter-strike-2-a`|
 |6|[Why is Vanguard so bad at detecting colorbots?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683535-vanguard-bad-detecting-colorbots.html)|`2025-01-25 12:43:26`|`valorant`|
+|6|[CSGO2 BUG ESP USING CS2 FILES WORKS ON MATCHMAKING &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683766-csgo2-bug-esp-using-cs2-files-matchmaking.html)|`2025-01-25 20:47:54`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-01-25 20:47:00`|`Other FPS Games`|
+|[working r6 injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/683981-r6-injector.html)|`2025-01-25 20:45:00`|`Rainbow Six Siege`|
+|[Outfit Editor   and  BBOB&#40;browser extension that generates Outfits Code for Bincohax&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/624819-outfit-editor-bbob-browser-extension-generates-outfits-code-bincohax.html)|`2025-01-25 20:39:00`|`Grand Theft Auto V`|
+|[Is there any internal skin/hat changers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/683901-internal-skin-hat-changers.html)|`2025-01-25 20:25:00`|`Team Fortress 2`|
+|[Universal Ac bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/658736-universal-ac-bypass.html)|`2025-01-25 20:23:00`|`Anti-Cheat Bypass`|
 |[3 new accounts banned, will the main one be banned too?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/683900-3-accounts-banned-main-banned.html)|`2025-01-25 20:10:00`|`Overwatch`|
 |[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2025-01-25 19:48:00`|`Counter-Strike 2`|
 |[Contractors Exfilzone VR &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682747-contractors-exfilzone-vr-steam.html)|`2025-01-25 19:36:00`|`Other FPS Games`|
