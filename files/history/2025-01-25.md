@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Undetected R6 Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/678779-undetected-r6-injector.html)|`2025-01-25 14:39:00`|`Rainbow Six Siege`|
+|[Free Cheat Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/677967-free-cheat-chams.html)|`2025-01-25 14:38:00`|`Rainbow Six Siege`|
+|[Anti&#45;Recoil Universal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/626683-anti-recoil-universal.html)|`2025-01-25 14:36:00`|`Rainbow Six Siege`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-01-25 14:19:00`|`Grand Theft Auto V`|
 |[Help with Extracting Incomplete ZIP, RAR, or 7z Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-software/683167-help-extracting-incomplete-zip-rar-7z-files.html)|`2025-01-25 14:03:00`|`Other Software`|
 |[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-01-25 13:48:00`|`Other FPS Games`|
