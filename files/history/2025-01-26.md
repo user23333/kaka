@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Refined Fast Valorant Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683887-refined-fast-valorant-triggerbot.html)|`2025-01-26 03:40:00`|`Valorant`|
 |[Lethal Menu &#45; Lethal Company Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/615575-lethal-menu-lethal-company-cheat.html)|`2025-01-26 03:35:00`|`Lethal Company`|
 |[&#91;STEAM&#93; Final Fantasy Vii Remake Integrade](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/684028-steam-final-fantasy-vii-remake-integrade.html)|`2025-01-26 03:31:00`|`Cheat Engine Tables`|
 |[ahk triggerbot not working anymore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684019-ahk-triggerbot-anymore.html)|`2025-01-26 03:30:00`|`Valorant`|
