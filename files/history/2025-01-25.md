@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EFT & Arena Simple radar &#91;DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/682758-eft-arena-simple-radar-dma.html)|`2025-01-25 22:10:00`|`Escape from Tarkov`|
 |[How to start learning reverse engineering of Fivem / GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/683411-start-learning-reverse-engineering-fivem-gta.html)|`2025-01-25 21:58:00`|`Alternative Online Mods`|
 |[Skin Finisher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680793-skin-finisher.html)|`2025-01-25 21:36:00`|`Valorant`|
 |[JNI exploiting Thaumcraft 4 mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/683985-jni-exploiting-thaumcraft-4-mod.html)|`2025-01-25 21:27:00`|`Minecraft`|
