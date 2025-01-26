@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[calling the game functions from externaly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/684139-calling-game-functions-externaly.html)|`2025-01-26 15:28:00`|`Rust`|
 |[Melee Prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/591325-melee-prediction.html)|`2025-01-26 15:21:00`|`Rust`|
 |[Internal thirdperson lowering fps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684048-internal-thirdperson-lowering-fps.html)|`2025-01-26 15:02:00`|`Counter-Strike 2`|
 |[How to avoid the Echo AC Scanner?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/682750-avoid-echo-ac-scanner.html)|`2025-01-26 15:02:00`|`Alternative Online Mods`|
