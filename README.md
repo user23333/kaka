@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dynamic Humanized Aimbot Logic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683798-dynamic-humanized-aimbot-logic.html)|`2025-01-27 00:43:00`|`Counter-Strike 2`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-01-27 00:25:00`|`Escape from Tarkov`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-01-27 00:21:00`|`Counter-Strike 2`|
 |[CSGO2 BUG ESP USING CS2 FILES WORKS ON MATCHMAKING &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683766-csgo2-bug-esp-using-cs2-files-matchmaking.html)|`2025-01-27 00:20:00`|`Counter-Strike 2`|
