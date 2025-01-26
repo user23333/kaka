@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Competitive VS Premiere](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682382-competitive-vs-premiere.html)|`2025-01-26 23:34:00`|`Counter-Strike 2`|
+|[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2025-01-26 23:34:00`|`Other FPS Games`|
+|[Universal Unity Aimbot, ESP and Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/683904-universal-unity-aimbot-esp-triggerbot.html)|`2025-01-26 23:33:00`|`Unity`|
+|[&#91;DMA&#93; Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677518-dma-squad.html)|`2025-01-26 23:32:00`|`Other FPS Games`|
+|[Problem in DeviceIoControl dispatch routine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/684165-deviceiocontrol-dispatch-routine.html)|`2025-01-26 23:30:00`|`General Programming and Reversing`|
+|[D3D Hook Rust &#62; HELP SETUP HOOK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/684164-d3d-hook-rust-help-setup-hook.html)|`2025-01-26 23:30:00`|`Rust`|
 |[Extreme Injector v3&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/213038-extreme-injector-v3-7-a.html)|`2025-01-26 23:14:00`|`General Programming and Reversing`|
 |[data ptr swap driver win10 22h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683100-data-ptr-swap-driver-win10-22h2.html)|`2025-01-26 22:57:00`|`Anti-Cheat Bypass`|
 |[finding pointer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/684163-finding-pointer.html)|`2025-01-26 22:44:00`|`Other Games`|
