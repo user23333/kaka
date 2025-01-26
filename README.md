@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-01-26 10:40:00`|`Other Games`|
+|[Smite Speed Hack&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/684072-smite-speed-hack.html)|`2025-01-26 10:28:00`|`Paladins`|
+|[SAOIF PC &#40;STEAM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/683943-saoif-pc-steam.html)|`2025-01-26 10:11:00`|`Other MMORPG and Strategy`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-01-26 09:49:00`|`DayZ SA`|
 |[I found a way to unban GTA V but I'm not sure&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/684066-found-unban-gta-im.html)|`2025-01-26 09:14:00`|`Grand Theft Auto V`|
 |[CHEAT ADVANCED WARFARE &#124; S1X/STEAM &#40;UNDETECTED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-advanced-warfare/681001-cheat-advanced-warfare-s1x-steam-undetected.html)|`2025-01-26 08:52:00`|`Call of Duty: Advanced Warfare`|
