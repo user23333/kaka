@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ZORT Spawn Menu &#91;BepinEx&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/683876-zort-spawn-menu-bepinex.html)|`2025-01-27 00:57:00`|`Other FPS Games`|
+|[Starting with DMA vs Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/682997-starting-dma-vs-internal.html)|`2025-01-27 00:56:00`|`Escape from Tarkov`|
+|[&#91;External&#93; Need heeeeeelp&#33;&#33;Thank you all](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/683871-external-heeeeeelp-thank.html)|`2025-01-27 00:54:00`|`Grand Theft Auto V`|
+|[Riot Vanguard Full Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683732-riot-vanguard-analysis.html)|`2025-01-27 00:54:00`|`Anti-Cheat Bypass`|
+|[Signed Driver and EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684010-signed-driver-eac.html)|`2025-01-27 00:52:00`|`Anti-Cheat Bypass`|
+|[BLACK OPS 6 AIM ASSIST &#40;AHK&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671940-black-ops-6-aim-assist-ahk.html)|`2025-01-27 00:51:00`|`Call of Duty: Black Ops 6`|
 |[Dynamic Humanized Aimbot Logic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683798-dynamic-humanized-aimbot-logic.html)|`2025-01-27 00:43:00`|`Counter-Strike 2`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-01-27 00:25:00`|`Escape from Tarkov`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-01-27 00:21:00`|`Counter-Strike 2`|
