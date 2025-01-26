@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2025-01-27 04:56:00`|`Other FPS Games`|
+|[Andromeda DeadLock &#40;Internal Base&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/681199-andromeda-deadlock-internal-base.html)|`2025-01-27 04:49:00`|`Deadlock`|
+|[Hell Let Loose Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/683373-hell-loose-internal-cheat.html)|`2025-01-27 04:48:00`|`Other FPS Games`|
+|[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2025-01-27 04:44:00`|`Grand Theft Auto V`|
 |[RtlLookupFunctionEntry](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684148-rtllookupfunctionentry.html)|`2025-01-27 04:41:00`|`Anti-Cheat Bypass`|
 |[Chams materials external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/684023-chams-materials-external.html)|`2025-01-27 04:40:00`|`Rust`|
 |[BOIII Client ZM External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/684226-boiii-client-zm-external.html)|`2025-01-27 04:26:00`|`Call of Duty: Black Ops 3`|
