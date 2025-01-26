@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[anyone got a good skin changer??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684231-skin-changer.html)|`2025-01-27 05:39:00`|`Counter-Strike 2`|
 |[H1emu Anticheat & Asset Integrity Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/684074-h1emu-anticheat-asset-integrity-bypass.html)|`2025-01-27 05:32:00`|`H1Z1`|
 |[Fastest Python Valorant Triggerbot &#40;fr&#41;&#40;fr&#41;&#40;fr&#41; &#43; Addon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/641020-fastest-python-valorant-triggerbot-fr-fr-fr-addon.html)|`2025-01-27 05:29:00`|`Valorant`|
 |[Global Ban 10y](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/683485-global-ban-10y.html)|`2025-01-27 05:21:00`|`PUBG Mobile`|
