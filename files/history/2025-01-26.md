@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Starting with DMA vs Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/682997-starting-dma-vs-internal.html)|`2025-01-26 17:36:00`|`Escape from Tarkov`|
+|[cfemen & gir489's Ready or Not hook v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632144-cfemen-gir489s-ready-hook-v1-0-a.html)|`2025-01-26 17:24:00`|`Other FPS Games`|
+|[Sea of Thieves External Base &#43; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/577087-sea-thieves-external-base-esp.html)|`2025-01-26 17:23:00`|`Sea of Thieves`|
 |[Is the unlock all even possible now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/683999-unlock.html)|`2025-01-26 17:00:00`|`Rainbow Six Siege`|
 |[calling the game functions from externaly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/684139-calling-game-functions-externaly.html)|`2025-01-26 15:28:00`|`Rust`|
 |[Melee Prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/591325-melee-prediction.html)|`2025-01-26 15:21:00`|`Rust`|
