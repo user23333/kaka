@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RtlLookupFunctionEntry](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684148-rtllookupfunctionentry.html)|`2025-01-26 17:56:00`|`Anti-Cheat Bypass`|
 |[THRONE & Liberty Free undetected Farmbot and Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/683000-throne-liberty-free-undetected-farmbot-cheats.html)|`2025-01-26 17:48:00`|`Other Games`|
 |[External Farlight 84 Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/661656-external-farlight-84-free-cheat.html)|`2025-01-26 17:38:00`|`Farlight 84`|
 |[Starting with DMA vs Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/682997-starting-dma-vs-internal.html)|`2025-01-26 17:36:00`|`Escape from Tarkov`|
