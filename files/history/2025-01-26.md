@@ -11,6 +11,7 @@
 |8|[Humanized aimbot using AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683133-humanized-aimbot-using-ai.html)|`2025-01-26 00:21:33`|`counter-strike-2-a`|
 |6|[Why is Vanguard so bad at detecting colorbots?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683535-vanguard-bad-detecting-colorbots.html)|`2025-01-26 00:21:33`|`valorant`|
 |6|[CSGO2 BUG ESP USING CS2 FILES WORKS ON MATCHMAKING &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683766-csgo2-bug-esp-using-cs2-files-matchmaking.html)|`2025-01-26 00:21:33`|`counter-strike-2-a`|
+|19|[Marvel Rivals VTable Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/683762-marvel-rivals-vtable-dump.html)|`2025-01-26 10:07:54`|`marvel-rivals`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-01-26 09:49:00`|`DayZ SA`|
+|[I found a way to unban GTA V but I'm not sure&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/684066-found-unban-gta-im.html)|`2025-01-26 09:14:00`|`Grand Theft Auto V`|
+|[CHEAT ADVANCED WARFARE &#124; S1X/STEAM &#40;UNDETECTED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-advanced-warfare/681001-cheat-advanced-warfare-s1x-steam-undetected.html)|`2025-01-26 08:52:00`|`Call of Duty: Advanced Warfare`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-01-26 08:48:00`|`Escape from Tarkov`|
 |[How to install ADD&#45;ON mods into "online" mode while using FSL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678763-install-add-mods-online-mode-using-fsl.html)|`2025-01-26 08:21:00`|`Grand Theft Auto V`|
 |[Comport](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684062-comport.html)|`2025-01-26 08:14:00`|`Valorant`|
