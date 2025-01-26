@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/682483-demonologist-internal.html)|`2025-01-26 18:33:00`|`Other Games`|
+|[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-01-26 18:31:00`|`Other FPS Games`|
 |[ZORT Spawn Menu &#91;BepinEx&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/683876-zort-spawn-menu-bepinex.html)|`2025-01-26 18:10:00`|`Other FPS Games`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-01-26 18:05:00`|`Valorant`|
 |[RtlLookupFunctionEntry](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684148-rtllookupfunctionentry.html)|`2025-01-26 17:56:00`|`Anti-Cheat Bypass`|
