@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-01-27 07:26:00`|`Grand Theft Auto V`|
+|[Universal Unity Aimbot, ESP and Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/683904-universal-unity-aimbot-esp-triggerbot.html)|`2025-01-27 07:26:00`|`Unity`|
+|[Dead By Daylight DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682901-dead-daylight-dma-esp.html)|`2025-01-27 07:23:00`|`Other FPS Games`|
+|[delusion kernel external &#45; read only ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/684240-delusion-kernel-external-read-esp.html)|`2025-01-27 07:13:00`|`Counter-Strike 2 Releases`|
+|[GTA Online &#45; Casino Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/684220-gta-online-casino-hack.html)|`2025-01-27 07:12:00`|`Grand Theft Auto V`|
 |[Gta hacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681683-gta-hacks.html)|`2025-01-27 07:10:00`|`Grand Theft Auto V`|
 |[CS2 Python Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/633657-cs2-python-cheat.html)|`2025-01-27 07:04:00`|`Counter-Strike 2 Releases`|
 |[Universal No Recoil script using python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/678809-universal-recoil-script-using-python.html)|`2025-01-27 07:02:00`|`Other FPS Games`|
