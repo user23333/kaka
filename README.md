@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do these FiveM fresh accounts work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/683290-fivem-fresh-accounts.html)|`2025-01-26 12:06:00`|`Alternative Online Mods`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-01-26 11:56:00`|`Overwatch`|
 |[Delta Force: Hawk Ops AI AIM model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/681142-delta-force-hawk-ops-ai-aim-model.html)|`2025-01-26 11:22:00`|`Other FPS Games`|
 |[Project Zomboid Cheat &#124; EtherHack &#124; Powered by Java &#124; 41&#46;78&#46;16 &#124; Continued](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676271-project-zomboid-cheat-etherhack-powered-java-41-78-16-continued.html)|`2025-01-26 11:10:00`|`Other MMORPG and Strategy`|
 |[Anti&#45;Recoil Universal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/626683-anti-recoil-universal.html)|`2025-01-26 10:55:00`|`Rainbow Six Siege`|
