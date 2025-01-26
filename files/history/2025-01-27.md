@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Warframe&#93; Player Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/678485-warframe-player-offset.html)|`2025-01-27 06:23:00`|`Other FPS Games`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-01-27 06:13:00`|`Overwatch`|
+|[What are the best current best free cheats for cs2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679138-current-free-cheats-cs2.html)|`2025-01-27 06:12:00`|`Counter-Strike 2`|
 |[External Discord Overlay Hijack &#40;with ImGui&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/683571-external-discord-overlay-hijack-imgui.html)|`2025-01-27 06:01:00`|`General Programming and Reversing`|
 |[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2025-01-27 05:54:00`|`Valorant`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-01-27 05:52:00`|`DayZ SA`|
