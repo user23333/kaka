@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[data ptr swap driver win10 22h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683100-data-ptr-swap-driver-win10-22h2.html)|`2025-01-26 22:57:00`|`Anti-Cheat Bypass`|
 |[finding pointer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/684163-finding-pointer.html)|`2025-01-26 22:44:00`|`Other Games`|
 |[External Raycasting &#40;PhysX recreation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673196-external-raycasting-physx-recreation.html)|`2025-01-26 22:36:00`|`Escape from Tarkov`|
 |[DMA Fuser needed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/674998-dma-fuser.html)|`2025-01-26 22:19:00`|`Other Hardware`|
