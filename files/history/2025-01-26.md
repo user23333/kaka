@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Raycasting &#40;PhysX recreation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673196-external-raycasting-physx-recreation.html)|`2025-01-26 22:36:00`|`Escape from Tarkov`|
 |[DMA Fuser needed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/674998-dma-fuser.html)|`2025-01-26 22:19:00`|`Other Hardware`|
 |[Cheat Engine bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684162-cheat-engine-bypass.html)|`2025-01-26 22:16:00`|`Anti-Cheat Bypass`|
 |[CCHook:Reloaded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/return-to-castle-wolfenstein/492818-cchook-reloaded.html)|`2025-01-26 22:14:00`|`Return To Castle Wolfenstein`|
