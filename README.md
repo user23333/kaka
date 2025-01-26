@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gta hacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681683-gta-hacks.html)|`2025-01-27 07:10:00`|`Grand Theft Auto V`|
+|[CS2 Python Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/633657-cs2-python-cheat.html)|`2025-01-27 07:04:00`|`Counter-Strike 2 Releases`|
+|[Universal No Recoil script using python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/678809-universal-recoil-script-using-python.html)|`2025-01-27 07:02:00`|`Other FPS Games`|
+|[dota 2 free cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/684202-dota-2-free-cheat.html)|`2025-01-27 06:59:00`|`Other MMORPG and Strategy`|
 |[Sai's Color Aimbot BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668780-sais-color-aimbot-bo6.html)|`2025-01-27 06:19:00`|`Call of Duty: Black Ops 6`|
 |[any menu/trainers for version 0&#46;10&#46;1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/684235-menu-trainers-version-0-10-1-2-a.html)|`2025-01-27 06:47:00`|`Phasmophobia`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-01-27 06:39:00`|`Call of Duty: Black Ops 6`|
