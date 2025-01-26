@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals VTable Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/683762-marvel-rivals-vtable-dump.html)|`2025-01-27 03:20:00`|`Marvel Rivals`|
 |[Cheat Engine bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684162-cheat-engine-bypass.html)|`2025-01-27 03:17:00`|`Anti-Cheat Bypass`|
 |[VS 2019 &#45; error MSB8020: missing WindowsKernelModeDriver10&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/684213-vs-2019-error-msb8020-missing-windowskernelmodedriver10-0-a.html)|`2025-01-27 03:13:00`|`General Programming and Reversing`|
 |[yim menu help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/684211-yim-menu-help.html)|`2025-01-27 03:12:00`|`Grand Theft Auto V`|
