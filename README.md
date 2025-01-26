@@ -24,9 +24,14 @@
 |72|[MarvelRivalsSDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48385)|`2025-01-27 00:32:54`|
 |67|[FortniteGame&#45;33&#46;20&#45;CL&#45;39277041 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48378)|`2025-01-27 00:32:54`|
 |886|[Marvel Simple Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48376)|`2025-01-27 00:32:54`|
+|1|[dbd&#45;external&#45;aura](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48396)|`2025-01-27 03:40:04`|
+|1|[p2cmapper source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48394)|`2025-01-27 03:40:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[dbd&#45;extrenal&#45;aura ONLY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/683597-dbd-extrenal-aura.html)|`2025-01-27 03:36:00`|`Other FPS Games`|
+|[p2cmapper &#45; A kernel mapper based on kdmapper to load drivers for your P2C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/683575-p2cmapper-kernel-mapper-based-kdmapper-load-drivers-p2c.html)|`2025-01-27 03:33:00`|`General Programming and Reversing`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-01-27 03:31:00`|`Marvel Rivals`|
 |[Marvel Rivals VTable Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/683762-marvel-rivals-vtable-dump.html)|`2025-01-27 03:20:00`|`Marvel Rivals`|
 |[Cheat Engine bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684162-cheat-engine-bypass.html)|`2025-01-27 03:17:00`|`Anti-Cheat Bypass`|
 |[VS 2019 &#45; error MSB8020: missing WindowsKernelModeDriver10&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/684213-vs-2019-error-msb8020-missing-windowskernelmodedriver10-0-a.html)|`2025-01-27 03:13:00`|`General Programming and Reversing`|
