@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-01-27 14:38:00`|`Grand Theft Auto V`|
 |[&#91;CS2&#93; Expression External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/682984-cs2-expression-external.html)|`2025-01-27 14:10:00`|`Counter-Strike 2 Releases`|
 |[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2025-01-27 14:04:00`|`Other FPS Games`|
 |[&#91;STEAM &#124; XBOX &#124; STEAMDECK&#93; PalworldInternal &#45; Post Nuclear](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/621709-steam-xbox-steamdeck-palworldinternal-post-nuclear.html)|`2025-01-27 13:16:00`|`Palworld`|
