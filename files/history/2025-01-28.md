@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 External Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684392-cs2-external-esp.html)|`2025-01-28 05:23:00`|`Counter-Strike 2`|
+|[Cheat Engine Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684390-cheat-engine-question.html)|`2025-01-28 05:16:00`|`Anti-Cheat Bypass`|
+|[How does EFT's BE compare to other BE versions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/684172-efts-compare-versions.html)|`2025-01-28 05:13:00`|`Escape from Tarkov`|
+|[EAC Bypass to unlock armor/nameplates online ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/680632-eac-bypass-unlock-armor-nameplates-online.html)|`2025-01-28 05:09:00`|`Halo`|
 |[MCC Toolbox &#45; Trainer supports Halo Reach, Halo CE, Halo 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/397845-mcc-toolbox-trainer-supports-halo-reach-halo-ce-halo-2-a.html)|`2025-01-28 05:08:00`|`Halo`|
 |[External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/684387-external-base.html)|`2025-01-28 05:01:00`|`Marvel Rivals`|
 |[Need help with BSGO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/684386-help-bsgo.html)|`2025-01-28 04:59:00`|`Unity`|
