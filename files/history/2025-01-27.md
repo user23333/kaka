@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-01-27 20:03:00`|`Grand Theft Auto V`|
 |[Wifi Data Offsets 3&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/684295-wifi-data-offsets-3-6-a.html)|`2025-01-27 19:51:00`|`PUBG Mobile`|
 |[Data Pointer Hook for Win11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684293-data-pointer-hook-win11.html)|`2025-01-27 19:49:00`|`Anti-Cheat Bypass`|
 |[Seriously no free cheat out there?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/683908-seriously-free-cheat.html)|`2025-01-27 19:45:00`|`Call of Duty: Black Ops 6`|
