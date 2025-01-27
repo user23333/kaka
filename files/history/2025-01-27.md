@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is there a cheat that increases the chance of unboxing an unusual?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/684286-cheat-increases-chance-unboxing-unusual.html)|`2025-01-27 16:14:00`|`Team Fortress 2`|
+|[ツ Silent Night](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/604599-silent-night.html)|`2025-01-27 16:10:00`|`Grand Theft Auto V`|
+|[Where can i learn Low Level programming and reverse engineering?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/684216-learn-low-level-programming-reverse-engineering.html)|`2025-01-27 16:09:00`|`General Programming and Reversing`|
+|[how to add stickers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684284-add-stickers.html)|`2025-01-27 16:02:00`|`Counter-Strike 2`|
 |[Am I too late for the party?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/684197-am-late-party.html)|`2025-01-27 15:54:00`|`Forum General`|
 |[Rust Cheat/Injector &#40;Not a cheat or bypass&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/683902-rust-cheat-injector-cheat-bypass.html)|`2025-01-27 15:53:00`|`Rust`|
 |[Aimbot &#43;ESP &#43; Chams and etc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680110-aimbot-esp-chams-etc.html)|`2025-01-27 15:53:00`|`Marvel Rivals`|
