@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[👽 VALORANT Skin Changer &#40;Just Inject it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/517551-valorant-skin-changer-inject.html)|`2025-01-27 22:07:00`|`Valorant`|
+|[Sea of Thieves paks new update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/684324-sea-thieves-paks-update.html)|`2025-01-27 22:01:00`|`Sea of Thieves`|
+|[Fast Valorant Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669778-fast-valorant-triggerbot.html)|`2025-01-27 21:56:00`|`Valorant`|
 |[How to avoid the Echo AC Scanner?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/682750-avoid-echo-ac-scanner.html)|`2025-01-27 21:35:00`|`Alternative Online Mods`|
 |[someone knows a good external source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684318-external-source.html)|`2025-01-27 21:12:00`|`Counter-Strike 2`|
 |[Internal source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684317-internal-source.html)|`2025-01-27 21:12:00`|`Counter-Strike 2`|
