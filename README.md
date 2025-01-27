@@ -25,9 +25,14 @@
 |80|[Marvel Rivals VTable dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48406)|`2025-01-28 00:00:22`|
 |37|[dbd&#45;external&#45;aura](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48396)|`2025-01-28 00:00:22`|
 |1|[Universal unity hacks V4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48437)|`2025-01-28 02:24:18`|
+|2|[CTG Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48427)|`2025-01-28 04:17:19`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CatGoesFishing Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/683997-catgoesfishing-cheat-table.html)|`2025-01-28 04:14:00`|`Cheat Engine Tables`|
+|[Purple Cheat Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684377-purple-cheat-chams.html)|`2025-01-28 04:09:00`|`Counter-Strike 2`|
+|[Path of Exile 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676435-path-exile-2-reversal-structs-offsets.html)|`2025-01-28 04:03:00`|`Other MMORPG and Strategy`|
+|[Anyone know a decent hvh menu for free](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683990-decent-hvh-menu-free.html)|`2025-01-28 04:02:00`|`Counter-Strike 2`|
 |[Combat Master CE Godmode, MEGA XP, Instant Weapon/Player Max Level, Attachment Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/583715-combat-master-ce-godmode-mega-xp-instant-weapon-player-max-level-attachment-mod.html)|`2025-01-28 03:44:00`|`Combat Master`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-01-28 03:35:00`|`Alternative Online Mods`|
 |[Genshin Impact](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/418492-genshin-impact.html)|`2025-01-28 03:31:00`|`Genshin Impact`|
