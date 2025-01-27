@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;GHUB&#93; Mouse&Keyboard Lib &#91;C&#43;&#43;&#93;&#91;LogiCVE&#93;&#91;GFCK&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/680315-ghub-mouse-keyboard-lib-logicve-gfck.html)|`2025-01-28 01:27:00`|`C and C++`|
+|[War Thunder test drive unlock tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/671076-war-thunder-test-drive-unlock-tool.html)|`2025-01-28 01:27:00`|`Other MMORPG and Strategy`|
+|[Riot Vanguard Full Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683732-riot-vanguard-analysis.html)|`2025-01-28 01:23:00`|`Anti-Cheat Bypass`|
+|[calling the game functions from externaly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/684139-calling-game-functions-externaly.html)|`2025-01-28 01:20:00`|`Rust`|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-01-28 01:18:00`|`Apex Legends`|
+|[All Mouse NoRecoil &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-recoil-helpy-auto-config-probably-ud-universal.html)|`2025-01-28 01:16:00`|`Rainbow Six Siege`|
 |[Ultimate customizable TRIGGERBOT &#40;0&#45;100ms&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683552-ultimate-customizable-triggerbot-0-100ms.html)|`2025-01-28 01:12:00`|`Valorant`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-01-28 01:06:00`|`Other FPS Games`|
 |[need hid colorbot source and how to find hid ping code thanks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684219-hid-colorbot-source-hid-ping-code-thanks.html)|`2025-01-28 00:59:00`|`Valorant`|
