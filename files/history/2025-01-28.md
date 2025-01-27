@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CHEAT ADVANCED WARFARE &#124; S1X/STEAM &#40;UNDETECTED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-advanced-warfare/681001-cheat-advanced-warfare-s1x-steam-undetected.html)|`2025-01-28 07:15:00`|`Call of Duty: Advanced Warfare`|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-01-28 07:13:00`|`Other FPS Games`|
+|[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2025-01-28 07:04:00`|`Other FPS Games`|
 |[ツ Silent Night](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/604599-silent-night.html)|`2025-01-28 06:58:00`|`Grand Theft Auto V`|
 |[ZE&#45;Elite version 4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/458162-ze-elite-version-4-a.html)|`2025-01-28 06:56:00`|`CounterStrike Source`|
 |[DMA &#40;Entity Esp &#43; Player Bones&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677658-dma-entity-esp-player-bones.html)|`2025-01-28 06:55:00`|`Rust`|
