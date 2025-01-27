@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Request for Css v92 steam&#45;id spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/672461-request-css-v92-steam-id-spoofer.html)|`2025-01-27 22:44:00`|`CounterStrike Source`|
 |[Bot Lobby with only 1 PC and 1 Xbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/683284-bot-lobby-1-pc-1-xbox.html)|`2025-01-27 22:34:00`|`Call of Duty: Black Ops 6`|
 |[Does anyone know about the aim prediction for Hell Let Loose?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/684328-aim-prediction-hell-loose.html)|`2025-01-27 22:29:00`|`Other FPS Games`|
 |[CounterStrike Global Offensive Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/103220-counterstrike-global-offensive-reversal-structs-offsets.html)|`2025-01-27 22:19:00`|`Counterstrike Global Offensive`|
