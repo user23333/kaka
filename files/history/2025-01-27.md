@@ -14,6 +14,7 @@
 |2|[CS2 Rage Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683538-cs2-rage-menu.html)|`2025-01-27 09:22:16`|`counter-strike-2-a`|
 |20|[Signed Driver and EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684010-signed-driver-eac.html)|`2025-01-27 09:22:16`|`anti-cheat-bypass`|
 |13|[Unbannable PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683889-unbannable-pc.html)|`2025-01-27 15:50:36`|`valorant`|
+|7|[Refined Fast Valorant Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683887-refined-fast-valorant-triggerbot.html)|`2025-01-27 18:08:22`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
