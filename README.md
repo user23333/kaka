@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Genshin Impact](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/418492-genshin-impact.html)|`2025-01-28 03:31:00`|`Genshin Impact`|
+|[YimMenu&#46;dll 1&#46;70 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678007-yimmenu-dll-1-70-update.html)|`2025-01-28 03:30:00`|`Grand Theft Auto V`|
+|[Supervive Reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673467-supervive-reversing.html)|`2025-01-28 03:29:00`|`Other MMORPG and Strategy`|
+|[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-01-28 03:25:00`|`Other FPS Games`|
+|[Ultimate Menu Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/565688-ultimate-menu-script.html)|`2025-01-28 03:25:00`|`Grand Theft Auto V`|
+|[Arduino FirmWare UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676366-arduino-firmware-ud.html)|`2025-01-28 03:24:00`|`Valorant`|
 |[Global Ban 10y](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/683485-global-ban-10y.html)|`2025-01-28 03:27:00`|`PUBG Mobile`|
 |[Possible page alignment or CoW issue?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684369-page-alignment-cow-issue.html)|`2025-01-28 03:25:00`|`Anti-Cheat Bypass`|
 |[Unbannable PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683889-unbannable-pc.html)|`2025-01-28 03:15:00`|`Valorant`|
