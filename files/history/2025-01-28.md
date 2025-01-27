@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[world to screen being naughty](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/684338-world-screen-naughty.html)|`2025-01-28 00:38:00`|`Marvel Rivals`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-01-28 00:25:00`|`Other Games`|
+|[dbd&#45;extrenal&#45;aura ONLY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/683597-dbd-extrenal-aura.html)|`2025-01-28 00:25:00`|`Other FPS Games`|
+|[VS 2019 &#45; error MSB8020: missing WindowsKernelModeDriver10&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/684213-vs-2019-error-msb8020-missing-windowskernelmodedriver10-0-a.html)|`2025-01-28 00:23:00`|`General Programming and Reversing`|
+|[Full Source Complex Python GUI &#43; Full Valorant Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/613998-source-complex-python-gui-valorant-cheat.html)|`2025-01-28 00:16:00`|`Valorant`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-01-28 00:13:00`|`Other MMORPG and Strategy`|
+|[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2025-01-28 00:11:00`|`Other Games`|
+|[EFT SPT 3&#46;10&#46;4 Cheat &#40;Update to lIllIIllII's cheat&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/682753-eft-spt-3-10-4-cheat-update-lilliilliis-cheat.html)|`2025-01-28 00:11:00`|`Escape from Tarkov`|
+|[20&#45;Hour Cooldowns – Aimbots Are Being Detected&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682413-20-hour-cooldowns-aimbots-detected.html)|`2025-01-28 00:09:00`|`Counter-Strike 2`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-01-27 23:58:00`|`Rust`|
 |[&#91;VOTE&#93; February 2025 Member of the Month](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/684209-vote-february-2025-month.html)|`2025-01-27 23:56:00`|`Member of the Month`|
 |[Internal source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684317-internal-source.html)|`2025-01-27 23:55:00`|`Counter-Strike 2`|
