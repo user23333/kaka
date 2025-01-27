@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The only working valorant colorbot &#40;fr&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684327-valorant-colorbot-fr.html)|`2025-01-28 02:45:00`|`Valorant`|
+|[Aimbot &#43;ESP &#43; Chams and etc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680110-aimbot-esp-chams-etc.html)|`2025-01-28 02:41:00`|`Marvel Rivals`|
 |[&#91;CS2&#93; Expression External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/682984-cs2-expression-external.html)|`2025-01-28 02:38:00`|`Counter-Strike 2 Releases`|
 |[HOW TO GET SHADOW BAN IN B06 ACCOUNT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/682743-shadow-ban-b06-account.html)|`2025-01-28 02:31:00`|`Call of Duty: Black Ops 6`|
 |[Is there a cheat that increases the chance of unboxing an unusual?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/684286-cheat-increases-chance-unboxing-unusual.html)|`2025-01-28 02:30:00`|`Team Fortress 2`|
