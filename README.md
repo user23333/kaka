@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CounterStrike Global Offensive Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/103220-counterstrike-global-offensive-reversal-structs-offsets.html)|`2025-01-27 22:19:00`|`Counterstrike Global Offensive`|
+|[Gunbound WC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/gunbound/672161-gunbound-wc.html)|`2025-01-27 22:15:00`|`Gunbound`|
 |[👽 VALORANT Skin Changer &#40;Just Inject it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/517551-valorant-skin-changer-inject.html)|`2025-01-27 22:07:00`|`Valorant`|
 |[Sea of Thieves paks new update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/684324-sea-thieves-paks-update.html)|`2025-01-27 22:01:00`|`Sea of Thieves`|
 |[Fast Valorant Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669778-fast-valorant-triggerbot.html)|`2025-01-27 21:56:00`|`Valorant`|
