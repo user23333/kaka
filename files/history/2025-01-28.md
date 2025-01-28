@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cunterstrike 2 external ESP is moving along with mouse and player movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683914-cunterstrike-2-external-esp-moving-mouse-player-movement.html)|`2025-01-28 23:34:00`|`Counter-Strike 2`|
 |[Sea of Thieves paks new update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/684324-sea-thieves-paks-update.html)|`2025-01-28 23:19:00`|`Sea of Thieves`|
 |[PUBG DMA Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/644302-pubg-dma-cheat-run.html)|`2025-01-28 23:17:00`|`Playerunknown's Battlegrounds`|
 |[The Texas Chainsaw Massacre External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/638980-texas-chainsaw-massacre-external-cheat.html)|`2025-01-28 23:13:00`|`Other FPS Games`|
