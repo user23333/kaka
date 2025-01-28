@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA DayZ Fuser ESP &#43; Radar Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/606723-dma-dayz-fuser-esp-radar-source-release.html)|`2025-01-29 07:20:00`|`DayZ SA`|
+|[need hid colorbot source and how to find hid ping code thanks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684219-hid-colorbot-source-hid-ping-code-thanks.html)|`2025-01-29 07:17:00`|`Valorant`|
+|[Eac Banned on a previous account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/684431-eac-banned-previous-account.html)|`2025-01-29 07:12:00`|`Rust`|
 |[Belt Problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/683960-belt.html)|`2025-01-29 07:10:00`|`Rust`|
 |[Chams materials external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/684023-chams-materials-external.html)|`2025-01-29 07:05:00`|`Rust`|
 |[Rust &#124; Ban Discussion Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/469369-rust-ban-discussion-thread.html)|`2025-01-29 07:04:00`|`Rust`|
