@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[UnityEngine&#46;Transform past the CachedPtr](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/684429-unityengine-transform-past-cachedptr.html)|`2025-01-28 09:55:00`|`Unity`|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-01-28 09:47:00`|`Counter-Strike 2`|
+|[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2025-01-28 09:46:00`|`Counter-Strike 2`|
+|[ipc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/684428-ipc.html)|`2025-01-28 09:22:00`|`C and C++`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-01-28 08:49:00`|`Sea of Thieves`|
 |[Unity &#45; Getting mouse position pointers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/674656-unity-getting-mouse-position-pointers.html)|`2025-01-28 08:49:00`|`General Programming and Reversing`|
 |[Simple Unban/cleaning process question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/684388-simple-unban-cleaning-process-question.html)|`2025-01-28 08:39:00`|`Escape from Tarkov`|
