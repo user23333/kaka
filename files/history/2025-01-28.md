@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to Create No&#45;Recoil Macros for A4Tech/Logitech/Razer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/684472-create-recoil-macros-a4tech-logitech-razer.html)|`2025-01-28 22:02:00`|`Other FPS Games`|
+|[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2025-01-28 21:59:00`|`Overwatch`|
 |[External Python Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683532-external-python-cheat.html)|`2025-01-28 21:47:00`|`Counter-Strike 2`|
 |[Cheat Engine bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684162-cheat-engine-bypass.html)|`2025-01-28 21:39:00`|`Anti-Cheat Bypass`|
 |[&#91;DMA&#93; Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677518-dma-squad.html)|`2025-01-28 21:29:00`|`Other FPS Games`|
