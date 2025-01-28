@@ -24,9 +24,11 @@
 |20|[Readable VTables Dump Marvel Rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48409)|`2025-01-29 00:00:05`|
 |109|[Fortnite External Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48408)|`2025-01-29 00:00:05`|
 |135|[CS2&#95;Hack&#95;Bug&#95;RU&#95;V5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48407)|`2025-01-29 00:00:05`|
+|0|[RISC&#45;VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48462)|`2025-01-29 02:54:03`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RISC VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/684499-risc-vm.html)|`2025-01-29 02:52:00`|`C and C++`|
 |[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2025-01-29 02:41:00`|`Apex Legends`|
 |[FactoryReset&#45;GModv2&#46;bat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/682956-factoryreset-gmodv2-bat.html)|`2025-01-29 02:37:00`|`Garry's Mod`|
 |[Vigor internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662490-vigor-internal-cheat.html)|`2025-01-29 02:36:00`|`Other FPS Games`|
