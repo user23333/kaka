@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Python Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683532-external-python-cheat.html)|`2025-01-28 21:47:00`|`Counter-Strike 2`|
 |[Cheat Engine bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684162-cheat-engine-bypass.html)|`2025-01-28 21:39:00`|`Anti-Cheat Bypass`|
 |[&#91;DMA&#93; Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677518-dma-squad.html)|`2025-01-28 21:29:00`|`Other FPS Games`|
 |[Is this feature in the Ultimate Menu safe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/684467-feature-ultimate-menu-safe.html)|`2025-01-28 20:52:00`|`Grand Theft Auto V`|
