@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Impact Point 2025 Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/684457-impact-2025-cheat-table.html)|`2025-01-28 18:53:00`|`Off Topic`|
 |[I want help in compare objects name](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684455-help-compare-objects-name.html)|`2025-01-28 18:17:00`|`Valorant`|
 |[ProjectLocker C&#43;&#43; External &#40;ESP / Recoil, Spread / UnlockAll&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/587891-projectlocker-external-esp-recoil-spread-unlockall.html)|`2025-01-28 18:12:00`|`Battlefield 4`|
 |[how to add stickers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684284-add-stickers.html)|`2025-01-28 17:45:00`|`Counter-Strike 2`|
