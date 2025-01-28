@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to add stickers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684284-add-stickers.html)|`2025-01-28 17:45:00`|`Counter-Strike 2`|
 |[How to install ADD&#45;ON mods into "online" mode while using FSL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678763-install-add-mods-online-mode-using-fsl.html)|`2025-01-28 17:29:00`|`Grand Theft Auto V`|
 |[Internal Draw Crash Problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684030-internal-draw-crash.html)|`2025-01-28 17:17:00`|`Valorant`|
 |[👽 VALORANT Skin Changer &#40;Just Inject it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/517551-valorant-skin-changer-inject.html)|`2025-01-28 15:11:00`|`Valorant`|
