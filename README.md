@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-01-28 12:47:00`|`Other FPS Games`|
+|[FiveM server unban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/684439-fivem-server-unban.html)|`2025-01-28 12:45:00`|`Off Topic`|
 |[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2025-01-28 12:31:00`|`Combat Arms`|
 |[DMA ESP laggy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684245-dma-esp-laggy.html)|`2025-01-28 11:58:00`|`Anti-Cheat Bypass`|
 |[I found a way to unban GTA V but I'm not sure&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/684066-found-unban-gta-im.html)|`2025-01-28 11:44:00`|`Grand Theft Auto V`|
