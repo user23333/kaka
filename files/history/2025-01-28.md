@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PEB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/684460-peb.html)|`2025-01-28 19:14:00`|`Call of Duty: Black Ops 6`|
 |[how to make a page load?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/684459-page-load.html)|`2025-01-28 19:04:00`|`General Programming and Reversing`|
 |[Impact Point 2025 Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/684457-impact-2025-cheat-table.html)|`2025-01-28 18:53:00`|`Off Topic`|
 |[I want help in compare objects name](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684455-help-compare-objects-name.html)|`2025-01-28 18:17:00`|`Valorant`|
