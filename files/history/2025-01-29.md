@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple item ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/672151-simple-item-esp.html)|`2025-01-29 23:20:00`|`DayZ SA`|
 |[Bot or Tool to Optimize Gameplay and Improve Efficiency in Ranked Matches for AoE4?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/684200-bot-tool-optimize-gameplay-improve-efficiency-ranked-matches-aoe4.html)|`2025-01-29 23:12:00`|`Other MMORPG and Strategy`|
 |[BOIII Client ZM External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/684226-boiii-client-zm-external.html)|`2025-01-29 22:56:00`|`Call of Duty: Black Ops 3`|
 |[BOIII Client GSC Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/683433-boiii-client-gsc-injector.html)|`2025-01-29 22:55:00`|`Call of Duty: Black Ops 3`|
