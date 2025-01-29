@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AHK Scripts patched?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/684501-ahk-scripts-patched.html)|`2025-01-30 00:43:00`|`Call of Duty: Black Ops 6`|
+|[External Esp 1&#46;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/684542-external-esp-1-26-a.html)|`2025-01-30 00:40:00`|`DayZ SA`|
+|[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2025-01-30 00:38:00`|`Escape from Tarkov`|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-01-30 00:34:00`|`Other Games`|
+|[Help About b3258 , new FiveM Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/682426-help-b3258-fivem-update.html)|`2025-01-30 00:33:00`|`Alternative Online Mods`|
 |[External ESP Problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/684476-external-esp.html)|`2025-01-30 00:31:00`|`Call of Duty: Black Ops 6`|
 |[99% auto updatable Simple Internal Cheat &#40;no need decryption&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/682116-99-auto-updatable-simple-internal-cheat-decryption.html)|`2025-01-30 00:30:00`|`Rust`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-01-30 00:28:00`|`Call of Duty: Black Ops 6`|
