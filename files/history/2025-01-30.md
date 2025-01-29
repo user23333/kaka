@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hell Let Loose PDB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/684540-hell-loose-pdb.html)|`2025-01-30 03:54:00`|`Other FPS Games`|
+|[ZORT Spawn Menu &#91;BepinEx&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/683876-zort-spawn-menu-bepinex.html)|`2025-01-30 03:45:00`|`Other FPS Games`|
 |[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2025-01-30 03:40:00`|`Other FPS Games`|
 |[&#91;Unturned&#93;Having trouble in I'm having trouble in looping the player list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/684602-unturned-trouble-im-trouble-looping-player-list.html)|`2025-01-30 03:39:00`|`Other FPS Games`|
 |[Read infos from player&#95;info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/684646-read-infos-player_info.html)|`2025-01-30 03:26:00`|`Alternative Online Mods`|
