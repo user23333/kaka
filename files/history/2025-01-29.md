@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dupe methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/681606-dupe-methods.html)|`2025-01-29 12:32:00`|`DayZ SA`|
+|[Request for Css v92 steam&#45;id spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/672461-request-css-v92-steam-id-spoofer.html)|`2025-01-29 12:27:00`|`CounterStrike Source`|
 |[Arduino &#43; W5500 &#43; USB shield trigger/aim still undetected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684546-arduino-w5500-usb-shield-trigger-aim-undetected.html)|`2025-01-29 12:02:00`|`Valorant`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-01-29 10:55:00`|`Valorant`|
 |[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2025-01-29 10:39:00`|`Other Games`|
