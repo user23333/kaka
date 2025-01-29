@@ -27,9 +27,13 @@
 |135|[CS2&#95;Hack&#95;Bug&#95;RU&#95;V5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48407)|`2025-01-29 00:00:05`|
 |0|[RISC&#45;VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48462)|`2025-01-29 02:54:03`|
 |2|[Gatling Gun Invisible Magazine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48415)|`2025-01-29 04:17:58`|
+|1|[CT&#45;FinalFantasyVII&#45;RemakeIntegrade&#45;StatEditor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48423)|`2025-01-29 22:13:20`|
+|3|[Chams Materials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48422)|`2025-01-29 22:13:20`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[calling the game functions from externaly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/684139-calling-game-functions-externaly.html)|`2025-01-29 22:13:00`|`Rust`|
+|[&#91;STEAM&#93; Final Fantasy Vii Remake Integrade](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/684028-steam-final-fantasy-vii-remake-integrade.html)|`2025-01-29 22:05:00`|`Cheat Engine Tables`|
 |[BattlEye detects VT virtualization&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684548-battleye-detects-vt-virtualization.html)|`2025-01-29 21:24:00`|`Anti-Cheat Bypass`|
 |[Albion Online Dungeon Checker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/670358-albion-online-dungeon-checker.html)|`2025-01-29 21:18:00`|`Other MMORPG and Strategy`|
 |[The only working valorant colorbot &#40;fr&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684327-valorant-colorbot-fr.html)|`2025-01-29 21:10:00`|`Valorant`|
