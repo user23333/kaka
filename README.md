@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Impact Point 2025 Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/684457-impact-2025-cheat-table.html)|`2025-01-30 06:14:00`|`Off Topic`|
+|[is it possible on the server to intercept the strings executed by lua](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/684617-server-intercept-strings-executed-lua.html)|`2025-01-30 06:07:00`|`Garry's Mod`|
 |[The only working valorant colorbot &#40;fr&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684327-valorant-colorbot-fr.html)|`2025-01-30 05:59:00`|`Valorant`|
 |[vanguard injection bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684541-vanguard-injection-bypass.html)|`2025-01-30 05:34:00`|`Valorant`|
 |[Best way to earn money](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/684503-earn-money.html)|`2025-01-30 05:20:00`|`Grand Theft Auto V`|
