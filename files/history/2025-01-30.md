@@ -13,6 +13,7 @@
 |9|[New ColorBot/TriggerBot Signed Microsoft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684493-colorbot-triggerbot-signed-microsoft.html)|`2025-01-30 00:10:56`|`valorant`|
 |7|[Universal Unity Aimbot, ESP and Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/683904-universal-unity-aimbot-esp-triggerbot.html)|`2025-01-30 01:46:35`|`unity`|
 |3|[Rust Cheat/Injector &#40;Not a cheat or bypass&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/683902-rust-cheat-injector-cheat-bypass.html)|`2025-01-30 02:20:23`|`rust`|
+|7|[I found a way to unban GTA V but I'm not sure&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/684066-found-unban-gta-im.html)|`2025-01-30 03:41:22`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2025-01-30 03:40:00`|`Other FPS Games`|
+|[&#91;Unturned&#93;Having trouble in I'm having trouble in looping the player list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/684602-unturned-trouble-im-trouble-looping-player-list.html)|`2025-01-30 03:39:00`|`Other FPS Games`|
 |[Read infos from player&#95;info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/684646-read-infos-player_info.html)|`2025-01-30 03:26:00`|`Alternative Online Mods`|
 |[GIRLS' FRONTLINE 2:EXILIUM CN PC cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/653607-girls-frontline-2-exilium-cn-pc-cheat.html)|`2025-01-30 03:20:00`|`Other MMORPG and Strategy`|
 |[DMA DayZ Fuser ESP &#43; Radar Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/606723-dma-dayz-fuser-esp-radar-source-release.html)|`2025-01-30 03:19:00`|`DayZ SA`|
