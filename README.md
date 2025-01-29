@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[STRAFTAT Mono Internal Cheat/Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/681236-straftat-mono-internal-cheat-base.html)|`2025-01-29 23:44:00`|`Other FPS Games`|
+|[How safe LogiCVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/684615-safe-logicve.html)|`2025-01-29 23:43:00`|`Rust`|
+|[Combat Master CE Godmode, MEGA XP, Instant Weapon/Player Max Level, Attachment Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/583715-combat-master-ce-godmode-mega-xp-instant-weapon-player-max-level-attachment-mod.html)|`2025-01-29 23:43:00`|`Combat Master`|
 |[Rust script ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/683824-rust-script-ban.html)|`2025-01-29 23:39:00`|`Rust`|
 |[Simple item ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/672151-simple-item-esp.html)|`2025-01-29 23:20:00`|`DayZ SA`|
 |[Bot or Tool to Optimize Gameplay and Improve Efficiency in Ranked Matches for AoE4?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/684200-bot-tool-optimize-gameplay-improve-efficiency-ranked-matches-aoe4.html)|`2025-01-29 23:12:00`|`Other MMORPG and Strategy`|
