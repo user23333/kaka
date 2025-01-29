@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I found a way to unban GTA V but I'm not sure&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/684066-found-unban-gta-im.html)|`2025-01-29 09:58:00`|`Grand Theft Auto V`|
+|[Possible page alignment or CoW issue?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684369-page-alignment-cow-issue.html)|`2025-01-29 09:48:00`|`Anti-Cheat Bypass`|
+|[Hell Let Loose PDB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/684540-hell-loose-pdb.html)|`2025-01-29 09:36:00`|`Other FPS Games`|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-01-29 09:14:00`|`Counter-Strike 2`|
+|[auto cooker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/680869-auto-cooker.html)|`2025-01-29 09:08:00`|`Payday 2`|
+|[Outfit Editor   and  BBOB&#40;browser extension that generates Outfits Code for Bincohax&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/624819-outfit-editor-bbob-browser-extension-generates-outfits-code-bincohax.html)|`2025-01-29 08:54:00`|`Grand Theft Auto V`|
 |[Weapon Names,Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/683655-weapon-names-chams.html)|`2025-01-29 08:26:00`|`Call of Duty: Black Ops Cold War`|
 |[How does EFT's BE compare to other BE versions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/684172-efts-compare-versions.html)|`2025-01-29 08:24:00`|`Escape from Tarkov`|
 |[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2025-01-29 08:23:00`|`Other MMORPG and Strategy`|
