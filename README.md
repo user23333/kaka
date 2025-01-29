@@ -12,6 +12,7 @@
 |2|[CS2 Rage Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683538-cs2-rage-menu.html)|`2025-01-29 00:00:05`|`counter-strike-2-a`|
 |12|[Global Ban 10y](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/683485-global-ban-10y.html)|`2025-01-29 00:00:05`|`pubg-mobile`|
 |7|[Universal Unity Aimbot, ESP and Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/683904-universal-unity-aimbot-esp-triggerbot.html)|`2025-01-29 18:47:27`|`unity`|
+|9|[New ColorBot/TriggerBot Signed Microsoft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684493-colorbot-triggerbot-signed-microsoft.html)|`2025-01-29 22:56:58`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BOIII Client ZM External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/684226-boiii-client-zm-external.html)|`2025-01-29 22:56:00`|`Call of Duty: Black Ops 3`|
+|[BOIII Client GSC Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/683433-boiii-client-gsc-injector.html)|`2025-01-29 22:55:00`|`Call of Duty: Black Ops 3`|
 |[Genshin İmpact Shika Cheat 5&#46;0&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/660051-genshin-mpact-shika-cheat-5-0-0-1-a.html)|`2025-01-29 22:50:00`|`Genshin Impact`|
 |[MW3/WZ3 External Working Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/670337-mw3-wz3-external-base.html)|`2025-01-29 22:43:00`|`Call of Duty: Modern Warfare III`|
 |[how to apply offsets and apply these stuf you share](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/684498-apply-offsets-apply-stuf-share.html)|`2025-01-29 22:41:00`|`PUBG Mobile`|
