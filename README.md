@@ -12,6 +12,7 @@
 |2|[CS2 Rage Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683538-cs2-rage-menu.html)|`2025-01-30 00:10:56`|`counter-strike-2-a`|
 |9|[New ColorBot/TriggerBot Signed Microsoft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684493-colorbot-triggerbot-signed-microsoft.html)|`2025-01-30 00:10:56`|`valorant`|
 |7|[Universal Unity Aimbot, ESP and Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/683904-universal-unity-aimbot-esp-triggerbot.html)|`2025-01-30 01:46:35`|`unity`|
+|3|[Rust Cheat/Injector &#40;Not a cheat or bypass&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/683902-rust-cheat-injector-cheat-bypass.html)|`2025-01-30 02:20:23`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to apply offsets and apply these stuf you share](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/684498-apply-offsets-apply-stuf-share.html)|`2025-01-30 02:18:00`|`PUBG Mobile`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-01-30 02:17:00`|`Alternative Online Mods`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-01-30 02:16:00`|`DayZ SA`|
+|[EFT SPT 3&#46;10&#46;4 Cheat &#40;Update to lIllIIllII's cheat&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/682753-eft-spt-3-10-4-cheat-update-lilliilliis-cheat.html)|`2025-01-30 02:13:00`|`Escape from Tarkov`|
+|[One armed robber Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/670863-armed-robber-internal.html)|`2025-01-30 02:10:00`|`Other FPS Games`|
+|[Bot or Tool to Optimize Gameplay and Improve Efficiency in Ranked Matches for AoE4?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/684200-bot-tool-optimize-gameplay-improve-efficiency-ranked-matches-aoe4.html)|`2025-01-30 02:10:00`|`Other MMORPG and Strategy`|
+|[No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/675931-recoil.html)|`2025-01-30 02:08:00`|`Rainbow Six Siege`|
 |[Simple item ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/672151-simple-item-esp.html)|`2025-01-30 01:48:00`|`DayZ SA`|
 |[Nvidia screenshot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684601-nvidia-screenshot.html)|`2025-01-30 01:39:00`|`Anti-Cheat Bypass`|
 |[Call of Duty Mobile Chinese PC Version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/684552-call-duty-mobile-chinese-pc-version.html)|`2025-01-30 01:30:00`|`Other FPS Games`|
