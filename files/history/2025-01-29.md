@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#124; Dota 2 &#124; Nest of Throns: skills without cooldowns &#124; EXTERNAL &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/677527-dota-2-nest-throns-skills-cooldowns-external.html)|`2025-01-29 23:55:00`|`Other MMORPG and Strategy`|
+|[Am I too late for the party?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/684197-am-late-party.html)|`2025-01-29 23:52:00`|`Forum General`|
 |[STRAFTAT Mono Internal Cheat/Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/681236-straftat-mono-internal-cheat-base.html)|`2025-01-29 23:44:00`|`Other FPS Games`|
 |[How safe LogiCVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/684615-safe-logicve.html)|`2025-01-29 23:43:00`|`Rust`|
 |[Combat Master CE Godmode, MEGA XP, Instant Weapon/Player Max Level, Attachment Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/583715-combat-master-ce-godmode-mega-xp-instant-weapon-player-max-level-attachment-mod.html)|`2025-01-29 23:43:00`|`Combat Master`|
