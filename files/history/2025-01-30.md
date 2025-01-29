@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-01-30 04:13:00`|`Counter-Strike 2`|
+|[&#91;STEAM&#93; Final Fantasy Vii Remake Integrade](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/684028-steam-final-fantasy-vii-remake-integrade.html)|`2025-01-30 04:09:00`|`Cheat Engine Tables`|
+|[Riot Vanguard's Hardware Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684649-riot-vanguards-hardware-ban.html)|`2025-01-30 03:59:00`|`Anti-Cheat Bypass`|
 |[Hell Let Loose PDB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/684540-hell-loose-pdb.html)|`2025-01-30 03:54:00`|`Other FPS Games`|
 |[ZORT Spawn Menu &#91;BepinEx&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/683876-zort-spawn-menu-bepinex.html)|`2025-01-30 03:45:00`|`Other FPS Games`|
 |[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2025-01-30 03:40:00`|`Other FPS Games`|
