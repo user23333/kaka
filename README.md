@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Helldivers 2&#45;&#45;AHK Stratagems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/625227-helldivers-2-ahk-stratagems.html)|`2025-01-30 04:28:00`|`HELLDIVERS 2`|
+|[Is the unlock all even possible now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/683999-unlock.html)|`2025-01-30 04:25:00`|`Rainbow Six Siege`|
+|[Free Cheat Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/677967-free-cheat-chams.html)|`2025-01-30 04:23:00`|`Rainbow Six Siege`|
+|[HWIDSPOOFER/Unban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/573734-hwidspoofer-unban.html)|`2025-01-30 04:19:00`|`Rainbow Six Siege`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-01-30 04:13:00`|`Counter-Strike 2`|
 |[&#91;STEAM&#93; Final Fantasy Vii Remake Integrade](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/684028-steam-final-fantasy-vii-remake-integrade.html)|`2025-01-30 04:09:00`|`Cheat Engine Tables`|
 |[Riot Vanguard's Hardware Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684649-riot-vanguards-hardware-ban.html)|`2025-01-30 03:59:00`|`Anti-Cheat Bypass`|
