@@ -37,6 +37,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Strinova Aim assist/ aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/684753-strinova-aim-assist-aimbot.html)|`2025-01-30 20:47:00`|`Other FPS Games`|
+|[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-01-30 20:44:00`|`Other FPS Games`|
+|[Valorant Net Communication](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684752-valorant-net-communication.html)|`2025-01-30 20:43:00`|`Valorant`|
+|[Always Finding Shadow CR3 &#40;without decryption&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684447-finding-shadow-cr3-decryption.html)|`2025-01-30 20:31:00`|`Valorant`|
+|[Thinking About Releasing My Liar's Bar Cheat Mod &#91;v0&#46;92&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/684492-thinking-releasing-liars-bar-cheat-mod-v0-92-a.html)|`2025-01-30 20:29:00`|`Other Games`|
 |[External Offsets 3&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681380-external-offsets-3-6-a.html)|`2025-01-30 20:12:00`|`PUBG Mobile`|
 |[War Thunder test drive unlock tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/671076-war-thunder-test-drive-unlock-tool.html)|`2025-01-30 20:02:00`|`Other MMORPG and Strategy`|
 |[Help with internal bhop code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684748-help-internal-bhop-code.html)|`2025-01-30 19:59:00`|`Counter-Strike 2`|
