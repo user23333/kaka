@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Palworld Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/620076-palworld-reversal-structs-offsets.html)|`2025-01-31 01:57:00`|`Palworld`|
+|[Rust script ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/683824-rust-script-ban.html)|`2025-01-31 01:53:00`|`Rust`|
 |[Free hat skin changer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/684783-free-hat-skin-changer.html)|`2025-01-31 01:51:00`|`Team Fortress 2`|
 |[Need Iron fist bhop macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/684781-iron-fist-bhop-macro.html)|`2025-01-31 01:43:00`|`Marvel Rivals`|
 |[Protect Elon&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/684662-protect-elon.html)|`2025-01-31 01:40:00`|`Off Topic`|
