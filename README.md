@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;VB&#46;NET&#93; &#45; Spike Countdown &#40;Timer&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/672793-vb-net-spike-countdown-timer.html)|`2025-01-31 07:21:00`|`Valorant`|
+|[Riot Vanguard's Hardware Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684649-riot-vanguards-hardware-ban.html)|`2025-01-31 07:20:00`|`Anti-Cheat Bypass`|
 |[Curious about your thoughts on the cloud&#45;based DMA solutions they’re advertising&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/684679-curious-cloud-based-dma-solutions-re-advertising.html)|`2025-01-31 07:07:00`|`Apex Legends`|
 |[AHK Scripts patched?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/684501-ahk-scripts-patched.html)|`2025-01-31 07:05:00`|`Call of Duty: Black Ops 6`|
 |[EFT SPT 3&#46;10&#46;4 Cheat &#40;Update to lIllIIllII's cheat&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/682753-eft-spt-3-10-4-cheat-update-lilliilliis-cheat.html)|`2025-01-31 07:01:00`|`Escape from Tarkov`|
