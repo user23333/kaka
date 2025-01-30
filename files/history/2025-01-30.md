@@ -37,6 +37,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Offsets 3&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681380-external-offsets-3-6-a.html)|`2025-01-30 20:12:00`|`PUBG Mobile`|
+|[War Thunder test drive unlock tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/671076-war-thunder-test-drive-unlock-tool.html)|`2025-01-30 20:02:00`|`Other MMORPG and Strategy`|
+|[Help with internal bhop code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684748-help-internal-bhop-code.html)|`2025-01-30 19:59:00`|`Counter-Strike 2`|
+|[Possible page alignment or CoW issue?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684369-page-alignment-cow-issue.html)|`2025-01-30 19:56:00`|`Anti-Cheat Bypass`|
 |[project hardline cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/665723-project-hardline-cheat.html)|`2025-01-30 19:42:00`|`Other FPS Games`|
 |[External Dayz Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/479045-external-dayz-source.html)|`2025-01-30 19:37:00`|`DayZ SA`|
 |[Write to memory with Kernel driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/684744-write-memory-kernel-driver.html)|`2025-01-30 19:20:00`|`C and C++`|
