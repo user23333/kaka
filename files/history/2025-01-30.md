@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sellix just exitscammed&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/684742-sellix-exitscammed.html)|`2025-01-30 18:43:00`|`Off Topic`|
 |[Deadzone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/684614-deadzone.html)|`2025-01-30 18:36:00`|`Call of Duty: Black Ops 6`|
 |[How to debug on UE4? &#45; Attempting to skip server online check&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/684251-debug-ue4-attempting-skip-server-online-check.html)|`2025-01-30 18:34:00`|`Programming for Beginners`|
 |[reading physical memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684616-reading-physical-memory.html)|`2025-01-30 17:59:00`|`Anti-Cheat Bypass`|
