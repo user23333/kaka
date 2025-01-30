@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[is it possible on the server to intercept the strings executed by lua](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/684617-server-intercept-strings-executed-lua.html)|`2025-01-31 02:36:00`|`Garry's Mod`|
+|[people not being banned while cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/680963-people-banned-cheating.html)|`2025-01-31 02:25:00`|`Rainbow Six Siege`|
+|[20&#45;Hour Cooldowns – Aimbots Are Being Detected&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682413-20-hour-cooldowns-aimbots-detected.html)|`2025-01-31 02:25:00`|`Counter-Strike 2`|
+|[Always Finding Shadow CR3 &#40;without decryption&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684447-finding-shadow-cr3-decryption.html)|`2025-01-31 02:21:00`|`Valorant`|
+|[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2025-01-31 02:18:00`|`Escape from Tarkov`|
 |[TFGhost](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/471765-tfghost.html)|`2025-01-31 02:16:00`|`Team Fortress 2`|
 |[Possible page alignment or CoW issue?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684369-page-alignment-cow-issue.html)|`2025-01-31 02:15:00`|`Anti-Cheat Bypass`|
 |[TF2Classic Internal Cheat V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/598383-tf2classic-internal-cheat-v2.html)|`2025-01-31 02:15:00`|`Team Fortress 2`|
