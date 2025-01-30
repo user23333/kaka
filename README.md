@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Write to memory with Kernel driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/684744-write-memory-kernel-driver.html)|`2025-01-30 19:20:00`|`C and C++`|
 |[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2025-01-30 19:07:00`|`Elite: Dangerous`|
 |[Sellix just exitscammed&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/684742-sellix-exitscammed.html)|`2025-01-30 18:43:00`|`Off Topic`|
 |[Deadzone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/684614-deadzone.html)|`2025-01-30 18:36:00`|`Call of Duty: Black Ops 6`|
