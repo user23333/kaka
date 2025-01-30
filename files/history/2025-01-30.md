@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DCUO No Delay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/684399-dcuo-delay.html)|`2025-01-30 15:22:00`|`Other Games`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-01-30 14:42:00`|`Escape from Tarkov`|
+|[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2025-01-30 14:34:00`|`Valorant`|
 |[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-01-30 15:01:00`|`Call of Duty: Black Ops 3`|
 |[Delta Force: Hawk Ops AI AIM model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/681142-delta-force-hawk-ops-ai-aim-model.html)|`2025-01-30 14:59:00`|`Other FPS Games`|
 |[How to play with yim menu with a friend?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/680507-play-yim-menu-friend.html)|`2025-01-30 14:17:00`|`Grand Theft Auto V`|
