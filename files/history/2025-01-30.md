@@ -40,6 +40,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VALORANT AHK TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684670-valorant-ahk-tb.html)|`2025-01-30 23:38:00`|`Valorant`|
 |[Cunterstrike 2 external ESP is moving along with mouse and player movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683914-cunterstrike-2-external-esp-moving-mouse-player-movement.html)|`2025-01-30 23:28:00`|`Counter-Strike 2`|
 |[Yim Menu and FSL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/684770-yim-menu-fsl.html)|`2025-01-30 23:25:00`|`Grand Theft Auto V`|
 |[Library&#46;&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683420-library.html)|`2025-01-30 23:24:00`|`Valorant`|
