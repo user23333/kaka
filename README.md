@@ -35,9 +35,13 @@
 |1|[Exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48474)|`2025-01-30 19:42:40`|
 |1|[Project Hardline Best Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48479)|`2025-01-30 19:48:49`|
 |2|[Impact Point Cheat Table 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48431)|`2025-01-30 21:37:02`|
+|1|[BuckShoot Roulette Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48453)|`2025-01-30 22:26:45`|
+|1|[Menu SnowBreak CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48452)|`2025-01-30 22:26:45`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BuckShot Roulette Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/684556-buckshot-roulette-cheat-table.html)|`2025-01-30 22:17:00`|`Cheat Engine Tables`|
+|[Project Zomboid Cheat &#124; EtherHack &#124; Powered by Java &#124; 41&#46;78&#46;16 &#124; Continued](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676271-project-zomboid-cheat-etherhack-powered-java-41-78-16-continued.html)|`2025-01-30 22:15:00`|`Other MMORPG and Strategy`|
 |[Marvel Rivals Undetected/Safe Free Macro 009](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680962-marvel-rivals-undetected-safe-free-macro-009-a.html)|`2025-01-30 21:46:00`|`Marvel Rivals`|
 |[Impact Point 2025 Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/684457-impact-2025-cheat-table.html)|`2025-01-30 21:31:00`|`Cheat Engine Tables`|
 |[Weapon Names,Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/683655-weapon-names-chams.html)|`2025-01-30 21:30:00`|`Call of Duty: Black Ops Cold War`|
