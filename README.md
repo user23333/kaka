@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kernel Begining](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/684830-kernel-begining.html)|`2025-01-31 07:28:00`|`Programming for Beginners`|
 |[&#91;VB&#46;NET&#93; &#45; Spike Countdown &#40;Timer&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/672793-vb-net-spike-countdown-timer.html)|`2025-01-31 07:21:00`|`Valorant`|
 |[Riot Vanguard's Hardware Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684649-riot-vanguards-hardware-ban.html)|`2025-01-31 07:20:00`|`Anti-Cheat Bypass`|
 |[Curious about your thoughts on the cloud&#45;based DMA solutions they’re advertising&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/684679-curious-cloud-based-dma-solutions-re-advertising.html)|`2025-01-31 07:07:00`|`Apex Legends`|
