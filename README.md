@@ -34,9 +34,12 @@
 |1|[Scropts QOL v2&#46;1&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48487)|`2025-01-30 19:42:40`|
 |1|[Exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48474)|`2025-01-30 19:42:40`|
 |1|[Project Hardline Best Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48479)|`2025-01-30 19:48:49`|
+|2|[Impact Point Cheat Table 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48431)|`2025-01-30 21:37:02`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Impact Point 2025 Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/684457-impact-2025-cheat-table.html)|`2025-01-30 21:31:00`|`Cheat Engine Tables`|
+|[Weapon Names,Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/683655-weapon-names-chams.html)|`2025-01-30 21:30:00`|`Call of Duty: Black Ops Cold War`|
 |[Refined Sunoki's fully updated TriggerBot &#43; Mafia4321x's Spoofer  &#43; Cc's TB launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684759-refined-sunokis-updated-triggerbot-mafia4321xs-spoofer-ccs-tb-launcher.html)|`2025-01-30 21:25:00`|`Valorant`|
 |[Cs2 armory pass botting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680976-cs2-armory-pass-botting.html)|`2025-01-30 21:17:00`|`Counter-Strike 2`|
 |[is it possible to get unbanned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684757-unbanned.html)|`2025-01-30 21:08:00`|`Counter-Strike 2`|
