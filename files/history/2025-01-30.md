@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-01-30 13:06:00`|`Escape from Tarkov`|
 |[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-01-30 12:30:00`|`Marvel Rivals`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-01-30 12:27:00`|`Grand Theft Auto V`|
 |[Strinova Internal &#40;Aimbot & ESP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677105-strinova-internal-aimbot-esp.html)|`2025-01-30 12:04:00`|`Other FPS Games`|
