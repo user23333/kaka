@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[why kernel driver detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684735-kernel-driver-detected.html)|`2025-01-30 16:16:00`|`Anti-Cheat Bypass`|
+|[processing colors in ImGui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684734-processing-colors-imgui.html)|`2025-01-30 16:11:00`|`Counter-Strike 2`|
+|[Looking for ESP for sniper elite resistance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/684733-looking-esp-sniper-elite-resistance.html)|`2025-01-30 16:09:00`|`Other FPS Games`|
 |[Unban method for a account you actually play on](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/680339-unban-method-account-actually-play.html)|`2025-01-30 15:36:00`|`Rainbow Six Siege`|
 |[working r6 injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/683981-r6-injector.html)|`2025-01-30 15:34:00`|`Rainbow Six Siege`|
 |[DCUO No Delay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/684399-dcuo-delay.html)|`2025-01-30 15:22:00`|`Other Games`|
