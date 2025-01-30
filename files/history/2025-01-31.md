@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-01-31 00:28:00`|`Escape from Tarkov`|
+|[Question about the premier points](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684776-question-premier.html)|`2025-01-31 00:24:00`|`Counter-Strike 2`|
+|[Magic Bullet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/682480-magic-bullet.html)|`2025-01-31 00:17:00`|`Deadlock`|
+|[I want to appreciate all of UnkownCheats real quick&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/684712-appreciate-unkowncheats-real-quick.html)|`2025-01-31 00:16:00`|`Off Topic`|
+|[Library&#46;&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683420-library.html)|`2025-01-31 00:11:00`|`Valorant`|
 |[is it possible to get unbanned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684757-unbanned.html)|`2025-01-31 00:09:00`|`Counter-Strike 2`|
 |[Hell Let Loose PDB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/684540-hell-loose-pdb.html)|`2025-01-31 00:08:00`|`Other FPS Games`|
 |[Are there any tricks for my problem?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/684681-tricks.html)|`2025-01-31 00:05:00`|`Rainbow Six Siege`|
