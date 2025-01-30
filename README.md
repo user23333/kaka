@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Curious about your thoughts on the cloud&#45;based DMA solutions they’re advertising&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/684679-curious-cloud-based-dma-solutions-re-advertising.html)|`2025-01-31 07:07:00`|`Apex Legends`|
+|[AHK Scripts patched?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/684501-ahk-scripts-patched.html)|`2025-01-31 07:05:00`|`Call of Duty: Black Ops 6`|
+|[EFT SPT 3&#46;10&#46;4 Cheat &#40;Update to lIllIIllII's cheat&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/682753-eft-spt-3-10-4-cheat-update-lilliilliis-cheat.html)|`2025-01-31 07:01:00`|`Escape from Tarkov`|
 |[need an advice for finding functions easily from a dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/684828-advice-finding-functions-easily-dump.html)|`2025-01-31 06:47:00`|`Forum General`|
 |[how to make a page load?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/684459-page-load.html)|`2025-01-31 06:28:00`|`General Programming and Reversing`|
 |[GlowManager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684665-glowmanager.html)|`2025-01-31 06:25:00`|`Counter-Strike 2`|
