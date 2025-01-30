@@ -37,6 +37,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[is it possible to get unbanned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684757-unbanned.html)|`2025-01-30 21:08:00`|`Counter-Strike 2`|
+|[clang undefined behaviour](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684756-clang-undefined-behaviour.html)|`2025-01-30 20:56:00`|`Anti-Cheat Bypass`|
+|[Dofus 3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/677073-dofus-3-0-a.html)|`2025-01-30 20:54:00`|`Unity`|
 |[Strinova Aim assist/ aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/684753-strinova-aim-assist-aimbot.html)|`2025-01-30 20:47:00`|`Other FPS Games`|
 |[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-01-30 20:44:00`|`Other FPS Games`|
 |[Valorant Net Communication](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684752-valorant-net-communication.html)|`2025-01-30 20:43:00`|`Valorant`|
