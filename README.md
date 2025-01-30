@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[First publicly available read only external grenade prediction&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684672-publicly-available-read-external-grenade-prediction.html)|`2025-01-31 01:10:00`|`Counter-Strike 2`|
+|[why kernel driver detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684735-kernel-driver-detected.html)|`2025-01-31 01:09:00`|`Anti-Cheat Bypass`|
 |[Refined Sunoki's fully updated TriggerBot &#43; Mafia4321x's Spoofer  &#43; Cc's TB launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684759-refined-sunokis-updated-triggerbot-mafia4321xs-spoofer-ccs-tb-launcher.html)|`2025-01-31 00:56:00`|`Valorant`|
 |[Valorant external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684768-valorant-external.html)|`2025-01-31 00:54:00`|`Valorant`|
 |[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2025-01-31 00:53:00`|`Valorant`|
