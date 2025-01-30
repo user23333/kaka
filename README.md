@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Refined Sunoki's fully updated TriggerBot &#43; Mafia4321x's Spoofer  &#43; Cc's TB launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684759-refined-sunokis-updated-triggerbot-mafia4321xs-spoofer-ccs-tb-launcher.html)|`2025-01-30 21:25:00`|`Valorant`|
+|[Cs2 armory pass botting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/680976-cs2-armory-pass-botting.html)|`2025-01-30 21:17:00`|`Counter-Strike 2`|
 |[is it possible to get unbanned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684757-unbanned.html)|`2025-01-30 21:08:00`|`Counter-Strike 2`|
 |[clang undefined behaviour](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684756-clang-undefined-behaviour.html)|`2025-01-30 20:56:00`|`Anti-Cheat Bypass`|
 |[Dofus 3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/677073-dofus-3-0-a.html)|`2025-01-30 20:54:00`|`Unity`|
