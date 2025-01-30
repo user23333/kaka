@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-01-30 11:11:00`|`Counter-Strike 2 Releases`|
 |[how to fix in zoom esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/683498-fix-zoom-esp.html)|`2025-01-30 10:42:00`|`Escape from Tarkov`|
 |[First publicly available read only external grenade prediction&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684672-publicly-available-read-external-grenade-prediction.html)|`2025-01-30 10:37:00`|`Counter-Strike 2`|
 |[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2025-01-30 10:28:00`|`Other MMORPG and Strategy`|
