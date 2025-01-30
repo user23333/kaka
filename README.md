@@ -32,6 +32,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to fix in zoom esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/683498-fix-zoom-esp.html)|`2025-01-30 10:42:00`|`Escape from Tarkov`|
+|[First publicly available read only external grenade prediction&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684672-publicly-available-read-external-grenade-prediction.html)|`2025-01-30 10:37:00`|`Counter-Strike 2`|
+|[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2025-01-30 10:28:00`|`Other MMORPG and Strategy`|
+|[Does vanguard detect external overlays that just read memory?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/684682-vanguard-detect-external-overlays-read-memory.html)|`2025-01-30 10:23:00`|`League of Legends`|
+|[Are there any tricks for my problem?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/684681-tricks.html)|`2025-01-30 10:22:00`|`Rainbow Six Siege`|
+|[DayZ BattlEye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684469-dayz-battleye.html)|`2025-01-30 10:21:00`|`Anti-Cheat Bypass`|
+|[Curious about your thoughts on the cloud&#45;based DMA solutions they’re advertising&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/684679-curious-cloud-based-dma-solutions-re-advertising.html)|`2025-01-30 10:11:00`|`Apex Legends`|
 |[Help with anti ban &#43; hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/684537-help-anti-ban-hack.html)|`2025-01-30 09:49:00`|`PUBG Mobile`|
 |[External Farlight 84 Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/661656-external-farlight-84-free-cheat.html)|`2025-01-30 09:40:00`|`Farlight 84`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-01-30 09:27:00`|`Apex Legends`|
