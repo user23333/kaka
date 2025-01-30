@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dragon nest unportected privet server help me hack i pay 100euro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/684669-dragon-nest-unportected-privet-server-help-hack-pay-100euro.html)|`2025-01-30 08:27:00`|`Other MMORPG and Strategy`|
+|[Remaster: Spankerfield &#43; Hyperhook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/679728-remaster-spankerfield-hyperhook.html)|`2025-01-30 08:26:00`|`Battlefield 4`|
+|[Smite Speed Hack&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/684072-smite-speed-hack.html)|`2025-01-30 08:20:00`|`Paladins`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/183111-menu-showcase-thread.html)|`2025-01-30 08:20:00`|`Counterstrike Global Offensive`|
+|[DMA ESP laggy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684245-dma-esp-laggy.html)|`2025-01-30 08:19:00`|`Anti-Cheat Bypass`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-01-30 07:53:00`|`Overwatch`|
 |[Melee Prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/591325-melee-prediction.html)|`2025-01-30 07:49:00`|`Rust`|
 |[What is the best way to skip heist preparation &#40;looking for a step by step tutorial&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/679989-skip-heist-preparation-looking-step-step-tutorial.html)|`2025-01-30 07:21:00`|`Grand Theft Auto V`|
