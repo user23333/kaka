@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-01-30 15:01:00`|`Call of Duty: Black Ops 3`|
+|[Delta Force: Hawk Ops AI AIM model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/681142-delta-force-hawk-ops-ai-aim-model.html)|`2025-01-30 14:59:00`|`Other FPS Games`|
 |[How to play with yim menu with a friend?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/680507-play-yim-menu-friend.html)|`2025-01-30 14:17:00`|`Grand Theft Auto V`|
 |[Deadlock External Source &#45; aim/esp/scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/682951-deadlock-external-source-aim-esp-scripts.html)|`2025-01-30 13:30:00`|`Deadlock`|
 |[Melee atack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/684714-melee-atack.html)|`2025-01-30 13:37:00`|`Rust`|
