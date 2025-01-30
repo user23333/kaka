@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Undetected/Safe Free Macro 009](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680962-marvel-rivals-undetected-safe-free-macro-009-a.html)|`2025-01-30 21:46:00`|`Marvel Rivals`|
 |[Impact Point 2025 Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/684457-impact-2025-cheat-table.html)|`2025-01-30 21:31:00`|`Cheat Engine Tables`|
 |[Weapon Names,Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/683655-weapon-names-chams.html)|`2025-01-30 21:30:00`|`Call of Duty: Black Ops Cold War`|
 |[Refined Sunoki's fully updated TriggerBot &#43; Mafia4321x's Spoofer  &#43; Cc's TB launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684759-refined-sunokis-updated-triggerbot-mafia4321xs-spoofer-ccs-tb-launcher.html)|`2025-01-30 21:25:00`|`Valorant`|
