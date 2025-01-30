@@ -31,9 +31,12 @@
 |1|[Refined TB with C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48443)|`2025-01-30 06:39:18`|
 |4|[NoClip&#46;ba2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48488)|`2025-01-30 19:36:35`|
 |2|[bigfuel improved v1&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48455)|`2025-01-30 19:36:35`|
+|1|[Scropts QOL v2&#46;1&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48487)|`2025-01-30 19:42:40`|
+|1|[Exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48474)|`2025-01-30 19:42:40`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Dayz Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/479045-external-dayz-source.html)|`2025-01-30 19:37:00`|`DayZ SA`|
 |[Write to memory with Kernel driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/684744-write-memory-kernel-driver.html)|`2025-01-30 19:20:00`|`C and C++`|
 |[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2025-01-30 19:07:00`|`Elite: Dangerous`|
 |[Sellix just exitscammed&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/684742-sellix-exitscammed.html)|`2025-01-30 18:43:00`|`Off Topic`|
