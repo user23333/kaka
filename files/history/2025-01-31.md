@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I'm looking for a jitter for the controller](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/682487-im-looking-jitter-controller.html)|`2025-01-31 21:29:00`|`Apex Legends`|
 |[Valorant offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684868-valorant-offsets.html)|`2025-01-31 21:26:00`|`Valorant`|
 |[LUA Anti&#45;Recoil script for Logitech G HUB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/634802-lua-anti-recoil-script-logitech-hub.html)|`2025-01-31 19:46:00`|`Other FPS Games`|
 |[WARZONE BOT LOBBY &#91;WARNING&#93;&#91;/WARNING&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/684862-warzone-bot-lobby-warning-warning.html)|`2025-01-31 19:40:00`|`Call of Duty: Black Ops 6`|
