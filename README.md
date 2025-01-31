@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Glow ESP?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684845-cs2-glow-esp.html)|`2025-02-01 04:53:00`|`Counter-Strike 2`|
+|[Aimbot with infinitely increasing yaw and pitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/682512-aimbot-infinitely-increasing-yaw-pitch.html)|`2025-02-01 04:52:00`|`Forum General`|
+|[the cs2 entity list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684512-cs2-entity-list.html)|`2025-02-01 04:31:00`|`Counter-Strike 2`|
 |[Project Papercut &#45; Dale and Dawson](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/669016-project-papercut-dale-dawson.html)|`2025-02-01 04:44:00`|`Other Games`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-02-01 04:33:00`|`Escape from Tarkov`|
 |[Multi cheat &#35; Aimbot &#35; Esp &#35; Triggerbot &#35; Misc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/642513-multi-cheat-aimbot-esp-triggerbot-misc.html)|`2025-02-01 04:29:00`|`Counter-Strike 2 Releases`|
