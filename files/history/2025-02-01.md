@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Controller Emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673578-controller-emulation.html)|`2025-02-01 06:20:00`|`Call of Duty: Black Ops 6`|
+|[DayZ Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/684403-dayz-scripting.html)|`2025-02-01 06:11:00`|`DayZ SA`|
+|[Is there a way to make a web radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/684882-web-radar.html)|`2025-02-01 06:08:00`|`Garry's Mod`|
 |[Bloodhunt cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/614168-bloodhunt-cheese.html)|`2025-02-01 06:07:00`|`Other FPS Games`|
 |[Zoom Crosshair or somewhere else](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/684935-zoom-crosshair-else.html)|`2025-02-01 06:02:00`|`Other Games`|
 |[24H2 Dma key states](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/672148-24h2-dma-key.html)|`2025-02-01 06:02:00`|`C and C++`|
