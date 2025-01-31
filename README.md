@@ -11,6 +11,8 @@
 |10|[I found a way to unban GTA V but I'm not sure&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/684066-found-unban-gta-im.html)|`2025-02-01 00:09:46`|`grand-theft-auto-v`|
 |5|[Rust Cheat/Injector &#40;Not a cheat or bypass&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/683902-rust-cheat-injector-cheat-bypass.html)|`2025-02-01 00:09:46`|`rust`|
 |16|[Chams materials external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/684023-chams-materials-external.html)|`2025-02-01 00:09:46`|`rust`|
+|9|[Seriously no free cheat out there?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/683908-seriously-free-cheat.html)|`2025-02-01 01:43:21`|`call-of-duty-black-ops-6-a`|
+|20|[DMA ESP laggy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684245-dma-esp-laggy.html)|`2025-02-01 01:43:21`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Half&#45;Sword External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/675149-half-sword-external.html)|`2025-02-01 01:36:00`|`Other Games`|
 |[1v1&#46;lol rage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/681753-1v1-lol-rage-cheat.html)|`2025-02-01 01:30:00`|`Other Games`|
 |[Button codes?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/683893-button-codes.html)|`2025-02-01 01:14:00`|`Call of Duty: Black Ops 6`|
 |[Finally not allowed to play&#33; only using AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/684808-finally-allowed-play-using-ahk.html)|`2025-02-01 01:08:00`|`Call of Duty: Black Ops 6`|
