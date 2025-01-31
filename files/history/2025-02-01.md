@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2025-02-01 03:06:00`|`Overwatch`|
+|[Marvel Rivals Undetected/Safe Free Macro 009](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680962-marvel-rivals-undetected-safe-free-macro-009-a.html)|`2025-02-01 03:03:00`|`Marvel Rivals`|
+|[Warframe Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/631004-warframe-cheat.html)|`2025-02-01 03:00:00`|`Other FPS Games`|
 |[AHK KD Dropper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/681801-ahk-kd-dropper.html)|`2025-02-01 02:31:00`|`Escape from Tarkov`|
 |[STRAFTAT Mono Internal Cheat/Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/681236-straftat-mono-internal-cheat-base.html)|`2025-02-01 02:42:00`|`Other FPS Games`|
 |[How Does Ghub Lua scripts send inputs?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/684883-ghub-lua-scripts-send-inputs.html)|`2025-02-01 02:40:00`|`Other FPS Games`|
