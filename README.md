@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sunoki's fully updated TriggerBot &#43; Spoofer by Mafia4321x](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679046-sunokis-updated-triggerbot-spoofer-mafia4321x.html)|`2025-02-01 00:47:00`|`Valorant`|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-02-01 00:46:00`|`Phasmophobia`|
+|[&#91;PCSX2&#93; SOCOM II U&#46;S NAVY SEALs &#45; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/683122-pcsx2-socom-ii-navy-seals-esp.html)|`2025-02-01 00:45:00`|`Other Games`|
+|[DictatorsNoPeaceCountryBalls Cheat Table Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/684884-dictatorsnopeacecountryballs-cheat-table.html)|`2025-02-01 00:44:00`|`Cheat Engine Tables`|
+|[help CE Emergency &#40; 2023 &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/684853-help-ce-emergency-2023-a.html)|`2025-02-01 00:44:00`|`Forum General`|
 |[Raycast &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/678606-raycast-external.html)|`2025-02-01 00:42:00`|`Garry's Mod`|
 |[need an advice for finding functions easily from a dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/684828-advice-finding-functions-easily-dump.html)|`2025-02-01 00:42:00`|`Forum General`|
 |[BO6 Enhanced Color Aim AHK GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671390-bo6-enhanced-color-aim-ahk-gui.html)|`2025-02-01 00:38:00`|`Call of Duty: Black Ops 6`|
