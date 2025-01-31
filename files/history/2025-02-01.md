@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Multi cheat &#35; Aimbot &#35; Esp &#35; Triggerbot &#35; Misc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/642513-multi-cheat-aimbot-esp-triggerbot-misc.html)|`2025-02-01 04:29:00`|`Counter-Strike 2 Releases`|
+|[EFT & Arena Simple radar &#91;DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/682758-eft-arena-simple-radar-dma.html)|`2025-02-01 04:29:00`|`Escape from Tarkov`|
 |[Internal triggerbot coding help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684642-internal-triggerbot-coding-help.html)|`2025-02-01 04:24:00`|`Counter-Strike 2`|
 |[Esp does not render after windows update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684570-esp-render-windows-update.html)|`2025-02-01 04:21:00`|`Counter-Strike 2`|
 |[processing colors in ImGui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684734-processing-colors-imgui.html)|`2025-02-01 04:20:00`|`Counter-Strike 2`|
