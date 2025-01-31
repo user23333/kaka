@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[WARZONE BOT LOBBY &#91;WARNING&#93;&#91;/WARNING&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/684862-warzone-bot-lobby-warning-warning.html)|`2025-01-31 19:40:00`|`Call of Duty: Black Ops 6`|
+|[How will I draw in C&#43;&#43; overlays for League of Legends?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/684861-draw-overlays-league-legends.html)|`2025-01-31 19:38:00`|`League of Legends`|
 |[Bloodhunt cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/614168-bloodhunt-cheese.html)|`2025-01-31 19:17:00`|`Other FPS Games`|
 |[Palworld internal or external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/684858-palworld-internal-external.html)|`2025-01-31 18:55:00`|`Palworld`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-01-31 18:28:00`|`Marvel Rivals`|
