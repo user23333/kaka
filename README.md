@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/684738-rust-dma.html)|`2025-02-01 05:52:00`|`Rust`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-02-01 05:52:00`|`Rust`|
+|[How a colorbot works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684835-colorbot.html)|`2025-02-01 05:50:00`|`Valorant`|
+|[wanna talk about tpm for a bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684934-wanna-talk-tpm-bit.html)|`2025-02-01 05:49:00`|`Valorant`|
 |[Bonematrix returns same coords for any model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/684932-bonematrix-returns-coords-model.html)|`2025-02-01 05:41:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[no recoil for Rainbow Six Siege](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/684815-recoil-rainbow-six-siege.html)|`2025-02-01 05:40:00`|`Rainbow Six Siege`|
 |[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2025-02-01 05:33:00`|`Other Games`|
