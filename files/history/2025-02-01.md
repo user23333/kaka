@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[1v1&#46;lol rage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/681753-1v1-lol-rage-cheat.html)|`2025-02-01 01:30:00`|`Other Games`|
 |[Button codes?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/683893-button-codes.html)|`2025-02-01 01:14:00`|`Call of Duty: Black Ops 6`|
 |[Finally not allowed to play&#33; only using AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/684808-finally-allowed-play-using-ahk.html)|`2025-02-01 01:08:00`|`Call of Duty: Black Ops 6`|
 |[Reversing plutonium](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/684272-reversing-plutonium.html)|`2025-02-01 01:06:00`|`Call of Duty: Black Ops 2`|
