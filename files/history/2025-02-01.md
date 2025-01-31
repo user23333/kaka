@@ -14,6 +14,7 @@
 |9|[Seriously no free cheat out there?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/683908-seriously-free-cheat.html)|`2025-02-01 01:43:21`|`call-of-duty-black-ops-6-a`|
 |20|[DMA ESP laggy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684245-dma-esp-laggy.html)|`2025-02-01 01:43:21`|`anti-cheat-bypass`|
 |14|[Using vuln driver to r/w directly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684031-using-vuln-driver-directly.html)|`2025-02-01 05:10:25`|`anti-cheat-bypass`|
+|13|[Refined Sunoki's fully updated TriggerBot &#43; Mafia4321x's Spoofer  &#43; Cc's TB launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684759-refined-sunokis-updated-triggerbot-mafia4321xs-spoofer-ccs-tb-launcher.html)|`2025-02-01 05:29:38`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
