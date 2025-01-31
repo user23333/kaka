@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Supermarket Together Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/665134-supermarket-cheat-table.html)|`2025-01-31 10:01:00`|`Cheat Engine Tables`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-01-31 09:28:00`|`League of Legends`|
+|[Unbannable PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683889-unbannable-pc.html)|`2025-01-31 09:17:00`|`Valorant`|
 |[how to fix in zoom esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/683498-fix-zoom-esp.html)|`2025-01-31 08:42:00`|`Escape from Tarkov`|
 |[Marvel Rivals memflow&#45;qemu external aimbot source written in Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/684393-marvel-rivals-memflow-qemu-external-aimbot-source-written-rust.html)|`2025-01-31 08:29:00`|`Marvel Rivals`|
 |[Chams materials external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/684023-chams-materials-external.html)|`2025-01-31 08:24:00`|`Rust`|
