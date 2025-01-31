@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2025-02-01 05:33:00`|`Other Games`|
+|[titanfall 2 external cheat &#91;aimbot, esp, &#46;&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/469406-titanfall-2-external-cheat-aimbot-esp.html)|`2025-02-01 05:31:00`|`Titanfall`|
 |[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-02-01 05:05:00`|`Marvel Rivals`|
 |[external antiaim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684924-external-antiaim.html)|`2025-02-01 04:57:00`|`Counter-Strike 2`|
 |[CS2 Glow ESP?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684845-cs2-glow-esp.html)|`2025-02-01 04:53:00`|`Counter-Strike 2`|
