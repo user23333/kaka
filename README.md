@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat Master &#124; Fully Featured Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/677171-combat-master-featured-internal.html)|`2025-02-01 07:12:00`|`Combat Master`|
+|[Basic ESP Using NVIDIA Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684658-basic-esp-using-nvidia-overlay.html)|`2025-02-01 07:11:00`|`Counter-Strike 2`|
+|[Combat Master CE Godmode, MEGA XP, Instant Weapon/Player Max Level, Attachment Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/583715-combat-master-ce-godmode-mega-xp-instant-weapon-player-max-level-attachment-mod.html)|`2025-02-01 07:10:00`|`Combat Master`|
+|[how make esp ore internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/684860-esp-ore-internal.html)|`2025-02-01 07:08:00`|`Rust`|
+|[&#91;Updated&#93; Dead by Daylight Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/635513-updated-dead-daylight-unlock-dlcs-skins.html)|`2025-02-01 07:00:00`|`Other FPS Games`|
 |[First publicly available read only external grenade prediction&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684672-publicly-available-read-external-grenade-prediction.html)|`2025-02-01 06:56:00`|`Counter-Strike 2`|
 |[I'm looking for a jitter for the controller](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/682487-im-looking-jitter-controller.html)|`2025-02-01 06:42:00`|`Apex Legends`|
 |[Dont know what to see in IDA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/682179-dont-ida.html)|`2025-02-01 06:41:00`|`General Programming and Reversing`|
