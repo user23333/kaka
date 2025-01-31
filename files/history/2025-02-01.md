@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-02-01 02:32:00`|`DayZ SA`|
+|[do trackers that can bypass streamer mode still exist?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679221-trackers-bypass-streamer-mode-exist.html)|`2025-02-01 02:31:00`|`Valorant`|
+|[GlowManager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684665-glowmanager.html)|`2025-02-01 02:21:00`|`Counter-Strike 2`|
+|[ecx / midnight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/677339-ecx-midnight.html)|`2025-02-01 02:16:00`|`Team Fortress 2`|
 |[people not being banned while cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/680963-people-banned-cheating.html)|`2025-02-01 02:03:00`|`Rainbow Six Siege`|
 |[I've begun work on MVG&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/684833-ive-begun-mvg.html)|`2025-02-01 01:47:00`|`League of Legends`|
 |[Half&#45;Sword External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/675149-half-sword-external.html)|`2025-02-01 01:36:00`|`Other Games`|
