@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Yim and HSW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/684784-yim-hsw.html)|`2025-02-01 10:05:00`|`Grand Theft Auto V`|
+|[Planet Centauri Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/684959-planet-centauri-internal-cheat.html)|`2025-02-01 10:00:00`|`Other Games`|
+|[Claim Personal Vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/684804-claim-personal-vehicle.html)|`2025-02-01 09:57:00`|`Grand Theft Auto V`|
+|[How do i set up a emulated environment?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684957-set-emulated-environment.html)|`2025-02-01 09:41:00`|`Anti-Cheat Bypass`|
+|[Game Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/684560-game-dumper.html)|`2025-02-01 09:39:00`|`Programming for Beginners`|
 |[bones always returning 0,0,0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/684950-bones-returning-0-0-0-a.html)|`2025-02-01 08:32:00`|`DayZ SA`|
 |[disable DSE to load cheat engine driver DBK &#124; Bypass EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/602024-disable-dse-load-cheat-engine-driver-dbk-bypass-eac.html)|`2025-02-01 08:32:00`|`Anti-Cheat Bypass`|
 |[Dealing with excessive function pointers while reversing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/684949-dealing-excessive-function-pointers-reversing.html)|`2025-02-01 08:30:00`|`General Programming and Reversing`|
