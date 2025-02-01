@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sea of Thieves paks new update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/684324-sea-thieves-paks-update.html)|`2025-02-01 21:33:00`|`Sea of Thieves`|
+|[Cheat Engine &#43; Driver Questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683004-cheat-engine-driver-questions.html)|`2025-02-01 21:31:00`|`Anti-Cheat Bypass`|
 |[Odin v4 For Windows 11 24H2/23H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/670695-odin-v4-windows-11-24h2-23h2.html)|`2025-02-01 21:22:00`|`Paladins`|
 |[EFT Profile API &#40;Getting a KD, LVL, etc&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/635032-eft-profile-api-getting-kd-lvl-etc.html)|`2025-02-01 21:00:00`|`Escape from Tarkov`|
 |[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2025-02-01 20:50:00`|`Valorant`|
