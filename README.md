@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does vanguard detect external overlays that just read memory?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/684682-vanguard-detect-external-overlays-read-memory.html)|`2025-02-01 23:16:00`|`League of Legends`|
+|[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-02-01 23:02:00`|`Rainbow Six Siege`|
 |[BOIII Client GSC Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/683433-boiii-client-gsc-injector.html)|`2025-02-01 22:47:00`|`Call of Duty: Black Ops 3`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-02-01 22:25:00`|`Other MMORPG and Strategy`|
 |[project hardline cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/665723-project-hardline-cheat.html)|`2025-02-01 22:20:00`|`Other FPS Games`|
