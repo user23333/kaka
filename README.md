@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-02-02 05:25:00`|`Rust`|
+|[I've begun work on MVG&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/684833-ive-begun-mvg.html)|`2025-02-02 05:24:00`|`League of Legends`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-02-02 05:06:00`|`Other Games`|
 |[randgrid/RICOCHET](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685101-randgrid-ricochet.html)|`2025-02-02 04:57:00`|`Anti-Cheat Bypass`|
 |[Need Iron fist bhop macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/684781-iron-fist-bhop-macro.html)|`2025-02-02 04:28:00`|`Marvel Rivals`|
