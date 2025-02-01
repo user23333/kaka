@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Free hat skin changer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/684783-free-hat-skin-changer.html)|`2025-02-01 20:13:00`|`Team Fortress 2`|
+|[Deadlock External Source &#45; aim/esp/scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/682951-deadlock-external-source-aim-esp-scripts.html)|`2025-02-01 20:10:00`|`Deadlock`|
 |[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2025-02-01 19:58:00`|`Other FPS Games`|
 |[GTA: Definitive Edition &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/684168-gta-definitive-edition-external.html)|`2025-02-01 19:41:00`|`Other Single Player Games`|
 |[reading physical memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684616-reading-physical-memory.html)|`2025-02-01 19:40:00`|`Anti-Cheat Bypass`|
