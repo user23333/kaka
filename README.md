@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/675931-recoil.html)|`2025-02-02 03:38:00`|`Rainbow Six Siege`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-02-02 03:37:00`|`Valorant`|
+|[Kernel sigscan bsod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/684958-kernel-sigscan-bsod.html)|`2025-02-02 03:34:00`|`General Programming and Reversing`|
 |[CSGO Warzone Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/683823-csgo-warzone-hack.html)|`2025-02-02 03:33:00`|`Counterstrike Global Offensive`|
 |[BO6 DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670998-bo6-dma-esp.html)|`2025-02-02 03:32:00`|`Call of Duty: Black Ops 6`|
 |[m&#95;bSpottedByMask problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684938-m_bspottedbymask.html)|`2025-02-02 03:18:00`|`Counter-Strike 2`|
