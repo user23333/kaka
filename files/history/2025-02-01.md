@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Yet another &#45; Bot Lobby Manager for VM/VPS/NO&#45;VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676312-bot-lobby-manager-vm-vps-vm.html)|`2025-02-01 21:49:00`|`Call of Duty: Black Ops 6`|
+|[BOIII Client ZM External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/684226-boiii-client-zm-external.html)|`2025-02-01 21:46:00`|`Call of Duty: Black Ops 3`|
 |[F1 23 Online &#45; FULL BYPASS &#45; ENGINE POWER / GRIP HACK AND MORE&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/566121-f1-23-online-bypass-engine-power-grip-hack.html)|`2025-02-01 21:42:00`|`Other Games`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-02-01 21:41:00`|`Grand Theft Auto V`|
 |[Sea of Thieves paks new update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/684324-sea-thieves-paks-update.html)|`2025-02-01 21:33:00`|`Sea of Thieves`|
