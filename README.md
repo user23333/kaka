@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need Iron fist bhop macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/684781-iron-fist-bhop-macro.html)|`2025-02-02 04:28:00`|`Marvel Rivals`|
 |[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-02-02 04:16:00`|`Marvel Rivals`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-02-02 04:11:00`|`League of Legends`|
 |[Terraria Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/682954-terraria-cheat-engine-table.html)|`2025-02-02 03:51:00`|`Other MMORPG and Strategy`|
