@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[bones always returning 0,0,0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/684950-bones-returning-0-0-0-a.html)|`2025-02-02 00:48:00`|`DayZ SA`|
+|[dbd&#45;extrenal&#45;aura ONLY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/683597-dbd-extrenal-aura.html)|`2025-02-02 00:47:00`|`Other FPS Games`|
+|[Play Together/Rank Boosting Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/353364-play-rank-boosting-thread.html)|`2025-02-02 00:46:00`|`Apex Legends`|
 |[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2025-02-02 00:43:00`|`DayZ SA`|
 |[EFT Profile API &#40;Getting a KD, LVL, etc&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/635032-eft-profile-api-getting-kd-lvl-etc.html)|`2025-02-02 00:34:00`|`Escape from Tarkov`|
 |[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-02-02 00:29:00`|`Rainbow Six Siege`|
