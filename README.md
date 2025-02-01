@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Luna &#124; Free CS2 Cheat &#124; INTERNAL &#124; ESP, Aim, BHop, &#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/681945-luna-free-cs2-cheat-internal-esp-aim-bhop.html)|`2025-02-01 23:27:00`|`Counter-Strike 2 Releases`|
+|[Rage Cheat Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/675560-rage-cheat-source-code.html)|`2025-02-01 23:22:00`|`Counter-Strike 2 Releases`|
+|[creamAPI crossover DLC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/685033-creamapi-crossover-dlc.html)|`2025-02-01 23:22:00`|`Forum General`|
 |[Does vanguard detect external overlays that just read memory?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/684682-vanguard-detect-external-overlays-read-memory.html)|`2025-02-01 23:16:00`|`League of Legends`|
 |[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-02-01 23:02:00`|`Rainbow Six Siege`|
 |[BOIII Client GSC Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/683433-boiii-client-gsc-injector.html)|`2025-02-01 22:47:00`|`Call of Duty: Black Ops 3`|
