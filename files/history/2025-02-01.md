@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Changing console icon?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/683909-changing-console-icon.html)|`2025-02-01 18:40:00`|`Phasmophobia`|
 |[Paladins Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/217341-paladins-reversal-structs-offsets.html)|`2025-02-01 18:29:00`|`Paladins`|
 |[Steam version server ban bypass/Plutonium version server ban bypass Is it possible?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-5-world-at-war/684991-steam-version-server-ban-bypass-plutonium-version-server-ban-bypass.html)|`2025-02-01 17:57:00`|`Call of Duty 5: World at War`|
 |[Crash ESP on Prefab &#45; EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684810-crash-esp-prefab-eac.html)|`2025-02-01 17:57:00`|`Anti-Cheat Bypass`|
