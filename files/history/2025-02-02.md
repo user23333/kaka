@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nvidia screenshot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684601-nvidia-screenshot.html)|`2025-02-02 01:20:00`|`Anti-Cheat Bypass`|
+|[Combat Master &#124; Fully Featured Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/677171-combat-master-featured-internal.html)|`2025-02-02 01:19:00`|`Combat Master`|
+|[how to hide a exe in discord stream?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/680284-hide-exe-discord-stream.html)|`2025-02-02 01:10:00`|`Forum General`|
+|[How hard is hacking in marvel rivals?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685070-hard-hacking-marvel-rivals.html)|`2025-02-02 01:07:00`|`Marvel Rivals`|
 |[Bhop code doesn't work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684947-bhop-code-doesnt.html)|`2025-02-02 01:06:00`|`Counter-Strike 2`|
 |[c&#43;&#43; View angle aimbot problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/685068-view-angle-aimbot.html)|`2025-02-02 01:03:00`|`Off Topic`|
 |[Finally not allowed to play&#33; only using AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/684808-finally-allowed-play-using-ahk.html)|`2025-02-02 01:01:00`|`Call of Duty: Black Ops 6`|
