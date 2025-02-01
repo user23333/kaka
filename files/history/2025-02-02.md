@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[external antiaim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684924-external-antiaim.html)|`2025-02-02 07:12:00`|`Counter-Strike 2`|
+|[DMA ESP laggy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684245-dma-esp-laggy.html)|`2025-02-02 07:09:00`|`Anti-Cheat Bypass`|
+|[project hardline cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/665723-project-hardline-cheat.html)|`2025-02-02 07:02:00`|`Other FPS Games`|
+|[DMA Radar v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/639021-dma-radar-v2.html)|`2025-02-02 07:00:00`|`Escape from Tarkov`|
 |[RocketLeage Offsets Finder&#40;2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/684597-rocketleage-offsets-finder-2025-a.html)|`2025-02-02 06:57:00`|`Other Games`|
 |[Paladins Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/217341-paladins-reversal-structs-offsets.html)|`2025-02-02 06:44:00`|`Paladins`|
 |[DEEP ROCK GALACTIC &#45; ENABLE DEVELOPER CONSOLE &#45; CARGO &#45; PACKS &#45; RESOURCES &#45; XP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/609290-deep-rock-galactic-enable-developer-console-cargo-packs-resources-xp.html)|`2025-02-02 06:41:00`|`Other Single Player Games`|
