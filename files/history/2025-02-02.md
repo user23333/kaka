@@ -27,9 +27,13 @@
 |17|[Menu SnowBreak CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48452)|`2025-02-02 00:07:43`|
 |30|[Refined TB with C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48443)|`2025-02-02 00:07:43`|
 |94|[Universal unity hacks V4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48437)|`2025-02-02 00:07:43`|
+|2|[Paladins 8&#46;1 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48506)|`2025-02-02 06:47:41`|
+|1|[FortniteGame&#45;33&#46;30&#45;CL&#45;39435251&#45;Windows&#95;SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48504)|`2025-02-02 06:47:41`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Paladins Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/217341-paladins-reversal-structs-offsets.html)|`2025-02-02 06:44:00`|`Paladins`|
+|[DEEP ROCK GALACTIC &#45; ENABLE DEVELOPER CONSOLE &#45; CARGO &#45; PACKS &#45; RESOURCES &#45; XP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/609290-deep-rock-galactic-enable-developer-console-cargo-packs-resources-xp.html)|`2025-02-02 06:41:00`|`Other Single Player Games`|
 |[External Python Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683532-external-python-cheat.html)|`2025-02-02 06:33:00`|`Counter-Strike 2`|
 |[Risk of Rain 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/669262-risk-rain-2-a.html)|`2025-02-02 06:29:00`|`Unity`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-02-02 05:39:00`|`Grand Theft Auto V`|
