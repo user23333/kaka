@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Camera/Character direction offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/guild-wars-2-a/685142-camera-character-direction-offsets.html)|`2025-02-02 10:51:00`|`Guild Wars 2`|
+|[Van Restriction &#40;TPM, SB, HVCI&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685141-van-restriction-tpm-sb-hvci.html)|`2025-02-02 10:40:00`|`Valorant`|
+|[Naguzware &#40;My internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cs-go-releases/683770-naguzware-internal.html)|`2025-02-02 10:34:00`|`CS:GO Releases`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-02-02 10:18:00`|`Playerunknown's Battlegrounds`|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-02-02 10:13:00`|`Counter-Strike 2`|
 |[R6 no&#45;recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/683394-r6-recoil.html)|`2025-02-02 10:05:00`|`Rainbow Six Siege`|
 |[Chams with no recoil and more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/682715-chams-recoil.html)|`2025-02-02 10:00:00`|`Rainbow Six Siege`|
 |[Is rust actually viable for game hacking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust-language-/685138-rust-actually-viable-game-hacking.html)|`2025-02-02 09:53:00`|`Rust (Language)`|
