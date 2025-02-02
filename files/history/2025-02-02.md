@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ultimate HvH Cheat &#123; Better Resolver : More config AA : Prediction &#125;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/685209-ultimate-hvh-cheat-resolver-config-aa-prediction.html)|`2025-02-02 22:22:00`|`Garry's Mod`|
 |[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/582006-demonologist-internal.html)|`2025-02-02 21:56:00`|`Other Games`|
 |[wanna talk about tpm for a bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684934-wanna-talk-tpm-bit.html)|`2025-02-02 21:14:00`|`Valorant`|
 |[Using Yim with other non&#45;BE players](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/685206-using-yim-players.html)|`2025-02-02 21:08:00`|`Grand Theft Auto V`|
