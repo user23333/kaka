@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nexus External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/680070-nexus-external-esp.html)|`2025-02-02 18:58:00`|`Garry's Mod`|
 |[3&#46;6 EMULATOR 32bit Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681220-3-6-emulator-32bit-offsets.html)|`2025-02-02 18:20:00`|`PUBG Mobile`|
 |[Should I buy firmware or code it myself?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/685168-buy-firmware-code.html)|`2025-02-02 18:15:00`|`PC Hardware`|
 |[Rust dma: failed reading memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/684921-rust-dma-failed-reading-memory.html)|`2025-02-02 18:14:00`|`Rust`|
