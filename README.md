@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-02-02 19:49:00`|`Other FPS Games`|
+|[Multiversus Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/677826-multiversus-hack.html)|`2025-02-02 19:45:00`|`Other Games`|
 |[Marvel Rivals Undetected/Safe Free Macro 009](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680962-marvel-rivals-undetected-safe-free-macro-009-a.html)|`2025-02-02 19:44:00`|`Marvel Rivals`|
 |[Thinking About Releasing My Liar's Bar Cheat Mod &#91;v0&#46;92&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/684492-thinking-releasing-liars-bar-cheat-mod-v0-92-a.html)|`2025-02-02 19:43:00`|`Other Games`|
 |[need help with hid colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685190-help-hid-colorbot.html)|`2025-02-02 19:35:00`|`Valorant`|
