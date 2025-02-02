@@ -33,9 +33,11 @@
 |1|[DMAByDaylight V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48473)|`2025-02-03 03:18:30`|
 |1|[hvdetecc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48483)|`2025-02-03 06:52:30`|
 |9|[Release&#45;Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48476)|`2025-02-03 07:12:52`|
+|1|[Labyrinthine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48485)|`2025-02-03 07:29:57`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Labyrinthine&#93; LabyMenu &#45; Bigger Lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/624625-labyrinthine-labymenu-bigger-lobby.html)|`2025-02-03 07:25:00`|`Other MMORPG and Strategy`|
 |[BattlEye detects VT virtualization&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684548-battleye-detects-vt-virtualization.html)|`2025-02-03 06:52:00`|`Anti-Cheat Bypass`|
 |[New ColorBot/TriggerBot Signed Microsoft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684493-colorbot-triggerbot-signed-microsoft.html)|`2025-02-03 06:48:00`|`Valorant`|
 |[simple glow snippet &#40;internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685218-simple-glow-snippet-internal.html)|`2025-02-03 06:39:00`|`Marvel Rivals`|
