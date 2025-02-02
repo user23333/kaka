@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AHK KD Dropper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/681801-ahk-kd-dropper.html)|`2025-02-02 10:59:00`|`Escape from Tarkov`|
+|[Smite Speed Hack&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/684072-smite-speed-hack.html)|`2025-02-02 10:53:00`|`Paladins`|
+|[Havoc cheat source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/683864-havoc-cheat-source.html)|`2025-02-02 10:51:00`|`Other FPS Games`|
 |[Camera/Character direction offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/guild-wars-2-a/685142-camera-character-direction-offsets.html)|`2025-02-02 10:51:00`|`Guild Wars 2`|
 |[Van Restriction &#40;TPM, SB, HVCI&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685141-van-restriction-tpm-sb-hvci.html)|`2025-02-02 10:40:00`|`Valorant`|
 |[Naguzware &#40;My internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cs-go-releases/683770-naguzware-internal.html)|`2025-02-02 10:34:00`|`CS:GO Releases`|
