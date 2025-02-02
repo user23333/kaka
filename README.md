@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How a colorbot works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684835-colorbot.html)|`2025-02-02 12:28:00`|`Valorant`|
+|[Valorant offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684868-valorant-offsets.html)|`2025-02-02 12:26:00`|`Valorant`|
+|[Fast Valorant Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669778-fast-valorant-triggerbot.html)|`2025-02-02 12:24:00`|`Valorant`|
+|[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2025-02-02 12:19:00`|`Overwatch`|
+|[Valorant color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684706-valorant-color-aimbot.html)|`2025-02-02 12:16:00`|`Valorant`|
 |[Signed Spoofer By Microsoft&#40;EAC & BE&#41;  Early Christmas Present](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677190-signed-spoofer-microsoft-eac-christmas.html)|`2025-02-02 11:50:00`|`Anti-Cheat Bypass`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-02-02 11:39:00`|`Escape from Tarkov`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-02-02 11:34:00`|`Alternative Online Mods`|
