@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ow 2  cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/684931-ow-2-cheats.html)|`2025-02-02 19:57:00`|`Overwatch`|
+|[Delta Force: Hawk Ops &#124; Get more than 120 fov](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/685200-delta-force-hawk-ops-120-fov.html)|`2025-02-02 19:55:00`|`Other FPS Games`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-02-02 19:49:00`|`Other FPS Games`|
 |[Multiversus Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/677826-multiversus-hack.html)|`2025-02-02 19:45:00`|`Other Games`|
 |[Marvel Rivals Undetected/Safe Free Macro 009](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680962-marvel-rivals-undetected-safe-free-macro-009-a.html)|`2025-02-02 19:44:00`|`Marvel Rivals`|
