@@ -32,6 +32,7 @@
 |1|[Updated Full Fortnite DMA Cheat 28th 01 25 re](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48467)|`2025-02-03 03:11:31`|
 |1|[DMAByDaylight V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48473)|`2025-02-03 03:18:30`|
 |1|[hvdetecc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48483)|`2025-02-03 06:52:30`|
+|9|[Release&#45;Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48476)|`2025-02-03 07:12:52`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
