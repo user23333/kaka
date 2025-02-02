@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Raycast &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/678606-raycast-external.html)|`2025-02-02 17:29:00`|`Garry's Mod`|
 |[Warframe Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/631004-warframe-cheat.html)|`2025-02-02 16:47:00`|`Other FPS Games`|
 |[Valo streamers with purple outline](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685162-valo-streamers-purple-outline.html)|`2025-02-02 16:38:00`|`Valorant`|
 |[Skip heist prep &#40;After 1&#46;70 update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/676713-skip-heist-prep-1-70-update.html)|`2025-02-02 16:26:00`|`Grand Theft Auto V`|
