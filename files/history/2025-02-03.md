@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[7 Days To Die Assembly&#45;CSharp&#46;dll For 1&#46;2 b27](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/684466-7-days-die-assembly-csharp-dll-1-2-b27.html)|`2025-02-03 04:01:00`|`Half Life`|
+|[apex color aimbot,c&#43;&#43; 80days 0ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/684954-apex-color-aimbot-80days-0ban.html)|`2025-02-03 03:53:00`|`Apex Legends`|
+|[YOLO EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685252-yolo-eac.html)|`2025-02-03 03:52:00`|`Rust`|
 |[Riot Vanguard Full Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683732-riot-vanguard-analysis.html)|`2025-02-03 03:27:00`|`Anti-Cheat Bypass`|
 |[RocketLeage Offsets Finder&#40;2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/684597-rocketleage-offsets-finder-2025-a.html)|`2025-02-03 03:26:00`|`Other Games`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-02-03 03:25:00`|`Other MMORPG and Strategy`|
