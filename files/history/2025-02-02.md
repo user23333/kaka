@@ -32,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2025-02-02 08:37:00`|`Tom Clancy's The Division`|
+|[Making a cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685129-cheat.html)|`2025-02-02 08:35:00`|`Valorant`|
+|[&#40;ONLY FOR PEOPLE WHO BYPASS&#41; faceit ban evasion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685007-people-bypass-faceit-ban-evasion.html)|`2025-02-02 08:32:00`|`Counter-Strike 2`|
+|[Skyrim Cheats Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/682599-skyrim-cheats-python.html)|`2025-02-02 08:17:00`|`Other Games`|
+|[Get the global location of the camera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/685125-global-location-camera.html)|`2025-02-02 08:13:00`|`Playerunknown's Battlegrounds`|
+|[Bigger Hitboxes &#45; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/680142-bigger-hitboxes-esp.html)|`2025-02-02 08:01:00`|`H1Z1`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-02-02 07:39:00`|`Marvel Rivals`|
 |[External with ANTI&#45;AIM&#33;?&#33;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/685122-external-anti-aim.html)|`2025-02-02 07:22:00`|`Counter-Strike 2 Releases`|
 |[external antiaim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684924-external-antiaim.html)|`2025-02-02 07:12:00`|`Counter-Strike 2`|
