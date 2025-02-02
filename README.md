@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2025-02-03 06:18:00`|`DayZ SA`|
+|[Grounded cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/685268-grounded-cheat.html)|`2025-02-03 06:17:00`|`Other MMORPG and Strategy`|
+|[Hooking HTTP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/685130-hooking-http.html)|`2025-02-03 06:15:00`|`Garry's Mod`|
+|[InfernaBob Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/685267-infernabob-update.html)|`2025-02-03 06:09:00`|`Other MMORPG and Strategy`|
 |[Ban Data Collection Thread/Unban Method Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/420476-ban-data-collection-thread-unban-method-discussion.html)|`2025-02-03 06:04:00`|`Escape from Tarkov`|
 |[Kovaak's FPS Aim Trainer External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/595259-kovaaks-fps-aim-trainer-external-cheat.html)|`2025-02-03 06:00:00`|`Other FPS Games`|
 |[EAC Bypass &#40;Temporary&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/627251-eac-bypass-temporary.html)|`2025-02-03 05:58:00`|`Sea of Thieves`|
