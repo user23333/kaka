@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Undetected/Safe Free Macro 009](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680962-marvel-rivals-undetected-safe-free-macro-009-a.html)|`2025-02-02 19:44:00`|`Marvel Rivals`|
+|[Thinking About Releasing My Liar's Bar Cheat Mod &#91;v0&#46;92&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/684492-thinking-releasing-liars-bar-cheat-mod-v0-92-a.html)|`2025-02-02 19:43:00`|`Other Games`|
 |[need help with hid colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685190-help-hid-colorbot.html)|`2025-02-02 19:35:00`|`Valorant`|
 |[How to install ADD&#45;ON mods into "online" mode while using FSL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678763-install-add-mods-online-mode-using-fsl.html)|`2025-02-02 19:12:00`|`Grand Theft Auto V`|
 |[Fivem Get NET ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/685064-fivem-net-id.html)|`2025-02-02 19:13:00`|`Alternative Online Mods`|
