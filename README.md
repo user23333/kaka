@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[reading physical memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684616-reading-physical-memory.html)|`2025-02-03 04:25:00`|`Anti-Cheat Bypass`|
+|[Albion Online Dungeon Checker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/670358-albion-online-dungeon-checker.html)|`2025-02-03 04:25:00`|`Other MMORPG and Strategy`|
+|[InventoryChanger cases](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/639239-inventorychanger.html)|`2025-02-03 04:13:00`|`Counter-Strike 2`|
 |[7 Days To Die Assembly&#45;CSharp&#46;dll For 1&#46;2 b27](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/684466-7-days-die-assembly-csharp-dll-1-2-b27.html)|`2025-02-03 04:01:00`|`Half Life`|
 |[apex color aimbot,c&#43;&#43; 80days 0ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/684954-apex-color-aimbot-80days-0ban.html)|`2025-02-03 03:53:00`|`Apex Legends`|
 |[YOLO EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685252-yolo-eac.html)|`2025-02-03 03:52:00`|`Rust`|
