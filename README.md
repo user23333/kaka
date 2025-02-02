@@ -31,9 +31,12 @@
 |1|[ZortMenu V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48468)|`2025-02-03 03:11:31`|
 |1|[Updated Full Fortnite DMA Cheat 28th 01 25 re](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48467)|`2025-02-03 03:11:31`|
 |1|[DMAByDaylight V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48473)|`2025-02-03 03:18:30`|
+|1|[hvdetecc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48483)|`2025-02-03 06:52:30`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BattlEye detects VT virtualization&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684548-battleye-detects-vt-virtualization.html)|`2025-02-03 06:52:00`|`Anti-Cheat Bypass`|
+|[New ColorBot/TriggerBot Signed Microsoft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684493-colorbot-triggerbot-signed-microsoft.html)|`2025-02-03 06:48:00`|`Valorant`|
 |[simple glow snippet &#40;internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685218-simple-glow-snippet-internal.html)|`2025-02-03 06:39:00`|`Marvel Rivals`|
 |[Odin v4 For Windows 11 24H2/23H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/670695-odin-v4-windows-11-24h2-23h2.html)|`2025-02-03 06:32:00`|`Paladins`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-02-03 06:30:00`|`ARMA 3`|
