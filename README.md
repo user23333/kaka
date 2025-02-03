@@ -60,6 +60,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can i spoofing for PLATFORM ICON?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/685096-spoofing-platform-icon.html)|`2025-02-03 23:42:00`|`Apex Legends`|
 |[How do you add native controller support into your COD Cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/684816-add-native-controller-support-cod-cheat.html)|`2025-02-03 23:23:00`|`Call of Duty: Black Ops 6`|
 |[GamerFun AI Menu: All mouse Aimbot, Triggerbot & Recoil Control Using LGUB Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671029-gamerfun-ai-menu-mouse-aimbot-triggerbot-recoil-control-using-lgub-drivers.html)|`2025-02-03 23:20:00`|`Rainbow Six Siege`|
 |[💥Aspect Ratio](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685346-aspect-ratio.html)|`2025-02-03 23:15:00`|`Counter-Strike 2`|
