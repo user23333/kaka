@@ -60,6 +60,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[some things i need to know](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685341-some-things-i-need-to-know.html)|`2025-02-03 22:41:00`|`Rust`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-02-03 22:36:00`|`Other FPS Games`|
 |[Jacket Pack DLC IDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/685339-jacket-pack-dlc-ids.html)|`2025-02-03 22:06:00`|`Payday 3`|
 |[Lavender Premium External Source with Anti Cheat Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/659043-lavender-premium-external-source-anti-cheat-bypass.html)|`2025-02-03 21:53:00`|`Alternative Online Mods`|
