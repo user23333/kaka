@@ -35,9 +35,19 @@
 |1|[hvdetecc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48483)|`2025-02-03 06:52:30`|
 |9|[Release&#45;Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48476)|`2025-02-03 07:12:52`|
 |1|[Labyrinthine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48485)|`2025-02-03 07:29:57`|
+|1|[Dead Island 2 DX11 Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48491)|`2025-02-03 08:38:28`|
+|3|[StarCitizen&#45;PDB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48489)|`2025-02-03 08:38:28`|
+|1|[Menu SnowBreak DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48484)|`2025-02-03 08:38:28`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ultimate HvH CHEAT with ZXCMODULE &#40;Backtrack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/683074-ultimate-hvh-cheat-zxcmodule-backtrack.html)|`2025-02-03 08:36:00`|`Garry's Mod`|
+|[rip map PUBG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/685154-rip-map-pubg.html)|`2025-02-03 08:34:00`|`Playerunknown's Battlegrounds`|
+|[Dead island 2 External Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/595262-dead-island-2-external-menu.html)|`2025-02-03 08:14:00`|`Other FPS Games`|
+|[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2025-02-03 08:12:00`|`Other FPS Games`|
+|[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2025-02-03 08:09:00`|`Other MMORPG and Strategy`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-02-03 08:03:00`|`Playerunknown's Battlegrounds`|
+|[Rust acc got banned, can i just buy a new acc?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685012-rust-acc-banned-buy-acc.html)|`2025-02-03 08:00:00`|`Rust`|
 |[No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/675931-recoil.html)|`2025-02-03 07:42:00`|`Rainbow Six Siege`|
 |[DMA NOT WORKING HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/685135-dma-help.html)|`2025-02-03 07:42:00`|`PC Hardware`|
 |[anyone got a good skin changer??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684231-skin-changer.html)|`2025-02-03 07:31:00`|`Counter-Strike 2`|
