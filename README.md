@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Eulen mod menu cheat for FiveM/GTA5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/680224-eulen-mod-menu-cheat-fivem-gta5.html)|`2025-02-04 02:17:00`|`Forum General`|
+|[Frameware Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/677239-frameware-release.html)|`2025-02-04 02:10:00`|`Overwatch`|
+|[BO6 / WZ Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/685349-bo6-wz-internal.html)|`2025-02-04 02:09:00`|`Call of Duty: Black Ops 6`|
+|[💥Aspect Ratio](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685346-aspect-ratio.html)|`2025-02-04 02:03:00`|`Counter-Strike 2`|
 |[C&#43;&#43; YOLO Model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/685366-yolo-model.html)|`2025-02-04 01:51:00`|`C and C++`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-02-04 01:51:00`|`Other FPS Games`|
 |[Garry's Mod Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/685222-garrys-mod-reversal-structs-offsets.html)|`2025-02-04 01:50:00`|`Garry's Mod`|
