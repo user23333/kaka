@@ -59,6 +59,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTA: Definitive Edition &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/684168-gta-definitive-edition-external.html)|`2025-02-03 21:31:00`|`Other Single Player Games`|
+|[Aimbot with infinitely increasing yaw and pitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/682512-aimbot-infinitely-increasing-yaw-pitch.html)|`2025-02-03 21:22:00`|`Forum General`|
 |[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2025-02-03 21:05:00`|`Other FPS Games`|
 |[Liar's Bar Mod &#124; 0&#46;92 &#124; IL2CPP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/685319-liars-bar-mod-0-92-il2cpp.html)|`2025-02-03 20:45:00`|`Other Games`|
 |[i made a esp for cs2 using various youtube videos i pieced together](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685336-esp-cs2-using-various-youtube-videos-pieced.html)|`2025-02-03 20:40:00`|`Counter-Strike 2`|
