@@ -60,6 +60,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Jacket Pack DLC IDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/685339-jacket-pack-dlc-ids.html)|`2025-02-03 22:06:00`|`Payday 3`|
 |[Lavender Premium External Source with Anti Cheat Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/659043-lavender-premium-external-source-anti-cheat-bypass.html)|`2025-02-03 21:53:00`|`Alternative Online Mods`|
 |[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-02-03 21:52:00`|`Marvel Rivals`|
 |[What is the name of the neural network to make aim?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/685308-name-neural-network-aim.html)|`2025-02-03 21:35:00`|`Programming for Beginners`|
