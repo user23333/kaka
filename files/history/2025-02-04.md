@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[WriteProcessMemory access denied error in C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/684149-writeprocessmemory-access-denied-error.html)|`2025-02-04 03:41:00`|`Programming for Beginners`|
 |[error writing to memory &#40;dma&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685305-error-writing-memory-dma.html)|`2025-02-04 03:29:00`|`Anti-Cheat Bypass`|
 |[InfernaBob Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/685267-infernabob-update.html)|`2025-02-04 03:25:00`|`Other MMORPG and Strategy`|
 |[Admintime or TOD&#95;NightParameters](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685347-admintime-tod_nightparameters.html)|`2025-02-04 03:24:00`|`Rust`|
