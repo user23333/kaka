@@ -58,6 +58,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How a colorbot works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684835-colorbot.html)|`2025-02-03 19:50:00`|`Valorant`|
 |[Help With refdef&#95;t](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/685315-help-refdef_t.html)|`2025-02-03 19:12:00`|`Call of Duty: Black Ops 2`|
 |[Can't make a transaction&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/685314-cant-transaction.html)|`2025-02-03 19:05:00`|`Battlefield 2042`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-02-03 19:04:00`|`Grand Theft Auto V`|
