@@ -60,6 +60,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ekknod's multimedia or paid fw for dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/684886-ekknods-multimedia-paid-fw-dma.html)|`2025-02-03 23:10:00`|`Escape from Tarkov`|
+|[20&#45;Hour Cooldowns – Aimbots Are Being Detected&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682413-20-hour-cooldowns-aimbots-detected.html)|`2025-02-03 23:07:00`|`Counter-Strike 2`|
+|[What The Pak&#33; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/685345-pak-reversal-structs-offsets.html)|`2025-02-03 23:07:00`|`Other Games`|
 |[Among Us Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/418272-reversal-structs-offsets.html)|`2025-02-03 22:55:00`|`Among Us`|
 |[EAC Remote Access VS Keyboard Usage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683586-eac-remote-access-vs-keyboard-usage.html)|`2025-02-03 22:47:00`|`Anti-Cheat Bypass`|
 |[some things i need to know](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685341-some-things-i-need-to-know.html)|`2025-02-03 22:41:00`|`Rust`|
