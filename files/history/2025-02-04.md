@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Logitech G HUB simple no&#45;recoil script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675126-logitech-hub-simple-recoil-script.html)|`2025-02-04 01:42:00`|`Call of Duty: Black Ops 6`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-02-04 01:19:00`|`Marvel Rivals`|
 |[offset to fix ban x32 gl](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/682667-offset-fix-ban-x32-gl.html)|`2025-02-04 01:13:00`|`PUBG Mobile`|
 |[External Source/Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/685360-external-source-base.html)|`2025-02-04 01:07:00`|`Apex Legends`|
