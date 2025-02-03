@@ -44,9 +44,16 @@
 |3|[Elden Ring&#45; 3&#46;0&#46;0 ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48496)|`2025-02-03 10:03:18`|
 |1|[nasm trainer example&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48494)|`2025-02-03 10:03:18`|
 |1|[fasm trainer example&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48493)|`2025-02-03 10:03:18`|
+|1|[floatingScreen001](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48503)|`2025-02-03 11:27:01`|
+|1|[DictatorsNoPeaceCountryBalls Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48502)|`2025-02-03 11:27:01`|
+|2|[AWMrecoil&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48498)|`2025-02-03 11:27:01`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Zoom Crosshair or somewhere else](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/684935-zoom-crosshair-else.html)|`2025-02-03 11:26:00`|`Other Games`|
+|[DictatorsNoPeaceCountryBalls Cheat Table Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/684884-dictatorsnopeacecountryballs-cheat-table.html)|`2025-02-03 11:21:00`|`Cheat Engine Tables`|
+|[no recoil for Rainbow Six Siege](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/684815-recoil-rainbow-six-siege.html)|`2025-02-03 11:20:00`|`Rainbow Six Siege`|
+|[Raycast &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/678606-raycast-external.html)|`2025-02-03 11:17:00`|`Garry's Mod`|
 |[cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663412-cheat.html)|`2025-02-03 10:42:00`|`Deadlock`|
 |[Kill the shop owner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/685296-kill-shop-owner.html)|`2025-02-03 10:41:00`|`League of Legends`|
 |[VALORANT MINION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673460-valorant-minion.html)|`2025-02-03 10:33:00`|`Valorant`|
