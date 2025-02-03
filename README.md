@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Removing Money from self &#42;yim menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/672259-removing-money-self-yim-menu.html)|`2025-02-04 07:25:00`|`Grand Theft Auto V`|
 |[Shadow Ban Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/685398-shadow-ban-question.html)|`2025-02-04 07:21:00`|`Call of Duty: Black Ops 6`|
 |[Kernel sigscan bsod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/684958-kernel-sigscan-bsod.html)|`2025-02-04 06:58:00`|`General Programming and Reversing`|
 |[easy method to make Undetected Cheat Engine &#43; Driver &#43; DSE&#45;Patcher &#124; Bypass AC 2023](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/606839-easy-method-undetected-cheat-engine-driver-dse-patcher-bypass-ac-2023-a.html)|`2025-02-04 06:31:00`|`Anti-Cheat Bypass`|
