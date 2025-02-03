@@ -13,6 +13,7 @@
 |18|[why kernel driver detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684735-kernel-driver-detected.html)|`2025-02-03 00:15:57`|`anti-cheat-bypass`|
 |2|[The only working valorant colorbot &#40;fr&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684327-valorant-colorbot-fr.html)|`2025-02-03 07:54:54`|`valorant`|
 |4|[Basic ESP Using NVIDIA Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684658-basic-esp-using-nvidia-overlay.html)|`2025-02-03 18:08:45`|`counter-strike-2-a`|
+|21|[reading physical memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684616-reading-physical-memory.html)|`2025-02-03 21:57:46`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -59,6 +60,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lavender Premium External Source with Anti Cheat Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/659043-lavender-premium-external-source-anti-cheat-bypass.html)|`2025-02-03 21:53:00`|`Alternative Online Mods`|
+|[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-02-03 21:52:00`|`Marvel Rivals`|
+|[What is the name of the neural network to make aim?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/685308-name-neural-network-aim.html)|`2025-02-03 21:35:00`|`Programming for Beginners`|
 |[GTA: Definitive Edition &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/684168-gta-definitive-edition-external.html)|`2025-02-03 21:31:00`|`Other Single Player Games`|
 |[Aimbot with infinitely increasing yaw and pitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/682512-aimbot-infinitely-increasing-yaw-pitch.html)|`2025-02-03 21:22:00`|`Forum General`|
 |[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2025-02-03 21:05:00`|`Other FPS Games`|
