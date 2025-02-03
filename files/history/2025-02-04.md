@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[basic external menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685292-basic-external-menu.html)|`2025-02-04 03:14:00`|`Counter-Strike 2`|
 |[How do i find valorant tracers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685302-valorant-tracers.html)|`2025-02-04 03:04:00`|`Valorant`|
 |[Liar's Bar Mod &#124; 0&#46;92 &#124; IL2CPP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/685319-liars-bar-mod-0-92-il2cpp.html)|`2025-02-04 02:43:00`|`Other Games`|
 |[Undetected triggerbot in valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/685327-undetected-triggerbot-valorant.html)|`2025-02-04 02:41:00`|`Forum General`|
