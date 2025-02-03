@@ -57,6 +57,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[StoopidCheat for PVE to Unlock all doors etc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/648914-stoopidcheat-pve-unlock-doors-etc.html)|`2025-02-03 16:49:00`|`Escape from Tarkov`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-02-03 16:23:00`|`Phasmophobia`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-02-03 16:19:00`|`Rainbow Six Siege`|
 |[&#91;AHKv1&#93;auto strafe in all game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/685307-ahkv1-auto-strafe-game.html)|`2025-02-03 15:40:00`|`THE FINALS`|
