@@ -47,9 +47,16 @@
 |1|[floatingScreen001](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48503)|`2025-02-03 11:27:01`|
 |1|[DictatorsNoPeaceCountryBalls Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48502)|`2025-02-03 11:27:01`|
 |2|[AWMrecoil&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48498)|`2025-02-03 11:27:01`|
+|1|[BOIII GSC Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48513)|`2025-02-03 11:38:59`|
+|1|[SuSi v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48509)|`2025-02-03 11:38:59`|
+|1|[CACheater&#95;Final](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48508)|`2025-02-03 11:38:59`|
+|2|[GamerFun R6S AimBot & Trigger Bot&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48507)|`2025-02-03 11:38:59`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BOIII Client GSC Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/683433-boiii-client-gsc-injector.html)|`2025-02-03 11:35:00`|`Call of Duty: Black Ops 3`|
+|[SuSi &#45; Supermarket Simulator CheatMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/685057-susi-supermarket-simulator-cheatmenu.html)|`2025-02-03 11:34:00`|`Other Games`|
+|[SCP SL Cheat v13&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/611154-scp-sl-cheat-v13-3-1-a.html)|`2025-02-03 11:30:00`|`Other Games`|
 |[Zoom Crosshair or somewhere else](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/684935-zoom-crosshair-else.html)|`2025-02-03 11:26:00`|`Other Games`|
 |[DictatorsNoPeaceCountryBalls Cheat Table Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/684884-dictatorsnopeacecountryballs-cheat-table.html)|`2025-02-03 11:21:00`|`Cheat Engine Tables`|
 |[no recoil for Rainbow Six Siege](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/684815-recoil-rainbow-six-siege.html)|`2025-02-03 11:20:00`|`Rainbow Six Siege`|
