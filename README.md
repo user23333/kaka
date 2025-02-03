@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-02-04 01:19:00`|`Marvel Rivals`|
+|[offset to fix ban x32 gl](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/682667-offset-fix-ban-x32-gl.html)|`2025-02-04 01:13:00`|`PUBG Mobile`|
 |[External Source/Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/685360-external-source-base.html)|`2025-02-04 01:07:00`|`Apex Legends`|
 |[EFT Profile API &#40;Getting a KD, LVL, etc&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/635032-eft-profile-api-getting-kd-lvl-etc.html)|`2025-02-04 01:06:00`|`Escape from Tarkov`|
 |[fivem object](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/685205-fivem-object.html)|`2025-02-04 01:00:00`|`Alternative Online Mods`|
