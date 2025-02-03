@@ -57,6 +57,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Secure Boot Verification Failure – Tried Everything](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685091-secure-boot-verification-failure-tried.html)|`2025-02-03 14:21:00`|`Valorant`|
 |[Please help bypass warframe protection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674884-please-help-bypass-warframe-protection.html)|`2025-02-03 14:13:00`|`Anti-Cheat Bypass`|
 |[Ways on using yimmenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/685177-using-yimmenu.html)|`2025-02-03 14:10:00`|`Grand Theft Auto V`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-02-03 14:01:00`|`Valorant`|
