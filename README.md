@@ -57,6 +57,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;ONLY FOR PEOPLE WHO BYPASS&#41; faceit ban evasion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685007-people-bypass-faceit-ban-evasion.html)|`2025-02-03 13:50:00`|`Counter-Strike 2`|
+|[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2025-02-03 13:47:00`|`Grand Theft Auto V`|
 |[Simple DLL Injector &#124; UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685297-simple-dll-injector-ud.html)|`2025-02-03 12:47:00`|`Marvel Rivals`|
 |[Ultimate HvH Cheat &#123; Better Resolver : More config AA : Prediction &#125;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/685209-ultimate-hvh-cheat-resolver-config-aa-prediction.html)|`2025-02-03 12:34:00`|`Garry's Mod`|
 |[ツ Silent Night](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/604599-silent-night.html)|`2025-02-03 12:34:00`|`Grand Theft Auto V`|
