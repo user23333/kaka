@@ -58,6 +58,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Finals ColorBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/669800-finals-colorbot.html)|`2025-02-03 18:10:00`|`THE FINALS`|
 |[Dead by Daylight &#45; ESP And Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625890-dead-daylight-esp.html)|`2025-02-03 18:07:00`|`Other FPS Games`|
 |[Rust AI Aimbot &#45; Beta](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/620721-rust-ai-aimbot-beta.html)|`2025-02-03 18:04:00`|`Rust`|
 |[Yet another &#45; Bot Lobby Manager for VM/VPS/NO&#45;VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676312-bot-lobby-manager-vm-vps-vm.html)|`2025-02-03 17:23:00`|`Call of Duty: Black Ops 6`|
