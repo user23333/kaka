@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[InfernaBob Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/685267-infernabob-update.html)|`2025-02-04 03:25:00`|`Other MMORPG and Strategy`|
+|[Admintime or TOD&#95;NightParameters](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685347-admintime-tod_nightparameters.html)|`2025-02-04 03:24:00`|`Rust`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-02-04 03:23:00`|`Rust`|
+|[Shadow Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/678302-shadow-bans.html)|`2025-02-04 03:20:00`|`Call of Duty: Black Ops 6`|
+|[TF2 amalgam doesnt show up after injection with TEA injector&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/685354-tf2-amalgam-doesnt-injection-tea-injector.html)|`2025-02-04 03:05:00`|`Team Fortress 2`|
 |[basic external menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685292-basic-external-menu.html)|`2025-02-04 03:14:00`|`Counter-Strike 2`|
 |[How do i find valorant tracers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685302-valorant-tracers.html)|`2025-02-04 03:04:00`|`Valorant`|
 |[Liar's Bar Mod &#124; 0&#46;92 &#124; IL2CPP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/685319-liars-bar-mod-0-92-il2cpp.html)|`2025-02-04 02:43:00`|`Other Games`|
