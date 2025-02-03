@@ -55,6 +55,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do i find valorant tracers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685302-valorant-tracers.html)|`2025-02-03 12:30:00`|`Valorant`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-02-03 12:25:00`|`Escape from Tarkov`|
+|[Finally not allowed to play&#33; only using AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/684808-finally-allowed-play-using-ahk.html)|`2025-02-03 12:17:00`|`Call of Duty: Black Ops 6`|
 |[Osussist v3 MultiHack for osu&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/671577-osussist-v3-multihack-osu.html)|`2025-02-03 12:07:00`|`Other Games`|
 |[External with ANTI&#45;AIM&#33;?&#33;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/685122-external-anti-aim.html)|`2025-02-03 11:43:00`|`Counter-Strike 2 Releases`|
 |[BOIII Client GSC Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/683433-boiii-client-gsc-injector.html)|`2025-02-03 11:35:00`|`Call of Duty: Black Ops 3`|
