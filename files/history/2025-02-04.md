@@ -30,6 +30,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Killing Floor 2 External Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/673060-killing-floor-2-external-hack.html)|`2025-02-04 15:15:00`|`Other Games`|
+|[DMA Custom Firmware Building](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/682230-dma-custom-firmware-building.html)|`2025-02-04 15:15:00`|`PC Software`|
+|[Nvidia screenshot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684601-nvidia-screenshot.html)|`2025-02-04 15:11:00`|`Anti-Cheat Bypass`|
+|[Should I buy firmware or code it myself?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/685168-buy-firmware-code.html)|`2025-02-04 15:07:00`|`PC Hardware`|
+|[List of entities in mmo games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/683185-list-entities-mmo-games.html)|`2025-02-04 15:07:00`|`General Programming and Reversing`|
+|[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2025-02-04 15:05:00`|`Grand Theft Auto V`|
+|[Dead By Daylight DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682901-dead-daylight-dma-esp.html)|`2025-02-04 15:01:00`|`Other FPS Games`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2025-02-04 14:57:00`|`Other FPS Games`|
 |[Can't make a transaction&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/685314-cant-transaction.html)|`2025-02-04 14:38:00`|`Battlefield 2042`|
 |[Undetectable Mouse Emulation Using Raspberry Pi Zero for External Cheat Processing ??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685426-undetectable-mouse-emulation-using-raspberry-pi-zero-external-cheat-processing.html)|`2025-02-04 14:37:00`|`Valorant`|
