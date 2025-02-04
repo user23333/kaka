@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Finally not allowed to play&#33; only using AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/684808-finally-allowed-play-using-ahk.html)|`2025-02-04 10:44:00`|`Call of Duty: Black Ops 6`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-02-04 10:44:00`|`Other MMORPG and Strategy`|
+|[Kill the shop owner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/685296-kill-shop-owner.html)|`2025-02-04 10:35:00`|`League of Legends`|
 |[working hack 1&#46;6 non steam?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/684867-hack-1-6-steam.html)|`2025-02-04 10:27:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[i made a esp for cs2 using various youtube videos i pieced together](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685336-esp-cs2-using-various-youtube-videos-pieced.html)|`2025-02-04 10:27:00`|`Counter-Strike 2`|
 |[Want to learn how to make a colorbot using my Asus rig ally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685409-learn-colorbot-using-asus-rig-ally.html)|`2025-02-04 10:26:00`|`Valorant`|
