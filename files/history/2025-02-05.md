@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Keychain inventory changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675853-keychain-inventory-changer.html)|`2025-02-05 05:43:00`|`Counter-Strike 2`|
 |[Godmode hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/681498-godmode-hook.html)|`2025-02-05 05:38:00`|`Combat Master`|
 |[Stalker 2: Heart of Chernobyl &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/683026-stalker-2-heart-chernobyl-external.html)|`2025-02-05 05:31:00`|`Other Single Player Games`|
 |[⚔️ The QuinFall Cheats ⚔️](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/685571-quinfall-cheats.html)|`2025-02-05 05:10:00`|`Other MMORPG and Strategy`|
