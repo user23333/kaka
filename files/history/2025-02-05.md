@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[working hack 1&#46;6 non steam?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/684867-hack-1-6-steam.html)|`2025-02-05 06:03:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-02-05 06:00:00`|`Other FPS Games`|
 |[BO6 Fuser ESP/AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676862-bo6-fuser-esp-aim.html)|`2025-02-05 05:53:00`|`Call of Duty: Black Ops 6`|
 |[Keychain inventory changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/675853-keychain-inventory-changer.html)|`2025-02-05 05:43:00`|`Counter-Strike 2`|
 |[Godmode hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/681498-godmode-hook.html)|`2025-02-05 05:38:00`|`Combat Master`|
