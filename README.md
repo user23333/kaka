@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[rewasd or any other method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/681425-rewasd-method.html)|`2025-02-05 04:50:00`|`Apex Legends`|
+|[bo2 ProtoGenesys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/685437-bo2-protogenesys.html)|`2025-02-05 04:49:00`|`Call of Duty: Black Ops 2`|
+|[&#91;INTERNAL &#93; &#45; CS2 SIMPLE &#45; AIM &#124; ESP &#124; ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685423-internal-cs2-simple-aim-esp-etc.html)|`2025-02-05 04:46:00`|`Counter-Strike 2`|
+|[ProjectLocker C&#43;&#43; External &#40;ESP / Recoil, Spread / UnlockAll&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/587891-projectlocker-external-esp-recoil-spread-unlockall.html)|`2025-02-05 04:42:00`|`Battlefield 4`|
 |[Sker Ritual](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/634621-sker-ritual.html)|`2025-02-05 04:30:00`|`Unity`|
 |[Looking for cooperation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685565-looking-cooperation.html)|`2025-02-05 04:24:00`|`Rust`|
 |[R6 Credits transfer&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/684916-r6-credits-transfer.html)|`2025-02-05 04:24:00`|`Rainbow Six Siege`|
