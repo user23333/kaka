@@ -24,9 +24,20 @@
 |62|[GamerFun R6S AimBot & Trigger Bot&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48507)|`2025-02-05 00:13:07`|
 |16|[Paladins 8&#46;1 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48506)|`2025-02-05 00:13:07`|
 |66|[FortniteGame&#45;33&#46;30&#45;CL&#45;39435251&#45;Windows&#95;SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48504)|`2025-02-05 00:13:07`|
+|1|[FiveM&#45;SimpleExternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48529)|`2025-02-05 00:45:45`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GamerFun AI Menu: All mouse Aimbot, Triggerbot & Recoil Control Using LGUB Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671029-gamerfun-ai-menu-mouse-aimbot-triggerbot-recoil-control-using-lgub-drivers.html)|`2025-02-05 00:38:00`|`Rainbow Six Siege`|
+|[FiveM Simple External base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/645500-fivem-simple-external-base.html)|`2025-02-05 00:36:00`|`Alternative Online Mods`|
+|[Riot Vanguard Full Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683732-riot-vanguard-analysis.html)|`2025-02-05 00:36:00`|`Anti-Cheat Bypass`|
+|[New ColorBot/TriggerBot Signed Microsoft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684493-colorbot-triggerbot-signed-microsoft.html)|`2025-02-05 00:31:00`|`Valorant`|
+|[Working Nvidia GPU Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685535-nvidia-gpu-spoofing.html)|`2025-02-05 00:29:00`|`Anti-Cheat Bypass`|
+|[VGK "emulator" & bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/685227-vgk-emulator-bypass.html)|`2025-02-05 00:29:00`|`League of Legends`|
+|[External Esp 1&#46;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/684542-external-esp-1-26-a.html)|`2025-02-05 00:27:00`|`DayZ SA`|
+|[Free Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/676229-free-internal-cheat.html)|`2025-02-05 00:27:00`|`Counter-Strike 2 Releases`|
+|[HWID spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/685534-hwid-spoofer.html)|`2025-02-05 00:22:00`|`Star Wars Battlefront 2`|
+|[Inferna Pickup Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/685058-inferna-pickup-bot.html)|`2025-02-05 00:17:00`|`Other MMORPG and Strategy`|
 |[Black Ops 1 ZOMBIES trainer menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/684775-black-ops-1-zombies-trainer-menu.html)|`2025-02-05 00:12:00`|`Call of Duty: Black Ops`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-02-05 00:09:00`|`Call of Duty: Black Ops 6`|
 |[Changing camera angle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/685533-changing-camera-angle.html)|`2025-02-05 00:08:00`|`League of Legends`|
