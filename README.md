@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[would you guys consider JACKING OFF to be a sport](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/685407-guys-consider-jacking-sport.html)|`2025-02-05 04:58:00`|`Off Topic`|
+|[Thread context et mem allocation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/685422-thread-context-et-mem-allocation.html)|`2025-02-05 04:56:00`|`General Programming and Reversing`|
+|[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2025-02-05 04:54:00`|`Combat Arms`|
 |[rewasd or any other method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/681425-rewasd-method.html)|`2025-02-05 04:50:00`|`Apex Legends`|
 |[bo2 ProtoGenesys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/685437-bo2-protogenesys.html)|`2025-02-05 04:49:00`|`Call of Duty: Black Ops 2`|
 |[&#91;INTERNAL &#93; &#45; CS2 SIMPLE &#45; AIM &#124; ESP &#124; ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685423-internal-cs2-simple-aim-esp-etc.html)|`2025-02-05 04:46:00`|`Counter-Strike 2`|
