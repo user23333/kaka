@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA &#40;Entity Esp &#43; Player Bones&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677658-dma-entity-esp-player-bones.html)|`2025-02-04 17:26:00`|`Rust`|
+|[bo2 ProtoGenesys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/685437-bo2-protogenesys.html)|`2025-02-04 17:18:00`|`Call of Duty: Black Ops 2`|
 |[some things i need to know](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685341-some-things-i-need-to-know.html)|`2025-02-04 16:58:00`|`Rust`|
 |[DMA Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685435-dma-aimbot.html)|`2025-02-04 16:48:00`|`Marvel Rivals`|
 |[kernel driver only have one Task &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/685434-kernel-driver-task.html)|`2025-02-04 16:21:00`|`C and C++`|
