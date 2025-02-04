@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to simulate a recast](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/685443-simulate-recast.html)|`2025-02-04 18:31:00`|`Palia`|
+|[My drawn lines around the object changes color :/](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/opengl/685442-drawn-lines-object-changes-color.html)|`2025-02-04 18:30:00`|`OpenGL`|
 |[Battlefield 4 Boost Server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/654134-battlefield-4-boost-server.html)|`2025-02-04 17:59:00`|`Battlefield 4`|
 |[SANALIKA GAME](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/680001-sanalika-game.html)|`2025-02-04 17:36:00`|`Other MMORPG and Strategy`|
 |[Strinova aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/650858-strinova-aimbot.html)|`2025-02-04 17:31:00`|`Other FPS Games`|
