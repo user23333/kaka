@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Twitch drops 07 &#40;VALENTINE'S EDITION&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/685415-twitch-drops-07-valentines-edition.html)|`2025-02-04 11:37:00`|`Payday 3`|
 |[Yim and HSW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/684784-yim-hsw.html)|`2025-02-04 11:23:00`|`Grand Theft Auto V`|
 |[Bullet TP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685406-bullet-tp.html)|`2025-02-04 11:22:00`|`Marvel Rivals`|
 |[LENOVO SPOOFER &#40;UUID AND SN&#41; &#40;EFI&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679679-lenovo-spoofer-uuid-sn-efi.html)|`2025-02-04 11:11:00`|`Valorant`|
