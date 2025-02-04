@@ -25,9 +25,15 @@
 |16|[Paladins 8&#46;1 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48506)|`2025-02-05 00:13:07`|
 |66|[FortniteGame&#45;33&#46;30&#45;CL&#45;39435251&#45;Windows&#95;SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48504)|`2025-02-05 00:13:07`|
 |1|[FiveM&#45;SimpleExternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48529)|`2025-02-05 00:45:45`|
+|2|[ExternalSDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48530)|`2025-02-05 01:11:47`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CSS &#40;STEAM&#41; Full External&#40;Kernel&#41; WH and other functions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/680279-css-steam-external-kernel-wh-functions.html)|`2025-02-05 01:04:00`|`CounterStrike Source`|
+|[XianYuMods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/661692-xianyumods.html)|`2025-02-05 01:01:00`|`Payday 3`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-02-05 01:01:00`|`Marvel Rivals`|
+|[Data Pointer Hook for Win11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684293-data-pointer-hook-win11.html)|`2025-02-05 01:00:00`|`Anti-Cheat Bypass`|
+|[bones always returning 0,0,0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/684950-bones-returning-0-0-0-a.html)|`2025-02-05 00:58:00`|`DayZ SA`|
 |[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-02-05 00:54:00`|`Other Games`|
 |[How to Find Signatures?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685537-signatures.html)|`2025-02-05 00:49:00`|`Counter-Strike 2`|
 |[External with ANTI&#45;AIM&#33;?&#33;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/685122-external-anti-aim.html)|`2025-02-05 00:48:00`|`Counter-Strike 2 Releases`|
