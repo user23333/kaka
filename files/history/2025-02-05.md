@@ -29,6 +29,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What Hapend To Old School Material Wallhack Things?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/685352-hapend-school-material-wallhack.html)|`2025-02-05 01:46:00`|`Team Fortress 2`|
+|[99% auto updatable Simple Internal Cheat &#40;no need decryption&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/682116-99-auto-updatable-simple-internal-cheat-decryption.html)|`2025-02-05 01:46:00`|`Rust`|
+|[Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/672620-mod-menu.html)|`2025-02-05 01:46:00`|`Among Us`|
+|[psilent on lua without modules](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/685383-psilent-lua-modules.html)|`2025-02-05 01:38:00`|`Garry's Mod`|
+|[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-02-05 01:38:00`|`Rainbow Six Siege`|
+|[Curated list of CS:GO &#40;Legacy&#41; compatible cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/685526-curated-list-cs-legacy-compatible-cheats.html)|`2025-02-05 01:34:00`|`Counterstrike Global Offensive`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-02-05 01:34:00`|`Playerunknown's Battlegrounds`|
+|[BasePlayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685545-baseplayer.html)|`2025-02-05 01:29:00`|`Rust`|
 |[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2025-02-05 01:27:00`|`Grand Theft Auto V`|
 |[20&#45;Hour Cooldowns – Aimbots Are Being Detected&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682413-20-hour-cooldowns-aimbots-detected.html)|`2025-02-05 01:26:00`|`Counter-Strike 2`|
 |[skinchanger internal methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685540-skinchanger-internal-methods.html)|`2025-02-05 01:24:00`|`Valorant`|
