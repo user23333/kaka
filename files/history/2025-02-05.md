@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2025-02-05 01:27:00`|`Grand Theft Auto V`|
+|[20&#45;Hour Cooldowns – Aimbots Are Being Detected&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682413-20-hour-cooldowns-aimbots-detected.html)|`2025-02-05 01:26:00`|`Counter-Strike 2`|
+|[skinchanger internal methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685540-skinchanger-internal-methods.html)|`2025-02-05 01:24:00`|`Valorant`|
+|[Bullet TP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685406-bullet-tp.html)|`2025-02-05 01:22:00`|`Marvel Rivals`|
+|[My HSV range is good but the mask result is always black](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685539-hsv-range-mask-result-black.html)|`2025-02-05 01:21:00`|`Valorant`|
+|[Get Ultimate Charge Snippet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685400-ultimate-charge-snippet.html)|`2025-02-05 01:20:00`|`Marvel Rivals`|
 |[CSS &#40;STEAM&#41; Full External&#40;Kernel&#41; WH and other functions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/680279-css-steam-external-kernel-wh-functions.html)|`2025-02-05 01:04:00`|`CounterStrike Source`|
 |[XianYuMods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/661692-xianyumods.html)|`2025-02-05 01:01:00`|`Payday 3`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-02-05 01:01:00`|`Marvel Rivals`|
