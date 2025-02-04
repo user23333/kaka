@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder offset dumper source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/667525-war-thunder-offset-dumper-source.html)|`2025-02-05 06:33:00`|`Other MMORPG and Strategy`|
 |[All Mouse NoRecoil &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-recoil-helpy-auto-config-probably-ud-universal.html)|`2025-02-05 06:27:00`|`Rainbow Six Siege`|
 |[BO6 Multiplayer 50 Wins Ranked Ready Glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/685580-bo6-multiplayer-50-wins-ranked-ready-glitch.html)|`2025-02-05 06:23:00`|`Call of Duty: Black Ops 6`|
 |[working hack 1&#46;6 non steam?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/684867-hack-1-6-steam.html)|`2025-02-05 06:03:00`|`CounterStrike 1.5, 1.6 and Mods`|
