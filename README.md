@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Esp 1&#46;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/684542-external-esp-1-26-a.html)|`2025-02-06 03:42:00`|`DayZ SA`|
+|[Zoom Crosshair or somewhere else](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/684935-zoom-crosshair-else.html)|`2025-02-06 03:41:00`|`Other Games`|
+|[Dead island 2 External Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/595262-dead-island-2-external-menu.html)|`2025-02-06 03:41:00`|`Other FPS Games`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-02-06 03:39:00`|`Escape from Tarkov`|
+|[Is it possible or is there any aimbot for cs:so? Cs:s mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/668423-aimbot-cs-cs-mod.html)|`2025-02-06 03:38:00`|`CounterStrike Source`|
 |[Cheat Engine Bypass Window Title](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685741-cheat-engine-bypass-window-title.html)|`2025-02-06 03:28:00`|`Anti-Cheat Bypass`|
 |[Internal cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/611723-internal-cheese.html)|`2025-02-06 03:27:00`|`Payday 3`|
 |[Shadow Ban Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/685398-shadow-ban-question.html)|`2025-02-06 03:10:00`|`Call of Duty: Black Ops 6`|
