@@ -14,6 +14,7 @@
 |19|[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-02-05 01:56:59`|`rainbow-six-siege`|
 |12|[apex color aimbot,c&#43;&#43; 80days 0ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/684954-apex-color-aimbot-80days-0ban.html)|`2025-02-05 10:51:23`|`apex-legends`|
 |20|[VGK "emulator" & bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/685227-vgk-emulator-bypass.html)|`2025-02-05 12:45:35`|`league-of-legends`|
+|18|[why kernel driver detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684735-kernel-driver-detected.html)|`2025-02-05 21:32:10`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -40,6 +41,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Centralized Bot Lobby Starter Python Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/672158-centralized-bot-lobby-starter-python-script.html)|`2025-02-05 21:25:00`|`Call of Duty: Black Ops 6`|
+|[clrRender](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685677-clrrender.html)|`2025-02-05 21:18:00`|`Counter-Strike 2`|
 |[Question about error code when injecting &#40;JNI&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/682623-question-error-code-injecting-jni.html)|`2025-02-05 21:10:00`|`Minecraft`|
 |[1v1&#46;lol Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/681423-1v1-lol-trainer.html)|`2025-02-05 20:53:00`|`Other FPS Games`|
 |[Bypassing VAN152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/685675-bypassing-van152.html)|`2025-02-05 20:51:00`|`League of Legends`|
