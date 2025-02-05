@@ -40,6 +40,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Baldi Basics Remastered Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/685672-baldi-basics-remastered-cheat-table.html)|`2025-02-05 20:27:00`|`Cheat Engine Tables`|
 |[Marvel Rivals TriggerBot & AimAssist &#40;MouseBased Undetected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678761-marvel-rivals-triggerbot-aimassist-mousebased-undetected.html)|`2025-02-05 19:44:00`|`Marvel Rivals`|
 |[My Hero Ultra Rumble Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/604426-hero-ultra-rumble-cheat-table.html)|`2025-02-05 19:42:00`|`Other Games`|
 |[battlfield 1 Evicted bfone v1&#46;07&#46;5107 internal Aim&#43;esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/650952-battlfield-1-evicted-bfone-v1-07-5107-internal-aim-esp.html)|`2025-02-05 19:41:00`|`Battlefield 1`|
