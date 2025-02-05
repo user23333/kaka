@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Voyager detection in EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685719-voyager-detection-eac.html)|`2025-02-06 01:31:00`|`Anti-Cheat Bypass`|
 |[Cheat ARDUINO OR DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685393-cheat-arduino-dma.html)|`2025-02-06 01:24:00`|`Counter-Strike 2`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-02-06 01:21:00`|`Rust`|
 |[i want cheat for apex not detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/685623-cheat-apex-detected.html)|`2025-02-06 01:16:00`|`Apex Legends`|
