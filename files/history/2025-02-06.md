@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Suggest a way to bypass the ban on pirate servers, please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/685615-suggest-bypass-ban-pirate-servers-please.html)|`2025-02-06 07:31:00`|`DayZ SA`|
 |[HLL: Hell Let Loose](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/340677-hll-hell-loose.html)|`2025-02-06 07:25:00`|`Other FPS Games`|
 |[Combat Master CE Godmode, MEGA XP, Instant Weapon/Player Max Level, Attachment Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/583715-combat-master-ce-godmode-mega-xp-instant-weapon-player-max-level-attachment-mod.html)|`2025-02-06 07:14:00`|`Combat Master`|
 |[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-02-06 06:55:00`|`Other FPS Games`|
