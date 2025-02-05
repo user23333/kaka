@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant EFI Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/614166-valorant-efi-spoofer.html)|`2025-02-05 14:12:00`|`Valorant`|
 |[Does vanguard detect external overlays that just read memory?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/684682-vanguard-detect-external-overlays-read-memory.html)|`2025-02-05 13:38:00`|`League of Legends`|
 |[Aimbot &#43;ESP &#43; Chams and etc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680110-aimbot-esp-chams-etc.html)|`2025-02-05 13:06:00`|`Marvel Rivals`|
 |[Valorant HWID Ban Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682573-valorant-hwid-ban-issue.html)|`2025-02-05 12:49:00`|`Valorant`|
