@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Plutonium Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/682287-plutonium-internal.html)|`2025-02-06 04:51:00`|`Call of Duty: Modern Warfare 3`|
 |[Banned in Valorant &#45; Data Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/394123-banned-valorant-data-collection-thread.html)|`2025-02-06 04:48:00`|`Valorant`|
 |[Mantle Network Mission File 2025 &#40;Including Server Mod&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/685756-mantle-network-mission-file-2025-including-server-mod.html)|`2025-02-06 04:47:00`|`ARMA 3`|
 |[Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/672620-mod-menu.html)|`2025-02-06 04:30:00`|`Among Us`|
