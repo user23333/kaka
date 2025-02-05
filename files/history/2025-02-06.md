@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help making CS2 Rapid Fire cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685711-help-cs2-rapid-fire-cheat.html)|`2025-02-06 02:42:00`|`Counter-Strike 2`|
 |[Member of the Month &#45; February 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/685131-month-february-2025-a.html)|`2025-02-06 02:40:00`|`Member of the Month`|
 |[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2025-02-06 02:37:00`|`Combat Arms`|
 |[quantize movement problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685626-quantize-movement.html)|`2025-02-06 02:33:00`|`Counter-Strike 2`|
