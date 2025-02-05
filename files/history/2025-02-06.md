@@ -25,9 +25,17 @@
 |31|[ExternalSDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48530)|`2025-02-06 00:09:33`|
 |100|[FiveM&#45;SimpleExternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48529)|`2025-02-06 00:09:33`|
 |4|[Drex CS2 v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48532)|`2025-02-06 00:32:30`|
+|1|[EXTERNAL CHEAT Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48534)|`2025-02-06 00:46:21`|
+|6|[Marvel Internal V2&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48533)|`2025-02-06 00:46:21`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-02-06 00:46:00`|`Counter-Strike 2`|
+|[New ColorBot/TriggerBot Signed Microsoft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684493-colorbot-triggerbot-signed-microsoft.html)|`2025-02-06 00:44:00`|`Valorant`|
+|[Bullet TP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685406-bullet-tp.html)|`2025-02-06 00:43:00`|`Marvel Rivals`|
+|[skinchanger internal methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685540-skinchanger-internal-methods.html)|`2025-02-06 00:39:00`|`Valorant`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-02-06 00:37:00`|`Call of Duty: Black Ops 6`|
+|[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-02-06 00:33:00`|`Marvel Rivals`|
 |[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2025-02-06 00:28:00`|`Garry's Mod`|
 |[battlfield 1 Evicted bfone v1&#46;07&#46;5107 internal Aim&#43;esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/650952-battlfield-1-evicted-bfone-v1-07-5107-internal-aim-esp.html)|`2025-02-06 00:26:00`|`Battlefield 1`|
 |[BO6 Fuser ESP/AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676862-bo6-fuser-esp-aim.html)|`2025-02-06 00:24:00`|`Call of Duty: Black Ops 6`|
