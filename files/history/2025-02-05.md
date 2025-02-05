@@ -12,6 +12,7 @@
 |4|[Basic ESP Using NVIDIA Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684658-basic-esp-using-nvidia-overlay.html)|`2025-02-05 00:13:07`|`counter-strike-2-a`|
 |29|[reading physical memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684616-reading-physical-memory.html)|`2025-02-05 00:13:07`|`anti-cheat-bypass`|
 |19|[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-02-05 01:56:59`|`rainbow-six-siege`|
+|12|[apex color aimbot,c&#43;&#43; 80days 0ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/684954-apex-color-aimbot-80days-0ban.html)|`2025-02-05 10:51:23`|`apex-legends`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Cleaner / Traces &#45; Maybe Unban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/683781-marvel-rivals-cleaner-traces-maybe-unban.html)|`2025-02-05 10:51:00`|`Marvel Rivals`|
+|[Iris Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/685611-iris-online.html)|`2025-02-05 10:27:00`|`Other MMORPG and Strategy`|
+|[Combat Master &#124; Fully Featured Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/677171-combat-master-featured-internal.html)|`2025-02-05 10:20:00`|`Combat Master`|
+|[Making a cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685129-cheat.html)|`2025-02-05 10:15:00`|`Valorant`|
 |[External Among Us overlay &#40;undetectable&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/685399-external-overlay-undetectable.html)|`2025-02-05 10:00:00`|`Among Us`|
 |[apex color aimbot,c&#43;&#43; 80days 0ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/684954-apex-color-aimbot-80days-0ban.html)|`2025-02-05 09:38:00`|`Apex Legends`|
 |[Cs2 External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685266-cs2-external.html)|`2025-02-05 09:37:00`|`Counter-Strike 2`|
