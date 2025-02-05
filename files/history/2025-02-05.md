@@ -38,9 +38,12 @@
 |1|[TF2Classic Internal Cheat v2&#46;0&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48547)|`2025-02-05 17:59:53`|
 |1|[Espexternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48550)|`2025-02-05 18:49:44`|
 |2|[cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48545)|`2025-02-05 19:40:19`|
+|1|[dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48554)|`2025-02-05 23:08:14`|
+|3|[Rivals Injector V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48531)|`2025-02-05 23:08:14`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Refined Sunoki's fully updated TriggerBot &#43; Mafia4321x's Spoofer  &#43; Cc's TB launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684759-refined-sunokis-updated-triggerbot-mafia4321xs-spoofer-ccs-tb-launcher.html)|`2025-02-05 23:00:00`|`Valorant`|
 |[Project Hardline Uptaded Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/684806-project-hardline-uptaded-cheat-table.html)|`2025-02-05 22:49:00`|`Cheat Engine Tables`|
 |[i need some of help about tools and what i need before to start bypassing anticheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/681650-help-tools-start-bypassing-anticheats.html)|`2025-02-05 22:46:00`|`Forum General`|
 |[Stark 75t DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684917-stark-75t-dma.html)|`2025-02-05 22:21:00`|`Counter-Strike 2`|
