@@ -27,9 +27,19 @@
 |4|[Drex CS2 v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48532)|`2025-02-06 00:32:30`|
 |1|[EXTERNAL CHEAT Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48534)|`2025-02-06 00:46:21`|
 |6|[Marvel Internal V2&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48533)|`2025-02-06 00:46:21`|
+|1|[Rainbow Six Siege Aimbot & Trigger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48553)|`2025-02-06 01:12:22`|
+|2|[DMA Marvel Rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48537)|`2025-02-06 01:12:22`|
+|4|[cs2&#95;cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48535)|`2025-02-06 01:12:22`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2025-02-06 01:09:00`|`Escape from Tarkov`|
+|[DMA Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685435-dma-aimbot.html)|`2025-02-06 01:08:00`|`Marvel Rivals`|
+|[Rubber Bandits Hacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/685712-rubber-bandits-hacks.html)|`2025-02-06 01:07:00`|`Other MMORPG and Strategy`|
+|[help CE Emergency &#40; 2023 &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/684853-help-ce-emergency-2023-a.html)|`2025-02-06 01:07:00`|`Forum General`|
+|[External Among Us overlay &#40;undetectable&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/685399-external-overlay-undetectable.html)|`2025-02-06 01:07:00`|`Among Us`|
+|[&#91;INTERNAL &#93; &#45; CS2 SIMPLE &#45; AIM &#124; ESP &#124; ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685423-internal-cs2-simple-aim-esp-etc.html)|`2025-02-06 01:07:00`|`Counter-Strike 2`|
+|[BO6 / WZ Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/685349-bo6-wz-internal.html)|`2025-02-06 01:02:00`|`Call of Duty: Black Ops 6`|
 |[Want to learn how to make a colorbot using my Asus rig ally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685409-learn-colorbot-using-asus-rig-ally.html)|`2025-02-06 00:58:00`|`Valorant`|
 |[External Python Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683532-external-python-cheat.html)|`2025-02-06 00:56:00`|`Counter-Strike 2`|
 |[triggerbot C&#43;&#43; help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685708-triggerbot-help.html)|`2025-02-06 00:56:00`|`Valorant`|
