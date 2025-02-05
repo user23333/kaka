@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-02-05 17:27:00`|`Apex Legends`|
+|[ツ Silent Night](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/604599-silent-night.html)|`2025-02-05 17:27:00`|`Grand Theft Auto V`|
 |[anti flashbang](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685633-anti-flashbang.html)|`2025-02-05 17:08:00`|`Counter-Strike 2`|
 |[fov changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685631-fov-changer.html)|`2025-02-05 17:02:00`|`Counter-Strike 2`|
 |[bhop code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685629-bhop-code.html)|`2025-02-05 16:53:00`|`Counter-Strike 2`|
