@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VGK "emulator" & bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/685227-vgk-emulator-bypass.html)|`2025-02-06 03:54:00`|`League of Legends`|
+|[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-02-06 03:54:00`|`HELLDIVERS 2`|
 |[Looking for ESP for sniper elite resistance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/684733-looking-esp-sniper-elite-resistance.html)|`2025-02-06 03:46:00`|`Other FPS Games`|
 |[External Esp 1&#46;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/684542-external-esp-1-26-a.html)|`2025-02-06 03:42:00`|`DayZ SA`|
 |[Zoom Crosshair or somewhere else](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/684935-zoom-crosshair-else.html)|`2025-02-06 03:41:00`|`Other Games`|
