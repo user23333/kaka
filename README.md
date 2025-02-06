@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to get rid of fake errors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/685831-rid-fake-errors.html)|`2025-02-07 05:57:00`|`C and C++`|
+|[Singleplayer ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/685931-singleplayer-esp.html)|`2025-02-07 05:55:00`|`Call of Duty 6: Modern Warfare 2`|
+|[Van Restriction &#40;TPM, SB, HVCI&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685141-van-restriction-tpm-sb-hvci.html)|`2025-02-07 05:53:00`|`Valorant`|
 |[Packapunch tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/685924-packapunch-tool.html)|`2025-02-07 05:19:00`|`Call of Duty: Black Ops Cold War`|
 |[💥Aspect Ratio](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685346-aspect-ratio.html)|`2025-02-07 05:17:00`|`Counter-Strike 2`|
 |[How to Bypass &#40;Program is incompatible&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/685921-bypass-program-incompatible.html)|`2025-02-07 05:14:00`|`Alternative Online Mods`|
