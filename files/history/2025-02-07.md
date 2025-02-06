@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[psilent on lua without modules](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/685383-psilent-lua-modules.html)|`2025-02-07 03:13:00`|`Garry's Mod`|
+|[Shadow Ban Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/685398-shadow-ban-question.html)|`2025-02-07 03:12:00`|`Call of Duty: Black Ops 6`|
+|[apex color aimbot,c&#43;&#43; 80days 0ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/684954-apex-color-aimbot-80days-0ban.html)|`2025-02-07 03:03:00`|`Apex Legends`|
+|[Car websites script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/685899-car-websites-script.html)|`2025-02-07 03:02:00`|`Grand Theft Auto V`|
 |[&#91;Warframe&#93; Player Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/678485-warframe-player-offset.html)|`2025-02-07 02:57:00`|`Other FPS Games`|
 |[Actual Cheap Lattice Transfer Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/681974-actual-cheap-lattice-transfer-method.html)|`2025-02-07 02:56:00`|`Marvel Rivals`|
 |[H1emu Anticheat & Asset Integrity Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/684074-h1emu-anticheat-asset-integrity-bypass.html)|`2025-02-07 02:32:00`|`H1Z1`|
