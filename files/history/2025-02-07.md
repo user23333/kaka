@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any way to get a Valorant account unbanned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685620-valorant-account-unbanned.html)|`2025-02-07 01:06:00`|`Valorant`|
+|[Bypass nProtect Gameguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685790-bypass-nprotect-gameguard.html)|`2025-02-07 01:04:00`|`Anti-Cheat Bypass`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-02-07 01:00:00`|`Valorant`|
 |[Want to learn how to make a colorbot using my Asus rig ally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685409-learn-colorbot-using-asus-rig-ally.html)|`2025-02-07 00:52:00`|`Valorant`|
 |[Arduino color bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685846-arduino-color-bot.html)|`2025-02-07 00:50:00`|`Valorant`|
 |[How does the Valorant Skin Changer work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685823-valorant-skin-changer.html)|`2025-02-07 00:48:00`|`Valorant`|
