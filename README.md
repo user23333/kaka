@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I've begun work on MVG&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/684833-ive-begun-mvg.html)|`2025-02-06 19:41:00`|`League of Legends`|
 |[questions about shield judgment](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/685808-questions-shield-judgment.html)|`2025-02-06 19:38:00`|`Apex Legends`|
 |[Luna &#124; Free CS2 Cheat &#124; INTERNAL &#124; ESP, Aim, BHop, &#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/681945-luna-free-cs2-cheat-internal-esp-aim-bhop.html)|`2025-02-06 19:21:00`|`Counter-Strike 2 Releases`|
 |[Baldi Basics Remastered Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/685672-baldi-basics-remastered-cheat-table.html)|`2025-02-06 19:25:00`|`Cheat Engine Tables`|
