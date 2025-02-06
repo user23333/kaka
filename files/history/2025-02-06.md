@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-02-06 23:00:00`|`Other FPS Games`|
+|[Bright nights that are only modified once&#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685838-bright-nights-modified-dma.html)|`2025-02-06 23:00:00`|`Rust`|
 |[TF2Classic Internal Cheat V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/598383-tf2classic-internal-cheat-v2.html)|`2025-02-06 22:55:00`|`Team Fortress 2`|
 |[&#91;Warframe&#93; Player Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/678485-warframe-player-offset.html)|`2025-02-06 22:42:00`|`Other FPS Games`|
 |[Marvel Rivals memflow&#45;qemu external aimbot source written in Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/684393-marvel-rivals-memflow-qemu-external-aimbot-source-written-rust.html)|`2025-02-06 22:36:00`|`Marvel Rivals`|
