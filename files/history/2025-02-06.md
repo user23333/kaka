@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat Master &#124; Fully Featured Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/677171-combat-master-featured-internal.html)|`2025-02-06 22:11:00`|`Combat Master`|
+|[Combat Master crashing after launching Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/685798-combat-master-crashing-launching-cheat-engine.html)|`2025-02-06 22:05:00`|`Combat Master`|
 |[Fivem HAS&#95;ENTITY&#95;CLEAR&#95;LOS&#95;TO&#95;ENTITY Pattern](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/685204-fivem-has_entity_clear_los_to_entity-pattern.html)|`2025-02-06 21:53:00`|`Alternative Online Mods`|
 |[H1emu Anticheat & Asset Integrity Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/684074-h1emu-anticheat-asset-integrity-bypass.html)|`2025-02-06 21:50:00`|`H1Z1`|
 |[FiveM Simple External base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/645500-fivem-simple-external-base.html)|`2025-02-06 21:30:00`|`Alternative Online Mods`|
