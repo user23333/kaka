@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fivem HAS&#95;ENTITY&#95;CLEAR&#95;LOS&#95;TO&#95;ENTITY Pattern](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/685204-fivem-has_entity_clear_los_to_entity-pattern.html)|`2025-02-06 21:53:00`|`Alternative Online Mods`|
 |[H1emu Anticheat & Asset Integrity Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/684074-h1emu-anticheat-asset-integrity-bypass.html)|`2025-02-06 21:50:00`|`H1Z1`|
 |[FiveM Simple External base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/645500-fivem-simple-external-base.html)|`2025-02-06 21:30:00`|`Alternative Online Mods`|
 |[Star Wars Battlefront II &#45; Server Menu &#45;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/680218-star-wars-battlefront-ii-server-menu.html)|`2025-02-06 21:02:00`|`Star Wars Battlefront 2`|
