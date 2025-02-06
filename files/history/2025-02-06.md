@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Clumper&#45;7 rust auto dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685795-clumper-7-rust-auto-dumper.html)|`2025-02-06 14:03:00`|`Rust`|
 |[i made a esp for cs2 using various youtube videos i pieced together](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685336-esp-cs2-using-various-youtube-videos-pieced.html)|`2025-02-06 12:39:00`|`Counter-Strike 2`|
 |[asking for help to learn how to make cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/685531-help-learn-cheats.html)|`2025-02-06 12:33:00`|`Forum General`|
 |[Finally not allowed to play&#33; only using AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/684808-finally-allowed-play-using-ahk.html)|`2025-02-06 12:30:00`|`Call of Duty: Black Ops 6`|
