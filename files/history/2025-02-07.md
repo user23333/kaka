@@ -12,6 +12,7 @@
 |17|[External with ANTI&#45;AIM&#33;?&#33;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/685122-external-anti-aim.html)|`2025-02-07 00:09:33`|`counter-strike-2-releases`|
 |5|[Yim and HSW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/684784-yim-hsw.html)|`2025-02-07 00:09:33`|`grand-theft-auto-v`|
 |14|[DMA Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685435-dma-aimbot.html)|`2025-02-07 02:23:17`|`marvel-rivals`|
+|53|[Lazybead &#40;LB&#41; &#45; Free Cheat &#40;COMING SOON&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat-coming-soon.html)|`2025-02-07 06:39:37`|`sea-of-thieves`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2025-02-07 06:34:00`|`Other FPS Games`|
 |[DMIEDIT now available for &#46;&#46;&#46; ASUS&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/677061-dmiedit-available-asus.html)|`2025-02-07 06:29:00`|`Valorant`|
 |[How to get rid of fake errors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/685831-rid-fake-errors.html)|`2025-02-07 05:57:00`|`C and C++`|
 |[Singleplayer ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/685931-singleplayer-esp.html)|`2025-02-07 05:55:00`|`Call of Duty 6: Modern Warfare 2`|
