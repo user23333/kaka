@@ -11,6 +11,7 @@
 |19|[BO6 / WZ Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/685349-bo6-wz-internal.html)|`2025-02-07 00:09:33`|`call-of-duty-black-ops-6-a`|
 |17|[External with ANTI&#45;AIM&#33;?&#33;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/685122-external-anti-aim.html)|`2025-02-07 00:09:33`|`counter-strike-2-releases`|
 |5|[Yim and HSW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/684784-yim-hsw.html)|`2025-02-07 00:09:33`|`grand-theft-auto-v`|
+|14|[DMA Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685435-dma-aimbot.html)|`2025-02-07 02:23:17`|`marvel-rivals`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PDB Deubgging symbols](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-3-a/685894-pdb-deubgging-symbols.html)|`2025-02-07 02:11:00`|`Battlefield 3`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-02-07 02:10:00`|`Escape from Tarkov`|
+|[Payday 3 Black Market](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/606667-payday-3-black-market.html)|`2025-02-07 02:08:00`|`Payday 3`|
 |[Killing Floor 1 crossover character unlocker help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/685891-killing-floor-1-crossover-character-unlocker-help.html)|`2025-02-07 01:58:00`|`Other FPS Games`|
 |[Has anyone been ban in PVE?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/682190-ban-pve.html)|`2025-02-07 01:58:00`|`Escape from Tarkov`|
 |[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2025-02-07 01:56:00`|`Grand Theft Auto V`|
