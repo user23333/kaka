@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[asking for help to learn how to make cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/685531-help-learn-cheats.html)|`2025-02-06 12:33:00`|`Forum General`|
+|[Finally not allowed to play&#33; only using AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/684808-finally-allowed-play-using-ahk.html)|`2025-02-06 12:30:00`|`Call of Duty: Black Ops 6`|
 |[Please&#33; Share just a little bit of your knowledge&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/685067-please-share-little-bit-knowledge.html)|`2025-02-06 12:13:00`|`Apex Legends`|
 |[head bone position](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/677595-head-bone-position.html)|`2025-02-06 11:57:00`|`Call of Duty: Black Ops 6`|
 |[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2025-02-06 11:48:00`|`Valorant`|
