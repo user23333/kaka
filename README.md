@@ -39,6 +39,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HellDivers&#45;2 Reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/623128-helldivers-2-reversing.html)|`2025-02-06 23:27:00`|`HELLDIVERS 2`|
+|[Help with impl&#95;dx11&#95;init function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685840-help-impl_dx11_init-function.html)|`2025-02-06 23:20:00`|`Counter-Strike 2`|
+|[Any good Spy cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/685841-spy-cheats.html)|`2025-02-06 23:16:00`|`Team Fortress 2`|
 |[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-02-06 23:00:00`|`Other FPS Games`|
 |[Bright nights that are only modified once&#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685838-bright-nights-modified-dma.html)|`2025-02-06 23:00:00`|`Rust`|
 |[TF2Classic Internal Cheat V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/598383-tf2classic-internal-cheat-v2.html)|`2025-02-06 22:55:00`|`Team Fortress 2`|
