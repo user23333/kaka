@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#124; Dota 2 &#124; Nest of Throns: skills without cooldowns &#124; EXTERNAL &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/677527-dota-2-nest-throns-skills-cooldowns-external.html)|`2025-02-07 07:18:00`|`Other MMORPG and Strategy`|
 |[Controller Emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673578-controller-emulation.html)|`2025-02-07 07:01:00`|`Call of Duty: Black Ops 6`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-02-07 06:20:00`|`Grand Theft Auto V`|
 |[Yim and HSW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/684784-yim-hsw.html)|`2025-02-07 06:17:00`|`Grand Theft Auto V`|
