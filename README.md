@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMIEDIT now available for &#46;&#46;&#46; ASUS&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/677061-dmiedit-available-asus.html)|`2025-02-07 06:29:00`|`Valorant`|
 |[How to get rid of fake errors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/685831-rid-fake-errors.html)|`2025-02-07 05:57:00`|`C and C++`|
 |[Singleplayer ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/685931-singleplayer-esp.html)|`2025-02-07 05:55:00`|`Call of Duty 6: Modern Warfare 2`|
 |[Van Restriction &#40;TPM, SB, HVCI&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685141-van-restriction-tpm-sb-hvci.html)|`2025-02-07 05:53:00`|`Valorant`|
