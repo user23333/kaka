@@ -26,6 +26,7 @@
 |94|[cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48545)|`2025-02-07 00:09:33`|
 |1|[Baldi Basics Remastered Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48544)|`2025-02-07 00:09:33`|
 |0|[MarvelRivalsExternalSDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48582)|`2025-02-07 01:35:40`|
+|1|[Clumper&#45;7 Auto Dumper for rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48577)|`2025-02-07 05:52:13`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
