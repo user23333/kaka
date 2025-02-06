@@ -24,9 +24,14 @@
 |42|[TF2Classic Internal Cheat v2&#46;0&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48547)|`2025-02-07 00:09:33`|
 |94|[cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48545)|`2025-02-07 00:09:33`|
 |1|[Baldi Basics Remastered Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48544)|`2025-02-07 00:09:33`|
+|0|[MarvelRivalsExternalSDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48582)|`2025-02-07 01:35:40`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Banned but was using 2 PC's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/685800-banned-using-2-pcs.html)|`2025-02-07 01:33:00`|`Escape from Tarkov`|
+|[Shared memory communication](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685628-shared-memory-communication.html)|`2025-02-07 01:33:00`|`Anti-Cheat Bypass`|
+|[Cs2 External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685266-cs2-external.html)|`2025-02-07 01:28:00`|`Counter-Strike 2`|
+|[CorePunk &#45; Thoughts?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/654116-corepunk.html)|`2025-02-07 01:28:00`|`Other MMORPG and Strategy`|
 |[External visibility check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/685167-external-visibility-check.html)|`2025-02-07 01:21:00`|`Alternative Online Mods`|
 |[Money tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/645124-money-tool.html)|`2025-02-07 01:21:00`|`Payday 3`|
 |[New ColorBot/TriggerBot Signed Microsoft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684493-colorbot-triggerbot-signed-microsoft.html)|`2025-02-07 01:18:00`|`Valorant`|
