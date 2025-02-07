@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Esp 1&#46;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/684542-external-esp-1-26-a.html)|`2025-02-07 23:51:00`|`DayZ SA`|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-02-07 23:50:00`|`Sea of Thieves`|
 |[Unloading a DLL from std::thread vs CreateThread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/686013-unloading-dll-std-thread-vs-createthread.html)|`2025-02-07 23:29:00`|`C and C++`|
 |[Explain how SSD serials can be retrieved from an AMD Raid0 setup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685956-explain-ssd-serials-retrieved-amd-raid0-setup.html)|`2025-02-07 23:28:00`|`Valorant`|
 |[no recoil tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/683188-recoil-tool.html)|`2025-02-07 23:26:00`|`Rainbow Six Siege`|
