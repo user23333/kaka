@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[This is how scanners work and how you can bypass them&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/685966-scanners-bypass.html)|`2025-02-07 14:34:00`|`Alternative Online Mods`|
+|[External SkinChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685785-external-skinchanger.html)|`2025-02-07 14:21:00`|`Counter-Strike 2`|
 |[Packet decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/685965-packet-decryption.html)|`2025-02-07 14:13:00`|`PUBG Mobile`|
 |[Deadlock Material Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/685964-deadlock-material-editor.html)|`2025-02-07 14:12:00`|`Deadlock`|
 |[How good is MalDev for learning beginner &#45; intermediate game hacking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/685962-maldev-learning-beginner-intermediate-game-hacking.html)|`2025-02-07 14:03:00`|`General Programming and Reversing`|
