@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[LSCHaX for 1&#46;70 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/224075-lschax-1-70-external.html)|`2025-02-07 19:04:00`|`Grand Theft Auto V`|
+|[metabolism](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685989-metabolism.html)|`2025-02-07 19:04:00`|`Rust`|
 |[Simple DLL Injector &#124; UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685297-simple-dll-injector-ud.html)|`2025-02-07 18:53:00`|`Marvel Rivals`|
 |[medal&#45;overlay&#45;hook &#45; Hijack Medal&#46;tv's in&#45;game overlay for rendering onto the screen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/679823-medal-overlay-hook-hijack-medal-tvs-game-overlay-rendering-onto-screen.html)|`2025-02-07 18:45:00`|`C and C++`|
 |[Valorant color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684706-valorant-color-aimbot.html)|`2025-02-07 18:27:00`|`Valorant`|
