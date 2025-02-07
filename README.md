@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Python Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683532-external-python-cheat.html)|`2025-02-07 08:53:00`|`Counter-Strike 2`|
+|[Bypassing VAN152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/685675-bypassing-van152.html)|`2025-02-07 08:53:00`|`League of Legends`|
+|[Lua can't find the client module](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685916-lua-cant-client-module.html)|`2025-02-07 08:41:00`|`Counter-Strike 2`|
+|[how i can start making an external did sme internals but pasted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685912-start-external-sme-internals-pasted.html)|`2025-02-07 08:37:00`|`Counter-Strike 2`|
+|[Lazybead &#40;LB&#41; &#45; Free Cheat &#40;COMING SOON&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat-coming-soon.html)|`2025-02-07 08:04:00`|`Sea of Thieves`|
 |[i just need some help with yimmenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/685751-help-yimmenu.html)|`2025-02-07 07:58:00`|`Grand Theft Auto V`|
 |[Ashes of Creation Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/463992-ashes-creation-reversal-structs-offsets.html)|`2025-02-07 07:46:00`|`Other FPS Games`|
 |[HellDivers&#45;2 Reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/623128-helldivers-2-reversing.html)|`2025-02-07 07:42:00`|`HELLDIVERS 2`|
