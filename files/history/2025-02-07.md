@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CHEAT ADVANCED WARFARE &#124; S1X/STEAM &#40;UNDETECTED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-advanced-warfare/681001-cheat-advanced-warfare-s1x-steam-undetected.html)|`2025-02-07 19:18:00`|`Call of Duty: Advanced Warfare`|
+|[I have a problem with the new DLC&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/683956-dlc.html)|`2025-02-07 19:07:00`|`Grand Theft Auto V`|
 |[LSCHaX for 1&#46;70 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/224075-lschax-1-70-external.html)|`2025-02-07 19:04:00`|`Grand Theft Auto V`|
 |[metabolism](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685989-metabolism.html)|`2025-02-07 19:04:00`|`Rust`|
 |[Simple DLL Injector &#124; UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685297-simple-dll-injector-ud.html)|`2025-02-07 18:53:00`|`Marvel Rivals`|
