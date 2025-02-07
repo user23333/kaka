@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SA:MP/GTA Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/685953-sa-mp-gta-cheat.html)|`2025-02-07 10:17:00`|`Other Single Player Games`|
+|[Remove Battleye for single player](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/685952-remove-battleye-single-player.html)|`2025-02-07 10:04:00`|`Grand Theft Auto V`|
+|[TF2Classic Internal Cheat V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/598383-tf2classic-internal-cheat-v2.html)|`2025-02-07 09:57:00`|`Team Fortress 2`|
 |[External Python Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683532-external-python-cheat.html)|`2025-02-07 08:53:00`|`Counter-Strike 2`|
 |[Bypassing VAN152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/685675-bypassing-van152.html)|`2025-02-07 08:53:00`|`League of Legends`|
 |[Lua can't find the client module](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685916-lua-cant-client-module.html)|`2025-02-07 08:41:00`|`Counter-Strike 2`|
