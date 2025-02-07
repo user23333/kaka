@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Get Ultimate Charge Snippet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685400-ultimate-charge-snippet.html)|`2025-02-07 21:59:00`|`Marvel Rivals`|
 |[Combat Master crashing after launching Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/685798-combat-master-crashing-launching-cheat-engine.html)|`2025-02-07 21:31:00`|`Combat Master`|
 |[CM Cheat Host Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/685835-cm-cheat-host.html)|`2025-02-07 21:30:00`|`Combat Master`|
 |[Catching HWBP exception inside Kernel Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685908-catching-hwbp-exception-inside-kernel-driver.html)|`2025-02-07 21:27:00`|`Anti-Cheat Bypass`|
