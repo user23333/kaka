@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Destiny 2 Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669951-destiny-2-reversal.html)|`2025-02-08 07:37:00`|`Other FPS Games`|
 |[Bot Lobby with only 1 PC and 1 Xbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/683284-bot-lobby-1-pc-1-xbox.html)|`2025-02-08 07:33:00`|`Call of Duty: Black Ops 6`|
 |[Manual Spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686051-manual-spoof.html)|`2025-02-08 07:32:00`|`Anti-Cheat Bypass`|
 |[ida pro sig maker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/686050-ida-pro-sig-maker.html)|`2025-02-08 07:27:00`|`General Programming and Reversing`|
