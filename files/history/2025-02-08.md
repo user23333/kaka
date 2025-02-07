@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BO6 / WZ Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/685349-bo6-wz-internal.html)|`2025-02-08 01:23:00`|`Call of Duty: Black Ops 6`|
+|[bSendPacket completely preventing from joining servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/686019-bsendpacket-completely-preventing-joining-servers.html)|`2025-02-08 01:20:00`|`CounterStrike Source`|
 |[help CE Emergency &#40; 2023 &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/684853-help-ce-emergency-2023-a.html)|`2025-02-08 01:14:00`|`Forum General`|
 |[How can i read C&#95;Inferno entities to get on ground molotov esp working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/685523-read-c_inferno-entities-ground-molotov-esp.html)|`2025-02-08 01:12:00`|`Forum General`|
 |[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-02-08 01:11:00`|`Marvel Rivals`|
