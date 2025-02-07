@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-02-08 04:41:00`|`Rainbow Six Siege`|
 |[Auto Scope Detection &#124; YOLO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686041-auto-scope-detection-yolo.html)|`2025-02-08 04:34:00`|`Rust`|
 |[How to disable Secure Flash?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/652385-disable-secure-flash.html)|`2025-02-08 04:33:00`|`Valorant`|
 |[Straftat Full Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/686040-straftat-cheat.html)|`2025-02-08 04:29:00`|`Other Games`|
