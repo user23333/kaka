@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SteelSeriesGG overlay hijack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685971-steelseriesgg-overlay-hijack.html)|`2025-02-07 16:31:00`|`Anti-Cheat Bypass`|
 |[UnityEngine&#46;Transform past the CachedPtr](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/684429-unityengine-transform-past-cachedptr.html)|`2025-02-07 15:10:00`|`Unity`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-02-07 14:41:00`|`Escape from Tarkov`|
 |[This is how scanners work and how you can bypass them&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/685966-scanners-bypass.html)|`2025-02-07 14:34:00`|`Alternative Online Mods`|
