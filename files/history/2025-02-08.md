@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rev&#46; 1 Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686046-rev-1-spoofer.html)|`2025-02-08 05:15:00`|`Valorant`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-02-08 05:14:00`|`Other FPS Games`|
+|[Jacket Pack DLC IDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/685339-jacket-pack-dlc-ids.html)|`2025-02-08 05:14:00`|`Payday 3`|
 |[1v1&#46;lol internal cheat / aimbot / esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/676527-1v1-lol-internal-cheat-aimbot-esp.html)|`2025-02-08 04:53:00`|`Other FPS Games`|
 |[apex color aimbot,c&#43;&#43; 80days 0ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/684954-apex-color-aimbot-80days-0ban.html)|`2025-02-08 04:52:00`|`Apex Legends`|
 |[Valorant Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685433-valorant-triggerbot.html)|`2025-02-08 04:42:00`|`Valorant`|
