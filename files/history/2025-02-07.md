@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Packet decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/685965-packet-decryption.html)|`2025-02-07 14:13:00`|`PUBG Mobile`|
+|[Deadlock Material Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/685964-deadlock-material-editor.html)|`2025-02-07 14:12:00`|`Deadlock`|
+|[How good is MalDev for learning beginner &#45; intermediate game hacking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/685962-maldev-learning-beginner-intermediate-game-hacking.html)|`2025-02-07 14:03:00`|`General Programming and Reversing`|
 |[I encountered an error while trying to modify the smoke color in CS2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685960-encountered-error-trying-modify-smoke-color-cs2.html)|`2025-02-07 13:29:00`|`Counter-Strike 2`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-02-07 12:57:00`|`Other FPS Games`|
 |[Bright nights that are only modified once&#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685838-bright-nights-modified-dma.html)|`2025-02-07 12:25:00`|`Rust`|
