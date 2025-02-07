@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sniper Elite: Resistance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/685999-sniper-elite-resistance.html)|`2025-02-07 20:23:00`|`Other FPS Games`|
+|[Any good Spy cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/685841-spy-cheats.html)|`2025-02-07 20:19:00`|`Team Fortress 2`|
+|[UpGun Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/685996-upgun-cheat-table.html)|`2025-02-07 20:12:00`|`Cheat Engine Tables`|
 |[Pantheon: Rise of the Fallen? Offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/680643-pantheon-rise-fallen-offsets.html)|`2025-02-07 19:48:00`|`Other MMORPG and Strategy`|
 |[Member of the Month &#45; February 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/685131-month-february-2025-a.html)|`2025-02-07 19:33:00`|`Member of the Month`|
 |[Dead By Daylight DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682901-dead-daylight-dma-esp.html)|`2025-02-07 19:25:00`|`Other FPS Games`|
