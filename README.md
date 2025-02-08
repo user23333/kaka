@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-02-08 13:30:00`|`Counter-Strike 2`|
+|[External with ANTI&#45;AIM&#33;?&#33;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/685122-external-anti-aim.html)|`2025-02-08 13:30:00`|`Counter-Strike 2 Releases`|
+|[I need some help with EFI spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686074-help-efi-spoof.html)|`2025-02-08 13:27:00`|`Valorant`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-02-08 13:07:00`|`Other FPS Games`|
 |[Make a fake rapid fire in the server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686071-fake-rapid-fire-server.html)|`2025-02-08 13:01:00`|`Counter-Strike 2`|
 |[Reversing plutonium](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/684272-reversing-plutonium.html)|`2025-02-08 12:48:00`|`Call of Duty: Black Ops 2`|
