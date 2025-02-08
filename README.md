@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Working Nvidia GPU Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685535-nvidia-gpu-spoofing.html)|`2025-02-09 05:21:00`|`Anti-Cheat Bypass`|
+|[need source for bloodatrike](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/681885-source-bloodatrike.html)|`2025-02-09 05:19:00`|`Other Games`|
+|[SteelSeriesGG overlay hijack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685971-steelseriesgg-overlay-hijack.html)|`2025-02-09 05:19:00`|`Anti-Cheat Bypass`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-02-09 05:19:00`|`Other FPS Games`|
+|[Undetected Microsoft Official Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686204-undetected-microsoft-official-driver.html)|`2025-02-09 05:17:00`|`Anti-Cheat Bypass`|
+|[Marvel Rivals memflow&#45;qemu external aimbot source written in Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/684393-marvel-rivals-memflow-qemu-external-aimbot-source-written-rust.html)|`2025-02-09 05:12:00`|`Marvel Rivals`|
 |[The creepiest VGK Developer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685975-creepiest-vgk-developer.html)|`2025-02-09 05:09:00`|`Anti-Cheat Bypass`|
 |[I'm looking for a jitter for the controller](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/682487-im-looking-jitter-controller.html)|`2025-02-09 05:07:00`|`Apex Legends`|
 |[Recoil Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685915-recoil-script.html)|`2025-02-09 05:01:00`|`Rust`|
