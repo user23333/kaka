@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Battlefield 4 Cheat menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/686120-battlefield-4-cheat-menu.html)|`2025-02-08 21:10:00`|`Battlefield 4`|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-02-08 21:07:00`|`Counter-Strike 2`|
+|[Sea of thieves &#45; alt account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/686088-sea-thieves-alt-account.html)|`2025-02-08 21:05:00`|`Sea of Thieves`|
 |[EFT ban transfer to other games with Battleye?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/686077-eft-ban-transfer-games-battleye.html)|`2025-02-08 20:53:00`|`Escape from Tarkov`|
 |[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2025-02-08 20:39:00`|`Overwatch`|
 |[i just need some help with yimmenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/685751-help-yimmenu.html)|`2025-02-08 20:36:00`|`Grand Theft Auto V`|
