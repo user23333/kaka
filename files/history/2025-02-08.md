@@ -12,6 +12,7 @@
 |27|[Liar's Bar Mod &#124; 0&#46;92 &#124; IL2CPP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/685319-liars-bar-mod-0-92-il2cpp.html)|`2025-02-08 00:19:07`|`other-games`|
 |17|[External with ANTI&#45;AIM&#33;?&#33;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/685122-external-anti-aim.html)|`2025-02-08 00:19:07`|`counter-strike-2-releases`|
 |18|[DMA Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685435-dma-aimbot.html)|`2025-02-08 09:19:02`|`marvel-rivals`|
+|30|[The creepiest VGK Developer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685975-creepiest-vgk-developer.html)|`2025-02-08 23:02:26`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Recoil Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685915-recoil-script.html)|`2025-02-08 22:57:00`|`Rust`|
+|[Car websites script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/685899-car-websites-script.html)|`2025-02-08 22:57:00`|`Grand Theft Auto V`|
+|[External SkinChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685785-external-skinchanger.html)|`2025-02-08 22:57:00`|`Counter-Strike 2`|
+|[Skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/606335-skinchanger.html)|`2025-02-08 22:55:00`|`Counter-Strike 2`|
+|[External aimbot accuracy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686080-external-aimbot-accuracy.html)|`2025-02-08 22:49:00`|`Counter-Strike 2`|
 |[Jacket DLC item Id's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/685530-jacket-dlc-item-ids.html)|`2025-02-08 22:45:00`|`Payday 3`|
 |[Godmode hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/681498-godmode-hook.html)|`2025-02-08 22:43:00`|`Combat Master`|
 |[ZORT Spawn Menu &#91;BepinEx&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/683876-zort-spawn-menu-bepinex.html)|`2025-02-08 22:38:00`|`Other FPS Games`|
