@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GhostHack 2&#46;0 public](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/579206-ghosthack-2-0-public.html)|`2025-02-09 06:47:00`|`Battlefield 2`|
 |[rewasd or any other method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/681425-rewasd-method.html)|`2025-02-09 06:30:00`|`Apex Legends`|
 |[Sai's Color Aimbot BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668780-sais-color-aimbot-bo6.html)|`2025-02-09 06:29:00`|`Call of Duty: Black Ops 6`|
 |[Ida 9 Pro &#45; Disassembly wont show all Adresses?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/685723-ida-9-pro-disassembly-wont-adresses.html)|`2025-02-09 06:27:00`|`General Programming and Reversing`|
