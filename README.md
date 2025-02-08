@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ida 9 Pro &#45; Disassembly wont show all Adresses?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/685723-ida-9-pro-disassembly-wont-adresses.html)|`2025-02-09 06:27:00`|`General Programming and Reversing`|
+|[Synduality Echo of Ada](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/684888-synduality-echo-ada.html)|`2025-02-09 06:25:00`|`Other MMORPG and Strategy`|
+|[Help with coding dma radar hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/662481-help-coding-dma-radar-hack.html)|`2025-02-09 06:20:00`|`ARMA 3`|
 |[Among Us Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/418272-reversal-structs-offsets.html)|`2025-02-09 06:13:00`|`Among Us`|
 |[Any cheats with Anti OBS?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/686154-cheats-anti-obs.html)|`2025-02-09 05:55:00`|`Team Fortress 2`|
 |[Once human](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/686212-human.html)|`2025-02-09 05:51:00`|`Other FPS Games`|
