@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New ColorBot/TriggerBot Signed Microsoft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684493-colorbot-triggerbot-signed-microsoft.html)|`2025-02-09 01:05:00`|`Valorant`|
+|[How to Fix TPM Ban easily &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/626786-fix-tpm-ban-easily.html)|`2025-02-09 01:04:00`|`Valorant`|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-02-09 01:00:00`|`Other Games`|
+|[cheat for no more room in hell 2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/686176-cheat-hell-2-a.html)|`2025-02-09 00:58:00`|`Other FPS Games`|
 |[Yim Menu FSL matchmaking issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/686172-yim-menu-fsl-matchmaking-issues.html)|`2025-02-09 00:52:00`|`Grand Theft Auto V`|
 |[DitoGames &#40;Delta Wars/Alpha Wars&#41; game automation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/686166-ditogames-delta-wars-alpha-wars-game-automation.html)|`2025-02-09 00:13:00`|`Other Games`|
 |[Cheat Engine Bypass Window Title](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685741-cheat-engine-bypass-window-title.html)|`2025-02-09 00:45:00`|`Anti-Cheat Bypass`|
