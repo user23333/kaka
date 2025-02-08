@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2025-02-08 23:54:00`|`Escape from Tarkov`|
+|[DMA Based Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/674240-dma-based-aimbot.html)|`2025-02-08 23:54:00`|`Battlefield 1`|
 |[Problem with bones&#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686162-bones-external.html)|`2025-02-08 23:47:00`|`Rust`|
 |[CS2 External Bhop &#40;Works in fullscreen &#124; Legit Bhop&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681068-cs2-external-bhop-fullscreen-legit-bhop.html)|`2025-02-08 23:19:00`|`Counter-Strike 2`|
 |[Recoil Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685915-recoil-script.html)|`2025-02-08 22:57:00`|`Rust`|
