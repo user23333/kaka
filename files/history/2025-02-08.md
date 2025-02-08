@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any cheats with Anti OBS?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/686154-cheats-anti-obs.html)|`2025-02-08 21:51:00`|`Team Fortress 2`|
+|[Hearthstone Battlegrounds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686085-hearthstone-battlegrounds.html)|`2025-02-08 21:48:00`|`Other MMORPG and Strategy`|
 |[SEARCHING FOR A PERSON](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/686141-searching-person.html)|`2025-02-08 21:46:00`|`Counterstrike Global Offensive`|
 |[Battlefield 4 Cheat menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/686120-battlefield-4-cheat-menu.html)|`2025-02-08 21:10:00`|`Battlefield 4`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-02-08 21:07:00`|`Counter-Strike 2`|
