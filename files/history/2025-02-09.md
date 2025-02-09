@@ -29,9 +29,12 @@
 |516|[cs2 external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48548)|`2025-02-09 00:11:28`|
 |1|[Marvel Internal 02&#45;06](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48584)|`2025-02-09 19:42:26`|
 |3|[rigup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48576)|`2025-02-09 19:54:27`|
+|2|[UpGun Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48590)|`2025-02-09 21:16:37`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[UpGun Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/685996-upgun-cheat-table.html)|`2025-02-09 21:08:00`|`Cheat Engine Tables`|
+|[m&#95;iIDEntIndex Triggerbot Hitbox Check Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686275-m_iidentindex-triggerbot-hitbox-check-internal.html)|`2025-02-09 21:00:00`|`Counter-Strike 2`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2025-02-09 20:47:00`|`Deadlock`|
 |[no recoil tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/683188-recoil-tool.html)|`2025-02-09 20:18:00`|`Rainbow Six Siege`|
 |[DnD Beyond Dice Manipulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/javascript/677642-dnd-beyond-dice-manipulation.html)|`2025-02-09 19:34:00`|`Javascript`|
