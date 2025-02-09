@@ -11,6 +11,7 @@
 |32|[The creepiest VGK Developer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685975-creepiest-vgk-developer.html)|`2025-02-10 00:00:16`|`anti-cheat-bypass`|
 |7|[&#91;INTERNAL &#93; &#45; CS2 SIMPLE &#45; AIM &#124; ESP &#124; ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685423-internal-cs2-simple-aim-esp-etc.html)|`2025-02-10 00:00:16`|`counter-strike-2-a`|
 |10|[Working Nvidia GPU Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685535-nvidia-gpu-spoofing.html)|`2025-02-10 00:00:16`|`anti-cheat-bypass`|
+|12|[Bullet TP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685406-bullet-tp.html)|`2025-02-10 02:00:03`|`marvel-rivals`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
