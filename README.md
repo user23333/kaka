@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-02-09 13:04:00`|`League of Legends`|
+|[trigger bot without writing to memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685781-trigger-bot-writing-memory.html)|`2025-02-09 13:02:00`|`Counter-Strike 2`|
+|[Skin Images](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686243-skin-images.html)|`2025-02-09 12:57:00`|`Counter-Strike 2`|
 |[BO6 unreleased Bundles Gifting PC exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/686241-bo6-unreleased-bundles-gifting-pc-exploit.html)|`2025-02-09 12:33:00`|`Call of Duty: Black Ops 6`|
 |[Farcry Primal stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/far-cry/683421-farcry-primal-stuff.html)|`2025-02-09 12:27:00`|`Far Cry`|
 |[Run old vanguard versions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686239-run-vanguard-versions.html)|`2025-02-09 11:49:00`|`Anti-Cheat Bypass`|
