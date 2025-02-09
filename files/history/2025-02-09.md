@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[THE FINALS aim bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/686101-finals-aim-bot.html)|`2025-02-09 23:09:00`|`THE FINALS`|
+|[Glow esp issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686288-glow-esp-issues.html)|`2025-02-09 23:08:00`|`Counter-Strike 2`|
+|[Star Wars Battlefront II &#45; Server Menu &#45;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/680218-star-wars-battlefront-ii-server-menu.html)|`2025-02-09 23:07:00`|`Star Wars Battlefront 2`|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-02-09 23:01:00`|`Counter-Strike 2`|
 |[Destiny 2 Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669951-destiny-2-reversal.html)|`2025-02-09 22:42:00`|`Other FPS Games`|
 |[Explain how SSD serials can be retrieved from an AMD Raid0 setup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685956-explain-ssd-serials-retrieved-amd-raid0-setup.html)|`2025-02-09 22:22:00`|`Valorant`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-02-09 22:17:00`|`Apex Legends`|
