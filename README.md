@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project Zomboid Cheat &#124; EtherHack &#124; Powered by Java &#124; 41&#46;78&#46;16 &#124; Continued](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676271-project-zomboid-cheat-etherhack-powered-java-41-78-16-continued.html)|`2025-02-10 01:10:00`|`Other MMORPG and Strategy`|
+|[BO6 Multiplayer 50 Wins Ranked Ready Glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/685580-bo6-multiplayer-50-wins-ranked-ready-glitch.html)|`2025-02-10 01:09:00`|`Call of Duty: Black Ops 6`|
+|[BO6 unreleased Bundles Gifting PC exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/686241-bo6-unreleased-bundles-gifting-pc-exploit.html)|`2025-02-10 01:08:00`|`Call of Duty: Black Ops 6`|
+|[Project Zomboid Cheat &#45; EsdPZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/584072-project-zomboid-cheat-esdpz.html)|`2025-02-10 01:05:00`|`Other MMORPG and Strategy`|
+|[Plutonium Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/682287-plutonium-internal.html)|`2025-02-10 01:00:00`|`Call of Duty: Modern Warfare 3`|
 |[DMA Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685435-dma-aimbot.html)|`2025-02-10 00:52:00`|`Marvel Rivals`|
 |[aimbot dtc bypasS???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686299-aimbot-dtc-bypass.html)|`2025-02-10 00:47:00`|`Counter-Strike 2`|
 |[Cs2 External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685266-cs2-external.html)|`2025-02-10 00:25:00`|`Counter-Strike 2`|
