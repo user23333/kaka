@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Elden ring new Cheat Table &#43; Online &#40;risky&#41; &#43; CE Undetected &#43; future updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661671-elden-ring-cheat-table-online-risky-ce-undetected-future-updates.html)|`2025-02-10 03:29:00`|`Other FPS Games`|
+|[Changing Gun Skins Externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/623135-changing-gun-skins-externally.html)|`2025-02-10 03:29:00`|`Counter-Strike 2`|
+|[Using AI for Aimbot or similar?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/686030-using-ai-aimbot-similar.html)|`2025-02-10 03:28:00`|`General Programming and Reversing`|
+|[One Armed Robber Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/618429-armed-robber-internal.html)|`2025-02-10 03:24:00`|`Other FPS Games`|
+|[FiveM Simple External base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/645500-fivem-simple-external-base.html)|`2025-02-10 03:14:00`|`Alternative Online Mods`|
+|[cs2 signatures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/678524-cs2-signatures.html)|`2025-02-10 03:11:00`|`Counter-Strike 2`|
 |[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-02-10 03:23:00`|`Battlefield 4`|
 |[Blazing Sails Hack &#91;Win10&#93; &#91;Steam/EGS&#93; &#124; ESP &#124; SpeedHack &#124; NoClip &#124; More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620821-blazing-sails-hack-win10-steam-egs-esp-speedhack-noclip.html)|`2025-02-10 03:16:00`|`Other FPS Games`|
 |[Voyager detection in EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685719-voyager-detection-eac.html)|`2025-02-10 03:16:00`|`Anti-Cheat Bypass`|
