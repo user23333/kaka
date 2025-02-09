@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Palworld internal or external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/684858-palworld-internal-external.html)|`2025-02-09 10:28:00`|`Palworld`|
+|[Mordhau Powerful Cheat Table &#40;Dumpers&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/663281-mordhau-powerful-cheat-table-dumpers.html)|`2025-02-09 10:14:00`|`Other FPS Games`|
+|[Is there a reason why color detection was changed last patch?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686230-reason-color-detection-changed-patch.html)|`2025-02-09 10:10:00`|`Valorant`|
+|[&#91;Warframe&#93; Player Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/678485-warframe-player-offset.html)|`2025-02-09 09:59:00`|`Other FPS Games`|
+|[Sea of Thieves Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/649766-sea-thieves-spoofer.html)|`2025-02-09 09:58:00`|`Sea of Thieves`|
+|[Gold Dropper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/567212-gold-dropper.html)|`2025-02-09 09:51:00`|`Red Dead Redemption 2`|
 |[Simple DLL Injector &#124; UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685297-simple-dll-injector-ud.html)|`2025-02-09 09:18:00`|`Marvel Rivals`|
 |[gta5, nightclub liquor truck&#46;夜总会装酒猛骡卡车](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/686224-gta5-nightclub-liquor-truck.html)|`2025-02-09 08:41:00`|`Grand Theft Auto V`|
 |[Outfit Editor   and  BBOB&#40;browser extension that generates Outfits Code for Bincohax&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/624819-outfit-editor-bbob-browser-extension-generates-outfits-code-bincohax.html)|`2025-02-09 08:36:00`|`Grand Theft Auto V`|
