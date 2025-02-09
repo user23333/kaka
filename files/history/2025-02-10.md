@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-02-10 04:39:00`|`ARMA 3`|
+|[Bot Lobby with only 1 PC and 1 Xbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/683284-bot-lobby-1-pc-1-xbox.html)|`2025-02-10 04:38:00`|`Call of Duty: Black Ops 6`|
 |[Unibot &#124; An open&#45;source colorbot that just works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/603461-unibot-source-colorbot.html)|`2025-02-10 04:36:00`|`Valorant`|
 |[Another Way of forcing &#43;attack and other commands](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686278-forcing-attack-commands.html)|`2025-02-10 04:35:00`|`Counter-Strike 2`|
 |[Draw with the engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/685279-draw-engine.html)|`2025-02-10 04:34:00`|`Call of Duty: Black Ops 3`|
