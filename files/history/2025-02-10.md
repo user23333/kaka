@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anyone willing to help me learn creating cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670870-willing-help-learn-creating-cheats.html)|`2025-02-10 05:38:00`|`Call of Duty: Black Ops 6`|
+|[decrypt&#95;client&#95;info return 0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/684823-decrypt_client_info-return-0-a.html)|`2025-02-10 05:35:00`|`Call of Duty: Black Ops 6`|
 |[Unlock All Tool Detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/669175-unlock-tool-detections.html)|`2025-02-10 05:33:00`|`Call of Duty: Black Ops 6`|
 |[BO6 Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/686211-bo6-internal-source.html)|`2025-02-10 05:29:00`|`Call of Duty: Black Ops 6`|
 |[Nuclear Nightmare](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/685421-nuclear-nightmare.html)|`2025-02-10 05:29:00`|`Other FPS Games`|
