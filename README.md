@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Il2cppDump for Official Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686321-il2cppdump-official-rust.html)|`2025-02-10 04:23:00`|`Rust`|
+|[HV not capturing all &#35;PF exceptions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686320-hv-capturing-pf-exceptions.html)|`2025-02-10 04:18:00`|`Anti-Cheat Bypass`|
+|[Tarkov VPN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/686184-tarkov-vpn.html)|`2025-02-10 04:16:00`|`Escape from Tarkov`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-02-10 04:09:00`|`Other FPS Games`|
 |[Escape The Backrooms Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/615556-escape-backrooms-internal.html)|`2025-02-10 04:08:00`|`Other FPS Games`|
 |[Cant see loot in containers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/686227-cant-loot-containers.html)|`2025-02-10 04:04:00`|`Escape from Tarkov`|
 |[Working Injectors right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/686263-injectors.html)|`2025-02-10 04:01:00`|`Marvel Rivals`|
