@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I accicdentally found a bypass for GTA Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/686220-accicdentally-found-bypass-gta-online.html)|`2025-02-10 01:29:00`|`Grand Theft Auto V`|
+|[&#40;New&#41; Content Warning Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/635382-content-warning-cheat-menu.html)|`2025-02-10 01:28:00`|`Other Games`|
+|[GTA 5 ONLINE MONEY TRICK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/686197-gta-5-online-money-trick.html)|`2025-02-10 01:26:00`|`Grand Theft Auto V`|
+|[FiveM Server Proxy Connection Detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/686193-fivem-server-proxy-connection-detected.html)|`2025-02-10 01:25:00`|`Alternative Online Mods`|
+|[TPM AND SB BYPASS &#43; SPOOFER &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/623808-tpm-sb-bypass-spoofer.html)|`2025-02-10 01:25:00`|`Valorant`|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-02-10 01:17:00`|`Other Games`|
+|[Aimbot with infinitely increasing yaw and pitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/682512-aimbot-infinitely-increasing-yaw-pitch.html)|`2025-02-10 01:16:00`|`Forum General`|
+|[Project Zomboid Cheat &#45; Valkur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/645408-project-zomboid-cheat-valkur.html)|`2025-02-10 01:15:00`|`Other MMORPG and Strategy`|
+|[Signature Scanning using Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/686300-signature-scanning-using-cheat-engine.html)|`2025-02-10 01:14:00`|`Alternative Online Mods`|
 |[Project Zomboid Cheat &#124; EtherHack &#124; Powered by Java &#124; 41&#46;78&#46;16 &#124; Continued](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676271-project-zomboid-cheat-etherhack-powered-java-41-78-16-continued.html)|`2025-02-10 01:10:00`|`Other MMORPG and Strategy`|
 |[BO6 Multiplayer 50 Wins Ranked Ready Glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/685580-bo6-multiplayer-50-wins-ranked-ready-glitch.html)|`2025-02-10 01:09:00`|`Call of Duty: Black Ops 6`|
 |[BO6 unreleased Bundles Gifting PC exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/686241-bo6-unreleased-bundles-gifting-pc-exploit.html)|`2025-02-10 01:08:00`|`Call of Duty: Black Ops 6`|
