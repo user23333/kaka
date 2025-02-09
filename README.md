@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help with impl&#95;dx11&#95;init function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685840-help-impl_dx11_init-function.html)|`2025-02-10 01:45:00`|`Counter-Strike 2`|
+|[Do i need ID3D11RenderTargetView when coding dx11 internals?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686306-id3d11rendertargetview-coding-dx11-internals.html)|`2025-02-10 01:42:00`|`Counter-Strike 2`|
 |[Undetected Get Base Address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686183-undetected-base-address.html)|`2025-02-10 01:34:00`|`Anti-Cheat Bypass`|
 |[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2025-02-10 01:31:00`|`Escape from Tarkov`|
 |[I accicdentally found a bypass for GTA Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/686220-accicdentally-found-bypass-gta-online.html)|`2025-02-10 01:29:00`|`Grand Theft Auto V`|
