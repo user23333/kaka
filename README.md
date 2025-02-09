@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BotOps Hub &#40;bot lobby tool, no VM required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674129-botops-hub-bot-lobby-tool-vm-required.html)|`2025-02-09 21:57:00`|`Call of Duty: Black Ops 6`|
+|[Am I too late for the party?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/684197-am-late-party.html)|`2025-02-09 21:55:00`|`Forum General`|
+|[Kernel Callbacks: Enumerate, Remove, and Restore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686281-kernel-callbacks-enumerate-remove-restore.html)|`2025-02-09 21:54:00`|`Anti-Cheat Bypass`|
 |[Glitchy ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/686280-glitchy-esp.html)|`2025-02-09 21:51:00`|`General Programming and Reversing`|
 |[ida pro sig maker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/686050-ida-pro-sig-maker.html)|`2025-02-09 21:41:00`|`General Programming and Reversing`|
 |[Another Way of forcing &#43;attack and other commands](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686278-forcing-attack-commands.html)|`2025-02-09 21:29:00`|`Counter-Strike 2`|
