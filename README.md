@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Blazing Sails Hack &#91;Win10&#93; &#91;Steam/EGS&#93; &#124; ESP &#124; SpeedHack &#124; NoClip &#124; More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620821-blazing-sails-hack-win10-steam-egs-esp-speedhack-noclip.html)|`2025-02-10 03:16:00`|`Other FPS Games`|
+|[Voyager detection in EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685719-voyager-detection-eac.html)|`2025-02-10 03:16:00`|`Anti-Cheat Bypass`|
 |[NoSpread doesn't work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686312-nospread-doesnt.html)|`2025-02-10 02:57:00`|`Counter-Strike 2`|
 |[Access the in&#45;game console by hex&#45;editing iw4sp&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/686311-access-game-console-hex-editing-iw4sp-exe.html)|`2025-02-10 02:57:00`|`Call of Duty 6: Modern Warfare 2`|
 |[Help With AI Aimbot  Aimmy/SunOner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/677671-help-ai-aimbot-aimmy-sunoner.html)|`2025-02-10 02:53:00`|`THE FINALS`|
