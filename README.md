@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I need some help with EFI spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686074-help-efi-spoof.html)|`2025-02-09 23:35:00`|`Valorant`|
 |[I have done everything, i cant play valo i have hwid ban pls help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686054-cant-play-valo-hwid-ban-pls-help.html)|`2025-02-09 23:31:00`|`Valorant`|
 |[THE FINALS aim bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/686101-finals-aim-bot.html)|`2025-02-09 23:09:00`|`THE FINALS`|
 |[Glow esp issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686288-glow-esp-issues.html)|`2025-02-09 23:08:00`|`Counter-Strike 2`|
