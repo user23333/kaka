@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Another Way of forcing &#43;attack and other commands](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686278-forcing-attack-commands.html)|`2025-02-09 21:29:00`|`Counter-Strike 2`|
+|[hvloader&#46;efi location](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/686277-hvloader-efi-location.html)|`2025-02-09 21:28:00`|`General Programming and Reversing`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-02-09 21:16:00`|`Other FPS Games`|
 |[UpGun Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/685996-upgun-cheat-table.html)|`2025-02-09 21:08:00`|`Cheat Engine Tables`|
 |[m&#95;iIDEntIndex Triggerbot Hitbox Check Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686275-m_iidentindex-triggerbot-hitbox-check-internal.html)|`2025-02-09 21:00:00`|`Counter-Strike 2`|
