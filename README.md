@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DnD Beyond Dice Manipulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/javascript/677642-dnd-beyond-dice-manipulation.html)|`2025-02-09 19:34:00`|`Javascript`|
 |[1:1 Captain DMA is safe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/640803-1-1-captain-dma-safe.html)|`2025-02-09 19:47:00`|`PC Software`|
 |[I want to make ud cheat&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/678742-ud-cheat.html)|`2025-02-09 19:35:00`|`C and C++`|
 |[Draw with the engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/685279-draw-engine.html)|`2025-02-09 19:22:00`|`Call of Duty: Black Ops 3`|
