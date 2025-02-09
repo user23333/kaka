@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[best money methods 1&#46;70 With no Ban? YimMenu with Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/686063-money-methods-1-70-ban-yimmenu-scripts.html)|`2025-02-09 10:47:00`|`Grand Theft Auto V`|
+|[Problem with bones&#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686162-bones-external.html)|`2025-02-09 10:42:00`|`Rust`|
 |[Palworld internal or external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/684858-palworld-internal-external.html)|`2025-02-09 10:28:00`|`Palworld`|
 |[Mordhau Powerful Cheat Table &#40;Dumpers&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/663281-mordhau-powerful-cheat-table-dumpers.html)|`2025-02-09 10:14:00`|`Other FPS Games`|
 |[Is there a reason why color detection was changed last patch?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686230-reason-color-detection-changed-patch.html)|`2025-02-09 10:10:00`|`Valorant`|
