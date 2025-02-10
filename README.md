@@ -14,6 +14,7 @@
 |12|[Bullet TP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685406-bullet-tp.html)|`2025-02-10 02:00:03`|`marvel-rivals`|
 |11|[Clumper&#45;7 rust auto dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685795-clumper-7-rust-auto-dumper.html)|`2025-02-10 05:53:19`|`rust`|
 |20|[Undetected Get Base Address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686183-undetected-base-address.html)|`2025-02-10 10:05:12`|`anti-cheat-bypass`|
+|16|[Shared memory communication](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685628-shared-memory-communication.html)|`2025-02-10 20:26:40`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NETEASE ANTI CHEAT LOCATION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686390-netease-anti-cheat-location.html)|`2025-02-10 20:18:00`|`Anti-Cheat Bypass`|
+|[COD CP exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/616611-cod-cp-exploit.html)|`2025-02-10 20:18:00`|`Call of Duty: Black Ops 6`|
 |[Controller Emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673578-controller-emulation.html)|`2025-02-10 19:54:00`|`Call of Duty: Black Ops 6`|
 |[Valorant DMA Based external Cheat&#40;Just run it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/645290-valorant-dma-based-external-cheat-run.html)|`2025-02-10 19:52:00`|`Valorant`|
 |[how did you start developing cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686387-start-developing-cheats.html)|`2025-02-10 19:49:00`|`Valorant`|
