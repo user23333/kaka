@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I need some help with EFI spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686074-help-efi-spoof.html)|`2025-02-10 10:50:00`|`Valorant`|
+|[Arduino communication](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686354-arduino-communication.html)|`2025-02-10 10:46:00`|`Valorant`|
+|[Looking for NFA accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686353-looking-nfa-accounts.html)|`2025-02-10 10:32:00`|`Valorant`|
 |[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2025-02-10 10:04:00`|`Valorant`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-02-10 09:37:00`|`Counter-Strike 2 Releases`|
 |[VGK "emulator" & bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/685227-vgk-emulator-bypass.html)|`2025-02-10 09:34:00`|`League of Legends`|
