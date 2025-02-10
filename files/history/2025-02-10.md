@@ -15,6 +15,7 @@
 |11|[Clumper&#45;7 rust auto dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685795-clumper-7-rust-auto-dumper.html)|`2025-02-10 05:53:19`|`rust`|
 |20|[Undetected Get Base Address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686183-undetected-base-address.html)|`2025-02-10 10:05:12`|`anti-cheat-bypass`|
 |16|[Shared memory communication](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685628-shared-memory-communication.html)|`2025-02-10 20:26:40`|`anti-cheat-bypass`|
+|3|[Jacket DLC item Id's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/685530-jacket-dlc-item-ids.html)|`2025-02-10 22:17:15`|`payday-3-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Detection CE is forcing it to be minimized](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/651059-detection-ce-forcing-minimized.html)|`2025-02-10 22:14:00`|`Anti-Cheat Bypass`|
+|[DMIEDIT now available for &#46;&#46;&#46; ASUS&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/677061-dmiedit-available-asus.html)|`2025-02-10 22:02:00`|`Valorant`|
 |[VisibleCheck very well](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686396-visiblecheck.html)|`2025-02-10 21:34:00`|`Rust`|
 |[Vehicle coordinates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/686395-vehicle-coordinates.html)|`2025-02-10 20:55:00`|`PlanetSide 2`|
 |[DictatorsNoPeaceCountryBalls V2 Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/686392-dictatorsnopeacecountryballs-v2-cheat-table.html)|`2025-02-10 20:47:00`|`Cheat Engine Tables`|
