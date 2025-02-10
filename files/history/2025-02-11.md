@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2025-02-11 04:31:00`|`Garry's Mod`|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-02-11 04:22:00`|`Other FPS Games`|
+|[This is how scanners work and how you can bypass them&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/685966-scanners-bypass.html)|`2025-02-11 04:21:00`|`Alternative Online Mods`|
+|[I have done everything, i cant play valo i have hwid ban pls help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686054-cant-play-valo-hwid-ban-pls-help.html)|`2025-02-11 04:14:00`|`Valorant`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-02-11 04:05:00`|`DayZ SA`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-02-11 03:57:00`|`Call of Duty: Black Ops 6`|
 |[Read infos from player&#95;info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/684646-read-infos-player_info.html)|`2025-02-11 03:56:00`|`Alternative Online Mods`|
