@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Minecraft hacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/686355-minecraft-hacking.html)|`2025-02-11 07:15:00`|`Minecraft`|
+|[basic external menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685292-basic-external-menu.html)|`2025-02-11 07:12:00`|`Counter-Strike 2`|
+|[nightmode for externals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686426-nightmode-externals.html)|`2025-02-11 07:08:00`|`Counter-Strike 2`|
+|[Simulate Controller with Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/686466-simulate-controller-mouse.html)|`2025-02-11 07:04:00`|`Apex Legends`|
+|[I want to make ud cheat&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/678742-ud-cheat.html)|`2025-02-11 07:03:00`|`C and C++`|
 |[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-02-11 06:44:00`|`Other Games`|
 |[BF1 ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/686461-bf1-esp.html)|`2025-02-11 06:35:00`|`Battlefield 1`|
 |[text render issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/682406-text-render-issue.html)|`2025-02-11 06:30:00`|`C and C++`|
