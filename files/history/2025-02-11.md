@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Cheats Detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/643527-external-cheats-detected.html)|`2025-02-11 03:28:00`|`Alternative Online Mods`|
+|[Undetected Get Base Address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686183-undetected-base-address.html)|`2025-02-11 03:27:00`|`Anti-Cheat Bypass`|
+|[Alkad Rust EAC Bypasser &#124; Rust EAC Bypasser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686344-alkad-rust-eac-bypasser-rust-eac-bypasser.html)|`2025-02-11 03:27:00`|`Rust`|
 |[Hell Let Loose Automated MIL Calculator for artillery](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/686430-hell-loose-automated-mil-calculator-artillery.html)|`2025-02-11 03:12:00`|`Other FPS Games`|
 |[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2025-02-11 03:04:00`|`Valorant`|
 |[Clumper&#45;7 rust auto dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685795-clumper-7-rust-auto-dumper.html)|`2025-02-11 02:57:00`|`Rust`|
