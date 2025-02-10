@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HSV value](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686252-hsv-value.html)|`2025-02-10 11:08:00`|`Valorant`|
 |[I need some help with EFI spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686074-help-efi-spoof.html)|`2025-02-10 10:50:00`|`Valorant`|
 |[Arduino communication](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686354-arduino-communication.html)|`2025-02-10 10:46:00`|`Valorant`|
 |[Looking for NFA accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686353-looking-nfa-accounts.html)|`2025-02-10 10:32:00`|`Valorant`|
