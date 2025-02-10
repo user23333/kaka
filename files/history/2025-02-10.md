@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino val cheat using python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686322-arduino-val-cheat-using-python.html)|`2025-02-10 17:09:00`|`Valorant`|
+|[Dead By Daylight DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682901-dead-daylight-dma-esp.html)|`2025-02-10 17:06:00`|`Other FPS Games`|
 |[Chinese dma card](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686254-chinese-dma-card.html)|`2025-02-10 16:55:00`|`Anti-Cheat Bypass`|
 |[Remove Battleye for single player](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/685952-remove-battleye-single-player.html)|`2025-02-10 16:52:00`|`Grand Theft Auto V`|
 |[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2025-02-10 16:49:00`|`Other Games`|
