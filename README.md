@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-02-11 05:35:00`|`Marvel Rivals`|
+|[Rise Of Kingdoms decrypted global&#45;metadata&#46;dat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/636314-rise-kingdoms-decrypted-global-metadata-dat.html)|`2025-02-11 05:33:00`|`Other Games`|
 |[UE5 Internal base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/686081-ue5-internal-base.html)|`2025-02-11 05:28:00`|`General Programming and Reversing`|
 |[What Hapend To Old School Material Wallhack Things?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/685352-hapend-school-material-wallhack.html)|`2025-02-11 05:27:00`|`Team Fortress 2`|
 |[Fivem Get NET ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/685064-fivem-net-id.html)|`2025-02-11 05:23:00`|`Alternative Online Mods`|
