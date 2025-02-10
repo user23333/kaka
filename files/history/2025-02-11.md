@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[No Recoil Tool For Semi Legits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686425-recoil-tool-semi-legits.html)|`2025-02-11 00:54:00`|`Counter-Strike 2`|
+|[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-02-11 00:53:00`|`Marvel Rivals`|
 |[Shared memory communication](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685628-shared-memory-communication.html)|`2025-02-11 00:35:00`|`Anti-Cheat Bypass`|
 |[DirectX11 hook not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686423-directx11-hook.html)|`2025-02-11 00:35:00`|`Counter-Strike 2`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-02-11 00:27:00`|`Grand Theft Auto V`|
