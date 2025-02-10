@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to get il2cpp method info from abstract method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/686371-il2cpp-method-info-abstract-method.html)|`2025-02-10 16:42:00`|`Unity`|
 |[Alkad Rust EAC Bypasser &#124; Rust EAC Bypasser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686344-alkad-rust-eac-bypasser-rust-eac-bypasser.html)|`2025-02-10 16:32:00`|`Rust`|
 |[Shared memory communication](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685628-shared-memory-communication.html)|`2025-02-10 16:02:00`|`Anti-Cheat Bypass`|
 |[spoof help :p](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686343-spoof-help.html)|`2025-02-10 15:51:00`|`Valorant`|
