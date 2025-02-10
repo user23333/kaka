@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-02-10 11:39:00`|`Alternative Online Mods`|
+|[Read infos from player&#95;info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/684646-read-infos-player_info.html)|`2025-02-10 11:34:00`|`Alternative Online Mods`|
 |[Is shellcode injection detected on fivem?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/685849-shellcode-injection-detected-fivem.html)|`2025-02-10 11:30:00`|`Alternative Online Mods`|
 |[HSV value](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686252-hsv-value.html)|`2025-02-10 11:08:00`|`Valorant`|
 |[I need some help with EFI spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686074-help-efi-spoof.html)|`2025-02-10 10:50:00`|`Valorant`|
