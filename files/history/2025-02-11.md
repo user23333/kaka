@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Destiny 2 Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669951-destiny-2-reversal.html)|`2025-02-11 10:50:00`|`Other FPS Games`|
+|[Workin Vgk bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683982-workin-vgk-bypass.html)|`2025-02-11 10:43:00`|`Valorant`|
+|[kernel driver only have one Task &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/685434-kernel-driver-task.html)|`2025-02-11 10:41:00`|`C and C++`|
 |[Kingdom Come: Deliverance 2 Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/685563-kingdom-deliverance-2-reversal-structs-offsets.html)|`2025-02-11 10:04:00`|`Other Single Player Games`|
 |[Detection CE is forcing it to be minimized](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/651059-detection-ce-forcing-minimized.html)|`2025-02-11 10:03:00`|`Anti-Cheat Bypass`|
 |[Why Im not banned yet?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686467-im-banned.html)|`2025-02-11 10:02:00`|`Counter-Strike 2`|
