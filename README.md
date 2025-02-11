@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gray Zone Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/634880-gray-zone-warfare-reversal-structs-offsets.html)|`2025-02-11 15:57:00`|`Other FPS Games`|
 |[best money methods 1&#46;70 With no Ban? YimMenu with Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/686063-money-methods-1-70-ban-yimmenu-scripts.html)|`2025-02-11 15:45:00`|`Grand Theft Auto V`|
 |[Project Bloodstrike PC Esp Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/619430-project-bloodstrike-pc-esp-aimbot.html)|`2025-02-11 15:30:00`|`Other FPS Games`|
 |[GameObjectManager analog](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686499-gameobjectmanager-analog.html)|`2025-02-11 15:22:00`|`Rust`|
