@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fivem Auto hotkey Fishing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/686501-fivem-auto-hotkey-fishing.html)|`2025-02-12 05:53:00`|`Alternative Online Mods`|
+|[&#91;Instalock&#93; &#45; Auto accept/Ban/Lock&#45;in](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/686488-instalock-auto-accept-ban-lock.html)|`2025-02-12 05:52:00`|`League of Legends`|
+|[GameObjectManager analog](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686499-gameobjectmanager-analog.html)|`2025-02-12 05:51:00`|`Rust`|
+|[remove external ESP bone flicker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686632-remove-external-esp-bone-flicker.html)|`2025-02-12 05:48:00`|`Rust`|
 |[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2025-02-12 05:47:00`|`Counter-Strike 2`|
 |[SkyBox Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686630-skybox-changer.html)|`2025-02-12 05:43:00`|`Counter-Strike 2`|
 |[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2025-02-12 05:36:00`|`Sea of Thieves`|
