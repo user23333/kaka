@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2025-02-12 05:47:00`|`Counter-Strike 2`|
+|[SkyBox Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686630-skybox-changer.html)|`2025-02-12 05:43:00`|`Counter-Strike 2`|
 |[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2025-02-12 05:36:00`|`Sea of Thieves`|
 |[Arduino Leo/Host shield makeing aimassist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686610-arduino-leo-host-shield-makeing-aimassist.html)|`2025-02-12 05:28:00`|`Valorant`|
 |[How am I still playing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686532-am-playing.html)|`2025-02-12 05:28:00`|`Valorant`|
