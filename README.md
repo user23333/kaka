@@ -26,6 +26,7 @@
 |128|[Clumper&#45;7 Auto Dumper for rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48577)|`2025-02-12 00:20:20`|
 |97|[rigup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48576)|`2025-02-12 00:20:20`|
 |1|[Super Market Simulator 0&#46;6V Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48622)|`2025-02-12 02:50:36`|
+|1|[Ranked Icons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48602)|`2025-02-12 04:54:41`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
