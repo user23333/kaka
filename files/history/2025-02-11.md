@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Material Output](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686497-rust-material-output.html)|`2025-02-11 14:51:00`|`Rust`|
 |[what is this about](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685490-what-is-this-about.html)|`2025-02-11 14:44:00`|`Valorant`|
 |[Odin v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/629281-odin-v1.html)|`2025-02-11 14:27:00`|`Paladins`|
 |[GTA Online modding is DEAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681359-gta-online-modding-dead.html)|`2025-02-11 13:27:00`|`Grand Theft Auto V`|
