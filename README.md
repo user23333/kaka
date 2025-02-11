@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Plutonium Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/682287-plutonium-internal.html)|`2025-02-11 22:27:00`|`Call of Duty: Modern Warfare 3`|
+|[Loading Unsigned Drivers & DLL Injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686531-loading-unsigned-drivers-dll-injection.html)|`2025-02-11 22:23:00`|`Valorant`|
+|[How am I still playing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686532-am-playing.html)|`2025-02-11 22:18:00`|`Valorant`|
 |[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2025-02-11 22:07:00`|`Elite: Dangerous`|
 |[What other ways are there to obtain the wm29 pistol?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/686530-obtain-wm29-pistol.html)|`2025-02-11 22:02:00`|`Grand Theft Auto V`|
 |[how to interpolate local animfix?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/686528-interpolate-local-animfix.html)|`2025-02-11 21:52:00`|`Counterstrike Global Offensive`|
