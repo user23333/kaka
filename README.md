@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Destiny 2 Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669951-destiny-2-reversal.html)|`2025-02-12 01:07:00`|`Other FPS Games`|
+|[War Thunder offset dumper source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/667525-war-thunder-offset-dumper-source.html)|`2025-02-12 01:06:00`|`Other MMORPG and Strategy`|
+|[nightmode for externals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686426-nightmode-externals.html)|`2025-02-12 01:04:00`|`Counter-Strike 2`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-02-12 01:01:00`|`Marvel Rivals`|
+|[Is there a reason why color detection was changed last patch?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686230-reason-color-detection-changed-patch.html)|`2025-02-12 01:00:00`|`Valorant`|
+|[Valorant triggerbots w sticky aim?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686483-valorant-triggerbots-sticky-aim.html)|`2025-02-12 00:58:00`|`Valorant`|
+|[Valorant Anti&#45;AFK Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686472-valorant-anti-afk-script.html)|`2025-02-12 00:56:00`|`Valorant`|
 |[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-02-12 00:54:00`|`Other Games`|
 |[no recoil tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/683188-recoil-tool.html)|`2025-02-12 00:52:00`|`Rainbow Six Siege`|
 |[Is it important to remove the CRT for EAC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686545-remove-crt-eac.html)|`2025-02-12 00:50:00`|`Anti-Cheat Bypass`|
