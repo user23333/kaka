@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Offsets 3&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681380-external-offsets-3-6-a.html)|`2025-02-11 23:49:00`|`PUBG Mobile`|
+|[NEW Pubgm 3&#46;6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681262-pubgm-3-6-offsets.html)|`2025-02-11 23:48:00`|`PUBG Mobile`|
 |[inventory changer team intro stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686538-inventory-changer-team-intro-stuff.html)|`2025-02-11 23:47:00`|`Counter-Strike 2`|
 |[CHEAT ADVANCED WARFARE &#124; S1X/STEAM &#40;UNDETECTED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-advanced-warfare/681001-cheat-advanced-warfare-s1x-steam-undetected.html)|`2025-02-11 23:47:00`|`Call of Duty: Advanced Warfare`|
 |[3&#46;6 EMULATOR 32bit Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681220-3-6-emulator-32bit-offsets.html)|`2025-02-11 23:46:00`|`PUBG Mobile`|
