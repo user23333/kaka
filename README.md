@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is it important to remove the CRT for EAC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686545-remove-crt-eac.html)|`2025-02-12 00:50:00`|`Anti-Cheat Bypass`|
+|[Fivem Get NET ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/685064-fivem-net-id.html)|`2025-02-12 00:49:00`|`Alternative Online Mods`|
+|[Super Market Simulator 0&#46;6V Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/686541-super-market-simulator-0-6v-cheat-table.html)|`2025-02-12 00:43:00`|`Cheat Engine Tables`|
+|[Is phasmophobias global&#45;metadata obfuscated?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/686540-phasmophobias-global-metadata-obfuscated.html)|`2025-02-12 00:41:00`|`Phasmophobia`|
+|[Is shellcode injection detected on fivem?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/685849-shellcode-injection-detected-fivem.html)|`2025-02-12 00:41:00`|`Alternative Online Mods`|
 |[Recoil Scripts and Mouse Movement over Serial Bus with RP2040 &#40;MausDriver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/680251-recoil-scripts-mouse-movement-serial-bus-rp2040-mausdriver.html)|`2025-02-12 00:36:00`|`Rust`|
 |[SANALIKA GAME](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/680001-sanalika-game.html)|`2025-02-12 00:35:00`|`Other MMORPG and Strategy`|
 |[How do i make no recoil in CS2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686507-recoil-cs2.html)|`2025-02-12 00:30:00`|`Counter-Strike 2`|
