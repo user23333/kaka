@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-02-11 15:02:00`|`Other FPS Games`|
+|[apex color aimbot,c&#43;&#43; 80days 0ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/684954-apex-color-aimbot-80days-0ban.html)|`2025-02-11 15:00:00`|`Apex Legends`|
 |[dota 2 free cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/684202-dota-2-free-cheat.html)|`2025-02-11 14:58:00`|`Other MMORPG and Strategy`|
 |[Rust Material Output](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686497-rust-material-output.html)|`2025-02-11 14:51:00`|`Rust`|
 |[what is this about](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685490-what-is-this-about.html)|`2025-02-11 14:44:00`|`Valorant`|
