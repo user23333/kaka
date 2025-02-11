@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Catching HWBP exception inside Kernel Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685908-catching-hwbp-exception-inside-kernel-driver.html)|`2025-02-12 06:43:00`|`Anti-Cheat Bypass`|
+|[CS2 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/682717-cs2-cheat.html)|`2025-02-12 06:42:00`|`Counter-Strike 2 Releases`|
 |[Palia Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/596326-palia-multihack.html)|`2025-02-12 06:25:00`|`Palia`|
 |[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2025-02-12 06:25:00`|`Grand Theft Auto V`|
 |[Tarkov VPN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/686184-tarkov-vpn.html)|`2025-02-12 06:23:00`|`Escape from Tarkov`|
