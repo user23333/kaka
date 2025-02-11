@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-02-12 00:54:00`|`Other Games`|
+|[no recoil tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/683188-recoil-tool.html)|`2025-02-12 00:52:00`|`Rainbow Six Siege`|
 |[Is it important to remove the CRT for EAC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686545-remove-crt-eac.html)|`2025-02-12 00:50:00`|`Anti-Cheat Bypass`|
 |[Fivem Get NET ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/685064-fivem-net-id.html)|`2025-02-12 00:49:00`|`Alternative Online Mods`|
 |[Super Market Simulator 0&#46;6V Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/686541-super-market-simulator-0-6v-cheat-table.html)|`2025-02-12 00:43:00`|`Cheat Engine Tables`|
