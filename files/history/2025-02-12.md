@@ -12,6 +12,7 @@
 |28|[Signed Driver Load Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686331-signed-driver-load-methods.html)|`2025-02-12 00:20:20`|`anti-cheat-bypass`|
 |25|[HV not capturing all &#35;PF exceptions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686320-hv-capturing-pf-exceptions.html)|`2025-02-12 00:20:20`|`anti-cheat-bypass`|
 |16|[This is how scanners work and how you can bypass them&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/685966-scanners-bypass.html)|`2025-02-12 00:40:33`|`alternative-online-mods`|
+|4|[How to update a cod cheat/patterns &#43; updated base for cod/steam/xbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/686435-update-cod-cheat-patterns-updated-base-cod-steam-xbox.html)|`2025-02-12 05:06:41`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,9 +28,12 @@
 |97|[rigup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48576)|`2025-02-12 00:20:20`|
 |1|[Super Market Simulator 0&#46;6V Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48622)|`2025-02-12 02:50:36`|
 |1|[Ranked Icons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48602)|`2025-02-12 04:54:41`|
+|1|[DNPC V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48610)|`2025-02-12 05:06:41`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ban GenZ from this forum?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/686572-ban-genz-forum.html)|`2025-02-12 05:02:00`|`Off Topic`|
+|[DictatorsNoPeaceCountryBalls V2 Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/686392-dictatorsnopeacecountryballs-v2-cheat-table.html)|`2025-02-12 04:55:00`|`Cheat Engine Tables`|
 |[no soft unlock all tool?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/686570-soft-unlock-tool.html)|`2025-02-12 04:45:00`|`Call of Duty: Black Ops 6`|
 |[KDMapper stopped working randomly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686566-kdmapper-stopped-randomly.html)|`2025-02-12 04:22:00`|`Anti-Cheat Bypass`|
 |[HLL: Hell Let Loose](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/340677-hll-hell-loose.html)|`2025-02-12 04:12:00`|`Other FPS Games`|
