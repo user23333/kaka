@@ -14,6 +14,7 @@
 |16|[This is how scanners work and how you can bypass them&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/685966-scanners-bypass.html)|`2025-02-12 00:40:33`|`alternative-online-mods`|
 |4|[How to update a cod cheat/patterns &#43; updated base for cod/steam/xbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/686435-update-cod-cheat-patterns-updated-base-cod-steam-xbox.html)|`2025-02-12 05:06:41`|`call-of-duty-black-ops-6-a`|
 |3|[Help Base Working Bo6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/686424-help-base-bo6.html)|`2025-02-12 10:02:58`|`call-of-duty-black-ops-6-a`|
+|1|[need w2s advice for bone esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/686684-w2s-advice-bone-esp.html)|`2025-02-12 20:14:02`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BotOps Hub &#40;bot lobby tool, no VM required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674129-botops-hub-bot-lobby-tool-vm-required.html)|`2025-02-12 20:12:00`|`Call of Duty: Black Ops 6`|
 |[pcileech&#45;multimedia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/623718-pcileech-multimedia.html)|`2025-02-12 19:53:00`|`Anti-Cheat Bypass`|
 |[Can't find the correct names to hook classes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/686537-cant-correct-names-hook-classes.html)|`2025-02-12 19:40:00`|`Minecraft`|
 |[Multiple instances of steam/cs2 WITHOUT sandboxing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666875-multiple-instances-steam-cs2-sandboxing.html)|`2025-02-12 19:34:00`|`Counter-Strike 2`|
