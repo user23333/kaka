@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Should I still flash my BIOS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686690-flash-bios.html)|`2025-02-12 16:25:00`|`Valorant`|
+|[&#91;BE&#93; Cannot attach or inject after removing callbacks with wke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686689-attach-inject-removing-callbacks-wke.html)|`2025-02-12 16:23:00`|`Anti-Cheat Bypass`|
 |[Unibot &#124; An open&#45;source colorbot that just works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/603461-unibot-source-colorbot.html)|`2025-02-12 16:08:00`|`Valorant`|
 |[need w2s advice for bone esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/686684-w2s-advice-bone-esp.html)|`2025-02-12 15:45:00`|`Call of Duty: Black Ops 6`|
 |[Rust scripts &#45; FPS dropping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685618-rust-scripts-fps-dropping.html)|`2025-02-12 15:42:00`|`Rust`|
