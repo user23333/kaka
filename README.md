@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MW2 Steam Newest Offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/677347-mw2-steam-offsets.html)|`2025-02-13 04:15:00`|`Call of Duty 6: Modern Warfare 2`|
+|[bo6 mod recommendations? ;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/686700-bo6-mod-recommendations.html)|`2025-02-13 04:15:00`|`Call of Duty: Black Ops 6`|
 |[how to have new reddit acount on pc, if previous one is banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/684201-reddit-acount-pc-previous-banned.html)|`2025-02-13 03:50:00`|`Forum General`|
 |[Chinese dma card](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686254-chinese-dma-card.html)|`2025-02-13 03:49:00`|`Anti-Cheat Bypass`|
 |[Call of Duty: Modern Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/384429-call-duty-modern-warfare-reversal-structs-offsets.html)|`2025-02-13 03:36:00`|`Call of Duty: Modern Warfare`|
