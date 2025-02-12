@@ -11,6 +11,7 @@
 |40|[HV not capturing all &#35;PF exceptions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686320-hv-capturing-pf-exceptions.html)|`2025-02-13 00:18:30`|`anti-cheat-bypass`|
 |12|[Clumper&#45;7 rust auto dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685795-clumper-7-rust-auto-dumper.html)|`2025-02-13 00:18:30`|`rust`|
 |5|[best money methods 1&#46;70 With no Ban? YimMenu with Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/686063-money-methods-1-70-ban-yimmenu-scripts.html)|`2025-02-13 00:18:30`|`grand-theft-auto-v`|
+|29|[Signed Driver Load Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686331-signed-driver-load-methods.html)|`2025-02-13 06:28:10`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-02-13 06:14:00`|`Farlight 84`|
 |[How am I still playing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686532-am-playing.html)|`2025-02-13 06:09:00`|`Valorant`|
 |[what is this about](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685490-what-is-this-about.html)|`2025-02-13 06:07:00`|`Valorant`|
 |[how do i stop these delay bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686701-stop-delay-bans.html)|`2025-02-13 06:00:00`|`Valorant`|
