@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How does popular cs2 cheats work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686803-popular-cs2-cheats.html)|`2025-02-13 07:35:00`|`Counter-Strike 2`|
+|[Ultimate customizable TRIGGERBOT &#40;0&#45;100ms&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683552-ultimate-customizable-triggerbot-0-100ms.html)|`2025-02-13 07:32:00`|`Valorant`|
 |[shadowbanned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/686670-shadowbanned.html)|`2025-02-13 07:28:00`|`Call of Duty 4: Modern Warfare`|
 |[Undetected injector EAC &#40;22&#46;12&#46;2024&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/678400-undetected-injector-eac-22-12-2024-a.html)|`2025-02-13 07:10:00`|`Anti-Cheat Bypass`|
 |[Rivals has RCE and runs game code at a privileged level](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/686799-rivals-rce-runs-game-code-privileged-level.html)|`2025-02-13 07:00:00`|`Marvel Rivals`|
