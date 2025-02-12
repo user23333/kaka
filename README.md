@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/686770-help.html)|`2025-02-13 02:31:00`|`Marvel Rivals`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-02-13 02:30:00`|`ARMA 3`|
+|[Looking for Guidance on Next Steps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/685827-looking-guidance-steps.html)|`2025-02-13 02:28:00`|`Programming for Beginners`|
+|[DMA Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685435-dma-aimbot.html)|`2025-02-13 02:26:00`|`Marvel Rivals`|
+|[mutante SMBIOS Outdated on latest winver?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686769-mutante-smbios-outdated-winver.html)|`2025-02-13 02:20:00`|`Anti-Cheat Bypass`|
+|[How to add blur effect to your menu through cs2's DirectX pipeline &#40;with source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686767-add-blur-effect-menu-cs2s-directx-pipeline-source.html)|`2025-02-13 02:19:00`|`Counter-Strike 2`|
+|[Yim matchmaking post yet again](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/686768-yim-matchmaking-post.html)|`2025-02-13 02:18:00`|`Grand Theft Auto V`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-02-13 02:15:00`|`Other MMORPG and Strategy`|
 |[Zombies Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/686645-zombies-cheat.html)|`2025-02-13 02:12:00`|`Call of Duty: Black Ops Cold War`|
 |[Dma,Fw,shadowban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/682428-dma-fw-shadowban.html)|`2025-02-13 02:08:00`|`Call of Duty: Black Ops 6`|
 |[Locate Table Headers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/686764-locate-table-headers.html)|`2025-02-13 02:03:00`|`General Programming and Reversing`|
