@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[help in injector&#43;gpu dump error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/686788-help-injector-gpu-dump-error.html)|`2025-02-13 04:28:00`|`Marvel Rivals`|
+|[Lavender Premium External Source with Anti Cheat Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/659043-lavender-premium-external-source-anti-cheat-bypass.html)|`2025-02-13 04:26:00`|`Alternative Online Mods`|
 |[MW2 Steam Newest Offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/677347-mw2-steam-offsets.html)|`2025-02-13 04:15:00`|`Call of Duty 6: Modern Warfare 2`|
 |[bo6 mod recommendations? ;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/686700-bo6-mod-recommendations.html)|`2025-02-13 04:15:00`|`Call of Duty: Black Ops 6`|
 |[how to have new reddit acount on pc, if previous one is banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/684201-reddit-acount-pc-previous-banned.html)|`2025-02-13 03:50:00`|`Forum General`|
