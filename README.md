@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Battlefield V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/288137-battlefield-reversal-structs-offsets.html)|`2025-02-12 16:43:00`|`Battlefield V`|
+|[GTA Online modding is DEAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/681359-gta-online-modding-dead.html)|`2025-02-12 16:41:00`|`Grand Theft Auto V`|
 |[Should I still flash my BIOS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686690-flash-bios.html)|`2025-02-12 16:25:00`|`Valorant`|
 |[&#91;BE&#93; Cannot attach or inject after removing callbacks with wke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686689-attach-inject-removing-callbacks-wke.html)|`2025-02-12 16:23:00`|`Anti-Cheat Bypass`|
 |[Unibot &#124; An open&#45;source colorbot that just works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/603461-unibot-source-colorbot.html)|`2025-02-12 16:08:00`|`Valorant`|
