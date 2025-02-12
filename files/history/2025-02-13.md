@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lexis Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/686731-lexis-mod-menu.html)|`2025-02-13 00:36:00`|`Grand Theft Auto V`|
+|[Spoofer for BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/686716-spoofer-bo6.html)|`2025-02-13 00:32:00`|`Call of Duty: Black Ops 6`|
+|[How to update a cod cheat/patterns &#43; updated base for cod/steam/xbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/686435-update-cod-cheat-patterns-updated-base-cod-steam-xbox.html)|`2025-02-13 00:28:00`|`Call of Duty: Black Ops 6`|
+|[The creepiest VGK Developer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685975-creepiest-vgk-developer.html)|`2025-02-13 00:25:00`|`Anti-Cheat Bypass`|
+|[Ban GenZ from this forum?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/686572-ban-genz-forum.html)|`2025-02-13 00:24:00`|`Off Topic`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-02-13 00:24:00`|`Call of Duty: Black Ops 6`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-02-13 00:19:00`|`Valorant`|
 |[Is phasmophobias global&#45;metadata obfuscated?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/686540-phasmophobias-global-metadata-obfuscated.html)|`2025-02-13 00:18:00`|`Phasmophobia`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-02-13 00:15:00`|`Escape from Tarkov`|
 |[Ask&#46; Can Usercustom&#46;ini Still Be Used In PUBG Mobile?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/686708-usercustom-ini-pubg-mobile.html)|`2025-02-13 00:15:00`|`PUBG Mobile`|
