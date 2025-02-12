@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2025-02-13 05:49:00`|`Valorant`|
+|[&#91;Instalock&#93; &#45; Auto accept/Ban/Lock&#45;in](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/686488-instalock-auto-accept-ban-lock.html)|`2025-02-13 05:49:00`|`League of Legends`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-02-13 05:47:00`|`Grand Theft Auto V`|
 |[Undetected Get Base Address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686183-undetected-base-address.html)|`2025-02-13 05:43:00`|`Anti-Cheat Bypass`|
 |[Golden Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/686207-golden-spoofer.html)|`2025-02-13 05:42:00`|`Rainbow Six Siege`|
 |[Spoofer Help ASUS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686554-spoofer-help-asus.html)|`2025-02-13 05:40:00`|`Valorant`|
