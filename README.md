@@ -31,9 +31,11 @@
 |1|[Super Market Simulator 0&#46;6V Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48622)|`2025-02-12 02:50:36`|
 |1|[Ranked Icons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48602)|`2025-02-12 04:54:41`|
 |1|[DNPC V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48610)|`2025-02-12 05:06:41`|
+|2|[fnsdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48626)|`2025-02-12 21:30:37`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AI vs colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686709-ai-vs-colorbot.html)|`2025-02-12 21:14:00`|`Valorant`|
 |[Albion Online Dungeon Checker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/670358-albion-online-dungeon-checker.html)|`2025-02-12 20:25:00`|`Other MMORPG and Strategy`|
 |[BotOps Hub &#40;bot lobby tool, no VM required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674129-botops-hub-bot-lobby-tool-vm-required.html)|`2025-02-12 20:12:00`|`Call of Duty: Black Ops 6`|
 |[pcileech&#45;multimedia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/623718-pcileech-multimedia.html)|`2025-02-12 19:53:00`|`Anti-Cheat Bypass`|
