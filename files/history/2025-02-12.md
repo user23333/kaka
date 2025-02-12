@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call Of duty Mobile Dump Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/686726-call-duty-mobile-dump-methods.html)|`2025-02-12 23:57:00`|`Other FPS Games`|
+|[Raycast &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/678606-raycast-external.html)|`2025-02-12 23:54:00`|`Garry's Mod`|
+|[Project Zomboid Cheat &#45; EsdPZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/584072-project-zomboid-cheat-esdpz.html)|`2025-02-12 23:37:00`|`Other MMORPG and Strategy`|
 |[Iron Marines Trainer &#40;Current&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/455046-iron-marines-trainer-current.html)|`2025-02-12 23:23:00`|`Unity`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-02-12 23:38:00`|`Rainbow Six Siege`|
 |[3on3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/624254-3on3.html)|`2025-02-12 23:29:00`|`Other Games`|
