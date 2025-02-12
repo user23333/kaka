@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Zombies Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/686645-zombies-cheat.html)|`2025-02-13 02:12:00`|`Call of Duty: Black Ops Cold War`|
+|[Dma,Fw,shadowban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/682428-dma-fw-shadowban.html)|`2025-02-13 02:08:00`|`Call of Duty: Black Ops 6`|
+|[Locate Table Headers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/686764-locate-table-headers.html)|`2025-02-13 02:03:00`|`General Programming and Reversing`|
+|[&#91;VMM&#46;DLL&#93; DMA Fix CR3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/686738-vmm-dll-dma-fix-cr3.html)|`2025-02-13 02:00:00`|`Apex Legends`|
+|[inventory changer team intro stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686538-inventory-changer-team-intro-stuff.html)|`2025-02-13 01:57:00`|`Counter-Strike 2`|
+|[Shared memory communication](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685628-shared-memory-communication.html)|`2025-02-13 01:53:00`|`Anti-Cheat Bypass`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-02-13 01:46:00`|`Counter-Strike 2`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-02-13 01:42:00`|`Grand Theft Auto V`|
 |[Blazing Sails Hack &#91;Win10&#93; &#91;Steam/EGS&#93; &#124; ESP &#124; SpeedHack &#124; NoClip &#124; More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620821-blazing-sails-hack-win10-steam-egs-esp-speedhack-noclip.html)|`2025-02-13 01:38:00`|`Other FPS Games`|
