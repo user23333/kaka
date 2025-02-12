@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Smooth aimbot while writing viewangles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686713-smooth-aimbot-writing-viewangles.html)|`2025-02-13 00:47:00`|`Counter-Strike 2`|
+|[windows 11 dse bypass, kernel source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686733-windows-11-dse-bypass-kernel-source.html)|`2025-02-13 00:46:00`|`Anti-Cheat Bypass`|
+|[Good looking FOV Cirkle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686551-looking-fov-cirkle.html)|`2025-02-13 00:45:00`|`Counter-Strike 2`|
+|[BO6 SRC INTERNAL RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/677479-bo6-src-internal-release.html)|`2025-02-13 00:45:00`|`Call of Duty: Black Ops 6`|
+|[BO6 Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/686211-bo6-internal-source.html)|`2025-02-13 00:39:00`|`Call of Duty: Black Ops 6`|
+|[EFT ban transfer to other games with Battleye?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/686077-eft-ban-transfer-games-battleye.html)|`2025-02-13 00:38:00`|`Escape from Tarkov`|
+|[UserDirectoryTableOffset for Win11 24H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686711-userdirectorytableoffset-win11-24h2.html)|`2025-02-13 00:38:00`|`Anti-Cheat Bypass`|
 |[Lexis Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/686731-lexis-mod-menu.html)|`2025-02-13 00:36:00`|`Grand Theft Auto V`|
 |[Spoofer for BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/686716-spoofer-bo6.html)|`2025-02-13 00:32:00`|`Call of Duty: Black Ops 6`|
 |[How to update a cod cheat/patterns &#43; updated base for cod/steam/xbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/686435-update-cod-cheat-patterns-updated-base-cod-steam-xbox.html)|`2025-02-13 00:28:00`|`Call of Duty: Black Ops 6`|
