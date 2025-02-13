@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Smooth aimbot while writing viewangles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686713-smooth-aimbot-writing-viewangles.html)|`2025-02-14 00:30:00`|`Counter-Strike 2`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-02-14 00:30:00`|`Valorant`|
+|[Increase the size of hitboxes and never miss](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/686893-increase-size-hitboxes-miss.html)|`2025-02-14 00:29:00`|`Marvel Rivals`|
+|[DMA Rust Admin ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686840-dma-rust-admin-esp.html)|`2025-02-14 00:26:00`|`Rust`|
+|[Tarkov VPN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/686184-tarkov-vpn.html)|`2025-02-14 00:25:00`|`Escape from Tarkov`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-02-14 00:23:00`|`Rust`|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-02-14 00:21:00`|`Apex Legends`|
+|[HVCI not enabled &#62;:&#40;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683387-hvci-enabled.html)|`2025-02-14 00:20:00`|`Valorant`|
 |[The TCSM Trainer &#40;Outline ESP, Godmode, Invisible, more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/598623-tcsm-trainer-outline-esp-godmode-invisible.html)|`2025-02-14 00:10:00`|`Other FPS Games`|
 |[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2025-02-14 00:08:00`|`Garry's Mod`|
 |[Sharing ColorAimbot Color Codes &#45; Purple, Yellow, and Seeking the Best Red&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686892-sharing-coloraimbot-color-codes-purple-yellow-seeking-red.html)|`2025-02-14 00:07:00`|`Valorant`|
