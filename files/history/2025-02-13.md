@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[safest way to get a lot of money fast](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/686363-safest-lot-money-fast.html)|`2025-02-13 14:11:00`|`Grand Theft Auto V`|
+|[Change the car color](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/686696-change-car-color.html)|`2025-02-13 14:07:00`|`Grand Theft Auto V`|
+|[Something still exists for this?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-2-a/681263-exists.html)|`2025-02-13 14:04:00`|`ARMA 2`|
 |[B06 HACK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/686827-b06-hack.html)|`2025-02-13 13:43:00`|`Call of Duty: Black Ops 6`|
 |[anyway to unlock the unreleased liveries ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/686826-anyway-unlock-unreleased-liveries.html)|`2025-02-13 13:30:00`|`Grand Theft Auto V`|
 |[zap&#45;client &#91;Legitbot, Ragebot, Glow, ESP & More&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/628823-zap-client-legitbot-ragebot-glow-esp.html)|`2025-02-13 13:20:00`|`Apex Legends`|
