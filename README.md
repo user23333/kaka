@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[kernel driver only have one Task &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/685434-kernel-driver-task.html)|`2025-02-14 05:22:00`|`C and C++`|
+|[DMIEDIT now available for &#46;&#46;&#46; ASUS&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/677061-dmiedit-available-asus.html)|`2025-02-14 05:17:00`|`Valorant`|
+|[Old CS:GO binaries](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/681884-cs-binaries.html)|`2025-02-14 05:12:00`|`Counterstrike Global Offensive`|
 |[SEARCHING FOR A PERSON](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/686141-searching-person.html)|`2025-02-14 05:10:00`|`Counterstrike Global Offensive`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-02-14 05:10:00`|`Apex Legends`|
 |[Weird ESP & CreateMove functionality under some circumstances](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/source-engine/686935-weird-esp-createmove-functionality-circumstances.html)|`2025-02-14 05:01:00`|`Source Engine`|
