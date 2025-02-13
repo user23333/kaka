@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[tick manipulation in csgoinput](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686836-tick-manipulation-csgoinput.html)|`2025-02-13 16:49:00`|`Counter-Strike 2`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2025-02-13 16:35:00`|`Other FPS Games`|
 |[BO6 Multiplayer 50 Wins Ranked Ready Glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/685580-bo6-multiplayer-50-wins-ranked-ready-glitch.html)|`2025-02-13 16:30:00`|`Call of Duty: Black Ops 6`|
 |[Bullet prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/686834-bullet-prediction.html)|`2025-02-13 16:16:00`|`Marvel Rivals`|
