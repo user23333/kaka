@@ -25,9 +25,12 @@
 |387|[R6S AimBot & Trigger Bot 1&#46;1&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48585)|`2025-02-14 00:12:28`|
 |901|[Marvel Internal 02&#45;06](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48584)|`2025-02-14 00:12:28`|
 |1|[DMA Marvel Rivals v1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48591)|`2025-02-14 05:11:41`|
+|1|[Rust&#95;Materials  ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48619)|`2025-02-14 07:49:17`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Material Output](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686497-rust-material-output.html)|`2025-02-14 07:47:00`|`Rust`|
+|[Raycast &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/678606-raycast-external.html)|`2025-02-14 07:43:00`|`Garry's Mod`|
 |[anyway to unlock the unreleased liveries ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/686826-anyway-unlock-unreleased-liveries.html)|`2025-02-14 07:40:00`|`Grand Theft Auto V`|
 |[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2025-02-14 07:36:00`|`Other FPS Games`|
 |[AI vs colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686709-ai-vs-colorbot.html)|`2025-02-14 07:30:00`|`Valorant`|
