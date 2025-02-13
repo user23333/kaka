@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-02-14 04:55:00`|`ARMA 3`|
 |[Un&#45;Protect and Dumping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/566399-un-protect-dumping.html)|`2025-02-14 04:33:00`|`Valorant`|
 |[delusion kernel external &#45; read only ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/684240-delusion-kernel-external-read-esp.html)|`2025-02-14 04:33:00`|`Counter-Strike 2 Releases`|
 |[hiding physical/driver memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686506-hiding-physical-driver-memory.html)|`2025-02-14 04:28:00`|`Anti-Cheat Bypass`|
