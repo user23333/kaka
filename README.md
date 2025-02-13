@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[7DTD 1&#46;1 B14 Creative and Debug Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/665983-7dtd-1-1-b14-creative-debug-assembly-csharp-dll.html)|`2025-02-13 21:34:00`|`Other FPS Games`|
+|[Cs2 External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685266-cs2-external.html)|`2025-02-13 21:32:00`|`Counter-Strike 2`|
 |[DictatorsNoPeaceCountryBalls V2 Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/686392-dictatorsnopeacecountryballs-v2-cheat-table.html)|`2025-02-13 21:01:00`|`Cheat Engine Tables`|
 |[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-02-13 20:23:00`|`Other FPS Games`|
 |[I want to appreciate all of UnkownCheats real quick&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/684712-appreciate-unkowncheats-real-quick.html)|`2025-02-13 20:16:00`|`Off Topic`|
