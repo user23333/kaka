@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Discord Overlay Hijack &#40;with ImGui&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/683571-external-discord-overlay-hijack-imgui.html)|`2025-02-14 07:53:00`|`General Programming and Reversing`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-02-14 07:52:00`|`Escape from Tarkov`|
+|[Ready to Paste NVIDIA GPU Spoofing &#40;multi&#45;version support 53x&#45;56x&#43;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685601-ready-paste-nvidia-gpu-spoofing-multi-version-support-53x-56x.html)|`2025-02-14 07:50:00`|`Anti-Cheat Bypass`|
 |[Rust Material Output](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686497-rust-material-output.html)|`2025-02-14 07:47:00`|`Rust`|
 |[Raycast &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/678606-raycast-external.html)|`2025-02-14 07:43:00`|`Garry's Mod`|
 |[anyway to unlock the unreleased liveries ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/686826-anyway-unlock-unreleased-liveries.html)|`2025-02-14 07:40:00`|`Grand Theft Auto V`|
