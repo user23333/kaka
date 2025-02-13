@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BO6 Multiplayer 50 Wins Ranked Ready Glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/685580-bo6-multiplayer-50-wins-ranked-ready-glitch.html)|`2025-02-13 16:30:00`|`Call of Duty: Black Ops 6`|
+|[Bullet prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/686834-bullet-prediction.html)|`2025-02-13 16:16:00`|`Marvel Rivals`|
+|[Killing Floor 2 External Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/673060-killing-floor-2-external-hack.html)|`2025-02-13 16:16:00`|`Other Games`|
 |[Spectator list crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686832-spectator-list-crash.html)|`2025-02-13 15:48:00`|`Counter-Strike 2`|
 |[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2025-02-13 15:26:00`|`Escape from Tarkov`|
 |[AHK Zombies Color Aimbot BO6 &#40;Best one IMO&#41; &#40;Sai's&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671433-ahk-zombies-color-aimbot-bo6-imo-sais.html)|`2025-02-13 14:49:00`|`Call of Duty: Black Ops 6`|
