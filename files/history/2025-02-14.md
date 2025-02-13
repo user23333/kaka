@@ -24,9 +24,13 @@
 |11|[samp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48587)|`2025-02-14 00:12:28`|
 |387|[R6S AimBot & Trigger Bot 1&#46;1&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48585)|`2025-02-14 00:12:28`|
 |901|[Marvel Internal 02&#45;06](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48584)|`2025-02-14 00:12:28`|
+|1|[DMA Marvel Rivals v1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48591)|`2025-02-14 05:11:41`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SEARCHING FOR A PERSON](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/686141-searching-person.html)|`2025-02-14 05:10:00`|`Counterstrike Global Offensive`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-02-14 05:10:00`|`Apex Legends`|
+|[Weird ESP & CreateMove functionality under some circumstances](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/source-engine/686935-weird-esp-createmove-functionality-circumstances.html)|`2025-02-14 05:01:00`|`Source Engine`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-02-14 04:55:00`|`ARMA 3`|
 |[Un&#45;Protect and Dumping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/566399-un-protect-dumping.html)|`2025-02-14 04:33:00`|`Valorant`|
 |[delusion kernel external &#45; read only ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/684240-delusion-kernel-external-read-esp.html)|`2025-02-14 04:33:00`|`Counter-Strike 2 Releases`|
