@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ban GenZ from this forum?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/686572-ban-genz-forum.html)|`2025-02-14 03:08:00`|`Off Topic`|
+|[Trouble with Exe's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/683147-trouble-exes.html)|`2025-02-14 03:07:00`|`Off Topic`|
+|[Unpack the client&#46;exe for file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/686917-unpack-client-exe-file.html)|`2025-02-14 02:55:00`|`General Programming and Reversing`|
 |[Strange Entity List](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/686915-strange-entity-list.html)|`2025-02-14 02:37:00`|`Programming for Beginners`|
 |[How to add blur effect to your menu through cs2's DirectX pipeline &#40;with source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686767-add-blur-effect-menu-cs2s-directx-pipeline-source.html)|`2025-02-14 02:34:00`|`Counter-Strike 2`|
 |[how to have new reddit acount on pc, if previous one is banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/684201-reddit-acount-pc-previous-banned.html)|`2025-02-14 02:32:00`|`Forum General`|
