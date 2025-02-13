@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-02-13 11:09:00`|`DayZ SA`|
 |[New agent abilities? Riot devs abuse power](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686817-agent-abilities-riot-devs-abuse-power.html)|`2025-02-13 10:39:00`|`Valorant`|
 |[Help With AI Aimbot  Aimmy/SunOner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/677671-help-ai-aimbot-aimmy-sunoner.html)|`2025-02-13 10:29:00`|`THE FINALS`|
 |[ARMA 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/114242-arma-3-reversal-structs-offsets.html)|`2025-02-13 10:24:00`|`ARMA 3`|
