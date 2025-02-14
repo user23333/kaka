@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Question&#93; What does FiveM HWID Ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/686918-question-fivem-hwid-ban.html)|`2025-02-15 06:59:00`|`Alternative Online Mods`|
 |[More additions to the staff team&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/687095-additions-staff-team.html)|`2025-02-15 06:51:00`|`Information and Announcements`|
 |[Server side player occlusion update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686453-server-player-occlusion-update.html)|`2025-02-15 06:45:00`|`Rust`|
 |[External aimbot accuracy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686080-external-aimbot-accuracy.html)|`2025-02-15 06:45:00`|`Counter-Strike 2`|
