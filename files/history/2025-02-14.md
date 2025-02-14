@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What Hapend To Old School Material Wallhack Things?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/685352-hapend-school-material-wallhack.html)|`2025-02-14 21:35:00`|`Team Fortress 2`|
+|[Problem related to USB disconnection when running after completing dma setup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/685797-related-usb-disconnection-running-completing-dma-setup.html)|`2025-02-14 21:32:00`|`Playerunknown's Battlegrounds`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-02-14 21:32:00`|`Other FPS Games`|
+|[RU Warface external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/681338-ru-warface-external-cheat.html)|`2025-02-14 21:25:00`|`Warface`|
 |[I Keep Getting Banned 14 Day on FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/679824-getting-banned-14-day-fivem.html)|`2025-02-14 21:23:00`|`Alternative Online Mods`|
 |[GsDriver&#45;ring3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686884-gsdriver-ring3.html)|`2025-02-14 21:02:00`|`Anti-Cheat Bypass`|
 |[Sai's Color Aimbot BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668780-sais-color-aimbot-bo6.html)|`2025-02-14 20:59:00`|`Call of Duty: Black Ops 6`|
