@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Server side player occlusion update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686453-server-player-occlusion-update.html)|`2025-02-15 06:45:00`|`Rust`|
+|[External aimbot accuracy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686080-external-aimbot-accuracy.html)|`2025-02-15 06:45:00`|`Counter-Strike 2`|
 |[Recoil Scripts and Mouse Movement over Serial Bus with RP2040 &#40;MausDriver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/680251-recoil-scripts-mouse-movement-serial-bus-rp2040-mausdriver.html)|`2025-02-15 06:39:00`|`Rust`|
 |[Escape The Backrooms Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/615556-escape-backrooms-internal.html)|`2025-02-15 06:35:00`|`Other FPS Games`|
 |[Source Code EXTERNAL CrossFire](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/641756-source-code-external-crossfire.html)|`2025-02-15 06:35:00`|`CrossFire`|
