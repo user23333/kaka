@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ODIN V4 FOR STEAM ONLY&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/645623-odin-v4-steam.html)|`2025-02-15 05:07:00`|`Paladins`|
+|[Cant see loot in containers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/686227-cant-loot-containers.html)|`2025-02-15 05:06:00`|`Escape from Tarkov`|
+|[any cheat working for SP zm/mp? Just for fun](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-vanguard/687069-cheat-sp-zm-mp-fun.html)|`2025-02-15 05:05:00`|`Call of Duty: Vanguard`|
+|[XVisual CS2 Glow Wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686801-xvisual-cs2-glow-wallhack.html)|`2025-02-15 04:56:00`|`Counter-Strike 2`|
 |[How do you find the Entity List](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/564058-entity-list.html)|`2025-02-15 04:55:00`|`General Programming and Reversing`|
 |[I have a problem with the new DLC&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/683956-dlc.html)|`2025-02-15 04:44:00`|`Grand Theft Auto V`|
 |[ReplaceExecutable fivem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/686977-replaceexecutable-fivem.html)|`2025-02-15 04:36:00`|`Alternative Online Mods`|
