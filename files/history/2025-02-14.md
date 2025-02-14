@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Manual Spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686051-manual-spoof.html)|`2025-02-14 12:30:00`|`Anti-Cheat Bypass`|
+|[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2025-02-14 12:23:00`|`Tom Clancy's The Division`|
 |[pyMeow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/686633-pymeow.html)|`2025-02-14 12:11:00`|`Alternative Online Mods`|
 |[ReplaceExecutable fivem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/686977-replaceexecutable-fivem.html)|`2025-02-14 11:59:00`|`Alternative Online Mods`|
 |[Cham Materials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686660-cham-materials.html)|`2025-02-14 11:23:00`|`Rust`|
