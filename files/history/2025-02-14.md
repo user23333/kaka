@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Online hacks when playing via GameRanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/676338-online-hacks-playing-via-gameranger.html)|`2025-02-14 23:04:00`|`Generals and Zero Hour`|
+|[Skin Changer Texture Bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686876-skin-changer-texture-bug.html)|`2025-02-14 22:55:00`|`Counter-Strike 2`|
 |[AHK Zombies Color Aimbot BO6 &#40;Best one IMO&#41; &#40;Sai's&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671433-ahk-zombies-color-aimbot-bo6-imo-sais.html)|`2025-02-14 22:45:00`|`Call of Duty: Black Ops 6`|
 |[Pixel Gun 3D internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/638262-pixel-gun-3d-internal-cheat.html)|`2025-02-14 22:36:00`|`Other FPS Games`|
 |[Bullet prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/686834-bullet-prediction.html)|`2025-02-14 22:25:00`|`Marvel Rivals`|
