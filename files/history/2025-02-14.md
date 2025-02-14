@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EFT ban transfer to other games with Battleye?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/686077-eft-ban-transfer-games-battleye.html)|`2025-02-14 17:33:00`|`Escape from Tarkov`|
 |[Cant see loot in containers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/686227-cant-loot-containers.html)|`2025-02-14 17:26:00`|`Escape from Tarkov`|
 |[Internal cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/611723-internal-cheese.html)|`2025-02-14 17:14:00`|`Payday 3`|
 |[Starting a Vanilla Project for Tarkov PVE ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/686703-starting-vanilla-project-tarkov-pve-esp.html)|`2025-02-14 17:06:00`|`Escape from Tarkov`|
