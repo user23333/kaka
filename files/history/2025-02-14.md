@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-02-14 10:02:00`|`Rainbow Six Siege`|
+|[BnY tools? Is it legit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686968-bny-tools-legit.html)|`2025-02-14 09:56:00`|`Valorant`|
+|[99% auto updatable Simple Internal Cheat &#40;no need decryption&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/682116-99-auto-updatable-simple-internal-cheat-decryption.html)|`2025-02-14 09:46:00`|`Rust`|
+|[MouseInstruct&#45;main&#92;HID&#45;Project with C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686967-mouseinstruct-main-hid-project.html)|`2025-02-14 09:18:00`|`Valorant`|
+|[&#91;Question&#93; What does FiveM HWID Ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/686918-question-fivem-hwid-ban.html)|`2025-02-14 09:13:00`|`Alternative Online Mods`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-02-14 08:16:00`|`Other FPS Games`|
 |[Server side player occlusion update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686453-server-player-occlusion-update.html)|`2025-02-14 08:16:00`|`Rust`|
 |[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2025-02-14 08:05:00`|`Combat Arms`|
