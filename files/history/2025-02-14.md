@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does R6 HWID ban or IP ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/686806-r6-hwid-ban-ip-ban.html)|`2025-02-14 23:26:00`|`Rainbow Six Siege`|
+|[Use hack with multiple devices](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686534-hack-multiple-devices.html)|`2025-02-14 23:21:00`|`Valorant`|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-02-14 23:16:00`|`Phasmophobia`|
+|[how to make speactator list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686966-speactator-list.html)|`2025-02-14 23:15:00`|`Counter-Strike 2`|
 |[Online hacks when playing via GameRanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/676338-online-hacks-playing-via-gameranger.html)|`2025-02-14 23:04:00`|`Generals and Zero Hour`|
 |[Skin Changer Texture Bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686876-skin-changer-texture-bug.html)|`2025-02-14 22:55:00`|`Counter-Strike 2`|
 |[AHK Zombies Color Aimbot BO6 &#40;Best one IMO&#41; &#40;Sai's&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671433-ahk-zombies-color-aimbot-bo6-imo-sais.html)|`2025-02-14 22:45:00`|`Call of Duty: Black Ops 6`|
