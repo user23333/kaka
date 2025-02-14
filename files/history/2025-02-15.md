@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VALORANT HWID BAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/678030-valorant-hwid-ban.html)|`2025-02-15 03:03:00`|`Valorant`|
 |[Arduino val cheat using python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686322-arduino-val-cheat-using-python.html)|`2025-02-15 02:51:00`|`Valorant`|
 |[Free Cheat Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/677967-free-cheat-chams.html)|`2025-02-15 02:44:00`|`Rainbow Six Siege`|
 |[Ashes of Creation Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/463992-ashes-creation-reversal-structs-offsets.html)|`2025-02-15 02:43:00`|`Other FPS Games`|
