@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-02-14 13:02:00`|`Counter-Strike 2`|
+|[Mooving to a new phase and i need some help from more experienced people&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/686647-mooving-phase-help-experienced-people.html)|`2025-02-14 12:57:00`|`Forum General`|
+|[Vigor External Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/664346-vigor-external-hack.html)|`2025-02-14 12:55:00`|`Other FPS Games`|
 |[Help with Unreal Engine &#91;infinity nikki &#93; &#45; ACharacter Issues Hello,](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/686192-help-unreal-engine-infinity-nikki-acharacter-issues-hello.html)|`2025-02-14 12:49:00`|`Unreal Engine 4`|
 |[Looking for &#40;Simple&#41; External ESP Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/676622-looking-simple-external-esp-source.html)|`2025-02-14 12:49:00`|`Playerunknown's Battlegrounds`|
 |[Fivem Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/681424-fivem-spoofer.html)|`2025-02-14 12:40:00`|`Anti-Cheat Bypass`|
