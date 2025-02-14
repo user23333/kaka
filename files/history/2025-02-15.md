@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-02-15 06:12:00`|`Rainbow Six Siege`|
+|[External Discord Overlay Hijack &#40;with ImGui&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/683571-external-discord-overlay-hijack-imgui.html)|`2025-02-15 06:03:00`|`General Programming and Reversing`|
+|[How can I fix my ESP?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687082-fix-esp.html)|`2025-02-15 06:01:00`|`Counter-Strike 2`|
 |[Help me fixing my internal bhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686699-help-fixing-internal-bhop.html)|`2025-02-15 05:58:00`|`Counter-Strike 2`|
 |[EA FC25 Zen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/687079-ea-fc25-zen.html)|`2025-02-15 05:53:00`|`Other Games`|
 |[I'm looking for Bnet accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/687078-im-looking-bnet-accounts.html)|`2025-02-15 05:51:00`|`Call of Duty: Black Ops 6`|
