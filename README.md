@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[apex color aimbot,c&#43;&#43; 80days 0ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/684954-apex-color-aimbot-80days-0ban.html)|`2025-02-15 00:55:00`|`Apex Legends`|
+|[YimMenu Lua Scripting Megathread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/680877-yimmenu-lua-scripting-megathread.html)|`2025-02-15 00:48:00`|`Grand Theft Auto V`|
+|[CSGO2 Injector code HELP&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685257-csgo2-injector-code-help.html)|`2025-02-15 00:45:00`|`Counter-Strike 2`|
 |[Internal source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684317-internal-source.html)|`2025-02-15 00:41:00`|`Counter-Strike 2`|
 |[Internal cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/611723-internal-cheese.html)|`2025-02-15 00:38:00`|`Payday 3`|
 |[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2025-02-15 00:38:00`|`Other FPS Games`|
