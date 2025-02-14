@@ -26,9 +26,18 @@
 |901|[Marvel Internal 02&#45;06](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48584)|`2025-02-14 00:12:28`|
 |1|[DMA Marvel Rivals v1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48591)|`2025-02-14 05:11:41`|
 |1|[Rust&#95;Materials  ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48619)|`2025-02-14 07:49:17`|
+|3|[cheese&#45;obfuscated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48632)|`2025-02-14 10:52:16`|
+|1|[DescendantInternal T&#46;2&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48608)|`2025-02-14 10:52:16`|
+|37|[StupidSolutionsV3&#46;3&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48595)|`2025-02-14 10:52:16`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-02-14 10:45:00`|`Other FPS Games`|
+|[Undetected Mouse Movement Using Arduino &#43; USB Host Shield, No COM port&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686973-undetected-mouse-movement-using-arduino-usb-host-shield-com-port.html)|`2025-02-14 10:42:00`|`Valorant`|
+|[Undetected Get Base Address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686183-undetected-base-address.html)|`2025-02-14 10:41:00`|`Anti-Cheat Bypass`|
+|[External Python Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683532-external-python-cheat.html)|`2025-02-14 10:40:00`|`Counter-Strike 2`|
+|[Operation Harsh Doorstop Internal &#124; Silent Aim, Magic Bullet, STW, Spammer, Other](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680217-operation-harsh-doorstop-internal-silent-aim-magic-bullet-stw-spammer.html)|`2025-02-14 10:34:00`|`Other FPS Games`|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-02-14 10:31:00`|`Other FPS Games`|
 |[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-02-14 10:02:00`|`Rainbow Six Siege`|
 |[BnY tools? Is it legit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686968-bny-tools-legit.html)|`2025-02-14 09:56:00`|`Valorant`|
 |[99% auto updatable Simple Internal Cheat &#40;no need decryption&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/682116-99-auto-updatable-simple-internal-cheat-decryption.html)|`2025-02-14 09:46:00`|`Rust`|
