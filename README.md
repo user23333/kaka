@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sharing ColorAimbot Color Codes &#45; Purple, Yellow, and Seeking the Best Red&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686892-sharing-coloraimbot-color-codes-purple-yellow-seeking-red.html)|`2025-02-16 02:42:00`|`Valorant`|
+|[TPM/Secure Boot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687263-tpm-secure-boot.html)|`2025-02-16 02:41:00`|`Valorant`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-02-16 02:33:00`|`Apex Legends`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-02-16 02:32:00`|`Alternative Online Mods`|
 |[What happened to Fedoraware?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/687020-happened-fedoraware.html)|`2025-02-16 02:32:00`|`Team Fortress 2`|
