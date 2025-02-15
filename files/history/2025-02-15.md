@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA ESP & AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687126-dma-esp-aim.html)|`2025-02-15 12:39:00`|`Marvel Rivals`|
+|[Vanguard Spoofer &#124; No Windows Reset &#124; V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/589803-vanguard-spoofer-windows-reset-v2.html)|`2025-02-15 12:38:00`|`Valorant`|
+|[trying to get kernel32](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/686804-trying-kernel32.html)|`2025-02-15 12:36:00`|`C and C++`|
 |[the best site of leaked codes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687124-site-leaked-codes.html)|`2025-02-15 12:10:00`|`Counter-Strike 2`|
 |[RYL 1 Online hacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/687123-ryl-1-online-hacking.html)|`2025-02-15 12:04:00`|`Programming for Beginners`|
 |[How to get rid of fake errors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/685831-rid-fake-errors.html)|`2025-02-15 12:03:00`|`C and C++`|
