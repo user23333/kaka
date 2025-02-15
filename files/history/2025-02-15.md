@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-02-15 20:46:00`|`Phasmophobia`|
+|[Rubber Bandits Hacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/685712-rubber-bandits-hacks.html)|`2025-02-15 20:43:00`|`Other MMORPG and Strategy`|
+|[CS2 Material Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/610837-cs2-material-editor.html)|`2025-02-15 20:40:00`|`Counter-Strike 2`|
+|[CSGO CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/687166-csgo-cheat.html)|`2025-02-15 20:39:00`|`Counterstrike Global Offensive`|
+|[External Esp 1&#46;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/684542-external-esp-1-26-a.html)|`2025-02-15 20:39:00`|`DayZ SA`|
 |[TPM/Disk bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686557-tpm-disk-bans.html)|`2025-02-15 20:06:00`|`Valorant`|
 |[Can i get unbanned from VAC servers ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/687164-unbanned-vac-servers.html)|`2025-02-15 20:02:00`|`DayZ SA`|
 |[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-02-15 19:33:00`|`Grand Theft Auto V`|
