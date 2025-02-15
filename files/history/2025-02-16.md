@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-02-16 05:45:00`|`Other FPS Games`|
 |[Is phasmophobias global&#45;metadata obfuscated?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/686540-phasmophobias-global-metadata-obfuscated.html)|`2025-02-16 05:22:00`|`Phasmophobia`|
 |[Arduino val cheat using python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686322-arduino-val-cheat-using-python.html)|`2025-02-16 05:31:00`|`Valorant`|
 |[ZxC Module &#40;DLL&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/687122-zxc-module-dll.html)|`2025-02-16 05:16:00`|`Garry's Mod`|
