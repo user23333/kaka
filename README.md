@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/686431-spoofer.html)|`2025-02-15 23:17:00`|`Off Topic`|
+|[how do i stop these delay bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686701-stop-delay-bans.html)|`2025-02-15 23:13:00`|`Valorant`|
 |[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2025-02-15 21:52:00`|`Counter-Strike 2`|
 |[best money methods 1&#46;70 With no Ban? YimMenu with Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/686063-money-methods-1-70-ban-yimmenu-scripts.html)|`2025-02-15 21:44:00`|`Grand Theft Auto V`|
 |[How to use IOCTL with KDMapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/686960-ioctl-kdmapper.html)|`2025-02-15 21:43:00`|`Forum General`|
