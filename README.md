@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Purple Cheat Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684377-purple-cheat-chams.html)|`2025-02-16 03:25:00`|`Counter-Strike 2`|
+|[Tutorial &#124; What is DMA and How to Install it&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/685521-tutorial-dma-install.html)|`2025-02-16 03:23:00`|`Off Topic`|
 |[CS2 external esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/600259-cs2-external-esp.html)|`2025-02-16 03:17:00`|`Counter-Strike 2 Releases`|
 |[Marvel Rivals Colorbot &#40;Arduino & No Arduino Support&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677136-marvel-rivals-colorbot-arduino-arduino-support.html)|`2025-02-16 03:12:00`|`Marvel Rivals`|
 |[Sharing ColorAimbot Color Codes &#45; Purple, Yellow, and Seeking the Best Red&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686892-sharing-coloraimbot-color-codes-purple-yellow-seeking-red.html)|`2025-02-16 02:42:00`|`Valorant`|
