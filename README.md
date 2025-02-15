@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Increase the size of hitboxes and never miss](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/686893-increase-size-hitboxes-miss.html)|`2025-02-15 15:46:00`|`Marvel Rivals`|
 |[7DTD 1&#46;2 Creative and Debug Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/679721-7dtd-1-2-creative-debug-assembly-csharp-dll.html)|`2025-02-15 15:41:00`|`Other FPS Games`|
 |[What does getplayertoken&#40;&#41; track?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/687133-getplayertoken-track.html)|`2025-02-15 14:35:00`|`Alternative Online Mods`|
 |[hyper&#45;v hacking detect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/687016-hyper-hacking-detect.html)|`2025-02-15 14:33:00`|`Anti-Cheat Bypass`|
