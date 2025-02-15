@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-02-15 18:01:00`|`Other Games`|
+|[Aimbot &#43;ESP &#43; Chams and etc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680110-aimbot-esp-chams-etc.html)|`2025-02-15 17:59:00`|`Marvel Rivals`|
+|[External Teleport](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/687152-external-teleport.html)|`2025-02-15 17:56:00`|`Grand Theft Auto V`|
 |[Ban GenZ from this forum?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/686572-ban-genz-forum.html)|`2025-02-15 17:54:00`|`Off Topic`|
 |[Modelname reads out as a different &#46;rpak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/687150-modelname-reads-rpak.html)|`2025-02-15 17:43:00`|`Apex Legends`|
 |[My drawn lines around the object changes color :/](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/opengl/685442-drawn-lines-object-changes-color.html)|`2025-02-15 17:27:00`|`OpenGL`|
