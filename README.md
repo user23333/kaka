@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What does getplayertoken&#40;&#41; track?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/687133-getplayertoken-track.html)|`2025-02-15 14:35:00`|`Alternative Online Mods`|
+|[hyper&#45;v hacking detect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/687016-hyper-hacking-detect.html)|`2025-02-15 14:33:00`|`Anti-Cheat Bypass`|
+|[Rise Of Kingdoms decrypted global&#45;metadata&#46;dat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/636314-rise-kingdoms-decrypted-global-metadata-dat.html)|`2025-02-15 14:25:00`|`Other Games`|
 |[Undetected Get Base Address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686183-undetected-base-address.html)|`2025-02-15 14:09:00`|`Anti-Cheat Bypass`|
 |[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2025-02-15 13:45:00`|`Other FPS Games`|
 |[AFK Script for Plunder &#40;Read the Description&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/656179-afk-script-plunder-read-description.html)|`2025-02-15 13:32:00`|`Call of Duty: Modern Warfare III`|
