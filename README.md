@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-02-16 01:20:00`|`Escape from Tarkov`|
+|[KDMAPPER  &#91; Kernel&#95;Security&#95;Check&#95;Failure &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/687253-kdmapper-kernel_security_check_failure.html)|`2025-02-16 01:18:00`|`General Programming and Reversing`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-02-16 01:17:00`|`Grand Theft Auto V`|
+|[Lex BO6 Multi Tools](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/686937-lex-bo6-multi-tools.html)|`2025-02-16 01:15:00`|`Call of Duty: Black Ops 6`|
+|[Source Code EXTERNAL CrossFire](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/641756-source-code-external-crossfire.html)|`2025-02-16 01:03:00`|`CrossFire`|
 |[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-02-16 01:06:00`|`Marvel Rivals`|
 |[Lazybead &#40;LB&#41; &#45; Free Cheat &#40;COMING SOON&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat-coming-soon.html)|`2025-02-16 00:57:00`|`Sea of Thieves`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-02-16 00:54:00`|`Rust`|
