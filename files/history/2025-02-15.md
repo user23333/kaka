@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My drawn lines around the object changes color :/](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/opengl/685442-drawn-lines-object-changes-color.html)|`2025-02-15 17:27:00`|`OpenGL`|
+|[Can't dump with ACE version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/682596-cant-dump-ace-version.html)|`2025-02-15 17:25:00`|`League of Legends`|
 |[Is there any learning code for Orbwalker?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/687145-learning-code-orbwalker.html)|`2025-02-15 17:06:00`|`League of Legends`|
 |[Marvel Rivals TriggerBot & AimAssist &#40;MouseBased Undetected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678761-marvel-rivals-triggerbot-aimassist-mousebased-undetected.html)|`2025-02-15 17:00:00`|`Marvel Rivals`|
 |[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-02-15 16:51:00`|`Sea of Thieves`|
