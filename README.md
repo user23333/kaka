@@ -29,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 AHK AIMBOT TRIGGERBOT BHOP EXTERNAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/674154-cs2-ahk-aimbot-triggerbot-bhop-external.html)|`2025-02-16 04:28:00`|`Counter-Strike 2 Releases`|
+|[&#91;DMA&#93; DROP FPS &#45; MemProcFS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687270-dma-drop-fps-memprocfs.html)|`2025-02-16 04:24:00`|`Counter-Strike 2`|
+|[CM Cheat Host Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/685835-cm-cheat-host.html)|`2025-02-16 04:23:00`|`Combat Master`|
+|[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2025-02-16 04:22:00`|`Combat Arms`|
+|[Undetected Mouse Movement Using Arduino &#43; USB Host Shield, No COM port&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686973-undetected-mouse-movement-using-arduino-usb-host-shield-com-port.html)|`2025-02-16 04:22:00`|`Valorant`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-02-16 04:22:00`|`League of Legends`|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-02-16 04:15:00`|`Battlefield 4`|
 |[A short analysis of the case&#45;handling function&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/687071-short-analysis-handling-function.html)|`2025-02-16 04:10:00`|`PUBG Mobile`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-02-16 04:08:00`|`Call of Duty: Black Ops 6`|
 |[The Headliners internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/686294-headliners-internal.html)|`2025-02-16 04:05:00`|`Other Games`|
