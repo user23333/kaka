@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can plugin&#46;dll on client side disable ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/687142-plugin-dll-client-disable.html)|`2025-02-15 16:19:00`|`General Programming and Reversing`|
+|[help in injector&#43;gpu dump error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/686788-help-injector-gpu-dump-error.html)|`2025-02-15 16:01:00`|`Marvel Rivals`|
 |[UD Injector/CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/686797-ud-injector-ce.html)|`2025-02-15 15:58:00`|`Marvel Rivals`|
 |[Increase the size of hitboxes and never miss](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/686893-increase-size-hitboxes-miss.html)|`2025-02-15 15:46:00`|`Marvel Rivals`|
 |[7DTD 1&#46;2 Creative and Debug Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/679721-7dtd-1-2-creative-debug-assembly-csharp-dll.html)|`2025-02-15 15:41:00`|`Other FPS Games`|
