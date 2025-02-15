@@ -27,6 +27,7 @@
 |11|[Ranked Icons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48602)|`2025-02-15 00:10:32`|
 |1|[il2cppdump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48657)|`2025-02-15 04:55:42`|
 |1|[DescendantInternal T&#46;2&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48620)|`2025-02-15 05:35:55`|
+|1|[Marvel Rivals DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48666)|`2025-02-15 18:36:20`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
