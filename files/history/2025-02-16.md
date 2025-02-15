@@ -25,9 +25,14 @@
 |120|[fnsdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48626)|`2025-02-16 00:14:58`|
 |30|[Super Market Simulator 0&#46;6V Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48622)|`2025-02-16 00:14:58`|
 |20|[DescendantInternal T&#46;2&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48620)|`2025-02-16 00:14:58`|
+|0|[MarvelVTablesNames](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48671)|`2025-02-16 04:14:03`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[A short analysis of the case&#45;handling function&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/687071-short-analysis-handling-function.html)|`2025-02-16 04:10:00`|`PUBG Mobile`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-02-16 04:08:00`|`Call of Duty: Black Ops 6`|
+|[The Headliners internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/686294-headliners-internal.html)|`2025-02-16 04:05:00`|`Other Games`|
+|[ReplaceExecutable fivem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/686977-replaceexecutable-fivem.html)|`2025-02-16 03:58:00`|`Alternative Online Mods`|
 |[Elden ring new Cheat Table &#43; Online &#40;risky&#41; &#43; CE Undetected &#43; future updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661671-elden-ring-cheat-table-online-risky-ce-undetected-future-updates.html)|`2025-02-16 03:56:00`|`Other FPS Games`|
 |[Marvel Rivals VTable Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/683762-marvel-rivals-vtable-dump.html)|`2025-02-16 03:55:00`|`Marvel Rivals`|
 |[NETEASE ANTI CHEAT LOCATION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686390-netease-anti-cheat-location.html)|`2025-02-16 03:55:00`|`Anti-Cheat Bypass`|
