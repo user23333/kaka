@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Knives Out Cheat 荒野行动](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/687143-knives-cheat.html)|`2025-02-16 07:45:00`|`Other FPS Games`|
 |[Easy Injection Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680479-easy-injection-method.html)|`2025-02-16 07:24:00`|`Marvel Rivals`|
 |[How does the Valorant Skin Changer work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/685823-valorant-skin-changer.html)|`2025-02-16 07:00:00`|`Valorant`|
 |[very little people joining](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/687285-little-people-joining.html)|`2025-02-16 06:55:00`|`Grand Theft Auto V`|
