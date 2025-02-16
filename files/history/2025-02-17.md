@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Exoborne Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/639617-exoborne-reversal-structs-offsets.html)|`2025-02-17 04:34:00`|`Other Games`|
 |[How does FDEV detect RMT?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/687384-fdev-detect-rmt.html)|`2025-02-17 04:23:00`|`Elite: Dangerous`|
 |[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/582006-demonologist-internal.html)|`2025-02-17 04:08:00`|`Other Games`|
 |[safest way to get a lot of money fast](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/686363-safest-lot-money-fast.html)|`2025-02-17 04:02:00`|`Grand Theft Auto V`|
