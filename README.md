@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need someone with TD2 throwaway account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/687154-td2-throwaway-account.html)|`2025-02-16 19:44:00`|`Tom Clancy's The Division`|
+|[External Python Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683532-external-python-cheat.html)|`2025-02-16 19:43:00`|`Counter-Strike 2`|
 |[Internal cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/611723-internal-cheese.html)|`2025-02-16 19:39:00`|`Payday 3`|
 |[Help with cs2 internals &#40;createmove&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687361-help-cs2-internals-createmove.html)|`2025-02-16 19:32:00`|`Counter-Strike 2`|
 |[IW4X unban after alterware update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/681411-iw4x-unban-alterware-update.html)|`2025-02-16 19:12:00`|`Call of Duty 6: Modern Warfare 2`|
