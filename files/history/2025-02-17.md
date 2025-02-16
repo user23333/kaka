@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HWID ban question and confusion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/686053-hwid-ban-question-confusion.html)|`2025-02-17 01:57:00`|`Apex Legends`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-02-17 01:32:00`|`Other FPS Games`|
 |[secuorbot bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687400-secuorbot-bypass.html)|`2025-02-17 01:30:00`|`Valorant`|
 |[Mapping unsigned driver by abusing vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/687399-mapping-unsigned-driver-abusing-vulnerable-driver.html)|`2025-02-17 01:30:00`|`Anti-Cheat Bypass`|
