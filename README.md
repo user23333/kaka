@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[No recoil partially working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687387-recoil-partially.html)|`2025-02-16 23:46:00`|`Counter-Strike 2`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-02-16 23:38:00`|`Other MMORPG and Strategy`|
 |[Terraria Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/682954-terraria-cheat-engine-table.html)|`2025-02-16 23:33:00`|`Other MMORPG and Strategy`|
 |[CS2 Material Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/610837-cs2-material-editor.html)|`2025-02-16 23:05:00`|`Counter-Strike 2`|
