@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-02-17 02:28:00`|`Call of Duty: Black Ops 6`|
+|[Spoofer for BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/686716-spoofer-bo6.html)|`2025-02-17 02:25:00`|`Call of Duty: Black Ops 6`|
+|[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2025-02-17 02:18:00`|`Escape from Tarkov`|
 |[delusion kernel external &#45; read only ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/684240-delusion-kernel-external-read-esp.html)|`2025-02-17 02:14:00`|`Counter-Strike 2 Releases`|
 |[Arduino val cheat using python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686322-arduino-val-cheat-using-python.html)|`2025-02-17 02:13:00`|`Valorant`|
 |[Problem with bones&#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686162-bones-external.html)|`2025-02-17 02:11:00`|`Rust`|
