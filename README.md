@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fastest Python Valorant Triggerbot &#40;fr&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612762-fastest-python-valorant-triggerbot-fr.html)|`2025-02-16 16:45:00`|`Valorant`|
 |[Valorant Account Generator &#43; Client Login](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/642933-valorant-account-generator-client-login.html)|`2025-02-16 16:38:00`|`Valorant`|
 |[how do i stop these delay bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686701-stop-delay-bans.html)|`2025-02-16 16:33:00`|`Valorant`|
 |[Plutonium Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/682287-plutonium-internal.html)|`2025-02-16 16:11:00`|`Call of Duty: Modern Warfare 3`|
