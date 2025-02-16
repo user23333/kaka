@@ -34,6 +34,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Assetto Corsa Alien &#45; &#91;Torque, Grip, Downforce and more&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/511184-assetto-corsa-alien-torque-grip-downforce.html)|`2025-02-16 08:42:00`|`Other Games`|
+|[Signed Driver Load Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686331-signed-driver-load-methods.html)|`2025-02-16 08:37:00`|`Anti-Cheat Bypass`|
+|[Ultimate customizable TRIGGERBOT &#40;0&#45;100ms&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683552-ultimate-customizable-triggerbot-0-100ms.html)|`2025-02-16 08:36:00`|`Valorant`|
+|[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-02-16 08:33:00`|`Sea of Thieves`|
+|[Working Mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/687298-mods.html)|`2025-02-16 08:16:00`|`Minecraft`|
+|[BF1 ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/686461-bf1-esp.html)|`2025-02-16 08:16:00`|`Battlefield 1`|
+|[Need to find special cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/687266-special-cheat.html)|`2025-02-16 08:13:00`|`Team Fortress 2`|
 |[directional strafer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/679867-directional-strafer.html)|`2025-02-16 07:53:00`|`Counterstrike Global Offensive`|
 |[Knives Out Cheat 荒野行动](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/687143-knives-cheat.html)|`2025-02-16 07:45:00`|`Other FPS Games`|
 |[Easy Injection Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680479-easy-injection-method.html)|`2025-02-16 07:24:00`|`Marvel Rivals`|
