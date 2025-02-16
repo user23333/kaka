@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to Use Cheat Engine with a EA Game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/687309-cheat-engine-ea-game.html)|`2025-02-16 22:50:00`|`Off Topic`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-02-16 22:40:00`|`Other FPS Games`|
 |[Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/686431-spoofer.html)|`2025-02-16 22:34:00`|`Off Topic`|
 |[DMIEDIT now available for &#46;&#46;&#46; ASUS&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/677061-dmiedit-available-asus.html)|`2025-02-16 22:26:00`|`Valorant`|
