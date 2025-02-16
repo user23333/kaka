@@ -12,6 +12,7 @@
 |10|[Alkad Rust EAC Bypasser &#124; Rust EAC Bypasser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686344-alkad-rust-eac-bypasser-rust-eac-bypasser.html)|`2025-02-17 00:31:33`|`rust`|
 |14|[UD Injector/CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/686797-ud-injector-ce.html)|`2025-02-17 00:31:33`|`marvel-rivals`|
 |30|[asphyxia&#45;cs2 updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687274-asphyxia-cs2-updated.html)|`2025-02-17 04:28:04`|`counter-strike-2-a`|
+|7|[CS2 External Basic Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686341-cs2-external-basic-multihack.html)|`2025-02-17 06:09:46`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[easy method to make Undetected Cheat Engine &#43; Driver &#43; DSE&#45;Patcher &#124; Bypass AC 2023](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/606839-easy-method-undetected-cheat-engine-driver-dse-patcher-bypass-ac-2023-a.html)|`2025-02-17 06:09:00`|`Anti-Cheat Bypass`|
+|[Warzone Hacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/687435-warzone-hacks.html)|`2025-02-17 05:59:00`|`Call of Duty: Black Ops 6`|
 |[Does R6 HWID ban or IP ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/686806-r6-hwid-ban-ip-ban.html)|`2025-02-17 05:49:00`|`Rainbow Six Siege`|
 |[seo64 fixed &#43; launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/686228-seo64-fixed-launcher.html)|`2025-02-17 05:39:00`|`Team Fortress 2`|
 |[apex color aimbot,c&#43;&#43; 80days 0ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/684954-apex-color-aimbot-80days-0ban.html)|`2025-02-17 05:36:00`|`Apex Legends`|
