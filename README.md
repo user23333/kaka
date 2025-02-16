@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[need help fr arduino/python via hidapi](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687311-help-fr-arduino-python-via-hidapi.html)|`2025-02-17 03:10:00`|`Valorant`|
+|[semi Rage Internal &#43;UNlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687422-semi-rage-internal-unlock.html)|`2025-02-17 03:07:00`|`Counter-Strike 2`|
+|[Fivem Get Ped / Entity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/687421-fivem-ped-entity.html)|`2025-02-17 02:57:00`|`Alternative Online Mods`|
 |[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2025-02-17 02:52:00`|`Sea of Thieves`|
 |[External Autowall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687380-external-autowall.html)|`2025-02-17 02:51:00`|`Counter-Strike 2`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-02-17 02:47:00`|`League of Legends`|
