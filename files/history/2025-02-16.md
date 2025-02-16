@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals TriggerBot & AimAssist &#40;MouseBased Undetected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678761-marvel-rivals-triggerbot-aimassist-mousebased-undetected.html)|`2025-02-16 14:40:00`|`Marvel Rivals`|
+|[Mantis Ability usage?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687334-mantis-ability-usage.html)|`2025-02-16 14:40:00`|`Marvel Rivals`|
 |[Need help with my aimbot&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/687332-help-aimbot.html)|`2025-02-16 14:25:00`|`Unity`|
 |[leonardo stopped getting hidapi](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687331-leonardo-stopped-getting-hidapi.html)|`2025-02-16 14:21:00`|`Valorant`|
 |[Instant CTD when making a public online session](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/687327-instant-ctd-public-online-session.html)|`2025-02-16 13:34:00`|`Grand Theft Auto V`|
