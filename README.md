@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant EFI Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/614166-valorant-efi-spoofer.html)|`2025-02-16 20:33:00`|`Valorant`|
+|[How HoyoProtect 5&#46;3 antidebugger in kernel mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/680806-hoyoprotect-5-3-antidebugger-kernel-mode.html)|`2025-02-16 20:33:00`|`Genshin Impact`|
+|[best money methods 1&#46;70 With no Ban? YimMenu with Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/686063-money-methods-1-70-ban-yimmenu-scripts.html)|`2025-02-16 20:33:00`|`Grand Theft Auto V`|
 |[Increase the size of hitboxes and never miss](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/686893-increase-size-hitboxes-miss.html)|`2025-02-16 19:55:00`|`Marvel Rivals`|
 |[Need someone with TD2 throwaway account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/687154-td2-throwaway-account.html)|`2025-02-16 19:44:00`|`Tom Clancy's The Division`|
 |[External Python Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683532-external-python-cheat.html)|`2025-02-16 19:43:00`|`Counter-Strike 2`|
