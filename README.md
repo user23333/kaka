@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need Help Finding XYZ Coordinates in Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/687372-help-finding-xyz-coordinates-cheat-engine.html)|`2025-02-16 20:54:00`|`C and C++`|
+|[USB HOST shield is not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687371-usb-host-shield.html)|`2025-02-16 20:51:00`|`Valorant`|
+|[Help on Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687369-help-driver.html)|`2025-02-16 20:39:00`|`Valorant`|
+|[Can I get pointers with DMA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/687368-pointers-dma.html)|`2025-02-16 20:38:00`|`C and C++`|
 |[Valorant EFI Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/614166-valorant-efi-spoofer.html)|`2025-02-16 20:33:00`|`Valorant`|
 |[How HoyoProtect 5&#46;3 antidebugger in kernel mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/680806-hoyoprotect-5-3-antidebugger-kernel-mode.html)|`2025-02-16 20:33:00`|`Genshin Impact`|
 |[best money methods 1&#46;70 With no Ban? YimMenu with Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/686063-money-methods-1-70-ban-yimmenu-scripts.html)|`2025-02-16 20:33:00`|`Grand Theft Auto V`|
