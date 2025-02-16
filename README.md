@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-02-17 01:12:00`|`ARMA 3`|
 |[manual bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/687268-manual-bans.html)|`2025-02-17 00:52:00`|`Escape from Tarkov`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-02-17 00:45:00`|`Playerunknown's Battlegrounds`|
 |[The Quinfall &#45; Hack &#40;Auto Gather, Kill whole map etc&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/687398-quinfall-hack-auto-gather-kill-map-etc.html)|`2025-02-17 00:43:00`|`Other MMORPG and Strategy`|
