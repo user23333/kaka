@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-02-18 01:36:00`|`HELLDIVERS 2`|
 |[NETEASE ANTI CHEAT LOCATION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686390-netease-anti-cheat-location.html)|`2025-02-18 01:26:00`|`Anti-Cheat Bypass`|
 |[Exec Console Command internally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687532-exec-console-command-internally.html)|`2025-02-18 01:19:00`|`Counter-Strike 2`|
 |[Fivem Get Ped / Entity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/687421-fivem-ped-entity.html)|`2025-02-18 01:15:00`|`Alternative Online Mods`|
