@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[3&#46;6 EMULATOR 32bit Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681220-3-6-emulator-32bit-offsets.html)|`2025-02-17 12:25:00`|`PUBG Mobile`|
+|[External Offsets 3&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681380-external-offsets-3-6-a.html)|`2025-02-17 12:22:00`|`PUBG Mobile`|
 |[Is refund glitch patched?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/687478-refund-glitch-patched.html)|`2025-02-17 12:07:00`|`Rainbow Six Siege`|
 |[Rocket League &#45; Give or Spawn Title](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/687458-rocket-league-spawn-title.html)|`2025-02-17 11:32:00`|`Other Games`|
 |[&#91;STEAM &#124; XBOX &#124; STEAMDECK&#93; PalworldInternal &#45; Post Nuclear](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/621709-steam-xbox-steamdeck-palworldinternal-post-nuclear.html)|`2025-02-17 11:29:00`|`Palworld`|
