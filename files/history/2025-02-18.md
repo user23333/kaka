@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need someone with TD2 throwaway account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/687154-td2-throwaway-account.html)|`2025-02-18 04:35:00`|`Tom Clancy's The Division`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-02-18 04:29:00`|`Call of Duty: Black Ops 6`|
 |[UUID Spoofer for Dell PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/687551-uuid-spoofer-dell-pc.html)|`2025-02-18 04:27:00`|`General Programming and Reversing`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-02-18 04:23:00`|`Other MMORPG and Strategy`|
 |[UNDETECTED HIJACK DRIVER FOR BE &#43; EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686550-undetected-hijack-driver-eac.html)|`2025-02-18 04:11:00`|`Anti-Cheat Bypass`|
