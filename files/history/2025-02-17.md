@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-02-17 16:47:00`|`Grand Theft Auto V`|
 |[Aimbot with infinitely increasing yaw and pitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/682512-aimbot-infinitely-increasing-yaw-pitch.html)|`2025-02-17 16:45:00`|`Forum General`|
 |[About Squad's magic bullet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/687488-squads-magic-bullet.html)|`2025-02-17 16:41:00`|`Other FPS Games`|
 |[how do i stop these delay bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686701-stop-delay-bans.html)|`2025-02-17 16:27:00`|`Valorant`|
