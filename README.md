@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Injecting into Battleye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/687423-injecting-battleye.html)|`2025-02-18 06:49:00`|`Anti-Cheat Bypass`|
+|[Stalker 2: Heart of Chernobyl &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/683026-stalker-2-heart-chernobyl-external.html)|`2025-02-18 06:44:00`|`Other Single Player Games`|
 |[How good is MalDev for learning beginner &#45; intermediate game hacking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/685962-maldev-learning-beginner-intermediate-game-hacking.html)|`2025-02-18 06:40:00`|`General Programming and Reversing`|
 |[How to find items and loot in glDrawElements ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/685356-items-loot-gldrawelements.html)|`2025-02-18 06:39:00`|`General Programming and Reversing`|
 |[Full component list finder &#40;no decryption needed, auto&#45;update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/687570-component-list-finder-decryption-auto-update.html)|`2025-02-18 06:34:00`|`Overwatch`|
