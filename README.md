@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-02-17 13:57:00`|`Apex Legends`|
 |[DMA BRICKED?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/687481-dma-bricked.html)|`2025-02-17 13:34:00`|`PC Hardware`|
 |[DMA Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687480-dma-question.html)|`2025-02-17 13:24:00`|`Valorant`|
 |[ACE anti&#45;cheat discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/687479-ace-anti-cheat-discussion.html)|`2025-02-17 13:21:00`|`Anti-Cheat Bypass`|
