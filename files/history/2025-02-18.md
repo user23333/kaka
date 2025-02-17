@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-02-18 04:49:00`|`Call of Duty: Black Ops 3`|
+|[EFT Profile API &#40;Getting a KD, LVL, etc&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/635032-eft-profile-api-getting-kd-lvl-etc.html)|`2025-02-18 04:49:00`|`Escape from Tarkov`|
 |[any  gmod scripts to spawn a weapon ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/678654-gmod-scripts-spawn-weapon.html)|`2025-02-18 04:46:00`|`Garry's Mod`|
 |[Lua Executor's??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/687467-lua-executors.html)|`2025-02-18 04:44:00`|`Garry's Mod`|
 |[Mapping unsigned driver by abusing vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/687399-mapping-unsigned-driver-abusing-vulnerable-driver.html)|`2025-02-18 04:44:00`|`Anti-Cheat Bypass`|
