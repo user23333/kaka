@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Plutonium PLEASEIJBDWIADWA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/686503-plutonium-pleaseijbdwiadwa.html)|`2025-02-18 03:20:00`|`Call of Duty: Black Ops 2`|
+|[obsServices always returning 0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687495-obsservices-returning-0-a.html)|`2025-02-18 03:17:00`|`Counter-Strike 2`|
 |[looking for an walkbot for cs2  xp farm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687437-looking-walkbot-cs2-xp-farm.html)|`2025-02-18 03:03:00`|`Counter-Strike 2`|
 |[HWho &#45; a slightly more fun bsg launcher hwid check bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/494040-hwho-slightly-fun-bsg-launcher-hwid-check-bypass.html)|`2025-02-18 02:59:00`|`Escape from Tarkov`|
 |[Lucid RP &#45; Classic RP &#45; Vision RP server file dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/463932-lucid-rp-classic-rp-vision-rp-server-file-dump.html)|`2025-02-18 02:52:00`|`Alternative Online Mods`|
