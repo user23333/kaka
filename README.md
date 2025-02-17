@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-02-17 15:23:00`|`DayZ SA`|
+|[nox emulator memory manipulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/687484-nox-emulator-memory-manipulation.html)|`2025-02-17 15:18:00`|`Programming for Beginners`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-02-17 15:14:00`|`Other FPS Games`|
 |[What to spoof &#40;Universal HWID Spoofer&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/687482-spoof-universal-hwid-spoofer.html)|`2025-02-17 14:45:00`|`Anti-Cheat Bypass`|
 |[Fastest Python Valorant Triggerbot &#40;fr&#41;&#40;fr&#41;&#40;fr&#41; &#43; Addon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/641020-fastest-python-valorant-triggerbot-fr-fr-fr-addon.html)|`2025-02-17 13:15:00`|`Valorant`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-02-17 13:57:00`|`Apex Legends`|
