@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how do i stop these delay bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686701-stop-delay-bans.html)|`2025-02-17 16:27:00`|`Valorant`|
+|[ODIN V4 FOR STEAM ONLY&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/645623-odin-v4-steam.html)|`2025-02-17 16:26:00`|`Paladins`|
+|[Can I get pointers with DMA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/687368-pointers-dma.html)|`2025-02-17 16:24:00`|`C and C++`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-02-17 16:21:00`|`Counter-Strike 2`|
+|[bSendPacket completely preventing from joining servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/686019-bsendpacket-completely-preventing-joining-servers.html)|`2025-02-17 16:19:00`|`CounterStrike Source`|
 |[Knives Out CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/687476-knives-ct.html)|`2025-02-17 16:09:00`|`Other FPS Games`|
 |[Can't dump with ACE version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/682596-cant-dump-ace-version.html)|`2025-02-17 16:00:00`|`League of Legends`|
 |[DMA freezups](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/687006-dma-freezups.html)|`2025-02-17 16:00:00`|`PC Hardware`|
