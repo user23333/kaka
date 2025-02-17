@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Closest Thing To Aimbot & No Recoil You're Going To Get](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/687328-closest-aimbot-recoil-youre.html)|`2025-02-18 03:27:00`|`THE FINALS`|
+|[What do i need and where do i learn to cheat undetected in rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/687529-learn-cheat-undetected-rust.html)|`2025-02-18 03:21:00`|`Rust`|
 |[Plutonium PLEASEIJBDWIADWA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/686503-plutonium-pleaseijbdwiadwa.html)|`2025-02-18 03:20:00`|`Call of Duty: Black Ops 2`|
 |[obsServices always returning 0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687495-obsservices-returning-0-a.html)|`2025-02-18 03:17:00`|`Counter-Strike 2`|
 |[looking for an walkbot for cs2  xp farm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687437-looking-walkbot-cs2-xp-farm.html)|`2025-02-18 03:03:00`|`Counter-Strike 2`|
