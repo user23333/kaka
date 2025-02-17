@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to update a cod cheat/patterns &#43; updated base for cod/steam/xbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/686435-update-cod-cheat-patterns-updated-base-cod-steam-xbox.html)|`2025-02-17 11:23:00`|`Call of Duty: Black Ops 6`|
+|[Borderlands 3 &#40;Epic Games&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/521662-borderlands-3-epic-games.html)|`2025-02-17 11:21:00`|`Other Single Player Games`|
+|[Need to find special cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/687266-special-cheat.html)|`2025-02-17 11:06:00`|`Team Fortress 2`|
 |[&#91;UE4&#93;Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/244709-ue4-squad.html)|`2025-02-17 10:55:00`|`Other FPS Games`|
 |[gtahax code edit failed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/687379-gtahax-code-edit-failed.html)|`2025-02-17 10:50:00`|`Grand Theft Auto V`|
 |[DirectX ESP internal source code ZOMBIES](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-5-world-at-war/686349-directx-esp-internal-source-code-zombies.html)|`2025-02-17 10:50:00`|`Call of Duty 5: World at War`|
