@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2025-02-18 20:50:00`|`Tom Clancy's The Division`|
+|[External skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687630-external-skinchanger.html)|`2025-02-18 20:39:00`|`Counter-Strike 2`|
 |[Marvel Rivals Python Instalocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677013-marvel-rivals-python-instalocker.html)|`2025-02-18 20:10:00`|`Marvel Rivals`|
 |[Battlefield 4 Cheat menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/686120-battlefield-4-cheat-menu.html)|`2025-02-18 19:58:00`|`Battlefield 4`|
 |[hiding physical/driver memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686506-hiding-physical-driver-memory.html)|`2025-02-18 19:40:00`|`Anti-Cheat Bypass`|
