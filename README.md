@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kick Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/687605-kick-exploit.html)|`2025-02-18 13:22:00`|`Call of Duty: Modern Warfare`|
+|[CrossFire VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/687604-crossfire-vm.html)|`2025-02-18 13:11:00`|`CrossFire`|
 |[Need Help Finding XYZ Coordinates in Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/687602-help-finding-xyz-coordinates-cheat-engine.html)|`2025-02-18 13:03:00`|`Forum General`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-02-18 13:02:00`|`ARMA 3`|
 |[Easily Bypass Emulator Detection in PUBG Mobile for 64&#45;Bit Applications](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/632021-easily-bypass-emulator-detection-pubg-mobile-64-bit-applications.html)|`2025-02-18 12:23:00`|`PUBG Mobile`|
