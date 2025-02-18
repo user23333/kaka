@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2025-02-19 07:11:00`|`Garry's Mod`|
+|[Yimmenu&#43;fsl with friends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/686837-yimmenu-fsl-friends.html)|`2025-02-19 07:11:00`|`Grand Theft Auto V`|
 |[EAC manually mapped driver detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/687703-eac-manually-mapped-driver-detection.html)|`2025-02-19 07:01:00`|`Anti-Cheat Bypass`|
 |[New to UC And CS2 cheat dev/cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687712-uc-cs2-cheat-dev-cheating.html)|`2025-02-19 06:57:00`|`Counter-Strike 2`|
 |[Fastest Python Valorant Triggerbot &#40;fr&#41;&#40;fr&#41;&#40;fr&#41; &#43; Addon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/641020-fastest-python-valorant-triggerbot-fr-fr-fr-addon.html)|`2025-02-19 06:34:00`|`Valorant`|
