@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How some cheats can detect other cheaters?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/685254-cheats-detect-cheaters.html)|`2025-02-18 13:45:00`|`Among Us`|
+|[need w2s advice for bone esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/686684-w2s-advice-bone-esp.html)|`2025-02-18 13:39:00`|`Call of Duty: Black Ops 6`|
 |[Path of Exile 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676435-path-exile-2-reversal-structs-offsets.html)|`2025-02-18 13:30:00`|`Other MMORPG and Strategy`|
 |[&#91;DMA&#93; Finding optimal DTB shuffle patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/687606-dma-finding-optimal-dtb-shuffle-patch.html)|`2025-02-18 13:30:00`|`Apex Legends`|
 |[Kick Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/687605-kick-exploit.html)|`2025-02-18 13:22:00`|`Call of Duty: Modern Warfare`|
