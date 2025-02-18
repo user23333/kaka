@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-02-18 10:53:00`|`Overwatch`|
+|[IDA crashing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/687503-ida-crashing.html)|`2025-02-18 10:51:00`|`Phasmophobia`|
 |[Launch two games &#40;epic and steam&#41; at the same time in the same PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687579-launch-games-epic-steam-time-pc.html)|`2025-02-18 10:13:00`|`Marvel Rivals`|
 |[Need to find special cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/687266-special-cheat.html)|`2025-02-18 09:41:00`|`Team Fortress 2`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-02-18 09:19:00`|`Counter-Strike 2 Releases`|
