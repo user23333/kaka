@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[About Squad's magic bullet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/687488-squads-magic-bullet.html)|`2025-02-18 16:15:00`|`Other FPS Games`|
+|[Jacket Pack DLC IDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/685339-jacket-pack-dlc-ids.html)|`2025-02-18 16:07:00`|`Payday 3`|
 |[Squad v8&#46;2&#46;1 &#40;2025&#41; ini](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/681581-squad-v8-2-1-2025-ini.html)|`2025-02-18 15:33:00`|`Other FPS Games`|
 |[Updated recoil settings for all guns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/687616-updated-recoil-settings-guns.html)|`2025-02-18 15:29:00`|`Rust`|
 |[Crystal of Atlan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/687612-crystal-atlan.html)|`2025-02-18 15:12:00`|`Other MMORPG and Strategy`|
