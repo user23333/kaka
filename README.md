@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need The Finals open beta files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/679657-finals-beta-files.html)|`2025-02-18 16:50:00`|`THE FINALS`|
+|[Internal cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/611723-internal-cheese.html)|`2025-02-18 15:40:00`|`Payday 3`|
 |[How does WARNO remove the fog of war?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/687614-warno-remove-fog-war.html)|`2025-02-18 15:20:00`|`Other Single Player Games`|
 |[Recoil Control System in CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683648-recoil-control-system-cs2.html)|`2025-02-18 16:22:00`|`Counter-Strike 2`|
 |[About Basicattackmissile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/687348-basicattackmissile.html)|`2025-02-18 16:18:00`|`League of Legends`|
