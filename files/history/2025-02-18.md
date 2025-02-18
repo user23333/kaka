@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-02-18 22:10:00`|`Rainbow Six Siege`|
+|[CM Cheat Host Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/685835-cm-cheat-host.html)|`2025-02-18 22:07:00`|`Combat Master`|
+|[DMA Based Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/674240-dma-based-aimbot.html)|`2025-02-18 22:05:00`|`Battlefield 1`|
+|[Speedi13 Trainer Fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/497810-speedi13-trainer-fixed.html)|`2025-02-18 22:03:00`|`Battlefield 1`|
+|[Battlefield 1 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/186728-battlefield-1-reversal-structs-offsets.html)|`2025-02-18 22:01:00`|`Battlefield 1`|
 |[Sharing a VGK DMA firmware pcileech source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687650-sharing-vgk-dma-firmware-pcileech-source.html)|`2025-02-18 21:56:00`|`Valorant`|
 |[csgo2 commend bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687649-csgo2-commend-bot.html)|`2025-02-18 21:48:00`|`Counter-Strike 2`|
 |[Kill Effect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687346-kill-effect.html)|`2025-02-18 21:12:00`|`Counter-Strike 2`|
