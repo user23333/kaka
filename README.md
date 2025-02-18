@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ways on using yimmenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/685177-using-yimmenu.html)|`2025-02-18 14:55:00`|`Grand Theft Auto V`|
 |[Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/673938-question.html)|`2025-02-18 14:13:00`|`Among Us`|
 |[Token Ban System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/674870-token-ban-system.html)|`2025-02-18 13:47:00`|`Alternative Online Mods`|
 |[How some cheats can detect other cheaters?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/685254-cheats-detect-cheaters.html)|`2025-02-18 13:45:00`|`Among Us`|
