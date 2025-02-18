@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2025-02-19 07:39:00`|`Grand Theft Auto V`|
+|[Looking for Feedback on Optimizing My Arduino Color&#45;Based Aimbot for Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687719-looking-feedback-optimizing-arduino-color-based-aimbot-valorant.html)|`2025-02-19 07:37:00`|`Valorant`|
+|[Looting through walls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/687718-looting-walls.html)|`2025-02-19 07:36:00`|`Escape from Tarkov`|
+|[directional strafer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/679867-directional-strafer.html)|`2025-02-19 07:35:00`|`Counterstrike Global Offensive`|
+|[3on3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/624254-3on3.html)|`2025-02-19 07:32:00`|`Other Games`|
 |[EAC hide module](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/687701-eac-hide-module.html)|`2025-02-19 07:25:00`|`Anti-Cheat Bypass`|
 |[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2025-02-19 07:11:00`|`Garry's Mod`|
 |[Yimmenu&#43;fsl with friends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/686837-yimmenu-fsl-friends.html)|`2025-02-19 07:11:00`|`Grand Theft Auto V`|
