@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-02-19 02:50:00`|`Counter-Strike 2`|
+|[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2025-02-19 02:48:00`|`Overwatch`|
+|[CrossFire VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/687604-crossfire-vm.html)|`2025-02-19 02:47:00`|`CrossFire`|
 |[How to avoid the Echo AC Scanner?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/682750-avoid-echo-ac-scanner.html)|`2025-02-19 02:38:00`|`Alternative Online Mods`|
 |[Mapping unsigned driver by abusing vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/687399-mapping-unsigned-driver-abusing-vulnerable-driver.html)|`2025-02-19 02:24:00`|`Anti-Cheat Bypass`|
 |[Any way to unlock everything?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/687566-unlock.html)|`2025-02-19 02:24:00`|`Grand Theft Auto V`|
