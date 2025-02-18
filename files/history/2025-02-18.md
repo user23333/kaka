@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any working ESP or similar cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/683302-esp-similar-cheats.html)|`2025-02-18 19:22:00`|`Battlefield 1`|
+|[ODIN V4 FOR STEAM ONLY&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/645623-odin-v4-steam.html)|`2025-02-18 19:21:00`|`Paladins`|
+|[Console Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/687081-console-question.html)|`2025-02-18 19:14:00`|`Sea of Thieves`|
+|[Zyth 5ShotsPenWallsNoRecoilNoSpread Pak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/644568-zyth-5shotspenwallsnorecoilnospread-pak.html)|`2025-02-18 19:13:00`|`Payday 3`|
 |[Unlock MPM on HP Insyde Bioses &#40;Laptop&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/627328-unlock-mpm-hp-insyde-bioses-laptop.html)|`2025-02-18 19:13:00`|`Valorant`|
 |[Alkad Rust EAC Bypasser &#124; Rust EAC Bypasser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686344-alkad-rust-eac-bypasser-rust-eac-bypasser.html)|`2025-02-18 19:11:00`|`Rust`|
 |[&#91;DMA&#93; Grayzone Warfare &#45; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675890-dma-grayzone-warfare-esp.html)|`2025-02-18 19:09:00`|`Other FPS Games`|
