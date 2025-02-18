@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[csgo2 commend bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687649-csgo2-commend-bot.html)|`2025-02-18 21:48:00`|`Counter-Strike 2`|
 |[Kill Effect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687346-kill-effect.html)|`2025-02-18 21:12:00`|`Counter-Strike 2`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-02-18 21:11:00`|`Grand Theft Auto V`|
 |[DMA Model Comparison](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684846-dma-model-comparison.html)|`2025-02-18 21:05:00`|`Valorant`|
