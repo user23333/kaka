@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to avoid the Echo AC Scanner?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/682750-avoid-echo-ac-scanner.html)|`2025-02-19 02:38:00`|`Alternative Online Mods`|
+|[Mapping unsigned driver by abusing vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/687399-mapping-unsigned-driver-abusing-vulnerable-driver.html)|`2025-02-19 02:24:00`|`Anti-Cheat Bypass`|
+|[Any way to unlock everything?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/687566-unlock.html)|`2025-02-19 02:24:00`|`Grand Theft Auto V`|
+|[Controller color aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670420-controller-color-aimbot.html)|`2025-02-19 02:13:00`|`Call of Duty: Black Ops 6`|
+|[Easy Injection Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680479-easy-injection-method.html)|`2025-02-19 02:07:00`|`Marvel Rivals`|
 |[DXGI Screenshot Capturing Always Returns Black/Transparent Image](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/direct3d/684878-dxgi-screenshot-capturing-returns-black-transparent-image.html)|`2025-02-19 01:54:00`|`Direct3D`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-02-19 01:50:00`|`Other MMORPG and Strategy`|
 |[AutoStratagem &#43; SRC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/685086-autostratagem-src.html)|`2025-02-19 01:46:00`|`HELLDIVERS 2`|
