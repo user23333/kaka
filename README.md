@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Loot CupBoard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686361-loot-cupboard.html)|`2025-02-18 17:27:00`|`Rust`|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2025-02-18 17:13:00`|`Deadlock`|
 |[TrCrypt &#45; Compile&#45;time String Encryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/687446-trcrypt-compile-time-string-encryption.html)|`2025-02-18 17:02:00`|`C and C++`|
 |[DavidUmm's ValoTriggerbot &#124; UPDATED&#124; RELEASE SOON](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687159-davidumms-valotriggerbot-updated-release-soon.html)|`2025-02-18 16:56:00`|`Valorant`|
 |[Need The Finals open beta files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/679657-finals-beta-files.html)|`2025-02-18 16:50:00`|`THE FINALS`|
