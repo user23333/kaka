@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA Rust Admin ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686840-dma-rust-admin-esp.html)|`2025-02-19 04:16:00`|`Rust`|
+|[External Among Us overlay &#40;undetectable&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/685399-external-overlay-undetectable.html)|`2025-02-19 04:15:00`|`Among Us`|
+|[Arduino &#43; USB Host Shield &#43; Ethernet Shield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/636946-arduino-usb-host-shield-ethernet-shield.html)|`2025-02-19 04:07:00`|`Valorant`|
+|[Hello guys, are there old&#45;school players here ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/683506-hello-guys-school-players.html)|`2025-02-19 04:03:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Lua Executor's??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/687467-lua-executors.html)|`2025-02-19 04:00:00`|`Garry's Mod`|
+|[The calculated aiming point cannot be locked completely](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/686819-calculated-aiming-locked-completely.html)|`2025-02-19 04:00:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[new update JUST dropped](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/687683-update-dropped.html)|`2025-02-19 03:53:00`|`Team Fortress 2`|
 |[GsDriver&#45;ring3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686884-gsdriver-ring3.html)|`2025-02-19 03:51:00`|`Anti-Cheat Bypass`|
 |[hiding physical/driver memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686506-hiding-physical-driver-memory.html)|`2025-02-19 03:50:00`|`Anti-Cheat Bypass`|
