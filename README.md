@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Path of Exile 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676435-path-exile-2-reversal-structs-offsets.html)|`2025-02-18 13:30:00`|`Other MMORPG and Strategy`|
+|[&#91;DMA&#93; Finding optimal DTB shuffle patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/687606-dma-finding-optimal-dtb-shuffle-patch.html)|`2025-02-18 13:30:00`|`Apex Legends`|
 |[Kick Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/687605-kick-exploit.html)|`2025-02-18 13:22:00`|`Call of Duty: Modern Warfare`|
 |[CrossFire VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/687604-crossfire-vm.html)|`2025-02-18 13:11:00`|`CrossFire`|
 |[Need Help Finding XYZ Coordinates in Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/687602-help-finding-xyz-coordinates-cheat-engine.html)|`2025-02-18 13:03:00`|`Forum General`|
