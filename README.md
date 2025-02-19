@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684706-valorant-color-aimbot.html)|`2025-02-19 18:40:00`|`Valorant`|
 |[Lucid RP &#45; Classic RP &#45; Vision RP server file dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/463932-lucid-rp-classic-rp-vision-rp-server-file-dump.html)|`2025-02-19 18:32:00`|`Alternative Online Mods`|
 |[Fivem Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/685777-fivem-internal-cheat.html)|`2025-02-19 18:31:00`|`Alternative Online Mods`|
 |[How i update Rigel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/687766-update-rigel.html)|`2025-02-19 18:24:00`|`Overwatch`|
