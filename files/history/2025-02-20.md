@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Update broke cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/687787-update-broke-cheat.html)|`2025-02-20 07:40:00`|`Team Fortress 2`|
+|[Undetected CE for CW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/680552-undetected-ce-cw.html)|`2025-02-20 07:31:00`|`Call of Duty: Black Ops Cold War`|
+|[Seowned x64 fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/687816-seowned-x64-fixed.html)|`2025-02-20 07:06:00`|`Team Fortress 2`|
+|[Rust &#124; Ban Discussion Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/469369-rust-ban-discussion-thread.html)|`2025-02-20 07:03:00`|`Rust`|
 |[Starting with Win11 DSE Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/687860-starting-win11-dse-exploit.html)|`2025-02-20 07:07:00`|`Anti-Cheat Bypass`|
 |[DMA Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685435-dma-aimbot.html)|`2025-02-20 06:51:00`|`Marvel Rivals`|
 |[msi val spoof?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686894-msi-val-spoof.html)|`2025-02-20 06:47:00`|`Valorant`|
