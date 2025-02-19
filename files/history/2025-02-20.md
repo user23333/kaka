@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CSGO CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/687166-csgo-cheat.html)|`2025-02-20 06:08:00`|`Counterstrike Global Offensive`|
+|[How i update Rigel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/687766-update-rigel.html)|`2025-02-20 06:05:00`|`Overwatch`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-02-20 06:00:00`|`Phasmophobia`|
 |[semi Rage Internal &#43;UNlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687422-semi-rage-internal-unlock.html)|`2025-02-20 05:58:00`|`Counter-Strike 2`|
 |[The bunker research progress bar isn't moving&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/687767-bunker-research-progress-bar-isnt-moving.html)|`2025-02-20 05:53:00`|`Grand Theft Auto V`|
