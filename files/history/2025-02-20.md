@@ -12,6 +12,7 @@
 |6|[better ways for modulation &#40;particles, props, world&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686773-modulation-particles-props-world.html)|`2025-02-20 00:38:26`|`counter-strike-2-a`|
 |9|[simple cs2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686912-simple-cs2-internal.html)|`2025-02-20 00:38:26`|`counter-strike-2-a`|
 |22|[semi Rage Internal &#43;UNlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687422-semi-rage-internal-unlock.html)|`2025-02-20 02:53:07`|`counter-strike-2-a`|
+|6|["Vanguard Bypass"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687100-vanguard-bypass.html)|`2025-02-20 06:44:34`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[64 Bit Offset Required](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/687857-64-bit-offset-required.html)|`2025-02-20 06:42:00`|`PUBG Mobile`|
 |[Tutorial &#124; What is DMA and How to Install it&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/685521-tutorial-dma-install.html)|`2025-02-20 06:34:00`|`Off Topic`|
 |[Weapon Giver / LUA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/687726-weapon-giver-lua.html)|`2025-02-20 06:24:00`|`Garry's Mod`|
 |[Black Ops 6 EXTERNAL VS AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/687664-black-ops-6-external-vs-ahk.html)|`2025-02-20 06:24:00`|`Call of Duty: Black Ops 6`|
