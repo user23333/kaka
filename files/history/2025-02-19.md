@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Weapon Giver / LUA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/687726-weapon-giver-lua.html)|`2025-02-19 11:10:00`|`Garry's Mod`|
+|[gtahax code edit failed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/687379-gtahax-code-edit-failed.html)|`2025-02-19 11:08:00`|`Grand Theft Auto V`|
+|[Ultimate HvH CHEAT with ZXCMODULE &#40;Backtrack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/683074-ultimate-hvh-cheat-zxcmodule-backtrack.html)|`2025-02-19 11:04:00`|`Garry's Mod`|
 |[The Closest Thing To Aimbot & No Recoil You're Going To Get](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/687328-closest-aimbot-recoil-youre.html)|`2025-02-19 10:38:00`|`THE FINALS`|
 |[Any esp source for study?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/687725-esp-source-study.html)|`2025-02-19 10:34:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[DayZ&#45;InternalHack&#45;FullFeatures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/677192-dayz-internalhack-fullfeatures.html)|`2025-02-19 09:53:00`|`DayZ SA`|
