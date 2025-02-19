@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CreateSimpleThread usage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687777-createsimplethread-usage.html)|`2025-02-19 20:20:00`|`Counter-Strike 2`|
+|[GTA5 1&#46;70 Build 3442 update released](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/687778-gta5-1-70-build-3442-update-released.html)|`2025-02-19 20:19:00`|`Grand Theft Auto V`|
+|[Sea of thieves steam banned in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/687462-sea-thieves-steam-banned-2025-a.html)|`2025-02-19 20:03:00`|`Sea of Thieves`|
+|[No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/675931-recoil.html)|`2025-02-19 20:02:00`|`Rainbow Six Siege`|
 |[Genshin Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/685819-genshin-bans.html)|`2025-02-19 19:58:00`|`Genshin Impact`|
 |[SEOwnedDE Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/644283-seownedde-updated.html)|`2025-02-19 19:39:00`|`Team Fortress 2`|
 |[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-02-19 19:12:00`|`Other Games`|
