@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DZ Kernel Driver &#40;Grabs Coords from ENTS&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/687736-dz-kernel-driver-grabs-coords-ents.html)|`2025-02-19 12:56:00`|`DayZ SA`|
 |[Launch two games &#40;epic and steam&#41; at the same time in the same PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687579-launch-games-epic-steam-time-pc.html)|`2025-02-19 13:32:00`|`Marvel Rivals`|
 |[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2025-02-19 12:58:00`|`Other FPS Games`|
 |[farm lord](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687735-farm-lord.html)|`2025-02-19 12:53:00`|`Marvel Rivals`|
