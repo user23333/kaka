@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[A Game About Digging A Hole &#40;MONEY MODIFIER&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/687837-game-digging-hole-money-modifier.html)|`2025-02-20 05:38:00`|`Other Games`|
 |[hiding physical/driver memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686506-hiding-physical-driver-memory.html)|`2025-02-20 05:27:00`|`Anti-Cheat Bypass`|
 |[Device Files Exploit &#40;Kinda Useless&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/687828-device-files-exploit-kinda-useless.html)|`2025-02-20 05:25:00`|`General Programming and Reversing`|
 |[Knives Out CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/687476-knives-ct.html)|`2025-02-20 05:12:00`|`Other FPS Games`|
