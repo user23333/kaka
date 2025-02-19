@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ASRock spoof?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687752-asrock-spoof.html)|`2025-02-19 15:14:00`|`Valorant`|
+|[ZxC Module &#40;DLL&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/687122-zxc-module-dll.html)|`2025-02-19 15:05:00`|`Garry's Mod`|
+|[colorbot stopped working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687751-colorbot-stopped.html)|`2025-02-19 15:02:00`|`Valorant`|
 |[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-02-19 14:44:00`|`HELLDIVERS 2`|
 |[Entity caching](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685554-entity-caching.html)|`2025-02-19 14:41:00`|`Rust`|
 |[About Squad's magic bullet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/687488-squads-magic-bullet.html)|`2025-02-19 14:35:00`|`Other FPS Games`|
