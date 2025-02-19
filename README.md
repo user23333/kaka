@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how do i stop these delay bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686701-stop-delay-bans.html)|`2025-02-19 16:53:00`|`Valorant`|
 |[Black Desert &#45; Exploiting Paz files to load your very own Lua&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/588951-black-desert-exploiting-paz-files-load-own-lua.html)|`2025-02-19 15:47:00`|`Other MMORPG and Strategy`|
 |[ASRock spoof?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687752-asrock-spoof.html)|`2025-02-19 15:14:00`|`Valorant`|
 |[ZxC Module &#40;DLL&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/687122-zxc-module-dll.html)|`2025-02-19 15:05:00`|`Garry's Mod`|
