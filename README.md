@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to prevent bans while using simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687781-prevent-bans-using-simple-internal.html)|`2025-02-19 20:49:00`|`Marvel Rivals`|
+|[DMA freezups](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/687006-dma-freezups.html)|`2025-02-19 20:39:00`|`PC Hardware`|
+|[How do these FiveM fresh accounts work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/683290-fivem-fresh-accounts.html)|`2025-02-19 20:29:00`|`Alternative Online Mods`|
 |[CreateSimpleThread usage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687777-createsimplethread-usage.html)|`2025-02-19 20:20:00`|`Counter-Strike 2`|
 |[GTA5 1&#46;70 Build 3442 update released](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/687778-gta5-1-70-build-3442-update-released.html)|`2025-02-19 20:19:00`|`Grand Theft Auto V`|
 |[Sea of thieves steam banned in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/687462-sea-thieves-steam-banned-2025-a.html)|`2025-02-19 20:03:00`|`Sea of Thieves`|
