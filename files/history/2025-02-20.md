@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685435-dma-aimbot.html)|`2025-02-20 06:51:00`|`Marvel Rivals`|
+|[msi val spoof?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686894-msi-val-spoof.html)|`2025-02-20 06:47:00`|`Valorant`|
 |[64 Bit Offset Required](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/687857-64-bit-offset-required.html)|`2025-02-20 06:42:00`|`PUBG Mobile`|
 |[Tutorial &#124; What is DMA and How to Install it&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/685521-tutorial-dma-install.html)|`2025-02-20 06:34:00`|`Off Topic`|
 |[Weapon Giver / LUA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/687726-weapon-giver-lua.html)|`2025-02-20 06:24:00`|`Garry's Mod`|
