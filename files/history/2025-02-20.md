@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[hiding physical/driver memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686506-hiding-physical-driver-memory.html)|`2025-02-20 05:27:00`|`Anti-Cheat Bypass`|
+|[Device Files Exploit &#40;Kinda Useless&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/687828-device-files-exploit-kinda-useless.html)|`2025-02-20 05:25:00`|`General Programming and Reversing`|
 |[Knives Out CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/687476-knives-ct.html)|`2025-02-20 05:12:00`|`Other FPS Games`|
 |[Undetected Get Base Address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686183-undetected-base-address.html)|`2025-02-20 05:07:00`|`Anti-Cheat Bypass`|
 |[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2025-02-20 05:00:00`|`Palworld`|
