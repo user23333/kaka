@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[new update dropped, all 64 bit cheats are fucked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/687814-update-dropped-64-bit-cheats-fucked.html)|`2025-02-20 02:35:00`|`Team Fortress 2`|
+|[CSS x64 noflash, nosmoke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/687790-css-x64-noflash-nosmoke.html)|`2025-02-20 02:31:00`|`CounterStrike Source`|
+|[Is there a cheat that increases the chance of unboxing an unusual?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/684286-cheat-increases-chance-unboxing-unusual.html)|`2025-02-20 02:28:00`|`Team Fortress 2`|
+|[Colored chat in casual](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/684111-colored-chat-casual.html)|`2025-02-20 02:27:00`|`Team Fortress 2`|
+|[What happened to Fedoraware?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/687020-happened-fedoraware.html)|`2025-02-20 02:26:00`|`Team Fortress 2`|
+|[Among Us Steam Build 4936](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/687813-steam-build-4936-a.html)|`2025-02-20 02:17:00`|`Among Us`|
 |[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-02-20 02:09:00`|`Marvel Rivals`|
 |[Vanguard Hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/687812-vanguard-hypervisor.html)|`2025-02-20 02:08:00`|`Anti-Cheat Bypass`|
 |[Launch two games &#40;epic and steam&#41; at the same time in the same PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687579-launch-games-epic-steam-time-pc.html)|`2025-02-20 02:04:00`|`Marvel Rivals`|
