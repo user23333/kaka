@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Auto&#45;Rename SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/687815-auto-rename-sdk.html)|`2025-02-20 02:53:00`|`C and C++`|
 |[Plutonium PLEASEIJBDWIADWA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/686503-plutonium-pleaseijbdwiadwa.html)|`2025-02-20 02:51:00`|`Call of Duty: Black Ops 2`|
 |[new update dropped, all 64 bit cheats are fucked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/687814-update-dropped-64-bit-cheats-fucked.html)|`2025-02-20 02:35:00`|`Team Fortress 2`|
 |[CSS x64 noflash, nosmoke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/687790-css-x64-noflash-nosmoke.html)|`2025-02-20 02:31:00`|`CounterStrike Source`|
