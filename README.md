@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2025-02-19 22:09:00`|`Palworld`|
+|[Fuck valve](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/687787-fuck-valve.html)|`2025-02-19 22:08:00`|`Team Fortress 2`|
+|[obsServices always returning 0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687495-obsservices-returning-0-a.html)|`2025-02-19 22:00:00`|`Counter-Strike 2`|
 |[YimMenu Lua Scripting Megathread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/680877-yimmenu-lua-scripting-megathread.html)|`2025-02-19 21:53:00`|`Grand Theft Auto V`|
 |[USB HOST shield is not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687371-usb-host-shield.html)|`2025-02-19 21:44:00`|`Valorant`|
 |[Triggerbot patch Bypass for Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667460-triggerbot-patch-bypass-python.html)|`2025-02-19 21:17:00`|`Valorant`|
