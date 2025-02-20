@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-02-20 22:39:00`|`Escape from Tarkov`|
+|[Genshin İmpact Shika Cheat 5&#46;0&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/660051-genshin-mpact-shika-cheat-5-0-0-1-a.html)|`2025-02-20 22:39:00`|`Genshin Impact`|
+|[Among Us Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/574185-cheat-table.html)|`2025-02-20 22:37:00`|`Among Us`|
+|[External Among Us overlay &#40;undetectable&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/685399-external-overlay-undetectable.html)|`2025-02-20 22:36:00`|`Among Us`|
+|[Lua Executor's??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/687467-lua-executors.html)|`2025-02-20 22:36:00`|`Garry's Mod`|
 |[&#91;Y7S3 updated&#93; Rainbow Six Siege Logitech No recoil lua script &#40;all operators&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/514341-y7s3-updated-rainbow-six-siege-logitech-recoil-lua-script-operators.html)|`2025-02-20 22:28:00`|`Rainbow Six Siege`|
 |[Internal cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/611723-internal-cheese.html)|`2025-02-20 22:27:00`|`Payday 3`|
 |[Lazybead &#40;LB&#41; &#45; Free Cheat &#40;COMING SOON&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat-coming-soon.html)|`2025-02-20 22:24:00`|`Sea of Thieves`|
