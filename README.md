@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Exec Console Command internally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687532-exec-console-command-internally.html)|`2025-02-20 15:21:00`|`Counter-Strike 2`|
 |[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2025-02-20 14:29:00`|`Elite: Dangerous`|
 |[colorbot stopped working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687751-colorbot-stopped.html)|`2025-02-20 14:29:00`|`Valorant`|
 |[EXCEPTION&#95;ILLEGAL&#95;INSTRUCTION  DBVM Crash on   i7 12700k  12700H](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/687903-exception_illegal_instruction-dbvm-crash-i7-12700k-12700h.html)|`2025-02-20 14:18:00`|`Anti-Cheat Bypass`|
