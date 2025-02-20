@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/604426-hero-ultra-rumble-cheat-table.html)|`2025-02-21 01:38:00`|`Other Games`|
+|[Stalker 2: Heart of Chernobyl &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/683026-stalker-2-heart-chernobyl-external.html)|`2025-02-21 01:33:00`|`Other Single Player Games`|
+|[GTA V Online PC Gets Next Gen 2025 &#45; Update Coming Next](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/670008-gta-online-pc-gen-2025-update-coming.html)|`2025-02-21 01:32:00`|`Grand Theft Auto V`|
+|[MR khan dumped](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/687749-khan-dumped.html)|`2025-02-21 01:31:00`|`PUBG Mobile`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-02-21 01:26:00`|`Apex Legends`|
 |[how do i stop these delay bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686701-stop-delay-bans.html)|`2025-02-21 01:26:00`|`Valorant`|
 |[How to hide esp from geforce clips?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/687957-hide-esp-geforce-clips.html)|`2025-02-21 01:23:00`|`Alternative Online Mods`|
 |[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-02-21 01:22:00`|`HELLDIVERS 2`|
