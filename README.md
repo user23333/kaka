@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Full component list finder &#40;no decryption needed, auto&#45;update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/687570-component-list-finder-decryption-auto-update.html)|`2025-02-20 11:10:00`|`Overwatch`|
+|[Looting through walls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/687718-looting-walls.html)|`2025-02-20 11:05:00`|`Escape from Tarkov`|
 |[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-02-20 10:49:00`|`HELLDIVERS 2`|
 |[GTA online update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/687875-gta-online-update.html)|`2025-02-20 10:11:00`|`Grand Theft Auto V`|
 |[March 2025 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/687537-march-2025-motm-nominations.html)|`2025-02-20 09:48:00`|`Member of the Month`|
