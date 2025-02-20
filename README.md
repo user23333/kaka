@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TF2Classic Internal Cheat V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/598383-tf2classic-internal-cheat-v2.html)|`2025-02-20 21:51:00`|`Team Fortress 2`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-02-20 21:37:00`|`Grand Theft Auto V`|
 |[Sea of Thieves Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/649766-sea-thieves-spoofer.html)|`2025-02-20 21:32:00`|`Sea of Thieves`|
 |[how do i stop these delay bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686701-stop-delay-bans.html)|`2025-02-20 21:32:00`|`Valorant`|
