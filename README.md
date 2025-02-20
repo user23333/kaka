@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Temp Spoofer Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/687943-temp-spoofer-methods.html)|`2025-02-20 23:42:00`|`Forum General`|
 |[Zyth 5ShotsPenWallsNoRecoilNoSpread Pak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/644568-zyth-5shotspenwallsnorecoilnospread-pak.html)|`2025-02-20 23:40:00`|`Payday 3`|
 |[&#91;PC/Steam&#93;BO1 Zombies Mod Menu Online/Offline](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/503856-pc-steam-bo1-zombies-mod-menu-online-offline.html)|`2025-02-20 23:38:00`|`Call of Duty: Black Ops`|
 |[PUBG DMA cheat source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/667961-pubg-dma-cheat-source-code.html)|`2025-02-20 23:35:00`|`Playerunknown's Battlegrounds`|
