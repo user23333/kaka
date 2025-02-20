@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2025-02-20 14:29:00`|`Elite: Dangerous`|
+|[colorbot stopped working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687751-colorbot-stopped.html)|`2025-02-20 14:29:00`|`Valorant`|
 |[EXCEPTION&#95;ILLEGAL&#95;INSTRUCTION  DBVM Crash on   i7 12700k  12700H](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/687903-exception_illegal_instruction-dbvm-crash-i7-12700k-12700h.html)|`2025-02-20 14:18:00`|`Anti-Cheat Bypass`|
 |[would you guys consider JACKING OFF to be a sport](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/685407-guys-consider-jacking-sport.html)|`2025-02-20 14:10:00`|`Off Topic`|
 |[Simple internal loader &#43; crash fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687901-simple-internal-loader-crash-fix.html)|`2025-02-20 13:54:00`|`Marvel Rivals`|
