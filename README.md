@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SA:MP lol](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/688043-sa-mp-lol.html)|`2025-02-21 07:44:00`|`Off Topic`|
 |[CS2 ping issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688042-cs2-ping-issue.html)|`2025-02-21 07:40:00`|`Counter-Strike 2`|
 |[3on3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/624254-3on3.html)|`2025-02-21 07:37:00`|`Other Games`|
 |[Is This Still Viable?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688041-viable.html)|`2025-02-21 07:36:00`|`Valorant`|
