@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How can I fix my ESP?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687082-fix-esp.html)|`2025-02-21 06:35:00`|`Counter-Strike 2`|
+|[new to this](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/688036-new-to-this.html)|`2025-02-21 06:29:00`|`Call of Duty: Black Ops 6`|
+|[Permanent ban ways to play again?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/688035-permanent-ban-play.html)|`2025-02-21 06:26:00`|`Grand Theft Auto V`|
+|[External esp safe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/688024-external-esp-safe.html)|`2025-02-21 06:18:00`|`Rainbow Six Siege`|
 |[issue with debugging steam gta5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/688014-issue-debugging-steam-gta5.html)|`2025-02-21 06:15:00`|`Grand Theft Auto V`|
 |[nightmode for externals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686426-nightmode-externals.html)|`2025-02-21 06:03:00`|`Counter-Strike 2`|
 |[GamerFun AI Menu: All mouse Aimbot, Triggerbot & Recoil Control Using LGUB Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671029-gamerfun-ai-menu-mouse-aimbot-triggerbot-recoil-control-using-lgub-drivers.html)|`2025-02-21 05:52:00`|`Rainbow Six Siege`|
