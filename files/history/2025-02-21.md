@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NEXT&#45;GEN UPDATE FOR PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/687966-gen-update-pc.html)|`2025-02-21 00:47:00`|`Grand Theft Auto V`|
+|[Anti ban &#43; crash fix &#43; simple internal injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687963-anti-ban-crash-fix-simple-internal-injector.html)|`2025-02-21 00:44:00`|`Marvel Rivals`|
+|[Destiny 2 Cheat Table &#43; Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680045-destiny-2-cheat-table-cheat-engine.html)|`2025-02-21 00:44:00`|`Other FPS Games`|
+|[&#124; CS2 &#124; Pudra &#124; EXTERNAL &#124; SOURCE &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687962-cs2-pudra-external-source.html)|`2025-02-21 00:41:00`|`Counter-Strike 2`|
 |[do trackers that can bypass streamer mode still exist?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679221-trackers-bypass-streamer-mode-exist.html)|`2025-02-21 00:40:00`|`Valorant`|
 |[Valorant color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684706-valorant-color-aimbot.html)|`2025-02-21 00:36:00`|`Valorant`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-02-21 00:36:00`|`Counter-Strike 2`|
