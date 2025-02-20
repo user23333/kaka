@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 ping issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688042-cs2-ping-issue.html)|`2025-02-21 07:40:00`|`Counter-Strike 2`|
+|[3on3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/624254-3on3.html)|`2025-02-21 07:37:00`|`Other Games`|
 |[Is This Still Viable?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688041-viable.html)|`2025-02-21 07:36:00`|`Valorant`|
 |[SET&#95;PED&#95;TO&#95;RAGDOLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/688040-set_ped_to_ragdoll.html)|`2025-02-21 07:25:00`|`Alternative Online Mods`|
 |[WTF? New cheat on the market or something?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/687911-wtf-cheat-market.html)|`2025-02-21 07:14:00`|`Escape from Tarkov`|
