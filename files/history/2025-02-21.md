@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help with coding dma radar hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/662481-help-coding-dma-radar-hack.html)|`2025-02-21 02:28:00`|`ARMA 3`|
+|[How do these FiveM fresh accounts work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/683290-fivem-fresh-accounts.html)|`2025-02-21 02:28:00`|`Alternative Online Mods`|
+|[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-02-21 02:25:00`|`Marvel Rivals`|
 |[UNDETECTED MOUSE MOVEMENTS, HIJACK RAZER SYNAPSE &#45; BYPASS VGK, EAC, BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/687990-undetected-mouse-movements-hijack-razer-synapse-bypass-vgk-eac.html)|`2025-02-21 02:22:00`|`Anti-Cheat Bypass`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-02-21 02:19:00`|`Counter-Strike 2`|
 |[Tutorial &#124; What is DMA and How to Install it&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/685521-tutorial-dma-install.html)|`2025-02-21 02:19:00`|`Off Topic`|
