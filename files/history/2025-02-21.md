@@ -12,6 +12,7 @@
 |28|[Simple Internal and Easy Injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687533-simple-internal-easy-injection.html)|`2025-02-21 00:20:28`|`marvel-rivals`|
 |6|["Vanguard Bypass"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687100-vanguard-bypass.html)|`2025-02-21 00:20:28`|`valorant`|
 |23|[The Closest Thing To Aimbot & No Recoil You're Going To Get](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/687328-closest-aimbot-recoil-youre.html)|`2025-02-21 02:23:24`|`the-finals`|
+|26|[Full Anticheat Disabler &#40;You can play online&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687866-anticheat-disabler-play-online.html)|`2025-02-21 05:36:39`|`marvel-rivals`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[semi Rage Internal &#43;UNlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687422-semi-rage-internal-unlock.html)|`2025-02-21 05:35:00`|`Counter-Strike 2`|
+|[Device Files Exploit &#40;Kinda Useless&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/687828-device-files-exploit-kinda-useless.html)|`2025-02-21 05:30:00`|`General Programming and Reversing`|
 |[DMA ESP & AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687126-dma-esp-aim.html)|`2025-02-21 05:26:00`|`Marvel Rivals`|
 |[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2025-02-21 05:25:00`|`Overwatch`|
 |[Soulframe Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/687987-soulframe-reversal-structs-offsets.html)|`2025-02-21 05:09:00`|`Other FPS Games`|
