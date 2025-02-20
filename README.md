@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BO6 Fuser ESP/AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676862-bo6-fuser-esp-aim.html)|`2025-02-20 11:30:00`|`Call of Duty: Black Ops 6`|
+|[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2025-02-20 11:25:00`|`Other FPS Games`|
+|[GTA 5 BattleEye Update &#45; 1&#46;70](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/687888-gta-5-battleeye-update-1-70-a.html)|`2025-02-20 11:25:00`|`Grand Theft Auto V`|
+|[I need a HVCI spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/687876-hvci-spoofer.html)|`2025-02-20 11:20:00`|`Anti-Cheat Bypass`|
 |[Full component list finder &#40;no decryption needed, auto&#45;update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/687570-component-list-finder-decryption-auto-update.html)|`2025-02-20 11:10:00`|`Overwatch`|
 |[Looting through walls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/687718-looting-walls.html)|`2025-02-20 11:05:00`|`Escape from Tarkov`|
 |[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-02-20 10:49:00`|`HELLDIVERS 2`|
