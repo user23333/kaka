@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is refund glitch patched?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/687478-refund-glitch-patched.html)|`2025-02-20 20:56:00`|`Rainbow Six Siege`|
+|[Rust Perfect Logitech Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/626963-rust-perfect-logitech-script.html)|`2025-02-20 20:44:00`|`Rust`|
 |[GsDriver&#45;ring3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686884-gsdriver-ring3.html)|`2025-02-20 20:30:00`|`Anti-Cheat Bypass`|
 |[ODIN V4 FOR STEAM ONLY&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/645623-odin-v4-steam.html)|`2025-02-20 20:30:00`|`Paladins`|
 |["PUBG Error Message"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/687921-pubg-error-message.html)|`2025-02-20 20:24:00`|`Playerunknown's Battlegrounds`|
