@@ -14,6 +14,7 @@
 |22|[semi Rage Internal &#43;UNlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687422-semi-rage-internal-unlock.html)|`2025-02-20 02:53:07`|`counter-strike-2-a`|
 |6|["Vanguard Bypass"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687100-vanguard-bypass.html)|`2025-02-20 06:44:34`|`valorant`|
 |28|[Simple Internal and Easy Injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687533-simple-internal-easy-injection.html)|`2025-02-20 19:59:27`|`marvel-rivals`|
+|21|[GTA5 1&#46;70 Build 3442 update released](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/687778-gta5-1-70-build-3442-update-released.html)|`2025-02-20 22:09:42`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,9 +28,17 @@
 |2|[BuckShoot Roulette Custom Host Settings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48668)|`2025-02-20 00:38:26`|
 |416|[Marvel Rivals DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48666)|`2025-02-20 00:38:26`|
 |29|[zxcmodule](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48665)|`2025-02-20 00:38:26`|
+|1|[Sniper Elite Resistance timer freeze](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48706)|`2025-02-20 22:09:42`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[D3 Bot that can farm paragon/KS or whatever](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/diablo-series/687936-d3-bot-farm-paragon-ks-whatever.html)|`2025-02-20 22:09:00`|`Diablo Series`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-02-20 22:08:00`|`Rainbow Six Siege`|
+|[Skin Changer Texture Bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686876-skin-changer-texture-bug.html)|`2025-02-20 22:06:00`|`Counter-Strike 2`|
+|[TF2&#45;SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/687907-tf2-sdk.html)|`2025-02-20 22:04:00`|`Team Fortress 2`|
+|[Sniper Elite Resistance timer freeze &#40;gamepass&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/687258-sniper-elite-resistance-timer-freeze-gamepass.html)|`2025-02-20 22:03:00`|`Cheat Engine Tables`|
+|[DMA ESP & AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687126-dma-esp-aim.html)|`2025-02-20 22:01:00`|`Marvel Rivals`|
+|[need help fr arduino/python via hidapi](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687311-help-fr-arduino-python-via-hidapi.html)|`2025-02-20 22:00:00`|`Valorant`|
 |[GamerFun AI Menu: All mouse Aimbot, Triggerbot & Recoil Control Using LGUB Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671029-gamerfun-ai-menu-mouse-aimbot-triggerbot-recoil-control-using-lgub-drivers.html)|`2025-02-20 21:54:00`|`Rainbow Six Siege`|
 |[Zodiak &#45; Fastcup Full Kernel Driver Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/658126-zodiak-fastcup-kernel-driver-cheat.html)|`2025-02-20 21:54:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[TF2Classic Internal Cheat V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/598383-tf2classic-internal-cheat-v2.html)|`2025-02-20 21:51:00`|`Team Fortress 2`|
