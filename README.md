@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FACEIT DLL Hijack Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677628-faceit-dll-hijack-exploit.html)|`2025-02-21 20:50:00`|`Anti-Cheat Bypass`|
+|[Path of Exile 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676435-path-exile-2-reversal-structs-offsets.html)|`2025-02-21 20:47:00`|`Other MMORPG and Strategy`|
+|[&#124; Dota 2 &#124; Camera Hack &#124; EXTERNAL &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686734-dota-2-camera-hack-external.html)|`2025-02-21 20:44:00`|`Other MMORPG and Strategy`|
+|[CSS x64 noflash, nosmoke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/687790-css-x64-noflash-nosmoke.html)|`2025-02-21 20:35:00`|`CounterStrike Source`|
+|[Sniper Elite Resistance timer freeze &#40;gamepass&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/687258-sniper-elite-resistance-timer-freeze-gamepass.html)|`2025-02-21 20:32:00`|`Cheat Engine Tables`|
 |[Spoof nvidia driver?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/688105-spoof-nvidia-driver.html)|`2025-02-21 19:58:00`|`Forum General`|
 |[EVO ESP fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/688104-evo-esp-fix.html)|`2025-02-21 19:49:00`|`Playerunknown's Battlegrounds`|
 |[Good hook protection PUBG GL 3&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/688102-hook-protection-pubg-gl-3-5-a.html)|`2025-02-21 19:37:00`|`PUBG Mobile`|
