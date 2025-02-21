@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[👽 VALORANT Skin Changer &#40;Just Inject it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/517551-valorant-skin-changer-inject.html)|`2025-02-21 12:28:00`|`Valorant`|
+|[FIND THE STATIC MEMORY ON CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/688057-static-memory-ce.html)|`2025-02-21 12:27:00`|`Cheat Engine Tables`|
+|[Where to put chat command hook for 1&#46;21&#46;4?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/688056-chat-command-hook-1-21-4-a.html)|`2025-02-21 12:27:00`|`Minecraft`|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-02-21 12:26:00`|`Grand Theft Auto V`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-02-21 12:18:00`|`Marvel Rivals`|
 |[Sai's Color Aimbot v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/659687-sais-color-aimbot-v2.html)|`2025-02-21 11:18:00`|`Call of Duty: Modern Warfare III`|
 |[mw2 scripts tips](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-ii/684253-mw2-scripts-tips.html)|`2025-02-21 11:12:00`|`Call of Duty: Modern Warfare II`|
 |[Altv Internal Cheat &#124; Venine Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/687699-altv-internal-cheat-venine-internal.html)|`2025-02-21 11:07:00`|`Alternative Online Mods`|
