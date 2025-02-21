@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Triggerbot patch Bypass for Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667460-triggerbot-patch-bypass-python.html)|`2025-02-21 16:13:00`|`Valorant`|
+|[Low Trust Factor for Years After Cheating – Did It Ever Return to Normal?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688088-low-trust-factor-cheating-return-normal.html)|`2025-02-21 16:12:00`|`Counter-Strike 2`|
+|[This is how Bans work in Marvel Rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680697-bans-marvel-rivals.html)|`2025-02-21 16:06:00`|`Marvel Rivals`|
+|[apex color aimbot,c&#43;&#43; 80days 0ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/684954-apex-color-aimbot-80days-0ban.html)|`2025-02-21 16:03:00`|`Apex Legends`|
 |[Dors monitor refresh rate matter for triggerbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687494-dors-monitor-refresh-rate-matter-triggerbot.html)|`2025-02-21 15:10:00`|`Valorant`|
 |[External Raycasting &#40;PhysX recreation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673196-external-raycasting-physx-recreation.html)|`2025-02-21 14:59:00`|`Escape from Tarkov`|
 |[PUBG DMA Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/644302-pubg-dma-cheat-run.html)|`2025-02-21 14:58:00`|`Playerunknown's Battlegrounds`|
