@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2025-02-22 02:36:00`|`Overwatch`|
+|[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2025-02-22 02:27:00`|`Scum`|
 |[shadowbanned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/686670-shadowbanned.html)|`2025-02-22 02:16:00`|`Call of Duty 4: Modern Warfare`|
 |[Need Help Finding XYZ Coordinates in Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/687372-help-finding-xyz-coordinates-cheat-engine.html)|`2025-02-22 02:11:00`|`C and C++`|
 |[logFilePath 32bit GL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/688159-logfilepath-32bit-gl.html)|`2025-02-22 01:49:00`|`PUBG Mobile`|
