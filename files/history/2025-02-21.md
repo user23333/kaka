@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Case 35 PUBG 32BIT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/688091-35-pubg-32bit.html)|`2025-02-21 16:50:00`|`PUBG Mobile`|
+|[Easily Bypass Emulator Detection in PUBG Mobile for 64&#45;Bit Applications](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/632021-easily-bypass-emulator-detection-pubg-mobile-64-bit-applications.html)|`2025-02-21 16:49:00`|`PUBG Mobile`|
 |[Triggerbot patch Bypass for Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/667460-triggerbot-patch-bypass-python.html)|`2025-02-21 16:13:00`|`Valorant`|
 |[Low Trust Factor for Years After Cheating – Did It Ever Return to Normal?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688088-low-trust-factor-cheating-return-normal.html)|`2025-02-21 16:12:00`|`Counter-Strike 2`|
 |[This is how Bans work in Marvel Rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680697-bans-marvel-rivals.html)|`2025-02-21 16:06:00`|`Marvel Rivals`|
