@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any region selector currently working?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/687932-region-selector-currently.html)|`2025-02-21 22:39:00`|`Team Fortress 2`|
 |[AutoStratagem &#43; SRC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/685086-autostratagem-src.html)|`2025-02-21 22:31:00`|`HELLDIVERS 2`|
 |[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2025-02-21 22:29:00`|`Valorant`|
 |[SafeDisc cracking tutorial?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/688137-safedisc-cracking-tutorial.html)|`2025-02-21 22:26:00`|`Forum General`|
