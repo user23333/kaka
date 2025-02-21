@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CANT PLAY RUST PLEASE HELP ME](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/688045-cant-play-rust-please-help.html)|`2025-02-22 03:12:00`|`Rust`|
+|[Lite ESP External &#40;Kernel&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/688163-lite-esp-external-kernel.html)|`2025-02-22 03:10:00`|`CounterStrike Source`|
+|[Pixel Gun 3D Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/663707-pixel-gun-3d-cheat-engine-table.html)|`2025-02-22 02:48:00`|`Cheat Engine Tables`|
 |[Combat Master &#124; Fully Featured Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/677171-combat-master-featured-internal.html)|`2025-02-22 02:55:00`|`Combat Master`|
 |[Bypassing EAC on Linux via Kernel Module](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688145-bypassing-eac-linux-via-kernel-module.html)|`2025-02-22 02:51:00`|`Anti-Cheat Bypass`|
 |[WTF? New cheat on the market or something?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/687911-wtf-cheat-market.html)|`2025-02-22 02:50:00`|`Escape from Tarkov`|
