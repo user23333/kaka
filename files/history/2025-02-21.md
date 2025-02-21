@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2025-02-21 23:43:00`|`Palworld`|
+|[Instant reload &#40;Work online&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/687338-instant-reload-online.html)|`2025-02-21 23:43:00`|`Payday 3`|
+|[Get out of custody non/host](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/687913-custody-host.html)|`2025-02-21 23:39:00`|`Payday 2`|
+|[Pred RunCommanad crashes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/688107-pred-runcommanad-crashes.html)|`2025-02-21 23:38:00`|`Team Fortress 2`|
+|[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-02-21 23:37:00`|`Sea of Thieves`|
 |[seo64 fixed &#43; launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/686228-seo64-fixed-launcher.html)|`2025-02-21 23:34:00`|`Team Fortress 2`|
 |[More additions to the staff team&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/687095-additions-staff-team.html)|`2025-02-21 23:34:00`|`Information and Announcements`|
 |[VHacks 1&#46;6&#46;5&#46;3o](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686651-vhacks-1-6-5-3o.html)|`2025-02-21 23:33:00`|`Valorant`|
