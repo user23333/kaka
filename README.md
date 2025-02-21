@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[64 Bit Offset Required](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/687857-64-bit-offset-required.html)|`2025-02-22 03:26:00`|`PUBG Mobile`|
+|[Primary and Secundary weapon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688165-primary-secundary-weapon.html)|`2025-02-22 03:21:00`|`Counter-Strike 2`|
+|[Rust Driver not getting Module Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/687985-rust-driver-getting-module-base.html)|`2025-02-22 03:19:00`|`Rust`|
+|[Altv Internal Cheat &#124; Venine Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/687699-altv-internal-cheat-venine-internal.html)|`2025-02-22 03:17:00`|`Alternative Online Mods`|
 |[CANT PLAY RUST PLEASE HELP ME](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/688045-cant-play-rust-please-help.html)|`2025-02-22 03:12:00`|`Rust`|
 |[Lite ESP External &#40;Kernel&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/688163-lite-esp-external-kernel.html)|`2025-02-22 03:10:00`|`CounterStrike Source`|
 |[Pixel Gun 3D Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/663707-pixel-gun-3d-cheat-engine-table.html)|`2025-02-22 02:48:00`|`Cheat Engine Tables`|
