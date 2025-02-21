@@ -13,6 +13,7 @@
 |6|["Vanguard Bypass"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687100-vanguard-bypass.html)|`2025-02-21 00:20:28`|`valorant`|
 |23|[The Closest Thing To Aimbot & No Recoil You're Going To Get](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/687328-closest-aimbot-recoil-youre.html)|`2025-02-21 02:23:24`|`the-finals`|
 |26|[Full Anticheat Disabler &#40;You can play online&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687866-anticheat-disabler-play-online.html)|`2025-02-21 05:36:39`|`marvel-rivals`|
+|13|[hyper&#45;v hacking detect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/687016-hyper-hacking-detect.html)|`2025-02-21 10:54:30`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How bad of an idea is it to call Valve proprietary code from my process](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688049-bad-idea-call-valve-proprietary-code-process.html)|`2025-02-21 10:37:00`|`Counter-Strike 2`|
+|[Dead By Daylight DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682901-dead-daylight-dma-esp.html)|`2025-02-21 10:36:00`|`Other FPS Games`|
+|[TF2&#45;SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/687907-tf2-sdk.html)|`2025-02-21 10:27:00`|`Team Fortress 2`|
 |[First Insights: A Deep Dive into Valorant's Internal Structure](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687956-insights-deep-dive-valorants-internal-structure.html)|`2025-02-21 09:59:00`|`Valorant`|
 |[Simple Internal and Easy Injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687533-simple-internal-easy-injection.html)|`2025-02-21 09:46:00`|`Marvel Rivals`|
 |[Making cheats &#40;such as ESP or Aimbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/687919-cheats-esp-aimbot.html)|`2025-02-21 09:42:00`|`Rainbow Six Siege`|
