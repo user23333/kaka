@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[First Insights: A Deep Dive into Valorant's Internal Structure](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687956-insights-deep-dive-valorants-internal-structure.html)|`2025-02-21 09:59:00`|`Valorant`|
+|[Simple Internal and Easy Injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687533-simple-internal-easy-injection.html)|`2025-02-21 09:46:00`|`Marvel Rivals`|
+|[Making cheats &#40;such as ESP or Aimbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/687919-cheats-esp-aimbot.html)|`2025-02-21 09:42:00`|`Rainbow Six Siege`|
 |[SA:MP lol](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/688043-sa-mp-lol.html)|`2025-02-21 07:44:00`|`Off Topic`|
 |[CS2 ping issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688042-cs2-ping-issue.html)|`2025-02-21 07:40:00`|`Counter-Strike 2`|
 |[3on3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/624254-3on3.html)|`2025-02-21 07:37:00`|`Other Games`|
