@@ -28,9 +28,11 @@
 |15|[MarvelVTablesNames](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48671)|`2025-02-21 00:20:28`|
 |7|[Sniper Elite Resistance timer freeze](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48669)|`2025-02-21 00:20:28`|
 |3|[BuckShoot Roulette Custom Host Settings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48668)|`2025-02-21 00:20:28`|
+|2|[RivalStuffFix&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48735)|`2025-02-21 20:14:02`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spoof nvidia driver?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/688105-spoof-nvidia-driver.html)|`2025-02-21 19:58:00`|`Forum General`|
 |[EVO ESP fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/688104-evo-esp-fix.html)|`2025-02-21 19:49:00`|`Playerunknown's Battlegrounds`|
 |[Good hook protection PUBG GL 3&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/688102-hook-protection-pubg-gl-3-5-a.html)|`2025-02-21 19:37:00`|`PUBG Mobile`|
 |[All Mouse NoRecoil &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-recoil-helpy-auto-config-probably-ud-universal.html)|`2025-02-21 19:36:00`|`Rainbow Six Siege`|
