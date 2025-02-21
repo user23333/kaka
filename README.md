@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Good hook protection 32bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/688039-hook-protection-32bit.html)|`2025-02-21 12:57:00`|`PUBG Mobile`|
 |[BotOps Hub &#40;bot lobby tool, no VM required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674129-botops-hub-bot-lobby-tool-vm-required.html)|`2025-02-21 12:53:00`|`Call of Duty: Black Ops 6`|
 |[Aimbot flicking away](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/688062-aimbot-flicking.html)|`2025-02-21 12:47:00`|`Alternative Online Mods`|
 |[Unity GOM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/688058-unity-gom.html)|`2025-02-21 12:40:00`|`Rust`|
