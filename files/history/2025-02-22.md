@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Controller Emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673578-controller-emulation.html)|`2025-02-22 22:26:00`|`Call of Duty: Black Ops 6`|
+|[Old Logitech GHub Installer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/688287-logitech-ghub-installer.html)|`2025-02-22 22:25:00`|`PC Software`|
+|[Marvel Blocking all inputs in an afk bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688286-marvel-blocking-inputs-afk-bot.html)|`2025-02-22 22:18:00`|`Marvel Rivals`|
 |[3on3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/624254-3on3.html)|`2025-02-22 22:05:00`|`Other Games`|
 |[Starting with Win11 DSE Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/687860-starting-win11-dse-exploit.html)|`2025-02-22 22:04:00`|`Anti-Cheat Bypass`|
 |[External reading not working??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/687721-external-reading.html)|`2025-02-22 21:55:00`|`Among Us`|
