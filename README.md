@@ -32,9 +32,13 @@
 |1|[The secret painting activator&#40;Host&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48750)|`2025-02-23 01:29:05`|
 |0|[cod&#45;main](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48748)|`2025-02-23 01:29:05`|
 |1|[Lite Esp External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48746)|`2025-02-23 01:36:33`|
+|3|[Marvel Rivals DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48762)|`2025-02-23 02:37:29`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-02-23 02:36:00`|`Counter-Strike 2`|
+|[Wall safe got bugged](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/688285-wall-safe-bugged.html)|`2025-02-23 02:36:00`|`Grand Theft Auto V`|
+|[DMA ESP & AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687126-dma-esp-aim.html)|`2025-02-23 02:32:00`|`Marvel Rivals`|
 |[&#124; CS2 &#124; Pudra &#124; EXTERNAL &#124; SOURCE &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687962-cs2-pudra-external-source.html)|`2025-02-23 02:23:00`|`Counter-Strike 2`|
 |[&#124; Dota 2 &#124; Camera Hack &#124; EXTERNAL &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686734-dota-2-camera-hack-external.html)|`2025-02-23 02:22:00`|`Other MMORPG and Strategy`|
 |[Kovaak's FPS Aim Trainer External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/595259-kovaaks-fps-aim-trainer-external-cheat.html)|`2025-02-23 02:20:00`|`Other FPS Games`|
