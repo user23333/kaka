@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[This is how Bans work in Marvel Rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680697-bans-marvel-rivals.html)|`2025-02-22 15:48:00`|`Marvel Rivals`|
 |[&#91;Updated&#93; Dead by Daylight Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/635513-updated-dead-daylight-unlock-dlcs-skins.html)|`2025-02-22 15:21:00`|`Other FPS Games`|
 |[How good is MalDev for learning beginner &#45; intermediate game hacking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/685962-maldev-learning-beginner-intermediate-game-hacking.html)|`2025-02-22 13:48:00`|`General Programming and Reversing`|
 |[Helldivers 2&#45;&#45;AHK Stratagems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/625227-helldivers-2-ahk-stratagems.html)|`2025-02-22 13:48:00`|`HELLDIVERS 2`|
