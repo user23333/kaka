@@ -13,6 +13,7 @@
 |6|["Vanguard Bypass"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687100-vanguard-bypass.html)|`2025-02-22 00:00:59`|`valorant`|
 |16|[Injecting into Battleye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/687423-injecting-battleye.html)|`2025-02-22 07:51:52`|`anti-cheat-bypass`|
 |17|[NEXT&#45;GEN UPDATE FOR PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/687966-gen-update-pc.html)|`2025-02-22 10:15:31`|`grand-theft-auto-v`|
+|10|[Anti ban &#43; crash fix &#43; simple internal injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687963-anti-ban-crash-fix-simple-internal-injector.html)|`2025-02-22 12:43:02`|`marvel-rivals`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
