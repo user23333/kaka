@@ -14,6 +14,7 @@
 |16|[Injecting into Battleye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/687423-injecting-battleye.html)|`2025-02-22 07:51:52`|`anti-cheat-bypass`|
 |17|[NEXT&#45;GEN UPDATE FOR PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/687966-gen-update-pc.html)|`2025-02-22 10:15:31`|`grand-theft-auto-v`|
 |10|[Anti ban &#43; crash fix &#43; simple internal injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687963-anti-ban-crash-fix-simple-internal-injector.html)|`2025-02-22 12:43:02`|`marvel-rivals`|
+|6|[&#124; CS2 &#124; Pudra &#124; EXTERNAL &#124; SOURCE &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687962-cs2-pudra-external-source.html)|`2025-02-22 22:00:02`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External reading not working??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/687721-external-reading.html)|`2025-02-22 21:55:00`|`Among Us`|
 |[How to find vtable function addresses?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/source-engine/688283-vtable-function-addresses.html)|`2025-02-22 21:52:00`|`Source Engine`|
 |[CM Cheat Host Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/685835-cm-cheat-host.html)|`2025-02-22 21:42:00`|`Combat Master`|
 |[Redmatch 2 Godmode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658787-redmatch-2-godmode.html)|`2025-02-22 21:41:00`|`Other FPS Games`|
