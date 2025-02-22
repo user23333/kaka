@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to find vtable function addresses?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/source-engine/688283-vtable-function-addresses.html)|`2025-02-22 21:52:00`|`Source Engine`|
 |[CM Cheat Host Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/685835-cm-cheat-host.html)|`2025-02-22 21:42:00`|`Combat Master`|
 |[Redmatch 2 Godmode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658787-redmatch-2-godmode.html)|`2025-02-22 21:41:00`|`Other FPS Games`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-02-22 21:38:00`|`Other FPS Games`|
