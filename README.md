@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vanguard Routine File Scan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688237-vanguard-routine-file-scan.html)|`2025-02-22 10:55:00`|`Valorant`|
 |[Ban GenZ from this forum?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/686572-ban-genz-forum.html)|`2025-02-22 10:45:00`|`Off Topic`|
 |[&#124; Dota 2 &#124; Camera Hack &#124; EXTERNAL &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686734-dota-2-camera-hack-external.html)|`2025-02-22 10:40:00`|`Other MMORPG and Strategy`|
 |[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-02-22 10:40:00`|`Battlefield 4`|
