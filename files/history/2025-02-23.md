@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-02-23 01:40:00`|`Other FPS Games`|
+|[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2025-02-23 01:40:00`|`Other Games`|
+|[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2025-02-23 01:40:00`|`Other FPS Games`|
 |[garry mod nixware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/688162-garry-mod-nixware.html)|`2025-02-23 01:35:00`|`Garry's Mod`|
 |[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2025-02-23 01:35:00`|`Other FPS Games`|
 |[Outfit Editor   and  BBOB&#40;browser extension that generates Outfits Code for Bincohax&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/624819-outfit-editor-bbob-browser-extension-generates-outfits-code-bincohax.html)|`2025-02-23 01:33:00`|`Grand Theft Auto V`|
