@@ -37,6 +37,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-02-23 05:51:00`|`Call of Duty: Black Ops 6`|
+|[TFA No Spread & No recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/688154-tfa-spread-recoil.html)|`2025-02-23 05:48:00`|`Garry's Mod`|
+|[Redmatch 2 cheat internal many features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675091-redmatch-2-cheat-internal-features.html)|`2025-02-23 05:44:00`|`Other FPS Games`|
 |[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2025-02-23 05:42:00`|`Valorant`|
 |[ollvm&#45;13&#46;x &#40;llvm obfuscator&#41; &#45; vs2022 compatible](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/500042-ollvm-13-llvm-obfuscator-vs2022-compatible.html)|`2025-02-23 05:29:00`|`Anti-Cheat Bypass`|
 |[Regarding Actors Iteration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/688356-regarding-actors-iteration.html)|`2025-02-23 05:33:00`|`Unreal Engine 4`|
