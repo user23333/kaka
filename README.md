@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ban GenZ from this forum?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/686572-ban-genz-forum.html)|`2025-02-22 10:45:00`|`Off Topic`|
+|[&#124; Dota 2 &#124; Camera Hack &#124; EXTERNAL &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686734-dota-2-camera-hack-external.html)|`2025-02-22 10:40:00`|`Other MMORPG and Strategy`|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-02-22 10:40:00`|`Battlefield 4`|
 |[Feature Ideas External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688232-feature-ideas-external.html)|`2025-02-22 10:13:00`|`Counter-Strike 2`|
 |[PTE's and memory protections&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688233-ptes-memory-protections.html)|`2025-02-22 10:10:00`|`Anti-Cheat Bypass`|
 |[asphyxia&#45;cs2 updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687274-asphyxia-cs2-updated.html)|`2025-02-22 10:05:00`|`Counter-Strike 2`|
