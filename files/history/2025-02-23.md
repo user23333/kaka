@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mouse input block in game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688303-mouse-input-block-game.html)|`2025-02-23 00:28:00`|`Marvel Rivals`|
+|[EAC Spoofed Games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688302-eac-spoofed-games.html)|`2025-02-23 00:28:00`|`Anti-Cheat Bypass`|
+|[All Mouse NoRecoil &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-recoil-helpy-auto-config-probably-ud-universal.html)|`2025-02-23 00:24:00`|`Rainbow Six Siege`|
+|[FIVEM DEV TOOLS NUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/688226-fivem-dev-tools-nui.html)|`2025-02-23 00:24:00`|`Alternative Online Mods`|
 |[Cheat for making money?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/687949-cheat-money.html)|`2025-02-23 00:12:00`|`Escape from Tarkov`|
 |[HLL: Hell Let Loose](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/340677-hll-hell-loose.html)|`2025-02-23 00:11:00`|`Other FPS Games`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-02-23 00:10:00`|`Grand Theft Auto V`|
