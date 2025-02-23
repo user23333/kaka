@@ -37,6 +37,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[WZ BO6 Working Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675805-wz-bo6-base.html)|`2025-02-23 08:56:00`|`Call of Duty: Black Ops 6`|
+|[Auto detection &#91;python&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/688382-auto-detection-python.html)|`2025-02-23 08:54:00`|`Rust`|
+|[how to make money esp ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688381-money-esp.html)|`2025-02-23 08:52:00`|`Counter-Strike 2`|
+|[Improving the aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/688168-improving-aimbot.html)|`2025-02-23 08:29:00`|`Rust`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-02-23 08:20:00`|`Playerunknown's Battlegrounds`|
 |[Can someone help me implement decimal values to logitech lua code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/688370-help-implement-decimal-values-logitech-lua-code.html)|`2025-02-23 07:56:00`|`Rainbow Six Siege`|
 |[GamerFun AI Menu: All mouse Aimbot, Triggerbot & Recoil Control Using LGUB Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671029-gamerfun-ai-menu-mouse-aimbot-triggerbot-recoil-control-using-lgub-drivers.html)|`2025-02-23 07:56:00`|`Rainbow Six Siege`|
 |[Base Module & EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688013-base-module-eac.html)|`2025-02-23 07:50:00`|`Anti-Cheat Bypass`|
