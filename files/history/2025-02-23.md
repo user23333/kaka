@@ -12,6 +12,7 @@
 |10|[Anti ban &#43; crash fix &#43; simple internal injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687963-anti-ban-crash-fix-simple-internal-injector.html)|`2025-02-23 00:16:47`|`marvel-rivals`|
 |6|[&#124; CS2 &#124; Pudra &#124; EXTERNAL &#124; SOURCE &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687962-cs2-pudra-external-source.html)|`2025-02-23 00:16:47`|`counter-strike-2-a`|
 |10|[GTA online update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/687875-gta-online-update.html)|`2025-02-23 05:22:20`|`grand-theft-auto-v`|
+|29|[Shitty marvel rivals internal Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687997-shitty-marvel-rivals-internal-base.html)|`2025-02-23 13:43:26`|`marvel-rivals`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
