@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Perfect Logitech Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/626963-rust-perfect-logitech-script.html)|`2025-02-23 15:35:00`|`Rust`|
+|[SCP:SL anti&#45;cheat analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/688412-scp-sl-anti-cheat-analysis.html)|`2025-02-23 15:33:00`|`Other Games`|
+|[Building a combat bot and parry bot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/688170-building-combat-bot-parry-bot.html)|`2025-02-23 15:30:00`|`Other Games`|
 |[Signed Spoofer By Microsoft&#40;EAC & BE&#41;  Early Christmas Present](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677190-signed-spoofer-microsoft-eac-christmas.html)|`2025-02-23 15:23:00`|`Anti-Cheat Bypass`|
 |[cheat mw19](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/687092-cheat-mw19.html)|`2025-02-23 13:57:00`|`Call of Duty: Modern Warfare`|
 |[R6 Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/688404-r6-ban.html)|`2025-02-23 13:02:00`|`Rainbow Six Siege`|
