@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/688400-offsets.html)|`2025-02-23 12:31:00`|`CounterStrike Source`|
+|[Golden Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/686207-golden-spoofer.html)|`2025-02-23 12:27:00`|`Rainbow Six Siege`|
 |[Print string on zombies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-5-world-at-war/688397-print-string-zombies.html)|`2025-02-23 12:11:00`|`Call of Duty 5: World at War`|
 |[UNDETECTED MOUSE MOVEMENTS, HIJACK RAZER SYNAPSE &#45; BYPASS VGK, EAC, BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/687990-undetected-mouse-movements-hijack-razer-synapse-bypass-vgk-eac.html)|`2025-02-23 11:55:00`|`Anti-Cheat Bypass`|
 |[GTA online update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/687875-gta-online-update.html)|`2025-02-23 11:55:00`|`Grand Theft Auto V`|
