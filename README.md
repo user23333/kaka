@@ -37,6 +37,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[About the Trigger Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688388-trigger-patch.html)|`2025-02-23 09:54:00`|`Valorant`|
+|[How to bypass EAC detection for beginners??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688387-bypass-eac-detection-beginners.html)|`2025-02-23 09:52:00`|`Anti-Cheat Bypass`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-02-23 09:32:00`|`Counter-Strike 2`|
+|[&#91;STEAM &#124; XBOX &#124; STEAMDECK&#93; PalworldInternal &#45; Post Nuclear](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/621709-steam-xbox-steamdeck-palworldinternal-post-nuclear.html)|`2025-02-23 09:21:00`|`Palworld`|
+|[best money methods 1&#46;70 With no Ban? YimMenu with Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/686063-money-methods-1-70-ban-yimmenu-scripts.html)|`2025-02-23 09:13:00`|`Grand Theft Auto V`|
 |[WZ BO6 Working Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675805-wz-bo6-base.html)|`2025-02-23 08:56:00`|`Call of Duty: Black Ops 6`|
 |[Auto detection &#91;python&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/688382-auto-detection-python.html)|`2025-02-23 08:54:00`|`Rust`|
 |[how to make money esp ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688381-money-esp.html)|`2025-02-23 08:52:00`|`Counter-Strike 2`|
