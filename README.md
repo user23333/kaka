@@ -37,6 +37,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheats not working since update&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688392-cheats-update.html)|`2025-02-23 10:36:00`|`Marvel Rivals`|
+|[MSFS 2024 career](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/676849-msfs-2024-career.html)|`2025-02-23 10:26:00`|`Other Games`|
+|[External reading not working??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/687721-external-reading.html)|`2025-02-23 10:21:00`|`Among Us`|
 |[About the Trigger Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688388-trigger-patch.html)|`2025-02-23 09:54:00`|`Valorant`|
 |[How to bypass EAC detection for beginners??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688387-bypass-eac-detection-beginners.html)|`2025-02-23 09:52:00`|`Anti-Cheat Bypass`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-02-23 09:32:00`|`Counter-Strike 2`|
