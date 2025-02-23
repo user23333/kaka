@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Launcher Ban / BE Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/688416-launcher-ban-ban.html)|`2025-02-23 16:34:00`|`Escape from Tarkov`|
+|[Bypassing EAC on Linux via Kernel Module](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688145-bypassing-eac-linux-via-kernel-module.html)|`2025-02-23 16:30:00`|`Anti-Cheat Bypass`|
+|[Dumping Structures &#40;XAsset Files&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/688417-dumping-structures-xasset-files.html)|`2025-02-23 16:28:00`|`Call of Duty: Black Ops 6`|
 |[Rust Perfect Logitech Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/626963-rust-perfect-logitech-script.html)|`2025-02-23 15:35:00`|`Rust`|
 |[SCP:SL anti&#45;cheat analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/688412-scp-sl-anti-cheat-analysis.html)|`2025-02-23 15:33:00`|`Other Games`|
 |[Building a combat bot and parry bot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/688170-building-combat-bot-parry-bot.html)|`2025-02-23 15:30:00`|`Other Games`|
