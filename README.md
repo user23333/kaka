@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Avowed Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/688452-avowed-reversal-structs-offsets.html)|`2025-02-23 22:11:00`|`Other MMORPG and Strategy`|
+|[battle pass XP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/688450-battle-pass-xp.html)|`2025-02-23 22:05:00`|`Call of Duty: Black Ops 6`|
 |[Help with coding dma radar hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/662481-help-coding-dma-radar-hack.html)|`2025-02-23 22:00:00`|`ARMA 3`|
 |[SCP:SL anti&#45;cheat analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688412-scp-sl-anti-cheat-analysis.html)|`2025-02-23 21:59:00`|`Anti-Cheat Bypass`|
 |[Link channel to MARO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/688447-link-channel-maro.html)|`2025-02-23 21:58:00`|`PUBG Mobile`|
