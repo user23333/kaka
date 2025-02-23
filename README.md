@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[UNDETECTED MOUSE MOVEMENTS, HIJACK RAZER SYNAPSE &#45; BYPASS VGK, EAC, BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/687990-undetected-mouse-movements-hijack-razer-synapse-bypass-vgk-eac.html)|`2025-02-23 11:55:00`|`Anti-Cheat Bypass`|
+|[GTA online update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/687875-gta-online-update.html)|`2025-02-23 11:55:00`|`Grand Theft Auto V`|
 |[RAM Serial Numbers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/687944-ram-serial.html)|`2025-02-23 11:23:00`|`Anti-Cheat Bypass`|
 |[Cheats not working since update&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688392-cheats-update.html)|`2025-02-23 10:36:00`|`Marvel Rivals`|
 |[MSFS 2024 career](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/676849-msfs-2024-career.html)|`2025-02-23 10:26:00`|`Other Games`|
