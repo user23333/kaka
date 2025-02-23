@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SCP SL Cheat v13&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/611154-scp-sl-cheat-v13-3-1-a.html)|`2025-02-24 05:47:00`|`Other Games`|
+|[Improving the aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/688168-improving-aimbot.html)|`2025-02-24 05:41:00`|`Rust`|
 |[Unencrypted il2cpp dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/687053-unencrypted-il2cpp-dump.html)|`2025-02-24 05:34:00`|`Rust`|
 |[help creating a cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688510-help-creating-cheat.html)|`2025-02-24 05:23:00`|`Marvel Rivals`|
 |[Cheats not working since update&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688392-cheats-update.html)|`2025-02-24 05:17:00`|`Marvel Rivals`|
