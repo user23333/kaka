@@ -35,6 +35,7 @@
 |0|[cod&#45;main](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48748)|`2025-02-23 01:29:05`|
 |1|[Lite Esp External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48746)|`2025-02-23 01:36:33`|
 |3|[Marvel Rivals DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48762)|`2025-02-23 02:37:29`|
+|0|[AvowedSDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48776)|`2025-02-23 23:06:23`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
