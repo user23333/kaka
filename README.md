@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-02-24 06:14:00`|`Other FPS Games`|
+|[Do people know i'm using YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/688461-people-im-using-yimmenu.html)|`2025-02-24 06:07:00`|`Grand Theft Auto V`|
+|[Unable to get CTFPlayer on CreateMove?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/688146-unable-ctfplayer-createmove.html)|`2025-02-24 06:05:00`|`Team Fortress 2`|
+|[How bad of an idea is it to call Valve proprietary code from my process](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688049-bad-idea-call-valve-proprietary-code-process.html)|`2025-02-24 06:02:00`|`Counter-Strike 2`|
+|[Low Trust Factor for Years After Cheating – Did It Ever Return to Normal?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688088-low-trust-factor-cheating-return-normal.html)|`2025-02-24 06:01:00`|`Counter-Strike 2`|
 |[cs2 python cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688140-cs2-python-cheat.html)|`2025-02-24 05:59:00`|`Counter-Strike 2`|
 |[Unloading From dll &#40;No Steam Rust&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/687521-unloading-dll-steam-rust.html)|`2025-02-24 05:52:00`|`Rust`|
 |[GTA5 1&#46;70 Build 3442 update released](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/687778-gta5-1-70-build-3442-update-released.html)|`2025-02-24 05:52:00`|`Grand Theft Auto V`|
