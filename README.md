@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[For new Devs: Nothing is UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688169-devs-ud.html)|`2025-02-24 01:22:00`|`Anti-Cheat Bypass`|
+|[Pubg PC HWID Unban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/688367-pubg-pc-hwid-unban.html)|`2025-02-24 01:20:00`|`Playerunknown's Battlegrounds`|
+|[DMA Rust Admin ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686840-dma-rust-admin-esp.html)|`2025-02-24 01:18:00`|`Rust`|
+|[Simple Advice For Young People](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/688151-simple-advice-people.html)|`2025-02-24 01:16:00`|`PUBG Mobile`|
+|[Hello guys, are there old&#45;school players here ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/683506-hello-guys-school-players.html)|`2025-02-24 01:12:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[YimMenu&#46;dll 1&#46;70 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678007-yimmenu-dll-1-70-update.html)|`2025-02-24 01:05:00`|`Grand Theft Auto V`|
 |[External Cheat AEONIX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688466-external-cheat-aeonix.html)|`2025-02-24 01:05:00`|`Counter-Strike 2`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-02-24 01:04:00`|`Counter-Strike 2`|
