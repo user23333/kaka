@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-02-24 01:43:00`|`Rainbow Six Siege`|
 |[Will Rockstar let us use mods on the old version of GTA Online?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/688368-rockstar-mods-version-gta-online.html)|`2025-02-24 01:38:00`|`Grand Theft Auto V`|
 |[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-02-24 01:35:00`|`Other FPS Games`|
 |[Does anybody have a free EAC spoofer &#40;fortnite&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679045-free-eac-spoofer-fortnite.html)|`2025-02-24 01:29:00`|`Anti-Cheat Bypass`|
