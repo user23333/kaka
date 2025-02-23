@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[help creating a cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688510-help-creating-cheat.html)|`2025-02-24 05:23:00`|`Marvel Rivals`|
 |[Cheats not working since update&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688392-cheats-update.html)|`2025-02-24 05:17:00`|`Marvel Rivals`|
 |[Spoofing with ASRock B560M&#45;C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688403-spoofing-asrock-b560m.html)|`2025-02-24 05:15:00`|`Valorant`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-02-24 05:07:00`|`Valorant`|
