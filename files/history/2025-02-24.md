@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Thugzin Source Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688588-thugzin-source-update.html)|`2025-02-24 17:57:00`|`Marvel Rivals`|
 |[1&#46;21 Mappings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/688587-1-21-mappings.html)|`2025-02-24 17:42:00`|`Minecraft`|
 |[Mod Skin PUBG Mobile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/688586-mod-skin-pubg-mobile.html)|`2025-02-24 16:58:00`|`PUBG Mobile`|
 |[Instrumentation Callbacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/688585-instrumentation-callbacks.html)|`2025-02-24 16:57:00`|`General Programming and Reversing`|
