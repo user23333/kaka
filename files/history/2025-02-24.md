@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Refined Sunoki's fully updated TriggerBot &#43; Mafia4321x's Spoofer  &#43; Cc's TB launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684759-refined-sunokis-updated-triggerbot-mafia4321xs-spoofer-ccs-tb-launcher.html)|`2025-02-24 20:11:00`|`Valorant`|
+|[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2025-02-24 20:10:00`|`Other FPS Games`|
 |[Is phasmophobias global&#45;metadata obfuscated?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/686540-phasmophobias-global-metadata-obfuscated.html)|`2025-02-24 19:02:00`|`Phasmophobia`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2025-02-24 18:58:00`|`Deadlock`|
 |[Destiny 2 Cheat Table &#43; Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680045-destiny-2-cheat-table-cheat-engine.html)|`2025-02-24 18:23:00`|`Other FPS Games`|
