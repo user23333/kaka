@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[simple cs2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686912-simple-cs2-internal.html)|`2025-02-25 07:20:00`|`Counter-Strike 2`|
 |[REDM Playername Externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/675033-redm-playername-externally.html)|`2025-02-25 06:40:00`|`Red Dead Redemption 2`|
 |[How do I start reversing EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688661-start-reversing-eac.html)|`2025-02-25 06:38:00`|`Anti-Cheat Bypass`|
 |[It's so complicated for us the dummies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688662-complicated-dummies.html)|`2025-02-25 06:43:00`|`Marvel Rivals`|
