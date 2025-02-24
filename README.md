@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mod Skin PUBG Mobile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/688586-mod-skin-pubg-mobile.html)|`2025-02-24 16:58:00`|`PUBG Mobile`|
+|[Instrumentation Callbacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/688585-instrumentation-callbacks.html)|`2025-02-24 16:57:00`|`General Programming and Reversing`|
 |[check localplayer is mvp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688581-check-localplayer-mvp.html)|`2025-02-24 16:02:00`|`Counter-Strike 2`|
 |[apex color aimbot,c&#43;&#43; 80days 0ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/684954-apex-color-aimbot-80days-0ban.html)|`2025-02-24 15:36:00`|`Apex Legends`|
 |[Marvel Blocking all inputs in an afk bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688286-marvel-blocking-inputs-afk-bot.html)|`2025-02-24 15:27:00`|`Marvel Rivals`|
