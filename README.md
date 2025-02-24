@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-02-25 00:39:00`|`Overwatch`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-02-25 00:38:00`|`Valorant`|
+|[Refined Sunoki's fully updated TriggerBot &#43; Mafia4321x's Spoofer  &#43; Cc's TB launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684759-refined-sunokis-updated-triggerbot-mafia4321xs-spoofer-ccs-tb-launcher.html)|`2025-02-25 00:37:00`|`Valorant`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-02-25 00:37:00`|`Apex Legends`|
+|[Sunoki's fully updated TriggerBot &#43; Spoofer by Mafia4321x](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679046-sunokis-updated-triggerbot-spoofer-mafia4321x.html)|`2025-02-25 00:32:00`|`Valorant`|
+|[R6 Recoil &#124; Info and Data Collection &#124; &#91;All Operator&#93;&#91;All Attachments&#93;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/681544-r6-recoil-info-data-collection-operator-attachments.html)|`2025-02-25 00:32:00`|`Rainbow Six Siege`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-02-25 00:30:00`|`Call of Duty: Black Ops 6`|
+|[basic chams base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/688179-basic-chams-base.html)|`2025-02-25 00:26:00`|`Call of Duty: Black Ops 6`|
+|[help creating a cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688510-help-creating-cheat.html)|`2025-02-25 00:26:00`|`Marvel Rivals`|
 |[Destiny 2 Cheat Table &#43; Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680045-destiny-2-cheat-table-cheat-engine.html)|`2025-02-25 00:17:00`|`Other FPS Games`|
 |[battle pass XP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/688450-battle-pass-xp.html)|`2025-02-25 00:09:00`|`Call of Duty: Black Ops 6`|
 |[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2025-02-25 00:09:00`|`Sea of Thieves`|
