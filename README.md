@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DSE Fix vs Manual Mapping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688560-dse-fix-vs-manual-mapping.html)|`2025-02-24 13:06:00`|`Anti-Cheat Bypass`|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-02-24 12:36:00`|`Farlight 84`|
 |[Updating internal source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/688456-updating-internal-source.html)|`2025-02-24 12:25:00`|`Call of Duty: Black Ops 6`|
 |[&#40;New&#41; Content Warning Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/635382-content-warning-cheat-menu.html)|`2025-02-24 12:21:00`|`Other Games`|
 |[BetterAimAssist: Valorant aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682003-betteraimassist-valorant-aim-assist.html)|`2025-02-24 12:00:00`|`Valorant`|
