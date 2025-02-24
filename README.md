@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[7DTD 1&#46;3 Creative and Debug Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/688667-7dtd-1-3-creative-debug-assembly-csharp-dll.html)|`2025-02-25 07:44:00`|`Other FPS Games`|
+|[Dark and Darker Internal V2 &#43; Hwid Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/618587-dark-darker-internal-v2-hwid-spoofer.html)|`2025-02-25 07:44:00`|`Other FPS Games`|
+|[How to install ADD&#45;ON mods into "online" mode while using FSL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678763-install-add-mods-online-mode-using-fsl.html)|`2025-02-25 07:40:00`|`Grand Theft Auto V`|
 |[gun/money dupe for lua executor?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/688665-gun-money-dupe-lua-executor.html)|`2025-02-25 07:30:00`|`Garry's Mod`|
 |[simple cs2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686912-simple-cs2-internal.html)|`2025-02-25 07:20:00`|`Counter-Strike 2`|
 |[REDM Playername Externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/675033-redm-playername-externally.html)|`2025-02-25 06:40:00`|`Red Dead Redemption 2`|
