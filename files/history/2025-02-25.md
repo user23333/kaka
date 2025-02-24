@@ -12,6 +12,7 @@
 |18|[NEXT&#45;GEN UPDATE FOR PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/687966-gen-update-pc.html)|`2025-02-25 00:19:12`|`grand-theft-auto-v`|
 |12|[GTA online update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/687875-gta-online-update.html)|`2025-02-25 00:19:12`|`grand-theft-auto-v`|
 |17|[Cheats not working since update&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688392-cheats-update.html)|`2025-02-25 01:48:06`|`marvel-rivals`|
+|20|[basic chams base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/688179-basic-chams-base.html)|`2025-02-25 01:59:48`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
