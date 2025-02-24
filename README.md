@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MSI Laptop spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688211-msi-laptop-spoof.html)|`2025-02-24 23:21:00`|`Valorant`|
+|[Where to start](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688608-start.html)|`2025-02-24 23:20:00`|`Counter-Strike 2`|
+|[Cracked Multiplayer Games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/685612-cracked-multiplayer-games.html)|`2025-02-24 23:17:00`|`Off Topic`|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-02-24 23:16:00`|`Phasmophobia`|
+|[Games with shit anti cheat&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/673855-games-shit-anti-cheat.html)|`2025-02-24 23:12:00`|`Off Topic`|
 |[battle pass XP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/688450-battle-pass-xp.html)|`2025-02-24 23:09:00`|`Call of Duty: Black Ops 6`|
 |[&#91;REIMU&#93; Apex Recoil &#91;NO MOUSE&#95;EVENT / INPUT&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/679345-reimu-apex-recoil-mouse_event-input.html)|`2025-02-24 23:08:00`|`Apex Legends`|
 |[Temp Spoofer Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/687943-temp-spoofer-methods.html)|`2025-02-24 23:08:00`|`Forum General`|
