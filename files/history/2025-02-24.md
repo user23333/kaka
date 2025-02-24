@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sunoki's fully updated TriggerBot &#43; Spoofer by Mafia4321x](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679046-sunokis-updated-triggerbot-spoofer-mafia4321x.html)|`2025-02-24 22:39:00`|`Valorant`|
+|[GF2 cheeto files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/688592-gf2-cheeto-files.html)|`2025-02-24 22:39:00`|`Other MMORPG and Strategy`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-02-24 22:17:00`|`Grand Theft Auto V`|
 |[Model render for chams preview](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688582-model-render-chams-preview.html)|`2025-02-24 22:10:00`|`Counter-Strike 2`|
 |[ssdt hooking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688436-ssdt-hooking.html)|`2025-02-24 22:08:00`|`Anti-Cheat Bypass`|
