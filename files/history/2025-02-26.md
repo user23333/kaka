@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RAM Serial Numbers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/687944-ram-serial.html)|`2025-02-26 03:31:00`|`Anti-Cheat Bypass`|
 |[Is it possible to make Native Invoker undetectable?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/687910-native-invoker-undetectable.html)|`2025-02-26 03:23:00`|`Alternative Online Mods`|
 |[Is shellcode injection detected on fivem?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/685849-shellcode-injection-detected-fivem.html)|`2025-02-26 03:21:00`|`Alternative Online Mods`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-02-26 03:20:00`|`Other FPS Games`|
