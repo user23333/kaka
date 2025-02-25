@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-02-26 00:55:00`|`Apex Legends`|
+|[Print string on zombies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-5-world-at-war/688397-print-string-zombies.html)|`2025-02-26 00:54:00`|`Call of Duty 5: World at War`|
+|[Is there any Free / Paid Cheat with BE Bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/688758-free-paid-cheat-bypass.html)|`2025-02-26 00:51:00`|`Grand Theft Auto V`|
 |[CS2 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/682717-cs2-cheat.html)|`2025-02-26 00:49:00`|`Counter-Strike 2 Releases`|
 |[FiveM External &#40;Weapon Spawner&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/688669-fivem-external-weapon-spawner.html)|`2025-02-26 00:39:00`|`Alternative Online Mods`|
 |[CS2 &#45; External SkinChanger Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688764-cs2-external-skinchanger-issue.html)|`2025-02-26 00:37:00`|`Counter-Strike 2`|
