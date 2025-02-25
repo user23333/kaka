@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock internal cheat source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/688736-deadlock-internal-cheat-source-code.html)|`2025-02-26 06:27:00`|`Deadlock`|
+|[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2025-02-26 06:24:00`|`Other FPS Games`|
 |[Chinese dma card](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686254-chinese-dma-card.html)|`2025-02-26 06:08:00`|`Anti-Cheat Bypass`|
 |[Working perm spoofers / unban methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688454-perm-spoofers-unban-methods.html)|`2025-02-26 06:04:00`|`Valorant`|
 |[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2025-02-26 05:51:00`|`Grand Theft Auto V`|
