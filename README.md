@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-02-26 03:20:00`|`Other FPS Games`|
+|[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-02-26 03:17:00`|`HELLDIVERS 2`|
 |[Do people know i'm using YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/688461-people-im-using-yimmenu.html)|`2025-02-26 03:08:00`|`Grand Theft Auto V`|
 |[Thread for Posting Pve Exploits &#40;software free&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/647317-thread-posting-pve-exploits-software-free.html)|`2025-02-26 03:06:00`|`Escape from Tarkov`|
 |[Best way to filter clove and astra smokes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688706-filter-clove-astra-smokes.html)|`2025-02-26 03:05:00`|`Valorant`|
