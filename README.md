@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Why can't my user&#45;mode loader communicate with my unsigned kernel&#45;mode driver?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/688785-cant-user-mode-loader-communicate-unsigned-kernel-mode-driver.html)|`2025-02-26 04:34:00`|`General Programming and Reversing`|
+|[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/686927-star-citizen-cheat-engine.html)|`2025-02-26 04:33:00`|`Cheat Engine Tables`|
+|[CS2 Movement/autostrafe/strafe opptimizer or any](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688781-cs2-movement-autostrafe-strafe-opptimizer.html)|`2025-02-26 04:09:00`|`Counter-Strike 2`|
 |[Straftat Cheat Fully Featured](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/684948-straftat-cheat-featured.html)|`2025-02-26 04:28:00`|`Other Games`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-02-26 04:18:00`|`Marvel Rivals`|
 |[Spidey Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688727-spidey-internal.html)|`2025-02-26 04:14:00`|`Marvel Rivals`|
