@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is phasmophobias global&#45;metadata obfuscated?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/686540-phasmophobias-global-metadata-obfuscated.html)|`2025-02-26 07:10:00`|`Phasmophobia`|
+|[Ways to make uis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688721-uis.html)|`2025-02-26 07:06:00`|`Counter-Strike 2`|
+|[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2025-02-26 07:05:00`|`Overwatch`|
 |[Dark and Darker Information](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/688532-dark-darker-information.html)|`2025-02-26 06:42:00`|`Other FPS Games`|
 |[&#91;VMM&#46;DLL&#93; DMA Fix CR3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/686738-vmm-dll-dma-fix-cr3.html)|`2025-02-26 06:17:00`|`Apex Legends`|
 |[Deadlock internal cheat source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/688736-deadlock-internal-cheat-source-code.html)|`2025-02-26 06:27:00`|`Deadlock`|
