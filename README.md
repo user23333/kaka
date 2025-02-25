@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Instalock&#93; &#45; Auto accept/Ban/Lock&#45;in](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/686488-instalock-auto-accept-ban-lock.html)|`2025-02-26 04:55:00`|`League of Legends`|
+|[Input methode for undetected cfgs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/688795-input-methode-undetected-cfgs.html)|`2025-02-26 04:52:00`|`Apex Legends`|
+|[PS GAMEGUARD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688491-ps-gameguard.html)|`2025-02-26 04:47:00`|`Anti-Cheat Bypass`|
 |[&#124; CS2 &#124; Pudra &#124; EXTERNAL &#124; SOURCE &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687962-cs2-pudra-external-source.html)|`2025-02-26 04:50:00`|`Counter-Strike 2`|
 |[Why can't my user&#45;mode loader communicate with my unsigned kernel&#45;mode driver?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/688785-cant-user-mode-loader-communicate-unsigned-kernel-mode-driver.html)|`2025-02-26 04:34:00`|`General Programming and Reversing`|
 |[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/686927-star-citizen-cheat-engine.html)|`2025-02-26 04:33:00`|`Cheat Engine Tables`|
