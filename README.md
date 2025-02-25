@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BetterAimAssist: Valorant aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682003-betteraimassist-valorant-aim-assist.html)|`2025-02-25 19:27:00`|`Valorant`|
+|[Deadlock internal cheat source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/688736-deadlock-internal-cheat-source-code.html)|`2025-02-25 19:22:00`|`Deadlock`|
 |[Does anybody have a free EAC spoofer &#40;fortnite&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679045-free-eac-spoofer-fortnite.html)|`2025-02-25 19:05:00`|`Anti-Cheat Bypass`|
 |[DMA &#40;Entity Esp &#43; Player Bones&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677658-dma-entity-esp-player-bones.html)|`2025-02-25 19:00:00`|`Rust`|
 |[Final Fantasy Vii : Remake Integrade Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/688733-final-fantasy-vii-remake-integrade-reversal-structs-offsets.html)|`2025-02-25 17:57:00`|`Other Single Player Games`|
