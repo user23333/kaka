@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Final Fantasy Vii : Remake Integrade Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/688733-final-fantasy-vii-remake-integrade-reversal-structs-offsets.html)|`2025-02-25 17:57:00`|`Other Single Player Games`|
+|[Primary and Secundary weapon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688165-primary-secundary-weapon.html)|`2025-02-25 17:57:00`|`Counter-Strike 2`|
+|[DayZ 1&#46;26 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/668418-dayz-1-26-cheat.html)|`2025-02-25 17:04:00`|`DayZ SA`|
 |[CUserCmd Structure](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/688732-cusercmd-structure.html)|`2025-02-25 17:26:00`|`Deadlock`|
 |[World to screen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688728-world-screen.html)|`2025-02-25 16:16:00`|`Marvel Rivals`|
 |[Spidey Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688727-spidey-internal.html)|`2025-02-25 16:15:00`|`Marvel Rivals`|
