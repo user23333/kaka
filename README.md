@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AQ3D Auto Fishing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/680860-aq3d-auto-fishing.html)|`2025-02-26 05:12:00`|`Unity`|
+|[Shadowban Loop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/688813-shadowban-loop.html)|`2025-02-26 05:08:00`|`Call of Duty: Black Ops 6`|
+|[Counter&#45;Strike 1&#46;6 EVOL Hack BUG HELP&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/688812-counter-strike-1-6-evol-hack-bug-help.html)|`2025-02-26 05:08:00`|`Other Games`|
+|[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-02-26 04:59:00`|`Call of Duty: Black Ops 3`|
 |[&#91;Instalock&#93; &#45; Auto accept/Ban/Lock&#45;in](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/686488-instalock-auto-accept-ban-lock.html)|`2025-02-26 04:55:00`|`League of Legends`|
 |[Input methode for undetected cfgs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/688795-input-methode-undetected-cfgs.html)|`2025-02-26 04:52:00`|`Apex Legends`|
 |[PS GAMEGUARD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688491-ps-gameguard.html)|`2025-02-26 04:47:00`|`Anti-Cheat Bypass`|
