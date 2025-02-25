@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is it possible to make Native Invoker undetectable?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/687910-native-invoker-undetectable.html)|`2025-02-26 03:23:00`|`Alternative Online Mods`|
+|[Is shellcode injection detected on fivem?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/685849-shellcode-injection-detected-fivem.html)|`2025-02-26 03:21:00`|`Alternative Online Mods`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-02-26 03:20:00`|`Other FPS Games`|
 |[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-02-26 03:17:00`|`HELLDIVERS 2`|
 |[Do people know i'm using YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/688461-people-im-using-yimmenu.html)|`2025-02-26 03:08:00`|`Grand Theft Auto V`|
