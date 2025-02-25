@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need Help Finding XYZ Coordinates in Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/687118-help-finding-xyz-coordinates-cheat-engine.html)|`2025-02-25 20:14:00`|`Other FPS Games`|
 |[Any 64x cheats for DoD:S?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/day-of-defeat/688090-64x-cheats-dod.html)|`2025-02-25 19:57:00`|`Day of Defeat`|
 |[BetterAimAssist: Valorant aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682003-betteraimassist-valorant-aim-assist.html)|`2025-02-25 19:27:00`|`Valorant`|
 |[Deadlock internal cheat source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/688736-deadlock-internal-cheat-source-code.html)|`2025-02-25 19:22:00`|`Deadlock`|
