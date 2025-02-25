@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chinese dma card](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686254-chinese-dma-card.html)|`2025-02-25 21:38:00`|`Anti-Cheat Bypass`|
+|[Marvel Rivals DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688289-marvel-rivals-dma-source.html)|`2025-02-25 21:38:00`|`Marvel Rivals`|
+|[Titanfall 2 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/688353-titanfall-2-internal-cheat.html)|`2025-02-25 21:31:00`|`Titanfall`|
+|[B06 HACK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/686827-b06-hack.html)|`2025-02-25 21:30:00`|`Call of Duty: Black Ops 6`|
 |[DMA CUSTOM FIRMWARE GUIDE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/613135-dma-custom-firmware-guide.html)|`2025-02-25 21:25:00`|`Anti-Cheat Bypass`|
 |[Stalker 2: Heart of Chernobyl &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/683026-stalker-2-heart-chernobyl-external.html)|`2025-02-25 21:17:00`|`Other Single Player Games`|
 |[Tutorial &#124; What is DMA and How to Install it&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/685521-tutorial-dma-install.html)|`2025-02-25 21:07:00`|`Off Topic`|
