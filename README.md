@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Team Fortress 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/102936-team-fortress-2-reversal-structs-offsets.html)|`2025-02-26 05:20:00`|`Team Fortress 2`|
+|[Chess&#46;com Cheat &#124; Based On Stockfish 17](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/686924-chess-com-cheat-based-stockfish-17-a.html)|`2025-02-26 05:17:00`|`Other Games`|
+|[seo64 sigs update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/687804-seo64-sigs-update.html)|`2025-02-26 05:14:00`|`Team Fortress 2`|
+|[BetterAimAssist: Valorant aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682003-betteraimassist-valorant-aim-assist.html)|`2025-02-26 05:10:00`|`Valorant`|
 |[AQ3D Auto Fishing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/680860-aq3d-auto-fishing.html)|`2025-02-26 05:12:00`|`Unity`|
 |[Shadowban Loop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/688813-shadowban-loop.html)|`2025-02-26 05:08:00`|`Call of Duty: Black Ops 6`|
 |[Counter&#45;Strike 1&#46;6 EVOL Hack BUG HELP&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/688812-counter-strike-1-6-evol-hack-bug-help.html)|`2025-02-26 05:08:00`|`Other Games`|
