@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[asphyxia&#45;cs2 updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687274-asphyxia-cs2-updated.html)|`2025-02-25 11:45:00`|`Counter-Strike 2`|
+|[&#40;Enlisted&#41; Pointers and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/688710-enlisted-pointers-offsets.html)|`2025-02-25 11:45:00`|`Other Games`|
+|[Trolly scripts for ArmA REFORGER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/688709-trolly-scripts-arma-reforger.html)|`2025-02-25 11:42:00`|`ARMA 3`|
+|[a colorbot code with kernel and dxcam in python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688708-colorbot-code-kernel-dxcam-python.html)|`2025-02-25 11:37:00`|`Valorant`|
 |[Colorbot/Pixel Bot with Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/688707-colorbot-pixel-bot-python.html)|`2025-02-25 11:34:00`|`Other FPS Games`|
 |[Best way to filter clove and astra smokes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688706-filter-clove-astra-smokes.html)|`2025-02-25 11:30:00`|`Valorant`|
 |[How to do force crosshair externaly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688705-force-crosshair-externaly.html)|`2025-02-25 11:20:00`|`Counter-Strike 2`|
