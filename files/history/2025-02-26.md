@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-02-26 23:29:00`|`Escape from Tarkov`|
+|[arduino hid mouse libraries?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688910-arduino-hid-mouse-libraries.html)|`2025-02-26 23:22:00`|`Valorant`|
+|[Spoofing HWID before cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/688906-spoofing-hwid-cheating.html)|`2025-02-26 23:21:00`|`Escape from Tarkov`|
+|[Need Help Finding XYZ Coordinates in Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/687372-help-finding-xyz-coordinates-cheat-engine.html)|`2025-02-26 23:20:00`|`C and C++`|
+|[Valheim stamina &#43; backpack weight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/688909-valheim-stamina-backpack-weight.html)|`2025-02-26 23:17:00`|`Half Life`|
+|[Rocket League exp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/688908-rocket-league-exp.html)|`2025-02-26 23:13:00`|`Other Games`|
 |[Deadlock External Source &#45; aim/esp/scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/682951-deadlock-external-source-aim-esp-scripts.html)|`2025-02-26 23:08:00`|`Deadlock`|
 |[DayZ&#45;InternalHack&#45;FullFeatures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/677192-dayz-internalhack-fullfeatures.html)|`2025-02-26 23:05:00`|`DayZ SA`|
 |[Killing Floor 2 External Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/673060-killing-floor-2-external-hack.html)|`2025-02-26 22:55:00`|`Other Games`|
