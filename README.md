@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bloodstrike](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/629698-bloodstrike.html)|`2025-02-26 22:08:00`|`Other FPS Games`|
 |[BSG Loader bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/688428-bsg-loader-bypass.html)|`2025-02-26 21:20:00`|`Escape from Tarkov`|
 |[Raycast &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/678606-raycast-external.html)|`2025-02-26 20:56:00`|`Garry's Mod`|
 |["Speedboost" Feature](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/668600-speedboost-feature.html)|`2025-02-26 20:53:00`|`Deadlock`|
