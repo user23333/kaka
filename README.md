@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-02-26 14:32:00`|`Farlight 84`|
 |[HVCI Valorant Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688874-hvci-valorant-bypass.html)|`2025-02-26 14:20:00`|`Anti-Cheat Bypass`|
 |[TF2 Internal &#45; Community Driven Project](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/450476-tf2-internal-community-driven-project.html)|`2025-02-26 14:05:00`|`Team Fortress 2`|
 |[Titanfall 2 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/688353-titanfall-2-internal-cheat.html)|`2025-02-26 13:51:00`|`Titanfall`|
