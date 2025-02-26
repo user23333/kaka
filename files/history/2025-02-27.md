@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Crashing Issue Solutions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688880-crashing-issue-solutions.html)|`2025-02-27 02:11:00`|`Marvel Rivals`|
+|[Run 32&#45;bit TF2 with HACKS &#91;UPDATE&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/635672-run-32-bit-tf2-hacks-update.html)|`2025-02-27 02:09:00`|`Team Fortress 2`|
+|[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-02-27 02:03:00`|`Rainbow Six Siege`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-02-27 01:59:00`|`Escape from Tarkov`|
+|[How VAC decrypts imports?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688932-vac-decrypts-imports.html)|`2025-02-27 01:59:00`|`Anti-Cheat Bypass`|
 |[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/686927-star-citizen-cheat-engine.html)|`2025-02-27 01:53:00`|`Cheat Engine Tables`|
 |[Instrumentation Callbacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/688585-instrumentation-callbacks.html)|`2025-02-27 01:48:00`|`General Programming and Reversing`|
 |[PS GAMEGUARD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688491-ps-gameguard.html)|`2025-02-27 01:39:00`|`Anti-Cheat Bypass`|
