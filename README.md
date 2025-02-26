@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Simple External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/686249-marvel-rivals-simple-external.html)|`2025-02-26 20:28:00`|`Marvel Rivals`|
+|[Sakura TFT skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/688600-sakura-tft-skin-changer.html)|`2025-02-26 20:23:00`|`League of Legends`|
 |[Marvel Rivals DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688289-marvel-rivals-dma-source.html)|`2025-02-26 19:35:00`|`Marvel Rivals`|
 |[HLL: Hell Let Loose](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/340677-hll-hell-loose.html)|`2025-02-26 19:34:00`|`Other FPS Games`|
 |[Thugzin Source Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688588-thugzin-source-update.html)|`2025-02-26 19:09:00`|`Marvel Rivals`|
