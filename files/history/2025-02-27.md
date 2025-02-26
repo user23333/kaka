@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/686927-star-citizen-cheat-engine.html)|`2025-02-27 01:53:00`|`Cheat Engine Tables`|
 |[Instrumentation Callbacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/688585-instrumentation-callbacks.html)|`2025-02-27 01:48:00`|`General Programming and Reversing`|
 |[PS GAMEGUARD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688491-ps-gameguard.html)|`2025-02-27 01:39:00`|`Anti-Cheat Bypass`|
 |[Reversing EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688930-reversing-eac.html)|`2025-02-27 01:36:00`|`Anti-Cheat Bypass`|
