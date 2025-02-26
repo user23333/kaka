@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lazybead &#40;LB&#41; &#45; Free Cheat &#40;COMING SOON&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat-coming-soon.html)|`2025-02-26 23:39:00`|`Sea of Thieves`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-02-26 23:29:00`|`Escape from Tarkov`|
 |[arduino hid mouse libraries?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688910-arduino-hid-mouse-libraries.html)|`2025-02-26 23:22:00`|`Valorant`|
 |[Spoofing HWID before cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/688906-spoofing-hwid-cheating.html)|`2025-02-26 23:21:00`|`Escape from Tarkov`|
