@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-02-27 02:21:00`|`Counter-Strike 2`|
 |[Crashing Issue Solutions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688880-crashing-issue-solutions.html)|`2025-02-27 02:11:00`|`Marvel Rivals`|
 |[Run 32&#45;bit TF2 with HACKS &#91;UPDATE&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/635672-run-32-bit-tf2-hacks-update.html)|`2025-02-27 02:09:00`|`Team Fortress 2`|
 |[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-02-27 02:03:00`|`Rainbow Six Siege`|
