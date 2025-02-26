@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Crashing Issue Solutions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688880-crashing-issue-solutions.html)|`2025-02-26 15:55:00`|`Marvel Rivals`|
 |[DX11 Internal ImGui Overlay Transparency Problems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/direct3d/688434-dx11-internal-imgui-overlay-transparency.html)|`2025-02-26 15:48:00`|`Direct3D`|
 |[Shitty marvel rivals internal Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687997-shitty-marvel-rivals-internal-base.html)|`2025-02-26 15:47:00`|`Marvel Rivals`|
 |[Simple Kernel Injector&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688879-simple-kernel-injector.html)|`2025-02-26 15:45:00`|`Anti-Cheat Bypass`|
