@@ -24,9 +24,21 @@
 |243|[asthmaphobia injector ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48755)|`2025-02-27 00:22:00`|
 |149|[asthmaphobia v0&#46;11&#46;1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48754)|`2025-02-27 00:22:00`|
 |82|[Redmatch 2 imperium](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48753)|`2025-02-27 00:22:00`|
+|1|[FrontLineInferno CT Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48804)|`2025-02-27 04:27:33`|
+|1|[CE table for Valheim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48802)|`2025-02-27 04:27:33`|
+|1|[CE table for Valheim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48801)|`2025-02-27 04:27:33`|
+|0|[4&#46;25&#46;3&#45;1118981&#43;&#43;&#43;UE4&#43;Release&#45;4&#46;25&#45;Solarland](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48794)|`2025-02-27 04:27:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA freezups](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/687006-dma-freezups.html)|`2025-02-27 04:19:00`|`PC Hardware`|
+|[cheat mw19](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/687092-cheat-mw19.html)|`2025-02-27 04:19:00`|`Call of Duty: Modern Warfare`|
+|[Titanfall 2 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/688353-titanfall-2-internal-cheat.html)|`2025-02-27 04:17:00`|`Titanfall`|
+|[7DTD 1&#46;3 Creative and Debug Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/687101-7dtd-1-3-creative-debug-assembly-csharp-dll.html)|`2025-02-27 04:17:00`|`Other FPS Games`|
+|[I'm looking for a jitter for the controller](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/682487-im-looking-jitter-controller.html)|`2025-02-27 04:16:00`|`Apex Legends`|
+|[Valheim stamina &#43; backpack weight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/688909-valheim-stamina-backpack-weight.html)|`2025-02-27 04:14:00`|`Half Life`|
+|[counter strike 1&#46;6 non steam cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/688943-counter-strike-1-6-steam-cheat.html)|`2025-02-27 04:12:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-02-27 04:11:00`|`Farlight 84`|
 |[CS2 External Basic Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686341-cs2-external-basic-multihack.html)|`2025-02-27 03:55:00`|`Counter-Strike 2`|
 |[Spidey Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688727-spidey-internal.html)|`2025-02-27 03:54:00`|`Marvel Rivals`|
 |[CounterStrike Source Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/157661-counterstrike-source-reversal-structs-offsets.html)|`2025-02-27 03:42:00`|`CounterStrike Source`|
