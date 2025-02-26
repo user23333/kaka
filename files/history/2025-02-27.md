@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2025-02-27 07:58:00`|`Palworld`|
+|[Exoborne Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/639617-exoborne-reversal-structs-offsets.html)|`2025-02-27 07:55:00`|`Other Games`|
 |[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2025-02-27 07:40:00`|`Grand Theft Auto V`|
 |[Chess&#46;com Cheat &#124; Based On Stockfish 17](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/686924-chess-com-cheat-based-stockfish-17-a.html)|`2025-02-27 07:25:00`|`Other Games`|
 |[hOW TO PLAY APEX ON LINUX PLEASE HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/688964-play-apex-linux-please-help.html)|`2025-02-27 07:24:00`|`Apex Legends`|
