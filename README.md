@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Triggerbot python 2ms speed SUPER FAST](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679700-triggerbot-python-2ms-speed-super-fast.html)|`2025-02-26 13:24:00`|`Valorant`|
 |[Issue whit esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688868-issue-whit-esp.html)|`2025-02-26 13:09:00`|`Counter-Strike 2`|
 |[Seowned x64 fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/687816-seowned-x64-fixed.html)|`2025-02-26 13:03:00`|`Team Fortress 2`|
 |[Apex Rage External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/660129-apex-rage-external-cheat.html)|`2025-02-26 12:58:00`|`Apex Legends`|
