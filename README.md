@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Knives Out Cheat 荒野行动](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/687143-knives-cheat.html)|`2025-02-26 11:21:00`|`Other FPS Games`|
+|[The Headliners internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/686294-headliners-internal.html)|`2025-02-26 11:16:00`|`Other Games`|
+|[Help with cs2 internals &#40;createmove&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687361-help-cs2-internals-createmove.html)|`2025-02-26 11:10:00`|`Counter-Strike 2`|
+|[Simple Internal and Easy Injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687533-simple-internal-easy-injection.html)|`2025-02-26 11:05:00`|`Marvel Rivals`|
+|[Issue with AntiAim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679353-issue-antiaim.html)|`2025-02-26 11:03:00`|`Counter-Strike 2`|
+|[Does Rust ip ban? OR EAC IP BAN?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/687897-rust-ip-ban-eac-ip-ban.html)|`2025-02-26 11:01:00`|`Rust`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2025-02-26 10:38:00`|`Other FPS Games`|
 |[METHOD BYPASS HVCI VALORANT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/652605-method-bypass-hvci-valorant.html)|`2025-02-26 10:05:00`|`Valorant`|
 |[ecx / midnight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/677339-ecx-midnight.html)|`2025-02-26 10:20:00`|`Team Fortress 2`|
