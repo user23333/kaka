@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA CUSTOM FIRMWARE GUIDE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/613135-dma-custom-firmware-guide.html)|`2025-02-27 06:20:00`|`Anti-Cheat Bypass`|
+|[Reading Memory Externally Gameloop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/688955-reading-memory-externally-gameloop.html)|`2025-02-27 06:11:00`|`PUBG Mobile`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-02-27 06:11:00`|`Valorant`|
 |[NEED TESTERS FOR A TB &#124; 2/26/25](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688954-testers-tb-2-26-25-a.html)|`2025-02-27 06:01:00`|`Valorant`|
 |[DayZ&#45;InternalHack&#45;FullFeatures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/677192-dayz-internalhack-fullfeatures.html)|`2025-02-27 05:32:00`|`DayZ SA`|
 |[TrCrypt &#45; Compile&#45;time String Encryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/687446-trcrypt-compile-time-string-encryption.html)|`2025-02-27 05:27:00`|`C and C++`|
