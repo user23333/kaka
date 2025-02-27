@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-02-28 04:08:00`|`Escape from Tarkov`|
+|[Marvel Rivals Data &#45; Profiles and Top 500](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/676876-marvel-rivals-data-profiles-top-500-a.html)|`2025-02-28 04:06:00`|`Marvel Rivals`|
 |[Fivem external stoped working after new update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/689103-fivem-external-stoped-update.html)|`2025-02-28 03:51:00`|`Alternative Online Mods`|
 |[Valorant Triggerbot Not Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/687659-valorant-triggerbot.html)|`2025-02-28 03:51:00`|`Off Topic`|
 |[Seowned x64 fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/687816-seowned-x64-fixed.html)|`2025-02-28 03:33:00`|`Team Fortress 2`|
