@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Crashing fix for Thugzin's source&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688968-crashing-fix-thugzins-source.html)|`2025-02-27 12:59:00`|`Marvel Rivals`|
+|[Improving the aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/688168-improving-aimbot.html)|`2025-02-27 12:56:00`|`Rust`|
 |[Command line Injection memory error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688841-command-line-injection-memory-error.html)|`2025-02-27 12:54:00`|`Marvel Rivals`|
 |[Deadlock internal cheat source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/688736-deadlock-internal-cheat-source-code.html)|`2025-02-27 12:44:00`|`Deadlock`|
 |[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-02-27 12:11:00`|`Other Games`|
