@@ -13,6 +13,7 @@
 |24|[basic chams base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/688179-basic-chams-base.html)|`2025-02-27 00:22:00`|`call-of-duty-black-ops-6-a`|
 |11|[Spidey Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688727-spidey-internal.html)|`2025-02-27 09:21:17`|`marvel-rivals`|
 |29|[It's so complicated for us the dummies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688662-complicated-dummies.html)|`2025-02-27 10:34:32`|`marvel-rivals`|
+|0|[⭐ Want to Make a Difference? Moderators Wanted&#33; ⭐](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/196807-difference-moderators.html)|`2025-02-27 23:51:50`|`information-and-announcements`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[⭐ Moderators Needed to Expand and Revamp the Single Player Cheats Section ⭐](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/676859-moderators-expand-revamp-single-player-cheats-section.html)|`2025-02-28 03:32:00`|`Information and Announcements`|
+|[⭐ Want to Make a Difference? Moderators Wanted&#33; ⭐](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/196807-difference-moderators.html)|`2025-02-28 03:32:00`|`Information and Announcements`|
 |[Is there any way detect EPT Hook?&#40;except for timing check&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/689037-detect-ept-hook-except-timing-check.html)|`2025-02-27 23:37:00`|`Anti-Cheat Bypass`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-02-27 23:36:00`|`Other FPS Games`|
 |[How to Fix TPM Ban easily &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/626786-fix-tpm-ban-easily.html)|`2025-02-27 23:36:00`|`Valorant`|
