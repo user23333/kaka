@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VGK obfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671176-vgk-obfuscation.html)|`2025-02-27 17:25:00`|`Anti-Cheat Bypass`|
+|[DMA BRICKED?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/687481-dma-bricked.html)|`2025-02-27 17:25:00`|`PC Hardware`|
+|[SOCOM U&#46;S NAVY SEALs Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playstation/689014-socom-navy-seals-reversal-structs-offsets.html)|`2025-02-27 17:20:00`|`PlayStation`|
+|[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2025-02-27 17:17:00`|`Combat Arms`|
 |[cs2 weather effect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689013-cs2-weather-effect.html)|`2025-02-27 16:29:00`|`Counter-Strike 2`|
 |[looking for dupe/exploits for lua executor &#40;dump included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/688965-looking-dupe-exploits-lua-executor-dump-included.html)|`2025-02-27 16:18:00`|`Garry's Mod`|
 |[Fisch roblox game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/668916-fisch-roblox-game.html)|`2025-02-27 16:01:00`|`Other Games`|
