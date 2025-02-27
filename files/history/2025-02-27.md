@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[For new Devs: Nothing is UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688169-devs-ud.html)|`2025-02-27 15:21:00`|`Anti-Cheat Bypass`|
+|[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2025-02-27 15:17:00`|`Unity`|
+|[Steam Family Sharing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/688991-steam-family-sharing.html)|`2025-02-27 15:16:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[DOD:S multihack &#91;AIM/NOSPREAD/ESP&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/day-of-defeat/451895-dod-multihack-aim-nospread-esp.html)|`2025-02-27 15:11:00`|`Day of Defeat`|
 |[cisco&#45;hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688988-cisco-hook.html)|`2025-02-27 14:35:00`|`Anti-Cheat Bypass`|
 |[Full Anticheat Disabler &#40;You can play online&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687866-anticheat-disabler-play-online.html)|`2025-02-27 14:14:00`|`Marvel Rivals`|
 |[GTA5 1&#46;70 Build 3442 update released](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/687778-gta5-1-70-build-3442-update-released.html)|`2025-02-27 14:11:00`|`Grand Theft Auto V`|
