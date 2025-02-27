@@ -35,6 +35,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-02-27 11:45:00`|`Marvel Rivals`|
+|[FIVEM DEV TOOLS NUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/688226-fivem-dev-tools-nui.html)|`2025-02-27 11:37:00`|`Alternative Online Mods`|
+|[Simple Advice For Young People](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/688151-simple-advice-people.html)|`2025-02-27 11:37:00`|`PUBG Mobile`|
+|[Why can't my user&#45;mode loader communicate with my unsigned kernel&#45;mode driver?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/688785-cant-user-mode-loader-communicate-unsigned-kernel-mode-driver.html)|`2025-02-27 11:36:00`|`General Programming and Reversing`|
+|[Arma 3 DLC Unlocker &#40;creamapi version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/214656-arma-3-dlc-unlocker-creamapi-version.html)|`2025-02-27 11:33:00`|`ARMA 3`|
 |[BetterAimAssist: Valorant aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682003-betteraimassist-valorant-aim-assist.html)|`2025-02-27 11:29:00`|`Valorant`|
 |[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-02-27 11:23:00`|`Marvel Rivals`|
 |[Arena breakout infinite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/688978-arena-breakout-infinite.html)|`2025-02-27 11:09:00`|`Other FPS Games`|
