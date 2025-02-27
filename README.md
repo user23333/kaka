@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-02-27 22:37:00`|`Other Games`|
 |[Has anyone hijacked Crosshair X yet?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/688939-hijacked-crosshair.html)|`2025-02-27 22:07:00`|`General Programming and Reversing`|
 |[anti flashbang](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685633-anti-flashbang.html)|`2025-02-27 22:04:00`|`Counter-Strike 2`|
 |[Just read memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/688723-read-memory.html)|`2025-02-27 20:42:00`|`League of Legends`|
