@@ -31,6 +31,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[It's so complicated for us the dummies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688662-complicated-dummies.html)|`2025-02-28 04:27:00`|`Marvel Rivals`|
+|[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2025-02-28 04:26:00`|`Other FPS Games`|
+|[Destiny 2 Cheat Table &#43; Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680045-destiny-2-cheat-table-cheat-engine.html)|`2025-02-28 04:22:00`|`Other FPS Games`|
+|[Assetto Corsa No Hesi traffic NoClip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/676049-assetto-corsa-hesi-traffic-noclip.html)|`2025-02-28 04:21:00`|`Other Games`|
+|[TFA No Spread & No recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/688154-tfa-spread-recoil.html)|`2025-02-28 04:19:00`|`Garry's Mod`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-02-28 04:13:00`|`Overwatch`|
+|[The Closest Thing To Aimbot & No Recoil You're Going To Get](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/687328-closest-aimbot-recoil-youre.html)|`2025-02-28 04:09:00`|`THE FINALS`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-02-28 04:08:00`|`Escape from Tarkov`|
 |[Marvel Rivals Data &#45; Profiles and Top 500](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/676876-marvel-rivals-data-profiles-top-500-a.html)|`2025-02-28 04:06:00`|`Marvel Rivals`|
 |[Fivem external stoped working after new update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/689103-fivem-external-stoped-update.html)|`2025-02-28 03:51:00`|`Alternative Online Mods`|
