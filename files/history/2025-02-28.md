@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2025-02-28 01:52:00`|`Other MMORPG and Strategy`|
+|[Delay ESP Box, Bone etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/688639-delay-esp-box-bone-etc.html)|`2025-02-28 01:51:00`|`Call of Duty: Black Ops 6`|
+|[Usermode HID Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/689034-usermode-hid-driver.html)|`2025-02-28 01:48:00`|`Call of Duty: Black Ops 6`|
 |[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2025-02-28 01:45:00`|`Other FPS Games`|
 |[VGK obfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671176-vgk-obfuscation.html)|`2025-02-28 01:44:00`|`Anti-Cheat Bypass`|
 |[Dump Schemas without Starting CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689050-dump-schemas-starting-cs2.html)|`2025-02-28 01:43:00`|`Counter-Strike 2`|
