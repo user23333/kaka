@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-02-27 23:16:00`|`League of Legends`|
+|[Delay ESP Box, Bone etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/688639-delay-esp-box-bone-etc.html)|`2025-02-27 23:16:00`|`Call of Duty: Black Ops 6`|
+|[Any new known exploits?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/689033-exploits.html)|`2025-02-27 23:16:00`|`Sea of Thieves`|
 |[tf&#46;exe is launching tf64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/688986-tf-exe-launching-tf64.html)|`2025-02-27 23:07:00`|`Team Fortress 2`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-02-27 22:37:00`|`Other Games`|
 |[Has anyone hijacked Crosshair X yet?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/688939-hijacked-crosshair.html)|`2025-02-27 22:07:00`|`General Programming and Reversing`|
