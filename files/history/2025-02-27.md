@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[⭐ Moderators Needed to Expand the Single Player Cheats Section ⭐](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/676859-moderators-expand-single-player-cheats-section.html)|`2025-02-28 03:32:00`|`Information and Announcements`|
 |[⭐ Moderators Needed to Expand and Revamp the Single Player Cheats Section ⭐](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/676859-moderators-expand-revamp-single-player-cheats-section.html)|`2025-02-28 03:32:00`|`Information and Announcements`|
 |[⭐ Want to Make a Difference? Moderators Wanted&#33; ⭐](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/196807-difference-moderators.html)|`2025-02-28 03:32:00`|`Information and Announcements`|
 |[Is there any way detect EPT Hook?&#40;except for timing check&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/689037-detect-ept-hook-except-timing-check.html)|`2025-02-27 23:37:00`|`Anti-Cheat Bypass`|
