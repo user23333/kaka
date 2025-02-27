@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How VAC decrypts imports?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688932-vac-decrypts-imports.html)|`2025-02-28 02:09:00`|`Anti-Cheat Bypass`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-02-28 02:06:00`|`Counter-Strike 2`|
+|[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-02-28 02:03:00`|`Marvel Rivals`|
+|[CM Cheat Host Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/685835-cm-cheat-host.html)|`2025-02-28 01:59:00`|`Combat Master`|
+|[Is there any way detect EPT Hook?&#40;except for timing check&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/689037-detect-ept-hook-except-timing-check.html)|`2025-02-28 01:59:00`|`Anti-Cheat Bypass`|
+|[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2025-02-28 01:57:00`|`Elite: Dangerous`|
 |[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2025-02-28 01:52:00`|`Other MMORPG and Strategy`|
 |[Delay ESP Box, Bone etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/688639-delay-esp-box-bone-etc.html)|`2025-02-28 01:51:00`|`Call of Duty: Black Ops 6`|
 |[Usermode HID Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/689034-usermode-hid-driver.html)|`2025-02-28 01:48:00`|`Call of Duty: Black Ops 6`|
