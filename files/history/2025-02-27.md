@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Closest Thing To Aimbot & No Recoil You're Going To Get](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/687328-closest-aimbot-recoil-youre.html)|`2025-02-27 18:09:00`|`THE FINALS`|
+|[SCP:SL anti&#45;cheat analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688412-scp-sl-anti-cheat-analysis.html)|`2025-02-27 17:59:00`|`Anti-Cheat Bypass`|
 |[Valorant Triggerbot Not Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/687659-valorant-triggerbot.html)|`2025-02-27 17:52:00`|`Off Topic`|
 |[How To Make Esp OR Find XYZ With Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/689018-esp-xyz-cheat-engine.html)|`2025-02-27 17:48:00`|`Off Topic`|
 |[DMA card speed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/689017-dma-card-speed.html)|`2025-02-27 17:44:00`|`PC Hardware`|
