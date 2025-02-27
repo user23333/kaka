@@ -15,6 +15,7 @@
 |6|[New Hunter's Call Exploit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/688490-hunters-call-exploit.html)|`2025-02-28 00:49:17`|`sea-of-thieves`|
 |9|[Valorant insta headshot AIMBOT&#91;UNDETECTED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688675-valorant-insta-headshot-aimbot-undetected.html)|`2025-02-28 00:49:17`|`valorant`|
 |0|[⭐ Moderators Needed to Expand the Single Player Cheats Section ⭐](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/676859-moderators-expand-single-player-cheats-section.html)|`2025-02-28 03:48:51`|`information-and-announcements`|
+|24|[Low Trust Factor for Years After Cheating – Did It Ever Return to Normal?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688088-low-trust-factor-cheating-return-normal.html)|`2025-02-28 06:30:22`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple Advice For Young People](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/688151-simple-advice-people.html)|`2025-02-28 06:28:00`|`PUBG Mobile`|
+|[External Visibility Check For All / @&#33;Body](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/688918-external-visibility-check-body.html)|`2025-02-28 06:21:00`|`PUBG Mobile`|
 |[Help with Unreal Engine &#91;infinity nikki &#93; &#45; ACharacter Issues Hello,](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/686192-help-unreal-engine-infinity-nikki-acharacter-issues-hello.html)|`2025-02-28 06:05:00`|`Unreal Engine 4`|
 |[Tutorial &#124; What is DMA and How to Install it&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/685521-tutorial-dma-install.html)|`2025-02-28 06:04:00`|`Off Topic`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2025-02-28 05:59:00`|`Deadlock`|
