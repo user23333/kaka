@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any 64x cheats for DoD:S?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/day-of-defeat/688090-64x-cheats-dod.html)|`2025-02-28 02:52:00`|`Day of Defeat`|
+|[Dors monitor refresh rate matter for triggerbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687494-dors-monitor-refresh-rate-matter-triggerbot.html)|`2025-02-28 02:49:00`|`Valorant`|
 |[How To Make Esp OR Find XYZ With Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/689018-esp-xyz-cheat-engine.html)|`2025-02-28 02:45:00`|`Off Topic`|
 |[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-02-28 02:41:00`|`Grand Theft Auto V`|
 |[Injecting crashes game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/689092-injecting-crashes-game.html)|`2025-02-28 02:40:00`|`Team Fortress 2`|
