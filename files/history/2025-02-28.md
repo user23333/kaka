@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTA5 1&#46;70 Build 3442 update released](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/687778-gta5-1-70-build-3442-update-released.html)|`2025-02-28 02:35:00`|`Grand Theft Auto V`|
+|[Has anyone hijacked Crosshair X yet?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/688939-hijacked-crosshair.html)|`2025-02-28 02:33:00`|`General Programming and Reversing`|
+|[Lost Light simple ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/572943-lost-light-simple-esp.html)|`2025-02-28 02:21:00`|`Other FPS Games`|
+|[Executable dumping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/688957-executable-dumping.html)|`2025-02-28 02:20:00`|`Apex Legends`|
+|[Changing Gun Skins Externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/623135-changing-gun-skins-externally.html)|`2025-02-28 02:19:00`|`Counter-Strike 2`|
+|[Lazybead &#40;LB&#41; &#45; Free Cheat &#40;COMING SOON&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat-coming-soon.html)|`2025-02-28 02:18:00`|`Sea of Thieves`|
 |[How VAC decrypts imports?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688932-vac-decrypts-imports.html)|`2025-02-28 02:09:00`|`Anti-Cheat Bypass`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-02-28 02:06:00`|`Counter-Strike 2`|
 |[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-02-28 02:03:00`|`Marvel Rivals`|
