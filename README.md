@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How To Make Esp OR Find XYZ With Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/689018-esp-xyz-cheat-engine.html)|`2025-02-28 02:45:00`|`Off Topic`|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-02-28 02:41:00`|`Grand Theft Auto V`|
+|[Injecting crashes game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/689092-injecting-crashes-game.html)|`2025-02-28 02:40:00`|`Team Fortress 2`|
 |[GTA5 1&#46;70 Build 3442 update released](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/687778-gta5-1-70-build-3442-update-released.html)|`2025-02-28 02:35:00`|`Grand Theft Auto V`|
 |[Has anyone hijacked Crosshair X yet?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/688939-hijacked-crosshair.html)|`2025-02-28 02:33:00`|`General Programming and Reversing`|
 |[Lost Light simple ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/572943-lost-light-simple-esp.html)|`2025-02-28 02:21:00`|`Other FPS Games`|
