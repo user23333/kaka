@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cs2 weather effect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689013-cs2-weather-effect.html)|`2025-02-27 16:29:00`|`Counter-Strike 2`|
+|[looking for dupe/exploits for lua executor &#40;dump included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/688965-looking-dupe-exploits-lua-executor-dump-included.html)|`2025-02-27 16:18:00`|`Garry's Mod`|
 |[Fisch roblox game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/668916-fisch-roblox-game.html)|`2025-02-27 16:01:00`|`Other Games`|
 |[Aimbot &#43;ESP &#43; Chams and etc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680110-aimbot-esp-chams-etc.html)|`2025-02-27 15:38:00`|`Marvel Rivals`|
 |[For new Devs: Nothing is UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688169-devs-ud.html)|`2025-02-27 15:21:00`|`Anti-Cheat Bypass`|
