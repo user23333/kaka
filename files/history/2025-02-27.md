@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is there any way detect EPT Hook?&#40;except for timing check&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/689037-detect-ept-hook-except-timing-check.html)|`2025-02-27 23:37:00`|`Anti-Cheat Bypass`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-02-27 23:36:00`|`Other FPS Games`|
+|[How to Fix TPM Ban easily &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/626786-fix-tpm-ban-easily.html)|`2025-02-27 23:36:00`|`Valorant`|
+|[Usermode HID Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/689034-usermode-hid-driver.html)|`2025-02-27 23:24:00`|`Call of Duty: Black Ops 6`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-02-27 23:16:00`|`League of Legends`|
 |[Delay ESP Box, Bone etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/688639-delay-esp-box-bone-etc.html)|`2025-02-27 23:16:00`|`Call of Duty: Black Ops 6`|
 |[Any new known exploits?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/689033-exploits.html)|`2025-02-27 23:16:00`|`Sea of Thieves`|
