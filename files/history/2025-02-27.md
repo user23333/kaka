@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA card speed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/689017-dma-card-speed.html)|`2025-02-27 17:44:00`|`PC Hardware`|
 |[VGK obfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671176-vgk-obfuscation.html)|`2025-02-27 17:25:00`|`Anti-Cheat Bypass`|
 |[DMA BRICKED?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/687481-dma-bricked.html)|`2025-02-27 17:25:00`|`PC Hardware`|
 |[SOCOM U&#46;S NAVY SEALs Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playstation/689014-socom-navy-seals-reversal-structs-offsets.html)|`2025-02-27 17:20:00`|`PlayStation`|
