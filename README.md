@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Full Anticheat Disabler &#40;You can play online&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687866-anticheat-disabler-play-online.html)|`2025-02-27 14:14:00`|`Marvel Rivals`|
+|[GTA5 1&#46;70 Build 3442 update released](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/687778-gta5-1-70-build-3442-update-released.html)|`2025-02-27 14:11:00`|`Grand Theft Auto V`|
+|[Marvel Rivals DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688289-marvel-rivals-dma-source.html)|`2025-02-27 14:08:00`|`Marvel Rivals`|
 |[Protobuf & Subtick](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688985-protobuf-subtick.html)|`2025-02-27 13:55:00`|`Counter-Strike 2`|
 |[Ways to make uis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688721-uis.html)|`2025-02-27 13:48:00`|`Counter-Strike 2`|
 |[FreeStyle GunZ ShotBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/gunz/673351-freestyle-gunz-shotbot.html)|`2025-02-27 13:39:00`|`GunZ`|
