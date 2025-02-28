@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Undetected Cheat Engine &#43; Driver &#124; 2023 &#124; Bypass Anticheats &#40;BE / EAC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/504191-undetected-cheat-engine-driver-2023-bypass-anticheats-eac.html)|`2025-02-28 14:50:00`|`Anti-Cheat Bypass`|
 |[YimMenu&#46;dll 1&#46;70 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678007-yimmenu-dll-1-70-update.html)|`2025-02-28 14:12:00`|`Grand Theft Auto V`|
 |[efi driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688921-efi-driver.html)|`2025-02-28 14:08:00`|`Valorant`|
 |[BO6 unreleased Bundles Gifting PC exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/686241-bo6-unreleased-bundles-gifting-pc-exploit.html)|`2025-02-28 13:48:00`|`Call of Duty: Black Ops 6`|
