@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-03-01 04:36:00`|`Counter-Strike 2`|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-03-01 04:34:00`|`Counter-Strike 2`|
 |[Noob Guide for Steam, Epic, and LoadingBay UAC Bypass&#46;&#40;Needed for FPS internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689146-noob-guide-steam-epic-loadingbay-uac-bypass-fps-internal.html)|`2025-03-01 04:25:00`|`Marvel Rivals`|
 |[Data mining sot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/688681-data-mining-sot.html)|`2025-03-01 04:24:00`|`Sea of Thieves`|
 |[Problem with model changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689237-model-changer.html)|`2025-03-01 04:21:00`|`Counter-Strike 2`|
