@@ -24,9 +24,20 @@
 |1|[CE table for Valheim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48801)|`2025-03-01 00:15:36`|
 |3|[4&#46;25&#46;3&#45;1118981&#43;&#43;&#43;UE4&#43;Release&#45;4&#46;25&#45;Solarland](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48794)|`2025-03-01 00:15:36`|
 |13|[MCC Toolbox 4&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48793)|`2025-03-01 00:15:36`|
+|22|[StupidSolutionsV3&#46;3&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48831)|`2025-03-01 00:46:50`|
+|1|[FrontLineInferno CT Table 4&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48814)|`2025-03-01 00:46:50`|
+|1|[FrontLineInferno CT Table 3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48812)|`2025-03-01 00:46:50`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Process Hollowing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688928-process-hollowing.html)|`2025-03-01 00:45:00`|`Valorant`|
+|[is ahk in general detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/689221-ahk-detected.html)|`2025-03-01 00:41:00`|`Rainbow Six Siege`|
+|[Need motherboard for spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688666-motherboard-spoofing.html)|`2025-03-01 00:39:00`|`Anti-Cheat Bypass`|
+|[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2025-03-01 00:37:00`|`Elite: Dangerous`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-03-01 00:34:00`|`Escape from Tarkov`|
+|[Frameware Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/677239-frameware-release.html)|`2025-03-01 00:22:00`|`Overwatch`|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-03-01 00:20:00`|`Grand Theft Auto V`|
+|[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-03-01 00:18:00`|`Sea of Thieves`|
 |[It's so complicated for us the dummies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688662-complicated-dummies.html)|`2025-03-01 00:13:00`|`Marvel Rivals`|
 |[cisco&#45;hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688988-cisco-hook.html)|`2025-03-01 00:12:00`|`Anti-Cheat Bypass`|
 |[&#91;DMA&#93; Grayzone Warfare &#45; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675890-dma-grayzone-warfare-esp.html)|`2025-03-01 00:09:00`|`Other FPS Games`|
