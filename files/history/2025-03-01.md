@@ -12,6 +12,7 @@
 |6|[New Hunter's Call Exploit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/688490-hunters-call-exploit.html)|`2025-03-01 00:15:36`|`sea-of-thieves`|
 |0|[⭐ Moderators Needed to Expand the Single Player Cheats Section ⭐](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/676859-moderators-expand-single-player-cheats-section.html)|`2025-03-01 00:15:36`|`information-and-announcements`|
 |14|[External Cheat AEONIX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688466-external-cheat-aeonix.html)|`2025-03-01 04:53:23`|`counter-strike-2-a`|
+|11|[Valorant TriggerBot Updated &#40;Works as of 23rd feb&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688354-valorant-triggerbot-updated-23rd-feb.html)|`2025-03-01 06:08:33`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Why can't my user&#45;mode loader communicate with my unsigned kernel&#45;mode driver?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/688785-cant-user-mode-loader-communicate-unsigned-kernel-mode-driver.html)|`2025-03-01 06:05:00`|`General Programming and Reversing`|
+|[PUBG DMA cheat source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/667961-pubg-dma-cheat-source-code.html)|`2025-03-01 06:04:00`|`Playerunknown's Battlegrounds`|
+|[murder cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/689271-murder-cheats.html)|`2025-03-01 05:59:00`|`Among Us`|
 |[Raycast &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/678606-raycast-external.html)|`2025-03-01 05:47:00`|`Garry's Mod`|
 |[Roblox Cheat Engine Bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685059-roblox-cheat-engine-bypass.html)|`2025-03-01 05:46:00`|`Anti-Cheat Bypass`|
 |[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-03-01 05:44:00`|`Other FPS Games`|
