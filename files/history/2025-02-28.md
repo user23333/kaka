@@ -31,9 +31,11 @@
 |49|[Content Warning Cheat V4 &#91;2025 Feb Working&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48790)|`2025-02-28 00:15:20`|
 |27|[Elden Ring &#45; Cheat Table V&#46;3&#46;1&#46;1 Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48784)|`2025-02-28 00:15:20`|
 |11|[AvowedSDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48776)|`2025-02-28 00:15:20`|
+|1|[FortniteGame&#45;34&#46;00&#45;CL&#45;40228973 MINI SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48830)|`2025-02-28 22:51:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[xbox exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/689162-xbox-exploits.html)|`2025-02-28 22:50:00`|`Sea of Thieves`|
 |[The Forest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/587268-forest.html)|`2025-02-28 22:37:00`|`Unity`|
 |[Hard unlock the battle pass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/687524-hard-unlock-battle-pass.html)|`2025-02-28 22:38:00`|`Combat Master`|
 |[Sai's Color Aimbot BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668780-sais-color-aimbot-bo6.html)|`2025-02-28 22:37:00`|`Call of Duty: Black Ops 6`|
