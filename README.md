@@ -41,6 +41,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant TriggerBot Updated &#40;Works as of 23rd feb&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688354-valorant-triggerbot-updated-23rd-feb.html)|`2025-03-01 07:48:00`|`Valorant`|
+|[Elden ring new Cheat Table &#43; Online &#40;risky&#41; &#43; CE Undetected &#43; future updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661671-elden-ring-cheat-table-online-risky-ce-undetected-future-updates.html)|`2025-03-01 07:46:00`|`Other FPS Games`|
+|[external freeCam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/689290-external-freecam.html)|`2025-03-01 07:45:00`|`DayZ SA`|
 |[&#124; Dota 2 &#124; Camera Hack &#124; EXTERNAL &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686734-dota-2-camera-hack-external.html)|`2025-03-01 07:42:00`|`Other MMORPG and Strategy`|
 |[Controller Emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673578-controller-emulation.html)|`2025-03-01 07:39:00`|`Call of Duty: Black Ops 6`|
 |[seo64 fixed latest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/688176-seo64-fixed.html)|`2025-03-01 07:34:00`|`Team Fortress 2`|
