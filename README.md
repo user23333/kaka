@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call to Arms &#45; Gates of Hell: Ostfront](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/689160-call-arms-gates-hell-ostfront.html)|`2025-02-28 12:04:00`|`Other MMORPG and Strategy`|
 |[AQ3D Auto Fishing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/680860-aq3d-auto-fishing.html)|`2025-02-28 11:00:00`|`Unity`|
 |[Dual&#45;OS Setup with Cheat on Linux VM and Game on Windows 11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/669939-dual-os-setup-cheat-linux-vm-game-windows-11-a.html)|`2025-02-28 10:51:00`|`Apex Legends`|
 |[Noob Guide for Steam, Epic, and LoadingBay UAC Bypass&#46;&#40;Needed for FPS internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689146-noob-guide-steam-epic-loadingbay-uac-bypass-fps-internal.html)|`2025-02-28 10:50:00`|`Marvel Rivals`|
