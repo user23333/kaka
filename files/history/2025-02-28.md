@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AQ3D Auto Fishing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/680860-aq3d-auto-fishing.html)|`2025-02-28 11:00:00`|`Unity`|
+|[Dual&#45;OS Setup with Cheat on Linux VM and Game on Windows 11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/669939-dual-os-setup-cheat-linux-vm-game-windows-11-a.html)|`2025-02-28 10:51:00`|`Apex Legends`|
+|[Noob Guide for Steam, Epic, and LoadingBay UAC Bypass&#46;&#40;Needed for FPS internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689146-noob-guide-steam-epic-loadingbay-uac-bypass-fps-internal.html)|`2025-02-28 10:50:00`|`Marvel Rivals`|
+|[Noob Guide for Steam, Epic, and LoadingBay UAC Bypass&#46;&#40;Needed for FPS internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689144-noob-guide-steam-epic-loadingbay-uac-bypass-fps-internal.html)|`2025-02-28 10:50:00`|`Marvel Rivals`|
+|[basic chams base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/688179-basic-chams-base.html)|`2025-02-28 10:38:00`|`Call of Duty: Black Ops 6`|
 |[Roblox Cheat Engine Bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685059-roblox-cheat-engine-bypass.html)|`2025-02-28 10:08:00`|`Anti-Cheat Bypass`|
 |[Python detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688966-python-detection.html)|`2025-02-28 10:06:00`|`Counter-Strike 2`|
 |[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2025-02-28 10:04:00`|`Apex Legends`|
