@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Noob Guide for Steam, Epic, and LoadingBay UAC Bypass&#46;&#40;Needed for FPS internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689146-noob-guide-steam-epic-loadingbay-uac-bypass-fps-internal.html)|`2025-03-01 04:25:00`|`Marvel Rivals`|
+|[Data mining sot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/688681-data-mining-sot.html)|`2025-03-01 04:24:00`|`Sea of Thieves`|
+|[Problem with model changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689237-model-changer.html)|`2025-03-01 04:21:00`|`Counter-Strike 2`|
+|[Lazybead &#40;LB&#41; &#45; Free Cheat &#40;COMING SOON&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat-coming-soon.html)|`2025-03-01 04:19:00`|`Sea of Thieves`|
+|[Simple DLL Injector &#124; UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685297-simple-dll-injector-ud.html)|`2025-03-01 04:18:00`|`Marvel Rivals`|
+|[Help with cs2 internals &#40;createmove&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687361-help-cs2-internals-createmove.html)|`2025-03-01 04:13:00`|`Counter-Strike 2`|
 |[esp perspective issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689236-esp-perspective-issue.html)|`2025-03-01 03:52:00`|`Marvel Rivals`|
 |[Internal cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/611723-internal-cheese.html)|`2025-03-01 03:49:00`|`Payday 3`|
 |[Do people know i'm using YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/688461-people-im-using-yimmenu.html)|`2025-03-01 03:31:00`|`Grand Theft Auto V`|
