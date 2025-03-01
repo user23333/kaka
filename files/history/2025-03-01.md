@@ -41,6 +41,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Traces](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/688845-apex-traces.html)|`2025-03-01 17:37:00`|`Apex Legends`|
+|[Lag in external ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689339-lag-external-esp.html)|`2025-03-01 17:35:00`|`Counter-Strike 2`|
+|[New Triggerbot Bypass Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686247-triggerbot-bypass-method.html)|`2025-03-01 17:35:00`|`Valorant`|
 |[PUBG Physx external raycast and visible check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/689338-pubg-physx-external-raycast-visible-check.html)|`2025-03-01 17:25:00`|`Playerunknown's Battlegrounds`|
 |[Issue whit esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688868-issue-whit-esp.html)|`2025-03-01 16:52:00`|`Counter-Strike 2`|
 |[External &#40;kernel read&#41; hack x64 Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/689332-external-kernel-read-hack-x64-steam.html)|`2025-03-01 16:19:00`|`CounterStrike Source`|
