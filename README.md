@@ -41,6 +41,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[1&#46;21 Mappings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/688587-1-21-mappings.html)|`2025-03-01 23:21:00`|`Minecraft`|
+|[Speedi13 Trainer Fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/497810-speedi13-trainer-fixed.html)|`2025-03-01 23:19:00`|`Battlefield 1`|
+|[Mouse input block in game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688303-mouse-input-block-game.html)|`2025-03-01 23:14:00`|`Marvel Rivals`|
+|[solo leveling arise hack？](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/688054-solo-leveling-arise-hack.html)|`2025-03-01 23:13:00`|`Other MMORPG and Strategy`|
+|[Where to put chat command hook for 1&#46;21&#46;4?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/688056-chat-command-hook-1-21-4-a.html)|`2025-03-01 23:06:00`|`Minecraft`|
 |[Russian Account Bypass TUT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/688961-russian-account-bypass-tut.html)|`2025-03-01 22:58:00`|`Escape from Tarkov`|
 |[Team Fortress 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/102936-team-fortress-2-reversal-structs-offsets.html)|`2025-03-01 21:36:00`|`Team Fortress 2`|
 |[MSI Laptop spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688211-msi-laptop-spoof.html)|`2025-03-01 21:19:00`|`Valorant`|
