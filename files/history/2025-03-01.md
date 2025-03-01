@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#46;text section shellcode in driver &#40;in binary file&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/689389-text-section-shellcode-driver-binary-file.html)|`2025-03-01 23:54:00`|`Anti-Cheat Bypass`|
 |[Help with kurtosis checks for autoclickers&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/688640-help-kurtosis-checks-autoclickers.html)|`2025-03-01 23:47:00`|`Minecraft`|
 |[Internal triggerbot not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689385-internal-triggerbot.html)|`2025-03-01 23:41:00`|`Counter-Strike 2`|
 |[1&#46;21 Mappings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/688587-1-21-mappings.html)|`2025-03-01 23:21:00`|`Minecraft`|
