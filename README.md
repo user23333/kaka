@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2025-03-02 05:53:00`|`Grand Theft Auto V`|
+|[CS2 External Basic Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686341-cs2-external-basic-multihack.html)|`2025-03-02 05:52:00`|`Counter-Strike 2`|
+|[arduino python pixelbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689475-arduino-python-pixelbot.html)|`2025-03-02 05:46:00`|`Valorant`|
+|[CreateSimpleThread usage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687777-createsimplethread-usage.html)|`2025-03-02 05:39:00`|`Counter-Strike 2`|
 |[How to make SoT Cheats &#40;External&#41; C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/682398-sot-cheats-external.html)|`2025-03-02 05:38:00`|`Sea of Thieves`|
 |[Valorant TriggerBot Updated &#40;Works as of 23rd feb&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688354-valorant-triggerbot-updated-23rd-feb.html)|`2025-03-02 05:34:00`|`Valorant`|
 |[Lag in external ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689339-lag-external-esp.html)|`2025-03-02 05:30:00`|`Counter-Strike 2`|
