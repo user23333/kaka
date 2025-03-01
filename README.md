@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-03-02 02:13:00`|`Apex Legends`|
+|[ESP Implementing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689341-esp-implementing.html)|`2025-03-02 02:12:00`|`Grand Theft Auto V`|
+|[Executable dumping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/688957-executable-dumping.html)|`2025-03-02 02:10:00`|`Apex Legends`|
+|[Alternative last free version of cheat 06&#46;2020](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/458599-alternative-free-version-cheat-06-2020-a.html)|`2025-03-02 02:08:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-03-02 02:05:00`|`Valorant`|
+|[Exploits for Thuginz Source &#40;Paste Ready&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689346-exploits-thuginz-source-paste-ready.html)|`2025-03-02 01:57:00`|`Marvel Rivals`|
 |[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-03-02 01:56:00`|`HELLDIVERS 2`|
 |[Spidey Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688727-spidey-internal.html)|`2025-03-02 01:52:00`|`Marvel Rivals`|
 |[Multi&#45;API&#45;Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688891-multi-api-overlay.html)|`2025-03-02 01:36:00`|`Counter-Strike 2`|
