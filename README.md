@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Issue with AntiAim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679353-issue-antiaim.html)|`2025-03-01 14:45:00`|`Counter-Strike 2`|
 |[Pls share BGMI 32 bit UHD 120fps and UE4 CRC check bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/688942-pls-share-bgmi-32-bit-uhd-120fps-ue4-crc-check-bypass.html)|`2025-03-01 14:20:00`|`PUBG Mobile`|
 |[Get right FiveM version &#40;bypass replaceExecutable&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/689318-fivem-version-bypass-replaceexecutable.html)|`2025-03-01 14:11:00`|`Alternative Online Mods`|
 |[HLL: Hell Let Loose](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/340677-hll-hell-loose.html)|`2025-03-01 14:09:00`|`Other FPS Games`|
