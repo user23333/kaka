@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External &#40;kernel read&#41; hack x64 Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/689332-external-kernel-read-hack-x64-steam.html)|`2025-03-01 16:19:00`|`CounterStrike Source`|
 |[WTF? New cheat on the market or something?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/687911-wtf-cheat-market.html)|`2025-03-01 15:56:00`|`Escape from Tarkov`|
 |[Combat Master &#124; Fully Featured Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/677171-combat-master-featured-internal.html)|`2025-03-01 15:42:00`|`Combat Master`|
 |[⚠️ Warning Valorant Update Thread ⚠️](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689322-warning-valorant-update-thread.html)|`2025-03-01 15:36:00`|`Valorant`|
