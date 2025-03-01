@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[⚠️ Warning Valorant Update Thread ⚠️](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689322-warning-valorant-update-thread.html)|`2025-03-01 15:36:00`|`Valorant`|
 |[your loved](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689321-loved.html)|`2025-03-01 15:28:00`|`Valorant`|
 |[external antiaim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684924-external-antiaim.html)|`2025-03-01 15:25:00`|`Counter-Strike 2`|
 |[Issue with AntiAim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679353-issue-antiaim.html)|`2025-03-01 14:45:00`|`Counter-Strike 2`|
