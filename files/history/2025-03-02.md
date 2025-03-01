@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lag in external ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689339-lag-external-esp.html)|`2025-03-02 05:30:00`|`Counter-Strike 2`|
 |[SOURCE &#124; External Aimbot w/ Dynamic Hitbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/682229-source-external-aimbot-dynamic-hitbox.html)|`2025-03-02 05:15:00`|`Counter-Strike 2 Releases`|
 |[Cs2 Cheat source request &#40;preferably external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689193-cs2-cheat-source-request-preferably-external.html)|`2025-03-02 05:13:00`|`Counter-Strike 2`|
 |[is there a problem in resolution 720 with aim assist and triggerbots?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689473-resolution-720-aim-assist-triggerbots.html)|`2025-03-02 05:10:00`|`Valorant`|
