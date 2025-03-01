@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can someone help me implement decimal values to logitech lua code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/688370-help-implement-decimal-values-logitech-lua-code.html)|`2025-03-02 02:46:00`|`Rainbow Six Siege`|
+|[Raycast &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/678606-raycast-external.html)|`2025-03-02 02:45:00`|`Garry's Mod`|
 |[is ahk in general detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/689221-ahk-detected.html)|`2025-03-02 02:43:00`|`Rainbow Six Siege`|
 |[What is wrong with that C&#43;&#43; code &#40;Triggerbot&#41; ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689410-wrong-code-triggerbot.html)|`2025-03-02 02:32:00`|`Counter-Strike 2`|
 |[Chivalry 2  pak cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/689272-chivalry-2-pak-cheats.html)|`2025-03-02 02:25:00`|`Other FPS Games`|
