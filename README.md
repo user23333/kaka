@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[A Game About Digging A Hole &#40;MONEY MODIFIER&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/687837-game-digging-hole-money-modifier.html)|`2025-03-02 03:21:00`|`Other Games`|
+|[Best known DMA Read&#45;Only for tarkov?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/689393-dma-read-tarkov.html)|`2025-03-02 03:13:00`|`Escape from Tarkov`|
+|[Sharing a VGK DMA firmware pcileech source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687650-sharing-vgk-dma-firmware-pcileech-source.html)|`2025-03-02 03:13:00`|`Valorant`|
 |[Redmatch 2 internal cheat &#40;imperium&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/688217-redmatch-2-internal-cheat-imperium.html)|`2025-03-02 02:59:00`|`Other FPS Games`|
 |[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2025-03-02 02:56:00`|`Other MMORPG and Strategy`|
 |[ODIN V4 FOR STEAM ONLY&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/645623-odin-v4-steam.html)|`2025-03-02 02:56:00`|`Paladins`|
