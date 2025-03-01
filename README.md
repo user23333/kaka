@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking for help eft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/689484-looking-help-eft.html)|`2025-03-02 07:54:00`|`Escape from Tarkov`|
+|[SmmInfect &#45; Smm Backdoor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664482-smminfect-smm-backdoor.html)|`2025-03-02 07:51:00`|`Anti-Cheat Bypass`|
+|[Some help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/689486-help.html)|`2025-03-02 07:42:00`|`Alternative Online Mods`|
+|[R6 lua script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/689485-r6-lua-script.html)|`2025-03-02 07:35:00`|`Rainbow Six Siege`|
 |[sometimes the esp internal disappears](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/683090-sometimes-esp-internal-disappears.html)|`2025-03-02 07:50:00`|`Rust`|
 |[Is it possible to not download E&E update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/688762-download-update.html)|`2025-03-02 07:19:00`|`Grand Theft Auto V`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-03-02 07:16:00`|`Counter-Strike 2 Releases`|
