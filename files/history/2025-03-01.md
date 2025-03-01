@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Updated GHUB recoil script LUA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/680399-updated-ghub-recoil-script-lua.html)|`2025-03-01 12:54:00`|`Rainbow Six Siege`|
 |[decryption dumper :thinking:](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/683426-decryption-dumper-thinking.html)|`2025-03-01 12:38:00`|`Call of Duty: Black Ops 6`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-03-01 12:25:00`|`ARMA 3`|
 |[Unable to render anything other than ID3DXLines &#40;D3D9&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/direct3d/687128-unable-render-id3dxlines-d3d9.html)|`2025-03-01 12:24:00`|`Direct3D`|
