@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to pattern scan for this&#42; &#40;ecx&#41; pointer for functions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/689470-pattern-scan-ecx-pointer-functions.html)|`2025-03-02 04:52:00`|`General Programming and Reversing`|
+|[Triggerbot on Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/689469-triggerbot-windows.html)|`2025-03-02 04:51:00`|`Apex Legends`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-03-02 04:48:00`|`Marvel Rivals`|
 |[Issue with AntiAim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/679353-issue-antiaim.html)|`2025-03-02 04:45:00`|`Counter-Strike 2`|
 |[Chivalry 2 pak cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689465-chivalry-2-pak-cheats.html)|`2025-03-02 04:34:00`|`Other Games`|
 |[FiveM Simple External base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/645500-fivem-simple-external-base.html)|`2025-03-02 04:34:00`|`Alternative Online Mods`|
