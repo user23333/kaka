@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[is there a problem in resolution 720 with aim assist and triggerbots?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689473-resolution-720-aim-assist-triggerbots.html)|`2025-03-02 05:10:00`|`Valorant`|
+|[efi driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688921-efi-driver.html)|`2025-03-02 05:08:00`|`Valorant`|
 |[How to pattern scan for this&#42; &#40;ecx&#41; pointer for functions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/689470-pattern-scan-ecx-pointer-functions.html)|`2025-03-02 04:52:00`|`General Programming and Reversing`|
 |[Triggerbot on Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/689469-triggerbot-windows.html)|`2025-03-02 04:51:00`|`Apex Legends`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-03-02 04:48:00`|`Marvel Rivals`|
