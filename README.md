@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-03-02 01:56:00`|`HELLDIVERS 2`|
+|[Spidey Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688727-spidey-internal.html)|`2025-03-02 01:52:00`|`Marvel Rivals`|
 |[Multi&#45;API&#45;Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688891-multi-api-overlay.html)|`2025-03-02 01:36:00`|`Counter-Strike 2`|
 |[Speedi13 Trainer Fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/497810-speedi13-trainer-fixed.html)|`2025-03-02 01:35:00`|`Battlefield 1`|
 |[Why can't my user&#45;mode loader communicate with my unsigned kernel&#45;mode driver?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/688785-cant-user-mode-loader-communicate-unsigned-kernel-mode-driver.html)|`2025-03-02 01:34:00`|`General Programming and Reversing`|
