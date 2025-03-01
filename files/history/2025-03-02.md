@@ -24,9 +24,15 @@
 |4|[Toolbox AOB Dumper V2&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48822)|`2025-03-02 00:07:47`|
 |2|[MCC Toolbox 4&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48821)|`2025-03-02 00:07:47`|
 |163|[cisco&#45;hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48818)|`2025-03-02 00:07:47`|
+|2|[Call to Arms &#45; Unlimited SP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48823)|`2025-03-02 03:48:57`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call to Arms &#45; Gates of Hell: Ostfront](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/689160-call-arms-gates-hell-ostfront.html)|`2025-03-02 03:47:00`|`Other MMORPG and Strategy`|
+|[Why Do So Many Cheat Devs Using ImGui Ignore Dynamic Sizing for Menus?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/689392-cheat-devs-using-imgui-ignore-dynamic-sizing-menus.html)|`2025-03-02 03:44:00`|`Off Topic`|
+|[seo64 fixed &#43; launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/686228-seo64-fixed-launcher.html)|`2025-03-02 03:43:00`|`Team Fortress 2`|
+|[Dying Light 1 &#40;V1&#46;50&#41; Internal &#124; Aimbot, ESP,&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/688897-dying-light-1-v1-50-internal-aimbot-esp.html)|`2025-03-02 03:34:00`|`Other FPS Games`|
+|[Character Dupe Success 12/27](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/679358-character-dupe-success-12-27-a.html)|`2025-03-02 03:28:00`|`DayZ SA`|
 |[A Game About Digging A Hole &#40;MONEY MODIFIER&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/687837-game-digging-hole-money-modifier.html)|`2025-03-02 03:21:00`|`Other Games`|
 |[Best known DMA Read&#45;Only for tarkov?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/689393-dma-read-tarkov.html)|`2025-03-02 03:13:00`|`Escape from Tarkov`|
 |[Sharing a VGK DMA firmware pcileech source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687650-sharing-vgk-dma-firmware-pcileech-source.html)|`2025-03-02 03:13:00`|`Valorant`|
