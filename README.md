@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deep Rock Galactic: Deep Dive Delirium &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/617904-deep-rock-galactic-deep-dive-delirium-internal.html)|`2025-03-02 04:15:00`|`Other Single Player Games`|
+|[Valorant triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689280-valorant-triggerbot.html)|`2025-03-02 04:15:00`|`Valorant`|
+|[ZORT Spawn Menu &#91;BepinEx&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/683876-zort-spawn-menu-bepinex.html)|`2025-03-02 04:13:00`|`Other FPS Games`|
+|[cheat mw19](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/687092-cheat-mw19.html)|`2025-03-02 04:08:00`|`Call of Duty: Modern Warfare`|
+|[Anticheat TB AI bypass&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689463-anticheat-tb-ai-bypass.html)|`2025-03-02 04:05:00`|`Valorant`|
 |[Crashing fix for Thugzin's source&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688968-crashing-fix-thugzins-source.html)|`2025-03-02 03:52:00`|`Marvel Rivals`|
 |[seo64 fixed latest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/688176-seo64-fixed.html)|`2025-03-02 03:50:00`|`Team Fortress 2`|
 |[Call to Arms &#45; Gates of Hell: Ostfront](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/689160-call-arms-gates-hell-ostfront.html)|`2025-03-02 03:47:00`|`Other MMORPG and Strategy`|
