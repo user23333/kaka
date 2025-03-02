@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Weird new cheat features?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/689629-weird-cheat-features.html)|`2025-03-03 03:18:00`|`Escape from Tarkov`|
+|[KMBOX NET IS SAFE ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689407-kmbox-net-safe.html)|`2025-03-03 03:13:00`|`Valorant`|
+|[Vanguard Spoofer Rev 2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612562-vanguard-spoofer-rev-2-a.html)|`2025-03-03 03:13:00`|`Valorant`|
+|[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2025-03-03 03:12:00`|`Other FPS Games`|
+|[If anyone can help resolve the crash issues during gameplay, I would greatly apprecia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689627-help-resolve-crash-issues-gameplay-greatly-apprecia.html)|`2025-03-03 03:11:00`|`Marvel Rivals`|
+|[who have offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/689626-offset.html)|`2025-03-03 03:11:00`|`Apex Legends`|
 |[BAN 3 day and 7 days &#45; OH YYES&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/689625-ban-3-day-7-days-oh-yyes.html)|`2025-03-03 03:06:00`|`Rust`|
 |[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2025-03-03 02:57:00`|`Deadlock`|
 |[Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/672620-mod-menu.html)|`2025-03-03 02:57:00`|`Among Us`|
