@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking for Roblox is chatting offset/indicator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/689574-looking-roblox-chatting-offset-indicator.html)|`2025-03-02 21:21:00`|`General Programming and Reversing`|
 |[Pls share BGMI 32 bit UHD 120fps and UE4 CRC check bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/688942-pls-share-bgmi-32-bit-uhd-120fps-ue4-crc-check-bypass.html)|`2025-03-02 20:47:00`|`PUBG Mobile`|
 |[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2025-03-02 20:44:00`|`Grand Theft Auto V`|
 |[Gold Dropper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/567212-gold-dropper.html)|`2025-03-02 20:41:00`|`Red Dead Redemption 2`|
