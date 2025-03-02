@@ -11,6 +11,7 @@
 |17|[cisco&#45;hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688988-cisco-hook.html)|`2025-03-03 00:02:06`|`anti-cheat-bypass`|
 |6|[New Hunter's Call Exploit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/688490-hunters-call-exploit.html)|`2025-03-03 00:02:06`|`sea-of-thieves`|
 |0|[⭐ Moderators Needed to Expand the Single Player Cheats Section ⭐](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/676859-moderators-expand-single-player-cheats-section.html)|`2025-03-03 00:02:06`|`information-and-announcements`|
+|9|[efi driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688921-efi-driver.html)|`2025-03-03 01:04:30`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chivalry 2 pak cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689465-chivalry-2-pak-cheats.html)|`2025-03-03 01:00:00`|`Other Games`|
 |[Titanfall 2 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/688353-titanfall-2-internal-cheat.html)|`2025-03-03 00:36:00`|`Titanfall`|
 |[cheat mw19](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/687092-cheat-mw19.html)|`2025-03-03 00:35:00`|`Call of Duty: Modern Warfare`|
 |[ENSD v18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-v18.html)|`2025-03-03 00:32:00`|`Elite: Dangerous`|
