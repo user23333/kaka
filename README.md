@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BotOps Help I Beg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/689516-botops-help-beg.html)|`2025-03-02 10:56:00`|`Call of Duty: Black Ops 6`|
+|[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2025-03-02 10:33:00`|`Overwatch`|
+|[SIMPLE ESP FOR ARMA 2 &#40;dayz, epoch and origins&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-2-a/689511-simple-esp-arma-2-dayz-epoch-origins.html)|`2025-03-02 10:29:00`|`ARMA 2`|
+|[Server Sided Detection vectors&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688609-server-sided-detection-vectors.html)|`2025-03-02 10:22:00`|`Counter-Strike 2`|
 |[ProcessMovement crashing on the water](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/689512-processmovement-crashing-water.html)|`2025-03-02 10:05:00`|`Team Fortress 2`|
 |[cisco&#45;hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688988-cisco-hook.html)|`2025-03-02 10:00:00`|`Anti-Cheat Bypass`|
 |[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2025-03-02 09:50:00`|`Combat Arms`|
