@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689280-valorant-triggerbot.html)|`2025-03-03 07:44:00`|`Valorant`|
+|[Marvel Rivals Colorbot &#40;Arduino & No Arduino Support&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/677136-marvel-rivals-colorbot-arduino-arduino-support.html)|`2025-03-03 07:43:00`|`Marvel Rivals`|
 |[How do you trust providers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/689571-trust-providers.html)|`2025-03-03 07:39:00`|`Escape from Tarkov`|
 |[Update Polonium for L4D2/Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/689645-update-polonium-l4d2-left-4-dead-2-a.html)|`2025-03-03 07:39:00`|`Other FPS Games`|
 |[account unban for newbie](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/689550-account-unban-newbie.html)|`2025-03-03 07:38:00`|`Escape from Tarkov`|
