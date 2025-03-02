@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pls share BGMI 32 bit UHD 120fps and UE4 CRC check bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/688942-pls-share-bgmi-32-bit-uhd-120fps-ue4-crc-check-bypass.html)|`2025-03-02 20:47:00`|`PUBG Mobile`|
+|[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2025-03-02 20:44:00`|`Grand Theft Auto V`|
+|[Gold Dropper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/567212-gold-dropper.html)|`2025-03-02 20:41:00`|`Red Dead Redemption 2`|
 |[Need help with my aimbot&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/687332-help-aimbot.html)|`2025-03-02 20:13:00`|`Unity`|
 |[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-03-02 19:44:00`|`Other FPS Games`|
 |[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-03-02 19:18:00`|`Call of Duty: Black Ops 3`|
