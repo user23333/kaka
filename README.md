@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cisco&#45;hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688988-cisco-hook.html)|`2025-03-03 01:50:00`|`Anti-Cheat Bypass`|
 |[Change to Bone Managment?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/689580-change-bone-managment.html)|`2025-03-03 01:46:00`|`Alternative Online Mods`|
 |[&#91;RELEASE&#93; Fake angles exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689622-release-fake-angles-exploit.html)|`2025-03-03 01:42:00`|`Counter-Strike 2`|
 |[More efficient UpdateEntity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/689585-efficient-updateentity.html)|`2025-03-03 01:36:00`|`Alternative Online Mods`|
