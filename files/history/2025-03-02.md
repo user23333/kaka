@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat Request](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689565-cheat-request.html)|`2025-03-02 19:00:00`|`Other Games`|
 |[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2025-03-02 18:54:00`|`Counter-Strike 2`|
 |[⚠️Raising Awareness About Riot Vanguard's Suspicious Activity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689562-raising-awareness-riot-vanguards-suspicious-activity.html)|`2025-03-02 18:39:00`|`Valorant`|
 |[DMA Rust Admin ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686840-dma-rust-admin-esp.html)|`2025-03-02 18:20:00`|`Rust`|
