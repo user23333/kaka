@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ways to make uis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688721-uis.html)|`2025-03-02 13:31:00`|`Counter-Strike 2`|
+|[Thugzin Source Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688588-thugzin-source-update.html)|`2025-03-02 13:26:00`|`Marvel Rivals`|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-03-02 13:25:00`|`Grand Theft Auto V`|
 |[Chess&#46;com Cheat &#124; Based On Stockfish 17](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/686924-chess-com-cheat-based-stockfish-17-a.html)|`2025-03-02 13:13:00`|`Other Games`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-03-02 12:53:00`|`Apex Legends`|
 |[External Visibility Check For All / @&#33;Body](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/688918-external-visibility-check-body.html)|`2025-03-02 12:52:00`|`PUBG Mobile`|
