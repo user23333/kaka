@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-03-03 02:35:00`|`Valorant`|
+|[gun/money dupe for lua executor?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/688665-gun-money-dupe-lua-executor.html)|`2025-03-03 02:34:00`|`Garry's Mod`|
+|[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2025-03-03 02:19:00`|`Grand Theft Auto V`|
 |[learn dma?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/689291-learn-dma.html)|`2025-03-03 02:07:00`|`Programming for Beginners`|
 |[Full Anticheat Disabler &#40;You can play online&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687866-anticheat-disabler-play-online.html)|`2025-03-03 02:05:00`|`Marvel Rivals`|
 |[Reversing current games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/689093-reversing-current-games.html)|`2025-03-03 02:03:00`|`General Programming and Reversing`|
