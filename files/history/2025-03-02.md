@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Wexizev2 FiveM &#40;Weapon Spawner/ Resource Stopper&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/689576-wexizev2-fivem-weapon-spawner-resource-stopper.html)|`2025-03-02 22:11:00`|`Alternative Online Mods`|
 |[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-03-02 21:50:00`|`Other FPS Games`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-03-02 21:47:00`|`Counter-Strike 2`|
 |[R&#46;E&#46;P&#46;O esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/689575-esp.html)|`2025-03-02 21:36:00`|`Other FPS Games`|
