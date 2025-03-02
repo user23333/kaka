@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[⚠️Raising Awareness About Riot Vanguard's Suspicious Activity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689562-raising-awareness-riot-vanguards-suspicious-activity.html)|`2025-03-02 18:39:00`|`Valorant`|
 |[DMA Rust Admin ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686840-dma-rust-admin-esp.html)|`2025-03-02 18:20:00`|`Rust`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-03-02 17:57:00`|`Other FPS Games`|
 |[FIVEM DEV TOOLS NUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/688226-fivem-dev-tools-nui.html)|`2025-03-02 17:25:00`|`Alternative Online Mods`|
