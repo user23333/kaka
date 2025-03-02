@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do you trust providers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/689571-trust-providers.html)|`2025-03-03 07:39:00`|`Escape from Tarkov`|
+|[Update Polonium for L4D2/Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/689645-update-polonium-l4d2-left-4-dead-2-a.html)|`2025-03-03 07:39:00`|`Other FPS Games`|
+|[account unban for newbie](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/689550-account-unban-newbie.html)|`2025-03-03 07:38:00`|`Escape from Tarkov`|
+|[How to patch gameloop anti&#45;cheat as of 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/689624-patch-gameloop-anti-cheat-2025-a.html)|`2025-03-03 07:33:00`|`PUBG Mobile`|
+|[should i be concerned by some exes?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/689577-concerned-exes.html)|`2025-03-03 07:29:00`|`Forum General`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-03-03 07:28:00`|`Escape from Tarkov`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-03-03 07:22:00`|`Grand Theft Auto V`|
 |[steam dayz cheat when?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/684952-steam-dayz-cheat.html)|`2025-03-03 07:20:00`|`DayZ SA`|
