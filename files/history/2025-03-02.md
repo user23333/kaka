@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[UD Injector/CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/686797-ud-injector-ce.html)|`2025-03-02 08:50:00`|`Marvel Rivals`|
+|[Usermode HID Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/689034-usermode-hid-driver.html)|`2025-03-02 08:49:00`|`Call of Duty: Black Ops 6`|
+|[Spring & Easter Banner Contest 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/689497-spring-easter-banner-contest-2025-a.html)|`2025-03-02 08:46:00`|`Information and Announcements`|
+|[Spring & Easter Banner Contest 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/689496-spring-easter-banner-contest-2025-a.html)|`2025-03-02 08:46:00`|`General Graphics`|
+|[Is phasmophobias global&#45;metadata obfuscated?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/686540-phasmophobias-global-metadata-obfuscated.html)|`2025-03-02 08:44:00`|`Phasmophobia`|
 |[Looking for help eft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/689484-looking-help-eft.html)|`2025-03-02 07:54:00`|`Escape from Tarkov`|
 |[SmmInfect &#45; Smm Backdoor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664482-smminfect-smm-backdoor.html)|`2025-03-02 07:51:00`|`Anti-Cheat Bypass`|
 |[Some help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/689486-help.html)|`2025-03-02 07:42:00`|`Alternative Online Mods`|
