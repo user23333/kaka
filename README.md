@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help making my own cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/689520-help-own-cheat.html)|`2025-03-02 11:42:00`|`Rust`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-03-02 11:27:00`|`DayZ SA`|
 |[PUBG Physx external raycast and visible check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/689338-pubg-physx-external-raycast-visible-check.html)|`2025-03-02 11:25:00`|`Playerunknown's Battlegrounds`|
 |[Need Roblox Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/689518-roblox-offsets.html)|`2025-03-02 11:24:00`|`General Programming and Reversing`|
