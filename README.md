@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;RELEASE&#93; Fake angles exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689622-release-fake-angles-exploit.html)|`2025-03-03 01:42:00`|`Counter-Strike 2`|
 |[More efficient UpdateEntity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/689585-efficient-updateentity.html)|`2025-03-03 01:36:00`|`Alternative Online Mods`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-03-03 01:33:00`|`Counter-Strike 2`|
 |[CS2 External Basic Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686341-cs2-external-basic-multihack.html)|`2025-03-03 01:31:00`|`Counter-Strike 2`|
