@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BAN 3 day and 7 days &#45; OH YYES&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/689625-ban-3-day-7-days-oh-yyes.html)|`2025-03-03 03:06:00`|`Rust`|
+|[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2025-03-03 02:57:00`|`Deadlock`|
 |[Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/672620-mod-menu.html)|`2025-03-03 02:57:00`|`Among Us`|
 |[Member of the Month &#45; March 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/689583-month-march-2025-a.html)|`2025-03-03 02:41:00`|`Member of the Month`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-03-03 02:35:00`|`Valorant`|
