@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 External Basic Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686341-cs2-external-basic-multihack.html)|`2025-03-03 01:31:00`|`Counter-Strike 2`|
+|[R6 Recoil &#124; Info and Data Collection &#124; &#91;All Operator&#93;&#91;All Attachments&#93;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/681544-r6-recoil-info-data-collection-operator-attachments.html)|`2025-03-03 01:31:00`|`Rainbow Six Siege`|
+|[Making Brawlhalla Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/679816-brawlhalla-bot.html)|`2025-03-03 01:29:00`|`Other Games`|
+|[Murky Divers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/643598-murky-divers.html)|`2025-03-03 01:28:00`|`Other Games`|
+|[Overwatch bans and hwid & OWCN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/689620-overwatch-bans-hwid-owcn.html)|`2025-03-03 01:21:00`|`Overwatch`|
 |[BotOps Hub &#40;bot lobby tool, no VM required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674129-botops-hub-bot-lobby-tool-vm-required.html)|`2025-03-03 01:08:00`|`Call of Duty: Black Ops 6`|
 |[Modifying object property from DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/689619-modifying-object-property-dll.html)|`2025-03-03 01:07:00`|`Anti-Cheat Bypass`|
 |[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2025-03-03 01:04:00`|`Combat Arms`|
