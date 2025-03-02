@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Seowned x64 fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/687816-seowned-x64-fixed.html)|`2025-03-02 14:05:00`|`Team Fortress 2`|
 |[Ways to make uis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688721-uis.html)|`2025-03-02 13:31:00`|`Counter-Strike 2`|
 |[Thugzin Source Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688588-thugzin-source-update.html)|`2025-03-02 13:26:00`|`Marvel Rivals`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-03-02 13:25:00`|`Grand Theft Auto V`|
