@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-03-02 11:27:00`|`DayZ SA`|
+|[PUBG Physx external raycast and visible check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/689338-pubg-physx-external-raycast-visible-check.html)|`2025-03-02 11:25:00`|`Playerunknown's Battlegrounds`|
+|[Need Roblox Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/689518-roblox-offsets.html)|`2025-03-02 11:24:00`|`General Programming and Reversing`|
+|[How to implement CE lua script function with DMA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/689517-implement-ce-lua-script-function-dma.html)|`2025-03-02 11:24:00`|`General Programming and Reversing`|
+|[Mooving to a new phase and i need some help from more experienced people&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/686647-mooving-phase-help-experienced-people.html)|`2025-03-02 11:17:00`|`Forum General`|
 |[BotOps Help I Beg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/689516-botops-help-beg.html)|`2025-03-02 10:56:00`|`Call of Duty: Black Ops 6`|
 |[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2025-03-02 10:33:00`|`Overwatch`|
 |[SIMPLE ESP FOR ARMA 2 &#40;dayz, epoch and origins&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-2-a/689511-simple-esp-arma-2-dayz-epoch-origins.html)|`2025-03-02 10:29:00`|`ARMA 2`|
