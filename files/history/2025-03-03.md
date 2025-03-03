@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Linux External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689557-linux-external-base.html)|`2025-03-03 13:39:00`|`Marvel Rivals`|
+|[learn hacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/689676-learn-hacking.html)|`2025-03-03 13:35:00`|`General Programming and Reversing`|
 |[Marvel Rivals TriggerBot & AimAssist &#40;MouseBased Undetected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678761-marvel-rivals-triggerbot-aimassist-mousebased-undetected.html)|`2025-03-03 13:13:00`|`Marvel Rivals`|
 |[&#124; CS2 &#124; Pudra &#124; EXTERNAL &#124; SOURCE &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687962-cs2-pudra-external-source.html)|`2025-03-03 13:00:00`|`Counter-Strike 2`|
 |[Which is better Collision or Hitbox?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/689674-collision-hitbox.html)|`2025-03-03 12:43:00`|`Deadlock`|
