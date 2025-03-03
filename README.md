@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pls share BGMI 32 bit UHD 120fps and UE4 CRC check bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/688942-pls-share-bgmi-32-bit-uhd-120fps-ue4-crc-check-bypass.html)|`2025-03-03 15:18:00`|`PUBG Mobile`|
 |[External Visibility Check For All / @&#33;Body](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/688918-external-visibility-check-body.html)|`2025-03-03 15:13:00`|`PUBG Mobile`|
 |[Van193](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/689568-van193.html)|`2025-03-03 15:08:00`|`League of Legends`|
 |[YimMenu&#46;dll 1&#46;70 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678007-yimmenu-dll-1-70-update.html)|`2025-03-03 15:08:00`|`Grand Theft Auto V`|
