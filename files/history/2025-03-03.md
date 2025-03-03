@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Command and Conquer Zero Hour source code is available](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/689687-command-conquer-zero-hour-source-code-available.html)|`2025-03-03 16:59:00`|`Generals and Zero Hour`|
+|[Wall safe got bugged](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/688285-wall-safe-bugged.html)|`2025-03-03 16:58:00`|`Grand Theft Auto V`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-03-03 16:13:00`|`Counter-Strike 2`|
 |[new way to dupe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/688905-dupe.html)|`2025-03-03 16:08:00`|`DayZ SA`|
 |[Dupe exploit &#91;PC Verison&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/688691-dupe-exploit-pc-verison.html)|`2025-03-03 16:06:00`|`DayZ SA`|
