@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VEHICLE ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/689767-vehicle-esp.html)|`2025-03-04 03:37:00`|`Alternative Online Mods`|
+|[Valorant insta headshot AIMBOT&#91;UNDETECTED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688675-valorant-insta-headshot-aimbot-undetected.html)|`2025-03-04 03:35:00`|`Valorant`|
+|[best paid modmenu for online sesh and addon cars spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689766-paid-modmenu-online-sesh-addon-cars-spawner.html)|`2025-03-04 03:34:00`|`Grand Theft Auto V`|
+|[Titanfall 2 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/688353-titanfall-2-internal-cheat.html)|`2025-03-04 03:26:00`|`Titanfall`|
+|[AI give this to me, is it available?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689673-ai-available.html)|`2025-03-04 03:23:00`|`Valorant`|
+|[Trading Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/679348-trading-bot.html)|`2025-03-04 03:21:00`|`Elite: Dangerous`|
+|[Asrock b650m does not save UUID with DMIEDIT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689573-asrock-b650m-save-uuid-dmiedit.html)|`2025-03-04 03:21:00`|`Valorant`|
 |[SSDs with serials not programmed into their firmware?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689041-ssds-serials-programmed-firmware.html)|`2025-03-04 03:20:00`|`Valorant`|
 |[I bet you can't get me unbanned&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689307-bet-cant-unbanned.html)|`2025-03-04 03:20:00`|`Valorant`|
 |[How to pattern scan for this&#42; &#40;ecx&#41; pointer for functions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/689470-pattern-scan-ecx-pointer-functions.html)|`2025-03-04 03:19:00`|`General Programming and Reversing`|
