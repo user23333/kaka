@@ -28,6 +28,7 @@
 |263|[cs2 external multihack v4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48828)|`2025-03-03 00:02:06`|
 |1|[RiotLogin 1&#46;4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48851)|`2025-03-03 15:41:09`|
 |1|[inversia x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48849)|`2025-03-03 15:47:04`|
+|1|[&#91;UNKOWNCHEATS&#93; &#40;allmighty Stern&#41; Dump Inspect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48844)|`2025-03-03 15:53:35`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
