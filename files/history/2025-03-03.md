@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How does arduino work as a replacement for kmbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/681460-arduino-replacement-kmbox.html)|`2025-03-03 11:13:00`|`Anti-Cheat Bypass`|
+|[KMBox: Undetected or Delayed Ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688418-kmbox-undetected-delayed-ban.html)|`2025-03-03 11:09:00`|`Valorant`|
+|[AI give this to me, is it available?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689673-ai-available.html)|`2025-03-03 11:09:00`|`Valorant`|
+|[Will fsl work on enhanced version ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689207-fsl-enhanced-version.html)|`2025-03-03 11:00:00`|`Grand Theft Auto V`|
+|[Riot Might Be Buying Arduino Leonardo Boards to Detect and Ban Them](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689672-riot-buying-arduino-leonardo-boards-detect-ban.html)|`2025-03-03 10:54:00`|`Valorant`|
 |[MCC Toolbox &#45; Trainer supports Halo Reach, Halo CE, Halo 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/397845-mcc-toolbox-trainer-supports-halo-reach-halo-ce-halo-2-a.html)|`2025-03-03 10:31:00`|`Halo`|
 |[Instrumentation Callbacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/688585-instrumentation-callbacks.html)|`2025-03-03 10:13:00`|`General Programming and Reversing`|
 |[Need Photon Dependency](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/689654-photon-dependency.html)|`2025-03-03 09:51:00`|`Phasmophobia`|
