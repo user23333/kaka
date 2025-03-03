@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SSDs with serials not programmed into their firmware?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689041-ssds-serials-programmed-firmware.html)|`2025-03-03 21:05:00`|`Valorant`|
+|[Hook of two functions for calculating bboxes by hitbox&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/689703-hook-functions-calculating-bboxes-hitbox.html)|`2025-03-03 20:59:00`|`Deadlock`|
 |[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2025-03-03 20:49:00`|`Elite: Dangerous`|
 |[problems with the implementation of norecoil for cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689406-implementation-norecoil-cs2.html)|`2025-03-03 20:48:00`|`Counter-Strike 2`|
 |[External aimbot prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689702-external-aimbot-prediction.html)|`2025-03-03 20:45:00`|`Counter-Strike 2`|
