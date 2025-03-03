@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex yolov11 AI AimAssistant&#40;Logitech Ghub&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/688904-apex-yolov11-ai-aimassistant-logitech-ghub.html)|`2025-03-03 23:01:00`|`Apex Legends`|
+|[Im trying to get Mono Sharp Injector to work&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/689719-im-trying-mono-sharp-injector.html)|`2025-03-03 22:57:00`|`C and C++`|
 |[BattlEyen't &#45; play offline raids without BattlEye on live version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/481919-battleyent-play-offline-raids-battleye-live-version.html)|`2025-03-03 22:35:00`|`Escape from Tarkov`|
 |[How do interfaces work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689718-interfaces.html)|`2025-03-03 22:33:00`|`Counter-Strike 2`|
 |[How to Bypass Ban in Delta Force?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/679069-bypass-ban-delta-force.html)|`2025-03-03 22:29:00`|`Other FPS Games`|
