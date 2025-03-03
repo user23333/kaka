@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals TriggerBot & AimAssist &#40;MouseBased Undetected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678761-marvel-rivals-triggerbot-aimassist-mousebased-undetected.html)|`2025-03-03 13:13:00`|`Marvel Rivals`|
+|[&#124; CS2 &#124; Pudra &#124; EXTERNAL &#124; SOURCE &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687962-cs2-pudra-external-source.html)|`2025-03-03 13:00:00`|`Counter-Strike 2`|
 |[Which is better Collision or Hitbox?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/689674-collision-hitbox.html)|`2025-03-03 12:43:00`|`Deadlock`|
 |[Why Do So Many Cheat Devs Using ImGui Ignore Dynamic Sizing for Menus?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/689392-cheat-devs-using-imgui-ignore-dynamic-sizing-menus.html)|`2025-03-03 12:39:00`|`Off Topic`|
 |[help with injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/689113-help-injection.html)|`2025-03-03 12:08:00`|`Rust`|
