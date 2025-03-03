@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-03-03 16:13:00`|`Counter-Strike 2`|
+|[new way to dupe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/688905-dupe.html)|`2025-03-03 16:08:00`|`DayZ SA`|
+|[Dupe exploit &#91;PC Verison&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/688691-dupe-exploit-pc-verison.html)|`2025-03-03 16:06:00`|`DayZ SA`|
+|[PUBG LATEST OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/689685-pubg-offsets.html)|`2025-03-03 16:05:00`|`PUBG Mobile`|
+|[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2025-03-03 16:01:00`|`Palworld`|
 |[Palia Hack &#40;ESP/Autofish/Movements&#41; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/637286-palia-hack-esp-autofish-movements-internal.html)|`2025-03-03 15:40:00`|`Palia`|
 |[RiotLogin &#45; Automatic Riot Client Login Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/597675-riotlogin-automatic-riot-client-login-tool.html)|`2025-03-03 15:39:00`|`League of Legends`|
 |[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2025-03-03 15:38:00`|`Palia`|
