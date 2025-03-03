@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SSDs with serials not programmed into their firmware?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689041-ssds-serials-programmed-firmware.html)|`2025-03-04 03:20:00`|`Valorant`|
+|[I bet you can't get me unbanned&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689307-bet-cant-unbanned.html)|`2025-03-04 03:20:00`|`Valorant`|
+|[How to pattern scan for this&#42; &#40;ecx&#41; pointer for functions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/689470-pattern-scan-ecx-pointer-functions.html)|`2025-03-04 03:19:00`|`General Programming and Reversing`|
+|[Riot Might Be Buying Arduino Leonardo Boards to Detect and Ban Them](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689672-riot-buying-arduino-leonardo-boards-detect-ban.html)|`2025-03-04 03:18:00`|`Valorant`|
+|[How to bypass easy AC HWID ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/689764-bypass-easy-ac-hwid-ban.html)|`2025-03-04 03:14:00`|`Anti-Cheat Bypass`|
 |[glitch other players games&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/689668-glitch-players-games.html)|`2025-03-04 02:58:00`|`Escape from Tarkov`|
 |[COD Plunder &#45; Humanized AFK Script &#40;Fast Gun/Acc Lvl XP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/687454-cod-plunder-humanized-afk-script-fast-gun-acc-lvl-xp.html)|`2025-03-04 02:35:00`|`Call of Duty: Black Ops 6`|
 |[ProcessMovement crashing on the water](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/689512-processmovement-crashing-water.html)|`2025-03-04 02:28:00`|`Team Fortress 2`|
