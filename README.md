@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SHELL CODE 3&#46;6 UPDATED &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/689683-shell-code-3-6-updated.html)|`2025-03-04 05:42:00`|`PUBG Mobile`|
+|[Character Dupe Success 12/27](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/679358-character-dupe-success-12-27-a.html)|`2025-03-04 05:41:00`|`DayZ SA`|
 |[external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/688919-external-base.html)|`2025-03-04 05:18:00`|`Rust`|
 |[Roblox Reversals: A Guide To Finding DataModel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689780-roblox-reversals-guide-finding-datamodel.html)|`2025-03-04 05:14:00`|`Other Games`|
 |[Unturned Mono External &#91;ESP/AIMBOT&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620946-unturned-mono-external-esp-aimbot.html)|`2025-03-04 05:12:00`|`Other FPS Games`|
