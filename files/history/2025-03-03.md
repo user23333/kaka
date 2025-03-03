@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[help with injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/689113-help-injection.html)|`2025-03-03 12:08:00`|`Rust`|
+|[Scripts and how to use them](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/689198-scripts.html)|`2025-03-03 12:04:00`|`Rust`|
 |[FACEIT DLL Hijack Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677628-faceit-dll-hijack-exploit.html)|`2025-03-03 11:41:00`|`Anti-Cheat Bypass`|
 |[How does arduino work as a replacement for kmbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/681460-arduino-replacement-kmbox.html)|`2025-03-03 11:13:00`|`Anti-Cheat Bypass`|
 |[KMBox: Undetected or Delayed Ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688418-kmbox-undetected-delayed-ban.html)|`2025-03-03 11:09:00`|`Valorant`|
