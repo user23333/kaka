@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[new way to dupe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/688905-dupe.html)|`2025-03-04 05:07:00`|`DayZ SA`|
+|[Luna &#124; Free CS2 Cheat &#124; INTERNAL &#124; ESP, Aim, BHop, &#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/681945-luna-free-cs2-cheat-internal-esp-aim-bhop.html)|`2025-03-04 05:05:00`|`Counter-Strike 2 Releases`|
+|[Ban evade](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/689730-ban-evade.html)|`2025-03-04 05:04:00`|`Garry's Mod`|
+|[Chivalry 2  pak cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/689272-chivalry-2-pak-cheats.html)|`2025-03-04 05:03:00`|`Other FPS Games`|
+|[external antiaim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684924-external-antiaim.html)|`2025-03-04 05:03:00`|`Counter-Strike 2`|
 |[CS2External Aim/Esp/Misc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/673859-cs2external-aim-esp-misc.html)|`2025-03-04 04:54:00`|`Counter-Strike 2 Releases`|
 |[Valorant triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689280-valorant-triggerbot.html)|`2025-03-04 04:43:00`|`Valorant`|
 |[Auto Updating Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/636910-auto-updating-super-animal-royale-hack.html)|`2025-03-04 04:32:00`|`Other Games`|
