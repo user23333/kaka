@@ -33,6 +33,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2025-03-03 20:49:00`|`Elite: Dangerous`|
+|[problems with the implementation of norecoil for cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689406-implementation-norecoil-cs2.html)|`2025-03-03 20:48:00`|`Counter-Strike 2`|
+|[External aimbot prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689702-external-aimbot-prediction.html)|`2025-03-03 20:45:00`|`Counter-Strike 2`|
+|[Any Dump for Path of Exile2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/689701-dump-path-exile2.html)|`2025-03-03 20:45:00`|`Other MMORPG and Strategy`|
+|[win11 24h2 hollowing process error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/667623-win11-24h2-hollowing-process-error.html)|`2025-03-03 20:39:00`|`General Programming and Reversing`|
+|[New Triggerbot Bypass Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686247-triggerbot-bypass-method.html)|`2025-03-03 20:38:00`|`Valorant`|
+|[Worldtoscreen &#40;W2S&#41; engine T6ZM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/689699-worldtoscreen-w2s-engine-t6zm.html)|`2025-03-03 20:37:00`|`Call of Duty: Black Ops 2`|
 |[Some help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/689486-help.html)|`2025-03-03 20:10:00`|`Alternative Online Mods`|
 |[good starting point for creating cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/689697-starting-creating-cheats.html)|`2025-03-03 19:56:00`|`Team Fortress 2`|
 |[DMA Rust Admin ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686840-dma-rust-admin-esp.html)|`2025-03-03 19:55:00`|`Rust`|
