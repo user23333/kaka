@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking for help or resources on tracing &#40;visibility check&#41; in CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689948-looking-help-resources-tracing-visibility-check-cs2.html)|`2025-03-05 05:15:00`|`Counter-Strike 2`|
+|[Lazybead &#40;LB&#41; &#45; Free Cheat &#40;COMING SOON&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat-coming-soon.html)|`2025-03-05 05:13:00`|`Sea of Thieves`|
+|[dereferencing a gold pointer in c&#43;&#43; results in gibberish value](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/689962-dereferencing-gold-pointer-results-gibberish-value.html)|`2025-03-05 05:06:00`|`General Programming and Reversing`|
 |[how to get valorant sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689956-valorant-sdk.html)|`2025-03-05 04:52:00`|`Valorant`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-03-05 04:48:00`|`Other Games`|
 |[mouse movement with vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/675397-mouse-movement-vanguard.html)|`2025-03-05 04:31:00`|`Anti-Cheat Bypass`|
