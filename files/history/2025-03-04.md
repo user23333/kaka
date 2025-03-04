@@ -29,6 +29,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R4 Minima with USB Host 2&#46;0 Not Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689805-r4-minima-usb-host-2-0-a.html)|`2025-03-04 10:32:00`|`Valorant`|
+|[R&#46;E&#46;P&#46;O esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/689575-esp.html)|`2025-03-04 10:31:00`|`Other FPS Games`|
+|[Sunoki's fully updated TriggerBot &#43; Spoofer by Mafia4321x](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679046-sunokis-updated-triggerbot-spoofer-mafia4321x.html)|`2025-03-04 10:28:00`|`Valorant`|
+|[R&#46;E&#46;P&#46;O Basic Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/689804-basic-internal.html)|`2025-03-04 10:27:00`|`Other FPS Games`|
+|[Delta Force: Hawk Ops AI AIM model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/681142-delta-force-hawk-ops-ai-aim-model.html)|`2025-03-04 10:23:00`|`Other FPS Games`|
+|[Sigma Rivals &#124; Gooner edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689792-sigma-rivals-gooner-edition.html)|`2025-03-04 09:52:00`|`Marvel Rivals`|
+|[Anti&#45;Recoil Universal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/626683-anti-recoil-universal.html)|`2025-03-04 09:45:00`|`Rainbow Six Siege`|
+|[how to interpolate local animfix?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/686528-interpolate-local-animfix.html)|`2025-03-04 09:39:00`|`Counterstrike Global Offensive`|
 |[CS2 External Basic Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686341-cs2-external-basic-multihack.html)|`2025-03-04 08:49:00`|`Counter-Strike 2`|
 |[Is there any way detect EPT Hook?&#40;except for timing check&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/689037-detect-ept-hook-except-timing-check.html)|`2025-03-04 08:39:00`|`Anti-Cheat Bypass`|
 |[Unloading vulnerable driver / iqvw64e&#46;sys ERROR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/689722-unloading-vulnerable-driver-iqvw64e-sys-error.html)|`2025-03-04 08:28:00`|`Anti-Cheat Bypass`|
