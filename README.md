@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Macro makes ghub crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/689974-macro-makes-ghub-crash.html)|`2025-03-05 05:28:00`|`Playerunknown's Battlegrounds`|
+|[So how does character migration work exactly?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689973-character-migration-exactly.html)|`2025-03-05 05:23:00`|`Grand Theft Auto V`|
+|[Is binary patching worth it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/689970-binary-patching-worth.html)|`2025-03-05 05:13:00`|`Anti-Cheat Bypass`|
+|[Xiuzhen Idle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689964-xiuzhen-idle.html)|`2025-03-05 05:08:00`|`Other Games`|
 |[Looking for help or resources on tracing &#40;visibility check&#41; in CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689948-looking-help-resources-tracing-visibility-check-cs2.html)|`2025-03-05 05:15:00`|`Counter-Strike 2`|
 |[Lazybead &#40;LB&#41; &#45; Free Cheat &#40;COMING SOON&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat-coming-soon.html)|`2025-03-05 05:13:00`|`Sea of Thieves`|
 |[dereferencing a gold pointer in c&#43;&#43; results in gibberish value](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/689962-dereferencing-gold-pointer-results-gibberish-value.html)|`2025-03-05 05:06:00`|`General Programming and Reversing`|
