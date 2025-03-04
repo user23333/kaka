@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[msi val spoof?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686894-msi-val-spoof.html)|`2025-03-05 02:33:00`|`Valorant`|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-03-05 02:28:00`|`Other Games`|
+|[Spidey Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688727-spidey-internal.html)|`2025-03-05 02:24:00`|`Marvel Rivals`|
+|[C&#35; From C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/689933-c-from-c.html)|`2025-03-05 02:24:00`|`General Programming and Reversing`|
+|[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2025-03-05 02:17:00`|`Valorant`|
+|[Get out of custody non/host](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/687913-custody-host.html)|`2025-03-05 02:16:00`|`Payday 2`|
 |[Soldier 76 Complete Recoil Control](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/675745-soldier-76-complete-recoil-control.html)|`2025-03-05 01:52:00`|`Overwatch`|
 |[Hack for CSSO 1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/689920-hack-csso-1-1-a.html)|`2025-03-05 01:49:00`|`CounterStrike Source`|
 |[If anyone can help resolve the crash issues during gameplay, I would greatly apprecia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689627-help-resolve-crash-issues-gameplay-greatly-apprecia.html)|`2025-03-05 01:45:00`|`Marvel Rivals`|
