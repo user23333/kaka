@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 External Basic Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686341-cs2-external-basic-multihack.html)|`2025-03-05 00:49:00`|`Counter-Strike 2`|
+|[Get right FiveM version &#40;bypass replaceExecutable&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/689318-fivem-version-bypass-replaceexecutable.html)|`2025-03-05 00:43:00`|`Alternative Online Mods`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-03-05 00:38:00`|`DayZ SA`|
+|[Killing Floor 2 External Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/673060-killing-floor-2-external-hack.html)|`2025-03-05 00:36:00`|`Other Games`|
+|[What is wrong with that C&#43;&#43; code &#40;Triggerbot&#41; ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689410-wrong-code-triggerbot.html)|`2025-03-05 00:36:00`|`Counter-Strike 2`|
 |[🚀 &#91;FREE RELEASE&#93; Valorant DMA Firmware for PCILeech &#45; Open Source, Low Latency, Anti](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689840-free-release-valorant-dma-firmware-pcileech-source-low-latency-anti.html)|`2025-03-05 00:33:00`|`Valorant`|
 |[UD Injector/CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/686797-ud-injector-ce.html)|`2025-03-05 00:33:00`|`Marvel Rivals`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-03-05 00:32:00`|`Call of Duty: Black Ops 6`|
