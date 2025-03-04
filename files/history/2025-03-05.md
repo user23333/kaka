@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to bypass easy AC HWID ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/689764-bypass-easy-ac-hwid-ban.html)|`2025-03-05 05:41:00`|`Anti-Cheat Bypass`|
 |[Macro makes ghub crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/689974-macro-makes-ghub-crash.html)|`2025-03-05 05:28:00`|`Playerunknown's Battlegrounds`|
 |[So how does character migration work exactly?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689973-character-migration-exactly.html)|`2025-03-05 05:23:00`|`Grand Theft Auto V`|
 |[Is binary patching worth it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/689970-binary-patching-worth.html)|`2025-03-05 05:13:00`|`Anti-Cheat Bypass`|
