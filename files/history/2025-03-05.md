@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Soldier 76 Complete Recoil Control](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/675745-soldier-76-complete-recoil-control.html)|`2025-03-05 01:52:00`|`Overwatch`|
+|[Hack for CSSO 1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/689920-hack-csso-1-1-a.html)|`2025-03-05 01:49:00`|`CounterStrike Source`|
 |[If anyone can help resolve the crash issues during gameplay, I would greatly apprecia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689627-help-resolve-crash-issues-gameplay-greatly-apprecia.html)|`2025-03-05 01:45:00`|`Marvel Rivals`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-03-05 01:41:00`|`Other FPS Games`|
 |[&#91;DMA&#93; Can't read the module with kernel anticheat open](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689928-dma-cant-read-module-kernel-anticheat.html)|`2025-03-05 01:40:00`|`Counter-Strike 2`|
