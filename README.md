@@ -14,6 +14,7 @@
 |12|[Deadlock internal cheat source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/688736-deadlock-internal-cheat-source-code.html)|`2025-03-04 06:45:07`|`deadlock`|
 |23|[Region lock bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/688922-region-lock-bypass.html)|`2025-03-04 09:11:10`|`escape-from-tarkov`|
 |6|[Valorant triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689280-valorant-triggerbot.html)|`2025-03-04 16:19:52`|`valorant`|
+|17|[Is there any way detect EPT Hook?&#40;except for timing check&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/689037-detect-ept-hook-except-timing-check.html)|`2025-03-04 19:23:18`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -41,6 +42,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-03-04 19:23:00`|`Other Games`|
+|[Pubg PC HWID Unban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/688367-pubg-pc-hwid-unban.html)|`2025-03-04 19:20:00`|`Playerunknown's Battlegrounds`|
+|[Alternative last free version of cheat 06&#46;2020](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/458599-alternative-free-version-cheat-06-2020-a.html)|`2025-03-04 19:18:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Best mod menu for money](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689861-mod-menu-money.html)|`2025-03-04 19:17:00`|`Grand Theft Auto V`|
 |[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2025-03-04 19:00:00`|`Escape from Tarkov`|
 |[SoT Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/689775-sot-cheat-engine.html)|`2025-03-04 18:45:00`|`Sea of Thieves`|
 |[The Quinfall anti cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/689858-quinfall-anti-cheat.html)|`2025-03-04 18:43:00`|`Other MMORPG and Strategy`|
