@@ -41,6 +41,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Sound ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689856-external-sound-esp.html)|`2025-03-04 18:31:00`|`Counter-Strike 2`|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-03-04 18:27:00`|`Counter-Strike 2 Releases`|
+|[Full Anticheat Disabler &#40;You can play online&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687866-anticheat-disabler-play-online.html)|`2025-03-04 18:25:00`|`Marvel Rivals`|
+|[Usermode HID Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/689034-usermode-hid-driver.html)|`2025-03-04 18:22:00`|`Call of Duty: Black Ops 6`|
+|[Run anti&#45;cheat maually](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/689235-run-anti-cheat-maually.html)|`2025-03-04 18:14:00`|`Anti-Cheat Bypass`|
 |[PAYDAY 2 &#45; Ultimate Trainer 6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/588542-payday-2-ultimate-trainer-6-a.html)|`2025-03-04 18:11:00`|`Payday 2`|
 |[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-03-04 18:06:00`|`Battlefield 4`|
 |[CL&#95;Move rebuild](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/663803-cl_move-rebuild.html)|`2025-03-04 17:58:00`|`Counterstrike Global Offensive`|
