@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Simple External base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/645500-fivem-simple-external-base.html)|`2025-03-05 05:59:00`|`Alternative Online Mods`|
+|[👽 VALORANT Skin Changer &#40;Just Inject it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/517551-valorant-skin-changer-inject.html)|`2025-03-05 05:57:00`|`Valorant`|
 |[How to bypass easy AC HWID ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/689764-bypass-easy-ac-hwid-ban.html)|`2025-03-05 05:41:00`|`Anti-Cheat Bypass`|
 |[Macro makes ghub crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/689974-macro-makes-ghub-crash.html)|`2025-03-05 05:28:00`|`Playerunknown's Battlegrounds`|
 |[So how does character migration work exactly?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689973-character-migration-exactly.html)|`2025-03-05 05:23:00`|`Grand Theft Auto V`|
