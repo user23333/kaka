@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chivalry 2  pak cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/689272-chivalry-2-pak-cheats.html)|`2025-03-05 18:12:00`|`Other FPS Games`|
+|[SCP:SL anti&#45;cheat analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688412-scp-sl-anti-cheat-analysis.html)|`2025-03-05 18:06:00`|`Anti-Cheat Bypass`|
+|[GTA5 Master Exrernal Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690026-gta5-master-exrernal-mod-menu.html)|`2025-03-05 18:05:00`|`Grand Theft Auto V`|
+|[Crashing Issue Solutions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688880-crashing-issue-solutions.html)|`2025-03-05 18:02:00`|`Marvel Rivals`|
 |[Titanfall 2 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/688353-titanfall-2-internal-cheat.html)|`2025-03-05 17:22:00`|`Titanfall`|
 |[i just need help with warzone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/690013-help-warzone.html)|`2025-03-05 17:18:00`|`Call of Duty: Black Ops 6`|
 |[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-03-05 17:00:00`|`Rainbow Six Siege`|
