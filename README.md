@@ -24,9 +24,14 @@
 |19|[VTube Studio All DLC v1&#46;31&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48855)|`2025-03-06 00:46:26`|
 |7|[dump&#95;0&#46;16&#46;1&#46;35328](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48853)|`2025-03-06 00:46:26`|
 |139|[ReadyOrNot internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48852)|`2025-03-06 00:46:26`|
+|2|[Heavyweight Chiv2 ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48886)|`2025-03-06 03:41:48`|
+|2|[RigelUp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48878)|`2025-03-06 03:41:48`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nexus External ESP V2 &#40;PyMeow&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/690093-nexus-external-esp-v2-pymeow.html)|`2025-03-06 03:38:00`|`Garry's Mod`|
+|[Arduino FirmWare UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676366-arduino-firmware-ud.html)|`2025-03-06 03:37:00`|`Valorant`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-03-06 03:35:00`|`Other FPS Games`|
 |[AndroidEmulatorEx Safe Environment Please Help Me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/689689-androidemulatorex-safe-environment-please-help.html)|`2025-03-06 03:14:00`|`PUBG Mobile`|
 |[Bloodstrike](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690058-bloodstrike.html)|`2025-03-06 03:11:00`|`Other FPS Games`|
 |[World of Tanks Blitz & DAVA Game Engine structure and hints needed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/689828-world-tanks-blitz-dava-game-engine-structure-hints.html)|`2025-03-06 03:11:00`|`Other MMORPG and Strategy`|
