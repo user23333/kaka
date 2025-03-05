@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty Mobile Chinese PC Version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/684552-call-duty-mobile-chinese-pc-version.html)|`2025-03-06 05:12:00`|`Other FPS Games`|
+|[For Honor &#45; Sciprt by florasSecret &#45; Autoblock, Parry, Deflects, D b/Unblockables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/414701-honor-sciprt-florassecret-autoblock-parry-deflects-unblockables.html)|`2025-03-06 05:08:00`|`Other MMORPG and Strategy`|
 |[Is binary patching worth it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/689970-binary-patching-worth.html)|`2025-03-06 04:48:00`|`Anti-Cheat Bypass`|
 |[One Armed Robber Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/618429-armed-robber-internal.html)|`2025-03-06 04:47:00`|`Other FPS Games`|
 |[R&#46;E&#46;P&#46;O Simple Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/689820-simple-cheat.html)|`2025-03-06 04:46:00`|`Other MMORPG and Strategy`|
