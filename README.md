@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-03-06 07:35:00`|`Other FPS Games`|
+|[Get out of custody non/host](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/687913-custody-host.html)|`2025-03-06 07:33:00`|`Payday 2`|
 |[Can't play with friends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689127-cant-play-friends.html)|`2025-03-06 07:23:00`|`Grand Theft Auto V`|
 |[How to implement CE lua script function with DMA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/689517-implement-ce-lua-script-function-dma.html)|`2025-03-06 07:11:00`|`General Programming and Reversing`|
 |[Event system &#45; how do you find and hook events?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690118-event-system-hook-events.html)|`2025-03-06 07:08:00`|`Counter-Strike 2`|
