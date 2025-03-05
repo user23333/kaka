@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2025-03-05 16:24:00`|`Escape from Tarkov`|
+|[DMA DayZ Fuser ESP &#43; Radar Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/606723-dma-dayz-fuser-esp-radar-source-release.html)|`2025-03-05 16:17:00`|`DayZ SA`|
+|[R&#46;E&#46;P&#46;O Simple Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/689820-simple-cheat.html)|`2025-03-05 16:17:00`|`Other MMORPG and Strategy`|
+|[C&#43;&#43; Pixelbot made using BitBlt, OpenCV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690012-pixelbot-using-bitblt-opencv.html)|`2025-03-05 16:14:00`|`Valorant`|
 |[Whats the difference of ViewMatrix and ViewMatrix&#95;test?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/690010-whats-difference-viewmatrix-viewmatrix_test.html)|`2025-03-05 15:58:00`|`Overwatch`|
 |[PUBG 3&#46;6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/681200-pubg-3-6-offsets.html)|`2025-03-05 15:51:00`|`PUBG Mobile`|
 |[external antiaim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684924-external-antiaim.html)|`2025-03-05 15:00:00`|`Counter-Strike 2`|
