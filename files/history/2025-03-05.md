@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Tarkov VPN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/686184-tarkov-vpn.html)|`2025-03-05 08:56:00`|`Escape from Tarkov`|
+|[external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/688919-external-base.html)|`2025-03-05 08:47:00`|`Rust`|
+|[VGK obfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671176-vgk-obfuscation.html)|`2025-03-05 08:45:00`|`Anti-Cheat Bypass`|
+|[Reg Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689987-reg-inject.html)|`2025-03-05 08:40:00`|`Marvel Rivals`|
+|[BotOps Hub &#40;bot lobby tool, no VM required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674129-botops-hub-bot-lobby-tool-vm-required.html)|`2025-03-05 08:35:00`|`Call of Duty: Black Ops 6`|
+|[Spring & Easter Banner question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/689986-spring-easter-banner-question.html)|`2025-03-05 08:28:00`|`Forum General`|
 |[Bypassing Integrity Checks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/689985-bypassing-integrity-checks.html)|`2025-03-05 07:37:00`|`Anti-Cheat Bypass`|
 |[&#91;UNIVERSAL&#93;&#91;LUA&#93; Script Engine &#91;ProbablyUD&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/676743-universal-lua-script-engine-probablyud.html)|`2025-03-05 07:36:00`|`Rainbow Six Siege`|
 |[Dupe exploit &#91;PC Verison&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/688691-dupe-exploit-pc-verison.html)|`2025-03-05 07:33:00`|`DayZ SA`|
