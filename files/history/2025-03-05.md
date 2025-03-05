@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-03-05 19:56:00`|`HELLDIVERS 2`|
+|[Color Aimbot for marvel rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688077-color-aimbot-marvel-rivals.html)|`2025-03-05 19:56:00`|`Marvel Rivals`|
 |[are you a hp user ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690035-hp-user.html)|`2025-03-05 19:43:00`|`Valorant`|
 |[Banned On Pirated Dayz Servers&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/673482-banned-pirated-dayz-servers.html)|`2025-03-05 19:26:00`|`DayZ SA`|
 |[Rust New Anti&#45;Cheat Info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/689989-rust-anti-cheat-info.html)|`2025-03-05 19:36:00`|`Rust`|
