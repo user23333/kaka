@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2025-03-05 18:32:00`|`Other FPS Games`|
 |[Chivalry 2  pak cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/689272-chivalry-2-pak-cheats.html)|`2025-03-05 18:12:00`|`Other FPS Games`|
 |[SCP:SL anti&#45;cheat analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688412-scp-sl-anti-cheat-analysis.html)|`2025-03-05 18:06:00`|`Anti-Cheat Bypass`|
 |[GTA5 Master Exrernal Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690026-gta5-master-exrernal-mod-menu.html)|`2025-03-05 18:05:00`|`Grand Theft Auto V`|
