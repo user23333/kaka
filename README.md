@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-03-05 19:13:00`|`Grand Theft Auto V`|
+|[&#42;New&#42; List of Cracked/Pirated Dayz Servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/690032-list-cracked-pirated-dayz-servers.html)|`2025-03-05 19:12:00`|`DayZ SA`|
+|[For new Devs: Nothing is UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688169-devs-ud.html)|`2025-03-05 19:11:00`|`Anti-Cheat Bypass`|
 |[Linux External ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/674732-linux-external-esp-aimbot.html)|`2025-03-05 19:04:00`|`Counter-Strike 2 Releases`|
 |[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2025-03-05 18:32:00`|`Other FPS Games`|
 |[Chivalry 2  pak cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/689272-chivalry-2-pak-cheats.html)|`2025-03-05 18:12:00`|`Other FPS Games`|
