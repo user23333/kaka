@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2025-03-06 01:52:00`|`Overwatch`|
+|[Low Trust Factor for Years After Cheating – Did It Ever Return to Normal?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688088-low-trust-factor-cheating-return-normal.html)|`2025-03-06 01:48:00`|`Counter-Strike 2`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-03-06 01:46:00`|`Call of Duty: Black Ops 6`|
+|[How to Get Hook in windows 11 24h2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/690074-hook-windows-11-24h2.html)|`2025-03-06 01:44:00`|`Anti-Cheat Bypass`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-03-06 01:37:00`|`Counter-Strike 2`|
 |[Is there any way detect EPT Hook?&#40;except for timing check&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/689037-detect-ept-hook-except-timing-check.html)|`2025-03-06 01:35:00`|`Anti-Cheat Bypass`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-03-06 01:31:00`|`Valorant`|
