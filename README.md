@@ -14,6 +14,7 @@
 |19|[did anyone transferred over?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689872-transferred.html)|`2025-03-05 03:03:12`|`grand-theft-auto-v`|
 |28|[Sigma Rivals &#124; Gooner edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689792-sigma-rivals-gooner-edition.html)|`2025-03-05 04:56:47`|`marvel-rivals`|
 |20|[topic for collecting data from migrated and non&#45;migrated accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689890-topic-collecting-data-migrated-migrated-accounts.html)|`2025-03-05 13:59:14`|`grand-theft-auto-v`|
+|3|[GTA Enhanced Day One Exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689980-gta-enhanced-day-exploits.html)|`2025-03-05 23:11:16`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Python Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683532-external-python-cheat.html)|`2025-03-05 23:10:00`|`Counter-Strike 2`|
 |[We need God to provide PS2&#45;dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/677673-god-provide-ps2-dump.html)|`2025-03-05 22:24:00`|`PlanetSide 2`|
 |[Game Crashing with Silent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/690052-game-crashing-silent.html)|`2025-03-05 22:24:00`|`Alternative Online Mods`|
 |[how to use yim menu money tools for 1&#46;70 no fsl/be](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690051-yim-menu-money-tools-1-70-fsl.html)|`2025-03-05 22:22:00`|`Grand Theft Auto V`|
