@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[are you a hp user ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690035-hp-user.html)|`2025-03-05 19:43:00`|`Valorant`|
+|[Banned On Pirated Dayz Servers&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/673482-banned-pirated-dayz-servers.html)|`2025-03-05 19:26:00`|`DayZ SA`|
 |[Rust New Anti&#45;Cheat Info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/689989-rust-anti-cheat-info.html)|`2025-03-05 19:36:00`|`Rust`|
 |[Frameware Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/677239-frameware-release.html)|`2025-03-05 19:32:00`|`Overwatch`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-03-05 19:13:00`|`Grand Theft Auto V`|
