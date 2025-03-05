@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CCHook:Reloaded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/return-to-castle-wolfenstein/492818-cchook-reloaded.html)|`2025-03-06 07:54:00`|`Return To Castle Wolfenstein`|
 |[Frameware Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/677239-frameware-release.html)|`2025-03-06 07:52:00`|`Overwatch`|
 |[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-03-06 07:35:00`|`Other FPS Games`|
 |[Get out of custody non/host](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/687913-custody-host.html)|`2025-03-06 07:33:00`|`Payday 2`|
