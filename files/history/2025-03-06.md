@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 UserCmd struct and CCSGOInput class](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690260-cs2-usercmd-struct-ccsgoinput-class.html)|`2025-03-06 20:50:00`|`Counter-Strike 2`|
+|[UD Injector/CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/686797-ud-injector-ce.html)|`2025-03-06 20:50:00`|`Marvel Rivals`|
+|[Battle Eye and Easy Anticheat detection vectors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/690163-battle-eye-easy-anticheat-detection-vectors.html)|`2025-03-06 20:39:00`|`Anti-Cheat Bypass`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-03-06 20:38:00`|`Other FPS Games`|
 |[mini&#45;map tracking tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/683014-mini-map-tracking-tool.html)|`2025-03-06 20:03:00`|`League of Legends`|
 |[CounterStrike Source Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/157661-counterstrike-source-reversal-structs-offsets.html)|`2025-03-06 19:46:00`|`CounterStrike Source`|
 |[Getting C&#95;BaseEntity of local player](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690243-getting-c_baseentity-local-player.html)|`2025-03-06 19:23:00`|`Counter-Strike 2`|
