@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 UserCmd struct and CCSGOInput class](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690260-cs2-usercmd-struct-ccsgoinput-class.html)|`2025-03-07 04:09:00`|`Counter-Strike 2`|
+|[GTA 5 Enhanced Migration Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690179-gta-5-enhanced-migration-discussion.html)|`2025-03-07 04:08:00`|`Grand Theft Auto V`|
+|[100% UNDETECTED INJECTOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/508347-100-undetected-injector.html)|`2025-03-07 04:06:00`|`Anti-Cheat Bypass`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-03-07 04:05:00`|`Counter-Strike 2`|
 |[&#46;text section shellcode in driver &#40;in binary file&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/689389-text-section-shellcode-driver-binary-file.html)|`2025-03-07 03:55:00`|`Anti-Cheat Bypass`|
 |[Marvel Rivals Cleaner &#124; POSSIBLE UNBAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690169-marvel-rivals-cleaner-unban.html)|`2025-03-07 03:53:00`|`Marvel Rivals`|
 |[YimMenu&#46;dll 1&#46;70 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678007-yimmenu-dll-1-70-update.html)|`2025-03-07 03:53:00`|`Grand Theft Auto V`|
