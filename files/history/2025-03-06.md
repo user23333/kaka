@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBGM 32BIT GLOBAL UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690230-pubgm-32bit-global-ue4-offsets.html)|`2025-03-06 17:52:00`|`PUBG Mobile`|
 |[Pipsi&#45;HI3 &#91; Honkai Impact 3rd Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/631036-pipsi-hi3-honkai-impact-3rd-cheat.html)|`2025-03-06 17:48:00`|`Other MMORPG and Strategy`|
 |[DMA device](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673882-dma-device.html)|`2025-03-06 17:35:00`|`Anti-Cheat Bypass`|
 |[How to bypass easy AC HWID ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/689764-bypass-easy-ac-hwid-ban.html)|`2025-03-06 17:29:00`|`Anti-Cheat Bypass`|
