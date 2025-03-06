@@ -37,6 +37,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can we normalize &#46;&#46;&#46; in this thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/690295-normalize-thread.html)|`2025-03-07 07:41:00`|`Alternative Online Mods`|
+|[UD Injector/CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/686797-ud-injector-ce.html)|`2025-03-07 07:40:00`|`Marvel Rivals`|
+|[Is Rewasd Safe now](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/689196-rewasd-safe.html)|`2025-03-07 07:35:00`|`Apex Legends`|
 |[Auto Strafe / Rage Strafe ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/690170-auto-strafe-rage-strafe.html)|`2025-03-07 07:34:00`|`Team Fortress 2`|
 |[replaceExecutable Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/689883-replaceexecutable-bypass.html)|`2025-03-07 07:32:00`|`Alternative Online Mods`|
 |[Black Squad Hack 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-3-a/690387-black-squad-hack-2025-a.html)|`2025-03-07 07:22:00`|`Unreal Engine 3`|
