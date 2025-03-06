@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-03-07 03:16:00`|`Marvel Rivals`|
+|[New additions to the staff team&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/690366-additions-staff-team.html)|`2025-03-07 03:14:00`|`Information and Announcements`|
+|[GTA5 Master Exrernal Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690026-gta5-master-exrernal-mod-menu.html)|`2025-03-07 03:10:00`|`Grand Theft Auto V`|
+|[&#91;TriggerBot &#45; Issues&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690352-triggerbot-issues.html)|`2025-03-07 02:55:00`|`Valorant`|
+|[MCC Toolbox &#45; Trainer supports Halo Reach, Halo CE, Halo 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/397845-mcc-toolbox-trainer-supports-halo-reach-halo-ce-halo-2-a.html)|`2025-03-07 02:50:00`|`Halo`|
+|[LIBANOGS CHANGED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690348-libanogs-changed.html)|`2025-03-07 02:47:00`|`PUBG Mobile`|
 |[R6 DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/690113-r6-dma.html)|`2025-03-07 02:44:00`|`Rainbow Six Siege`|
 |[Getting C&#95;BaseEntity of local player](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690243-getting-c_baseentity-local-player.html)|`2025-03-07 02:44:00`|`Counter-Strike 2`|
 |[3&#46;7 offsets 64 bit &#43; SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690344-3-7-offsets-64-bit-sdk.html)|`2025-03-07 02:44:00`|`PUBG Mobile`|
