@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[C&#35; From C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/689933-c-from-c.html)|`2025-03-06 17:08:00`|`General Programming and Reversing`|
 |[to update PUBG GL 32BIT 3&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/688097-update-pubg-gl-32bit-3-6-a.html)|`2025-03-06 16:47:00`|`PUBG Mobile`|
 |[Dying Light 1 &#40;V1&#46;50&#41; Internal &#124; Aimbot, ESP,&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/688897-dying-light-1-v1-50-internal-aimbot-esp.html)|`2025-03-06 16:22:00`|`Other FPS Games`|
 |[How to send "key" to window in linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/690190-send-key-window-linux.html)|`2025-03-06 16:15:00`|`General Programming and Reversing`|
