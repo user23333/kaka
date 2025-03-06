@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG  32 3&#46;7 CASES OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690239-pubg-32-3-7-offsets.html)|`2025-03-06 19:09:00`|`PUBG Mobile`|
 |[GLOBAL 3&#46;7 SDK & OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690238-global-3-7-sdk-offsets.html)|`2025-03-06 18:55:00`|`PUBG Mobile`|
 |[replaceExecutable Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/689883-replaceexecutable-bypass.html)|`2025-03-06 18:54:00`|`Alternative Online Mods`|
 |[Strinova Internal &#40;Aimbot & ESP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677105-strinova-internal-aimbot-esp.html)|`2025-03-06 18:41:00`|`Other FPS Games`|
