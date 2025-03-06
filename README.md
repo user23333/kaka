@@ -14,6 +14,7 @@
 |14|[R&#46;E&#46;P&#46;O Simple Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/689820-simple-cheat.html)|`2025-03-06 09:20:31`|`other-mmorpg-and-strategy`|
 |5|[GTA5 Master Exrernal Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690026-gta5-master-exrernal-mod-menu.html)|`2025-03-06 14:36:56`|`grand-theft-auto-v`|
 |1|[GTA5&#95;Enchanced Basic DMA Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689945-gta5_enchanced-basic-dma-tool.html)|`2025-03-06 21:15:27`|`grand-theft-auto-v`|
+|3|[🚀 &#91;FREE RELEASE&#93; Valorant DMA Firmware for PCILeech &#45; Open Source, Low Latency, Anti](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689840-free-release-valorant-dma-firmware-pcileech-source-low-latency-anti.html)|`2025-03-06 22:08:19`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2025-03-06 21:59:00`|`Other FPS Games`|
 |[R6 DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/689995-r6-dma.html)|`2025-03-06 21:52:00`|`Rainbow Six Siege`|
 |[PUBG GLOBAL 3&#46;7 UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690267-pubg-global-3-7-ue4-offsets.html)|`2025-03-06 21:25:00`|`PUBG Mobile`|
 |[External Offsets 3&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690266-external-offsets-3-7-a.html)|`2025-03-06 21:22:00`|`PUBG Mobile`|
