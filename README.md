@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rivals Launch Without Launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690181-rivals-launch-launcher.html)|`2025-03-06 14:59:00`|`Marvel Rivals`|
 |[Can't call OpenProcess](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/690040-cant-call-openprocess.html)|`2025-03-06 14:45:00`|`Programming for Beginners`|
 |[FiveM LLa Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/689984-fivem-lla-injector.html)|`2025-03-06 14:03:00`|`Alternative Online Mods`|
 |[Will i get banend for my method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689678-banend-method.html)|`2025-03-06 14:03:00`|`Valorant`|
