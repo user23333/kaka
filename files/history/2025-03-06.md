@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GLOBAL 3&#46;7 SDK & OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690238-global-3-7-sdk-offsets.html)|`2025-03-06 18:55:00`|`PUBG Mobile`|
+|[replaceExecutable Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/689883-replaceexecutable-bypass.html)|`2025-03-06 18:54:00`|`Alternative Online Mods`|
 |[Strinova Internal &#40;Aimbot & ESP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677105-strinova-internal-aimbot-esp.html)|`2025-03-06 18:41:00`|`Other FPS Games`|
 |[PUBG GL 3&#46;7 32 BIT UE4 POINTER WITH OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690235-pubg-gl-3-7-32-bit-ue4-pointer-offsets.html)|`2025-03-06 18:40:00`|`PUBG Mobile`|
 |[The Headliners internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/686294-headliners-internal.html)|`2025-03-06 18:37:00`|`Other Games`|
