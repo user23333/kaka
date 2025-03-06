@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Forts cheat table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/625043-forts-cheat-table.html)|`2025-03-06 15:44:00`|`Other MMORPG and Strategy`|
 |[Rust Ban Evasion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/683408-rust-ban-evasion.html)|`2025-03-06 15:32:00`|`Forum General`|
 |[Rivals Launch Without Launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690181-rivals-launch-launcher.html)|`2025-03-06 14:59:00`|`Marvel Rivals`|
 |[Can't call OpenProcess](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/690040-cant-call-openprocess.html)|`2025-03-06 14:45:00`|`Programming for Beginners`|
