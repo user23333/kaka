@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Strinova Internal &#40;Aimbot & ESP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677105-strinova-internal-aimbot-esp.html)|`2025-03-06 18:41:00`|`Other FPS Games`|
+|[PUBG GL 3&#46;7 32 BIT UE4 POINTER WITH OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690235-pubg-gl-3-7-32-bit-ue4-pointer-offsets.html)|`2025-03-06 18:40:00`|`PUBG Mobile`|
+|[The Headliners internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/686294-headliners-internal.html)|`2025-03-06 18:37:00`|`Other Games`|
+|[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2025-03-06 18:36:00`|`Elite: Dangerous`|
 |[Solo Leveling: Arise 1&#46;0&#46;24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/632972-solo-leveling-arise-1-0-24-a.html)|`2025-03-06 18:06:00`|`Other MMORPG and Strategy`|
 |[PUBGM 32BIT GLOBAL UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690230-pubgm-32bit-global-ue4-offsets.html)|`2025-03-06 17:52:00`|`PUBG Mobile`|
 |[Pipsi&#45;HI3 &#91; Honkai Impact 3rd Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/631036-pipsi-hi3-honkai-impact-3rd-cheat.html)|`2025-03-06 17:48:00`|`Other MMORPG and Strategy`|
