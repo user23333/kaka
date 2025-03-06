@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[some pixel aimbot macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689811-pixel-aimbot-macro.html)|`2025-03-06 11:57:00`|`Marvel Rivals`|
+|[External Esp 1&#46;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/684542-external-esp-1-26-a.html)|`2025-03-06 11:56:00`|`DayZ SA`|
 |[I bet you can't get me unbanned&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689307-bet-cant-unbanned.html)|`2025-03-06 11:36:00`|`Valorant`|
 |[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2025-03-06 11:36:00`|`Grand Theft Auto V`|
 |[spinkbf4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/689728-spinkbf4.html)|`2025-03-06 11:18:00`|`Battlefield 4`|
