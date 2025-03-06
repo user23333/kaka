@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[shared memory bsod on thread creation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/690374-shared-memory-bsod-thread-creation.html)|`2025-03-07 05:46:00`|`Anti-Cheat Bypass`|
 |[BO6 Playstation Remote Play Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/690386-bo6-playstation-remote-play-cheats.html)|`2025-03-07 05:45:00`|`Call of Duty: Black Ops 6`|
 |[topic for collecting data from migrated and non&#45;migrated accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689890-topic-collecting-data-migrated-migrated-accounts.html)|`2025-03-07 05:42:00`|`Grand Theft Auto V`|
 |[HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/690306-hwid-spoofer.html)|`2025-03-07 05:40:00`|`Anti-Cheat Bypass`|
