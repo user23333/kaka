@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6 DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/689995-r6-dma.html)|`2025-03-06 21:52:00`|`Rainbow Six Siege`|
 |[PUBG GLOBAL 3&#46;7 UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690267-pubg-global-3-7-ue4-offsets.html)|`2025-03-06 21:25:00`|`PUBG Mobile`|
 |[External Offsets 3&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690266-external-offsets-3-7-a.html)|`2025-03-06 21:22:00`|`PUBG Mobile`|
 |[CS2 UserCmd struct and CCSGOInput class](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690260-cs2-usercmd-struct-ccsgoinput-class.html)|`2025-03-06 20:50:00`|`Counter-Strike 2`|
