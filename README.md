@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[INSTA BANS &#43; MISSING STRING Problems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690278-insta-bans-missing-string.html)|`2025-03-06 22:39:00`|`Marvel Rivals`|
+|[GLOBAL PUBG 32BIT 3&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690276-global-pubg-32bit-3-7-a.html)|`2025-03-06 22:36:00`|`PUBG Mobile`|
 |[Looking for help or resources on tracing &#40;visibility check&#41; in CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689948-looking-help-resources-tracing-visibility-check-cs2.html)|`2025-03-06 22:19:00`|`Counter-Strike 2`|
 |[Scripting in IDA Pro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/690273-scripting-ida-pro.html)|`2025-03-06 22:17:00`|`Rust`|
 |[GIRLS' FRONTLINE 2:EXILIUM CN PC cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/653607-girls-frontline-2-exilium-cn-pc-cheat.html)|`2025-03-06 22:11:00`|`Other MMORPG and Strategy`|
