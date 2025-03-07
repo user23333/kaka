@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Put benny's wheels in personal vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/376369-bennys-wheels-personal-vehicle.html)|`2025-03-07 12:16:00`|`Grand Theft Auto V`|
+|[Valorant insta headshot AIMBOT&#91;UNDETECTED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688675-valorant-insta-headshot-aimbot-undetected.html)|`2025-03-07 12:09:00`|`Valorant`|
+|[Warframe Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/631004-warframe-cheat.html)|`2025-03-07 12:03:00`|`Other FPS Games`|
 |[any menus on here working?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690174-menus.html)|`2025-03-07 11:45:00`|`Grand Theft Auto V`|
 |[&#91;RELEASE&#93; Fake angles exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689622-release-fake-angles-exploit.html)|`2025-03-07 11:26:00`|`Counter-Strike 2`|
 |[Vanguard Spoofer Rev 2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612562-vanguard-spoofer-rev-2-a.html)|`2025-03-07 11:19:00`|`Valorant`|
