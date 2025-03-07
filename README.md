@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2025-03-08 01:58:00`|`Valorant`|
+|[3&#46;7 updated pubg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690496-3-7-updated-pubg.html)|`2025-03-08 01:54:00`|`PUBG Mobile`|
 |[FragPunk Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/666506-fragpunk-reversal-structs-offsets.html)|`2025-03-08 01:52:00`|`Other FPS Games`|
 |[How to setup sticky aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690451-setup-sticky-aim.html)|`2025-03-08 01:52:00`|`Valorant`|
 |[Kingdom Come: Deliverance 2 Auto Combat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/690001-kingdom-deliverance-2-auto-combat.html)|`2025-03-08 01:49:00`|`Other Single Player Games`|
