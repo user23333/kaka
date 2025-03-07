@@ -40,6 +40,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Best method to detect enemies on a screenshot for color aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690293-method-detect-enemies-screenshot-color-aimbot.html)|`2025-03-07 19:38:00`|`Valorant`|
+|[Duplication glitch question&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/628454-duplication-glitch-question.html)|`2025-03-07 19:37:00`|`DayZ SA`|
 |[Dark and Darker Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690457-dark-darker-internal.html)|`2025-03-07 19:28:00`|`Other FPS Games`|
 |[Valorant hax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/689268-valorant-hax.html)|`2025-03-07 18:55:00`|`Off Topic`|
 |[&#40;&#46;text&#41; seg functions hooks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690455-text-seg-functions-hooks.html)|`2025-03-07 18:32:00`|`PUBG Mobile`|
