@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MAC Address Spoofer &#124; DRIVER AND SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/690384-mac-address-spoofer-driver-source.html)|`2025-03-08 06:52:00`|`Anti-Cheat Bypass`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-03-08 06:33:00`|`Call of Duty: Black Ops 6`|
 |[Marvel Rivals Cleaner &#124; POSSIBLE UNBAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690169-marvel-rivals-cleaner-unban.html)|`2025-03-08 06:32:00`|`Marvel Rivals`|
 |[Fixing static TLS Windows 11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/690580-fixing-static-tls-windows-11-a.html)|`2025-03-08 06:31:00`|`General Programming and Reversing`|
