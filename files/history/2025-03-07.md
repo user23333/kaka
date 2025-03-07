@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTA5&#95;Enchanced Basic DMA Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689945-gta5_enchanced-basic-dma-tool.html)|`2025-03-07 12:51:00`|`Grand Theft Auto V`|
+|[VTube Studio DLC Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689731-vtube-studio-dlc-unlocker.html)|`2025-03-07 12:47:00`|`Other Games`|
+|[Rivals Launch Without Launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690181-rivals-launch-launcher.html)|`2025-03-07 12:47:00`|`Marvel Rivals`|
 |[Anti&#45;Recoil Universal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/626683-anti-recoil-universal.html)|`2025-03-07 12:42:00`|`Rainbow Six Siege`|
 |[spinkbf4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/689728-spinkbf4.html)|`2025-03-07 12:41:00`|`Battlefield 4`|
 |[How to not get banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690428-banned.html)|`2025-03-07 12:25:00`|`Marvel Rivals`|
