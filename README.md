@@ -40,6 +40,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[W11 24H2 data ptr driver communication method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/652498-w11-24h2-data-ptr-driver-communication-method.html)|`2025-03-07 22:58:00`|`Anti-Cheat Bypass`|
 |[All Mouse NoRecoil &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-recoil-helpy-auto-config-probably-ud-universal.html)|`2025-03-07 22:38:00`|`Rainbow Six Siege`|
 |[Trading Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/679348-trading-bot.html)|`2025-03-07 22:36:00`|`Elite: Dangerous`|
 |[data ptr swap win 11 24h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683598-data-ptr-swap-win-11-24h2.html)|`2025-03-07 22:34:00`|`Anti-Cheat Bypass`|
