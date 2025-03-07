@@ -40,6 +40,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTA Enhanced Day One Exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689980-gta-enhanced-day-exploits.html)|`2025-03-07 19:57:00`|`Grand Theft Auto V`|
 |[Exception Handling of the Game blocks my DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/690461-exception-handling-game-blocks-dll.html)|`2025-03-07 19:47:00`|`Anti-Cheat Bypass`|
 |[Hack for CSSO 1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/689920-hack-csso-1-1-a.html)|`2025-03-07 19:45:00`|`CounterStrike Source`|
 |[Best method to detect enemies on a screenshot for color aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690293-method-detect-enemies-screenshot-color-aimbot.html)|`2025-03-07 19:38:00`|`Valorant`|
