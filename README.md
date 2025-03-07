@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How can i find hard to find offsets eith Cheat Engine and IDA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/690431-hard-offsets-eith-cheat-engine-ida.html)|`2025-03-07 13:09:00`|`Rust`|
 |[GTA5&#95;Enchanced Basic DMA Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689945-gta5_enchanced-basic-dma-tool.html)|`2025-03-07 12:51:00`|`Grand Theft Auto V`|
 |[VTube Studio DLC Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689731-vtube-studio-dlc-unlocker.html)|`2025-03-07 12:47:00`|`Other Games`|
 |[Rivals Launch Without Launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690181-rivals-launch-launcher.html)|`2025-03-07 12:47:00`|`Marvel Rivals`|
