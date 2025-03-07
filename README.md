@@ -40,6 +40,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;&#46;text&#41; seg functions hooks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690455-text-seg-functions-hooks.html)|`2025-03-07 18:32:00`|`PUBG Mobile`|
 |[CSS x64 fully&#45;featured cheat &#43; sourcecode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/688352-css-x64-featured-cheat-sourcecode.html)|`2025-03-07 18:00:00`|`CounterStrike Source`|
 |[Current offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/482788-current-offsets.html)|`2025-03-07 17:44:00`|`PlanetSide 2`|
 |[How to setup sticky aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690451-setup-sticky-aim.html)|`2025-03-07 17:43:00`|`Valorant`|
