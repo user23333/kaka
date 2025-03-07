@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[For Honor &#45; Sciprt by florasSecret &#45; Autoblock, Parry, Deflects, D b/Unblockables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/414701-honor-sciprt-florassecret-autoblock-parry-deflects-unblockables.html)|`2025-03-08 00:53:00`|`Other MMORPG and Strategy`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-03-08 00:49:00`|`Rust`|
 |[topic for collecting data from migrated and non&#45;migrated accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689890-topic-collecting-data-migrated-migrated-accounts.html)|`2025-03-08 00:46:00`|`Grand Theft Auto V`|
 |[how to use yim menu money tools for 1&#46;70 no fsl/be](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690051-yim-menu-money-tools-1-70-fsl.html)|`2025-03-08 00:38:00`|`Grand Theft Auto V`|
 |[Apex yolov11 AI AimAssistant&#40;Logitech Ghub&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/688904-apex-yolov11-ai-aimassistant-logitech-ghub.html)|`2025-03-08 00:37:00`|`Apex Legends`|
