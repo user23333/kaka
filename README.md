@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690566-patterns.html)|`2025-03-08 04:22:00`|`Counter-Strike 2`|
+|[Cheating in Practice range Vs Cheating in real match](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690176-cheating-practice-range-vs-cheating-real-match.html)|`2025-03-08 04:21:00`|`Valorant`|
+|[Hi&#33; My goal is to create an Unlock All on Valorant&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690370-hi-goal-create-unlock-valorant.html)|`2025-03-08 04:20:00`|`Valorant`|
+|[Vanguard Spoofer Rev 2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612562-vanguard-spoofer-rev-2-a.html)|`2025-03-08 04:18:00`|`Valorant`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-03-08 04:14:00`|`Counter-Strike 2`|
 |[are you a hp user ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690035-hp-user.html)|`2025-03-08 04:10:00`|`Valorant`|
 |[&#40;&#46;text&#41; seg functions hooks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690455-text-seg-functions-hooks.html)|`2025-03-08 04:06:00`|`PUBG Mobile`|
 |[DMA card speed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/689017-dma-card-speed.html)|`2025-03-08 03:58:00`|`PC Hardware`|
