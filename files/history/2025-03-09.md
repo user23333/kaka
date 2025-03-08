@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[🚀 &#91;FREE RELEASE&#93; Valorant DMA Firmware for PCILeech &#45; Open Source, Low Latency, Anti](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689840-free-release-valorant-dma-firmware-pcileech-source-low-latency-anti.html)|`2025-03-09 06:34:00`|`Valorant`|
+|[Wexizev2 FiveM &#40;Weapon Spawner/ Resource Stopper&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/689576-wexizev2-fivem-weapon-spawner-resource-stopper.html)|`2025-03-09 06:30:00`|`Alternative Online Mods`|
 |[EVO ESP fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/688104-evo-esp-fix.html)|`2025-03-09 06:03:00`|`Playerunknown's Battlegrounds`|
 |[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2025-03-09 05:44:00`|`Escape from Tarkov`|
 |[Kingdom Come: Deliverance 2 Auto Combat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/690001-kingdom-deliverance-2-auto-combat.html)|`2025-03-09 05:41:00`|`Other Single Player Games`|
