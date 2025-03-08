@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unlock more Chameleon/Wheel paints on Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690610-unlock-chameleon-wheel-paints-enhanced.html)|`2025-03-09 06:51:00`|`Grand Theft Auto V`|
 |[Sigma Rivals &#124; Gooner edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689792-sigma-rivals-gooner-edition.html)|`2025-03-09 06:44:00`|`Marvel Rivals`|
 |[Server side player occlusion update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686453-server-player-occlusion-update.html)|`2025-03-09 06:42:00`|`Rust`|
 |[🚀 &#91;FREE RELEASE&#93; Valorant DMA Firmware for PCILeech &#45; Open Source, Low Latency, Anti](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689840-free-release-valorant-dma-firmware-pcileech-source-low-latency-anti.html)|`2025-03-09 06:34:00`|`Valorant`|
