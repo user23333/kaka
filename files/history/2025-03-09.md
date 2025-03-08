@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-03-09 02:37:00`|`Valorant`|
+|[Will i get banend for my method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689678-banend-method.html)|`2025-03-09 02:34:00`|`Valorant`|
+|[TF2Classic Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/571516-tf2classic-internal-cheat.html)|`2025-03-09 02:30:00`|`Team Fortress 2`|
+|[C&#43;&#43; Pixelbot made using BitBlt, OpenCV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690012-pixelbot-using-bitblt-opencv.html)|`2025-03-09 02:27:00`|`Valorant`|
+|[Best way to filter clove and astra smokes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688706-filter-clove-astra-smokes.html)|`2025-03-09 02:25:00`|`Valorant`|
+|[PUBG DMA cheat source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/667961-pubg-dma-cheat-source-code.html)|`2025-03-09 02:18:00`|`Playerunknown's Battlegrounds`|
 |[R&#46;E&#46;P&#46;O Simple Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/689820-simple-cheat.html)|`2025-03-09 02:11:00`|`Other MMORPG and Strategy`|
 |[TF2&#45;SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/687907-tf2-sdk.html)|`2025-03-09 02:03:00`|`Team Fortress 2`|
 |[Chivalry 2 Heaveyweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689993-chivalry-2-heaveyweight-cheat.html)|`2025-03-09 01:58:00`|`Other Games`|
