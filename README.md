@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Intel VT&#45;x handling issue&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/690708-intel-vt-handling-issue.html)|`2025-03-09 00:52:00`|`Anti-Cheat Bypass`|
+|[Hack for CSSO 1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/689920-hack-csso-1-1-a.html)|`2025-03-09 00:50:00`|`CounterStrike Source`|
 |[TPM , HCVI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690721-tpm-hcvi.html)|`2025-03-09 00:47:00`|`Valorant`|
 |[Marvel Rivals Account Manager &#40;R&#46;A&#46;M&#46;&#41; Steam&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690436-marvel-rivals-account-manager-steam.html)|`2025-03-09 00:43:00`|`Marvel Rivals`|
 |[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-03-09 00:31:00`|`Grand Theft Auto V`|
