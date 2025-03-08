@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BO6 Fuser ESP/AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676862-bo6-fuser-esp-aim.html)|`2025-03-08 09:36:00`|`Call of Duty: Black Ops 6`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-03-08 09:20:00`|`Valorant`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-03-08 09:13:00`|`Apex Legends`|
+|[Marvel Rivals Account Manager &#40;R&#46;A&#46;M&#46;&#41; Steam&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690436-marvel-rivals-account-manager-steam.html)|`2025-03-08 09:12:00`|`Marvel Rivals`|
 |[UngTool 1&#46;0 &#45; 1&#46;68](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/639045-ungtool-1-0-1-68-a.html)|`2025-03-08 08:38:00`|`Grand Theft Auto V`|
 |[Tb source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690596-tb-source.html)|`2025-03-08 08:36:00`|`Valorant`|
 |[I Need Help From UC Support](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690595-help-uc-support.html)|`2025-03-08 08:33:00`|`PUBG Mobile`|
