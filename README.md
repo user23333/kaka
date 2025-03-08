@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Intel VT&#45;x handling issue&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/690708-intel-vt-handling-issue.html)|`2025-03-08 22:45:00`|`Anti-Cheat Bypass`|
+|[Logitech Lua &#40;Universal&#41; &#45;simulant V1&#46;0 R6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/601250-logitech-lua-universal-simulant-v1-0-r6.html)|`2025-03-08 22:38:00`|`Rainbow Six Siege`|
 |[How to Grind infinit HG Wins, Levels and Money](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/680032-grind-infinit-hg-wins-levels-money.html)|`2025-03-08 22:14:00`|`Sea of Thieves`|
 |[Finding GWorld, GObject, and GName Offsets or Signatures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/689390-finding-gworld-gobject-gname-offsets-signatures.html)|`2025-03-08 22:14:00`|`Sea of Thieves`|
 |[Any legacy mod menus?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690576-legacy-mod-menus.html)|`2025-03-08 22:13:00`|`Grand Theft Auto V`|
