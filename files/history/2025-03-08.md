@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gameloop 32 Crash Fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690599-gameloop-32-crash-fixed.html)|`2025-03-08 20:26:00`|`PUBG Mobile`|
+|[Internal cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/611723-internal-cheese.html)|`2025-03-08 20:13:00`|`Payday 3`|
+|[Is it possible to bypass the hardware check?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690679-bypass-hardware-check.html)|`2025-03-08 20:12:00`|`Grand Theft Auto V`|
+|[Steam Family Sharing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/688991-steam-family-sharing.html)|`2025-03-08 20:12:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Rainbow Six Siege](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/690677-rainbow-six-siege.html)|`2025-03-08 20:05:00`|`Half Life`|
+|[LSCHaX for 1&#46;70 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/224075-lschax-1-70-external.html)|`2025-03-08 20:03:00`|`Grand Theft Auto V`|
 |[Arduino/python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690676-arduino-python.html)|`2025-03-08 19:43:00`|`Valorant`|
 |[SOURCE &#124; External Aimbot w/ Dynamic Hitbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/682229-source-external-aimbot-dynamic-hitbox.html)|`2025-03-08 19:43:00`|`Counter-Strike 2 Releases`|
 |[Scripting in IDA Pro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/690273-scripting-ida-pro.html)|`2025-03-08 19:31:00`|`Rust`|
