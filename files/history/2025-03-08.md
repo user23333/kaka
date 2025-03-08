@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA device](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/673882-dma-device.html)|`2025-03-08 16:35:00`|`Anti-Cheat Bypass`|
 |[external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/688919-external-base.html)|`2025-03-08 16:04:00`|`Rust`|
 |[BF2142 D3D Hack by Krilu92](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2142-a/623426-bf2142-d3d-hack-krilu92.html)|`2025-03-08 16:02:00`|`Battlefield 2142`|
 |[BO6 Playstation Remote Play Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/690386-bo6-playstation-remote-play-cheats.html)|`2025-03-08 15:37:00`|`Call of Duty: Black Ops 6`|
