@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VTube Studio DLC Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689731-vtube-studio-dlc-unlocker.html)|`2025-03-08 23:28:00`|`Other Games`|
+|[CS2 External Basic Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686341-cs2-external-basic-multihack.html)|`2025-03-08 23:24:00`|`Counter-Strike 2`|
+|[PUBGm Skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/626228-pubgm-skin-changer.html)|`2025-03-08 23:19:00`|`PUBG Mobile`|
 |[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669274-vigor-internal-cheat.html)|`2025-03-08 23:13:00`|`Other FPS Games`|
 |[Logitech Lua Universal &#45;simulant v1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/649742-logitech-lua-universal-simulant-v1-3-a.html)|`2025-03-08 23:02:00`|`Rainbow Six Siege`|
 |[Intel VT&#45;x handling issue&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/690708-intel-vt-handling-issue.html)|`2025-03-08 22:45:00`|`Anti-Cheat Bypass`|
