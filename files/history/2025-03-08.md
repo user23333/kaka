@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-03-08 12:52:00`|`ARMA 3`|
 |[How to bypass easy AC HWID ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/689764-bypass-easy-ac-hwid-ban.html)|`2025-03-08 12:24:00`|`Anti-Cheat Bypass`|
 |[Russian Account Bypass TUT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/688961-russian-account-bypass-tut.html)|`2025-03-08 12:20:00`|`Escape from Tarkov`|
 |[Ready to Paste NVIDIA GPU Spoofing &#40;multi&#45;version support 53x&#45;56x&#43;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685601-ready-paste-nvidia-gpu-spoofing-multi-version-support-53x-56x.html)|`2025-03-08 12:12:00`|`Anti-Cheat Bypass`|
