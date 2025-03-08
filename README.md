@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant hax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/689268-valorant-hax.html)|`2025-03-08 17:56:00`|`Off Topic`|
+|[CL&#95;Move Rebuild making me Disconnect from the server?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/690662-cl_move-rebuild-disconnect-server.html)|`2025-03-08 17:55:00`|`Team Fortress 2`|
 |[Missing End error Imgui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690658-missing-error-imgui.html)|`2025-03-08 17:23:00`|`Counter-Strike 2`|
 |[GLOBAL 3&#46;7 SDK & OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690238-global-3-7-sdk-offsets.html)|`2025-03-08 17:13:00`|`PUBG Mobile`|
 |[SpottedbyMask vis check question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690495-spottedbymask-vis-check-question.html)|`2025-03-08 16:46:00`|`Counter-Strike 2`|
