@@ -27,9 +27,12 @@
 |3|[Source R&#46;A&#46;M&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48917)|`2025-03-09 00:47:23`|
 |6|[Release R&#46;A&#46;M&#46; Compiled](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48918)|`2025-03-09 01:53:19`|
 |1|[MarvelRivalsSDKChaos](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48922)|`2025-03-09 05:27:30`|
+|4|[Updated&#45;CoolRivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48908)|`2025-03-09 06:48:14`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sigma Rivals &#124; Gooner edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689792-sigma-rivals-gooner-edition.html)|`2025-03-09 06:44:00`|`Marvel Rivals`|
+|[Server side player occlusion update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686453-server-player-occlusion-update.html)|`2025-03-09 06:42:00`|`Rust`|
 |[🚀 &#91;FREE RELEASE&#93; Valorant DMA Firmware for PCILeech &#45; Open Source, Low Latency, Anti](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689840-free-release-valorant-dma-firmware-pcileech-source-low-latency-anti.html)|`2025-03-09 06:34:00`|`Valorant`|
 |[Wexizev2 FiveM &#40;Weapon Spawner/ Resource Stopper&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/689576-wexizev2-fivem-weapon-spawner-resource-stopper.html)|`2025-03-09 06:30:00`|`Alternative Online Mods`|
 |[EVO ESP fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/688104-evo-esp-fix.html)|`2025-03-09 06:03:00`|`Playerunknown's Battlegrounds`|
