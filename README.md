@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[You were kicked from The Session by Battleeye&#46; Please Return to Main Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690688-kicked-session-battleeye-please-return-main-menu.html)|`2025-03-08 21:01:00`|`Grand Theft Auto V`|
+|[CSGhost v4 &#45; Injector with Full Integrated VAC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cs-go-releases/454734-csghost-v4-injector-integrated-vac-bypass.html)|`2025-03-08 20:56:00`|`CS:GO Releases`|
+|[DEVOUR &#45; Unlock All Robes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/439326-devour-unlock-robes.html)|`2025-03-08 20:53:00`|`Other Games`|
 |[Best way to filter clove and astra smokes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688706-filter-clove-astra-smokes.html)|`2025-03-08 20:40:00`|`Valorant`|
 |[Legacy version script for careers unlock in the Enhanced version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690684-legacy-version-script-careers-unlock-enhanced-version.html)|`2025-03-08 20:36:00`|`Grand Theft Auto V`|
 |[Delta Force: Hawk Ops AI AIM model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/681142-delta-force-hawk-ops-ai-aim-model.html)|`2025-03-08 20:35:00`|`Other FPS Games`|
