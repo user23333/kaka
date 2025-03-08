@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-03-09 07:11:00`|`Other Games`|
+|[FASM simple x32&#45;x64 injectable trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/assembly/635764-fasm-simple-x32-x64-injectable-trainer.html)|`2025-03-09 07:02:00`|`Assembly`|
+|[How to play Metin2 with VDS?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/690761-play-metin2-vds.html)|`2025-03-09 07:01:00`|`PC Software`|
 |[Unlock more Chameleon/Wheel paints on Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690610-unlock-chameleon-wheel-paints-enhanced.html)|`2025-03-09 06:51:00`|`Grand Theft Auto V`|
 |[Sigma Rivals &#124; Gooner edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689792-sigma-rivals-gooner-edition.html)|`2025-03-09 06:44:00`|`Marvel Rivals`|
 |[Server side player occlusion update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686453-server-player-occlusion-update.html)|`2025-03-09 06:42:00`|`Rust`|
