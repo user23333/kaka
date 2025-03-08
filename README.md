@@ -26,6 +26,7 @@
 |22|[SDK&#95;3&#46;7&#95;@unknowncheats&#46;me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48895)|`2025-03-08 00:19:08`|
 |170|[Valorant Trigger Bot, Instant Lock and Spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48888)|`2025-03-08 00:19:08`|
 |3|[R&#46;E&#46;P&#46;O Simple Menu Version 1&#46;0&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48890)|`2025-03-08 05:52:18`|
+|3|[autoshooter&#46;py](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48916)|`2025-03-08 11:59:39`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
