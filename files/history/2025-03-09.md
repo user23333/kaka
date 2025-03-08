@@ -24,9 +24,12 @@
 |65|[FortniteGame&#45;34&#46;00&#45;CL&#45;40446427 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48897)|`2025-03-09 00:17:06`|
 |63|[SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48896)|`2025-03-09 00:17:06`|
 |35|[SDK&#95;3&#46;7&#95;@unknowncheats&#46;me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48895)|`2025-03-09 00:17:06`|
+|3|[Source R&#46;A&#46;M&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48917)|`2025-03-09 00:47:23`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TPM , HCVI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690721-tpm-hcvi.html)|`2025-03-09 00:47:00`|`Valorant`|
+|[Marvel Rivals Account Manager &#40;R&#46;A&#46;M&#46;&#41; Steam&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690436-marvel-rivals-account-manager-steam.html)|`2025-03-09 00:43:00`|`Marvel Rivals`|
 |[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-03-09 00:31:00`|`Grand Theft Auto V`|
 |[Finally a working External SkinChanger for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689733-finally-external-skinchanger-cs2.html)|`2025-03-09 00:30:00`|`Counter-Strike 2`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-03-09 00:27:00`|`Apex Legends`|
