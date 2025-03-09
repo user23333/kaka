@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/690306-hwid-spoofer.html)|`2025-03-09 21:33:00`|`Anti-Cheat Bypass`|
+|[Call Game Functions Externally By Cloning DLLs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690833-call-game-functions-externally-cloning-dlls.html)|`2025-03-09 21:32:00`|`Counter-Strike 2`|
 |[CSSO &#40;1&#46;1&#41; Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/690832-csso-1-1-internal-cheat.html)|`2025-03-09 21:27:00`|`CounterStrike Source`|
 |[R6 False Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/689630-r6-false-ban.html)|`2025-03-09 21:13:00`|`Rainbow Six Siege`|
 |[Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/690830-skin-changer.html)|`2025-03-09 20:59:00`|`Apex Legends`|
