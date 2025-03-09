@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA: How can I change BARs and Link Registers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/690870-dma-change-bars-link-registers.html)|`2025-03-10 03:27:00`|`General Programming and Reversing`|
+|[dereferencing a gold pointer in c&#43;&#43; results in gibberish value](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/689962-dereferencing-gold-pointer-results-gibberish-value.html)|`2025-03-10 03:24:00`|`General Programming and Reversing`|
+|[Shitty marvel rivals internal Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687997-shitty-marvel-rivals-internal-base.html)|`2025-03-10 03:23:00`|`Marvel Rivals`|
+|[broken bullet tp on doubledoor internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690777-broken-bullet-tp-doubledoor-internal.html)|`2025-03-10 03:22:00`|`Marvel Rivals`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-03-10 03:13:00`|`Grand Theft Auto V`|
 |[Get right FiveM version &#40;bypass replaceExecutable&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/689318-fivem-version-bypass-replaceexecutable.html)|`2025-03-10 03:13:00`|`Alternative Online Mods`|
 |[Source Code EXTERNAL CrossFire](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/641756-source-code-external-crossfire.html)|`2025-03-10 03:13:00`|`CrossFire`|
