@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Shitty marvel rivals internal Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687997-shitty-marvel-rivals-internal-base.html)|`2025-03-09 22:56:00`|`Marvel Rivals`|
+|[GIRLS' FRONTLINE 2:EXILIUM CN PC cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/653607-girls-frontline-2-exilium-cn-pc-cheat.html)|`2025-03-09 22:52:00`|`Other MMORPG and Strategy`|
 |[DMA &#40;CFW&#41;: Where to change the device id and those values?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/690839-dma-cfw-change-device-id-values.html)|`2025-03-09 22:49:00`|`General Programming and Reversing`|
 |[Boost services menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690838-boost-services-menu.html)|`2025-03-09 22:46:00`|`Grand Theft Auto V`|
 |[What is wrong with that C&#43;&#43; code &#40;Triggerbot&#41; ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689410-wrong-code-triggerbot.html)|`2025-03-09 22:31:00`|`Counter-Strike 2`|
