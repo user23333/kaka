@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Disable Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/688540-disable-skins.html)|`2025-03-09 11:23:00`|`Rust`|
+|[I bet you can't get me unbanned&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689307-bet-cant-unbanned.html)|`2025-03-09 11:22:00`|`Valorant`|
+|[Is Rewasd Safe now](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/689196-rewasd-safe.html)|`2025-03-09 11:19:00`|`Apex Legends`|
+|[Basic External Multihack SOURCE CODE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690779-basic-external-multihack-source-code.html)|`2025-03-09 09:52:00`|`Counter-Strike 2`|
 |[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2025-03-09 09:37:00`|`Grand Theft Auto V`|
 |[SpottedbyMask vis check question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690495-spottedbymask-vis-check-question.html)|`2025-03-09 09:28:00`|`Counter-Strike 2`|
 |[Spoofing with ASRock B560M&#45;C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688403-spoofing-asrock-b560m.html)|`2025-03-09 09:27:00`|`Valorant`|
