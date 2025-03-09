@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[dx11 hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689635-dx11-hook.html)|`2025-03-10 07:54:00`|`Marvel Rivals`|
 |[Marvel Rivals Undetected Free Macro Rev 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689301-marvel-rivals-undetected-free-macro-rev-2-a.html)|`2025-03-10 07:39:00`|`Marvel Rivals`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2025-03-10 07:25:00`|`Valorant`|
 |[Will i get banend for my method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689678-banend-method.html)|`2025-03-10 07:11:00`|`Valorant`|
