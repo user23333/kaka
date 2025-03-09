@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;&#46;text&#41; seg functions hooks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690455-text-seg-functions-hooks.html)|`2025-03-09 17:59:00`|`PUBG Mobile`|
 |[Script to change the States / Lev&#46; Making the switch to Enhanced work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690812-script-change-lev-switch-enhanced.html)|`2025-03-09 17:52:00`|`Grand Theft Auto V`|
 |[SANALIKA GAME](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/680001-sanalika-game.html)|`2025-03-09 17:27:00`|`Other MMORPG and Strategy`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-03-09 16:49:00`|`Escape from Tarkov`|
