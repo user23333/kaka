@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-03-09 18:16:00`|`Other Games`|
+|[GTA Online Enhanced Recovery Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690815-gta-online-enhanced-recovery-menu.html)|`2025-03-09 18:16:00`|`Grand Theft Auto V`|
+|[Gta migration error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689887-gta-migration-error.html)|`2025-03-09 18:15:00`|`Grand Theft Auto V`|
 |[&#40;&#46;text&#41; seg functions hooks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690455-text-seg-functions-hooks.html)|`2025-03-09 17:59:00`|`PUBG Mobile`|
 |[Script to change the States / Lev&#46; Making the switch to Enhanced work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690812-script-change-lev-switch-enhanced.html)|`2025-03-09 17:52:00`|`Grand Theft Auto V`|
 |[SANALIKA GAME](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/680001-sanalika-game.html)|`2025-03-09 17:27:00`|`Other MMORPG and Strategy`|
