@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to not get banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690428-banned.html)|`2025-03-10 05:23:00`|`Marvel Rivals`|
+|[External Cheat AEONIX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688466-external-cheat-aeonix.html)|`2025-03-10 05:21:00`|`Counter-Strike 2`|
 |[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-03-10 05:05:00`|`Marvel Rivals`|
 |[Bone esp help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682916-bone-esp-help.html)|`2025-03-10 04:51:00`|`Counter-Strike 2`|
 |[What programming language should I pick up? &#91;ik it has been asked before&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/684290-programming-language-pick-ik.html)|`2025-03-10 04:49:00`|`Forum General`|
