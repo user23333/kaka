@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[weaponOffset = 0x1E94;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690785-weaponoffset-0x1e94.html)|`2025-03-09 12:31:00`|`PUBG Mobile`|
+|[SpeedHack on official](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/690577-speedhack-official.html)|`2025-03-09 12:28:00`|`DayZ SA`|
 |[rainbow six cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/690773-rainbow-six-cheat.html)|`2025-03-09 12:23:00`|`Rainbow Six Siege`|
 |[warzone cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/690772-warzone-cheat.html)|`2025-03-09 12:22:00`|`Call of Duty: Black Ops 6`|
 |[MW2 DMZ console aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-ii/690768-mw2-dmz-console-aimbot.html)|`2025-03-09 12:20:00`|`Call of Duty: Modern Warfare II`|
