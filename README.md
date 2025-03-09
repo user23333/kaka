@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Easiest Laptop To Spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690805-easiest-laptop-spoof.html)|`2025-03-09 15:56:00`|`Valorant`|
 |[Apex Superglide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/688318-apex-superglide.html)|`2025-03-09 15:33:00`|`Apex Legends`|
 |[What was the first game you cheated on?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/328889-game-cheated.html)|`2025-03-09 15:25:00`|`Off Topic`|
 |[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2025-03-09 15:53:00`|`DayZ SA`|
