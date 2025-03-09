@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Crash inside OnDataChanged](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/690820-crash-inside-ondatachanged.html)|`2025-03-09 18:49:00`|`Counterstrike Global Offensive`|
+|[HWho &#45; a slightly more fun bsg launcher hwid check bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/494040-hwho-slightly-fun-bsg-launcher-hwid-check-bypass.html)|`2025-03-09 18:45:00`|`Escape from Tarkov`|
 |[memcpy PUBG Mobile 32 bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690817-memcpy-pubg-mobile-32-bit.html)|`2025-03-09 18:36:00`|`PUBG Mobile`|
 |[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-03-09 18:16:00`|`Other Games`|
 |[GTA Online Enhanced Recovery Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690815-gta-online-enhanced-recovery-menu.html)|`2025-03-09 18:16:00`|`Grand Theft Auto V`|
