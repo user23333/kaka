@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[some pixel aimbot macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689811-pixel-aimbot-macro.html)|`2025-03-10 06:19:00`|`Marvel Rivals`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-03-10 06:19:00`|`Marvel Rivals`|
+|[Kingdom Come: Deliverance 2 Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/685563-kingdom-deliverance-2-reversal-structs-offsets.html)|`2025-03-10 06:16:00`|`Other Single Player Games`|
 |[File upload size & Obfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/690770-file-upload-size-obfuscation.html)|`2025-03-10 05:52:00`|`Forum General`|
 |[Easiest Laptop To Spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690805-easiest-laptop-spoof.html)|`2025-03-10 05:37:00`|`Valorant`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-03-10 05:35:00`|`Escape from Tarkov`|
