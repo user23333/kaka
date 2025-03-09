@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What is wrong with that C&#43;&#43; code &#40;Triggerbot&#41; ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689410-wrong-code-triggerbot.html)|`2025-03-09 22:31:00`|`Counter-Strike 2`|
 |[Arduino FirmWare works with all buttons UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690835-arduino-firmware-buttons-ud.html)|`2025-03-09 22:08:00`|`Valorant`|
 |[What did vgk do or edited?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690834-vgk-edited.html)|`2025-03-09 21:40:00`|`Valorant`|
 |[HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/690306-hwid-spoofer.html)|`2025-03-09 21:33:00`|`Anti-Cheat Bypass`|
