@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;CS2&#93; External ESP &#40;Python&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/681368-cs2-external-esp-python.html)|`2025-03-09 12:09:00`|`Counter-Strike 2 Releases`|
+|[Code signing certificate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/518014-code-signing-certificate.html)|`2025-03-09 12:08:00`|`Anti-Cheat Bypass`|
+|[Missing End error Imgui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690658-missing-error-imgui.html)|`2025-03-09 12:07:00`|`Counter-Strike 2`|
 |[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2025-03-09 11:42:00`|`Other FPS Games`|
 |[The Forest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/587268-forest.html)|`2025-03-09 11:37:00`|`Unity`|
 |[Zoom Tool &#40;Magnifier&#41; for All Games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640423-zoom-tool-magnifier-games.html)|`2025-03-09 11:26:00`|`Other FPS Games`|
