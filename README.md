@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to setup sticky aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690451-setup-sticky-aim.html)|`2025-03-09 19:27:00`|`Valorant`|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-03-09 19:27:00`|`Sea of Thieves`|
 |[SuperGlide Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/690825-superglide-python.html)|`2025-03-09 19:20:00`|`Apex Legends`|
 |[Finding GetPlayerViewPoint offset&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690824-finding-getplayerviewpoint-offset.html)|`2025-03-09 19:19:00`|`Other FPS Games`|
 |[Theia/Vanguard encryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/690821-theia-vanguard-encryption.html)|`2025-03-09 19:01:00`|`Anti-Cheat Bypass`|
