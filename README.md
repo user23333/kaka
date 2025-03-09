@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dying Light 1 &#40;V1&#46;50&#41; Internal &#124; Aimbot, ESP,&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/688897-dying-light-1-v1-50-internal-aimbot-esp.html)|`2025-03-10 03:34:00`|`Other FPS Games`|
+|[learn hacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/689676-learn-hacking.html)|`2025-03-10 03:33:00`|`General Programming and Reversing`|
 |[DMA: How can I change BARs and Link Registers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/690870-dma-change-bars-link-registers.html)|`2025-03-10 03:27:00`|`General Programming and Reversing`|
 |[dereferencing a gold pointer in c&#43;&#43; results in gibberish value](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/689962-dereferencing-gold-pointer-results-gibberish-value.html)|`2025-03-10 03:24:00`|`General Programming and Reversing`|
 |[Shitty marvel rivals internal Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687997-shitty-marvel-rivals-internal-base.html)|`2025-03-10 03:23:00`|`Marvel Rivals`|
