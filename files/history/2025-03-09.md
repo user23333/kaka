@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unlock Keymaster locked scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/690827-unlock-keymaster-locked-scripts.html)|`2025-03-09 19:34:00`|`Alternative Online Mods`|
 |[How to setup sticky aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690451-setup-sticky-aim.html)|`2025-03-09 19:27:00`|`Valorant`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-03-09 19:27:00`|`Sea of Thieves`|
 |[SuperGlide Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/690825-superglide-python.html)|`2025-03-09 19:20:00`|`Apex Legends`|
