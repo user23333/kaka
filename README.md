@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2025-03-09 09:37:00`|`Grand Theft Auto V`|
+|[SpottedbyMask vis check question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690495-spottedbymask-vis-check-question.html)|`2025-03-09 09:28:00`|`Counter-Strike 2`|
+|[Spoofing with ASRock B560M&#45;C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688403-spoofing-asrock-b560m.html)|`2025-03-09 09:27:00`|`Valorant`|
+|[Marvel Rivals Cleaner &#124; POSSIBLE UNBAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690169-marvel-rivals-cleaner-unban.html)|`2025-03-09 09:00:00`|`Marvel Rivals`|
 |[File upload size & Obfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/690770-file-upload-size-obfuscation.html)|`2025-03-09 08:43:00`|`Forum General`|
 |[Create Trace memory leak?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690697-create-trace-memory-leak.html)|`2025-03-09 08:42:00`|`Counter-Strike 2`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-03-09 08:37:00`|`Call of Duty: Black Ops 6`|
