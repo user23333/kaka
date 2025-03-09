@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Will i get banend for my method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689678-banend-method.html)|`2025-03-10 07:11:00`|`Valorant`|
+|[Another AMIDEWIN&#45;Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/680878-amidewin-spoofer.html)|`2025-03-10 07:07:00`|`Valorant`|
+|[GTFO Hax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/518895-gtfo-hax.html)|`2025-03-10 07:06:00`|`Other FPS Games`|
+|[Lag compensation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690885-lag-compensation.html)|`2025-03-10 07:06:00`|`Counter-Strike 2`|
 |[BANNED? Talk about it here&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/277803-banned-talk.html)|`2025-03-10 07:00:00`|`Rainbow Six Siege`|
 |[Z1BR Unlock ALL Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/690882-z1br-unlock-skins.html)|`2025-03-10 06:59:00`|`H1Z1`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-03-10 06:48:00`|`Rainbow Six Siege`|
