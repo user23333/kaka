@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-03-10 05:05:00`|`Marvel Rivals`|
 |[Bone esp help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682916-bone-esp-help.html)|`2025-03-10 04:51:00`|`Counter-Strike 2`|
 |[What programming language should I pick up? &#91;ik it has been asked before&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/684290-programming-language-pick-ik.html)|`2025-03-10 04:49:00`|`Forum General`|
 |[Rust DMA ESP and more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/626013-rust-dma-esp.html)|`2025-03-10 04:46:00`|`Rust`|
