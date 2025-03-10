@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Very deep class inheritance hierarchy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/690954-deep-class-inheritance-hierarchy.html)|`2025-03-10 14:48:00`|`General Programming and Reversing`|
 |[Theia/Vanguard encryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/690821-theia-vanguard-encryption.html)|`2025-03-10 14:43:00`|`Anti-Cheat Bypass`|
 |[External Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/690847-external-crash.html)|`2025-03-10 13:47:00`|`Alternative Online Mods`|
 |[7DTD 1&#46;3 Creative and Debug Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/688667-7dtd-1-3-creative-debug-assembly-csharp-dll.html)|`2025-03-10 13:43:00`|`Other FPS Games`|
