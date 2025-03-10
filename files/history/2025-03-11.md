@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2025-03-11 03:36:00`|`Deadlock`|
+|[Intel Ethernet &#45; WiFi Cards &#45; Help&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691021-intel-ethernet-wifi-cards-help.html)|`2025-03-11 03:33:00`|`Valorant`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-03-11 03:17:00`|`Rainbow Six Siege`|
 |[CL&#95;Move Rebuild making me Disconnect from the server?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/690662-cl_move-rebuild-disconnect-server.html)|`2025-03-11 02:58:00`|`Team Fortress 2`|
 |[Killing Floor 2 Level 25 and Max Prestige Cheat&#46; &#91;Currently Undetected&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/371720-killing-floor-2-level-25-max-prestige-cheat-currently-undetected.html)|`2025-03-11 02:55:00`|`Other Games`|
