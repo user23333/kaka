@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ 1&#46;27 for cracked launchers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/690903-dayz-1-27-cracked-launchers.html)|`2025-03-10 10:08:00`|`DayZ SA`|
+|[How to bypass overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690898-bypass-overwatch.html)|`2025-03-10 10:08:00`|`Counter-Strike 2`|
+|[How much money do you good sirs generate using Silent Night?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689794-money-sirs-generate-using-silent-night.html)|`2025-03-10 10:03:00`|`Grand Theft Auto V`|
+|[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-03-10 09:59:00`|`Other FPS Games`|
+|[Pay It Forward &#45; How I got UDCE to work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690892-pay-forward-udce.html)|`2025-03-10 09:52:00`|`Marvel Rivals`|
+|[BO2Z Toolbox 2&#46;4 &#40;plutonium&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/418713-bo2z-toolbox-2-4-plutonium.html)|`2025-03-10 09:23:00`|`Call of Duty: Black Ops 2`|
 |[How do i get the Jetgun loadout in Zombies on Battlenet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/690846-jetgun-loadout-zombies-battlenet.html)|`2025-03-10 08:57:00`|`Call of Duty: Black Ops 6`|
 |[Where to get good and cheap full dma setups](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690897-cheap-dma-setups.html)|`2025-03-10 08:49:00`|`Counter-Strike 2`|
 |[I need help with my HID arduino library](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690896-help-hid-arduino-library.html)|`2025-03-10 08:40:00`|`Valorant`|
