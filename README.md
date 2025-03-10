@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Zen1 Zen4 own microcode voulnearibility](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/690977-zen1-zen4-own-microcode-voulnearibility.html)|`2025-03-10 18:50:00`|`Anti-Cheat Bypass`|
+|[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2025-03-10 18:49:00`|`DayZ SA`|
 |[Marvel Rivals Account Manager &#40;R&#46;A&#46;M&#46;&#41; Steam&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690436-marvel-rivals-account-manager-steam.html)|`2025-03-10 18:34:00`|`Marvel Rivals`|
 |[Non&#45;Banned Admin Flags](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/690973-banned-admin-flags.html)|`2025-03-10 18:21:00`|`Rust`|
 |[Dark and Darker Cheat Update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/687955-dark-darker-cheat-update.html)|`2025-03-10 18:14:00`|`Other FPS Games`|
