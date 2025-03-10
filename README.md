@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[C&#43;&#43; Pixelbot made using BitBlt, OpenCV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690012-pixelbot-using-bitblt-opencv.html)|`2025-03-10 15:21:00`|`Valorant`|
 |[Unity&#46;Texture2D &#45;&#62; ImTextureID &#124; Darkness Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/690549-unity-texture2d-imtextureid-darkness-issue.html)|`2025-03-10 15:10:00`|`Rust`|
 |[Whats the difference of ViewMatrix and ViewMatrix&#95;test?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/690010-whats-difference-viewmatrix-viewmatrix_test.html)|`2025-03-10 15:06:00`|`Overwatch`|
 |[Very deep class inheritance hierarchy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/690954-deep-class-inheritance-hierarchy.html)|`2025-03-10 14:48:00`|`General Programming and Reversing`|
