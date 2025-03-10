@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SANALIKA GAME](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/680001-sanalika-game.html)|`2025-03-10 17:35:00`|`Other MMORPG and Strategy`|
+|[HVCI Bypass Kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690970-hvci-bypass-kernel.html)|`2025-03-10 17:33:00`|`Valorant`|
 |[&#91;DMA&#93; Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677518-dma-squad.html)|`2025-03-10 17:29:00`|`Other FPS Games`|
 |[SHELL CODE 3&#46;7 UPDATED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690944-shell-code-3-7-updated.html)|`2025-03-10 17:12:00`|`PUBG Mobile`|
 |[Mouse and HWID banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690968-mouse-hwid-banned.html)|`2025-03-10 17:05:00`|`Valorant`|
