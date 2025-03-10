@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do I access the LocalPlayer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690735-access-localplayer.html)|`2025-03-11 01:35:00`|`Grand Theft Auto V`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-03-11 01:30:00`|`Phasmophobia`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-03-11 01:28:00`|`Apex Legends`|
+|[Zen1 Zen4 own microcode voulnearibility](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/690977-zen1-zen4-own-microcode-voulnearibility.html)|`2025-03-11 01:27:00`|`Anti-Cheat Bypass`|
 |[Best way to filter clove and astra smokes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688706-filter-clove-astra-smokes.html)|`2025-03-11 01:23:00`|`Valorant`|
 |[Alt:V Anticheat Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/690818-alt-anticheat-question.html)|`2025-03-11 01:22:00`|`Alternative Online Mods`|
 |[Current offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/482788-current-offsets.html)|`2025-03-11 01:20:00`|`PlanetSide 2`|
