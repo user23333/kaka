@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Non&#45;Banned Admin Flags](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/690973-banned-admin-flags.html)|`2025-03-10 18:21:00`|`Rust`|
+|[Dark and Darker Cheat Update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/687955-dark-darker-cheat-update.html)|`2025-03-10 18:14:00`|`Other FPS Games`|
+|[would you guys consider JACKING OFF to be a sport](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/685407-guys-consider-jacking-sport.html)|`2025-03-10 18:13:00`|`Off Topic`|
 |[Does anyone have the SwapChainFn pattern?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/690971-swapchainfn-pattern.html)|`2025-03-10 18:05:00`|`Rust`|
 |[What is your favorite religion?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/690066-favorite-religion.html)|`2025-03-10 18:01:00`|`Off Topic`|
 |[Valorant hax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/689268-valorant-hax.html)|`2025-03-10 17:57:00`|`Off Topic`|
