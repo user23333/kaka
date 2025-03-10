@@ -24,9 +24,18 @@
 |58|[Menu SnowBreak CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48905)|`2025-03-11 00:13:00`|
 |110|[MacAddressSpoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48903)|`2025-03-11 00:13:00`|
 |45|[dma&#45;dayz&#45;cpp&#45;final](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48902)|`2025-03-11 00:13:00`|
+|2|[superBADinternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48942)|`2025-03-11 00:47:26`|
+|14|[GTA5Enhanced&#95;DMA&#95;v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48931)|`2025-03-11 00:47:26`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Account Manager &#40;R&#46;A&#46;M&#46;&#41; Steam&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690436-marvel-rivals-account-manager-steam.html)|`2025-03-11 00:45:00`|`Marvel Rivals`|
+|[HVCI Bypass Kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690970-hvci-bypass-kernel.html)|`2025-03-11 00:45:00`|`Valorant`|
+|[superBADinternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690904-superbadinternal.html)|`2025-03-11 00:44:00`|`Marvel Rivals`|
+|[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-03-11 00:37:00`|`Marvel Rivals`|
+|[Mouse and HWID banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690968-mouse-hwid-banned.html)|`2025-03-11 00:37:00`|`Valorant`|
+|[FragPunk Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/666506-fragpunk-reversal-structs-offsets.html)|`2025-03-11 00:33:00`|`Other FPS Games`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-03-11 00:32:00`|`Escape from Tarkov`|
 |[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-03-11 00:09:00`|`Grand Theft Auto V`|
 |[seo64 fixed latest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/688176-seo64-fixed.html)|`2025-03-11 00:04:00`|`Team Fortress 2`|
 |[GTA 5 Legacy offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690996-gta-5-legacy-offsets.html)|`2025-03-10 23:59:00`|`Grand Theft Auto V`|
