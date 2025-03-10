@@ -28,9 +28,12 @@
 |14|[GTA5Enhanced&#95;DMA&#95;v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48931)|`2025-03-11 00:47:26`|
 |4|[Arduino lib](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48943)|`2025-03-11 00:55:07`|
 |2|[CSSO &#40;0&#46;1&#41; Internal cheat Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48929)|`2025-03-11 01:26:59`|
+|1|[BO2Z Toolbox 2&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48940)|`2025-03-11 01:49:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-03-11 01:46:00`|`Escape from Tarkov`|
+|[BO2Z Toolbox 2&#46;4 &#40;plutonium&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/418713-bo2z-toolbox-2-4-plutonium.html)|`2025-03-11 01:44:00`|`Call of Duty: Black Ops 2`|
 |[Arduino/python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690676-arduino-python.html)|`2025-03-11 01:40:00`|`Valorant`|
 |[How do I access the LocalPlayer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690735-access-localplayer.html)|`2025-03-11 01:35:00`|`Grand Theft Auto V`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-03-11 01:30:00`|`Phasmophobia`|
