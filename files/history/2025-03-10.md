@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[bo3 nbot crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/672870-bo3-nbot-crash.html)|`2025-03-10 15:58:00`|`Call of Duty: Black Ops 3`|
+|[Updated version of Sunoki's TB &#40;V3?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690959-updated-version-sunokis-tb-v3.html)|`2025-03-10 15:36:00`|`Valorant`|
+|[Is a trigger bot using Python safe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690958-trigger-bot-using-python-safe.html)|`2025-03-10 15:36:00`|`Valorant`|
+|[Altv Internal Cheat &#124; Venine Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/687699-altv-internal-cheat-venine-internal.html)|`2025-03-10 15:31:00`|`Alternative Online Mods`|
+|[gta online income and expens stat editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690956-gta-online-income-expens-stat-editor.html)|`2025-03-10 15:30:00`|`Grand Theft Auto V`|
 |[C&#43;&#43; Pixelbot made using BitBlt, OpenCV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690012-pixelbot-using-bitblt-opencv.html)|`2025-03-10 15:21:00`|`Valorant`|
 |[Unity&#46;Texture2D &#45;&#62; ImTextureID &#124; Darkness Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/690549-unity-texture2d-imtextureid-darkness-issue.html)|`2025-03-10 15:10:00`|`Rust`|
 |[Whats the difference of ViewMatrix and ViewMatrix&#95;test?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/690010-whats-difference-viewmatrix-viewmatrix_test.html)|`2025-03-10 15:06:00`|`Overwatch`|
