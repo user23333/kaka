@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[superBADinternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690904-superbadinternal.html)|`2025-03-10 12:30:00`|`Marvel Rivals`|
 |[Can I Bypass emulator detection on Gameloop?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690752-bypass-emulator-detection-gameloop.html)|`2025-03-10 12:20:00`|`PUBG Mobile`|
 |[Is cheat engine FOV safe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/690907-cheat-engine-fov-safe.html)|`2025-03-10 11:41:00`|`Sea of Thieves`|
 |[permanently ban  valorant hp case](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684708-permanently-ban-valorant-hp.html)|`2025-03-10 11:41:00`|`Valorant`|
