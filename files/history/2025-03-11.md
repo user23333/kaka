@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Entity list problem I can only get my player](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691049-entity-list-player.html)|`2025-03-11 07:15:00`|`Counter-Strike 2`|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-03-11 07:12:00`|`Phasmophobia`|
+|[Cheaters Cheetah Dumped Dlls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691044-cheaters-cheetah-dumped-dlls.html)|`2025-03-11 07:06:00`|`Other Games`|
 |[aimbot external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691042-aimbot-external.html)|`2025-03-11 06:46:00`|`Grand Theft Auto V`|
 |[GTA 5 Enhanced Migration Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690179-gta-5-enhanced-migration-discussion.html)|`2025-03-11 06:44:00`|`Grand Theft Auto V`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-03-11 06:43:00`|`Call of Duty: Black Ops 6`|
