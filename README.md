@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does anyone have the SwapChainFn pattern?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/690971-swapchainfn-pattern.html)|`2025-03-10 18:05:00`|`Rust`|
+|[What is your favorite religion?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/690066-favorite-religion.html)|`2025-03-10 18:01:00`|`Off Topic`|
+|[Valorant hax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/689268-valorant-hax.html)|`2025-03-10 17:57:00`|`Off Topic`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-03-10 17:46:00`|`Other FPS Games`|
 |[SANALIKA GAME](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/680001-sanalika-game.html)|`2025-03-10 17:35:00`|`Other MMORPG and Strategy`|
 |[HVCI Bypass Kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690970-hvci-bypass-kernel.html)|`2025-03-10 17:33:00`|`Valorant`|
