@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[bp macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690256-bp-macro.html)|`2025-03-10 11:20:00`|`Marvel Rivals`|
 |[DayZ 1&#46;27 for modded launchers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/690903-dayz-1-27-modded-launchers.html)|`2025-03-10 10:53:00`|`DayZ SA`|
 |[Russian Account Bypass TUT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/688961-russian-account-bypass-tut.html)|`2025-03-10 10:48:00`|`Escape from Tarkov`|
 |[Solo Leveling: Arise 1&#46;0&#46;24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/632972-solo-leveling-arise-1-0-24-a.html)|`2025-03-10 10:38:00`|`Other MMORPG and Strategy`|
