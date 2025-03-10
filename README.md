@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[permanently ban  valorant hp case](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684708-permanently-ban-valorant-hp.html)|`2025-03-10 11:41:00`|`Valorant`|
 |[bp macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690256-bp-macro.html)|`2025-03-10 11:20:00`|`Marvel Rivals`|
 |[DayZ 1&#46;27 for modded launchers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/690903-dayz-1-27-modded-launchers.html)|`2025-03-10 10:53:00`|`DayZ SA`|
 |[Russian Account Bypass TUT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/688961-russian-account-bypass-tut.html)|`2025-03-10 10:48:00`|`Escape from Tarkov`|
