@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[m&#95;hmyweapons type](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690992-m_hmyweapons-type.html)|`2025-03-10 23:21:00`|`Counter-Strike 2`|
+|[CSSO &#40;1&#46;1&#41; Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/690832-csso-1-1-internal-cheat.html)|`2025-03-10 23:11:00`|`CounterStrike Source`|
 |[Osussist v3 MultiHack for osu&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/671577-osussist-v3-multihack-osu.html)|`2025-03-10 22:57:00`|`Other Games`|
 |[Knife changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/681583-knife-changer.html)|`2025-03-10 22:44:00`|`Counter-Strike 2`|
 |[Anti&#45;Recoil Universal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/626683-anti-recoil-universal.html)|`2025-03-10 22:45:00`|`Rainbow Six Siege`|
