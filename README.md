@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lua Menu &#40;Heavily scripted by ChatGPT&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/682688-lua-menu-heavily-scripted-chatgpt.html)|`2025-03-12 07:29:00`|`Garry's Mod`|
 |[FragPunk BootLoader Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691178-fragpunk-bootloader-patch.html)|`2025-03-12 07:26:00`|`Other FPS Games`|
 |[Dark and Darker Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690457-dark-darker-internal.html)|`2025-03-12 07:15:00`|`Other FPS Games`|
 |[cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663412-cheat.html)|`2025-03-12 07:12:00`|`Deadlock`|
