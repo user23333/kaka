@@ -34,6 +34,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-03-11 11:00:00`|`Other FPS Games`|
+|[hwid ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/691035-hwid-ban.html)|`2025-03-11 11:00:00`|`Marvel Rivals`|
+|[UD Injector/CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/686797-ud-injector-ce.html)|`2025-03-11 10:42:00`|`Marvel Rivals`|
+|[Bypass nProtect Gameguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685790-bypass-nprotect-gameguard.html)|`2025-03-11 10:42:00`|`Anti-Cheat Bypass`|
+|[How to inject any release &#43; how to install Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/691061-inject-release-install-injector.html)|`2025-03-11 10:40:00`|`Marvel Rivals`|
 |[I Need Help With This Strange Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/691045-help-strange-ban.html)|`2025-03-11 10:18:00`|`PUBG Mobile`|
 |[Analyzing dump in IDA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/691069-analyzing-dump-ida.html)|`2025-03-11 10:06:00`|`Call of Duty: Black Ops 6`|
 |[Lag compensation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690885-lag-compensation.html)|`2025-03-11 10:00:00`|`Counter-Strike 2`|
