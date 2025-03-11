@@ -26,9 +26,14 @@
 |46|[MCC Toolbox 5&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48914)|`2025-03-12 00:10:28`|
 |1|[Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48954)|`2025-03-12 00:36:14`|
 |5|[Diep&#46;io Autofarm Bot V 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48946)|`2025-03-12 00:36:14`|
+|1|[Cheat table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48956)|`2025-03-12 00:49:41`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MCC Toolbox &#45; Trainer supports Halo Reach, Halo CE, Halo 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/397845-mcc-toolbox-trainer-supports-halo-reach-halo-ce-halo-2-a.html)|`2025-03-12 00:45:00`|`Halo`|
+|[How do I send a TLP response?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688599-send-tlp-response.html)|`2025-03-12 00:42:00`|`Anti-Cheat Bypass`|
+|[Lag compensation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690885-lag-compensation.html)|`2025-03-12 00:40:00`|`Counter-Strike 2`|
+|[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2025-03-12 00:39:00`|`Sea of Thieves`|
 |[Diep&#46;io Auto Farm Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/690590-diep-io-auto-farm-bot.html)|`2025-03-12 00:36:00`|`Other Games`|
 |[Steep Points Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/690873-steep-cheat.html)|`2025-03-12 00:31:00`|`Other Games`|
 |[Marvel Rivals Undetected Free Macro Rev 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689301-marvel-rivals-undetected-free-macro-rev-2-a.html)|`2025-03-12 00:26:00`|`Marvel Rivals`|
