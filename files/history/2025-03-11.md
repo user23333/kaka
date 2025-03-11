@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat Arms Pub &#42;Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/55208-combat-arms-pub-updated.html)|`2025-03-11 18:53:00`|`Combat Arms`|
 |[All Mouse NoRecoil &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-recoil-helpy-auto-config-probably-ud-universal.html)|`2025-03-11 18:18:00`|`Rainbow Six Siege`|
 |[DirectX ESP internal source code ZOMBIES](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-5-world-at-war/686349-directx-esp-internal-source-code-zombies.html)|`2025-03-11 18:18:00`|`Call of Duty 5: World at War`|
 |[Replay Glitch For Enhanced Version &#40;in depth guide&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691095-replay-glitch-enhanced-version-depth-guide.html)|`2025-03-11 17:33:00`|`Grand Theft Auto V`|
