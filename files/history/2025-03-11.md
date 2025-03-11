@@ -37,6 +37,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need roblox offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/691118-roblox-offsets.html)|`2025-03-11 21:13:00`|`General Programming and Reversing`|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-03-11 21:08:00`|`Other Games`|
+|[I accidentally added 100 Scarred Pig Mask on my account&#46; How to remove them all?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/691115-accidentally-added-100-scarred-pig-mask-account-remove.html)|`2025-03-11 21:02:00`|`Payday 3`|
 |[Fix 1day for PUBG 32BIT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690880-fix-1day-pubg-32bit.html)|`2025-03-11 20:54:00`|`PUBG Mobile`|
 |[R&#46;E&#46;P&#46;O Basic Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/689804-basic-internal.html)|`2025-03-11 20:41:00`|`Other FPS Games`|
 |[Cs2 External many Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691110-cs2-external-features.html)|`2025-03-11 20:15:00`|`Counter-Strike 2`|
