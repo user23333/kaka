@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking for Roblox is chatting offset/indicator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/689574-looking-roblox-chatting-offset-indicator.html)|`2025-03-11 16:38:00`|`General Programming and Reversing`|
+|[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2025-03-11 16:20:00`|`Sea of Thieves`|
 |[bypass 64bit 3&#46;7           //try on fake acc frist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/691088-bypass-64bit-3-7-try-fake-acc-frist.html)|`2025-03-11 15:57:00`|`PUBG Mobile`|
 |[Sai's Color Aimbot v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/659687-sais-color-aimbot-v2.html)|`2025-03-11 15:56:00`|`Call of Duty: Modern Warfare III`|
 |[UCAimColor Arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691080-ucaimcolor-arduino.html)|`2025-03-11 15:54:00`|`Valorant`|
