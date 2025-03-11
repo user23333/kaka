@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[COD Plunder &#45; Humanized AFK Script &#40;Fast Gun/Acc Lvl XP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/687454-cod-plunder-humanized-afk-script-fast-gun-acc-lvl-xp.html)|`2025-03-12 03:41:00`|`Call of Duty: Black Ops 6`|
+|[UD Injector/CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/686797-ud-injector-ce.html)|`2025-03-12 03:40:00`|`Marvel Rivals`|
 |[can i use kiddion ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691079-kiddion.html)|`2025-03-12 03:35:00`|`Grand Theft Auto V`|
 |[Don't collect free car if you have enough money&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690011-dont-collect-free-car-money.html)|`2025-03-12 03:33:00`|`Grand Theft Auto V`|
 |[Rainbow Six Siege year 6 seson 3 offline mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/691155-rainbow-six-siege-6-seson-3-offline-mode.html)|`2025-03-12 03:30:00`|`Rainbow Six Siege`|
