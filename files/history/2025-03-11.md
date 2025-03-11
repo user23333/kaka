@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/691074-dead-game.html)|`2025-03-11 12:07:00`|`HELLDIVERS 2`|
 |[Step by step basic hotkey tool for beginners](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-5-world-at-war/691072-step-step-basic-hotkey-tool-beginners.html)|`2025-03-11 11:52:00`|`Call of Duty 5: World at War`|
 |[INSTA BANS &#43; MISSING STRING Problems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690278-insta-bans-missing-string.html)|`2025-03-11 11:41:00`|`Marvel Rivals`|
 |[Noob Guide for Steam, Epic, and LoadingBay UAC Bypass&#46;&#40;Needed for FPS internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689146-noob-guide-steam-epic-loadingbay-uac-bypass-fps-internal.html)|`2025-03-11 11:39:00`|`Marvel Rivals`|
