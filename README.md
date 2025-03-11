@@ -28,9 +28,16 @@
 |5|[Diep&#46;io Autofarm Bot V 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48946)|`2025-03-12 00:36:14`|
 |1|[Cheat table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48956)|`2025-03-12 00:49:41`|
 |3|[Dumper &#43; SOT SDK &#40;2025 FEB 27&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48930)|`2025-03-12 01:09:52`|
+|6|[PhasmoMenu v0&#46;5&#46;5 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48953)|`2025-03-12 01:28:53`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-03-12 01:27:00`|`Apex Legends`|
+|[rust alkad 2582 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/691106-rust-alkad-2582-cheat.html)|`2025-03-12 01:26:00`|`Rust`|
+|[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2025-03-12 01:25:00`|`Elite: Dangerous`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-03-12 01:23:00`|`Phasmophobia`|
+|[what do i need for simple box esp?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/691122-simple-box-esp.html)|`2025-03-12 01:14:00`|`Rainbow Six Siege`|
+|[hwid ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/691035-hwid-ban.html)|`2025-03-12 01:11:00`|`Marvel Rivals`|
 |[Play FragPunk Without Anti&#45;Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690793-play-fragpunk-anti-cheat.html)|`2025-03-12 01:07:00`|`Other FPS Games`|
 |[no recoil tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/683188-recoil-tool.html)|`2025-03-12 01:04:00`|`Rainbow Six Siege`|
 |[decrypt search/help for beginners](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/691062-decrypt-search-help-beginners.html)|`2025-03-12 01:01:00`|`Rust`|
