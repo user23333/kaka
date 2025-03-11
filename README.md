@@ -12,6 +12,7 @@
 |15|[Play FragPunk Without Anti&#45;Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690793-play-fragpunk-anti-cheat.html)|`2025-03-12 00:10:28`|`other-fps-games`|
 |1|[any menus on here working?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690174-menus.html)|`2025-03-12 00:10:28`|`grand-theft-auto-v`|
 |0|[Slightly Questionable Tb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689992-slightly-questionable-tb.html)|`2025-03-12 02:59:30`|`valorant`|
+|12|[C&#43;&#43; Pixelbot made using BitBlt, OpenCV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690012-pixelbot-using-bitblt-opencv.html)|`2025-03-12 06:41:23`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -37,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GPU not working after flashing DMA Devicr](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/691173-gpu-flashing-dma-devicr.html)|`2025-03-12 06:34:00`|`Off Topic`|
 |[HWID ban &#43; finding good cheat &#40;less bannable&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/686011-hwid-ban-finding-cheat-bannable.html)|`2025-03-12 06:13:00`|`Escape from Tarkov`|
 |[Need Roblox Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/689518-roblox-offsets.html)|`2025-03-12 05:47:00`|`General Programming and Reversing`|
 |[Deep Rock Galactic Gamepass/Windows version Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/567321-deep-rock-galactic-gamepass-windows-version-cheat-table.html)|`2025-03-12 05:58:00`|`Cheat Engine Tables`|
