@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 External skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691016-cs2-external-skin-changer.html)|`2025-03-12 00:54:00`|`Counter-Strike 2`|
+|[Regarding the attempt to modify the attack speed in Drakensang Online&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/691143-regarding-attempt-modify-attack-speed-drakensang-online.html)|`2025-03-12 00:53:00`|`Other MMORPG and Strategy`|
+|[LSCHaX for 1&#46;70 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/224075-lschax-1-70-external.html)|`2025-03-12 00:53:00`|`Grand Theft Auto V`|
 |[MCC Toolbox &#45; Trainer supports Halo Reach, Halo CE, Halo 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/397845-mcc-toolbox-trainer-supports-halo-reach-halo-ce-halo-2-a.html)|`2025-03-12 00:45:00`|`Halo`|
 |[How do I send a TLP response?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688599-send-tlp-response.html)|`2025-03-12 00:42:00`|`Anti-Cheat Bypass`|
 |[Lag compensation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690885-lag-compensation.html)|`2025-03-12 00:40:00`|`Counter-Strike 2`|
