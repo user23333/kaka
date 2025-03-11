@@ -37,6 +37,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Where to get good and cheap full dma setups](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690897-cheap-dma-setups.html)|`2025-03-11 21:37:00`|`Counter-Strike 2`|
+|[Latest ryl 1 online hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/691120-ryl-1-online-hack.html)|`2025-03-11 21:34:00`|`Other MMORPG and Strategy`|
+|[Improving my ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/690402-improving-esp.html)|`2025-03-11 21:26:00`|`General Programming and Reversing`|
+|[New external ESP SoT Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/581265-external-esp-sot-helper.html)|`2025-03-11 21:24:00`|`Sea of Thieves`|
 |[Need roblox offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/691118-roblox-offsets.html)|`2025-03-11 21:13:00`|`General Programming and Reversing`|
 |[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-03-11 21:08:00`|`Other Games`|
 |[I accidentally added 100 Scarred Pig Mask on my account&#46; How to remove them all?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/691115-accidentally-added-100-scarred-pig-mask-account-remove.html)|`2025-03-11 21:02:00`|`Payday 3`|
