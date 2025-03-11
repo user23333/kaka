@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FragPunk BootLoader Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691178-fragpunk-bootloader-patch.html)|`2025-03-12 07:26:00`|`Other FPS Games`|
 |[Dark and Darker Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690457-dark-darker-internal.html)|`2025-03-12 07:15:00`|`Other FPS Games`|
 |[cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663412-cheat.html)|`2025-03-12 07:12:00`|`Deadlock`|
 |[some pixel aimbot macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689811-pixel-aimbot-macro.html)|`2025-03-12 07:10:00`|`Marvel Rivals`|
