@@ -24,9 +24,18 @@
 |27|[Source R&#46;A&#46;M&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48917)|`2025-03-12 00:10:28`|
 |74|[autoshooter&#46;py](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48916)|`2025-03-12 00:10:28`|
 |46|[MCC Toolbox 5&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48914)|`2025-03-12 00:10:28`|
+|1|[Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48954)|`2025-03-12 00:36:14`|
+|5|[Diep&#46;io Autofarm Bot V 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48946)|`2025-03-12 00:36:14`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Diep&#46;io Auto Farm Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/690590-diep-io-auto-farm-bot.html)|`2025-03-12 00:36:00`|`Other Games`|
+|[Steep Points Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/690873-steep-cheat.html)|`2025-03-12 00:31:00`|`Other Games`|
+|[Marvel Rivals Undetected Free Macro Rev 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689301-marvel-rivals-undetected-free-macro-rev-2-a.html)|`2025-03-12 00:26:00`|`Marvel Rivals`|
+|[DayZ 1&#46;27 for modded launchers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/690903-dayz-1-27-modded-launchers.html)|`2025-03-12 00:25:00`|`DayZ SA`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-03-12 00:24:00`|`Rust`|
+|[Raycast &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/678606-raycast-external.html)|`2025-03-12 00:22:00`|`Garry's Mod`|
+|[Cheaters Cheetah sdk/base?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690983-cheaters-cheetah-sdk-base.html)|`2025-03-12 00:21:00`|`Other FPS Games`|
 |[Apex yolov11 AI AimAssistant&#40;Logitech Ghub&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/688904-apex-yolov11-ai-aimassistant-logitech-ghub.html)|`2025-03-12 00:04:00`|`Apex Legends`|
 |[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2025-03-12 00:04:00`|`Other MMORPG and Strategy`|
 |[GTA5&#95;Enchanced Basic DMA Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689945-gta5_enchanced-basic-dma-tool.html)|`2025-03-12 00:04:00`|`Grand Theft Auto V`|
