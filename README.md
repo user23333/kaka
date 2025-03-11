@@ -11,6 +11,7 @@
 |13|[GTA V Enhanced Unban Banned Steam Accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690287-gta-enhanced-unban-banned-steam-accounts.html)|`2025-03-12 00:10:28`|`grand-theft-auto-v`|
 |15|[Play FragPunk Without Anti&#45;Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690793-play-fragpunk-anti-cheat.html)|`2025-03-12 00:10:28`|`other-fps-games`|
 |1|[any menus on here working?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690174-menus.html)|`2025-03-12 00:10:28`|`grand-theft-auto-v`|
+|0|[Slightly Questionable Tb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689992-slightly-questionable-tb.html)|`2025-03-12 02:59:30`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,6 +35,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Finals ColorBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/669800-finals-colorbot.html)|`2025-03-12 02:58:00`|`THE FINALS`|
+|[Basic External Multihack SOURCE CODE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690779-basic-external-multihack-source-code.html)|`2025-03-12 02:53:00`|`Counter-Strike 2`|
+|[HVCI Bypass Kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690970-hvci-bypass-kernel.html)|`2025-03-12 02:52:00`|`Valorant`|
+|[Play Together/Rank Boosting Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/353364-play-rank-boosting-thread.html)|`2025-03-12 02:45:00`|`Apex Legends`|
+|[memcpy PUBG Mobile 32 bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690817-memcpy-pubg-mobile-32-bit.html)|`2025-03-12 02:43:00`|`PUBG Mobile`|
 |[Deadside Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/387306-deadside-reversal-structs-offsets.html)|`2025-03-12 02:34:00`|`Other FPS Games`|
 |[&#91;DMA&#93; Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677518-dma-squad.html)|`2025-03-12 02:29:00`|`Other FPS Games`|
 |[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-03-12 02:28:00`|`Grand Theft Auto V`|
