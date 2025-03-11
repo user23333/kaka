@@ -35,6 +35,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[bypass 64bit 3&#46;7           //try on fake acc frist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/691088-bypass-64bit-3-7-try-fake-acc-frist.html)|`2025-03-11 15:57:00`|`PUBG Mobile`|
+|[Sai's Color Aimbot v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/659687-sais-color-aimbot-v2.html)|`2025-03-11 15:56:00`|`Call of Duty: Modern Warfare III`|
+|[UCAimColor Arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691080-ucaimcolor-arduino.html)|`2025-03-11 15:54:00`|`Valorant`|
+|[Anti&#45;cheat index](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/75304-anti-cheat-index.html)|`2025-03-11 15:52:00`|`Anti-Cheat Bypass`|
+|[SHELL CODE 3&#46;7 UPDATED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690944-shell-code-3-7-updated.html)|`2025-03-11 15:28:00`|`PUBG Mobile`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-03-11 15:27:00`|`Grand Theft Auto V`|
 |[Can i get VAC ban if i got banned on my other account?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691013-vac-ban-banned-account.html)|`2025-03-11 15:15:00`|`Counter-Strike 2`|
 |[R6 False Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/689630-r6-false-ban.html)|`2025-03-11 15:08:00`|`Rainbow Six Siege`|
