@@ -32,6 +32,7 @@
 |6|[PhasmoMenu v0&#46;5&#46;5 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48953)|`2025-03-12 01:28:53`|
 |4|[asthmaphobia bleadsdale update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48944)|`2025-03-12 01:39:20`|
 |4|[Apex yolov11 AI AimAssistant v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48961)|`2025-03-12 02:18:46`|
+|8|[Fortnite&#45;Release&#45;34&#46;10&#45;CL&#45;40567068 Properties](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48963)|`2025-03-12 05:54:23`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
