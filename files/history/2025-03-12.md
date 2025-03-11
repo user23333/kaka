@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Closest Thing To Aimbot & No Recoil You're Going To Get](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/687328-closest-aimbot-recoil-youre.html)|`2025-03-12 06:57:00`|`THE FINALS`|
+|[CSSO &#40;1&#46;1&#41; Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/690832-csso-1-1-internal-cheat.html)|`2025-03-12 06:56:00`|`CounterStrike Source`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-03-12 06:41:00`|`Other FPS Games`|
 |[GPU not working after flashing DMA Devicr](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/691173-gpu-flashing-dma-devicr.html)|`2025-03-12 06:34:00`|`Off Topic`|
 |[HWID ban &#43; finding good cheat &#40;less bannable&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/686011-hwid-ban-finding-cheat-bannable.html)|`2025-03-12 06:13:00`|`Escape from Tarkov`|
 |[Need Roblox Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/689518-roblox-offsets.html)|`2025-03-12 05:47:00`|`General Programming and Reversing`|
