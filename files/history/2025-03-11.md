@@ -12,6 +12,7 @@
 |7|[Will there be a way to cheat in GTA V Enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690248-cheat-gta-enhanced.html)|`2025-03-11 00:13:00`|`grand-theft-auto-v`|
 |27|[how to use yim menu money tools for 1&#46;70 no fsl/be](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690051-yim-menu-money-tools-1-70-fsl.html)|`2025-03-11 00:13:00`|`grand-theft-auto-v`|
 |29|[R&#46;E&#46;P&#46;O Basic Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/689804-basic-internal.html)|`2025-03-11 09:21:27`|`other-fps-games`|
+|56|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2025-03-11 10:37:05`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I Need Help With This Strange Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/691045-help-strange-ban.html)|`2025-03-11 10:18:00`|`PUBG Mobile`|
+|[Analyzing dump in IDA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/691069-analyzing-dump-ida.html)|`2025-03-11 10:06:00`|`Call of Duty: Black Ops 6`|
+|[Lag compensation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690885-lag-compensation.html)|`2025-03-11 10:00:00`|`Counter-Strike 2`|
+|[Fragpunk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644827-fragpunk.html)|`2025-03-11 09:59:00`|`Other FPS Games`|
+|[STAR WARS Battlefront Alpha invite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront/151036-star-wars-battlefront-alpha-invite.html)|`2025-03-11 09:52:00`|`Star Wars Battlefront`|
+|[sv&#95;pure bypass &#40;x64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/643092-sv_pure-bypass-x64.html)|`2025-03-11 09:44:00`|`Team Fortress 2`|
 |[Good library you can use for PUBG Mobile all versions 32bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/691053-library-pubg-mobile-versions-32bit.html)|`2025-03-11 09:17:00`|`PUBG Mobile`|
 |[IW4X unban after alterware update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/681411-iw4x-unban-alterware-update.html)|`2025-03-11 09:02:00`|`Call of Duty 6: Modern Warfare 2`|
 |[Is there any way detect EPT Hook?&#40;except for timing check&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/689037-detect-ept-hook-except-timing-check.html)|`2025-03-11 09:00:00`|`Anti-Cheat Bypass`|
