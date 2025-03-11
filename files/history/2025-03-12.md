@@ -33,9 +33,12 @@
 |4|[asthmaphobia bleadsdale update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48944)|`2025-03-12 01:39:20`|
 |4|[Apex yolov11 AI AimAssistant v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48961)|`2025-03-12 02:18:46`|
 |8|[Fortnite&#45;Release&#45;34&#46;10&#45;CL&#45;40567068 Properties](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48963)|`2025-03-12 05:54:23`|
+|4|[DummyDll&#46;rar &#124; Cheaters Cheetah DLL dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48950)|`2025-03-12 05:59:27`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deep Rock Galactic Gamepass/Windows version Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/567321-deep-rock-galactic-gamepass-windows-version-cheat-table.html)|`2025-03-12 05:58:00`|`Cheat Engine Tables`|
+|[Cheaters Cheetah Dumped Dlls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691044-cheaters-cheetah-dumped-dlls.html)|`2025-03-12 05:55:00`|`Other Games`|
 |[Frameware Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/677239-frameware-release.html)|`2025-03-12 05:41:00`|`Overwatch`|
 |[R&#46;E&#46;P&#46;O Basic Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/689804-basic-internal.html)|`2025-03-12 05:32:00`|`Other FPS Games`|
 |[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-03-12 05:22:00`|`Rainbow Six Siege`|
