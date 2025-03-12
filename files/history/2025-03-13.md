@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[LostLight Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/479889-lostlight-reversal-structs-offsets.html)|`2025-03-13 05:54:00`|`Other FPS Games`|
+|[More efficient UpdateEntity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/689585-efficient-updateentity.html)|`2025-03-13 05:50:00`|`Alternative Online Mods`|
+|[Macro in Ajazz Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/690403-macro-ajazz-driver.html)|`2025-03-13 05:49:00`|`Rainbow Six Siege`|
 |[MWIII DMA Basic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/619202-mwiii-dma-basic.html)|`2025-03-13 05:44:00`|`Call of Duty: Modern Warfare III`|
 |[MCC Toolbox &#45; Trainer supports Halo Reach, Halo CE, Halo 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/397845-mcc-toolbox-trainer-supports-halo-reach-halo-ce-halo-2-a.html)|`2025-03-13 05:43:00`|`Halo`|
 |[Silent crashing irregulary](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/691328-silent-crashing-irregulary.html)|`2025-03-13 05:35:00`|`Alternative Online Mods`|
