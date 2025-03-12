@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ricochet Update &#45; All Bot Lobby PermaBan&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/691185-ricochet-update-bot-lobby-permaban.html)|`2025-03-13 07:15:00`|`Call of Duty: Black Ops 6`|
+|[Redmatch 2 internal cheat &#40;imperium&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/688217-redmatch-2-internal-cheat-imperium.html)|`2025-03-13 07:13:00`|`Other FPS Games`|
 |[The Headliners internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/686294-headliners-internal.html)|`2025-03-13 06:45:00`|`Other Games`|
 |[is it possible to change legacy badge on arm?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/649491-change-legacy-badge-arm.html)|`2025-03-13 06:33:00`|`Phasmophobia`|
 |[Dreaming and struggling to make a little ESP in Tarkov](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/691344-dreaming-struggling-little-esp-tarkov.html)|`2025-03-13 06:37:00`|`Escape from Tarkov`|
