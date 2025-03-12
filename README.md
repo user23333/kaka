@@ -15,6 +15,7 @@
 |12|[C&#43;&#43; Pixelbot made using BitBlt, OpenCV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690012-pixelbot-using-bitblt-opencv.html)|`2025-03-12 06:41:23`|`valorant`|
 |27|[Marvel Rivals Cleaner &#124; POSSIBLE UNBAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690169-marvel-rivals-cleaner-unban.html)|`2025-03-12 11:07:20`|`marvel-rivals`|
 |4|[GTAVTool for Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690546-gtavtool-enhanced.html)|`2025-03-12 16:34:57`|`grand-theft-auto-v`|
+|26|[superBADinternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690904-superbadinternal.html)|`2025-03-12 18:08:52`|`marvel-rivals`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -41,6 +42,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Best way to filter clove and astra smokes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688706-filter-clove-astra-smokes.html)|`2025-03-12 17:57:00`|`Valorant`|
 |[external cheats broke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691231-external-cheats-broke.html)|`2025-03-12 17:16:00`|`Counter-Strike 2`|
 |[Minecraft Bedrock Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/682617-minecraft-bedrock-cheat-engine-table.html)|`2025-03-12 17:04:00`|`Minecraft`|
 |[Ultimate COD WW2 Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/650299-ultimate-cod-ww2-thread.html)|`2025-03-12 16:30:00`|`Other Games`|
