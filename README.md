@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dreaming and struggling to make a little ESP in Tarkov](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/691344-dreaming-struggling-little-esp-tarkov.html)|`2025-03-13 06:37:00`|`Escape from Tarkov`|
+|[Intense EAC games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/691340-intense-eac-games.html)|`2025-03-13 06:36:00`|`Anti-Cheat Bypass`|
 |[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-03-13 06:25:00`|`Farlight 84`|
 |[Skipframes V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/690889-skipframes-v2.html)|`2025-03-13 06:12:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Reading AMCache/Registry Hive from memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/691337-reading-amcache-registry-hive-memory.html)|`2025-03-13 06:10:00`|`Forum General`|
