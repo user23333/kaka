@@ -38,6 +38,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[is there a problem in resolution 720 with aim assist and triggerbots?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689473-resolution-720-aim-assist-triggerbots.html)|`2025-03-12 09:02:00`|`Valorant`|
+|[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2025-03-12 08:59:00`|`Elite: Dangerous`|
+|[cs2 python cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688140-cs2-python-cheat.html)|`2025-03-12 08:46:00`|`Counter-Strike 2`|
+|[What music are you listening right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/music-and-videos/86098-music-listening.html)|`2025-03-12 08:43:00`|`Music and Videos`|
+|[Why am I unable to locate the GOM offset and the gameObjectManager's structure?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/679190-am-unable-locate-gom-offset-gameobjectmanagers-structure.html)|`2025-03-12 08:42:00`|`Escape from Tarkov`|
 |[External Discord Overlay Hijack &#40;with ImGui&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/683571-external-discord-overlay-hijack-imgui.html)|`2025-03-12 07:59:00`|`General Programming and Reversing`|
 |[Could someone share what color values they are using for their Fragpunk colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691181-share-color-values-using-fragpunk-colorbot.html)|`2025-03-12 07:58:00`|`Other FPS Games`|
 |[Lua Menu &#40;Heavily scripted by ChatGPT&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/682688-lua-menu-heavily-scripted-chatgpt.html)|`2025-03-12 07:29:00`|`Garry's Mod`|
