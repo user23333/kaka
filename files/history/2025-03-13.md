@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sunoki's fully updated TriggerBot &#43; Spoofer by Mafia4321x](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679046-sunokis-updated-triggerbot-spoofer-mafia4321x.html)|`2025-03-13 03:27:00`|`Valorant`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-03-13 03:15:00`|`Phasmophobia`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-03-13 03:12:00`|`Rust`|
 |[help me to dump LIBUE4&#46;so](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690776-help-dump-libue4.html)|`2025-03-13 03:10:00`|`PUBG Mobile`|
