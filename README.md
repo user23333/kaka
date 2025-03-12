@@ -40,6 +40,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to fix mouse scroll wheel on arduino hid usb host shield?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691211-fix-mouse-scroll-wheel-arduino-hid-usb-host-shield.html)|`2025-03-12 13:28:00`|`Valorant`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-03-12 13:26:00`|`League of Legends`|
+|[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2025-03-12 13:21:00`|`Escape from Tarkov`|
 |[Can accounts get banned on enhanced If It was banned on legacy?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691210-accounts-banned-enhanced-banned-legacy.html)|`2025-03-12 13:05:00`|`Grand Theft Auto V`|
 |[did anyone transferred over?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689872-transferred.html)|`2025-03-12 13:02:00`|`Grand Theft Auto V`|
 |[Fragpunk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644827-fragpunk.html)|`2025-03-12 12:55:00`|`Other FPS Games`|
