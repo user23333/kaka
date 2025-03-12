@@ -40,9 +40,11 @@
 |8|[Fortnite&#45;Release&#45;34&#46;10&#45;CL&#45;40567068 Properties](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48963)|`2025-03-12 05:54:23`|
 |4|[DummyDll&#46;rar &#124; Cheaters Cheetah DLL dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48950)|`2025-03-12 05:59:27`|
 |2|[Steep Cheat Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48970)|`2025-03-12 11:07:20`|
+|3|[vgm&#46;decrypted&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48965)|`2025-03-12 23:30:01`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Doubletap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691260-doubletap.html)|`2025-03-12 23:24:00`|`Counter-Strike 2`|
 |[win11 24h2 hollowing process error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/667623-win11-24h2-hollowing-process-error.html)|`2025-03-12 23:07:00`|`General Programming and Reversing`|
 |[Can't call OpenProcess](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/690040-cant-call-openprocess.html)|`2025-03-12 23:06:00`|`Programming for Beginners`|
 |[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-03-12 22:50:00`|`Other Games`|
