@@ -16,6 +16,7 @@
 |27|[Marvel Rivals Cleaner &#124; POSSIBLE UNBAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690169-marvel-rivals-cleaner-unban.html)|`2025-03-12 11:07:20`|`marvel-rivals`|
 |4|[GTAVTool for Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690546-gtavtool-enhanced.html)|`2025-03-12 16:34:57`|`grand-theft-auto-v`|
 |26|[superBADinternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690904-superbadinternal.html)|`2025-03-12 18:08:52`|`marvel-rivals`|
+|8|[Cheaters Cheetah sdk/base?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690983-cheaters-cheetah-sdk-base.html)|`2025-03-12 22:30:47`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -42,6 +43,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Destiny 2 Inventory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/668891-destiny-2-inventory.html)|`2025-03-12 22:23:00`|`Other FPS Games`|
+|[Editor BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/690109-editor-bo6.html)|`2025-03-12 22:11:00`|`Call of Duty: Black Ops 6`|
+|[STM32H7 for USB Passthrough &#43; AI&#45;Based Input Modification](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/691257-stm32h7-usb-passthrough-ai-based-input-modification.html)|`2025-03-12 22:10:00`|`PC Hardware`|
 |[Dark and Darker Internal V2 &#43; Hwid Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/618587-dark-darker-internal-v2-hwid-spoofer.html)|`2025-03-12 22:05:00`|`Other FPS Games`|
 |[Arena Breakout Infinite Internal Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/641795-arena-breakout-infinite-internal-hack.html)|`2025-03-12 22:03:00`|`Other FPS Games`|
 |[Migration after many attempts or changing stats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691255-migration-attempts-changing-stats.html)|`2025-03-12 21:50:00`|`Grand Theft Auto V`|
