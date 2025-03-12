@@ -43,6 +43,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-03-12 22:50:00`|`Other Games`|
 |[Destiny 2 Inventory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/668891-destiny-2-inventory.html)|`2025-03-12 22:23:00`|`Other FPS Games`|
 |[Editor BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/690109-editor-bo6.html)|`2025-03-12 22:11:00`|`Call of Duty: Black Ops 6`|
 |[STM32H7 for USB Passthrough &#43; AI&#45;Based Input Modification](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/691257-stm32h7-usb-passthrough-ai-based-input-modification.html)|`2025-03-12 22:10:00`|`PC Hardware`|
