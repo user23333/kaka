@@ -42,6 +42,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to get started analyzing anti&#45;cheating?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/691184-started-analyzing-anti-cheating.html)|`2025-03-12 18:57:00`|`Anti-Cheat Bypass`|
+|[Roblox Reversals: A Guide To Finding DataModel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689780-roblox-reversals-guide-finding-datamodel.html)|`2025-03-12 18:56:00`|`Other Games`|
 |[Best method to detect enemies on a screenshot for color aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690293-method-detect-enemies-screenshot-color-aimbot.html)|`2025-03-12 18:50:00`|`Valorant`|
 |[DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/682115-dma.html)|`2025-03-12 18:46:00`|`PC Hardware`|
 |[What did vgk do or edited?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690834-vgk-edited.html)|`2025-03-12 18:43:00`|`Valorant`|
