@@ -13,6 +13,7 @@
 |1|[any menus on here working?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690174-menus.html)|`2025-03-12 00:10:28`|`grand-theft-auto-v`|
 |0|[Slightly Questionable Tb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689992-slightly-questionable-tb.html)|`2025-03-12 02:59:30`|`valorant`|
 |12|[C&#43;&#43; Pixelbot made using BitBlt, OpenCV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690012-pixelbot-using-bitblt-opencv.html)|`2025-03-12 06:41:23`|`valorant`|
+|27|[Marvel Rivals Cleaner &#124; POSSIBLE UNBAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690169-marvel-rivals-cleaner-unban.html)|`2025-03-12 11:07:20`|`marvel-rivals`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,9 +36,15 @@
 |4|[Apex yolov11 AI AimAssistant v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48961)|`2025-03-12 02:18:46`|
 |8|[Fortnite&#45;Release&#45;34&#46;10&#45;CL&#45;40567068 Properties](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48963)|`2025-03-12 05:54:23`|
 |4|[DummyDll&#46;rar &#124; Cheaters Cheetah DLL dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48950)|`2025-03-12 05:59:27`|
+|2|[Steep Cheat Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48970)|`2025-03-12 11:07:20`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New Enhanced Account w/Criminal Enterprise Starter Pack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691194-enhanced-account-criminal-enterprise-starter-pack.html)|`2025-03-12 11:07:00`|`Grand Theft Auto V`|
+|[More efficient UpdateEntity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/689585-efficient-updateentity.html)|`2025-03-12 10:32:00`|`Alternative Online Mods`|
+|[Universal DLL Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/691198-universal-dll-injector.html)|`2025-03-12 10:28:00`|`Marvel Rivals`|
+|[Show everything on mini&#45;map](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/691187-mini-map.html)|`2025-03-12 10:25:00`|`HELLDIVERS 2`|
+|[Assetto Corsa No Hesi traffic NoClip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/676049-assetto-corsa-hesi-traffic-noclip.html)|`2025-03-12 10:25:00`|`Other Games`|
 |[is there a problem in resolution 720 with aim assist and triggerbots?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689473-resolution-720-aim-assist-triggerbots.html)|`2025-03-12 09:02:00`|`Valorant`|
 |[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2025-03-12 08:59:00`|`Elite: Dangerous`|
 |[cs2 python cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688140-cs2-python-cheat.html)|`2025-03-12 08:46:00`|`Counter-Strike 2`|
