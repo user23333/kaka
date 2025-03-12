@@ -42,6 +42,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/682115-dma.html)|`2025-03-12 18:46:00`|`PC Hardware`|
+|[What did vgk do or edited?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690834-vgk-edited.html)|`2025-03-12 18:43:00`|`Valorant`|
 |[I accidentally added 100 Scarred Pig Mask on my account&#46; How to remove them all?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/691115-accidentally-added-100-scarred-pig-mask-account-remove.html)|`2025-03-12 18:40:00`|`Payday 3`|
 |[Any working disk spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691128-disk-spoofer.html)|`2025-03-12 18:37:00`|`Valorant`|
 |[Ricochet Update &#45; All Bot Lobby PermaBan&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/691185-ricochet-update-bot-lobby-permaban.html)|`2025-03-12 18:36:00`|`Call of Duty: Black Ops 6`|
