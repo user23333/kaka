@@ -42,6 +42,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I accidentally added 100 Scarred Pig Mask on my account&#46; How to remove them all?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/691115-accidentally-added-100-scarred-pig-mask-account-remove.html)|`2025-03-12 18:40:00`|`Payday 3`|
+|[Any working disk spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691128-disk-spoofer.html)|`2025-03-12 18:37:00`|`Valorant`|
+|[Ricochet Update &#45; All Bot Lobby PermaBan&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/691185-ricochet-update-bot-lobby-permaban.html)|`2025-03-12 18:36:00`|`Call of Duty: Black Ops 6`|
 |[Looking for a Cheat Engine CT file with God Mode &#43; Teleport for GTA V Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691213-looking-cheat-engine-ct-file-god-mode-teleport-gta-enhanced.html)|`2025-03-12 18:17:00`|`Grand Theft Auto V`|
 |[sv&#95;pure bypass &#40;x64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/643092-sv_pure-bypass-x64.html)|`2025-03-12 18:16:00`|`Team Fortress 2`|
 |[HOW TO GET DLLs WITH IL2CPP DUMPER &#124; Unity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/691237-dlls-il2cpp-dumper-unity.html)|`2025-03-12 18:09:00`|`C and C++`|
