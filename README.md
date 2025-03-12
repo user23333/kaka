@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2025-03-13 00:46:00`|`Grand Theft Auto V`|
 |[widgets ue4 menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/691270-widgets-ue4-menu.html)|`2025-03-13 00:42:00`|`Unreal Engine 4`|
 |[Object ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/691269-object-esp.html)|`2025-03-13 00:31:00`|`Alternative Online Mods`|
 |[Aimbot and recoil not wokring on kmbox net](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/691268-aimbot-recoil-wokring-kmbox-net.html)|`2025-03-13 00:30:00`|`Apex Legends`|
