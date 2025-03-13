@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;DMA&#93; Can't read the module with kernel anticheat open](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689928-dma-cant-read-module-kernel-anticheat.html)|`2025-03-13 08:35:00`|`Counter-Strike 2`|
+|[ETS2/TruckersMP &#45; no damage and speed limit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/681605-ets2-truckersmp-damage-speed-limit.html)|`2025-03-13 08:28:00`|`Other Games`|
 |[UD Injector/CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/686797-ud-injector-ce.html)|`2025-03-13 07:29:00`|`Marvel Rivals`|
 |[Elite Dangerous Farming Credits for Billions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/691253-elite-dangerous-farming-credits-billions.html)|`2025-03-13 07:23:00`|`Elite: Dangerous`|
 |[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2025-03-13 07:21:00`|`Elite: Dangerous`|
