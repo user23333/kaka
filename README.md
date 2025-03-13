@@ -27,9 +27,13 @@
 |1|[Spankerfield Source 10&#46;01&#46;2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48984)|`2025-03-14 00:35:01`|
 |2|[bgmi 3&#46;7 32&#45;bit SDK ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48990)|`2025-03-14 00:50:17`|
 |1|[BO2Z Toolbox 3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48996)|`2025-03-14 02:13:53`|
+|2|[R6S TriggerBot, AimBot AMD ONLY&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48980)|`2025-03-14 02:49:08`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Downfall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/691028-downfall.html)|`2025-03-14 02:45:00`|`Off Topic`|
+|[Bloodstrike](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690058-bloodstrike.html)|`2025-03-14 02:42:00`|`Other FPS Games`|
+|[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-03-14 02:39:00`|`Rainbow Six Siege`|
 |[HOW TO GET DLLs WITH IL2CPP DUMPER &#124; Unity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/691237-dlls-il2cpp-dumper-unity.html)|`2025-03-14 02:35:00`|`C and C++`|
 |[Universal DLL Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/691198-universal-dll-injector.html)|`2025-03-14 02:26:00`|`Marvel Rivals`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2025-03-14 02:26:00`|`Valorant`|
