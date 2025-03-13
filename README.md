@@ -31,9 +31,14 @@
 |2|[R6S TriggerBot, AimBot AMD ONLY&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48980)|`2025-03-14 02:49:08`|
 |1|[GTA V Enhanced Godmode &#43; Teleport updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48997)|`2025-03-14 03:40:32`|
 |1|[Handle HiJack Finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48985)|`2025-03-14 04:17:41`|
+|1|[REPO Enemy Spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48982)|`2025-03-14 04:41:19`|
+|1|[IL2CPP DUMPER &#124; credit to Prefare](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48979)|`2025-03-14 04:41:19`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VTube Studio DLC Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689731-vtube-studio-dlc-unlocker.html)|`2025-03-14 04:37:00`|`Other Games`|
+|[Arduino FirmWare works with all buttons UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690835-arduino-firmware-buttons-ud.html)|`2025-03-14 04:36:00`|`Valorant`|
+|[R&#46;E&#46;P&#46;O&#46; Enemy Spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691356-enemy-spawner.html)|`2025-03-14 04:36:00`|`Other FPS Games`|
 |[MCC Toolbox &#45; Trainer supports Halo Reach, Halo CE, Halo 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/397845-mcc-toolbox-trainer-supports-halo-reach-halo-ce-halo-2-a.html)|`2025-03-14 04:24:00`|`Halo`|
 |[Failed to allocate memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/691369-failed-allocate-memory.html)|`2025-03-14 04:23:00`|`Marvel Rivals`|
 |[Is Rewasd Safe now](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/689196-rewasd-safe.html)|`2025-03-14 04:22:00`|`Apex Legends`|
