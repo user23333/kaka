@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sigma Rivals &#124; Gooner edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689792-sigma-rivals-gooner-edition.html)|`2025-03-13 16:56:00`|`Marvel Rivals`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-03-13 16:39:00`|`Other FPS Games`|
+|[C&#43;&#43; Color Triggerbot New Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691387-color-triggerbot-undetected.html)|`2025-03-13 16:34:00`|`Valorant`|
 |[CS2 External skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691016-cs2-external-skin-changer.html)|`2025-03-13 16:06:00`|`Counter-Strike 2`|
 |[Pls share BGMI 3&#46;7 32 bit libue4 emu bypass offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/691384-pls-share-bgmi-3-7-32-bit-libue4-emu-bypass-offset.html)|`2025-03-13 15:48:00`|`PUBG Mobile`|
 |[can i use kiddion ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691079-kiddion.html)|`2025-03-13 15:15:00`|`Grand Theft Auto V`|
