@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking for Spoofer for MSI B450M Gaming Plus](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691241-looking-spoofer-msi-b450m-gaming-plus.html)|`2025-03-13 10:58:00`|`Valorant`|
+|[Handle HiJack Finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/691361-handle-hijack-finder.html)|`2025-03-13 10:58:00`|`C and C++`|
 |[Don't collect free car if you have enough money&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690011-dont-collect-free-car-money.html)|`2025-03-13 10:13:00`|`Grand Theft Auto V`|
 |[superBADinternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690904-superbadinternal.html)|`2025-03-13 10:11:00`|`Marvel Rivals`|
 |[Is Rewasd Safe now](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/689196-rewasd-safe.html)|`2025-03-13 10:04:00`|`Apex Legends`|
