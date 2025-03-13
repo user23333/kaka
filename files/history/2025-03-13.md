@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can accounts get banned on enhanced If It was banned on legacy?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691210-accounts-banned-enhanced-banned-legacy.html)|`2025-03-13 22:48:00`|`Grand Theft Auto V`|
+|[Cheat CSS after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/687800-cheat-css-update.html)|`2025-03-13 22:41:00`|`CounterStrike Source`|
+|[Is it possible to draw ESP behind the crosshair?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691452-draw-esp-crosshair.html)|`2025-03-13 22:40:00`|`Counter-Strike 2`|
 |[How to hide esp from geforce clips?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/687957-hide-esp-geforce-clips.html)|`2025-03-13 22:36:00`|`Alternative Online Mods`|
 |[Red Dead Redemption 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/361550-red-dead-redemption-2-reversal-structs-offsets.html)|`2025-03-13 22:34:00`|`Red Dead Redemption 2`|
 |[How to bypass emulator detection in gameloop call of duty mobile?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/691449-bypass-emulator-detection-gameloop-call-duty-mobile.html)|`2025-03-13 22:31:00`|`Forum General`|
