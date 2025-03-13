@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to hide esp from geforce clips?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/687957-hide-esp-geforce-clips.html)|`2025-03-13 22:36:00`|`Alternative Online Mods`|
+|[Red Dead Redemption 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/361550-red-dead-redemption-2-reversal-structs-offsets.html)|`2025-03-13 22:34:00`|`Red Dead Redemption 2`|
+|[How to bypass emulator detection in gameloop call of duty mobile?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/691449-bypass-emulator-detection-gameloop-call-duty-mobile.html)|`2025-03-13 22:31:00`|`Forum General`|
 |[All Mouse NoRecoil &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-recoil-helpy-auto-config-probably-ud-universal.html)|`2025-03-13 22:21:00`|`Rainbow Six Siege`|
 |[Rigel Updated ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/657856-rigel-updated-ow2.html)|`2025-03-13 22:19:00`|`Overwatch`|
 |[help me find the script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/691446-help-script.html)|`2025-03-13 22:08:00`|`Rust`|
