@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What hack to get for APB?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/689651-hack-apb.html)|`2025-03-13 23:31:00`|`All Points Bulletin`|
 |[UCAimColor Arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691080-ucaimcolor-arduino.html)|`2025-03-13 23:26:00`|`Valorant`|
 |[Logitech Lua &#40;Universal&#41; &#45;simulant V1&#46;0 R6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/601250-logitech-lua-universal-simulant-v1-0-r6.html)|`2025-03-13 23:26:00`|`Rainbow Six Siege`|
 |[Desmod Hack Beta&#40;Garry's Mod&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/450184-desmod-hack-beta-garrys-mod.html)|`2025-03-13 22:52:00`|`Garry's Mod`|
