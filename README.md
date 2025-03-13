@@ -34,6 +34,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MCC Toolbox &#45; Trainer supports Halo Reach, Halo CE, Halo 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/397845-mcc-toolbox-trainer-supports-halo-reach-halo-ce-halo-2-a.html)|`2025-03-14 04:24:00`|`Halo`|
+|[Failed to allocate memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/691369-failed-allocate-memory.html)|`2025-03-14 04:23:00`|`Marvel Rivals`|
+|[Is Rewasd Safe now](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/689196-rewasd-safe.html)|`2025-03-14 04:22:00`|`Apex Legends`|
+|[Get right FiveM version &#40;bypass replaceExecutable&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/689318-fivem-version-bypass-replaceexecutable.html)|`2025-03-14 04:22:00`|`Alternative Online Mods`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-03-14 04:20:00`|`Marvel Rivals`|
+|[DayZ Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/639749-dayz-dumper.html)|`2025-03-14 04:19:00`|`DayZ SA`|
 |[Spoofing/Editing Serials on Insyde BIOS HP Systems&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/628213-spoofing-editing-serials-insyde-bios-hp-systems.html)|`2025-03-14 04:13:00`|`Valorant`|
 |[Handle HiJack Finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/691361-handle-hijack-finder.html)|`2025-03-14 04:01:00`|`C and C++`|
 |[Pro CS2 DMA by Enoo &#45; Win11&#95;24H2 26100&#46;3323](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690475-pro-cs2-dma-enoo-win11_24h2-26100-3323-a.html)|`2025-03-14 03:59:00`|`Counter-Strike 2`|
