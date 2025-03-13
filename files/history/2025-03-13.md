@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-03-13 20:46:00`|`Other Games`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-03-13 20:45:00`|`Call of Duty: Black Ops 6`|
+|[Fragpunk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644827-fragpunk.html)|`2025-03-13 20:40:00`|`Other FPS Games`|
 |[KO x64 exe bypass and finding pointers assistance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/691408-ko-x64-exe-bypass-finding-pointers-assistance.html)|`2025-03-13 20:06:00`|`Anti-Cheat Bypass`|
 |[BGMI 3&#46;7 32&#45;bit SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/691406-bgmi-3-7-32-bit-sdk.html)|`2025-03-13 19:45:00`|`PUBG Mobile`|
 |[Arma 3 DLC Unlocker &#40;creamapi version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/214656-arma-3-dlc-unlocker-creamapi-version.html)|`2025-03-13 19:27:00`|`ARMA 3`|
