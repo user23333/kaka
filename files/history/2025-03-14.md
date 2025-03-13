@@ -30,9 +30,13 @@
 |1|[BO2Z Toolbox 3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48996)|`2025-03-14 02:13:53`|
 |2|[R6S TriggerBot, AimBot AMD ONLY&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48980)|`2025-03-14 02:49:08`|
 |1|[GTA V Enhanced Godmode &#43; Teleport updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48997)|`2025-03-14 03:40:32`|
+|1|[Handle HiJack Finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48985)|`2025-03-14 04:17:41`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spoofing/Editing Serials on Insyde BIOS HP Systems&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/628213-spoofing-editing-serials-insyde-bios-hp-systems.html)|`2025-03-14 04:13:00`|`Valorant`|
+|[Handle HiJack Finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/691361-handle-hijack-finder.html)|`2025-03-14 04:01:00`|`C and C++`|
+|[Pro CS2 DMA by Enoo &#45; Win11&#95;24H2 26100&#46;3323](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690475-pro-cs2-dma-enoo-win11_24h2-26100-3323-a.html)|`2025-03-14 03:59:00`|`Counter-Strike 2`|
 |[Skipframes V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/690889-skipframes-v2.html)|`2025-03-14 03:50:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[UD Injector/CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/686797-ud-injector-ce.html)|`2025-03-14 03:32:00`|`Marvel Rivals`|
 |[Need Fragpunk Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691483-fragpunk-source.html)|`2025-03-14 03:27:00`|`Other FPS Games`|
