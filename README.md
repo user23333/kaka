@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2025-03-14 01:10:00`|`Grand Theft Auto V`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-03-14 01:09:00`|`Rainbow Six Siege`|
+|[R6DumpCleaner: A tool to simplify the junk code of Y10](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/691469-r6dumpcleaner-tool-simplify-junk-code-y10.html)|`2025-03-14 01:04:00`|`Rainbow Six Siege`|
+|[How to Grind infinit HG Wins, Levels and Money](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/680032-grind-infinit-hg-wins-levels-money.html)|`2025-03-14 01:02:00`|`Sea of Thieves`|
+|[Problem Running Two Instances of GeForceNOW in Sandboxie &#40;Error 0xC0F52132&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/691468-running-instances-geforcenow-sandboxie-error-0xc0f52132.html)|`2025-03-14 00:58:00`|`PC Software`|
 |[FragPunk AimColor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691467-fragpunk-aimcolor.html)|`2025-03-14 00:49:00`|`Other FPS Games`|
 |[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2025-03-14 00:46:00`|`Other FPS Games`|
 |[b3095 LocalPlayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/691465-b3095-localplayer.html)|`2025-03-14 00:41:00`|`Alternative Online Mods`|
