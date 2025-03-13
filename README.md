@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BGMI 3&#46;7 32&#45;bit SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/691406-bgmi-3-7-32-bit-sdk.html)|`2025-03-13 19:45:00`|`PUBG Mobile`|
 |[Arma 3 DLC Unlocker &#40;creamapi version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/214656-arma-3-dlc-unlocker-creamapi-version.html)|`2025-03-13 19:27:00`|`ARMA 3`|
 |[AiCheats &#45; BF4 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/668879-aicheats-bf4-external-esp.html)|`2025-03-13 18:46:00`|`Battlefield 4`|
 |[rust alkad 2582 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/691106-rust-alkad-2582-cheat.html)|`2025-03-13 18:34:00`|`Rust`|
