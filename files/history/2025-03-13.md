@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[do we need real programmers now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690901-real-programmers.html)|`2025-03-13 13:41:00`|`Grand Theft Auto V`|
+|[WF Still Alive? Lol](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/691371-wf-alive-lol.html)|`2025-03-13 13:32:00`|`Warface`|
 |[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2025-03-13 13:29:00`|`Palia`|
 |[Steep Points Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/690873-steep-cheat.html)|`2025-03-13 13:08:00`|`Other Games`|
 |[7Shot&#45;v1&#46;0&#46;0 CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/690469-7shot-v1-0-0-cs2.html)|`2025-03-13 13:00:00`|`Counter-Strike 2 Releases`|
