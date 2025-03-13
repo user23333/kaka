@@ -24,9 +24,18 @@
 |15|[Cheat table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48956)|`2025-03-14 00:09:34`|
 |63|[Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48954)|`2025-03-14 00:09:34`|
 |1042|[PhasmoMenu v0&#46;5&#46;5 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48953)|`2025-03-14 00:09:34`|
+|1|[Spankerfield Source 10&#46;01&#46;2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48984)|`2025-03-14 00:35:01`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nexus External ESP V2 &#40;PyMeow&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/690093-nexus-external-esp-v2-pymeow.html)|`2025-03-14 00:27:00`|`Garry's Mod`|
+|[Full Anticheat Disabler &#40;You can play online&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687866-anticheat-disabler-play-online.html)|`2025-03-14 00:23:00`|`Marvel Rivals`|
+|[Instant Device ban &#40; possibly hwid? &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/691219-instant-device-ban-possibly-hwid.html)|`2025-03-14 00:20:00`|`Marvel Rivals`|
+|[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-03-14 00:17:00`|`Marvel Rivals`|
+|[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2025-03-14 00:17:00`|`Combat Arms`|
+|[Elite Dangerous Farming Credits for Billions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/691253-elite-dangerous-farming-credits-billions.html)|`2025-03-14 00:13:00`|`Elite: Dangerous`|
+|[Recent conference talk about SMM game cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/691377-recent-conference-talk-smm-game-cheats.html)|`2025-03-14 00:13:00`|`Anti-Cheat Bypass`|
+|[bypass 64bit 3&#46;7           //try on fake acc frist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/691088-bypass-64bit-3-7-try-fake-acc-frist.html)|`2025-03-14 00:10:00`|`PUBG Mobile`|
 |[Rust DMA Source, Feature Packed&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/689793-rust-dma-source-feature-packed.html)|`2025-03-14 00:09:00`|`Rust`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-03-14 00:08:00`|`Other FPS Games`|
 |[Intense EAC games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/691340-intense-eac-games.html)|`2025-03-14 00:04:00`|`Anti-Cheat Bypass`|
