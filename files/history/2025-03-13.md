@@ -30,6 +30,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Don't collect free car if you have enough money&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690011-dont-collect-free-car-money.html)|`2025-03-13 10:13:00`|`Grand Theft Auto V`|
+|[superBADinternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690904-superbadinternal.html)|`2025-03-13 10:11:00`|`Marvel Rivals`|
+|[Is Rewasd Safe now](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/689196-rewasd-safe.html)|`2025-03-13 10:04:00`|`Apex Legends`|
+|[BEST AIM DEVICE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/691358-aim-device.html)|`2025-03-13 09:30:00`|`Anti-Cheat Bypass`|
+|[Call of Duty: Modern Warfare II Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-ii/514893-call-duty-modern-warfare-ii-reversal-structs-offsets.html)|`2025-03-13 09:29:00`|`Call of Duty: Modern Warfare II`|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-03-13 09:25:00`|`Battlefield 4`|
+|[Wonder Weapons in zombies loadout](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/691323-wonder-weapons-zombies-loadout.html)|`2025-03-13 09:22:00`|`Call of Duty: Black Ops 6`|
 |[&#91;DMA&#93; Can't read the module with kernel anticheat open](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689928-dma-cant-read-module-kernel-anticheat.html)|`2025-03-13 08:35:00`|`Counter-Strike 2`|
 |[ETS2/TruckersMP &#45; no damage and speed limit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/681605-ets2-truckersmp-damage-speed-limit.html)|`2025-03-13 08:28:00`|`Other Games`|
 |[UD Injector/CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/686797-ud-injector-ce.html)|`2025-03-13 07:29:00`|`Marvel Rivals`|
