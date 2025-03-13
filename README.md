@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant insta headshot AIMBOT&#91;UNDETECTED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688675-valorant-insta-headshot-aimbot-undetected.html)|`2025-03-13 21:41:00`|`Valorant`|
+|[No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/675931-recoil.html)|`2025-03-13 21:27:00`|`Rainbow Six Siege`|
 |[GTAVTool for Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690546-gtavtool-enhanced.html)|`2025-03-13 21:32:00`|`Grand Theft Auto V`|
 |[Can I Bypass emulator detection on Gameloop?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690752-bypass-emulator-detection-gameloop.html)|`2025-03-13 21:27:00`|`PUBG Mobile`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-03-13 20:46:00`|`Other Games`|
