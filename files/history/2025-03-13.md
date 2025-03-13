@@ -13,6 +13,7 @@
 |12|[Theia/Vanguard encryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/690821-theia-vanguard-encryption.html)|`2025-03-13 00:00:05`|`anti-cheat-bypass`|
 |1|[ANY MONEY MOD MENU FOR GTA 5 ENCHANCED FREE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690237-money-mod-menu-gta-5-enchanced-free.html)|`2025-03-13 12:33:50`|`grand-theft-auto-v`|
 |10|[MAC Address Spoofer &#124; DRIVER AND SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/690384-mac-address-spoofer-driver-source.html)|`2025-03-13 13:30:47`|`anti-cheat-bypass`|
+|9|[Unlock more Chameleon/Wheel paints on Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690610-unlock-chameleon-wheel-paints-enhanced.html)|`2025-03-13 13:58:48`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
