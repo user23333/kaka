@@ -41,6 +41,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FragPunk Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691207-fragpunk-ban.html)|`2025-03-14 07:13:00`|`Other FPS Games`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-03-14 07:12:00`|`Other FPS Games`|
+|[TPM WPP Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/691447-tpm-wpp-hook.html)|`2025-03-14 07:11:00`|`Anti-Cheat Bypass`|
+|[FragPunk BootLoader Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691178-fragpunk-bootloader-patch.html)|`2025-03-14 07:11:00`|`Other FPS Games`|
+|[CS2 Packets question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691359-cs2-packets-question.html)|`2025-03-14 07:10:00`|`Counter-Strike 2`|
 |[Temp Spoofer Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/687943-temp-spoofer-methods.html)|`2025-03-14 06:50:00`|`Forum General`|
 |[The Headliners internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/686294-headliners-internal.html)|`2025-03-14 06:47:00`|`Other Games`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-03-14 06:46:00`|`Counter-Strike 2`|
