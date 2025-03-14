@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is Black ops 6/warzone hard unlock a thing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/691473-black-ops-6-warzone-hard-unlock.html)|`2025-03-15 01:31:00`|`Call of Duty: Black Ops 6`|
+|[DayZ Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/639749-dayz-dumper.html)|`2025-03-15 01:31:00`|`DayZ SA`|
+|[I want to be a UD val streamer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691524-ud-val-streamer.html)|`2025-03-15 01:30:00`|`Valorant`|
 |[bo3 nbot crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/672870-bo3-nbot-crash.html)|`2025-03-15 01:23:00`|`Call of Duty: Black Ops 3`|
 |[Cs2 External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685266-cs2-external.html)|`2025-03-15 01:22:00`|`Counter-Strike 2`|
 |[VAC Banned After 800&#43; Hours of Modding – What’s Going On?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/691395-vac-banned-800-hours-modding.html)|`2025-03-15 01:19:00`|`Call of Duty 6: Modern Warfare 2`|
