@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Team Fortress 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/102936-team-fortress-2-reversal-structs-offsets.html)|`2025-03-15 05:16:00`|`Team Fortress 2`|
 |[Assetto Corsa No Hesi traffic NoClip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/676049-assetto-corsa-hesi-traffic-noclip.html)|`2025-03-15 05:09:00`|`Other Games`|
 |[CS2 &#45; External SkinChanger Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688764-cs2-external-skinchanger-issue.html)|`2025-03-15 05:06:00`|`Counter-Strike 2`|
 |[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2025-03-15 05:05:00`|`Other MMORPG and Strategy`|
