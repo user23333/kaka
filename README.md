@@ -46,6 +46,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Casino Heist Bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691571-casino-heist-bug.html)|`2025-03-14 17:23:00`|`Grand Theft Auto V`|
+|[How to send RMI Packet?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/691569-send-rmi-packet.html)|`2025-03-14 17:12:00`|`Warface`|
 |[Mw2019 cheat for version 1&#46;20](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/690850-mw2019-cheat-version-1-20-a.html)|`2025-03-14 16:58:00`|`Call of Duty: Modern Warfare`|
 |[Valorant insta headshot AIMBOT&#91;UNDETECTED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688675-valorant-insta-headshot-aimbot-undetected.html)|`2025-03-14 16:57:00`|`Valorant`|
 |[Requesting Control](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/691568-requesting-control.html)|`2025-03-14 16:53:00`|`Alternative Online Mods`|
