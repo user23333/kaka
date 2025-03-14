@@ -46,6 +46,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[crosshair x](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/633048-crosshair.html)|`2025-03-14 22:17:00`|`Sea of Thieves`|
+|[Ox inventory dupe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/690875-ox-inventory-dupe.html)|`2025-03-14 22:11:00`|`Alternative Online Mods`|
+|[Altv Internal Cheat &#124; Venine Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/687699-altv-internal-cheat-venine-internal.html)|`2025-03-14 22:11:00`|`Alternative Online Mods`|
 |[UCAimColor Arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691080-ucaimcolor-arduino.html)|`2025-03-14 21:41:00`|`Valorant`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-03-14 21:20:00`|`Grand Theft Auto V`|
 |[ANEURISM IV &#45; Steam game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691595-aneurism-iv-steam-game.html)|`2025-03-14 21:20:00`|`Other Games`|
