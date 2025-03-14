@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[LSCHaX for 1&#46;70 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/224075-lschax-1-70-external.html)|`2025-03-15 01:37:00`|`Grand Theft Auto V`|
+|[What is your favorite religion?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/690066-favorite-religion.html)|`2025-03-15 01:37:00`|`Off Topic`|
+|[CUserCmd Struct](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691631-cusercmd-struct.html)|`2025-03-15 01:32:00`|`Counter-Strike 2`|
 |[Is Black ops 6/warzone hard unlock a thing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/691473-black-ops-6-warzone-hard-unlock.html)|`2025-03-15 01:31:00`|`Call of Duty: Black Ops 6`|
 |[DayZ Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/639749-dayz-dumper.html)|`2025-03-15 01:31:00`|`DayZ SA`|
 |[I want to be a UD val streamer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691524-ud-val-streamer.html)|`2025-03-15 01:30:00`|`Valorant`|
