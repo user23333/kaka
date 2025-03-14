@@ -46,6 +46,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I wanna make my own mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/691609-wanna-own-mapper.html)|`2025-03-14 23:11:00`|`Anti-Cheat Bypass`|
+|[R6 Xbox refund method still works?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/691191-r6-xbox-refund-method.html)|`2025-03-14 23:02:00`|`Rainbow Six Siege`|
+|[no recoil tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/683188-recoil-tool.html)|`2025-03-14 23:01:00`|`Rainbow Six Siege`|
+|[Renown Farm/XP Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/690592-renown-farm-xp-bot.html)|`2025-03-14 22:58:00`|`Rainbow Six Siege`|
 |[widgets ue4 menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691605-widgets-ue4-menu.html)|`2025-03-14 22:50:00`|`Valorant`|
 |[CS2 make a visibility check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691522-cs2-visibility-check.html)|`2025-03-14 22:47:00`|`Counter-Strike 2`|
 |[What hack to get for APB?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/689651-hack-apb.html)|`2025-03-14 22:45:00`|`All Points Bulletin`|
