@@ -38,9 +38,13 @@
 |5|[FragPunk AimColor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48994)|`2025-03-14 06:26:36`|
 |3|[Spankerfield 13&#46;03&#46;2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48983)|`2025-03-14 06:26:36`|
 |1|[TheHeadliners&#45;internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48989)|`2025-03-14 06:49:12`|
+|12|[superBADinternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=48998)|`2025-03-14 08:52:57`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-03-14 08:39:00`|`Other MMORPG and Strategy`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-03-14 08:12:00`|`Valorant`|
+|[EOS EAC checks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/691453-eos-eac-checks.html)|`2025-03-14 08:08:00`|`Anti-Cheat Bypass`|
 |[&#91;DMA&#93; Can't read the module with kernel anticheat open](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689928-dma-cant-read-module-kernel-anticheat.html)|`2025-03-14 07:55:00`|`Counter-Strike 2`|
 |[Does Server DLL exists ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/691513-server-dll-exists.html)|`2025-03-14 07:51:00`|`Escape from Tarkov`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-03-14 07:32:00`|`Playerunknown's Battlegrounds`|
