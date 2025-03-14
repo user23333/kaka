@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[qaf's introduction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/691324-qafs-introduction.html)|`2025-03-15 07:35:00`|`Forum General`|
+|[My intro HAIIIII&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/691368-intro-haiiiii.html)|`2025-03-15 07:34:00`|`Forum General`|
+|[replaceExecutable Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/689883-replaceexecutable-bypass.html)|`2025-03-15 07:32:00`|`Alternative Online Mods`|
 |[new here](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/691378-new-here.html)|`2025-03-15 07:26:00`|`Forum General`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-03-15 07:08:00`|`Valorant`|
 |[BEST AIM DEVICE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/691358-aim-device.html)|`2025-03-15 07:01:00`|`Anti-Cheat Bypass`|
