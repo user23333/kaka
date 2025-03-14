@@ -44,6 +44,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2025-03-14 14:06:00`|`Other MMORPG and Strategy`|
+|[I accidentally added 100 Scarred Pig Mask on my account&#46; How to remove them all?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/691115-accidentally-added-100-scarred-pig-mask-account-remove.html)|`2025-03-14 14:05:00`|`Payday 3`|
+|[How to work with the CN server?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/691540-cn-server.html)|`2025-03-14 14:04:00`|`League of Legends`|
 |[WF Still Alive? Lol](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/691371-wf-alive-lol.html)|`2025-03-14 13:14:00`|`Warface`|
 |[Beta Stardew Valley Cheat by Shesh653](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691537-beta-stardew-valley-cheat-shesh653.html)|`2025-03-14 13:13:00`|`Other Games`|
 |[decrypt search/help for beginners](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/691062-decrypt-search-help-beginners.html)|`2025-03-14 12:09:00`|`Rust`|
