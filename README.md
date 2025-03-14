@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-03-15 03:02:00`|`Rainbow Six Siege`|
+|[Raft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/570450-raft.html)|`2025-03-15 03:02:00`|`Unity`|
+|[KO x64 exe bypass and finding pointers assistance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/691408-ko-x64-exe-bypass-finding-pointers-assistance.html)|`2025-03-15 02:59:00`|`Anti-Cheat Bypass`|
+|[GTAVTool for Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690546-gtavtool-enhanced.html)|`2025-03-15 02:59:00`|`Grand Theft Auto V`|
+|[Wuthering Waves v1&#46;1 hellokittyfan48 WW&#45;enhancer &#40;Multihit, Dumb enemies, ESP, Fly&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/645722-wuthering-waves-v1-1-hellokittyfan48-ww-enhancer-multihit-dumb-enemies-esp-fly.html)|`2025-03-15 02:58:00`|`Other MMORPG and Strategy`|
 |[smoke remove](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691641-smoke-remove.html)|`2025-03-15 02:50:00`|`Counter-Strike 2`|
 |[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2025-03-15 02:31:00`|`Garry's Mod`|
 |[GTA5&#95;Enchanced Basic DMA Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689945-gta5_enchanced-basic-dma-tool.html)|`2025-03-15 02:28:00`|`Grand Theft Auto V`|
