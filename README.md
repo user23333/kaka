@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[smoke remove](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691641-smoke-remove.html)|`2025-03-15 02:50:00`|`Counter-Strike 2`|
 |[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2025-03-15 02:31:00`|`Garry's Mod`|
 |[GTA5&#95;Enchanced Basic DMA Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689945-gta5_enchanced-basic-dma-tool.html)|`2025-03-15 02:28:00`|`Grand Theft Auto V`|
 |[BGMI 3&#46;7 32&#45;bit SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/691406-bgmi-3-7-32-bit-sdk.html)|`2025-03-15 02:23:00`|`PUBG Mobile`|
