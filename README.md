@@ -46,6 +46,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can't call OpenProcess](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/690040-cant-call-openprocess.html)|`2025-03-14 23:49:00`|`Programming for Beginners`|
 |[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2025-03-14 23:44:00`|`Other Games`|
 |[What programming language should I pick up? &#91;ik it has been asked before&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/684290-programming-language-pick-ik.html)|`2025-03-14 23:37:00`|`Forum General`|
 |[GLOBAL 3&#46;7 SDK & OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690238-global-3-7-sdk-offsets.html)|`2025-03-14 23:32:00`|`PUBG Mobile`|
