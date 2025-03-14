@@ -31,6 +31,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2025-03-15 03:19:00`|`Valorant`|
+|[Recent conference talk about SMM game cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/691377-recent-conference-talk-smm-game-cheats.html)|`2025-03-15 03:18:00`|`Anti-Cheat Bypass`|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-03-15 03:15:00`|`Other Games`|
+|[Beginner Roadmap Projects](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/691648-beginner-roadmap-projects.html)|`2025-03-15 03:10:00`|`Forum General`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-03-15 03:10:00`|`Phasmophobia`|
+|[UD Injector/CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/686797-ud-injector-ce.html)|`2025-03-15 03:10:00`|`Marvel Rivals`|
+|[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-03-15 03:08:00`|`Grand Theft Auto V`|
 |[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-03-15 03:02:00`|`Rainbow Six Siege`|
 |[Raft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/570450-raft.html)|`2025-03-15 03:02:00`|`Unity`|
 |[KO x64 exe bypass and finding pointers assistance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/691408-ko-x64-exe-bypass-finding-pointers-assistance.html)|`2025-03-15 02:59:00`|`Anti-Cheat Bypass`|
