@@ -46,6 +46,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What hack to get for APB?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/689651-hack-apb.html)|`2025-03-14 22:45:00`|`All Points Bulletin`|
 |[Show everything on mini&#45;map](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/691187-mini-map.html)|`2025-03-14 22:36:00`|`HELLDIVERS 2`|
 |[crosshair x](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/633048-crosshair.html)|`2025-03-14 22:17:00`|`Sea of Thieves`|
 |[Ox inventory dupe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/690875-ox-inventory-dupe.html)|`2025-03-14 22:11:00`|`Alternative Online Mods`|
