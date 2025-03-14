@@ -46,6 +46,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What programming language should I pick up? &#91;ik it has been asked before&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/684290-programming-language-pick-ik.html)|`2025-03-14 23:37:00`|`Forum General`|
+|[GLOBAL 3&#46;7 SDK & OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/690238-global-3-7-sdk-offsets.html)|`2025-03-14 23:32:00`|`PUBG Mobile`|
+|[Bloodstrike Cheat / Source?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682536-bloodstrike-cheat-source.html)|`2025-03-14 23:29:00`|`Other FPS Games`|
 |[Dark and Darker Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690457-dark-darker-internal.html)|`2025-03-14 23:23:00`|`Other FPS Games`|
 |[I wanna make my own mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/691609-wanna-own-mapper.html)|`2025-03-14 23:11:00`|`Anti-Cheat Bypass`|
 |[R6 Xbox refund method still works?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/691191-r6-xbox-refund-method.html)|`2025-03-14 23:02:00`|`Rainbow Six Siege`|
