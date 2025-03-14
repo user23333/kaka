@@ -46,6 +46,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[widgets ue4 menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691605-widgets-ue4-menu.html)|`2025-03-14 22:50:00`|`Valorant`|
+|[CS2 make a visibility check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691522-cs2-visibility-check.html)|`2025-03-14 22:47:00`|`Counter-Strike 2`|
 |[What hack to get for APB?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/689651-hack-apb.html)|`2025-03-14 22:45:00`|`All Points Bulletin`|
 |[Show everything on mini&#45;map](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/691187-mini-map.html)|`2025-03-14 22:36:00`|`HELLDIVERS 2`|
 |[crosshair x](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/633048-crosshair.html)|`2025-03-14 22:17:00`|`Sea of Thieves`|
