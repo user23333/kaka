@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How can I create a Signature?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/691627-create-signature.html)|`2025-03-15 01:08:00`|`General Programming and Reversing`|
+|[FragPunk Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691207-fragpunk-ban.html)|`2025-03-15 01:02:00`|`Other FPS Games`|
+|[Handle HiJack Finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/691361-handle-hijack-finder.html)|`2025-03-15 01:00:00`|`C and C++`|
+|[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2025-03-15 01:00:00`|`Other FPS Games`|
 |[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-03-15 00:51:00`|`Marvel Rivals`|
 |[R&#46;E&#46;P&#46;O&#46; Simple Cheat // Credit D4rkks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690879-simple-cheat-credit-d4rkks.html)|`2025-03-15 00:51:00`|`Other FPS Games`|
 |[Looking for Spoofer for MSI B450M Gaming Plus](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691241-looking-spoofer-msi-b450m-gaming-plus.html)|`2025-03-15 00:48:00`|`Valorant`|
