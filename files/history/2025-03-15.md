@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Frameware Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/677239-frameware-release.html)|`2025-03-15 18:08:00`|`Overwatch`|
+|[All Mouse NoRecoil &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-recoil-helpy-auto-config-probably-ud-universal.html)|`2025-03-15 17:57:00`|`Rainbow Six Siege`|
 |[GTA V solo public session](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691753-gta-solo-public-session.html)|`2025-03-15 17:49:00`|`Grand Theft Auto V`|
 |[Bulldog CS2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/691601-bulldog-cs2-internal.html)|`2025-03-15 17:30:00`|`Counter-Strike 2 Releases`|
 |[Clarification about DMA "firmwares"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/691751-clarification-dma-firmwares.html)|`2025-03-15 17:20:00`|`Anti-Cheat Bypass`|
