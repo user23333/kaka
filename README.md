@@ -40,6 +40,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SOURCE &#124; External Aimbot w/ Dynamic Hitbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/682229-source-external-aimbot-dynamic-hitbox.html)|`2025-03-15 23:18:00`|`Counter-Strike 2 Releases`|
+|[looking for god mode i can use online for these missions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691796-looking-god-mode-online-missions.html)|`2025-03-15 23:15:00`|`Grand Theft Auto V`|
+|[The Truth Bar Menu &#45; V0&#46;1 &#124; Liar's bar internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667906-truth-bar-menu-v0-1-liars-bar-internal-cheat.html)|`2025-03-15 23:10:00`|`Other Games`|
+|[Asseto Corsa / No Hesi Mod Menu Hacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691719-asseto-corsa-hesi-mod-menu-hacks.html)|`2025-03-15 23:10:00`|`Other Games`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-03-15 22:50:00`|`Other FPS Games`|
 |[R6DumpCleaner: A tool to simplify the junk code of Y10](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/691469-r6dumpcleaner-tool-simplify-junk-code-y10.html)|`2025-03-15 22:48:00`|`Rainbow Six Siege`|
 |[Can plugin&#46;dll on client side disable ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/687142-plugin-dll-client-disable.html)|`2025-03-15 22:37:00`|`General Programming and Reversing`|
