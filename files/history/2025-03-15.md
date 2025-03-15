@@ -40,6 +40,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can plugin&#46;dll on client side disable ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/687142-plugin-dll-client-disable.html)|`2025-03-15 22:37:00`|`General Programming and Reversing`|
+|[How to Attach object &#40;prop&#41; to ped External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/691759-attach-object-prop-ped-external.html)|`2025-03-15 22:35:00`|`Alternative Online Mods`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/183111-menu-showcase-thread.html)|`2025-03-15 22:28:00`|`Counterstrike Global Offensive`|
 |[&#91;DMA&#93; Can't read the module with kernel anticheat open](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689928-dma-cant-read-module-kernel-anticheat.html)|`2025-03-15 22:20:00`|`Counter-Strike 2`|
 |[Pro CS2 DMA by Enoo &#45; Win11&#95;24H2 26100&#46;3323](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690475-pro-cs2-dma-enoo-win11_24h2-26100-3323-a.html)|`2025-03-15 22:17:00`|`Counter-Strike 2`|
 |[Whys my dma cheat no longer working on ESPORTAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688572-whys-dma-cheat-esportal.html)|`2025-03-15 22:15:00`|`Counter-Strike 2`|
