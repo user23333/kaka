@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vanguard Spoofer Rev 2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612562-vanguard-spoofer-rev-2-a.html)|`2025-03-16 00:40:00`|`Valorant`|
+|[what kind of communication will be good?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/691542-communication.html)|`2025-03-16 00:39:00`|`Anti-Cheat Bypass`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-03-16 00:39:00`|`Rust`|
+|[Bloons TD 6 Save File Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691794-bloons-td-6-save-file-editor.html)|`2025-03-16 00:38:00`|`Other Games`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-03-16 00:38:00`|`Other FPS Games`|
+|[Pro CS2 DMA by Enoo &#45; Win11&#95;24H2 26100&#46;3323](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690475-pro-cs2-dma-enoo-win11_24h2-26100-3323-a.html)|`2025-03-16 00:37:00`|`Counter-Strike 2`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-03-16 00:35:00`|`Other FPS Games`|
+|[Inversia x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/689644-inversia-x64.html)|`2025-03-16 00:34:00`|`Team Fortress 2`|
+|[Update offset of this please ^^](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/691807-update-offset-please.html)|`2025-03-16 00:34:00`|`Alternative Online Mods`|
 |[World of Tanks Blitz & DAVA Game Engine structure and hints needed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/689828-world-tanks-blitz-dava-game-engine-structure-hints.html)|`2025-03-16 00:31:00`|`Other MMORPG and Strategy`|
 |[Looking for a Cheat Engine CT file with God Mode &#43; Teleport for GTA V Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691213-looking-cheat-engine-ct-file-god-mode-teleport-gta-enhanced.html)|`2025-03-16 00:22:00`|`Grand Theft Auto V`|
 |[&#91;DMA&#93; Can't read the module with kernel anticheat open](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689928-dma-cant-read-module-kernel-anticheat.html)|`2025-03-16 00:20:00`|`Counter-Strike 2`|
