@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I accidentally added 100 Scarred Pig Mask on my account&#46; How to remove them all?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/691115-accidentally-added-100-scarred-pig-mask-account-remove.html)|`2025-03-15 11:11:00`|`Payday 3`|
+|[Problems with using key simulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/691492-using-key-simulation.html)|`2025-03-15 10:58:00`|`League of Legends`|
 |[Welcoming back familiar faces and more additions to the staff team&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/691282-welcoming-familiar-additions-staff-team.html)|`2025-03-15 11:00:00`|`Information and Announcements`|
 |[C&#43;&#43; Color Triggerbot New Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691387-color-triggerbot-undetected.html)|`2025-03-15 10:57:00`|`Valorant`|
 |[FiveM Simple External base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/645500-fivem-simple-external-base.html)|`2025-03-15 10:52:00`|`Alternative Online Mods`|
