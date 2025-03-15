@@ -28,6 +28,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[A Simple Alkad Rust Cheat v2582 &#43; EAC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/691581-simple-alkad-rust-cheat-v2582-eac-bypass.html)|`2025-03-16 04:13:00`|`Rust`|
+|[LYL Launcher bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/691840-lyl-launcher-bypass.html)|`2025-03-16 04:12:00`|`ARMA 3`|
+|[superBADinternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690904-superbadinternal.html)|`2025-03-16 04:12:00`|`Marvel Rivals`|
+|[Solo Leveling: Arise hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/691839-solo-leveling-arise-hack.html)|`2025-03-16 04:11:00`|`Other MMORPG and Strategy`|
+|[Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/690830-skin-changer.html)|`2025-03-16 04:11:00`|`Apex Legends`|
+|[Solo Leveling: Arise 1&#46;0&#46;24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/632972-solo-leveling-arise-1-0-24-a.html)|`2025-03-16 04:09:00`|`Other MMORPG and Strategy`|
+|[case 10 in UE4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/691836-10-ue4.html)|`2025-03-16 04:09:00`|`PUBG Mobile`|
+|[Solo Leveling Arise 1&#46;1&#46;16 &#40;Must have features&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/639981-solo-leveling-arise-1-1-16-features.html)|`2025-03-16 04:08:00`|`Other MMORPG and Strategy`|
+|[Welcoming back familiar faces and more additions to the staff team&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/691282-welcoming-familiar-additions-staff-team.html)|`2025-03-16 04:06:00`|`Information and Announcements`|
+|[calling in game functions causes fps drop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691835-calling-game-functions-causes-fps-drop.html)|`2025-03-16 04:04:00`|`Valorant`|
 |[FragPunk Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691832-fragpunk-dump.html)|`2025-03-16 03:52:00`|`Other FPS Games`|
 |[Migrating to GTA 5 Enhanced blocked due to modding&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691768-migrating-gta-5-enhanced-blocked-due-modding.html)|`2025-03-16 03:44:00`|`Grand Theft Auto V`|
 |[Recent conference talk about SMM game cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/691377-recent-conference-talk-smm-game-cheats.html)|`2025-03-16 03:34:00`|`Anti-Cheat Bypass`|
