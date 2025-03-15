@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[World of Tanks Blitz & DAVA Game Engine structure and hints needed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/689828-world-tanks-blitz-dava-game-engine-structure-hints.html)|`2025-03-16 00:31:00`|`Other MMORPG and Strategy`|
+|[Looking for a Cheat Engine CT file with God Mode &#43; Teleport for GTA V Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691213-looking-cheat-engine-ct-file-god-mode-teleport-gta-enhanced.html)|`2025-03-16 00:22:00`|`Grand Theft Auto V`|
+|[&#91;DMA&#93; Can't read the module with kernel anticheat open](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689928-dma-cant-read-module-kernel-anticheat.html)|`2025-03-16 00:20:00`|`Counter-Strike 2`|
+|[SEOwned x64 fixed for new tf2 update&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/691125-seowned-x64-fixed-tf2-update.html)|`2025-03-16 00:19:00`|`Team Fortress 2`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-03-16 00:18:00`|`Grand Theft Auto V`|
+|[another way of getting de&#45;/encryptions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/691801-getting-de-encryptions.html)|`2025-03-16 00:14:00`|`Rust`|
+|[Altv Internal Cheat &#124; Venine Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/687699-altv-internal-cheat-venine-internal.html)|`2025-03-16 00:13:00`|`Alternative Online Mods`|
 |[Wicked Menu / Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/487033-wicked-menu-cheat-engine.html)|`2025-03-16 00:10:00`|`Grand Theft Auto V`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-03-16 00:08:00`|`Counter-Strike 2`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-03-16 00:07:00`|`Counter-Strike 2`|
