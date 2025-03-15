@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-03-16 01:19:00`|`Rainbow Six Siege`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-03-16 01:19:00`|`ARMA 3`|
 |[CS2 make a visibility check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691522-cs2-visibility-check.html)|`2025-03-16 01:04:00`|`Counter-Strike 2`|
 |[FragPunk BootLoader Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691178-fragpunk-bootloader-patch.html)|`2025-03-16 00:58:00`|`Other FPS Games`|
 |[GMOD build 2024&#46;12&#46;09 offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/690390-gmod-build-2024-12-09-offsets.html)|`2025-03-16 00:57:00`|`Garry's Mod`|
