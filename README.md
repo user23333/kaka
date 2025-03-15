@@ -40,6 +40,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;DMA&#93; Can't read the module with kernel anticheat open](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689928-dma-cant-read-module-kernel-anticheat.html)|`2025-03-15 22:20:00`|`Counter-Strike 2`|
+|[Pro CS2 DMA by Enoo &#45; Win11&#95;24H2 26100&#46;3323](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690475-pro-cs2-dma-enoo-win11_24h2-26100-3323-a.html)|`2025-03-15 22:17:00`|`Counter-Strike 2`|
+|[Whys my dma cheat no longer working on ESPORTAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688572-whys-dma-cheat-esportal.html)|`2025-03-15 22:15:00`|`Counter-Strike 2`|
+|[Device ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/691786-device-ban.html)|`2025-03-15 22:14:00`|`Marvel Rivals`|
+|[Is it possible to draw ESP behind the crosshair?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691452-draw-esp-crosshair.html)|`2025-03-15 22:14:00`|`Counter-Strike 2`|
 |[what kind of communication will be good?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/691542-communication.html)|`2025-03-15 21:58:00`|`Anti-Cheat Bypass`|
 |[Can't dump with ACE version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/682596-cant-dump-ace-version.html)|`2025-03-15 21:30:00`|`League of Legends`|
 |[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2025-03-15 21:27:00`|`Other FPS Games`|
