@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-03-15 16:48:00`|`Other FPS Games`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-03-15 16:02:00`|`Counter-Strike 2`|
 |[CS2 UserCmd struct and CCSGOInput class](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690260-cs2-usercmd-struct-ccsgoinput-class.html)|`2025-03-15 15:57:00`|`Counter-Strike 2`|
 |[Automatically connect to a server with a lua script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/690371-automatically-connect-server-lua-script.html)|`2025-03-15 15:51:00`|`Garry's Mod`|
