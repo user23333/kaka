@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-03-16 07:03:00`|`Apex Legends`|
 |[Chivalry 2 Heaveyweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689993-chivalry-2-heaveyweight-cheat.html)|`2025-03-16 06:24:00`|`Other Games`|
 |[Bodycam Internal Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691853-bodycam-internal-updated.html)|`2025-03-16 06:22:00`|`Other FPS Games`|
 |[Intro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/691825-intro.html)|`2025-03-16 06:20:00`|`Forum General`|
