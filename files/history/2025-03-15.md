@@ -40,6 +40,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does EFT use HWID bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/691758-eft-hwid-bans.html)|`2025-03-15 20:56:00`|`Escape from Tarkov`|
+|[Theia/Vanguard encryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/690821-theia-vanguard-encryption.html)|`2025-03-15 20:51:00`|`Anti-Cheat Bypass`|
+|[preinit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/690005-preinit.html)|`2025-03-15 20:33:00`|`Garry's Mod`|
+|[Dead game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/691074-dead-game.html)|`2025-03-15 20:32:00`|`HELLDIVERS 2`|
 |[Gameloop 32 Bit Crash fix &#40;Soultion &#41; Pubg ALL versions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/691762-gameloop-32-bit-crash-fix-soultion-pubg-versions.html)|`2025-03-15 20:27:00`|`PUBG Mobile`|
 |[FragPunk Guide Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691756-fragpunk-guide-spoofer.html)|`2025-03-15 19:02:00`|`Other FPS Games`|
 |[Need Fragpunk Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691483-fragpunk-source.html)|`2025-03-15 19:02:00`|`Other FPS Games`|
