@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R&#46;E&#46;P&#46;O&#46; Simple Cheat // Credit D4rkks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690879-simple-cheat-credit-d4rkks.html)|`2025-03-16 07:45:00`|`Other FPS Games`|
 |[HWho &#45; a slightly more fun bsg launcher hwid check bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/494040-hwho-slightly-fun-bsg-launcher-hwid-check-bypass.html)|`2025-03-16 07:38:00`|`Escape from Tarkov`|
 |[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2025-03-16 07:38:00`|`Other FPS Games`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-03-16 07:36:00`|`Escape from Tarkov`|
