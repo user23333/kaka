@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[macro detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/691829-macro-detected.html)|`2025-03-16 03:32:00`|`Rainbow Six Siege`|
+|[&#46;Bat files banable?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/691795-bat-files-banable.html)|`2025-03-16 03:28:00`|`Battlefield V`|
 |[decrypt search/help for beginners](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/691062-decrypt-search-help-beginners.html)|`2025-03-16 03:24:00`|`Rust`|
 |[HVCI Bypass Kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690970-hvci-bypass-kernel.html)|`2025-03-16 03:22:00`|`Valorant`|
 |[widgets ue4 menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691605-widgets-ue4-menu.html)|`2025-03-16 03:20:00`|`Valorant`|
