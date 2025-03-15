@@ -25,9 +25,12 @@
 |124|[cs2 external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49011)|`2025-03-16 00:12:38`|
 |35|[Apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49007)|`2025-03-16 00:12:38`|
 |2|[CheatersCheetah SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49025)|`2025-03-16 02:34:25`|
+|1|[bloons&#45;td6&#45;save&#45;editor&#45;source&#45;code&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49023)|`2025-03-16 04:27:50`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-03-16 04:24:00`|`Apex Legends`|
+|[Fixing static TLS Windows 11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/690580-fixing-static-tls-windows-11-a.html)|`2025-03-16 04:17:00`|`General Programming and Reversing`|
 |[A Simple Alkad Rust Cheat v2582 &#43; EAC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/691581-simple-alkad-rust-cheat-v2582-eac-bypass.html)|`2025-03-16 04:13:00`|`Rust`|
 |[LYL Launcher bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/691840-lyl-launcher-bypass.html)|`2025-03-16 04:12:00`|`ARMA 3`|
 |[superBADinternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690904-superbadinternal.html)|`2025-03-16 04:12:00`|`Marvel Rivals`|
