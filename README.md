@@ -40,6 +40,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[what kind of communication will be good?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/691542-communication.html)|`2025-03-15 21:58:00`|`Anti-Cheat Bypass`|
 |[Can't dump with ACE version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/682596-cant-dump-ace-version.html)|`2025-03-15 21:30:00`|`League of Legends`|
 |[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2025-03-15 21:27:00`|`Other FPS Games`|
 |[How to work with the CN server?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/691540-cn-server.html)|`2025-03-15 21:27:00`|`League of Legends`|
