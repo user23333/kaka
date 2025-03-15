@@ -31,9 +31,18 @@
 |1|[Apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49007)|`2025-03-15 04:17:27`|
 |2|[Apex1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49006)|`2025-03-15 04:17:27`|
 |4|[PhasmoMenu v0&#46;5&#46;5&#46;2 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49016)|`2025-03-15 07:26:53`|
+|6|[Modified&#45;GamerFun&#45;Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49020)|`2025-03-15 09:23:07`|
+|2|[Dark And Darker Internal 80&#45;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49018)|`2025-03-15 09:23:07`|
+|1|[Cheat table UPDATE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49017)|`2025-03-15 09:23:07`|
+|8|[GTA5&#95;DMA&#95;v2&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49014)|`2025-03-15 09:23:07`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Triggerbot Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691573-valorant-triggerbot-method.html)|`2025-03-15 09:15:00`|`Valorant`|
+|[A thread that shares rigel's config file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/633484-thread-shares-rigels-config-file.html)|`2025-03-15 09:09:00`|`Overwatch`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-03-15 09:08:00`|`Other MMORPG and Strategy`|
+|[decrypt search/help for beginners](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/691062-decrypt-search-help-beginners.html)|`2025-03-15 08:55:00`|`Rust`|
+|[cs 1&#46;6 offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/691710-cs-1-6-offsets.html)|`2025-03-15 08:43:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[qaf's introduction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/691324-qafs-introduction.html)|`2025-03-15 07:35:00`|`Forum General`|
 |[My intro HAIIIII&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/691368-intro-haiiiii.html)|`2025-03-15 07:34:00`|`Forum General`|
 |[replaceExecutable Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/689883-replaceexecutable-bypass.html)|`2025-03-15 07:32:00`|`Alternative Online Mods`|
