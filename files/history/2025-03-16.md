@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do server admins keep tracking my alts?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/395092-server-admins-tracking-alts.html)|`2025-03-16 11:02:00`|`Rust`|
+|[Eac Banned on a previous account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/684431-eac-banned-previous-account.html)|`2025-03-16 11:00:00`|`Rust`|
+|[Rust Ban Evasion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/683408-rust-ban-evasion.html)|`2025-03-16 10:58:00`|`Rust`|
+|[Need help with ip spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/690822-help-ip-spoofing.html)|`2025-03-16 10:50:00`|`Rust`|
+|[ZH 1&#46;05 Maphack/Stealth/Radar Source code included&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/691884-zh-1-05-maphack-stealth-radar-source-code-included.html)|`2025-03-16 10:44:00`|`Generals and Zero Hour`|
+|[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2025-03-16 10:43:00`|`Tom Clancy's The Division`|
 |[Does EFT use HWID bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/691758-eft-hwid-bans.html)|`2025-03-16 10:24:00`|`Escape from Tarkov`|
 |[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2025-03-16 10:15:00`|`Other Games`|
 |[Bulldog CS2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/691601-bulldog-cs2-internal.html)|`2025-03-16 10:14:00`|`Counter-Strike 2 Releases`|
