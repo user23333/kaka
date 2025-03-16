@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New additions to the staff team&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/690366-additions-staff-team.html)|`2025-03-17 07:48:00`|`Information and Announcements`|
 |[Gunbound Mobile Steam &#45; No Anti Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/gunbound/692060-gunbound-mobile-steam-anti-cheat.html)|`2025-03-17 07:43:00`|`Gunbound`|
 |[Did they patched 2boxing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/692058-patched-2boxing.html)|`2025-03-17 07:43:00`|`Call of Duty: Black Ops 6`|
 |[How to unlock ONE thing in GTAO Legacy?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692001-unlock-gtao-legacy.html)|`2025-03-17 07:36:00`|`Grand Theft Auto V`|
