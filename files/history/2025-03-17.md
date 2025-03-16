@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chivalry 2 Heaveyweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689993-chivalry-2-heaveyweight-cheat.html)|`2025-03-17 04:49:00`|`Other Games`|
 |[Creating a container to trick UE4 and EAC that game is running on Linux?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/692035-creating-container-trick-ue4-eac-game-running-linux.html)|`2025-03-17 04:33:00`|`Anti-Cheat Bypass`|
 |[Overlaping chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692025-overlaping-chams.html)|`2025-03-17 04:21:00`|`Counter-Strike 2`|
 |[Bypass SSL Pinning for Pokemon TCG Pocket](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/682904-bypass-ssl-pinning-pokemon-tcg-pocket.html)|`2025-03-17 04:18:00`|`Android`|
