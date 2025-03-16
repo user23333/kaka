@@ -37,6 +37,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BGMI: Grenade and Death Crate Visibility issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/691634-bgmi-grenade-death-crate-visibility-issue.html)|`2025-03-16 21:54:00`|`PUBG Mobile`|
+|[Free ESP only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/691831-free-esp.html)|`2025-03-16 21:53:00`|`All Points Bulletin`|
+|[How would I Read the game state?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691939-read-game.html)|`2025-03-16 21:50:00`|`Counter-Strike 2`|
 |[AC Blocker RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/691938-ac-blocker-release.html)|`2025-03-16 21:50:00`|`Call of Duty: Black Ops 6`|
 |[Pay It Forward &#45; How I got UDCE to work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690892-pay-forward-udce.html)|`2025-03-16 21:49:00`|`Marvel Rivals`|
 |[what free emulator bypasses are available now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/691936-free-emulator-bypasses-available.html)|`2025-03-16 21:46:00`|`PUBG Mobile`|
