@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does EFT use HWID bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/691758-eft-hwid-bans.html)|`2025-03-16 10:24:00`|`Escape from Tarkov`|
+|[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2025-03-16 10:15:00`|`Other Games`|
+|[Bulldog CS2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/691601-bulldog-cs2-internal.html)|`2025-03-16 10:14:00`|`Counter-Strike 2 Releases`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-03-16 10:06:00`|`Marvel Rivals`|
+|[BO2Z Toolbox 2&#46;4 &#40;plutonium&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/418713-bo2z-toolbox-2-4-plutonium.html)|`2025-03-16 09:57:00`|`Call of Duty: Black Ops 2`|
 |[Off Screen Arrows Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691867-screen-arrows-help.html)|`2025-03-16 08:57:00`|`Counter-Strike 2`|
 |[Automatic weapons makes me fire 1000s of bullets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691868-automatic-weapons-makes-fire-1000s-bullets.html)|`2025-03-16 08:53:00`|`Counter-Strike 2`|
 |[Still getting this error after Spoofing MAC and Public IP, also cleaned reg keys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/691864-getting-error-spoofing-mac-public-ip-cleaned-reg-keys.html)|`2025-03-16 08:42:00`|`Marvel Rivals`|
