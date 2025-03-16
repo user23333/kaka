@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to get pap camos on wz/mp weapons?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/691924-pap-camos-wz-mp-weapons.html)|`2025-03-16 20:41:00`|`Call of Duty: Black Ops 6`|
+|[Understanding the aimPunchCache](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691923-understanding-aimpunchcache.html)|`2025-03-16 20:18:00`|`Counter-Strike 2`|
 |[process event](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691921-process-event.html)|`2025-03-16 19:51:00`|`Valorant`|
 |[Instant Device ban &#40; possibly hwid? &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/691219-instant-device-ban-possibly-hwid.html)|`2025-03-16 19:19:00`|`Marvel Rivals`|
 |[Chivalry 2 Simple Lightweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/681745-chivalry-2-simple-lightweight-cheat.html)|`2025-03-16 19:16:00`|`Other Games`|
