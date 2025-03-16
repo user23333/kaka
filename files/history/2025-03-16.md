@@ -33,9 +33,13 @@
 |1|[internal marvel rivals 2&#46;6&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49027)|`2025-03-16 18:58:36`|
 |2|[Bodycam Internal Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49028)|`2025-03-16 19:12:57`|
 |1|[Swapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49030)|`2025-03-16 21:39:05`|
+|1|[CNCTrainer ZH 1&#46;05](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49034)|`2025-03-16 21:50:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AC Blocker RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/691938-ac-blocker-release.html)|`2025-03-16 21:50:00`|`Call of Duty: Black Ops 6`|
+|[Pay It Forward &#45; How I got UDCE to work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690892-pay-forward-udce.html)|`2025-03-16 21:49:00`|`Marvel Rivals`|
+|[what free emulator bypasses are available now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/691936-free-emulator-bypasses-available.html)|`2025-03-16 21:46:00`|`PUBG Mobile`|
 |[Renown Farm/XP Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/690592-renown-farm-xp-bot.html)|`2025-03-16 21:43:00`|`Rainbow Six Siege`|
 |[Simple AFK &#40;FARM&#41; BOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/691935-simple-afk-farm-bot.html)|`2025-03-16 21:38:00`|`Rainbow Six Siege`|
 |[How to make Wall&#45;Hack working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691700-wall-hack.html)|`2025-03-16 21:36:00`|`Counter-Strike 2`|
