@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Launch two games &#40;epic and steam&#41; at the same time in the same PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687579-launch-games-epic-steam-time-pc.html)|`2025-03-17 06:59:00`|`Marvel Rivals`|
 |[EAC alternative way to write user&#45;mode process memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/692050-eac-alternative-write-user-mode-process-memory.html)|`2025-03-17 06:39:00`|`Anti-Cheat Bypass`|
 |[VGK obfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671176-vgk-obfuscation.html)|`2025-03-17 06:38:00`|`Anti-Cheat Bypass`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-03-17 06:34:00`|`Other MMORPG and Strategy`|
