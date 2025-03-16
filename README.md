@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-03-17 00:45:00`|`Valorant`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-03-17 00:40:00`|`Escape from Tarkov`|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-03-17 00:38:00`|`Battlefield 4`|
+|[GTA5&#95;Enchanced Basic DMA Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689945-gta5_enchanced-basic-dma-tool.html)|`2025-03-17 00:36:00`|`Grand Theft Auto V`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-03-17 00:34:00`|`Grand Theft Auto V`|
 |[&#91;Help Needed&#93; Incorrect Spell Direction in Internal League Project](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/691992-help-incorrect-spell-direction-internal-league-project.html)|`2025-03-17 00:27:00`|`League of Legends`|
 |[advdupe2 dupe grabber](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/690317-advdupe2-dupe-grabber.html)|`2025-03-17 00:25:00`|`Garry's Mod`|
