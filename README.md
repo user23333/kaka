@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TPM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/649260-tpm-spoofer.html)|`2025-03-16 21:29:00`|`Valorant`|
+|[DMA Radar v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/639021-dma-radar-v2.html)|`2025-03-16 21:27:00`|`Escape from Tarkov`|
+|[topic for collecting data from migrated and non&#45;migrated accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689890-topic-collecting-data-migrated-migrated-accounts.html)|`2025-03-16 21:25:00`|`Grand Theft Auto V`|
+|[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2025-03-16 21:12:00`|`Elite: Dangerous`|
 |[Is it possible to bypass the hardware check?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690679-bypass-hardware-check.html)|`2025-03-16 21:09:00`|`Grand Theft Auto V`|
 |[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2025-03-16 21:00:00`|`Other MMORPG and Strategy`|
 |[how to get pap camos on wz/mp weapons?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/691924-pap-camos-wz-mp-weapons.html)|`2025-03-16 20:41:00`|`Call of Duty: Black Ops 6`|
