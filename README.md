@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BFV Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/682947-bfv-cheats.html)|`2025-03-16 14:29:00`|`Battlefield V`|
 |[Hi everyone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/691889-hi.html)|`2025-03-16 14:07:00`|`Forum General`|
 |[Hi I'm jiangxin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/691882-hi-im-jiangxin.html)|`2025-03-16 14:00:00`|`Forum General`|
 |[lua script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/691894-lua-script.html)|`2025-03-16 13:25:00`|`Rainbow Six Siege`|
