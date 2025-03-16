@@ -24,9 +24,14 @@
 |36|[GTA V solo public session](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49029)|`2025-03-17 00:18:33`|
 |15|[Bodycam Internal Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49028)|`2025-03-17 00:18:33`|
 |25|[internal marvel rivals 2&#46;6&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49027)|`2025-03-17 00:18:33`|
+|3|[DuneCore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49040)|`2025-03-17 00:58:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2025-03-17 00:58:00`|`Other FPS Games`|
+|[CS2 External &#124; Aimbot Visibility Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691903-cs2-external-aimbot-visibility-check.html)|`2025-03-17 00:56:00`|`Counter-Strike 2`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-03-17 00:55:00`|`Rust`|
+|[DuneCore &#45; CS2 Best Triggerbot so far &#40;for legit players&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691168-dunecore-cs2-triggerbot-legit-players.html)|`2025-03-17 00:54:00`|`Counter-Strike 2`|
 |[Sigma Rivals &#124; Gooner edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689792-sigma-rivals-gooner-edition.html)|`2025-03-17 00:50:00`|`Marvel Rivals`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-03-17 00:45:00`|`Valorant`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-03-17 00:40:00`|`Escape from Tarkov`|
