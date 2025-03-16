@@ -38,6 +38,7 @@
 |1|[BO2Z Toolbox 3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49032)|`2025-03-16 22:09:25`|
 |1|[AFK BOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49038)|`2025-03-16 22:34:07`|
 |2|[Helpy Universal 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49039)|`2025-03-16 23:13:28`|
+|1|[Valorant TriggerBot, Instalock and spoofer V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49041)|`2025-03-16 23:47:06`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
