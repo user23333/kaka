@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Renown Farm/XP Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/690592-renown-farm-xp-bot.html)|`2025-03-16 21:43:00`|`Rainbow Six Siege`|
 |[Simple AFK &#40;FARM&#41; BOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/691935-simple-afk-farm-bot.html)|`2025-03-16 21:38:00`|`Rainbow Six Siege`|
 |[How to make Wall&#45;Hack working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691700-wall-hack.html)|`2025-03-16 21:36:00`|`Counter-Strike 2`|
 |[Compiled PaP Swapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/691834-compiled-pap-swapper.html)|`2025-03-16 21:36:00`|`Call of Duty: Black Ops Cold War`|
