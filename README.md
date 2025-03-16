@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypass SSL Pinning for Pokemon TCG Pocket](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/682904-bypass-ssl-pinning-pokemon-tcg-pocket.html)|`2025-03-17 04:18:00`|`Android`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-03-17 04:15:00`|`Other FPS Games`|
+|[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2025-03-17 04:04:00`|`Other Games`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-03-17 04:03:00`|`Escape from Tarkov`|
+|[Spoof windows system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/692020-spoof-windows-system.html)|`2025-03-17 03:57:00`|`Forum General`|
 |[Elite Dangerous Farming Credits for Billions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/691253-elite-dangerous-farming-credits-billions.html)|`2025-03-17 03:52:00`|`Elite: Dangerous`|
 |[HVCI Bypass Kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690970-hvci-bypass-kernel.html)|`2025-03-17 03:50:00`|`Valorant`|
 |[Ban evasion &#45; HLRP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/692016-ban-evasion-hlrp.html)|`2025-03-17 03:40:00`|`Alternative Online Mods`|
