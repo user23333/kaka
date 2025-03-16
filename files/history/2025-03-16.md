@@ -32,9 +32,13 @@
 |3|[FragPunk&#95;Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49026)|`2025-03-16 18:40:26`|
 |1|[internal marvel rivals 2&#46;6&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49027)|`2025-03-16 18:58:36`|
 |2|[Bodycam Internal Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49028)|`2025-03-16 19:12:57`|
+|1|[Swapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49030)|`2025-03-16 21:39:05`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple AFK &#40;FARM&#41; BOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/691935-simple-afk-farm-bot.html)|`2025-03-16 21:38:00`|`Rainbow Six Siege`|
+|[How to make Wall&#45;Hack working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691700-wall-hack.html)|`2025-03-16 21:36:00`|`Counter-Strike 2`|
+|[Compiled PaP Swapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/691834-compiled-pap-swapper.html)|`2025-03-16 21:36:00`|`Call of Duty: Black Ops Cold War`|
 |[TPM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/649260-tpm-spoofer.html)|`2025-03-16 21:29:00`|`Valorant`|
 |[DMA Radar v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/639021-dma-radar-v2.html)|`2025-03-16 21:27:00`|`Escape from Tarkov`|
 |[topic for collecting data from migrated and non&#45;migrated accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689890-topic-collecting-data-migrated-migrated-accounts.html)|`2025-03-16 21:25:00`|`Grand Theft Auto V`|
