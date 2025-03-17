@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2025-03-17 11:46:00`|`Other FPS Games`|
+|[Fix Kill Signature Ban  &#40;1day&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/691887-fix-kill-signature-ban-1day.html)|`2025-03-17 11:41:00`|`PUBG Mobile`|
 |[Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/672620-mod-menu.html)|`2025-03-17 10:57:00`|`Among Us`|
 |[Could someone share what color values they are using for their Fragpunk colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691181-share-color-values-using-fragpunk-colorbot.html)|`2025-03-17 10:25:00`|`Other FPS Games`|
 |[Device ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/691786-device-ban.html)|`2025-03-17 10:18:00`|`Marvel Rivals`|
