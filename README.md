@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Singleplayer ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/685931-singleplayer-esp.html)|`2025-03-17 08:54:00`|`Call of Duty 6: Modern Warfare 2`|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-03-17 08:49:00`|`Counter-Strike 2`|
+|[Finding class and variable names when reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/691164-finding-class-variable-names-reversing.html)|`2025-03-17 08:44:00`|`General Programming and Reversing`|
+|[Wicked Menu/ Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/372512-wicked-menu-cheat-engine.html)|`2025-03-17 07:58:00`|`Red Dead Redemption 2`|
 |[New additions to the staff team&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/690366-additions-staff-team.html)|`2025-03-17 07:48:00`|`Information and Announcements`|
 |[Gunbound Mobile Steam &#45; No Anti Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/gunbound/692060-gunbound-mobile-steam-anti-cheat.html)|`2025-03-17 07:43:00`|`Gunbound`|
 |[Did they patched 2boxing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/692058-patched-2boxing.html)|`2025-03-17 07:43:00`|`Call of Duty: Black Ops 6`|
