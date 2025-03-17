@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need help with perm ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691208-help-perm-ban.html)|`2025-03-18 05:18:00`|`Valorant`|
+|[Replay Glitch For Enhanced Version &#40;in depth guide&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691095-replay-glitch-enhanced-version-depth-guide.html)|`2025-03-18 05:02:00`|`Grand Theft Auto V`|
 |[Ultimate customizable TRIGGERBOT &#40;0&#45;100ms&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683552-ultimate-customizable-triggerbot-0-100ms.html)|`2025-03-18 04:56:00`|`Valorant`|
 |[m&#95;entitySpottedState &#40;external view check &#41; CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692177-m_entityspottedstate-external-view-check-cs2.html)|`2025-03-18 04:32:00`|`Counter-Strike 2`|
 |[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-03-18 04:44:00`|`Other FPS Games`|
