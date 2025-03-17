@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS Legacy Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/692183-cs-legacy-game.html)|`2025-03-18 05:35:00`|`Counter-Strike 2 Releases`|
 |[Pantheon: Rise of the Fallen? Offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/680643-pantheon-rise-fallen-offsets.html)|`2025-03-18 05:21:00`|`Other MMORPG and Strategy`|
 |[XP Bot Lobbies?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/692182-xp-bot-lobbies.html)|`2025-03-18 05:19:00`|`Valorant`|
 |[Need help with perm ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691208-help-perm-ban.html)|`2025-03-18 05:18:00`|`Valorant`|
