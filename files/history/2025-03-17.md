@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2025-03-17 17:50:00`|`Grand Theft Auto V`|
 |[Liar's Bar Mod &#124; 0&#46;92 &#124; IL2CPP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/685319-liars-bar-mod-0-92-il2cpp.html)|`2025-03-17 17:40:00`|`Other Games`|
 |[FragPunk AimColor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691467-fragpunk-aimcolor.html)|`2025-03-17 17:35:00`|`Other FPS Games`|
 |[Khanxbahria's Mouse Instruct was taken down&#46;&#46;&#46; anybody still have a copy of the repo?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673530-khanxbahrias-mouse-instruct-copy-repo.html)|`2025-03-17 17:12:00`|`Valorant`|
