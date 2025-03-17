@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FSL but with friends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692042-fsl-friends.html)|`2025-03-17 18:40:00`|`Grand Theft Auto V`|
 |[new trace&#95;data structure](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692106-trace_data-structure.html)|`2025-03-17 18:13:00`|`Counter-Strike 2`|
 |[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2025-03-17 17:50:00`|`Grand Theft Auto V`|
 |[Liar's Bar Mod &#124; 0&#46;92 &#124; IL2CPP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/685319-liars-bar-mod-0-92-il2cpp.html)|`2025-03-17 17:40:00`|`Other Games`|
