@@ -37,6 +37,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I will be safe if I contact Rockstar Games support?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692084-safe-contact-rockstar-games-support.html)|`2025-03-17 14:16:00`|`Grand Theft Auto V`|
+|[AOB Scanner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/687793-aob-scanner.html)|`2025-03-17 14:11:00`|`Maple Story`|
+|[Is Black ops 6/warzone hard unlock a thing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/691473-black-ops-6-warzone-hard-unlock.html)|`2025-03-17 14:05:00`|`Call of Duty: Black Ops 6`|
 |[Dark and Darker &#91;Aimbot,Esp,Misc&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/618062-dark-darker-aimbot-esp-misc.html)|`2025-03-17 13:56:00`|`Other FPS Games`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-03-17 13:48:00`|`Marvel Rivals`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-03-17 13:40:00`|`League of Legends`|
