@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Thread process hide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/692099-thread-process-hide.html)|`2025-03-18 02:35:00`|`Anti-Cheat Bypass`|
+|[dma cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/692043-dma-cheat.html)|`2025-03-18 02:33:00`|`Rainbow Six Siege`|
+|[April 2025 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/692164-april-2025-motm-nominations.html)|`2025-03-18 02:32:00`|`Member of the Month`|
+|[New to valorant TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/692070-valorant-tb.html)|`2025-03-18 02:31:00`|`Valorant`|
 |[HWho &#45; a slightly more fun bsg launcher hwid check bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/494040-hwho-slightly-fun-bsg-launcher-hwid-check-bypass.html)|`2025-03-18 02:09:00`|`Escape from Tarkov`|
 |[External Farlight 84 Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/661656-external-farlight-84-free-cheat.html)|`2025-03-18 02:02:00`|`Farlight 84`|
 |[superBADinternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690904-superbadinternal.html)|`2025-03-18 01:58:00`|`Marvel Rivals`|
