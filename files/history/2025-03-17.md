@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GMOD build 2024&#46;12&#46;09 offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/690390-gmod-build-2024-12-09-offsets.html)|`2025-03-17 15:14:00`|`Garry's Mod`|
+|[CCSGOInput Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692085-ccsgoinput-help.html)|`2025-03-17 15:03:00`|`Counter-Strike 2`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-03-17 14:44:00`|`Overwatch`|
 |[I will be safe if I contact Rockstar Games support?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692084-safe-contact-rockstar-games-support.html)|`2025-03-17 14:16:00`|`Grand Theft Auto V`|
 |[AOB Scanner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/687793-aob-scanner.html)|`2025-03-17 14:11:00`|`Maple Story`|
