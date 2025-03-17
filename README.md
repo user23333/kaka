@@ -30,6 +30,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PAK File creation/editing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/692110-pak-file-creation-editing.html)|`2025-03-18 00:41:00`|`Sea of Thieves`|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-03-18 00:41:00`|`Apex Legends`|
+|[&#91;Help Needed&#93; Incorrect Spell Direction in Internal League Project](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/691992-help-incorrect-spell-direction-internal-league-project.html)|`2025-03-18 00:40:00`|`League of Legends`|
+|[How to find the Gname offset of Game for peace](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/692156-gname-offset-game-peace.html)|`2025-03-18 00:39:00`|`Forum General`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-03-18 00:37:00`|`Apex Legends`|
+|[m&#95;pHitEntity always be C&#95;World](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692155-m_phitentity-c_world.html)|`2025-03-18 00:36:00`|`Counter-Strike 2`|
+|[ALL&#45;In&#95;One Menu for YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691907-in_one-menu-yimmenu.html)|`2025-03-18 00:35:00`|`Grand Theft Auto V`|
+|[Overlaping chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692025-overlaping-chams.html)|`2025-03-18 00:35:00`|`Counter-Strike 2`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-03-18 00:24:00`|`Escape from Tarkov`|
 |[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2025-03-18 00:22:00`|`Grand Theft Auto V`|
 |[DMA DayZ Fuser ESP &#43; Radar Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/606723-dma-dayz-fuser-esp-radar-source-release.html)|`2025-03-18 00:21:00`|`DayZ SA`|
