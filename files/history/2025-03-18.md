@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[skeleton pointer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692149-skeleton-pointer.html)|`2025-03-18 06:52:00`|`Grand Theft Auto V`|
 |[Migrating to GTA 5 Enhanced blocked due to modding&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691768-migrating-gta-5-enhanced-blocked-due-modding.html)|`2025-03-18 06:45:00`|`Grand Theft Auto V`|
 |[DMA MAKCU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/692194-dma-makcu.html)|`2025-03-18 06:38:00`|`Anti-Cheat Bypass`|
 |[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2025-03-18 06:36:00`|`Garry's Mod`|
