@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BotOps Hub &#40;bot lobby tool, no VM required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674129-botops-hub-bot-lobby-tool-vm-required.html)|`2025-03-18 01:28:00`|`Call of Duty: Black Ops 6`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-03-18 01:14:00`|`Other MMORPG and Strategy`|
 |[Universal No Recoil script using python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/678809-universal-recoil-script-using-python.html)|`2025-03-18 01:13:00`|`Other FPS Games`|
 |[ZH 1&#46;05 Maphack/Stealth/Radar Source code included&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/691884-zh-1-05-maphack-stealth-radar-source-code-included.html)|`2025-03-18 01:02:00`|`Generals and Zero Hour`|
