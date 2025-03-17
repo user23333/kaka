@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Khanxbahria's Mouse Instruct was taken down&#46;&#46;&#46; anybody still have a copy of the repo?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/673530-khanxbahrias-mouse-instruct-copy-repo.html)|`2025-03-17 17:12:00`|`Valorant`|
 |[SANALIKA GAME](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/680001-sanalika-game.html)|`2025-03-17 17:18:00`|`Other MMORPG and Strategy`|
 |[Unlock MPM on HP Insyde Bioses &#40;Laptop&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/627328-unlock-mpm-hp-insyde-bioses-laptop.html)|`2025-03-17 16:55:00`|`Valorant`|
 |[Make external undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/691724-external-undetected.html)|`2025-03-17 16:52:00`|`Rust`|
