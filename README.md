@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EA ban transfer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/692171-ea-ban-transfer.html)|`2025-03-18 03:08:00`|`Apex Legends`|
+|[how to enter valorant without vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/692170-enter-valorant-vanguard.html)|`2025-03-18 03:05:00`|`Valorant`|
+|[CS2 make a visibility check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691522-cs2-visibility-check.html)|`2025-03-18 03:05:00`|`Counter-Strike 2`|
+|[Unregistered Shots – Issue with Adjusting Input History](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692168-unregistered-shots-issue-adjusting-input-history.html)|`2025-03-18 02:59:00`|`Counter-Strike 2`|
 |[Hello everyone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/692064-hello.html)|`2025-03-18 02:46:00`|`Forum General`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-03-18 02:26:00`|`Alternative Online Mods`|
 |[Thread process hide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/692099-thread-process-hide.html)|`2025-03-18 02:35:00`|`Anti-Cheat Bypass`|
