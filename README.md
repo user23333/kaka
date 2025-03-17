@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stats Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692184-stats-dump.html)|`2025-03-18 05:42:00`|`Grand Theft Auto V`|
+|[32 bit rollback?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/691984-32-bit-rollback.html)|`2025-03-18 05:42:00`|`Team Fortress 2`|
+|[The process of machine blockade](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/691917-process-machine-blockade.html)|`2025-03-18 05:41:00`|`Marvel Rivals`|
 |[CS Legacy Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/692183-cs-legacy-game.html)|`2025-03-18 05:35:00`|`Counter-Strike 2 Releases`|
 |[Pantheon: Rise of the Fallen? Offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/680643-pantheon-rise-fallen-offsets.html)|`2025-03-18 05:21:00`|`Other MMORPG and Strategy`|
 |[XP Bot Lobbies?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/692182-xp-bot-lobbies.html)|`2025-03-18 05:19:00`|`Valorant`|
