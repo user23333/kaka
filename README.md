@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Creating a container to trick UE4 and EAC that game is running on Linux?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/692035-creating-container-trick-ue4-eac-game-running-linux.html)|`2025-03-18 03:17:00`|`Anti-Cheat Bypass`|
+|[Sniper Elite 4 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/692172-sniper-elite-4-internal.html)|`2025-03-18 03:09:00`|`Other MMORPG and Strategy`|
 |[EA ban transfer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/692171-ea-ban-transfer.html)|`2025-03-18 03:08:00`|`Apex Legends`|
 |[how to enter valorant without vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/692170-enter-valorant-vanguard.html)|`2025-03-18 03:05:00`|`Valorant`|
 |[CS2 make a visibility check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691522-cs2-visibility-check.html)|`2025-03-18 03:05:00`|`Counter-Strike 2`|
