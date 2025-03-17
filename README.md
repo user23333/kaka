@@ -12,6 +12,7 @@
 |24|[C&#43;&#43; Color Triggerbot New Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691387-color-triggerbot-undetected.html)|`2025-03-17 00:18:33`|`valorant`|
 |31|[Recent conference talk about SMM game cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/691377-recent-conference-talk-smm-game-cheats.html)|`2025-03-17 00:18:33`|`anti-cheat-bypass`|
 |3|[Replay Glitch For Enhanced Version &#40;in depth guide&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691095-replay-glitch-enhanced-version-depth-guide.html)|`2025-03-17 06:42:10`|`grand-theft-auto-v`|
+|13|[FragPunk Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691207-fragpunk-ban.html)|`2025-03-17 11:07:58`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/672620-mod-menu.html)|`2025-03-17 10:57:00`|`Among Us`|
+|[Could someone share what color values they are using for their Fragpunk colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691181-share-color-values-using-fragpunk-colorbot.html)|`2025-03-17 10:25:00`|`Other FPS Games`|
 |[Device ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/691786-device-ban.html)|`2025-03-17 10:18:00`|`Marvel Rivals`|
 |[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2025-03-17 10:17:00`|`Grand Theft Auto V`|
 |[Pantheon: Rise of the Fallen? Offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/680643-pantheon-rise-fallen-offsets.html)|`2025-03-17 09:28:00`|`Other MMORPG and Strategy`|
