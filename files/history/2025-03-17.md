@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Device ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/691786-device-ban.html)|`2025-03-17 10:18:00`|`Marvel Rivals`|
+|[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2025-03-17 10:17:00`|`Grand Theft Auto V`|
+|[Pantheon: Rise of the Fallen? Offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/680643-pantheon-rise-fallen-offsets.html)|`2025-03-17 09:28:00`|`Other MMORPG and Strategy`|
+|[Bodycam Internal Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691853-bodycam-internal-updated.html)|`2025-03-17 09:23:00`|`Other FPS Games`|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-03-17 09:04:00`|`Other FPS Games`|
+|[UD/CE instaban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/691711-ud-ce-instaban.html)|`2025-03-17 09:02:00`|`Marvel Rivals`|
 |[Singleplayer ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/685931-singleplayer-esp.html)|`2025-03-17 08:54:00`|`Call of Duty 6: Modern Warfare 2`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-03-17 08:49:00`|`Counter-Strike 2`|
 |[Finding class and variable names when reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/691164-finding-class-variable-names-reversing.html)|`2025-03-17 08:44:00`|`General Programming and Reversing`|
