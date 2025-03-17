@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[m&#95;entitySpottedState &#40;external view check &#41; CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692177-m_entityspottedstate-external-view-check-cs2.html)|`2025-03-18 04:32:00`|`Counter-Strike 2`|
 |[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-03-18 04:44:00`|`Other FPS Games`|
 |[STAT Editor&#40;Int,Float,Bool&#41;&#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476043-stat-editor-int-float-bool-external.html)|`2025-03-18 04:40:00`|`Grand Theft Auto V`|
 |[Windows 10 DMA CR3/PML4 Cache hardly works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/692178-windows-10-dma-cr3-pml4-cache-hardly.html)|`2025-03-18 04:32:00`|`Anti-Cheat Bypass`|
