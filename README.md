@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I got login banned, how I got around it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/692152-login-banned.html)|`2025-03-17 23:40:00`|`Marvel Rivals`|
+|[Osussist v3 MultiHack for osu&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/671577-osussist-v3-multihack-osu.html)|`2025-03-17 23:30:00`|`Other Games`|
 |[I need help with function hooking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/692151-help-function-hooking.html)|`2025-03-17 23:26:00`|`General Programming and Reversing`|
 |[PML4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/692150-pml4.html)|`2025-03-17 23:21:00`|`General Programming and Reversing`|
 |[skeleton pointer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692149-skeleton-pointer.html)|`2025-03-17 23:19:00`|`Grand Theft Auto V`|
