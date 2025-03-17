@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FOV/Aimbot/QuickSwap and more PAK Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/692127-fov-aimbot-quickswap-pak-files.html)|`2025-03-17 20:13:00`|`Sea of Thieves`|
+|[How to hook adhesive?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/692116-hook-adhesive.html)|`2025-03-17 20:10:00`|`Alternative Online Mods`|
 |[anything in for Space Station 14 in 2025?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680105-space-station-14-2025-a.html)|`2025-03-17 19:29:00`|`Other Games`|
 |[PAK File creation/editing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/692110-pak-file-creation-editing.html)|`2025-03-17 19:20:00`|`Sea of Thieves`|
 |[what if i use a hook for raytrace in my external cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692109-hook-raytrace-external-cheat.html)|`2025-03-17 19:14:00`|`Counter-Strike 2`|
