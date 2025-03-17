@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PAK File creation/editing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/692110-pak-file-creation-editing.html)|`2025-03-17 19:20:00`|`Sea of Thieves`|
+|[what if i use a hook for raytrace in my external cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692109-hook-raytrace-external-cheat.html)|`2025-03-17 19:14:00`|`Counter-Strike 2`|
 |[Project Zomboid Cheat &#45; Valkur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/645408-project-zomboid-cheat-valkur.html)|`2025-03-17 19:10:00`|`Other MMORPG and Strategy`|
 |[FSL but with friends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692042-fsl-friends.html)|`2025-03-17 18:40:00`|`Grand Theft Auto V`|
 |[new trace&#95;data structure](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692106-trace_data-structure.html)|`2025-03-17 18:13:00`|`Counter-Strike 2`|
