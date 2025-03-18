@@ -12,6 +12,7 @@
 |13|[FragPunk Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691207-fragpunk-ban.html)|`2025-03-18 00:00:15`|`other-fps-games`|
 |17|[Doubletap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691260-doubletap.html)|`2025-03-18 00:00:15`|`counter-strike-2-a`|
 |6|[Migrating to GTA 5 Enhanced blocked due to modding&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691768-migrating-gta-5-enhanced-blocked-due-modding.html)|`2025-03-18 14:37:52`|`grand-theft-auto-v`|
+|17|[Gamerfun Valo script, Triggerbot updated, Agent lock removed&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691652-gamerfun-valo-script-triggerbot-updated-agent-lock-removed.html)|`2025-03-18 17:40:08`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
