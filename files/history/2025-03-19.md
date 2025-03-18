@@ -11,6 +11,7 @@
 |17|[Doubletap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691260-doubletap.html)|`2025-03-19 00:12:00`|`counter-strike-2-a`|
 |7|[Migrating to GTA 5 Enhanced blocked due to modding&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691768-migrating-gta-5-enhanced-blocked-due-modding.html)|`2025-03-19 00:12:00`|`grand-theft-auto-v`|
 |18|[Gamerfun Valo script, Triggerbot updated, Agent lock removed&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691652-gamerfun-valo-script-triggerbot-updated-agent-lock-removed.html)|`2025-03-19 00:12:00`|`valorant`|
+|20|[AC Blocker RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/691938-ac-blocker-release.html)|`2025-03-19 07:29:28`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -36,9 +37,11 @@
 |3|[Awootism](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49065)|`2025-03-19 05:28:15`|
 |1|[newRigelup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49067)|`2025-03-19 05:35:37`|
 |2|[FragPunk Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49068)|`2025-03-19 06:42:16`|
+|2|[SC Offsets January 2024](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49070)|`2025-03-19 07:29:28`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Auto Strafe / Rage Strafe ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/690170-auto-strafe-rage-strafe.html)|`2025-03-19 07:23:00`|`Team Fortress 2`|
 |[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2025-03-19 07:13:00`|`Other FPS Games`|
 |[Star Citizen SDK Generator &#40;Not Full SDK&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/692382-star-citizen-sdk-generator-sdk.html)|`2025-03-19 07:11:00`|`Other FPS Games`|
 |[HLL: Hell Let Loose](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/340677-hll-hell-loose.html)|`2025-03-19 07:09:00`|`Other FPS Games`|
