@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-03-18 17:49:00`|`Marvel Rivals`|
 |[Anticheat running can live view my pc, stolen any file on my pc, how to avoid ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/692240-anticheat-running-live-view-pc-stolen-file-pc-avoid.html)|`2025-03-18 17:45:00`|`Anti-Cheat Bypass`|
 |[Clarification about DMA "firmwares"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/691751-clarification-dma-firmwares.html)|`2025-03-18 17:44:00`|`Anti-Cheat Bypass`|
 |[Online Enabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663128-online-enabler.html)|`2025-03-18 17:27:00`|`Grand Theft Auto V`|
