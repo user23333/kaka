@@ -27,9 +27,14 @@
 |1|[RustDumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49059)|`2025-03-19 00:36:10`|
 |1|[Spankerfield 17&#46;03&#46;2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49048)|`2025-03-19 00:36:10`|
 |1|[Sea of thieves PAK Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49053)|`2025-03-19 03:09:55`|
+|1|[Sniper Elite 4 Internal &#40;DX11 &#45; Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49058)|`2025-03-19 03:21:41`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sniper Elite 4 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/692172-sniper-elite-4-internal.html)|`2025-03-19 03:20:00`|`Other MMORPG and Strategy`|
+|[How u can Get Ban reason ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/692201-ban-reason.html)|`2025-03-19 03:19:00`|`PUBG Mobile`|
+|[Does EFT use HWID bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/691758-eft-hwid-bans.html)|`2025-03-19 03:17:00`|`Escape from Tarkov`|
+|[Universal Recoil &#40;like UMT program&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/617894-universal-recoil-umt-program.html)|`2025-03-19 03:16:00`|`Other FPS Games`|
 |[Will i get banend for my method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689678-banend-method.html)|`2025-03-19 03:06:00`|`Valorant`|
 |[FOV/Aimbot/QuickSwap and more PAK Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/692127-fov-aimbot-quickswap-pak-files.html)|`2025-03-19 03:05:00`|`Sea of Thieves`|
 |[Get player names externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/692355-player-names-externally.html)|`2025-03-19 03:03:00`|`Alternative Online Mods`|
