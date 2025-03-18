@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anyone got a cheat that gives you XP multiplyer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/691621-cheat-xp-multiplyer.html)|`2025-03-18 18:57:00`|`Phasmophobia`|
 |[Looking for a Cheat Engine CT file with God Mode &#43; Teleport for GTA V Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691213-looking-cheat-engine-ct-file-god-mode-teleport-gta-enhanced.html)|`2025-03-18 18:50:00`|`Grand Theft Auto V`|
 |[Recent conference talk about SMM game cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/691377-recent-conference-talk-smm-game-cheats.html)|`2025-03-18 18:34:00`|`Anti-Cheat Bypass`|
 |[Bone index code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692241-bone-index-code.html)|`2025-03-18 18:28:00`|`Counter-Strike 2`|
