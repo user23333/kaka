@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Recent conference talk about SMM game cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/691377-recent-conference-talk-smm-game-cheats.html)|`2025-03-18 18:34:00`|`Anti-Cheat Bypass`|
+|[Bone index code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692241-bone-index-code.html)|`2025-03-18 18:28:00`|`Counter-Strike 2`|
+|[clang undefined behaviour](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/684756-clang-undefined-behaviour.html)|`2025-03-18 18:21:00`|`Anti-Cheat Bypass`|
+|[what if i use a hook for raytrace in my external cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692109-hook-raytrace-external-cheat.html)|`2025-03-18 18:19:00`|`Counter-Strike 2`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-03-18 17:49:00`|`Marvel Rivals`|
 |[Anticheat running can live view my pc, stolen any file on my pc, how to avoid ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/692240-anticheat-running-live-view-pc-stolen-file-pc-avoid.html)|`2025-03-18 17:45:00`|`Anti-Cheat Bypass`|
 |[Clarification about DMA "firmwares"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/691751-clarification-dma-firmwares.html)|`2025-03-18 17:44:00`|`Anti-Cheat Bypass`|
