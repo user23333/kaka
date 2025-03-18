@@ -24,9 +24,20 @@
 |17|[ BO2Z Toolbox 3&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49045)|`2025-03-19 00:12:00`|
 |164|[Helpy Universal 1&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49044)|`2025-03-19 00:12:00`|
 |428|[All&#45;In&#45;One Menu v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49043)|`2025-03-19 00:12:00`|
+|1|[RustDumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49059)|`2025-03-19 00:36:10`|
+|1|[Spankerfield 17&#46;03&#46;2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49048)|`2025-03-19 00:36:10`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/691074-dead-game.html)|`2025-03-19 00:32:00`|`HELLDIVERS 2`|
+|[GTA V Public Solo Session](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/488229-gta-public-solo-session.html)|`2025-03-19 00:31:00`|`Grand Theft Auto V`|
+|[superBADinternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690904-superbadinternal.html)|`2025-03-19 00:30:00`|`Marvel Rivals`|
+|[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-03-19 00:29:00`|`Rainbow Six Siege`|
+|[De&#45;/Encryption Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/692185-de-encryption-dumper.html)|`2025-03-19 00:25:00`|`Rust`|
+|[Someone is using startup&#46;meta in the enhanced version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690819-using-startup-meta-enhanced-version.html)|`2025-03-19 00:24:00`|`Grand Theft Auto V`|
+|[How do i get an older version of llvm clang on vs?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/692315-version-llvm-clang-vs.html)|`2025-03-19 00:22:00`|`C and C++`|
+|[Not sure if this is a "fix"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/692221-fix.html)|`2025-03-19 00:20:00`|`Marvel Rivals`|
+|[One Armed Robber Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/618429-armed-robber-internal.html)|`2025-03-19 00:19:00`|`Other FPS Games`|
 |[Fivem cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692314-fivem-cheat.html)|`2025-03-19 00:09:00`|`Grand Theft Auto V`|
 |[Ashes of Creation Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/463992-ashes-creation-reversal-structs-offsets.html)|`2025-03-19 00:07:00`|`Other FPS Games`|
 |[Simple AFK &#40;FARM&#41; BOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/691935-simple-afk-farm-bot.html)|`2025-03-19 00:07:00`|`Rainbow Six Siege`|
