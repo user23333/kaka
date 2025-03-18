@@ -39,6 +39,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2025-03-19 07:13:00`|`Other FPS Games`|
+|[Star Citizen SDK Generator &#40;Not Full SDK&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/692382-star-citizen-sdk-generator-sdk.html)|`2025-03-19 07:11:00`|`Other FPS Games`|
+|[HLL: Hell Let Loose](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/340677-hll-hell-loose.html)|`2025-03-19 07:09:00`|`Other FPS Games`|
 |[DoMovement Recreation & Projectile Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/692381-domovement-recreation-projectile-update.html)|`2025-03-19 06:57:00`|`Rust`|
 |[No recoil fragpunk ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691761-recoil-fragpunk.html)|`2025-03-19 06:40:00`|`Other FPS Games`|
 |[Thread Hijacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/692289-thread-hijacking.html)|`2025-03-19 06:32:00`|`Programming for Beginners`|
