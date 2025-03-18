@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-03-19 02:50:00`|`Overwatch`|
+|[RUNNING VALORANT WITHOUT VANGUARD &#40;OFFLINE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/692350-running-valorant-vanguard-offline.html)|`2025-03-19 02:48:00`|`Valorant`|
+|[Rust DMA Source, Feature Packed&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/689793-rust-dma-source-feature-packed.html)|`2025-03-19 02:47:00`|`Rust`|
+|[Recent conference talk about SMM game cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/691377-recent-conference-talk-smm-game-cheats.html)|`2025-03-19 02:40:00`|`Anti-Cheat Bypass`|
 |[Modest Menu Lua Scripting Megathread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/463868-modest-menu-lua-scripting-megathread.html)|`2025-03-19 02:39:00`|`Grand Theft Auto V`|
 |[FragPunk Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691832-fragpunk-dump.html)|`2025-03-19 02:37:00`|`Other FPS Games`|
 |[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-03-19 02:34:00`|`Sea of Thieves`|
