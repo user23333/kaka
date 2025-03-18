@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[esp draw](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691886-esp-draw.html)|`2025-03-19 04:43:00`|`Counter-Strike 2`|
+|[how can i make external fake chams?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692036-external-fake-chams.html)|`2025-03-19 04:42:00`|`Counter-Strike 2`|
 |[semi Rage Internal &#43;UNlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687422-semi-rage-internal-unlock.html)|`2025-03-19 04:40:00`|`Counter-Strike 2`|
 |[what if i use a hook for raytrace in my external cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692109-hook-raytrace-external-cheat.html)|`2025-03-19 04:38:00`|`Counter-Strike 2`|
 |[Bone index code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692241-bone-index-code.html)|`2025-03-19 04:36:00`|`Counter-Strike 2`|
