@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-03-19 00:52:00`|`Escape from Tarkov`|
+|[Is there a way to run FSL in ehanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692287-run-fsl-ehanced.html)|`2025-03-19 00:50:00`|`Grand Theft Auto V`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-03-19 00:44:00`|`Rust`|
+|[did anyone transferred over?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689872-transferred.html)|`2025-03-19 00:38:00`|`Grand Theft Auto V`|
 |[Dead game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/691074-dead-game.html)|`2025-03-19 00:32:00`|`HELLDIVERS 2`|
 |[GTA V Public Solo Session](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/488229-gta-public-solo-session.html)|`2025-03-19 00:31:00`|`Grand Theft Auto V`|
 |[superBADinternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690904-superbadinternal.html)|`2025-03-19 00:30:00`|`Marvel Rivals`|
