@@ -33,9 +33,14 @@
 |5|[GTA5 Enhanced DMA v3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49060)|`2025-03-19 03:41:19`|
 |1|[Bodycam Internal V&#46;0&#46;1&#46;3&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49062)|`2025-03-19 04:18:22`|
 |2|[augov&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49061)|`2025-03-19 04:31:57`|
+|3|[Awootism](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49065)|`2025-03-19 05:28:15`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AC Blocker RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/691938-ac-blocker-release.html)|`2025-03-19 05:27:00`|`Call of Duty: Black Ops 6`|
+|[Elite Dangerous Farming Credits for Billions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/691253-elite-dangerous-farming-credits-billions.html)|`2025-03-19 05:24:00`|`Elite: Dangerous`|
+|[Injector for dll files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/691216-injector-dll-files.html)|`2025-03-19 05:24:00`|`Battlefield 1`|
+|[manipulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/692370-manipulator.html)|`2025-03-19 05:20:00`|`Rust`|
 |[Doubletap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691260-doubletap.html)|`2025-03-19 05:15:00`|`Counter-Strike 2`|
 |[asphyxia&#45;cs2 updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687274-asphyxia-cs2-updated.html)|`2025-03-19 05:07:00`|`Counter-Strike 2`|
 |[Killing Floor 2 External Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/673060-killing-floor-2-external-hack.html)|`2025-03-19 05:05:00`|`Other Games`|
