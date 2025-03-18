@@ -28,9 +28,13 @@
 |1|[Spankerfield 17&#46;03&#46;2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49048)|`2025-03-19 00:36:10`|
 |1|[Sea of thieves PAK Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49053)|`2025-03-19 03:09:55`|
 |1|[Sniper Elite 4 Internal &#40;DX11 &#45; Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49058)|`2025-03-19 03:21:41`|
+|1|[AssoultCube&#45;External&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49064)|`2025-03-19 03:41:19`|
+|1|[Simple Liars Bar Mod v1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49063)|`2025-03-19 03:41:19`|
+|5|[GTA5 Enhanced DMA v3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49060)|`2025-03-19 03:41:19`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTA5&#95;Enchanced Basic DMA Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689945-gta5_enchanced-basic-dma-tool.html)|`2025-03-19 03:36:00`|`Grand Theft Auto V`|
 |[GTAVTool &#45; Replay Glitch Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/636267-gtavtool-replay-glitch-tool.html)|`2025-03-19 03:25:00`|`Grand Theft Auto V`|
 |[Assoult Cube External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/692357-assoult-cube-external.html)|`2025-03-19 03:24:00`|`Other FPS Games`|
 |[Sniper Elite 4 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/692172-sniper-elite-4-internal.html)|`2025-03-19 03:20:00`|`Other MMORPG and Strategy`|
