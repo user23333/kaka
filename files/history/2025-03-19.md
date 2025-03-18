@@ -32,9 +32,14 @@
 |1|[Simple Liars Bar Mod v1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49063)|`2025-03-19 03:41:19`|
 |5|[GTA5 Enhanced DMA v3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49060)|`2025-03-19 03:41:19`|
 |1|[Bodycam Internal V&#46;0&#46;1&#46;3&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49062)|`2025-03-19 04:18:22`|
+|2|[augov&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49061)|`2025-03-19 04:31:57`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[external only bone esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692238-external-bone-esp.html)|`2025-03-19 04:31:00`|`Counter-Strike 2`|
+|[HWID Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/692298-hwid-spoofing.html)|`2025-03-19 04:31:00`|`Marvel Rivals`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-03-19 04:30:00`|`Escape from Tarkov`|
+|[Awootism self leak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/692364-awootism-self-leak.html)|`2025-03-19 04:18:00`|`Team Fortress 2`|
 |[CS2 Glow ESP?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692244-cs2-glow-esp.html)|`2025-03-19 04:18:00`|`Counter-Strike 2`|
 |[theHunter: Call of the Wild Internal Radar, ESP, & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644365-thehunter-call-wild-internal-radar-esp.html)|`2025-03-19 04:14:00`|`Other FPS Games`|
 |[Replay Glitch AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692295-replay-glitch-ahk.html)|`2025-03-19 04:08:00`|`Grand Theft Auto V`|
