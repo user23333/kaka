@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Put benny's wheels in personal vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/376369-bennys-wheels-personal-vehicle.html)|`2025-03-19 06:10:00`|`Grand Theft Auto V`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-03-19 06:07:00`|`Other MMORPG and Strategy`|
+|[Ashes of Creation Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/463992-ashes-creation-reversal-structs-offsets.html)|`2025-03-19 06:01:00`|`Other MMORPG and Strategy`|
 |[Lazybead &#40;LB&#41; &#45; Free Cheat &#40;COMING SOON&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat-coming-soon.html)|`2025-03-19 05:54:00`|`Sea of Thieves`|
 |[Did they patched 2boxing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/692058-patched-2boxing.html)|`2025-03-19 05:53:00`|`Call of Duty: Black Ops 6`|
 |[BotOps Hub &#40;bot lobby tool, no VM required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674129-botops-hub-bot-lobby-tool-vm-required.html)|`2025-03-19 05:51:00`|`Call of Duty: Black Ops 6`|
