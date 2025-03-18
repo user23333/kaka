@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BGMI 3&#46;7 32&#45;bit SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/691406-bgmi-3-7-32-bit-sdk.html)|`2025-03-18 19:42:00`|`PUBG Mobile`|
 |[Ashes of Creation Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/463992-ashes-creation-reversal-structs-offsets.html)|`2025-03-18 19:25:00`|`Other FPS Games`|
 |[CS2 Glow ESP?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692244-cs2-glow-esp.html)|`2025-03-18 18:50:00`|`Counter-Strike 2`|
 |[Anyone got a cheat that gives you XP multiplyer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/691621-cheat-xp-multiplyer.html)|`2025-03-18 18:57:00`|`Phasmophobia`|
