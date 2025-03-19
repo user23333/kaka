@@ -13,6 +13,7 @@
 |18|[Gamerfun Valo script, Triggerbot updated, Agent lock removed&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691652-gamerfun-valo-script-triggerbot-updated-agent-lock-removed.html)|`2025-03-19 00:12:00`|`valorant`|
 |20|[AC Blocker RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/691938-ac-blocker-release.html)|`2025-03-19 07:29:28`|`call-of-duty-black-ops-6-a`|
 |9|[GTA V solo public session](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691753-gta-solo-public-session.html)|`2025-03-19 12:17:42`|`grand-theft-auto-v`|
+|25|[Instant Device ban &#40; possibly hwid? &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/691219-instant-device-ban-possibly-hwid.html)|`2025-03-19 14:25:56`|`marvel-rivals`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -43,6 +44,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AQ3D Auto Fishing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/680860-aq3d-auto-fishing.html)|`2025-03-19 14:25:00`|`Unity`|
+|[Make external undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/691724-external-undetected.html)|`2025-03-19 14:25:00`|`Rust`|
+|[100% UNDETECTED INJECTOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/508347-100-undetected-injector.html)|`2025-03-19 14:17:00`|`Anti-Cheat Bypass`|
+|[cod bo6 cheap cp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/691816-cod-bo6-cheap-cp.html)|`2025-03-19 14:10:00`|`Call of Duty: Black Ops 6`|
+|[Sky changer crash on map materials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692407-sky-changer-crash-map-materials.html)|`2025-03-19 14:09:00`|`Counter-Strike 2`|
 |[C&#43;&#43; Color Triggerbot New Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691387-color-triggerbot-undetected.html)|`2025-03-19 13:59:00`|`Valorant`|
 |[Learned C&#43;&#43;, someone point me towards how to inject my cheat internal?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/691885-learned-towards-inject-cheat-internal.html)|`2025-03-19 13:40:00`|`Escape from Tarkov`|
 |[EA ban transfer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/692171-ea-ban-transfer.html)|`2025-03-19 13:34:00`|`Apex Legends`|
