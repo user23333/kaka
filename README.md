@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-03-20 01:50:00`|`Marvel Rivals`|
+|[I need help with function hooking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/692151-help-function-hooking.html)|`2025-03-20 01:49:00`|`General Programming and Reversing`|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-03-20 01:46:00`|`Phasmophobia`|
 |[RUNNING VALORANT WITHOUT VANGUARD &#40;OFFLINE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/692350-running-valorant-vanguard-offline.html)|`2025-03-20 01:38:00`|`Valorant`|
 |[Manual mapped &#95;DLLMain is empty](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/692499-manual-mapped-_dllmain-empty.html)|`2025-03-20 01:38:00`|`Programming for Beginners`|
 |[BotOps Hub &#40;bot lobby tool, no VM required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674129-botops-hub-bot-lobby-tool-vm-required.html)|`2025-03-20 01:28:00`|`Call of Duty: Black Ops 6`|
