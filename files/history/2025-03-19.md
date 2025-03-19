@@ -41,6 +41,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Account "Mostly" Reset Bug?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692394-account-reset-bug.html)|`2025-03-19 09:18:00`|`Grand Theft Auto V`|
+|[Bot Or Player Esp Not Showing, PUBGM 3&#46;7, Others Esp is okay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/692392-bot-player-esp-pubgm-3-7-esp-okay.html)|`2025-03-19 08:55:00`|`PUBG Mobile`|
 |[Chivalry 2 Heaveyweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689993-chivalry-2-heaveyweight-cheat.html)|`2025-03-19 07:50:00`|`Other Games`|
 |[April 2025 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/692164-april-2025-motm-nominations.html)|`2025-03-19 07:45:00`|`Member of the Month`|
 |[Auto Strafe / Rage Strafe ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/690170-auto-strafe-rage-strafe.html)|`2025-03-19 07:23:00`|`Team Fortress 2`|
