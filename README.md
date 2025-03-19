@@ -45,6 +45,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is Black ops 6/warzone hard unlock a thing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/691473-black-ops-6-warzone-hard-unlock.html)|`2025-03-19 15:26:00`|`Call of Duty: Black Ops 6`|
+|[Fov circle glithing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691848-fov-circle-glithing.html)|`2025-03-19 15:18:00`|`Counter-Strike 2`|
 |[Save and load inventory items](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692239-save-load-inventory-items.html)|`2025-03-19 14:44:00`|`Counter-Strike 2`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-03-19 14:32:00`|`Playerunknown's Battlegrounds`|
 |[PML4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/692150-pml4.html)|`2025-03-19 14:10:00`|`General Programming and Reversing`|
