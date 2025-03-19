@@ -45,6 +45,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Server disconnect after injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/692386-server-disconnect-injection.html)|`2025-03-19 21:33:00`|`Escape from Tarkov`|
+|[Don't trust this user](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/692473-dont-trust-user.html)|`2025-03-19 21:25:00`|`Forum General`|
 |[Idle Slayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/583257-idle-slayer.html)|`2025-03-19 21:12:00`|`Other MMORPG and Strategy`|
 |[Schedule 1 Money and Bungalow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691393-schedule-1-money-bungalow.html)|`2025-03-19 21:08:00`|`Other Games`|
 |[Free FiveM Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/692468-free-fivem-cheat.html)|`2025-03-19 21:08:00`|`Alternative Online Mods`|
