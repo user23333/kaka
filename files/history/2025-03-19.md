@@ -45,6 +45,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New Exploit Milling About?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/692410-exploit-milling.html)|`2025-03-19 23:07:00`|`Sea of Thieves`|
 |[SEOwned x64 fixed for new tf2 update&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/691125-seowned-x64-fixed-tf2-update.html)|`2025-03-19 22:56:00`|`Team Fortress 2`|
 |[notwav doxed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/692486-notwav-doxed.html)|`2025-03-19 22:42:00`|`Off Topic`|
 |[Silent aim externally without writing mem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692484-silent-aim-externally-writing-mem.html)|`2025-03-19 22:37:00`|`Counter-Strike 2`|
