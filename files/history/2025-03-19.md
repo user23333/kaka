@@ -46,6 +46,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant insta headshot AIMBOT&#91;UNDETECTED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688675-valorant-insta-headshot-aimbot-undetected.html)|`2025-03-19 23:38:00`|`Valorant`|
+|[Manual mapped &#95;DLLMain is empty](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/692499-manual-mapped-_dllmain-empty.html)|`2025-03-19 23:36:00`|`Programming for Beginners`|
+|[The process of machine blockade](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/691917-process-machine-blockade.html)|`2025-03-19 23:33:00`|`Marvel Rivals`|
 |[palworld internal update with &#42;spawnpal&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/623520-palworld-internal-update-spawnpal.html)|`2025-03-19 23:27:00`|`Palworld`|
 |[looking for cheat to mess around](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/692383-looking-cheat-mess.html)|`2025-03-19 23:24:00`|`Phasmophobia`|
 |[Sons of the Forest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/572665-sons-forest.html)|`2025-03-19 23:18:00`|`Unity`|
