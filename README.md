@@ -45,6 +45,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-03-19 22:05:00`|`Grand Theft Auto V`|
+|[Is there an outfit editor for enhanced edition?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692332-outfit-editor-enhanced-edition.html)|`2025-03-19 22:01:00`|`Grand Theft Auto V`|
+|[What Happened to SoT Cheats? ESP, Aimbot, and Sea of Tucking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/692345-happened-sot-cheats-esp-aimbot-sea-tucking.html)|`2025-03-19 21:59:00`|`Sea of Thieves`|
 |[How i can detect SetWindowsHookEx?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/692479-detect-setwindowshookex.html)|`2025-03-19 21:55:00`|`Anti-Cheat Bypass`|
 |[I got confused with Offset's name&#46; Which one is which? Can you tell me?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/692478-confused-offsets-name-tell.html)|`2025-03-19 21:55:00`|`Other FPS Games`|
 |[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2025-03-19 21:50:00`|`DayZ SA`|
