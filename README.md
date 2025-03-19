@@ -41,6 +41,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fusion/Sigscan for IDA 9&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/692400-fusion-sigscan-ida-9-1-a.html)|`2025-03-19 10:34:00`|`General Programming and Reversing`|
+|[Cap America animation cancel macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/692397-cap-america-animation-cancel-macro.html)|`2025-03-19 10:27:00`|`Marvel Rivals`|
 |[Account "Mostly" Reset Bug?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692394-account-reset-bug.html)|`2025-03-19 09:18:00`|`Grand Theft Auto V`|
 |[Bot Or Player Esp Not Showing, PUBGM 3&#46;7, Others Esp is okay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/692392-bot-player-esp-pubgm-3-7-esp-okay.html)|`2025-03-19 08:55:00`|`PUBG Mobile`|
 |[Chivalry 2 Heaveyweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689993-chivalry-2-heaveyweight-cheat.html)|`2025-03-19 07:50:00`|`Other Games`|
