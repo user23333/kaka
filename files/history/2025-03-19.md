@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Closest Thing To Aimbot & No Recoil You're Going To Get](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/687328-closest-aimbot-recoil-youre.html)|`2025-03-19 11:06:00`|`THE FINALS`|
 |[Fusion/Sigscan for IDA 9&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/692400-fusion-sigscan-ida-9-1-a.html)|`2025-03-19 10:34:00`|`General Programming and Reversing`|
 |[Cap America animation cancel macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/692397-cap-america-animation-cancel-macro.html)|`2025-03-19 10:27:00`|`Marvel Rivals`|
 |[Account "Mostly" Reset Bug?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692394-account-reset-bug.html)|`2025-03-19 09:18:00`|`Grand Theft Auto V`|
