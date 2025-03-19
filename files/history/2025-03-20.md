@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RUNNING VALORANT WITHOUT VANGUARD &#40;OFFLINE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/692350-running-valorant-vanguard-offline.html)|`2025-03-20 01:38:00`|`Valorant`|
+|[Manual mapped &#95;DLLMain is empty](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/692499-manual-mapped-_dllmain-empty.html)|`2025-03-20 01:38:00`|`Programming for Beginners`|
 |[BotOps Hub &#40;bot lobby tool, no VM required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674129-botops-hub-bot-lobby-tool-vm-required.html)|`2025-03-20 01:28:00`|`Call of Duty: Black Ops 6`|
 |[Sky changer crash on map materials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692407-sky-changer-crash-map-materials.html)|`2025-03-20 01:21:00`|`Counter-Strike 2`|
 |[better autorocket jump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/692509-autorocket-jump.html)|`2025-03-20 01:21:00`|`Team Fortress 2`|
