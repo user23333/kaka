@@ -44,6 +44,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Save and load inventory items](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692239-save-load-inventory-items.html)|`2025-03-19 14:44:00`|`Counter-Strike 2`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-03-19 14:32:00`|`Playerunknown's Battlegrounds`|
+|[PML4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/692150-pml4.html)|`2025-03-19 14:10:00`|`General Programming and Reversing`|
 |[AQ3D Auto Fishing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/680860-aq3d-auto-fishing.html)|`2025-03-19 14:25:00`|`Unity`|
 |[Make external undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/691724-external-undetected.html)|`2025-03-19 14:25:00`|`Rust`|
 |[100% UNDETECTED INJECTOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/508347-100-undetected-injector.html)|`2025-03-19 14:17:00`|`Anti-Cheat Bypass`|
