@@ -43,6 +43,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Learned C&#43;&#43;, someone point me towards how to inject my cheat internal?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/691885-learned-towards-inject-cheat-internal.html)|`2025-03-19 13:40:00`|`Escape from Tarkov`|
+|[EA ban transfer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/692171-ea-ban-transfer.html)|`2025-03-19 13:34:00`|`Apex Legends`|
 |[Overwatch1 Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/692100-overwatch1-internal-cheat.html)|`2025-03-19 12:09:00`|`Overwatch`|
 |[Gamerfun Valo script, Triggerbot updated, Agent lock removed&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691652-gamerfun-valo-script-triggerbot-updated-agent-lock-removed.html)|`2025-03-19 12:01:00`|`Valorant`|
 |[How to Grind infinit HG Wins, Levels and Money](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/680032-grind-infinit-hg-wins-levels-money.html)|`2025-03-19 11:33:00`|`Sea of Thieves`|
