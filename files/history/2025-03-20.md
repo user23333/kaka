@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BotOps Hub &#40;bot lobby tool, no VM required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674129-botops-hub-bot-lobby-tool-vm-required.html)|`2025-03-20 01:28:00`|`Call of Duty: Black Ops 6`|
+|[Sky changer crash on map materials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692407-sky-changer-crash-map-materials.html)|`2025-03-20 01:21:00`|`Counter-Strike 2`|
+|[better autorocket jump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/692509-autorocket-jump.html)|`2025-03-20 01:21:00`|`Team Fortress 2`|
+|[Recent conference talk about SMM game cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/691377-recent-conference-talk-smm-game-cheats.html)|`2025-03-20 01:13:00`|`Anti-Cheat Bypass`|
+|[Spring & Easter Banner question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/689986-spring-easter-banner-question.html)|`2025-03-20 01:12:00`|`Forum General`|
+|[Ultimate customizable TRIGGERBOT &#40;0&#45;100ms&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683552-ultimate-customizable-triggerbot-0-100ms.html)|`2025-03-20 01:08:00`|`Valorant`|
 |[How Can I efficiently get recoil tables?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/692494-efficiently-recoil-tables.html)|`2025-03-20 01:07:00`|`Rainbow Six Siege`|
 |[ALL&#45;In&#95;One Menu for YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691907-in_one-menu-yimmenu.html)|`2025-03-20 01:05:00`|`Grand Theft Auto V`|
 |[Awootism self leak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/692364-awootism-self-leak.html)|`2025-03-20 00:50:00`|`Team Fortress 2`|
