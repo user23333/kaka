@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-03-20 00:31:00`|`Valorant`|
+|[Silent aim externally without writing mem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692484-silent-aim-externally-writing-mem.html)|`2025-03-20 00:31:00`|`Counter-Strike 2`|
+|[R&#46;E&#46;P&#46;O&#46; Simple Cheat // Credit D4rkks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690879-simple-cheat-credit-d4rkks.html)|`2025-03-20 00:28:00`|`Other FPS Games`|
+|[FragPunk Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691832-fragpunk-dump.html)|`2025-03-20 00:26:00`|`Other FPS Games`|
+|[directx11 imgui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/direct3d/692503-directx11-imgui.html)|`2025-03-20 00:24:00`|`Direct3D`|
+|[What music are you listening right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/music-and-videos/86098-music-listening.html)|`2025-03-20 00:20:00`|`Music and Videos`|
 |[How to Grind infinit HG Wins, Levels and Money](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/680032-grind-infinit-hg-wins-levels-money.html)|`2025-03-20 00:12:00`|`Sea of Thieves`|
 |[Squad v8&#46;2&#46;1 &#40;2025&#41; ini](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/681581-squad-v8-2-1-2025-ini.html)|`2025-03-20 00:10:00`|`Other FPS Games`|
 |[FragPunk Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/666506-fragpunk-reversal-structs-offsets.html)|`2025-03-20 00:09:00`|`Other FPS Games`|
