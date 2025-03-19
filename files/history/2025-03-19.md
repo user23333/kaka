@@ -45,6 +45,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Idle Slayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/583257-idle-slayer.html)|`2025-03-19 21:12:00`|`Other MMORPG and Strategy`|
+|[Schedule 1 Money and Bungalow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691393-schedule-1-money-bungalow.html)|`2025-03-19 21:08:00`|`Other Games`|
+|[Free FiveM Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/692468-free-fivem-cheat.html)|`2025-03-19 21:08:00`|`Alternative Online Mods`|
+|[FragPunk Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691207-fragpunk-ban.html)|`2025-03-19 21:05:00`|`Other FPS Games`|
+|[Clarification about DMA "firmwares"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/691751-clarification-dma-firmwares.html)|`2025-03-19 21:05:00`|`Anti-Cheat Bypass`|
 |[R&#46;E&#46;P&#46;O Simple Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/689820-simple-cheat.html)|`2025-03-19 20:54:00`|`Other MMORPG and Strategy`|
 |[Best injector for x64 TF2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/692465-injector-x64-tf2.html)|`2025-03-19 20:30:00`|`Team Fortress 2`|
 |[Beta Stardew Valley Cheat by Shesh653](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691537-beta-stardew-valley-cheat-shesh653.html)|`2025-03-19 20:06:00`|`Other Games`|
