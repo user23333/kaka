@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How Can I efficiently get recoil tables?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/692494-efficiently-recoil-tables.html)|`2025-03-20 01:07:00`|`Rainbow Six Siege`|
+|[ALL&#45;In&#95;One Menu for YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691907-in_one-menu-yimmenu.html)|`2025-03-20 01:05:00`|`Grand Theft Auto V`|
 |[Awootism self leak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/692364-awootism-self-leak.html)|`2025-03-20 00:50:00`|`Team Fortress 2`|
 |[Reversing UnityEngine&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/692508-reversing-unityengine-dll.html)|`2025-03-20 00:47:00`|`Rust`|
 |[DuneCore &#45; CS2 Best Triggerbot so far &#40;for legit players&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691168-dunecore-cs2-triggerbot-legit-players.html)|`2025-03-20 00:45:00`|`Counter-Strike 2`|
