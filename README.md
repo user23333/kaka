@@ -45,6 +45,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[A Free/Cheap Skin Changer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692429-free-cheap-skin-changer.html)|`2025-03-19 17:26:00`|`Counter-Strike 2`|
+|[Palspawn Function?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/692428-palspawn-function.html)|`2025-03-19 17:18:00`|`Palworld`|
 |[Manual map without creating a thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/665677-manual-map-creating-thread.html)|`2025-03-19 17:06:00`|`Anti-Cheat Bypass`|
 |[New additions to the staff team&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/690366-additions-staff-team.html)|`2025-03-19 17:05:00`|`Information and Announcements`|
 |[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-03-19 16:40:00`|`Marvel Rivals`|
