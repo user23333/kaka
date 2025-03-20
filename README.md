@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Understanding TraceRay and TraceShape – Where to Start?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691179-understanding-traceray-traceshape-start.html)|`2025-03-20 21:53:00`|`Counter-Strike 2`|
 |[SANALIKA GAME](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/680001-sanalika-game.html)|`2025-03-20 21:51:00`|`Other MMORPG and Strategy`|
 |[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2025-03-20 21:48:00`|`Garry's Mod`|
 |[another way of getting de&#45;/encryptions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/691801-getting-de-encryptions.html)|`2025-03-20 21:32:00`|`Rust`|
