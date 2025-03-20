@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to Perm Spoof a SSD NVMe the real way&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667328-perm-spoof-ssd-nvme-real.html)|`2025-03-20 17:50:00`|`Anti-Cheat Bypass`|
 |[CrossFire VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/687604-crossfire-vm.html)|`2025-03-20 17:32:00`|`CrossFire`|
 |[latest material output](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/692587-material-output.html)|`2025-03-20 17:30:00`|`Rust`|
 |[Not sure if this is a "fix"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/692221-fix.html)|`2025-03-20 17:29:00`|`Marvel Rivals`|
