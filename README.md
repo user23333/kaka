@@ -12,6 +12,7 @@
 |8|[FSL on Enhanced&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691977-fsl-enhanced.html)|`2025-03-20 00:12:23`|`grand-theft-auto-v`|
 |2|[Schedule 1 Money and Bungalow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691393-schedule-1-money-bungalow.html)|`2025-03-20 00:12:23`|`other-games`|
 |10|[FragPunk Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691832-fragpunk-dump.html)|`2025-03-20 14:42:41`|`other-fps-games`|
+|5|[Need ESP & Bypass for BGMI 3&#46;7 Emulator – Any Help?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/691583-esp-bypass-bgmi-3-7-emulator-help.html)|`2025-03-20 16:37:50`|`pubg-mobile`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[32 bit rollback?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/691984-32-bit-rollback.html)|`2025-03-20 16:30:00`|`Team Fortress 2`|
+|[C&#43;&#43; Color Triggerbot New Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691387-color-triggerbot-undetected.html)|`2025-03-20 16:26:00`|`Valorant`|
 |[Apex Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/689808-apex-internal.html)|`2025-03-20 15:54:00`|`Apex Legends`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-03-20 15:46:00`|`DayZ SA`|
 |[All sky materials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692581-sky-materials.html)|`2025-03-20 15:23:00`|`Counter-Strike 2`|
