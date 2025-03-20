@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[map parsing auto wall?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692593-map-parsing-auto-wall.html)|`2025-03-21 04:28:00`|`Counter-Strike 2`|
+|[latest material output](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/692587-material-output.html)|`2025-03-21 04:28:00`|`Rust`|
+|[WF Still Alive? Lol](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/691371-wf-alive-lol.html)|`2025-03-21 04:20:00`|`Warface`|
 |[do we need real programmers now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690901-real-programmers.html)|`2025-03-21 04:14:00`|`Grand Theft Auto V`|
 |[SOCOM U&#46;S NAVY SEALs Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playstation/689014-socom-navy-seals-reversal-structs-offsets.html)|`2025-03-21 04:11:00`|`PlayStation`|
 |[eac &#43; rwx dll &#40;lol&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/692656-eac-rwx-dll-lol.html)|`2025-03-21 04:10:00`|`Anti-Cheat Bypass`|
