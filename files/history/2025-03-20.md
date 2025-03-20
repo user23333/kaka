@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Solo Leveling Arise 1&#46;1&#46;16 &#40;Must have features&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/639981-solo-leveling-arise-1-1-16-features.html)|`2025-03-20 12:50:00`|`Other MMORPG and Strategy`|
 |[Palworld Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/620076-palworld-reversal-structs-offsets.html)|`2025-03-20 12:19:00`|`Palworld`|
 |[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2025-03-20 12:07:00`|`Tom Clancy's The Division`|
 |[All Mouse NoRecoil 1&#46;0 IS OUT &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-1-0-recoil-helpy-auto-config-probably-ud-universal.html)|`2025-03-20 11:51:00`|`Rainbow Six Siege`|
