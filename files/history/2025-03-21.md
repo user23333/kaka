@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arma Reforger DMA esp&#43;aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/692649-arma-reforger-dma-esp-aim.html)|`2025-03-21 02:48:00`|`ARMA 3`|
+|[picanha beta](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/692533-picanha-beta.html)|`2025-03-21 02:47:00`|`General Programming and Reversing`|
+|[Welcoming back familiar faces and more additions to the staff team&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/691282-welcoming-familiar-additions-staff-team.html)|`2025-03-21 02:47:00`|`Information and Announcements`|
+|[DuneCore &#45; CS2 Best Triggerbot so far &#40;for legit players&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691168-dunecore-cs2-triggerbot-legit-players.html)|`2025-03-21 02:43:00`|`Counter-Strike 2`|
+|[SANALIKA GAME](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/680001-sanalika-game.html)|`2025-03-21 02:41:00`|`Other MMORPG and Strategy`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-03-21 02:41:00`|`Apex Legends`|
 |[Introduction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/692579-introduction.html)|`2025-03-21 02:35:00`|`Introductions`|
 |[Help with spinbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692647-help-spinbot.html)|`2025-03-21 02:34:00`|`Counter-Strike 2`|
 |[Kimsama](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/692582-kimsama.html)|`2025-03-21 02:32:00`|`Introductions`|
