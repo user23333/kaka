@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[any menu/trainers for version 0&#46;10&#46;1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/684235-menu-trainers-version-0-10-1-2-a.html)|`2025-03-21 05:18:00`|`Phasmophobia`|
+|[apex color aimbot,c&#43;&#43; 80days 0ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/684954-apex-color-aimbot-80days-0ban.html)|`2025-03-21 05:08:00`|`Apex Legends`|
 |[Not sure if this is a "fix"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/692221-fix.html)|`2025-03-21 05:05:00`|`Marvel Rivals`|
 |[Free FiveM Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/692468-free-fivem-cheat.html)|`2025-03-21 04:44:00`|`Alternative Online Mods`|
 |[map parsing auto wall?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692593-map-parsing-auto-wall.html)|`2025-03-21 04:28:00`|`Counter-Strike 2`|
