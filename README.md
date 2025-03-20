@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat Master &#124; Fully Featured Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/677171-combat-master-featured-internal.html)|`2025-03-20 14:46:00`|`Combat Master`|
+|[AC Blocker RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/691938-ac-blocker-release.html)|`2025-03-20 14:46:00`|`Call of Duty: Black Ops 6`|
 |[SigMakerEx 1&#46;1&#46;3 for IDA 9&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/692578-sigmakerex-1-1-3-ida-9-1-a.html)|`2025-03-20 14:29:00`|`General Programming and Reversing`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-03-20 13:50:00`|`Counter-Strike 2`|
 |[Idle Slayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/583257-idle-slayer.html)|`2025-03-20 13:50:00`|`Other MMORPG and Strategy`|
