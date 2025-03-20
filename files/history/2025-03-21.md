@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-03-21 03:19:00`|`Playerunknown's Battlegrounds`|
 |[R&#46;E&#46;P&#46;O Simple Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/689820-simple-cheat.html)|`2025-03-21 03:06:00`|`Other MMORPG and Strategy`|
 |[Signatures for nightmode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692507-signatures-nightmode.html)|`2025-03-21 02:56:00`|`Counter-Strike 2`|
 |[Internal cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/611723-internal-cheese.html)|`2025-03-21 02:54:00`|`Payday 3`|
