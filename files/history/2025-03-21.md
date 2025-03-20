@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[8 Ball Pool Library Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/692644-8-ball-pool-library-dump.html)|`2025-03-21 01:19:00`|`Other Games`|
+|[Ultimate customizable TRIGGERBOT &#40;0&#45;100ms&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683552-ultimate-customizable-triggerbot-0-100ms.html)|`2025-03-21 01:17:00`|`Valorant`|
+|[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-03-21 01:13:00`|`Marvel Rivals`|
+|[Linux External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689557-linux-external-base.html)|`2025-03-21 01:13:00`|`Marvel Rivals`|
+|[Compiled PaP Swapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/691834-compiled-pap-swapper.html)|`2025-03-21 01:12:00`|`Call of Duty: Black Ops Cold War`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-03-21 01:01:00`|`Rust`|
 |[Palworld Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/620076-palworld-reversal-structs-offsets.html)|`2025-03-21 00:59:00`|`Palworld`|
 |[Palspawn Function?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/692428-palspawn-function.html)|`2025-03-21 00:57:00`|`Palworld`|
