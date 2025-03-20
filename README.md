@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[another way of getting de&#45;/encryptions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/691801-getting-de-encryptions.html)|`2025-03-20 21:32:00`|`Rust`|
+|[Palspawn Function?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/692428-palspawn-function.html)|`2025-03-20 21:23:00`|`Palworld`|
+|[STALCRAFT chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/624558-stalcraft-chams.html)|`2025-03-20 21:20:00`|`Minecraft`|
 |[How to hide the mapped driver memory?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/692617-hide-mapped-driver-memory.html)|`2025-03-20 20:21:00`|`Anti-Cheat Bypass`|
 |[Chivalry 2 Simple Lightweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/681745-chivalry-2-simple-lightweight-cheat.html)|`2025-03-20 20:19:00`|`Other Games`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-03-20 20:14:00`|`Playerunknown's Battlegrounds`|
