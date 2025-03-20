@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Source&#93; Triggerbot &#124; @cxmb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692505-source-triggerbot-cxmb.html)|`2025-03-21 06:12:00`|`Counter-Strike 2`|
+|[i need  free to  usb2&#46;0&#43;r3 Python cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/692567-free-usb2-0-r3-python-cheat.html)|`2025-03-21 06:10:00`|`Valorant`|
+|[We have got to come up with a way to communicate with each other in raid&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/692409-communicate-raid.html)|`2025-03-21 06:06:00`|`Escape from Tarkov`|
+|[Sniper Elite 4 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/692172-sniper-elite-4-internal.html)|`2025-03-21 06:05:00`|`Other MMORPG and Strategy`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-03-21 05:59:00`|`Other FPS Games`|
+|[ENSD Ban reports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/435486-ensd-ban-reports.html)|`2025-03-21 05:58:00`|`Elite: Dangerous`|
 |[How to develop  a internal cs2 cheat &#40;With a few hooks&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692660-develop-internal-cs2-cheat-hooks.html)|`2025-03-21 05:57:00`|`Counter-Strike 2`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-03-21 05:27:00`|`Escape from Tarkov`|
 |[any menu/trainers for version 0&#46;10&#46;1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/684235-menu-trainers-version-0-10-1-2-a.html)|`2025-03-21 05:18:00`|`Phasmophobia`|
