@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-03-20 20:14:00`|`Playerunknown's Battlegrounds`|
+|[manipulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/692370-manipulator.html)|`2025-03-20 20:05:00`|`Rust`|
+|[Apex Legends No Recoil &#91;Logitech Only&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/680089-apex-legends-recoil-logitech.html)|`2025-03-20 20:02:00`|`Apex Legends`|
+|[2025 &#45; Can Faceit Detect Arduino USB Host Sheild when spoofed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/692614-2025-faceit-detect-arduino-usb-host-sheild-spoofed.html)|`2025-03-20 20:02:00`|`Anti-Cheat Bypass`|
 |[FSL on Enhanced&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691977-fsl-enhanced.html)|`2025-03-20 19:47:00`|`Grand Theft Auto V`|
 |[Sigmaker for IDA Pro 9&#46;x RC1 &#40;stable&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/680672-sigmaker-ida-pro-9-rc1-stable.html)|`2025-03-20 19:13:00`|`General Programming and Reversing`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-03-20 19:06:00`|`Sea of Thieves`|
