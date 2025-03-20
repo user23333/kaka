@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-03-20 19:06:00`|`Sea of Thieves`|
+|[Best injector for x64 TF2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/692465-injector-x64-tf2.html)|`2025-03-20 18:59:00`|`Team Fortress 2`|
 |[Assoult Cube External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/692357-assoult-cube-external.html)|`2025-03-20 18:24:00`|`Other FPS Games`|
 |[map parsing auto wall?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692593-map-parsing-auto-wall.html)|`2025-03-20 18:21:00`|`Counter-Strike 2`|
 |[Steam Family Sharing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/688991-steam-family-sharing.html)|`2025-03-20 18:13:00`|`CounterStrike 1.5, 1.6 and Mods`|
