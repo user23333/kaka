@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How u can Get Ban reason ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/692201-ban-reason.html)|`2025-03-20 23:32:00`|`PUBG Mobile`|
+|[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2025-03-20 23:27:00`|`Combat Arms`|
 |[CS Legacy Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/692183-cs-legacy-game.html)|`2025-03-20 22:53:00`|`Counter-Strike 2 Releases`|
 |[Rust DMA cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/686969-rust-dma-cheats.html)|`2025-03-20 22:40:00`|`Half Life`|
 |[Anyone been manual banned since the final update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/692389-manual-banned-final-update.html)|`2025-03-20 22:30:00`|`Team Fortress 2`|
