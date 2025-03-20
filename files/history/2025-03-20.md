@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sigmaker for IDA Pro 9&#46;x RC1 &#40;stable&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/680672-sigmaker-ida-pro-9-rc1-stable.html)|`2025-03-20 19:13:00`|`General Programming and Reversing`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-03-20 19:06:00`|`Sea of Thieves`|
 |[Best injector for x64 TF2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/692465-injector-x64-tf2.html)|`2025-03-20 18:59:00`|`Team Fortress 2`|
 |[Assoult Cube External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/692357-assoult-cube-external.html)|`2025-03-20 18:24:00`|`Other FPS Games`|
