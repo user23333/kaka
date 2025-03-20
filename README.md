@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Assoult Cube External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/692357-assoult-cube-external.html)|`2025-03-20 18:24:00`|`Other FPS Games`|
+|[map parsing auto wall?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692593-map-parsing-auto-wall.html)|`2025-03-20 18:21:00`|`Counter-Strike 2`|
+|[Steam Family Sharing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/688991-steam-family-sharing.html)|`2025-03-20 18:13:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Always Finding Shadow CR3 &#40;without decryption&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684447-finding-shadow-cr3-decryption.html)|`2025-03-20 18:13:00`|`Valorant`|
 |[How to Perm Spoof a SSD NVMe the real way&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667328-perm-spoof-ssd-nvme-real.html)|`2025-03-20 17:50:00`|`Anti-Cheat Bypass`|
 |[CrossFire VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/687604-crossfire-vm.html)|`2025-03-20 17:32:00`|`CrossFire`|
 |[latest material output](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/692587-material-output.html)|`2025-03-20 17:30:00`|`Rust`|
