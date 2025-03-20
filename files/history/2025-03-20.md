@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HELP&#33; I'm making a lua executor for redm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/692575-help-im-lua-executor-redm.html)|`2025-03-20 13:35:00`|`Red Dead Redemption 2`|
+|[HWID Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/692298-hwid-spoofing.html)|`2025-03-20 13:34:00`|`Marvel Rivals`|
 |[GTA5&#95;Enchanced Basic DMA Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689945-gta5_enchanced-basic-dma-tool.html)|`2025-03-20 13:07:00`|`Grand Theft Auto V`|
 |[Solo Leveling Arise 1&#46;1&#46;16 &#40;Must have features&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/639981-solo-leveling-arise-1-1-16-features.html)|`2025-03-20 12:50:00`|`Other MMORPG and Strategy`|
 |[Palworld Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/620076-palworld-reversal-structs-offsets.html)|`2025-03-20 12:19:00`|`Palworld`|
