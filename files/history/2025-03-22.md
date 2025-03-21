@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Banning system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692818-banning-system.html)|`2025-03-22 02:41:00`|`Grand Theft Auto V`|
+|[GTA legacy modding to enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692813-gta-legacy-modding-enhanced.html)|`2025-03-22 02:32:00`|`Grand Theft Auto V`|
+|[Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692811-update.html)|`2025-03-22 02:15:00`|`Counter-Strike 2`|
 |[Signatures for nightmode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692507-signatures-nightmode.html)|`2025-03-22 02:39:00`|`Counter-Strike 2`|
 |[FiveM "ResourceManager" &#43; "RuntimeStack"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/692814-fivem-resourcemanager-runtimestack.html)|`2025-03-22 02:32:00`|`Alternative Online Mods`|
 |[external only bone esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692238-external-bone-esp.html)|`2025-03-22 02:30:00`|`Counter-Strike 2`|
