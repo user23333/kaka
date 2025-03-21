@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Path of Exile 1 &#40;3&#46;25&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/692742-path-exile-1-3-25-a.html)|`2025-03-21 16:52:00`|`Other MMORPG and Strategy`|
+|[dma  long speed test issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/692741-dma-speed-test-issue.html)|`2025-03-21 16:51:00`|`PC Hardware`|
 |[zap&#45;client &#91;Legitbot, Ragebot, Glow, ESP & More&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/628823-zap-client-legitbot-ragebot-glow-esp.html)|`2025-03-21 16:34:00`|`Apex Legends`|
 |[Grenade Warning](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692739-grenade-warning.html)|`2025-03-21 16:32:00`|`Counter-Strike 2`|
 |[How driver mappers work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/690446-driver-mappers.html)|`2025-03-21 16:24:00`|`General Programming and Reversing`|
