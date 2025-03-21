@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What would be a good upgrade?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/692411-upgrade.html)|`2025-03-21 10:12:00`|`PC Hardware`|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2025-03-21 09:49:00`|`Valorant`|
+|[Roblox Reversals: A Guide To Finding DataModel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689780-roblox-reversals-guide-finding-datamodel.html)|`2025-03-21 09:31:00`|`Other Games`|
+|[GTA V enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692693-gta-enhanced.html)|`2025-03-21 09:25:00`|`Grand Theft Auto V`|
+|[Get player names externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/692355-player-names-externally.html)|`2025-03-21 09:25:00`|`Alternative Online Mods`|
 |[Interception On Computer Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/692366-interception-computer-question.html)|`2025-03-21 08:11:00`|`Maple Story`|
 |[Help with mouse movement &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/692689-help-mouse-movement.html)|`2025-03-21 07:56:00`|`Valorant`|
 |[Destruction is imminent&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/692686-destruction-imminent.html)|`2025-03-21 07:28:00`|`Off Topic`|
