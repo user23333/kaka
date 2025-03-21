@@ -26,9 +26,13 @@
 |26|[fusion&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49071)|`2025-03-22 00:22:05`|
 |2|[5&#46;3&#46;2&#45;1727990&#43;&#43;&#43;depot&#95;marvel&#43;S1&#95;2&#95;release&#45;Mar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49095)|`2025-03-22 02:39:55`|
 |2|[AssoultCube&#45;ExternalV2&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49084)|`2025-03-22 02:39:55`|
+|1|[IDA&#95;SigMaker64&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49081)|`2025-03-22 03:37:02`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BGMI 3&#46;7 32&#45;bit SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/691406-bgmi-3-7-32-bit-sdk.html)|`2025-03-22 03:36:00`|`PUBG Mobile`|
+|[@thedoubledoor Internal Base updated 21&#46;03&#46;2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/692761-thedoubledoor-internal-base-updated-21-03-2025-a.html)|`2025-03-22 03:36:00`|`Marvel Rivals`|
+|[SigMakerEx 1&#46;1&#46;3 for IDA 9&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/692578-sigmakerex-1-1-3-ida-9-1-a.html)|`2025-03-22 03:34:00`|`General Programming and Reversing`|
 |[Apex yolov11 AI AimAssistant&#40;Logitech Ghub&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/688904-apex-yolov11-ai-aimassistant-logitech-ghub.html)|`2025-03-22 03:28:00`|`Apex Legends`|
 |[External cheat GS/Steam WG/ECD bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/692681-external-cheat-gs-steam-wg-ecd-bypass.html)|`2025-03-22 03:26:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Injection detect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/692824-injection-detect.html)|`2025-03-22 03:21:00`|`Marvel Rivals`|
