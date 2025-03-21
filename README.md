@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[external silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692753-external-silent-aim.html)|`2025-03-21 18:12:00`|`Counter-Strike 2`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-03-21 18:12:00`|`Phasmophobia`|
+|[CCSGOInput New Struct&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692747-ccsgoinput-struct.html)|`2025-03-21 18:06:00`|`Counter-Strike 2`|
 |[Chivalry 2 Heaveyweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689993-chivalry-2-heaveyweight-cheat.html)|`2025-03-21 17:53:00`|`Other Games`|
 |[Ped Dropper for GTA5 Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692744-ped-dropper-gta5-enhanced.html)|`2025-03-21 17:44:00`|`Grand Theft Auto V`|
 |[Looking for a Cheat Engine CT file with God Mode &#43; Teleport for GTA V Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691213-looking-cheat-engine-ct-file-god-mode-teleport-gta-enhanced.html)|`2025-03-21 17:33:00`|`Grand Theft Auto V`|
