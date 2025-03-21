@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Best Marvel Rivals Cheat with arduino support&#40;it is optional&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/692711-marvel-rivals-cheat-arduino-support-optional.html)|`2025-03-21 13:47:00`|`Marvel Rivals`|
 |[Learned C&#43;&#43;, someone point me towards how to inject my cheat internal?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/691885-learned-towards-inject-cheat-internal.html)|`2025-03-21 13:41:00`|`Escape from Tarkov`|
 |[The Best Valorant UD Cheat with Vanguard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/692709-valorant-ud-cheat-vanguard-bypass.html)|`2025-03-21 13:27:00`|`Valorant`|
 |[Editing paks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/692708-editing-paks.html)|`2025-03-21 13:25:00`|`Sea of Thieves`|
