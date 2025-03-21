@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[looking for valorant external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/692720-looking-valorant-external.html)|`2025-03-21 14:52:00`|`Valorant`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-03-21 14:46:00`|`ARMA 3`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-03-21 14:20:00`|`Escape from Tarkov`|
 |[Unlock/XP Tool?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/692714-unlock-xp-tool.html)|`2025-03-21 14:13:00`|`Battlefield 4`|
 |[The Best Marvel Rivals Cheat with arduino support&#40;it is optional&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/692711-marvel-rivals-cheat-arduino-support-optional.html)|`2025-03-21 13:47:00`|`Marvel Rivals`|
