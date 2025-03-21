@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 External &#124; Aimbot Visibility Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691903-cs2-external-aimbot-visibility-check.html)|`2025-03-21 10:35:00`|`Counter-Strike 2`|
+|[Creating an aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/692626-creating-aimbot.html)|`2025-03-21 10:17:00`|`Valorant`|
+|[Anticheat running can live view my pc, stolen any file on my pc, how to avoid ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/692240-anticheat-running-live-view-pc-stolen-file-pc-avoid.html)|`2025-03-21 10:16:00`|`Anti-Cheat Bypass`|
 |[What would be a good upgrade?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/692411-upgrade.html)|`2025-03-21 10:12:00`|`PC Hardware`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2025-03-21 09:49:00`|`Valorant`|
 |[Roblox Reversals: A Guide To Finding DataModel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689780-roblox-reversals-guide-finding-datamodel.html)|`2025-03-21 09:31:00`|`Other Games`|
