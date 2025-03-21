@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VAC Banned After 800&#43; Hours of Modding – What’s Going On?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/691395-vac-banned-800-hours-modding.html)|`2025-03-21 22:02:00`|`Call of Duty 6: Modern Warfare 2`|
 |[GTAVTool &#45; Replay Glitch Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/636267-gtavtool-replay-glitch-tool.html)|`2025-03-21 21:52:00`|`Grand Theft Auto V`|
 |[Unlocker Information](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/692777-unlocker-information.html)|`2025-03-21 21:52:00`|`Call of Duty: Black Ops 6`|
 |[BO6/WZ Icon Platform spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/691754-bo6-wz-icon-platform-spoofer.html)|`2025-03-21 21:45:00`|`Call of Duty: Black Ops 6`|
