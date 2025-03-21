@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Point blank static pointers &#40;CE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/692705-blank-static-pointers-ce.html)|`2025-03-21 12:44:00`|`Other FPS Games`|
 |[My Account Got Locked Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/692563-account-locked-valorant.html)|`2025-03-21 12:41:00`|`Valorant`|
 |[ESP for Outlawed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/687518-esp-outlawed.html)|`2025-03-21 12:39:00`|`Other FPS Games`|
 |[Unable to get the static pointer from an address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/692704-unable-static-pointer-address.html)|`2025-03-21 12:37:00`|`General Programming and Reversing`|
