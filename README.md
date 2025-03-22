@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to make SoT Cheats &#40;External&#41; C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/682398-sot-cheats-external.html)|`2025-03-22 17:36:00`|`Sea of Thieves`|
 |[Cs2 subtick based bhop/strafe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692916-cs2-subtick-based-bhop-strafe.html)|`2025-03-22 17:34:00`|`Counter-Strike 2`|
 |[Nom AHK Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/runescape/580621-nom-ahk-updated.html)|`2025-03-22 17:29:00`|`RuneScape`|
 |[How to Perm Spoof a SSD NVMe the real way&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667328-perm-spoof-ssd-nvme-real.html)|`2025-03-22 17:14:00`|`Anti-Cheat Bypass`|
