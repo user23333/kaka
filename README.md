@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unable to get the static pointer from an address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/692704-unable-static-pointer-address.html)|`2025-03-23 04:17:00`|`General Programming and Reversing`|
+|[superBADinternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690904-superbadinternal.html)|`2025-03-23 04:13:00`|`Marvel Rivals`|
+|[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-03-23 04:08:00`|`Marvel Rivals`|
+|[epic games launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/692849-epic-games-launcher.html)|`2025-03-23 04:06:00`|`Escape from Tarkov`|
+|[Bhop Strafe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693043-bhop-strafe.html)|`2025-03-23 04:01:00`|`Counter-Strike 2`|
 |[do we need real programmers now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690901-real-programmers.html)|`2025-03-23 03:59:00`|`Grand Theft Auto V`|
 |[HWID ban &#43; finding good cheat &#40;less bannable&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/686011-hwid-ban-finding-cheat-bannable.html)|`2025-03-23 03:53:00`|`Escape from Tarkov`|
 |[basic chams base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/688179-basic-chams-base.html)|`2025-03-23 03:36:00`|`Call of Duty: Black Ops 6`|
