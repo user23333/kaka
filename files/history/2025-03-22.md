@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Creating an aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/692626-creating-aimbot.html)|`2025-03-22 11:37:00`|`Valorant`|
+|[Overwatch1 Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/692100-overwatch1-internal-cheat.html)|`2025-03-22 11:29:00`|`Overwatch`|
+|[R&#46;E&#46;P&#46;O&#46; Enemy Spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691356-enemy-spawner.html)|`2025-03-22 11:25:00`|`Other FPS Games`|
 |[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-03-22 11:08:00`|`Battlefield 4`|
 |[UD Injector/CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/686797-ud-injector-ce.html)|`2025-03-22 10:49:00`|`Marvel Rivals`|
 |[FOV/Aimbot/QuickSwap and more PAK Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/692127-fov-aimbot-quickswap-pak-files.html)|`2025-03-22 10:43:00`|`Sea of Thieves`|
