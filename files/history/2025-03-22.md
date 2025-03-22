@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2025-03-22 19:26:00`|`Tom Clancy's The Division`|
 |[DoMovement Recreation & Projectile Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/692381-domovement-recreation-projectile-update.html)|`2025-03-22 19:07:00`|`Rust`|
 |[Battlefield 1 Cheat 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/692923-battlefield-1-cheat-2025-a.html)|`2025-03-22 18:36:00`|`Battlefield 1`|
 |[HWID BAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/692922-hwid-ban.html)|`2025-03-22 18:30:00`|`Valorant`|
