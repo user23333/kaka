@@ -12,6 +12,7 @@
 |15|[FOV/Aimbot/QuickSwap and more PAK Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/692127-fov-aimbot-quickswap-pak-files.html)|`2025-03-23 00:10:10`|`sea-of-thieves`|
 |10|[De&#45;/Encryption Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/692185-de-encryption-dumper.html)|`2025-03-23 00:10:10`|`rust`|
 |14|[Overwatch1 Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/692100-overwatch1-internal-cheat.html)|`2025-03-23 01:30:17`|`overwatch`|
+|13|[Anticheat running can live view my pc, stolen any file on my pc, how to avoid ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/692240-anticheat-running-live-view-pc-stolen-file-pc-avoid.html)|`2025-03-23 03:53:28`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
