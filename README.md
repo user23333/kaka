@@ -40,6 +40,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help for hand chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692996-help-hand-chams.html)|`2025-03-22 22:33:00`|`Counter-Strike 2`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-03-22 22:33:00`|`Rainbow Six Siege`|
+|[EAC DMA cr3 shuffling fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677322-eac-dma-cr3-shuffling-fix.html)|`2025-03-22 22:33:00`|`Anti-Cheat Bypass`|
+|[Dale and Dawson Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/664163-dale-dawson-mod-menu.html)|`2025-03-22 22:33:00`|`Other Games`|
+|[Looking for Guidance on ESP for R6 After Ban – Best Undetected Options?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/692878-looking-guidance-esp-r6-ban-undetected-options.html)|`2025-03-22 22:31:00`|`Rainbow Six Siege`|
+|[Operation Throwback ct](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/692548-operation-throwback-ct.html)|`2025-03-22 22:26:00`|`Rainbow Six Siege`|
+|[Simple AFK &#40;FARM&#41; BOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/691935-simple-afk-farm-bot.html)|`2025-03-22 22:24:00`|`Rainbow Six Siege`|
+|[community server anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692992-community-server-anticheat.html)|`2025-03-22 22:24:00`|`Counter-Strike 2`|
+|[Dead By Daylight DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682901-dead-daylight-dma-esp.html)|`2025-03-22 22:22:00`|`Other FPS Games`|
 |[Dale & Dawson Stationery Supplies Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/673690-dale-dawson-stationery-supplies-tool.html)|`2025-03-22 22:09:00`|`Unity`|
 |[GTA Online kicks me from public servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692873-gta-online-kicks-public-servers.html)|`2025-03-22 22:01:00`|`Grand Theft Auto V`|
 |[FragPunk Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691207-fragpunk-ban.html)|`2025-03-22 21:56:00`|`Other FPS Games`|
