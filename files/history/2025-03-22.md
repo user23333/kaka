@@ -40,6 +40,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Account Got Locked Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/692563-account-locked-valorant.html)|`2025-03-22 23:51:00`|`Valorant`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-03-22 23:49:00`|`Counter-Strike 2`|
 |[fnInit pattern](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693002-fninit-pattern.html)|`2025-03-22 23:49:00`|`Counter-Strike 2`|
 |[WF Still Alive? Lol](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/691371-wf-alive-lol.html)|`2025-03-22 23:46:00`|`Warface`|
