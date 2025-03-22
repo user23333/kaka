@@ -14,6 +14,7 @@
 |2|[Fragpunk Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691815-fragpunk-cheat.html)|`2025-03-22 03:42:54`|`other-fps-games`|
 |15|[external only bone esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692238-external-bone-esp.html)|`2025-03-22 04:08:41`|`counter-strike-2-a`|
 |14|[FOV/Aimbot/QuickSwap and more PAK Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/692127-fov-aimbot-quickswap-pak-files.html)|`2025-03-22 17:53:52`|`sea-of-thieves`|
+|10|[De&#45;/Encryption Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/692185-de-encryption-dumper.html)|`2025-03-22 21:16:51`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -39,6 +40,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CN Valorant DMAbypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/692938-cn-valorant-dmabypass.html)|`2025-03-22 21:11:00`|`Valorant`|
+|[Pro CS2 DMA &#45; Esp & Aimbot & Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656442-pro-cs2-dma-esp-aimbot-web-radar.html)|`2025-03-22 21:03:00`|`Counter-Strike 2`|
 |[Having trouble hooking Marvel Rivals, I think&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/691018-trouble-hooking-marvel-rivals.html)|`2025-03-22 20:54:00`|`Marvel Rivals`|
 |[7DTD 1&#46;2 Creative and Debug Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/679721-7dtd-1-2-creative-debug-assembly-csharp-dll.html)|`2025-03-22 20:49:00`|`Other FPS Games`|
 |[basic chams base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/688179-basic-chams-base.html)|`2025-03-22 20:45:00`|`Call of Duty: Black Ops 6`|
