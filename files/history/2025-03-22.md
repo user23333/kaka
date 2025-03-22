@@ -39,6 +39,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Battlefield 1 Cheat 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/692923-battlefield-1-cheat-2025-a.html)|`2025-03-22 18:36:00`|`Battlefield 1`|
+|[HWID BAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/692922-hwid-ban.html)|`2025-03-22 18:30:00`|`Valorant`|
+|[Is there a way to change gender?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692888-change-gender.html)|`2025-03-22 18:19:00`|`Grand Theft Auto V`|
 |[Project Bloodstrike PC Esp Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/619430-project-bloodstrike-pc-esp-aimbot.html)|`2025-03-22 17:59:00`|`Other FPS Games`|
 |[How to make SoT Cheats &#40;External&#41; C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/682398-sot-cheats-external.html)|`2025-03-22 17:36:00`|`Sea of Thieves`|
 |[Cs2 subtick based bhop/strafe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692916-cs2-subtick-based-bhop-strafe.html)|`2025-03-22 17:34:00`|`Counter-Strike 2`|
