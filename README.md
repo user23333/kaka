@@ -40,6 +40,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-03-22 23:49:00`|`Counter-Strike 2`|
+|[fnInit pattern](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693002-fninit-pattern.html)|`2025-03-22 23:49:00`|`Counter-Strike 2`|
+|[WF Still Alive? Lol](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/691371-wf-alive-lol.html)|`2025-03-22 23:46:00`|`Warface`|
 |[Latest 2024 UnBan Method &#45; EAC/BE And Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/676059-2024-unban-method-eac.html)|`2025-03-22 23:40:00`|`Anti-Cheat Bypass`|
 |[Is there a way to use Kiddion's menu on GTAV Enhanced Edition Story Mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692998-kiddions-menu-gtav-enhanced-edition-story-mode.html)|`2025-03-22 22:45:00`|`Grand Theft Auto V`|
 |[Cs2 Skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690485-cs2-skinchanger.html)|`2025-03-22 22:40:00`|`Counter-Strike 2`|
