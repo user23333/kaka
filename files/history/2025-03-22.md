@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-03-22 14:31:00`|`Other FPS Games`|
+|[aimbot chest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692218-aimbot-chest.html)|`2025-03-22 14:24:00`|`Counter-Strike 2`|
 |[Bodycam Internal Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691853-bodycam-internal-updated.html)|`2025-03-22 14:05:00`|`Other FPS Games`|
 |[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2025-03-22 13:35:00`|`Other Games`|
 |[&#91;DMA&#93; PoC 1&#46;8&#46;9 infinite jump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/669724-dma-poc-1-8-9-infinite-jump.html)|`2025-03-22 13:04:00`|`Minecraft`|
