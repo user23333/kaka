@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-03-23 05:08:00`|`ARMA 3`|
+|[cs2 older version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693049-cs2-version.html)|`2025-03-23 05:05:00`|`Counter-Strike 2`|
+|[Using game structs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/692829-using-game-structs.html)|`2025-03-23 05:04:00`|`General Programming and Reversing`|
+|[How do I start?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691819-start.html)|`2025-03-23 05:03:00`|`Counter-Strike 2`|
 |[CCSGOInput New Struct&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692747-ccsgoinput-struct.html)|`2025-03-23 04:55:00`|`Counter-Strike 2`|
 |[Tutorial &#124; What is DMA and How to Install it&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/685521-tutorial-dma-install.html)|`2025-03-23 04:41:00`|`General Programming and Reversing`|
 |[Unable to get the static pointer from an address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/692704-unable-static-pointer-address.html)|`2025-03-23 04:17:00`|`General Programming and Reversing`|
