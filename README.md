@@ -27,9 +27,12 @@
 |11|[AssoultCube&#45;ExternalV2&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49085)|`2025-03-23 00:10:10`|
 |14|[AssoultCube&#45;ExternalV2&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49084)|`2025-03-23 00:10:10`|
 |17|[material&#95;output&#46;txt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49083)|`2025-03-23 00:10:10`|
+|4|[cs2&#45;external&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49110)|`2025-03-23 06:15:29`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lazybead &#40;LB&#41; &#45; Free Cheat &#40;COMING SOON&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat-coming-soon.html)|`2025-03-23 06:12:00`|`Sea of Thieves`|
+|[CS2 party spammer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693051-cs2-party-spammer.html)|`2025-03-23 06:11:00`|`Counter-Strike 2`|
 |[Intro to a novice in a world leaping to the future](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/692713-intro-novice-world-leaping-future.html)|`2025-03-23 05:57:00`|`Forum General`|
 |[Creating an aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/692626-creating-aimbot.html)|`2025-03-23 05:46:00`|`Valorant`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-03-23 05:34:00`|`Marvel Rivals`|
