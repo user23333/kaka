@@ -37,9 +37,13 @@
 |3|[DuneCore v1&#46;5&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49103)|`2025-03-23 18:30:06`|
 |1|[GTA V solo public session &#45; whitelist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49106)|`2025-03-23 18:45:24`|
 |1|[Dark And Darker Internal 80&#45;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49105)|`2025-03-23 18:57:23`|
+|1|[&#91;@cxmb&#93; No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49114)|`2025-03-23 19:11:09`|
+|1|[R&#46;E&#46;P&#46;O&#46; v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49107)|`2025-03-23 19:11:09`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Blue box on nuke not in vmdl&#95;c phys data](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693110-blue-box-nuke-vmdl_c-phys-data.html)|`2025-03-23 19:03:00`|`Counter-Strike 2`|
+|[R&#46;E&#46;P&#46;O&#46; Enemy Spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691356-enemy-spawner.html)|`2025-03-23 19:00:00`|`Other FPS Games`|
 |[Dark and Darker Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690457-dark-darker-internal.html)|`2025-03-23 18:56:00`|`Other FPS Games`|
 |[GTA V solo public session](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691753-gta-solo-public-session.html)|`2025-03-23 18:44:00`|`Grand Theft Auto V`|
 |[handle&#95;bullet&#95;penetration crashes the game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693102-handle_bullet_penetration-crashes-game.html)|`2025-03-23 18:27:00`|`Counter-Strike 2`|
