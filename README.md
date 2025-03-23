@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need some light with Hypervisor Development](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693083-light-hypervisor-development.html)|`2025-03-23 12:31:00`|`Anti-Cheat Bypass`|
 |[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2025-03-23 12:19:00`|`Apex Legends`|
 |[cs2 esp rendering world entity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/682564-cs2-esp-rendering-world-entity.html)|`2025-03-23 12:02:00`|`Forum General`|
 |[anticheetah &#124; cheat for Cheaters Cheetah](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/693081-anticheetah-cheat-cheaters-cheetah.html)|`2025-03-23 12:01:00`|`Other FPS Games`|
