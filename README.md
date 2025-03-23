@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-03-24 04:38:00`|`Battlefield 4`|
+|[Skybox color changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693099-skybox-color-changer.html)|`2025-03-24 04:36:00`|`Counter-Strike 2`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-03-24 04:29:00`|`Counter-Strike 2`|
 |[BEST HARDWARE BYPASS &#45; better than km and arduino &#124; MAKCU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/693229-hardware-bypass-km-arduino-makcu.html)|`2025-03-24 04:12:00`|`Valorant`|
 |[Ghosts of Tabor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/574607-ghosts-tabor.html)|`2025-03-24 04:11:00`|`Other FPS Games`|
