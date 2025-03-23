@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[picanha beta](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/692533-picanha-beta.html)|`2025-03-23 16:29:00`|`General Programming and Reversing`|
+|[CS 1&#46;6 Steam Build 10210 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/693063-cs-1-6-steam-build-10210-offsets.html)|`2025-03-23 16:28:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Universal DLL Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/691198-universal-dll-injector.html)|`2025-03-23 16:27:00`|`Marvel Rivals`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-03-23 16:18:00`|`Counter-Strike 2`|
 |[Manipulating Process Event Function Arguments](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/693096-manipulating-process-event-function-arguments.html)|`2025-03-23 16:05:00`|`Unreal Engine 4`|
 |[Pro CS2 DMA &#45; Esp & Aimbot & Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656442-pro-cs2-dma-esp-aimbot-web-radar.html)|`2025-03-23 15:43:00`|`Counter-Strike 2`|
 |[r6 ban question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/693094-r6-ban-question.html)|`2025-03-23 15:30:00`|`Rainbow Six Siege`|
