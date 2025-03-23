@@ -33,9 +33,17 @@
 |1|[Materials&#46;h](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49111)|`2025-03-23 16:43:42`|
 |2|[Delta Force 1&#46;102&#46;37100&#46;16&#46;5 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49109)|`2025-03-23 16:49:44`|
 |1|[5&#46;3&#46;2&#45;1727990&#43;&#43;&#43;marvel&#43;S1&#95;2&#95;release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49108)|`2025-03-23 16:55:49`|
+|4|[External cs 1&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49104)|`2025-03-23 18:30:06`|
+|3|[DuneCore v1&#46;5&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49103)|`2025-03-23 18:30:06`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[handle&#95;bullet&#95;penetration crashes the game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693102-handle_bullet_penetration-crashes-game.html)|`2025-03-23 18:27:00`|`Counter-Strike 2`|
+|[The TCSM Trainer &#40;Outline ESP, Godmode, Invisible, more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/598623-tcsm-trainer-outline-esp-godmode-invisible.html)|`2025-03-23 18:25:00`|`Other FPS Games`|
+|[Creating / Beginning to create Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/692525-creating-beginning-create-cheats.html)|`2025-03-23 18:21:00`|`Programming for Beginners`|
+|[help creating an external overlay c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/692983-help-creating-external-overlay.html)|`2025-03-23 18:19:00`|`Programming for Beginners`|
+|[apex color aimbot,c&#43;&#43; 80days 0ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/684954-apex-color-aimbot-80days-0ban.html)|`2025-03-23 18:17:00`|`Apex Legends`|
+|[External cheat GS/Steam WG/ECD bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/692681-external-cheat-gs-steam-wg-ecd-bypass.html)|`2025-03-23 18:17:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Skybox color changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693099-skybox-color-changer.html)|`2025-03-23 17:54:00`|`Counter-Strike 2`|
 |[Triggerbot &#124; UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692642-triggerbot-ud.html)|`2025-03-23 17:41:00`|`Counter-Strike 2`|
 |[Signatures for nightmode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692507-signatures-nightmode.html)|`2025-03-23 17:32:00`|`Counter-Strike 2`|
