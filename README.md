@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[can someone please help?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693048-please-help.html)|`2025-03-23 17:10:00`|`Counter-Strike 2`|
 |[Duping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/692080-duping.html)|`2025-03-23 17:05:00`|`Minecraft`|
 |[STALCRAFT chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/624558-stalcraft-chams.html)|`2025-03-23 17:02:00`|`Minecraft`|
 |[How u can Get Ban reason ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/692201-ban-reason.html)|`2025-03-23 16:51:00`|`PUBG Mobile`|
