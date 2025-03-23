@@ -40,6 +40,8 @@
 |1|[&#91;@cxmb&#93; No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49114)|`2025-03-23 19:11:09`|
 |1|[R&#46;E&#46;P&#46;O&#46; v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49107)|`2025-03-23 19:11:09`|
 |2|[anticheetah source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49115)|`2025-03-23 19:23:17`|
+|1|[picanha](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49117)|`2025-03-23 19:29:23`|
+|1|[anticheetah compiled dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49116)|`2025-03-23 19:29:23`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
