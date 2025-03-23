@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can someone help me find this script?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/693239-help-script.html)|`2025-03-24 06:43:00`|`Rainbow Six Siege`|
+|[Process Hacker not injecting after i reseted my pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/693009-process-hacker-injecting-reseted-pc.html)|`2025-03-24 06:37:00`|`Other FPS Games`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-03-24 06:19:00`|`Other MMORPG and Strategy`|
 |[simple glow snippet &#40;internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685218-simple-glow-snippet-internal.html)|`2025-03-24 06:19:00`|`Marvel Rivals`|
 |[DuneCore Triggerbot &#45; &#40;Source Code&#41; &#124; @cxmb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693238-dunecore-triggerbot-source-code-cxmb.html)|`2025-03-24 06:18:00`|`Counter-Strike 2`|
