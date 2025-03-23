@@ -32,9 +32,11 @@
 |1|[Prefabs&#46;h](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49112)|`2025-03-23 16:43:42`|
 |1|[Materials&#46;h](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49111)|`2025-03-23 16:43:42`|
 |2|[Delta Force 1&#46;102&#46;37100&#46;16&#46;5 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49109)|`2025-03-23 16:49:44`|
+|1|[5&#46;3&#46;2&#45;1727990&#43;&#43;&#43;marvel&#43;S1&#95;2&#95;release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49108)|`2025-03-23 16:55:49`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How u can Get Ban reason ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/692201-ban-reason.html)|`2025-03-23 16:51:00`|`PUBG Mobile`|
 |[picanha beta](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/692533-picanha-beta.html)|`2025-03-23 16:29:00`|`General Programming and Reversing`|
 |[CS 1&#46;6 Steam Build 10210 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/693063-cs-1-6-steam-build-10210-offsets.html)|`2025-03-23 16:28:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Universal DLL Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/691198-universal-dll-injector.html)|`2025-03-23 16:27:00`|`Marvel Rivals`|
