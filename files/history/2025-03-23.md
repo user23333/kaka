@@ -45,6 +45,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to Make Injecotr BattlEye Unturned Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693118-injecotr-battleye-unturned-game.html)|`2025-03-23 20:23:00`|`Anti-Cheat Bypass`|
+|[CS2 RayTrace](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693117-cs2-raytrace.html)|`2025-03-23 20:20:00`|`Counter-Strike 2`|
+|[How to find online offline 10 years fix in UE4?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/693116-online-offline-10-fix-ue4.html)|`2025-03-23 20:11:00`|`PUBG Mobile`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-03-23 19:40:00`|`Escape from Tarkov`|
 |[GTAVTool &#45; Replay Glitch Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/636267-gtavtool-replay-glitch-tool.html)|`2025-03-23 19:15:00`|`Grand Theft Auto V`|
 |[External Silentaim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693111-external-silentaim.html)|`2025-03-23 19:12:00`|`Counter-Strike 2`|
