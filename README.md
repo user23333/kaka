@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Skybox color changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693099-skybox-color-changer.html)|`2025-03-23 17:54:00`|`Counter-Strike 2`|
 |[Triggerbot &#124; UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692642-triggerbot-ud.html)|`2025-03-23 17:41:00`|`Counter-Strike 2`|
 |[Signatures for nightmode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692507-signatures-nightmode.html)|`2025-03-23 17:32:00`|`Counter-Strike 2`|
 |[can someone please help?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693048-please-help.html)|`2025-03-23 17:10:00`|`Counter-Strike 2`|
