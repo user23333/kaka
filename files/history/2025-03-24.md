@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-03-24 03:50:00`|`Counter-Strike 2`|
+|[Need pluh for Redengine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/693228-pluh-redengine.html)|`2025-03-24 03:49:00`|`Alternative Online Mods`|
 |[External Silentaim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693111-external-silentaim.html)|`2025-03-24 03:37:00`|`Counter-Strike 2`|
 |[Handling input to ImGui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/692319-handling-input-imgui.html)|`2025-03-24 03:37:00`|`General Programming and Reversing`|
 |[Can i spoofing for PLATFORM ICON?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/685096-spoofing-platform-icon.html)|`2025-03-24 03:29:00`|`Apex Legends`|
