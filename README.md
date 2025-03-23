@@ -32,6 +32,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[C&#43;&#43; Color Triggerbot New Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691387-color-triggerbot-undetected.html)|`2025-03-23 10:41:00`|`Valorant`|
+|[&#91;Source&#93; No Recoil &#124; @cxmb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693076-source-recoil-cxmb.html)|`2025-03-23 10:41:00`|`Counter-Strike 2`|
+|[DEATH NOTE Killer Within Cheat &#45; Cosmetics, ESP, Kill anyone, spawn items, and more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/679215-death-note-killer-cheat-cosmetics-esp-kill-spawn-items.html)|`2025-03-23 10:40:00`|`Other Games`|
+|[Wallhack for Linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/692899-wallhack-linux.html)|`2025-03-23 10:34:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Reading CR3 From Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693074-reading-cr3-driver.html)|`2025-03-23 10:31:00`|`Anti-Cheat Bypass`|
+|[DuneCore &#45; CS2 Best Triggerbot so far &#40;for legit players&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691168-dunecore-cs2-triggerbot-legit-players.html)|`2025-03-23 10:18:00`|`Counter-Strike 2`|
+|[The Division 2 Triggerbot &#91;undetect btw&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/398356-division-2-triggerbot-undetect-btw.html)|`2025-03-23 10:17:00`|`Tom Clancy's The Division`|
+|[Is Rewasd Safe now](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/689196-rewasd-safe.html)|`2025-03-23 10:11:00`|`Apex Legends`|
+|[EA ban transfer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/692171-ea-ban-transfer.html)|`2025-03-23 10:07:00`|`Apex Legends`|
 |[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2025-03-23 09:10:00`|`Other MMORPG and Strategy`|
 |[Valorant insta headshot AIMBOT&#91;UNDETECTED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688675-valorant-insta-headshot-aimbot-undetected.html)|`2025-03-23 09:03:00`|`Valorant`|
 |[Why there is no hack for this game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/597118-hack-game.html)|`2025-03-23 08:55:00`|`Battlefield 2042`|
