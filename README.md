@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino Usb Host Shield Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/692906-arduino-usb-host-shield-spoofing.html)|`2025-03-24 07:22:00`|`Valorant`|
+|[Offset finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/693246-offset-finder.html)|`2025-03-24 07:19:00`|`Rust`|
+|[Offset finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/693244-offset-finder.html)|`2025-03-24 07:16:00`|`Rust`|
 |[UCAimColor Arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691080-ucaimcolor-arduino.html)|`2025-03-24 06:52:00`|`Valorant`|
 |[Can someone help me find this script?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/693239-help-script.html)|`2025-03-24 06:43:00`|`Rainbow Six Siege`|
 |[Process Hacker not injecting after i reseted my pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/693009-process-hacker-injecting-reseted-pc.html)|`2025-03-24 06:37:00`|`Other FPS Games`|
