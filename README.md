@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Generate OTP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/693087-generate-otp.html)|`2025-03-23 13:01:00`|`C and C++`|
 |[Skip Heists Prep on GTA V Enhanced Possibility](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693085-skip-heists-prep-gta-enhanced-possibility.html)|`2025-03-23 12:50:00`|`Grand Theft Auto V`|
 |[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2025-03-23 12:44:00`|`Grand Theft Auto V`|
 |[Need some light with Hypervisor Development](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693083-light-hypervisor-development.html)|`2025-03-23 12:31:00`|`Anti-Cheat Bypass`|
