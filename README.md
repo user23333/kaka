@@ -47,6 +47,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[razer cobra no recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/693084-razer-cobra-recoil.html)|`2025-03-23 22:29:00`|`Playerunknown's Battlegrounds`|
+|[hello everyone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/693104-hello.html)|`2025-03-23 22:28:00`|`Introductions`|
 |[help with detection overall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693133-help-detection-overall.html)|`2025-03-23 22:18:00`|`Counter-Strike 2`|
 |[Force Update Clothes on External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/693134-force-update-clothes-external.html)|`2025-03-23 22:13:00`|`Alternative Online Mods`|
 |[Creating an RP2040 colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/693131-creating-rp2040-colorbot.html)|`2025-03-23 22:10:00`|`Valorant`|
