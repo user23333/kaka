@@ -47,6 +47,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Creating an RP2040 colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/693131-creating-rp2040-colorbot.html)|`2025-03-23 22:10:00`|`Valorant`|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2025-03-23 22:06:00`|`Deadlock`|
 |[HWID BAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/692922-hwid-ban.html)|`2025-03-23 21:46:00`|`Valorant`|
 |[R&#46;E&#46;P&#46;O&#46; Simple Cheat // Credit D4rkks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690879-simple-cheat-credit-d4rkks.html)|`2025-03-23 21:44:00`|`Other FPS Games`|
 |[DayZ 1&#46;27 for modded launchers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/690903-dayz-1-27-modded-launchers.html)|`2025-03-23 20:58:00`|`DayZ SA`|
