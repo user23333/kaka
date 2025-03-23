@@ -29,6 +29,8 @@
 |14|[AssoultCube&#45;ExternalV2&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49084)|`2025-03-23 00:10:10`|
 |17|[material&#95;output&#46;txt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49083)|`2025-03-23 00:10:10`|
 |4|[cs2&#45;external&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49110)|`2025-03-23 06:15:29`|
+|1|[Prefabs&#46;h](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49112)|`2025-03-23 16:43:42`|
+|1|[Materials&#46;h](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49111)|`2025-03-23 16:43:42`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
