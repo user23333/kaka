@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-03-24 07:38:00`|`Counter-Strike 2`|
 |[Arduino Usb Host Shield Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/692906-arduino-usb-host-shield-spoofing.html)|`2025-03-24 07:22:00`|`Valorant`|
 |[Offset finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/693246-offset-finder.html)|`2025-03-24 07:19:00`|`Rust`|
 |[Offset finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/693244-offset-finder.html)|`2025-03-24 07:16:00`|`Rust`|
