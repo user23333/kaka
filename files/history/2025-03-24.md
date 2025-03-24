@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTA V enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692693-gta-enhanced.html)|`2025-03-24 22:42:00`|`Grand Theft Auto V`|
+|[All Mouse NoRecoil 1&#46;0 IS OUT &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-1-0-recoil-helpy-auto-config-probably-ud-universal.html)|`2025-03-24 22:34:00`|`Rainbow Six Siege`|
 |[Garry's Mod Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/685222-garrys-mod-reversal-structs-offsets.html)|`2025-03-24 22:27:00`|`Garry's Mod`|
 |[External Aimbot with dynamic hitbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693331-external-aimbot-dynamic-hitbox.html)|`2025-03-24 21:58:00`|`Counter-Strike 2`|
 |[any cheat working for SP zm/mp? Just for fun](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-vanguard/687069-cheat-sp-zm-mp-fun.html)|`2025-03-24 21:48:00`|`Call of Duty: Vanguard`|
