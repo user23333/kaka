@@ -12,6 +12,7 @@
 |16|[&#91;Source&#93; Triggerbot &#124; @cxmb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692505-source-triggerbot-cxmb.html)|`2025-03-24 00:10:20`|`counter-strike-2-a`|
 |9|[Replay Glitch AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692295-replay-glitch-ahk.html)|`2025-03-24 00:10:20`|`grand-theft-auto-v`|
 |6|[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693027-cs2-external-cheat.html)|`2025-03-24 12:57:42`|`counter-strike-2-a`|
+|13|[anticheetah &#124; cheat for Cheaters Cheetah](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/693081-anticheetah-cheat-cheaters-cheetah.html)|`2025-03-24 20:31:33`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-03-24 20:31:00`|`Grand Theft Auto V`|
+|[pasted CE table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/677920-pasted-ce-table.html)|`2025-03-24 20:30:00`|`Palworld`|
+|[Hello I need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693316-hello-help.html)|`2025-03-24 20:28:00`|`Counter-Strike 2`|
+|[GTAVTool &#45; Replay Glitch Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/636267-gtavtool-replay-glitch-tool.html)|`2025-03-24 20:25:00`|`Grand Theft Auto V`|
+|[BGMI: Grenade and Death Crate Visibility issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/691634-bgmi-grenade-death-crate-visibility-issue.html)|`2025-03-24 20:11:00`|`PUBG Mobile`|
+|[ipadView](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/693320-ipadview.html)|`2025-03-24 20:10:00`|`PUBG Mobile`|
 |[Can't write to memory with WriteProcessMemory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/693243-cant-write-memory-writeprocessmemory.html)|`2025-03-24 19:57:00`|`Team Fortress 2`|
 |[MXT Menu Crashes BO3 when I enter Zombies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/681602-mxt-menu-crashes-bo3-enter-zombies.html)|`2025-03-24 19:43:00`|`Call of Duty: Black Ops 3`|
 |[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-03-24 19:32:00`|`Call of Duty: Black Ops 3`|
