@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2025-03-25 03:50:00`|`Sea of Thieves`|
 |[theHunter: Call of the Wild &#40;Epic Games&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/693375-thehunter-call-wild-epic-games.html)|`2025-03-25 03:47:00`|`Other FPS Games`|
 |[Tarkov Pve Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/683099-tarkov-pve-cheat-engine.html)|`2025-03-25 03:44:00`|`Escape from Tarkov`|
 |[win11 24h2 hollowing process error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/667623-win11-24h2-hollowing-process-error.html)|`2025-03-25 03:40:00`|`General Programming and Reversing`|
