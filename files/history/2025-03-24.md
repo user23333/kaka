@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Quick stop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693280-quick-stop.html)|`2025-03-24 16:13:00`|`Counter-Strike 2`|
+|[CCSGOInput New Struct&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692747-ccsgoinput-struct.html)|`2025-03-24 16:12:00`|`Counter-Strike 2`|
+|[DMA DayZ Fuser ESP &#43; Radar Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/606723-dma-dayz-fuser-esp-radar-source-release.html)|`2025-03-24 16:11:00`|`DayZ SA`|
+|[PEB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/684460-peb.html)|`2025-03-24 16:09:00`|`Call of Duty: Black Ops 6`|
+|[External CUserCmdPB Set angles not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693276-external-cusercmdpb-set-angles.html)|`2025-03-24 16:05:00`|`Counter-Strike 2`|
+|[Get PEB By PID &#40; no need kernel &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/678983-peb-pid-kernel.html)|`2025-03-24 16:02:00`|`Call of Duty: Modern Warfare III`|
 |[Lua Script Cheat Table &#45;&#45; The Best Way](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/693255-lua-script-cheat-table.html)|`2025-03-24 15:57:00`|`General Programming and Reversing`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-03-24 15:37:00`|`Escape from Tarkov`|
 |[Is External Modding Dead in GTAO? A Look at the Current Scene](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693268-external-modding-dead-gtao-look-current-scene.html)|`2025-03-24 15:19:00`|`Grand Theft Auto V`|
