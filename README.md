@@ -25,6 +25,8 @@
 |19|[Materials&#46;h](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49111)|`2025-03-25 00:12:32`|
 |319|[cs2&#45;external&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49110)|`2025-03-25 00:12:32`|
 |1|[Sniper Elite 4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49134)|`2025-03-25 05:16:53`|
+|1|[theHunter: Call of the Wild &#40;Epic Games&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49132)|`2025-03-25 05:28:55`|
+|1|[Arma Reforger Reclass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49131)|`2025-03-25 05:28:55`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
