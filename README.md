@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 External &#124; Aimbot Visibility Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691903-cs2-external-aimbot-visibility-check.html)|`2025-03-24 13:29:00`|`Counter-Strike 2`|
+|[How Do Server Admins Detect the Location of Cheat Injection Files in FiveM?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/693241-server-admins-detect-location-cheat-injection-files-fivem.html)|`2025-03-24 13:25:00`|`Alternative Online Mods`|
 |[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-03-24 13:12:00`|`Other Games`|
 |[Point blank static pointers &#40;CE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/692705-blank-static-pointers-ce.html)|`2025-03-24 13:09:00`|`Other FPS Games`|
 |[TraceRay corrupting the stack?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/692643-traceray-corrupting-stack.html)|`2025-03-24 13:05:00`|`Counterstrike Global Offensive`|
