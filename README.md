@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[any cheat working for SP zm/mp? Just for fun](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-vanguard/687069-cheat-sp-zm-mp-fun.html)|`2025-03-24 21:48:00`|`Call of Duty: Vanguard`|
+|[33 immortals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/693330-33-immortals.html)|`2025-03-24 21:47:00`|`Other Games`|
 |[Anticheat running can live view my pc, stolen any file on my pc, how to avoid ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/692240-anticheat-running-live-view-pc-stolen-file-pc-avoid.html)|`2025-03-24 21:33:00`|`Anti-Cheat Bypass`|
 |[EA Anti&#45;cheat: Unable to run in a virtual machine 123](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/692288-ea-anti-cheat-unable-run-virtual-machine-123-a.html)|`2025-03-24 21:31:00`|`Anti-Cheat Bypass`|
 |[Bypass proxy validation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693327-bypass-proxy-validation.html)|`2025-03-24 21:24:00`|`Anti-Cheat Bypass`|
