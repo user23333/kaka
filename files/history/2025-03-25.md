@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Issues with Aimbot Prediction &#40;Bullet Travel Time&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/693396-issues-aimbot-prediction-bullet-travel-time.html)|`2025-03-25 07:05:00`|`Call of Duty: Modern Warfare`|
+|[DBD Cheats for max items](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/693395-dbd-cheats-max-items.html)|`2025-03-25 06:58:00`|`Other Games`|
 |[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2025-03-25 06:52:00`|`Elite: Dangerous`|
 |[Free Apex Coins/Cheap Coins Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/693249-free-apex-coins-cheap-coins-thread.html)|`2025-03-25 06:47:00`|`Apex Legends`|
 |[SoundSight: CS2 Audio ESP &#45; 3D Spatial Sound Radar for Enemy Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691687-soundsight-cs2-audio-esp-3d-spatial-sound-radar-enemy-detection.html)|`2025-03-25 06:38:00`|`Counter-Strike 2`|
