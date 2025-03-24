@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;DMA&#43;KMBOX&#93; Apex DMA Paste &#45; Glow&#43;Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/622378-dma-kmbox-apex-dma-paste-glow-aim.html)|`2025-03-25 02:39:00`|`Apex Legends`|
+|[Cs2 Voidware External Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693235-cs2-voidware-external-read.html)|`2025-03-25 02:33:00`|`Counter-Strike 2`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-03-25 02:32:00`|`Alternative Online Mods`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-03-25 02:20:00`|`Escape from Tarkov`|
 |[GTA V solo public session](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691753-gta-solo-public-session.html)|`2025-03-25 02:19:00`|`Grand Theft Auto V`|
 |[Point blank static pointers &#40;CE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/692705-blank-static-pointers-ce.html)|`2025-03-25 02:18:00`|`Other FPS Games`|
 |[C&C Renegade TT Source Code?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/680733-renegade-tt-source-code.html)|`2025-03-25 02:14:00`|`Off Topic`|
