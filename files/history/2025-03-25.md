@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[tool that removes viewmodel / makes it transparent?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/693393-tool-removes-viewmodel-makes-transparent.html)|`2025-03-25 06:31:00`|`Overwatch`|
+|[8 Ball Pool Library Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/692644-8-ball-pool-library-dump.html)|`2025-03-25 06:27:00`|`Other Games`|
+|[Render an ESP with Memflow and Discord](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/693253-render-esp-memflow-discord.html)|`2025-03-25 06:22:00`|`Apex Legends`|
+|[DirectX11 ImGui Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/693336-directx11-imgui-menu.html)|`2025-03-25 06:20:00`|`General Graphics`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-03-25 06:10:00`|`Rainbow Six Siege`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-03-25 05:59:00`|`Counter-Strike 2`|
 |[Editor BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/690109-editor-bo6.html)|`2025-03-25 05:58:00`|`Call of Duty: Black Ops 6`|
