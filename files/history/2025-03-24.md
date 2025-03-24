@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Faceit&#45;AC Driver Map Race](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693257-faceit-ac-driver-map-race.html)|`2025-03-24 11:17:00`|`Anti-Cheat Bypass`|
+|[Rust Driver not getting Module Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/687985-rust-driver-getting-module-base.html)|`2025-03-24 11:05:00`|`Rust`|
+|[How to Make Injecotr BattlEye Unturned Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693118-injecotr-battleye-unturned-game.html)|`2025-03-24 11:00:00`|`Anti-Cheat Bypass`|
+|[Can you hack to gain money online on enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693256-hack-gain-money-online-enhanced.html)|`2025-03-24 10:44:00`|`Grand Theft Auto V`|
 |[Skip Heists Prep on GTA V Enhanced Possibility](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693085-skip-heists-prep-gta-enhanced-possibility.html)|`2025-03-24 10:42:00`|`Grand Theft Auto V`|
 |[ANEURISM IV &#45; Steam game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691595-aneurism-iv-steam-game.html)|`2025-03-24 10:24:00`|`Other Games`|
 |[epic games launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/692849-epic-games-launcher.html)|`2025-03-24 10:15:00`|`Escape from Tarkov`|
