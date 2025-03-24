@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Faceit&#45;AC Driver Map Race](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693257-faceit-ac-driver-map-race.html)|`2025-03-25 01:33:00`|`Anti-Cheat Bypass`|
+|[VacLive for the little](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693037-vaclive-little.html)|`2025-03-25 01:33:00`|`Counter-Strike 2`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-03-25 01:32:00`|`Playerunknown's Battlegrounds`|
 |[Ultimate Hack Menu for Schedule I: Free Sample &#45; Version 1&#46;0 Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/693355-ultimate-hack-menu-schedule-free-sample-version-1-0-update.html)|`2025-03-25 01:27:00`|`Other Games`|
 |[Full Anticheat Disabler &#40;You can play online&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687866-anticheat-disabler-play-online.html)|`2025-03-25 01:26:00`|`Marvel Rivals`|
 |[External Raycasting &#40;PhysX recreation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673196-external-raycasting-physx-recreation.html)|`2025-03-25 01:25:00`|`Escape from Tarkov`|
