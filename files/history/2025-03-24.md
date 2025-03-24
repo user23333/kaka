@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Grand Theft Auto V Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144819-grand-theft-auto-scripting.html)|`2025-03-24 11:33:00`|`Grand Theft Auto V`|
 |[Faceit&#45;AC Driver Map Race](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693257-faceit-ac-driver-map-race.html)|`2025-03-24 11:17:00`|`Anti-Cheat Bypass`|
 |[Rust Driver not getting Module Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/687985-rust-driver-getting-module-base.html)|`2025-03-24 11:05:00`|`Rust`|
 |[How to Make Injecotr BattlEye Unturned Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693118-injecotr-battleye-unturned-game.html)|`2025-03-24 11:00:00`|`Anti-Cheat Bypass`|
