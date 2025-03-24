@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Free Apex Coins/Cheap Coins Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/693249-free-apex-coins-cheap-coins-thread.html)|`2025-03-25 06:47:00`|`Apex Legends`|
 |[SoundSight: CS2 Audio ESP &#45; 3D Spatial Sound Radar for Enemy Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691687-soundsight-cs2-audio-esp-3d-spatial-sound-radar-enemy-detection.html)|`2025-03-25 06:38:00`|`Counter-Strike 2`|
 |[Silent Aim Crashing Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/693315-silent-aim-crashing-game.html)|`2025-03-25 06:37:00`|`Alternative Online Mods`|
 |[tool that removes viewmodel / makes it transparent?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/693393-tool-removes-viewmodel-makes-transparent.html)|`2025-03-25 06:31:00`|`Overwatch`|
