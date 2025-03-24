@@ -26,9 +26,12 @@
 |7|[5&#46;3&#46;2&#45;1727990&#43;&#43;&#43;marvel&#43;S1&#95;2&#95;release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49108)|`2025-03-24 00:10:20`|
 |8|[R&#46;E&#46;P&#46;O&#46; v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49107)|`2025-03-24 00:10:20`|
 |6|[Voidware External read only CS2 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49118)|`2025-03-24 09:19:44`|
+|0|[Faceit&#45;AC bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49126)|`2025-03-24 17:32:21`|
+|1|[Marvel&#45;Rivals&#46;SDK&#46;21&#46;03&#46;2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49125)|`2025-03-24 17:32:21`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[C&#43;&#43; Color Triggerbot New Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691387-color-triggerbot-undetected.html)|`2025-03-24 17:30:00`|`Valorant`|
 |[CS2 UserCmd struct and CCSGOInput class](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690260-cs2-usercmd-struct-ccsgoinput-class.html)|`2025-03-24 16:47:00`|`Counter-Strike 2`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-03-24 16:46:00`|`Sea of Thieves`|
 |[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2025-03-24 16:39:00`|`Other FPS Games`|
