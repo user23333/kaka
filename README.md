@@ -29,9 +29,12 @@
 |1|[theHunter: Call of the Wild &#40;Epic Games&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49132)|`2025-03-25 05:28:55`|
 |1|[Arma Reforger Reclass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49131)|`2025-03-25 05:28:55`|
 |1|[DirectX11 March 24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49129)|`2025-03-25 06:18:52`|
+|1|[SoundSightV1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49135)|`2025-03-25 06:43:09`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SoundSight: CS2 Audio ESP &#45; 3D Spatial Sound Radar for Enemy Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691687-soundsight-cs2-audio-esp-3d-spatial-sound-radar-enemy-detection.html)|`2025-03-25 06:38:00`|`Counter-Strike 2`|
+|[Silent Aim Crashing Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/693315-silent-aim-crashing-game.html)|`2025-03-25 06:37:00`|`Alternative Online Mods`|
 |[tool that removes viewmodel / makes it transparent?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/693393-tool-removes-viewmodel-makes-transparent.html)|`2025-03-25 06:31:00`|`Overwatch`|
 |[8 Ball Pool Library Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/692644-8-ball-pool-library-dump.html)|`2025-03-25 06:27:00`|`Other Games`|
 |[Render an ESP with Memflow and Discord](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/693253-render-esp-memflow-discord.html)|`2025-03-25 06:22:00`|`Apex Legends`|
