@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Skip Heists Prep on GTA V Enhanced Possibility](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693085-skip-heists-prep-gta-enhanced-possibility.html)|`2025-03-25 14:25:00`|`Grand Theft Auto V`|
+|[Blue box on nuke not in vmdl&#95;c phys data](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693110-blue-box-nuke-vmdl_c-phys-data.html)|`2025-03-25 14:12:00`|`Counter-Strike 2`|
 |[Simple Liar's Bar Mod &#124; 0&#46;93 &#124; DLL &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691934-simple-liars-bar-mod-0-93-dll-source.html)|`2025-03-25 12:39:00`|`Other Games`|
 |[Arduino FirmWare UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676366-arduino-firmware-ud.html)|`2025-03-25 12:37:00`|`Valorant`|
 |[Rust Driver not getting Module Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/687985-rust-driver-getting-module-base.html)|`2025-03-25 12:37:00`|`Rust`|
