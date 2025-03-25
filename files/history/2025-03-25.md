@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Catboy zoom speedhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/693413-catboy-zoom-speedhack.html)|`2025-03-25 11:15:00`|`Other Games`|
+|[How to effectively learn how to become a cheat dev?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/693412-effectively-learn-cheat-dev.html)|`2025-03-25 11:13:00`|`Off Topic`|
+|[MmCopyMemory recreation/alternative](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693310-mmcopymemory-recreation-alternative.html)|`2025-03-25 11:00:00`|`Anti-Cheat Bypass`|
 |[Animation Fix &#45; Knife Sound Bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693411-animation-fix-knife-sound-bug.html)|`2025-03-25 10:29:00`|`Counter-Strike 2`|
 |[BO2Z Toolbox 2&#46;4 &#40;plutonium&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/418713-bo2z-toolbox-2-4-plutonium.html)|`2025-03-25 09:56:00`|`Call of Duty: Black Ops 2`|
 |[KomarScatter &#45; A easy to use DMA ScatterRead wrapper for C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/693408-komarscatter-easy-dma-scatterread-wrapper.html)|`2025-03-25 09:46:00`|`C and C++`|
