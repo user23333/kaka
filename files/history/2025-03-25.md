@@ -35,6 +35,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-03-25 18:31:00`|`Other FPS Games`|
+|[LSCHaX for 1&#46;70 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/224075-lschax-1-70-external.html)|`2025-03-25 18:21:00`|`Grand Theft Auto V`|
+|[Combat Arms: Classic Addresses](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/481026-combat-arms-classic-addresses.html)|`2025-03-25 18:11:00`|`Combat Arms`|
+|[Member of the Month &#45; March 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/689583-month-march-2025-a.html)|`2025-03-25 18:09:00`|`Member of the Month`|
+|[Welcoming back familiar faces and more additions to the staff team&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/691282-welcoming-familiar-additions-staff-team.html)|`2025-03-25 18:07:00`|`Information and Announcements`|
+|[Lethal Menu &#45; Lethal Company Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/615575-lethal-menu-lethal-company-cheat.html)|`2025-03-25 18:03:00`|`Lethal Company`|
+|[zap&#45;client &#91;Legitbot, Ragebot, Glow, ESP & More&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/628823-zap-client-legitbot-ragebot-glow-esp.html)|`2025-03-25 18:02:00`|`Apex Legends`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-03-25 18:11:00`|`Phasmophobia`|
 |[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2025-03-25 17:21:00`|`Other MMORPG and Strategy`|
 |[OldCSS Emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/642926-oldcss-emulator.html)|`2025-03-25 17:10:00`|`CounterStrike Source`|
