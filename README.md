@@ -28,9 +28,13 @@
 |30|[picanha](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49117)|`2025-03-26 00:12:24`|
 |1|[FACEIT cheat and mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49127)|`2025-03-26 03:42:29`|
 |1|[FACEIT vulnerable driver starter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49128)|`2025-03-26 04:22:46`|
+|1|[plouton](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49146)|`2025-03-26 05:25:17`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Plouton &#45; A System Management Mode &#40;SMM&#41; cheat framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693225-plouton-system-management-mode-smm-cheat-framework.html)|`2025-03-26 05:23:00`|`Anti-Cheat Bypass`|
+|[advdupe2 dupe grabber](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/690317-advdupe2-dupe-grabber.html)|`2025-03-26 05:22:00`|`Garry's Mod`|
+|[Combat Master ESP&Aimbot Internal Auto Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/676427-combat-master-esp-aimbot-internal-auto-update.html)|`2025-03-26 05:21:00`|`Combat Master`|
 |[Simple Liar's Bar Mod &#124; 0&#46;93 &#124; DLL &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691934-simple-liars-bar-mod-0-93-dll-source.html)|`2025-03-26 05:05:00`|`Other Games`|
 |[Why there is no hack for this game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/597118-hack-game.html)|`2025-03-26 05:01:00`|`Battlefield 2042`|
 |[BotOps Hub &#40;bot lobby tool, no VM required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674129-botops-hub-bot-lobby-tool-vm-required.html)|`2025-03-26 04:56:00`|`Call of Duty: Black Ops 6`|
