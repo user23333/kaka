@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Grand Theft Auto V Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144819-grand-theft-auto-scripting.html)|`2025-03-26 07:06:00`|`Grand Theft Auto V`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-03-26 07:04:00`|`Rainbow Six Siege`|
+|[Updated Roblox SetWindowsHookEx Bypass Fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693538-updated-roblox-setwindowshookex-bypass-fix.html)|`2025-03-26 06:55:00`|`Anti-Cheat Bypass`|
 |[Block Commands Externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/693536-block-commands-externally.html)|`2025-03-26 06:25:00`|`Rust`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-03-26 05:50:00`|`Other FPS Games`|
 |[&#91;VOTE&#93; April 2025 Member of the Month](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/693534-vote-april-2025-month.html)|`2025-03-26 05:49:00`|`Member of the Month`|
