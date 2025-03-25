@@ -26,6 +26,7 @@
 |38|[Marvel&#45;Rivals&#46;SDK&#46;21&#46;03&#46;2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49125)|`2025-03-26 00:12:24`|
 |217|[Voidware External read only CS2 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49118)|`2025-03-26 00:12:24`|
 |30|[picanha](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49117)|`2025-03-26 00:12:24`|
+|1|[FACEIT cheat and mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49127)|`2025-03-26 03:42:29`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
