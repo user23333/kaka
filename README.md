@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[getting started](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/693199-getting-started.html)|`2025-03-25 16:36:00`|`Introductions`|
+|[Can't write to memory with WriteProcessMemory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/693243-cant-write-memory-writeprocessmemory.html)|`2025-03-25 16:33:00`|`Team Fortress 2`|
 |[Introduction&#46;floofy125](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/693262-introduction-floofy125.html)|`2025-03-25 15:51:00`|`Introductions`|
 |[need a detected cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/693455-detected-cheat.html)|`2025-03-25 15:50:00`|`Valorant`|
 |[New Here &#45; Excited to Learn&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/693353-excited-learn.html)|`2025-03-25 15:48:00`|`Introductions`|
