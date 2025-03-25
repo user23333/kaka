@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple Liar's Bar Mod &#124; 0&#46;93 &#124; DLL &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691934-simple-liars-bar-mod-0-93-dll-source.html)|`2025-03-25 12:39:00`|`Other Games`|
+|[Arduino FirmWare UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676366-arduino-firmware-ud.html)|`2025-03-25 12:37:00`|`Valorant`|
+|[Rust Driver not getting Module Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/687985-rust-driver-getting-module-base.html)|`2025-03-25 12:37:00`|`Rust`|
+|[Weird ViewAngle & Smoothing Issue &#40; Unreal Engine &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/693427-weird-viewangle-smoothing-issue-unreal-engine.html)|`2025-03-25 12:30:00`|`General Programming and Reversing`|
 |[Hello I need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693316-hello-help.html)|`2025-03-25 12:12:00`|`Counter-Strike 2`|
 |[What should i use to protect my dll?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/693414-protect-dll.html)|`2025-03-25 11:36:00`|`Overwatch`|
 |[Quick stop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693280-quick-stop.html)|`2025-03-25 11:36:00`|`Counter-Strike 2`|
