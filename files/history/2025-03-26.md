@@ -11,6 +11,7 @@
 |16|[&#91;Source&#93; Triggerbot &#124; @cxmb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692505-source-triggerbot-cxmb.html)|`2025-03-26 00:12:24`|`counter-strike-2-a`|
 |16|[Is there any way to bypass battleeye on enhanced edition?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693124-bypass-battleeye-enhanced-edition.html)|`2025-03-26 00:12:24`|`grand-theft-auto-v`|
 |11|[Awootism self leak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/692364-awootism-self-leak.html)|`2025-03-26 00:12:24`|`team-fortress-2-a`|
+|9|[Skip Heists Prep on GTA V Enhanced Possibility](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693085-skip-heists-prep-gta-enhanced-possibility.html)|`2025-03-26 01:50:46`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-03-26 01:47:00`|`Apex Legends`|
+|[Earning Casino Chips w/o Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693497-earning-casino-chips-ban.html)|`2025-03-26 01:46:00`|`Grand Theft Auto V`|
+|[Undetectable among us Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/637492-undetectable-cheat.html)|`2025-03-26 01:45:00`|`Among Us`|
 |[Sniper Elite 4 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/692172-sniper-elite-4-internal.html)|`2025-03-26 01:42:00`|`Other MMORPG and Strategy`|
 |[ENSD Ban reports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/435486-ensd-ban-reports.html)|`2025-03-26 01:40:00`|`Elite: Dangerous`|
 |[Cs2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693512-cs2-internal.html)|`2025-03-26 01:38:00`|`Counter-Strike 2`|
