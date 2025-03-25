@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Zoom Tool &#40;Magnifier&#41; for All Games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640423-zoom-tool-magnifier-games.html)|`2025-03-25 23:03:00`|`Other FPS Games`|
 |[Linux External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689557-linux-external-base.html)|`2025-03-25 22:57:00`|`Marvel Rivals`|
 |[Getting playerPawn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693487-getting-playerpawn.html)|`2025-03-25 22:46:00`|`Counter-Strike 2`|
 |[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2025-03-25 22:42:00`|`Other Games`|
