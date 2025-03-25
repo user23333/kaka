@@ -13,6 +13,7 @@
 |9|[Replay Glitch AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692295-replay-glitch-ahk.html)|`2025-03-25 00:12:32`|`grand-theft-auto-v`|
 |8|[Faceit&#45;AC Driver Map Race](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693257-faceit-ac-driver-map-race.html)|`2025-03-25 05:48:22`|`anti-cheat-bypass`|
 |15|[Plouton &#45; A System Management Mode &#40;SMM&#41; cheat framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693225-plouton-system-management-mode-smm-cheat-framework.html)|`2025-03-25 14:59:11`|`anti-cheat-bypass`|
+|16|[Is there any way to bypass battleeye on enhanced edition?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693124-bypass-battleeye-enhanced-edition.html)|`2025-03-25 17:46:02`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
