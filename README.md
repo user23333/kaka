@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTA Custom Plate Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693431-gta-custom-plate-editor.html)|`2025-03-25 20:23:00`|`Grand Theft Auto V`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-03-25 20:19:00`|`Overwatch`|
+|[TPM EK manufacturer certificates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693479-tpm-ek-manufacturer-certificates.html)|`2025-03-25 20:04:00`|`Anti-Cheat Bypass`|
 |[DMA &#40;Entity Esp &#43; Player Bones&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677658-dma-entity-esp-player-bones.html)|`2025-03-25 19:59:00`|`Rust`|
 |[R&#46;E&#46;P&#46;O&#46; Simple Cheat // Credit D4rkks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690879-simple-cheat-credit-d4rkks.html)|`2025-03-25 19:47:00`|`Other FPS Games`|
 |[Pro CS2 DMA &#45; Esp & Aimbot & Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656442-pro-cs2-dma-esp-aimbot-web-radar.html)|`2025-03-25 18:43:00`|`Counter-Strike 2`|
