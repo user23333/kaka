@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What should i use to protect my dll?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/693414-protect-dll.html)|`2025-03-25 11:36:00`|`Overwatch`|
+|[Quick stop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693280-quick-stop.html)|`2025-03-25 11:36:00`|`Counter-Strike 2`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-03-25 11:35:00`|`Call of Duty: Black Ops 6`|
 |[Catboy zoom speedhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/693413-catboy-zoom-speedhack.html)|`2025-03-25 11:15:00`|`Other Games`|
 |[How to effectively learn how to become a cheat dev?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/693412-effectively-learn-cheat-dev.html)|`2025-03-25 11:13:00`|`Off Topic`|
 |[MmCopyMemory recreation/alternative](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693310-mmcopymemory-recreation-alternative.html)|`2025-03-25 11:00:00`|`Anti-Cheat Bypass`|
