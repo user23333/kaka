@@ -37,6 +37,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Signed Spoofer By Microsoft&#40;EAC & BE&#41;  Early Christmas Present](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677190-signed-spoofer-microsoft-eac-christmas.html)|`2025-03-25 23:55:00`|`Anti-Cheat Bypass`|
+|[YimMenu Mouse Stuck in Centre of Screen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/675034-yimmenu-mouse-stuck-centre-screen.html)|`2025-03-25 23:53:00`|`Grand Theft Auto V`|
+|[Steep Points Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/690873-steep-cheat.html)|`2025-03-25 23:53:00`|`Other Games`|
 |[Earning Casino Chips w/o Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693497-earning-casino-chips-ban.html)|`2025-03-25 23:43:00`|`Grand Theft Auto V`|
 |[Make almost carbon copy of GTAV Online Profile&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693405-carbon-copy-gtav-online-profile.html)|`2025-03-25 23:32:00`|`Grand Theft Auto V`|
 |[C&#43;&#43; Color Triggerbot New Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691387-color-triggerbot-undetected.html)|`2025-03-25 23:16:00`|`Valorant`|
