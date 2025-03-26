@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTA V enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692693-gta-enhanced.html)|`2025-03-26 18:31:00`|`Grand Theft Auto V`|
+|[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2025-03-26 18:26:00`|`DayZ SA`|
 |[Unreleased camo unlocker?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/516694-unreleased-camo-unlocker.html)|`2025-03-26 18:16:00`|`Call of Duty: Black Ops 3`|
 |[being gamer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/693555-gamer.html)|`2025-03-26 18:10:00`|`Introductions`|
 |[i am new](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/693542-am.html)|`2025-03-26 18:09:00`|`Introductions`|
