@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-03-27 07:44:00`|`Overwatch`|
+|[DLL files/Easy Access](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/693721-dll-files-easy-access.html)|`2025-03-27 07:41:00`|`Among Us`|
+|[Which Cheat is Harder to Detect in PVP? &#40;Eulen vs&#46; Skript gg&#41; &#43; File Renaming Tips](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/693720-cheat-harder-detect-pvp-eulen-vs-skript-gg-file-renaming-tips.html)|`2025-03-27 07:41:00`|`Alternative Online Mods`|
 |[How does fivem server dumpers work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/692341-fivem-server-dumpers.html)|`2025-03-27 07:35:00`|`Alternative Online Mods`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2025-03-27 07:25:00`|`Other FPS Games`|
 |[How Do Server Admins Detect the Location of Cheat Injection Files in FiveM?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/693241-server-admins-detect-location-cheat-injection-files-fivem.html)|`2025-03-27 07:25:00`|`Alternative Online Mods`|
