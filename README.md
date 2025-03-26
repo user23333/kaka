@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals memflow&#45;qemu external aimbot source written in Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/684393-marvel-rivals-memflow-qemu-external-aimbot-source-written-rust.html)|`2025-03-27 02:40:00`|`Marvel Rivals`|
+|[SmmInfect &#45; Smm Backdoor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664482-smminfect-smm-backdoor.html)|`2025-03-27 02:38:00`|`Anti-Cheat Bypass`|
+|[Question, HVCI BYPASS"NO SOFT"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/693559-question-hvci-bypass-soft.html)|`2025-03-27 02:35:00`|`Valorant`|
+|[Undetectable among us Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/637492-undetectable-cheat.html)|`2025-03-27 02:34:00`|`Among Us`|
 |[Kiero Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/693665-kiero-hook.html)|`2025-03-27 02:21:00`|`Apex Legends`|
 |[Wizardy Variants Daphne](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/690368-wizardy-variants-daphne.html)|`2025-03-27 02:11:00`|`Other MMORPG and Strategy`|
 |[doubletap not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693663-doubletap.html)|`2025-03-27 02:06:00`|`Counter-Strike 2`|
