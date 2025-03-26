@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Getting playerPawn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693487-getting-playerpawn.html)|`2025-03-26 15:22:00`|`Counter-Strike 2`|
+|[Dma card Freezing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/692839-dma-card-freezing.html)|`2025-03-26 15:20:00`|`PC Hardware`|
+|[THRONE & Liberty Free undetected Farmbot and Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/683000-throne-liberty-free-undetected-farmbot-cheats.html)|`2025-03-26 14:42:00`|`Other Games`|
 |[Genshin İmpact Shika Cheat 5&#46;0&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/660051-genshin-mpact-shika-cheat-5-0-0-1-a.html)|`2025-03-26 14:28:00`|`Genshin Impact`|
 |[Trying to learn about the aes encryption in this game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/688611-trying-learn-aes-encryption-game.html)|`2025-03-26 14:15:00`|`THE FINALS`|
 |[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2025-03-26 14:14:00`|`Escape from Tarkov`|
