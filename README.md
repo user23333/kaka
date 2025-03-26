@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[a2x offsets removed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693346-a2x-offsets-removed.html)|`2025-03-26 22:38:00`|`Counter-Strike 2`|
+|[How do i make no recoil in CS2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686507-recoil-cs2.html)|`2025-03-26 22:34:00`|`Counter-Strike 2`|
 |[Crashing??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/693632-crashing.html)|`2025-03-26 22:32:00`|`Marvel Rivals`|
 |[Operation Throwback ct](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/692548-operation-throwback-ct.html)|`2025-03-26 22:25:00`|`Rainbow Six Siege`|
 |[Hi all](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/693565-hi.html)|`2025-03-26 22:12:00`|`Introductions`|
