@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Client&#45;side Server AntiCheats bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/693710-client-server-anticheats-bypass.html)|`2025-03-27 05:51:00`|`Alternative Online Mods`|
+|[GTA V Enhanced Session Sweeper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693543-gta-enhanced-session-sweeper.html)|`2025-03-27 05:50:00`|`Grand Theft Auto V`|
 |[Chivalry 2 Simple Lightweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/681745-chivalry-2-simple-lightweight-cheat.html)|`2025-03-27 05:44:00`|`Other Games`|
 |[ban for 3rd party apps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/693311-ban-3rd-party-apps.html)|`2025-03-27 05:18:00`|`Valorant`|
 |[anticheetah &#124; cheat for Cheaters Cheetah](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/693081-anticheetah-cheat-cheaters-cheetah.html)|`2025-03-27 05:00:00`|`Other FPS Games`|
