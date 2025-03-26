@@ -28,9 +28,16 @@
 |1|[4&#46;27&#46;2&#45;3367018&#43;release&#45;10&#46;05&#45;ShooterGame SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49138)|`2025-03-27 00:52:49`|
 |1|[KomarScatter&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49137)|`2025-03-27 00:52:49`|
 |2|[&#43;&#43;Fortnite&#43;Release&#45;34&#46;20&#45;CL&#45;40965447&#45;Windows ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49141)|`2025-03-27 01:47:06`|
+|1|[begeerte&#95;sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49140)|`2025-03-27 02:23:47`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kiero Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/693665-kiero-hook.html)|`2025-03-27 02:21:00`|`Apex Legends`|
+|[Wizardy Variants Daphne](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/690368-wizardy-variants-daphne.html)|`2025-03-27 02:11:00`|`Other MMORPG and Strategy`|
+|[doubletap not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693663-doubletap.html)|`2025-03-27 02:06:00`|`Counter-Strike 2`|
+|[external freeCam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/689290-external-freecam.html)|`2025-03-27 02:04:00`|`DayZ SA`|
+|[Dragons Legacy internal cheat base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/693472-dragons-legacy-internal-cheat-base.html)|`2025-03-27 02:00:00`|`Other MMORPG and Strategy`|
+|[Y10S1 GHUB NO RECOIL SCRIPT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/693422-y10s1-ghub-recoil-script.html)|`2025-03-27 02:00:00`|`Rainbow Six Siege`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-03-27 01:48:00`|`Counter-Strike 2`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-03-27 01:36:00`|`Other Games`|
 |[FSL guide and answers of common questions &#40;Legacy & E&E&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692331-fsl-guide-answers-common-questions-legacy.html)|`2025-03-27 01:19:00`|`Grand Theft Auto V`|
