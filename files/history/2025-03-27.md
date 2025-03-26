@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Amalgam x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/639800-amalgam-x64.html)|`2025-03-27 04:44:00`|`Team Fortress 2`|
+|[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693027-cs2-external-cheat.html)|`2025-03-27 04:44:00`|`Counter-Strike 2`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-03-27 04:19:00`|`Other FPS Games`|
 |[XVisual CS2 Glow Wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686801-xvisual-cs2-glow-wallhack.html)|`2025-03-27 04:11:00`|`Counter-Strike 2`|
 |[Cant get ViewModel externally correctly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693676-cant-viewmodel-externally-correctly.html)|`2025-03-27 04:07:00`|`Counter-Strike 2`|
