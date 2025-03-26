@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-03-27 01:36:00`|`Other Games`|
 |[FSL guide and answers of common questions &#40;Legacy & E&E&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692331-fsl-guide-answers-common-questions-legacy.html)|`2025-03-27 01:19:00`|`Grand Theft Auto V`|
 |[Anti cheat dialog box](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693659-anti-cheat-dialog-box.html)|`2025-03-27 01:18:00`|`Anti-Cheat Bypass`|
 |[Unturned Egguware w/ bypass &#91;LINUX&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/693201-unturned-egguware-bypass-linux.html)|`2025-03-27 01:18:00`|`Other FPS Games`|
