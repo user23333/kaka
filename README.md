@@ -32,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Will dxcam get me detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/693403-dxcam-detected.html)|`2025-03-26 09:10:00`|`Valorant`|
+|[CS2 Glow ESP?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684845-cs2-glow-esp.html)|`2025-03-26 09:09:00`|`Counter-Strike 2`|
+|[Among Us Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/574185-cheat-table.html)|`2025-03-26 09:05:00`|`Among Us`|
+|[Ultimate Hack Menu for Schedule I: Free Sample &#45; Version 1&#46;0 Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/693355-ultimate-hack-menu-schedule-free-sample-version-1-0-update.html)|`2025-03-26 08:58:00`|`Other Games`|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-03-26 08:41:00`|`Other Games`|
+|[Arduino Usb Host Shield Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/692906-arduino-usb-host-shield-spoofing.html)|`2025-03-26 08:36:00`|`Valorant`|
 |[Tarkov Pve Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/683099-tarkov-pve-cheat-engine.html)|`2025-03-26 07:50:00`|`Escape from Tarkov`|
 |[How to differentiate between certain weapons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693541-differentiate-weapons.html)|`2025-03-26 07:49:00`|`Counter-Strike 2`|
 |[75T DMA BSOD on launch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/692560-75t-dma-bsod-launch.html)|`2025-03-26 07:11:00`|`PC Hardware`|
