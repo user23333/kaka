@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-03-26 23:32:00`|`Phasmophobia`|
 |[Help me with FOV changer on python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693635-help-fov-changer-python.html)|`2025-03-26 23:10:00`|`Counter-Strike 2`|
 |[a2x offsets removed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693346-a2x-offsets-removed.html)|`2025-03-26 22:38:00`|`Counter-Strike 2`|
 |[How do i make no recoil in CS2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686507-recoil-cs2.html)|`2025-03-26 22:34:00`|`Counter-Strike 2`|
