@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2025-03-27 07:25:00`|`Other FPS Games`|
+|[How Do Server Admins Detect the Location of Cheat Injection Files in FiveM?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/693241-server-admins-detect-location-cheat-injection-files-fivem.html)|`2025-03-27 07:25:00`|`Alternative Online Mods`|
 |[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2025-03-27 07:19:00`|`Grand Theft Auto V`|
 |[33 immortals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/693330-33-immortals.html)|`2025-03-27 06:49:00`|`Other Games`|
 |[IDA Pro MCP Server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693715-ida-pro-mcp-server.html)|`2025-03-27 06:07:00`|`Counter-Strike 2`|
