@@ -29,9 +29,12 @@
 |1|[KomarScatter&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49137)|`2025-03-27 00:52:49`|
 |2|[&#43;&#43;Fortnite&#43;Release&#45;34&#46;20&#45;CL&#45;40965447&#45;Windows ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49141)|`2025-03-27 01:47:06`|
 |1|[begeerte&#95;sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49140)|`2025-03-27 02:23:47`|
+|3|[Spankerfield 25&#46;03 Big update &#43; VehicleAimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49136)|`2025-03-27 04:29:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-03-27 04:19:00`|`Other FPS Games`|
+|[XVisual CS2 Glow Wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686801-xvisual-cs2-glow-wallhack.html)|`2025-03-27 04:11:00`|`Counter-Strike 2`|
 |[Cant get ViewModel externally correctly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693676-cant-viewmodel-externally-correctly.html)|`2025-03-27 04:07:00`|`Counter-Strike 2`|
 |[I need an Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/693090-injector.html)|`2025-03-27 04:02:00`|`Call of Duty: Black Ops 6`|
 |[COD Plunder &#45; Humanized AFK Script &#40;Fast Gun/Acc Lvl XP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/687454-cod-plunder-humanized-afk-script-fast-gun-acc-lvl-xp.html)|`2025-03-27 03:58:00`|`Call of Duty: Black Ops 6`|
