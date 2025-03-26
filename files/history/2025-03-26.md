@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unreleased camo unlocker?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/516694-unreleased-camo-unlocker.html)|`2025-03-26 18:16:00`|`Call of Duty: Black Ops 3`|
+|[being gamer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/693555-gamer.html)|`2025-03-26 18:10:00`|`Introductions`|
+|[i am new](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/693542-am.html)|`2025-03-26 18:09:00`|`Introductions`|
+|[Hey](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/693600-hey.html)|`2025-03-26 17:54:00`|`Introductions`|
 |[Borderlands 2 Co&#45;Op Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/573825-borderlands-2-co-op-table.html)|`2025-03-26 17:52:00`|`Cheat Engine Tables`|
 |[DA tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/643405-da-tool.html)|`2025-03-26 17:28:00`|`Call of Duty: Black Ops Cold War`|
 |[External cheat GS/Steam WG/ECD bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/692681-external-cheat-gs-steam-wg-ecd-bypass.html)|`2025-03-26 17:13:00`|`CounterStrike 1.5, 1.6 and Mods`|
