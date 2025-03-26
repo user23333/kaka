@@ -25,9 +25,17 @@
 |78|[FACEIT vulnerable driver starter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49128)|`2025-03-27 00:16:46`|
 |88|[FACEIT cheat and mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49127)|`2025-03-27 00:16:46`|
 |233|[Faceit&#45;AC bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49126)|`2025-03-27 00:16:46`|
+|1|[4&#46;27&#46;2&#45;3367018&#43;release&#45;10&#46;05&#45;ShooterGame SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49138)|`2025-03-27 00:52:49`|
+|1|[KomarScatter&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49137)|`2025-03-27 00:52:49`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-03-27 00:49:00`|`Other Games`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-03-27 00:49:00`|`Valorant`|
+|[KomarScatter &#45; A easy to use DMA ScatterRead wrapper for C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/693408-komarscatter-easy-dma-scatterread-wrapper.html)|`2025-03-27 00:47:00`|`C and C++`|
+|[&#91;VOTE&#93; April 2025 Member of the Month](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/693534-vote-april-2025-month.html)|`2025-03-27 00:47:00`|`Member of the Month`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-03-27 00:46:00`|`ARMA 3`|
+|[ARMA 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/114242-arma-3-reversal-structs-offsets.html)|`2025-03-27 00:38:00`|`ARMA 3`|
 |[help to add double tap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693457-help-add-double-tap.html)|`2025-03-27 00:34:00`|`Counter-Strike 2`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-03-27 00:32:00`|`Call of Duty: Black Ops 6`|
 |[All Mouse NoRecoil 1&#46;0 IS OUT &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-1-0-recoil-helpy-auto-config-probably-ud-universal.html)|`2025-03-27 00:32:00`|`Rainbow Six Siege`|
