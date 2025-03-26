@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is External Modding Dead in GTAO? A Look at the Current Scene](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693268-external-modding-dead-gtao-look-current-scene.html)|`2025-03-26 19:20:00`|`Grand Theft Auto V`|
 |[Skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/606035-skinchanger.html)|`2025-03-26 18:43:00`|`Team Fortress 2`|
 |[Valorant insta headshot AIMBOT&#91;UNDETECTED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688675-valorant-insta-headshot-aimbot-undetected.html)|`2025-03-26 18:42:00`|`Valorant`|
 |[help to add double tap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693457-help-add-double-tap.html)|`2025-03-26 18:42:00`|`Counter-Strike 2`|
