@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/611723-internal-cheese.html)|`2025-03-27 22:50:00`|`Payday 3`|
 |[Where do I start with DMA FW?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/693643-start-dma-fw.html)|`2025-03-27 22:22:00`|`Valorant`|
 |[PUBG mobile GWorld Decrypt algorithm changed ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/693796-pubg-mobile-gworld-decrypt-algorithm-changed.html)|`2025-03-27 22:18:00`|`PUBG Mobile`|
 |[How the second search is implemented](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/693793-search-implemented.html)|`2025-03-27 21:35:00`|`Escape from Tarkov`|
