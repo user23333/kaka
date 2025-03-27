@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help with player movement external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693305-help-player-movement-external.html)|`2025-03-28 06:01:00`|`Counter-Strike 2`|
 |[Trouble making triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/114001-trouble-triggerbot.html)|`2025-03-28 05:50:00`|`Rust`|
 |[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/682483-demonologist-internal.html)|`2025-03-28 05:42:00`|`Other Games`|
 |[Anyone been manual banned since the final update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/692389-manual-banned-final-update.html)|`2025-03-28 05:24:00`|`Team Fortress 2`|
