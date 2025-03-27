@@ -30,9 +30,15 @@
 |2|[&#43;&#43;Fortnite&#43;Release&#45;34&#46;20&#45;CL&#45;40965447&#45;Windows ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49141)|`2025-03-27 01:47:06`|
 |1|[begeerte&#95;sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49140)|`2025-03-27 02:23:47`|
 |3|[Spankerfield 25&#46;03 Big update &#43; VehicleAimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49136)|`2025-03-27 04:29:33`|
+|4|[Among Us &#45; V9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49147)|`2025-03-27 10:39:28`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[please delete](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/693733-please-delete.html)|`2025-03-27 10:35:00`|`Call of Duty: Black Ops 2`|
+|[C&#43;&#43; Color Triggerbot New Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691387-color-triggerbot-undetected.html)|`2025-03-27 10:21:00`|`Valorant`|
+|[Make CrossFire Great Again](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/693730-crossfire.html)|`2025-03-27 10:07:00`|`CrossFire`|
+|[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-03-27 10:07:00`|`Marvel Rivals`|
+|[Among Us Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/574185-cheat-table.html)|`2025-03-27 09:51:00`|`Among Us`|
 |[DayZ dupe/clone gear on any servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/693727-dayz-dupe-clone-gear-servers.html)|`2025-03-27 09:15:00`|`DayZ SA`|
 |[DMA &#40;Entity Esp &#43; Player Bones&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677658-dma-entity-esp-player-bones.html)|`2025-03-27 08:52:00`|`Rust`|
 |[HWID ban duration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/625445-hwid-ban-duration.html)|`2025-03-27 08:43:00`|`Valorant`|
