@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Shitty marvel rivals internal Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687997-shitty-marvel-rivals-internal-base.html)|`2025-03-27 11:52:00`|`Marvel Rivals`|
+|[B06 dma help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/693725-b06-dma-help.html)|`2025-03-27 11:50:00`|`Call of Duty: Black Ops 6`|
+|[&#91;Source&#93; No Recoil &#124; @cxmb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693076-source-recoil-cxmb.html)|`2025-03-27 11:50:00`|`Counter-Strike 2`|
 |[YimMenu&#46;dll 1&#46;70 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678007-yimmenu-dll-1-70-update.html)|`2025-03-27 11:34:00`|`Grand Theft Auto V`|
 |[pcileech&#45;multimedia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/623718-pcileech-multimedia.html)|`2025-03-27 11:34:00`|`Anti-Cheat Bypass`|
 |[Universal Recoil &#40;like UMT program&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/617894-universal-recoil-umt-program.html)|`2025-03-27 11:25:00`|`Other FPS Games`|
