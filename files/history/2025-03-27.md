@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-03-27 23:31:00`|`Sea of Thieves`|
+|[Where to find &#46;pak files of this game 0&#46;19&#46;0 to extract weapons in blender](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/691927-pak-files-game-0-19-0-extract-weapons-blender.html)|`2025-03-27 23:22:00`|`PUBG Mobile`|
+|[Battlefield 1 Cheat 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/692923-battlefield-1-cheat-2025-a.html)|`2025-03-27 23:19:00`|`Battlefield 1`|
+|[Free Apex Coins/Cheap Coins Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/693249-free-apex-coins-cheap-coins-thread.html)|`2025-03-27 23:17:00`|`Apex Legends`|
 |[Finding GNames & GObjects for Subsistence](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-3-a/693800-finding-gnames-gobjects-subsistence.html)|`2025-03-27 23:00:00`|`Unreal Engine 3`|
 |[Internal cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/611723-internal-cheese.html)|`2025-03-27 22:50:00`|`Payday 3`|
 |[Where do I start with DMA FW?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/693643-start-dma-fw.html)|`2025-03-27 22:22:00`|`Valorant`|
