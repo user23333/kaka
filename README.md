@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to develop  a internal cs2 cheat &#40;With a few hooks&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692660-develop-internal-cs2-cheat-hooks.html)|`2025-03-28 03:51:00`|`Counter-Strike 2`|
+|[Marvel rivals internal Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687997-marvel-rivals-internal-base.html)|`2025-03-28 03:50:00`|`Marvel Rivals`|
 |[33 immortals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/693330-33-immortals.html)|`2025-03-28 03:28:00`|`Other Games`|
 |[Client&#45;side Server AntiCheats bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/693710-client-server-anticheats-bypass.html)|`2025-03-28 03:21:00`|`Alternative Online Mods`|
 |[Lazybead &#40;LB&#41; &#45; Free Cheat &#40;COMING SOON&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat-coming-soon.html)|`2025-03-28 03:17:00`|`Sea of Thieves`|
