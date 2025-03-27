@@ -28,6 +28,7 @@
 |4|[24H2DataPointerHook&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49155)|`2025-03-28 07:14:12`|
 |2|[Skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49150)|`2025-03-28 07:38:43`|
 |1|[DescendantInternal&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49158)|`2025-03-28 07:51:05`|
+|4|[StupidSolutionsV3&#46;3&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49165)|`2025-03-28 07:57:01`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
