@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Jealous poors hate Billionaires&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/693787-jealous-poors-hate-billionaires.html)|`2025-03-27 20:39:00`|`Off Topic`|
 |[finding health address for the server side?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693785-finding-health-address-server.html)|`2025-03-27 20:28:00`|`Counter-Strike 2`|
 |[Silentaim Partially working&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693784-silentaim-partially.html)|`2025-03-27 20:26:00`|`Counter-Strike 2`|
 |[Deep Rock Galactic Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/487947-deep-rock-galactic-cheat-table.html)|`2025-03-27 20:25:00`|`Cheat Engine Tables`|
