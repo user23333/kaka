@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FragPunk Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/666506-fragpunk-reversal-structs-offsets.html)|`2025-03-27 15:07:00`|`Other FPS Games`|
+|[Odin v4 For Windows 11 24H2/23H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/670695-odin-v4-windows-11-24h2-23h2.html)|`2025-03-27 15:07:00`|`Paladins`|
+|[BO2Z Toolbox 2&#46;4 &#40;plutonium&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/418713-bo2z-toolbox-2-4-plutonium.html)|`2025-03-27 14:58:00`|`Call of Duty: Black Ops 2`|
 |[24H2 Data Pointer Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693743-24h2-data-pointer-hook.html)|`2025-03-27 13:47:00`|`Anti-Cheat Bypass`|
 |[Marvel Rivals DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/688289-marvel-rivals-dma-source.html)|`2025-03-27 13:12:00`|`Marvel Rivals`|
 |[superBADinternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690904-superbadinternal.html)|`2025-03-27 12:49:00`|`Marvel Rivals`|
