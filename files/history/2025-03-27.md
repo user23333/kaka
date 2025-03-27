@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-03-27 23:38:00`|`Rainbow Six Siege`|
+|[Help with player movement external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693305-help-player-movement-external.html)|`2025-03-27 23:36:00`|`Counter-Strike 2`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-03-27 23:31:00`|`Sea of Thieves`|
 |[Where to find &#46;pak files of this game 0&#46;19&#46;0 to extract weapons in blender](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/691927-pak-files-game-0-19-0-extract-weapons-blender.html)|`2025-03-27 23:22:00`|`PUBG Mobile`|
 |[Battlefield 1 Cheat 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/692923-battlefield-1-cheat-2025-a.html)|`2025-03-27 23:19:00`|`Battlefield 1`|
