@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Updated hkAllowCameraChange sig](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693855-updated-hkallowcamerachange-sig.html)|`2025-03-28 04:15:00`|`Counter-Strike 2`|
+|[Hello guuys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/693789-hello-guuys.html)|`2025-03-28 04:15:00`|`Valorant`|
 |[Battlefield 1 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/186728-battlefield-1-reversal-structs-offsets.html)|`2025-03-28 03:53:00`|`Battlefield 1`|
 |[How to develop  a internal cs2 cheat &#40;With a few hooks&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692660-develop-internal-cs2-cheat-hooks.html)|`2025-03-28 03:51:00`|`Counter-Strike 2`|
 |[Marvel rivals internal Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687997-marvel-rivals-internal-base.html)|`2025-03-28 03:50:00`|`Marvel Rivals`|
