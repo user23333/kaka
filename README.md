@@ -26,9 +26,13 @@
 |16|[theHunter: Call of the Wild &#40;Epic Games&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49132)|`2025-03-28 00:12:20`|
 |2|[theHunter: Call of the Wild &#40;Epic Games&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49142)|`2025-03-28 06:58:00`|
 |4|[24H2DataPointerHook&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49155)|`2025-03-28 07:14:12`|
+|2|[Skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49150)|`2025-03-28 07:38:43`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ApexCheats available for Switch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/663556-apexcheats-available-switch.html)|`2025-03-28 07:38:00`|`Apex Legends`|
+|[Skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/606035-skinchanger.html)|`2025-03-28 07:35:00`|`Team Fortress 2`|
+|[UserDirectoryTableBaseOffset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/693406-userdirectorytablebaseoffset.html)|`2025-03-28 07:32:00`|`General Programming and Reversing`|
 |[24H2 Data Pointer Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693743-24h2-data-pointer-hook.html)|`2025-03-28 07:06:00`|`Anti-Cheat Bypass`|
 |[theHunter: Call of the Wild &#40;Epic Games&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/693375-thehunter-call-wild-epic-games.html)|`2025-03-28 06:53:00`|`Other FPS Games`|
 |[C&#43;&#43; Color Triggerbot New Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691387-color-triggerbot-undetected.html)|`2025-03-28 06:52:00`|`Valorant`|
