@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unlock more Chameleon/Wheel paints on Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690610-unlock-chameleon-wheel-paints-enhanced.html)|`2025-03-29 05:23:00`|`Grand Theft Auto V`|
+|[&#91; External &#93; SPT&#45;AKI CheatBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/626274-external-spt-aki-cheatbase.html)|`2025-03-29 05:15:00`|`Escape from Tarkov`|
+|[did anyone transferred over?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689872-transferred.html)|`2025-03-29 05:14:00`|`Grand Theft Auto V`|
 |[Lazybead &#40;LB&#41; &#45; Free Cheat &#40;COMING SOON&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat-coming-soon.html)|`2025-03-29 05:08:00`|`Sea of Thieves`|
 |[Rapid upgrades lead to bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693983-rapid-upgrades-lead-bans.html)|`2025-03-29 05:07:00`|`Anti-Cheat Bypass`|
 |[PUBG Experience &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/693901-pubg-experience-dma.html)|`2025-03-29 05:02:00`|`Playerunknown's Battlegrounds`|
