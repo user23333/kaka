@@ -32,9 +32,15 @@
 |4|[StupidSolutionsV3&#46;3&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49165)|`2025-03-28 07:57:01`|
 |3|[MHUR Infinite Abilities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49160)|`2025-03-28 09:01:15`|
 |4|[AUU Among Us](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49144)|`2025-03-28 09:01:15`|
+|12|[Bo6 SRC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49148)|`2025-03-28 10:26:18`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Plouton &#45; A System Management Mode &#40;SMM&#41; cheat framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693225-plouton-system-management-mode-smm-cheat-framework.html)|`2025-03-28 10:21:00`|`Anti-Cheat Bypass`|
+|[How to find StaticFindObject address ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/693896-staticfindobject-address.html)|`2025-03-28 10:18:00`|`Unreal Engine 4`|
+|[ANEURISM IV &#45; Steam game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691595-aneurism-iv-steam-game.html)|`2025-03-28 10:11:00`|`Other Games`|
+|[GameAssembly Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/692702-gameassembly-help.html)|`2025-03-28 10:10:00`|`Rust`|
+|[Faceit&#45;AC Driver Map Race](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693257-faceit-ac-driver-map-race.html)|`2025-03-28 10:08:00`|`Anti-Cheat Bypass`|
 |[GTA online money making methods for E&E without FSL?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693890-gta-online-money-methods-fsl.html)|`2025-03-28 08:54:00`|`Grand Theft Auto V`|
 |[Simple SilentAim for Asphyxia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693888-simple-silentaim-asphyxia.html)|`2025-03-28 08:49:00`|`Counter-Strike 2`|
 |[hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/693887-hello.html)|`2025-03-28 08:47:00`|`Introductions`|
