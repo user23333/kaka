@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Basic External Multihack SOURCE CODE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/690779-basic-external-multihack-source-code.html)|`2025-03-28 21:38:00`|`Counter-Strike 2`|
+|[What is the current BEST mod menu?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693998-current-mod-menu.html)|`2025-03-28 21:36:00`|`Grand Theft Auto V`|
 |[A Beginner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/693993-beginner.html)|`2025-03-28 21:36:00`|`Garry's Mod`|
 |[External Glow ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693722-external-glow-esp.html)|`2025-03-28 21:28:00`|`Counter-Strike 2`|
 |[ESP for Outlawed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/687518-esp-outlawed.html)|`2025-03-28 21:03:00`|`Other FPS Games`|
