@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Price of Dma , Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/694029-price-dma-fuser.html)|`2025-03-29 03:42:00`|`Escape from Tarkov`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-03-29 03:38:00`|`Grand Theft Auto V`|
+|[UserDirectoryTableBaseOffset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/693406-userdirectorytablebaseoffset.html)|`2025-03-29 03:31:00`|`General Programming and Reversing`|
+|[Marvel Rivals memflow&#45;qemu external aimbot source written in Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/684393-marvel-rivals-memflow-qemu-external-aimbot-source-written-rust.html)|`2025-03-29 03:28:00`|`Marvel Rivals`|
+|[External Bhop Garry's Mod Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/198267-external-bhop-garrys-mod-hack.html)|`2025-03-29 03:27:00`|`Garry's Mod`|
 |[Simple SilentAim for Asphyxia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693888-simple-silentaim-asphyxia.html)|`2025-03-29 03:23:00`|`Counter-Strike 2`|
 |[Gamersclub AC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694025-gamersclub-ac.html)|`2025-03-29 03:11:00`|`Anti-Cheat Bypass`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-03-29 02:56:00`|`Other Games`|
