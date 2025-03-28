@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ImGui External Hijack discord overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/680328-imgui-external-hijack-discord-overlay.html)|`2025-03-28 20:13:00`|`C and C++`|
+|[being gamer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/693555-gamer.html)|`2025-03-28 19:58:00`|`Introductions`|
 |[Undetectable among us Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/637492-undetectable-cheat.html)|`2025-03-28 19:38:00`|`Among Us`|
 |[Have any of you made a single user private cheat and gone UD for 1year&#43;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/693903-single-user-private-cheat-gone-ud-1year.html)|`2025-03-28 19:24:00`|`Valorant`|
 |[Rust AI Aimbot &#45; Beta](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/620721-rust-ai-aimbot-beta.html)|`2025-03-28 19:13:00`|`Rust`|
