@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ApexCheats available for Switch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/663556-apexcheats-available-switch.html)|`2025-03-29 04:51:00`|`Apex Legends`|
+|[How does fivem server dumpers work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/692341-fivem-server-dumpers.html)|`2025-03-29 04:45:00`|`Alternative Online Mods`|
 |[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693027-cs2-external-cheat.html)|`2025-03-29 04:43:00`|`Counter-Strike 2`|
 |[D3D12 Engine Chams Teaser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/693932-d3d12-engine-chams-teaser.html)|`2025-03-29 04:42:00`|`Rainbow Six Siege`|
 |[External cheat GS/Steam WG/ECD bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/692681-external-cheat-gs-steam-wg-ecd-bypass.html)|`2025-03-29 04:33:00`|`CounterStrike 1.5, 1.6 and Mods`|
