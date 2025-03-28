@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[8 Ball Pool Library Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/692644-8-ball-pool-library-dump.html)|`2025-03-29 00:39:00`|`Other Games`|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-03-29 00:38:00`|`Battlefield 4`|
+|[PUBG mobile GWorld Decrypt algorithm changed ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/693796-pubg-mobile-gworld-decrypt-algorithm-changed.html)|`2025-03-29 00:36:00`|`PUBG Mobile`|
+|[Have any of you made a single user private cheat and gone UD for 1year&#43;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/693903-single-user-private-cheat-gone-ud-1year.html)|`2025-03-29 00:27:00`|`Valorant`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-03-29 00:25:00`|`Alternative Online Mods`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-03-29 00:17:00`|`Apex Legends`|
 |[A Beginner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/693993-beginner.html)|`2025-03-29 00:13:00`|`Garry's Mod`|
 |[noRecoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/693873-norecoil.html)|`2025-03-29 00:11:00`|`Rust`|
