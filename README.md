@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[norecoil macro for G502 hero](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/688777-norecoil-macro-g502-hero.html)|`2025-03-29 02:20:00`|`Playerunknown's Battlegrounds`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-03-29 02:18:00`|`Counter-Strike 2`|
+|[Recoil tables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/694017-recoil-tables.html)|`2025-03-29 02:07:00`|`Rust`|
+|[ALL LINUX PLAYERS &#45; READ THIS IMMEDIATELY &#45; NOT SAFE TO PLAY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/668895-linux-players-read-immediately-safe-play.html)|`2025-03-29 01:50:00`|`Apex Legends`|
 |[Client&#45;side Server AntiCheats bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/693710-client-server-anticheats-bypass.html)|`2025-03-29 01:48:00`|`Alternative Online Mods`|
 |[EAC Instumentation callbacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693906-eac-instumentation-callbacks.html)|`2025-03-29 01:36:00`|`Anti-Cheat Bypass`|
 |[GMS V257&#46;2 Final AVX2 & config version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/691918-gms-v257-2-final-avx2-config-version.html)|`2025-03-29 01:36:00`|`Maple Story`|
