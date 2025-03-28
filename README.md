@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[No recoil fragpunk ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691761-recoil-fragpunk.html)|`2025-03-29 05:39:00`|`Other FPS Games`|
+|[Albion Online Dungeon Checker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/670358-albion-online-dungeon-checker.html)|`2025-03-29 05:36:00`|`Other MMORPG and Strategy`|
 |[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2025-03-29 05:32:00`|`Other FPS Games`|
 |[FOV/Aimbot/QuickSwap and more PAK Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/692127-fov-aimbot-quickswap-pak-files.html)|`2025-03-29 05:31:00`|`Sea of Thieves`|
 |[Newest SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/694042-sdk.html)|`2025-03-29 05:31:00`|`Marvel Rivals`|
