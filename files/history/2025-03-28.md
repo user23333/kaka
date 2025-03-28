@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[All Mouse NoRecoil 1&#46;0 IS OUT &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-1-0-recoil-helpy-auto-config-probably-ud-universal.html)|`2025-03-28 23:40:00`|`Rainbow Six Siege`|
 |[marvel rival external triggerbot color bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/693986-marvel-rival-external-triggerbot-color-bot.html)|`2025-03-28 23:25:00`|`Marvel Rivals`|
 |[AFK random movement = Campaign Shadowban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/694008-afk-random-movement-campaign-shadowban.html)|`2025-03-28 23:01:00`|`Call of Duty: Black Ops 6`|
 |[Vanguard Spoofer Rev 2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612562-vanguard-spoofer-rev-2-a.html)|`2025-03-28 22:10:00`|`Valorant`|
