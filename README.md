@@ -38,6 +38,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-03-28 20:49:00`|`Escape from Tarkov`|
+|[advdupe2 dupe grabber](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/690317-advdupe2-dupe-grabber.html)|`2025-03-28 20:42:00`|`Garry's Mod`|
+|[i need Nametags, ESP module](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/666982-nametags-esp-module.html)|`2025-03-28 20:40:00`|`Minecraft`|
+|[BFH External Aimer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-heroes/642272-bfh-external-aimer.html)|`2025-03-28 20:40:00`|`Battlefield Heroes`|
+|[Unlocking Marketplace on Bedrock PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/636119-unlocking-marketplace-bedrock-pc.html)|`2025-03-28 20:39:00`|`Minecraft`|
 |[ImGui External Hijack discord overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/680328-imgui-external-hijack-discord-overlay.html)|`2025-03-28 20:13:00`|`C and C++`|
 |[being gamer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/693555-gamer.html)|`2025-03-28 19:58:00`|`Introductions`|
 |[Undetectable among us Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/637492-undetectable-cheat.html)|`2025-03-28 19:38:00`|`Among Us`|
