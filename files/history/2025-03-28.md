@@ -37,6 +37,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is External Modding Dead in GTAO? A Look at the Current Scene](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693268-external-modding-dead-gtao-look-current-scene.html)|`2025-03-28 15:17:00`|`Grand Theft Auto V`|
+|[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2025-03-28 15:14:00`|`Tom Clancy's The Division`|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-03-28 15:11:00`|`Grand Theft Auto V`|
+|[GTA V Enhanced Session Sweeper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693543-gta-enhanced-session-sweeper.html)|`2025-03-28 15:06:00`|`Grand Theft Auto V`|
+|[introducing myself](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/693893-introducing.html)|`2025-03-28 15:04:00`|`Introductions`|
+|[B06 dma help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/693725-b06-dma-help.html)|`2025-03-28 15:02:00`|`Call of Duty: Black Ops 6`|
+|[&#91;DMA&#43;KMBOX&#93; Apex DMA Paste &#45; Glow&#43;Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/622378-dma-kmbox-apex-dma-paste-glow-aim.html)|`2025-03-28 14:56:00`|`Apex Legends`|
 |[Project Zomboid Cheat &#45; Valkur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/645408-project-zomboid-cheat-valkur.html)|`2025-03-28 14:07:00`|`Other MMORPG and Strategy`|
 |[How to hide traces of dayz cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/693914-hide-traces-dayz-cheats.html)|`2025-03-28 13:38:00`|`DayZ SA`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-03-28 14:01:00`|`Playerunknown's Battlegrounds`|
