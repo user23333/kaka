@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pixel Gun 3D Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/663707-pixel-gun-3d-cheat-engine-table.html)|`2025-03-30 01:11:00`|`Cheat Engine Tables`|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2025-03-30 01:06:00`|`Valorant`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-03-30 01:04:00`|`Marvel Rivals`|
+|[Driver Mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693885-driver-mapper.html)|`2025-03-30 00:59:00`|`Anti-Cheat Bypass`|
 |[Steep Points Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/690873-steep-cheat.html)|`2025-03-30 00:51:00`|`Other Games`|
 |[GTA 5 enhanced Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693747-gta-5-enhanced-mod-menu.html)|`2025-03-30 00:45:00`|`Grand Theft Auto V`|
 |[AIMi &#45; AI Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/609872-aimi-ai-aimbot.html)|`2025-03-30 00:42:00`|`Counter-Strike 2 Releases`|
