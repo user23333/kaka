@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Steep Points Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/690873-steep-cheat.html)|`2025-03-30 00:51:00`|`Other Games`|
 |[GTA 5 enhanced Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693747-gta-5-enhanced-mod-menu.html)|`2025-03-30 00:45:00`|`Grand Theft Auto V`|
 |[AIMi &#45; AI Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/609872-aimi-ai-aimbot.html)|`2025-03-30 00:42:00`|`Counter-Strike 2 Releases`|
 |[ALL&#45;In&#45;One Menu for YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691907-menu-yimmenu.html)|`2025-03-30 00:39:00`|`Grand Theft Auto V`|
