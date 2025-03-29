@@ -37,6 +37,9 @@
 |4|[augov&#45;build](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49172)|`2025-03-30 06:40:48`|
 |1|[PUBG DMA PLUGIN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49168)|`2025-03-30 06:40:48`|
 |1|[WAW ESP v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49167)|`2025-03-30 06:47:05`|
+|1|[33 Immortals V1 Hitlerjoe&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49187)|`2025-03-30 06:53:02`|
+|1|[measured&#95;boot&#95;poc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49182)|`2025-03-30 06:53:02`|
+|4|[Webs PVE Menu  v7&#46;1&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49176)|`2025-03-30 06:53:02`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
