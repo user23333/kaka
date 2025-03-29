@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[LittleCLI &#45; a simple command line interface](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/694057-littlecli-simple-command-line-interface.html)|`2025-03-29 09:13:00`|`General Programming and Reversing`|
+|[Russian Account Bypass TUT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/688961-russian-account-bypass-tut.html)|`2025-03-29 09:05:00`|`Escape from Tarkov`|
+|[HWID ban duration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/625445-hwid-ban-duration.html)|`2025-03-29 09:05:00`|`Valorant`|
+|[DBD Cheats for max items](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/693395-dbd-cheats-max-items.html)|`2025-03-29 08:42:00`|`Other Games`|
+|[Looking for some guidance to modify Il2cpp game models](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/694055-looking-guidance-modify-il2cpp-game-models.html)|`2025-03-29 08:40:00`|`Unity`|
 |[C&#43;&#43; Color Triggerbot New Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691387-color-triggerbot-undetected.html)|`2025-03-29 07:50:00`|`Valorant`|
 |[FACEIT AC TPM 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/652744-faceit-ac-tpm-2-0-a.html)|`2025-03-29 07:49:00`|`Anti-Cheat Bypass`|
 |[superBADinternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690904-superbadinternal.html)|`2025-03-29 07:32:00`|`Marvel Rivals`|
