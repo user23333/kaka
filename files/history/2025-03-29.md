@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2025-03-29 17:20:00`|`DayZ SA`|
+|[Undetected CE vs BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693848-undetected-ce-vs.html)|`2025-03-29 17:12:00`|`Grand Theft Auto V`|
 |[Minimum Requirements for an Outfit Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/694074-minimum-requirements-outfit-editor.html)|`2025-03-29 17:05:00`|`Grand Theft Auto V`|
 |[Vanguard Spoofer Rev 2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612562-vanguard-spoofer-rev-2-a.html)|`2025-03-29 17:04:00`|`Valorant`|
 |[modify the string in M&#45;key radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/694103-modify-string-key-radar.html)|`2025-03-29 16:38:00`|`Apex Legends`|
