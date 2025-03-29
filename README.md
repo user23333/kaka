@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple SilentAim for Asphyxia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693888-simple-silentaim-asphyxia.html)|`2025-03-30 00:27:00`|`Counter-Strike 2`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-03-30 00:18:00`|`Apex Legends`|
+|[HWID ban duration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/625445-hwid-ban-duration.html)|`2025-03-30 00:16:00`|`Valorant`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-03-30 00:11:00`|`Apex Legends`|
 |[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2025-03-30 00:05:00`|`Grand Theft Auto V`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-03-30 00:05:00`|`Other Games`|
