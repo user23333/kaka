@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FragPunk Logitech Lua Recoil Script for Discipline and Fever](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694044-fragpunk-logitech-lua-recoil-script-discipline-fever.html)|`2025-03-30 02:30:00`|`Other FPS Games`|
+|[Gamersclub AC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694025-gamersclub-ac.html)|`2025-03-30 02:22:00`|`Anti-Cheat Bypass`|
+|[Cheat Table for online business](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/694170-cheat-table-online-business.html)|`2025-03-30 02:21:00`|`Grand Theft Auto V`|
+|[Detection Vectors?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/694169-detection-vectors.html)|`2025-03-30 02:16:00`|`Valorant`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-03-30 02:04:00`|`DayZ SA`|
 |[anyway to unlock the trippy baseball bat and knife?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/694168-anyway-unlock-trippy-baseball-bat-knife.html)|`2025-03-30 01:55:00`|`Grand Theft Auto V`|
 |[Offsets &#124;&#43;Pattern &#40;2699 &#45; 3258&#41; &#124; Always Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/694166-offsets-pattern-2699-3258-updated.html)|`2025-03-30 01:55:00`|`Alternative Online Mods`|
