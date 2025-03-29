@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BetterAimAssist: Valorant aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682003-betteraimassist-valorant-aim-assist.html)|`2025-03-29 19:25:00`|`Valorant`|
+|[PUBG MOBILE Gameloop Emulator Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/576303-pubg-mobile-gameloop-emulator-cheat.html)|`2025-03-29 19:13:00`|`PUBG Mobile`|
 |[Leveraging TPM2 TCG Logs &#40;Measured Boot&#41; to Detect UEFI Drivers and Boot Applications](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694026-leveraging-tpm2-tcg-logs-measured-boot-detect-uefi-drivers-boot-applications.html)|`2025-03-29 19:20:00`|`Anti-Cheat Bypass`|
 |[HWID BAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/693563-hwid-ban.html)|`2025-03-29 19:01:00`|`Apex Legends`|
 |[Mini Royale](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694009-mini-royale.html)|`2025-03-29 18:49:00`|`Other FPS Games`|
