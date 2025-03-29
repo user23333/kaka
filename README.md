@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is External Modding Dead in GTAO? A Look at the Current Scene](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693268-external-modding-dead-gtao-look-current-scene.html)|`2025-03-29 17:48:00`|`Grand Theft Auto V`|
 |[How to get rid of fake errors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/685831-rid-fake-errors.html)|`2025-03-29 17:41:00`|`C and C++`|
 |[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2025-03-29 17:20:00`|`DayZ SA`|
 |[Undetected CE vs BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693848-undetected-ce-vs.html)|`2025-03-29 17:12:00`|`Grand Theft Auto V`|
