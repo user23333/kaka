@@ -26,9 +26,15 @@
 |103|[Bo6 SRC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49148)|`2025-03-30 00:12:48`|
 |118|[Among Us &#45; V9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49147)|`2025-03-30 00:12:48`|
 |1|[Deadlock cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49153)|`2025-03-30 05:36:31`|
+|1|[schedule 1 ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49162)|`2025-03-30 05:42:32`|
+|1|[Schedule 1 Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49161)|`2025-03-30 05:42:32`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I really want to start developing CS2 Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/694069-start-developing-cs2-cheats.html)|`2025-03-30 05:41:00`|`Introductions`|
+|[Schedule 1 full game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/693778-schedule-1-game.html)|`2025-03-30 05:41:00`|`Other Games`|
+|[How Can I Start to Hacking Rust&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/694111-start-hacking-rust.html)|`2025-03-30 05:40:00`|`Rust`|
+|[&#42;&#42;Starting My Modding Journey on UnknownCheat&#46;me&#42;&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/694072-starting-modding-journey-unknowncheat.html)|`2025-03-30 05:39:00`|`Introductions`|
 |[a new uknowncheats member](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/694106-uknowncheats.html)|`2025-03-30 05:36:00`|`Introductions`|
 |[Introduction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/694110-introduction.html)|`2025-03-30 05:34:00`|`Introductions`|
 |[Finally a working External SkinChanger for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689733-finally-external-skinchanger-cs2.html)|`2025-03-30 05:34:00`|`Counter-Strike 2`|
