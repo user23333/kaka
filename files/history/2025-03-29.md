@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-03-29 21:10:00`|`Valorant`|
+|[Schedule 1 full game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/693778-schedule-1-game.html)|`2025-03-29 21:08:00`|`Other Games`|
+|[Dupe/clone is still possible](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/694116-dupe-clone.html)|`2025-03-29 21:01:00`|`DayZ SA`|
+|[Always Finding Shadow CR3 &#40;without decryption&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684447-finding-shadow-cr3-decryption.html)|`2025-03-29 21:00:00`|`Valorant`|
 |[RAZER NEW ALL WEAPONS 1&#45;3 MS &#40;FREE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/640381-razer-weapons-1-3-ms-free.html)|`2025-03-29 20:35:00`|`Rust`|
 |[👽 VALORANT Skin Changer &#40;Just Inject it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/517551-valorant-skin-changer-inject.html)|`2025-03-29 20:04:00`|`Valorant`|
 |[Proxy for KS&#95;Diagnostics&#95;Process](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/567912-proxy-ks_diagnostics_process.html)|`2025-03-29 19:59:00`|`Phasmophobia`|
