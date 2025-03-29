@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[simple internal box and snapline](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/693842-simple-internal-box-snapline.html)|`2025-03-29 14:19:00`|`PUBG Releases`|
 |[Outfit modding E&E](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/694078-outfit-modding.html)|`2025-03-29 14:01:00`|`Grand Theft Auto V`|
 |[DMA ESP & AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687126-dma-esp-aim.html)|`2025-03-29 13:53:00`|`Marvel Rivals`|
 |[Modify WarThunder pictureFOV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/694076-modify-warthunder-picturefov.html)|`2025-03-29 12:51:00`|`Forum General`|
