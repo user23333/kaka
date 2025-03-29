@@ -42,9 +42,12 @@
 |4|[Webs PVE Menu  v7&#46;1&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49176)|`2025-03-30 06:53:02`|
 |2|[tot&#95;esp&#95;v55](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49184)|`2025-03-30 07:27:14`|
 |2|[SeownedDE ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49180)|`2025-03-30 07:27:14`|
+|1|[Sniper Elite 4 &#45; Internal &#40;ESP, Godmode,&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49183)|`2025-03-30 07:54:23`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sniper Elite 4 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/692172-sniper-elite-4-internal.html)|`2025-03-30 07:53:00`|`Other MMORPG and Strategy`|
+|[Theia/Vanguard encryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/690821-theia-vanguard-encryption.html)|`2025-03-30 07:50:00`|`Anti-Cheat Bypass`|
 |[anyway to force offline the new event area?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/694197-anyway-force-offline-event.html)|`2025-03-30 07:40:00`|`Escape from Tarkov`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-03-30 07:24:00`|`Grand Theft Auto V`|
 |[SeownedDE x64 2025/3/29&#40;rei2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/694048-seownedde-x64-2025-3-29-rei2.html)|`2025-03-30 07:23:00`|`Team Fortress 2`|
