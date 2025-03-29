@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[yall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/694161-yall.html)|`2025-03-30 05:29:00`|`Introductions`|
+|[hi all](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/694184-hi.html)|`2025-03-30 05:28:00`|`Introductions`|
+|[PUBG Experience &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/693901-pubg-experience-dma.html)|`2025-03-30 05:27:00`|`Playerunknown's Battlegrounds`|
+|[yo whats up its me underscore gamer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/694176-yo-whats-underscore-gamer.html)|`2025-03-30 05:26:00`|`Introductions`|
+|[Leveraging TPM2 TCG Logs &#40;Measured Boot&#41; to Detect UEFI Drivers and Boot Applications](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694026-leveraging-tpm2-tcg-logs-measured-boot-detect-uefi-drivers-boot-applications.html)|`2025-03-30 05:24:00`|`Anti-Cheat Bypass`|
 |[How to Create Overwatch Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/693929-create-overwatch-cheats.html)|`2025-03-30 05:23:00`|`Introductions`|
 |[Universal Recoil &#40;like UMT program&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/617894-universal-recoil-umt-program.html)|`2025-03-30 05:01:00`|`Other FPS Games`|
 |[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2025-03-30 05:07:00`|`Other FPS Games`|
