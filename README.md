@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[33 Immortals &#40;Gamepass version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/694162-33-immortals-gamepass-version.html)|`2025-03-31 03:48:00`|`Other Games`|
+|[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-03-31 03:48:00`|`Grand Theft Auto V`|
 |[simple internal box and snapline](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/693842-simple-internal-box-snapline.html)|`2025-03-31 03:45:00`|`PUBG Releases`|
 |[33 immortals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/693330-33-immortals.html)|`2025-03-31 03:41:00`|`Other Games`|
 |[ALL&#45;In&#45;One Menu for YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691907-menu-yimmenu.html)|`2025-03-31 03:40:00`|`Grand Theft Auto V`|
