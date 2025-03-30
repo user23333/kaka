@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[All Mouse NoRecoil 1&#46;0 IS OUT &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-1-0-recoil-helpy-auto-config-probably-ud-universal.html)|`2025-03-31 05:46:00`|`Rainbow Six Siege`|
 |[Is it possible to prove Vanguard is not malicious?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694195-prove-vanguard-malicious.html)|`2025-03-31 05:45:00`|`Anti-Cheat Bypass`|
 |[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2025-03-31 05:40:00`|`DayZ SA`|
 |[Zodiak &#45; Fastcup Full Kernel Driver Cheat v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/665011-zodiak-fastcup-kernel-driver-cheat-v2.html)|`2025-03-31 05:34:00`|`CounterStrike 1.5, 1.6 and Mods`|
