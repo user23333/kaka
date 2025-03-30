@@ -50,6 +50,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTAO Modding Is Supposed to Be Dead&#46;&#46;&#46; But Is It?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/694232-gtao-modding-supposed-dead.html)|`2025-03-30 17:08:00`|`Grand Theft Auto V`|
 |[Language](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/694023-language.html)|`2025-03-30 16:36:00`|`Programming for Beginners`|
 |[Write/ReadProcessMemory returns error 299](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/694156-write-readprocessmemory-returns-error-299-a.html)|`2025-03-30 16:24:00`|`Programming for Beginners`|
 |[GTA Remote Native Invoker Request](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/694229-gta-remote-native-invoker-request.html)|`2025-03-30 16:23:00`|`Grand Theft Auto V`|
