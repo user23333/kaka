@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unlock more Chameleon/Wheel paints on Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690610-unlock-chameleon-wheel-paints-enhanced.html)|`2025-03-31 04:30:00`|`Grand Theft Auto V`|
+|[Plouton &#45; A System Management Mode &#40;SMM&#41; cheat framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693225-plouton-system-management-mode-smm-cheat-framework.html)|`2025-03-31 04:17:00`|`Anti-Cheat Bypass`|
 |[Operation Harsh Doorstop Internal &#124; Silent Aim, Magic Bullet, STW, Spammer, Other](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680217-operation-harsh-doorstop-internal-silent-aim-magic-bullet-stw-spammer.html)|`2025-03-31 04:00:00`|`Other FPS Games`|
 |[Offsets &#124;&#43;Pattern &#40;2699 &#45; 3258&#41; &#124; Always Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/694166-offsets-pattern-2699-3258-updated.html)|`2025-03-31 03:53:00`|`Alternative Online Mods`|
 |[33 Immortals &#40;Gamepass version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/694162-33-immortals-gamepass-version.html)|`2025-03-31 03:48:00`|`Other Games`|
