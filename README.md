@@ -49,6 +49,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Write/ReadProcessMemory returns error 299](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/694156-write-readprocessmemory-returns-error-299-a.html)|`2025-03-30 16:24:00`|`Programming for Beginners`|
+|[GTA Remote Native Invoker Request](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/694229-gta-remote-native-invoker-request.html)|`2025-03-30 16:23:00`|`Grand Theft Auto V`|
 |[Can't call game function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/694165-cant-call-game-function.html)|`2025-03-30 16:08:00`|`General Programming and Reversing`|
 |[Broken silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694227-broken-silent-aim.html)|`2025-03-30 16:04:00`|`Counter-Strike 2`|
 |[Vênus AimColor FragPunk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694226-nus-aimcolor-fragpunk.html)|`2025-03-30 16:00:00`|`Other FPS Games`|
