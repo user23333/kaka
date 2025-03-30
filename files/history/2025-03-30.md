@@ -50,6 +50,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant insta headshot AIMBOT&#91;UNDETECTED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688675-valorant-insta-headshot-aimbot-undetected.html)|`2025-03-30 19:12:00`|`Valorant`|
+|[Skin Changer not setting skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694236-skin-changer-setting-skins.html)|`2025-03-30 19:09:00`|`Counter-Strike 2`|
+|[mod skin offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/693409-mod-skin-offset.html)|`2025-03-30 19:05:00`|`PUBG Mobile`|
+|[All bones & their indexes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687526-bones-indexes.html)|`2025-03-30 19:03:00`|`Counter-Strike 2`|
 |[external silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692753-external-silent-aim.html)|`2025-03-30 18:55:00`|`Counter-Strike 2`|
 |[Cap America animation cancel macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/692397-cap-america-animation-cancel-macro.html)|`2025-03-30 18:48:00`|`Marvel Rivals`|
 |[GTA V solo public session](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691753-gta-solo-public-session.html)|`2025-03-30 18:46:00`|`Grand Theft Auto V`|
