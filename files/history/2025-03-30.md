@@ -50,6 +50,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Move items in game for raids? Dayz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/694038-move-items-game-raids-dayz.html)|`2025-03-30 23:21:00`|`DayZ SA`|
+|[Spike lineup prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/694277-spike-lineup-prediction.html)|`2025-03-30 23:20:00`|`Valorant`|
 |[CS:GO esp hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cs-go-releases/693224-cs-esp-hack.html)|`2025-03-30 23:11:00`|`CS:GO Releases`|
 |[1 second asset ban &#40;GL/KR/VNG&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/694275-1-asset-ban-gl-kr-vng.html)|`2025-03-30 23:09:00`|`PUBG Mobile`|
 |[How to know if a server has any sort of AC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/694272-server-sort-ac.html)|`2025-03-30 22:55:00`|`Garry's Mod`|
