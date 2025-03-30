@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is it possible to prove Vanguard is not malicious?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694195-prove-vanguard-malicious.html)|`2025-03-31 05:45:00`|`Anti-Cheat Bypass`|
+|[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2025-03-31 05:40:00`|`DayZ SA`|
 |[Zodiak &#45; Fastcup Full Kernel Driver Cheat v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/665011-zodiak-fastcup-kernel-driver-cheat-v2.html)|`2025-03-31 05:34:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[FiveM External Self Leak &#40;1604 to 3274&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/694182-fivem-external-self-leak-1604-3274-a.html)|`2025-03-31 05:34:00`|`Alternative Online Mods`|
 |[Bhop, strafe etc&#46; Script/internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/694322-bhop-strafe-etc-script-internal.html)|`2025-03-31 05:25:00`|`Titanfall`|
