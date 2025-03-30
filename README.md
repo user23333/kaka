@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[simple internal box and snapline](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/693842-simple-internal-box-snapline.html)|`2025-03-31 03:45:00`|`PUBG Releases`|
 |[33 immortals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/693330-33-immortals.html)|`2025-03-31 03:41:00`|`Other Games`|
 |[ALL&#45;In&#45;One Menu for YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691907-menu-yimmenu.html)|`2025-03-31 03:40:00`|`Grand Theft Auto V`|
 |[GMS V258&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/694200-gms-v258-2-a.html)|`2025-03-31 03:40:00`|`Maple Story`|
