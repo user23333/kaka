@@ -50,6 +50,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[macro detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/691829-macro-detected.html)|`2025-03-30 23:35:00`|`Rainbow Six Siege`|
+|[modify the string in M&#45;key radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/694103-modify-string-key-radar.html)|`2025-03-30 23:33:00`|`Apex Legends`|
+|[messagebox internal in lib](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/694278-messagebox-internal-lib.html)|`2025-03-30 23:29:00`|`PUBG Mobile`|
 |[Move items in game for raids? Dayz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/694038-move-items-game-raids-dayz.html)|`2025-03-30 23:21:00`|`DayZ SA`|
 |[Spike lineup prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/694277-spike-lineup-prediction.html)|`2025-03-30 23:20:00`|`Valorant`|
 |[CS:GO esp hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cs-go-releases/693224-cs-esp-hack.html)|`2025-03-30 23:11:00`|`CS:GO Releases`|
