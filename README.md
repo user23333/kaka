@@ -50,6 +50,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-03-30 20:06:00`|`League of Legends`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-03-30 19:58:00`|`Other MMORPG and Strategy`|
 |[Plouton &#45; A System Management Mode &#40;SMM&#41; cheat framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693225-plouton-system-management-mode-smm-cheat-framework.html)|`2025-03-30 19:54:00`|`Anti-Cheat Bypass`|
 |[&#91;DMA&#43;KMBOX&#93; Apex DMA Paste &#45; Glow&#43;Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/622378-dma-kmbox-apex-dma-paste-glow-aim.html)|`2025-03-30 19:46:00`|`Apex Legends`|
 |[very cool color text in casual &#40;EPIC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/694253-cool-color-text-casual-epic.html)|`2025-03-30 19:42:00`|`Team Fortress 2`|
