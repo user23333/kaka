@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bhop, strafe etc&#46; Script/internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/694322-bhop-strafe-etc-script-internal.html)|`2025-03-31 05:25:00`|`Titanfall`|
 |[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2025-03-31 05:08:00`|`Apex Legends`|
 |[Albion Online updated map files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/691012-albion-online-updated-map-files.html)|`2025-03-31 04:59:00`|`Other MMORPG and Strategy`|
 |[&#124; DeadLock Cheat &#124;&#124; Scripts &#124;&#124; Auto&#45;Updating &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/693609-deadlock-cheat-scripts-auto-updating.html)|`2025-03-31 04:59:00`|`Deadlock`|
