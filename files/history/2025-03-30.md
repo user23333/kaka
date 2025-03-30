@@ -49,6 +49,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can't call game function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/694165-cant-call-game-function.html)|`2025-03-30 16:08:00`|`General Programming and Reversing`|
+|[Broken silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694227-broken-silent-aim.html)|`2025-03-30 16:04:00`|`Counter-Strike 2`|
+|[Vênus AimColor FragPunk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694226-nus-aimcolor-fragpunk.html)|`2025-03-30 16:00:00`|`Other FPS Games`|
 |[How Are Sellers Creating Ranked Bot Lobbies Despite Matchmaking Restrictions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/694225-sellers-creating-ranked-bot-lobbies-despite-matchmaking-restrictions.html)|`2025-03-30 15:44:00`|`Call of Duty: Black Ops 6`|
 |[PUBG mobile GWorld Decrypt algorithm changed ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/693796-pubg-mobile-gworld-decrypt-algorithm-changed.html)|`2025-03-30 15:27:00`|`PUBG Mobile`|
 |[How to develop  a internal cs2 cheat &#40;With a few hooks&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692660-develop-internal-cs2-cheat-hooks.html)|`2025-03-30 14:47:00`|`Counter-Strike 2`|
