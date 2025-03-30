@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-03-31 00:54:00`|`Apex Legends`|
 |[Apex Legends Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/694292-apex-legends-dump.html)|`2025-03-31 00:48:00`|`Apex Legends`|
 |[Will I get Banned on Valorant for my downloads?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/694283-banned-valorant-downloads.html)|`2025-03-31 00:24:00`|`Valorant`|
 |[Proxy for KS&#95;Diagnostics&#95;Process](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/567912-proxy-ks_diagnostics_process.html)|`2025-03-31 00:40:00`|`Phasmophobia`|
