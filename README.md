@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CSSO &#40;1&#46;1&#41; Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/690832-csso-1-1-internal-cheat.html)|`2025-03-31 01:55:00`|`CounterStrike Source`|
+|[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-03-31 01:50:00`|`Marvel Rivals`|
 |[Vênus AimColor FragPunk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694226-nus-aimcolor-fragpunk.html)|`2025-03-31 01:41:00`|`Other FPS Games`|
 |[Skeleton ESP showing on death position](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694297-skeleton-esp-death-position.html)|`2025-03-31 01:35:00`|`Counter-Strike 2`|
 |[very cool color text in casual &#40;EPIC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/694253-cool-color-text-casual-epic.html)|`2025-03-31 01:33:00`|`Team Fortress 2`|
