@@ -31,6 +31,8 @@
 |134|[Webs PVE Menu  v7&#46;1&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49176)|`2025-03-31 00:00:04`|
 |3|[External GlowESP&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49202)|`2025-03-31 17:14:40`|
 |3|[cheat&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49201)|`2025-03-31 17:14:40`|
+|1|[Solo leveling arise updated 1&#46;2&#46;35](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49204)|`2025-03-31 23:42:56`|
+|1|[33 Immortals V2 Hitlerjoe&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49203)|`2025-03-31 23:42:56`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
