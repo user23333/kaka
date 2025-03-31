@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-04-01 07:25:00`|`ARMA 3`|
+|[External cheat GS/Steam WG/ECD bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/692681-external-cheat-gs-steam-wg-ecd-bypass.html)|`2025-04-01 07:24:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[cs2 external cheat with source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693925-cs2-external-cheat-source.html)|`2025-04-01 07:18:00`|`Counter-Strike 2`|
 |[Scedule I Blackjack winner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/694482-scedule-blackjack-winner.html)|`2025-04-01 07:16:00`|`Other Games`|
 |[Tarkov ESP / Materials&#45;Hack Search](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/694481-tarkov-esp-materials-hack-search.html)|`2025-04-01 07:09:00`|`Escape from Tarkov`|
 |[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2025-04-01 06:57:00`|`Grand Theft Auto V`|
