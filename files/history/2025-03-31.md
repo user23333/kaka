@@ -13,6 +13,7 @@
 |11|[&#91;VOTE&#93; April 2025 Member of the Month](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/693534-vote-april-2025-month.html)|`2025-03-31 00:00:04`|`member-of-the-month`|
 |18|[Cs2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693512-cs2-internal.html)|`2025-03-31 03:27:28`|`counter-strike-2-a`|
 |8|[GTA 5  basic enhanced Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693799-gta-5-basic-enhanced-mod-menu.html)|`2025-03-31 06:11:59`|`grand-theft-auto-v`|
+|0|[Looking to get DMA card, some questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/693841-looking-dma-card-questions.html)|`2025-03-31 11:14:15`|`pc-hardware`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Universal Recoil &#40;like UMT program&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/617894-universal-recoil-umt-program.html)|`2025-03-31 11:13:00`|`Other FPS Games`|
+|[External GlowESP &#40;with source code&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694365-external-glowesp-source-code.html)|`2025-03-31 10:51:00`|`Counter-Strike 2`|
+|[DMA CUSTOM FIRMWARE GUIDE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/613135-dma-custom-firmware-guide.html)|`2025-03-31 10:51:00`|`Anti-Cheat Bypass`|
+|[Made my oen custom firmware&#46; have 34 sectors on flash?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694077-oen-custom-firmware-34-sectors-flash.html)|`2025-03-31 10:47:00`|`Anti-Cheat Bypass`|
+|[pcileech&#45;multimedia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/623718-pcileech-multimedia.html)|`2025-03-31 10:33:00`|`Anti-Cheat Bypass`|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-03-31 10:23:00`|`Other Games`|
 |[GC PEB Walk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694362-gc-peb-walk.html)|`2025-03-31 10:21:00`|`Counter-Strike 2`|
 |[Bypass EAC Outlawed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694268-bypass-eac-outlawed.html)|`2025-03-31 10:02:00`|`Other FPS Games`|
 |[How Can I Start to Hacking Rust&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/694111-start-hacking-rust.html)|`2025-03-31 09:28:00`|`Rust`|
