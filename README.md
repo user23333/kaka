@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is Rigel not working right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/694401-rigel.html)|`2025-03-31 19:27:00`|`Overwatch`|
+|[Just Another Night Shift code enter cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/694400-night-shift-code-enter-cheat.html)|`2025-03-31 19:20:00`|`Introductions`|
 |[Marvel rivals internal Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687997-marvel-rivals-internal-base.html)|`2025-03-31 19:32:00`|`Marvel Rivals`|
 |[Decision: Red Daze Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/500930-decision-red-daze-trainer.html)|`2025-03-31 19:07:00`|`Unity`|
 |[I want to appreciate all of UnkownCheats real quick&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/684712-appreciate-unkowncheats-real-quick.html)|`2025-03-31 18:35:00`|`Off Topic`|
