@@ -35,6 +35,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How can I find the strings a game is looking for to block tools like x64dbg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694404-strings-game-looking-block-tools-x64dbg.html)|`2025-04-01 04:21:00`|`Anti-Cheat Bypass`|
+|[Driver Mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693885-driver-mapper.html)|`2025-04-01 04:18:00`|`Anti-Cheat Bypass`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-04-01 04:17:00`|`Playerunknown's Battlegrounds`|
+|[aimpunch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/694457-aimpunch.html)|`2025-04-01 04:17:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[CS 1&#46;6 Steam Build 10210 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/693063-cs-1-6-steam-build-10210-offsets.html)|`2025-04-01 04:12:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[vac ud & red trust ud internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694454-vac-ud-red-trust-ud-internal.html)|`2025-04-01 04:10:00`|`Counter-Strike 2`|
 |[Free Apex Coins/Cheap Coins Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/693249-free-apex-coins-cheap-coins-thread.html)|`2025-04-01 04:09:00`|`Apex Legends`|
 |[How to learn to sniff a game packets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/694424-learn-sniff-game-packets.html)|`2025-04-01 04:08:00`|`General Programming and Reversing`|
