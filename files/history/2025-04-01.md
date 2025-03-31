@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[norecoil macro for G502 hero](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/688777-norecoil-macro-g502-hero.html)|`2025-04-01 07:33:00`|`Playerunknown's Battlegrounds`|
+|[Reversing a python program](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/694485-reversing-python-program.html)|`2025-04-01 07:32:00`|`General Programming and Reversing`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-04-01 07:25:00`|`ARMA 3`|
 |[External cheat GS/Steam WG/ECD bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/692681-external-cheat-gs-steam-wg-ecd-bypass.html)|`2025-04-01 07:24:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[cs2 external cheat with source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693925-cs2-external-cheat-source.html)|`2025-04-01 07:18:00`|`Counter-Strike 2`|
