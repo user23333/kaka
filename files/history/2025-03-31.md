@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dark and Darker Internal V2 &#43; Hwid Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/618587-dark-darker-internal-v2-hwid-spoofer.html)|`2025-03-31 13:13:00`|`Other FPS Games`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-03-31 13:08:00`|`Rust`|
 |[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-03-31 12:55:00`|`Rainbow Six Siege`|
 |[Solo leveling Arise v 1&#46;2&#46;35](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/694367-solo-leveling-arise-1-2-35-a.html)|`2025-03-31 12:52:00`|`Other MMORPG and Strategy`|
 |[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2025-03-31 12:36:00`|`Tom Clancy's The Division`|
