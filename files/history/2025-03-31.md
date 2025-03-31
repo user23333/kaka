@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Theia/Vanguard encryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/690821-theia-vanguard-encryption.html)|`2025-03-31 19:47:00`|`Anti-Cheat Bypass`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-03-31 19:43:00`|`League of Legends`|
 |[Is Rigel not working right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/694401-rigel.html)|`2025-03-31 19:27:00`|`Overwatch`|
 |[Just Another Night Shift code enter cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/694400-night-shift-code-enter-cheat.html)|`2025-03-31 19:20:00`|`Introductions`|
 |[Marvel rivals internal Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687997-marvel-rivals-internal-base.html)|`2025-03-31 19:32:00`|`Marvel Rivals`|
