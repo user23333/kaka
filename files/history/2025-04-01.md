@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VMProtect issue&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/694452-vmprotect-issue.html)|`2025-04-01 03:28:00`|`Programming for Beginners`|
 |[FiveM External Self Leak &#40;1604 to 3274&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/694182-fivem-external-self-leak-1604-3274-a.html)|`2025-04-01 03:11:00`|`Alternative Online Mods`|
 |[Dead by Daylight Unlock DLC's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694447-dead-daylight-unlock-dlcs.html)|`2025-04-01 03:07:00`|`Other FPS Games`|
 |[GTA V Enhanced Session Sweeper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693543-gta-enhanced-session-sweeper.html)|`2025-04-01 02:54:00`|`Grand Theft Auto V`|
