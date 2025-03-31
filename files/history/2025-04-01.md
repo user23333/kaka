@@ -11,6 +11,7 @@
 |2|[Looking to get DMA card, some questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/693841-looking-dma-card-questions.html)|`2025-04-01 00:11:46`|`pc-hardware`|
 |8|[GTA 5  basic enhanced Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693799-gta-5-basic-enhanced-mod-menu.html)|`2025-04-01 00:11:46`|`grand-theft-auto-v`|
 |2|[about staying undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/693552-staying-undetected.html)|`2025-04-01 00:11:46`|`overwatch`|
+|20|[PUBG Experience &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/693901-pubg-experience-dma.html)|`2025-04-01 01:29:11`|`playerunknown-s-battlegrounds`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,9 +29,11 @@
 |1|[Venus Aim Assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49193)|`2025-04-01 00:57:35`|
 |1|[DBD VON Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49194)|`2025-04-01 01:12:18`|
 |1|[Hitman3Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49192)|`2025-04-01 01:12:18`|
+|4|[33 Immortals V3 Hitlerjoe&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49206)|`2025-04-01 01:29:11`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[33 Immortals &#40;Gamepass version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/694162-33-immortals-gamepass-version.html)|`2025-04-01 01:14:00`|`Other Games`|
 |[Dead By Daylight Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694248-dead-daylight-internal.html)|`2025-04-01 01:10:00`|`Other FPS Games`|
 |[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-04-01 01:07:00`|`Grand Theft Auto V`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-04-01 01:06:00`|`Rainbow Six Siege`|
