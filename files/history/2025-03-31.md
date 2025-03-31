@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[danielkrupinski's Vac Bypass Loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/694419-danielkrupinskis-vac-bypass-loader.html)|`2025-03-31 23:18:00`|`Half Life`|
 |[GC PEB Walk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694417-gc-peb-walk.html)|`2025-03-31 23:12:00`|`Anti-Cheat Bypass`|
 |[Best Lua cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/694418-lua-cheat.html)|`2025-03-31 23:05:00`|`Garry's Mod`|
 |[C&#43;&#43; Color Triggerbot New Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691387-color-triggerbot-undetected.html)|`2025-03-31 22:44:00`|`Valorant`|
