@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[C&#43;&#43; Color Triggerbot New Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691387-color-triggerbot-undetected.html)|`2025-03-31 22:44:00`|`Valorant`|
 |[external glow offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694413-external-glow-offsets.html)|`2025-03-31 22:32:00`|`Counter-Strike 2`|
 |[Bhop external won't work in matchmaking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694311-bhop-external-wont-matchmaking.html)|`2025-03-31 22:20:00`|`Counter-Strike 2`|
 |[External skinchanger not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694414-external-skinchanger.html)|`2025-03-31 22:17:00`|`Counter-Strike 2`|
