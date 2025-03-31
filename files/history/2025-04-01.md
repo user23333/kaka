@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Someone owns a cheat on Eternal Return?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/693753-owns-cheat-eternal-return.html)|`2025-04-01 04:34:00`|`Off Topic`|
+|[How to inject a dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/694458-inject-dll.html)|`2025-04-01 04:34:00`|`League of Legends`|
 |[How can I find the strings a game is looking for to block tools like x64dbg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694404-strings-game-looking-block-tools-x64dbg.html)|`2025-04-01 04:21:00`|`Anti-Cheat Bypass`|
 |[Driver Mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693885-driver-mapper.html)|`2025-04-01 04:18:00`|`Anti-Cheat Bypass`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-04-01 04:17:00`|`Playerunknown's Battlegrounds`|
