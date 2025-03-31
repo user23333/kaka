@@ -28,9 +28,12 @@
 |20|[SeownedDE ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49180)|`2025-03-31 00:00:04`|
 |61|[5&#46;3&#46;2&#45;1756321&#43;&#43;&#43;depot&#95;marvel&#43;S1&#95;2&#95;release&#45;Mar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49179)|`2025-03-31 00:00:04`|
 |134|[Webs PVE Menu  v7&#46;1&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49176)|`2025-03-31 00:00:04`|
+|3|[External GlowESP&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49202)|`2025-03-31 17:14:40`|
+|3|[cheat&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49201)|`2025-03-31 17:14:40`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How can I skip Steam and play pirated Dayz?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/694381-skip-steam-play-pirated-dayz.html)|`2025-03-31 16:57:00`|`DayZ SA`|
 |[FragPunk Logitech Lua Recoil Script for Discipline and Fever](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694044-fragpunk-logitech-lua-recoil-script-discipline-fever.html)|`2025-03-31 16:45:00`|`Other FPS Games`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-03-31 16:03:00`|`Other FPS Games`|
 |[Any New Dead by Daylight Hacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694375-dead-daylight-hacks.html)|`2025-03-31 15:47:00`|`Other FPS Games`|
