@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[D3D12 Engine Chams Teaser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/693932-d3d12-engine-chams-teaser.html)|`2025-03-31 21:04:00`|`Rainbow Six Siege`|
+|[I want ESP or Walkhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/694368-esp-walkhack.html)|`2025-03-31 20:50:00`|`Playerunknown's Battlegrounds`|
 |[Looking to get DMA card, some questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/693841-looking-dma-card-questions.html)|`2025-03-31 20:29:00`|`PC Hardware`|
 |[Valorant insta headshot AIMBOT&#91;UNDETECTED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688675-valorant-insta-headshot-aimbot-undetected.html)|`2025-03-31 20:19:00`|`Valorant`|
 |[Riot vanguard bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/694056-riot-vanguard-bypass.html)|`2025-03-31 20:18:00`|`Valorant`|
