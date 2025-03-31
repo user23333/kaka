@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Decision: Red Daze Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/500930-decision-red-daze-trainer.html)|`2025-03-31 19:07:00`|`Unity`|
 |[I want to appreciate all of UnkownCheats real quick&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/684712-appreciate-unkowncheats-real-quick.html)|`2025-03-31 18:35:00`|`Off Topic`|
 |[mini royale](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694384-mini-royale.html)|`2025-03-31 18:28:00`|`Other FPS Games`|
 |[mod&#95;au](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/694266-mod_au.html)|`2025-03-31 18:22:00`|`Among Us`|
