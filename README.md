@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SCP SL Cheat v13&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/611154-scp-sl-cheat-v13-3-1-a.html)|`2025-03-31 12:17:00`|`Other Games`|
+|[1 second asset ban &#40;GL/KR/VNG&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/694275-1-asset-ban-gl-kr-vng.html)|`2025-03-31 12:17:00`|`PUBG Mobile`|
 |[Universal Recoil &#40;like UMT program&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/617894-universal-recoil-umt-program.html)|`2025-03-31 11:13:00`|`Other FPS Games`|
 |[External GlowESP &#40;with source code&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694365-external-glowesp-source-code.html)|`2025-03-31 10:51:00`|`Counter-Strike 2`|
 |[DMA CUSTOM FIRMWARE GUIDE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/613135-dma-custom-firmware-guide.html)|`2025-03-31 10:51:00`|`Anti-Cheat Bypass`|
