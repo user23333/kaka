@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FragPunk Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691207-fragpunk-ban.html)|`2025-03-31 17:41:00`|`Other FPS Games`|
 |[How can I skip Steam and play pirated Dayz?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/694381-skip-steam-play-pirated-dayz.html)|`2025-03-31 16:57:00`|`DayZ SA`|
 |[FragPunk Logitech Lua Recoil Script for Discipline and Fever](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694044-fragpunk-logitech-lua-recoil-script-discipline-fever.html)|`2025-03-31 16:45:00`|`Other FPS Games`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-03-31 16:03:00`|`Other FPS Games`|
