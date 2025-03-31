@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GC PEB Walk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694362-gc-peb-walk.html)|`2025-04-01 05:56:00`|`Counter-Strike 2`|
 |[Awootism self leak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/692364-awootism-self-leak.html)|`2025-04-01 05:50:00`|`Team Fortress 2`|
 |[What can i do with a cheat dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/694058-cheat-dump.html)|`2025-04-01 05:43:00`|`Counterstrike Global Offensive`|
 |[Items in Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/693891-items-cheat-engine.html)|`2025-04-01 05:42:00`|`Minecraft`|
