@@ -25,9 +25,13 @@
 |6|[WAW ESP V3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49200)|`2025-04-02 00:15:09`|
 |7|[Small Supermarket Together Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49199)|`2025-04-02 00:15:09`|
 |90|[Spankerfield 30&#46;03 Good prediction &#43; Refactor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49197)|`2025-04-02 00:15:09`|
+|1|[33 Immortals V5 Hitlerjoe&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49212)|`2025-04-02 01:52:46`|
+|1|[33 Immortals V4 Hitlerjoe&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49208)|`2025-04-02 01:52:46`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[33 Immortals &#40;Gamepass version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/694162-33-immortals-gamepass-version.html)|`2025-04-02 01:50:00`|`Other Games`|
+|[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-04-02 01:49:00`|`Rainbow Six Siege`|
 |[Dead By Daylight Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694248-dead-daylight-internal.html)|`2025-04-02 01:45:00`|`Other FPS Games`|
 |[Denuvo AC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/693927-denuvo-ac-bypass.html)|`2025-04-02 01:44:00`|`Introductions`|
 |[External GlowESP &#40;with source code&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694365-external-glowesp-source-code.html)|`2025-04-02 01:31:00`|`Counter-Strike 2`|
