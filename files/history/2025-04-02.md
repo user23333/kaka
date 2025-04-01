@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-04-02 06:51:00`|`Battlefield 4`|
+|[HWID ban &#40;van 152&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/693911-hwid-ban-van-152-a.html)|`2025-04-02 06:50:00`|`Valorant`|
 |[Dying Light 1 &#40;V1&#46;50&#41; Internal &#124; Aimbot, ESP,&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/688897-dying-light-1-v1-50-internal-aimbot-esp.html)|`2025-04-02 06:40:00`|`Other FPS Games`|
 |[Burnt out&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/694068-burnt.html)|`2025-04-02 06:29:00`|`C and C++`|
 |[GamersClub AC enemy ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694155-gamersclub-ac-enemy-esp.html)|`2025-04-02 06:28:00`|`Counter-Strike 2`|
