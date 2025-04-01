@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Put benny's wheels in personal vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/376369-bennys-wheels-personal-vehicle.html)|`2025-04-01 23:44:00`|`Grand Theft Auto V`|
 |[New VAC module &#40;kernel, anti emulation & HWID bans&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694549-vac-module-kernel-anti-emulation-hwid-bans.html)|`2025-04-01 23:15:00`|`Counter-Strike 2`|
 |[PUBGM Lua Dump &#40;decompiled & decrypted&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/694547-pubgm-lua-dump-decompiled-decrypted.html)|`2025-04-01 23:14:00`|`PUBG Mobile`|
 |[Vanguard Spoofer Rev 2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612562-vanguard-spoofer-rev-2-a.html)|`2025-04-01 23:13:00`|`Valorant`|
