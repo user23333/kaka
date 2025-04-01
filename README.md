@@ -35,6 +35,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[new member, hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/694428-hello.html)|`2025-04-01 11:27:00`|`Introductions`|
+|[New Guy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/694438-guy.html)|`2025-04-01 11:27:00`|`Introductions`|
+|[Im New](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/694480-im.html)|`2025-04-01 11:27:00`|`Introductions`|
+|[yo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/694491-yo.html)|`2025-04-01 11:26:00`|`Introductions`|
+|[Retrieving LOADER&#95;PARAMETER&#95;BLOCK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/694495-retrieving-loader_parameter_block.html)|`2025-04-01 11:17:00`|`General Programming and Reversing`|
 |[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-04-01 10:27:00`|`Grand Theft Auto V`|
 |[anyway to unlock the trippy baseball bat and knife?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/694168-anyway-unlock-trippy-baseball-bat-knife.html)|`2025-04-01 10:23:00`|`Grand Theft Auto V`|
 |[When obfuscating entrypoint, threads cannot be created&#46; Any ideas?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/694490-obfuscating-entrypoint-threads-created-ideas.html)|`2025-04-01 10:23:00`|`General Programming and Reversing`|
