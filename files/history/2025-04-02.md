@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2025-04-02 05:34:00`|`Grand Theft Auto V`|
+|[some free steam keys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/694636-free-steam-keys.html)|`2025-04-02 05:25:00`|`Off Topic`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-04-02 05:10:00`|`League of Legends`|
 |[D3D12 Engine Chams Teaser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/693932-d3d12-engine-chams-teaser.html)|`2025-04-02 05:09:00`|`Rainbow Six Siege`|
 |[Any New Dead by Daylight Hacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694375-dead-daylight-hacks.html)|`2025-04-02 05:07:00`|`Other FPS Games`|
