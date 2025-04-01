@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Undetected Cheat Engine &#43; Driver &#124; 2023 &#124; Bypass Anticheats &#40;BE / EAC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/504191-undetected-cheat-engine-driver-2023-bypass-anticheats-eac.html)|`2025-04-02 02:52:00`|`Anti-Cheat Bypass`|
+|[Combat Master CE Godmode, MEGA XP, Instant Weapon/Player Max Level, Attachment Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/583715-combat-master-ce-godmode-mega-xp-instant-weapon-player-max-level-attachment-mod.html)|`2025-04-02 02:51:00`|`Combat Master`|
+|[GhostHack 2&#46;0 public](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/579206-ghosthack-2-0-public.html)|`2025-04-02 02:49:00`|`Battlefield 2`|
 |[CRC bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/690828-crc-bypass.html)|`2025-04-02 02:40:00`|`Genshin Impact`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-04-02 02:39:00`|`Other Games`|
 |[cs2 external cheat with source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693925-cs2-external-cheat-source.html)|`2025-04-02 02:39:00`|`Counter-Strike 2`|
