@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ 1&#46;26 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/668418-dayz-1-26-cheat.html)|`2025-04-01 14:02:00`|`DayZ SA`|
 |[Cs2 Voidware External Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693235-cs2-voidware-external-read.html)|`2025-04-01 13:46:00`|`Counter-Strike 2`|
 |[Apex cfg for Kbm that has Absolutely everything](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/690623-apex-cfg-kbm-absolutely.html)|`2025-04-01 13:40:00`|`Apex Legends`|
 |[Newest offsets &#124; 4/1/2025 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694507-offsets-4-1-2025-update.html)|`2025-04-01 13:39:00`|`Counter-Strike 2`|
