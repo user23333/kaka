@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New VAC module &#40;kernel, anti emulation & HWID bans&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694549-vac-module-kernel-anti-emulation-hwid-bans.html)|`2025-04-01 23:15:00`|`Counter-Strike 2`|
+|[PUBGM Lua Dump &#40;decompiled & decrypted&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/694547-pubgm-lua-dump-decompiled-decrypted.html)|`2025-04-01 23:14:00`|`PUBG Mobile`|
+|[Vanguard Spoofer Rev 2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612562-vanguard-spoofer-rev-2-a.html)|`2025-04-01 23:13:00`|`Valorant`|
+|[hellyea](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/694545-hellyea.html)|`2025-04-01 23:04:00`|`Introductions`|
 |[Warframe Unban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694544-warframe-unban.html)|`2025-04-01 22:52:00`|`Other FPS Games`|
 |[Pipsi&#45;HI3 &#91; Honkai Impact 3rd Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/631036-pipsi-hi3-honkai-impact-3rd-cheat.html)|`2025-04-01 22:46:00`|`Other MMORPG and Strategy`|
 |[Refined Sunoki's fully updated TriggerBot &#43; Mafia4321x's Spoofer  &#43; Cc's TB launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684759-refined-sunokis-updated-triggerbot-mafia4321xs-spoofer-ccs-tb-launcher.html)|`2025-04-01 22:45:00`|`Valorant`|
