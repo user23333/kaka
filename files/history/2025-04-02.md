@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[blackwidow or hela triggerbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/694504-blackwidow-hela-triggerbot.html)|`2025-04-02 06:07:00`|`Marvel Rivals`|
+|[DayZ character dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/694520-dayz-character-dumper.html)|`2025-04-02 06:02:00`|`DayZ SA`|
 |[External AimDelay & AimTime](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694639-external-aimdelay-aimtime.html)|`2025-04-02 05:48:00`|`Counter-Strike 2`|
 |[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2025-04-02 05:34:00`|`Grand Theft Auto V`|
 |[some free steam keys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/694636-free-steam-keys.html)|`2025-04-02 05:25:00`|`Off Topic`|
