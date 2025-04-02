@@ -42,6 +42,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Alternative last free version of cheat 06&#46;2020](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/458599-alternative-free-version-cheat-06-2020-a.html)|`2025-04-02 16:26:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Arma Reforger DMA esp&#43;aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/692649-arma-reforger-dma-esp-aim.html)|`2025-04-02 15:57:00`|`ARMA 3`|
 |[New Ban System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/694716-ban-system.html)|`2025-04-02 15:32:00`|`Scum`|
 |[VGK obfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671176-vgk-obfuscation.html)|`2025-04-02 15:18:00`|`Anti-Cheat Bypass`|
