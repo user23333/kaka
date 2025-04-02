@@ -42,6 +42,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Want to Learn PUBG Mobile Emulator Hacking from Scratch&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/694664-learn-pubg-mobile-emulator-hacking-scratch.html)|`2025-04-02 14:41:00`|`PUBG Mobile`|
+|[Fortnite reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694623-fortnite-reversing.html)|`2025-04-02 14:39:00`|`Other FPS Games`|
+|[Gloves inspect animation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694622-gloves-inspect-animation.html)|`2025-04-02 14:38:00`|`Counter-Strike 2`|
+|[C&#43;&#43; Color Triggerbot New Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691387-color-triggerbot-undetected.html)|`2025-04-02 14:36:00`|`Valorant`|
+|[Ultimate HvH CHEAT with ZXCMODULE &#40;Backtrack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/683074-ultimate-hvh-cheat-zxcmodule-backtrack.html)|`2025-04-02 14:20:00`|`Garry's Mod`|
 |[Cheaters get DNA banned now&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/694702-cheaters-dna-banned.html)|`2025-04-02 14:15:00`|`Valorant`|
 |[Pro CS2 DMA &#45; Esp & Aimbot & Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656442-pro-cs2-dma-esp-aimbot-web-radar.html)|`2025-04-02 12:25:00`|`Counter-Strike 2`|
 |[Interstate Fixed &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/687968-interstate-fixed.html)|`2025-04-02 12:01:00`|`Garry's Mod`|
