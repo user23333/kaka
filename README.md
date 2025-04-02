@@ -42,6 +42,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[looking for faceit cloud/web radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694699-looking-faceit-cloud-web-radar.html)|`2025-04-02 14:43:00`|`Counter-Strike 2`|
 |[Want to Learn PUBG Mobile Emulator Hacking from Scratch&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/694664-learn-pubg-mobile-emulator-hacking-scratch.html)|`2025-04-02 14:41:00`|`PUBG Mobile`|
 |[Fortnite reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694623-fortnite-reversing.html)|`2025-04-02 14:39:00`|`Other FPS Games`|
 |[Gloves inspect animation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694622-gloves-inspect-animation.html)|`2025-04-02 14:38:00`|`Counter-Strike 2`|
