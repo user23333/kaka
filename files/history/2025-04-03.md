@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help with player movement external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693305-help-player-movement-external.html)|`2025-04-03 05:26:00`|`Counter-Strike 2`|
+|[External Rapid Fire Weird console messages and slow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694712-external-rapid-fire-weird-console-messages-slow.html)|`2025-04-03 05:20:00`|`Counter-Strike 2`|
+|[D3D12 Engine Chams Teaser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/693932-d3d12-engine-chams-teaser.html)|`2025-04-03 05:20:00`|`Rainbow Six Siege`|
 |[PUBG Experience &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/693901-pubg-experience-dma.html)|`2025-04-03 04:50:00`|`Playerunknown's Battlegrounds`|
 |[Reflective DLL injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694830-reflective-dll-injector.html)|`2025-04-03 04:44:00`|`Anti-Cheat Bypass`|
 |[Dead by Daylight Unlock DLC's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694447-dead-daylight-unlock-dlcs.html)|`2025-04-03 04:41:00`|`Other FPS Games`|
