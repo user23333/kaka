@@ -42,6 +42,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New Ban System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/694716-ban-system.html)|`2025-04-02 15:32:00`|`Scum`|
 |[VGK obfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671176-vgk-obfuscation.html)|`2025-04-02 15:18:00`|`Anti-Cheat Bypass`|
 |[External Rapid Fire Weird console messages and slow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694712-external-rapid-fire-weird-console-messages-slow.html)|`2025-04-02 14:53:00`|`Counter-Strike 2`|
 |[looking for faceit cloud/web radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694699-looking-faceit-cloud-web-radar.html)|`2025-04-02 14:43:00`|`Counter-Strike 2`|
