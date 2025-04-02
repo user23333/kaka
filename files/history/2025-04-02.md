@@ -13,6 +13,7 @@
 |10|[GTA V Enhanced Session Sweeper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693543-gta-enhanced-session-sweeper.html)|`2025-04-02 00:15:09`|`grand-theft-auto-v`|
 |2|[about staying undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/693552-staying-undetected.html)|`2025-04-02 01:40:37`|`overwatch`|
 |10|[cs2 external cheat with source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693925-cs2-external-cheat-source.html)|`2025-04-02 04:13:05`|`counter-strike-2-a`|
+|0|[offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/694002-offset.html)|`2025-04-02 08:52:46`|`crossfire`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -39,6 +40,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;VOTE&#93; April 2025 Member of the Month](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/693534-vote-april-2025-month.html)|`2025-04-02 08:45:00`|`Member of the Month`|
+|[Move items in game for raids? Dayz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/694038-move-items-game-raids-dayz.html)|`2025-04-02 08:25:00`|`DayZ SA`|
+|[The Adryan Pack &#45; Multiplayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/694661-adryan-pack-multiplayer.html)|`2025-04-02 08:25:00`|`Star Wars Battlefront 2`|
+|[An Example Of Mouse Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/694660-example-mouse-driver.html)|`2025-04-02 08:16:00`|`Valorant`|
 |[logitech script r6s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/693040-logitech-script-r6s.html)|`2025-04-02 07:18:00`|`Rainbow Six Siege`|
 |[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-04-02 07:14:00`|`Call of Duty: Black Ops 3`|
 |[Valorant MapRadar & WebRadar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/694642-valorant-mapradar-webradar.html)|`2025-04-02 07:09:00`|`Valorant`|
