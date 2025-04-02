@@ -42,6 +42,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[stat editing limits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/694463-stat-editing-limits.html)|`2025-04-02 22:23:00`|`Grand Theft Auto V`|
+|[How to bypass "Memory Integrity" for a driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/694752-bypass-memory-integrity-driver.html)|`2025-04-02 22:23:00`|`Valorant`|
+|[VMMDLL&#95;Scatter&#95;PrepareEx problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694662-vmmdll_scatter_prepareex.html)|`2025-04-02 22:21:00`|`Anti-Cheat Bypass`|
+|[BotOps Hub &#40;bot lobby tool, no VM required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674129-botops-hub-bot-lobby-tool-vm-required.html)|`2025-04-02 22:18:00`|`Call of Duty: Black Ops 6`|
+|[Helldivers 2&#45;&#45;AHK Stratagems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/625227-helldivers-2-ahk-stratagems.html)|`2025-04-02 22:16:00`|`HELLDIVERS 2`|
+|[Hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/694643-hello.html)|`2025-04-02 22:16:00`|`Introductions`|
 |[Im building a new version of Rigel&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/694314-im-building-version-rigel.html)|`2025-04-02 22:02:00`|`Overwatch`|
 |[Any recomended Paid cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/694760-recomended-paid-cheats.html)|`2025-04-02 22:01:00`|`Apex Legends`|
 |[Arduino Usb Host Shield Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/692906-arduino-usb-host-shield-spoofing.html)|`2025-04-02 21:57:00`|`Valorant`|
