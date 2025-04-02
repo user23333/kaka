@@ -15,6 +15,7 @@
 |10|[cs2 external cheat with source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693925-cs2-external-cheat-source.html)|`2025-04-02 04:13:05`|`counter-strike-2-a`|
 |0|[offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/694002-offset.html)|`2025-04-02 08:52:46`|`crossfire`|
 |20|[33 Immortals &#40;Gamepass version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/694162-33-immortals-gamepass-version.html)|`2025-04-02 10:18:58`|`other-games`|
+|21|[External GlowESP &#40;with source code&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694365-external-glowesp-source-code.html)|`2025-04-02 11:09:29`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -41,6 +42,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cs2 Voidware External Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693235-cs2-voidware-external-read.html)|`2025-04-02 11:06:00`|`Counter-Strike 2`|
+|[no recoil offset 3&#46;7 32bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/694211-recoil-offset-3-7-32bit.html)|`2025-04-02 10:59:00`|`PUBG Mobile`|
+|[External Farlight 84 Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/661656-external-farlight-84-free-cheat.html)|`2025-04-02 10:43:00`|`Farlight 84`|
+|[HWID ban duration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/625445-hwid-ban-duration.html)|`2025-04-02 10:33:00`|`Valorant`|
 |[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2025-04-02 10:07:00`|`Counter-Strike 2`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-04-02 10:04:00`|`Playerunknown's Battlegrounds`|
 |[Driver Mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693885-driver-mapper.html)|`2025-04-02 10:01:00`|`Anti-Cheat Bypass`|
