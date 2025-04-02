@@ -42,6 +42,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VMProtect issue&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/694452-vmprotect-issue.html)|`2025-04-02 18:45:00`|`Programming for Beginners`|
 |[picanha beta](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/692533-picanha-beta.html)|`2025-04-02 18:20:00`|`General Programming and Reversing`|
 |[Faceit&#45;AC Driver Map Race](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693257-faceit-ac-driver-map-race.html)|`2025-04-02 18:06:00`|`Anti-Cheat Bypass`|
 |[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-04-02 17:40:00`|`Other Games`|
