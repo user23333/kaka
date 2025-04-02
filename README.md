@@ -42,6 +42,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Half&#45;Sword External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/675149-half-sword-external.html)|`2025-04-02 22:40:00`|`Other Games`|
 |[stat editing limits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/694463-stat-editing-limits.html)|`2025-04-02 22:23:00`|`Grand Theft Auto V`|
 |[How to bypass "Memory Integrity" for a driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/694752-bypass-memory-integrity-driver.html)|`2025-04-02 22:23:00`|`Valorant`|
 |[VMMDLL&#95;Scatter&#95;PrepareEx problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694662-vmmdll_scatter_prepareex.html)|`2025-04-02 22:21:00`|`Anti-Cheat Bypass`|
