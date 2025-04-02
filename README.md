@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Reflective DLL injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694830-reflective-dll-injector.html)|`2025-04-03 04:44:00`|`Anti-Cheat Bypass`|
+|[Dead by Daylight Unlock DLC's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694447-dead-daylight-unlock-dlcs.html)|`2025-04-03 04:41:00`|`Other FPS Games`|
 |[replaceexecutable bypass help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/692841-replaceexecutable-bypass-help.html)|`2025-04-03 04:34:00`|`Alternative Online Mods`|
 |[Path of Exile 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676435-path-exile-2-reversal-structs-offsets.html)|`2025-04-03 04:32:00`|`Other MMORPG and Strategy`|
 |[Meme Echo&#46;ac Scanner Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694827-meme-echo-ac-scanner-bypass.html)|`2025-04-03 04:19:00`|`Anti-Cheat Bypass`|
