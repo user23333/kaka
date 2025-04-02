@@ -42,6 +42,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-04-02 17:40:00`|`Other Games`|
 |[Question about cheat injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/694351-question-cheat-injection.html)|`2025-04-02 17:09:00`|`Rust`|
 |[how do edit the inject message of a roblox bypass dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/694720-edit-inject-message-roblox-bypass-dll.html)|`2025-04-02 16:43:00`|`Other Games`|
 |[noRecoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/693873-norecoil.html)|`2025-04-02 16:41:00`|`Rust`|
