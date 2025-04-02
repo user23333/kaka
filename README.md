@@ -42,6 +42,7 @@
 |0|[Mapimages](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49227)|`2025-04-02 22:50:20`|
 |1|[Offsets for EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49233)|`2025-04-02 23:43:34`|
 |1|[TajuC&#95;MapleC&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49224)|`2025-04-02 23:43:34`|
+|8|[EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49236)|`2025-04-02 23:50:17`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
