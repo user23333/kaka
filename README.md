@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-04-04 03:23:00`|`Overwatch`|
+|[Bloodstrike Cheat / Source?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682536-bloodstrike-cheat-source.html)|`2025-04-04 03:23:00`|`Other FPS Games`|
+|[cs2 external cheat with source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693925-cs2-external-cheat-source.html)|`2025-04-04 03:12:00`|`Counter-Strike 2`|
+|[Rust 1MS Logitech Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/583325-rust-1ms-logitech-macro.html)|`2025-04-04 03:04:00`|`Rust`|
 |[Cheat blocker &#40;anti&#45;cheat&#41; bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694932-cheat-blocker-anti-cheat-bypass.html)|`2025-04-04 03:08:00`|`Anti-Cheat Bypass`|
 |[Is collaboration without elaboration allowed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/694931-collaboration-elaboration-allowed.html)|`2025-04-04 02:55:00`|`Forum General`|
 |[Scedule I Blackjack winner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/694482-scedule-blackjack-winner.html)|`2025-04-04 02:50:00`|`Other Games`|
