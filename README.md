@@ -29,9 +29,15 @@
 |2|[Fake Players Database](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49223)|`2025-04-04 03:42:55`|
 |1|[Kratos MDriver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49229)|`2025-04-04 04:09:12`|
 |1|[Background&#95;Service](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49225)|`2025-04-04 04:09:12`|
+|1|[Kappa Item Checker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49240)|`2025-04-04 04:29:19`|
+|3|[dunecore&#95;1&#46;5&#46;1&#95;updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49230)|`2025-04-04 04:29:19`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[QOL Kappa Item Checker &#40;not cheat&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/694832-qol-kappa-item-checker-cheat.html)|`2025-04-04 04:28:00`|`Escape from Tarkov`|
+|[Change total earnings/spent on E&E Yimmenuv2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/694934-change-total-earnings-spent-yimmenuv2.html)|`2025-04-04 04:28:00`|`Grand Theft Auto V`|
+|[TarkovGUI &#124; PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/694944-tarkovgui-pve.html)|`2025-04-04 04:19:00`|`Escape from Tarkov`|
+|[DuneCore &#45; CS2 Best Triggerbot so far &#40;for legit players&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691168-dunecore-cs2-triggerbot-legit-players.html)|`2025-04-04 04:19:00`|`Counter-Strike 2`|
 |[An Example Of Mouse Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/694660-example-mouse-driver.html)|`2025-04-04 04:08:00`|`Valorant`|
 |[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2025-04-04 04:04:00`|`Grand Theft Auto V`|
 |[AHK MultiScript &#124; Pean's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605440-ahk-multiscript-peans-rcs.html)|`2025-04-04 04:04:00`|`Counter-Strike 2 Releases`|
