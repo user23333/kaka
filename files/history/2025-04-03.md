@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ESX Duplication glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/687507-esx-duplication-glitch.html)|`2025-04-03 22:33:00`|`Alternative Online Mods`|
+|[CS2 Internal BHOP is slow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691691-cs2-internal-bhop-slow.html)|`2025-04-03 22:17:00`|`Counter-Strike 2`|
 |[How can I find GWorld offset?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/694190-gworld-offset.html)|`2025-04-03 22:11:00`|`All Points Bulletin`|
 |[Signed Spoofer By Microsoft&#40;EAC & BE&#41;  Early Christmas Present](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677190-signed-spoofer-microsoft-eac-christmas.html)|`2025-04-03 22:11:00`|`Anti-Cheat Bypass`|
 |[Automatically get the xasset pool names](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/694900-automatically-xasset-pool-names.html)|`2025-04-03 21:59:00`|`Call of Duty: Black Ops 6`|
