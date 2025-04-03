@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-04-03 20:25:00`|`Other FPS Games`|
 |[External Honk Boost / Rocket Boost](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/694898-external-honk-boost-rocket-boost.html)|`2025-04-03 19:57:00`|`Alternative Online Mods`|
 |[&#91;Partial&#93; 5irT &#45; FiveM/RedM streaming files dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/653007-partial-5irt-fivem-redm-streaming-files-dumper.html)|`2025-04-03 19:49:00`|`Alternative Online Mods`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-04-03 19:46:00`|`DayZ SA`|
