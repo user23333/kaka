@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[kdmapper alternitives?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694890-kdmapper-alternitives.html)|`2025-04-03 18:31:00`|`Anti-Cheat Bypass`|
+|[Ultimate HvH CHEAT with ZXCMODULE &#40;Backtrack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/683074-ultimate-hvh-cheat-zxcmodule-backtrack.html)|`2025-04-03 18:18:00`|`Garry's Mod`|
+|[Foolproof Ban evasion methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/694867-foolproof-ban-evasion-methods.html)|`2025-04-03 18:16:00`|`Garry's Mod`|
 |[SteelHunters Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694888-steelhunters-reversal-structs-offsets.html)|`2025-04-03 18:15:00`|`Other FPS Games`|
 |[Dead by Daylight DLL Injector?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694887-dead-daylight-dll-injector.html)|`2025-04-03 18:12:00`|`Other FPS Games`|
 |[YimMenuV2 E&E with money cheat &#40;No FSL&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/694886-yimmenuv2-money-cheat-fsl.html)|`2025-04-03 18:11:00`|`Grand Theft Auto V`|
