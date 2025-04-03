@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VMLAUNCH hangs on 24H2 of physical machine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694868-vmlaunch-hangs-24h2-physical-machine.html)|`2025-04-03 18:56:00`|`Anti-Cheat Bypass`|
 |[SmmInfect &#45; Smm Backdoor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664482-smminfect-smm-backdoor.html)|`2025-04-03 18:39:00`|`Anti-Cheat Bypass`|
 |[kdmapper alternitives?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694890-kdmapper-alternitives.html)|`2025-04-03 18:31:00`|`Anti-Cheat Bypass`|
 |[Ultimate HvH CHEAT with ZXCMODULE &#40;Backtrack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/683074-ultimate-hvh-cheat-zxcmodule-backtrack.html)|`2025-04-03 18:18:00`|`Garry's Mod`|
