@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How can I find GWorld offset?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/694190-gworld-offset.html)|`2025-04-03 22:11:00`|`All Points Bulletin`|
+|[Signed Spoofer By Microsoft&#40;EAC & BE&#41;  Early Christmas Present](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677190-signed-spoofer-microsoft-eac-christmas.html)|`2025-04-03 22:11:00`|`Anti-Cheat Bypass`|
+|[Automatically get the xasset pool names](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/694900-automatically-xasset-pool-names.html)|`2025-04-03 21:59:00`|`Call of Duty: Black Ops 6`|
+|[Plouton &#45; A System Management Mode &#40;SMM&#41; cheat framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693225-plouton-system-management-mode-smm-cheat-framework.html)|`2025-04-03 21:57:00`|`Anti-Cheat Bypass`|
 |[Chivalry 2 Heaveyweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689993-chivalry-2-heaveyweight-cheat.html)|`2025-04-03 21:54:00`|`Other Games`|
 |[Dark and Darker Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690457-dark-darker-internal.html)|`2025-04-03 21:22:00`|`Other FPS Games`|
 |[How Are Sellers Creating Ranked Bot Lobbies Despite Matchmaking Restrictions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/694225-sellers-creating-ranked-bot-lobbies-despite-matchmaking-restrictions.html)|`2025-04-03 20:45:00`|`Call of Duty: Black Ops 6`|
