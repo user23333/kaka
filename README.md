@@ -12,6 +12,7 @@
 |0|[offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/694002-offset.html)|`2025-04-03 00:14:17`|`crossfire`|
 |23|[33 Immortals &#40;Gamepass version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/694162-33-immortals-gamepass-version.html)|`2025-04-03 00:14:17`|`other-games`|
 |33|[Vênus AimColor FragPunk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694226-nus-aimcolor-fragpunk.html)|`2025-04-03 14:40:16`|`other-fps-games`|
+|9|[mod&#95;au](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/694266-mod_au.html)|`2025-04-03 15:36:38`|`among-us`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
