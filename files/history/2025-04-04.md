@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Flash Cheats Zula DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694961-flash-cheats-zula-dll.html)|`2025-04-04 06:31:00`|`Other FPS Games`|
+|[MW19 Operator codes MW/CW/VG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/694960-mw19-operator-codes-mw-cw-vg.html)|`2025-04-04 06:29:00`|`Half Life`|
+|[Bypass question update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694959-bypass-question-update.html)|`2025-04-04 06:18:00`|`Counter-Strike 2`|
 |[Question about cheat injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/694351-question-cheat-injection.html)|`2025-04-04 06:01:00`|`Rust`|
 |[GTA 5 enhanced Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693747-gta-5-enhanced-mod-menu.html)|`2025-04-04 05:53:00`|`Grand Theft Auto V`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-04-04 05:26:00`|`Phasmophobia`|
