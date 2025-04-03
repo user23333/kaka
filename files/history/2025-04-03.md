@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-04-03 19:46:00`|`DayZ SA`|
 |[Want to Learn PUBG Mobile Emulator Hacking from Scratch&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/694664-learn-pubg-mobile-emulator-hacking-scratch.html)|`2025-04-03 19:14:00`|`PUBG Mobile`|
 |[GTA5&#95;Enchanced Basic DMA Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689945-gta5_enchanced-basic-dma-tool.html)|`2025-04-03 19:12:00`|`Grand Theft Auto V`|
 |[Is there any way to make an unlock all?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/694753-unlock.html)|`2025-04-03 19:09:00`|`Combat Master`|
