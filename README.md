@@ -26,9 +26,12 @@
 |301|[EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49215)|`2025-04-03 00:14:17`|
 |4|[WaW Zombies ESP compiled dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49214)|`2025-04-03 00:14:17`|
 |8|[WaW Zombies ESP Source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49213)|`2025-04-03 00:14:17`|
+|2|[My Hero Ultra Rumble V15 Hitlerjoe&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49242)|`2025-04-03 15:42:34`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight &#45; ESP And Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625890-dead-daylight-esp.html)|`2025-04-03 15:42:00`|`Other FPS Games`|
+|[B550 DMA Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694371-b550-dma-detection.html)|`2025-04-03 15:41:00`|`Anti-Cheat Bypass`|
 |[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-04-03 15:16:00`|`Marvel Rivals`|
 |[An Example Of Mouse Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/694660-example-mouse-driver.html)|`2025-04-03 15:10:00`|`Valorant`|
 |[FiveM inf Money &#91;Works on some servers&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/691574-fivem-inf-money-servers.html)|`2025-04-03 15:00:00`|`Alternative Online Mods`|
