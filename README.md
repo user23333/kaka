@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[apex color aimbot,c&#43;&#43; 80days 0ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/684954-apex-color-aimbot-80days-0ban.html)|`2025-04-03 13:54:00`|`Apex Legends`|
+|[are there any working cheats/hacks/dupes for 1&#46;21&#46;1 Fabric?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/694865-cheats-hacks-dupes-1-21-1-fabric.html)|`2025-04-03 13:52:00`|`Minecraft`|
+|[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2025-04-03 13:49:00`|`Apex Legends`|
 |[How long did it take for you to find your first AC bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694864-ac-bypass.html)|`2025-04-03 13:42:00`|`Anti-Cheat Bypass`|
 |[Hell Let Loose Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/664161-hell-loose-reversal-structs-offsets.html)|`2025-04-03 13:25:00`|`Other FPS Games`|
 |[Has anyone gotten vxe dragonfly r1 pro to work with usb host shield?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/694863-gotten-vxe-dragonfly-r1-pro-usb-host-shield.html)|`2025-04-03 13:07:00`|`Valorant`|
