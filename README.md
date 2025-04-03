@@ -13,6 +13,7 @@
 |23|[33 Immortals &#40;Gamepass version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/694162-33-immortals-gamepass-version.html)|`2025-04-03 00:14:17`|`other-games`|
 |33|[Vênus AimColor FragPunk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694226-nus-aimcolor-fragpunk.html)|`2025-04-03 14:40:16`|`other-fps-games`|
 |9|[mod&#95;au](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/694266-mod_au.html)|`2025-04-03 15:36:38`|`among-us`|
+|17|[D3D12 Engine Chams Teaser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/693932-d3d12-engine-chams-teaser.html)|`2025-04-03 19:35:40`|`rainbow-six-siege`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,7 @@
 |4|[WaW Zombies ESP compiled dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49214)|`2025-04-03 00:14:17`|
 |8|[WaW Zombies ESP Source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49213)|`2025-04-03 00:14:17`|
 |2|[My Hero Ultra Rumble V15 Hitlerjoe&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49242)|`2025-04-03 15:42:34`|
+|2|[VAL 10&#46;06 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49245)|`2025-04-03 19:35:40`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
