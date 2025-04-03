@@ -34,6 +34,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-04-04 07:06:00`|`Grand Theft Auto V`|
+|[bag size edit in Enhanced GTA V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/694459-bag-size-edit-enhanced-gta.html)|`2025-04-04 07:05:00`|`Grand Theft Auto V`|
+|[Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/465314-super-animal-royale-hack.html)|`2025-04-04 07:04:00`|`Other Games`|
+|[Auto Updating Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/636910-auto-updating-super-animal-royale-hack.html)|`2025-04-04 07:03:00`|`Other Games`|
+|[Finally a working External SkinChanger for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689733-finally-external-skinchanger-cs2.html)|`2025-04-04 06:59:00`|`Counter-Strike 2`|
+|[Worldptr offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/694204-worldptr-offset.html)|`2025-04-04 06:59:00`|`Grand Theft Auto V`|
 |[External AimDelay & AimTime](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694639-external-aimdelay-aimtime.html)|`2025-04-04 06:44:00`|`Counter-Strike 2`|
 |[Flash Cheats Zula DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694961-flash-cheats-zula-dll.html)|`2025-04-04 06:31:00`|`Other FPS Games`|
 |[MW19 Operator codes MW/CW/VG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/694960-mw19-operator-codes-mw-cw-vg.html)|`2025-04-04 06:29:00`|`Half Life`|
