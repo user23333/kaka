@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Has anyone gotten vxe dragonfly r1 pro to work with usb host shield?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/694863-gotten-vxe-dragonfly-r1-pro-usb-host-shield.html)|`2025-04-03 13:07:00`|`Valorant`|
+|[valorant colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/693264-valorant-colorbot.html)|`2025-04-03 13:03:00`|`Valorant`|
+|[QOL Kappa Item Checker &#40;not cheat&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/694832-qol-kappa-item-checker-cheat.html)|`2025-04-03 13:01:00`|`Escape from Tarkov`|
 |[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2025-04-03 12:51:00`|`Other Games`|
 |[REPO&#95;UTILS &#45; Simple mod that is updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/694718-repo_utils-simple-mod-updated.html)|`2025-04-03 12:48:00`|`Other MMORPG and Strategy`|
 |[BETA 2&#45;PC Aimassist &#40;Hardware based&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/694157-beta-2-pc-aimassist-hardware-based.html)|`2025-04-03 12:44:00`|`Valorant`|
