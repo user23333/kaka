@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cfemen & gir489's Satisfactory Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661834-cfemen-gir489s-satisfactory-cheat.html)|`2025-04-04 07:22:00`|`Other FPS Games`|
+|[Spring & Easter Banner Contest 2025 &#45; Winners&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/694797-spring-easter-banner-contest-2025-winners.html)|`2025-04-04 07:20:00`|`Information and Announcements`|
+|[HWID ban duration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/625445-hwid-ban-duration.html)|`2025-04-04 07:11:00`|`Valorant`|
 |[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-04-04 07:06:00`|`Grand Theft Auto V`|
 |[bag size edit in Enhanced GTA V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/694459-bag-size-edit-enhanced-gta.html)|`2025-04-04 07:05:00`|`Grand Theft Auto V`|
 |[Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/465314-super-animal-royale-hack.html)|`2025-04-04 07:04:00`|`Other Games`|
