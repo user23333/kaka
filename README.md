@@ -25,6 +25,8 @@
 |150|[cheat&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49231)|`2025-04-05 00:10:55`|
 |50|[dunecore&#95;1&#46;5&#46;1&#95;updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49230)|`2025-04-05 00:10:55`|
 |39|[Kratos MDriver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49229)|`2025-04-05 00:10:55`|
+|1|[Scedule 1 &#45; BlackjackCheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49239)|`2025-04-05 03:46:05`|
+|1|[Precum v1&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49238)|`2025-04-05 03:46:05`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
