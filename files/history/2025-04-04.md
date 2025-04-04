@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[anticheetah &#124; cheat for Cheaters Cheetah](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/693081-anticheetah-cheat-cheaters-cheetah.html)|`2025-04-04 10:47:00`|`Other FPS Games`|
+|[AFK random movement = Campaign Shadowban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/694008-afk-random-movement-campaign-shadowban.html)|`2025-04-04 10:32:00`|`Call of Duty: Black Ops 6`|
+|[Shadow Ban Not Removing &#45; 2 Months Passed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/679774-shadow-ban-removing-2-months-passed.html)|`2025-04-04 10:29:00`|`Call of Duty: Black Ops 6`|
 |[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-04-04 10:15:00`|`Battlefield 4`|
 |[Frameware Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/677239-frameware-release.html)|`2025-04-04 10:01:00`|`Overwatch`|
 |[ESP for Outlawed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/687518-esp-outlawed.html)|`2025-04-04 09:49:00`|`Other FPS Games`|
