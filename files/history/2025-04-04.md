@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust DMA Source, Feature Packed&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/689793-rust-dma-source-feature-packed.html)|`2025-04-04 19:46:00`|`Rust`|
 |[Rust External &#45; RUNTIME AUTO UPDATE OFFSETS/DECRYPTION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/695007-rust-external-runtime-auto-update-offsets-decryption.html)|`2025-04-04 19:07:00`|`Rust`|
 |[New ColorBot/TriggerBot Signed Microsoft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684493-colorbot-triggerbot-signed-microsoft.html)|`2025-04-04 19:02:00`|`Valorant`|
 |[Valorant insta headshot AIMBOT&#91;UNDETECTED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688675-valorant-insta-headshot-aimbot-undetected.html)|`2025-04-04 18:39:00`|`Valorant`|
