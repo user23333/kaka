@@ -11,6 +11,7 @@
 |0|[help define the enemy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/694129-help-define-enemy.html)|`2025-04-05 00:10:55`|`warface`|
 |3|[GMS V258&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/694200-gms-v258-2-a.html)|`2025-04-05 00:10:55`|`maple-story`|
 |8|[SeownedDE x64 2025/3/29&#40;rei2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/694048-seownedde-x64-2025-3-29-rei2.html)|`2025-04-05 00:10:55`|`team-fortress-2-a`|
+|6|[How can I find GWorld offset?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/694190-gworld-offset.html)|`2025-04-05 02:48:18`|`all-points-bulletin`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
