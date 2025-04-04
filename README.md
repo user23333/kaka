@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[help define the enemy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/694129-help-define-enemy.html)|`2025-04-05 01:19:00`|`Warface`|
+|[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2025-04-05 01:16:00`|`Other MMORPG and Strategy`|
+|[How can I find GWorld offset?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/694190-gworld-offset.html)|`2025-04-05 01:14:00`|`All Points Bulletin`|
+|[Do You Love Crypto?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/673834-love-crypto.html)|`2025-04-05 01:11:00`|`Off Topic`|
 |[custom avatar picture](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/684057-custom-avatar-picture.html)|`2025-04-05 01:06:00`|`Combat Master`|
 |[Modest Menu Lua Scripting Megathread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/463868-modest-menu-lua-scripting-megathread.html)|`2025-04-05 01:06:00`|`Grand Theft Auto V`|
 |[AC Blocker RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/691938-ac-blocker-release.html)|`2025-04-05 01:05:00`|`Call of Duty: Black Ops 6`|
