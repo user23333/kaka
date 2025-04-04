@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AC Blocker RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/691938-ac-blocker-release.html)|`2025-04-04 22:53:00`|`Call of Duty: Black Ops 6`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-04-04 22:18:00`|`Other FPS Games`|
 |[Supposed to be hwid unbanned but instead was added 2 months](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695026-supposed-hwid-unbanned-instead-added-2-months.html)|`2025-04-04 22:10:00`|`Valorant`|
 |[RSPS Info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/runescape/687806-rsps-info.html)|`2025-04-04 22:03:00`|`RuneScape`|
