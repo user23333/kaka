@@ -43,6 +43,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chams with no recoil and more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/682715-chams-recoil.html)|`2025-04-05 05:58:00`|`Rainbow Six Siege`|
 |[Red trust factor on my HWID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695096-red-trust-factor-hwid.html)|`2025-04-05 05:51:00`|`Counter-Strike 2`|
 |[Rust External &#45; RUNTIME AUTO UPDATE OFFSETS/DECRYPTION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/695007-rust-external-runtime-auto-update-offsets-decryption.html)|`2025-04-05 05:43:00`|`Rust`|
 |[Auto Updating Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/636910-auto-updating-super-animal-royale-hack.html)|`2025-04-05 05:39:00`|`Other Games`|
