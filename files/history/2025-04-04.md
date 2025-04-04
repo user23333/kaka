@@ -39,6 +39,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Supposed to be hwid unbanned but instead was added 2 months](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695026-supposed-hwid-unbanned-instead-added-2-months.html)|`2025-04-04 22:10:00`|`Valorant`|
+|[RSPS Info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/runescape/687806-rsps-info.html)|`2025-04-04 22:03:00`|`RuneScape`|
+|[Dark and Darker Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690457-dark-darker-internal.html)|`2025-04-04 21:59:00`|`Other FPS Games`|
+|[are there any working cheats/hacks/dupes for 1&#46;21&#46;1 Fabric?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/694865-cheats-hacks-dupes-1-21-1-fabric.html)|`2025-04-04 21:57:00`|`Minecraft`|
 |[How can I find GWorld offset?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/694190-gworld-offset.html)|`2025-04-04 21:54:00`|`All Points Bulletin`|
 |[Roblox Reversals: A Guide To Finding DataModel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689780-roblox-reversals-guide-finding-datamodel.html)|`2025-04-04 21:44:00`|`Other Games`|
 |[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-04-04 21:35:00`|`Grand Theft Auto V`|
