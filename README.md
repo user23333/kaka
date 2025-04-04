@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-04-04 23:52:00`|`Sea of Thieves`|
 |[Help to bypass Hardware breakpoint detection in hitman absolution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/695033-help-bypass-hardware-breakpoint-detection-hitman-absolution.html)|`2025-04-04 23:39:00`|`Forum General`|
 |[bounding data for entities and items](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/692703-bounding-data-entities-items.html)|`2025-04-04 23:35:00`|`DayZ SA`|
 |[pcileech&#45;rtl8188ee&#45;wifi emul](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/654112-pcileech-rtl8188ee-wifi-emul.html)|`2025-04-04 23:14:00`|`Anti-Cheat Bypass`|
