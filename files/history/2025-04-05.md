@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Scedule I Blackjack winner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/694482-scedule-blackjack-winner.html)|`2025-04-05 00:33:00`|`Other Games`|
+|[KM&#45;UM COMM using UM struct &#45; PoC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695038-km-um-comm-using-um-struct-poc.html)|`2025-04-05 00:32:00`|`Anti-Cheat Bypass`|
+|[basic chams base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/688179-basic-chams-base.html)|`2025-04-05 00:29:00`|`Call of Duty: Black Ops 6`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-04-05 00:29:00`|`Other FPS Games`|
+|[EMACLAB &#40;GamersClub&#41; Anticheat analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695037-emaclab-gamersclub-anticheat-analysis.html)|`2025-04-05 00:22:00`|`Anti-Cheat Bypass`|
+|[Combat Master ESP&Aimbot Internal Auto Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/676427-combat-master-esp-aimbot-internal-auto-update.html)|`2025-04-05 00:20:00`|`Combat Master`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-04-05 00:19:00`|`Marvel Rivals`|
+|[Is there any way to make an unlock all?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/694753-unlock.html)|`2025-04-05 00:18:00`|`Combat Master`|
 |[FiveM External Self Leak &#40;1604 to 3274&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/694182-fivem-external-self-leak-1604-3274-a.html)|`2025-04-05 00:09:00`|`Alternative Online Mods`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-04-05 00:08:00`|`Rust`|
 |[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-04-05 00:06:00`|`Grand Theft Auto V`|
