@@ -50,6 +50,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple Liar's Bar Mod &#124; 0&#46;93 &#124; DLL &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691934-simple-liars-bar-mod-0-93-dll-source.html)|`2025-04-05 13:22:00`|`Other Games`|
 |[Cs2 vac learning](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694955-cs2-vac-learning.html)|`2025-04-05 13:03:00`|`Counter-Strike 2`|
 |[Plouton &#45; A System Management Mode &#40;SMM&#41; cheat framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693225-plouton-system-management-mode-smm-cheat-framework.html)|`2025-04-05 12:55:00`|`Anti-Cheat Bypass`|
 |[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-04-05 12:49:00`|`HELLDIVERS 2`|
