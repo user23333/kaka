@@ -50,6 +50,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How can I skip Steam and play pirated Dayz?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/694381-skip-steam-play-pirated-dayz.html)|`2025-04-05 14:33:00`|`DayZ SA`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-04-05 14:23:00`|`Playerunknown's Battlegrounds`|
 |[BO6 Ranked Bot Lobbies Coming To An End?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/695126-bo6-ranked-bot-lobbies-coming.html)|`2025-04-05 13:36:00`|`Call of Duty: Black Ops 6`|
 |[Simple Liar's Bar Mod &#124; 0&#46;93 &#124; DLL &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691934-simple-liars-bar-mod-0-93-dll-source.html)|`2025-04-05 13:22:00`|`Other Games`|
 |[Cs2 vac learning](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694955-cs2-vac-learning.html)|`2025-04-05 13:03:00`|`Counter-Strike 2`|
