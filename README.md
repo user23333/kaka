@@ -13,6 +13,7 @@
 |10|[Solo leveling Arise v 1&#46;2&#46;35](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/694367-solo-leveling-arise-1-2-35-a.html)|`2025-04-06 00:00:03`|`other-mmorpg-and-strategy`|
 |16|[GC PEB Walk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694417-gc-peb-walk.html)|`2025-04-06 01:55:41`|`anti-cheat-bypass`|
 |11|[Is it possible to prove Vanguard is not malicious?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694195-prove-vanguard-malicious.html)|`2025-04-06 03:51:27`|`anti-cheat-bypass`|
+|13|[The Adryan Pack &#45; Multiplayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/694661-adryan-pack-multiplayer.html)|`2025-04-06 06:16:06`|`star-wars-battlefront-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What are some effective hardware id spoofing techniques?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695209-effective-hardware-id-spoofing-techniques.html)|`2025-04-06 06:04:00`|`Anti-Cheat Bypass`|
+|[constexpr inline data transformations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/695208-constexpr-inline-data-transformations.html)|`2025-04-06 06:02:00`|`General Programming and Reversing`|
+|[3on3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/624254-3on3.html)|`2025-04-06 05:51:00`|`Other Games`|
 |[Cs2 vac learning](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694955-cs2-vac-learning.html)|`2025-04-06 05:55:00`|`Counter-Strike 2`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-04-06 05:45:00`|`Apex Legends`|
 |[Findings actors in world](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/695207-findings-actors-world.html)|`2025-04-06 05:42:00`|`Unreal Engine 4`|
