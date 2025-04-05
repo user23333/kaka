@@ -54,6 +54,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-04-05 19:33:00`|`Marvel Rivals`|
+|[superBADinternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690904-superbadinternal.html)|`2025-04-05 19:31:00`|`Marvel Rivals`|
 |[Ashes of Creation Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/463992-ashes-creation-reversal-structs-offsets.html)|`2025-04-05 19:17:00`|`Other MMORPG and Strategy`|
 |[Age of Empires 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/589592-age-empires-4-reversal-structs-offsets.html)|`2025-04-05 19:13:00`|`Other MMORPG and Strategy`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-04-05 19:12:00`|`Counter-Strike 2`|
