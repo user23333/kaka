@@ -57,6 +57,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Frameware Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/677239-frameware-release.html)|`2025-04-05 23:17:00`|`Overwatch`|
 |[REPO&#95;UTILS &#45; Simple mod that is updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/694718-repo_utils-simple-mod-updated.html)|`2025-04-05 22:56:00`|`Other MMORPG and Strategy`|
 |[External SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695170-external-sdk.html)|`2025-04-05 22:53:00`|`Counter-Strike 2`|
 |[Aim Color Assist &#91;UCAimColor&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695168-aim-color-assist-ucaimcolor.html)|`2025-04-05 22:40:00`|`Valorant`|
