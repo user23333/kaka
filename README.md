@@ -53,6 +53,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[vanguard now forcing fTPM to be enabled](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695152-vanguard-forcing-ftpm-enabled.html)|`2025-04-05 18:49:00`|`Valorant`|
 |[Dynamic Direct Syscaller](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/695151-dynamic-direct-syscaller.html)|`2025-04-05 18:27:00`|`C and C++`|
 |[Burnt out&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/694068-burnt.html)|`2025-04-05 18:19:00`|`C and C++`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-04-05 18:10:00`|`Grand Theft Auto V`|
