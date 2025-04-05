@@ -12,6 +12,7 @@
 |6|[How can I find GWorld offset?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/694190-gworld-offset.html)|`2025-04-06 00:00:03`|`all-points-bulletin`|
 |10|[Solo leveling Arise v 1&#46;2&#46;35](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/694367-solo-leveling-arise-1-2-35-a.html)|`2025-04-06 00:00:03`|`other-mmorpg-and-strategy`|
 |16|[GC PEB Walk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694417-gc-peb-walk.html)|`2025-04-06 01:55:41`|`anti-cheat-bypass`|
+|11|[Is it possible to prove Vanguard is not malicious?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694195-prove-vanguard-malicious.html)|`2025-04-06 03:51:27`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
