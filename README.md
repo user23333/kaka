@@ -54,6 +54,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dumping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/695157-dumping.html)|`2025-04-05 20:33:00`|`PUBG Mobile`|
+|[Vênus AimColor FragPunk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694226-nus-aimcolor-fragpunk.html)|`2025-04-05 20:21:00`|`Other FPS Games`|
 |[no recoil offset 3&#46;7 32bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/694211-recoil-offset-3-7-32bit.html)|`2025-04-05 19:58:00`|`PUBG Mobile`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-04-05 19:46:00`|`Other MMORPG and Strategy`|
 |[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-04-05 19:33:00`|`Marvel Rivals`|
