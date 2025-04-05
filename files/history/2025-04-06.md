@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-04-06 05:45:00`|`Apex Legends`|
+|[Findings actors in world](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/695207-findings-actors-world.html)|`2025-04-06 05:42:00`|`Unreal Engine 4`|
 |[Are Intel Hypervisors cooked ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/694871-intel-hypervisors-cooked.html)|`2025-04-06 05:41:00`|`General Programming and Reversing`|
 |[How does KDMapper map unsigned drivers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/695206-kdmapper-map-unsigned-drivers.html)|`2025-04-06 05:34:00`|`PC Software`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-04-06 05:33:00`|`Other Games`|
