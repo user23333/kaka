@@ -47,6 +47,8 @@
 |1|[Simple&#45;AssaultCube&#45;Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49262)|`2025-04-05 06:18:41`|
 |1|[Bf3 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49269)|`2025-04-05 06:34:01`|
 |1|[DescendantInternal&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49260)|`2025-04-05 06:34:01`|
+|1|[Simple&#45;AssaultCube&#45;Aimbot&#40;source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49277)|`2025-04-05 17:45:03`|
+|1|[Drill Skip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49275)|`2025-04-05 17:45:03`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
