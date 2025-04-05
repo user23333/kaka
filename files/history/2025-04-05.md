@@ -53,6 +53,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Age of Empires 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/589592-age-empires-4-reversal-structs-offsets.html)|`2025-04-05 19:13:00`|`Other MMORPG and Strategy`|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-04-05 19:12:00`|`Counter-Strike 2`|
 |[vanguard now forcing fTPM to be enabled](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695152-vanguard-forcing-ftpm-enabled.html)|`2025-04-05 18:49:00`|`Valorant`|
 |[Dynamic Direct Syscaller](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/695151-dynamic-direct-syscaller.html)|`2025-04-05 18:27:00`|`C and C++`|
 |[Burnt out&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/694068-burnt.html)|`2025-04-05 18:19:00`|`C and C++`|
