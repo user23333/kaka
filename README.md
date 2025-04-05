@@ -54,6 +54,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[no recoil offset 3&#46;7 32bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/694211-recoil-offset-3-7-32bit.html)|`2025-04-05 19:58:00`|`PUBG Mobile`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-04-05 19:46:00`|`Other MMORPG and Strategy`|
 |[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-04-05 19:33:00`|`Marvel Rivals`|
 |[superBADinternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690904-superbadinternal.html)|`2025-04-05 19:31:00`|`Marvel Rivals`|
