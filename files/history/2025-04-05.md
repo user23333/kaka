@@ -54,6 +54,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Portal Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/695159-portal-internal-cheat.html)|`2025-04-05 21:28:00`|`Other Single Player Games`|
+|[Djcowely's BO6 Aim assist Objective ignore AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/680903-djcowelys-bo6-aim-assist-objective-ignore-ahk.html)|`2025-04-05 21:23:00`|`Call of Duty: Black Ops 6`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-04-05 21:19:00`|`Grand Theft Auto V`|
 |[Wicked Menu/ Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/372512-wicked-menu-cheat-engine.html)|`2025-04-05 20:52:00`|`Red Dead Redemption 2`|
 |[Dumping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/695157-dumping.html)|`2025-04-05 20:33:00`|`PUBG Mobile`|
 |[Vênus AimColor FragPunk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694226-nus-aimcolor-fragpunk.html)|`2025-04-05 20:21:00`|`Other FPS Games`|
