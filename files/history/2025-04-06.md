@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Please share the Rigel resources &#40;pls read this thread before ignoring&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/695203-please-share-rigel-resources-pls-read-thread-ignoring.html)|`2025-04-06 05:10:00`|`Overwatch`|
+|[Age of Empires 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/589592-age-empires-4-reversal-structs-offsets.html)|`2025-04-06 05:05:00`|`Other MMORPG and Strategy`|
 |[Blood Strike Coding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695201-blood-strike-coding.html)|`2025-04-06 04:48:00`|`Other FPS Games`|
 |[good dx12 hook ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/695200-dx12-hook.html)|`2025-04-06 04:47:00`|`Rainbow Six Siege`|
 |[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2025-04-06 04:32:00`|`Grand Theft Auto V`|
