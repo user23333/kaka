@@ -54,6 +54,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Aim Color Assist &#91;UCAimColor&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695168-aim-color-assist-ucaimcolor.html)|`2025-04-05 22:40:00`|`Valorant`|
 |[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2025-04-05 22:16:00`|`Grand Theft Auto V`|
 |[Simplest way for an external Walkbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695162-simplest-external-walkbot.html)|`2025-04-05 21:50:00`|`Counter-Strike 2`|
 |[Portal Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/695159-portal-internal-cheat.html)|`2025-04-05 21:28:00`|`Other Single Player Games`|
