@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cs2 vac learning](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694955-cs2-vac-learning.html)|`2025-04-06 05:55:00`|`Counter-Strike 2`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-04-06 05:45:00`|`Apex Legends`|
 |[Findings actors in world](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/695207-findings-actors-world.html)|`2025-04-06 05:42:00`|`Unreal Engine 4`|
 |[Are Intel Hypervisors cooked ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/694871-intel-hypervisors-cooked.html)|`2025-04-06 05:41:00`|`General Programming and Reversing`|
