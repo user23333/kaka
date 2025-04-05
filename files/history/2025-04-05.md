@@ -54,6 +54,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Wicked Menu/ Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/372512-wicked-menu-cheat-engine.html)|`2025-04-05 20:52:00`|`Red Dead Redemption 2`|
 |[Dumping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/695157-dumping.html)|`2025-04-05 20:33:00`|`PUBG Mobile`|
 |[Vênus AimColor FragPunk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694226-nus-aimcolor-fragpunk.html)|`2025-04-05 20:21:00`|`Other FPS Games`|
 |[no recoil offset 3&#46;7 32bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/694211-recoil-offset-3-7-32bit.html)|`2025-04-05 19:58:00`|`PUBG Mobile`|
