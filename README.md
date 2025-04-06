@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Craftrise](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/694181-craftrise.html)|`2025-04-07 05:18:00`|`Minecraft`|
 |[Very Simple AssaultCube Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694951-simple-assaultcube-aimbot.html)|`2025-04-07 05:01:00`|`Other FPS Games`|
 |[&#91;external&#93; Getting profile outside of raid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/695339-external-getting-profile-outside-raid.html)|`2025-04-07 04:58:00`|`Escape from Tarkov`|
 |[Entity list issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/695338-entity-list-issues.html)|`2025-04-07 04:49:00`|`General Programming and Reversing`|
