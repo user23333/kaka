@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-04-07 00:35:00`|`Other FPS Games`|
+|[L4D2 Hack Menu &#40;Steam&#41; 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695228-l4d2-hack-menu-steam-2025-a.html)|`2025-04-07 00:35:00`|`Other FPS Games`|
+|[Valorant insta headshot AIMBOT&#91;UNDETECTED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688675-valorant-insta-headshot-aimbot-undetected.html)|`2025-04-07 00:30:00`|`Valorant`|
+|[This is how scanners work and how you can bypass them&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/685966-scanners-bypass.html)|`2025-04-07 00:29:00`|`Alternative Online Mods`|
+|[bones, real hitbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/695216-bones-real-hitbox.html)|`2025-04-07 00:26:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Skip Heists Prep on GTA V Enhanced Possibility](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693085-skip-heists-prep-gta-enhanced-possibility.html)|`2025-04-07 00:25:00`|`Grand Theft Auto V`|
 |[Red trust factor on my HWID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695096-red-trust-factor-hwid.html)|`2025-04-07 00:16:00`|`Counter-Strike 2`|
 |[External Venus Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694984-external-venus-aim.html)|`2025-04-07 00:15:00`|`Other FPS Games`|
 |[Apex Rage External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/660129-apex-rage-external-cheat.html)|`2025-04-07 00:14:00`|`Apex Legends`|
