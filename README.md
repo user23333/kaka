@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant MapRadar & WebRadar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/694642-valorant-mapradar-webradar.html)|`2025-04-06 22:54:00`|`Valorant`|
+|[Bullet TP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685406-bullet-tp.html)|`2025-04-06 22:53:00`|`Marvel Rivals`|
 |[Disruptor &#45;&#45; CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695284-disruptor-cs2-external-cheat.html)|`2025-04-06 22:49:00`|`Counter-Strike 2`|
 |[FSL 1&#46;70?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695217-fsl-1-70-a.html)|`2025-04-06 22:46:00`|`Grand Theft Auto V`|
 |[c&#43;&#43; or python?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695235-python.html)|`2025-04-06 22:32:00`|`Valorant`|
