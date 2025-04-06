@@ -15,6 +15,7 @@
 |11|[Is it possible to prove Vanguard is not malicious?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694195-prove-vanguard-malicious.html)|`2025-04-06 03:51:27`|`anti-cheat-bypass`|
 |13|[The Adryan Pack &#45; Multiplayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/694661-adryan-pack-multiplayer.html)|`2025-04-06 06:16:06`|`star-wars-battlefront-2-a`|
 |17|[PUBGM Lua Dump &#40;decompiled & decrypted&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/694547-pubgm-lua-dump-decompiled-decrypted.html)|`2025-04-06 07:17:48`|`pubg-mobile`|
+|37|[External Venus Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694984-external-venus-aim.html)|`2025-04-06 08:43:53`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fast Phd slide?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/695218-fast-phd-slide.html)|`2025-04-06 08:28:00`|`Call of Duty: Black Ops 6`|
+|[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2025-04-06 08:25:00`|`Other FPS Games`|
+|[bones, real hitbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/695216-bones-real-hitbox.html)|`2025-04-06 08:19:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-04-06 08:05:00`|`Grand Theft Auto V`|
+|[Pixel based triggerbot using desktop duplication api&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695214-pixel-based-triggerbot-using-desktop-duplication-api.html)|`2025-04-06 08:03:00`|`Counter-Strike 2`|
 |[Scedule I Blackjack winner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/694482-scedule-blackjack-winner.html)|`2025-04-06 07:50:00`|`Other Games`|
 |[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-04-06 07:42:00`|`Battlefield 4`|
 |[Put benny's wheels in personal vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/376369-bennys-wheels-personal-vehicle.html)|`2025-04-06 07:34:00`|`Grand Theft Auto V`|
