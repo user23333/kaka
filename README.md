@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TarkovGUI &#124; PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/694944-tarkovgui-pve.html)|`2025-04-06 12:15:00`|`Escape from Tarkov`|
 |[VGK obfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671176-vgk-obfuscation.html)|`2025-04-06 11:41:00`|`Anti-Cheat Bypass`|
 |[Trouble making triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/114001-trouble-triggerbot.html)|`2025-04-06 11:31:00`|`Rust`|
 |[Theia/Vanguard encryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/690821-theia-vanguard-encryption.html)|`2025-04-06 11:13:00`|`Anti-Cheat Bypass`|
