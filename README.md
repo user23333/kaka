@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2025-04-07 01:04:00`|`DayZ SA`|
+|[Theia/Vanguard encryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/690821-theia-vanguard-encryption.html)|`2025-04-07 01:02:00`|`Anti-Cheat Bypass`|
 |[Enabling Virtualization on 2nd PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/695306-enabling-virtualization-2nd-pc.html)|`2025-04-07 00:52:00`|`PC Hardware`|
 |[YimMenuV2 E&E with money cheat &#40;No FSL&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/694886-yimmenuv2-money-cheat-fsl.html)|`2025-04-07 00:47:00`|`Grand Theft Auto V`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-04-07 00:47:00`|`Rainbow Six Siege`|
