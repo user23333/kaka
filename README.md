@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hi eweryone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/695244-hi-eweryone.html)|`2025-04-06 18:57:00`|`Introductions`|
+|[L4D2 Hack Menu &#40;Steam&#41; 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/695228-l4d2-hack-menu-steam-2025-a.html)|`2025-04-06 18:56:00`|`Half Life`|
 |[Unlock signuture bo6/warzone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/695222-unlock-signuture-bo6-warzone.html)|`2025-04-06 18:55:00`|`Call of Duty: Black Ops 6`|
 |[Please someone do a cheat for this game &#40;godmod and inf money&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695211-please-cheat-game-godmod-inf-money.html)|`2025-04-06 18:54:00`|`Other Games`|
 |[Hi](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/695199-hi.html)|`2025-04-06 18:53:00`|`Introductions`|
