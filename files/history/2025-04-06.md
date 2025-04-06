@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[De&#45;/Encryption Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/692185-de-encryption-dumper.html)|`2025-04-06 21:28:00`|`Rust`|
 |[PSA: NOTHING is updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695274-psa-updated.html)|`2025-04-06 21:17:00`|`Marvel Rivals`|
 |[simple r6 external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/516719-simple-r6-external.html)|`2025-04-06 21:14:00`|`Rainbow Six Siege`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-04-06 21:10:00`|`Escape from Tarkov`|
