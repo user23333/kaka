@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Do You Love Crypto?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/673834-love-crypto.html)|`2025-04-07 07:22:00`|`Off Topic`|
 |[Temporary TPM bypass/spoof&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/694788-temporary-tpm-bypass-spoof.html)|`2025-04-07 07:05:00`|`Valorant`|
 |[picanha beta](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/692533-picanha-beta.html)|`2025-04-07 06:56:00`|`General Programming and Reversing`|
 |[Did they patched 2boxing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/692058-patched-2boxing.html)|`2025-04-07 06:55:00`|`Call of Duty: Black Ops 6`|
