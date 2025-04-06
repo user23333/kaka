@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PSA: NOTHING is updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695274-psa-updated.html)|`2025-04-07 01:42:00`|`Marvel Rivals`|
+|[CALL OF DUTY AIM ASSIST KEYBOARD AND MOUSE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/695313-call-duty-aim-assist-keyboard-mouse.html)|`2025-04-07 01:37:00`|`Call of Duty: Black Ops 6`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-04-07 01:35:00`|`Call of Duty: Black Ops 6`|
 |[Need Some Information For FiveM External Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/695225-information-fivem-external-menu.html)|`2025-04-07 01:32:00`|`Alternative Online Mods`|
 |[Cheat blocker &#40;anti&#45;cheat&#41; bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694932-cheat-blocker-anti-cheat-bypass.html)|`2025-04-07 01:31:00`|`Anti-Cheat Bypass`|
