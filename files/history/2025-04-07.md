@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Very Simple AssaultCube Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694951-simple-assaultcube-aimbot.html)|`2025-04-07 05:01:00`|`Other FPS Games`|
+|[&#91;external&#93; Getting profile outside of raid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/695339-external-getting-profile-outside-raid.html)|`2025-04-07 04:58:00`|`Escape from Tarkov`|
 |[Entity list issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/695338-entity-list-issues.html)|`2025-04-07 04:49:00`|`General Programming and Reversing`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-04-07 04:34:00`|`Other Games`|
 |[CS2 External Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/695335-cs2-external-cheats.html)|`2025-04-07 04:25:00`|`Counter-Strike 2 Releases`|
