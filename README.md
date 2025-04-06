@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-04-06 22:27:00`|`Rainbow Six Siege`|
+|[Tracing Problems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695282-tracing.html)|`2025-04-06 22:21:00`|`Counter-Strike 2`|
 |[cs2 external cheat with source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693925-cs2-external-cheat-source.html)|`2025-04-06 21:54:00`|`Counter-Strike 2`|
 |[Steep Points Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/690873-steep-cheat.html)|`2025-04-06 21:51:00`|`Other Games`|
 |[Controller like aim assist on mnk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/695269-controller-aim-assist-mnk.html)|`2025-04-06 21:49:00`|`Apex Legends`|
