@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AHK MultiScript &#124; Pean's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605440-ahk-multiscript-peans-rcs.html)|`2025-04-06 10:02:00`|`Counter-Strike 2 Releases`|
+|[Russian Account Bypass TUT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/688961-russian-account-bypass-tut.html)|`2025-04-06 09:54:00`|`Escape from Tarkov`|
+|[VALO COLOR BOT SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/633956-valo-color-bot-source.html)|`2025-04-06 09:51:00`|`Valorant`|
+|[DavidUmm's ValoTriggerbot &#124; UPDATED&#124; RELEASE SOON](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687159-davidumms-valotriggerbot-updated-release-soon.html)|`2025-04-06 09:42:00`|`Valorant`|
+|[13h for this](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/695226-13h.html)|`2025-04-06 09:31:00`|`Alternative Online Mods`|
 |[Fast Phd slide?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/695218-fast-phd-slide.html)|`2025-04-06 08:28:00`|`Call of Duty: Black Ops 6`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2025-04-06 08:25:00`|`Other FPS Games`|
 |[bones, real hitbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/695216-bones-real-hitbox.html)|`2025-04-06 08:19:00`|`CounterStrike 1.5, 1.6 and Mods`|
