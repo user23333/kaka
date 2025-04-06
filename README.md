@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-04-07 01:35:00`|`Call of Duty: Black Ops 6`|
+|[Need Some Information For FiveM External Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/695225-information-fivem-external-menu.html)|`2025-04-07 01:32:00`|`Alternative Online Mods`|
+|[Cheat blocker &#40;anti&#45;cheat&#41; bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694932-cheat-blocker-anti-cheat-bypass.html)|`2025-04-07 01:31:00`|`Anti-Cheat Bypass`|
+|[How to use offtests in cheat engine cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695156-offtests-cheat-engine-cs2.html)|`2025-04-07 01:28:00`|`Counter-Strike 2`|
+|[shadow banned for a month](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/695309-shadow-banned-month.html)|`2025-04-07 01:15:00`|`Call of Duty: Black Ops 6`|
 |[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2025-04-07 01:04:00`|`DayZ SA`|
 |[Theia/Vanguard encryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/690821-theia-vanguard-encryption.html)|`2025-04-07 01:02:00`|`Anti-Cheat Bypass`|
 |[Enabling Virtualization on 2nd PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/695306-enabling-virtualization-2nd-pc.html)|`2025-04-07 00:52:00`|`PC Hardware`|
