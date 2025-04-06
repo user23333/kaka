@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Steep Points Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/690873-steep-cheat.html)|`2025-04-06 21:51:00`|`Other Games`|
+|[Controller like aim assist on mnk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/695269-controller-aim-assist-mnk.html)|`2025-04-06 21:49:00`|`Apex Legends`|
+|[FAQ Valorant Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/421120-faq-valorant-bans.html)|`2025-04-06 21:47:00`|`Valorant`|
+|[how can i get the infamy rewards?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/695277-infamy-rewards.html)|`2025-04-06 21:46:00`|`Payday 3`|
 |[De&#45;/Encryption Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/692185-de-encryption-dumper.html)|`2025-04-06 21:28:00`|`Rust`|
 |[PSA: NOTHING is updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695274-psa-updated.html)|`2025-04-06 21:17:00`|`Marvel Rivals`|
 |[simple r6 external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/516719-simple-r6-external.html)|`2025-04-06 21:14:00`|`Rainbow Six Siege`|
