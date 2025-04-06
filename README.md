@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Foolproof Ban evasion methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/694867-foolproof-ban-evasion-methods.html)|`2025-04-06 18:23:00`|`Garry's Mod`|
 |[BYPASS FOR PUBG GLOBAL 32BIT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/688725-bypass-pubg-global-32bit.html)|`2025-04-06 17:50:00`|`PUBG Mobile`|
 |[BetterAimAssist: Valorant aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682003-betteraimassist-valorant-aim-assist.html)|`2025-04-06 17:21:00`|`Valorant`|
 |[Request for PUBG Mobile 3&#46;7&#46;0 AES Key to Unpack All &#46;pak Files &#40;30 GB&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/694799-request-pubg-mobile-3-7-0-aes-key-unpack-pak-files-30-gb.html)|`2025-04-06 16:58:00`|`PUBG Mobile`|
