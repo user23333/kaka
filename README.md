@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2025-04-07 22:29:00`|`Other Games`|
+|[Wall hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/695410-wall-hack.html)|`2025-04-07 22:27:00`|`Introductions`|
+|[Bgmi libUE4&#46;so not decrypted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/695435-bgmi-libue4-decrypted.html)|`2025-04-07 22:26:00`|`Forum General`|
+|[&#124; DeadLock Cheat &#124;&#124; Scripts &#124;&#124; Auto&#45;Updating &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/693609-deadlock-cheat-scripts-auto-updating.html)|`2025-04-07 22:25:00`|`Deadlock`|
 |[Clientactive/ClientConnections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/694164-clientactive-clientconnections.html)|`2025-04-07 21:29:00`|`Call of Duty: Black Ops Cold War`|
 |[Ocean AntiCheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/695430-ocean-anticheat.html)|`2025-04-07 21:28:00`|`Alternative Online Mods`|
 |[MiniRoyale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/607408-miniroyale-reversal-structs-offsets.html)|`2025-04-07 21:27:00`|`Other FPS Games`|
