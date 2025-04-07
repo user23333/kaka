@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Most Advanced C&#35; Pixel Library &#40;3 ms&#41; &#45; Seeking Collaboration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695005-advanced-pixel-library-3-ms-seeking-collaboration.html)|`2025-04-07 18:35:00`|`Valorant`|
+|[Russian Account Bypass TUT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/688961-russian-account-bypass-tut.html)|`2025-04-07 18:32:00`|`Escape from Tarkov`|
+|[Host Features &#40;G&#95;Client / Gentity&#41; &#45; Last version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/695413-host-features-g_client-gentity-version.html)|`2025-04-07 18:23:00`|`Call of Duty: Black Ops Cold War`|
+|[working eac driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695082-eac-driver.html)|`2025-04-07 18:21:00`|`Anti-Cheat Bypass`|
+|[B550 DMA Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694371-b550-dma-detection.html)|`2025-04-07 18:13:00`|`Anti-Cheat Bypass`|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-04-07 18:12:00`|`Other FPS Games`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-04-07 18:12:00`|`Counter-Strike 2`|
 |[Marvel Rivals memflow&#45;qemu external aimbot source written in Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/684393-marvel-rivals-memflow-qemu-external-aimbot-source-written-rust.html)|`2025-04-07 18:05:00`|`Marvel Rivals`|
 |[APlayerState without APawn ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/695408-aplayerstate-apawn.html)|`2025-04-07 17:42:00`|`Unreal Engine 4`|
