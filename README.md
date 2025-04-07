@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bullet TP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685406-bullet-tp.html)|`2025-04-07 23:54:00`|`Marvel Rivals`|
 |[360 / 180 macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/695450-360-180-macro.html)|`2025-04-07 23:17:00`|`Rainbow Six Siege`|
 |[New Real Detect Gamebuild 7/4/2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/695445-real-detect-gamebuild-7-4-2025-a.html)|`2025-04-07 23:15:00`|`Alternative Online Mods`|
 |[Yim menu Public section](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695287-yim-menu-public-section.html)|`2025-04-07 23:08:00`|`Grand Theft Auto V`|
