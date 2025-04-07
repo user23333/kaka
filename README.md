@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lua deobfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/web-and-scripting/695421-lua-deobfuscation.html)|`2025-04-07 19:46:00`|`Web and Scripting`|
 |[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2025-04-07 19:04:00`|`Escape from Tarkov`|
 |[Schedule I Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695317-schedule-cheat-table.html)|`2025-04-07 18:58:00`|`Other Games`|
 |[Most Advanced C&#35; Pixel Library &#40;3 ms&#41; &#45; Seeking Collaboration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695005-advanced-pixel-library-3-ms-seeking-collaboration.html)|`2025-04-07 18:35:00`|`Valorant`|
