@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What are some effective hardware id spoofing techniques?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695209-effective-hardware-id-spoofing-techniques.html)|`2025-04-08 05:41:00`|`Anti-Cheat Bypass`|
 |[SMOKE RELEASES](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695482-smoke-releases.html)|`2025-04-08 05:02:00`|`Counter-Strike 2`|
 |[Casino and or Doomsday heist prep skip?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695481-casino-doomsday-heist-prep-skip.html)|`2025-04-08 05:02:00`|`Grand Theft Auto V`|
 |[Plutonium Black Ops 2 &#124; Menu ESP & MORE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/466909-plutonium-black-ops-2-menu-esp.html)|`2025-04-08 04:57:00`|`Call of Duty: Black Ops 2`|
