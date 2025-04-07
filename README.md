@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TPM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/649260-tpm-spoofer.html)|`2025-04-07 12:28:00`|`Valorant`|
+|[ESP with in&#45;map radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/695280-esp-map-radar.html)|`2025-04-07 12:27:00`|`Playerunknown's Battlegrounds`|
 |[Destiny 2 Cheat Table &#43; Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680045-destiny-2-cheat-table-cheat-engine.html)|`2025-04-07 11:47:00`|`Other FPS Games`|
 |[valorant colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/693264-valorant-colorbot.html)|`2025-04-07 11:21:00`|`Valorant`|
 |[Brawlhalla Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/690162-brawlhalla-offsets.html)|`2025-04-07 11:10:00`|`Other Games`|
