@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to Make Recoil Script Movements Smoother Without Losing Accuracy?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/691808-recoil-script-movements-smoother-losing-accuracy.html)|`2025-04-07 13:37:00`|`Rust`|
+|[Randomized Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/695131-randomized-recoil.html)|`2025-04-07 13:34:00`|`Rust`|
 |[How to retrieve Player Velocity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/693875-retrieve-player-velocity.html)|`2025-04-07 13:11:00`|`Call of Duty: Black Ops 6`|
 |[An Example Of Mouse Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/694660-example-mouse-driver.html)|`2025-04-07 12:53:00`|`Valorant`|
 |[R&#46;E&#46;P&#46;O&#46; Simple Cheat // Credit D4rkks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690879-simple-cheat-credit-d4rkks.html)|`2025-04-07 12:40:00`|`Other FPS Games`|
