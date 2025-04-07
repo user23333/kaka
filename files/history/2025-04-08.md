@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[why is my code not working?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/691663-code.html)|`2025-04-08 06:40:00`|`Counter-Strike 2 Releases`|
+|[Anyway to unlock the arcade trophies in enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695396-anyway-unlock-arcade-trophies-enhanced.html)|`2025-04-08 06:38:00`|`Grand Theft Auto V`|
 |[VGK obfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671176-vgk-obfuscation.html)|`2025-04-08 06:29:00`|`Anti-Cheat Bypass`|
 |[VAC Live detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695486-vac-live-detections.html)|`2025-04-08 06:21:00`|`Counter-Strike 2`|
 |[echo&#46;ac &#45; Minecraft/FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695485-echo-ac-minecraft-fivem.html)|`2025-04-08 06:06:00`|`Anti-Cheat Bypass`|
