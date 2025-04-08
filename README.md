@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Cheat &#124; Dumper & Trigger find](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/654012-fivem-cheat-dumper-trigger.html)|`2025-04-08 16:36:00`|`Alternative Online Mods`|
+|[I need an Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/693090-injector.html)|`2025-04-08 16:35:00`|`Call of Duty: Black Ops 6`|
+|[Rivals UnKnoWn &#91;Internal&#93; &#45; Giving Back to the Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695531-rivals-unknown-internal-giving-community.html)|`2025-04-08 16:19:00`|`Marvel Rivals`|
+|[Can you use a macro to AFK without getting banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/695316-macro-afk-getting-banned.html)|`2025-04-08 16:14:00`|`Call of Duty: Black Ops 6`|
 |[Changing ssd for unban tarkov](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/695471-changing-ssd-unban-tarkov.html)|`2025-04-08 16:22:00`|`Escape from Tarkov`|
 |[Autoclicker for hypixel that works with lunar client?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/695529-autoclicker-hypixel-lunar-client.html)|`2025-04-08 16:11:00`|`Minecraft`|
 |[MiniRoyale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/607408-miniroyale-reversal-structs-offsets.html)|`2025-04-08 16:10:00`|`Other FPS Games`|
