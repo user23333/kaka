@@ -36,6 +36,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Searching arduino cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695495-searching-arduino-cheat.html)|`2025-04-08 22:13:00`|`Valorant`|
+|[catalyst&#46;club/astolfoware&#46;cc for l4d2 source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695563-catalyst-club-astolfoware-cc-l4d2-source.html)|`2025-04-08 22:10:00`|`Other FPS Games`|
+|[C&#43;&#43; Anti&#45;Flash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695562-anti-flash.html)|`2025-04-08 22:10:00`|`Counter-Strike 2`|
+|[B550 DMA Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694371-b550-dma-detection.html)|`2025-04-08 22:08:00`|`Anti-Cheat Bypass`|
+|[Is there any way to lift a ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/695017-lift-ban.html)|`2025-04-08 22:07:00`|`Rainbow Six Siege`|
+|[Sniper Elite 4 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/692172-sniper-elite-4-internal.html)|`2025-04-08 22:07:00`|`Other MMORPG and Strategy`|
 |[Any free internals you'd recommend?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/695557-free-internals-youd-recommend.html)|`2025-04-08 21:50:00`|`Counter-Strike 2 Releases`|
 |[C&#43;&#43; XHash algorithms header](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/695556-xhash-algorithms-header.html)|`2025-04-08 21:43:00`|`Call of Duty: Black Ops 6`|
 |[Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/695554-anticheat.html)|`2025-04-08 21:33:00`|`Playerunknown's Battlegrounds`|
