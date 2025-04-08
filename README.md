@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cant bypass the anti&#45;debugging](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/695016-cant-bypass-anti-debugging.html)|`2025-04-08 13:19:00`|`Overwatch`|
+|[Foxhole ban evading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/693206-foxhole-ban-evading.html)|`2025-04-08 13:15:00`|`Other MMORPG and Strategy`|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2025-04-08 13:13:00`|`Valorant`|
 |[feature ideas cs2 external?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695453-feature-ideas-cs2-external.html)|`2025-04-08 13:09:00`|`Counter-Strike 2`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-04-08 12:59:00`|`League of Legends`|
 |[Ultimate Hack Menu for Schedule I: Free Sample &#45; Version 1&#46;0 Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/693355-ultimate-hack-menu-schedule-free-sample-version-1-0-update.html)|`2025-04-08 12:47:00`|`Other Games`|
