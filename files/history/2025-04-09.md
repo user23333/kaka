@@ -42,6 +42,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Plouton &#45; A System Management Mode &#40;SMM&#41; cheat framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693225-plouton-system-management-mode-smm-cheat-framework.html)|`2025-04-09 05:16:00`|`Anti-Cheat Bypass`|
+|[EMACLAB &#40;GamersClub&#41; Anticheat analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695037-emaclab-gamersclub-anticheat-analysis.html)|`2025-04-09 05:08:00`|`Anti-Cheat Bypass`|
+|[Help &#45; Killing floor 1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695613-help-killing-floor-1-a.html)|`2025-04-09 05:06:00`|`Other FPS Games`|
+|[Yim menu Public section](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695287-yim-menu-public-section.html)|`2025-04-09 05:04:00`|`Grand Theft Auto V`|
 |[kdmapper alternitives?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694890-kdmapper-alternitives.html)|`2025-04-09 04:53:00`|`Anti-Cheat Bypass`|
 |[System Thread &#40;?&#41; Detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695487-system-thread-detected.html)|`2025-04-09 04:49:00`|`Anti-Cheat Bypass`|
 |[Undetected Cheat Engine &#43; Driver &#124; 2023 &#124; Bypass Anticheats &#40;BE / EAC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/504191-undetected-cheat-engine-driver-2023-bypass-anticheats-eac.html)|`2025-04-09 04:48:00`|`Anti-Cheat Bypass`|
