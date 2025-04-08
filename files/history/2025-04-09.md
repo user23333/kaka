@@ -42,6 +42,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BFH External Aimer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-heroes/642272-bfh-external-aimer.html)|`2025-04-09 04:46:00`|`Battlefield Heroes`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/183111-menu-showcase-thread.html)|`2025-04-09 04:42:00`|`Counterstrike Global Offensive`|
 |[Injector is telling me dll is injected but its not working&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/690115-injector-telling-dll-injected.html)|`2025-04-09 04:29:00`|`C and C++`|
 |[PUBGM Lua Dump &#40;decompiled & decrypted&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/694547-pubgm-lua-dump-decompiled-decrypted.html)|`2025-04-09 04:28:00`|`PUBG Mobile`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-04-09 04:21:00`|`Apex Legends`|
