@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mini Royale &#40;new game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695341-mini-royale-game.html)|`2025-04-08 15:54:00`|`Other FPS Games`|
 |[stat editing limits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/694463-stat-editing-limits.html)|`2025-04-08 15:49:00`|`Grand Theft Auto V`|
 |[Titanfall 2 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/688353-titanfall-2-internal-cheat.html)|`2025-04-08 15:36:00`|`Titanfall`|
 |[Heist control external/dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695514-heist-control-external-dma.html)|`2025-04-08 15:28:00`|`Grand Theft Auto V`|
