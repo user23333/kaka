@@ -34,9 +34,11 @@
 |3|[Fortnite 34&#46;30 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49310)|`2025-04-09 03:10:54`|
 |7|[rabbitoutlast](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49307)|`2025-04-09 03:10:54`|
 |2|[Rivals UnKnoWn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49308)|`2025-04-09 03:23:38`|
+|1|[hash&#95;mini&#46;h](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49311)|`2025-04-09 03:55:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[C&#43;&#43; XHash algorithms header](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/695556-xhash-algorithms-header.html)|`2025-04-09 03:52:00`|`Call of Duty: Black Ops 6`|
 |[FiveM Fake Players System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/694624-fivem-fake-players-system.html)|`2025-04-09 03:48:00`|`Alternative Online Mods`|
 |[Small Supermarket Together Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/694360-supermarket-cheat-table.html)|`2025-04-09 03:44:00`|`Cheat Engine Tables`|
 |[whats a good menu for Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695600-whats-menu-enhanced.html)|`2025-04-09 03:42:00`|`Grand Theft Auto V`|
