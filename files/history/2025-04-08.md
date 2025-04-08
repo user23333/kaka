@@ -36,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693027-cs2-external-cheat.html)|`2025-04-08 14:14:00`|`Counter-Strike 2`|
+|[semi Rage Internal &#43;UNlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687422-semi-rage-internal-unlock.html)|`2025-04-08 14:10:00`|`Counter-Strike 2`|
+|[Cs2 Voidware External Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693235-cs2-voidware-external-read.html)|`2025-04-08 14:08:00`|`Counter-Strike 2`|
+|[How to make cheats for marvel rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695509-cheats-marvel-rivals.html)|`2025-04-08 14:06:00`|`Marvel Rivals`|
+|[External Cheat/Hack ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/511214-external-cheat-hack-esp.html)|`2025-04-08 14:02:00`|`Valorant`|
 |[Exploits for Thuginz Source &#40;Paste Ready&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689346-exploits-thuginz-source-paste-ready.html)|`2025-04-08 13:46:00`|`Marvel Rivals`|
 |[cant bypass the anti&#45;debugging](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/695016-cant-bypass-anti-debugging.html)|`2025-04-08 13:19:00`|`Overwatch`|
 |[Foxhole ban evading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/693206-foxhole-ban-evading.html)|`2025-04-08 13:15:00`|`Other MMORPG and Strategy`|
