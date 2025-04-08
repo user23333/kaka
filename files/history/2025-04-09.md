@@ -12,6 +12,7 @@
 |7|[An Example Of Mouse Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/694660-example-mouse-driver.html)|`2025-04-09 00:22:51`|`valorant`|
 |2|[Input delay on logitech scripts when rust is open](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/694970-input-delay-logitech-scripts-rust.html)|`2025-04-09 00:22:51`|`rust`|
 |7|[Spring & Easter Banner Contest 2025 &#45; Winners&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/694797-spring-easter-banner-contest-2025-winners.html)|`2025-04-09 04:30:10`|`information-and-announcements`|
+|12|[Schedule I Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695317-schedule-cheat-table.html)|`2025-04-09 05:56:21`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
