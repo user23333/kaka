@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[can somebody explain kmbox to me?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/567144-explain-kmbox.html)|`2025-04-08 17:31:00`|`Other Hardware`|
+|[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-04-08 17:30:00`|`Rainbow Six Siege`|
+|[Singeplayer Trainer for Windows Store/Xbox PC Version?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/690707-singeplayer-trainer-windows-store-xbox-pc-version.html)|`2025-04-08 17:29:00`|`Call of Duty 6: Modern Warfare 2`|
 |[yo i want use NtUserSetWindowDisplayAffinity how to?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695535-yo-ntusersetwindowdisplayaffinity.html)|`2025-04-08 17:00:00`|`Anti-Cheat Bypass`|
 |[External Aimbot &#40;lags on server&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695534-external-aimbot-lags-server.html)|`2025-04-08 16:58:00`|`Counter-Strike 2`|
 |[FiveM Cheat &#124; Dumper & Trigger find](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/654012-fivem-cheat-dumper-trigger.html)|`2025-04-08 16:36:00`|`Alternative Online Mods`|
