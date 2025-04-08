@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/695554-anticheat.html)|`2025-04-08 21:33:00`|`Playerunknown's Battlegrounds`|
+|[Any cheats like this?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695553-cheats.html)|`2025-04-08 21:31:00`|`Valorant`|
 |[R&#46;E&#46;P&#46;O&#46; Simple Cheat // Credit D4rkks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690879-simple-cheat-credit-d4rkks.html)|`2025-04-08 20:32:00`|`Other FPS Games`|
 |[Plouton &#45; A System Management Mode &#40;SMM&#41; cheat framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693225-plouton-system-management-mode-smm-cheat-framework.html)|`2025-04-08 20:14:00`|`Anti-Cheat Bypass`|
 |[Are Intel Hypervisors cooked ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/694871-intel-hypervisors-cooked.html)|`2025-04-08 19:58:00`|`General Programming and Reversing`|
