@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CertMaker v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/695573-certmaker-v1.html)|`2025-04-09 00:59:00`|`C and C++`|
+|[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2025-04-09 00:58:00`|`Elite: Dangerous`|
+|[SeownedDE x64 2025/3/29&#40;rei2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/694048-seownedde-x64-2025-3-29-rei2.html)|`2025-04-09 00:56:00`|`Team Fortress 2`|
+|[pattern scan not works ida help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695322-pattern-scan-ida-help.html)|`2025-04-09 00:55:00`|`Valorant`|
 |[Any free internals you'd recommend?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/695557-free-internals-youd-recommend.html)|`2025-04-09 00:52:00`|`Counter-Strike 2 Releases`|
 |[SteelHunterInternal for Steel Hunters](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695182-steelhunterinternal-steel-hunters.html)|`2025-04-09 00:52:00`|`Other FPS Games`|
 |[Request for PUBG Mobile 3&#46;7&#46;0 AES Key to Unpack All &#46;pak Files &#40;30 GB&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/694799-request-pubg-mobile-3-7-0-aes-key-unpack-pak-files-30-gb.html)|`2025-04-09 00:44:00`|`PUBG Mobile`|
