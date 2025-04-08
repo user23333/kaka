@@ -43,6 +43,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[yo i want use NtUserSetWindowDisplayAffinity how to?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695535-yo-ntusersetwindowdisplayaffinity.html)|`2025-04-09 07:45:00`|`Anti-Cheat Bypass`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-04-09 07:28:00`|`Counter-Strike 2`|
 |[World At War Zombies ESP &#91;ImGui&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-5-world-at-war/694465-world-war-zombies-esp-imgui.html)|`2025-04-09 07:19:00`|`Call of Duty 5: World at War`|
 |[Signature explanations and sigs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695629-signature-explanations-sigs.html)|`2025-04-09 07:10:00`|`Counter-Strike 2`|
