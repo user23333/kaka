@@ -36,6 +36,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Changing ssd for unban tarkov](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/695471-changing-ssd-unban-tarkov.html)|`2025-04-08 16:22:00`|`Escape from Tarkov`|
+|[Autoclicker for hypixel that works with lunar client?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/695529-autoclicker-hypixel-lunar-client.html)|`2025-04-08 16:11:00`|`Minecraft`|
+|[MiniRoyale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/607408-miniroyale-reversal-structs-offsets.html)|`2025-04-08 16:10:00`|`Other FPS Games`|
+|[Kmbox or Arduino Leonardo?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695510-kmbox-arduino-leonardo.html)|`2025-04-08 16:09:00`|`Valorant`|
+|[How to Run CSS on 32bit Steam version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/695506-run-css-32bit-steam-version.html)|`2025-04-08 16:07:00`|`CounterStrike Source`|
+|[Does someone have genesis bypass source code?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/695468-genesis-bypass-source-code.html)|`2025-04-08 16:03:00`|`Alternative Online Mods`|
+|[Been getting kicked too much for no reason](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/695465-getting-kicked-reason.html)|`2025-04-08 16:02:00`|`Introductions`|
+|[F1/Simracing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695452-f1-simracing.html)|`2025-04-08 16:00:00`|`Other Games`|
 |[Mini Royale &#40;new game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695341-mini-royale-game.html)|`2025-04-08 15:54:00`|`Other FPS Games`|
 |[stat editing limits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/694463-stat-editing-limits.html)|`2025-04-08 15:49:00`|`Grand Theft Auto V`|
 |[Titanfall 2 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/688353-titanfall-2-internal-cheat.html)|`2025-04-08 15:36:00`|`Titanfall`|
