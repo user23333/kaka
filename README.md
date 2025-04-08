@@ -37,6 +37,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-04-08 23:33:00`|`Grand Theft Auto V`|
+|[A new addition to the staff team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/695568-addition-staff-team.html)|`2025-04-08 23:28:00`|`Information and Announcements`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-04-08 23:27:00`|`Other MMORPG and Strategy`|
 |[Treason's V3 AIO Aim Assist Edit &#40;BETA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670270-treasons-v3-aio-aim-assist-edit-beta.html)|`2025-04-08 23:11:00`|`Call of Duty: Black Ops 6`|
 |[hi does anyone have a working skin changer for external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694822-hi-skin-changer-external.html)|`2025-04-08 22:54:00`|`Counter-Strike 2`|
 |[Searching arduino cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695495-searching-arduino-cheat.html)|`2025-04-08 22:13:00`|`Valorant`|
