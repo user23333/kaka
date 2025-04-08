@@ -33,9 +33,14 @@
 |3|[Snowfall src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49306)|`2025-04-09 02:50:39`|
 |3|[Fortnite 34&#46;30 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49310)|`2025-04-09 03:10:54`|
 |7|[rabbitoutlast](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49307)|`2025-04-09 03:10:54`|
+|2|[Rivals UnKnoWn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49308)|`2025-04-09 03:23:38`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[gameoverlayrenderer64 problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695596-gameoverlayrenderer64.html)|`2025-04-09 03:20:00`|`Counter-Strike 2`|
+|[Rivals UnKnoWn &#91;Internal&#93; &#45; Giving Back to the Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695531-rivals-unknown-internal-giving-community.html)|`2025-04-09 03:17:00`|`Marvel Rivals`|
+|[VAC Live detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695486-vac-live-detections.html)|`2025-04-09 03:15:00`|`Counter-Strike 2`|
+|[Can you use a macro to AFK without getting banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/695316-macro-afk-getting-banned.html)|`2025-04-09 03:11:00`|`Call of Duty: Black Ops 6`|
 |[Overwatch2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/695504-overwatch2-cheat.html)|`2025-04-09 02:49:00`|`Overwatch`|
 |[This is how scanners work and how you can bypass them&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/685966-scanners-bypass.html)|`2025-04-09 02:49:00`|`Alternative Online Mods`|
 |[Webs PVE Menu v3 &#40;Edit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v3-edit.html)|`2025-04-09 02:40:00`|`Escape from Tarkov`|
