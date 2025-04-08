@@ -13,6 +13,7 @@
 |4|[FiveM Fake Players System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/694624-fivem-fake-players-system.html)|`2025-04-08 00:11:31`|`alternative-online-mods`|
 |9|[working eac driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695082-eac-driver.html)|`2025-04-08 05:36:14`|`anti-cheat-bypass`|
 |7|[An Example Of Mouse Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/694660-example-mouse-driver.html)|`2025-04-08 07:16:32`|`valorant`|
+|2|[Input delay on logitech scripts when rust is open](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/694970-input-delay-logitech-scripts-rust.html)|`2025-04-08 23:22:09`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -36,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Treason's V3 AIO Aim Assist Edit &#40;BETA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670270-treasons-v3-aio-aim-assist-edit-beta.html)|`2025-04-08 23:11:00`|`Call of Duty: Black Ops 6`|
 |[hi does anyone have a working skin changer for external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694822-hi-skin-changer-external.html)|`2025-04-08 22:54:00`|`Counter-Strike 2`|
 |[Searching arduino cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695495-searching-arduino-cheat.html)|`2025-04-08 22:13:00`|`Valorant`|
 |[catalyst&#46;club/astolfoware&#46;cc for l4d2 source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695563-catalyst-club-astolfoware-cc-l4d2-source.html)|`2025-04-08 22:10:00`|`Other FPS Games`|
