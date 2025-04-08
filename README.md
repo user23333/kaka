@@ -26,9 +26,12 @@
 |5|[StillAlive&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49282)|`2025-04-09 00:22:51`|
 |2|[The Adryan Pack &#45; Standalones & Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49284)|`2025-04-09 01:32:33`|
 |1|[DuneCore v2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49289)|`2025-04-09 01:48:20`|
+|5|[mhur&#95;external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49294)|`2025-04-09 02:09:59`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-04-09 02:07:00`|`Other Games`|
+|[IOCTL Monitor &#40;Sniffer&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/695462-ioctl-monitor-sniffer.html)|`2025-04-09 02:00:00`|`General Programming and Reversing`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-04-09 01:46:00`|`Phasmophobia`|
 |[DuneCore &#45; CS2 Best Triggerbot so far &#40;for legit players&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691168-dunecore-cs2-triggerbot-legit-players.html)|`2025-04-09 01:46:00`|`Counter-Strike 2`|
 |[Anyway to unlock the arcade trophies in enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695396-anyway-unlock-arcade-trophies-enhanced.html)|`2025-04-09 01:37:00`|`Grand Theft Auto V`|
