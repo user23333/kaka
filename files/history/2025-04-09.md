@@ -42,6 +42,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Get truly FiveM version &#40;with modules&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/694937-truly-fivem-version-modules.html)|`2025-04-09 05:38:00`|`Alternative Online Mods`|
 |[Treason's V3 AIO Aim Assist Edit &#40;BETA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670270-treasons-v3-aio-aim-assist-edit-beta.html)|`2025-04-09 05:37:00`|`Call of Duty: Black Ops 6`|
 |[External bhop consistency ? &#40;c&#43;&#43;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695566-external-bhop-consistency.html)|`2025-04-09 05:35:00`|`Counter-Strike 2`|
 |[Codes for stat editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/637007-codes-stat-editor.html)|`2025-04-09 05:31:00`|`Grand Theft Auto V`|
