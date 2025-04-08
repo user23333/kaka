@@ -43,6 +43,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[easy method to make Undetected Cheat Engine &#43; Driver &#43; DSE&#45;Patcher &#124; Bypass AC 2023](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/606839-easy-method-undetected-cheat-engine-driver-dse-patcher-bypass-ac-2023-a.html)|`2025-04-09 07:55:00`|`Anti-Cheat Bypass`|
+|[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2025-04-09 07:55:00`|`THE FINALS`|
+|[working eac driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695082-eac-driver.html)|`2025-04-09 07:54:00`|`Anti-Cheat Bypass`|
 |[yo i want use NtUserSetWindowDisplayAffinity how to?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695535-yo-ntusersetwindowdisplayaffinity.html)|`2025-04-09 07:45:00`|`Anti-Cheat Bypass`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-04-09 07:28:00`|`Counter-Strike 2`|
 |[World At War Zombies ESP &#91;ImGui&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-5-world-at-war/694465-world-war-zombies-esp-imgui.html)|`2025-04-09 07:19:00`|`Call of Duty 5: World at War`|
