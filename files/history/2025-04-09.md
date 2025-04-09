@@ -48,6 +48,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Source Code EXTERNAL CrossFire](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/641756-source-code-external-crossfire.html)|`2025-04-09 23:25:00`|`CrossFire`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-04-09 23:20:00`|`DayZ SA`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-04-09 23:02:00`|`Escape from Tarkov`|
 |[360 / 180 macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/695450-360-180-macro.html)|`2025-04-09 22:57:00`|`Rainbow Six Siege`|
 |[Makcu 2pc colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695751-makcu-2pc-colorbot.html)|`2025-04-09 22:54:00`|`Valorant`|
