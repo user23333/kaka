@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[catalyst&#46;club/astolfoware&#46;cc for l4d2 source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695563-catalyst-club-astolfoware-cc-l4d2-source.html)|`2025-04-10 04:21:00`|`Other FPS Games`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-04-10 04:18:00`|`Other Games`|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-04-10 04:17:00`|`Other Games`|
+|[DMA NOT WORKING HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/685135-dma-help.html)|`2025-04-10 04:12:00`|`PC Hardware`|
 |[how do static addresses appear](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/694825-static-addresses-appear.html)|`2025-04-10 04:07:00`|`Forum General`|
 |[Fishing Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/695777-fishing-bot.html)|`2025-04-10 03:55:00`|`Sea of Thieves`|
 |[If I grind a few hundred Crackmes, will I have the reversing skill for EAC/Vanguard?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/695774-grind-hundred-crackmes-reversing-skill-eac-vanguard.html)|`2025-04-10 03:35:00`|`General Programming and Reversing`|
