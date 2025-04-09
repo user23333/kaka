@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Last update cs2 client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695760-update-cs2-client.html)|`2025-04-10 02:33:00`|`Counter-Strike 2`|
 |[Internal bhop problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695770-internal-bhop.html)|`2025-04-10 02:14:00`|`Counter-Strike 2`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-04-10 02:00:00`|`Playerunknown's Battlegrounds`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2025-04-10 01:57:00`|`Valorant`|
