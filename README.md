@@ -48,6 +48,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Military Conflict: Vietnam Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/563190-military-conflict-vietnam-reversal.html)|`2025-04-09 19:46:00`|`Other FPS Games`|
+|[A menu that works on gta enhanced pub session?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695719-menu-gta-enhanced-pub-session.html)|`2025-04-09 19:45:00`|`Grand Theft Auto V`|
 |[Messiah Engine &#40; BloodStrike &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694299-messiah-engine-bloodstrike.html)|`2025-04-09 19:43:00`|`Other FPS Games`|
 |[Chivalry 2 Heaveyweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689993-chivalry-2-heaveyweight-cheat.html)|`2025-04-09 19:42:00`|`Other Games`|
 |[Blood Strike Coding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695201-blood-strike-coding.html)|`2025-04-09 19:37:00`|`Other FPS Games`|
