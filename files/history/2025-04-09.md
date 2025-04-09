@@ -45,6 +45,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Instant kill with any bullet, always hit certain limbs, removing armor hitbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/695633-instant-kill-bullet-hit-limbs-removing-armor-hitbox.html)|`2025-04-09 11:26:00`|`Escape from Tarkov`|
+|[Webs PVE Only Menu v7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v7.html)|`2025-04-09 11:20:00`|`Escape from Tarkov`|
+|[C&#43;&#43; Color Triggerbot New Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691387-color-triggerbot-undetected.html)|`2025-04-09 11:10:00`|`Valorant`|
+|[LENOVO SPOOFER &#40;UUID AND SN&#41; &#40;EFI&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/679679-lenovo-spoofer-uuid-sn-efi.html)|`2025-04-09 11:10:00`|`Valorant`|
 |[AHK MultiScript &#124; Pean's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605440-ahk-multiscript-peans-rcs.html)|`2025-04-09 10:59:00`|`Counter-Strike 2 Releases`|
 |[&#124; DeadLock Cheat &#124;&#124; Scripts &#124;&#124; Auto&#45;Updating &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/693609-deadlock-cheat-scripts-auto-updating.html)|`2025-04-09 10:47:00`|`Deadlock`|
 |[Fast Phd slide?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/695218-fast-phd-slide.html)|`2025-04-09 10:13:00`|`Call of Duty: Black Ops 6`|
