@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[A menu that works on gta enhanced pub session?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695719-menu-gta-enhanced-pub-session.html)|`2025-04-10 00:35:00`|`Grand Theft Auto V`|
+|[Any free internals you'd recommend?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/695557-free-internals-youd-recommend.html)|`2025-04-10 00:34:00`|`Counter-Strike 2 Releases`|
+|[New Halloween face paints global](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695764-halloween-paints-global.html)|`2025-04-10 00:34:00`|`Grand Theft Auto V`|
+|[VAC Live detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695486-vac-live-detections.html)|`2025-04-10 00:33:00`|`Counter-Strike 2`|
+|[Firmware tpm 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695762-firmware-tpm-2-0-a.html)|`2025-04-10 00:28:00`|`Valorant`|
+|[Raiding with cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/695761-raiding-cheats.html)|`2025-04-10 00:28:00`|`DayZ SA`|
+|[SeownedDE x64 2025/3/29&#40;rei2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/694048-seownedde-x64-2025-3-29-rei2.html)|`2025-04-10 00:24:00`|`Team Fortress 2`|
 |[Pro CS2 DMA &#45; Esp & Aimbot & Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656442-pro-cs2-dma-esp-aimbot-web-radar.html)|`2025-04-10 00:12:00`|`Counter-Strike 2`|
 |[Instant kill with any bullet, always hit certain limbs, removing armor hitbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/695633-instant-kill-bullet-hit-limbs-removing-armor-hitbox.html)|`2025-04-10 00:11:00`|`Escape from Tarkov`|
 |[Rivals UnKnoWn &#91;Internal&#93; &#45; Giving Back to the Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695531-rivals-unknown-internal-giving-community.html)|`2025-04-10 00:11:00`|`Marvel Rivals`|
