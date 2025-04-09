@@ -48,6 +48,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Makcu 2pc colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695751-makcu-2pc-colorbot.html)|`2025-04-09 22:54:00`|`Valorant`|
 |[internal base for cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695749-internal-base-cs2.html)|`2025-04-09 22:48:00`|`Counter-Strike 2`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-04-09 22:40:00`|`Call of Duty: Black Ops 6`|
 |[Looking For CW sources](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/688415-looking-cw-sources.html)|`2025-04-09 22:40:00`|`Call of Duty: Black Ops Cold War`|
