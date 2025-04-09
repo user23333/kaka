@@ -48,6 +48,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What was the first game you cheated on?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/328889-game-cheated.html)|`2025-04-09 17:35:00`|`Off Topic`|
 |[Spring & Easter Banner Contest 2025 &#45; Winners&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/694797-spring-easter-banner-contest-2025-winners.html)|`2025-04-09 17:33:00`|`Information and Announcements`|
 |[Age of Empires 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/589592-age-empires-4-reversal-structs-offsets.html)|`2025-04-09 17:05:00`|`Other MMORPG and Strategy`|
 |[Clientactive/ClientConnections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/694164-clientactive-clientconnections.html)|`2025-04-09 17:03:00`|`Call of Duty: Black Ops Cold War`|
