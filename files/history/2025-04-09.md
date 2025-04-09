@@ -48,6 +48,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-04-09 20:25:00`|`Escape from Tarkov`|
+|[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2025-04-09 20:11:00`|`Other FPS Games`|
+|[F1 tire](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695739-f1-tire.html)|`2025-04-09 20:05:00`|`Grand Theft Auto V`|
+|[pasted CE table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/677920-pasted-ce-table.html)|`2025-04-09 20:00:00`|`Palworld`|
+|[anticheetah &#124; cheat for Cheaters Cheetah](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/693081-anticheetah-cheat-cheaters-cheetah.html)|`2025-04-09 19:58:00`|`Other FPS Games`|
 |[Military Conflict: Vietnam Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/563190-military-conflict-vietnam-reversal.html)|`2025-04-09 19:46:00`|`Other FPS Games`|
 |[A menu that works on gta enhanced pub session?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695719-menu-gta-enhanced-pub-session.html)|`2025-04-09 19:45:00`|`Grand Theft Auto V`|
 |[Messiah Engine &#40; BloodStrike &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694299-messiah-engine-bloodstrike.html)|`2025-04-09 19:43:00`|`Other FPS Games`|
