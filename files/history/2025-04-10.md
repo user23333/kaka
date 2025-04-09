@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal bhop problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695770-internal-bhop.html)|`2025-04-10 02:14:00`|`Counter-Strike 2`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-04-10 02:00:00`|`Playerunknown's Battlegrounds`|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2025-04-10 01:57:00`|`Valorant`|
 |[World At War Zombies ESP &#91;ImGui&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-5-world-at-war/694465-world-war-zombies-esp-imgui.html)|`2025-04-10 01:50:00`|`Call of Duty 5: World at War`|
 |[Get truly FiveM version &#40;with modules&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/694937-truly-fivem-version-modules.html)|`2025-04-10 01:50:00`|`Alternative Online Mods`|
 |[Free Cheat &#45; Alkad &#124; Rusticaland &#124; v2585](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/695769-free-cheat-alkad-rusticaland-v2585.html)|`2025-04-10 01:47:00`|`Rust`|
