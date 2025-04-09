@@ -15,6 +15,7 @@
 |12|[Schedule I Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695317-schedule-cheat-table.html)|`2025-04-09 05:56:21`|`other-games`|
 |13|[Undetectable Mouse Movement FOREVER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695315-undetectable-mouse-movement-forever.html)|`2025-04-09 08:49:45`|`valorant`|
 |6|[Cheaters get DNA banned now&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/694702-cheaters-dna-banned.html)|`2025-04-09 08:49:45`|`valorant`|
+|38|[Rivals UnKnoWn &#91;Internal&#93; &#45; Giving Back to the Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695531-rivals-unknown-internal-giving-community.html)|`2025-04-09 14:27:37`|`marvel-rivals`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -47,6 +48,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Best approach to detect enemy outline](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695656-approach-detect-enemy-outline.html)|`2025-04-09 14:13:00`|`Valorant`|
+|[Lazybead &#40;LB&#41; &#45; Free Cheat &#40;COMING SOON&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat-coming-soon.html)|`2025-04-09 14:04:00`|`Sea of Thieves`|
 |[How to remove HWID Bans In Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/580073-remove-hwid-bans-valorant.html)|`2025-04-09 13:33:00`|`Valorant`|
 |[outlines alloways visable cheat pls?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/695653-outlines-alloways-visable-cheat-pls.html)|`2025-04-09 13:20:00`|`Payday 3`|
 |[cant apply holiday liveries on moc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695650-cant-apply-holiday-liveries-moc.html)|`2025-04-09 12:44:00`|`Grand Theft Auto V`|
