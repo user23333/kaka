@@ -47,6 +47,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to remove HWID Bans In Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/580073-remove-hwid-bans-valorant.html)|`2025-04-09 13:33:00`|`Valorant`|
 |[outlines alloways visable cheat pls?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/695653-outlines-alloways-visable-cheat-pls.html)|`2025-04-09 13:20:00`|`Payday 3`|
 |[cant apply holiday liveries on moc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695650-cant-apply-holiday-liveries-moc.html)|`2025-04-09 12:44:00`|`Grand Theft Auto V`|
 |[Instant kill with any bullet, always hit certain limbs, removing armor hitbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/695633-instant-kill-bullet-hit-limbs-removing-armor-hitbox.html)|`2025-04-09 11:26:00`|`Escape from Tarkov`|
