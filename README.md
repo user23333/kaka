@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[If I grind a few hundred Crackmes, will I have the reversing skill for EAC/Vanguard?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/695774-grind-hundred-crackmes-reversing-skill-eac-vanguard.html)|`2025-04-10 03:35:00`|`General Programming and Reversing`|
 |[simple r6 external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/516719-simple-r6-external.html)|`2025-04-10 03:20:00`|`Rainbow Six Siege`|
 |[Arduino HID Mouse &#43; Free Libraries](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/642071-arduino-hid-mouse-free-libraries.html)|`2025-04-10 03:18:00`|`Valorant`|
 |[Kmbox or Arduino Leonardo?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695510-kmbox-arduino-leonardo.html)|`2025-04-10 03:17:00`|`Valorant`|
