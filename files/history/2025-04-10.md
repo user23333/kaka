@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Injector is telling me dll is injected but its not working&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/690115-injector-telling-dll-injected.html)|`2025-04-10 05:17:00`|`C and C++`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-04-10 05:00:00`|`Grand Theft Auto V`|
 |[picanha beta](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/692533-picanha-beta.html)|`2025-04-10 04:52:00`|`General Programming and Reversing`|
 |[Fast Phd slide?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/695218-fast-phd-slide.html)|`2025-04-10 04:50:00`|`Call of Duty: Black Ops 6`|
