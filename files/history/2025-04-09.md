@@ -48,6 +48,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[internal base for cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695749-internal-base-cs2.html)|`2025-04-09 22:48:00`|`Counter-Strike 2`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-04-09 22:40:00`|`Call of Duty: Black Ops 6`|
+|[Looking For CW sources](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/688415-looking-cw-sources.html)|`2025-04-09 22:40:00`|`Call of Duty: Black Ops Cold War`|
+|[Isonzo Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675510-isonzo-internal-cheat.html)|`2025-04-09 22:38:00`|`Other FPS Games`|
 |[&#91;UE4&#93;Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/244709-ue4-squad.html)|`2025-04-09 22:35:00`|`Other FPS Games`|
 |[How to REALLY get the real build of fivem easily now](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/695743-real-build-fivem-easily.html)|`2025-04-09 22:11:00`|`Alternative Online Mods`|
 |[Redmatch 2 internal cheat &#40;imperium&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/688217-redmatch-2-internal-cheat-imperium.html)|`2025-04-09 22:05:00`|`Other FPS Games`|
