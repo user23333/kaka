@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC Cr3 bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695767-eac-cr3-bypass.html)|`2025-04-10 01:31:00`|`Anti-Cheat Bypass`|
+|[Dead By Daylight Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694248-dead-daylight-internal.html)|`2025-04-10 01:28:00`|`Other FPS Games`|
 |[YimMenuV2 E&E with money cheat &#40;No FSL&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/694886-yimmenuv2-money-cheat-fsl.html)|`2025-04-10 01:21:00`|`Grand Theft Auto V`|
 |[Messiah Engine &#40; BloodStrike &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694299-messiah-engine-bloodstrike.html)|`2025-04-10 01:12:00`|`Other FPS Games`|
 |[bones, real hitbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/695216-bones-real-hitbox.html)|`2025-04-10 01:08:00`|`CounterStrike 1.5, 1.6 and Mods`|
