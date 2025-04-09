@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[change character rotation Yaw/Pitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695628-change-character-rotation-yaw-pitch.html)|`2025-04-10 00:49:00`|`Grand Theft Auto V`|
+|[Zombies Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/686645-zombies-cheat.html)|`2025-04-10 00:48:00`|`Call of Duty: Black Ops Cold War`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-04-10 00:43:00`|`Rust`|
 |[A menu that works on gta enhanced pub session?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695719-menu-gta-enhanced-pub-session.html)|`2025-04-10 00:35:00`|`Grand Theft Auto V`|
 |[Any free internals you'd recommend?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/695557-free-internals-youd-recommend.html)|`2025-04-10 00:34:00`|`Counter-Strike 2 Releases`|
 |[New Halloween face paints global](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695764-halloween-paints-global.html)|`2025-04-10 00:34:00`|`Grand Theft Auto V`|
