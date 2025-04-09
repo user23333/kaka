@@ -48,6 +48,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-04-09 15:33:00`|`Counter-Strike 2`|
 |[External GlowESP &#40;with source code&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694365-external-glowesp-source-code.html)|`2025-04-09 15:19:00`|`Counter-Strike 2`|
 |[Is there any free esp, chams or and form of wallhacl anymore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/695661-free-esp-chams-form-wallhacl-anymore.html)|`2025-04-09 15:07:00`|`Rainbow Six Siege`|
 |[Best approach to detect enemy outline](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695656-approach-detect-enemy-outline.html)|`2025-04-09 14:13:00`|`Valorant`|
