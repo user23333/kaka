@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Could anyone share the latest version of Rigel source files?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/695022-share-version-rigel-source-files.html)|`2025-04-10 02:57:00`|`Overwatch`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-04-10 02:56:00`|`Valorant`|
+|[help me Input for Triggerbots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695538-help-input-triggerbots.html)|`2025-04-10 02:52:00`|`Marvel Rivals`|
 |[How to make cheats for marvel rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695509-cheats-marvel-rivals.html)|`2025-04-10 02:49:00`|`Marvel Rivals`|
 |[LORD FARM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695349-lord-farm.html)|`2025-04-10 02:45:00`|`Marvel Rivals`|
 |[Last update cs2 client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695760-update-cs2-client.html)|`2025-04-10 02:33:00`|`Counter-Strike 2`|
