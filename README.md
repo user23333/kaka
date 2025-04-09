@@ -48,6 +48,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Age of Empires 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/589592-age-empires-4-reversal-structs-offsets.html)|`2025-04-09 17:05:00`|`Other MMORPG and Strategy`|
+|[Clientactive/ClientConnections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/694164-clientactive-clientconnections.html)|`2025-04-09 17:03:00`|`Call of Duty: Black Ops Cold War`|
+|[T6 Public Offset Dumper &#40;would be usefull for community&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/695314-t6-public-offset-dumper-usefull-community.html)|`2025-04-09 17:00:00`|`Call of Duty: Black Ops 2`|
 |[Anyway to edit gunvan in enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/694304-anyway-edit-gunvan-enhanced.html)|`2025-04-09 16:58:00`|`Grand Theft Auto V`|
 |[ESP with in&#45;map radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/695280-esp-map-radar.html)|`2025-04-09 16:45:00`|`Playerunknown's Battlegrounds`|
 |[Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/695554-anticheat.html)|`2025-04-09 16:44:00`|`Playerunknown's Battlegrounds`|
