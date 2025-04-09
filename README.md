@@ -45,6 +45,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fast Phd slide?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/695218-fast-phd-slide.html)|`2025-04-09 10:13:00`|`Call of Duty: Black Ops 6`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-04-09 09:43:00`|`Playerunknown's Battlegrounds`|
+|[All Mouse NoRecoil 1&#46;0 IS OUT &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-1-0-recoil-helpy-auto-config-probably-ud-universal.html)|`2025-04-09 09:12:00`|`Rainbow Six Siege`|
 |[Could anyone share the latest version of Rigel source files?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/695022-share-version-rigel-source-files.html)|`2025-04-09 08:46:00`|`Overwatch`|
 |[LORD FARM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695349-lord-farm.html)|`2025-04-09 08:33:00`|`Marvel Rivals`|
 |[Shepherd amoako](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/695636-shepherd-amoako.html)|`2025-04-09 08:33:00`|`Introductions`|
