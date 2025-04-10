@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Request for PUBG Mobile 3&#46;7&#46;0 AES Key to Unpack All &#46;pak Files &#40;30 GB&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/694799-request-pubg-mobile-3-7-0-aes-key-unpack-pak-files-30-gb.html)|`2025-04-10 16:41:00`|`PUBG Mobile`|
 |[Abnormal Match Behavior](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/695598-abnormal-match-behavior.html)|`2025-04-10 16:39:00`|`PUBG Mobile`|
 |[Heist control external/dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695514-heist-control-external-dma.html)|`2025-04-10 16:26:00`|`Grand Theft Auto V`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-04-10 16:21:00`|`Other FPS Games`|
