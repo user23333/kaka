@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2025-04-11 01:05:00`|`Palworld`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-04-11 01:05:00`|`Playerunknown's Battlegrounds`|
+|[Lua Script Cheat Table &#45;&#45; The Best Way](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/693255-lua-script-cheat-table.html)|`2025-04-11 01:02:00`|`General Programming and Reversing`|
+|[update this mod that let you see all the in game codes from lounch PLS?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/695879-update-mod-game-codes-lounch-pls.html)|`2025-04-11 01:01:00`|`Payday 3`|
 |[SteelHunterInternal for Steel Hunters](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695182-steelhunterinternal-steel-hunters.html)|`2025-04-11 00:53:00`|`Other FPS Games`|
 |[Shadow Daggers animation broken](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695877-shadow-daggers-animation-broken.html)|`2025-04-11 00:51:00`|`Counter-Strike 2`|
 |[GTA V E&E broken progression fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695572-gta-broken-progression-fix.html)|`2025-04-11 00:44:00`|`Grand Theft Auto V`|
