@@ -25,9 +25,11 @@
 |381|[Schedule I Cheat Table V1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49315)|`2025-04-11 00:00:19`|
 |40|[catalyst&#46;club/astolfoware&#46;cc for l4d2 source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49312)|`2025-04-11 00:00:19`|
 |1|[cs2 internal esp ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49331)|`2025-04-11 01:49:30`|
+|1|[Driver&#45;physical&#45;rw&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49333)|`2025-04-11 01:55:34`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Forced read/write driver without Cr3 bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/695793-forced-read-write-driver-cr3-bypass.html)|`2025-04-11 01:53:00`|`Apex Legends`|
 |[simple cs2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695821-simple-cs2-internal.html)|`2025-04-11 01:47:00`|`Counter-Strike 2`|
 |[System Thread &#40;?&#41; Detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695487-system-thread-detected.html)|`2025-04-11 01:43:00`|`Anti-Cheat Bypass`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-04-11 01:41:00`|`Valorant`|
