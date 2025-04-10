@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant insta headshot AIMBOT&#91;UNDETECTED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688675-valorant-insta-headshot-aimbot-undetected.html)|`2025-04-10 09:16:00`|`Valorant`|
+|[Ahk Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695804-ahk-triggerbot.html)|`2025-04-10 09:13:00`|`Valorant`|
+|[DMA Key Input Windows 11 24h2 fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/694320-dma-key-input-windows-11-24h2-fix.html)|`2025-04-10 09:01:00`|`General Programming and Reversing`|
+|[Dead by Daylight Unlock DLC's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694447-dead-daylight-unlock-dlcs.html)|`2025-04-10 08:54:00`|`Other FPS Games`|
+|[Universal DLL Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/691198-universal-dll-injector.html)|`2025-04-10 08:40:00`|`Marvel Rivals`|
+|[Ragnarok Origin Global PC cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/624052-ragnarok-origin-global-pc-cheat.html)|`2025-04-10 08:26:00`|`Other MMORPG and Strategy`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-04-10 07:54:00`|`Counter-Strike 2`|
 |[Autoclicker for hypixel that works with lunar client?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/695529-autoclicker-hypixel-lunar-client.html)|`2025-04-10 06:55:00`|`Minecraft`|
 |[Overwatch2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/695504-overwatch2-cheat.html)|`2025-04-10 06:52:00`|`Overwatch`|
