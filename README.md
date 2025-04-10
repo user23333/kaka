@@ -31,9 +31,14 @@
 |5|[StupidSolutionsV3&#46;3&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49326)|`2025-04-10 17:15:04`|
 |4|[StupidSolutionsV3&#46;3&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49330)|`2025-04-10 19:54:54`|
 |1|[DirectComposition Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49320)|`2025-04-10 20:56:46`|
+|3|[Isonzo Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49324)|`2025-04-10 22:32:22`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-04-10 22:24:00`|`Rainbow Six Siege`|
+|[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669274-vigor-internal-cheat.html)|`2025-04-10 22:24:00`|`Other FPS Games`|
+|[😎](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/695862-128526.html)|`2025-04-10 22:22:00`|`PUBG Mobile`|
+|[Isonzo Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675510-isonzo-internal-cheat.html)|`2025-04-10 22:12:00`|`Other FPS Games`|
 |[External Among Us overlay &#40;undetectable&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/685399-external-overlay-undetectable.html)|`2025-04-10 21:59:00`|`Among Us`|
 |[VGK obfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671176-vgk-obfuscation.html)|`2025-04-10 21:59:00`|`Anti-Cheat Bypass`|
 |[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2025-04-10 21:52:00`|`Other FPS Games`|
