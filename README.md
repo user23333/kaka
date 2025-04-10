@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[good dx12 hook ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/695200-dx12-hook.html)|`2025-04-10 15:28:00`|`Rainbow Six Siege`|
+|[Sniper Elite 4 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/692172-sniper-elite-4-internal.html)|`2025-04-10 15:26:00`|`Other MMORPG and Strategy`|
+|[Bone index code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692241-bone-index-code.html)|`2025-04-10 15:24:00`|`Counter-Strike 2`|
+|[Bloodstrike](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690058-bloodstrike.html)|`2025-04-10 15:17:00`|`Other FPS Games`|
+|[Rocket League XP Farm Bot &#45; External AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695550-rocket-league-xp-farm-bot-external-ai.html)|`2025-04-10 15:14:00`|`Other Games`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-04-10 15:07:00`|`Grand Theft Auto V`|
 |[simple cs2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695821-simple-cs2-internal.html)|`2025-04-10 14:59:00`|`Counter-Strike 2`|
 |[whats a good menu for Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695600-whats-menu-enhanced.html)|`2025-04-10 14:45:00`|`Grand Theft Auto V`|
 |[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2025-04-10 14:06:00`|`Sea of Thieves`|
