@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Horrible but functional external cheat source &#40;just needs offset updates&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/695921-horrible-functional-external-cheat-source-offset-updates.html)|`2025-04-11 07:38:00`|`CrossFire`|
 |[A new addition to the staff team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/695568-addition-staff-team.html)|`2025-04-11 07:34:00`|`Information and Announcements`|
 |[cookies are great](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/695920-cookies.html)|`2025-04-11 07:29:00`|`Introductions`|
 |[Rivals UnKnoWn &#91;Internal&#93; &#45; Giving Back to the Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695531-rivals-unknown-internal-giving-community.html)|`2025-04-11 07:26:00`|`Marvel Rivals`|
