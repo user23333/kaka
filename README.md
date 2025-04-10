@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2025-04-10 11:09:00`|`Garry's Mod`|
+|[Unable to capture game process](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/695810-unable-capture-game-process.html)|`2025-04-10 11:01:00`|`THE FINALS`|
+|[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2025-04-10 11:01:00`|`DayZ SA`|
+|[arduino hid report descriptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695806-arduino-hid-report-descriptor.html)|`2025-04-10 10:51:00`|`Valorant`|
 |[Makcu 2pc colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695751-makcu-2pc-colorbot.html)|`2025-04-10 10:07:00`|`Valorant`|
 |[Bullet TP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685406-bullet-tp.html)|`2025-04-10 09:51:00`|`Marvel Rivals`|
 |[Valorant insta headshot AIMBOT&#91;UNDETECTED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688675-valorant-insta-headshot-aimbot-undetected.html)|`2025-04-10 09:16:00`|`Valorant`|
