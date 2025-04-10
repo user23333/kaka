@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SteelHunterInternal for Steel Hunters](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695182-steelhunterinternal-steel-hunters.html)|`2025-04-11 00:53:00`|`Other FPS Games`|
+|[Shadow Daggers animation broken](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695877-shadow-daggers-animation-broken.html)|`2025-04-11 00:51:00`|`Counter-Strike 2`|
 |[GTA V E&E broken progression fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695572-gta-broken-progression-fix.html)|`2025-04-11 00:44:00`|`Grand Theft Auto V`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-04-11 00:33:00`|`Other FPS Games`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-04-11 00:31:00`|`Other Games`|
