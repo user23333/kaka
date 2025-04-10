@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pipsi&#45;ZZZ &#91; Zenless Zone Zero Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/645862-pipsi-zzz-zenless-zone-zero-cheat.html)|`2025-04-10 16:14:00`|`Other MMORPG and Strategy`|
+|[Asking about winAPI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/695301-winapi.html)|`2025-04-10 16:12:00`|`Off Topic`|
+|[Dead by Daylight &#45; Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625318-dead-daylight-unlock-dlcs-skins.html)|`2025-04-10 15:57:00`|`Other FPS Games`|
+|[The Closest Thing To Aimbot & No Recoil You're Going To Get](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/687328-closest-aimbot-recoil-youre.html)|`2025-04-10 15:40:00`|`THE FINALS`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-04-10 15:36:00`|`Other FPS Games`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-04-10 15:36:00`|`Other FPS Games`|
 |[Looking For CW sources](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/688415-looking-cw-sources.html)|`2025-04-10 15:35:00`|`Call of Duty: Black Ops Cold War`|
 |[MiniRoyale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/607408-miniroyale-reversal-structs-offsets.html)|`2025-04-10 15:34:00`|`Other FPS Games`|
