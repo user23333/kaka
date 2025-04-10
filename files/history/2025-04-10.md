@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-04-10 15:36:00`|`Other FPS Games`|
+|[Looking For CW sources](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/688415-looking-cw-sources.html)|`2025-04-10 15:35:00`|`Call of Duty: Black Ops Cold War`|
+|[MiniRoyale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/607408-miniroyale-reversal-structs-offsets.html)|`2025-04-10 15:34:00`|`Other FPS Games`|
+|[Clientactive/ClientConnections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/694164-clientactive-clientconnections.html)|`2025-04-10 15:33:00`|`Call of Duty: Black Ops Cold War`|
 |[good dx12 hook ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/695200-dx12-hook.html)|`2025-04-10 15:28:00`|`Rainbow Six Siege`|
 |[Sniper Elite 4 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/692172-sniper-elite-4-internal.html)|`2025-04-10 15:26:00`|`Other MMORPG and Strategy`|
 |[Bone index code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692241-bone-index-code.html)|`2025-04-10 15:24:00`|`Counter-Strike 2`|
