@@ -28,9 +28,19 @@
 |1|[Driver&#45;physical&#45;rw&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49333)|`2025-04-11 01:55:34`|
 |1|[JANSer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49328)|`2025-04-11 02:13:51`|
 |1|[DescendantInternal T&#46;2&#46;4 4&#45;9&#45;25](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49322)|`2025-04-11 02:13:51`|
+|5|[Schedule I &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49329)|`2025-04-11 02:35:52`|
+|3|[SteelHunterInternal 1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49325)|`2025-04-11 02:35:52`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[B550 DMA Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694371-b550-dma-detection.html)|`2025-04-11 02:33:00`|`Anti-Cheat Bypass`|
+|[Injector is telling me dll is injected but its not working&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/690115-injector-telling-dll-injected.html)|`2025-04-11 02:30:00`|`C and C++`|
+|[Get Boost from other Players?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695892-boost-players.html)|`2025-04-11 02:29:00`|`Other Games`|
+|[VGK obfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671176-vgk-obfuscation.html)|`2025-04-11 02:28:00`|`Anti-Cheat Bypass`|
+|[This is how scanners work and how you can bypass them&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/685966-scanners-bypass.html)|`2025-04-11 02:27:00`|`Alternative Online Mods`|
+|[catalyst&#46;club/astolfoware&#46;cc for l4d2 source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695563-catalyst-club-astolfoware-cc-l4d2-source.html)|`2025-04-11 02:24:00`|`Other FPS Games`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-04-11 02:22:00`|`Apex Legends`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-04-11 02:22:00`|`Overwatch`|
 |[DuneCore &#45; CS2 Best Triggerbot so far &#40;for legit players&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691168-dunecore-cs2-triggerbot-legit-players.html)|`2025-04-11 02:12:00`|`Counter-Strike 2`|
 |[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2025-04-11 02:12:00`|`Other MMORPG and Strategy`|
 |[Dark and Darker Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690457-dark-darker-internal.html)|`2025-04-11 02:11:00`|`Other FPS Games`|
