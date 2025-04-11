@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[zeptic´s external cheat for cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695926-zeptic-external-cheat-cs2.html)|`2025-04-11 12:39:00`|`Counter-Strike 2`|
 |[Looking for item dupe cheat in Graal Era](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695943-looking-item-dupe-cheat-graal-era.html)|`2025-04-11 12:19:00`|`Other Games`|
 |[reducing surface damage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695942-reducing-surface-damage.html)|`2025-04-11 12:10:00`|`Counter-Strike 2`|
 |[The Closest Thing To Aimbot & No Recoil You're Going To Get](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/687328-closest-aimbot-recoil-youre.html)|`2025-04-11 12:06:00`|`THE FINALS`|
