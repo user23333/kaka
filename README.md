@@ -30,9 +30,15 @@
 |1|[Time's Hack Enhanced 3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49344)|`2025-04-12 04:29:21`|
 |1|[compiled&#45;exagon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49340)|`2025-04-12 05:12:52`|
 |3|[exagon&#45;source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49339)|`2025-04-12 05:12:52`|
+|1|[Cyberpunk 2077 Modded Save Game ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49348)|`2025-04-12 05:27:13`|
+|2|[SimpleAmongUs v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49338)|`2025-04-12 05:27:13`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cyberpunk 2077 Modded Save Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695962-cyberpunk-2077-modded-save-game.html)|`2025-04-12 05:26:00`|`Other FPS Games`|
+|[External &#40;DMA&#41; Reading Health of Entities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696061-external-dma-reading-health-entities.html)|`2025-04-12 05:04:00`|`Counter-Strike 2`|
+|[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2025-04-12 05:03:00`|`Other FPS Games`|
+|[thanks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/696060-thanks.html)|`2025-04-12 04:59:00`|`Introductions`|
 |[Looking for an external triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/696019-looking-external-triggerbot.html)|`2025-04-12 05:06:00`|`Team Fortress 2`|
 |[Global spectator list broken?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/696062-global-spectator-list-broken.html)|`2025-04-12 05:04:00`|`Team Fortress 2`|
 |[CS2 External &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695906-cs2-external-source.html)|`2025-04-12 05:04:00`|`Counter-Strike 2`|
