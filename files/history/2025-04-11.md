@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Scedule I Blackjack winner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/694482-scedule-blackjack-winner.html)|`2025-04-11 13:03:00`|`Other Games`|
+|[do hwid bans expire at the same time?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695930-hwid-bans-expire-time.html)|`2025-04-11 13:02:00`|`Valorant`|
+|[Blackcat1&#46;sys ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/694528-blackcat1-sys.html)|`2025-04-11 12:56:00`|`Maple Story`|
 |[zeptic´s external cheat for cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695926-zeptic-external-cheat-cs2.html)|`2025-04-11 12:39:00`|`Counter-Strike 2`|
 |[Looking for item dupe cheat in Graal Era](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695943-looking-item-dupe-cheat-graal-era.html)|`2025-04-11 12:19:00`|`Other Games`|
 |[reducing surface damage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695942-reducing-surface-damage.html)|`2025-04-11 12:10:00`|`Counter-Strike 2`|
