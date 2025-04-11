@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can i play on a new account after getting banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695971-play-account-getting-banned.html)|`2025-04-11 19:16:00`|`Marvel Rivals`|
 |[Roblox injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/695968-roblox-injector.html)|`2025-04-11 18:46:00`|`Other MMORPG and Strategy`|
 |[EAC DMA cr3 shuffling fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677322-eac-dma-cr3-shuffling-fix.html)|`2025-04-11 18:43:00`|`Anti-Cheat Bypass`|
 |[Rust External &#45; RUNTIME AUTO UPDATE OFFSETS/DECRYPTION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/695007-rust-external-runtime-auto-update-offsets-decryption.html)|`2025-04-11 18:42:00`|`Rust`|
