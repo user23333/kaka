@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need pluh for Redengine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/693228-pluh-redengine.html)|`2025-04-11 17:49:00`|`Alternative Online Mods`|
+|[disable DSE to load cheat engine driver DBK &#124; Bypass EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/602024-disable-dse-load-cheat-engine-driver-dbk-bypass-eac.html)|`2025-04-11 17:40:00`|`Anti-Cheat Bypass`|
 |[Cyberpunk 2077 Modded Save Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695962-cyberpunk-2077-modded-save-game.html)|`2025-04-11 17:43:00`|`Other FPS Games`|
 |[Pipsi&#45;ZZZ &#91; Zenless Zone Zero Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/645862-pipsi-zzz-zenless-zone-zero-cheat.html)|`2025-04-11 16:46:00`|`Other MMORPG and Strategy`|
 |[ResolveRelativeAddress](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695957-resolverelativeaddress.html)|`2025-04-11 16:10:00`|`Counter-Strike 2`|
