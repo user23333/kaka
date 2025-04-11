@@ -39,6 +39,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;PUBG Mobile 3&#46;7&#93; Pak Decryption Function Found&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/695984-pubg-mobile-3-7-pak-decryption-function-found.html)|`2025-04-11 21:10:00`|`PUBG Mobile`|
+|[I'm creating my own Marvel Rivals soft cheat and need offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695969-im-creating-own-marvel-rivals-soft-cheat-offsets.html)|`2025-04-11 21:07:00`|`Marvel Rivals`|
+|[yim menu 1&#46;70 doesnt work anymore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695970-yim-menu-1-70-doesnt-anymore.html)|`2025-04-11 21:04:00`|`Grand Theft Auto V`|
+|[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-04-11 21:03:00`|`Marvel Rivals`|
+|[Exploring DMA FW with VMD Functionality &#45; Undetected in VGK, ACE, and FACEIT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695980-exploring-dma-fw-vmd-functionality-undetected-vgk-ace-faceit.html)|`2025-04-11 20:55:00`|`Anti-Cheat Bypass`|
 |[Vanguard Retail GSCBIN Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-vanguard/695977-vanguard-retail-gscbin-dump.html)|`2025-04-11 20:44:00`|`Call of Duty: Vanguard`|
 |[&#91;BloodStrike Mobile&#93; Help filtering object for esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680388-bloodstrike-mobile-help-filtering-object-esp.html)|`2025-04-11 20:42:00`|`Other FPS Games`|
 |[How to remove HWID Bans In Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/580073-remove-hwid-bans-valorant.html)|`2025-04-11 19:55:00`|`Valorant`|
