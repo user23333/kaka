@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[shadow banned for a month](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/695309-shadow-banned-month.html)|`2025-04-11 14:12:00`|`Call of Duty: Black Ops 6`|
 |[M&#91;removed&#93; AI Manual&#45;Map Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/695951-removed-ai-manual-map-injector.html)|`2025-04-11 13:36:00`|`C and C++`|
 |[Scedule I Blackjack winner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/694482-scedule-blackjack-winner.html)|`2025-04-11 13:03:00`|`Other Games`|
 |[do hwid bans expire at the same time?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695930-hwid-bans-expire-time.html)|`2025-04-11 13:02:00`|`Valorant`|
