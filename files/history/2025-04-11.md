@@ -39,6 +39,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG No recoil macro For all razer mouse using Razer synapse &#91;Undetected&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/658324-pubg-recoil-macro-razer-mouse-using-razer-synapse-undetected.html)|`2025-04-11 22:20:00`|`PUBG Releases`|
+|[Autostrafe Exploring](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696013-autostrafe-exploring.html)|`2025-04-11 22:19:00`|`Counter-Strike 2`|
+|[Russian Account Bypass TUT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/688961-russian-account-bypass-tut.html)|`2025-04-11 22:19:00`|`Escape from Tarkov`|
+|[WZ BO6 Working Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675805-wz-bo6-base.html)|`2025-04-11 22:17:00`|`Call of Duty: Black Ops 6`|
+|[Universal No Recoil script using python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/678809-universal-recoil-script-using-python.html)|`2025-04-11 22:17:00`|`Other FPS Games`|
 |[How to Perm Spoof a SSD NVMe the real way&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667328-perm-spoof-ssd-nvme-real.html)|`2025-04-11 22:03:00`|`Anti-Cheat Bypass`|
 |[need game of peace](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/695986-game-peace.html)|`2025-04-11 21:57:00`|`PUBG Mobile`|
 |[Exotic Shards Reciept from Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/695985-exotic-shards-reciept-steam.html)|`2025-04-11 21:57:00`|`Apex Legends`|
