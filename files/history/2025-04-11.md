@@ -39,6 +39,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;External &#45; DMA&#93; Writing Efficient Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/696021-external-dma-writing-efficient-code.html)|`2025-04-11 23:26:00`|`Call of Duty: Black Ops 6`|
+|[Looking for an external triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/696019-looking-external-triggerbot.html)|`2025-04-11 23:25:00`|`Team Fortress 2`|
+|[BF3 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-3-a/695076-bf3-internal.html)|`2025-04-11 23:13:00`|`Battlefield 3`|
 |[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2025-04-11 23:05:00`|`Escape from Tarkov`|
 |[D3D9 Esp stops working on certain servers completely](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/695905-d3d9-esp-stops-servers-completely.html)|`2025-04-11 23:02:00`|`Garry's Mod`|
 |[Universal Recoil &#40;like UMT program&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/617894-universal-recoil-umt-program.html)|`2025-04-11 22:54:00`|`Other FPS Games`|
