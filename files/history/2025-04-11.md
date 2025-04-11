@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[change character rotation Yaw/Pitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695628-change-character-rotation-yaw-pitch.html)|`2025-04-11 08:44:00`|`Grand Theft Auto V`|
+|[ALL&#45;In&#45;One Menu for YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691907-menu-yimmenu.html)|`2025-04-11 08:33:00`|`Grand Theft Auto V`|
+|[Heist control external/dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695514-heist-control-external-dma.html)|`2025-04-11 08:10:00`|`Grand Theft Auto V`|
 |[Horrible but functional external cheat source &#40;just needs offset updates&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/695921-horrible-functional-external-cheat-source-offset-updates.html)|`2025-04-11 07:38:00`|`CrossFire`|
 |[A new addition to the staff team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/695568-addition-staff-team.html)|`2025-04-11 07:34:00`|`Information and Announcements`|
 |[cookies are great](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/695920-cookies.html)|`2025-04-11 07:29:00`|`Introductions`|
