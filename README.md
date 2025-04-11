@@ -13,6 +13,7 @@
 |3|[Portal Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/695159-portal-internal-cheat.html)|`2025-04-12 00:20:49`|`other-single-player-games`|
 |11|[VAC Live detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695486-vac-live-detections.html)|`2025-04-12 00:42:24`|`counter-strike-2-a`|
 |6|[DirectComposition Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695664-directcomposition-hook.html)|`2025-04-12 04:39:31`|`anti-cheat-bypass`|
+|0|[What SDK generator is working?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/695186-sdk-generator.html)|`2025-04-12 05:53:16`|`all-points-bulletin`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Killer Klowns From Outer Space](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/639658-killer-klowns-outer-space.html)|`2025-04-12 05:35:00`|`Other FPS Games`|
 |[If I grind a few hundred Crackmes, will I have the reversing skill for EAC/Vanguard?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/695774-grind-hundred-crackmes-reversing-skill-eac-vanguard.html)|`2025-04-12 05:46:00`|`General Programming and Reversing`|
 |[How to Run CSS on 32bit Steam version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/695506-run-css-32bit-steam-version.html)|`2025-04-12 05:38:00`|`CounterStrike Source`|
 |[&#40;NOT WORKING YET&#41; T6ZM Esp and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/696069-t6zm-esp-aimbot.html)|`2025-04-12 05:34:00`|`Call of Duty: Black Ops 2`|
