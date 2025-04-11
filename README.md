@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vanguard Retail GSCBIN Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-vanguard/695977-vanguard-retail-gscbin-dump.html)|`2025-04-11 20:44:00`|`Call of Duty: Vanguard`|
+|[&#91;BloodStrike Mobile&#93; Help filtering object for esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680388-bloodstrike-mobile-help-filtering-object-esp.html)|`2025-04-11 20:42:00`|`Other FPS Games`|
 |[How to remove HWID Bans In Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/580073-remove-hwid-bans-valorant.html)|`2025-04-11 19:55:00`|`Valorant`|
 |[uhd and 120 fps offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/695973-uhd-120-fps-offset.html)|`2025-04-11 19:51:00`|`PUBG Mobile`|
 |[EAC injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695972-eac-injector.html)|`2025-04-11 19:51:00`|`Anti-Cheat Bypass`|
