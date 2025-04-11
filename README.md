@@ -33,9 +33,14 @@
 |1|[DescendantInternal T&#46;2&#46;4 4&#45;9&#45;25](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49322)|`2025-04-11 02:13:51`|
 |5|[Schedule I &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49329)|`2025-04-11 02:35:52`|
 |3|[SteelHunterInternal 1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49325)|`2025-04-11 02:35:52`|
+|0|[DaD&#45;EAS&#45;6&#45;1&#45;SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49347)|`2025-04-11 18:15:34`|
+|1|[GTA5E&#95;BasicDumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49346)|`2025-04-11 18:15:34`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[edit cayo perico primary target stat &#45; YimMenu v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695454-edit-cayo-perico-primary-target-stat-yimmenu-v2.html)|`2025-04-11 18:10:00`|`Grand Theft Auto V`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-04-11 18:00:00`|`Other FPS Games`|
+|[VAC Live detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695486-vac-live-detections.html)|`2025-04-11 17:59:00`|`Counter-Strike 2`|
 |[Need pluh for Redengine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/693228-pluh-redengine.html)|`2025-04-11 17:49:00`|`Alternative Online Mods`|
 |[disable DSE to load cheat engine driver DBK &#124; Bypass EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/602024-disable-dse-load-cheat-engine-driver-dbk-bypass-eac.html)|`2025-04-11 17:40:00`|`Anti-Cheat Bypass`|
 |[Cyberpunk 2077 Modded Save Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695962-cyberpunk-2077-modded-save-game.html)|`2025-04-11 17:43:00`|`Other FPS Games`|
