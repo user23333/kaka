@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2025-04-11 21:26:00`|`DayZ SA`|
 |[&#91;PUBG Mobile 3&#46;7&#93; Pak Decryption Function Found&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/695984-pubg-mobile-3-7-pak-decryption-function-found.html)|`2025-04-11 21:10:00`|`PUBG Mobile`|
 |[I'm creating my own Marvel Rivals soft cheat and need offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695969-im-creating-own-marvel-rivals-soft-cheat-offsets.html)|`2025-04-11 21:07:00`|`Marvel Rivals`|
 |[yim menu 1&#46;70 doesnt work anymore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695970-yim-menu-1-70-doesnt-anymore.html)|`2025-04-11 21:04:00`|`Grand Theft Auto V`|
