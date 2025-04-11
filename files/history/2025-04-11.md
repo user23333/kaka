@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;VMM&#46;DLL&#93; DMA Fix CR3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/686738-vmm-dll-dma-fix-cr3.html)|`2025-04-11 18:26:00`|`Apex Legends`|
 |[edit cayo perico primary target stat &#45; YimMenu v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695454-edit-cayo-perico-primary-target-stat-yimmenu-v2.html)|`2025-04-11 18:10:00`|`Grand Theft Auto V`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-04-11 18:00:00`|`Other FPS Games`|
 |[VAC Live detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695486-vac-live-detections.html)|`2025-04-11 17:59:00`|`Counter-Strike 2`|
