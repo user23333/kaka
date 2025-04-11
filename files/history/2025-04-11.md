@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTA5 Enhanced Basic Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695940-gta5-enhanced-basic-dumper.html)|`2025-04-11 11:04:00`|`Grand Theft Auto V`|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-04-11 10:59:00`|`Other Games`|
+|[DirectComposition Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695664-directcomposition-hook.html)|`2025-04-11 10:25:00`|`Anti-Cheat Bypass`|
+|[How safe am I from ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/695937-safe-am-ban.html)|`2025-04-11 10:22:00`|`Elite: Dangerous`|
 |[Point blank static pointers &#40;CE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/692705-blank-static-pointers-ce.html)|`2025-04-11 09:51:00`|`Other FPS Games`|
 |[Unlock all Wz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/695910-unlock-wz.html)|`2025-04-11 09:47:00`|`Call of Duty: Black Ops 6`|
 |[who deleted my profile picture](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/695936-deleted-profile-picture.html)|`2025-04-11 09:46:00`|`Forum General`|
