@@ -33,9 +33,17 @@
 |3|[exagon&#45;source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49339)|`2025-04-12 05:12:52`|
 |1|[Cyberpunk 2077 Modded Save Game ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49348)|`2025-04-12 05:27:13`|
 |2|[SimpleAmongUs v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49338)|`2025-04-12 05:27:13`|
+|2|[CrossFire external cheat source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49343)|`2025-04-12 06:17:23`|
+|3|[Schedule 1 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49342)|`2025-04-12 06:17:23`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Horrible but functional external cheat source &#40;just needs offset updates&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/695921-horrible-functional-external-cheat-source-offset-updates.html)|`2025-04-12 06:13:00`|`CrossFire`|
+|[How to learn to sniff a game packets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/694424-learn-sniff-game-packets.html)|`2025-04-12 06:13:00`|`General Programming and Reversing`|
+|[Bullet TP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685406-bullet-tp.html)|`2025-04-12 06:09:00`|`Marvel Rivals`|
+|[schedule 1 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695917-schedule-1-internal.html)|`2025-04-12 06:04:00`|`Other Games`|
+|[CHitboxSet completely wrong](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696081-chitboxset-completely-wrong.html)|`2025-04-12 06:04:00`|`Counter-Strike 2`|
+|[Can i play on a new account after getting banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695971-play-account-getting-banned.html)|`2025-04-12 05:58:00`|`Marvel Rivals`|
 |[YimMenuV2 E&E with money cheat &#40;No FSL&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/694886-yimmenuv2-money-cheat-fsl.html)|`2025-04-12 05:57:00`|`Grand Theft Auto V`|
 |[System Thread &#40;?&#41; Detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695487-system-thread-detected.html)|`2025-04-12 05:54:00`|`Anti-Cheat Bypass`|
 |[Killer Klowns From Outer Space](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/639658-killer-klowns-outer-space.html)|`2025-04-12 05:35:00`|`Other FPS Games`|
