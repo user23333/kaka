@@ -29,9 +29,13 @@
 |6|[Cyberpunk 2077 Modded Save Game ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49348)|`2025-04-13 00:00:11`|
 |8|[version&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49355)|`2025-04-13 02:46:31`|
 |2|[DMA&#95;VMD&#95;FW&#95;35&75](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49354)|`2025-04-13 02:46:31`|
+|1|[DC Universe &#45; No Delay Hack &#43; Auto Clicker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49371)|`2025-04-13 03:37:12`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DC Universe &#45; No Delay Hack &#43; Auto Clicker &#40; Internal &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/696178-dc-universe-delay-hack-auto-clicker-internal.html)|`2025-04-13 03:29:00`|`Other MMORPG and Strategy`|
+|[R&#46;E&#46;P&#46;O&#46; Simple Cheat // Credit D4rkks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690879-simple-cheat-credit-d4rkks.html)|`2025-04-13 03:28:00`|`Other FPS Games`|
+|[B550 DMA Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694371-b550-dma-detection.html)|`2025-04-13 03:27:00`|`Anti-Cheat Bypass`|
 |[osu&#33; &#124; first free undetected tablet aim assist &#124; Zenith](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696171-osu-free-undetected-tablet-aim-assist-zenith.html)|`2025-04-13 03:13:00`|`Other Games`|
 |[roblox offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/696209-roblox-offsets.html)|`2025-04-13 03:11:00`|`General Programming and Reversing`|
 |[just esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/696119-esp.html)|`2025-04-13 02:58:00`|`Apex Legends`|
