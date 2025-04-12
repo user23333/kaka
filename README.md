@@ -40,6 +40,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What could make memory reading disappear?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696097-memory-reading-disappear.html)|`2025-04-12 09:18:00`|`Anti-Cheat Bypass`|
+|[VGK obfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671176-vgk-obfuscation.html)|`2025-04-12 08:51:00`|`Anti-Cheat Bypass`|
+|[mw19 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/631846-mw19-cheat.html)|`2025-04-12 08:40:00`|`Call of Duty: Modern Warfare`|
 |[Internal injection for EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696093-internal-injection-eac.html)|`2025-04-12 07:59:00`|`Anti-Cheat Bypass`|
 |[Hooking SSDT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695632-hooking-ssdt.html)|`2025-04-12 07:56:00`|`Anti-Cheat Bypass`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-04-12 07:48:00`|`Counter-Strike 2`|
