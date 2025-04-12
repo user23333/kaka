@@ -40,6 +40,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[bsendpacket x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/589578-bsendpacket-x64.html)|`2025-04-12 18:03:00`|`Garry's Mod`|
+|[D3D9 Esp stops working on certain servers completely](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/695905-d3d9-esp-stops-servers-completely.html)|`2025-04-12 18:02:00`|`Garry's Mod`|
 |[valorant premium cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/696134-valorant-premium-cheat.html)|`2025-04-12 17:35:00`|`Valorant`|
 |[Rust AI Aimbot &#45; Beta](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/620721-rust-ai-aimbot-beta.html)|`2025-04-12 17:29:00`|`Rust`|
 |[runTick hook JNI C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/695344-runtick-hook-jni.html)|`2025-04-12 17:13:00`|`Minecraft`|
