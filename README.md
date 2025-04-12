@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[the fastest way to collect entities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/696239-fastest-collect-entities.html)|`2025-04-13 06:49:00`|`Garry's Mod`|
 |[Lua deobfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/web-and-scripting/695421-lua-deobfuscation.html)|`2025-04-13 06:38:00`|`Web and Scripting`|
 |[Is rust actually viable for game hacking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust-language-/685138-rust-actually-viable-game-hacking.html)|`2025-04-13 06:34:00`|`Rust (Language)`|
 |[Palworld Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/620076-palworld-reversal-structs-offsets.html)|`2025-04-13 06:32:00`|`Palworld`|
