@@ -46,6 +46,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Minecraft Game Mode Toggle Script &#40;Survival/Creative&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/687506-minecraft-game-mode-toggle-script-survival-creative.html)|`2025-04-12 19:27:00`|`Minecraft`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-04-12 18:54:00`|`League of Legends`|
 |[magic pubg 64bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/696145-magic-pubg-64bit.html)|`2025-04-12 18:50:00`|`PUBG Mobile`|
 |[Finding TraceShape function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696144-finding-traceshape-function.html)|`2025-04-12 18:50:00`|`Counter-Strike 2`|
