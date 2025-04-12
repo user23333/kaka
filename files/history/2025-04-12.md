@@ -43,9 +43,11 @@
 |1|[spintowin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49356)|`2025-04-12 18:40:02`|
 |1|[schedule1 ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49361)|`2025-04-12 18:46:06`|
 |2|[Color Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49359)|`2025-04-12 18:51:58`|
+|1|[VampireSurvivors&#46;CT 1&#46;13&#46;103](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49367)|`2025-04-12 19:35:42`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vampire Survivors cheat table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/614330-vampire-survivors-cheat-table.html)|`2025-04-12 19:34:00`|`Cheat Engine Tables`|
 |[Minecraft Game Mode Toggle Script &#40;Survival/Creative&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/687506-minecraft-game-mode-toggle-script-survival-creative.html)|`2025-04-12 19:27:00`|`Minecraft`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-04-12 18:54:00`|`League of Legends`|
 |[magic pubg 64bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/696145-magic-pubg-64bit.html)|`2025-04-12 18:50:00`|`PUBG Mobile`|
