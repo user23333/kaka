@@ -44,9 +44,13 @@
 |1|[schedule1 ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49361)|`2025-04-12 18:46:06`|
 |2|[Color Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49359)|`2025-04-12 18:51:58`|
 |1|[VampireSurvivors&#46;CT 1&#46;13&#46;103](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49367)|`2025-04-12 19:35:42`|
+|3|[EAC injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49352)|`2025-04-12 20:35:23`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695972-eac-injector.html)|`2025-04-12 20:34:00`|`Anti-Cheat Bypass`|
+|[Is there a way to find people to play with who also use ENSD?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/696153-people-play-ensd.html)|`2025-04-12 20:32:00`|`Elite: Dangerous`|
+|[Marvel rivals internal Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687997-marvel-rivals-internal-base.html)|`2025-04-12 20:20:00`|`Marvel Rivals`|
 |[Vampire Survivors cheat table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/614330-vampire-survivors-cheat-table.html)|`2025-04-12 19:34:00`|`Cheat Engine Tables`|
 |[Minecraft Game Mode Toggle Script &#40;Survival/Creative&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/687506-minecraft-game-mode-toggle-script-survival-creative.html)|`2025-04-12 19:27:00`|`Minecraft`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-04-12 18:54:00`|`League of Legends`|
