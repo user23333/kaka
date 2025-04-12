@@ -14,6 +14,7 @@
 |12|[echo&#46;ac &#45; Minecraft/FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695485-echo-ac-minecraft-fivem.html)|`2025-04-13 02:15:03`|`anti-cheat-bypass`|
 |13|[Schedule I &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695780-schedule-internal.html)|`2025-04-13 02:52:27`|`other-games`|
 |2|[How does KDMapper map unsigned drivers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/695206-kdmapper-map-unsigned-drivers.html)|`2025-04-13 02:52:27`|`pc-software`|
+|6|[EAC injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695972-eac-injector.html)|`2025-04-13 05:39:07`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,9 +31,13 @@
 |8|[version&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49355)|`2025-04-13 02:46:31`|
 |2|[DMA&#95;VMD&#95;FW&#95;35&75](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49354)|`2025-04-13 02:46:31`|
 |1|[DC Universe &#45; No Delay Hack &#43; Auto Clicker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49371)|`2025-04-13 03:37:12`|
+|1|[Infinitexl4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49363)|`2025-04-13 05:39:07`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[L4D2 Hack Menu &#40;Steam&#41; 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695228-l4d2-hack-menu-steam-2025-a.html)|`2025-04-13 05:35:00`|`Other FPS Games`|
+|[TPM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/649260-tpm-spoofer.html)|`2025-04-13 05:33:00`|`Valorant`|
+|[What could make memory reading disappear?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696097-memory-reading-disappear.html)|`2025-04-13 05:32:00`|`Anti-Cheat Bypass`|
 |[Valorant Account Checker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695916-valorant-account-checker.html)|`2025-04-13 05:31:00`|`Valorant`|
 |[signature scan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/696222-signature-scan.html)|`2025-04-13 05:29:00`|`Valorant`|
 |[D3D9 Esp stops working on certain servers completely](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/695905-d3d9-esp-stops-servers-completely.html)|`2025-04-13 05:09:00`|`Garry's Mod`|
