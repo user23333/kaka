@@ -40,6 +40,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Prediction check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695956-prediction-check.html)|`2025-04-12 14:40:00`|`Counter-Strike 2`|
 |[De&#45;/Encryption Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/692185-de-encryption-dumper.html)|`2025-04-12 14:24:00`|`Rust`|
 |[Career unlock with Yimmenu v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696116-career-unlock-yimmenu-v2.html)|`2025-04-12 14:08:00`|`Grand Theft Auto V`|
 |[Can I sign into a previously banned Windows/xbox app to play my old games?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/694873-sign-previously-banned-windows-xbox-app-play-games.html)|`2025-04-12 14:06:00`|`Call of Duty: Black Ops 6`|
