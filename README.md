@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Finding TraceShape function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696144-finding-traceshape-function.html)|`2025-04-13 01:36:00`|`Counter-Strike 2`|
+|[CS2 Client GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696056-cs2-client-gui.html)|`2025-04-13 01:36:00`|`Counter-Strike 2`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-04-13 01:32:00`|`Marvel Rivals`|
 |[PUBGM 3&#46;7 FInger Scope ID & Class](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/696194-pubgm-3-7-finger-scope-id-class.html)|`2025-04-13 01:24:00`|`PUBG Mobile`|
 |[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2025-04-13 01:23:00`|`Other MMORPG and Strategy`|
 |[Grand Theft Auto V Story Mode Modded Save Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696193-grand-theft-auto-story-mode-modded-save-game.html)|`2025-04-13 01:23:00`|`Grand Theft Auto V`|
