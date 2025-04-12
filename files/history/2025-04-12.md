@@ -40,6 +40,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Want a skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695757-skin-changer.html)|`2025-04-12 15:52:00`|`Valorant`|
 |[Bgmi libUE4&#46;so not decrypted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/695435-bgmi-libue4-decrypted.html)|`2025-04-12 15:47:00`|`Forum General`|
 |[Help to bypass Hardware breakpoint detection in hitman absolution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/695033-help-bypass-hardware-breakpoint-detection-hitman-absolution.html)|`2025-04-12 15:44:00`|`Forum General`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2025-04-12 15:30:00`|`Valorant`|
