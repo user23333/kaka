@@ -37,9 +37,13 @@
 |3|[Schedule 1 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49342)|`2025-04-12 06:17:23`|
 |3|[Cold Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49360)|`2025-04-12 06:34:46`|
 |1|[GTA5&#95;Enhanced&#95;DMA&#95;v4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49341)|`2025-04-12 06:34:46`|
+|1|[S4&#95;GSCBIN&#95;DUMP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49353)|`2025-04-12 18:30:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vanguard Retail GSCBIN Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-vanguard/695977-vanguard-retail-gscbin-dump.html)|`2025-04-12 18:27:00`|`Call of Duty: Vanguard`|
+|[M&#91;removed&#93; AI Manual&#45;Map Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/695951-removed-ai-manual-map-injector.html)|`2025-04-12 18:23:00`|`C and C++`|
+|[Vanguard Spoofer Rev 2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612562-vanguard-spoofer-rev-2-a.html)|`2025-04-12 18:22:00`|`Valorant`|
 |[bsendpacket x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/589578-bsendpacket-x64.html)|`2025-04-12 18:03:00`|`Garry's Mod`|
 |[D3D9 Esp stops working on certain servers completely](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/695905-d3d9-esp-stops-servers-completely.html)|`2025-04-12 18:02:00`|`Garry's Mod`|
 |[valorant premium cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/696134-valorant-premium-cheat.html)|`2025-04-12 17:35:00`|`Valorant`|
