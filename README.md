@@ -40,6 +40,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RiotLogin &#45; Automatic Riot Client Login Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/597675-riotlogin-automatic-riot-client-login-tool.html)|`2025-04-12 15:58:00`|`League of Legends`|
+|[lazy&#95;importer&#95;ex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/695635-lazy_importer_ex.html)|`2025-04-12 15:57:00`|`C and C++`|
 |[Want a skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695757-skin-changer.html)|`2025-04-12 15:52:00`|`Valorant`|
 |[Bgmi libUE4&#46;so not decrypted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/695435-bgmi-libue4-decrypted.html)|`2025-04-12 15:47:00`|`Forum General`|
 |[Help to bypass Hardware breakpoint detection in hitman absolution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/695033-help-bypass-hardware-breakpoint-detection-hitman-absolution.html)|`2025-04-12 15:44:00`|`Forum General`|
