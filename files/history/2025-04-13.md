@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Updating a source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/696154-updating-source.html)|`2025-04-13 04:18:00`|`Marvel Rivals`|
+|[reuse same phone number](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/696217-reuse-phone.html)|`2025-04-13 04:05:00`|`Call of Duty: Black Ops 6`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-04-13 04:04:00`|`Counter-Strike 2`|
+|[Is there any free esp, chams or and form of wallhacl anymore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/695661-free-esp-chams-form-wallhacl-anymore.html)|`2025-04-13 03:58:00`|`Rainbow Six Siege`|
+|[Faceit cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696085-faceit-cheat.html)|`2025-04-13 03:54:00`|`Counter-Strike 2`|
 |[VGK obfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/671176-vgk-obfuscation.html)|`2025-04-13 03:41:00`|`Anti-Cheat Bypass`|
 |[DC Universe &#45; No Delay Hack &#43; Auto Clicker &#40; Internal &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/696178-dc-universe-delay-hack-auto-clicker-internal.html)|`2025-04-13 03:29:00`|`Other MMORPG and Strategy`|
 |[R&#46;E&#46;P&#46;O&#46; Simple Cheat // Credit D4rkks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690879-simple-cheat-credit-d4rkks.html)|`2025-04-13 03:28:00`|`Other FPS Games`|
