@@ -11,6 +11,7 @@
 |10|[Free Cheat &#45; Alkad &#124; Rusticaland &#124; v2585](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/695769-free-cheat-alkad-rusticaland-v2585.html)|`2025-04-13 00:00:11`|`rust`|
 |0|[What SDK generator is working?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/695186-sdk-generator.html)|`2025-04-13 00:00:11`|`all-points-bulletin`|
 |6|[DirectComposition Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695664-directcomposition-hook.html)|`2025-04-13 00:00:11`|`anti-cheat-bypass`|
+|12|[echo&#46;ac &#45; Minecraft/FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695485-echo-ac-minecraft-fivem.html)|`2025-04-13 02:15:03`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to aim before shoot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696197-aim-shoot.html)|`2025-04-13 02:01:00`|`Counter-Strike 2`|
 |[Where to learn c&#35; and is it good for a beginner new to programming?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-/696092-learn-beginner-programming.html)|`2025-04-13 01:52:00`|`C#`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-04-13 01:49:00`|`Escape from Tarkov`|
 |[BF3 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-3-a/695076-bf3-internal.html)|`2025-04-13 01:48:00`|`Battlefield 3`|
