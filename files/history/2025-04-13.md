@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#124; DeadLock Cheat &#124;&#124; Scripts &#124;&#124; Auto&#45;Updating &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/693609-deadlock-cheat-scripts-auto-updating.html)|`2025-04-13 00:20:00`|`Deadlock`|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-04-13 00:09:00`|`Other Games`|
+|[Exploring DMA FW with VMD Functionality &#45; Undetected in VGK, ACE, and FACEIT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695980-exploring-dma-fw-vmd-functionality-undetected-vgk-ace-faceit.html)|`2025-04-13 00:06:00`|`Anti-Cheat Bypass`|
+|[DMA 1:1 Firmware is bad?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696163-dma-1-1-firmware-bad.html)|`2025-04-13 00:04:00`|`Anti-Cheat Bypass`|
+|[Pro CS2 DMA &#45; Esp & Aimbot & Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656442-pro-cs2-dma-esp-aimbot-web-radar.html)|`2025-04-13 00:01:00`|`Counter-Strike 2`|
 |[Pirate Generator&#45;only cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/696086-pirate-generator-cheat.html)|`2025-04-12 23:59:00`|`Sea of Thieves`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-04-12 23:58:00`|`Call of Duty: Black Ops 6`|
 |[External Among Us overlay &#40;undetectable&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/685399-external-overlay-undetectable.html)|`2025-04-12 23:52:00`|`Among Us`|
