@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[D3D9 Esp stops working on certain servers completely](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/695905-d3d9-esp-stops-servers-completely.html)|`2025-04-13 05:09:00`|`Garry's Mod`|
+|[Dead by Daylight Unlock DLC's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694447-dead-daylight-unlock-dlcs.html)|`2025-04-13 04:58:00`|`Other FPS Games`|
 |[AHK KD Dropper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/681801-ahk-kd-dropper.html)|`2025-04-13 04:45:00`|`Escape from Tarkov`|
 |[cs2&#95;py &#124; python &#124; internal &#124; in dev](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696219-cs2_py-python-internal-dev.html)|`2025-04-13 04:41:00`|`Counter-Strike 2`|
 |[Rivals UnKnoWn &#91;Internal&#93; &#45; Giving Back to the Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695531-rivals-unknown-internal-giving-community.html)|`2025-04-13 04:36:00`|`Marvel Rivals`|
