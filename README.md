@@ -49,6 +49,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM External Self Leak &#40;1604 to 3274&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/694182-fivem-external-self-leak-1604-3274-a.html)|`2025-04-12 21:56:00`|`Alternative Online Mods`|
 |[GPU Accellerated Pixel Scan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/696167-gpu-accellerated-pixel-scan.html)|`2025-04-12 21:49:00`|`C and C++`|
 |[APB multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/696129-apb-multihack.html)|`2025-04-12 21:45:00`|`All Points Bulletin`|
 |[PUBG Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/696164-pubg-anticheat.html)|`2025-04-12 21:45:00`|`Playerunknown's Battlegrounds`|
