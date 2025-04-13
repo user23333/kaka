@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;External &#45; DMA&#93; Writing Efficient Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/696021-external-dma-writing-efficient-code.html)|`2025-04-13 20:14:00`|`Call of Duty: Black Ops 6`|
+|[Dayz Dupe Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/621798-dayz-dupe-method.html)|`2025-04-13 20:12:00`|`DayZ SA`|
+|[Rust External &#45; RUNTIME AUTO UPDATE OFFSETS/DECRYPTION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/695007-rust-external-runtime-auto-update-offsets-decryption.html)|`2025-04-13 20:10:00`|`Rust`|
 |[better ways for modulation &#40;particles, props, world&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686773-modulation-particles-props-world.html)|`2025-04-13 19:54:00`|`Counter-Strike 2`|
 |[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2025-04-13 19:47:00`|`Apex Legends`|
 |[EBO de&#91;removed&#93;er stopped working with latest CDLC release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/674716-ebo-decunter-stopped-cdlc-release.html)|`2025-04-13 19:40:00`|`ARMA 3`|
