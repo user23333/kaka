@@ -38,6 +38,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My clothing factory task is stuck in cooling pls help me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696166-clothing-factory-task-stuck-cooling-pls-help.html)|`2025-04-13 12:06:00`|`Grand Theft Auto V`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-04-13 11:56:00`|`Other FPS Games`|
+|[R&#46;E&#46;P&#46;O&#46; Enemy Spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691356-enemy-spawner.html)|`2025-04-13 11:44:00`|`Other FPS Games`|
+|[FragPunk Color Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/696048-fragpunk-color-aimbot.html)|`2025-04-13 11:43:00`|`Other FPS Games`|
+|[Looking for VMM&#46;dll Cr3 write funcs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/696263-looking-vmm-dll-cr3-write-funcs.html)|`2025-04-13 11:31:00`|`Apex Legends`|
 |[Deep Rock Galactic: Deep Dive Delirium &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/617904-deep-rock-galactic-deep-dive-delirium-internal.html)|`2025-04-13 09:49:00`|`Other Single Player Games`|
 |[Vigor internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662490-vigor-internal-cheat.html)|`2025-04-13 09:26:00`|`Other FPS Games`|
 |[apex color aimbot,c&#43;&#43; 80days 0ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/684954-apex-color-aimbot-80days-0ban.html)|`2025-04-13 09:24:00`|`Apex Legends`|
