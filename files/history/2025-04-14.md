@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Amalgam x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/639800-amalgam-x64.html)|`2025-04-14 06:58:00`|`Team Fortress 2`|
+|[SeownedDE x64 2025/3/29&#40;rei2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/694048-seownedde-x64-2025-3-29-rei2.html)|`2025-04-14 06:56:00`|`Team Fortress 2`|
+|[What are differences of 32 and 64 bit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/696284-differences-32-64-bit.html)|`2025-04-14 06:54:00`|`Team Fortress 2`|
 |[hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/696372-hello.html)|`2025-04-14 06:08:00`|`Introductions`|
 |[simple fov changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696371-simple-fov-changer.html)|`2025-04-14 05:58:00`|`Counter-Strike 2`|
 |[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2025-04-14 05:50:00`|`Tom Clancy's The Division`|
