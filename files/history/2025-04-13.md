@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2025-04-13 19:47:00`|`Apex Legends`|
 |[EBO de&#91;removed&#93;er stopped working with latest CDLC release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/674716-ebo-decunter-stopped-cdlc-release.html)|`2025-04-13 19:40:00`|`ARMA 3`|
 |[A new addition to the staff team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/695568-addition-staff-team.html)|`2025-04-13 19:39:00`|`Information and Announcements`|
 |[Position mod menu 1&#46;70 enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696297-position-mod-menu-1-70-enhanced.html)|`2025-04-13 19:30:00`|`Grand Theft Auto V`|
