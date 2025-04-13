@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Racing Master SEA PC Emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696326-racing-master-sea-pc-emulator.html)|`2025-04-13 23:01:00`|`Other Games`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-04-13 22:48:00`|`Overwatch`|
 |[magic pubg 64bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/696145-magic-pubg-64bit.html)|`2025-04-13 22:47:00`|`PUBG Mobile`|
 |[CRC validation problem&#46; Three months later, I still can't solve it&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696324-crc-validation-months-cant-solve.html)|`2025-04-13 22:47:00`|`Anti-Cheat Bypass`|
