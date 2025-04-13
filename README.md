@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel rivals internal Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687997-marvel-rivals-internal-base.html)|`2025-04-13 12:53:00`|`Marvel Rivals`|
+|[Blackcat1&#46;sys ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/694528-blackcat1-sys.html)|`2025-04-13 12:43:00`|`Maple Story`|
+|[Enable cheats for myself in friend private world that has cheats disabled](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/695290-enable-cheats-friend-private-world-cheats-disabled.html)|`2025-04-13 12:14:00`|`Minecraft`|
 |[My clothing factory task is stuck in cooling pls help me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696166-clothing-factory-task-stuck-cooling-pls-help.html)|`2025-04-13 12:06:00`|`Grand Theft Auto V`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-04-13 11:56:00`|`Other FPS Games`|
 |[R&#46;E&#46;P&#46;O&#46; Enemy Spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691356-enemy-spawner.html)|`2025-04-13 11:44:00`|`Other FPS Games`|
