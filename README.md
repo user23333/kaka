@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/696372-hello.html)|`2025-04-14 06:08:00`|`Introductions`|
+|[simple fov changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696371-simple-fov-changer.html)|`2025-04-14 05:58:00`|`Counter-Strike 2`|
 |[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2025-04-14 05:50:00`|`Tom Clancy's The Division`|
 |[DMA 1:1 Firmware is bad?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696163-dma-1-1-firmware-bad.html)|`2025-04-14 05:45:00`|`Anti-Cheat Bypass`|
 |[dma program stops reading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/696368-dma-program-stops-reading.html)|`2025-04-14 05:42:00`|`Rust`|
