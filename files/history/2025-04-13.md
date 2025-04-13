@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[magic pubg 64bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/696145-magic-pubg-64bit.html)|`2025-04-13 22:47:00`|`PUBG Mobile`|
+|[CRC validation problem&#46; Three months later, I still can't solve it&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696324-crc-validation-months-cant-solve.html)|`2025-04-13 22:47:00`|`Anti-Cheat Bypass`|
 |[Doubledoor Base Updated Season 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/696313-doubledoor-base-updated-season-2-a.html)|`2025-04-13 22:30:00`|`Marvel Rivals`|
 |[theHunter: Call of the Wild &#40;Epic Games&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/693375-thehunter-call-wild-epic-games.html)|`2025-04-13 21:54:00`|`Other FPS Games`|
 |[the cycle frontier reborn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/696309-cycle-frontier-reborn.html)|`2025-04-13 21:51:00`|`Other FPS Games`|
