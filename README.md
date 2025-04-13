@@ -38,6 +38,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deep Rock Galactic: Deep Dive Delirium &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/617904-deep-rock-galactic-deep-dive-delirium-internal.html)|`2025-04-13 09:49:00`|`Other Single Player Games`|
+|[Vigor internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662490-vigor-internal-cheat.html)|`2025-04-13 09:26:00`|`Other FPS Games`|
+|[apex color aimbot,c&#43;&#43; 80days 0ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/684954-apex-color-aimbot-80days-0ban.html)|`2025-04-13 09:24:00`|`Apex Legends`|
+|[What was the first game you cheated on?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/328889-game-cheated.html)|`2025-04-13 09:15:00`|`Off Topic`|
+|[asphyxia&#45;cs2 updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687274-asphyxia-cs2-updated.html)|`2025-04-13 09:12:00`|`Counter-Strike 2`|
+|[External Auto&#45;wall Penetration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/696253-external-auto-wall-penetration.html)|`2025-04-13 08:59:00`|`Escape from Tarkov`|
+|[Userbase in a cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696249-userbase-cheat.html)|`2025-04-13 08:47:00`|`Anti-Cheat Bypass`|
+|[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2025-04-13 08:41:00`|`Sea of Thieves`|
 |[Newest SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/694042-sdk.html)|`2025-04-13 07:32:00`|`Marvel Rivals`|
 |[BO2 No Clip RME FOR Xbox360 Should](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/696068-bo2-clip-rme-xbox360.html)|`2025-04-13 07:20:00`|`Call of Duty: Black Ops 2`|
 |[the fastest way to collect entities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/696239-fastest-collect-entities.html)|`2025-04-13 06:49:00`|`Garry's Mod`|
