@@ -12,6 +12,7 @@
 |8|[EAC injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695972-eac-injector.html)|`2025-04-14 00:41:07`|`anti-cheat-bypass`|
 |16|[Schedule I &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695780-schedule-internal.html)|`2025-04-14 00:41:07`|`other-games`|
 |6|[DirectComposition Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695664-directcomposition-hook.html)|`2025-04-14 02:09:39`|`anti-cheat-bypass`|
+|7|[CS2 External Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/695335-cs2-external-cheats.html)|`2025-04-14 02:34:06`|`counter-strike-2-releases`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Im building a new version of Rigel&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/694314-im-building-version-rigel.html)|`2025-04-14 02:23:00`|`Overwatch`|
+|[Off Screen Arrows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696349-screen-arrows.html)|`2025-04-14 02:22:00`|`Counter-Strike 2`|
+|[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2025-04-14 02:20:00`|`Other Games`|
+|[YimMenuV2 with Outfit Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696131-yimmenuv2-outfit-editor.html)|`2025-04-14 02:18:00`|`Grand Theft Auto V`|
+|[The Adryan Pack &#45; Standalones & Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/695187-adryan-pack-standalones-source.html)|`2025-04-14 02:13:00`|`Star Wars Battlefront 2`|
+|[Nebula Client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696293-nebula-client.html)|`2025-04-14 02:12:00`|`Other Games`|
 |[HakkesMod AI Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696289-hakkesmod-ai-bot.html)|`2025-04-14 02:09:00`|`Other Games`|
 |[How to combine khanxbahrias MouseInstruct and USB HOST SHIELD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/696344-combine-khanxbahrias-mouseinstruct-usb-host-shield.html)|`2025-04-14 02:08:00`|`Valorant`|
 |[DuneCore &#45; CS2 Best Triggerbot so far &#40;for legit players&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691168-dunecore-cs2-triggerbot-legit-players.html)|`2025-04-14 02:08:00`|`Counter-Strike 2`|
