@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Doubledoor Base Updated Season 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/696313-doubledoor-base-updated-season-2-a.html)|`2025-04-13 22:30:00`|`Marvel Rivals`|
 |[theHunter: Call of the Wild &#40;Epic Games&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/693375-thehunter-call-wild-epic-games.html)|`2025-04-13 21:54:00`|`Other FPS Games`|
 |[the cycle frontier reborn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/696309-cycle-frontier-reborn.html)|`2025-04-13 21:51:00`|`Other FPS Games`|
 |[Career unlock with Yimmenu v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696115-career-unlock-yimmenu-v2.html)|`2025-04-13 21:49:00`|`Grand Theft Auto V`|
