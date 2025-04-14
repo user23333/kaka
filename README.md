@@ -35,6 +35,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[33 Immortals &#40;Gamepass version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/694162-33-immortals-gamepass-version.html)|`2025-04-14 09:16:00`|`Other Games`|
+|[Can you use a macro to AFK without getting banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/695316-macro-afk-getting-banned.html)|`2025-04-14 09:07:00`|`Call of Duty: Black Ops 6`|
+|[Theia static decryptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696332-theia-static-decryptor.html)|`2025-04-14 09:06:00`|`Anti-Cheat Bypass`|
+|[FragPunk Color Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/696048-fragpunk-color-aimbot.html)|`2025-04-14 09:02:00`|`Other FPS Games`|
+|[An Example Of Mouse Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/694660-example-mouse-driver.html)|`2025-04-14 08:53:00`|`Valorant`|
+|[cheat engine for vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696107-cheat-engine-vanguard.html)|`2025-04-14 08:49:00`|`Anti-Cheat Bypass`|
+|[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2025-04-14 08:48:00`|`Other FPS Games`|
 |[RecoilMaster](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696278-recoilmaster.html)|`2025-04-14 07:52:00`|`Counter-Strike 2`|
 |[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2025-04-14 07:44:00`|`Apex Legends`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2025-04-14 07:27:00`|`Other FPS Games`|
