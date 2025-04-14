@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2025-04-15 03:26:00`|`Deadlock`|
 |[Has VAC gotten any stronger for this game in the last few years?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/696244-vac-gotten-stronger-game.html)|`2025-04-15 03:07:00`|`Team Fortress 2`|
 |[Building a rust ESP cheat as a noob](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/696513-building-rust-esp-cheat-noob.html)|`2025-04-15 03:01:00`|`Rust`|
 |[EAC DMA cr3 shuffling fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677322-eac-dma-cr3-shuffling-fix.html)|`2025-04-15 02:53:00`|`Anti-Cheat Bypass`|
