@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2025-04-14 13:03:00`|`Other FPS Games`|
+|[Dead By Daylight Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694248-dead-daylight-internal.html)|`2025-04-14 13:00:00`|`Other FPS Games`|
 |[CRC validation problem&#46; Three months later, I still can't solve it&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696324-crc-validation-months-cant-solve.html)|`2025-04-14 12:49:00`|`Anti-Cheat Bypass`|
 |[IOCTL Monitor &#40;Sniffer&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/695462-ioctl-monitor-sniffer.html)|`2025-04-14 12:34:00`|`General Programming and Reversing`|
 |[working eac driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695082-eac-driver.html)|`2025-04-14 12:22:00`|`Anti-Cheat Bypass`|
