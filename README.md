@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How Do VGK ACE FACEIT Detect DMA Firmware?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683599-vgk-ace-faceit-detect-dma-firmware.html)|`2025-04-14 20:59:00`|`Anti-Cheat Bypass`|
+|[FragPunk Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/666506-fragpunk-reversal-structs-offsets.html)|`2025-04-14 20:58:00`|`Other FPS Games`|
 |[Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/695554-anticheat.html)|`2025-04-14 20:31:00`|`Playerunknown's Battlegrounds`|
 |[Anyone got a fix for GPU crashing on Door base?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/696471-fix-gpu-crashing-door-base.html)|`2025-04-14 20:19:00`|`Marvel Rivals`|
 |[Treason's V3 AIO Aim Assist Edit &#40;BETA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670270-treasons-v3-aio-aim-assist-edit-beta.html)|`2025-04-14 20:18:00`|`Call of Duty: Black Ops 6`|
