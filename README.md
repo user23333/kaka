@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Has VAC gotten any stronger for this game in the last few years?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/696244-vac-gotten-stronger-game.html)|`2025-04-15 03:07:00`|`Team Fortress 2`|
+|[Building a rust ESP cheat as a noob](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/696513-building-rust-esp-cheat-noob.html)|`2025-04-15 03:01:00`|`Rust`|
+|[EAC DMA cr3 shuffling fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677322-eac-dma-cr3-shuffling-fix.html)|`2025-04-15 02:53:00`|`Anti-Cheat Bypass`|
+|[bottleye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696341-bottleye.html)|`2025-04-15 02:53:00`|`Grand Theft Auto V`|
 |[Theia static decryptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696332-theia-static-decryptor.html)|`2025-04-15 02:51:00`|`Anti-Cheat Bypass`|
 |[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2025-04-15 02:46:00`|`Apex Legends`|
 |[Need someone with TD2 throwaway account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/687154-td2-throwaway-account.html)|`2025-04-15 02:37:00`|`Tom Clancy's The Division`|
