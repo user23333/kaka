@@ -11,6 +11,7 @@
 |12|[echo&#46;ac &#45; Minecraft/FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695485-echo-ac-minecraft-fivem.html)|`2025-04-15 00:11:50`|`anti-cheat-bypass`|
 |8|[Exploring DMA FW with VMD Functionality &#45; Undetected in VGK, ACE, and FACEIT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695980-exploring-dma-fw-vmd-functionality-undetected-vgk-ace-faceit.html)|`2025-04-15 00:11:50`|`anti-cheat-bypass`|
 |6|[DirectComposition Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695664-directcomposition-hook.html)|`2025-04-15 00:11:50`|`anti-cheat-bypass`|
+|6|[Career unlock with Yimmenu v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696116-career-unlock-yimmenu-v2.html)|`2025-04-15 06:18:09`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
