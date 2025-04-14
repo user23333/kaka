@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[LORD FARM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695349-lord-farm.html)|`2025-04-15 03:48:00`|`Marvel Rivals`|
 |[Osussist v3 MultiHack for osu&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/671577-osussist-v3-multihack-osu.html)|`2025-04-15 03:33:00`|`Other Games`|
 |[cheat engine for vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696107-cheat-engine-vanguard.html)|`2025-04-15 03:33:00`|`Anti-Cheat Bypass`|
 |[Spoofer for EAC/BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696330-spoofer-eac.html)|`2025-04-15 03:32:00`|`Anti-Cheat Bypass`|
