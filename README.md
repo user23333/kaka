@@ -12,6 +12,7 @@
 |8|[Exploring DMA FW with VMD Functionality &#45; Undetected in VGK, ACE, and FACEIT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695980-exploring-dma-fw-vmd-functionality-undetected-vgk-ace-faceit.html)|`2025-04-15 00:11:50`|`anti-cheat-bypass`|
 |6|[DirectComposition Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695664-directcomposition-hook.html)|`2025-04-15 00:11:50`|`anti-cheat-bypass`|
 |6|[Career unlock with Yimmenu v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696116-career-unlock-yimmenu-v2.html)|`2025-04-15 06:18:09`|`grand-theft-auto-v`|
+|2|[CS2 External &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695906-cs2-external-source.html)|`2025-04-15 06:34:17`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-04-15 06:30:00`|`Apex Legends`|
 |[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2025-04-15 05:49:00`|`Tom Clancy's The Division`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-04-15 05:46:00`|`Other FPS Games`|
 |[Apex HWID Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/696532-apex-hwid-ban.html)|`2025-04-15 05:43:00`|`Apex Legends`|
