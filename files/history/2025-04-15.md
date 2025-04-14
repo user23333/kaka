@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Osussist v3 MultiHack for osu&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/671577-osussist-v3-multihack-osu.html)|`2025-04-15 03:33:00`|`Other Games`|
+|[cheat engine for vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696107-cheat-engine-vanguard.html)|`2025-04-15 03:33:00`|`Anti-Cheat Bypass`|
+|[Spoofer for EAC/BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696330-spoofer-eac.html)|`2025-04-15 03:32:00`|`Anti-Cheat Bypass`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2025-04-15 03:26:00`|`Deadlock`|
 |[Has VAC gotten any stronger for this game in the last few years?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/696244-vac-gotten-stronger-game.html)|`2025-04-15 03:07:00`|`Team Fortress 2`|
 |[Building a rust ESP cheat as a noob](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/696513-building-rust-esp-cheat-noob.html)|`2025-04-15 03:01:00`|`Rust`|
