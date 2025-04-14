@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust AIMBOT Started](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/696497-rust-aimbot-started.html)|`2025-04-14 23:56:00`|`Rust`|
+|[Offset Tracker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/696493-offset-tracker.html)|`2025-04-14 23:48:00`|`General Programming and Reversing`|
+|[Getting around a BF2 server ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/695805-getting-bf2-server-ban.html)|`2025-04-14 23:43:00`|`Battlefield 2`|
 |[LoadResource](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696492-loadresource.html)|`2025-04-14 23:40:00`|`Counter-Strike 2`|
 |[What Plates we can have legitimately?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695880-plates-legitimately.html)|`2025-04-14 22:53:00`|`Grand Theft Auto V`|
 |[Solo Leveling Arise 1&#46;2&#46;47](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/696274-solo-leveling-arise-1-2-47-a.html)|`2025-04-14 22:47:00`|`Other MMORPG and Strategy`|
