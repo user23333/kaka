@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chivalry 2 Heaveyweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689993-chivalry-2-heaveyweight-cheat.html)|`2025-04-15 00:44:00`|`Other Games`|
+|[Reading mem Fivem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/696501-reading-mem-fivem.html)|`2025-04-15 00:39:00`|`Alternative Online Mods`|
 |[Treason's V3 AIO Aim Assist Edit &#40;BETA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670270-treasons-v3-aio-aim-assist-edit-beta.html)|`2025-04-15 00:35:00`|`Call of Duty: Black Ops 6`|
 |[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-04-15 00:27:00`|`Other Games`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2025-04-15 00:25:00`|`Other FPS Games`|
