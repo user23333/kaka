@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VAC Detects hooks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696609-vac-detects-hooks.html)|`2025-04-15 21:51:00`|`Counter-Strike 2`|
 |[Path of Exile 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676435-path-exile-2-reversal-structs-offsets.html)|`2025-04-15 21:42:00`|`Other MMORPG and Strategy`|
 |[Change hook to script game guardian](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/696606-change-hook-script-game-guardian.html)|`2025-04-15 21:10:00`|`PUBG Mobile`|
 |[Warlander](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696605-warlander.html)|`2025-04-15 21:02:00`|`Other Games`|
