@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Osussist v3 MultiHack for osu&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/671577-osussist-v3-multihack-osu.html)|`2025-04-16 04:04:00`|`Other Games`|
+|[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2025-04-16 04:01:00`|`Escape from Tarkov`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-04-16 03:57:00`|`Escape from Tarkov`|
 |[Solo Leveling Arise 1&#46;2&#46;47](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/696274-solo-leveling-arise-1-2-47-a.html)|`2025-04-16 03:47:00`|`Other MMORPG and Strategy`|
 |[What could make memory reading disappear?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696097-memory-reading-disappear.html)|`2025-04-16 03:46:00`|`Anti-Cheat Bypass`|
 |[Can i been detected with Echo&#46;ac using memesense?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696665-detected-echo-ac-using-memesense.html)|`2025-04-16 03:46:00`|`Counter-Strike 2`|
