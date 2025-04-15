@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2025-04-16 02:31:00`|`Other Games`|
+|[Schedule I &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695780-schedule-internal.html)|`2025-04-16 02:27:00`|`Other Games`|
+|[How can i bypass a anti cheat that uses WIN API?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696502-bypass-anti-cheat-win-api.html)|`2025-04-16 02:26:00`|`Anti-Cheat Bypass`|
+|[EAC injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695972-eac-injector.html)|`2025-04-16 02:22:00`|`Anti-Cheat Bypass`|
+|[SoundSight: CS2 Audio ESP &#45; 3D Spatial Sound Radar for Enemy Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691687-soundsight-cs2-audio-esp-3d-spatial-sound-radar-enemy-detection.html)|`2025-04-16 02:19:00`|`Counter-Strike 2`|
+|[new signatures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696656-signatures.html)|`2025-04-16 02:18:00`|`Counter-Strike 2`|
 |[CUserMessage&#95;Inventory&#95;Response sence](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696618-cusermessage_inventory_response-sence.html)|`2025-04-16 02:15:00`|`Counter-Strike 2`|
 |[Offset Tracker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/696493-offset-tracker.html)|`2025-04-16 02:14:00`|`General Programming and Reversing`|
 |[External no flash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696652-external-flash.html)|`2025-04-16 02:12:00`|`Counter-Strike 2`|
