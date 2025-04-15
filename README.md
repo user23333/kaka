@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to get weapon ID for dropped weapons ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696684-weapon-id-dropped-weapons.html)|`2025-04-16 06:21:00`|`Counter-Strike 2`|
+|[EAC DMA cr3 shuffling fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677322-eac-dma-cr3-shuffling-fix.html)|`2025-04-16 06:17:00`|`Anti-Cheat Bypass`|
+|[Reading mem Fivem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/696501-reading-mem-fivem.html)|`2025-04-16 06:15:00`|`Alternative Online Mods`|
+|[Ultimate customizable TRIGGERBOT &#40;0&#45;100ms&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/683552-ultimate-customizable-triggerbot-0-100ms.html)|`2025-04-16 06:11:00`|`Valorant`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-04-16 06:08:00`|`Overwatch`|
 |[Mouse focus on menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696675-mouse-focus-menu.html)|`2025-04-16 06:01:00`|`Counter-Strike 2`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-04-16 05:58:00`|`ARMA 3`|
