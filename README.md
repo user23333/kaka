@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695972-eac-injector.html)|`2025-04-15 16:18:00`|`Anti-Cheat Bypass`|
+|[&#91; External &#93; SPT&#45;AKI CheatBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/626274-external-spt-aki-cheatbase.html)|`2025-04-15 16:16:00`|`Escape from Tarkov`|
+|[some free steam keys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/694636-free-steam-keys.html)|`2025-04-15 16:14:00`|`Off Topic`|
 |[Schedule I &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695780-schedule-internal.html)|`2025-04-15 15:29:00`|`Other Games`|
 |[New to Everything and need help&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696569-help.html)|`2025-04-15 15:27:00`|`Counter-Strike 2`|
 |[Mod menu recommendations before transferring](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696580-mod-menu-recommendations-transferring.html)|`2025-04-15 15:18:00`|`Grand Theft Auto V`|
