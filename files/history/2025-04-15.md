@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is rust actually viable for game hacking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust-language-/685138-rust-actually-viable-game-hacking.html)|`2025-04-15 09:27:00`|`Rust (Language)`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-04-15 09:25:00`|`Counter-Strike 2`|
+|[children offset on roblox inconsistent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/696120-children-offset-roblox-inconsistent.html)|`2025-04-15 09:22:00`|`General Programming and Reversing`|
+|[materials&#46;h](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/696542-materials.html)|`2025-04-15 09:03:00`|`Rust`|
+|[Position mod menu 1&#46;70 enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696297-position-mod-menu-1-70-enhanced.html)|`2025-04-15 08:58:00`|`Grand Theft Auto V`|
 |[An Example Of Mouse Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/694660-example-mouse-driver.html)|`2025-04-15 07:35:00`|`Valorant`|
 |[Old Logitech GHub Installer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/688287-logitech-ghub-installer.html)|`2025-04-15 07:31:00`|`PC Software`|
 |[How does KDMapper map unsigned drivers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/695206-kdmapper-map-unsigned-drivers.html)|`2025-04-15 07:29:00`|`PC Software`|
