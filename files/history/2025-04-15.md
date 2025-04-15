@@ -29,6 +29,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-04-15 10:44:00`|`Other MMORPG and Strategy`|
+|[dma program stops reading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/696368-dma-program-stops-reading.html)|`2025-04-15 10:32:00`|`Rust`|
+|[Vulnerable Driver crashing OS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/238348-vulnerable-driver-crashing-os.html)|`2025-04-15 10:29:00`|`General Programming and Reversing`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-04-15 10:27:00`|`Other FPS Games`|
+|[How can i bypass a anti cheat that uses WIN API?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696502-bypass-anti-cheat-win-api.html)|`2025-04-15 10:23:00`|`Anti-Cheat Bypass`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-04-15 10:15:00`|`Rainbow Six Siege`|
+|[C&#43;&#43; Color Triggerbot New Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691387-color-triggerbot-undetected.html)|`2025-04-15 10:10:00`|`Valorant`|
+|[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2025-04-15 10:01:00`|`Other FPS Games`|
+|[Creating ESP for DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/682500-creating-esp-dma.html)|`2025-04-15 10:01:00`|`Forum General`|
 |[Is rust actually viable for game hacking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust-language-/685138-rust-actually-viable-game-hacking.html)|`2025-04-15 09:27:00`|`Rust (Language)`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-04-15 09:25:00`|`Counter-Strike 2`|
 |[children offset on roblox inconsistent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/696120-children-offset-roblox-inconsistent.html)|`2025-04-15 09:22:00`|`General Programming and Reversing`|
