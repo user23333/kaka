@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[2025 &#45; Current state of bypassing vm detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/696579-2025-current-bypassing-vm-detections.html)|`2025-04-15 14:56:00`|`Forum General`|
 |[PUBGM 3&#46;7&#46;0 AActorList decrypt function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/696578-pubgm-3-7-0-aactorlist-decrypt-function.html)|`2025-04-15 14:16:00`|`PUBG Mobile`|
 |[Anti cheats and files on disk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696574-anti-cheats-files-disk.html)|`2025-04-15 13:45:00`|`Anti-Cheat Bypass`|
 |[VAC Disconnect packet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/696130-vac-disconnect-packet.html)|`2025-04-15 13:25:00`|`Team Fortress 2`|
