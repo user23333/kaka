@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HWID ban &#43; finding good cheat &#40;less bannable&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/686011-hwid-ban-finding-cheat-bannable.html)|`2025-04-16 01:24:00`|`Escape from Tarkov`|
+|[Finally a working External SkinChanger for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689733-finally-external-skinchanger-cs2.html)|`2025-04-16 01:18:00`|`Counter-Strike 2`|
+|[Rocket League &#45; Nebula Client, Item Spawner, Title Spawner, Etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696293-rocket-league-nebula-client-item-spawner-title-spawner-etc.html)|`2025-04-16 01:17:00`|`Other Games`|
+|[cheat engine for vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696107-cheat-engine-vanguard.html)|`2025-04-16 01:12:00`|`Anti-Cheat Bypass`|
 |[C&#43;&#43; Color Triggerbot New Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691387-color-triggerbot-undetected.html)|`2025-04-16 01:06:00`|`Valorant`|
 |[&#91; External &#93; SPT&#45;AKI CheatBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/626274-external-spt-aki-cheatbase.html)|`2025-04-16 01:00:00`|`Escape from Tarkov`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2025-04-16 01:00:00`|`Valorant`|
