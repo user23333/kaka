@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kernel&#45;Mode debugger process issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688878-kernel-mode-debugger-process-issue.html)|`2025-04-16 07:50:00`|`Anti-Cheat Bypass`|
+|[bottleye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696341-bottleye.html)|`2025-04-16 07:50:00`|`Grand Theft Auto V`|
+|[MW2 DMZ console aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-ii/690768-mw2-dmz-console-aimbot.html)|`2025-04-16 07:46:00`|`Call of Duty: Modern Warfare II`|
 |[Best Method for Move Mouse HCVI ON](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/696691-method-move-mouse-hcvi.html)|`2025-04-16 07:39:00`|`Valorant`|
 |[Fragpunk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/696337-fragpunk.html)|`2025-04-16 07:31:00`|`Other FPS Games`|
 |[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2025-04-16 07:21:00`|`Other FPS Games`|
