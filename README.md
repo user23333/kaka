@@ -29,9 +29,18 @@
 |53|[Grand Theft Auto V Modded Save Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49372)|`2025-04-15 00:11:50`|
 |17|[DC Universe &#45; No Delay Hack &#43; Auto Clicker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49371)|`2025-04-15 00:11:50`|
 |1|[Apex YOLO V5 Model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49388)|`2025-04-15 23:29:56`|
+|1|[REPO&#95;UTILS v1&#46;1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49393)|`2025-04-15 23:42:41`|
+|1|[Fovchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49392)|`2025-04-15 23:42:41`|
+|1|[dump&#46;txt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49390)|`2025-04-15 23:42:41`|
+|4|[Fragpunk&#45;source&#45;unkowncheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49389)|`2025-04-15 23:42:41`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-04-15 23:40:00`|`Playerunknown's Battlegrounds`|
+|[REPO&#95;UTILS &#45; Simple mod that is updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/694718-repo_utils-simple-mod-updated.html)|`2025-04-15 23:39:00`|`Other MMORPG and Strategy`|
+|[simple fov changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696371-simple-fov-changer.html)|`2025-04-15 23:37:00`|`Counter-Strike 2`|
+|[CorePunk Unity il2cpp Game Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/696357-corepunk-unity-il2cpp-game-hack.html)|`2025-04-15 23:32:00`|`Unity`|
+|[Fragpunk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/696337-fragpunk.html)|`2025-04-15 23:31:00`|`Other FPS Games`|
 |[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2025-04-15 23:29:00`|`Other Games`|
 |[YOLO V5 AI Aim Assit Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/696351-yolo-v5-ai-aim-assit-bot.html)|`2025-04-15 23:27:00`|`Apex Legends`|
 |[CS2 Client GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696056-cs2-client-gui.html)|`2025-04-15 23:26:00`|`Counter-Strike 2`|
