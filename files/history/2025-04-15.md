@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Schedule I &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695780-schedule-internal.html)|`2025-04-15 15:29:00`|`Other Games`|
+|[New to Everything and need help&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696569-help.html)|`2025-04-15 15:27:00`|`Counter-Strike 2`|
+|[Mod menu recommendations before transferring](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696580-mod-menu-recommendations-transferring.html)|`2025-04-15 15:18:00`|`Grand Theft Auto V`|
+|[what RE tool do people mostly use here?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/694429-re-tool-people.html)|`2025-04-15 14:57:00`|`Off Topic`|
 |[help define the enemy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/694129-help-define-enemy.html)|`2025-04-15 15:08:00`|`Warface`|
 |[2025 &#45; Current state of bypassing vm detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/696579-2025-current-bypassing-vm-detections.html)|`2025-04-15 14:56:00`|`Forum General`|
 |[PUBGM 3&#46;7&#46;0 AActorList decrypt function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/696578-pubgm-3-7-0-aactorlist-decrypt-function.html)|`2025-04-15 14:16:00`|`PUBG Mobile`|
