@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[the fastest way to collect entities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/696239-fastest-collect-entities.html)|`2025-04-15 20:20:00`|`Garry's Mod`|
+|[Eye Rays Direction Changing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696602-eye-rays-direction-changing.html)|`2025-04-15 20:08:00`|`Counter-Strike 2`|
 |[Undetected Cheat Engine &#43; Driver &#124; 2023 &#124; Bypass Anticheats &#40;BE / EAC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/504191-undetected-cheat-engine-driver-2023-bypass-anticheats-eac.html)|`2025-04-15 19:33:00`|`Anti-Cheat Bypass`|
 |[MCC Toolbox &#45; Trainer supports Halo Reach, Halo CE, Halo 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/397845-mcc-toolbox-trainer-supports-halo-reach-halo-ce-halo-2-a.html)|`2025-04-15 19:22:00`|`Halo`|
 |[Valorant DMA Based external Cheat&#40;Just run it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/645290-valorant-dma-based-external-cheat-run.html)|`2025-04-15 18:53:00`|`Valorant`|
