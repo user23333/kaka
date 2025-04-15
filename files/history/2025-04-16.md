@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Best Method for Move Mouse HCVI ON](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/696691-method-move-mouse-hcvi.html)|`2025-04-16 07:39:00`|`Valorant`|
 |[Fragpunk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/696337-fragpunk.html)|`2025-04-16 07:31:00`|`Other FPS Games`|
 |[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2025-04-16 07:21:00`|`Other FPS Games`|
 |[Unlock more Chameleon/Wheel paints on Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690610-unlock-chameleon-wheel-paints-enhanced.html)|`2025-04-16 07:09:00`|`Grand Theft Auto V`|
