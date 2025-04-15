@@ -35,9 +35,13 @@
 |4|[Fragpunk&#45;source&#45;unkowncheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49389)|`2025-04-15 23:42:41`|
 |1|[UE5&#46;3&#46;2MarvelRivalsSDK&#45;Latest&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49406)|`2025-04-15 23:48:39`|
 |1|[FN SRC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49402)|`2025-04-15 23:48:39`|
+|3|[&#43;&#43;Fortnite&#43;Release&#45;34&#46;30&#45;CL&#45;41588354](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49408)|`2025-04-15 23:54:40`|
+|1|[counteredvac&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49397)|`2025-04-15 23:54:40`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hello, I am from China](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/696610-hello-am-china.html)|`2025-04-15 23:50:00`|`Introductions`|
+|[&#91;Kernel Draw&#93;How to flush GDI on DWM?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/direct3d/696622-kernel-draw-flush-gdi-dwm.html)|`2025-04-15 23:46:00`|`Direct3D`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-04-15 23:40:00`|`Playerunknown's Battlegrounds`|
 |[REPO&#95;UTILS &#45; Simple mod that is updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/694718-repo_utils-simple-mod-updated.html)|`2025-04-15 23:39:00`|`Other MMORPG and Strategy`|
 |[simple fov changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696371-simple-fov-changer.html)|`2025-04-15 23:37:00`|`Counter-Strike 2`|
