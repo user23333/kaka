@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rivals UnKnoWn &#91;Internal&#93; &#45; Giving Back to the Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695531-rivals-unknown-internal-giving-community.html)|`2025-04-17 03:59:00`|`Marvel Rivals`|
 |[Cleaning Signatures Windows 24H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696739-cleaning-signatures-windows-24h2.html)|`2025-04-17 03:31:00`|`Anti-Cheat Bypass`|
 |[DMA 2nd pc using macos?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/696769-dma-2nd-pc-using-macos.html)|`2025-04-17 03:29:00`|`PC Hardware`|
 |[Operation: Harsh Doorstop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/654775-operation-harsh-doorstop.html)|`2025-04-17 02:57:00`|`Other FPS Games`|
