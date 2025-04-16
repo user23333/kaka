@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-04-17 01:41:00`|`Apex Legends`|
+|[Question on Rust Basenetworkable and GOM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/696694-question-rust-basenetworkable-gom.html)|`2025-04-17 01:38:00`|`Rust`|
+|[external input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/696798-external-input.html)|`2025-04-17 01:32:00`|`Marvel Rivals`|
 |[Mouse spinning around target waypoint](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696797-mouse-spinning-target-waypoint.html)|`2025-04-17 01:25:00`|`Counter-Strike 2`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-04-17 01:24:00`|`Rainbow Six Siege`|
 |[EdgeyV2 Woofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/696778-edgeyv2-woofer.html)|`2025-04-17 01:22:00`|`Valorant`|
