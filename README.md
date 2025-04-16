@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ud method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/696709-ud-method.html)|`2025-04-16 11:05:00`|`Valorant`|
+|[How To Get Started?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/696526-started.html)|`2025-04-16 10:51:00`|`Programming for Beginners`|
+|[Why does Pubg record in&#45;game conversations?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/696708-pubg-record-game-conversations.html)|`2025-04-16 10:43:00`|`Playerunknown's Battlegrounds`|
 |[yo i want use NtUserSetWindowDisplayAffinity how to?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695535-yo-ntusersetwindowdisplayaffinity.html)|`2025-04-16 10:27:00`|`Anti-Cheat Bypass`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-04-16 10:27:00`|`Playerunknown's Battlegrounds`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2025-04-16 10:06:00`|`Deadlock`|
