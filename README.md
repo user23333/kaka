@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-04-16 23:23:00`|`League of Legends`|
+|[bypass pubg gl 3&#46;7 64bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/696143-bypass-pubg-gl-3-7-64bit.html)|`2025-04-16 23:12:00`|`PUBG Mobile`|
 |[External GlowESP &#40;with source code&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694365-external-glowesp-source-code.html)|`2025-04-16 22:51:00`|`Counter-Strike 2`|
 |[INTRODUCTION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/696772-introduction.html)|`2025-04-16 22:48:00`|`Introductions`|
 |[CorePunk Unity il2cpp Game Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/696357-corepunk-unity-il2cpp-game-hack.html)|`2025-04-16 22:45:00`|`Unity`|
