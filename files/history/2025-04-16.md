@@ -12,6 +12,7 @@
 |6|[DirectComposition Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695664-directcomposition-hook.html)|`2025-04-16 00:08:23`|`anti-cheat-bypass`|
 |4|[HvH Cheat &#124; Ecstacy&#46;dev Latest new version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695865-hvh-cheat-ecstacy-dev-version.html)|`2025-04-16 00:08:23`|`counter-strike-2-a`|
 |14|[FragPunk Color Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/696048-fragpunk-color-aimbot.html)|`2025-04-16 15:45:23`|`other-fps-games`|
+|16|[Internal CS2 SkinChanger Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696462-internal-cs2-skinchanger-rage-cheat.html)|`2025-04-16 22:56:31`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External GlowESP &#40;with source code&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694365-external-glowesp-source-code.html)|`2025-04-16 22:51:00`|`Counter-Strike 2`|
 |[INTRODUCTION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/696772-introduction.html)|`2025-04-16 22:48:00`|`Introductions`|
 |[CorePunk Unity il2cpp Game Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/696357-corepunk-unity-il2cpp-game-hack.html)|`2025-04-16 22:45:00`|`Unity`|
 |[Kingdom Come: Deliverance 2 Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/685563-kingdom-deliverance-2-reversal-structs-offsets.html)|`2025-04-16 22:33:00`|`Other Single Player Games`|
