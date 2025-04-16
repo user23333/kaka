@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-04-16 15:27:00`|`Apex Legends`|
 |[Rivatuner for Rust External?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/696719-rivatuner-rust-external.html)|`2025-04-16 14:42:00`|`Rust`|
 |[Post your Exploits here&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/696718-post-exploits.html)|`2025-04-16 14:38:00`|`Marvel Rivals`|
 |[Is visible function cs2 external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696695-visible-function-cs2-external.html)|`2025-04-16 14:34:00`|`Counter-Strike 2`|
