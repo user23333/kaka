@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NVIDIA Game Filter Fixed 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/696816-nvidia-game-filter-fixed-2025-a.html)|`2025-04-17 04:11:00`|`Rust`|
+|[Is this code valid to get the EntityList ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696651-code-valid-entitylist.html)|`2025-04-17 04:11:00`|`Counter-Strike 2`|
+|[Draw Skeletons drop to 1 fps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/696800-draw-skeletons-drop-1-fps.html)|`2025-04-17 04:09:00`|`Rust`|
+|[Doubledoor Base Updated Season 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/696313-doubledoor-base-updated-season-2-a.html)|`2025-04-17 04:01:00`|`Marvel Rivals`|
 |[Rivals UnKnoWn &#91;Internal&#93; &#45; Giving Back to the Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695531-rivals-unknown-internal-giving-community.html)|`2025-04-17 03:59:00`|`Marvel Rivals`|
 |[Cleaning Signatures Windows 24H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696739-cleaning-signatures-windows-24h2.html)|`2025-04-17 03:31:00`|`Anti-Cheat Bypass`|
 |[DMA 2nd pc using macos?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/696769-dma-2nd-pc-using-macos.html)|`2025-04-17 03:29:00`|`PC Hardware`|
