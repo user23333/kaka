@@ -27,6 +27,7 @@
 |12|[Fovchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49392)|`2025-04-17 00:14:20`|
 |1|[Fiddler Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49431)|`2025-04-17 00:40:26`|
 |4|[Botlobbytool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49413)|`2025-04-17 02:51:01`|
+|2|[VIGOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49403)|`2025-04-17 03:27:44`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
