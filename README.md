@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-04-16 08:55:00`|`Other FPS Games`|
+|[Cash out 6mil casino chips on E&E?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696701-cash-6mil-casino-chips.html)|`2025-04-16 08:48:00`|`Grand Theft Auto V`|
+|[Mod menu recommendations before transferring](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696580-mod-menu-recommendations-transferring.html)|`2025-04-16 08:40:00`|`Grand Theft Auto V`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-04-16 08:36:00`|`Counter-Strike 2`|
+|[Cs2 Voidware External Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693235-cs2-voidware-external-read.html)|`2025-04-16 08:30:00`|`Counter-Strike 2`|
+|[GTA5&#95;Enchanced Basic DMA Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689945-gta5_enchanced-basic-dma-tool.html)|`2025-04-16 08:28:00`|`Grand Theft Auto V`|
 |[Kernel&#45;Mode debugger process issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/688878-kernel-mode-debugger-process-issue.html)|`2025-04-16 07:50:00`|`Anti-Cheat Bypass`|
 |[bottleye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696341-bottleye.html)|`2025-04-16 07:50:00`|`Grand Theft Auto V`|
 |[MW2 DMZ console aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-ii/690768-mw2-dmz-console-aimbot.html)|`2025-04-16 07:46:00`|`Call of Duty: Modern Warfare II`|
