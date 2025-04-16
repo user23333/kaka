@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rivatuner for Rust External?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/696719-rivatuner-rust-external.html)|`2025-04-16 14:42:00`|`Rust`|
+|[Post your Exploits here&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/696718-post-exploits.html)|`2025-04-16 14:38:00`|`Marvel Rivals`|
+|[Is visible function cs2 external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696695-visible-function-cs2-external.html)|`2025-04-16 14:34:00`|`Counter-Strike 2`|
+|[How to update SDK/Offsets in source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/696716-update-sdk-offsets-source.html)|`2025-04-16 14:29:00`|`Marvel Rivals`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-04-16 13:50:00`|`Grand Theft Auto V`|
 |[Pipsi&#45;ZZZ &#91; Zenless Zone Zero Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/645862-pipsi-zzz-zenless-zone-zero-cheat.html)|`2025-04-16 13:33:00`|`Other MMORPG and Strategy`|
 |[mouse&#95;event &#45; safe or nah](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/696662-mouse_event-safe-nah.html)|`2025-04-16 13:17:00`|`Rust`|
