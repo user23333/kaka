@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[what to use instead of mouse&#95;event](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/696727-instead-mouse_event.html)|`2025-04-16 17:43:00`|`Rainbow Six Siege`|
+|[Maybe undetected Triggerbot in C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/696726-maybe-undetected-triggerbot.html)|`2025-04-16 17:38:00`|`Valorant`|
 |[&#91;Internal&#93; DayZ Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/696704-internal-dayz-cheat.html)|`2025-04-16 17:28:00`|`DayZ SA`|
 |[Apex HWID Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/696532-apex-hwid-ban.html)|`2025-04-16 17:18:00`|`Apex Legends`|
 |[How can i run movement scripts without lghub](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/696724-run-movement-scripts-lghub.html)|`2025-04-16 17:11:00`|`Apex Legends`|
