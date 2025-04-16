@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Instant kill with any bullet, always hit certain limbs, removing armor hitbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/695633-instant-kill-bullet-hit-limbs-removing-armor-hitbox.html)|`2025-04-16 16:39:00`|`Escape from Tarkov`|
+|[magic pubg 64bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/696145-magic-pubg-64bit.html)|`2025-04-16 16:31:00`|`PUBG Mobile`|
+|[Flickering Fireport position](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/696528-flickering-fireport-position.html)|`2025-04-16 16:25:00`|`Escape from Tarkov`|
+|[External Nightmode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696722-external-nightmode.html)|`2025-04-16 16:24:00`|`Counter-Strike 2`|
+|[Marvel Rivals memflow&#45;qemu external aimbot source written in Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/684393-marvel-rivals-memflow-qemu-external-aimbot-source-written-rust.html)|`2025-04-16 16:19:00`|`Marvel Rivals`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-04-16 15:27:00`|`Apex Legends`|
 |[Rivatuner for Rust External?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/696719-rivatuner-rust-external.html)|`2025-04-16 14:42:00`|`Rust`|
 |[Post your Exploits here&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/696718-post-exploits.html)|`2025-04-16 14:38:00`|`Marvel Rivals`|
