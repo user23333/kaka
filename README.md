@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sai's Color Aimbot BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668780-sais-color-aimbot-bo6.html)|`2025-04-17 02:31:00`|`Call of Duty: Black Ops 6`|
+|[Undetected ESP&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/696801-undetected-esp.html)|`2025-04-17 02:24:00`|`Valorant`|
+|[Is visible function cs2 external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696695-visible-function-cs2-external.html)|`2025-04-17 02:20:00`|`Counter-Strike 2`|
+|[TarkovGUI &#124; PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/694944-tarkovgui-pve.html)|`2025-04-17 02:17:00`|`Escape from Tarkov`|
+|[&#91;PUBG Mobile 3&#46;7&#93; Pak Decryption Function Found&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/695984-pubg-mobile-3-7-pak-decryption-function-found.html)|`2025-04-17 02:16:00`|`PUBG Mobile`|
 |[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/696538-vigor-internal-cheat.html)|`2025-04-17 01:54:00`|`Other FPS Games`|
 |[GCTF on Enhanced PC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696537-gctf-enhanced-pc.html)|`2025-04-17 01:52:00`|`Grand Theft Auto V`|
 |[Theia static decryptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696332-theia-static-decryptor.html)|`2025-04-17 01:50:00`|`Anti-Cheat Bypass`|
