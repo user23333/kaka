@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cleaning Signatures Windows 24H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696739-cleaning-signatures-windows-24h2.html)|`2025-04-17 03:31:00`|`Anti-Cheat Bypass`|
+|[DMA 2nd pc using macos?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/696769-dma-2nd-pc-using-macos.html)|`2025-04-17 03:29:00`|`PC Hardware`|
 |[Operation: Harsh Doorstop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/654775-operation-harsh-doorstop.html)|`2025-04-17 02:57:00`|`Other FPS Games`|
 |[Webs PVE Only Menu v7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v7.html)|`2025-04-17 02:56:00`|`Escape from Tarkov`|
 |[Maybe undetected Triggerbot in C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/696726-maybe-undetected-triggerbot.html)|`2025-04-17 02:48:00`|`Valorant`|
