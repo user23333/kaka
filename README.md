@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Get right FiveM version &#40;bypass replaceExecutable&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/689318-fivem-version-bypass-replaceexecutable.html)|`2025-04-16 12:52:00`|`Alternative Online Mods`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-04-16 12:28:00`|`Grand Theft Auto V`|
 |[D3D12 Engine Chams Teaser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/693932-d3d12-engine-chams-teaser.html)|`2025-04-16 12:26:00`|`Rainbow Six Siege`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-04-16 11:53:00`|`Alternative Online Mods`|
