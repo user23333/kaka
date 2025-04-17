@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Zoom Tool &#40;Magnifier&#41; for All Games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640423-zoom-tool-magnifier-games.html)|`2025-04-17 11:45:00`|`Other FPS Games`|
+|[cs2&#95;webradar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/608052-cs2_webradar.html)|`2025-04-17 11:32:00`|`Counter-Strike 2 Releases`|
+|[External Farlight 84 Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/661656-external-farlight-84-free-cheat.html)|`2025-04-17 11:31:00`|`Farlight 84`|
+|[Money/lvl E](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696806-money-lvl.html)|`2025-04-17 11:29:00`|`Grand Theft Auto V`|
 |[C&#43;&#43; Color Triggerbot New Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691387-color-triggerbot-undetected.html)|`2025-04-17 10:51:00`|`Valorant`|
 |[Point blank static pointers &#40;CE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/692705-blank-static-pointers-ce.html)|`2025-04-17 10:37:00`|`Other FPS Games`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-04-17 10:35:00`|`Call of Duty: Black Ops 6`|
