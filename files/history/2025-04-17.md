@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How safe am I from ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/695937-safe-am-ban.html)|`2025-04-17 12:30:00`|`Elite: Dangerous`|
+|[What was the first game you cheated on?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/328889-game-cheated.html)|`2025-04-17 12:27:00`|`Off Topic`|
+|[&#124; DeadLock Cheat &#124;&#124; Scripts &#124;&#124; Auto&#45;Updating &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/693609-deadlock-cheat-scripts-auto-updating.html)|`2025-04-17 12:23:00`|`Deadlock`|
+|[Valorant cheat &#40;wallhack, aimbot, etc&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/696793-valorant-cheat-wallhack-aimbot-etc.html)|`2025-04-17 12:19:00`|`Valorant`|
 |[BO2 No Clip RME FOR Xbox360 Should](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/696068-bo2-clip-rme-xbox360.html)|`2025-04-17 12:06:00`|`Call of Duty: Black Ops 2`|
 |[Zoom Tool &#40;Magnifier&#41; for All Games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640423-zoom-tool-magnifier-games.html)|`2025-04-17 11:45:00`|`Other FPS Games`|
 |[cs2&#95;webradar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/608052-cs2_webradar.html)|`2025-04-17 11:32:00`|`Counter-Strike 2 Releases`|
