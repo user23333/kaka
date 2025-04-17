@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GameSense GC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/696686-gamesense-gc.html)|`2025-04-17 15:55:00`|`Genshin Impact`|
 |[silence = everything&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/696887-silence.html)|`2025-04-17 15:49:00`|`Forum General`|
 |[Team Fortress 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/102936-team-fortress-2-reversal-structs-offsets.html)|`2025-04-17 15:02:00`|`Team Fortress 2`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-04-17 14:13:00`|`Other MMORPG and Strategy`|
