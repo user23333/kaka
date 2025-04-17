@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Nightmode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696722-external-nightmode.html)|`2025-04-18 03:58:00`|`Counter-Strike 2`|
+|[how to extract cases or bypass with ida pro and Implemented with GG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/696944-extract-bypass-ida-pro-implemented-gg.html)|`2025-04-18 03:55:00`|`PUBG Mobile`|
+|[External no flash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696652-external-flash.html)|`2025-04-18 03:55:00`|`Counter-Strike 2`|
+|[cheat engine for vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696107-cheat-engine-vanguard.html)|`2025-04-18 03:54:00`|`Anti-Cheat Bypass`|
 |[bypass pubg gl 3&#46;7 64bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/696143-bypass-pubg-gl-3-7-64bit.html)|`2025-04-18 03:49:00`|`PUBG Mobile`|
 |[Creating a cheat for Unturned &#40;bypass BE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/696776-creating-cheat-unturned-bypass.html)|`2025-04-18 03:31:00`|`Forum General`|
 |[Theia static decryptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696332-theia-static-decryptor.html)|`2025-04-18 03:30:00`|`Anti-Cheat Bypass`|
