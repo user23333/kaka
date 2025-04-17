@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2025-04-18 07:32:00`|`Other Games`|
 |[Cash out 6mil casino chips on E&E?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696701-cash-6mil-casino-chips.html)|`2025-04-18 07:22:00`|`Grand Theft Auto V`|
 |[Getting method &#45; ServerRPC&#60;T1&#62;&#40;string, T1&#41;;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/696965-getting-method-serverrpc-t1-string-t1.html)|`2025-04-18 07:12:00`|`Rust`|
 |[simple fov changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696371-simple-fov-changer.html)|`2025-04-18 07:12:00`|`Counter-Strike 2`|
