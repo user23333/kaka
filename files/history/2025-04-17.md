@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kingdom Come Deliverance 2 External ESP &#43; Flyhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/691081-kingdom-deliverance-2-external-esp-flyhack.html)|`2025-04-17 22:12:00`|`Other Single Player Games`|
+|[Did VAC get more aggressive ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696924-vac-aggressive.html)|`2025-04-17 22:12:00`|`Counter-Strike 2`|
 |[STATUS&#95;INVALID&#95;PARAMETER &#40;weird issue&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696918-status_invalid_parameter-weird-issue.html)|`2025-04-17 21:29:00`|`Anti-Cheat Bypass`|
 |[Marvel Rivals VTable Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/683762-marvel-rivals-vtable-dump.html)|`2025-04-17 21:24:00`|`Marvel Rivals`|
 |[May 2025 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/696917-2025-motm-nominations.html)|`2025-04-17 21:17:00`|`Member of the Month`|
