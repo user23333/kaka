@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[STATUS&#95;INVALID&#95;PARAMETER &#40;weird issue&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696918-status_invalid_parameter-weird-issue.html)|`2025-04-17 21:29:00`|`Anti-Cheat Bypass`|
+|[Marvel Rivals VTable Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/683762-marvel-rivals-vtable-dump.html)|`2025-04-17 21:24:00`|`Marvel Rivals`|
+|[May 2025 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/696917-2025-motm-nominations.html)|`2025-04-17 21:17:00`|`Member of the Month`|
+|[How does a one&#45;click spoof work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/696916-click-spoof.html)|`2025-04-17 21:15:00`|`Valorant`|
 |[Path of Exile 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676435-path-exile-2-reversal-structs-offsets.html)|`2025-04-17 20:50:00`|`Other MMORPG and Strategy`|
 |[SDKs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/696914-sdks.html)|`2025-04-17 20:50:00`|`Marvel Rivals`|
 |[This is a no&#45;recoil script developed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/696878-recoil-script-developed.html)|`2025-04-17 20:27:00`|`Apex Legends`|
