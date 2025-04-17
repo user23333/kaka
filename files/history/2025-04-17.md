@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Path of Exile 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676435-path-exile-2-reversal-structs-offsets.html)|`2025-04-17 20:50:00`|`Other MMORPG and Strategy`|
+|[SDKs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/696914-sdks.html)|`2025-04-17 20:50:00`|`Marvel Rivals`|
 |[This is a no&#45;recoil script developed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/696878-recoil-script-developed.html)|`2025-04-17 20:27:00`|`Apex Legends`|
 |[Offset Tracker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/696493-offset-tracker.html)|`2025-04-17 20:21:00`|`General Programming and Reversing`|
 |[FragPunk Color Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/696048-fragpunk-color-aimbot.html)|`2025-04-17 20:18:00`|`Other FPS Games`|
