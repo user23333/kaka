@@ -11,6 +11,7 @@
 |8|[Exploring DMA FW with VMD Functionality &#45; Undetected in VGK, ACE, and FACEIT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695980-exploring-dma-fw-vmd-functionality-undetected-vgk-ace-faceit.html)|`2025-04-18 00:22:17`|`anti-cheat-bypass`|
 |16|[FragPunk Color Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/696048-fragpunk-color-aimbot.html)|`2025-04-18 00:22:17`|`other-fps-games`|
 |2|[Horrible but functional external cheat source &#40;just needs offset updates&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/695921-horrible-functional-external-cheat-source-offset-updates.html)|`2025-04-18 00:22:17`|`crossfire`|
+|13|[RecoilMaster](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696278-recoilmaster.html)|`2025-04-18 05:10:05`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Trying to read bone position](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696954-trying-read-bone-position.html)|`2025-04-18 05:05:00`|`Counter-Strike 2`|
+|[Counter&#45;Strike: Source internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/459683-counter-strike-source-internal-cheat.html)|`2025-04-18 05:01:00`|`CounterStrike Source`|
+|[DOD:S multihack &#91;AIM/NOSPREAD/ESP&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/day-of-defeat/451895-dod-multihack-aim-nospread-esp.html)|`2025-04-18 05:00:00`|`Day of Defeat`|
+|[Zombie Panic&#33; Source internal &#91;Aim/ESP/Misc&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/408050-zombie-panic-source-internal-aim-esp-misc.html)|`2025-04-18 05:00:00`|`Other FPS Games`|
+|[Fistful of Frags internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/416253-fistful-frags-internal-cheat.html)|`2025-04-18 05:00:00`|`Other FPS Games`|
+|[No More Room in Hell internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/417487-hell-internal-cheat.html)|`2025-04-18 05:00:00`|`Other FPS Games`|
 |[NVIDIA Game Filter Fixed 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/696816-nvidia-game-filter-fixed-2025-a.html)|`2025-04-18 04:39:00`|`Rust`|
 |[&#124; DeadLock Cheat &#124;&#124; Scripts &#124;&#124; Auto&#45;Updating &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/693609-deadlock-cheat-scripts-auto-updating.html)|`2025-04-18 04:29:00`|`Deadlock`|
 |[hello world](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/696942-hello-world.html)|`2025-04-18 04:24:00`|`Introductions`|
