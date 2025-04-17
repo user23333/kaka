@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I completed my first firmware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696956-completed-firmware.html)|`2025-04-18 05:32:00`|`Anti-Cheat Bypass`|
+|[I Need DSE&#45;Patcher for Win11&#45; 24H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683763-dse-patcher-win11-24h2.html)|`2025-04-18 05:25:00`|`Anti-Cheat Bypass`|
 |[Trying to read bone position](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696954-trying-read-bone-position.html)|`2025-04-18 05:05:00`|`Counter-Strike 2`|
 |[Counter&#45;Strike: Source internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/459683-counter-strike-source-internal-cheat.html)|`2025-04-18 05:01:00`|`CounterStrike Source`|
 |[DOD:S multihack &#91;AIM/NOSPREAD/ESP&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/day-of-defeat/451895-dod-multihack-aim-nospread-esp.html)|`2025-04-18 05:00:00`|`Day of Defeat`|
