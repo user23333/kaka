@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FATALITY MENU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696983-fatality-menu.html)|`2025-04-19 01:48:00`|`Counter-Strike 2`|
+|[YimMenuV2 with Outfit Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696131-yimmenuv2-outfit-editor.html)|`2025-04-19 01:47:00`|`Grand Theft Auto V`|
+|[Little help with NO SPREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/696987-little-help-spread.html)|`2025-04-19 01:46:00`|`Team Fortress 2`|
+|[Chivalry 2 Heaveyweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689993-chivalry-2-heaveyweight-cheat.html)|`2025-04-19 01:45:00`|`Other Games`|
 |[BigBaseV2&#45;Enhanced GTA5 Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696993-bigbasev2-enhanced-gta5-enhanced.html)|`2025-04-19 01:37:00`|`Grand Theft Auto V`|
 |[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-04-19 01:26:00`|`Grand Theft Auto V`|
 |[The simplest way to unlock GTA&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696911-simplest-unlock-gta.html)|`2025-04-19 01:24:00`|`Grand Theft Auto V`|
