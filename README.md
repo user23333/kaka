@@ -29,6 +29,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Reverse Engineer&#93; How to find the exact code for a specific game action](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/697066-reverse-engineer-exact-code-specific-game-action.html)|`2025-04-19 06:14:00`|`Elite: Dangerous`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-04-19 06:06:00`|`Alternative Online Mods`|
+|[Team Fortress 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/102936-team-fortress-2-reversal-structs-offsets.html)|`2025-04-19 06:06:00`|`Team Fortress 2`|
+|[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2025-04-19 06:05:00`|`Grand Theft Auto V`|
+|[Dead game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/691074-dead-game.html)|`2025-04-19 06:03:00`|`HELLDIVERS 2`|
+|[YOLO V5 AI Aim Assit Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/696351-yolo-v5-ai-aim-assit-bot.html)|`2025-04-19 06:02:00`|`Apex Legends`|
+|[FiveM Build&#45;Version External / Internal &#124; Once and for all&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/696057-fivem-build-version-external-internal.html)|`2025-04-19 06:01:00`|`Alternative Online Mods`|
+|[UEDumper &#45; The all in one Unreal Engine Dumper and editor for UE 4&#46;19 &#45; 5&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/589162-uedumper-unreal-engine-dumper-editor-ue-4-19-5-2-a.html)|`2025-04-19 06:01:00`|`General Programming and Reversing`|
 |[no&#45;Recoil / less recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/695058-recoil-recoil.html)|`2025-04-19 05:59:00`|`Apex Legends`|
 |[Money/lvl E](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696806-money-lvl.html)|`2025-04-19 05:58:00`|`Grand Theft Auto V`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2025-04-19 05:42:00`|`Valorant`|
