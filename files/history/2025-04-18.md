@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Russian accounts restrictions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/696980-russian-accounts-restrictions.html)|`2025-04-18 14:10:00`|`Escape from Tarkov`|
 |[The simplest way to unlock GTA&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696911-simplest-unlock-gta.html)|`2025-04-18 13:54:00`|`Grand Theft Auto V`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-04-18 13:11:00`|`Grand Theft Auto V`|
 |[Treason's V3 AIO Aim Assist Edit &#40;BETA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670270-treasons-v3-aio-aim-assist-edit-beta.html)|`2025-04-18 13:06:00`|`Call of Duty: Black Ops 6`|
