@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Doubledoor Base Updated Season 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/696313-doubledoor-base-updated-season-2-a.html)|`2025-04-19 00:53:00`|`Marvel Rivals`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-04-19 00:52:00`|`Other Games`|
+|[New Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/697046-bans.html)|`2025-04-19 00:50:00`|`Marvel Rivals`|
 |[What is the error in my Aimbot ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/697037-error-aimbot.html)|`2025-04-19 00:45:00`|`Counter-Strike 2`|
 |[Botlobby Tool FREE &#91;BO6/MW3/WARZONE&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/696676-botlobby-tool-free-bo6-mw3-warzone.html)|`2025-04-19 00:45:00`|`Call of Duty: Black Ops 6`|
 |[This is how Bans work in Marvel Rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680697-bans-marvel-rivals.html)|`2025-04-19 00:41:00`|`Marvel Rivals`|
