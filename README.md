@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Python Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/633657-cs2-python-cheat.html)|`2025-04-18 15:16:00`|`Counter-Strike 2 Releases`|
+|[Change hook to script game guardian](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/696606-change-hook-script-game-guardian.html)|`2025-04-18 15:09:00`|`PUBG Mobile`|
+|[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2025-04-18 15:06:00`|`Garry's Mod`|
 |[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2025-04-18 15:23:00`|`Other FPS Games`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2025-04-18 14:59:00`|`Valorant`|
 |[&#91;PUBG Mobile 3&#46;7&#93; Pak Decryption Function Found&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/695984-pubg-mobile-3-7-pak-decryption-function-found.html)|`2025-04-18 14:46:00`|`PUBG Mobile`|
