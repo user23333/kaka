@@ -15,6 +15,7 @@
 |11|[Schedule 1 v3&#46;3f14 QoL Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696517-schedule-1-v3-3f14-qol-internal-cheat.html)|`2025-04-18 07:41:45`|`other-games`|
 |20|[Botlobby Tool FREE &#91;BO6/MW3/WARZONE&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/696676-botlobby-tool-free-bo6-mw3-warzone.html)|`2025-04-18 12:53:54`|`call-of-duty-black-ops-6-a`|
 |22|[VAC Detection System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696050-vac-detection-system.html)|`2025-04-18 19:54:12`|`counter-strike-2-a`|
+|15|[Solo Leveling Arise 1&#46;2&#46;47](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/696274-solo-leveling-arise-1-2-47-a.html)|`2025-04-18 21:04:22`|`other-mmorpg-and-strategy`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,6 +35,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mouse spinning around target waypoint](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696797-mouse-spinning-target-waypoint.html)|`2025-04-18 21:02:00`|`Counter-Strike 2`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-04-18 21:01:00`|`Counter-Strike 2`|
+|[new signatures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696656-signatures.html)|`2025-04-18 20:51:00`|`Counter-Strike 2`|
+|[Gameguard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/696733-gameguard-bypass.html)|`2025-04-18 20:44:00`|`HELLDIVERS 2`|
+|[Pirate Generator&#45;only cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/696086-pirate-generator-cheat.html)|`2025-04-18 20:40:00`|`Sea of Thieves`|
 |[Player Model Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696994-player-model-changer.html)|`2025-04-18 20:36:00`|`Counter-Strike 2`|
 |[How do you move the player camera in a mod?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/697006-move-player-camera-mod.html)|`2025-04-18 19:24:00`|`Payday 2`|
 |[mouse&#95;event &#45; safe or nah](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/696662-mouse_event-safe-nah.html)|`2025-04-18 19:18:00`|`Rust`|
