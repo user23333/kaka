@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Um mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/697059-um-mouse.html)|`2025-04-19 05:13:00`|`Anti-Cheat Bypass`|
+|[Unlock all Wz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/695910-unlock-wz.html)|`2025-04-19 05:07:00`|`Call of Duty: Black Ops 6`|
+|[Full Anticheat Disabler &#40;You can play online&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687866-anticheat-disabler-play-online.html)|`2025-04-19 05:01:00`|`Marvel Rivals`|
+|[Ricochet Update &#45; All Bot Lobby PermaBan&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/691185-ricochet-update-bot-lobby-permaban.html)|`2025-04-19 04:58:00`|`Call of Duty: Black Ops 6`|
+|[&#91;PUBG Mobile 3&#46;7&#93; Pak Decryption Function Found&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/695984-pubg-mobile-3-7-pak-decryption-function-found.html)|`2025-04-19 04:58:00`|`PUBG Mobile`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-04-19 04:49:00`|`Valorant`|
 |[Finding latest CS2 offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/697052-finding-cs2-offsets.html)|`2025-04-19 01:48:00`|`Counter-Strike 2`|
 |[GTA V E&E broken progression fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695572-gta-broken-progression-fix.html)|`2025-04-19 02:02:00`|`Grand Theft Auto V`|
