@@ -12,6 +12,7 @@
 |22|[VAC Detection System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696050-vac-detection-system.html)|`2025-04-19 00:37:11`|`counter-strike-2-a`|
 |16|[Solo Leveling Arise 1&#46;2&#46;47](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/696274-solo-leveling-arise-1-2-47-a.html)|`2025-04-19 00:37:11`|`other-mmorpg-and-strategy`|
 |13|[The simplest way to unlock GTA&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696911-simplest-unlock-gta.html)|`2025-04-19 02:48:03`|`grand-theft-auto-v`|
+|10|[Pirate Generator&#45;only cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/696086-pirate-generator-cheat.html)|`2025-04-19 04:42:39`|`sea-of-thieves`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
