@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Access violation problems with MDL allocation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695791-access-violation-mdl-allocation.html)|`2025-04-18 15:40:00`|`Anti-Cheat Bypass`|
+|[FATALITY MENU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696983-fatality-menu.html)|`2025-04-18 15:32:00`|`Counter-Strike 2`|
 |[CS2 Python Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/633657-cs2-python-cheat.html)|`2025-04-18 15:16:00`|`Counter-Strike 2 Releases`|
 |[Change hook to script game guardian](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/696606-change-hook-script-game-guardian.html)|`2025-04-18 15:09:00`|`PUBG Mobile`|
 |[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2025-04-18 15:06:00`|`Garry's Mod`|
