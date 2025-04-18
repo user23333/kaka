@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2025-04-18 14:59:00`|`Valorant`|
 |[&#91;PUBG Mobile 3&#46;7&#93; Pak Decryption Function Found&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/695984-pubg-mobile-3-7-pak-decryption-function-found.html)|`2025-04-18 14:46:00`|`PUBG Mobile`|
 |[Russian accounts restrictions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/696980-russian-accounts-restrictions.html)|`2025-04-18 14:10:00`|`Escape from Tarkov`|
 |[The simplest way to unlock GTA&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696911-simplest-unlock-gta.html)|`2025-04-18 13:54:00`|`Grand Theft Auto V`|
