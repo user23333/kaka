@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-04-19 04:49:00`|`Valorant`|
+|[Finding latest CS2 offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/697052-finding-cs2-offsets.html)|`2025-04-19 01:48:00`|`Counter-Strike 2`|
 |[GTA V E&E broken progression fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695572-gta-broken-progression-fix.html)|`2025-04-19 02:02:00`|`Grand Theft Auto V`|
 |[FATALITY MENU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696983-fatality-menu.html)|`2025-04-19 01:48:00`|`Counter-Strike 2`|
 |[YimMenuV2 with Outfit Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696131-yimmenuv2-outfit-editor.html)|`2025-04-19 01:47:00`|`Grand Theft Auto V`|
