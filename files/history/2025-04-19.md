@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Planning on making CS2 external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/697061-planning-cs2-external.html)|`2025-04-19 18:22:00`|`Counter-Strike 2`|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-04-19 18:21:00`|`Sea of Thieves`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-04-19 18:21:00`|`Call of Duty: Black Ops 6`|
+|[Switching Accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/697090-switching-accounts.html)|`2025-04-19 18:20:00`|`Escape from Tarkov`|
 |[Kernel SMBIOS not spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696856-kernel-smbios-spoofing.html)|`2025-04-19 18:08:00`|`Anti-Cheat Bypass`|
 |[mouse&#95;event &#45; safe or nah](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/696662-mouse_event-safe-nah.html)|`2025-04-19 17:22:00`|`Rust`|
 |[External GlowESP &#40;with source code&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694365-external-glowesp-source-code.html)|`2025-04-19 16:45:00`|`Counter-Strike 2`|
