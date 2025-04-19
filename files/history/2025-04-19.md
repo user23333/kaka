@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How does a one&#45;click spoof work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/696916-click-spoof.html)|`2025-04-19 13:55:00`|`Valorant`|
 |[flagged accounts are available for migration?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696670-flagged-accounts-available-migration.html)|`2025-04-19 13:46:00`|`Grand Theft Auto V`|
 |[where/how can i get free valorant cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/696920-free-valorant-cheats.html)|`2025-04-19 13:30:00`|`Valorant`|
 |[GTA:O External Hack Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/173509-gta-external-hack-source.html)|`2025-04-19 13:29:00`|`Grand Theft Auto V`|
