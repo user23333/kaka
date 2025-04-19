@@ -26,9 +26,14 @@
 |41|[srccodezip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49436)|`2025-04-20 00:00:08`|
 |1|[MRSDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49446)|`2025-04-20 00:23:14`|
 |6|[Menu SnowBreak CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49462)|`2025-04-20 00:39:59`|
+|2|[Offset tracker source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49466)|`2025-04-20 00:48:36`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AHK lag issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/697048-ahk-lag-issue.html)|`2025-04-20 00:46:00`|`Call of Duty: Black Ops 6`|
+|[GTA5&#95;Enchanced Basic DMA Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689945-gta5_enchanced-basic-dma-tool.html)|`2025-04-20 00:46:00`|`Grand Theft Auto V`|
+|[Offset Tracker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/696493-offset-tracker.html)|`2025-04-20 00:42:00`|`General Programming and Reversing`|
+|[Creating Particles/Beams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/682044-creating-particles-beams.html)|`2025-04-20 00:42:00`|`Counter-Strike 2`|
 |[Pirate Generator&#45;only cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/696086-pirate-generator-cheat.html)|`2025-04-20 00:37:00`|`Sea of Thieves`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-04-20 00:37:00`|`Other FPS Games`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-04-20 00:35:00`|`Valorant`|
