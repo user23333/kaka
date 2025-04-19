@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need Guidance on Building a Fully Undetectable Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/695324-guidance-building-undetectable-spoofer.html)|`2025-04-19 23:26:00`|`C and C++`|
+|[Offset issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/697167-offset-issue.html)|`2025-04-19 23:13:00`|`Counter-Strike 2`|
+|[Plutonium Black Ops 2 &#124; Menu ESP & MORE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/466909-plutonium-black-ops-2-menu-esp.html)|`2025-04-19 23:11:00`|`Call of Duty: Black Ops 2`|
 |[Am I still spoofed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/697043-am-spoofed.html)|`2025-04-19 23:10:00`|`Valorant`|
 |[roblox offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/696209-roblox-offsets.html)|`2025-04-19 23:03:00`|`General Programming and Reversing`|
 |[Online Enabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663128-online-enabler.html)|`2025-04-19 22:53:00`|`Grand Theft Auto V`|
