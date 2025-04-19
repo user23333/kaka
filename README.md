@@ -41,6 +41,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TPM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/649260-tpm-spoofer.html)|`2025-04-20 06:02:00`|`Valorant`|
+|[How To load and Run Bot Lobbies with current scripts 🛠️](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/697253-load-run-bot-lobbies-current-scripts.html)|`2025-04-20 05:59:00`|`Call of Duty: Black Ops 6`|
 |[REPO Simple Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/689820-repo-simple-cheat.html)|`2025-04-20 05:52:00`|`Other MMORPG and Strategy`|
 |[I have successfully developed my private DMA firmware&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/692340-successfully-developed-private-dma-firmware.html)|`2025-04-20 05:45:00`|`General Programming and Reversing`|
 |[Black Screen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697252-black-screen.html)|`2025-04-20 05:43:00`|`Grand Theft Auto V`|
