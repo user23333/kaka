@@ -27,9 +27,16 @@
 |1|[MRSDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49446)|`2025-04-20 00:23:14`|
 |6|[Menu SnowBreak CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49462)|`2025-04-20 00:39:59`|
 |2|[Offset tracker source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49466)|`2025-04-20 00:48:36`|
+|4|[GTA5&#95;GTAPLUS&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49467)|`2025-04-20 00:54:32`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-04-20 00:54:00`|`Grand Theft Auto V`|
+|[Straftat Full Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/686040-straftat-cheat.html)|`2025-04-20 00:54:00`|`Other Games`|
+|[external aimdelay and time](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695195-external-aimdelay-time.html)|`2025-04-20 00:51:00`|`Counter-Strike 2`|
+|[The simplest way to unlock GTA&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696911-simplest-unlock-gta.html)|`2025-04-20 00:50:00`|`Grand Theft Auto V`|
+|[WZ BO6 Working Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/675805-wz-bo6-base.html)|`2025-04-20 00:48:00`|`Call of Duty: Black Ops 6`|
+|[&#91;Meme/Stupid&#93; Stupid problems with dumber solutions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/697094-meme-stupid-stupid-dumber-solutions.html)|`2025-04-20 00:48:00`|`Counter-Strike 2`|
 |[AHK lag issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/697048-ahk-lag-issue.html)|`2025-04-20 00:46:00`|`Call of Duty: Black Ops 6`|
 |[GTA5&#95;Enchanced Basic DMA Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689945-gta5_enchanced-basic-dma-tool.html)|`2025-04-20 00:46:00`|`Grand Theft Auto V`|
 |[Offset Tracker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/696493-offset-tracker.html)|`2025-04-20 00:42:00`|`General Programming and Reversing`|
