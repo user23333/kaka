@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/697083-rust-offsets.html)|`2025-04-19 15:28:00`|`Introductions`|
+|[Im new to all this stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/697097-im-stuff.html)|`2025-04-19 15:02:00`|`Introductions`|
 |[I Need DSE&#45;Patcher for Win11&#45; 24H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683763-dse-patcher-win11-24h2.html)|`2025-04-19 15:23:00`|`Anti-Cheat Bypass`|
 |[Does This Still Work Or Dtc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/697096-dtc.html)|`2025-04-19 14:53:00`|`Valorant`|
 |[&#91;Meme/Stupid&#93; Stupid problems with dumber solutions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/697094-meme-stupid-stupid-dumber-solutions.html)|`2025-04-19 14:39:00`|`Counter-Strike 2`|
