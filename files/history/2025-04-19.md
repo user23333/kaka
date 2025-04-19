@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Schedule 1 v3&#46;3f14 QoL Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696517-schedule-1-v3-3f14-qol-internal-cheat.html)|`2025-04-19 10:03:00`|`Other Games`|
+|[I have successfully developed my private DMA firmware&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/692340-successfully-developed-private-dma-firmware.html)|`2025-04-19 09:55:00`|`General Programming and Reversing`|
+|[bones, real hitbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/695216-bones-real-hitbox.html)|`2025-04-19 09:53:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[How Do VGK ACE FACEIT Detect DMA Firmware?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683599-vgk-ace-faceit-detect-dma-firmware.html)|`2025-04-19 09:44:00`|`Anti-Cheat Bypass`|
+|[How can I save vehicles and make the spawned cars private?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696988-save-vehicles-spawned-cars-private.html)|`2025-04-19 09:17:00`|`Grand Theft Auto V`|
 |[AHK and Macro's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/697074-ahk-macros.html)|`2025-04-19 08:36:00`|`Valorant`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-04-19 08:27:00`|`Other MMORPG and Strategy`|
 |[Changing Game Time](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/697073-changing-game-time.html)|`2025-04-19 08:27:00`|`Alternative Online Mods`|
