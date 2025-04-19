@@ -30,9 +30,15 @@
 |4|[GTA5&#95;GTAPLUS&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49467)|`2025-04-20 00:54:32`|
 |1|[btbdhwidspoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49468)|`2025-04-20 01:17:11`|
 |2|[DeltaForceClient&#45;Win64&#45;Shipping&#45;Steam&#45;SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49465)|`2025-04-20 01:17:11`|
+|1|[V1&#46;1 Schedule 1: QoL v0&#46;3&#46;4f4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49464)|`2025-04-20 01:30:35`|
+|1|[SigMakerLinux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49455)|`2025-04-20 01:30:35`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Infinite Internal Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/641795-arena-breakout-infinite-internal-hack.html)|`2025-04-20 01:29:00`|`Other FPS Games`|
+|[Little help with NO SPREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/696987-little-help-spread.html)|`2025-04-20 01:25:00`|`Team Fortress 2`|
+|[Schedule 1 v3&#46;3f14 QoL Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696517-schedule-1-v3-3f14-qol-internal-cheat.html)|`2025-04-20 01:23:00`|`Other Games`|
+|[SigMaker for IDA 9&#46;X RC1 &#40;LINUX/GNU&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/696972-sigmaker-ida-9-rc1-linux-gnu.html)|`2025-04-20 01:22:00`|`General Programming and Reversing`|
 |[Feature suggestion for my own AI bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/697189-feature-suggestion-own-ai-bot.html)|`2025-04-20 01:14:00`|`Counter-Strike 2`|
 |[How does a one&#45;click spoof work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/696916-click-spoof.html)|`2025-04-20 01:13:00`|`Valorant`|
 |[Schedule I Internal Cheat / Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696842-schedule-internal-cheat-helper.html)|`2025-04-20 01:12:00`|`Other Games`|
