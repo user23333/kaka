@@ -28,9 +28,18 @@
 |6|[Menu SnowBreak CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49462)|`2025-04-20 00:39:59`|
 |2|[Offset tracker source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49466)|`2025-04-20 00:48:36`|
 |4|[GTA5&#95;GTAPLUS&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49467)|`2025-04-20 00:54:32`|
+|1|[btbdhwidspoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49468)|`2025-04-20 01:17:11`|
+|2|[DeltaForceClient&#45;Win64&#45;Shipping&#45;Steam&#45;SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49465)|`2025-04-20 01:17:11`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Feature suggestion for my own AI bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/697189-feature-suggestion-own-ai-bot.html)|`2025-04-20 01:14:00`|`Counter-Strike 2`|
+|[How does a one&#45;click spoof work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/696916-click-spoof.html)|`2025-04-20 01:13:00`|`Valorant`|
+|[Schedule I Internal Cheat / Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696842-schedule-internal-cheat-helper.html)|`2025-04-20 01:12:00`|`Other Games`|
+|[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/696538-vigor-internal-cheat.html)|`2025-04-20 01:08:00`|`Other FPS Games`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-04-20 01:06:00`|`Marvel Rivals`|
+|[Need Guidance on Building a Fully Undetectable Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/695324-guidance-building-undetectable-spoofer.html)|`2025-04-20 01:02:00`|`C and C++`|
+|[Creating Particles Anywhere &#40;Weather, Env, Etc&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/697184-creating-particles-weather-env-etc.html)|`2025-04-20 01:02:00`|`Counter-Strike 2`|
 |[My external cheat overlay using CreateWindow was detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/697081-external-cheat-overlay-using-createwindow-detected.html)|`2025-04-20 00:58:00`|`CrossFire`|
 |[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-04-20 00:54:00`|`Grand Theft Auto V`|
 |[Straftat Full Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/686040-straftat-cheat.html)|`2025-04-20 00:54:00`|`Other Games`|
