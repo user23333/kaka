@@ -39,6 +39,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Halo MCC Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/682386-halo-mcc-aimbot.html)|`2025-04-20 02:32:00`|`Halo`|
+|[How can I save vehicles and make the spawned cars private?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696988-save-vehicles-spawned-cars-private.html)|`2025-04-20 02:25:00`|`Grand Theft Auto V`|
+|[Ragnarok Origin Global PC cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/624052-ragnarok-origin-global-pc-cheat.html)|`2025-04-20 02:22:00`|`Other MMORPG and Strategy`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-04-20 02:19:00`|`Call of Duty: Black Ops 6`|
+|[Driver Mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693885-driver-mapper.html)|`2025-04-20 02:15:00`|`Anti-Cheat Bypass`|
+|[Rocket League &#45; Nebula Client, Item Spawner, Title Spawner, Etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696293-rocket-league-nebula-client-item-spawner-title-spawner-etc.html)|`2025-04-20 02:14:00`|`Other Games`|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-04-20 02:14:00`|`Counter-Strike 2 Releases`|
 |[hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/697121-hello.html)|`2025-04-20 02:12:00`|`Valorant`|
 |[Dead By Daylight DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682901-dead-daylight-dma-esp.html)|`2025-04-20 02:10:00`|`Other FPS Games`|
 |[Looking for BO6/WZ External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/697195-looking-bo6-wz-external-esp.html)|`2025-04-20 02:10:00`|`Call of Duty: Black Ops 6`|
