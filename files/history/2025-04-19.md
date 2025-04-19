@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Meme/Stupid&#93; Stupid problems with dumber solutions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/697094-meme-stupid-stupid-dumber-solutions.html)|`2025-04-19 14:39:00`|`Counter-Strike 2`|
+|[SteelHunterInternal for Steel Hunters](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695182-steelhunterinternal-steel-hunters.html)|`2025-04-19 14:39:00`|`Other FPS Games`|
+|[YimMenuV2 E&E with money cheat &#40;No FSL&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/694886-yimmenuv2-money-cheat-fsl.html)|`2025-04-19 14:26:00`|`Grand Theft Auto V`|
 |[Internal injection for EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696093-internal-injection-eac.html)|`2025-04-19 14:18:00`|`Anti-Cheat Bypass`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-04-19 14:07:00`|`League of Legends`|
 |[How does a one&#45;click spoof work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/696916-click-spoof.html)|`2025-04-19 13:55:00`|`Valorant`|
