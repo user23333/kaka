@@ -41,6 +41,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How can I return a call to the original function?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/direct3d/697176-return-call-original-function.html)|`2025-04-20 05:28:00`|`Direct3D`|
+|[external input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/696798-external-input.html)|`2025-04-20 05:26:00`|`Marvel Rivals`|
+|[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2025-04-20 05:24:00`|`DayZ SA`|
+|[Good morning battlefield 4 hackers please help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/697123-morning-battlefield-4-hackers-please-help.html)|`2025-04-20 05:23:00`|`Battlefield 4`|
 |[friends only session](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697247-friends-session.html)|`2025-04-20 05:08:00`|`Grand Theft Auto V`|
 |[YimMenuV2 with Outfit Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696131-yimmenuv2-outfit-editor.html)|`2025-04-20 05:03:00`|`Grand Theft Auto V`|
 |[Rivals UnKnoWn &#91;Internal&#93; &#45; Giving Back to the Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695531-rivals-unknown-internal-giving-community.html)|`2025-04-20 04:49:00`|`Marvel Rivals`|
