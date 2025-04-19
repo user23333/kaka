@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kernel SMBIOS not spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696856-kernel-smbios-spoofing.html)|`2025-04-19 18:08:00`|`Anti-Cheat Bypass`|
 |[mouse&#95;event &#45; safe or nah](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/696662-mouse_event-safe-nah.html)|`2025-04-19 17:22:00`|`Rust`|
 |[External GlowESP &#40;with source code&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694365-external-glowesp-source-code.html)|`2025-04-19 16:45:00`|`Counter-Strike 2`|
 |[Offset Tracker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/696493-offset-tracker.html)|`2025-04-19 16:09:00`|`General Programming and Reversing`|
