@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2025-04-19 14:55:00`|`Other FPS Games`|
 |[Rust offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/697083-rust-offsets.html)|`2025-04-19 15:28:00`|`Introductions`|
 |[Im new to all this stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/697097-im-stuff.html)|`2025-04-19 15:02:00`|`Introductions`|
 |[I Need DSE&#45;Patcher for Win11&#45; 24H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683763-dse-patcher-win11-24h2.html)|`2025-04-19 15:23:00`|`Anti-Cheat Bypass`|
