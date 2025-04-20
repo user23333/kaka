@@ -43,6 +43,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vampire Survivors cheat table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/614330-vampire-survivors-cheat-table.html)|`2025-04-20 19:44:00`|`Cheat Engine Tables`|
 |[Other cheat than Minty or Epic Global Genshin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/633896-cheat-minty-epic-global-genshin.html)|`2025-04-20 19:42:00`|`Genshin Impact`|
 |[Panicore Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/663164-panicore-internal.html)|`2025-04-20 18:54:00`|`Other Games`|
 |[ARMA 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/114242-arma-3-reversal-structs-offsets.html)|`2025-04-20 18:03:00`|`ARMA 3`|
