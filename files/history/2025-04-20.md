@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Reverse&#45;Engineering "Schedule I" to Scam the Casino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/697311-reverse-engineering-schedule-scam-casino.html)|`2025-04-20 08:51:00`|`General Programming and Reversing`|
 |[silence = everything&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/696887-silence.html)|`2025-04-20 07:55:00`|`Forum General`|
 |[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-04-20 07:55:00`|`Grand Theft Auto V`|
 |[Simple SDK Fixer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/697067-simple-sdk-fixer.html)|`2025-04-20 07:54:00`|`Marvel Rivals`|
