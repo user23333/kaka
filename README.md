@@ -43,6 +43,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any tax bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/692195-tax-bypass.html)|`2025-04-20 20:38:00`|`Off Topic`|
+|[what RE tool do people mostly use here?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/694429-re-tool-people.html)|`2025-04-20 20:33:00`|`Off Topic`|
+|[PUBG MOBILE Kernel Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/697085-pubg-mobile-kernel-cheats.html)|`2025-04-20 20:20:00`|`PUBG Mobile`|
+|[auto accept externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/697410-auto-accept-externally.html)|`2025-04-20 20:20:00`|`Counter-Strike 2`|
+|[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2025-04-20 20:16:00`|`Grand Theft Auto V`|
 |[Appeal help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/697326-appeal-help.html)|`2025-04-20 20:06:00`|`Call of Duty: Black Ops 6`|
 |[Cheat Garry's Mod ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/682948-cheat-garrys-mod.html)|`2025-04-20 19:55:00`|`Garry's Mod`|
 |[New Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/697046-bans.html)|`2025-04-20 19:52:00`|`Marvel Rivals`|
