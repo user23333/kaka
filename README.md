@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Heroes of Valor Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697486-heroes-valor-reversal-structs-offsets.html)|`2025-04-21 07:55:00`|`Other FPS Games`|
+|[How to set level/ give RR with YimMenu V2 on E&E](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697452-set-level-rr-yimmenu-v2.html)|`2025-04-21 07:53:00`|`Grand Theft Auto V`|
 |[Bloodstrike](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690058-bloodstrike.html)|`2025-04-21 07:41:00`|`Other FPS Games`|
 |[Best method to screengrab?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/697008-method-screengrab.html)|`2025-04-21 07:40:00`|`Valorant`|
 |[Get Fivem Build](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/695480-fivem-build.html)|`2025-04-21 07:27:00`|`Alternative Online Mods`|
