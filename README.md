@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How Do VGK ACE FACEIT Detect DMA Firmware?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683599-vgk-ace-faceit-detect-dma-firmware.html)|`2025-04-21 02:58:00`|`Anti-Cheat Bypass`|
+|[Fivem pSilent&#40;Silent Aim&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/697454-fivem-psilent-silent-aim.html)|`2025-04-21 02:56:00`|`Alternative Online Mods`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-04-21 02:50:00`|`Valorant`|
 |[Help with undetected hooking method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/696661-help-undetected-hooking-method.html)|`2025-04-21 02:48:00`|`Forum General`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-04-21 02:45:00`|`Other FPS Games`|
