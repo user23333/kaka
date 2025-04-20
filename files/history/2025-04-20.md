@@ -41,6 +41,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[weird issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/696360-weird-issue.html)|`2025-04-20 11:33:00`|`Alternative Online Mods`|
+|[no&#45;Recoil / less recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/695058-recoil-recoil.html)|`2025-04-20 11:27:00`|`Apex Legends`|
 |[HWID ban &#43; finding good cheat &#40;less bannable&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/686011-hwid-ban-finding-cheat-bannable.html)|`2025-04-20 11:00:00`|`Escape from Tarkov`|
 |[Switching Accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/697090-switching-accounts.html)|`2025-04-20 10:56:00`|`Escape from Tarkov`|
 |[ban 10 and 30 minute](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/697329-ban-10-30-minute.html)|`2025-04-20 10:38:00`|`PUBG Mobile`|
