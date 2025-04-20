@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to use CG&#95;Trace without crashing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/697071-cg_trace-crashing.html)|`2025-04-21 00:45:00`|`Call of Duty 4: Modern Warfare`|
 |[FACEIT Dma?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/697423-faceit-dma.html)|`2025-04-21 00:45:00`|`Anti-Cheat Bypass`|
 |[Source fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/697015-source-fix.html)|`2025-04-21 00:45:00`|`Counter-Strike 2`|
 |[Third Person](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/697442-third-person.html)|`2025-04-21 00:41:00`|`Counter-Strike 2`|
