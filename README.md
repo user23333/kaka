@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal CS2 SkinChanger Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696462-internal-cs2-skinchanger-rage-cheat.html)|`2025-04-21 03:30:00`|`Counter-Strike 2`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-04-21 03:29:00`|`Counter-Strike 2`|
 |[YimMenuV2 with Outfit Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696131-yimmenuv2-outfit-editor.html)|`2025-04-21 03:18:00`|`Grand Theft Auto V`|
 |[pattern offset usage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/697458-pattern-offset-usage.html)|`2025-04-21 03:13:00`|`Valorant`|
 |[PUBG MOBILE Kernel Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/697085-pubg-mobile-kernel-cheats.html)|`2025-04-21 03:08:00`|`PUBG Mobile`|
