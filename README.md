@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Linux gaming is a pain with this game&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697169-linux-gaming-pain-game.html)|`2025-04-21 06:10:00`|`Grand Theft Auto V`|
+|[i need magic bullet safe lua](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/697474-magic-bullet-safe-lua.html)|`2025-04-21 05:58:00`|`PUBG Mobile`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-04-21 05:51:00`|`Rust`|
 |[Need Guidance on Building a Fully Undetectable Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/695324-guidance-building-undetectable-spoofer.html)|`2025-04-21 05:21:00`|`C and C++`|
 |[FiveM Ready Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693072-fivem-ready-method.html)|`2025-04-21 05:14:00`|`Grand Theft Auto V`|
