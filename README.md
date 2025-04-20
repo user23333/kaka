@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Changing Gun Skins Externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/623135-changing-gun-skins-externally.html)|`2025-04-21 07:18:00`|`Counter-Strike 2`|
+|[Vr cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/697478-vr-cheat.html)|`2025-04-21 06:30:00`|`Other Games`|
 |[EDID Emulators that hide serial numbers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/697229-edid-emulators-hide-serial.html)|`2025-04-21 06:44:00`|`Anti-Cheat Bypass`|
 |[Clarification about DMA "firmwares"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/691751-clarification-dma-firmwares.html)|`2025-04-21 06:36:00`|`Anti-Cheat Bypass`|
 |[RecoilMaster](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696278-recoilmaster.html)|`2025-04-21 06:34:00`|`Counter-Strike 2`|
