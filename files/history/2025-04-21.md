@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VAC Detection System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696050-vac-detection-system.html)|`2025-04-21 06:29:00`|`Counter-Strike 2`|
+|[Simple idle slayer menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/697477-simple-idle-slayer-menu.html)|`2025-04-21 06:24:00`|`Other Games`|
 |[Linux gaming is a pain with this game&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697169-linux-gaming-pain-game.html)|`2025-04-21 06:10:00`|`Grand Theft Auto V`|
 |[i need magic bullet safe lua](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/697474-magic-bullet-safe-lua.html)|`2025-04-21 05:58:00`|`PUBG Mobile`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-04-21 05:51:00`|`Rust`|
