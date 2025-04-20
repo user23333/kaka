@@ -42,6 +42,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How People So Called Cheat On Bo6 On Console](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/697373-people-called-cheat-bo6-console.html)|`2025-04-20 16:37:00`|`Call of Duty: Black Ops 6`|
 |[Resource Usage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/697371-resource-usage.html)|`2025-04-20 15:59:00`|`Counter-Strike 2`|
 |[Can't get entity which I want](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/697370-cant-entity.html)|`2025-04-20 15:50:00`|`Counter-Strike 2`|
 |[Undetectable among us Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/637492-undetectable-cheat.html)|`2025-04-20 15:44:00`|`Among Us`|
