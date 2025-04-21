@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ghosts of Tabor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/574607-ghosts-tabor.html)|`2025-04-22 04:28:00`|`Other FPS Games`|
+|[Sai's Color Aimbot BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/668780-sais-color-aimbot-bo6.html)|`2025-04-22 04:26:00`|`Call of Duty: Black Ops 6`|
+|[Rocket League Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/179108-rocket-league-reversal-structs-offsets.html)|`2025-04-22 04:22:00`|`Other FPS Games`|
 |[Draw Skeletons drop to 1 fps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/696800-draw-skeletons-drop-1-fps.html)|`2025-04-22 04:15:00`|`Rust`|
 |[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2025-04-22 04:15:00`|`Other MMORPG and Strategy`|
 |[UCanvas hitting on PostRender but nothing b](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-3-a/697571-ucanvas-hitting-postrender.html)|`2025-04-22 04:14:00`|`Unreal Engine 3`|
