@@ -24,9 +24,14 @@
 |11|[Offset tracker source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49466)|`2025-04-22 00:20:13`|
 |32|[DeltaForceClient&#45;Win64&#45;Shipping&#45;Steam&#45;SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49465)|`2025-04-22 00:20:13`|
 |112|[V1&#46;1 Schedule 1: QoL v0&#46;3&#46;4f4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49464)|`2025-04-22 00:20:13`|
+|4|[KM&#45;UM Client Buffer Based Shared Memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49483)|`2025-04-22 03:15:46`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SmmInfect &#45; Smm Backdoor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664482-smminfect-smm-backdoor.html)|`2025-04-22 03:14:00`|`Anti-Cheat Bypass`|
+|[Put benny's wheels in personal vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/376369-bennys-wheels-personal-vehicle.html)|`2025-04-22 03:14:00`|`Grand Theft Auto V`|
+|[Optimized KM&#45;UM Shared Memory &#45; POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/697488-optimized-km-um-shared-memory-poc.html)|`2025-04-22 03:05:00`|`Anti-Cheat Bypass`|
+|[OS Bugs when Hooking Windows Functions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/697565-os-bugs-hooking-windows-functions.html)|`2025-04-22 03:00:00`|`General Programming and Reversing`|
 |[FACEIT Dma?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/697423-faceit-dma.html)|`2025-04-22 02:59:00`|`Anti-Cheat Bypass`|
 |[TF2Classic Internal Cheat V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/598383-tf2classic-internal-cheat-v2.html)|`2025-04-22 02:52:00`|`Team Fortress 2`|
 |[sniping tool r6 marketplace](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/694692-sniping-tool-r6-marketplace.html)|`2025-04-22 02:47:00`|`Rainbow Six Siege`|
