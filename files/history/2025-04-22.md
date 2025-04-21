@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BO6 Enhanced Color Aim AHK GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671390-bo6-enhanced-color-aim-ahk-gui.html)|`2025-04-22 05:16:00`|`Call of Duty: Black Ops 6`|
+|[God exists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/697595-god-exists.html)|`2025-04-22 05:12:00`|`Off Topic`|
+|[Chivalry 2 Simple Lightweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/681745-chivalry-2-simple-lightweight-cheat.html)|`2025-04-22 05:12:00`|`Other Games`|
+|[very laggy when drawing players only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/697378-laggy-drawing-players.html)|`2025-04-22 05:09:00`|`Rust`|
+|[Liar's Bar Mod &#124; 0&#46;92 &#124; IL2CPP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/685319-liars-bar-mod-0-92-il2cpp.html)|`2025-04-22 04:54:00`|`Other Games`|
 |[How to bypass Device Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/697578-bypass-device-ban.html)|`2025-04-22 05:04:00`|`Marvel Rivals`|
 |[YimMenuV2Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697581-yimmenuv2mod.html)|`2025-04-22 05:03:00`|`Grand Theft Auto V`|
 |[MINI&#45;Disassembler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/697540-mini-disassembler.html)|`2025-04-22 04:54:00`|`General Programming and Reversing`|
