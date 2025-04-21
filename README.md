@@ -25,9 +25,11 @@
 |32|[DeltaForceClient&#45;Win64&#45;Shipping&#45;Steam&#45;SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49465)|`2025-04-22 00:20:13`|
 |112|[V1&#46;1 Schedule 1: QoL v0&#46;3&#46;4f4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49464)|`2025-04-22 00:20:13`|
 |4|[KM&#45;UM Client Buffer Based Shared Memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49483)|`2025-04-22 03:15:46`|
+|2|[Global Finder v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49484)|`2025-04-22 03:26:31`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How can I return a call to the original function?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/direct3d/697176-return-call-original-function.html)|`2025-04-22 03:03:00`|`Direct3D`|
 |[SmmInfect &#45; Smm Backdoor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664482-smminfect-smm-backdoor.html)|`2025-04-22 03:14:00`|`Anti-Cheat Bypass`|
 |[Put benny's wheels in personal vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/376369-bennys-wheels-personal-vehicle.html)|`2025-04-22 03:14:00`|`Grand Theft Auto V`|
 |[Optimized KM&#45;UM Shared Memory &#45; POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/697488-optimized-km-um-shared-memory-poc.html)|`2025-04-22 03:05:00`|`Anti-Cheat Bypass`|
