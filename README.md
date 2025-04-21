@@ -35,6 +35,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-04-21 09:04:00`|`Other Games`|
+|[Help how to make a Roblox executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/670384-help-roblox-executor.html)|`2025-04-21 08:47:00`|`C and C++`|
+|[War Robots Frontiers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697493-war-robots-frontiers.html)|`2025-04-21 08:40:00`|`Other FPS Games`|
+|[Automatic Arduino Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/697492-automatic-arduino-spoofer.html)|`2025-04-21 08:34:00`|`Valorant`|
+|[Pubg gl 64bit 3&#46;7 cases](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/697491-pubg-gl-64bit-3-7-a.html)|`2025-04-21 08:27:00`|`PUBG Mobile`|
+|[Optimized KM&#45;UM Shared Memory &#45; POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/697488-optimized-km-um-shared-memory-poc.html)|`2025-04-21 08:18:00`|`Anti-Cheat Bypass`|
 |[Heroes of Valor Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697486-heroes-valor-reversal-structs-offsets.html)|`2025-04-21 07:55:00`|`Other FPS Games`|
 |[How to set level/ give RR with YimMenu V2 on E&E](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697452-set-level-rr-yimmenu-v2.html)|`2025-04-21 07:53:00`|`Grand Theft Auto V`|
 |[Bloodstrike](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690058-bloodstrike.html)|`2025-04-21 07:41:00`|`Other FPS Games`|
