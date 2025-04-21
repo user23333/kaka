@@ -36,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rus&#40;CIS&#41; account upgrade](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/697513-rus-cis-account-upgrade.html)|`2025-04-21 21:19:00`|`Escape from Tarkov`|
+|[Hello guys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/697503-hello-guys.html)|`2025-04-21 21:16:00`|`Introductions`|
+|[Do You Love Crypto?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/673834-love-crypto.html)|`2025-04-21 21:16:00`|`Off Topic`|
+|[EAC and vac ban on steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/697531-eac-vac-ban-steam.html)|`2025-04-21 21:13:00`|`Anti-Cheat Bypass`|
+|[How To load and Run Bot Lobbies with current scripts 🛠️](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/697253-load-run-bot-lobbies-current-scripts.html)|`2025-04-21 21:07:00`|`Call of Duty: Black Ops 6`|
 |[Schedule I Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695317-schedule-cheat-table.html)|`2025-04-21 20:30:00`|`Other Games`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-04-21 20:19:00`|`Other MMORPG and Strategy`|
 |[Universal Recoil &#40;like UMT program&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/617894-universal-recoil-umt-program.html)|`2025-04-21 20:11:00`|`Other FPS Games`|
