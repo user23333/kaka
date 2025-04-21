@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FACEIT Dma?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/697423-faceit-dma.html)|`2025-04-22 02:59:00`|`Anti-Cheat Bypass`|
 |[TF2Classic Internal Cheat V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/598383-tf2classic-internal-cheat-v2.html)|`2025-04-22 02:52:00`|`Team Fortress 2`|
 |[sniping tool r6 marketplace](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/694692-sniping-tool-r6-marketplace.html)|`2025-04-22 02:47:00`|`Rainbow Six Siege`|
 |[Executable dumping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/688957-executable-dumping.html)|`2025-04-22 02:42:00`|`Apex Legends`|
