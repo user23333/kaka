@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I wanna make my own mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/691609-wanna-own-mapper.html)|`2025-04-21 23:20:00`|`Anti-Cheat Bypass`|
+|[Gmod offsets x86](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/697446-gmod-offsets-x86.html)|`2025-04-21 23:19:00`|`Garry's Mod`|
 |[How does the hacking process change when hacking a game with anti&#45;cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/697400-hacking-process-change-hacking-game-anti-cheat.html)|`2025-04-21 22:49:00`|`Programming for Beginners`|
 |[Finally a working External SkinChanger for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689733-finally-external-skinchanger-cs2.html)|`2025-04-21 22:45:00`|`Counter-Strike 2`|
 |[MINI&#45;Disassembler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/697540-mini-disassembler.html)|`2025-04-21 22:34:00`|`General Programming and Reversing`|
