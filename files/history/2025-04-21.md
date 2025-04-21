@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Plouton &#45; A System Management Mode &#40;SMM&#41; cheat framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693225-plouton-system-management-mode-smm-cheat-framework.html)|`2025-04-21 21:51:00`|`Anti-Cheat Bypass`|
+|[Getting correct UWorld](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/697526-getting-correct-uworld.html)|`2025-04-21 21:48:00`|`Valorant`|
 |[Any PVE cheats for Destiny 2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/661636-pve-cheats-destiny-2-a.html)|`2025-04-21 21:36:00`|`Forum General`|
 |[Internal injection for EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696093-internal-injection-eac.html)|`2025-04-21 21:31:00`|`Anti-Cheat Bypass`|
 |[Rus&#40;CIS&#41; account upgrade](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/697513-rus-cis-account-upgrade.html)|`2025-04-21 21:19:00`|`Escape from Tarkov`|
