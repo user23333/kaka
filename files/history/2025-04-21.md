@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Finally a working External SkinChanger for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689733-finally-external-skinchanger-cs2.html)|`2025-04-21 22:45:00`|`Counter-Strike 2`|
 |[MINI&#45;Disassembler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/697540-mini-disassembler.html)|`2025-04-21 22:34:00`|`General Programming and Reversing`|
 |[mod&#95;au](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/694266-mod_au.html)|`2025-04-21 22:32:00`|`Among Us`|
 |[Completely imperceptible byte integrity detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/697538-completely-imperceptible-byte-integrity-detection.html)|`2025-04-21 22:21:00`|`Anti-Cheat Bypass`|
