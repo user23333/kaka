@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Among Us overlay &#40;undetectable&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/685399-external-overlay-undetectable.html)|`2025-04-22 00:47:00`|`Among Us`|
+|[Schedule 1 v3&#46;3f14 QoL Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696517-schedule-1-v3-3f14-qol-internal-cheat.html)|`2025-04-22 00:47:00`|`Other Games`|
 |[Spoof windows system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/692020-spoof-windows-system.html)|`2025-04-22 00:39:00`|`Forum General`|
 |[Do You Love Crypto?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/673834-love-crypto.html)|`2025-04-22 00:33:00`|`Off Topic`|
 |[File Affected by GTA Asset Hash Check Lists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697550-file-affected-gta-asset-hash-check-lists.html)|`2025-04-22 00:32:00`|`Grand Theft Auto V`|
