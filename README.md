@@ -26,9 +26,13 @@
 |112|[V1&#46;1 Schedule 1: QoL v0&#46;3&#46;4f4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49464)|`2025-04-22 00:20:13`|
 |4|[KM&#45;UM Client Buffer Based Shared Memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49483)|`2025-04-22 03:15:46`|
 |2|[Global Finder v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49484)|`2025-04-22 03:26:31`|
+|1|[rust material dump 4&#45;20&#45;2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49481)|`2025-04-22 03:39:41`|
+|1|[DayZ DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49471)|`2025-04-22 03:39:41`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA Radar/Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/697254-dma-radar-fuser.html)|`2025-04-22 03:36:00`|`DayZ SA`|
+|[Botlobby Tool FREE &#91;BO6/MW3/WARZONE&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/696676-botlobby-tool-free-bo6-mw3-warzone.html)|`2025-04-22 03:34:00`|`Call of Duty: Black Ops 6`|
 |[Automatic Arduino Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/697492-automatic-arduino-spoofer.html)|`2025-04-22 03:29:00`|`Valorant`|
 |[How can I return a call to the original function?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/direct3d/697176-return-call-original-function.html)|`2025-04-22 03:03:00`|`Direct3D`|
 |[SmmInfect &#45; Smm Backdoor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664482-smminfect-smm-backdoor.html)|`2025-04-22 03:14:00`|`Anti-Cheat Bypass`|
