@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-04-22 01:59:00`|`Valorant`|
+|[EAC and vac ban on steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/697531-eac-vac-ban-steam.html)|`2025-04-22 01:55:00`|`Anti-Cheat Bypass`|
 |[Valorant cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/697557-valorant-cheat.html)|`2025-04-22 01:42:00`|`Valorant`|
 |[The Adryan Pack &#45; Standalones & Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/695187-adryan-pack-standalones-source.html)|`2025-04-22 01:27:00`|`Star Wars Battlefront 2`|
 |[Getting correct UWorld](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/697526-getting-correct-uworld.html)|`2025-04-22 01:26:00`|`Valorant`|
