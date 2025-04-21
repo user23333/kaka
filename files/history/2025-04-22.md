@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spoof windows system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/692020-spoof-windows-system.html)|`2025-04-22 00:39:00`|`Forum General`|
+|[Do You Love Crypto?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/673834-love-crypto.html)|`2025-04-22 00:33:00`|`Off Topic`|
+|[File Affected by GTA Asset Hash Check Lists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697550-file-affected-gta-asset-hash-check-lists.html)|`2025-04-22 00:32:00`|`Grand Theft Auto V`|
+|[VAC Detection System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696050-vac-detection-system.html)|`2025-04-22 00:26:00`|`Counter-Strike 2`|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2025-04-22 00:20:00`|`Valorant`|
 |[CounterStrike Source Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/157661-counterstrike-source-reversal-structs-offsets.html)|`2025-04-22 00:16:00`|`CounterStrike Source`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-04-22 00:14:00`|`Grand Theft Auto V`|
 |[PUBG Experience &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/693901-pubg-experience-dma.html)|`2025-04-22 00:12:00`|`Playerunknown's Battlegrounds`|
