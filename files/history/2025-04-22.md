@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Heroes of Valor Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697486-heroes-valor-reversal-structs-offsets.html)|`2025-04-22 17:28:00`|`Other FPS Games`|
 |[็็็้Hi I'm a newbie&#46; Please take care of me&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/697621-hi-im-newbie-please-care.html)|`2025-04-22 17:12:00`|`Introductions`|
 |[CH347 DMA card problems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/620226-ch347-dma-card.html)|`2025-04-22 16:57:00`|`Other Hardware`|
 |[How does the hacking process change when hacking a game with anti&#45;cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/697400-hacking-process-change-hacking-game-anti-cheat.html)|`2025-04-22 16:34:00`|`Programming for Beginners`|
