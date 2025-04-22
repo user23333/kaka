@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BO6 Color Aim Assist &#40;W&#46;I&#46;P&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671984-bo6-color-aim-assist.html)|`2025-04-22 18:38:00`|`Call of Duty: Black Ops 6`|
+|[Reading memory using a kernel driver is safe but rendering overlay UM is it safe ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/697638-reading-memory-using-kernel-driver-safe-rendering-overlay-um-safe.html)|`2025-04-22 18:34:00`|`Counter-Strike 2`|
+|[Is it safe to use DMA for silent aiming?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/697637-safe-dma-silent-aiming.html)|`2025-04-22 18:33:00`|`Escape from Tarkov`|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-04-22 18:26:00`|`Other Games`|
 |[Schedule I Internal Cheat / Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696842-schedule-internal-cheat-helper.html)|`2025-04-22 17:58:00`|`Other Games`|
 |[New member](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/697635-new-member.html)|`2025-04-22 17:55:00`|`Introductions`|
 |[Help with make internal hack for mono unity games on c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/697543-help-internal-hack-mono-unity-games.html)|`2025-04-22 17:36:00`|`Unity`|
