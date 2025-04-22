@@ -36,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gloves are not working inventorychanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/697642-gloves-inventorychanger.html)|`2025-04-22 19:21:00`|`Counter-Strike 2`|
+|[External Aimbot &#40;lags on server&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695534-external-aimbot-lags-server.html)|`2025-04-22 19:20:00`|`Counter-Strike 2`|
+|[semi Rage Internal &#43;UNlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687422-semi-rage-internal-unlock.html)|`2025-04-22 19:18:00`|`Counter-Strike 2`|
+|[External AimDelay & AimTime](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694639-external-aimdelay-aimtime.html)|`2025-04-22 19:14:00`|`Counter-Strike 2`|
+|[TarkovGUI &#124; PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/694944-tarkovgui-pve.html)|`2025-04-22 19:14:00`|`Escape from Tarkov`|
 |[simulate key press external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/696333-simulate-key-press-external.html)|`2025-04-22 19:09:00`|`Unreal Engine 4`|
 |[BO6 Color Aim Assist &#40;W&#46;I&#46;P&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671984-bo6-color-aim-assist.html)|`2025-04-22 18:38:00`|`Call of Duty: Black Ops 6`|
 |[Reading memory using a kernel driver is safe but rendering overlay UM is it safe ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/697638-reading-memory-using-kernel-driver-safe-rendering-overlay-um-safe.html)|`2025-04-22 18:34:00`|`Counter-Strike 2`|
