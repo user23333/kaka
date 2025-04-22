@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[็็็้Hi I'm a newbie&#46; Please take care of me&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/697621-hi-im-newbie-please-care.html)|`2025-04-22 17:12:00`|`Introductions`|
+|[CH347 DMA card problems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/620226-ch347-dma-card.html)|`2025-04-22 16:57:00`|`Other Hardware`|
+|[How does the hacking process change when hacking a game with anti&#45;cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/697400-hacking-process-change-hacking-game-anti-cheat.html)|`2025-04-22 16:34:00`|`Programming for Beginners`|
 |[Is AI detected in valorant regardless of mouse movement?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/697626-ai-detected-valorant-regardless-mouse-movement.html)|`2025-04-22 16:18:00`|`Valorant`|
 |[Fivem pSilent&#40;Silent Aim&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/697454-fivem-psilent-silent-aim.html)|`2025-04-22 15:53:00`|`Alternative Online Mods`|
 |[Help with undetected hooking method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/696661-help-undetected-hooking-method.html)|`2025-04-22 15:35:00`|`Forum General`|
