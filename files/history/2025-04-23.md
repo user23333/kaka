@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BO6 Color Aim Assist &#40;W&#46;I&#46;P&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671984-bo6-color-aim-assist.html)|`2025-04-23 07:53:00`|`Call of Duty: Black Ops 6`|
 |[SPOOFER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/697756-spoofer.html)|`2025-04-23 07:37:00`|`Valorant`|
 |[Free Bloodstrike pc cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/696584-free-bloodstrike-pc-cheat.html)|`2025-04-23 07:32:00`|`Other FPS Games`|
 |[Craftrise](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/694181-craftrise.html)|`2025-04-23 07:17:00`|`Minecraft`|
