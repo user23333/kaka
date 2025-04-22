@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FreeStyle GunZ ShotBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/gunz/673351-freestyle-gunz-shotbot.html)|`2025-04-22 23:05:00`|`GunZ`|
 |[No tpm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/697678-tpm.html)|`2025-04-22 22:58:00`|`Valorant`|
 |[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2025-04-22 22:53:00`|`Other Games`|
 |[mod&#95;au](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/694266-mod_au.html)|`2025-04-22 22:38:00`|`Among Us`|
