@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-04-23 03:21:00`|`Grand Theft Auto V`|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-04-23 03:21:00`|`Counter-Strike 2`|
+|[Code a kernel driver or abuse a vulnerable driver?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/697522-code-kernel-driver-abuse-vulnerable-driver.html)|`2025-04-23 03:20:00`|`Anti-Cheat Bypass`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-04-23 03:17:00`|`Escape from Tarkov`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-04-23 03:17:00`|`Other MMORPG and Strategy`|
+|[Xonotic x86 Internal &#40;0&#46;8&#46;2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697451-xonotic-x86-internal-0-8-2-a.html)|`2025-04-23 03:17:00`|`Other FPS Games`|
 |[cheat engine for vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696107-cheat-engine-vanguard.html)|`2025-04-23 03:13:00`|`Anti-Cheat Bypass`|
 |[QuasarDMA Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/697510-quasardma-update.html)|`2025-04-23 03:09:00`|`Rust`|
 |[TF2Classic Internal Cheat V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/598383-tf2classic-internal-cheat-v2.html)|`2025-04-23 03:08:00`|`Team Fortress 2`|
