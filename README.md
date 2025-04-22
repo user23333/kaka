@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Get Player Names w/ Net Id&#40;s&#41; Externally w/ Unicode Support](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/697660-player-names-net-id-externally-unicode-support.html)|`2025-04-22 21:46:00`|`Alternative Online Mods`|
+|[Searching arduino cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695495-searching-arduino-cheat.html)|`2025-04-22 21:41:00`|`Valorant`|
+|[Labyrinthine Menu &#91;Person300&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/614946-labyrinthine-menu-person300.html)|`2025-04-22 21:32:00`|`Other FPS Games`|
 |[Get Player names without using api](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/695784-player-names-using-api.html)|`2025-04-22 21:27:00`|`Alternative Online Mods`|
 |[My external cheat overlay using CreateWindow was detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/697081-external-cheat-overlay-using-createwindow-detected.html)|`2025-04-22 21:15:00`|`CrossFire`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-04-22 21:07:00`|`Other FPS Games`|
