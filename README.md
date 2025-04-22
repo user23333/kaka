@@ -36,6 +36,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Get Player names without using api](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/695784-player-names-using-api.html)|`2025-04-22 21:27:00`|`Alternative Online Mods`|
+|[My external cheat overlay using CreateWindow was detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/697081-external-cheat-overlay-using-createwindow-detected.html)|`2025-04-22 21:15:00`|`CrossFire`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-04-22 21:07:00`|`Other FPS Games`|
+|[Rocket League XP Farm Bot &#45; External AI &#40;again&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/697656-rocket-league-xp-farm-bot-external-ai.html)|`2025-04-22 21:05:00`|`Other Games`|
+|[Rocket League XP Farm Bot &#45; External AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695550-rocket-league-xp-farm-bot-external-ai.html)|`2025-04-22 20:58:00`|`Other Games`|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-04-22 20:58:00`|`Counter-Strike 2 Releases`|
 |[Injectors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/696932-injectors.html)|`2025-04-22 20:56:00`|`Team Fortress 2`|
 |[Where can i find makcu&#91;kmbox b pro&#93; commands to communicate?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/697655-makcu-kmbox-pro-commands-communicate.html)|`2025-04-22 20:50:00`|`Other Hardware`|
 |[D3D12 Wallhack for War Robots: Frontiers &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697654-d3d12-wallhack-war-robots-frontiers-source.html)|`2025-04-22 20:43:00`|`Other FPS Games`|
