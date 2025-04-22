@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Injectors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/696932-injectors.html)|`2025-04-22 20:56:00`|`Team Fortress 2`|
+|[Where can i find makcu&#91;kmbox b pro&#93; commands to communicate?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/697655-makcu-kmbox-pro-commands-communicate.html)|`2025-04-22 20:50:00`|`Other Hardware`|
+|[D3D12 Wallhack for War Robots: Frontiers &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697654-d3d12-wallhack-war-robots-frontiers-source.html)|`2025-04-22 20:43:00`|`Other FPS Games`|
+|[Controller Emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673578-controller-emulation.html)|`2025-04-22 20:39:00`|`Call of Duty: Black Ops 6`|
 |[cs2&#95;webradar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/608052-cs2_webradar.html)|`2025-04-22 20:32:00`|`Counter-Strike 2 Releases`|
 |[Undetectable among us Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/637492-undetectable-cheat.html)|`2025-04-22 20:23:00`|`Among Us`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-04-22 20:08:00`|`Playerunknown's Battlegrounds`|
