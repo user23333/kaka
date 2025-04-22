@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is AI detected in valorant regardless of mouse movement?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/697626-ai-detected-valorant-regardless-mouse-movement.html)|`2025-04-22 16:18:00`|`Valorant`|
 |[Fivem pSilent&#40;Silent Aim&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/697454-fivem-psilent-silent-aim.html)|`2025-04-22 15:53:00`|`Alternative Online Mods`|
 |[Help with undetected hooking method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/696661-help-undetected-hooking-method.html)|`2025-04-22 15:35:00`|`Forum General`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-04-22 15:10:00`|`Other MMORPG and Strategy`|
