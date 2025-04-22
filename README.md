@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[simulate key press external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/696333-simulate-key-press-external.html)|`2025-04-22 19:09:00`|`Unreal Engine 4`|
 |[BO6 Color Aim Assist &#40;W&#46;I&#46;P&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671984-bo6-color-aim-assist.html)|`2025-04-22 18:38:00`|`Call of Duty: Black Ops 6`|
 |[Reading memory using a kernel driver is safe but rendering overlay UM is it safe ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/697638-reading-memory-using-kernel-driver-safe-rendering-overlay-um-safe.html)|`2025-04-22 18:34:00`|`Counter-Strike 2`|
 |[Is it safe to use DMA for silent aiming?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/697637-safe-dma-silent-aiming.html)|`2025-04-22 18:33:00`|`Escape from Tarkov`|
