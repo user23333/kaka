@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Clumper&#45;7 rust auto dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685795-clumper-7-rust-auto-dumper.html)|`2025-04-23 06:33:00`|`Rust`|
 |[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2025-04-23 06:10:00`|`Other MMORPG and Strategy`|
 |[Is AI detected in valorant regardless of mouse movement?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/697626-ai-detected-valorant-regardless-mouse-movement.html)|`2025-04-23 06:00:00`|`Valorant`|
 |[Sigma Rivals v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/696947-sigma-rivals-v2.html)|`2025-04-23 05:57:00`|`Marvel Rivals`|
