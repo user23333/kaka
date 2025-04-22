@@ -11,6 +11,7 @@
 |8|[Creating Particles Anywhere &#40;Weather, Env, Etc&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/697184-creating-particles-weather-env-etc.html)|`2025-04-23 00:15:31`|`counter-strike-2-a`|
 |12|[Schedule I Internal Cheat / Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696842-schedule-internal-cheat-helper.html)|`2025-04-23 00:15:31`|`other-games`|
 |8|[flagged accounts are available for migration?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696670-flagged-accounts-available-migration.html)|`2025-04-23 00:15:31`|`grand-theft-auto-v`|
+|3|[May 2025 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/696917-2025-motm-nominations.html)|`2025-04-23 05:10:06`|`member-of-the-month`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gmod offsets x86](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/697446-gmod-offsets-x86.html)|`2025-04-23 05:07:00`|`Garry's Mod`|
+|[Call of Duty: Modern Warfare II Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-ii/514893-call-duty-modern-warfare-ii-reversal-structs-offsets.html)|`2025-04-23 05:06:00`|`Call of Duty: Modern Warfare II`|
+|[TPM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/649260-tpm-spoofer.html)|`2025-04-23 04:58:00`|`Valorant`|
+|[KDMapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/697735-kdmapper.html)|`2025-04-23 04:56:00`|`Farlight 84`|
 |[No tpm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/697678-tpm.html)|`2025-04-23 04:54:00`|`Valorant`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-04-23 04:53:00`|`Phasmophobia`|
 |[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2025-04-23 04:49:00`|`Other FPS Games`|
