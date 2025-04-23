@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[chams fullbright problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/697789-chams-fullbright.html)|`2025-04-23 13:56:00`|`Garry's Mod`|
+|[Signed Spoofer By Microsoft&#40;EAC & BE&#41;  Early Christmas Present](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677190-signed-spoofer-microsoft-eac-christmas.html)|`2025-04-23 13:55:00`|`Anti-Cheat Bypass`|
 |[LSCHaX for 1&#46;70 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/224075-lschax-1-70-external.html)|`2025-04-23 13:48:00`|`Grand Theft Auto V`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-04-23 13:46:00`|`Counter-Strike 2`|
 |[Internal injection for EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696093-internal-injection-eac.html)|`2025-04-23 13:37:00`|`Anti-Cheat Bypass`|
