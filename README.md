@@ -11,6 +11,7 @@
 |17|[QuasarDMA Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/697510-quasardma-update.html)|`2025-04-24 00:21:21`|`rust`|
 |8|[Creating Particles Anywhere &#40;Weather, Env, Etc&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/697184-creating-particles-weather-env-etc.html)|`2025-04-24 00:21:21`|`counter-strike-2-a`|
 |3|[May 2025 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/696917-2025-motm-nominations.html)|`2025-04-24 00:21:21`|`member-of-the-month`|
+|7|[&#91;Reverse Engineer&#93; How to find the exact code for a specific game action](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/697066-reverse-engineer-exact-code-specific-game-action.html)|`2025-04-24 02:26:37`|`elite-dangerous`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[reverse function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/697902-reverse-function.html)|`2025-04-24 02:22:00`|`Valorant`|
+|[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2025-04-24 02:19:00`|`Other MMORPG and Strategy`|
+|[Is there any reason why Ghidra is not popular](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/697898-reason-ghidra-popular.html)|`2025-04-24 02:05:00`|`Off Topic`|
+|[New To This Could Use Some Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/697893-help.html)|`2025-04-24 01:51:00`|`Call of Duty: Black Ops 6`|
 |[How do you avoid HWID/PC bans while learning game hacking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/697892-avoid-hwid-pc-bans-learning-game-hacking.html)|`2025-04-24 01:50:00`|`General Programming and Reversing`|
 |[DuneCore &#45; CS2 Best Triggerbot so far &#40;for legit players&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691168-dunecore-cs2-triggerbot-legit-players.html)|`2025-04-24 01:47:00`|`Counter-Strike 2`|
 |[Overwatch Crashes with Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/697334-overwatch-crashes-cheat-engine.html)|`2025-04-24 01:46:00`|`Overwatch`|
