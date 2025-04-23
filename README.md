@@ -31,9 +31,15 @@
 |1|[Driver Signing Certificate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49503)|`2025-04-23 17:17:42`|
 |1|[&#43;&#43;Fortnite&#43;Release&#45;34&#46;40&#45;CL&#45;41753727](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49499)|`2025-04-23 17:17:42`|
 |1|[Fortnite 5&#46;41 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49488)|`2025-04-23 17:17:42`|
+|5|[Farlight 84 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49496)|`2025-04-23 17:33:27`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Farlight 84 Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/661656-external-farlight-84-free-cheat.html)|`2025-04-23 17:28:00`|`Farlight 84`|
+|[Accessing virtual addresses from EFI driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/697752-accessing-virtual-addresses-efi-driver.html)|`2025-04-23 17:26:00`|`Anti-Cheat Bypass`|
+|[How can I obtain a signing certificate for my driver?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677986-obtain-signing-certificate-driver.html)|`2025-04-23 17:20:00`|`Anti-Cheat Bypass`|
+|[Memoriam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/563890-memoriam.html)|`2025-04-23 17:19:00`|`Garry's Mod`|
+|[Driver signing certificate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/697690-driver-signing-certificate.html)|`2025-04-23 17:17:00`|`Anti-Cheat Bypass`|
 |[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-04-23 17:17:00`|`Farlight 84`|
 |[How do I know how an application is fingerprinting?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/697771-application-fingerprinting.html)|`2025-04-23 17:12:00`|`General Programming and Reversing`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-04-23 16:58:00`|`Phasmophobia`|
