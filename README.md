@@ -28,9 +28,15 @@
 |20|[DayZ DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49471)|`2025-04-23 00:15:31`|
 |15|[Dark and Darker SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49470)|`2025-04-23 00:15:31`|
 |860|[PhasmoMenu v0&#46;5&#46;5&#46;6 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49469)|`2025-04-23 00:15:31`|
+|1|[Driver Signing Certificate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49503)|`2025-04-23 17:17:42`|
+|1|[&#43;&#43;Fortnite&#43;Release&#45;34&#46;40&#45;CL&#45;41753727](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49499)|`2025-04-23 17:17:42`|
+|1|[Fortnite 5&#46;41 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49488)|`2025-04-23 17:17:42`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-04-23 17:17:00`|`Farlight 84`|
+|[How do I know how an application is fingerprinting?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/697771-application-fingerprinting.html)|`2025-04-23 17:12:00`|`General Programming and Reversing`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-04-23 16:58:00`|`Phasmophobia`|
 |[The Adryan Pack &#45; Multiplayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/694661-adryan-pack-multiplayer.html)|`2025-04-23 16:57:00`|`Star Wars Battlefront 2`|
 |[hellow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/697801-hellow.html)|`2025-04-23 16:47:00`|`Introductions`|
 |[Operation Flashpoint Red River hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/630554-operation-flashpoint-red-river-hack.html)|`2025-04-23 16:17:00`|`Other FPS Games`|
