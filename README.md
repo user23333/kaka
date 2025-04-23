@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Get Player Names w/ Net Id&#40;s&#41; Externally w/ Unicode Support](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/697660-player-names-net-id-externally-unicode-support.html)|`2025-04-24 05:13:00`|`Alternative Online Mods`|
+|[PUBG Experience &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/693901-pubg-experience-dma.html)|`2025-04-24 05:12:00`|`Playerunknown's Battlegrounds`|
+|[Schedule I Internal Cheat / Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696842-schedule-internal-cheat-helper.html)|`2025-04-24 05:08:00`|`Other Games`|
 |[External Raycasting &#40;PhysX recreation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673196-external-raycasting-physx-recreation.html)|`2025-04-24 04:58:00`|`Escape from Tarkov`|
 |[SteelHunterInternal for Steel Hunters](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695182-steelhunterinternal-steel-hunters.html)|`2025-04-24 04:54:00`|`Other FPS Games`|
 |[Heroes of Valor Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697486-heroes-valor-reversal-structs-offsets.html)|`2025-04-24 04:44:00`|`Other FPS Games`|
