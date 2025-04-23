@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[APB Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/493164-apb-triggerbot.html)|`2025-04-23 18:26:00`|`All Points Bulletin`|
 |[unlock all chest treasure on cayo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697836-unlock-chest-treasure-cayo.html)|`2025-04-23 18:00:00`|`Grand Theft Auto V`|
 |[External Farlight 84 Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/661656-external-farlight-84-free-cheat.html)|`2025-04-23 17:28:00`|`Farlight 84`|
 |[Accessing virtual addresses from EFI driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/697752-accessing-virtual-addresses-efi-driver.html)|`2025-04-23 17:26:00`|`Anti-Cheat Bypass`|
