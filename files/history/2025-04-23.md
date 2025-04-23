@@ -13,6 +13,7 @@
 |8|[flagged accounts are available for migration?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696670-flagged-accounts-available-migration.html)|`2025-04-23 00:15:31`|`grand-theft-auto-v`|
 |3|[May 2025 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/696917-2025-motm-nominations.html)|`2025-04-23 05:10:06`|`member-of-the-month`|
 |6|[&#91;Internal&#93; DayZ Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/696704-internal-dayz-cheat.html)|`2025-04-23 06:18:53`|`dayz-sa`|
+|7|[&#91;Reverse Engineer&#93; How to find the exact code for a specific game action](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/697066-reverse-engineer-exact-code-specific-game-action.html)|`2025-04-23 10:21:00`|`elite-dangerous`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is it safe to use DMA for silent aiming?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/697637-safe-dma-silent-aiming.html)|`2025-04-23 10:19:00`|`Escape from Tarkov`|
+|[The simplest way to unlock GTA&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696911-simplest-unlock-gta.html)|`2025-04-23 10:17:00`|`Grand Theft Auto V`|
+|[Third Person](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/697442-third-person.html)|`2025-04-23 10:09:00`|`Counter-Strike 2`|
+|[Vanguard Spoofer Rev 2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612562-vanguard-spoofer-rev-2-a.html)|`2025-04-23 10:07:00`|`Valorant`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-04-23 08:07:00`|`Alternative Online Mods`|
 |[BO6 Color Aim Assist &#40;W&#46;I&#46;P&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671984-bo6-color-aim-assist.html)|`2025-04-23 07:53:00`|`Call of Duty: Black Ops 6`|
 |[SPOOFER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/697756-spoofer.html)|`2025-04-23 07:37:00`|`Valorant`|
