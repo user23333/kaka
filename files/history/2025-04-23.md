@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal injection for EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696093-internal-injection-eac.html)|`2025-04-23 13:37:00`|`Anti-Cheat Bypass`|
 |[The Closest Thing To Aimbot & No Recoil You're Going To Get](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/687328-closest-aimbot-recoil-youre.html)|`2025-04-23 13:18:00`|`THE FINALS`|
 |[rust dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/697785-rust-dma.html)|`2025-04-23 13:14:00`|`Rust`|
 |[pcileech&#45;rtl8188ee&#45;wifi emul](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/654112-pcileech-rtl8188ee-wifi-emul.html)|`2025-04-23 13:05:00`|`Anti-Cheat Bypass`|
