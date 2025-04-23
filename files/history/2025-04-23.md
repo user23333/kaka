@@ -14,6 +14,7 @@
 |3|[May 2025 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/696917-2025-motm-nominations.html)|`2025-04-23 05:10:06`|`member-of-the-month`|
 |6|[&#91;Internal&#93; DayZ Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/696704-internal-dayz-cheat.html)|`2025-04-23 06:18:53`|`dayz-sa`|
 |7|[&#91;Reverse Engineer&#93; How to find the exact code for a specific game action](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/697066-reverse-engineer-exact-code-specific-game-action.html)|`2025-04-23 10:21:00`|`elite-dangerous`|
+|13|[QuasarDMA Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/697510-quasardma-update.html)|`2025-04-23 12:10:36`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Reverse&#45;Engineering "Schedule I" to Scam the Casino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/697311-reverse-engineering-schedule-scam-casino.html)|`2025-04-23 12:06:00`|`General Programming and Reversing`|
+|[Delta Force Mobile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697779-delta-force-mobile.html)|`2025-04-23 11:56:00`|`Other FPS Games`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-04-23 11:19:00`|`Playerunknown's Battlegrounds`|
 |[Measures to keep external undetected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/697776-measures-external-undetected.html)|`2025-04-23 11:13:00`|`Counter-Strike 2`|
 |[help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/697487-help.html)|`2025-04-23 11:12:00`|`Valorant`|
