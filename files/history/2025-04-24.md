@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[any vpn wizards can help with RU account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/697995-vpn-wizards-help-ru-account.html)|`2025-04-24 22:51:00`|`Escape from Tarkov`|
 |[EngineTrace crashing &#40;and virtual functions in general&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/697994-enginetrace-crashing-virtual-functions.html)|`2025-04-24 22:44:00`|`CounterStrike Source`|
 |[GarrysMod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/697873-garrysmod.html)|`2025-04-24 22:42:00`|`Garry's Mod`|
 |[chams fullbright problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/697789-chams-fullbright.html)|`2025-04-24 22:38:00`|`Garry's Mod`|
