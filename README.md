@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EngineTrace crashing &#40;and virtual functions in general&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/697994-enginetrace-crashing-virtual-functions.html)|`2025-04-24 22:44:00`|`CounterStrike Source`|
+|[GarrysMod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/697873-garrysmod.html)|`2025-04-24 22:42:00`|`Garry's Mod`|
+|[chams fullbright problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/697789-chams-fullbright.html)|`2025-04-24 22:38:00`|`Garry's Mod`|
 |[ANY WORKING ESP WITHOUT DMA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/697991-esp-dma.html)|`2025-04-24 21:57:00`|`Playerunknown's Battlegrounds`|
 |[Schedule 1 v3&#46;3f14 QoL Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696517-schedule-1-v3-3f14-qol-internal-cheat.html)|`2025-04-24 21:53:00`|`Other Games`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-04-24 21:52:00`|`Counter-Strike 2 Releases`|
