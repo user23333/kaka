@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ban 10 and 30 minute](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/697329-ban-10-30-minute.html)|`2025-04-24 18:37:00`|`PUBG Mobile`|
+|[Knives Out Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/696539-knives-offset.html)|`2025-04-24 18:37:00`|`Other FPS Games`|
+|[The simplest way to unlock GTA&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696911-simplest-unlock-gta.html)|`2025-04-24 18:12:00`|`Grand Theft Auto V`|
 |[Russian Account Bypass TUT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/688961-russian-account-bypass-tut.html)|`2025-04-24 17:35:00`|`Escape from Tarkov`|
 |[Knives Out Cheat group](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697969-knives-cheat.html)|`2025-04-24 17:24:00`|`Other FPS Games`|
 |[The Classrooms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/697968-classrooms.html)|`2025-04-24 17:24:00`|`Other Games`|
