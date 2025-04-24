@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is rust actually viable for game hacking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust-language-/685138-rust-actually-viable-game-hacking.html)|`2025-04-24 15:47:00`|`Rust (Language)`|
+|[SOLO MISSION SCRIPT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697957-solo-mission-script.html)|`2025-04-24 15:44:00`|`Grand Theft Auto V`|
 |[CE Payday 3 &#45; 790407](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/697955-ce-payday-3-790407-a.html)|`2025-04-24 15:34:00`|`Payday 3`|
 |[Invalid Bones](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/697954-invalid-bones.html)|`2025-04-24 15:32:00`|`Rust`|
 |[MapleStory Internal base v258&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/694470-maplestory-internal-base-v258-2-a.html)|`2025-04-24 15:27:00`|`Maple Story`|
