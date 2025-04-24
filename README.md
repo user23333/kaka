@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-04-24 09:54:00`|`Rust`|
+|[EAC and vac ban on steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/697531-eac-vac-ban-steam.html)|`2025-04-24 09:51:00`|`Anti-Cheat Bypass`|
+|[open fortess cheat by AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/697569-fortess-cheat-ai.html)|`2025-04-24 09:47:00`|`Team Fortress 2`|
+|[Career unlock with Yimmenu v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696116-career-unlock-yimmenu-v2.html)|`2025-04-24 09:44:00`|`Grand Theft Auto V`|
+|[How can I obtain a signing certificate for my driver?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677986-obtain-signing-certificate-driver.html)|`2025-04-24 09:40:00`|`Anti-Cheat Bypass`|
 |[how do i stop these delay bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686701-stop-delay-bans.html)|`2025-04-24 08:39:00`|`Valorant`|
 |[Is there a way to bypass the vanguard?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/697931-bypass-vanguard.html)|`2025-04-24 08:15:00`|`Valorant`|
 |[Theia static decryptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696332-theia-static-decryptor.html)|`2025-04-24 08:09:00`|`Anti-Cheat Bypass`|
