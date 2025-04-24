@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Please someone do a cheat for this game &#40;godmod and inf money&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695211-please-cheat-game-godmod-inf-money.html)|`2025-04-25 02:57:00`|`Other Games`|
+|[Please someone do a cheat for this game &#40;godmod and inf money&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695211-please-cheat-game-godmod-inf-money.html)|`2025-04-25 02:57:00`|`Other Games`|
+|[help i need free perm spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/697949-help-free-perm-spoofer.html)|`2025-04-25 02:56:00`|`Valorant`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-04-25 02:50:00`|`Counter-Strike 2`|
 |[External Freecam?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/698043-external-freecam.html)|`2025-04-25 02:47:00`|`Alternative Online Mods`|
 |[Aimbot convert 3D to 2D postion relative](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/697984-aimbot-convert-3d-2d-postion-relative.html)|`2025-04-25 02:45:00`|`Counter-Strike 2`|
