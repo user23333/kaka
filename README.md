@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sigma Rivals v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/696947-sigma-rivals-v2.html)|`2025-04-25 00:58:00`|`Marvel Rivals`|
 |[BigBaseV2&#45;Enhanced GTA5 Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696993-bigbasev2-enhanced-gta5-enhanced.html)|`2025-04-25 00:54:00`|`Grand Theft Auto V`|
 |[Fragpunk Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697941-fragpunk-internal.html)|`2025-04-25 00:52:00`|`Other FPS Games`|
 |[External Farlight 84 Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/661656-external-farlight-84-free-cheat.html)|`2025-04-25 00:49:00`|`Farlight 84`|
