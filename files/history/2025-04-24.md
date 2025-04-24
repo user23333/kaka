@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2025-04-24 10:58:00`|`Other FPS Games`|
+|[Rocket League XP Farm Bot &#45; External AI &#40;again&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/697656-rocket-league-xp-farm-bot-external-ai.html)|`2025-04-24 10:54:00`|`Other Games`|
+|[CIS Region bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/697547-cis-region-bypass.html)|`2025-04-24 10:44:00`|`Escape from Tarkov`|
+|[BO6 Fuser ESP/AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676862-bo6-fuser-esp-aim.html)|`2025-04-24 10:40:00`|`Call of Duty: Black Ops 6`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-04-24 10:38:00`|`Rainbow Six Siege`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-04-24 09:54:00`|`Rust`|
 |[EAC and vac ban on steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/697531-eac-vac-ban-steam.html)|`2025-04-24 09:51:00`|`Anti-Cheat Bypass`|
 |[open fortess cheat by AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/697569-fortess-cheat-ai.html)|`2025-04-24 09:47:00`|`Team Fortress 2`|
