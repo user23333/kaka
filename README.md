@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How can I use kiddion menu or GTAHAX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697979-kiddion-menu-gtahax.html)|`2025-04-25 07:29:00`|`Grand Theft Auto V`|
 |[Auto Dump Prefab Ids &#40; Server &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/698071-auto-dump-prefab-ids-server.html)|`2025-04-25 07:14:00`|`Rust`|
 |[EFI driver for a personal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698070-efi-driver-personal-cheat.html)|`2025-04-25 07:01:00`|`Anti-Cheat Bypass`|
 |[Auto Updating Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/636910-auto-updating-super-animal-royale-hack.html)|`2025-04-25 06:59:00`|`Other Games`|
