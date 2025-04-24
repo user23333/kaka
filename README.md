@@ -15,6 +15,7 @@
 |2|[My external cheat overlay using CreateWindow was detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/697081-external-cheat-overlay-using-createwindow-detected.html)|`2025-04-24 03:22:51`|`crossfire`|
 |9|[New Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/697046-bans.html)|`2025-04-24 08:45:15`|`marvel-rivals`|
 |17|[Custom licence plates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697185-custom-licence-plates.html)|`2025-04-24 20:22:32`|`grand-theft-auto-v`|
+|5|[Optimized KM&#45;UM Shared Memory &#45; POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/697488-optimized-km-um-shared-memory-poc.html)|`2025-04-24 21:31:20`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TarkovGUI &#124; PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/694944-tarkovgui-pve.html)|`2025-04-24 21:28:00`|`Escape from Tarkov`|
+|[Knives Out CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/687476-knives-ct.html)|`2025-04-24 21:27:00`|`Other FPS Games`|
 |[&#91;LINUX&#93; External Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/696976-linux-external-multihack.html)|`2025-04-24 20:57:00`|`Counter-Strike 2 Releases`|
 |[mini tank issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697988-mini-tank-issue.html)|`2025-04-24 20:56:00`|`Grand Theft Auto V`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-04-24 20:55:00`|`Playerunknown's Battlegrounds`|
