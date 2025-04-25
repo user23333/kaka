@@ -13,6 +13,7 @@
 |17|[Custom licence plates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697185-custom-licence-plates.html)|`2025-04-26 00:22:15`|`grand-theft-auto-v`|
 |5|[Optimized KM&#45;UM Shared Memory &#45; POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/697488-optimized-km-um-shared-memory-poc.html)|`2025-04-26 00:55:22`|`anti-cheat-bypass`|
 |7|[How can I return a call to the original function?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/direct3d/697176-return-call-original-function.html)|`2025-04-26 06:14:04`|`direct3d`|
+|29|[Heroes of Valor Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697486-heroes-valor-reversal-structs-offsets.html)|`2025-04-26 06:57:48`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
