@@ -50,6 +50,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Titanfall 2 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/688353-titanfall-2-internal-cheat.html)|`2025-04-25 22:01:00`|`Titanfall`|
+|[Way to modify protected registry key?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698149-modify-protected-registry-key.html)|`2025-04-25 22:00:00`|`Anti-Cheat Bypass`|
 |[driver kernel or certificate why?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698148-driver-kernel-certificate.html)|`2025-04-25 21:50:00`|`Valorant`|
 |[How can i get pos from player&#95;sound event](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698146-pos-player_sound-event.html)|`2025-04-25 21:32:00`|`Counter-Strike 2`|
 |[My external cheat overlay using CreateWindow was detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/697081-external-cheat-overlay-using-createwindow-detected.html)|`2025-04-25 21:14:00`|`CrossFire`|
