@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any New Dead by Daylight Hacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694375-dead-daylight-hacks.html)|`2025-04-26 05:38:00`|`Other FPS Games`|
+|[FragPunk Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691832-fragpunk-dump.html)|`2025-04-26 05:36:00`|`Other FPS Games`|
 |[Open fortess AI cheat &#40;updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/698073-fortess-ai-cheat-updated.html)|`2025-04-26 05:21:00`|`Team Fortress 2`|
 |[FragPunk Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/666506-fragpunk-reversal-structs-offsets.html)|`2025-04-26 05:14:00`|`Other FPS Games`|
 |[Auto Dump Prefab Ids &#40; Server &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/698071-auto-dump-prefab-ids-server.html)|`2025-04-26 05:12:00`|`Rust`|
