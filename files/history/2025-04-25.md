@@ -46,9 +46,13 @@
 |1|[rust dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49508)|`2025-04-25 18:57:56`|
 |1|[REPX&#95;v1&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49514)|`2025-04-25 19:12:19`|
 |8|[mhur&#95;external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49509)|`2025-04-25 19:12:19`|
+|5|[FragPunk Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49517)|`2025-04-25 20:30:21`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Blood Strike Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697964-blood-strike-cheat.html)|`2025-04-25 20:27:00`|`Other FPS Games`|
+|[what is this ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698137-ban.html)|`2025-04-25 20:14:00`|`Valorant`|
+|[Controller Emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673578-controller-emulation.html)|`2025-04-25 20:12:00`|`Call of Duty: Black Ops 6`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-04-25 19:56:00`|`Grand Theft Auto V`|
 |[reverse function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/697902-reverse-function.html)|`2025-04-25 19:35:00`|`Valorant`|
 |[Are &#46;text hooks still viable in 2025?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698133-text-hooks-viable-2025-a.html)|`2025-04-25 19:31:00`|`Anti-Cheat Bypass`|
