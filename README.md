@@ -53,6 +53,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need Guidance on Building a Fully Undetectable Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/695324-guidance-building-undetectable-spoofer.html)|`2025-04-25 23:29:00`|`C and C++`|
+|[KaFreaKinB00m/HorizonModz are &#91;removed&#93;s&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/698160-kafreakinb00m-horizonmodz-removed.html)|`2025-04-25 23:14:00`|`Call of Duty: Black Ops Cold War`|
 |[Bodycam Internal Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691853-bodycam-internal-updated.html)|`2025-04-25 23:07:00`|`Other FPS Games`|
 |[Are there any free Samples, Reqs and super credit bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/681617-free-samples-reqs-super-credit-bypass.html)|`2025-04-25 23:02:00`|`HELLDIVERS 2`|
 |[Infinite Spears](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/698158-infinite-spears.html)|`2025-04-25 23:00:00`|`Sea of Thieves`|
