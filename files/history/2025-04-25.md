@@ -50,6 +50,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How can i get pos from player&#95;sound event](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698146-pos-player_sound-event.html)|`2025-04-25 21:32:00`|`Counter-Strike 2`|
+|[My external cheat overlay using CreateWindow was detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/697081-external-cheat-overlay-using-createwindow-detected.html)|`2025-04-25 21:14:00`|`CrossFire`|
+|[Russian Account Bypass TUT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/688961-russian-account-bypass-tut.html)|`2025-04-25 21:04:00`|`Escape from Tarkov`|
 |[Linux External ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/674732-linux-external-esp-aimbot.html)|`2025-04-25 20:46:00`|`Counter-Strike 2 Releases`|
 |[mouse&#95;event &#45; safe or nah](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/696662-mouse_event-safe-nah.html)|`2025-04-25 20:33:00`|`Rust`|
 |[Blood Strike Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697964-blood-strike-cheat.html)|`2025-04-25 20:27:00`|`Other FPS Games`|
