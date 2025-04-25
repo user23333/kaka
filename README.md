@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External GlowESP &#40;with source code&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/694365-external-glowesp-source-code.html)|`2025-04-26 05:46:00`|`Counter-Strike 2`|
+|[99% auto updatable Simple Internal Cheat &#40;no need decryption&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/682116-99-auto-updatable-simple-internal-cheat-decryption.html)|`2025-04-26 05:31:00`|`Rust`|
 |[Path of Exile 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676435-path-exile-2-reversal-structs-offsets.html)|`2025-04-26 05:39:00`|`Other MMORPG and Strategy`|
 |[Any New Dead by Daylight Hacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694375-dead-daylight-hacks.html)|`2025-04-26 05:38:00`|`Other FPS Games`|
 |[FragPunk Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691832-fragpunk-dump.html)|`2025-04-26 05:36:00`|`Other FPS Games`|
