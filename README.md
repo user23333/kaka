@@ -46,6 +46,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Treason's V3 AIO Aim Assist Edit &#40;BETA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670270-treasons-v3-aio-aim-assist-edit-beta.html)|`2025-04-25 18:03:00`|`Call of Duty: Black Ops 6`|
+|[GTA V Object ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/346794-gta-object-esp.html)|`2025-04-25 17:55:00`|`Grand Theft Auto V`|
+|[C&#43;&#43; Color Triggerbot New Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691387-color-triggerbot-undetected.html)|`2025-04-25 17:48:00`|`Valorant`|
+|[Lua Menu &#40;Heavily scripted by ChatGPT&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/682688-lua-menu-heavily-scripted-chatgpt.html)|`2025-04-25 17:46:00`|`Garry's Mod`|
+|[Foolproof Ban evasion methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/694867-foolproof-ban-evasion-methods.html)|`2025-04-25 17:40:00`|`Garry's Mod`|
 |[CE Payday 3 &#45; 790407](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/697955-ce-payday-3-790407-a.html)|`2025-04-25 17:34:00`|`Payday 3`|
 |[Rocket League &#45; Dumper &#40;x64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/402519-rocket-league-dumper-x64.html)|`2025-04-25 17:29:00`|`Other FPS Games`|
 |[HCVI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/696613-hcvi.html)|`2025-04-25 17:28:00`|`Valorant`|
