@@ -49,6 +49,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[reverse function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/697902-reverse-function.html)|`2025-04-25 19:35:00`|`Valorant`|
 |[Are &#46;text hooks still viable in 2025?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698133-text-hooks-viable-2025-a.html)|`2025-04-25 19:31:00`|`Anti-Cheat Bypass`|
 |[Need help understanding how to find pointers using x64dbg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/698132-help-understanding-pointers-using-x64dbg.html)|`2025-04-25 19:30:00`|`General Programming and Reversing`|
 |[Marathon by Bungie](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/697840-marathon-bungie.html)|`2025-04-25 19:13:00`|`Off Topic`|
