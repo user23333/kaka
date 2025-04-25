@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ms shooting delay different weapons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698075-ms-shooting-delay-weapons.html)|`2025-04-26 04:46:00`|`Valorant`|
 |[Vanguard Colorbot Detection?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698095-vanguard-colorbot-detection.html)|`2025-04-26 04:41:00`|`Valorant`|
 |[Getting started w 2pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698129-getting-started-2pc.html)|`2025-04-26 04:39:00`|`Valorant`|
 |[what is this ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698137-ban.html)|`2025-04-26 04:38:00`|`Valorant`|
