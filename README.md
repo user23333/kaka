@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-04-26 04:34:00`|`Apex Legends`|
+|[anyway to unlock the trippy baseball bat and knife?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/694168-anyway-unlock-trippy-baseball-bat-knife.html)|`2025-04-26 04:26:00`|`Grand Theft Auto V`|
+|[TarkovGUI &#124; PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/694944-tarkovgui-pve.html)|`2025-04-26 04:22:00`|`Escape from Tarkov`|
+|[New external ESP SoT Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/581265-external-esp-sot-helper.html)|`2025-04-26 04:09:00`|`Sea of Thieves`|
 |[Pro CS2 DMA &#45; Esp & Aimbot & Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656442-pro-cs2-dma-esp-aimbot-web-radar.html)|`2025-04-26 04:19:00`|`Counter-Strike 2`|
 |[asphyxia&#45;cs2 updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687274-asphyxia-cs2-updated.html)|`2025-04-26 04:16:00`|`Counter-Strike 2`|
 |[Need help understanding how to find pointers using x64dbg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/698132-help-understanding-pointers-using-x64dbg.html)|`2025-04-26 04:07:00`|`General Programming and Reversing`|
