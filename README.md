@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can't find data ptr win 11 24h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/698064-cant-data-ptr-win-11-24h2.html)|`2025-04-26 02:36:00`|`General Programming and Reversing`|
+|[KMMapper error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698181-kmmapper-error.html)|`2025-04-26 02:35:00`|`Anti-Cheat Bypass`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-04-26 02:25:00`|`Other MMORPG and Strategy`|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2025-04-26 02:24:00`|`Valorant`|
 |[Dark and Darker Internal V2 &#43; Hwid Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/618587-dark-darker-internal-v2-hwid-spoofer.html)|`2025-04-26 02:09:00`|`Other FPS Games`|
 |[Unturned cheats &#45; Dead on Windows for now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/698101-unturned-cheats-dead-windows.html)|`2025-04-26 02:07:00`|`Other FPS Games`|
 |[Rocket League &#45; ThoramiBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/593885-rocket-league-thoramibot.html)|`2025-04-26 02:04:00`|`Other Games`|
