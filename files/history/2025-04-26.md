@@ -11,6 +11,7 @@
 |6|[Globals Finder &#43; Decompile Scripts For Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697235-globals-finder-decompile-scripts-enhanced.html)|`2025-04-26 00:22:15`|`grand-theft-auto-v`|
 |4|[Driver signing certificate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/697690-driver-signing-certificate.html)|`2025-04-26 00:22:15`|`anti-cheat-bypass`|
 |17|[Custom licence plates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697185-custom-licence-plates.html)|`2025-04-26 00:22:15`|`grand-theft-auto-v`|
+|5|[Optimized KM&#45;UM Shared Memory &#45; POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/697488-optimized-km-um-shared-memory-poc.html)|`2025-04-26 00:55:22`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Getting the network control](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/698173-getting-network-control.html)|`2025-04-26 00:44:00`|`Alternative Online Mods`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-04-26 00:38:00`|`Playerunknown's Battlegrounds`|
 |[Spoofing for valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698171-spoofing-valorant.html)|`2025-04-26 00:36:00`|`Valorant`|
 |[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2025-04-26 00:35:00`|`Other FPS Games`|
