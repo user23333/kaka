@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-04-26 00:38:00`|`Playerunknown's Battlegrounds`|
+|[Spoofing for valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698171-spoofing-valorant.html)|`2025-04-26 00:36:00`|`Valorant`|
+|[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2025-04-26 00:35:00`|`Other FPS Games`|
+|[Defiance Game &#40;Fawkes&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/698168-defiance-game-fawkes.html)|`2025-04-26 00:25:00`|`Other MMORPG and Strategy`|
 |[Way to modify protected registry key?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698149-modify-protected-registry-key.html)|`2025-04-26 00:16:00`|`Anti-Cheat Bypass`|
 |[Sigma Rivals v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/696947-sigma-rivals-v2.html)|`2025-04-26 00:15:00`|`Marvel Rivals`|
 |[KaFreaKinB00m/HorizonModz are &#91;removed&#93;s&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/698160-kafreakinb00m-horizonmodz-removed.html)|`2025-04-26 00:12:00`|`Call of Duty: Black Ops Cold War`|
