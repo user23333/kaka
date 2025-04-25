@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant account checker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698192-valorant-account-checker.html)|`2025-04-26 04:58:00`|`Valorant`|
+|[Finding base address offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698172-finding-base-address-offset.html)|`2025-04-26 04:55:00`|`Counter-Strike 2`|
+|[external only bone esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692238-external-bone-esp.html)|`2025-04-26 04:53:00`|`Counter-Strike 2`|
 |[ms shooting delay different weapons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698075-ms-shooting-delay-weapons.html)|`2025-04-26 04:46:00`|`Valorant`|
 |[Vanguard Colorbot Detection?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698095-vanguard-colorbot-detection.html)|`2025-04-26 04:41:00`|`Valorant`|
 |[Getting started w 2pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698129-getting-started-2pc.html)|`2025-04-26 04:39:00`|`Valorant`|
