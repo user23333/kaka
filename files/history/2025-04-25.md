@@ -43,9 +43,11 @@
 |1|[CN&#45;SnowBreak &#45; Game Version 2&#46;7&#46;0&#46;138   CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49530)|`2025-04-25 17:34:08`|
 |1|[EOS Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49529)|`2025-04-25 17:43:09`|
 |1|[PAYDAY&#95;3&#95;790407](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49519)|`2025-04-25 17:43:09`|
+|1|[rust dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49508)|`2025-04-25 18:57:56`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[rust dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/697785-rust-dma.html)|`2025-04-25 18:55:00`|`Rust`|
 |[FragPunk Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/666506-fragpunk-reversal-structs-offsets.html)|`2025-04-25 18:50:00`|`Other FPS Games`|
 |[Getting started w 2pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698129-getting-started-2pc.html)|`2025-04-25 18:50:00`|`Valorant`|
 |[Mechabellum Cheat, Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/698128-mechabellum-cheat-helper.html)|`2025-04-25 18:49:00`|`Other MMORPG and Strategy`|
