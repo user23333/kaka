@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-04-25 08:46:00`|`Other MMORPG and Strategy`|
+|[simple cs2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695821-simple-cs2-internal.html)|`2025-04-25 08:33:00`|`Counter-Strike 2`|
+|[May 2025 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/696917-2025-motm-nominations.html)|`2025-04-25 08:21:00`|`Member of the Month`|
 |[Open fortess AI cheat &#40;updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/698073-fortess-ai-cheat-updated.html)|`2025-04-25 07:52:00`|`Team Fortress 2`|
 |[Before I got into DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/697919-dma.html)|`2025-04-25 07:49:00`|`Forum General`|
 |[Heroes of Valor Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697486-heroes-valor-reversal-structs-offsets.html)|`2025-04-25 07:39:00`|`Other FPS Games`|
