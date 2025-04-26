@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How can I unlock Tech Demon Mask](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698282-unlock-tech-demon-mask.html)|`2025-04-26 19:41:00`|`Grand Theft Auto V`|
 |[Horrible but functional external cheat source &#40;just needs offset updates&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/695921-horrible-functional-external-cheat-source-offset-updates.html)|`2025-04-26 19:36:00`|`CrossFire`|
 |[how do i stop these delay bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/686701-stop-delay-bans.html)|`2025-04-26 19:36:00`|`Valorant`|
 |[Source Code EXTERNAL CrossFire](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/641756-source-code-external-crossfire.html)|`2025-04-26 19:35:00`|`CrossFire`|
