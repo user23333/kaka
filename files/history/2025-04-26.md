@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Physical Reading Peb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698270-physical-reading-peb.html)|`2025-04-26 17:53:00`|`Anti-Cheat Bypass`|
 |[Remove Screen Effects](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/698268-remove-screen-effects.html)|`2025-04-26 17:23:00`|`Team Fortress 2`|
 |[Recently crossfire had a big update so my offset players are no longer working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/698266-recently-crossfire-update-offset-players.html)|`2025-04-26 17:20:00`|`CrossFire`|
 |[E&#46;T&#46;E](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/697427-e-t-e.html)|`2025-04-26 17:15:00`|`Other MMORPG and Strategy`|
