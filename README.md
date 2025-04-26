@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-04-27 06:44:00`|`Escape from Tarkov`|
+|[LEGIT PREMIUM CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/698358-legit-premium-cheat.html)|`2025-04-27 06:41:00`|`Battlefield 1`|
 |[Need a library or resource for making External/DMA cheats for Unity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/698355-library-resource-external-dma-cheats-unity.html)|`2025-04-27 06:30:00`|`Unity`|
 |[Did BaseNetworkable change structure on these last updates?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/698313-basenetworkable-change-structure-updates.html)|`2025-04-27 06:22:00`|`Rust`|
 |[Fragpunk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/698294-fragpunk.html)|`2025-04-27 06:21:00`|`Other FPS Games`|
