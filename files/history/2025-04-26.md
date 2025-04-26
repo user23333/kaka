@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Old faceit ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698105-faceit-ban.html)|`2025-04-26 21:59:00`|`Counter-Strike 2`|
+|[XIM Matrix detected on The Finals?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/679167-xim-matrix-detected-finals.html)|`2025-04-26 21:59:00`|`THE FINALS`|
+|[shadow banned for a month](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/695309-shadow-banned-month.html)|`2025-04-26 21:58:00`|`Call of Duty: Black Ops 6`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-04-26 21:48:00`|`Counter-Strike 2`|
 |[External Glow ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/698284-external-glow-esp.html)|`2025-04-26 21:38:00`|`Counter-Strike 2 Releases`|
 |[Looking for help with PS5 CODBO6 Hacks by using an elgato](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/697664-looking-help-ps5-codbo6-hacks-using-elgato.html)|`2025-04-26 21:37:00`|`Call of Duty: Black Ops 6`|
