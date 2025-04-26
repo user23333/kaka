@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Changing team to unassigned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/698196-changing-team-unassigned.html)|`2025-04-27 01:48:00`|`Team Fortress 2`|
 |[Gui help in cs2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698318-gui-help-cs2-cheat.html)|`2025-04-27 01:47:00`|`Counter-Strike 2`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-04-27 01:47:00`|`Call of Duty: Black Ops 6`|
 |[Arduino or KMBOX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/692347-arduino-kmbox.html)|`2025-04-27 01:45:00`|`PC Hardware`|
