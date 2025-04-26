@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Roblox gamepasses](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/698295-roblox-gamepasses.html)|`2025-04-26 21:20:00`|`Other Games`|
+|[Fragpunk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/698294-fragpunk.html)|`2025-04-26 21:14:00`|`Other FPS Games`|
+|[&#91;UE4&#93; Flipping Flags for Admin Rights &#40;No Anticheat&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/697240-ue4-flipping-flags-admin-rights-anticheat.html)|`2025-04-26 21:06:00`|`Unreal Engine 4`|
 |[Rocket League Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/179108-rocket-league-reversal-structs-offsets.html)|`2025-04-26 20:57:00`|`Other FPS Games`|
 |[custom chams materials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/698292-custom-chams-materials.html)|`2025-04-26 20:56:00`|`Rust`|
 |[DuneCore &#45; CS2 Best Triggerbot so far &#40;for legit players&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691168-dunecore-cs2-triggerbot-legit-players.html)|`2025-04-26 20:56:00`|`Counter-Strike 2`|
