@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-04-27 06:49:00`|`HELLDIVERS 2`|
+|[Schedule 1 v3&#46;3f14 QoL Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696517-schedule-1-v3-3f14-qol-internal-cheat.html)|`2025-04-27 06:47:00`|`Other Games`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-04-27 06:44:00`|`Escape from Tarkov`|
 |[LEGIT PREMIUM CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/698358-legit-premium-cheat.html)|`2025-04-27 06:41:00`|`Battlefield 1`|
 |[Need a library or resource for making External/DMA cheats for Unity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/698355-library-resource-external-dma-cheats-unity.html)|`2025-04-27 06:30:00`|`Unity`|
