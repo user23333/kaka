@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Trouble finding offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698155-trouble-finding-offset.html)|`2025-04-27 05:07:00`|`Counter-Strike 2`|
+|[Problem on thirdperson](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698350-thirdperson.html)|`2025-04-27 05:04:00`|`Counter-Strike 2`|
+|[Please someone do a cheat for this game &#40;godmod and inf money&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695211-please-cheat-game-godmod-inf-money.html)|`2025-04-27 04:56:00`|`Other Games`|
 |[Weird ProcessMovement exception](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/698212-weird-processmovement-exception.html)|`2025-04-27 04:43:00`|`Team Fortress 2`|
 |[QuasarDMA Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/697510-quasardma-update.html)|`2025-04-27 04:23:00`|`Rust`|
 |[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-04-27 04:33:00`|`PUBG Releases`|
