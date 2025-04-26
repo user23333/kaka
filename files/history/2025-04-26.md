@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Glow ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/698284-external-glow-esp.html)|`2025-04-26 21:38:00`|`Counter-Strike 2 Releases`|
+|[Looking for help with PS5 CODBO6 Hacks by using an elgato](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/697664-looking-help-ps5-codbo6-hacks-using-elgato.html)|`2025-04-26 21:37:00`|`Call of Duty: Black Ops 6`|
+|[First Time Modding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698296-time-modding.html)|`2025-04-26 21:33:00`|`Grand Theft Auto V`|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-04-26 21:19:00`|`Grand Theft Auto V`|
 |[Roblox gamepasses](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/698295-roblox-gamepasses.html)|`2025-04-26 21:20:00`|`Other Games`|
 |[Fragpunk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/698294-fragpunk.html)|`2025-04-26 21:14:00`|`Other FPS Games`|
 |[&#91;UE4&#93; Flipping Flags for Admin Rights &#40;No Anticheat&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/697240-ue4-flipping-flags-admin-rights-anticheat.html)|`2025-04-26 21:06:00`|`Unreal Engine 4`|
