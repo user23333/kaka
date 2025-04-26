@@ -11,6 +11,8 @@
 |17|[Custom licence plates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697185-custom-licence-plates.html)|`2025-04-27 00:00:06`|`grand-theft-auto-v`|
 |5|[Optimized KM&#45;UM Shared Memory &#45; POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/697488-optimized-km-um-shared-memory-poc.html)|`2025-04-27 00:00:06`|`anti-cheat-bypass`|
 |29|[Heroes of Valor Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697486-heroes-valor-reversal-structs-offsets.html)|`2025-04-27 00:00:06`|`other-fps-games`|
+|16|[Code a kernel driver or abuse a vulnerable driver?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/697522-code-kernel-driver-abuse-vulnerable-driver.html)|`2025-04-27 01:13:51`|`anti-cheat-bypass`|
+|11|[Gta 5 enhanced get all weapons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697710-gta-5-enhanced-weapons.html)|`2025-04-27 01:13:51`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Finding base address offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698172-finding-base-address-offset.html)|`2025-04-27 01:02:00`|`Counter-Strike 2`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-04-27 01:01:00`|`Apex Legends`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-04-27 00:53:00`|`Marvel Rivals`|
 |[Physical Reading Peb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698270-physical-reading-peb.html)|`2025-04-27 00:50:00`|`Anti-Cheat Bypass`|
 |[How to Grind infinit HG Wins, Levels and Money](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/680032-grind-infinit-hg-wins-levels-money.html)|`2025-04-27 00:44:00`|`Sea of Thieves`|
