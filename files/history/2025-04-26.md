@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rocket League Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/179108-rocket-league-reversal-structs-offsets.html)|`2025-04-26 20:57:00`|`Other FPS Games`|
+|[custom chams materials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/698292-custom-chams-materials.html)|`2025-04-26 20:56:00`|`Rust`|
+|[DuneCore &#45; CS2 Best Triggerbot so far &#40;for legit players&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691168-dunecore-cs2-triggerbot-legit-players.html)|`2025-04-26 20:56:00`|`Counter-Strike 2`|
+|[drawing string](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698291-drawing-string.html)|`2025-04-26 20:40:00`|`Valorant`|
 |[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-04-26 20:04:00`|`PUBG Releases`|
 |[How can I unlock Tech Demon Mask](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698282-unlock-tech-demon-mask.html)|`2025-04-26 19:41:00`|`Grand Theft Auto V`|
 |[Horrible but functional external cheat source &#40;just needs offset updates&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/695921-horrible-functional-external-cheat-source-offset-updates.html)|`2025-04-26 19:36:00`|`CrossFire`|
