@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DavidUmm's ValoTriggerbot &#124; UPDATED&#124; RELEASE SOON](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687159-davidumms-valotriggerbot-updated-release-soon.html)|`2025-04-26 19:19:00`|`Valorant`|
 |[FiveM Fake Players System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/694624-fivem-fake-players-system.html)|`2025-04-26 19:07:00`|`Alternative Online Mods`|
 |[Bypass Anti&#45;Cheat   Genshin Impact 5&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/658478-bypass-anti-cheat-genshin-impact-5-0-a.html)|`2025-04-26 18:55:00`|`Genshin Impact`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-04-26 18:53:00`|`League of Legends`|
