@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Texas Attributes Booster](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/696937-texas-attributes-booster.html)|`2025-04-28 05:08:00`|`Other FPS Games`|
+|[Finally a working External SkinChanger for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689733-finally-external-skinchanger-cs2.html)|`2025-04-28 05:08:00`|`Counter-Strike 2`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-04-28 05:06:00`|`Other Games`|
+|[Any Lost light cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697745-lost-light-cheats.html)|`2025-04-28 05:03:00`|`Other FPS Games`|
+|[Getting started w 2pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698129-getting-started-2pc.html)|`2025-04-28 04:59:00`|`Valorant`|
+|[Play together thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/321960-play-thread.html)|`2025-04-28 04:54:00`|`Grand Theft Auto V`|
+|[YimMenu&#46;dll 1&#46;70 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678007-yimmenu-dll-1-70-update.html)|`2025-04-28 04:51:00`|`Grand Theft Auto V`|
 |[Garry's Mod x64 Signatures, Offsets & Structs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/698468-garrys-mod-x64-signatures-offsets-structs.html)|`2025-04-28 04:08:00`|`Garry's Mod`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-04-28 04:43:00`|`Other FPS Games`|
 |[Full Anticheat Disabler &#40;You can play online&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687866-anticheat-disabler-play-online.html)|`2025-04-28 04:32:00`|`Marvel Rivals`|
