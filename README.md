@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;BloodStrike Mobile&#93; Help filtering object for esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680388-bloodstrike-mobile-help-filtering-object-esp.html)|`2025-04-27 10:08:00`|`Other FPS Games`|
+|[I am Arth](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/698286-am-arth.html)|`2025-04-27 10:05:00`|`Introductions`|
+|[Just an average guy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/698287-average-guy.html)|`2025-04-27 10:04:00`|`Introductions`|
+|[flywheel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/698366-flywheel.html)|`2025-04-27 10:02:00`|`Introductions`|
+|[x86 Instrumentation Callbacks Struct](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/698370-x86-instrumentation-callbacks-struct.html)|`2025-04-27 09:41:00`|`General Programming and Reversing`|
 |[Open fortess AI cheat &#40;updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/698073-fortess-ai-cheat-updated.html)|`2025-04-27 09:00:00`|`Team Fortress 2`|
 |[Fix after deleting FSL?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698354-fix-deleting-fsl.html)|`2025-04-27 08:39:00`|`Grand Theft Auto V`|
 |[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-04-27 08:36:00`|`Other Games`|
