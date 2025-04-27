@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6Siege ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/692513-r6siege-esp.html)|`2025-04-27 18:00:00`|`Rainbow Six Siege`|
+|[Webs PVE Only Menu v7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v7.html)|`2025-04-27 17:57:00`|`Escape from Tarkov`|
 |[Change the car color](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/686696-change-car-color.html)|`2025-04-27 17:42:00`|`Grand Theft Auto V`|
 |[Recoil Offset & Held Item Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/698407-recoil-offset-held-item-offsets.html)|`2025-04-27 17:16:00`|`Rust`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-04-27 17:01:00`|`Grand Theft Auto V`|
