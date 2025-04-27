@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698477-valorant-skin-changer.html)|`2025-04-28 05:46:00`|`Valorant`|
+|[Controller Emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673578-controller-emulation.html)|`2025-04-28 05:45:00`|`Call of Duty: Black Ops 6`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-04-28 05:22:00`|`Phasmophobia`|
 |[internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698040-internal-cheat.html)|`2025-04-28 05:36:00`|`Counter-Strike 2`|
 |[Sker Ritual](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/634621-sker-ritual.html)|`2025-04-28 05:32:00`|`Unity`|
