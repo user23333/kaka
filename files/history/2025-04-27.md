@@ -31,9 +31,13 @@
 |2|[cs2 internal esp ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49525)|`2025-04-27 21:52:05`|
 |1|[REPX&#95;v1&#46;1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49545)|`2025-04-27 22:12:18`|
 |2|[augov&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49528)|`2025-04-27 22:12:18`|
+|1|[DescendantInternal&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49543)|`2025-04-27 22:28:52`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMIEDIT now available for &#46;&#46;&#46; ASUS&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/677061-dmiedit-available-asus.html)|`2025-04-27 22:19:00`|`Valorant`|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-04-27 22:15:00`|`Other FPS Games`|
+|[Apex HWID Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/696532-apex-hwid-ban.html)|`2025-04-27 22:13:00`|`Apex Legends`|
 |[looking for Neo Strafe/Tap Strafe/Pico/Mantle/SuperGlide script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/697777-looking-neo-strafe-tap-strafe-pico-mantle-superglide-script.html)|`2025-04-27 22:07:00`|`Apex Legends`|
 |[SKIP COOLDOWN/MISSION SELECTOR FOR DEGUZMAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698429-skip-cooldown-mission-selector-deguzman.html)|`2025-04-27 22:03:00`|`Grand Theft Auto V`|
 |[internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698040-internal-cheat.html)|`2025-04-27 21:52:00`|`Counter-Strike 2`|
