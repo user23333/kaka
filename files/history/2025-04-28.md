@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TPM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/649260-tpm-spoofer.html)|`2025-04-28 02:53:00`|`Valorant`|
 |[Rocket League Custom SDK Drawing dliema](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/698454-rocket-league-custom-sdk-drawing-dliema.html)|`2025-04-28 02:46:00`|`Other Games`|
 |[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/696538-vigor-internal-cheat.html)|`2025-04-28 02:28:00`|`Other FPS Games`|
 |[Looking for help with PS5 CODBO6 Hacks by using an elgato](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/697664-looking-help-ps5-codbo6-hacks-using-elgato.html)|`2025-04-28 01:57:00`|`Call of Duty: Black Ops 6`|
