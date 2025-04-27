@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-04-27 23:54:00`|`Valorant`|
 |[vgk contains Anti Cheat Team Picture](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698436-vgk-contains-anti-cheat-team-picture.html)|`2025-04-27 23:46:00`|`Valorant`|
 |[Any Lost Ark cheat in 2025?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/698435-lost-ark-cheat-2025-a.html)|`2025-04-27 23:36:00`|`Other MMORPG and Strategy`|
 |[Gta 5 enhanced get all weapons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697710-gta-5-enhanced-weapons.html)|`2025-04-27 23:36:00`|`Grand Theft Auto V`|
