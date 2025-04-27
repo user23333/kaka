@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698040-internal-cheat.html)|`2025-04-28 05:36:00`|`Counter-Strike 2`|
+|[Sker Ritual](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/634621-sker-ritual.html)|`2025-04-28 05:32:00`|`Unity`|
+|[Roblox gamepasses](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/698295-roblox-gamepasses.html)|`2025-04-28 05:31:00`|`Other Games`|
+|[How to be UD?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698475-ud.html)|`2025-04-28 05:26:00`|`Valorant`|
 |[C&#35; / С&#43;&#43; functions hooking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/698321-functions-hooking.html)|`2025-04-28 05:16:00`|`Programming for Beginners`|
 |[Need YOLOX R6 ONNX File](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/698423-yolox-r6-onnx-file.html)|`2025-04-28 05:09:00`|`Rainbow Six Siege`|
 |[Texas Attributes Booster](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/696937-texas-attributes-booster.html)|`2025-04-28 05:08:00`|`Other FPS Games`|
