@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[YimMenuV2Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697581-yimmenuv2mod.html)|`2025-04-28 00:49:00`|`Grand Theft Auto V`|
+|[PUBG MOBILE Kernel Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/697085-pubg-mobile-kernel-cheats.html)|`2025-04-28 00:49:00`|`PUBG Mobile`|
+|[Is there a way to avoid ban&#45;evasion bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/698377-avoid-ban-evasion-bans.html)|`2025-04-28 00:46:00`|`Sea of Thieves`|
+|[TraceRay corrupting the stack?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/692643-traceray-corrupting-stack.html)|`2025-04-28 00:45:00`|`Counterstrike Global Offensive`|
 |[First Time Modding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698296-time-modding.html)|`2025-04-28 00:44:00`|`Grand Theft Auto V`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-04-28 00:43:00`|`Other MMORPG and Strategy`|
 |[RU Warface external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/681338-ru-warface-external-cheat.html)|`2025-04-28 00:39:00`|`Warface`|
