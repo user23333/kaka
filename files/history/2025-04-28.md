@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SKIP COOLDOWN/MISSION SELECTOR FOR DEGUZMAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698429-skip-cooldown-mission-selector-deguzman.html)|`2025-04-28 01:11:00`|`Grand Theft Auto V`|
+|[Silent via trajectory array](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/698042-silent-via-trajectory-array.html)|`2025-04-28 01:06:00`|`Escape from Tarkov`|
 |[DARKEST DAYS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697870-darkest-days-reversal-structs-offsets.html)|`2025-04-28 00:55:00`|`Other FPS Games`|
 |[YimMenuV2Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697581-yimmenuv2mod.html)|`2025-04-28 00:49:00`|`Grand Theft Auto V`|
 |[PUBG MOBILE Kernel Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/697085-pubg-mobile-kernel-cheats.html)|`2025-04-28 00:49:00`|`PUBG Mobile`|
