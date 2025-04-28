@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HLL: Hell Let Loose](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/340677-hll-hell-loose.html)|`2025-04-29 01:21:00`|`Other FPS Games`|
+|[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-04-29 01:10:00`|`Rainbow Six Siege`|
 |[EngineTrace crashing &#40;and virtual functions in general&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/697994-enginetrace-crashing-virtual-functions.html)|`2025-04-29 01:07:00`|`CounterStrike Source`|
 |[YimMenu updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698005-yimmenu-updated.html)|`2025-04-29 01:04:00`|`Grand Theft Auto V`|
 |[Straftat Full Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/686040-straftat-cheat.html)|`2025-04-29 00:52:00`|`Other Games`|
