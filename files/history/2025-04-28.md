@@ -13,6 +13,7 @@
 |16|[Code a kernel driver or abuse a vulnerable driver?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/697522-code-kernel-driver-abuse-vulnerable-driver.html)|`2025-04-28 00:09:07`|`anti-cheat-bypass`|
 |13|[open fortess cheat by AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/697569-fortess-cheat-ai.html)|`2025-04-28 07:56:49`|`team-fortress-2-a`|
 |5|[BE Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697754-dump.html)|`2025-04-28 09:03:12`|`grand-theft-auto-v`|
+|8|[rtardware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/697851-rtardware.html)|`2025-04-28 16:01:16`|`counter-strike-2-releases`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-04-28 16:00:00`|`Playerunknown's Battlegrounds`|
+|[DMA NOT WORKING HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/685135-dma-help.html)|`2025-04-28 15:58:00`|`PC Hardware`|
+|[Arduino or KMBOX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/692347-arduino-kmbox.html)|`2025-04-28 15:56:00`|`PC Hardware`|
+|[DMA Custom Firmware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/698455-dma-custom-firmware.html)|`2025-04-28 15:55:00`|`PC Hardware`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-04-28 15:34:00`|`Escape from Tarkov`|
 |[hit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/698511-hit.html)|`2025-04-28 15:28:00`|`Warface`|
 |[Missing game cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698486-missing-game-cheat.html)|`2025-04-28 15:17:00`|`Grand Theft Auto V`|
