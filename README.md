@@ -14,6 +14,7 @@
 |13|[open fortess cheat by AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/697569-fortess-cheat-ai.html)|`2025-04-28 07:56:49`|`team-fortress-2-a`|
 |5|[BE Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697754-dump.html)|`2025-04-28 09:03:12`|`grand-theft-auto-v`|
 |8|[rtardware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/697851-rtardware.html)|`2025-04-28 16:01:16`|`counter-strike-2-releases`|
+|0|[EA FC 25 Guaranteed 96&#43; in Player picks &#45; Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/698490-ea-fc-25-guaranteed-96-player-picks-question.html)|`2025-04-28 19:30:43`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,9 +28,14 @@
 |207|[Updated 25/4/25](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49535)|`2025-04-28 00:09:07`|
 |15|[EN&#45;Menu SnowBreak &#45; Game Version 2&#46;7&#46;0&#46;138 CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49531)|`2025-04-28 00:09:07`|
 |6|[CN&#45;SnowBreak &#45; Game Version 2&#46;7&#46;0&#46;138   CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49530)|`2025-04-28 00:09:07`|
+|0|[Pilotuino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49566)|`2025-04-28 19:30:43`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pilotuino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/625427-pilotuino.html)|`2025-04-28 19:23:00`|`Anti-Cheat Bypass`|
+|[Megabonk Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/698526-megabonk-cheat-table.html)|`2025-04-28 19:14:00`|`Cheat Engine Tables`|
+|[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2025-04-28 19:06:00`|`Other FPS Games`|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-04-28 18:59:00`|`Sea of Thieves`|
 |[some free steam keys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/694636-free-steam-keys.html)|`2025-04-28 18:38:00`|`Off Topic`|
 |[Invalid World to Screen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/698518-invalid-world-screen.html)|`2025-04-28 17:12:00`|`Rust`|
 |[bones drop fps with many entities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/697645-bones-drop-fps-entities.html)|`2025-04-28 16:37:00`|`Rust`|
