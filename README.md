@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[XEX external v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/698574-xex-external-v2.html)|`2025-04-29 03:53:00`|`Apex Legends`|
 |[Asking for advice about DMA cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/678684-advice-dma-cheating.html)|`2025-04-29 03:36:00`|`Off Topic`|
 |[CE Payday 3 &#45; 790407](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/697955-ce-payday-3-790407-a.html)|`2025-04-29 03:29:00`|`Payday 3`|
 |[LF rust ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/698566-lf-rust-esp.html)|`2025-04-29 03:37:00`|`Rust`|
