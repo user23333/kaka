@@ -32,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Why are there so many?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-hardline/698177-why-are-there-so-many.html)|`2025-04-28 21:16:00`|`Battlefield Hardline`|
+|[EA FC 25 Guaranteed 96&#43; in Player picks &#45; Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/698490-ea-fc-25-guaranteed-96-player-picks-question.html)|`2025-04-28 21:15:00`|`Other Games`|
+|[APB Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/493164-apb-triggerbot.html)|`2025-04-28 21:08:00`|`All Points Bulletin`|
+|[Improving External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698263-improving-external.html)|`2025-04-28 21:00:00`|`Counter-Strike 2`|
+|[Spoofer valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698530-spoofer-valorant.html)|`2025-04-28 20:44:00`|`Valorant`|
+|[Palworld Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/620076-palworld-reversal-structs-offsets.html)|`2025-04-28 20:44:00`|`Palworld`|
 |[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2025-04-28 19:44:00`|`Apex Legends`|
 |[Pilotuino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/625427-pilotuino.html)|`2025-04-28 19:23:00`|`Anti-Cheat Bypass`|
 |[Megabonk Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/698526-megabonk-cheat-table.html)|`2025-04-28 19:14:00`|`Cheat Engine Tables`|
