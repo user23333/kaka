@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-04-28 11:52:00`|`Call of Duty: Black Ops 6`|
+|[Roblox Reversals: A Guide To Finding DataModel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689780-roblox-reversals-guide-finding-datamodel.html)|`2025-04-28 11:37:00`|`Other Games`|
 |[Plutonium Black Ops 2 &#124; Menu ESP & MORE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/466909-plutonium-black-ops-2-menu-esp.html)|`2025-04-28 11:29:00`|`Call of Duty: Black Ops 2`|
 |[Draw 3D Circle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/698497-draw-3d-circle.html)|`2025-04-28 11:11:00`|`Rust`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-04-28 10:54:00`|`Other FPS Games`|
