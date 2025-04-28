@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Problem on thirdperson](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698350-thirdperson.html)|`2025-04-29 02:48:00`|`Counter-Strike 2`|
+|[Discussion On Hooking&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/698500-discussion-hooking.html)|`2025-04-29 02:46:00`|`Call of Duty: Black Ops 2`|
+|[How to dump cshell in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/698569-dump-cshell-2025-a.html)|`2025-04-29 02:20:00`|`CrossFire`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-04-29 02:38:00`|`Counter-Strike 2`|
 |[Treason's V3 AIO Aim Assist Edit &#40;BETA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670270-treasons-v3-aio-aim-assist-edit-beta.html)|`2025-04-29 02:28:00`|`Call of Duty: Black Ops 6`|
 |[Yet another &#45; Bot Lobby Manager for VM/VPS/NO&#45;VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/676312-bot-lobby-manager-vm-vps-vm.html)|`2025-04-29 02:27:00`|`Call of Duty: Black Ops 6`|
