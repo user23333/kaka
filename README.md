@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-04-28 22:51:00`|`League of Legends`|
+|[AIM BuG head and ALL bone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/698535-aim-bug-head-bone.html)|`2025-04-28 22:47:00`|`Escape from Tarkov`|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-04-28 22:46:00`|`Counter-Strike 2`|
 |[D3D12 Wallhack for War Robots: Frontiers &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697654-d3d12-wallhack-war-robots-frontiers-source.html)|`2025-04-28 22:36:00`|`Other FPS Games`|
 |[How to Bypass Spoofer launher fivem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/679722-bypass-spoofer-launher-fivem.html)|`2025-04-28 22:34:00`|`Forum General`|
 |[Kingdom Come Deliverance 2 External ESP &#43; Flyhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/691081-kingdom-deliverance-2-external-esp-flyhack.html)|`2025-04-28 22:32:00`|`Other Single Player Games`|
