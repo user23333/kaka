@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-04-29 02:54:00`|`Valorant`|
+|[BETA 2&#45;PC Aimassist &#40;Hardware based&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/694157-beta-2-pc-aimassist-hardware-based.html)|`2025-04-29 02:53:00`|`Valorant`|
 |[Problem on thirdperson](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698350-thirdperson.html)|`2025-04-29 02:48:00`|`Counter-Strike 2`|
 |[Discussion On Hooking&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/698500-discussion-hooking.html)|`2025-04-29 02:46:00`|`Call of Duty: Black Ops 2`|
 |[How to dump cshell in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/698569-dump-cshell-2025-a.html)|`2025-04-29 02:20:00`|`CrossFire`|
