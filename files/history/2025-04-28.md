@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[D3D12 Wallhack for War Robots: Frontiers &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697654-d3d12-wallhack-war-robots-frontiers-source.html)|`2025-04-28 22:36:00`|`Other FPS Games`|
+|[How to Bypass Spoofer launher fivem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/679722-bypass-spoofer-launher-fivem.html)|`2025-04-28 22:34:00`|`Forum General`|
+|[Kingdom Come Deliverance 2 External ESP &#43; Flyhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/691081-kingdom-deliverance-2-external-esp-flyhack.html)|`2025-04-28 22:32:00`|`Other Single Player Games`|
 |[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2025-04-28 21:36:00`|`Other MMORPG and Strategy`|
 |[Sven Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/613815-sven-internal.html)|`2025-04-28 21:25:00`|`Other FPS Games`|
 |[Why are there so many?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-hardline/698177-why-are-there-so-many.html)|`2025-04-28 21:16:00`|`Battlefield Hardline`|
