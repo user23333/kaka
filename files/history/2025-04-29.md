@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[asphyxia&#45;cs2 updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687274-asphyxia-cs2-updated.html)|`2025-04-29 06:47:00`|`Counter-Strike 2`|
+|[CS2 EXTERNAL BHOP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/697727-cs2-external-bhop.html)|`2025-04-29 06:46:00`|`Counter-Strike 2`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-04-29 06:33:00`|`Other FPS Games`|
 |[Does anybody have a free EAC spoofer &#40;fortnite&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/679045-free-eac-spoofer-fortnite.html)|`2025-04-29 06:28:00`|`Anti-Cheat Bypass`|
 |[rtardware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/697851-rtardware.html)|`2025-04-29 06:21:00`|`Counter-Strike 2 Releases`|
