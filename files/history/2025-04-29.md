@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-04-29 15:39:00`|`Escape from Tarkov`|
+|[Looking for BO6/WZ External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/697195-looking-bo6-wz-external-esp.html)|`2025-04-29 15:37:00`|`Call of Duty: Black Ops 6`|
 |[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2025-04-29 15:20:00`|`Grand Theft Auto V`|
 |[internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698040-internal-cheat.html)|`2025-04-29 14:51:00`|`Counter-Strike 2`|
 |[Recoil/Mouse events Patched?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/698537-recoil-mouse-events-patched.html)|`2025-04-29 14:31:00`|`Rainbow Six Siege`|
