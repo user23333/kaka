@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Roblox Entity List & CPlayer Class &#91;Always Updated&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/690869-roblox-entity-list-cplayer-class-updated.html)|`2025-04-30 00:39:00`|`Other Games`|
+|[Garry's Mod x64 Signatures, Offsets & Structs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/698468-garrys-mod-x64-signatures-offsets-structs.html)|`2025-04-30 00:34:00`|`Garry's Mod`|
+|[SteelHunterInternal for Steel Hunters](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695182-steelhunterinternal-steel-hunters.html)|`2025-04-30 00:33:00`|`Other FPS Games`|
+|[Hello everyone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/698657-hello.html)|`2025-04-30 00:31:00`|`Introductions`|
+|[NEW Roblox DLL Injector Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/665341-roblox-dll-injector.html)|`2025-04-30 00:31:00`|`Other Games`|
+|[Ferrarihook internal source &#40;paste alert&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698536-ferrarihook-internal-source-paste-alert.html)|`2025-04-30 00:30:00`|`Counter-Strike 2`|
+|[Recoil Script Logitech GHub Errors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/698691-recoil-script-logitech-ghub-errors.html)|`2025-04-30 00:23:00`|`Rainbow Six Siege`|
 |[DARKEST DAYS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697870-darkest-days-reversal-structs-offsets.html)|`2025-04-30 00:16:00`|`Other FPS Games`|
 |[Why Ignore Z on chams not works in deadlock?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/698640-ignore-chams-deadlock.html)|`2025-04-30 00:12:00`|`Deadlock`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-04-30 00:04:00`|`Apex Legends`|
