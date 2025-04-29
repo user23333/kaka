@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How get instant ban externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698648-instant-ban-externally.html)|`2025-04-29 22:10:00`|`Counter-Strike 2`|
+|[WARN/AnticheatBypass&#46;cpp NET&#95;GAMESERVER&#95;BEGIN&#95;SERVICE: blocked shop&#95;controller report](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698647-warn-anticheatbypass-cpp-net_gameserver_begin_service-blocked-shop_controller-report.html)|`2025-04-29 21:59:00`|`Grand Theft Auto V`|
 |[Apex Offset Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/698646-apex-offset-dump.html)|`2025-04-29 21:55:00`|`Apex Legends`|
 |[Rocket League &#45; Nebula Client, Item Spawner, Title Spawner, Etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696293-rocket-league-nebula-client-item-spawner-title-spawner-etc.html)|`2025-04-29 21:26:00`|`Other Games`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-04-29 21:19:00`|`Other FPS Games`|
