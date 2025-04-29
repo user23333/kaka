@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bloodstrike](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690058-bloodstrike.html)|`2025-04-29 11:42:00`|`Other FPS Games`|
+|[something thatll vac ban you quickly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698589-thatll-vac-ban-quickly.html)|`2025-04-29 11:38:00`|`Counter-Strike 2`|
+|[Improving External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698263-improving-external.html)|`2025-04-29 11:35:00`|`Counter-Strike 2`|
+|[The Finals External Cheat DMA&#33;&#33;&#40;Just Run It&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/640995-finals-external-cheat-dma-run.html)|`2025-04-29 11:31:00`|`THE FINALS`|
 |[Ferrarihook internal source &#40;paste alert&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698536-ferrarihook-internal-source-paste-alert.html)|`2025-04-29 10:55:00`|`Counter-Strike 2`|
 |[Botlobby Tool FREE &#91;BO6/MW3/WARZONE&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/696676-botlobby-tool-free-bo6-mw3-warzone.html)|`2025-04-29 10:47:00`|`Call of Duty: Black Ops 6`|
 |[Post &#35;1000](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/698603-post-1000-a.html)|`2025-04-29 10:21:00`|`Forum General`|
