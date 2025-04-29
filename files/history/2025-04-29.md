@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How does VAC work for detect External cheats ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698534-vac-detect-external-cheats.html)|`2025-04-29 15:58:00`|`Counter-Strike 2`|
 |[SeownedDE x64 2025/3/29&#40;rei2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/694048-seownedde-x64-2025-3-29-rei2.html)|`2025-04-29 15:46:00`|`Team Fortress 2`|
 |[Creating my own ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/698617-creating-own-esp.html)|`2025-04-29 15:44:00`|`Apex Legends`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-04-29 15:39:00`|`Escape from Tarkov`|
