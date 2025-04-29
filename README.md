@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Build&#45;Version External / Internal &#124; Once and for all&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/696057-fivem-build-version-external-internal.html)|`2025-04-30 05:19:00`|`Alternative Online Mods`|
 |[Unturned &#45; can't read &#95;clients field](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/698726-unturned-cant-read-_clients-field.html)|`2025-04-30 05:01:00`|`Programming for Beginners`|
 |[How to Perm Spoof a SSD NVMe the real way&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667328-perm-spoof-ssd-nvme-real.html)|`2025-04-30 04:58:00`|`Anti-Cheat Bypass`|
 |[How get instant ban externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698648-instant-ban-externally.html)|`2025-04-30 04:50:00`|`Counter-Strike 2`|
