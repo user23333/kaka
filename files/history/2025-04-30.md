@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-04-30 00:53:00`|`Other FPS Games`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-04-30 00:45:00`|`Valorant`|
 |[Roblox Entity List & CPlayer Class &#91;Always Updated&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/690869-roblox-entity-list-cplayer-class-updated.html)|`2025-04-30 00:39:00`|`Other Games`|
 |[Garry's Mod x64 Signatures, Offsets & Structs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/698468-garrys-mod-x64-signatures-offsets-structs.html)|`2025-04-30 00:34:00`|`Garry's Mod`|
 |[SteelHunterInternal for Steel Hunters](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695182-steelhunterinternal-steel-hunters.html)|`2025-04-30 00:33:00`|`Other FPS Games`|
