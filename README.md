@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[rust dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/697785-rust-dma.html)|`2025-04-30 04:31:00`|`Rust`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-04-30 04:31:00`|`Alternative Online Mods`|
+|[FiveM Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/698583-fivem-dumper.html)|`2025-04-30 04:27:00`|`Alternative Online Mods`|
 |[internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698040-internal-cheat.html)|`2025-04-30 04:20:00`|`Counter-Strike 2`|
 |[GTA V lsc 100 level reputation wheels](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698719-gta-lsc-100-level-reputation-wheels.html)|`2025-04-30 03:57:00`|`Grand Theft Auto V`|
 |[How can i join public session in enhanced with yimv2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698701-join-public-session-enhanced-yimv2.html)|`2025-04-30 03:45:00`|`Grand Theft Auto V`|
