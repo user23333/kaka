@@ -13,6 +13,7 @@
 |6|[CE Payday 3 &#45; 790407](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/697955-ce-payday-3-790407-a.html)|`2025-04-30 00:20:46`|`payday-3-a`|
 |7|[rust dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/697785-rust-dma.html)|`2025-04-30 00:59:38`|`rust`|
 |6|[Fast And Simple Triggerbot &#40;ASM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698448-fast-simple-triggerbot-asm.html)|`2025-04-30 02:55:49`|`valorant`|
+|1|[YimMenu updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698005-yimmenu-updated.html)|`2025-04-30 06:52:16`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spoofer for EAC games 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/697681-spoofer-eac-games-2025-a.html)|`2025-04-30 06:41:00`|`Half Life`|
+|[SKIP COOLDOWN/MISSION SELECTOR FOR DEGUZMAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698429-skip-cooldown-mission-selector-deguzman.html)|`2025-04-30 06:37:00`|`Grand Theft Auto V`|
 |[How does VAC work for detect External cheats ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698534-vac-detect-external-cheats.html)|`2025-04-30 06:30:00`|`Counter-Strike 2`|
 |[Physical Reading Peb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698270-physical-reading-peb.html)|`2025-04-30 06:22:00`|`Anti-Cheat Bypass`|
 |[Apex CV YOLO v8 Aim Assist Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/624584-apex-cv-yolo-v8-aim-assist-bot.html)|`2025-04-30 05:57:00`|`Apex Legends`|
