@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-04-29 10:19:00`|`Rust`|
+|[EA FC 25 Guaranteed 96&#43; in Player picks &#45; Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/698490-ea-fc-25-guaranteed-96-player-picks-question.html)|`2025-04-29 10:09:00`|`Other Games`|
+|[Is it possible to unlock all the skins in Titanfall 2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/698498-unlock-skins-titanfall-2-a.html)|`2025-04-29 10:09:00`|`Titanfall`|
+|[hwo  have   fsl](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698602-hwo-fsl.html)|`2025-04-29 10:03:00`|`Grand Theft Auto V`|
 |[has fiddler been fully patched or am i doing something wrong](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/698593-fiddler-patched-am-doing-wrong.html)|`2025-04-29 08:20:00`|`Payday 3`|
 |[Skin changer Apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/698592-skin-changer-apex.html)|`2025-04-29 08:11:00`|`Apex Legends`|
 |[How to unlock these awards on socialclub?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698591-unlock-awards-socialclub.html)|`2025-04-29 08:06:00`|`Grand Theft Auto V`|
