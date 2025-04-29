@@ -25,9 +25,17 @@
 |889|[PhasmoMenu v0&#46;5&#46;5&#46;7 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49547)|`2025-04-30 00:20:46`|
 |183|[REPX&#95;v1&#46;1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49545)|`2025-04-30 00:20:46`|
 |65|[YimMenuV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49544)|`2025-04-30 00:20:46`|
+|8|[TarkovGUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49580)|`2025-04-30 02:37:10`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Elden ring new Cheat Table &#43; Online &#40;risky&#41; &#43; CE Undetected &#43; future updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661671-elden-ring-cheat-table-online-risky-ce-undetected-future-updates.html)|`2025-04-30 02:35:00`|`Other FPS Games`|
+|[QuasarDMA Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/697510-quasardma-update.html)|`2025-04-30 02:26:00`|`Rust`|
+|[Skin changer Apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/698592-skin-changer-apex.html)|`2025-04-30 02:23:00`|`Apex Legends`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-04-30 02:20:00`|`ARMA 3`|
+|[I need an Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/693090-injector.html)|`2025-04-30 02:19:00`|`Call of Duty: Black Ops 6`|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-04-30 02:16:00`|`Other Games`|
+|[asphyxia&#45;cs2 updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687274-asphyxia-cs2-updated.html)|`2025-04-30 02:16:00`|`Counter-Strike 2`|
 |[External doesnt read memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698309-external-doesnt-read-memory.html)|`2025-04-30 02:08:00`|`Counter-Strike 2`|
 |[rtardware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/697851-rtardware.html)|`2025-04-30 01:59:00`|`Counter-Strike 2 Releases`|
 |[Playing legit after long break after ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/698699-playing-legit-break-ban.html)|`2025-04-30 01:57:00`|`Escape from Tarkov`|
