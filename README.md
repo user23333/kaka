@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-04-29 22:44:00`|`Call of Duty: Black Ops 6`|
 |[How get instant ban externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698648-instant-ban-externally.html)|`2025-04-29 22:10:00`|`Counter-Strike 2`|
 |[WARN/AnticheatBypass&#46;cpp NET&#95;GAMESERVER&#95;BEGIN&#95;SERVICE: blocked shop&#95;controller report](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698647-warn-anticheatbypass-cpp-net_gameserver_begin_service-blocked-shop_controller-report.html)|`2025-04-29 21:59:00`|`Grand Theft Auto V`|
 |[Apex Offset Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/698646-apex-offset-dump.html)|`2025-04-29 21:55:00`|`Apex Legends`|
