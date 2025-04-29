@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6 ban questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/698198-r6-ban-questions.html)|`2025-04-30 05:51:00`|`Rainbow Six Siege`|
+|[XEX external v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/698574-xex-external-v2.html)|`2025-04-30 05:48:00`|`Apex Legends`|
 |[EA FC 25 Guaranteed 96&#43; in Player picks &#45; Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/698490-ea-fc-25-guaranteed-96-player-picks-question.html)|`2025-04-30 05:41:00`|`Other Games`|
 |[Pipsi&#45;SR &#91; Honkai: Star Rail Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/623438-pipsi-sr-honkai-star-rail-cheat.html)|`2025-04-30 05:33:00`|`Other MMORPG and Strategy`|
 |[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2025-04-30 05:32:00`|`Tom Clancy's The Division`|
