@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HSW Upgrade any vehicle ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698635-hsw-upgrade-vehicle.html)|`2025-04-29 18:23:00`|`Grand Theft Auto V`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-04-29 18:19:00`|`Other MMORPG and Strategy`|
+|[Blood Strike Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697964-blood-strike-cheat.html)|`2025-04-29 18:15:00`|`Other FPS Games`|
 |[SKIP COOLDOWN/MISSION SELECTOR FOR DEGUZMAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698429-skip-cooldown-mission-selector-deguzman.html)|`2025-04-29 18:13:00`|`Grand Theft Auto V`|
 |[Facing issue when trying to join sesion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698633-facing-issue-trying-join-sesion.html)|`2025-04-29 18:09:00`|`Grand Theft Auto V`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2025-04-29 17:23:00`|`Valorant`|
