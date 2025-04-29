@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[has fiddler been fully patched or am i doing something wrong](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/698593-fiddler-patched-am-doing-wrong.html)|`2025-04-29 08:20:00`|`Payday 3`|
+|[Skin changer Apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/698592-skin-changer-apex.html)|`2025-04-29 08:11:00`|`Apex Legends`|
+|[How to unlock these awards on socialclub?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698591-unlock-awards-socialclub.html)|`2025-04-29 08:06:00`|`Grand Theft Auto V`|
+|[24h2 &#46;data ptr getting unhooked?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/698590-24h2-data-ptr-getting-unhooked.html)|`2025-04-29 08:02:00`|`Forum General`|
+|[What music are you listening right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/music-and-videos/86098-music-listening.html)|`2025-04-29 07:58:00`|`Music and Videos`|
+|[Undetected Cheat Engine &#43; Driver &#124; 2023 &#124; Bypass Anticheats &#40;BE / EAC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/504191-undetected-cheat-engine-driver-2023-bypass-anticheats-eac.html)|`2025-04-29 07:45:00`|`Anti-Cheat Bypass`|
 |[Unlock more Chameleon/Wheel paints on Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690610-unlock-chameleon-wheel-paints-enhanced.html)|`2025-04-29 07:37:00`|`Grand Theft Auto V`|
 |[Roblox Reversals: A Guide To Finding DataModel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689780-roblox-reversals-guide-finding-datamodel.html)|`2025-04-29 07:24:00`|`Other Games`|
 |[Schedule 1 full game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/693778-schedule-1-game.html)|`2025-04-29 07:22:00`|`Other Games`|
