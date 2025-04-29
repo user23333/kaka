@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[something thatll vac ban you quickly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698589-thatll-vac-ban-quickly.html)|`2025-04-30 01:31:00`|`Counter-Strike 2`|
+|[Dark and Darker Internal V2 &#43; Hwid Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/618587-dark-darker-internal-v2-hwid-spoofer.html)|`2025-04-30 01:22:00`|`Other FPS Games`|
+|[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2025-04-30 01:17:00`|`Grand Theft Auto V`|
 |[YimMenuV2 with Outfit Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696131-yimmenuv2-outfit-editor.html)|`2025-04-30 00:55:00`|`Grand Theft Auto V`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-04-30 00:53:00`|`Other FPS Games`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-04-30 00:45:00`|`Valorant`|
