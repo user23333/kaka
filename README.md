@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2025-04-29 20:53:00`|`Other Games`|
+|[Why Ignore Z on chams not works in deadlock?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/698640-ignore-chams-deadlock.html)|`2025-04-29 20:32:00`|`Deadlock`|
 |[Solo Leveling Arise 1&#46;2&#46;47](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/696274-solo-leveling-arise-1-2-47-a.html)|`2025-04-29 20:20:00`|`Other MMORPG and Strategy`|
 |[Recoil Offset & Held Item Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/698407-recoil-offset-held-item-offsets.html)|`2025-04-29 20:16:00`|`Rust`|
 |[Aimbot and ESP FiveM/AltV/RageMP/GTAO All Versions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/698639-aimbot-esp-fivem-altv-ragemp-gtao-versions.html)|`2025-04-29 20:08:00`|`Alternative Online Mods`|
