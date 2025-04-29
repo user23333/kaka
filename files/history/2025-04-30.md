@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FragPunk Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/666506-fragpunk-reversal-structs-offsets.html)|`2025-04-30 03:11:00`|`Other FPS Games`|
+|[Which identifiers does EAC ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698713-identifiers-eac-ban.html)|`2025-04-30 03:11:00`|`Anti-Cheat Bypass`|
+|[CIS Region bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/697547-cis-region-bypass.html)|`2025-04-30 03:10:00`|`Escape from Tarkov`|
 |[The Closest Thing To Aimbot & No Recoil You're Going To Get](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/687328-closest-aimbot-recoil-youre.html)|`2025-04-30 03:07:00`|`THE FINALS`|
 |[XIM Matrix detected on The Finals?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/679167-xim-matrix-detected-finals.html)|`2025-04-30 03:06:00`|`THE FINALS`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-04-30 02:55:00`|`Marvel Rivals`|
