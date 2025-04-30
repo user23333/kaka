@@ -28,9 +28,21 @@
 |183|[REPX&#95;v1&#46;1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49545)|`2025-04-30 00:20:46`|
 |65|[YimMenuV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49544)|`2025-04-30 00:20:46`|
 |8|[TarkovGUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49580)|`2025-04-30 02:37:10`|
+|2|[asthmaphobia v0&#46;12&#46;1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49552)|`2025-04-30 10:57:27`|
+|5|[External Glow ESP&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49550)|`2025-04-30 10:57:27`|
+|2|[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49549)|`2025-04-30 10:57:27`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Play Together/Rank Boosting Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/353364-play-rank-boosting-thread.html)|`2025-04-30 10:56:00`|`Apex Legends`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-04-30 10:53:00`|`Playerunknown's Battlegrounds`|
+|[&#91;BloodStrike Mobile&#93; Help filtering object for esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680388-bloodstrike-mobile-help-filtering-object-esp.html)|`2025-04-30 10:48:00`|`Other FPS Games`|
+|[&#91;REIMU&#93; Apex Recoil &#91;NO MOUSE&#95;EVENT / INPUT&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/679345-reimu-apex-recoil-mouse_event-input.html)|`2025-04-30 10:42:00`|`Apex Legends`|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-04-30 10:36:00`|`Phasmophobia`|
+|[BO2 No Clip RME FOR Xbox360 Should](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/696068-bo2-clip-rme-xbox360.html)|`2025-04-30 10:36:00`|`Call of Duty: Black Ops 2`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-04-30 10:35:00`|`Call of Duty: Black Ops 6`|
+|[Reset Stats Zombies &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/686527-reset-stats-zombies-steam.html)|`2025-04-30 10:32:00`|`Call of Duty: Black Ops 2`|
+|[How to bypass Device Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/697578-bypass-device-ban.html)|`2025-04-30 10:29:00`|`Marvel Rivals`|
 |[D3D12 Wallhack for War Robots: Frontiers &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697654-d3d12-wallhack-war-robots-frontiers-source.html)|`2025-04-30 09:35:00`|`Other FPS Games`|
 |[Treason's V3 AIO Aim Assist Edit &#40;BETA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670270-treasons-v3-aio-aim-assist-edit-beta.html)|`2025-04-30 09:34:00`|`Call of Duty: Black Ops 6`|
 |[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-04-30 09:21:00`|`Rainbow Six Siege`|
