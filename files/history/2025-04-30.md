@@ -51,6 +51,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What's the best DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/698748-whats-dma.html)|`2025-04-30 14:31:00`|`Call of Duty: Black Ops 6`|
+|[warzone cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/698730-warzone-cheat.html)|`2025-04-30 14:29:00`|`Call of Duty: Black Ops 6`|
+|[Full Anticheat Disabler &#40;You can play online&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687866-anticheat-disabler-play-online.html)|`2025-04-30 14:25:00`|`Marvel Rivals`|
+|[Internal banwaves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698367-internal-banwaves.html)|`2025-04-30 14:11:00`|`Valorant`|
+|[I need stats for recent awards](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698750-stats-recent-awards.html)|`2025-04-30 13:42:00`|`Grand Theft Auto V`|
 |[weird singleton bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/698564-weird-singleton-bug.html)|`2025-04-30 14:09:00`|`Escape from Tarkov`|
 |[Rocket League &#45; Nebula Client, Item Spawner, Title Spawner, Etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696293-rocket-league-nebula-client-item-spawner-title-spawner-etc.html)|`2025-04-30 13:25:00`|`Other Games`|
 |[Apex Offset Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/698646-apex-offset-dump.html)|`2025-04-30 13:21:00`|`Apex Legends`|
