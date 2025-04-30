@@ -51,6 +51,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AI for auto ore farming](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/698722-ai-auto-ore-farming.html)|`2025-04-30 17:14:00`|`Rust`|
+|[Asking for advice about DMA cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/678684-advice-dma-cheating.html)|`2025-04-30 17:02:00`|`Off Topic`|
+|[Hello there, Hack the planet&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/698768-hello-hack-planet.html)|`2025-04-30 16:39:00`|`Introductions`|
 |[MindShare &#45; Arbor infinite trial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/624762-mindshare-arbor-infinite-trial.html)|`2025-04-30 16:49:00`|`Anti-Cheat Bypass`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2025-04-30 16:45:00`|`Valorant`|
 |[m&#95;iObserverMode is always 0 even when spectating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698725-m_iobservermode-0-spectating.html)|`2025-04-30 16:37:00`|`Counter-Strike 2`|
