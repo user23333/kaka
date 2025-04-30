@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-05-01 04:11:00`|`Other Games`|
+|[How can i join public session in enhanced with yimv2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698701-join-public-session-enhanced-yimv2.html)|`2025-05-01 04:11:00`|`Grand Theft Auto V`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-05-01 04:07:00`|`Playerunknown's Battlegrounds`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-05-01 03:56:00`|`Counter-Strike 2`|
 |[vanguard blocking arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698771-vanguard-blocking-arduino.html)|`2025-05-01 03:40:00`|`Valorant`|
 |[Apex Offset Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/698646-apex-offset-dump.html)|`2025-05-01 03:36:00`|`Apex Legends`|
 |[NASM simple x32&#45;x64 injectable trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/assembly/635016-nasm-simple-x32-x64-injectable-trainer.html)|`2025-05-01 03:32:00`|`Assembly`|
