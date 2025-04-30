@@ -51,6 +51,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to find these Packed Stats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698787-packed-stats.html)|`2025-04-30 22:46:00`|`Grand Theft Auto V`|
 |[Gmod DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/698786-gmod-dma.html)|`2025-04-30 22:42:00`|`Garry's Mod`|
 |[24h2 &#46;data ptr getting unhooked?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/698590-24h2-data-ptr-getting-unhooked.html)|`2025-04-30 22:40:00`|`Forum General`|
 |[Heroes of Valor &#45; Heroes of Cheats Lua](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/698565-heroes-valor-heroes-cheats-lua.html)|`2025-04-30 22:36:00`|`Other FPS Games`|
