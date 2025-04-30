@@ -51,6 +51,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Perfect Bhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698774-perfect-bhop.html)|`2025-04-30 20:56:00`|`Counter-Strike 2`|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2025-04-30 20:54:00`|`Deadlock`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/590414-arc-raiders-structs-offsets.html)|`2025-04-30 20:33:00`|`Other FPS Games`|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-04-30 20:31:00`|`Farlight 84`|
 |[how do i minimize traces of cs3 external cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698766-minimize-traces-cs3-external-cheats.html)|`2025-04-30 20:11:00`|`Counter-Strike 2`|
 |[Discussion On Hooking&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/698500-discussion-hooking.html)|`2025-04-30 20:00:00`|`Call of Duty: Black Ops 2`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-04-30 19:33:00`|`Grand Theft Auto V`|
