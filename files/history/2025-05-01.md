@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[vanguard blocking arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698771-vanguard-blocking-arduino.html)|`2025-05-01 03:40:00`|`Valorant`|
 |[Apex Offset Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/698646-apex-offset-dump.html)|`2025-05-01 03:36:00`|`Apex Legends`|
 |[NASM simple x32&#45;x64 injectable trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/assembly/635016-nasm-simple-x32-x64-injectable-trainer.html)|`2025-05-01 03:32:00`|`Assembly`|
 |[Logitech certificate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698812-logitech-certificate.html)|`2025-05-01 03:30:00`|`Anti-Cheat Bypass`|
