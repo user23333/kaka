@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Attaching kernel debug to Fivem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/698809-attaching-kernel-debug-fivem.html)|`2025-05-01 02:48:00`|`Alternative Online Mods`|
+|[Personal spawned vehicle safe ???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698808-personal-spawned-vehicle-safe.html)|`2025-05-01 02:46:00`|`Grand Theft Auto V`|
 |[SKIP COOLDOWN/MISSION SELECTOR FOR DEGUZMAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698429-skip-cooldown-mission-selector-deguzman.html)|`2025-05-01 02:39:00`|`Grand Theft Auto V`|
 |[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2025-05-01 02:36:00`|`Sea of Thieves`|
 |[&#91;LINUX&#93; External Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/696976-linux-external-multihack.html)|`2025-05-01 02:34:00`|`Counter-Strike 2 Releases`|
