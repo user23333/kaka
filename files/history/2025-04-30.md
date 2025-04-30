@@ -51,6 +51,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Super Market Simulator 0&#46;5&#46;1 Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/685562-super-market-simulator-0-5-1-cheat-table.html)|`2025-04-30 14:58:00`|`Cheat Engine Tables`|
+|[Pixel Gun 3D Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/663707-pixel-gun-3d-cheat-engine-table.html)|`2025-04-30 14:57:00`|`Cheat Engine Tables`|
 |[Megabonk Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/698526-megabonk-cheat-table.html)|`2025-04-30 14:54:00`|`Cheat Engine Tables`|
 |[Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/686431-spoofer.html)|`2025-04-30 14:51:00`|`Off Topic`|
 |[some free steam keys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/694636-free-steam-keys.html)|`2025-04-30 14:49:00`|`Off Topic`|
