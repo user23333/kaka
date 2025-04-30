@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Offset Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/698646-apex-offset-dump.html)|`2025-05-01 03:36:00`|`Apex Legends`|
+|[NASM simple x32&#45;x64 injectable trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/assembly/635016-nasm-simple-x32-x64-injectable-trainer.html)|`2025-05-01 03:32:00`|`Assembly`|
+|[Logitech certificate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698812-logitech-certificate.html)|`2025-05-01 03:30:00`|`Anti-Cheat Bypass`|
 |[FASM simple x32&#45;x64 injectable trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/assembly/635764-fasm-simple-x32-x64-injectable-trainer.html)|`2025-05-01 03:29:00`|`Assembly`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2025-05-01 03:25:00`|`Other FPS Games`|
 |[Redmatch 2 internal cheat &#40;imperium&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/688217-redmatch-2-internal-cheat-imperium.html)|`2025-05-01 03:20:00`|`Other FPS Games`|
