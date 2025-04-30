@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Resource Stopper Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/698802-resource-stopper-crash.html)|`2025-05-01 02:22:00`|`Alternative Online Mods`|
+|[Gmod DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/698786-gmod-dma.html)|`2025-05-01 02:15:00`|`Garry's Mod`|
+|[Internal base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/698717-internal-base.html)|`2025-05-01 02:14:00`|`Team Fortress 2`|
+|[Play Together/Rank Boosting Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/353364-play-rank-boosting-thread.html)|`2025-05-01 02:00:00`|`Apex Legends`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-05-01 01:54:00`|`Marvel Rivals`|
 |[YimMenuV2 with Outfit Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696131-yimmenuv2-outfit-editor.html)|`2025-05-01 01:47:00`|`Grand Theft Auto V`|
 |[Bloodstrike](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690058-bloodstrike.html)|`2025-05-01 01:43:00`|`Other FPS Games`|
