@@ -40,6 +40,7 @@
 |2|[dma&#45;stay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49562)|`2025-04-30 12:41:03`|
 |1|[DMA&#45;KAKA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49561)|`2025-04-30 12:41:03`|
 |2|[Texas Attributes Booster v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49563)|`2025-04-30 12:52:42`|
+|4|[Xex Apex V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49570)|`2025-04-30 12:58:49`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
