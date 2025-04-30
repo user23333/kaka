@@ -51,6 +51,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Recoil Offset & Held Item Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/698407-recoil-offset-held-item-offsets.html)|`2025-04-30 17:18:00`|`Rust`|
 |[AI for auto ore farming](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/698722-ai-auto-ore-farming.html)|`2025-04-30 17:14:00`|`Rust`|
 |[Asking for advice about DMA cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/678684-advice-dma-cheating.html)|`2025-04-30 17:02:00`|`Off Topic`|
 |[Hello there, Hack the planet&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/698768-hello-hack-planet.html)|`2025-04-30 16:39:00`|`Introductions`|
