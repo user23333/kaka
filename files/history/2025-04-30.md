@@ -51,6 +51,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[spottedbymask broke online servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698785-spottedbymask-broke-online-servers.html)|`2025-04-30 22:32:00`|`Counter-Strike 2`|
+|[help Arcade bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698784-help-arcade-bug.html)|`2025-04-30 22:30:00`|`Grand Theft Auto V`|
+|[LSCHaX for 1&#46;70 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/224075-lschax-1-70-external.html)|`2025-04-30 22:23:00`|`Grand Theft Auto V`|
 |[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2025-04-30 22:16:00`|`Unity`|
 |[Regarding Arduino cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698781-regarding-arduino-cheats.html)|`2025-04-30 21:57:00`|`Valorant`|
 |[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-04-30 21:28:00`|`PUBG Releases`|
