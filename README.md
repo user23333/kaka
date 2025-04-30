@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FASM simple x32&#45;x64 injectable trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/assembly/635764-fasm-simple-x32-x64-injectable-trainer.html)|`2025-05-01 03:29:00`|`Assembly`|
+|[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2025-05-01 03:25:00`|`Other FPS Games`|
 |[Redmatch 2 internal cheat &#40;imperium&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/688217-redmatch-2-internal-cheat-imperium.html)|`2025-05-01 03:20:00`|`Other FPS Games`|
 |[i am new, helpme please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/698810-am-helpme-please.html)|`2025-05-01 03:17:00`|`Programming for Beginners`|
 |[GTA V lsc 100 level reputation wheels](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698719-gta-lsc-100-level-reputation-wheels.html)|`2025-05-01 03:15:00`|`Grand Theft Auto V`|
