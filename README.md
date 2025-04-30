@@ -51,6 +51,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-04-30 19:33:00`|`Grand Theft Auto V`|
 |[Looking for help with PS5 CODBO6 Hacks by using an elgato](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/697664-looking-help-ps5-codbo6-hacks-using-elgato.html)|`2025-04-30 19:27:00`|`Call of Duty: Black Ops 6`|
 |[ANEURISM IV &#45; Steam game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691595-aneurism-iv-steam-game.html)|`2025-04-30 19:23:00`|`Other Games`|
 |[Ark Survival Evolved Duplication Glitch Pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/334186-ark-survival-evolved-duplication-glitch-pc.html)|`2025-04-30 19:12:00`|`Other FPS Games`|
