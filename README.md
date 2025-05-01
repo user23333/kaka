@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What's the best DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/698748-whats-dma.html)|`2025-05-01 10:40:00`|`Call of Duty: Black Ops 6`|
+|[Signed driver Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/698485-signed-driver-colorbot.html)|`2025-05-01 10:34:00`|`Overwatch`|
+|[How to bypass the detection of PUBG BE's TslGame&#95;BE&#46;exe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698636-bypass-detection-pubg-bes-tslgame_be-exe.html)|`2025-05-01 10:27:00`|`Anti-Cheat Bypass`|
+|[DXGI issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698835-dxgi-issues.html)|`2025-05-01 10:23:00`|`Valorant`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-05-01 09:52:00`|`Escape from Tarkov`|
 |[Unturned Egguware w/ bypass &#91;LINUX&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/693201-unturned-egguware-bypass-linux.html)|`2025-05-01 08:47:00`|`Other FPS Games`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-05-01 08:36:00`|`Call of Duty: Black Ops 6`|
 |[Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/698830-dumper.html)|`2025-05-01 08:14:00`|`Call of Duty: Black Ops 6`|
