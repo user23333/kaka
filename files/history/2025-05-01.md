@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;EXTERNAL/DMA&#93; How to force re&#45;render/update/move StaticMeshes?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/698836-external-dma-force-re-render-update-move-staticmeshes.html)|`2025-05-01 11:05:00`|`Unreal Engine 4`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/590414-arc-raiders-structs-offsets.html)|`2025-05-01 10:46:00`|`Other FPS Games`|
 |[What's the best DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/698748-whats-dma.html)|`2025-05-01 10:40:00`|`Call of Duty: Black Ops 6`|
 |[Signed driver Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/698485-signed-driver-colorbot.html)|`2025-05-01 10:34:00`|`Overwatch`|
 |[How to bypass the detection of PUBG BE's TslGame&#95;BE&#46;exe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698636-bypass-detection-pubg-bes-tslgame_be-exe.html)|`2025-05-01 10:27:00`|`Anti-Cheat Bypass`|
