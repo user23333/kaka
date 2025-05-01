@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New SDK &#91;FIXED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/698838-sdk-fixed.html)|`2025-05-01 11:57:00`|`Marvel Rivals`|
+|[PUBG MOBILE Kernel Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/697085-pubg-mobile-kernel-cheats.html)|`2025-05-01 11:54:00`|`PUBG Mobile`|
 |[&#91;EXTERNAL/DMA&#93; How to force re&#45;render/update/move StaticMeshes?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/698836-external-dma-force-re-render-update-move-staticmeshes.html)|`2025-05-01 11:05:00`|`Unreal Engine 4`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/590414-arc-raiders-structs-offsets.html)|`2025-05-01 10:46:00`|`Other FPS Games`|
 |[What's the best DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/698748-whats-dma.html)|`2025-05-01 10:40:00`|`Call of Duty: Black Ops 6`|
