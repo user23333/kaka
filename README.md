@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SHELL CODE 3&#46;7 UPDATED &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/698869-shell-code-3-7-updated.html)|`2025-05-01 18:29:00`|`PUBG Mobile`|
+|[TPM 2&#46;0 PublicKeyHash change](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/698868-tpm-2-0-publickeyhash-change.html)|`2025-05-01 18:26:00`|`Forum General`|
+|[&#40;UD&#41; STM32 &#43; CH376 Colorbot Firmware Source written in C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698866-ud-stm32-ch376-colorbot-firmware-source-written.html)|`2025-05-01 18:10:00`|`Valorant`|
 |[99% auto updatable Simple Internal Cheat &#40;no need decryption&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/682116-99-auto-updatable-simple-internal-cheat-decryption.html)|`2025-05-01 18:04:00`|`Rust`|
 |[Can't find any patterns for &#46;data ptr swap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698865-cant-patterns-data-ptr-swap.html)|`2025-05-01 18:01:00`|`Anti-Cheat Bypass`|
 |[Valorant insta headshot AIMBOT&#91;UNDETECTED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688675-valorant-insta-headshot-aimbot-undetected.html)|`2025-05-01 17:44:00`|`Valorant`|
