@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Giving money to friends while using mods yim v2 enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698958-giving-money-friends-using-mods-yim-v2-enhanced.html)|`2025-05-02 03:38:00`|`Grand Theft Auto V`|
+|[Makcu 1PC Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698881-makcu-1pc-colorbot.html)|`2025-05-02 03:36:00`|`Valorant`|
+|[vgk dma firmware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698956-vgk-dma-firmware.html)|`2025-05-02 03:21:00`|`Valorant`|
 |[Where to start making a cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/698955-start-cheat.html)|`2025-05-02 03:02:00`|`Marvel Rivals`|
 |[Rocket League XP Farm Bot &#45; External AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695550-rocket-league-xp-farm-bot-external-ai.html)|`2025-05-02 02:51:00`|`Other Games`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-05-02 02:43:00`|`Other FPS Games`|
