@@ -39,6 +39,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nuxar1 Decryption dumper partial fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-ii/698982-nuxar1-decryption-dumper-partial-fix.html)|`2025-05-02 06:14:00`|`Call of Duty: Modern Warfare II`|
+|[DuneCore &#45; CS2 Best Triggerbot so far &#40;for legit players&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691168-dunecore-cs2-triggerbot-legit-players.html)|`2025-05-02 06:11:00`|`Counter-Strike 2`|
+|[Solo Leveling Arise 1&#46;2&#46;47](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/696274-solo-leveling-arise-1-2-47-a.html)|`2025-05-02 06:07:00`|`Other MMORPG and Strategy`|
+|[Fragpunk Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697941-fragpunk-internal.html)|`2025-05-02 06:03:00`|`Other FPS Games`|
 |[Gmod DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/698786-gmod-dma.html)|`2025-05-02 05:53:00`|`Garry's Mod`|
 |[rtardware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/697851-rtardware.html)|`2025-05-02 05:46:00`|`Counter-Strike 2 Releases`|
 |[Zula Visible Check &#40;with trace&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/698976-zula-visible-check-trace.html)|`2025-05-02 05:46:00`|`Other FPS Games`|
