@@ -12,6 +12,7 @@
 |7|[pubg kaka and stay source &#91;DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/698494-pubg-kaka-stay-source-dma.html)|`2025-05-02 00:16:52`|`playerunknown-s-battlegrounds`|
 |15|[Improving External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698263-improving-external.html)|`2025-05-02 00:16:52`|`counter-strike-2-a`|
 |3|[Schedule 1 External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/698215-schedule-1-external.html)|`2025-05-02 00:52:28`|`other-games`|
+|5|[Physical Reading Peb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698270-physical-reading-peb.html)|`2025-05-02 02:24:14`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TarkovGUI &#124; PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/694944-tarkovgui-pve.html)|`2025-05-02 02:12:00`|`Escape from Tarkov`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-05-02 02:10:00`|`Rust`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-05-02 02:07:00`|`Other FPS Games`|
 |[Remove Screen Effects](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/698268-remove-screen-effects.html)|`2025-05-02 01:52:00`|`Team Fortress 2`|
 |[World of Tanks Blitz & DAVA Game Engine structure and hints needed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/689828-world-tanks-blitz-dava-game-engine-structure-hints.html)|`2025-05-02 01:37:00`|`Other MMORPG and Strategy`|
 |[Instant Device ban &#40; possibly hwid? &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/691219-instant-device-ban-possibly-hwid.html)|`2025-05-02 01:33:00`|`Marvel Rivals`|
