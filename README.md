@@ -34,9 +34,12 @@
 |1|[TheForeverWinter&#45;v0&#46;1&#46;45959&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49591)|`2025-05-02 01:41:59`|
 |1|[DescendantInternal&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49587)|`2025-05-02 05:36:12`|
 |1|[asphyxia&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49586)|`2025-05-02 05:48:08`|
+|0|[VALORANT SDK 01/05/2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49626)|`2025-05-02 05:54:05`|
+|2|[source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49588)|`2025-05-02 05:54:05`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gmod DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/698786-gmod-dma.html)|`2025-05-02 05:53:00`|`Garry's Mod`|
 |[rtardware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/697851-rtardware.html)|`2025-05-02 05:46:00`|`Counter-Strike 2 Releases`|
 |[Zula Visible Check &#40;with trace&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/698976-zula-visible-check-trace.html)|`2025-05-02 05:46:00`|`Other FPS Games`|
 |[DC Universe &#45; No Delay Hack &#43; Auto Clicker &#40; Internal &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/696178-dc-universe-delay-hack-auto-clicker-internal.html)|`2025-05-02 05:46:00`|`Other MMORPG and Strategy`|
