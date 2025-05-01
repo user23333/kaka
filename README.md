@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can't find any patterns for &#46;data ptr swap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698865-cant-patterns-data-ptr-swap.html)|`2025-05-02 06:48:00`|`Anti-Cheat Bypass`|
+|[m&#95;iObserverMode is always 0 even when spectating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698725-m_iobservermode-0-spectating.html)|`2025-05-02 06:47:00`|`Counter-Strike 2`|
 |[Nuxar1 Decryption dumper partial fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-ii/698982-nuxar1-decryption-dumper-partial-fix.html)|`2025-05-02 06:14:00`|`Call of Duty: Modern Warfare II`|
 |[DuneCore &#45; CS2 Best Triggerbot so far &#40;for legit players&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691168-dunecore-cs2-triggerbot-legit-players.html)|`2025-05-02 06:11:00`|`Counter-Strike 2`|
 |[Solo Leveling Arise 1&#46;2&#46;47](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/696274-solo-leveling-arise-1-2-47-a.html)|`2025-05-02 06:07:00`|`Other MMORPG and Strategy`|
