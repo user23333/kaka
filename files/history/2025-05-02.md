@@ -25,9 +25,15 @@
 |29|[Bodycam Internal Source V&#46;0&#46;1&#46;4&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49573)|`2025-05-02 00:16:52`|
 |83|[Bodycam Internal V&#46;0&#46;1&#46;4&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49572)|`2025-05-02 00:16:52`|
 |239|[Xex Apex V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49570)|`2025-05-02 00:16:52`|
+|1|[MEOW&#95;SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49614)|`2025-05-02 01:14:15`|
+|1|[R6S AI AimBot & TriggerBot V2&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49589)|`2025-05-02 01:14:15`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New SDK &#91;FIXED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/698838-sdk-fixed.html)|`2025-05-02 01:12:00`|`Marvel Rivals`|
+|[DXGI issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698835-dxgi-issues.html)|`2025-05-02 01:12:00`|`Valorant`|
+|[Faster Triggerbot Alternative to SendInput in FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/698431-faster-triggerbot-alternative-sendinput-fivem.html)|`2025-05-02 01:08:00`|`Alternative Online Mods`|
+|[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-05-02 01:06:00`|`Rainbow Six Siege`|
 |[anyway to unlock the trippy baseball bat and knife?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/694168-anyway-unlock-trippy-baseball-bat-knife.html)|`2025-05-02 00:57:00`|`Grand Theft Auto V`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-05-02 00:52:00`|`Call of Duty: Black Ops 6`|
 |[remove external ESP bone flicker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686632-remove-external-esp-bone-flicker.html)|`2025-05-02 00:47:00`|`Rust`|
