@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[anyway to unlock the trippy baseball bat and knife?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/694168-anyway-unlock-trippy-baseball-bat-knife.html)|`2025-05-02 00:57:00`|`Grand Theft Auto V`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-05-02 00:52:00`|`Call of Duty: Black Ops 6`|
 |[remove external ESP bone flicker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686632-remove-external-esp-bone-flicker.html)|`2025-05-02 00:47:00`|`Rust`|
 |[how to apply bool stats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698938-apply-bool-stats.html)|`2025-05-02 00:46:00`|`Grand Theft Auto V`|
 |[Fast And Simple Triggerbot &#40;ASM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698448-fast-simple-triggerbot-asm.html)|`2025-05-02 00:43:00`|`Valorant`|
