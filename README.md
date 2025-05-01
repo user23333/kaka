@@ -33,9 +33,13 @@
 |1|[HeroesOfValor SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49592)|`2025-05-02 01:41:59`|
 |1|[TheForeverWinter&#45;v0&#46;1&#46;45959&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49591)|`2025-05-02 01:41:59`|
 |1|[DescendantInternal&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49587)|`2025-05-02 05:36:12`|
+|1|[asphyxia&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49586)|`2025-05-02 05:48:08`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[rtardware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/697851-rtardware.html)|`2025-05-02 05:46:00`|`Counter-Strike 2 Releases`|
+|[Zula Visible Check &#40;with trace&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/698976-zula-visible-check-trace.html)|`2025-05-02 05:46:00`|`Other FPS Games`|
+|[DC Universe &#45; No Delay Hack &#43; Auto Clicker &#40; Internal &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/696178-dc-universe-delay-hack-auto-clicker-internal.html)|`2025-05-02 05:46:00`|`Other MMORPG and Strategy`|
 |[SteelHunterInternal for Steel Hunters](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695182-steelhunterinternal-steel-hunters.html)|`2025-05-02 05:41:00`|`Other FPS Games`|
 |[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-05-02 05:36:00`|`Other FPS Games`|
 |[new meber](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/698737-meber.html)|`2025-05-02 05:35:00`|`Introductions`|
