@@ -26,9 +26,11 @@
 |24|[heroes&#45;of&#45;cheats&#45;ue4ss&#45;main&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49569)|`2025-05-01 00:12:55`|
 |81|[Ferrarihook source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49567)|`2025-05-01 00:12:55`|
 |0|[iViewer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49600)|`2025-05-01 05:53:16`|
+|2|[Quasar 1&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49585)|`2025-05-01 12:25:42`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[QuasarDMA Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/697510-quasardma-update.html)|`2025-05-01 12:05:00`|`Rust`|
 |[New SDK &#91;FIXED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/698838-sdk-fixed.html)|`2025-05-01 11:57:00`|`Marvel Rivals`|
 |[PUBG MOBILE Kernel Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/697085-pubg-mobile-kernel-cheats.html)|`2025-05-01 11:54:00`|`PUBG Mobile`|
 |[&#91;EXTERNAL/DMA&#93; How to force re&#45;render/update/move StaticMeshes?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/698836-external-dma-force-re-render-update-move-staticmeshes.html)|`2025-05-01 11:05:00`|`Unreal Engine 4`|
