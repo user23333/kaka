@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2025-05-01 21:42:00`|`Other FPS Games`|
+|[Roblox gamepasses](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/698295-roblox-gamepasses.html)|`2025-05-01 21:35:00`|`Other Games`|
+|[Faster Triggerbot Alternative to SendInput in FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/698431-faster-triggerbot-alternative-sendinput-fivem.html)|`2025-05-01 21:33:00`|`Alternative Online Mods`|
 |[crosshairID offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/698888-crosshairid-offset.html)|`2025-05-01 21:30:00`|`CounterStrike Source`|
 |[BYPASS GLOBAL 32BIT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/698884-bypass-global-32bit.html)|`2025-05-01 21:15:00`|`PUBG Mobile`|
 |[Roblox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/698882-roblox.html)|`2025-05-01 20:58:00`|`Other Games`|
