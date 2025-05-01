@@ -27,9 +27,18 @@
 |239|[Xex Apex V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49570)|`2025-05-02 00:16:52`|
 |1|[MEOW&#95;SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49614)|`2025-05-02 01:14:15`|
 |1|[R6S AI AimBot & TriggerBot V2&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49589)|`2025-05-02 01:14:15`|
+|3|[STM32 FW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49616)|`2025-05-02 01:41:59`|
+|1|[5&#46;3&#46;2&#45;1877971&#43;&#43;&#43;depot&#95;marvel&#43;S2&#95;1&#95;release&#45;Mar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49593)|`2025-05-02 01:41:59`|
+|1|[HeroesOfValor SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49592)|`2025-05-02 01:41:59`|
+|1|[TheForeverWinter&#45;v0&#46;1&#46;45959&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49591)|`2025-05-02 01:41:59`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[World of Tanks Blitz & DAVA Game Engine structure and hints needed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/689828-world-tanks-blitz-dava-game-engine-structure-hints.html)|`2025-05-02 01:37:00`|`Other MMORPG and Strategy`|
+|[Instant Device ban &#40; possibly hwid? &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/691219-instant-device-ban-possibly-hwid.html)|`2025-05-02 01:33:00`|`Marvel Rivals`|
+|[&#40;UD&#41; STM32 &#43; CH376 Colorbot Firmware Source written in C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698866-ud-stm32-ch376-colorbot-firmware-source-written.html)|`2025-05-02 01:31:00`|`Valorant`|
+|[Heroes of Valor Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-heroes/697515-heroes-valor-cheat.html)|`2025-05-02 01:23:00`|`Battlefield Heroes`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-05-02 01:23:00`|`Apex Legends`|
 |[New SDK &#91;FIXED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/698838-sdk-fixed.html)|`2025-05-02 01:12:00`|`Marvel Rivals`|
 |[DXGI issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698835-dxgi-issues.html)|`2025-05-02 01:12:00`|`Valorant`|
 |[Faster Triggerbot Alternative to SendInput in FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/698431-faster-triggerbot-alternative-sendinput-fivem.html)|`2025-05-02 01:08:00`|`Alternative Online Mods`|
