@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Remove Screen Effects](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/698268-remove-screen-effects.html)|`2025-05-02 01:52:00`|`Team Fortress 2`|
 |[World of Tanks Blitz & DAVA Game Engine structure and hints needed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/689828-world-tanks-blitz-dava-game-engine-structure-hints.html)|`2025-05-02 01:37:00`|`Other MMORPG and Strategy`|
 |[Instant Device ban &#40; possibly hwid? &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/691219-instant-device-ban-possibly-hwid.html)|`2025-05-02 01:33:00`|`Marvel Rivals`|
 |[&#40;UD&#41; STM32 &#43; CH376 Colorbot Firmware Source written in C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698866-ud-stm32-ch376-colorbot-firmware-source-written.html)|`2025-05-02 01:31:00`|`Valorant`|
