@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What is the best way to undetectedly block key input?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/698959-undetectedly-block-key-input.html)|`2025-05-02 19:50:00`|`Apex Legends`|
+|[Run BE on VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699050-run-vm.html)|`2025-05-02 19:47:00`|`Anti-Cheat Bypass`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-05-02 19:32:00`|`Alternative Online Mods`|
 |[Protection against hwid ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/698939-protection-hwid-ban.html)|`2025-05-02 19:29:00`|`Rust`|
 |[Trying to learn about the aes encryption in this game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/688611-trying-learn-aes-encryption-game.html)|`2025-05-02 19:29:00`|`THE FINALS`|
