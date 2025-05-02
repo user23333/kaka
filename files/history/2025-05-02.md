@@ -39,6 +39,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to fix 10 yrs online or offline?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/699069-fix-10-yrs-online-offline.html)|`2025-05-02 22:26:00`|`PUBG Mobile`|
+|[GTA:O External Hack Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/173509-gta-external-hack-source.html)|`2025-05-02 22:23:00`|`Grand Theft Auto V`|
+|[Event/Trophy Savegame Keys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/617303-event-trophy-savegame-keys.html)|`2025-05-02 22:15:00`|`Phasmophobia`|
 |[bones, real hitbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/695216-bones-real-hitbox.html)|`2025-05-02 22:09:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[SIMPLE ESP FOR ARMA 2 &#40;dayz, epoch and origins&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-2-a/689511-simple-esp-arma-2-dayz-epoch-origins.html)|`2025-05-02 21:29:00`|`ARMA 2`|
 |[warzone cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/698730-warzone-cheat.html)|`2025-05-02 21:38:00`|`Call of Duty: Black Ops 6`|
