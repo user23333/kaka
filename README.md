@@ -11,6 +11,7 @@
 |16|[Improving External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698263-improving-external.html)|`2025-05-03 00:22:08`|`counter-strike-2-a`|
 |3|[Schedule 1 External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/698215-schedule-1-external.html)|`2025-05-03 00:22:08`|`other-games`|
 |5|[Physical Reading Peb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698270-physical-reading-peb.html)|`2025-05-03 00:22:08`|`anti-cheat-bypass`|
+|15|[Heroes of Valor &#45; Heroes of Cheats Lua](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/698565-heroes-valor-heroes-cheats-lua.html)|`2025-05-03 06:58:37`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
