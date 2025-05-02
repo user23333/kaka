@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[WDA&#95;excludefromcapture Bypass Needed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699010-wda_excludefromcapture-bypass.html)|`2025-05-02 14:57:00`|`Anti-Cheat Bypass`|
 |[Personal spawned vehicle safe ???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698808-personal-spawned-vehicle-safe.html)|`2025-05-02 14:45:00`|`Grand Theft Auto V`|
 |[Alternative last free version of cheat 06&#46;2020](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/458599-alternative-free-version-cheat-06-2020-a.html)|`2025-05-02 14:40:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[BYPASS ECD EASYCHEATDETECTOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/699022-bypass-ecd-easycheatdetector.html)|`2025-05-02 14:36:00`|`CounterStrike 1.5, 1.6 and Mods`|
