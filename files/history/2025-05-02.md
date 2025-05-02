@@ -39,6 +39,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[resourcemanager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/699054-resourcemanager.html)|`2025-05-02 20:24:00`|`Alternative Online Mods`|
+|[external to internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/698934-external-internal.html)|`2025-05-02 20:07:00`|`Alternative Online Mods`|
+|[CResourceHandleUtils VFunc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699052-cresourcehandleutils-vfunc.html)|`2025-05-02 20:03:00`|`Counter-Strike 2`|
+|[Medal&#46;tv overlay does not work anymore?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/699051-medal-tv-overlay-anymore.html)|`2025-05-02 20:01:00`|`General Programming and Reversing`|
+|[Improving External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698263-improving-external.html)|`2025-05-02 19:58:00`|`Counter-Strike 2`|
 |[What is the best way to undetectedly block key input?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/698959-undetectedly-block-key-input.html)|`2025-05-02 19:50:00`|`Apex Legends`|
 |[Run BE on VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699050-run-vm.html)|`2025-05-02 19:47:00`|`Anti-Cheat Bypass`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-05-02 19:32:00`|`Alternative Online Mods`|
