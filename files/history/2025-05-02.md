@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Theia static decryptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696332-theia-static-decryptor.html)|`2025-05-02 13:11:00`|`Anti-Cheat Bypass`|
 |[Pokemon TCGP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/671386-pokemon-tcgp.html)|`2025-05-02 12:35:00`|`Android`|
 |[Protobuf & Subtick](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688985-protobuf-subtick.html)|`2025-05-02 12:23:00`|`Counter-Strike 2`|
 |[Issue with RtlLookupFunctionEntry on ARM64 &#45; Overshooting Function Size](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/698444-issue-rtllookupfunctionentry-arm64-overshooting-function-size.html)|`2025-05-02 12:19:00`|`General Programming and Reversing`|
