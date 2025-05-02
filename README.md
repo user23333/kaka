@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypassing BE for CE &#40;almost&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699064-bypassing-ce.html)|`2025-05-02 21:18:00`|`Anti-Cheat Bypass`|
 |[Too much money for migration from legacy to enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698793-money-migration-legacy-enhanced.html)|`2025-05-02 20:57:00`|`Grand Theft Auto V`|
 |[Frameware Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/677239-frameware-release.html)|`2025-05-02 20:46:00`|`Overwatch`|
 |[External Glow ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/698284-external-glow-esp.html)|`2025-05-02 20:35:00`|`Counter-Strike 2 Releases`|
