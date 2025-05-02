@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MW3 Injection issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/699020-mw3-injection-issues.html)|`2025-05-02 14:30:00`|`Call of Duty: Modern Warfare III`|
+|[Odin: Valhalla Rising global version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/698854-odin-valhalla-rising-global-version.html)|`2025-05-02 14:25:00`|`Other MMORPG and Strategy`|
 |[Thoughts on a 2PC Triggerbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/694022-2pc-triggerbot.html)|`2025-05-02 14:12:00`|`Valorant`|
 |[I’d like to know what the mouse&#95;event function is called and where it lives if I want](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698613-mouse_event-function-called-lives.html)|`2025-05-02 14:09:00`|`Anti-Cheat Bypass`|
 |[Sigmaker IDA 9&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/699016-sigmaker-ida-9-1-a.html)|`2025-05-02 13:49:00`|`General Programming and Reversing`|
