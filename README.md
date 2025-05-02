@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pokemon TCGP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/671386-pokemon-tcgp.html)|`2025-05-02 12:35:00`|`Android`|
+|[Protobuf & Subtick](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/688985-protobuf-subtick.html)|`2025-05-02 12:23:00`|`Counter-Strike 2`|
 |[Issue with RtlLookupFunctionEntry on ARM64 &#45; Overshooting Function Size](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/698444-issue-rtllookupfunctionentry-arm64-overshooting-function-size.html)|`2025-05-02 12:19:00`|`General Programming and Reversing`|
 |[MindShare &#45; Arbor infinite trial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/624762-mindshare-arbor-infinite-trial.html)|`2025-05-02 11:49:00`|`Anti-Cheat Bypass`|
 |[Schedule I Internal Cheat / Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696842-schedule-internal-cheat-helper.html)|`2025-05-02 11:28:00`|`Other Games`|
