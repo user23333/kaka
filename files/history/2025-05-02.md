@@ -39,6 +39,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Too much money for migration from legacy to enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698793-money-migration-legacy-enhanced.html)|`2025-05-02 20:57:00`|`Grand Theft Auto V`|
+|[Frameware Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/677239-frameware-release.html)|`2025-05-02 20:46:00`|`Overwatch`|
+|[External Glow ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/698284-external-glow-esp.html)|`2025-05-02 20:35:00`|`Counter-Strike 2 Releases`|
 |[resourcemanager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/699054-resourcemanager.html)|`2025-05-02 20:24:00`|`Alternative Online Mods`|
 |[external to internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/698934-external-internal.html)|`2025-05-02 20:07:00`|`Alternative Online Mods`|
 |[CResourceHandleUtils VFunc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699052-cresourcehandleutils-vfunc.html)|`2025-05-02 20:03:00`|`Counter-Strike 2`|
