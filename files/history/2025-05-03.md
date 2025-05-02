@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2025-05-03 06:37:00`|`Other FPS Games`|
+|[Skin changer implementation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/699138-skin-changer-implementation.html)|`2025-05-03 06:34:00`|`Apex Legends`|
+|[free FiveM dma cheats with Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/680493-free-fivem-dma-cheats-aimbot.html)|`2025-05-03 06:34:00`|`Alternative Online Mods`|
+|[Osussist v3 MultiHack for osu&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/671577-osussist-v3-multihack-osu.html)|`2025-05-03 06:25:00`|`Other Games`|
+|[New SDK &#91;FIXED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/698838-sdk-fixed.html)|`2025-05-03 06:24:00`|`Marvel Rivals`|
 |[Which identifiers does EAC ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698713-identifiers-eac-ban.html)|`2025-05-03 06:02:00`|`Anti-Cheat Bypass`|
 |[How to get weapon ID for dropped weapons ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696684-weapon-id-dropped-weapons.html)|`2025-05-03 05:53:00`|`Counter-Strike 2`|
 |[HWID ban &#40;van 152&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/693911-hwid-ban-van-152-a.html)|`2025-05-03 05:45:00`|`Valorant`|
