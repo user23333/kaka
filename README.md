@@ -39,6 +39,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to Dump Rust Materials for Noobs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/697935-dump-rust-materials-noobs.html)|`2025-05-02 18:38:00`|`Rust`|
+|[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-05-02 18:37:00`|`Grand Theft Auto V`|
+|[Rocket League &#45; Name Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/699045-rocket-league-name-spoofer.html)|`2025-05-02 18:25:00`|`Other Games`|
+|[ThunderTirnal &#45; WarThunder Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/660182-thundertirnal-warthunder-cheat.html)|`2025-05-02 18:23:00`|`Other MMORPG and Strategy`|
 |[What's the best DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/698748-whats-dma.html)|`2025-05-02 17:56:00`|`Call of Duty: Black Ops 6`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-05-02 17:49:00`|`Other FPS Games`|
 |[Once Human &#40;game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/614970-human-game.html)|`2025-05-02 17:42:00`|`Other MMORPG and Strategy`|
