@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[hide shots exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699198-hide-shots-exploit.html)|`2025-05-03 22:04:00`|`Counter-Strike 2`|
 |[GTA on steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699164-gta-steam.html)|`2025-05-03 21:39:00`|`Grand Theft Auto V`|
 |[x86 Instrumentation Callbacks Struct](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/698370-x86-instrumentation-callbacks-struct.html)|`2025-05-03 21:27:00`|`General Programming and Reversing`|
 |[HVCI after getting b4nned top eu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699196-hvci-getting-b4nned-top-eu.html)|`2025-05-03 21:19:00`|`Valorant`|
