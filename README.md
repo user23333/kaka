@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can I be banned with this program ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699248-banned-program.html)|`2025-05-04 03:23:00`|`Counter-Strike 2`|
+|[&#91;removed&#93; Nvbypass one day key](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/699247-removed-nvbypass-day-key.html)|`2025-05-04 03:23:00`|`League of Legends`|
 |[QuasarDMA Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/697510-quasardma-update.html)|`2025-05-04 03:20:00`|`Rust`|
 |[How can a online strategy game prevent someone to use MOD?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/699245-online-strategy-game-prevent-mod.html)|`2025-05-04 03:20:00`|`Other MMORPG and Strategy`|
 |[&#91;removed&#93; Nvbypass one day key](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/699244-removed-nvbypass-day-key.html)|`2025-05-04 03:19:00`|`League of Legends`|
