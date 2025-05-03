@@ -26,9 +26,14 @@
 |34|[STM32 FW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49616)|`2025-05-04 00:08:48`|
 |4|[asthmaphobia v0&#46;12&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49618)|`2025-05-04 00:45:58`|
 |1|[NoRecoil All Mouse v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49624)|`2025-05-04 00:52:11`|
+|1|[Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49630)|`2025-05-04 01:12:14`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[rtardware source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/699217-rtardware-source-code.html)|`2025-05-04 01:07:00`|`Counter-Strike 2 Releases`|
+|[DiskSerial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699150-diskserial.html)|`2025-05-04 01:04:00`|`Valorant`|
+|[rtardware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/697851-rtardware.html)|`2025-05-04 01:01:00`|`Counter-Strike 2 Releases`|
+|[R6 no recoil macro for logitech mouses](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/699003-r6-recoil-macro-logitech-mouses.html)|`2025-05-04 01:00:00`|`Rainbow Six Siege`|
 |[RU Warface external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/681338-ru-warface-external-cheat.html)|`2025-05-04 00:52:00`|`Warface`|
 |[Mac OS inject cheat good](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/699210-mac-os-inject-cheat.html)|`2025-05-04 00:46:00`|`Garry's Mod`|
 |[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-05-04 00:49:00`|`PUBG Releases`|
