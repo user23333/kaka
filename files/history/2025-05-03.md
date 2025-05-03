@@ -33,9 +33,14 @@
 |3|[SigMaker64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49632)|`2025-05-03 17:54:59`|
 |3|[PhasmoMenu v0&#46;5&#46;5&#46;9 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49629)|`2025-05-03 17:54:59`|
 |1|[Windows 11 22H2 win32k&#46;sys dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49617)|`2025-05-03 17:54:59`|
+|4|[inj&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49599)|`2025-05-03 20:57:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-05-03 20:43:00`|`Grand Theft Auto V`|
+|[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2025-05-03 20:40:00`|`Apex Legends`|
+|[Ferrarihook internal source &#40;paste alert&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698536-ferrarihook-internal-source-paste-alert.html)|`2025-05-03 20:38:00`|`Counter-Strike 2`|
+|[iViewer — External Memory Tool for x86 & x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/697607-iviewer-external-memory-tool-x86-x64.html)|`2025-05-03 20:28:00`|`General Programming and Reversing`|
 |[KillAllPlayer doesnt work &#91;FiveM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/698940-killallplayer-doesnt-fivem.html)|`2025-05-03 20:17:00`|`Alternative Online Mods`|
 |[Spectator list crashes for some reason&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699191-spectator-list-crashes-reason.html)|`2025-05-03 20:00:00`|`Counter-Strike 2`|
 |[What's the best DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/698748-whats-dma.html)|`2025-05-03 19:58:00`|`Call of Duty: Black Ops 6`|
