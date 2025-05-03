@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Recoil Vectors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699178-recoil-vectors.html)|`2025-05-04 02:57:00`|`Call of Duty: Black Ops 6`|
+|[Process Hollowing Context C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/699235-process-hollowing-context.html)|`2025-05-04 02:53:00`|`Programming for Beginners`|
 |[REPX &#45; R&#46;E&#46;P&#46;O&#46; Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/697781-repx-cheat.html)|`2025-05-04 02:50:00`|`Other MMORPG and Strategy`|
 |[Rebuying From Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/197093-rebuying-steam.html)|`2025-05-04 02:47:00`|`Grand Theft Auto V`|
 |[COD Plunder &#45; Humanized AFK Script &#40;Fast Gun/Acc Lvl XP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/687454-cod-plunder-humanized-afk-script-fast-gun-acc-lvl-xp.html)|`2025-05-04 02:45:00`|`Call of Duty: Black Ops 6`|
