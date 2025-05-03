@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699221-rcs.html)|`2025-05-04 01:53:00`|`Counter-Strike 2`|
 |[How to use KD Mapper in latest Windows 11 Builds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699220-kd-mapper-windows-11-builds.html)|`2025-05-04 01:46:00`|`Call of Duty: Black Ops 6`|
 |[Infinite Spears](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/698158-infinite-spears.html)|`2025-05-04 01:38:00`|`Sea of Thieves`|
 |[hide shots exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699198-hide-shots-exploit.html)|`2025-05-04 01:33:00`|`Counter-Strike 2`|
