@@ -39,9 +39,13 @@
 |1|[OUTFIT EDITOR&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49647)|`2025-05-04 04:19:53`|
 |5|[ReadyOrNot Internal Recode ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49644)|`2025-05-04 04:19:53`|
 |7|[PhasmoMenu v0&#46;5&#46;5&#46;9 By PappyG &#40;Fixed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49649)|`2025-05-04 04:32:27`|
+|1|[pioneergame&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49653)|`2025-05-04 04:41:48`|
+|2|[StupidSolutions V3&#46;4&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49651)|`2025-05-04 04:41:48`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What type of injection methods are working?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/698971-type-injection-methods.html)|`2025-05-04 04:39:00`|`Rainbow Six Siege`|
+|[Sigmaker IDA 9&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/699016-sigmaker-ida-9-1-a.html)|`2025-05-04 04:37:00`|`General Programming and Reversing`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-05-04 04:24:00`|`Phasmophobia`|
 |[Theia static decryptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696332-theia-static-decryptor.html)|`2025-05-04 04:21:00`|`Anti-Cheat Bypass`|
 |[Cs2 Voidware External Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693235-cs2-voidware-external-read.html)|`2025-05-04 04:18:00`|`Counter-Strike 2`|
