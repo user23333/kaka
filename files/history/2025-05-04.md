@@ -33,9 +33,14 @@
 |2|[asphyxia&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49636)|`2025-05-04 03:36:07`|
 |1|[Star Wars Battle For Naboo Table &#40;PC&#41; v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49652)|`2025-05-04 03:48:08`|
 |1|[NameSpoofer&#95;RL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49634)|`2025-05-04 03:48:08`|
+|1|[Delta Force Mobile &#45; ios sdk dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49642)|`2025-05-04 03:54:12`|
+|1|[WoT:B Unlocker Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49639)|`2025-05-04 03:54:12`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-05-04 03:52:00`|`Other FPS Games`|
+|[Internal banwaves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698367-internal-banwaves.html)|`2025-05-04 03:51:00`|`Valorant`|
+|[WoT:B FPS Unlocker Tool v1 &#40;with patterns&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/699127-wot-fps-unlocker-tool-v1-patterns.html)|`2025-05-04 03:50:00`|`Other Games`|
 |[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2025-05-04 03:48:00`|`Apex Legends`|
 |[Rocket League &#45; Name Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/699045-rocket-league-name-spoofer.html)|`2025-05-04 03:47:00`|`Other Games`|
 |[Star Wars Battle For Naboo Table &#40;PC&#41; v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/699236-star-wars-battle-naboo-table-pc-v1-0-a.html)|`2025-05-04 03:43:00`|`Cheat Engine Tables`|
