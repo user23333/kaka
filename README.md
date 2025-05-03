@@ -36,9 +36,11 @@
 |4|[inj&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49599)|`2025-05-03 20:57:04`|
 |1|[SoTMaulder&#45;Maps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49645)|`2025-05-03 22:48:57`|
 |4|[Sigma Rivals v2 source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49638)|`2025-05-03 23:35:49`|
+|2|[heroes&#45;of&#45;cheats&#45;ue4ss&#45;1&#46;1&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49637)|`2025-05-03 23:42:18`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Heroes of Valor &#45; Heroes of Cheats Lua](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/698565-heroes-valor-heroes-cheats-lua.html)|`2025-05-03 23:36:00`|`Other FPS Games`|
 |[YimMenu updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698005-yimmenu-updated.html)|`2025-05-03 23:24:00`|`Grand Theft Auto V`|
 |[Screenshot Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/698820-screenshot-bypass.html)|`2025-05-03 23:22:00`|`Call of Duty: Black Ops 6`|
 |[Calling android app functions &#40;Unity IL2CPP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/699202-calling-android-app-functions-unity-il2cpp.html)|`2025-05-03 23:13:00`|`Forum General`|
