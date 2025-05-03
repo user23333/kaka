@@ -34,9 +34,12 @@
 |3|[PhasmoMenu v0&#46;5&#46;5&#46;9 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49629)|`2025-05-03 17:54:59`|
 |1|[Windows 11 22H2 win32k&#46;sys dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49617)|`2025-05-03 17:54:59`|
 |4|[inj&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49599)|`2025-05-03 20:57:04`|
+|1|[SoTMaulder&#45;Maps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49645)|`2025-05-03 22:48:57`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dying Light 1 &#40;V1&#46;50&#41; Internal &#124; Aimbot, ESP,&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/688897-dying-light-1-v1-50-internal-aimbot-esp.html)|`2025-05-03 22:47:00`|`Other FPS Games`|
+|[DMA Radar/Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/697254-dma-radar-fuser.html)|`2025-05-03 22:46:00`|`DayZ SA`|
 |[Railgun Locked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698873-railgun-locked.html)|`2025-05-03 22:34:00`|`Grand Theft Auto V`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-05-03 22:30:00`|`Overwatch`|
 |[Regarding Arduino cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698781-regarding-arduino-cheats.html)|`2025-05-03 22:24:00`|`Valorant`|
