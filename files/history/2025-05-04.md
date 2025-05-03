@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[hide shots exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699198-hide-shots-exploit.html)|`2025-05-04 01:33:00`|`Counter-Strike 2`|
 |[Stats of chameleon paints](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699183-stats-chameleon-paints.html)|`2025-05-04 01:29:00`|`Grand Theft Auto V`|
 |[Stumbled on a 2Box Trick via Discord&#46;&#46;&#46; Whatâ€™s the Deal?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699218-stumbled-2box-trick-via-discord-deal.html)|`2025-05-04 01:25:00`|`Call of Duty: Black Ops 6`|
 |[KillAllPlayer doesnt work &#91;FiveM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/698940-killallplayer-doesnt-fivem.html)|`2025-05-04 01:21:00`|`Alternative Online Mods`|
