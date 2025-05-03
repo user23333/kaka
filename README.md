@@ -11,6 +11,7 @@
 |6|[FiveM Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/698583-fivem-dumper.html)|`2025-05-04 00:08:48`|`alternative-online-mods`|
 |3|[Signed driver Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/698485-signed-driver-colorbot.html)|`2025-05-04 00:08:48`|`overwatch`|
 |3|[&#91;VOTE&#93; May 2025 Member of the Month](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/698364-vote-2025-month.html)|`2025-05-04 00:08:48`|`member-of-the-month`|
+|15|[The End of sigma rivals : source code release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699079-sigma-rivals-source-code-release.html)|`2025-05-04 02:10:49`|`marvel-rivals`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Skin changer implementation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/699138-skin-changer-implementation.html)|`2025-05-04 02:09:00`|`Apex Legends`|
+|[FiveM Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/698583-fivem-dumper.html)|`2025-05-04 02:08:00`|`Alternative Online Mods`|
+|[Operation Harsh Doorstop Internal &#124; Silent Aim, Magic Bullet, STW, Spammer, Other](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680217-operation-harsh-doorstop-internal-silent-aim-magic-bullet-stw-spammer.html)|`2025-05-04 02:04:00`|`Other FPS Games`|
 |[RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699221-rcs.html)|`2025-05-04 01:53:00`|`Counter-Strike 2`|
 |[How to use KD Mapper in latest Windows 11 Builds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699220-kd-mapper-windows-11-builds.html)|`2025-05-04 01:46:00`|`Call of Duty: Black Ops 6`|
 |[Infinite Spears](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/698158-infinite-spears.html)|`2025-05-04 01:38:00`|`Sea of Thieves`|
