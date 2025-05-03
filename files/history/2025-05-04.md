@@ -29,9 +29,15 @@
 |1|[NoRecoil All Mouse v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49624)|`2025-05-04 00:52:11`|
 |1|[Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49630)|`2025-05-04 01:12:14`|
 |2|[x88TF2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49627)|`2025-05-04 02:35:00`|
+|1|[Quasar 1&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49633)|`2025-05-04 03:22:24`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[QuasarDMA Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/697510-quasardma-update.html)|`2025-05-04 03:20:00`|`Rust`|
+|[How can a online strategy game prevent someone to use MOD?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/699245-online-strategy-game-prevent-mod.html)|`2025-05-04 03:20:00`|`Other MMORPG and Strategy`|
+|[&#91;removed&#93; Nvbypass one day key](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/699244-removed-nvbypass-day-key.html)|`2025-05-04 03:19:00`|`League of Legends`|
+|[Battlefield 2042 &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/467604-battlefield-2042-reversal-structs-offsets.html)|`2025-05-04 03:16:00`|`Battlefield 2042`|
+|[SeValidateImageHeader appears to be done](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699163-sevalidateimageheader-appears.html)|`2025-05-04 03:15:00`|`Anti-Cheat Bypass`|
 |[C&#35; BYPASS SOURCE CODE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/699240-bypass-source-code.html)|`2025-05-04 02:59:00`|`PUBG Mobile`|
 |[Recoil Vectors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699178-recoil-vectors.html)|`2025-05-04 02:57:00`|`Call of Duty: Black Ops 6`|
 |[Process Hollowing Context C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/699235-process-hollowing-context.html)|`2025-05-04 02:53:00`|`Programming for Beginners`|
