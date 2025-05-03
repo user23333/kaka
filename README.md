@@ -13,6 +13,7 @@
 |5|[Physical Reading Peb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698270-physical-reading-peb.html)|`2025-05-03 00:22:08`|`anti-cheat-bypass`|
 |15|[Heroes of Valor &#45; Heroes of Cheats Lua](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/698565-heroes-valor-heroes-cheats-lua.html)|`2025-05-03 06:58:37`|`other-fps-games`|
 |6|[FiveM Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/698583-fivem-dumper.html)|`2025-05-03 14:48:43`|`alternative-online-mods`|
+|3|[Signed driver Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/698485-signed-driver-colorbot.html)|`2025-05-03 17:54:59`|`overwatch`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,9 +28,17 @@
 |11|[source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49588)|`2025-05-03 00:22:08`|
 |17|[DescendantInternal&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49587)|`2025-05-03 00:22:08`|
 |1|[Materials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49625)|`2025-05-03 15:07:36`|
+|1|[&#43;&#43;Fortnite&#43;Release&#45;35&#46;00&#45;CL&#45;41994699](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49641)|`2025-05-03 17:54:59`|
+|3|[SigMaker64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49632)|`2025-05-03 17:54:59`|
+|3|[PhasmoMenu v0&#46;5&#46;5&#46;9 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49629)|`2025-05-03 17:54:59`|
+|1|[Windows 11 22H2 win32k&#46;sys dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49617)|`2025-05-03 17:54:59`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sigmaker IDA 9&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/699016-sigmaker-ida-9-1-a.html)|`2025-05-03 17:53:00`|`General Programming and Reversing`|
+|[Stats of chameleon paints](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699183-stats-chameleon-paints.html)|`2025-05-03 17:53:00`|`Grand Theft Auto V`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-05-03 17:52:00`|`Phasmophobia`|
+|[Can't find any patterns for &#46;data ptr swap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698865-cant-patterns-data-ptr-swap.html)|`2025-05-03 17:52:00`|`Anti-Cheat Bypass`|
 |[new and want to learn game hacking&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699182-learn-game-hacking.html)|`2025-05-03 17:48:00`|`Call of Duty: Black Ops 6`|
 |[cfemen & gir489's Ready or Not hook v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632144-cfemen-gir489s-ready-hook-v1-0-a.html)|`2025-05-03 17:44:00`|`Other FPS Games`|
 |[pls somone make the new dlc wepon to be auto fire and not burst fire pls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/656077-pls-somone-dlc-wepon-auto-fire-burst-fire-pls.html)|`2025-05-03 17:37:00`|`Payday 3`|
