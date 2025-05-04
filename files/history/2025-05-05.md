@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-05-05 05:53:00`|`Counter-Strike 2`|
 |[Simple DLL Injector &#124; UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685297-simple-dll-injector-ud.html)|`2025-05-05 05:32:00`|`Marvel Rivals`|
 |[Hearts of iron IV cheats? exploits?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/369132-hearts-iron-iv-cheats-exploits.html)|`2025-05-05 05:32:00`|`Other MMORPG and Strategy`|
 |[Stumbled on a 2Box Trick via Discord&#46;&#46;&#46; Whatâ€™s the Deal?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699218-stumbled-2box-trick-via-discord-deal.html)|`2025-05-05 05:19:00`|`Call of Duty: Black Ops 6`|
