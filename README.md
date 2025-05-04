@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Emulator bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/699370-emulator-bypass.html)|`2025-05-05 06:39:00`|`PUBG Mobile`|
+|[hide shots exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699198-hide-shots-exploit.html)|`2025-05-05 06:38:00`|`Counter-Strike 2`|
+|[Enemy players list and local player Reforger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/699369-enemy-players-list-local-player-reforger.html)|`2025-05-05 06:36:00`|`ARMA 3`|
 |[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2025-05-05 06:32:00`|`Elite: Dangerous`|
 |[Unlock more Chameleon/Wheel paints on Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690610-unlock-chameleon-wheel-paints-enhanced.html)|`2025-05-05 06:29:00`|`Grand Theft Auto V`|
 |[Recoil Vectors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699178-recoil-vectors.html)|`2025-05-05 06:18:00`|`Call of Duty: Black Ops 6`|
