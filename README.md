@@ -49,6 +49,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pirate Generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/699335-pirate-generator.html)|`2025-05-04 21:38:00`|`Sea of Thieves`|
 |[Trap Dupe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/699332-trap-dupe.html)|`2025-05-04 21:29:00`|`Sea of Thieves`|
 |[New Spear Dupe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/699331-spear-dupe.html)|`2025-05-04 21:28:00`|`Sea of Thieves`|
 |[Modding Money in GTA 5 Legacy Before Transfer to Enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699273-modding-money-gta-5-legacy-transfer-enhanced.html)|`2025-05-04 21:12:00`|`Grand Theft Auto V`|
