@@ -49,6 +49,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Trap Dupe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/699332-trap-dupe.html)|`2025-05-04 21:29:00`|`Sea of Thieves`|
+|[New Spear Dupe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/699331-spear-dupe.html)|`2025-05-04 21:28:00`|`Sea of Thieves`|
+|[Modding Money in GTA 5 Legacy Before Transfer to Enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699273-modding-money-gta-5-legacy-transfer-enhanced.html)|`2025-05-04 21:12:00`|`Grand Theft Auto V`|
 |[EAC injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695972-eac-injector.html)|`2025-05-04 20:41:00`|`Anti-Cheat Bypass`|
 |[how can ı read game panels ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/696941-read-game-panels.html)|`2025-05-04 20:24:00`|`C and C++`|
 |[Possible to launch FiveM without adhesive?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/697068-launch-fivem-adhesive.html)|`2025-05-04 20:21:00`|`Alternative Online Mods`|
