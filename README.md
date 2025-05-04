@@ -49,6 +49,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[createdProjectiles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/699288-createdprojectiles.html)|`2025-05-04 15:29:00`|`Rust`|
+|[Medal&#46;tv overlay does not work anymore?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/699051-medal-tv-overlay-anymore.html)|`2025-05-04 15:29:00`|`General Programming and Reversing`|
+|[GTA 5 enhanced aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699081-gta-5-enhanced-aimbot.html)|`2025-05-04 15:28:00`|`Grand Theft Auto V`|
 |[Apex CV YOLO v8 Aim Assist Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/624584-apex-cv-yolo-v8-aim-assist-bot.html)|`2025-05-04 15:22:00`|`Apex Legends`|
 |[How to bypass the detection of PUBG BE's TslGame&#95;BE&#46;exe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698636-bypass-detection-pubg-bes-tslgame_be-exe.html)|`2025-05-04 14:52:00`|`Anti-Cheat Bypass`|
 |[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2025-05-04 14:43:00`|`Elite: Dangerous`|
