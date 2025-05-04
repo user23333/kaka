@@ -49,6 +49,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypassing bans on cracked servers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/628003-bypassing-bans-cracked-servers.html)|`2025-05-04 17:04:00`|`DayZ SA`|
 |[DARKEST DAYS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697870-darkest-days-reversal-structs-offsets.html)|`2025-05-04 16:02:00`|`Other FPS Games`|
 |[RunString FileDownloaders &#91;New&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/698399-runstring-filedownloaders.html)|`2025-05-04 15:47:00`|`Garry's Mod`|
 |[createdProjectiles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/699288-createdprojectiles.html)|`2025-05-04 15:29:00`|`Rust`|
