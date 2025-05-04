@@ -44,9 +44,14 @@
 |2|[StupidSolutions V3&#46;4&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49651)|`2025-05-04 04:41:48`|
 |3|[Quasar 3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49656)|`2025-05-04 07:46:45`|
 |6|[Nebula&#45;Client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49655)|`2025-05-04 09:26:42`|
+|5|[Quasar 3&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49657)|`2025-05-04 10:58:54`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Free Apex Coins/Cheap Coins Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/693249-free-apex-coins-cheap-coins-thread.html)|`2025-05-04 10:25:00`|`Apex Legends`|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-05-04 10:07:00`|`Apex Legends`|
+|[Got banned for no apparent reason](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/699270-banned-apparent-reason.html)|`2025-05-04 09:59:00`|`Sea of Thieves`|
+|[pubg kaka and stay source &#91;DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/698494-pubg-kaka-stay-source-dma.html)|`2025-05-04 09:54:00`|`Playerunknown's Battlegrounds`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2025-05-04 08:54:00`|`Other FPS Games`|
 |[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2025-05-04 08:25:00`|`Other Games`|
 |[PVE Cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/699268-pve-cheating.html)|`2025-05-04 07:54:00`|`Escape from Tarkov`|
