@@ -48,6 +48,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[About marking specific enemies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699276-marking-specific-enemies.html)|`2025-05-04 11:53:00`|`Counter-Strike 2`|
+|[External Raycasting &#40;PhysX recreation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673196-external-raycasting-physx-recreation.html)|`2025-05-04 11:51:00`|`Escape from Tarkov`|
 |[Online Enabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663128-online-enabler.html)|`2025-05-04 11:40:00`|`Grand Theft Auto V`|
 |[mini royale](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694384-mini-royale.html)|`2025-05-04 11:31:00`|`Other FPS Games`|
 |[Rocket League Custom SDK Drawing dliema](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/698454-rocket-league-custom-sdk-drawing-dliema.html)|`2025-05-04 11:21:00`|`Other Games`|
