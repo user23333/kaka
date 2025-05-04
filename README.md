@@ -49,6 +49,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA DayZ Fuser ESP &#43; Radar Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/606723-dma-dayz-fuser-esp-radar-source-release.html)|`2025-05-04 23:14:00`|`DayZ SA`|
 |[How bad is the vanguard at the moment?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699344-bad-vanguard-moment.html)|`2025-05-04 22:47:00`|`Valorant`|
 |[Please tell me how to join Discord on this site&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/699330-please-tell-join-discord-site.html)|`2025-05-04 22:20:00`|`Forum General`|
 |[Sigma Rivals &#124; Gooner edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689792-sigma-rivals-gooner-edition.html)|`2025-05-04 22:13:00`|`Marvel Rivals`|
