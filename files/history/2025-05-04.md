@@ -49,6 +49,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Path of Exile 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676435-path-exile-2-reversal-structs-offsets.html)|`2025-05-04 19:34:00`|`Other MMORPG and Strategy`|
 |[Reading League Memory in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/699112-reading-league-memory-2025-a.html)|`2025-05-04 19:10:00`|`League of Legends`|
 |[kicked by battleeye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698720-kicked-battleeye.html)|`2025-05-04 18:55:00`|`Grand Theft Auto V`|
 |[Apex Offset Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/698646-apex-offset-dump.html)|`2025-05-04 18:48:00`|`Apex Legends`|
