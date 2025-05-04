@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-05-05 03:31:00`|`Apex Legends`|
+|[Cs2 Voidware External Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693235-cs2-voidware-external-read.html)|`2025-05-05 03:30:00`|`Counter-Strike 2`|
+|[Silent via trajectory array](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/698042-silent-via-trajectory-array.html)|`2025-05-05 03:29:00`|`Escape from Tarkov`|
 |[Arduino or KMBOX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/692347-arduino-kmbox.html)|`2025-05-05 03:14:00`|`PC Hardware`|
 |[valorant code van 152 banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699153-valorant-code-van-152-banned.html)|`2025-05-05 03:07:00`|`Valorant`|
 |[Post your Menu/GUI Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/68024-post-menu-gui-framework.html)|`2025-05-05 03:05:00`|`C and C++`|
