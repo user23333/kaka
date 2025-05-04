@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unloading causes crashes due to fonts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/699351-unloading-causes-crashes-due-fonts.html)|`2025-05-05 00:49:00`|`Alternative Online Mods`|
 |[YimMenuV2Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697581-yimmenuv2mod.html)|`2025-05-05 00:32:00`|`Grand Theft Auto V`|
 |[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-05-05 00:27:00`|`PUBG Releases`|
 |[why is it so hard to hack an old game like that?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/699249-hard-hack-game.html)|`2025-05-05 00:24:00`|`CounterStrike 1.5, 1.6 and Mods`|
