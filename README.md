@@ -49,6 +49,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how can ı read game panels ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/696941-read-game-panels.html)|`2025-05-04 20:24:00`|`C and C++`|
+|[Possible to launch FiveM without adhesive?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/697068-launch-fivem-adhesive.html)|`2025-05-04 20:21:00`|`Alternative Online Mods`|
 |[DuneCore &#45; CS2 Best Triggerbot so far &#40;for legit players&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691168-dunecore-cs2-triggerbot-legit-players.html)|`2025-05-04 19:57:00`|`Counter-Strike 2`|
 |[RecoilMaster](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696278-recoilmaster.html)|`2025-05-04 19:46:00`|`Counter-Strike 2`|
 |[Reading bomb site](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699318-reading-bomb-site.html)|`2025-05-04 19:43:00`|`Counter-Strike 2`|
