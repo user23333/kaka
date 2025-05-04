@@ -49,6 +49,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mouse does not work when plugged into usb host shield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699277-mouse-plugged-usb-host-shield.html)|`2025-05-04 18:31:00`|`Valorant`|
+|[Anti Cheat Hardware ID Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699308-anti-cheat-hardware-id-bypass.html)|`2025-05-04 18:17:00`|`Anti-Cheat Bypass`|
 |[Valorant insta headshot AIMBOT&#91;UNDETECTED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688675-valorant-insta-headshot-aimbot-undetected.html)|`2025-05-04 18:10:00`|`Valorant`|
 |[Arduino Librarys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690984-arduino-librarys.html)|`2025-05-04 18:04:00`|`Valorant`|
 |[KmBox B&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/698803-kmbox.html)|`2025-05-04 17:55:00`|`Other Hardware`|
