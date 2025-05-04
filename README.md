@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The End of sigma rivals : source code release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699079-sigma-rivals-source-code-release.html)|`2025-05-05 07:21:00`|`Marvel Rivals`|
+|[New SDK &#91;FIXED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/698838-sdk-fixed.html)|`2025-05-05 07:19:00`|`Marvel Rivals`|
+|[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2025-05-05 07:14:00`|`Elite: Dangerous`|
 |[Process Hollowing Context C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/699235-process-hollowing-context.html)|`2025-05-05 07:04:00`|`Programming for Beginners`|
 |[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2025-05-05 06:50:00`|`Other FPS Games`|
 |[Unturned Egguware w/ bypass &#91;LINUX&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/693201-unturned-egguware-bypass-linux.html)|`2025-05-05 06:46:00`|`Other FPS Games`|
