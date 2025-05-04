@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-05-05 01:24:00`|`Other FPS Games`|
+|[Botlobby Tool FREE &#91;BO6/MW3/WARZONE&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/696676-botlobby-tool-free-bo6-mw3-warzone.html)|`2025-05-05 01:23:00`|`Call of Duty: Black Ops 6`|
+|[KillAllPlayer doesnt work &#91;FiveM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/698940-killallplayer-doesnt-fivem.html)|`2025-05-05 01:18:00`|`Alternative Online Mods`|
+|[Anti Cheat Hardware ID Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699308-anti-cheat-hardware-id-bypass.html)|`2025-05-05 01:15:00`|`Anti-Cheat Bypass`|
 |[Remove Screen Effects](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/698268-remove-screen-effects.html)|`2025-05-05 01:13:00`|`Team Fortress 2`|
 |[Apex CV YOLO v8 Aim Assist Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/624584-apex-cv-yolo-v8-aim-assist-bot.html)|`2025-05-05 01:13:00`|`Apex Legends`|
 |[EAC injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695972-eac-injector.html)|`2025-05-05 01:11:00`|`Anti-Cheat Bypass`|
