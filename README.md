@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2025-05-05 06:32:00`|`Elite: Dangerous`|
+|[Unlock more Chameleon/Wheel paints on Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690610-unlock-chameleon-wheel-paints-enhanced.html)|`2025-05-05 06:29:00`|`Grand Theft Auto V`|
+|[Recoil Vectors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699178-recoil-vectors.html)|`2025-05-05 06:18:00`|`Call of Duty: Black Ops 6`|
 |[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2025-05-05 06:06:00`|`Tom Clancy's The Division`|
 |[What game should I hack to practice hacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/699368-game-hack-practice-hacking.html)|`2025-05-05 05:57:00`|`Forum General`|
 |[Changing Gun Skins Externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/623135-changing-gun-skins-externally.html)|`2025-05-05 05:55:00`|`Counter-Strike 2`|
