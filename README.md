@@ -48,6 +48,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Online Enabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663128-online-enabler.html)|`2025-05-04 11:40:00`|`Grand Theft Auto V`|
+|[mini royale](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694384-mini-royale.html)|`2025-05-04 11:31:00`|`Other FPS Games`|
+|[Rocket League Custom SDK Drawing dliema](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/698454-rocket-league-custom-sdk-drawing-dliema.html)|`2025-05-04 11:21:00`|`Other Games`|
+|[Play Together/Rank Boosting Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/353364-play-rank-boosting-thread.html)|`2025-05-04 11:17:00`|`Apex Legends`|
+|[&#91;REIMU&#93; Apex Recoil &#91;NO MOUSE&#95;EVENT / INPUT&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/679345-reimu-apex-recoil-mouse_event-input.html)|`2025-05-04 11:16:00`|`Apex Legends`|
+|[XEX external v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/698574-xex-external-v2.html)|`2025-05-04 11:12:00`|`Apex Legends`|
 |[Free Apex Coins/Cheap Coins Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/693249-free-apex-coins-cheap-coins-thread.html)|`2025-05-04 10:25:00`|`Apex Legends`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-05-04 10:07:00`|`Apex Legends`|
 |[Got banned for no apparent reason](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/699270-banned-apparent-reason.html)|`2025-05-04 09:59:00`|`Sea of Thieves`|
