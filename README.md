@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[KillAllPlayer doesnt work &#91;FiveM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/698940-killallplayer-doesnt-fivem.html)|`2025-05-06 03:37:00`|`Alternative Online Mods`|
 |[&#40;PC&#41; Duplication other methods?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/699408-pc-duplication-methods.html)|`2025-05-06 03:30:00`|`DayZ SA`|
 |[Noob internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699388-noob-internal.html)|`2025-05-06 03:26:00`|`Marvel Rivals`|
 |[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-05-06 03:22:00`|`Other FPS Games`|
