@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/699374-simple-esp.html)|`2025-05-06 03:52:00`|`Apex Legends`|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-05-06 03:52:00`|`Other FPS Games`|
 |[Messiah Engine &#40; BloodStrike &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694299-messiah-engine-bloodstrike.html)|`2025-05-06 03:46:00`|`Other FPS Games`|
 |[KillAllPlayer doesnt work &#91;FiveM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/698940-killallplayer-doesnt-fivem.html)|`2025-05-06 03:37:00`|`Alternative Online Mods`|
 |[&#40;PC&#41; Duplication other methods?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/699408-pc-duplication-methods.html)|`2025-05-06 03:30:00`|`DayZ SA`|
