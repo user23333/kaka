@@ -25,9 +25,11 @@
 |72|[Quasar 3&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49657)|`2025-05-06 00:16:36`|
 |15|[Quasar 3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49656)|`2025-05-06 00:16:36`|
 |53|[Nebula&#45;Client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49655)|`2025-05-06 00:16:36`|
+|2|[rust materials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49673)|`2025-05-06 02:54:40`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to Dump Rust Materials for Noobs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/697935-dump-rust-materials-noobs.html)|`2025-05-06 02:52:00`|`Rust`|
 |[Rematch new game&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696030-rematch-game.html)|`2025-05-06 02:37:00`|`Other Games`|
 |[How to create a mod that can bypass utoc signature](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699362-create-mod-bypass-utoc-signature.html)|`2025-05-06 02:24:00`|`Marvel Rivals`|
 |[valorant code van 152 banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699153-valorant-code-van-152-banned.html)|`2025-05-06 02:10:00`|`Valorant`|
