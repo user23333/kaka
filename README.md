@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-05-06 00:46:00`|`Counter-Strike 2`|
+|[Silent aim with dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/699514-silent-aim-dma.html)|`2025-05-06 00:43:00`|`Rust`|
 |[Does anyone know of any problems with the UE engine scope being opened and the drawin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/699512-ue-engine-scope-drawin.html)|`2025-05-06 00:37:00`|`Unreal Engine 4`|
 |[Does anyone know how to solve the problem of incorrectly drawing the UE4 after magnif](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699511-solve-incorrectly-drawing-ue4-magnif.html)|`2025-05-06 00:34:00`|`Other FPS Games`|
 |[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-05-06 00:30:00`|`Other Games`|
