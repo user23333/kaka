@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Online Enabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663128-online-enabler.html)|`2025-05-05 14:46:00`|`Grand Theft Auto V`|
 |[&#91;STEAM&#93; TCSM Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/649480-steam-tcsm-internal-cheat.html)|`2025-05-05 14:12:00`|`Other Games`|
 |[Vanguard Secure Boot Verification Failed on Dual Boot System &#40;Ubuntu &#43; Win11&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699283-vanguard-secure-boot-verification-failed-dual-boot-system-ubuntu-win11.html)|`2025-05-05 14:01:00`|`Valorant`|
 |[Noob internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699388-noob-internal.html)|`2025-05-05 13:29:00`|`Marvel Rivals`|
