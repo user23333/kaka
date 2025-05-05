@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Schedule 1 v3&#46;3f14 QoL Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696517-schedule-1-v3-3f14-qol-internal-cheat.html)|`2025-05-06 07:07:00`|`Other Games`|
+|[Modding Money in GTA 5 Legacy Before Transfer to Enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699273-modding-money-gta-5-legacy-transfer-enhanced.html)|`2025-05-06 07:07:00`|`Grand Theft Auto V`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-05-06 06:54:00`|`Apex Legends`|
 |[CounterStrike Source Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/157661-counterstrike-source-reversal-structs-offsets.html)|`2025-05-06 06:27:00`|`CounterStrike Source`|
 |[LOLControl &#45; Vanguard &#45; Client &#45; Launcher &#45; Riot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/699502-lolcontrol-vanguard-client-launcher-riot.html)|`2025-05-06 05:53:00`|`League of Legends`|
