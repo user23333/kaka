@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[aimbot external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691042-aimbot-external.html)|`2025-05-05 20:38:00`|`Grand Theft Auto V`|
+|[If I post 4 discord permission posts, won't it come in?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/699488-post-4-discord-permission-posts-wont.html)|`2025-05-05 20:29:00`|`Forum General`|
+|[How many bans for HWID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/699467-bans-hwid.html)|`2025-05-05 20:16:00`|`Apex Legends`|
+|[rtardware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/697851-rtardware.html)|`2025-05-05 20:15:00`|`Counter-Strike 2 Releases`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-05-05 19:50:00`|`Other FPS Games`|
 |[Reversing adhesive](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/699409-reversing-adhesive.html)|`2025-05-05 19:42:00`|`Alternative Online Mods`|
 |[UCanvas hitting on PostRender but nothing b](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-3-a/697571-ucanvas-hitting-postrender.html)|`2025-05-05 19:18:00`|`Unreal Engine 3`|
