@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Run BE on VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699050-run-vm.html)|`2025-05-05 22:23:00`|`Anti-Cheat Bypass`|
+|[Does r6 ban for cheating in custom games?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/699359-r6-ban-cheating-custom-games.html)|`2025-05-05 22:18:00`|`Rainbow Six Siege`|
 |[Use Yim and FSL to make money in GTA enhanced online mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699140-yim-fsl-money-gta-enhanced-online-mode.html)|`2025-05-05 22:07:00`|`Grand Theft Auto V`|
 |[Can I be banned with this program ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699248-banned-program.html)|`2025-05-05 21:46:00`|`Counter-Strike 2`|
 |[Gameguard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/696733-gameguard-bypass.html)|`2025-05-05 21:37:00`|`HELLDIVERS 2`|
