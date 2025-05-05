@@ -14,6 +14,7 @@
 |11|[unlock all on warzone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/698658-unlock-warzone.html)|`2025-05-05 01:49:53`|`call-of-duty-black-ops-6-a`|
 |15|[Hide from Vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698891-hide-vanguard.html)|`2025-05-05 09:41:15`|`valorant`|
 |9|[working V&#45;Rising ESP out there for the newest?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/698538-rising-esp.html)|`2025-05-05 09:41:15`|`other-mmorpg-and-strategy`|
+|13|[New SDK &#91;FIXED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/698838-sdk-fixed.html)|`2025-05-05 11:04:57`|`marvel-rivals`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Aimbot and ESP FiveM/AltV/RageMP/GTAO All Versions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/698639-aimbot-esp-fivem-altv-ragemp-gtao-versions.html)|`2025-05-05 10:59:00`|`Alternative Online Mods`|
+|[SharpMonoInjector Fixed and Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/408878-sharpmonoinjector-fixed-updated.html)|`2025-05-05 10:56:00`|`Unity`|
+|[Help with dumping Mistfall Hunter &#40;UE 5&#46;5&#46;4&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/699159-help-dumping-mistfall-hunter-ue-5-5-4-0-a.html)|`2025-05-05 10:47:00`|`General Programming and Reversing`|
+|[Seeking help with infinite slide&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/699061-seeking-help-infinite-slide.html)|`2025-05-05 10:19:00`|`Call of Duty: Modern Warfare`|
+|[Thoughts on a 2PC Triggerbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/694022-2pc-triggerbot.html)|`2025-05-05 10:01:00`|`Valorant`|
 |[Outfit Editor   and  BBOB&#40;browser extension that generates Outfits Code for Bincohax&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/624819-outfit-editor-bbob-browser-extension-generates-outfits-code-bincohax.html)|`2025-05-05 09:37:00`|`Grand Theft Auto V`|
 |[DMA Radar/Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/697254-dma-radar-fuser.html)|`2025-05-05 09:34:00`|`DayZ SA`|
 |[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2025-05-05 09:27:00`|`Apex Legends`|
