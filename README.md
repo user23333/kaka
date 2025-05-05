@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[why does microsoft actually care now? &#40;24H2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699503-microsoft-actually-care-24h2.html)|`2025-05-05 22:52:00`|`Anti-Cheat Bypass`|
 |[PUBG: NEW STATE Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/479503-pubg-reversal-structs-offsets.html)|`2025-05-05 22:40:00`|`PUBG Mobile`|
 |[Run BE on VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699050-run-vm.html)|`2025-05-05 22:23:00`|`Anti-Cheat Bypass`|
 |[Does r6 ban for cheating in custom games?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/699359-r6-ban-cheating-custom-games.html)|`2025-05-05 22:18:00`|`Rainbow Six Siege`|
