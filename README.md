@@ -31,9 +31,13 @@
 |2|[NEWSTATE iOS SDK Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49674)|`2025-05-06 05:13:52`|
 |1|[MRInternals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49669)|`2025-05-06 05:29:00`|
 |1|[Meow&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49668)|`2025-05-06 05:51:09`|
+|1|[LOLControl&#45;Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49675)|`2025-05-06 05:57:11`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[LOLControl &#45; Vanguard &#45; Client &#45; Launcher &#45; Riot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/699502-lolcontrol-vanguard-client-launcher-riot.html)|`2025-05-06 05:53:00`|`League of Legends`|
+|[Isonzo Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675510-isonzo-internal-cheat.html)|`2025-05-06 05:52:00`|`Other FPS Games`|
+|[HELP&#33; I'm making a lua executor for redm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/692575-help-im-lua-executor-redm.html)|`2025-05-06 05:26:00`|`Red Dead Redemption 2`|
 |[Got banned for no apparent reason](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/699270-banned-apparent-reason.html)|`2025-05-06 05:46:00`|`Sea of Thieves`|
 |[&#91;EXTERNAL/DMA&#93; How to force re&#45;render/update/move StaticMeshes?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/698836-external-dma-force-re-render-update-move-staticmeshes.html)|`2025-05-06 05:38:00`|`Unreal Engine 4`|
 |[Read only Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699392-read-esp.html)|`2025-05-06 05:30:00`|`Counter-Strike 2`|
