@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to create a mod that can bypass utoc signature](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699362-create-mod-bypass-utoc-signature.html)|`2025-05-06 02:24:00`|`Marvel Rivals`|
+|[valorant code van 152 banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699153-valorant-code-van-152-banned.html)|`2025-05-06 02:10:00`|`Valorant`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-05-06 02:01:00`|`DayZ SA`|
 |[Rocket League &#45; Name Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/699045-rocket-league-name-spoofer.html)|`2025-05-06 02:00:00`|`Other Games`|
 |[Valorant insta headshot AIMBOT&#91;UNDETECTED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688675-valorant-insta-headshot-aimbot-undetected.html)|`2025-05-06 01:58:00`|`Valorant`|
