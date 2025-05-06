@@ -25,9 +25,13 @@
 |27|[sot&#45;pirate&#45;generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49662)|`2025-05-07 00:12:54`|
 |29|[risktrainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49661)|`2025-05-07 00:12:54`|
 |13|[grust new files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49660)|`2025-05-07 00:12:54`|
+|1|[XORTool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49680)|`2025-05-07 03:44:08`|
+|1|[Delta 05&#45;05&#45;2025 Full SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49677)|`2025-05-07 03:44:08`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-05-07 03:42:00`|`Other FPS Games`|
+|[POC static analysis hwid locked obfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/699552-poc-static-analysis-hwid-locked-obfuscation.html)|`2025-05-07 03:40:00`|`C and C++`|
 |[TarkovGUI &#124; PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/694944-tarkovgui-pve.html)|`2025-05-07 03:35:00`|`Escape from Tarkov`|
 |[Valorant Driver Recap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699605-valorant-driver-recap.html)|`2025-05-07 03:05:00`|`Valorant`|
 |[FactoryReset&#45;GModv2&#46;bat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/682956-factoryreset-gmodv2-bat.html)|`2025-05-07 03:01:00`|`Garry's Mod`|
