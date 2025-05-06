@@ -12,6 +12,7 @@
 |3|[warzone cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/698730-warzone-cheat.html)|`2025-05-07 00:12:54`|`call-of-duty-black-ops-6-a`|
 |8|[Which identifiers does EAC ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698713-identifiers-eac-ban.html)|`2025-05-07 00:12:54`|`anti-cheat-bypass`|
 |3|[Odin: Valhalla Rising global version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/698854-odin-valhalla-rising-global-version.html)|`2025-05-07 03:13:19`|`other-mmorpg-and-strategy`|
+|10|[why does microsoft actually care now? &#40;24H2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699503-microsoft-actually-care-24h2.html)|`2025-05-07 05:43:26`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
