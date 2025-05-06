@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTA5&#95;Enchanced Basic DMA Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689945-gta5_enchanced-basic-dma-tool.html)|`2025-05-06 22:36:00`|`Grand Theft Auto V`|
+|[Which identifiers does EAC ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698713-identifiers-eac-ban.html)|`2025-05-06 22:31:00`|`Anti-Cheat Bypass`|
+|[YimMenu&#46;dll 1&#46;70 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/678007-yimmenu-dll-1-70-update.html)|`2025-05-06 22:22:00`|`Grand Theft Auto V`|
 |[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-05-06 22:16:00`|`Grand Theft Auto V`|
 |[Rocket League &#45; Nebula Client, Item Spawner, Title Spawner, Etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696293-rocket-league-nebula-client-item-spawner-title-spawner-etc.html)|`2025-05-06 22:09:00`|`Other Games`|
 |[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2025-05-06 22:00:00`|`Other FPS Games`|
