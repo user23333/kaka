@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[basic  Loader Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/699560-basic-loader-base.html)|`2025-05-06 12:37:00`|`C and C++`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-05-06 12:36:00`|`League of Legends`|
 |[Serial Checker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/699558-serial-checker.html)|`2025-05-06 12:10:00`|`PC Software`|
 |[game crashes the moment i inject my dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699509-game-crashes-moment-inject-dll.html)|`2025-05-06 10:58:00`|`Counter-Strike 2`|
 |[POC static analysis hwid locked obfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/699552-poc-static-analysis-hwid-locked-obfuscation.html)|`2025-05-06 10:50:00`|`C and C++`|
