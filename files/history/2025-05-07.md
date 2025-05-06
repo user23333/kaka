@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-05-07 00:35:00`|`Grand Theft Auto V`|
+|[SSD Mass Production &#40;MP&#41; software](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699592-ssd-mass-production-mp-software.html)|`2025-05-07 00:34:00`|`Anti-Cheat Bypass`|
+|[Arduino Aimbot FiveM 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/699575-arduino-aimbot-fivem-2025-a.html)|`2025-05-07 00:29:00`|`Alternative Online Mods`|
+|[Rust AI Aimbot &#45; Beta](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/620721-rust-ai-aimbot-beta.html)|`2025-05-07 00:23:00`|`Rust`|
+|[CSS x64 fully&#45;featured cheat &#43; sourcecode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/688352-css-x64-featured-cheat-sourcecode.html)|`2025-05-07 00:22:00`|`CounterStrike Source`|
+|[Allocate Memory High Address Space](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699139-allocate-memory-address-space.html)|`2025-05-07 00:20:00`|`Anti-Cheat Bypass`|
+|[x86 Instrumentation Callbacks Struct](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/698370-x86-instrumentation-callbacks-struct.html)|`2025-05-07 00:18:00`|`General Programming and Reversing`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-05-07 00:17:00`|`Grand Theft Auto V`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-05-07 00:13:00`|`Apex Legends`|
 |[Heroes of Valor &#45; Heroes of Cheats Lua](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/698565-heroes-valor-heroes-cheats-lua.html)|`2025-05-07 00:12:00`|`Other FPS Games`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-05-07 00:10:00`|`Rust`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-05-07 00:09:00`|`Escape from Tarkov`|
