@@ -11,6 +11,7 @@
 |1|[&#40;UD&#41; STM32 &#43; CH376 Colorbot Firmware Source written in C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698866-ud-stm32-ch376-colorbot-firmware-source-written.html)|`2025-05-07 00:12:54`|`valorant`|
 |3|[warzone cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/698730-warzone-cheat.html)|`2025-05-07 00:12:54`|`call-of-duty-black-ops-6-a`|
 |8|[Which identifiers does EAC ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698713-identifiers-eac-ban.html)|`2025-05-07 00:12:54`|`anti-cheat-bypass`|
+|3|[Odin: Valhalla Rising global version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/698854-odin-valhalla-rising-global-version.html)|`2025-05-07 03:13:19`|`other-mmorpg-and-strategy`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Driver Recap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699605-valorant-driver-recap.html)|`2025-05-07 03:05:00`|`Valorant`|
+|[FactoryReset&#45;GModv2&#46;bat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/682956-factoryreset-gmodv2-bat.html)|`2025-05-07 03:01:00`|`Garry's Mod`|
 |[is it possible to check ready to stab for external?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/699532-check-ready-stab-external.html)|`2025-05-07 02:46:00`|`Team Fortress 2`|
 |[Noob internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699388-noob-internal.html)|`2025-05-07 02:45:00`|`Marvel Rivals`|
 |[Arma Reforger Level up](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/699604-arma-reforger-level.html)|`2025-05-07 02:35:00`|`ARMA 3`|
