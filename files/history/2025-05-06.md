@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Offsets &#124;&#43;Pattern &#40;2699 &#45; 3258&#41; &#124; Always Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/694166-offsets-pattern-2699-3258-updated.html)|`2025-05-06 18:08:00`|`Alternative Online Mods`|
+|[Enemy players list and local player Reforger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/699369-enemy-players-list-local-player-reforger.html)|`2025-05-06 18:05:00`|`ARMA 3`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-05-06 18:05:00`|`ARMA 3`|
 |[Arduino Aimbot FiveM 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/699575-arduino-aimbot-fivem-2025-a.html)|`2025-05-06 17:33:00`|`Alternative Online Mods`|
 |[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2025-05-06 17:23:00`|`Grand Theft Auto V`|
 |[Personal spawned vehicle safe ???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/698808-personal-spawned-vehicle-safe.html)|`2025-05-06 17:06:00`|`Grand Theft Auto V`|
