@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The End of sigma rivals : source code release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699079-sigma-rivals-source-code-release.html)|`2025-05-06 19:45:00`|`Marvel Rivals`|
 |[Theia static decryptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696332-theia-static-decryptor.html)|`2025-05-06 19:22:00`|`Anti-Cheat Bypass`|
 |[ProjectLocker C&#43;&#43; External &#40;ESP / Recoil, Spread / UnlockAll&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/587891-projectlocker-external-esp-recoil-spread-unlockall.html)|`2025-05-06 19:17:00`|`Battlefield 4`|
 |[Ganning &#45; The Automated Gold Panner &#45; Syn County](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/686795-ganning-automated-gold-panner-syn-county.html)|`2025-05-06 18:37:00`|`Red Dead Redemption 2`|
