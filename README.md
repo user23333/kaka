@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How many bans for HWID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/699467-bans-hwid.html)|`2025-05-07 06:07:00`|`Apex Legends`|
+|[Botlobby Tool FREE &#91;BO6/MW3/WARZONE&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/696676-botlobby-tool-free-bo6-mw3-warzone.html)|`2025-05-07 06:05:00`|`Call of Duty: Black Ops 6`|
 |[DXGI issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698835-dxgi-issues.html)|`2025-05-07 05:30:00`|`Valorant`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-05-07 05:27:00`|`Overwatch`|
 |[dumping gamepass version?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/698993-dumping-gamepass-version.html)|`2025-05-07 05:21:00`|`Call of Duty: Black Ops 6`|
