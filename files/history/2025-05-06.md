@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Theia static decryptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696332-theia-static-decryptor.html)|`2025-05-06 19:22:00`|`Anti-Cheat Bypass`|
+|[ProjectLocker C&#43;&#43; External &#40;ESP / Recoil, Spread / UnlockAll&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/587891-projectlocker-external-esp-recoil-spread-unlockall.html)|`2025-05-06 19:17:00`|`Battlefield 4`|
 |[Ganning &#45; The Automated Gold Panner &#45; Syn County](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/686795-ganning-automated-gold-panner-syn-county.html)|`2025-05-06 18:37:00`|`Red Dead Redemption 2`|
 |[is MSS detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698573-mss-detected.html)|`2025-05-06 18:31:00`|`Valorant`|
 |[Offsets &#124;&#43;Pattern &#40;2699 &#45; 3258&#41; &#124; Always Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/694166-offsets-pattern-2699-3258-updated.html)|`2025-05-06 18:08:00`|`Alternative Online Mods`|
