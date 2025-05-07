@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA Template for Development](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/642258-dma-template-development.html)|`2025-05-07 23:49:00`|`General Programming and Reversing`|
 |[WorkItems alternative?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699572-workitems-alternative.html)|`2025-05-07 23:34:00`|`Anti-Cheat Bypass`|
 |[LOLControl &#45; Vanguard &#45; Client &#45; Launcher &#45; Riot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/699502-lolcontrol-vanguard-client-launcher-riot.html)|`2025-05-07 23:28:00`|`League of Legends`|
 |[working V&#45;Rising ESP out there for the newest?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/698538-rising-esp.html)|`2025-05-07 23:23:00`|`Other MMORPG and Strategy`|
