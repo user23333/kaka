@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fast And Simple Triggerbot &#40;ASM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698448-fast-simple-triggerbot-asm.html)|`2025-05-07 17:31:00`|`Valorant`|
+|[is MSS detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698573-mss-detected.html)|`2025-05-07 17:28:00`|`Valorant`|
+|[&#91;DMA&#93; Grayzone Warfare &#45; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675890-dma-grayzone-warfare-esp.html)|`2025-05-07 17:27:00`|`Other FPS Games`|
+|[Linux External ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/674732-linux-external-esp-aimbot.html)|`2025-05-07 17:20:00`|`Counter-Strike 2 Releases`|
+|[Signed driver Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/698485-signed-driver-colorbot.html)|`2025-05-07 17:19:00`|`Overwatch`|
+|[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-05-07 17:16:00`|`Call of Duty: Black Ops 3`|
 |[External smoke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699649-external-smoke.html)|`2025-05-07 17:05:00`|`Counter-Strike 2`|
 |[valorant code van 152 banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699153-valorant-code-van-152-banned.html)|`2025-05-07 16:44:00`|`Valorant`|
 |[YimMenuV2 translation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699647-yimmenuv2-translation.html)|`2025-05-07 16:37:00`|`Grand Theft Auto V`|
