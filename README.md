@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Theia static decryptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696332-theia-static-decryptor.html)|`2025-05-07 21:58:00`|`Anti-Cheat Bypass`|
 |[PUBG GLOBAL 3&#46;8 UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/699669-pubg-global-3-8-ue4-offsets.html)|`2025-05-07 21:53:00`|`PUBG Mobile`|
 |[External Offsets 3&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/699665-external-offsets-3-8-a.html)|`2025-05-07 21:01:00`|`PUBG Mobile`|
 |[YimMenuV2Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697581-yimmenuv2mod.html)|`2025-05-07 20:56:00`|`Grand Theft Auto V`|
