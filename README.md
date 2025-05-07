@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Aimbot and ESP FiveM/AltV/RageMP/GTAO All Versions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/698639-aimbot-esp-fivem-altv-ragemp-gtao-versions.html)|`2025-05-07 11:43:00`|`Alternative Online Mods`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-05-07 11:43:00`|`League of Legends`|
+|[Help with dumping Mistfall Hunter &#40;UE 5&#46;5&#46;4&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/699159-help-dumping-mistfall-hunter-ue-5-5-4-0-a.html)|`2025-05-07 11:42:00`|`General Programming and Reversing`|
+|[YimMenuV2 E&E with money cheat &#40;No FSL&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/694886-yimmenuv2-money-cheat-fsl.html)|`2025-05-07 11:34:00`|`Grand Theft Auto V`|
+|[DMA Custom Firmware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/698455-dma-custom-firmware.html)|`2025-05-07 11:32:00`|`PC Hardware`|
 |[Using DMA to Reversing/Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699629-using-dma-reversing-dump.html)|`2025-05-07 11:16:00`|`Call of Duty: Black Ops 6`|
 |[bloodstrike anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/698439-bloodstrike-anticheat.html)|`2025-05-07 10:45:00`|`Introductions`|
 |[Read only external radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/699544-read-external-radar.html)|`2025-05-07 10:45:00`|`Escape from Tarkov`|
