@@ -30,9 +30,13 @@
 |1|[CS2 GLOW ESP&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49678)|`2025-05-08 02:59:23`|
 |1|[base loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49682)|`2025-05-08 03:15:38`|
 |1|[checker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49681)|`2025-05-08 03:15:38`|
+|1|[Outlast Trials Tool &#45; V1&#46;00](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49676)|`2025-05-08 03:26:35`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-05-08 03:24:00`|`Other FPS Games`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-05-08 03:16:00`|`Valorant`|
+|[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2025-05-08 03:15:00`|`Other FPS Games`|
 |[Serial Checker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/699558-serial-checker.html)|`2025-05-08 03:15:00`|`PC Software`|
 |[Rust Recoil Table Changes Teachings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/698991-rust-recoil-table-changes-teachings.html)|`2025-05-08 03:14:00`|`Rust`|
 |[basic  Loader Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/699560-basic-loader-base.html)|`2025-05-08 03:13:00`|`C and C++`|
