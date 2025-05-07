@@ -12,6 +12,7 @@
 |3|[Odin: Valhalla Rising global version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/698854-odin-valhalla-rising-global-version.html)|`2025-05-08 00:11:24`|`other-mmorpg-and-strategy`|
 |1|[&#40;UD&#41; STM32 &#43; CH376 Colorbot Firmware Source written in C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698866-ud-stm32-ch376-colorbot-firmware-source-written.html)|`2025-05-08 00:11:24`|`valorant`|
 |9|[Nuxar1 Decryption dumper fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699123-nuxar1-decryption-dumper-fix.html)|`2025-05-08 00:38:24`|`call-of-duty-black-ops-6-a`|
+|9|[Allocate Memory High Address Space](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699139-allocate-memory-address-space.html)|`2025-05-08 04:52:25`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
