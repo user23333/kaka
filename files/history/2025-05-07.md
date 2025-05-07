@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lazybead &#40;LB&#41; &#45; Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat.html)|`2025-05-07 17:55:00`|`Sea of Thieves`|
 |[SharpMonoInjector Fixed and Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/408878-sharpmonoinjector-fixed-updated.html)|`2025-05-07 17:37:00`|`Unity`|
 |[valorant colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/693264-valorant-colorbot.html)|`2025-05-07 17:33:00`|`Valorant`|
 |[RU Warface external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/681338-ru-warface-external-cheat.html)|`2025-05-07 17:32:00`|`Warface`|
