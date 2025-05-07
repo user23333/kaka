@@ -11,6 +11,7 @@
 |10|[why does microsoft actually care now? &#40;24H2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699503-microsoft-actually-care-24h2.html)|`2025-05-08 00:11:24`|`anti-cheat-bypass`|
 |3|[Odin: Valhalla Rising global version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/698854-odin-valhalla-rising-global-version.html)|`2025-05-08 00:11:24`|`other-mmorpg-and-strategy`|
 |1|[&#40;UD&#41; STM32 &#43; CH376 Colorbot Firmware Source written in C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698866-ud-stm32-ch376-colorbot-firmware-source-written.html)|`2025-05-08 00:11:24`|`valorant`|
+|9|[Nuxar1 Decryption dumper fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699123-nuxar1-decryption-dumper-fix.html)|`2025-05-08 00:38:24`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Model Changer for Red Dead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/698999-model-changer-red-dead.html)|`2025-05-08 00:33:00`|`Off Topic`|
+|[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-05-08 00:24:00`|`Grand Theft Auto V`|
+|[REPX &#45; R&#46;E&#46;P&#46;O&#46; Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/697781-repx-cheat.html)|`2025-05-08 00:19:00`|`Other MMORPG and Strategy`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-05-08 00:19:00`|`Call of Duty: Black Ops 6`|
 |[Belle Method Spoofer&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699681-belle-method-spoofer.html)|`2025-05-08 00:09:00`|`Valorant`|
 |[Heroes of Valor Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697486-heroes-valor-reversal-structs-offsets.html)|`2025-05-08 00:06:00`|`Other FPS Games`|
 |[How to place a hardware breakpoint on ARM64 Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/699680-hardware-breakpoint-arm64-windows.html)|`2025-05-08 00:00:00`|`General Programming and Reversing`|
