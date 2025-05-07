@@ -27,9 +27,11 @@
 |32|[sot&#45;pirate&#45;generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49662)|`2025-05-08 00:11:24`|
 |1|[5&#46;5&#46;4&#45;0&#43;UE5&#45;MistfallHunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49686)|`2025-05-08 02:17:33`|
 |1|[Delta Force SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49679)|`2025-05-08 02:17:33`|
+|1|[CS2 GLOW ESP&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49678)|`2025-05-08 02:59:23`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Glow ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/698284-external-glow-esp.html)|`2025-05-08 02:57:00`|`Counter-Strike 2 Releases`|
 |[PUBG 3&#46;8 MAGIC SHELL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/699693-pubg-3-8-magic-shell.html)|`2025-05-08 02:53:00`|`PUBG Mobile`|
 |[driver to c/c&#43;&#43; &#40;source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698767-driver-source.html)|`2025-05-08 02:39:00`|`Anti-Cheat Bypass`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-05-08 02:35:00`|`Rust`|
