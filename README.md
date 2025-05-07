@@ -28,9 +28,14 @@
 |1|[5&#46;5&#46;4&#45;0&#43;UE5&#45;MistfallHunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49686)|`2025-05-08 02:17:33`|
 |1|[Delta Force SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49679)|`2025-05-08 02:17:33`|
 |1|[CS2 GLOW ESP&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49678)|`2025-05-08 02:59:23`|
+|1|[base loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49682)|`2025-05-08 03:15:38`|
+|1|[checker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49681)|`2025-05-08 03:15:38`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Serial Checker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/699558-serial-checker.html)|`2025-05-08 03:15:00`|`PC Software`|
+|[Rust Recoil Table Changes Teachings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/698991-rust-recoil-table-changes-teachings.html)|`2025-05-08 03:14:00`|`Rust`|
+|[basic  Loader Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/699560-basic-loader-base.html)|`2025-05-08 03:13:00`|`C and C++`|
 |[External Glow ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/698284-external-glow-esp.html)|`2025-05-08 02:57:00`|`Counter-Strike 2 Releases`|
 |[PUBG 3&#46;8 MAGIC SHELL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/699693-pubg-3-8-magic-shell.html)|`2025-05-08 02:53:00`|`PUBG Mobile`|
 |[driver to c/c&#43;&#43; &#40;source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698767-driver-source.html)|`2025-05-08 02:39:00`|`Anti-Cheat Bypass`|
