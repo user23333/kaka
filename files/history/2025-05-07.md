@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Using DMA to Reversing/Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699629-using-dma-reversing-dump.html)|`2025-05-07 11:16:00`|`Call of Duty: Black Ops 6`|
+|[bloodstrike anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/698439-bloodstrike-anticheat.html)|`2025-05-07 10:45:00`|`Introductions`|
+|[Read only external radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/699544-read-external-radar.html)|`2025-05-07 10:45:00`|`Escape from Tarkov`|
+|[Bloodstrike World To Screen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/650563-bloodstrike-world-screen.html)|`2025-05-07 10:42:00`|`Other FPS Games`|
+|[Blood Strike Coding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695201-blood-strike-coding.html)|`2025-05-07 10:41:00`|`Other FPS Games`|
+|[&#91;BloodStrike Mobile&#93; Help filtering object for esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680388-bloodstrike-mobile-help-filtering-object-esp.html)|`2025-05-07 10:38:00`|`Other FPS Games`|
 |[Crashing with version&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690297-crashing-version-dll.html)|`2025-05-07 09:37:00`|`Grand Theft Auto V`|
 |[Lockdown Bypass Need Help&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/699622-lockdown-bypass-help.html)|`2025-05-07 08:32:00`|`PC Software`|
 |[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-05-07 08:19:00`|`Battlefield 4`|
