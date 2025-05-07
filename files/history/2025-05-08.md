@@ -25,9 +25,18 @@
 |123|[Quasar 3&#46;2&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49664)|`2025-05-08 00:11:24`|
 |187|[Meow&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49663)|`2025-05-08 00:11:24`|
 |32|[sot&#45;pirate&#45;generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49662)|`2025-05-08 00:11:24`|
+|1|[5&#46;5&#46;4&#45;0&#43;UE5&#45;MistfallHunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49686)|`2025-05-08 02:17:33`|
+|1|[Delta Force SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49679)|`2025-05-08 02:17:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2025-05-08 02:17:00`|`Other Games`|
+|[why is it so hard to hack an old game like that?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/699249-hard-hack-game.html)|`2025-05-08 02:14:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Read only external radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/699544-read-external-radar.html)|`2025-05-08 02:12:00`|`Escape from Tarkov`|
+|[Help with dumping Mistfall Hunter &#40;UE 5&#46;5&#46;4&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/699159-help-dumping-mistfall-hunter-ue-5-5-4-0-a.html)|`2025-05-08 02:09:00`|`General Programming and Reversing`|
+|[DARKEST DAYS &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699687-darkest-days-internal.html)|`2025-05-08 02:06:00`|`Other FPS Games`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-05-08 02:04:00`|`Other FPS Games`|
+|[Among Us Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/574185-cheat-table.html)|`2025-05-08 02:01:00`|`Among Us`|
 |[Current Weapon & true 3&#46;8 Ue4 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/699686-current-weapon-true-3-8-ue4-offsets.html)|`2025-05-08 01:47:00`|`PUBG Mobile`|
 |[Ways of getting driver name and timestamp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699685-getting-driver-name-timestamp.html)|`2025-05-08 01:46:00`|`Anti-Cheat Bypass`|
 |[Allocate Memory High Address Space](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699139-allocate-memory-address-space.html)|`2025-05-08 01:45:00`|`Anti-Cheat Bypass`|
