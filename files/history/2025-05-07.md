@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Offsets 3&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/699665-external-offsets-3-8-a.html)|`2025-05-07 21:01:00`|`PUBG Mobile`|
+|[YimMenuV2Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697581-yimmenuv2mod.html)|`2025-05-07 20:56:00`|`Grand Theft Auto V`|
 |[p2p client to client crasher fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698609-p2p-client-client-crasher-fix.html)|`2025-05-07 20:38:00`|`Counter-Strike 2`|
 |[Silent aim with dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/699514-silent-aim-dma.html)|`2025-05-07 20:23:00`|`Rust`|
 |[REPX &#45; R&#46;E&#46;P&#46;O&#46; Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/697781-repx-cheat.html)|`2025-05-07 19:55:00`|`Other MMORPG and Strategy`|
