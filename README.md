@@ -40,6 +40,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Correct less recoil offset ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/699806-correct-recoil-offset.html)|`2025-05-08 23:43:00`|`PUBG Mobile`|
 |[TPM AND SB BYPASS &#43; SPOOFER &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/623808-tpm-sb-bypass-spoofer.html)|`2025-05-08 23:24:00`|`Valorant`|
 |[Where i can find a bunch of &#46;sys driver?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699800-bunch-sys-driver.html)|`2025-05-08 22:07:00`|`Anti-Cheat Bypass`|
 |[Current State of input?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699799-current-input.html)|`2025-05-08 22:06:00`|`Valorant`|
