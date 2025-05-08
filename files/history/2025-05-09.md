@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[working on a simple external &#40;usermode&#41; :p](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699866-simple-external-usermode.html)|`2025-05-09 07:35:00`|`Counter-Strike 2`|
+|[Using DMA to Reversing/Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699629-using-dma-reversing-dump.html)|`2025-05-09 07:29:00`|`Call of Duty: Black Ops 6`|
 |[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2025-05-09 06:40:00`|`Other FPS Games`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-05-09 06:38:00`|`Grand Theft Auto V`|
 |[Contractors VR &#124; ESP &#45; Infinite Ammo &#45; Rapid Fire &#45; No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/628494-contractors-vr-esp-infinite-ammo-rapid-fire-recoil.html)|`2025-05-09 06:24:00`|`Other FPS Games`|
