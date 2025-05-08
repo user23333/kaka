@@ -39,6 +39,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[counteredvac &#40; cs2 dll manual mapper &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696459-counteredvac-cs2-dll-manual-mapper.html)|`2025-05-08 21:37:00`|`Counter-Strike 2`|
+|[One pc or Two pc setup?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699670-pc-pc-setup.html)|`2025-05-08 21:28:00`|`Valorant`|
+|[External Offsets 3&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/699665-external-offsets-3-8-a.html)|`2025-05-08 21:21:00`|`PUBG Mobile`|
 |[whql = no revoke or blacklist?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699796-whql-revoke-blacklist.html)|`2025-05-08 21:07:00`|`Anti-Cheat Bypass`|
 |[BF2042 NoRecoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/699701-bf2042-norecoil.html)|`2025-05-08 20:46:00`|`Battlefield 2042`|
 |[How to Dump Rust Materials for Noobs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/697935-dump-rust-materials-noobs.html)|`2025-05-08 20:36:00`|`Rust`|
