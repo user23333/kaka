@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SHELL CODE 3&#46;7 UPDATED &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/698869-shell-code-3-7-updated.html)|`2025-05-08 14:29:00`|`PUBG Mobile`|
 |[Gun Recoil Patterns for Recoil Counter/Controller Development](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699574-gun-recoil-patterns-recoil-counter-controller-development.html)|`2025-05-08 14:13:00`|`Valorant`|
 |[Chivalry 2 Heaveyweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689993-chivalry-2-heaveyweight-cheat.html)|`2025-05-08 14:01:00`|`Other Games`|
 |[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-05-08 13:57:00`|`Call of Duty: Black Ops 3`|
