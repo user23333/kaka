@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[whql = no revoke or blacklist?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699796-whql-revoke-blacklist.html)|`2025-05-08 21:07:00`|`Anti-Cheat Bypass`|
+|[BF2042 NoRecoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/699701-bf2042-norecoil.html)|`2025-05-08 20:46:00`|`Battlefield 2042`|
 |[How to Dump Rust Materials for Noobs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/697935-dump-rust-materials-noobs.html)|`2025-05-08 20:36:00`|`Rust`|
 |[Fivem license to others license](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/699790-fivem-license-license.html)|`2025-05-08 20:15:00`|`Alternative Online Mods`|
 |[EAC injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695972-eac-injector.html)|`2025-05-08 19:58:00`|`Anti-Cheat Bypass`|
