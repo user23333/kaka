@@ -24,9 +24,18 @@
 |46|[Delta 05&#45;05&#45;2025 Full SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49677)|`2025-05-09 00:20:19`|
 |69|[Outlast Trials Tool &#45; V1&#46;00](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49676)|`2025-05-09 00:20:19`|
 |33|[LOLControl&#45;Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49675)|`2025-05-09 00:20:19`|
+|1|[automaterialdumperforrust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49703)|`2025-05-09 00:43:58`|
+|6|[StupidSolutionsV3&#46;4&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49695)|`2025-05-09 00:43:58`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[whql = no revoke or blacklist?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699796-whql-revoke-blacklist.html)|`2025-05-09 00:40:00`|`Anti-Cheat Bypass`|
+|[Outfit Editor   and  BBOB&#40;browser extension that generates Outfits Code for Bincohax&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/624819-outfit-editor-bbob-browser-extension-generates-outfits-code-bincohax.html)|`2025-05-09 00:40:00`|`Grand Theft Auto V`|
+|[BREAKING&#33; NEW TYPE OF CHEAT &#40;HYBIRD&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699807-breaking-type-cheat-hybird.html)|`2025-05-09 00:39:00`|`Anti-Cheat Bypass`|
+|[best game resolution for colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/696888-game-resolution-colorbot.html)|`2025-05-09 00:39:00`|`Valorant`|
+|[How to Dump Rust Materials for Noobs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/697935-dump-rust-materials-noobs.html)|`2025-05-09 00:38:00`|`Rust`|
+|[rtardware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/697851-rtardware.html)|`2025-05-09 00:32:00`|`Counter-Strike 2 Releases`|
+|[Meow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699145-meow.html)|`2025-05-09 00:27:00`|`Marvel Rivals`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-05-09 00:20:00`|`Escape from Tarkov`|
 |[Skin changer Apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/698592-skin-changer-apex.html)|`2025-05-09 00:17:00`|`Apex Legends`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-05-09 00:10:00`|`Overwatch`|
