@@ -37,6 +37,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Botlobby Tool FREE &#91;BO6/MW3/WARZONE&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/696676-botlobby-tool-free-bo6-mw3-warzone.html)|`2025-05-08 15:24:00`|`Call of Duty: Black Ops 6`|
+|[Excellent jitter is required &#40;KNM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/699744-excellent-jitter-required-knm.html)|`2025-05-08 15:23:00`|`Apex Legends`|
+|[best game resolution for colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/696888-game-resolution-colorbot.html)|`2025-05-08 15:15:00`|`Valorant`|
 |[SHELL CODE 3&#46;7 UPDATED &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/698869-shell-code-3-7-updated.html)|`2025-05-08 14:29:00`|`PUBG Mobile`|
 |[Gun Recoil Patterns for Recoil Counter/Controller Development](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699574-gun-recoil-patterns-recoil-counter-controller-development.html)|`2025-05-08 14:13:00`|`Valorant`|
 |[Chivalry 2 Heaveyweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689993-chivalry-2-heaveyweight-cheat.html)|`2025-05-08 14:01:00`|`Other Games`|
