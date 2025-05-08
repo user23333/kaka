@@ -26,9 +26,15 @@
 |33|[LOLControl&#45;Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49675)|`2025-05-09 00:20:19`|
 |1|[automaterialdumperforrust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49703)|`2025-05-09 00:43:58`|
 |6|[StupidSolutionsV3&#46;4&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49695)|`2025-05-09 00:43:58`|
+|2|[risktrainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49683)|`2025-05-09 02:18:24`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Onyx &#124; Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699725-onyx-triggerbot.html)|`2025-05-09 02:14:00`|`Valorant`|
+|[RU Warface external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/681338-ru-warface-external-cheat.html)|`2025-05-09 02:04:00`|`Warface`|
+|[p2p client to client crasher fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698609-p2p-client-client-crasher-fix.html)|`2025-05-09 02:02:00`|`Counter-Strike 2`|
+|[RISK Cheat for PC / Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/699296-risk-cheat-pc-trainer.html)|`2025-05-09 02:00:00`|`Other MMORPG and Strategy`|
+|[EAC DMA cr3 shuffling fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677322-eac-dma-cr3-shuffling-fix.html)|`2025-05-09 01:59:00`|`Anti-Cheat Bypass`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-05-09 01:53:00`|`League of Legends`|
 |[Chivalry 2 Heaveyweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689993-chivalry-2-heaveyweight-cheat.html)|`2025-05-09 01:52:00`|`Other Games`|
 |[Inject esp hack library via root](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/699825-inject-esp-hack-library-via-root.html)|`2025-05-09 01:50:00`|`PUBG Mobile`|
