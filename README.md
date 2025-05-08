@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can not allocate RWX memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/696886-allocate-rwx-memory.html)|`2025-05-08 12:46:00`|`Playerunknown's Battlegrounds`|
 |[HVCI after getting b4nned top eu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699196-hvci-getting-b4nned-top-eu.html)|`2025-05-08 12:23:00`|`Valorant`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-05-08 12:19:00`|`Other FPS Games`|
 |[driver &#91;removed&#93;sie](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/699737-driver-removed-sie.html)|`2025-05-08 12:09:00`|`Rust`|
