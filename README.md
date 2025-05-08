@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[driver &#91;removed&#93;sie](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/699737-driver-removed-sie.html)|`2025-05-09 01:02:00`|`Rust`|
+|[Bypassing BE for CE &#40;almost&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699064-bypassing-ce.html)|`2025-05-09 01:02:00`|`Anti-Cheat Bypass`|
+|[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2025-05-09 00:56:00`|`Other FPS Games`|
+|[ANEURISM IV &#45; Steam game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691595-aneurism-iv-steam-game.html)|`2025-05-09 00:55:00`|`Other Games`|
 |[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-05-09 00:44:00`|`Other FPS Games`|
 |[whql = no revoke or blacklist?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699796-whql-revoke-blacklist.html)|`2025-05-09 00:40:00`|`Anti-Cheat Bypass`|
 |[Outfit Editor   and  BBOB&#40;browser extension that generates Outfits Code for Bincohax&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/624819-outfit-editor-bbob-browser-extension-generates-outfits-code-bincohax.html)|`2025-05-09 00:40:00`|`Grand Theft Auto V`|
