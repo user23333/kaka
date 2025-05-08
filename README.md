@@ -33,9 +33,15 @@
 |2|[repo ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49687)|`2025-05-09 02:43:44`|
 |3|[zulasource](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49684)|`2025-05-09 02:43:44`|
 |2|[NoRecoil for All games &#40;UndeTecTeD&#41; lifetime&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49700)|`2025-05-09 03:18:14`|
+|2|[The Finals Recoil Scripts&#45; Universal Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49706)|`2025-05-09 05:42:26`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[hide shots exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699198-hide-shots-exploit.html)|`2025-05-09 05:39:00`|`Counter-Strike 2`|
+|[external native invoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/699853-external-native-invoker.html)|`2025-05-09 05:39:00`|`Alternative Online Mods`|
+|[Anyone has new SDK after today update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699849-sdk-update.html)|`2025-05-09 05:37:00`|`Marvel Rivals`|
+|[Recoil scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/699848-recoil-scripts.html)|`2025-05-09 05:32:00`|`THE FINALS`|
+|[troll options externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/699850-troll-options-externally.html)|`2025-05-09 05:30:00`|`Alternative Online Mods`|
 |[Silent via trajectory array](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/698042-silent-via-trajectory-array.html)|`2025-05-09 04:50:00`|`Escape from Tarkov`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-05-09 04:48:00`|`Other FPS Games`|
 |[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-05-09 04:36:00`|`Other Games`|
