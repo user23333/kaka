@@ -11,6 +11,7 @@
 |11|[Nuxar1 Decryption dumper fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699123-nuxar1-decryption-dumper-fix.html)|`2025-05-09 00:20:19`|`call-of-duty-black-ops-6-a`|
 |9|[Allocate Memory High Address Space](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699139-allocate-memory-address-space.html)|`2025-05-09 00:20:19`|`anti-cheat-bypass`|
 |8|[Bypassing BE for CE &#40;almost&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699064-bypassing-ce.html)|`2025-05-09 00:20:19`|`anti-cheat-bypass`|
+|6|[Noob internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699388-noob-internal.html)|`2025-05-09 04:59:35`|`marvel-rivals`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
