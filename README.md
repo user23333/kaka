@@ -39,6 +39,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is there a script file that unlocks all Independence Day items in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699656-script-file-unlocks-independence-day-items-gtav.html)|`2025-05-08 18:37:00`|`Grand Theft Auto V`|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-05-08 18:35:00`|`Counter-Strike 2`|
+|[Foxhole anticheat ban case](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/699757-foxhole-anticheat-ban.html)|`2025-05-08 18:32:00`|`Other MMORPG and Strategy`|
 |[catalyst&#46;club/astolfoware&#46;cc for l4d2 source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695563-catalyst-club-astolfoware-cc-l4d2-source.html)|`2025-05-08 18:18:00`|`Other FPS Games`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-05-08 18:10:00`|`Sea of Thieves`|
 |[Makcu 2pc colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695751-makcu-2pc-colorbot.html)|`2025-05-08 18:06:00`|`Valorant`|
