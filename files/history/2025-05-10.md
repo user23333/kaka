@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-05-10 04:42:00`|`Other FPS Games`|
 |[zula source &#43; cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699602-zula-source-cheats.html)|`2025-05-10 04:41:00`|`Other FPS Games`|
 |[what can i add to my external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699969-add-external-cheat.html)|`2025-05-10 04:22:00`|`Counter-Strike 2`|
 |[AI Rust Dumper In Progress and looking for dumps, decryptions, all that good stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/699889-ai-rust-dumper-progress-looking-dumps-decryptions-stuff.html)|`2025-05-10 04:17:00`|`Rust`|
