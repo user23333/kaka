@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant BDevs HWID Spoofer &#45; Free Valorant HWID Spoofer and Bypass &#40;PERMANENT&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699928-valorant-bdevs-hwid-spoofer-free-valorant-hwid-spoofer-bypass-permanent.html)|`2025-05-09 21:45:00`|`Valorant`|
+|[What is a SDK?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699927-sdk.html)|`2025-05-09 21:43:00`|`Counter-Strike 2`|
 |[Detect if player is moving?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699924-detect-player-moving.html)|`2025-05-09 21:30:00`|`Counter-Strike 2`|
 |[Hero exp hack for battlefront 2 &#40;2017&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/699789-hero-exp-hack-battlefront-2-2017-a.html)|`2025-05-09 21:22:00`|`Star Wars Battlefront 2`|
 |[How to find account flags &#40;For migration&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699926-account-flags-migration.html)|`2025-05-09 21:17:00`|`Grand Theft Auto V`|
