@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HVCI after getting b4nned top eu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699196-hvci-getting-b4nned-top-eu.html)|`2025-05-09 08:43:00`|`Valorant`|
+|[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2025-05-09 08:11:00`|`Tom Clancy's The Division`|
 |[working on a simple external &#40;usermode&#41; :p](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699866-simple-external-usermode.html)|`2025-05-09 07:35:00`|`Counter-Strike 2`|
 |[Using DMA to Reversing/Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699629-using-dma-reversing-dump.html)|`2025-05-09 07:29:00`|`Call of Duty: Black Ops 6`|
 |[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2025-05-09 06:40:00`|`Other FPS Games`|
