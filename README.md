@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[what can i add to my external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699969-add-external-cheat.html)|`2025-05-10 04:22:00`|`Counter-Strike 2`|
+|[AI Rust Dumper In Progress and looking for dumps, decryptions, all that good stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/699889-ai-rust-dumper-progress-looking-dumps-decryptions-stuff.html)|`2025-05-10 04:17:00`|`Rust`|
+|[Valorant Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699968-valorant-ban.html)|`2025-05-10 04:15:00`|`Valorant`|
 |[Fivem Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/685777-fivem-internal-cheat.html)|`2025-05-10 04:09:00`|`Alternative Online Mods`|
 |[DMA Radar/Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/697254-dma-radar-fuser.html)|`2025-05-10 04:08:00`|`DayZ SA`|
 |[Getting loot ids from localGameWorld](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/699966-getting-loot-ids-localgameworld.html)|`2025-05-10 03:57:00`|`Escape from Tarkov`|
