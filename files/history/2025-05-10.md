@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-05-10 02:53:00`|`Apex Legends`|
 |[BO3 GSC INJECTOR &#40;Windows/Xbox App Version Only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/699837-bo3-gsc-injector-windows-xbox-app-version.html)|`2025-05-10 02:49:00`|`Call of Duty: Black Ops 3`|
 |[Hero exp hack for battlefront 2 &#40;2017&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/699789-hero-exp-hack-battlefront-2-2017-a.html)|`2025-05-10 02:25:00`|`Star Wars Battlefront 2`|
 |[&#91;BloodStrike Mobile&#93; Help filtering object for esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680388-bloodstrike-mobile-help-filtering-object-esp.html)|`2025-05-10 02:31:00`|`Other FPS Games`|
