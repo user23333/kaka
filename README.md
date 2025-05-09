@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-05-10 01:35:00`|`Other FPS Games`|
+|[Newest Marvel Rivals SDK &#40;5&#46;3&#46;2&#45;1890379&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699947-marvel-rivals-sdk-5-3-2-1890379-a.html)|`2025-05-10 01:29:00`|`Marvel Rivals`|
 |[NVIDIA GPU NVFBC SCREEN CAPTURE C&#43;&#43; PIXELBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699814-nvidia-gpu-nvfbc-screen-capture-pixelbot.html)|`2025-05-10 01:27:00`|`Valorant`|
 |[&#91;500&#43;fps no lag&#93; DMA All types of ESP, Chams, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/699879-500-fps-lag-dma-types-esp-chams-recoil.html)|`2025-05-10 01:26:00`|`Rust`|
 |[Live Stat Tracker question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699946-live-stat-tracker-question.html)|`2025-05-10 01:19:00`|`Call of Duty: Black Ops 6`|
