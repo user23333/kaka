@@ -39,6 +39,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;HELP&#93; Arduino Leonardo HID Mouse &#45; RawHID Ping Response Failing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699940-help-arduino-leonardo-hid-mouse-rawhid-ping-response-failing.html)|`2025-05-09 23:41:00`|`Valorant`|
+|[TarkovGUI &#124; PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/694944-tarkovgui-pve.html)|`2025-05-09 23:37:00`|`Escape from Tarkov`|
+|[Bypassing Anti&#45;Cheat Detection for Object Detection Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699809-bypassing-anti-cheat-detection-object-detection-bot.html)|`2025-05-09 23:36:00`|`Anti-Cheat Bypass`|
+|[DMA RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/699939-dma-rcs.html)|`2025-05-09 23:35:00`|`Rainbow Six Siege`|
 |[Troubleshooting Valorant Offsets and Guarded Region Access/PML4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699936-troubleshooting-valorant-offsets-guarded-region-access-pml4.html)|`2025-05-09 23:16:00`|`Valorant`|
 |[Arduino Librarys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690984-arduino-librarys.html)|`2025-05-09 22:59:00`|`Valorant`|
 |[Problème packet loss pc , and bot ranked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699934-probl-packet-loss-pc-bot-ranked.html)|`2025-05-09 22:30:00`|`Call of Duty: Black Ops 6`|
