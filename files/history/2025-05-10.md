@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2025-05-10 05:05:00`|`Valorant`|
+|[Unibot &#124; An open&#45;source colorbot that just works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/603461-unibot-source-colorbot.html)|`2025-05-10 05:05:00`|`Valorant`|
+|[How to Bypass Decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699974-bypass-decryption.html)|`2025-05-10 05:00:00`|`Call of Duty: Black Ops 6`|
+|[Stumbled on a 2Box Trick via Discord&#46;&#46;&#46; Whatâ€™s the Deal?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699218-stumbled-2box-trick-via-discord-deal.html)|`2025-05-10 04:59:00`|`Call of Duty: Black Ops 6`|
+|[Clean Menu base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/699973-clean-menu-base.html)|`2025-05-10 04:55:00`|`C and C++`|
+|[Arduino Leonardo Spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699873-arduino-leonardo-spoof.html)|`2025-05-10 04:54:00`|`Valorant`|
 |[Botlobby Tool FREE &#91;BO6/MW3/WARZONE&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/696676-botlobby-tool-free-bo6-mw3-warzone.html)|`2025-05-10 04:53:00`|`Call of Duty: Black Ops 6`|
 |[One pc or Two pc setup?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699670-pc-pc-setup.html)|`2025-05-10 04:50:00`|`Valorant`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-05-10 04:42:00`|`Other FPS Games`|
