@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699891-cs2-offsets.html)|`2025-05-10 07:27:00`|`Counter-Strike 2`|
 |[Help with FW creation&#40;PCIleech&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686683-help-fw-creation-pcileech.html)|`2025-05-10 07:25:00`|`Anti-Cheat Bypass`|
 |[Custom DMA FW question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/687131-custom-dma-fw-question.html)|`2025-05-10 07:23:00`|`Anti-Cheat Bypass`|
 |[ACE AC Bypass for game dump?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699987-ace-ac-bypass-game-dump.html)|`2025-05-10 07:11:00`|`Anti-Cheat Bypass`|
