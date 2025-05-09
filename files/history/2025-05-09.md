@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Best way to filter clove and astra smokes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688706-filter-clove-astra-smokes.html)|`2025-05-09 23:48:00`|`Valorant`|
 |[&#91;HELP&#93; Arduino Leonardo HID Mouse &#45; RawHID Ping Response Failing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699940-help-arduino-leonardo-hid-mouse-rawhid-ping-response-failing.html)|`2025-05-09 23:41:00`|`Valorant`|
 |[TarkovGUI &#124; PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/694944-tarkovgui-pve.html)|`2025-05-09 23:37:00`|`Escape from Tarkov`|
 |[Bypassing Anti&#45;Cheat Detection for Object Detection Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699809-bypassing-anti-cheat-detection-object-detection-bot.html)|`2025-05-09 23:36:00`|`Anti-Cheat Bypass`|
