@@ -13,6 +13,7 @@
 |8|[Bypassing BE for CE &#40;almost&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699064-bypassing-ce.html)|`2025-05-09 00:20:19`|`anti-cheat-bypass`|
 |6|[Noob internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699388-noob-internal.html)|`2025-05-09 04:59:35`|`marvel-rivals`|
 |25|[Onyx &#124; Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699725-onyx-triggerbot.html)|`2025-05-09 11:32:08`|`valorant`|
+|8|[Pirate Generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/699335-pirate-generator.html)|`2025-05-09 21:36:00`|`sea-of-thieves`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -38,6 +39,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Detect if player is moving?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699924-detect-player-moving.html)|`2025-05-09 21:30:00`|`Counter-Strike 2`|
+|[Hero exp hack for battlefront 2 &#40;2017&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/699789-hero-exp-hack-battlefront-2-2017-a.html)|`2025-05-09 21:22:00`|`Star Wars Battlefront 2`|
+|[How to find account flags &#40;For migration&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699926-account-flags-migration.html)|`2025-05-09 21:17:00`|`Grand Theft Auto V`|
 |[&#91;Updated&#93; Dead by Daylight Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/635513-updated-dead-daylight-unlock-dlcs-skins.html)|`2025-05-09 21:00:00`|`Other FPS Games`|
 |[Introduce](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/699817-introduce.html)|`2025-05-09 20:04:00`|`Introductions`|
 |[Signed driver Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/698485-signed-driver-colorbot.html)|`2025-05-09 19:59:00`|`Overwatch`|
