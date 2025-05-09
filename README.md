@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TPM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/649260-tpm-spoofer.html)|`2025-05-09 21:49:00`|`Valorant`|
+|[Excellent jitter is required &#40;KNM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/699744-excellent-jitter-required-knm.html)|`2025-05-09 21:49:00`|`Apex Legends`|
 |[Valorant BDevs HWID Spoofer &#45; Free Valorant HWID Spoofer and Bypass &#40;PERMANENT&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699928-valorant-bdevs-hwid-spoofer-free-valorant-hwid-spoofer-bypass-permanent.html)|`2025-05-09 21:45:00`|`Valorant`|
 |[What is a SDK?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699927-sdk.html)|`2025-05-09 21:43:00`|`Counter-Strike 2`|
 |[Detect if player is moving?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699924-detect-player-moving.html)|`2025-05-09 21:30:00`|`Counter-Strike 2`|
