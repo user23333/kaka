@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Some updated signatures, and how you can find it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/699901-updated-signatures.html)|`2025-05-09 14:44:00`|`Deadlock`|
 |[Ftpm spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699900-ftpm-spoof.html)|`2025-05-09 14:41:00`|`Valorant`|
 |[Any one have powershell code for VHD?Bypass disk ban&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699569-powershell-code-vhd-bypass-disk-ban.html)|`2025-05-09 14:37:00`|`Anti-Cheat Bypass`|
 |[new and want to learn game hacking&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699182-learn-game-hacking.html)|`2025-05-09 14:31:00`|`Call of Duty: Black Ops 6`|
