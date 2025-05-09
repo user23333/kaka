@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help with FW creation&#40;PCIleech&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686683-help-fw-creation-pcileech.html)|`2025-05-10 07:25:00`|`Anti-Cheat Bypass`|
+|[Custom DMA FW question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/687131-custom-dma-fw-question.html)|`2025-05-10 07:23:00`|`Anti-Cheat Bypass`|
+|[ACE AC Bypass for game dump?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699987-ace-ac-bypass-game-dump.html)|`2025-05-10 07:11:00`|`Anti-Cheat Bypass`|
+|[Gun Recoil Patterns for Recoil Counter/Controller Development](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699574-gun-recoil-patterns-recoil-counter-controller-development.html)|`2025-05-10 07:11:00`|`Valorant`|
 |[zap&#45;client &#91;Legitbot, Ragebot, Glow, ESP & More&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/628823-zap-client-legitbot-ragebot-glow-esp.html)|`2025-05-10 07:10:00`|`Apex Legends`|
 |[Fivem license to others license](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/699790-fivem-license-license.html)|`2025-05-10 07:04:00`|`Alternative Online Mods`|
 |[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-05-10 07:02:00`|`Other Games`|
