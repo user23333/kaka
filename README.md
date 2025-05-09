@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Troubleshooting Valorant Offsets and Guarded Region Access/PML4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699936-troubleshooting-valorant-offsets-guarded-region-access-pml4.html)|`2025-05-09 23:16:00`|`Valorant`|
 |[Arduino Librarys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690984-arduino-librarys.html)|`2025-05-09 22:59:00`|`Valorant`|
 |[Problème packet loss pc , and bot ranked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699934-probl-packet-loss-pc-bot-ranked.html)|`2025-05-09 22:30:00`|`Call of Duty: Black Ops 6`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2025-05-09 22:16:00`|`Valorant`|
