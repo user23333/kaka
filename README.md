@@ -37,6 +37,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[failed to load pbd info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/699876-failed-load-pbd-info.html)|`2025-05-09 10:44:00`|`All Points Bulletin`|
+|[Modding Money in GTA 5 Legacy Before Transfer to Enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699273-modding-money-gta-5-legacy-transfer-enhanced.html)|`2025-05-09 10:36:00`|`Grand Theft Auto V`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-05-09 10:26:00`|`Escape from Tarkov`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-05-09 10:25:00`|`Other Games`|
+|[Working Triggerbot Bypass requirements](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699874-triggerbot-bypass-requirements.html)|`2025-05-09 10:07:00`|`Valorant`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-05-09 10:05:00`|`Other FPS Games`|
 |[HVCI after getting b4nned top eu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699196-hvci-getting-b4nned-top-eu.html)|`2025-05-09 08:43:00`|`Valorant`|
 |[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2025-05-09 08:11:00`|`Tom Clancy's The Division`|
 |[working on a simple external &#40;usermode&#41; :p](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699866-simple-external-usermode.html)|`2025-05-09 07:35:00`|`Counter-Strike 2`|
