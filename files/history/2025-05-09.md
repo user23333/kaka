@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC stops communication through &#46;data ptr while running](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699916-eac-stops-communication-data-ptr-running.html)|`2025-05-09 19:27:00`|`Anti-Cheat Bypass`|
 |[Fivem license to others license](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/699790-fivem-license-license.html)|`2025-05-09 18:58:00`|`Alternative Online Mods`|
 |[Offsets &#124;&#43;Pattern &#40;2699 &#45; 3258&#41; &#124; Always Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/694166-offsets-pattern-2699-3258-updated.html)|`2025-05-09 18:57:00`|`Alternative Online Mods`|
 |[fivem external build finding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/699801-fivem-external-build-finding.html)|`2025-05-09 18:56:00`|`Alternative Online Mods`|
