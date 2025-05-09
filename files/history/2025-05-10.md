@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[x88TF2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/698985-x88tf2.html)|`2025-05-10 03:45:00`|`Team Fortress 2`|
 |[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-05-10 03:26:00`|`Call of Duty: Black Ops 3`|
 |[Gamemodeinfo Mod &#40;Hero Table version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/699959-gamemodeinfo-mod-hero-table-version.html)|`2025-05-10 03:34:00`|`Star Wars Battlefront 2`|
 |[Emulator Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/699957-emulator-cheats.html)|`2025-05-10 03:30:00`|`PUBG Mobile`|
