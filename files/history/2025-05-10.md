@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PC Dayz Duplication](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/690061-pc-dayz-duplication.html)|`2025-05-10 23:38:00`|`DayZ SA`|
+|[&#40;PC&#41; Duplication other methods?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/699408-pc-duplication-methods.html)|`2025-05-10 23:34:00`|`DayZ SA`|
 |[APB Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/493164-apb-triggerbot.html)|`2025-05-10 23:28:00`|`All Points Bulletin`|
 |[BF2042 NoRecoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/699701-bf2042-norecoil.html)|`2025-05-10 23:26:00`|`Battlefield 2042`|
 |[YimMenuV2 translation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699647-yimmenuv2-translation.html)|`2025-05-10 23:23:00`|`Grand Theft Auto V`|
