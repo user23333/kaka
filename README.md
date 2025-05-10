@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[external native invoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/699853-external-native-invoker.html)|`2025-05-11 06:48:00`|`Alternative Online Mods`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-05-11 06:33:00`|`Grand Theft Auto V`|
 |[Troubleshooting Valorant Offsets and Guarded Region Access/PML4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699936-troubleshooting-valorant-offsets-guarded-region-access-pml4.html)|`2025-05-11 06:24:00`|`Valorant`|
 |[validate entity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699884-validate-entity.html)|`2025-05-11 06:15:00`|`Counter-Strike 2`|
