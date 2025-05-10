@@ -14,6 +14,7 @@
 |16|[valorant code van 152 banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699153-valorant-code-van-152-banned.html)|`2025-05-10 03:12:59`|`valorant`|
 |8|[&#91;Release&#93; Utility &#124; Spike Timer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699545-release-utility-spike-timer.html)|`2025-05-10 07:10:58`|`valorant`|
 |4|[YimMenuV2 translation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699647-yimmenuv2-translation.html)|`2025-05-10 08:41:01`|`grand-theft-auto-v`|
+|4|[LOLControl &#45; Vanguard &#45; Client &#45; Launcher &#45; Riot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/699502-lolcontrol-vanguard-client-launcher-riot.html)|`2025-05-10 10:17:09`|`league-of-legends`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BadPing Menu Clone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/699995-badping-menu-clone.html)|`2025-05-10 09:48:00`|`C and C++`|
+|[Excellent jitter is required &#40;KNM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/699744-excellent-jitter-required-knm.html)|`2025-05-10 09:39:00`|`Apex Legends`|
+|[GamerFun AI Menu: All mouse Aimbot, Triggerbot & Recoil Control Using LGUB Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671029-gamerfun-ai-menu-mouse-aimbot-triggerbot-recoil-control-using-lgub-drivers.html)|`2025-05-10 09:03:00`|`Rainbow Six Siege`|
 |[Redmatch 2 internal cheat &#40;imperium&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/688217-redmatch-2-internal-cheat-imperium.html)|`2025-05-10 08:12:00`|`Other FPS Games`|
 |[CS2 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699891-cs2-offsets.html)|`2025-05-10 07:27:00`|`Counter-Strike 2`|
 |[Help with FW creation&#40;PCIleech&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686683-help-fw-creation-pcileech.html)|`2025-05-10 07:25:00`|`Anti-Cheat Bypass`|
