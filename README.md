@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How get the physics data from the new maps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699867-physics-data-maps.html)|`2025-05-11 00:41:00`|`Counter-Strike 2`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-05-11 00:39:00`|`Call of Duty: Black Ops 6`|
 |[stickrpghook2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cs-go-releases/697602-stickrpghook2.html)|`2025-05-11 00:37:00`|`CS:GO Releases`|
 |[How to Bypass Decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699974-bypass-decryption.html)|`2025-05-11 00:36:00`|`Call of Duty: Black Ops 6`|
 |[&#91;500&#43;fps no lag&#93; DMA All types of ESP, Chams, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/699879-500-fps-lag-dma-types-esp-chams-recoil.html)|`2025-05-11 00:22:00`|`Rust`|
