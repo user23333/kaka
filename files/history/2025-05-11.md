@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-05-11 01:49:00`|`Escape from Tarkov`|
+|[YimMenuV2 translation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699647-yimmenuv2-translation.html)|`2025-05-11 01:48:00`|`Grand Theft Auto V`|
 |[Undetected Overlay for EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699747-undetected-overlay-eac.html)|`2025-05-11 01:36:00`|`Anti-Cheat Bypass`|
 |[DMA Radar/Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/697254-dma-radar-fuser.html)|`2025-05-11 01:34:00`|`DayZ SA`|
 |[Need Gname vng](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/700064-gname-vng.html)|`2025-05-11 01:31:00`|`PUBG Mobile`|
