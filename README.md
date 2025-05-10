@@ -28,9 +28,13 @@
 |5|[YimMenuV2 Patch 1&#46;70 build 819](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49691)|`2025-05-11 04:27:32`|
 |3|[dll base menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49724)|`2025-05-11 04:37:11`|
 |2|[Mod&#95;Menu&#95;v1&#46;0&#46;0&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49698)|`2025-05-11 04:37:11`|
+|4|[EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49704)|`2025-05-11 04:45:23`|
+|1|[7DTD 1&#46;4 Creative & Debug Menu &#46;DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49699)|`2025-05-11 04:45:23`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-05-11 04:41:00`|`Counter-Strike 2`|
+|[7DTD 1&#46;4 B14 Creative and Debug Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699759-7dtd-1-4-b14-creative-debug-assembly-csharp-dll.html)|`2025-05-11 04:39:00`|`Other FPS Games`|
 |[Any up to date linux cheats for TF2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/700036-date-linux-cheats-tf2.html)|`2025-05-11 04:34:00`|`Team Fortress 2`|
 |[&#91;Steam&#93; Rise of Eros Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/699658-steam-rise-eros-mod-menu.html)|`2025-05-11 04:33:00`|`Other Games`|
 |[BadPing Menu Clone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/699995-badping-menu-clone.html)|`2025-05-11 04:30:00`|`C and C++`|
