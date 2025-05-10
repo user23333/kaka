@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Djcowely's BO6 Aim assist Objective ignore AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/680903-djcowelys-bo6-aim-assist-objective-ignore-ahk.html)|`2025-05-10 17:39:00`|`Call of Duty: Black Ops 6`|
 |[Chivalry 2 Heaveyweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689993-chivalry-2-heaveyweight-cheat.html)|`2025-05-10 17:13:00`|`Other Games`|
 |[Dune: Awakening Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699887-dune-awakening-reversal-structs-offsets.html)|`2025-05-10 17:15:00`|`Other FPS Games`|
 |[update LIB AOB 3&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/700019-update-lib-aob-3-8-a.html)|`2025-05-10 17:12:00`|`PUBG Mobile`|
