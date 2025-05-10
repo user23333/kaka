@@ -24,9 +24,17 @@
 |27|[repo ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49687)|`2025-05-11 00:14:40`|
 |10|[5&#46;5&#46;4&#45;0&#43;UE5&#45;MistfallHunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49686)|`2025-05-11 00:14:40`|
 |32|[zulasource](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49684)|`2025-05-11 00:14:40`|
+|1|[ internal ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49696)|`2025-05-11 04:27:32`|
+|5|[YimMenuV2 Patch 1&#46;70 build 819](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49691)|`2025-05-11 04:27:32`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[whql = no revoke or blacklist?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699796-whql-revoke-blacklist.html)|`2025-05-11 04:26:00`|`Anti-Cheat Bypass`|
+|[French Pactify bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/699726-french-pactify-bypass.html)|`2025-05-11 04:25:00`|`Minecraft`|
+|[Redmatch 2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699721-redmatch-2-internal.html)|`2025-05-11 04:20:00`|`Other FPS Games`|
+|[YimMenuV2 Latest Patch build 819](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699673-yimmenuv2-patch-build-819-a.html)|`2025-05-11 04:18:00`|`Grand Theft Auto V`|
+|[The Finals ColorBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/669800-finals-colorbot.html)|`2025-05-11 04:16:00`|`THE FINALS`|
+|[What's the best cheat here?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/697401-whats-cheat.html)|`2025-05-11 04:15:00`|`Team Fortress 2`|
 |[LOLControl &#45; Vanguard &#45; Client &#45; Launcher &#45; Riot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/699502-lolcontrol-vanguard-client-launcher-riot.html)|`2025-05-11 03:56:00`|`League of Legends`|
 |[valorant code van 152 banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699153-valorant-code-van-152-banned.html)|`2025-05-11 03:54:00`|`Valorant`|
 |[The Bible in Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/700075-bible-cheats.html)|`2025-05-11 03:42:00`|`Off Topic`|
