@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What is The Best Way of Getting Vtables?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/699241-getting-vtables.html)|`2025-05-10 23:42:00`|`Garry's Mod`|
 |[PC Dayz Duplication](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/690061-pc-dayz-duplication.html)|`2025-05-10 23:38:00`|`DayZ SA`|
 |[&#40;PC&#41; Duplication other methods?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/699408-pc-duplication-methods.html)|`2025-05-10 23:34:00`|`DayZ SA`|
 |[APB Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/493164-apb-triggerbot.html)|`2025-05-10 23:28:00`|`All Points Bulletin`|
