@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Which identifiers does EAC ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698713-identifiers-eac-ban.html)|`2025-05-10 14:56:00`|`Anti-Cheat Bypass`|
 |[New member&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/700010-new-member.html)|`2025-05-10 14:40:00`|`Introductions`|
 |[Radar &#40;externally&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/699912-radar-externally.html)|`2025-05-10 14:35:00`|`Alternative Online Mods`|
 |[mini royale](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694384-mini-royale.html)|`2025-05-10 14:32:00`|`Other FPS Games`|
