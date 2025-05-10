@@ -30,9 +30,12 @@
 |2|[Mod&#95;Menu&#95;v1&#46;0&#46;0&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49698)|`2025-05-11 04:37:11`|
 |4|[EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49704)|`2025-05-11 04:45:23`|
 |1|[7DTD 1&#46;4 Creative & Debug Menu &#46;DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49699)|`2025-05-11 04:45:23`|
+|1|[Farlight 84 SDK &#40;4&#46;25&#46;3&#45;1278334&#43;&#43;&#43;UE4&#43;Releas&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49722)|`2025-05-11 04:51:12`|
+|3|[EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49707)|`2025-05-11 04:51:12`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TarkovGUI &#124; PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/694944-tarkovgui-pve.html)|`2025-05-11 04:50:00`|`Escape from Tarkov`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-05-11 04:41:00`|`Counter-Strike 2`|
 |[7DTD 1&#46;4 B14 Creative and Debug Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699759-7dtd-1-4-b14-creative-debug-assembly-csharp-dll.html)|`2025-05-11 04:39:00`|`Other FPS Games`|
 |[Any up to date linux cheats for TF2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/700036-date-linux-cheats-tf2.html)|`2025-05-11 04:34:00`|`Team Fortress 2`|
