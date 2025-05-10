@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Working Triggerbot Bypass requirements](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699874-triggerbot-bypass-requirements.html)|`2025-05-11 01:22:00`|`Valorant`|
+|[Mac OS inject cheat good](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/699210-mac-os-inject-cheat.html)|`2025-05-11 01:16:00`|`Garry's Mod`|
+|[What is The Best Way of Getting Vtables?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/699241-getting-vtables.html)|`2025-05-11 01:15:00`|`Garry's Mod`|
+|[Help with dumping Mistfall Hunter &#40;UE 5&#46;5&#46;4&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/699159-help-dumping-mistfall-hunter-ue-5-5-4-0-a.html)|`2025-05-11 01:11:00`|`General Programming and Reversing`|
 |[CSSO &#40;1&#46;1&#41; Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/690832-csso-1-1-internal-cheat.html)|`2025-05-11 01:03:00`|`CounterStrike Source`|
 |[CSS x64 fully&#45;featured cheat &#43; sourcecode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/688352-css-x64-featured-cheat-sourcecode.html)|`2025-05-11 01:02:00`|`CounterStrike Source`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-05-11 01:02:00`|`Other FPS Games`|
