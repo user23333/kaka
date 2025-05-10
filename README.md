@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[APB Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/493164-apb-triggerbot.html)|`2025-05-10 23:28:00`|`All Points Bulletin`|
+|[BF2042 NoRecoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/699701-bf2042-norecoil.html)|`2025-05-10 23:26:00`|`Battlefield 2042`|
+|[YimMenuV2 translation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699647-yimmenuv2-translation.html)|`2025-05-10 23:23:00`|`Grand Theft Auto V`|
+|[Why my mouse aimbot is locking in the ground](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/700054-mouse-aimbot-locking-ground.html)|`2025-05-10 23:23:00`|`Counter-Strike 2`|
+|[Any Way to Duplicate or Modify In&#45;Game Items on RP Servers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/698877-duplicate-modify-game-items-rp-servers.html)|`2025-05-10 23:21:00`|`Garry's Mod`|
 |[Nuxar1 Decryption dumper fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699123-nuxar1-decryption-dumper-fix.html)|`2025-05-10 23:09:00`|`Call of Duty: Black Ops 6`|
 |[silence = everything&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/696887-silence.html)|`2025-05-10 22:50:00`|`Off Topic`|
 |[AI&#45;BOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/700050-ai-bot.html)|`2025-05-10 22:01:00`|`PUBG Mobile`|
