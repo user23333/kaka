@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Il2cpp mirror using client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/699342-il2cpp-mirror-using-client.html)|`2025-05-10 23:47:00`|`Forum General`|
+|[SeownedDE x64 2025/3/29&#40;rei2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/694048-seownedde-x64-2025-3-29-rei2.html)|`2025-05-10 23:47:00`|`Team Fortress 2`|
 |[What is The Best Way of Getting Vtables?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/699241-getting-vtables.html)|`2025-05-10 23:42:00`|`Garry's Mod`|
 |[PC Dayz Duplication](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/690061-pc-dayz-duplication.html)|`2025-05-10 23:38:00`|`DayZ SA`|
 |[&#40;PC&#41; Duplication other methods?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/699408-pc-duplication-methods.html)|`2025-05-10 23:34:00`|`DayZ SA`|
