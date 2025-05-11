@@ -40,6 +40,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help with FW creation&#40;PCIleech&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/686683-help-fw-creation-pcileech.html)|`2025-05-11 22:38:00`|`Anti-Cheat Bypass`|
+|[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-05-11 22:29:00`|`Rainbow Six Siege`|
 |[Rocket League Help with Hooking into Nameplate Boost Indicator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/700046-rocket-league-help-hooking-nameplate-boost-indicator.html)|`2025-05-11 22:24:00`|`Other Games`|
 |[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/682483-demonologist-internal.html)|`2025-05-11 22:22:00`|`Other Games`|
 |[New Halloween face paints global](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695764-halloween-paints-global.html)|`2025-05-11 22:17:00`|`Grand Theft Auto V`|
