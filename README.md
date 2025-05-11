@@ -32,6 +32,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nenyooo Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/488777-nenyooo-menu.html)|`2025-05-12 02:33:00`|`Grand Theft Auto V`|
+|[any known way to bypass vac?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/700247-bypass-vac.html)|`2025-05-12 02:31:00`|`Team Fortress 2`|
+|[Anyone have the Jeff Injector link?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/700249-jeff-injector-link.html)|`2025-05-12 02:31:00`|`Marvel Rivals`|
+|[Gunbound Mobile Steam &#45; No Anti Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/gunbound/692060-gunbound-mobile-steam-anti-cheat.html)|`2025-05-12 02:28:00`|`Gunbound`|
+|[If I post 4 discord permission posts, won't it come in?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/699488-post-4-discord-permission-posts-wont.html)|`2025-05-12 02:21:00`|`Forum General`|
+|[Help me find info for particles in map pls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/700245-help-info-particles-map-pls.html)|`2025-05-12 02:21:00`|`Counter-Strike 2`|
+|[how to fix bomb timer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/700243-fix-bomb-timer.html)|`2025-05-12 02:16:00`|`Counter-Strike 2`|
+|[Bypassing Anti&#45;Cheat Detection for Object Detection Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699809-bypassing-anti-cheat-detection-object-detection-bot.html)|`2025-05-12 02:15:00`|`Anti-Cheat Bypass`|
 |[Help with dumping Mistfall Hunter &#40;UE 5&#46;5&#46;4&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/699159-help-dumping-mistfall-hunter-ue-5-5-4-0-a.html)|`2025-05-12 02:05:00`|`General Programming and Reversing`|
 |[Working Nvidia GPU Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685535-nvidia-gpu-spoofing.html)|`2025-05-12 02:04:00`|`Anti-Cheat Bypass`|
 |[&#91; External &#93; SPT&#45;AKI CheatBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/626274-external-spt-aki-cheatbase.html)|`2025-05-12 02:03:00`|`Escape from Tarkov`|
