@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[x88TF2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/698985-x88tf2.html)|`2025-05-11 16:27:00`|`Team Fortress 2`|
+|[open logitech hub via arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700162-logitech-hub-via-arduino.html)|`2025-05-11 16:26:00`|`Valorant`|
 |[Team Fortress 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/102936-team-fortress-2-reversal-structs-offsets.html)|`2025-05-11 16:18:00`|`Team Fortress 2`|
 |[update LIB AOB 3&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/700019-update-lib-aob-3-8-a.html)|`2025-05-11 16:13:00`|`PUBG Mobile`|
 |[Fivem license to others license](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/699790-fivem-license-license.html)|`2025-05-11 16:08:00`|`Alternative Online Mods`|
