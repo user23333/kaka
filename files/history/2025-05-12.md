@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Best way to filter clove and astra smokes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688706-filter-clove-astra-smokes.html)|`2025-05-12 01:06:00`|`Valorant`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/385792-valorant-reversal-structs-offsets.html)|`2025-05-12 01:04:00`|`Valorant`|
 |[external native invoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/699853-external-native-invoker.html)|`2025-05-12 00:51:00`|`Alternative Online Mods`|
 |[&#91;500&#43;fps no lag&#93; DMA All types of ESP, Chams, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/699879-500-fps-lag-dma-types-esp-chams-recoil.html)|`2025-05-12 00:50:00`|`Rust`|
 |[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2025-05-12 00:49:00`|`Elite: Dangerous`|
