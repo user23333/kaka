@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[working V&#45;Rising ESP out there for the newest?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/698538-rising-esp.html)|`2025-05-12 05:06:00`|`Other MMORPG and Strategy`|
+|[YimMenuV2Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697581-yimmenuv2mod.html)|`2025-05-12 05:04:00`|`Grand Theft Auto V`|
+|[GPU Crash dump Triggered](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/700265-gpu-crash-dump-triggered.html)|`2025-05-12 05:03:00`|`Marvel Rivals`|
 |[EMACLAB &#40;GamersClub&#41; Anticheat analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695037-emaclab-gamersclub-anticheat-analysis.html)|`2025-05-12 04:49:00`|`Anti-Cheat Bypass`|
 |[SeownedDE x64 2025/3/29&#40;rei2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/694048-seownedde-x64-2025-3-29-rei2.html)|`2025-05-12 04:39:00`|`Team Fortress 2`|
 |[Ftpm spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699900-ftpm-spoof.html)|`2025-05-12 04:32:00`|`Valorant`|
