@@ -40,6 +40,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rocket League Help with Hooking into Nameplate Boost Indicator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/700046-rocket-league-help-hooking-nameplate-boost-indicator.html)|`2025-05-11 22:24:00`|`Other Games`|
+|[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/682483-demonologist-internal.html)|`2025-05-11 22:22:00`|`Other Games`|
+|[New Halloween face paints global](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695764-halloween-paints-global.html)|`2025-05-11 22:17:00`|`Grand Theft Auto V`|
 |[grenade tracer / grenade cam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/700211-grenade-tracer-grenade-cam.html)|`2025-05-11 21:55:00`|`Counter-Strike 2`|
 |[Put benny's wheels in personal vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/376369-bennys-wheels-personal-vehicle.html)|`2025-05-11 21:50:00`|`Grand Theft Auto V`|
 |[AI&#45;BOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/700050-ai-bot.html)|`2025-05-11 21:34:00`|`PUBG Mobile`|
