@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Autoscav Pathfinding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/633621-autoscav-pathfinding.html)|`2025-05-11 18:55:00`|`Escape from Tarkov`|
 |[Game freezes after injecting Scropts QoL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/700193-game-freezes-injecting-scropts-qol.html)|`2025-05-11 18:52:00`|`Call of Duty: Black Ops 3`|
 |[AutoScav: A scav bot using image analysis&#46; Works on live&#46; No bypass required&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/628120-autoscav-scav-bot-using-image-analysis-live-bypass-required.html)|`2025-05-11 18:46:00`|`Escape from Tarkov`|
 |[Hero exp hack for battlefront 2 &#40;2017&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/699789-hero-exp-hack-battlefront-2-2017-a.html)|`2025-05-11 18:29:00`|`Star Wars Battlefront 2`|
