@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BadPing Menu Clone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/699995-badping-menu-clone.html)|`2025-05-12 07:52:00`|`C and C++`|
 |[Eclipse Towers selling glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700242-eclipse-towers-selling-glitch.html)|`2025-05-12 07:37:00`|`Grand Theft Auto V`|
 |[Help Hooking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/700274-help-hooking.html)|`2025-05-12 07:23:00`|`Call of Duty: Black Ops 2`|
 |[Subtick and engine prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/700069-subtick-engine-prediction.html)|`2025-05-12 07:16:00`|`Counter-Strike 2`|
