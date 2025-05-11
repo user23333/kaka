@@ -29,9 +29,20 @@
 |1|[CS2 GLOW ESP&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49709)|`2025-05-12 01:42:34`|
 |1|[BO3 GSC INJECTOR FOR PC XBOX APP/MS STORE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49705)|`2025-05-12 01:48:35`|
 |1|[clean&#95;menu&#95;base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49721)|`2025-05-12 01:54:29`|
+|2|[TarkovGUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49718)|`2025-05-12 03:25:34`|
+|8|[dc&#95;3&#46;0&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49716)|`2025-05-12 03:25:34`|
+|1|[cranium&#95;fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49714)|`2025-05-12 03:25:34`|
+|1|[Last Epoch Auto Potion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49712)|`2025-05-12 03:25:34`|
+|7|[rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49711)|`2025-05-12 03:25:34`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Last Epoch &#45; Auto Potion &#40;can be copied for other games&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/699378-epoch-auto-potion-copied-games.html)|`2025-05-12 03:21:00`|`Other MMORPG and Strategy`|
+|[Cranium fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/699896-cranium-fix.html)|`2025-05-12 03:19:00`|`Garry's Mod`|
+|[&#91;EAC&#93; Current capbilities of Easy Anti Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700256-eac-current-capbilities-easy-anti-cheat.html)|`2025-05-12 03:09:00`|`Anti-Cheat Bypass`|
+|[Beseech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/700255-beseech.html)|`2025-05-12 03:08:00`|`Introductions`|
+|[DuneCore &#45; CS2 Best Triggerbot so far &#40;for legit players&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691168-dunecore-cs2-triggerbot-legit-players.html)|`2025-05-12 03:07:00`|`Counter-Strike 2`|
+|[TarkovGUI &#124; PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/694944-tarkovgui-pve.html)|`2025-05-12 03:05:00`|`Escape from Tarkov`|
 |[Heroes of Valor &#45; Heroes of Cheats Lua](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/698565-heroes-valor-heroes-cheats-lua.html)|`2025-05-12 02:57:00`|`Other FPS Games`|
 |[Starting use arduino on valo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700228-starting-arduino-valo.html)|`2025-05-12 02:51:00`|`Valorant`|
 |[DMA &#40;Entity Esp &#43; Player Bones&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/677658-dma-entity-esp-player-bones.html)|`2025-05-12 02:37:00`|`Rust`|
