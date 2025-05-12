@@ -47,6 +47,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Broken Aimbot in online matches?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/700197-broken-aimbot-online-matches.html)|`2025-05-12 14:31:00`|`Counter-Strike 2`|
 |[To bypass OW2 anti debugging](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/699585-bypass-ow2-anti-debugging.html)|`2025-05-12 13:14:00`|`Overwatch`|
 |[whql = no revoke or blacklist?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699796-whql-revoke-blacklist.html)|`2025-05-12 13:08:00`|`Anti-Cheat Bypass`|
 |[Etheria Restart Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/700240-etheria-restart-reversal-structs-offsets.html)|`2025-05-12 13:02:00`|`Other Games`|
