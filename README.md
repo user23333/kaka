@@ -47,6 +47,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[strafe prediction help?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/698886-strafe-prediction-help.html)|`2025-05-12 15:14:00`|`Team Fortress 2`|
+|[Rebuying From Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/197093-rebuying-steam.html)|`2025-05-12 15:03:00`|`Grand Theft Auto V`|
 |[Broken Aimbot in online matches?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/700197-broken-aimbot-online-matches.html)|`2025-05-12 14:31:00`|`Counter-Strike 2`|
 |[To bypass OW2 anti debugging](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/699585-bypass-ow2-anti-debugging.html)|`2025-05-12 13:14:00`|`Overwatch`|
 |[whql = no revoke or blacklist?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699796-whql-revoke-blacklist.html)|`2025-05-12 13:08:00`|`Anti-Cheat Bypass`|
