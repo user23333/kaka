@@ -47,6 +47,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[counteredvac &#40; cs2 dll manual mapper &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696459-counteredvac-cs2-dll-manual-mapper.html)|`2025-05-12 16:00:00`|`Counter-Strike 2`|
 |[DMA cheat easier to make?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/700293-dma-cheat-easier.html)|`2025-05-12 15:28:00`|`Off Topic`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-05-12 15:21:00`|`Grand Theft Auto V`|
 |[safest way to get a lot of money fast](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/686363-safest-lot-money-fast.html)|`2025-05-12 15:19:00`|`Grand Theft Auto V`|
