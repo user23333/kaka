@@ -35,9 +35,19 @@
 |1|[cranium&#95;fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49714)|`2025-05-12 03:25:34`|
 |1|[Last Epoch Auto Potion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49712)|`2025-05-12 03:25:34`|
 |7|[rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49711)|`2025-05-12 03:25:34`|
+|12|[FluffBot420&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49739)|`2025-05-12 11:05:39`|
+|2|[Voidware External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49732)|`2025-05-12 11:05:39`|
+|2|[GTA5&#95;Enhanced&#95;Basic&#95;Dumper&#95;DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49730)|`2025-05-12 11:05:39`|
+|2|[Jackpot E&E Lua](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49729)|`2025-05-12 11:05:39`|
+|3|[Meow&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49727)|`2025-05-12 11:05:39`|
+|1|[github repo code ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49726)|`2025-05-12 11:05:39`|
+|2|[asthmaphobia v0&#46;12&#46;1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49723)|`2025-05-12 11:05:39`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Outfit Editor   and  BBOB&#40;browser extension that generates Outfits Code for Bincohax&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/624819-outfit-editor-bbob-browser-extension-generates-outfits-code-bincohax.html)|`2025-05-12 11:05:00`|`Grand Theft Auto V`|
+|[Cs2 Voidware External Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693235-cs2-voidware-external-read.html)|`2025-05-12 10:56:00`|`Counter-Strike 2`|
+|[Jackpot Slots Lua E&E &#45; Nenyooo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700161-jackpot-slots-lua-nenyooo.html)|`2025-05-12 10:37:00`|`Grand Theft Auto V`|
 |[Defiance Game &#40;Fawkes&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/698168-defiance-game-fawkes.html)|`2025-05-12 09:30:00`|`Other MMORPG and Strategy`|
 |[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-05-12 08:58:00`|`Sea of Thieves`|
 |[Valorant BDevs HWID Spoofer &#45; Free Valorant HWID Spoofer and Bypass &#40;PERMANENT&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699928-valorant-bdevs-hwid-spoofer-free-valorant-hwid-spoofer-bypass-permanent.html)|`2025-05-12 08:54:00`|`Valorant`|
