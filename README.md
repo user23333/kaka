@@ -51,6 +51,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any good paid cheats for dayz steam?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/700319-paid-cheats-dayz-steam.html)|`2025-05-12 23:32:00`|`DayZ SA`|
+|[Could someone give me tips on how to send the image from pc1 to pc2 via amdgpu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700320-tips-send-image-pc1-pc2-via-amdgpu.html)|`2025-05-12 23:31:00`|`Valorant`|
+|[YimMenuV2 E&E with money cheat &#40;No FSL&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/694886-yimmenuv2-money-cheat-fsl.html)|`2025-05-12 23:30:00`|`Grand Theft Auto V`|
+|[Undetected Cheat Engine &#43; Driver &#124; 2023 &#124; Bypass Anticheats &#40;BE / EAC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/504191-undetected-cheat-engine-driver-2023-bypass-anticheats-eac.html)|`2025-05-12 23:18:00`|`Anti-Cheat Bypass`|
 |[AI&#45;BOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/700050-ai-bot.html)|`2025-05-12 22:08:00`|`PUBG Mobile`|
 |[Vanguard Spoofer Rev 2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612562-vanguard-spoofer-rev-2-a.html)|`2025-05-12 22:08:00`|`Valorant`|
 |[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2025-05-12 22:07:00`|`Scum`|
