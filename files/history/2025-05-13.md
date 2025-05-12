@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Updated No Recoil Script, All Mouse's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/603258-updated-recoil-script-mouses.html)|`2025-05-13 07:39:00`|`Rainbow Six Siege`|
+|[Simple r6 esp/chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/692673-simple-r6-esp-chams.html)|`2025-05-13 07:38:00`|`Rainbow Six Siege`|
+|[macro detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/691829-macro-detected.html)|`2025-05-13 07:37:00`|`Rainbow Six Siege`|
 |[Makcu 2pc colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695751-makcu-2pc-colorbot.html)|`2025-05-13 07:08:00`|`Valorant`|
 |[HWho &#45; a slightly more fun bsg launcher hwid check bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/494040-hwho-slightly-fun-bsg-launcher-hwid-check-bypass.html)|`2025-05-13 06:58:00`|`Escape from Tarkov`|
 |[TES: Oblivion Remastered &#45; External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/700376-tes-oblivion-remastered-external-base.html)|`2025-05-13 06:57:00`|`Other Single Player Games`|
