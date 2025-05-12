@@ -42,9 +42,14 @@
 |3|[Meow&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49727)|`2025-05-12 11:05:39`|
 |1|[github repo code ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49726)|`2025-05-12 11:05:39`|
 |2|[asthmaphobia v0&#46;12&#46;1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49723)|`2025-05-12 11:05:39`|
+|1|[Etheria Restart Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49736)|`2025-05-12 13:20:10`|
+|1|[CloverPit&#45;Demo&#45;Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49734)|`2025-05-12 13:20:10`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[To bypass OW2 anti debugging](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/699585-bypass-ow2-anti-debugging.html)|`2025-05-12 13:14:00`|`Overwatch`|
+|[whql = no revoke or blacklist?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699796-whql-revoke-blacklist.html)|`2025-05-12 13:08:00`|`Anti-Cheat Bypass`|
+|[Etheria Restart Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/700240-etheria-restart-reversal-structs-offsets.html)|`2025-05-12 13:02:00`|`Other Games`|
 |[CloverPit Demo &#45; Simple Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/700200-cloverpit-demo-simple-cheat.html)|`2025-05-12 12:59:00`|`Other FPS Games`|
 |[Getting loot ids from localGameWorld](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/699966-getting-loot-ids-localgameworld.html)|`2025-05-12 11:43:00`|`Escape from Tarkov`|
 |[&#91;STEAM&#93; TCSM Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/649480-steam-tcsm-internal-cheat.html)|`2025-05-12 11:42:00`|`Other Games`|
