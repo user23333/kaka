@@ -47,6 +47,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA cheat easier to make?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/700293-dma-cheat-easier.html)|`2025-05-12 15:28:00`|`Off Topic`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-05-12 15:21:00`|`Grand Theft Auto V`|
+|[safest way to get a lot of money fast](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/686363-safest-lot-money-fast.html)|`2025-05-12 15:19:00`|`Grand Theft Auto V`|
+|[Battlefield 2042 &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/467604-battlefield-2042-reversal-structs-offsets.html)|`2025-05-12 15:19:00`|`Battlefield 2042`|
 |[strafe prediction help?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/698886-strafe-prediction-help.html)|`2025-05-12 15:14:00`|`Team Fortress 2`|
 |[Rebuying From Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/197093-rebuying-steam.html)|`2025-05-12 15:03:00`|`Grand Theft Auto V`|
 |[Broken Aimbot in online matches?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/700197-broken-aimbot-online-matches.html)|`2025-05-12 14:31:00`|`Counter-Strike 2`|
