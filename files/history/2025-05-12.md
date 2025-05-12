@@ -47,6 +47,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Genshin İmpact Shika Cheat 5&#46;0&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/660051-genshin-mpact-shika-cheat-5-0-0-1-a.html)|`2025-05-12 17:52:00`|`Genshin Impact`|
+|[Combat Master ESP&Aimbot Internal Auto Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/676427-combat-master-esp-aimbot-internal-auto-update.html)|`2025-05-12 17:50:00`|`Combat Master`|
+|[PUBG MOBILE Gameloop Emulator Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/576303-pubg-mobile-gameloop-emulator-cheat.html)|`2025-05-12 17:33:00`|`PUBG Mobile`|
 |[Spoofer for EAC/BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696330-spoofer-eac.html)|`2025-05-12 17:47:00`|`Anti-Cheat Bypass`|
 |[How to Safely Use Cheats in Genshin Impact?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/699913-safely-cheats-genshin-impact.html)|`2025-05-12 17:41:00`|`Genshin Impact`|
 |[why does microsoft actually care now? &#40;24H2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699503-microsoft-actually-care-24h2.html)|`2025-05-12 17:33:00`|`Anti-Cheat Bypass`|
