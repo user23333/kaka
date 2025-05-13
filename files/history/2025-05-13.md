@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AutoScav: A scav bot using image analysis&#46; Works on live&#46; No bypass required&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/628120-autoscav-scav-bot-using-image-analysis-live-bypass-required.html)|`2025-05-13 23:08:00`|`Escape from Tarkov`|
+|[SDK Detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/700429-sdk-detected.html)|`2025-05-13 23:08:00`|`Alternative Online Mods`|
+|[TPM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/649260-tpm-spoofer.html)|`2025-05-13 23:08:00`|`Valorant`|
 |[EAC injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695972-eac-injector.html)|`2025-05-13 22:33:00`|`Anti-Cheat Bypass`|
 |[Arena Breakout Mobile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/595501-arena-breakout-mobile.html)|`2025-05-13 22:03:00`|`Other FPS Games`|
 |[Help with hooking system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/700426-help-hooking-system.html)|`2025-05-13 21:55:00`|`Counterstrike Global Offensive`|
