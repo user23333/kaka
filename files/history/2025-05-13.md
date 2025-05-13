@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HVCI/Secure Boot Errors on Some Valorant Accounts After Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700380-hvci-secure-boot-errors-valorant-accounts-spoofing.html)|`2025-05-13 08:45:00`|`Valorant`|
+|[Sideloading cert](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700219-sideloading-cert.html)|`2025-05-13 08:19:00`|`Anti-Cheat Bypass`|
 |[Updated No Recoil Script, All Mouse's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/603258-updated-recoil-script-mouses.html)|`2025-05-13 07:39:00`|`Rainbow Six Siege`|
 |[Simple r6 esp/chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/692673-simple-r6-esp-chams.html)|`2025-05-13 07:38:00`|`Rainbow Six Siege`|
 |[macro detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/691829-macro-detected.html)|`2025-05-13 07:37:00`|`Rainbow Six Siege`|
