@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External 3&#46;8 TW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/700451-external-3-8-tw.html)|`2025-05-14 02:35:00`|`PUBG Mobile`|
+|[Simple Glow Outline](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/700159-simple-glow-outline.html)|`2025-05-14 02:28:00`|`Team Fortress 2`|
 |[Apex Legends Lurching](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/700420-apex-legends-lurching.html)|`2025-05-14 02:22:00`|`Apex Legends`|
 |[CitiesSkylinesMoneyHax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/700443-citiesskylinesmoneyhax.html)|`2025-05-14 02:17:00`|`Other Games`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-05-14 02:16:00`|`Escape from Tarkov`|
