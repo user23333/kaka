@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Mobile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/595501-arena-breakout-mobile.html)|`2025-05-13 22:03:00`|`Other FPS Games`|
+|[Help with hooking system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/700426-help-hooking-system.html)|`2025-05-13 21:55:00`|`Counterstrike Global Offensive`|
 |[CSGO2 Injector code HELP&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685257-csgo2-injector-code-help.html)|`2025-05-13 21:52:00`|`Counter-Strike 2`|
 |[Valorant Ahk Colorbots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700408-valorant-ahk-colorbots.html)|`2025-05-13 21:24:00`|`Valorant`|
 |[Is there a working internal cheat for windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/692390-internal-cheat-windows.html)|`2025-05-13 20:49:00`|`Apex Legends`|
