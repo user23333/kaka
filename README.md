@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The First Descendant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/602336-descendant-reversal-structs-offsets.html)|`2025-05-13 23:19:00`|`Other FPS Games`|
+|[EMACLAB &#40;GamersClub&#41; Anticheat analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695037-emaclab-gamersclub-anticheat-analysis.html)|`2025-05-13 23:17:00`|`Anti-Cheat Bypass`|
+|[Is there any way to skip the card part in the casino scam?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700430-skip-card-casino-scam.html)|`2025-05-13 23:15:00`|`Grand Theft Auto V`|
 |[AutoScav: A scav bot using image analysis&#46; Works on live&#46; No bypass required&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/628120-autoscav-scav-bot-using-image-analysis-live-bypass-required.html)|`2025-05-13 23:08:00`|`Escape from Tarkov`|
 |[SDK Detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/700429-sdk-detected.html)|`2025-05-13 23:08:00`|`Alternative Online Mods`|
 |[TPM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/649260-tpm-spoofer.html)|`2025-05-13 23:08:00`|`Valorant`|
