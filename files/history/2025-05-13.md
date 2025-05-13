@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Reverse Injector Windows 11 24H2 &#43; Bugfixes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700403-reverse-injector-windows-11-24h2-bugfixes.html)|`2025-05-13 17:09:00`|`Anti-Cheat Bypass`|
+|[Nenyooo Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/488777-nenyooo-menu.html)|`2025-05-13 16:57:00`|`Grand Theft Auto V`|
 |[Anyone could migrate even it used to be not eligible?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700402-migrate-eligible.html)|`2025-05-13 16:48:00`|`Grand Theft Auto V`|
 |[Some updated signatures, and how you can find it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/699901-updated-signatures.html)|`2025-05-13 16:39:00`|`Deadlock`|
 |[PUBG GLOBAL 3&#46;8 UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/699669-pubg-global-3-8-ue4-offsets.html)|`2025-05-13 16:37:00`|`PUBG Mobile`|
