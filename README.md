@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do I get a hack tool that automatically hacks me?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/700415-hack-tool-automatically-hacks.html)|`2025-05-14 03:31:00`|`Forum General`|
+|[Can anyone make a DMA software for Battlefield v?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/697648-dma-software-battlefield.html)|`2025-05-14 03:28:00`|`Battlefield V`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-05-14 03:20:00`|`Grand Theft Auto V`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-05-14 03:09:00`|`Grand Theft Auto V`|
 |[CS 1&#46;6 Simple WallHack by KkK1337](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/496671-cs-1-6-simple-wallhack-kkk1337.html)|`2025-05-14 03:04:00`|`CounterStrike 1.5, 1.6 and Mods`|
