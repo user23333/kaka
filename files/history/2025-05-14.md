@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-05-14 04:45:00`|`Other FPS Games`|
 |[Stumbled on a 2Box Trick via Discord&#46;&#46;&#46; Whatâ€™s the Deal?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699218-stumbled-2box-trick-via-discord-deal.html)|`2025-05-14 04:34:00`|`Call of Duty: Black Ops 6`|
 |[Arma Reforger DMA esp&#43;aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/692649-arma-reforger-dma-esp-aim.html)|`2025-05-14 04:30:00`|`ARMA 3`|
 |[TPM AND SB BYPASS &#43; SPOOFER &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/623808-tpm-sb-bypass-spoofer.html)|`2025-05-14 04:26:00`|`Valorant`|
