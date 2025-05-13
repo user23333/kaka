@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is there a working internal cheat for windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/692390-internal-cheat-windows.html)|`2025-05-13 20:49:00`|`Apex Legends`|
 |[I got login banned, how I got around it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/692152-login-banned.html)|`2025-05-13 20:37:00`|`Marvel Rivals`|
 |[CN Valorant DMAbypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/692938-cn-valorant-dmabypass.html)|`2025-05-13 20:30:00`|`Valorant`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-05-13 20:11:00`|`Grand Theft Auto V`|
