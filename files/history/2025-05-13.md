@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Halo MCC Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/682386-halo-mcc-aimbot.html)|`2025-05-13 17:34:00`|`Halo`|
 |[Reverse Injector Windows 11 24H2 &#43; Bugfixes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700403-reverse-injector-windows-11-24h2-bugfixes.html)|`2025-05-13 17:09:00`|`Anti-Cheat Bypass`|
 |[Nenyooo Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/488777-nenyooo-menu.html)|`2025-05-13 16:57:00`|`Grand Theft Auto V`|
 |[Anyone could migrate even it used to be not eligible?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700402-migrate-eligible.html)|`2025-05-13 16:48:00`|`Grand Theft Auto V`|
