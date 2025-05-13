@@ -12,6 +12,7 @@
 |4|[Valorant BDevs HWID Spoofer &#45; Free Valorant HWID Spoofer and Bypass &#40;PERMANENT&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699928-valorant-bdevs-hwid-spoofer-free-valorant-hwid-spoofer-bypass-permanent.html)|`2025-05-13 00:24:30`|`valorant`|
 |7|[PUBG GLOBAL 3&#46;8 UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/699669-pubg-global-3-8-ue4-offsets.html)|`2025-05-13 00:24:30`|`pubg-mobile`|
 |14|[VAC HWID Information](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699827-vac-hwid-information.html)|`2025-05-13 10:26:50`|`counter-strike-2-a`|
+|9|[GTA5 Enhanced Basic Dumper &#91;DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700169-gta5-enhanced-basic-dumper-dma.html)|`2025-05-13 20:00:07`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
