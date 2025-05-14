@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HVCI/Secure Boot Errors on Some Valorant Accounts After Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700380-hvci-secure-boot-errors-valorant-accounts-spoofing.html)|`2025-05-14 21:44:00`|`Valorant`|
 |[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-05-14 21:19:00`|`HELLDIVERS 2`|
 |[No hesi cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/700099-hesi-cheat.html)|`2025-05-14 21:12:00`|`Other Games`|
 |[Could someone give me tips on how to send the image from pc1 to pc2 via amdgpu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700320-tips-send-image-pc1-pc2-via-amdgpu.html)|`2025-05-14 20:37:00`|`Valorant`|
