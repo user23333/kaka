@@ -30,6 +30,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[any good x64 cheat and a vac bypass injector?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/700435-x64-cheat-vac-bypass-injector.html)|`2025-05-14 11:20:00`|`Team Fortress 2`|
+|[Undetected Overlay for EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699747-undetected-overlay-eac.html)|`2025-05-14 11:02:00`|`Anti-Cheat Bypass`|
+|[DMA cheat easier to make?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/700293-dma-cheat-easier.html)|`2025-05-14 10:58:00`|`Off Topic`|
+|[inf strats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/700473-inf-strats.html)|`2025-05-14 10:39:00`|`HELLDIVERS 2`|
+|[Onyx &#124; Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699725-onyx-triggerbot.html)|`2025-05-14 10:34:00`|`Valorant`|
+|[REPX &#45; R&#46;E&#46;P&#46;O&#46; Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/697781-repx-cheat.html)|`2025-05-14 10:31:00`|`Other MMORPG and Strategy`|
+|[Heroes of Valor &#45; Heroes of Cheats Lua](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/698565-heroes-valor-heroes-cheats-lua.html)|`2025-05-14 10:25:00`|`Other FPS Games`|
 |[Help with dumping Mistfall Hunter &#40;UE 5&#46;5&#46;4&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/699159-help-dumping-mistfall-hunter-ue-5-5-4-0-a.html)|`2025-05-14 10:22:00`|`General Programming and Reversing`|
 |[Mac OS inject cheat good](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/699210-mac-os-inject-cheat.html)|`2025-05-14 10:01:00`|`Garry's Mod`|
 |[GTA5&#95;Enchanced Basic DMA Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689945-gta5_enchanced-basic-dma-tool.html)|`2025-05-14 10:00:00`|`Grand Theft Auto V`|
