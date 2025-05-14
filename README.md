@@ -11,6 +11,7 @@
 |7|[BF2042 NoRecoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/699701-bf2042-norecoil.html)|`2025-05-15 00:09:55`|`battlefield-2042-a`|
 |8|[Jackpot Slots Lua E&E &#45; Nenyooo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700161-jackpot-slots-lua-nenyooo.html)|`2025-05-15 00:09:55`|`grand-theft-auto-v`|
 |13|[Undetected Overlay for EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699747-undetected-overlay-eac.html)|`2025-05-15 00:09:55`|`anti-cheat-bypass`|
+|18|[How to Bypass Decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699974-bypass-decryption.html)|`2025-05-15 04:26:57`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-05-15 04:12:00`|`Call of Duty: Black Ops 6`|
 |[Isonzo Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675510-isonzo-internal-cheat.html)|`2025-05-15 04:09:00`|`Other FPS Games`|
 |[Which identifiers does EAC ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698713-identifiers-eac-ban.html)|`2025-05-15 04:00:00`|`Anti-Cheat Bypass`|
 |[Ultimate Spoofer &#45; Advanced Stealthy HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700067-ultimate-spoofer-advanced-stealthy-hwid-spoofer.html)|`2025-05-15 03:44:00`|`Anti-Cheat Bypass`|
