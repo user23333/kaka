@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking For A Working Valorant Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700649-looking-valorant-spoofer.html)|`2025-05-15 06:15:00`|`Valorant`|
+|[Apex Legends Lurching](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/700420-apex-legends-lurching.html)|`2025-05-15 06:13:00`|`Apex Legends`|
 |[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-05-15 06:00:00`|`Other Games`|
 |[CloverPit Demo &#45; Simple Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/700200-cloverpit-demo-simple-cheat.html)|`2025-05-15 05:45:00`|`Other FPS Games`|
 |[YimMenuV2 Latest Patch build 819](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699673-yimmenuv2-patch-build-819-a.html)|`2025-05-15 05:19:00`|`Grand Theft Auto V`|
