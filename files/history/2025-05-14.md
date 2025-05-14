@@ -27,9 +27,12 @@
 |56|[dll base menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49724)|`2025-05-14 00:19:26`|
 |1|[colorbotdriverisnge](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49749)|`2025-05-14 00:55:11`|
 |1|[Mod&#95;Menu&#95;v1&#46;1&#46;0&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49751)|`2025-05-14 01:29:10`|
+|1|[CitiesSkylinesMoneyHax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49754)|`2025-05-14 21:29:44`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-05-14 21:19:00`|`HELLDIVERS 2`|
+|[No hesi cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/700099-hesi-cheat.html)|`2025-05-14 21:12:00`|`Other Games`|
 |[Could someone give me tips on how to send the image from pc1 to pc2 via amdgpu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700320-tips-send-image-pc1-pc2-via-amdgpu.html)|`2025-05-14 20:37:00`|`Valorant`|
 |[What is the best way to use YIM to make money safely](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700395-yim-money-safely.html)|`2025-05-14 20:18:00`|`Grand Theft Auto V`|
 |[SmmInfect &#45; Smm Backdoor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664482-smminfect-smm-backdoor.html)|`2025-05-14 19:12:00`|`Anti-Cheat Bypass`|
