@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Could someone give me tips on how to send the image from pc1 to pc2 via amdgpu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700320-tips-send-image-pc1-pc2-via-amdgpu.html)|`2025-05-14 20:37:00`|`Valorant`|
+|[What is the best way to use YIM to make money safely](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700395-yim-money-safely.html)|`2025-05-14 20:18:00`|`Grand Theft Auto V`|
 |[SmmInfect &#45; Smm Backdoor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664482-smminfect-smm-backdoor.html)|`2025-05-14 19:12:00`|`Anti-Cheat Bypass`|
 |[need a source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/700496-source.html)|`2025-05-14 19:09:00`|`Playerunknown's Battlegrounds`|
 |[SoT how to run 2 copies on 1 PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/700494-sot-run-2-copies-1-pc.html)|`2025-05-14 18:52:00`|`Sea of Thieves`|
