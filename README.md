@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2025-05-14 22:25:00`|`Other Games`|
+|[no recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/700511-recoil.html)|`2025-05-14 22:25:00`|`Battlefield V`|
 |[Pose decrypt &#40;for entity&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700510-pose-decrypt-entity.html)|`2025-05-14 22:16:00`|`Call of Duty: Black Ops 6`|
 |[rust dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/697785-rust-dma.html)|`2025-05-14 22:16:00`|`Rust`|
 |[what to use instead of mouse&#95;event](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/696727-instead-mouse_event.html)|`2025-05-14 21:57:00`|`Rainbow Six Siege`|
