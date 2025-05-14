@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2025-05-14 12:23:00`|`Other MMORPG and Strategy`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-05-14 12:19:00`|`Overwatch`|
+|[counteredvac &#40; cs2 dll manual mapper &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696459-counteredvac-cs2-dll-manual-mapper.html)|`2025-05-14 12:07:00`|`Counter-Strike 2`|
 |[any good x64 cheat and a vac bypass injector?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/700435-x64-cheat-vac-bypass-injector.html)|`2025-05-14 11:20:00`|`Team Fortress 2`|
 |[Undetected Overlay for EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699747-undetected-overlay-eac.html)|`2025-05-14 11:02:00`|`Anti-Cheat Bypass`|
 |[DMA cheat easier to make?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/700293-dma-cheat-easier.html)|`2025-05-14 10:58:00`|`Off Topic`|
