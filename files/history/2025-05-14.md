@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SoT how to run 2 copies on 1 PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/700494-sot-run-2-copies-1-pc.html)|`2025-05-14 18:52:00`|`Sea of Thieves`|
+|[how to fix SDL&#95;SetRelativeMouseMode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/700493-fix-sdl_setrelativemousemode.html)|`2025-05-14 18:50:00`|`Counter-Strike 2`|
+|[Cs2 Voidware External Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693235-cs2-voidware-external-read.html)|`2025-05-14 18:04:00`|`Counter-Strike 2`|
 |[Darkest Days Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/700489-darkest-days-internal.html)|`2025-05-14 18:18:00`|`Other FPS Games`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-05-14 18:16:00`|`Other FPS Games`|
 |[battleye lagswitch detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700487-battleye-lagswitch-detection.html)|`2025-05-14 18:16:00`|`Anti-Cheat Bypass`|
