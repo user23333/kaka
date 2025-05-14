@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-05-14 16:14:00`|`Phasmophobia`|
+|[Function String Associate IDA 9&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/700481-function-string-associate-ida-9-1-a.html)|`2025-05-14 16:03:00`|`General Programming and Reversing`|
 |[Need help improving recoil smoothness & consistency &#40;C&#43;&#43; external Rust script&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/700389-help-improving-recoil-smoothness-consistency-external-rust-script.html)|`2025-05-14 15:29:00`|`Rust`|
 |[PUBG simple cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/700401-pubg-simple-cheat.html)|`2025-05-14 15:11:00`|`PUBG Releases`|
 |[Radar &#40;externally&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/699912-radar-externally.html)|`2025-05-14 15:08:00`|`Alternative Online Mods`|
