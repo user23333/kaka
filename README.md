@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How To JMS NGS Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/700213-jms-ngs-bypass.html)|`2025-05-15 07:10:00`|`Maple Story`|
+|[External Raycasting &#40;PhysX recreation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673196-external-raycasting-physx-recreation.html)|`2025-05-15 07:08:00`|`Escape from Tarkov`|
+|[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2025-05-15 07:04:00`|`Other FPS Games`|
 |[BetterAimAssist: Valorant aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682003-betteraimassist-valorant-aim-assist.html)|`2025-05-15 06:52:00`|`Valorant`|
 |[van 152, its windows 10, can anyone provide link for spoofer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700218-van-152-windows-10-provide-link-spoofer.html)|`2025-05-15 06:47:00`|`Valorant`|
 |[AI Aimbot how to avoid flags/ by Vanguard?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700651-ai-aimbot-avoid-flags-vanguard.html)|`2025-05-15 06:28:00`|`Valorant`|
