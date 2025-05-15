@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-05-16 04:56:00`|`Counter-Strike 2`|
 |[failed to load pbd info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/699876-failed-load-pbd-info.html)|`2025-05-16 04:34:00`|`All Points Bulletin`|
 |[no recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/700511-recoil.html)|`2025-05-16 04:32:00`|`Battlefield V`|
 |[Rocket League Wintrading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/628382-rocket-league-wintrading.html)|`2025-05-16 04:31:00`|`Other Games`|
