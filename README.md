@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Python &#91;Rust Recoil Sctript&#93; Makcu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/700706-python-rust-recoil-sctript-makcu.html)|`2025-05-16 03:19:00`|`Rust`|
+|[Valorant BDevs HWID Spoofer &#45; Free Valorant HWID Spoofer and Bypass &#40;PERMANENT&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699928-valorant-bdevs-hwid-spoofer-free-valorant-hwid-spoofer-bypass-permanent.html)|`2025-05-16 03:17:00`|`Valorant`|
 |[Apex Offset Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/698646-apex-offset-dump.html)|`2025-05-16 03:10:00`|`Apex Legends`|
 |[libUE4&#46;so](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/700727-libue4.html)|`2025-05-16 03:06:00`|`PUBG Mobile`|
 |[&#124; DeadLock Cheat &#124;&#124; Scripts &#124;&#124; Auto&#45;Updating &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/693609-deadlock-cheat-scripts-auto-updating.html)|`2025-05-16 03:00:00`|`Deadlock`|
