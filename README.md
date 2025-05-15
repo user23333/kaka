@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help with hooking system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/700426-help-hooking-system.html)|`2025-05-15 21:44:00`|`Counterstrike Global Offensive`|
+|[The simplest way to unlock GTA&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696911-simplest-unlock-gta.html)|`2025-05-15 21:40:00`|`Grand Theft Auto V`|
 |[HOW TO GET DLLs WITH IL2CPP DUMPER &#124; Unity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/691237-dlls-il2cpp-dumper-unity.html)|`2025-05-15 21:23:00`|`C and C++`|
 |[incompatible assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700172-incompatible-assets.html)|`2025-05-15 21:22:00`|`Grand Theft Auto V`|
 |[Arduino with USB Host Shield 2 PC or 1 PC setup?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699668-arduino-usb-host-shield-2-pc-1-pc-setup.html)|`2025-05-15 21:21:00`|`Valorant`|
