@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nuxar1 Decryption dumper fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699123-nuxar1-decryption-dumper-fix.html)|`2025-05-15 18:47:00`|`Call of Duty: Black Ops 6`|
+|[Hyperdbg driver detected by EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700521-hyperdbg-driver-detected-eac.html)|`2025-05-15 18:14:00`|`Anti-Cheat Bypass`|
+|[Valorant HWID Ban &#45; No BIOS Flash Support &#40;B450 Enigma Motherboard&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700156-valorant-hwid-ban-bios-flash-support-b450-enigma-motherboard.html)|`2025-05-15 18:07:00`|`Anti-Cheat Bypass`|
 |[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-05-15 18:19:00`|`Rainbow Six Siege`|
 |[BORWSER BO6 BOT LOBBY script ONLY XBOX CLOUD RUN IN BACKGROUND &#33;&#33;NO EMULATOR NEEDE&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700693-borwser-bo6-bot-lobby-script-xbox-cloud-run-background-emulator-neede.html)|`2025-05-15 18:06:00`|`Call of Duty: Black Ops 6`|
 |[Delay ban after 7 days from spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700692-delay-ban-7-days-spoofing.html)|`2025-05-15 17:55:00`|`Valorant`|
