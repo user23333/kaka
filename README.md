@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BORWSER BO6 BOT LOBBY script ONLY XBOX CLOUD RUN IN BACKGROUND &#33;&#33;NO EMULATOR NEEDE&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700693-borwser-bo6-bot-lobby-script-xbox-cloud-run-background-emulator-neede.html)|`2025-05-15 18:06:00`|`Call of Duty: Black Ops 6`|
+|[Delay ban after 7 days from spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700692-delay-ban-7-days-spoofing.html)|`2025-05-15 17:55:00`|`Valorant`|
 |[Is the experimental version changing the new game engine?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/700690-experimental-version-changing-game-engine.html)|`2025-05-15 17:47:00`|`DayZ SA`|
 |[SteelHunterInternal for Steel Hunters](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695182-steelhunterinternal-steel-hunters.html)|`2025-05-15 17:18:00`|`Other FPS Games`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-05-15 16:35:00`|`ARMA 3`|
