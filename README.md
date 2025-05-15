@@ -28,9 +28,12 @@
 |101|[Jackpot E&E Lua](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49729)|`2025-05-15 00:09:55`|
 |2|[Take&#45;TwoInteractiveSoftware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49735)|`2025-05-15 10:52:31`|
 |1|[OblivionRemastered&#45;External&#45;v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49746)|`2025-05-15 12:48:53`|
+|1|[Schedule I &#45; Console Trainer v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49740)|`2025-05-15 12:55:40`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Schedule I Console Command Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/700277-schedule-console-command-trainer.html)|`2025-05-15 12:52:00`|`Other Games`|
+|[Nintendo switch cheat reverse engineering&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/700679-nintendo-switch-cheat-reverse-engineering.html)|`2025-05-15 12:51:00`|`Apex Legends`|
 |[TES: Oblivion Remastered &#45; External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/700376-tes-oblivion-remastered-external-base.html)|`2025-05-15 12:40:00`|`Other Single Player Games`|
 |[Webs PVE Only Menu v7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v7.html)|`2025-05-15 12:07:00`|`Escape from Tarkov`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2025-05-15 11:59:00`|`Valorant`|
