@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 External &#45; Dynamic ESP Box Size Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/700499-cs2-external-dynamic-esp-box-size-help.html)|`2025-05-15 13:46:00`|`Counter-Strike 2`|
 |[RU Warface external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/681338-ru-warface-external-cheat.html)|`2025-05-15 13:19:00`|`Warface`|
 |[Schedule I Console Command Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/700277-schedule-console-command-trainer.html)|`2025-05-15 12:52:00`|`Other Games`|
 |[Nintendo switch cheat reverse engineering&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/700679-nintendo-switch-cheat-reverse-engineering.html)|`2025-05-15 12:51:00`|`Apex Legends`|
