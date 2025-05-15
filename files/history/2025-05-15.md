@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Webs PVE Only Menu v7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v7.html)|`2025-05-15 12:07:00`|`Escape from Tarkov`|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2025-05-15 11:59:00`|`Valorant`|
+|[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2025-05-15 11:18:00`|`DayZ SA`|
 |[Need simple cheat made](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/700673-simple-cheat.html)|`2025-05-15 11:15:00`|`Forum General`|
 |[Signed driver Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/698485-signed-driver-colorbot.html)|`2025-05-15 10:53:00`|`Overwatch`|
 |[Sideloading cert](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700219-sideloading-cert.html)|`2025-05-15 10:43:00`|`Anti-Cheat Bypass`|
