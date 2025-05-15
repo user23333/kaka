@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-05-15 18:52:00`|`Grand Theft Auto V`|
+|[The Bible in Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/700075-bible-cheats.html)|`2025-05-15 18:50:00`|`Off Topic`|
+|[How can I make the mouse cursor appear when I open a menu in&#45;game using ImGui?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/700685-mouse-cursor-appear-menu-game-using-imgui.html)|`2025-05-15 18:50:00`|`Counter-Strike 2`|
 |[Nuxar1 Decryption dumper fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699123-nuxar1-decryption-dumper-fix.html)|`2025-05-15 18:47:00`|`Call of Duty: Black Ops 6`|
 |[Hyperdbg driver detected by EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700521-hyperdbg-driver-detected-eac.html)|`2025-05-15 18:14:00`|`Anti-Cheat Bypass`|
 |[Valorant HWID Ban &#45; No BIOS Flash Support &#40;B450 Enigma Motherboard&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700156-valorant-hwid-ban-bios-flash-support-b450-enigma-motherboard.html)|`2025-05-15 18:07:00`|`Anti-Cheat Bypass`|
