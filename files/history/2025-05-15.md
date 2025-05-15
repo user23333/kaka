@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[need a source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/700496-source.html)|`2025-05-15 14:53:00`|`Playerunknown's Battlegrounds`|
+|[How to create many accounts in PUBG ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/700439-create-accounts-pubg.html)|`2025-05-15 14:52:00`|`Playerunknown's Battlegrounds`|
+|[Cheats broken after update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/700682-cheats-broken-update.html)|`2025-05-15 14:49:00`|`Team Fortress 2`|
 |[CS2 External using driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699829-cs2-external-using-driver.html)|`2025-05-15 13:51:00`|`Counter-Strike 2`|
 |[CS2 External &#45; Dynamic ESP Box Size Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/700499-cs2-external-dynamic-esp-box-size-help.html)|`2025-05-15 13:46:00`|`Counter-Strike 2`|
 |[RU Warface external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/681338-ru-warface-external-cheat.html)|`2025-05-15 13:19:00`|`Warface`|
