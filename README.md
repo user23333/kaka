@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-05-16 13:24:00`|`Escape from Tarkov`|
+|[How do you find the virtual table for lua interface?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/700416-virtual-table-lua-interface.html)|`2025-05-16 13:20:00`|`Garry's Mod`|
+|[How get signatures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/700694-signatures.html)|`2025-05-16 13:18:00`|`Garry's Mod`|
 |[Team Fortress 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/102936-team-fortress-2-reversal-structs-offsets.html)|`2025-05-16 13:03:00`|`Team Fortress 2`|
 |["Ghost client" for lunar client 1&#46;8&#46;9 &#40;forge&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/700386-ghost-client-lunar-client-1-8-9-forge.html)|`2025-05-16 12:40:00`|`Minecraft`|
 |[Defiance Game &#40;Fawkes&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/698168-defiance-game-fawkes.html)|`2025-05-16 12:08:00`|`Other MMORPG and Strategy`|
