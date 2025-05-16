@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to cheat engine on newz ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/infestation-survivor-stories-newz/700786-cheat-engine-newz.html)|`2025-05-16 10:43:00`|`Infestation Survivor Stories: NewZ`|
+|[PUBG Experience &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/693901-pubg-experience-dma.html)|`2025-05-16 10:38:00`|`Playerunknown's Battlegrounds`|
+|[Question about making cfw&#45;dma fw](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700460-question-cfw-dma-fw.html)|`2025-05-16 10:29:00`|`Anti-Cheat Bypass`|
+|[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2025-05-16 09:52:00`|`Valorant`|
+|[Schedule I Console Command Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/700277-schedule-console-command-trainer.html)|`2025-05-16 09:46:00`|`Other Games`|
+|[Get sub&#45;weapon &#40;L hand&#41; of current weapon &#40;R hand&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/700781-sub-weapon-hand-current-weapon-hand.html)|`2025-05-16 09:39:00`|`Warface`|
 |[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-05-16 08:30:00`|`Other FPS Games`|
 |[Cheats broken after update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/700682-cheats-broken-update.html)|`2025-05-16 08:16:00`|`Team Fortress 2`|
 |[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-05-16 08:13:00`|`Other FPS Games`|
