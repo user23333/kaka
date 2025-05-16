@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Skip cooldown for hangar source crates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700805-skip-cooldown-hangar-source-crates.html)|`2025-05-16 17:39:00`|`Grand Theft Auto V`|
 |[Which identifiers does EAC ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698713-identifiers-eac-ban.html)|`2025-05-16 17:28:00`|`Anti-Cheat Bypass`|
 |[Fixed SeOwned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/700804-fixed-seowned.html)|`2025-05-16 17:27:00`|`Team Fortress 2`|
 |[Gta 5 Legacy/Enhanced mod menus](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700803-gta-5-legacy-enhanced-mod-menus.html)|`2025-05-16 17:12:00`|`Grand Theft Auto V`|
