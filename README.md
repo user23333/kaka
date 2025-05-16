@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[kdmapper banned by PUBG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700798-kdmapper-banned-pubg.html)|`2025-05-16 15:05:00`|`Anti-Cheat Bypass`|
+|[Once Human &#40;game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/614970-human-game.html)|`2025-05-16 15:03:00`|`Other MMORPG and Strategy`|
 |[Could anyone share the latest version of Rigel source files?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/695022-share-version-rigel-source-files.html)|`2025-05-16 13:57:00`|`Overwatch`|
 |[Lockdown Protocol External by Fozzila &#40;Update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/700529-lockdown-protocol-external-fozzila-update.html)|`2025-05-16 13:49:00`|`Other Games`|
 |[need a source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/700496-source.html)|`2025-05-16 13:41:00`|`Playerunknown's Battlegrounds`|
