@@ -24,9 +24,17 @@
 |200|[FluffBot420&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49739)|`2025-05-17 00:14:03`|
 |26|[Etheria Restart Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49736)|`2025-05-17 00:14:03`|
 |124|[Take&#45;TwoInteractiveSoftware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49735)|`2025-05-17 00:14:03`|
+|3|[FluffBot420v1&#46;7&#95;BETA&#95;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49778)|`2025-05-17 00:38:35`|
+|1|[5&#46;3&#46;2&#45;1908360&#43;&#43;&#43;depot&#95;marvel&#43;S2&#95;1&#95;release&#45;Mar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49767)|`2025-05-17 00:38:35`|
+|1|[GTA5&#95;Enhanced&#95;Basic&#95;Dumper&#95;DMA&#95;V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49744)|`2025-05-17 00:38:35`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTA5 Enhanced Basic Dumper &#91;DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700169-gta5-enhanced-basic-dumper-dma.html)|`2025-05-17 00:37:00`|`Grand Theft Auto V`|
+|[Rocket League &#45; Nebula Client, Item Spawner, Title Spawner, Etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696293-rocket-league-nebula-client-item-spawner-title-spawner-etc.html)|`2025-05-17 00:34:00`|`Other Games`|
+|[What's the best DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/698748-whats-dma.html)|`2025-05-17 00:32:00`|`Call of Duty: Black Ops 6`|
+|[Fluffbot420](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/700017-fluffbot420.html)|`2025-05-17 00:23:00`|`Marvel Rivals`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-05-17 00:16:00`|`Marvel Rivals`|
 |[JoyToKey Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/699352-joytokey-bypass.html)|`2025-05-17 00:13:00`|`Apex Legends`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-05-17 00:11:00`|`Apex Legends`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-05-17 00:08:00`|`Apex Legends`|
