@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2025-05-16 23:19:00`|`Other FPS Games`|
+|[Game freezes after injecting Scropts QoL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/700193-game-freezes-injecting-scropts-qol.html)|`2025-05-16 23:18:00`|`Call of Duty: Black Ops 3`|
+|[BF3 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-3-a/695076-bf3-internal.html)|`2025-05-16 23:17:00`|`Battlefield 3`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-05-16 22:49:00`|`Grand Theft Auto V`|
 |[creating ur own cert](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700834-creating-ur-own-cert.html)|`2025-05-16 22:43:00`|`Anti-Cheat Bypass`|
 |[How to Make Recoil Script Movements Smoother Without Losing Accuracy?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/691808-recoil-script-movements-smoother-losing-accuracy.html)|`2025-05-16 22:43:00`|`Rust`|
