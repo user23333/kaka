@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[creating ur own cert](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700834-creating-ur-own-cert.html)|`2025-05-16 22:43:00`|`Anti-Cheat Bypass`|
+|[How to Make Recoil Script Movements Smoother Without Losing Accuracy?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/691808-recoil-script-movements-smoother-losing-accuracy.html)|`2025-05-16 22:43:00`|`Rust`|
 |[hows arduino colorbotting state rn?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700830-hows-arduino-colorbotting-rn.html)|`2025-05-16 22:08:00`|`Valorant`|
 |[TPM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/649260-tpm-spoofer.html)|`2025-05-16 21:57:00`|`Valorant`|
 |[Can anyone make a DMA software for Battlefield v?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/697648-dma-software-battlefield.html)|`2025-05-16 21:54:00`|`Battlefield V`|
