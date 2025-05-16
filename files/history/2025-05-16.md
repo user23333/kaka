@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FIX OBSERVATION SECURITY 1 DAY BAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/700842-fix-observation-security-1-day-ban.html)|`2025-05-16 23:38:00`|`PUBG Mobile`|
+|[ud injector?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/700841-ud-injector.html)|`2025-05-16 23:34:00`|`Farlight 84`|
+|[Rust Anti Cheat Update Blocks Virtual Mouse Input&#46; Any Workarounds?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/700839-rust-anti-cheat-update-blocks-virtual-mouse-input-workarounds.html)|`2025-05-16 23:32:00`|`Rust`|
 |[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2025-05-16 23:19:00`|`Other FPS Games`|
 |[Game freezes after injecting Scropts QoL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/700193-game-freezes-injecting-scropts-qol.html)|`2025-05-16 23:18:00`|`Call of Duty: Black Ops 3`|
 |[BF3 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-3-a/695076-bf3-internal.html)|`2025-05-16 23:17:00`|`Battlefield 3`|
