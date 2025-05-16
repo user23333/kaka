@@ -12,6 +12,7 @@
 |6|[Some updated signatures, and how you can find it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/699901-updated-signatures.html)|`2025-05-16 00:14:59`|`deadlock`|
 |11|[Sideloading cert](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700219-sideloading-cert.html)|`2025-05-16 00:14:59`|`anti-cheat-bypass`|
 |14|[What is the best way to use YIM to make money safely](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700395-yim-money-safely.html)|`2025-05-16 11:34:00`|`grand-theft-auto-v`|
+|8|[Eclipse Towers selling glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700242-eclipse-towers-selling-glitch.html)|`2025-05-16 14:44:59`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -25,6 +26,7 @@
 |22|[Etheria Restart Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49736)|`2025-05-16 00:14:59`|
 |63|[Take&#45;TwoInteractiveSoftware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49735)|`2025-05-16 00:14:59`|
 |21|[CloverPit&#45;Demo&#45;Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49734)|`2025-05-16 00:14:59`|
+|1|[COD&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49748)|`2025-05-16 14:44:59`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
