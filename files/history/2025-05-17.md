@@ -40,6 +40,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2025-05-17 07:27:00`|`Other FPS Games`|
+|[Gta 5 Legacy/Enhanced mod menus](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700803-gta-5-legacy-enhanced-mod-menus.html)|`2025-05-17 07:19:00`|`Grand Theft Auto V`|
 |[ZH 1&#46;05 Maphack/Stealth/Radar Source code included&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/691884-zh-1-05-maphack-stealth-radar-source-code-included.html)|`2025-05-17 07:11:00`|`Generals and Zero Hour`|
 |[ud injector?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/700841-ud-injector.html)|`2025-05-17 06:48:00`|`Farlight 84`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-05-17 06:40:00`|`Alternative Online Mods`|
