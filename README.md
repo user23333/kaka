@@ -41,6 +41,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[To bypass OW2 anti debugging](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/699585-bypass-ow2-anti-debugging.html)|`2025-05-17 18:50:00`|`Overwatch`|
+|[how to fix SDL&#95;SetRelativeMouseMode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/700493-fix-sdl_setrelativemousemode.html)|`2025-05-17 18:49:00`|`Counter-Strike 2`|
+|[Bootkit for R/W Purposes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700725-bootkit-purposes.html)|`2025-05-17 18:48:00`|`Anti-Cheat Bypass`|
+|[Delay ban after 7 days from spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700692-delay-ban-7-days-spoofing.html)|`2025-05-17 18:46:00`|`Valorant`|
 |[Is there a way to get unglobal finiac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/700934-unglobal-finiac.html)|`2025-05-17 18:39:00`|`Alternative Online Mods`|
 |[Question about making cfw&#45;dma fw](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700460-question-cfw-dma-fw.html)|`2025-05-17 18:35:00`|`Anti-Cheat Bypass`|
 |[Complete noob here &#40;gta online legacy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700910-complete-noob-gta-online-legacy.html)|`2025-05-17 18:31:00`|`Grand Theft Auto V`|
