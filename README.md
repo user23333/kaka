@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-05-18 02:33:00`|`Escape from Tarkov`|
+|[external only bone esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692238-external-bone-esp.html)|`2025-05-18 02:31:00`|`Counter-Strike 2`|
+|[&#91;UPCOMING&#93; Valorant Kernel Triggerbot – External & Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701010-upcoming-valorant-kernel-triggerbot-external-undetected.html)|`2025-05-18 02:29:00`|`Valorant`|
+|[Hypixel FREE macro for slayer and/or fishing&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/700295-hypixel-free-macro-slayer-fishing.html)|`2025-05-18 02:24:00`|`Minecraft`|
+|[Footsteps presets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/701019-footsteps-presets.html)|`2025-05-18 02:21:00`|`Rainbow Six Siege`|
+|[Schedule 1 v3&#46;3f14 QoL Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696517-schedule-1-v3-3f14-qol-internal-cheat.html)|`2025-05-18 02:16:00`|`Other Games`|
 |[DARKEST DAYS &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699687-darkest-days-internal.html)|`2025-05-18 02:06:00`|`Other FPS Games`|
 |[Xbox  / warzone aimbot needs work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699690-xbox-warzone-aimbot.html)|`2025-05-18 02:04:00`|`Call of Duty: Black Ops 6`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-05-18 02:03:00`|`Grand Theft Auto V`|
