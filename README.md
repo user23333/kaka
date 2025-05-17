@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-05-18 01:43:00`|`Overwatch`|
 |[Ghosts of Tabor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/574607-ghosts-tabor.html)|`2025-05-18 01:39:00`|`Other FPS Games`|
 |[BetterAimAssist: Valorant aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682003-betteraimassist-valorant-aim-assist.html)|`2025-05-18 01:35:00`|`Valorant`|
 |[The Adryan Pack &#45; Multiplayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/694661-adryan-pack-multiplayer.html)|`2025-05-18 01:21:00`|`Star Wars Battlefront 2`|
