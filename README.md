@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Plouton &#45; A System Management Mode &#40;SMM&#41; cheat framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693225-plouton-system-management-mode-smm-cheat-framework.html)|`2025-05-18 01:52:00`|`Anti-Cheat Bypass`|
+|[tampermonkey BOTLOBBY SCRIPT XBOX CLOUD / GeForce NOW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700634-tampermonkey-botlobby-script-xbox-cloud-geforce.html)|`2025-05-18 01:50:00`|`Call of Duty: Black Ops 6`|
+|[&#91;DMA&#93; COD &#45; ESP &#43; AIM &#40;steam only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700409-dma-cod-esp-aim-steam.html)|`2025-05-18 01:50:00`|`Call of Duty: Black Ops 6`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-05-18 01:43:00`|`Overwatch`|
 |[Ghosts of Tabor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/574607-ghosts-tabor.html)|`2025-05-18 01:39:00`|`Other FPS Games`|
 |[BetterAimAssist: Valorant aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682003-betteraimassist-valorant-aim-assist.html)|`2025-05-18 01:35:00`|`Valorant`|
