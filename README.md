@@ -41,6 +41,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[tampermonkey BOTLOBBY SCRIPT XBOX CLOUD / GeForce NOW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700634-tampermonkey-botlobby-script-xbox-cloud-geforce.html)|`2025-05-17 18:04:00`|`Call of Duty: Black Ops 6`|
+|[DA tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/643405-da-tool.html)|`2025-05-17 17:59:00`|`Call of Duty: Black Ops Cold War`|
 |[CS:S External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/593569-cs-external-esp.html)|`2025-05-17 17:52:00`|`CounterStrike Source`|
 |[mice block](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700937-mice-block.html)|`2025-05-17 17:47:00`|`Valorant`|
 |[Spoofing alienware/Dell](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700935-spoofing-alienware-dell.html)|`2025-05-17 17:43:00`|`Valorant`|
