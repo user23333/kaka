@@ -12,6 +12,7 @@
 |8|[Eclipse Towers selling glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700242-eclipse-towers-selling-glitch.html)|`2025-05-17 00:14:03`|`grand-theft-auto-v`|
 |14|[&#91;DMA&#93; COD &#45; ESP &#43; AIM &#40;steam only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700409-dma-cod-esp-aim-steam.html)|`2025-05-17 00:14:03`|`call-of-duty-black-ops-6-a`|
 |11|[internal chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700387-internal-chams.html)|`2025-05-17 02:59:55`|`call-of-duty-black-ops-6-a`|
+|13|[PUBG simple cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/700401-pubg-simple-cheat.html)|`2025-05-17 16:12:30`|`pubg-releases`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -40,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Which identifiers does EAC ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698713-identifiers-eac-ban.html)|`2025-05-17 16:07:00`|`Anti-Cheat Bypass`|
 |[Has the Windows driver signature been cracked?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700793-windows-driver-signature-cracked.html)|`2025-05-17 15:35:00`|`Anti-Cheat Bypass`|
 |[Universal Recoil &#40;like UMT program&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/617894-universal-recoil-umt-program.html)|`2025-05-17 15:20:00`|`Other FPS Games`|
 |[working V&#45;Rising ESP out there for the newest?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/698538-rising-esp.html)|`2025-05-17 15:19:00`|`Other MMORPG and Strategy`|
