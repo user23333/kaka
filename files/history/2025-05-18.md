@@ -11,6 +11,7 @@
 |13|[Is Rust update new anti cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/700699-rust-update-anti-cheat.html)|`2025-05-18 00:12:30`|`rust`|
 |10|[internal chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700387-internal-chams.html)|`2025-05-18 00:12:30`|`call-of-duty-black-ops-6-a`|
 |8|[Eclipse Towers selling glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700242-eclipse-towers-selling-glitch.html)|`2025-05-18 00:12:30`|`grand-theft-auto-v`|
+|13|[PUBG simple cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/700401-pubg-simple-cheat.html)|`2025-05-18 02:09:38`|`pubg-releases`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DARKEST DAYS &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699687-darkest-days-internal.html)|`2025-05-18 02:06:00`|`Other FPS Games`|
+|[Xbox  / warzone aimbot needs work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699690-xbox-warzone-aimbot.html)|`2025-05-18 02:04:00`|`Call of Duty: Black Ops 6`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-05-18 02:03:00`|`Grand Theft Auto V`|
+|[DuneCore &#45; CS2 Best Triggerbot so far &#40;for legit players&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691168-dunecore-cs2-triggerbot-legit-players.html)|`2025-05-18 02:03:00`|`Counter-Strike 2`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-05-18 02:02:00`|`Counter-Strike 2`|
+|[Meow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699145-meow.html)|`2025-05-18 01:58:00`|`Marvel Rivals`|
+|[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2025-05-18 01:55:00`|`Other MMORPG and Strategy`|
 |[Plouton &#45; A System Management Mode &#40;SMM&#41; cheat framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693225-plouton-system-management-mode-smm-cheat-framework.html)|`2025-05-18 01:52:00`|`Anti-Cheat Bypass`|
 |[tampermonkey BOTLOBBY SCRIPT XBOX CLOUD / GeForce NOW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700634-tampermonkey-botlobby-script-xbox-cloud-geforce.html)|`2025-05-18 01:50:00`|`Call of Duty: Black Ops 6`|
 |[&#91;DMA&#93; COD &#45; ESP &#43; AIM &#40;steam only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700409-dma-cod-esp-aim-steam.html)|`2025-05-18 01:50:00`|`Call of Duty: Black Ops 6`|
