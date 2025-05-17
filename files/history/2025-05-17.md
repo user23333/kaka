@@ -42,6 +42,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Offsets &#124;&#43;Pattern &#40;2699 &#45; 3258&#41; &#124; Always Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/694166-offsets-pattern-2699-3258-updated.html)|`2025-05-17 21:57:00`|`Alternative Online Mods`|
+|[Heroes of Hammerwatch II](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/699862-heroes-hammerwatch-ii.html)|`2025-05-17 21:56:00`|`Cheat Engine Tables`|
+|[&#91; External &#93; SPT&#45;AKI CheatBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/626274-external-spt-aki-cheatbase.html)|`2025-05-17 21:55:00`|`Escape from Tarkov`|
 |[X64 KeyValues signatures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/700827-x64-keyvalues-signatures.html)|`2025-05-17 21:32:00`|`Garry's Mod`|
 |[ARMA Reforger simplest ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/700954-arma-reforger-simplest-esp.html)|`2025-05-17 21:31:00`|`ARMA 3`|
 |[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-05-17 21:30:00`|`HELLDIVERS 2`|
