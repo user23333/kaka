@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FPS Drop with Agent Models &#40;Skinchanger&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/700795-fps-drop-agent-models-skinchanger.html)|`2025-05-18 04:43:00`|`Counter-Strike 2`|
+|[Is there any information available about Among Us 3D?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/701052-information-available-3d.html)|`2025-05-18 04:42:00`|`Among Us`|
+|[Valorant BDevs HWID Spoofer &#45; Free Valorant HWID Spoofer and Bypass &#40;PERMANENT&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699928-valorant-bdevs-hwid-spoofer-free-valorant-hwid-spoofer-bypass-permanent.html)|`2025-05-18 04:40:00`|`Valorant`|
 |[How to create many accounts in PUBG ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/700439-create-accounts-pubg.html)|`2025-05-18 04:29:00`|`Playerunknown's Battlegrounds`|
 |[Nenyooo Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/488777-nenyooo-menu.html)|`2025-05-18 04:29:00`|`Grand Theft Auto V`|
 |[counteredvac &#40; cs2 dll manual mapper &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696459-counteredvac-cs2-dll-manual-mapper.html)|`2025-05-18 04:28:00`|`Counter-Strike 2`|
