@@ -40,6 +40,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-05-17 13:28:00`|`Other FPS Games`|
+|[Recoil scripts work in menus and inventory , but they don't work in game&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/700922-recoil-scripts-menus-inventory-dont-game.html)|`2025-05-17 13:28:00`|`Rust`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-05-17 13:24:00`|`Grand Theft Auto V`|
+|[Rocket League Afk Script?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/678435-rocket-league-afk-script.html)|`2025-05-17 13:04:00`|`Off Topic`|
 |[its been 9 hours&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/700921-9-hours.html)|`2025-05-17 12:49:00`|`General Programming and Reversing`|
 |[New member](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/700837-new-member.html)|`2025-05-17 12:44:00`|`Introductions`|
 |[Nintendo switch cheat reverse engineering&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/700679-nintendo-switch-cheat-reverse-engineering.html)|`2025-05-17 12:27:00`|`Apex Legends`|
