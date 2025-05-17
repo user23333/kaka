@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Darkest Days Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/700489-darkest-days-internal.html)|`2025-05-18 07:48:00`|`Other FPS Games`|
 |[Movement cfgs without ghub](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/700930-movement-cfgs-ghub.html)|`2025-05-18 07:42:00`|`Apex Legends`|
 |[Stackwalking DPCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701068-stackwalking-dpcs.html)|`2025-05-18 07:23:00`|`Anti-Cheat Bypass`|
 |[Plants vs Zombies garden warfare 1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/518294-plants-vs-zombies-garden-warfare-1-a.html)|`2025-05-18 07:15:00`|`Other FPS Games`|
