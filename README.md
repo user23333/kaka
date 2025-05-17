@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stackwalking DPCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701068-stackwalking-dpcs.html)|`2025-05-18 07:23:00`|`Anti-Cheat Bypass`|
 |[Plants vs Zombies garden warfare 1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/518294-plants-vs-zombies-garden-warfare-1-a.html)|`2025-05-18 07:15:00`|`Other FPS Games`|
 |[some uc user selling a good private cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/701065-uc-user-selling-private-cheat.html)|`2025-05-18 07:14:00`|`Overwatch`|
 |[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-05-18 07:07:00`|`Battlefield 4`|
