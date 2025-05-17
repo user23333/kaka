@@ -12,6 +12,7 @@
 |10|[internal chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700387-internal-chams.html)|`2025-05-18 00:12:30`|`call-of-duty-black-ops-6-a`|
 |8|[Eclipse Towers selling glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700242-eclipse-towers-selling-glitch.html)|`2025-05-18 00:12:30`|`grand-theft-auto-v`|
 |13|[PUBG simple cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/700401-pubg-simple-cheat.html)|`2025-05-18 02:09:38`|`pubg-releases`|
+|8|[Rust Anti Cheat Update Blocks Virtual Mouse Input&#46; Any Workarounds?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/700839-rust-anti-cheat-update-blocks-virtual-mouse-input-workarounds.html)|`2025-05-18 04:58:46`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
