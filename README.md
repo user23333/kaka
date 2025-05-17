@@ -13,6 +13,7 @@
 |14|[&#91;DMA&#93; COD &#45; ESP &#43; AIM &#40;steam only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700409-dma-cod-esp-aim-steam.html)|`2025-05-17 00:14:03`|`call-of-duty-black-ops-6-a`|
 |11|[internal chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700387-internal-chams.html)|`2025-05-17 02:59:55`|`call-of-duty-black-ops-6-a`|
 |13|[PUBG simple cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/700401-pubg-simple-cheat.html)|`2025-05-17 16:12:30`|`pubg-releases`|
+|7|[Is Rust update new anti cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/700699-rust-update-anti-cheat.html)|`2025-05-17 20:00:31`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
