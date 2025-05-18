@@ -40,6 +40,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[npc&#95;esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/701139-npc_esp.html)|`2025-05-18 23:37:00`|`Garry's Mod`|
+|[Vermintide2，Critical hit rate lua？](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/700411-vermintide2-critical-hit-rate-lua.html)|`2025-05-18 23:37:00`|`Other FPS Games`|
 |[External Offsets 3&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/699665-external-offsets-3-8-a.html)|`2025-05-18 23:29:00`|`PUBG Mobile`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-05-18 23:04:00`|`Other MMORPG and Strategy`|
 |[AHK triggerbot valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/701134-ahk-triggerbot-valorant.html)|`2025-05-18 23:00:00`|`Half Life`|
