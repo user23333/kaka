@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[looking for decent colorbot on arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700885-looking-decent-colorbot-arduino.html)|`2025-05-18 19:53:00`|`Valorant`|
+|[ARMA Reforger simplest ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/700954-arma-reforger-simplest-esp.html)|`2025-05-18 19:53:00`|`ARMA 3`|
 |[Arduino with USB Host Shield 2 PC or 1 PC setup?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699668-arduino-usb-host-shield-2-pc-1-pc-setup.html)|`2025-05-18 19:52:00`|`Valorant`|
 |[I hate being low IQ, everything takes 3x longer to learn&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/700882-hate-low-iq-takes-3x-learn.html)|`2025-05-18 19:50:00`|`Off Topic`|
 |[mice block](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700937-mice-block.html)|`2025-05-18 19:46:00`|`Valorant`|
