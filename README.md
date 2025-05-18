@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ghosts of Tabor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/574607-ghosts-tabor.html)|`2025-05-19 01:11:00`|`Other FPS Games`|
+|[GlobalVars nullptr](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701150-globalvars-nullptr.html)|`2025-05-19 01:08:00`|`Counter-Strike 2`|
+|[Has the Windows driver signature been cracked?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700793-windows-driver-signature-cracked.html)|`2025-05-19 01:05:00`|`Anti-Cheat Bypass`|
 |[DARKEST DAYS &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699687-darkest-days-internal.html)|`2025-05-19 00:44:00`|`Other FPS Games`|
 |[7DTD 1&#46;4 B14 Creative and Debug Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699759-7dtd-1-4-b14-creative-debug-assembly-csharp-dll.html)|`2025-05-19 00:44:00`|`Other FPS Games`|
 |[&#91;DMA&#93; COD &#45; ESP &#43; AIM &#40;steam only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700409-dma-cod-esp-aim-steam.html)|`2025-05-19 00:43:00`|`Call of Duty: Black Ops 6`|
