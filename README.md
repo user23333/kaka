@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-05-19 07:31:00`|`Call of Duty: Black Ops 6`|
 |[Meow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699145-meow.html)|`2025-05-19 07:14:00`|`Marvel Rivals`|
 |[Yimmenu Legacy Version??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700960-yimmenu-legacy-version.html)|`2025-05-19 06:58:00`|`Grand Theft Auto V`|
 |[EAC disables my DMA card when joining a server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701224-eac-disables-dma-card-joining-server.html)|`2025-05-19 06:57:00`|`Rust`|
