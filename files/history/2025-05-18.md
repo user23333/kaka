@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[June 2025 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/700908-june-2025-motm-nominations.html)|`2025-05-18 21:03:00`|`Member of the Month`|
 |[Source Redirection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/701116-source-redirection.html)|`2025-05-18 20:42:00`|`Apex Legends`|
 |[Fade Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701115-fade-chams.html)|`2025-05-18 20:41:00`|`Valorant`|
 |[looking for decent colorbot on arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700885-looking-decent-colorbot-arduino.html)|`2025-05-18 19:53:00`|`Valorant`|
