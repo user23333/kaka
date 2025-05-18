@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[LOOKING FOR A VALORANT CHEAT DEV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701163-looking-valorant-cheat-dev.html)|`2025-05-19 03:22:00`|`Valorant`|
+|[How to reverse wasm game files for 8ball pool web version&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/web-and-scripting/701162-reverse-wasm-game-files-8ball-pool-web-version.html)|`2025-05-19 03:21:00`|`Web and Scripting`|
+|[The simplest way to unlock GTA&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696911-simplest-unlock-gta.html)|`2025-05-19 03:17:00`|`Grand Theft Auto V`|
+|[Mordhau Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/334741-mordhau-reversal-structs-offsets.html)|`2025-05-19 03:11:00`|`Other FPS Games`|
 |[Got banned 6th day&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/700850-banned-6th-day.html)|`2025-05-19 02:26:00`|`Escape from Tarkov`|
 |[YimMenuV2 &#40;will update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701009-yimmenuv2-update.html)|`2025-05-19 02:17:00`|`Grand Theft Auto V`|
 |[Pirate Generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/699335-pirate-generator.html)|`2025-05-19 02:13:00`|`Sea of Thieves`|
