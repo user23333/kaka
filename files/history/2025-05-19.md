@@ -30,6 +30,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-05-19 05:52:00`|`Marvel Rivals`|
+|[rainbow six siege](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/701170-rainbow-six-siege.html)|`2025-05-19 05:51:00`|`Rainbow Six Siege`|
+|[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2025-05-19 05:48:00`|`Other FPS Games`|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-05-19 05:48:00`|`Apex Legends`|
+|[Hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/701215-hello.html)|`2025-05-19 05:43:00`|`Introductions`|
+|[Gamemodeinfo Mod &#40;Hero Table version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/699959-gamemodeinfo-mod-hero-table-version.html)|`2025-05-19 05:40:00`|`Star Wars Battlefront 2`|
+|[Undetected Cheat Engine &#43; Driver &#124; 2023 &#124; Bypass Anticheats &#40;BE / EAC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/504191-undetected-cheat-engine-driver-2023-bypass-anticheats-eac.html)|`2025-05-19 05:38:00`|`Anti-Cheat Bypass`|
 |[Genshin İmpact Shika Cheat 5&#46;0&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/660051-genshin-mpact-shika-cheat-5-0-0-1-a.html)|`2025-05-19 05:28:00`|`Genshin Impact`|
 |[For Honor &#45; Sciprt by florasSecret &#45; Autoblock, Parry, Deflects, D b/Unblockables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/414701-honor-sciprt-florassecret-autoblock-parry-deflects-unblockables.html)|`2025-05-19 05:19:00`|`Other MMORPG and Strategy`|
 |[Squad v8&#46;2&#46;1 &#40;2025&#41; ini](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/681581-squad-v8-2-1-2025-ini.html)|`2025-05-19 05:02:00`|`Other FPS Games`|
