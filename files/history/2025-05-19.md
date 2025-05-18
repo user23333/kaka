@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Skin changer Apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/698592-skin-changer-apex.html)|`2025-05-19 01:19:00`|`Apex Legends`|
+|[Eye ray](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701153-eye-ray.html)|`2025-05-19 01:18:00`|`Counter-Strike 2`|
 |[Ghosts of Tabor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/574607-ghosts-tabor.html)|`2025-05-19 01:11:00`|`Other FPS Games`|
 |[GlobalVars nullptr](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701150-globalvars-nullptr.html)|`2025-05-19 01:08:00`|`Counter-Strike 2`|
 |[Has the Windows driver signature been cracked?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700793-windows-driver-signature-cracked.html)|`2025-05-19 01:05:00`|`Anti-Cheat Bypass`|
