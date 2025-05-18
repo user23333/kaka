@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Function String Associate IDA 9&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/700481-function-string-associate-ida-9-1-a.html)|`2025-05-19 06:29:00`|`General Programming and Reversing`|
+|[Rust Anti Cheat Update Blocks Virtual Mouse Input&#46; Any Workarounds?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/700839-rust-anti-cheat-update-blocks-virtual-mouse-input-workarounds.html)|`2025-05-19 06:20:00`|`Rust`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-05-19 06:05:00`|`Other FPS Games`|
 |[new member](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/701047-new-member.html)|`2025-05-19 05:54:00`|`Introductions`|
 |[Recoil scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/699848-recoil-scripts.html)|`2025-05-19 05:53:00`|`THE FINALS`|
