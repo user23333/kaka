@@ -29,9 +29,20 @@
 |1|[BlackOps6&#45;DMA&#45;ESP&#45;v1&#46;0a](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49785)|`2025-05-18 02:59:57`|
 |4|[No&#95;signed&#95;file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49788)|`2025-05-18 06:16:38`|
 |0|[p7bs for comparison](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49794)|`2025-05-18 06:32:06`|
+|1|[rage&#45;scripting&#45;five pdb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49782)|`2025-05-18 09:02:43`|
+|3|[EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49776)|`2025-05-18 09:02:43`|
+|1|[AssaultCube&#95;qteeq&#95;&#91;unknowncheats&#46;me&#93;&#95;&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49772)|`2025-05-18 09:02:43`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-05-18 08:57:00`|`Alternative Online Mods`|
+|[Rocket League Help with Hooking into Nameplate Boost Indicator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/700046-rocket-league-help-hooking-nameplate-boost-indicator.html)|`2025-05-18 08:53:00`|`Other Games`|
+|[AssaultCube 1&#46;3&#46;0&#46;2 &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/700767-assaultcube-1-3-0-2-external.html)|`2025-05-18 08:49:00`|`Other FPS Games`|
+|[Python Valorant Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701073-python-valorant-triggerbot.html)|`2025-05-18 08:48:00`|`Valorant`|
+|[DARKEST DAYS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697870-darkest-days-reversal-structs-offsets.html)|`2025-05-18 08:43:00`|`Other FPS Games`|
+|[How to Grind infinit HG Wins, Levels and Money](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/680032-grind-infinit-hg-wins-levels-money.html)|`2025-05-18 08:43:00`|`Sea of Thieves`|
+|[Cs2 Voidware External Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693235-cs2-voidware-external-read.html)|`2025-05-18 08:41:00`|`Counter-Strike 2`|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-05-18 08:34:00`|`Other FPS Games`|
 |[Darkest Days Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/700489-darkest-days-internal.html)|`2025-05-18 07:48:00`|`Other FPS Games`|
 |[Movement cfgs without ghub](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/700930-movement-cfgs-ghub.html)|`2025-05-18 07:42:00`|`Apex Legends`|
 |[Stackwalking DPCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701068-stackwalking-dpcs.html)|`2025-05-18 07:23:00`|`Anti-Cheat Bypass`|
