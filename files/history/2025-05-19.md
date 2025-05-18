@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[REPX &#45; R&#46;E&#46;P&#46;O&#46; Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/697781-repx-cheat.html)|`2025-05-19 06:39:00`|`Other MMORPG and Strategy`|
+|[The Bible in Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/700075-bible-cheats.html)|`2025-05-19 06:35:00`|`Off Topic`|
+|[I hate being low IQ, everything takes 3x longer to learn&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/700882-hate-low-iq-takes-3x-learn.html)|`2025-05-19 06:32:00`|`Off Topic`|
 |[Function String Associate IDA 9&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/700481-function-string-associate-ida-9-1-a.html)|`2025-05-19 06:29:00`|`General Programming and Reversing`|
 |[Rust Anti Cheat Update Blocks Virtual Mouse Input&#46; Any Workarounds?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/700839-rust-anti-cheat-update-blocks-virtual-mouse-input-workarounds.html)|`2025-05-19 06:20:00`|`Rust`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-05-19 06:05:00`|`Other FPS Games`|
