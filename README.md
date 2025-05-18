@@ -26,9 +26,11 @@
 |26|[h2m unlock all](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49780)|`2025-05-19 00:11:13`|
 |31|[Mod&#95;Menu&#95;v1&#46;1&#46;1&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49779)|`2025-05-19 00:11:13`|
 |124|[FluffBot420v1&#46;7&#95;BETA&#95;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49778)|`2025-05-19 00:11:13`|
+|1|[Rust Cheat Soruce](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49798)|`2025-05-19 05:12:26`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Squad v8&#46;2&#46;1 &#40;2025&#41; ini](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/681581-squad-v8-2-1-2025-ini.html)|`2025-05-19 05:02:00`|`Other FPS Games`|
 |[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2025-05-19 04:35:00`|`Other FPS Games`|
 |[VRising &#45; How to iterate through entities and get their informations?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/700279-vrising-iterate-entities-informations.html)|`2025-05-19 04:34:00`|`Other MMORPG and Strategy`|
 |[Paquets server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/701171-paquets-server.html)|`2025-05-19 04:24:00`|`Call of Duty: Black Ops 6`|
