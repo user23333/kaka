@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead island 2 External Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/595262-dead-island-2-external-menu.html)|`2025-05-18 14:29:00`|`Other FPS Games`|
 |[Pirate Generator&#45;only cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/696086-pirate-generator-cheat.html)|`2025-05-18 14:03:00`|`Sea of Thieves`|
 |[Brawlhalla cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/701087-brawlhalla-cheat.html)|`2025-05-18 13:31:00`|`Other Games`|
 |[VRising &#45; How to iterate through entities and get their informations?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/700279-vrising-iterate-entities-informations.html)|`2025-05-18 13:23:00`|`Other MMORPG and Strategy`|
