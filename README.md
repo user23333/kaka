@@ -13,6 +13,7 @@
 |8|[Eclipse Towers selling glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700242-eclipse-towers-selling-glitch.html)|`2025-05-18 00:12:30`|`grand-theft-auto-v`|
 |13|[PUBG simple cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/700401-pubg-simple-cheat.html)|`2025-05-18 02:09:38`|`pubg-releases`|
 |8|[Rust Anti Cheat Update Blocks Virtual Mouse Input&#46; Any Workarounds?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/700839-rust-anti-cheat-update-blocks-virtual-mouse-input-workarounds.html)|`2025-05-18 04:58:46`|`rust`|
+|20|[Darkest Days Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/700489-darkest-days-internal.html)|`2025-05-18 10:50:46`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,9 +33,15 @@
 |1|[rage&#45;scripting&#45;five pdb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49782)|`2025-05-18 09:02:43`|
 |3|[EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49776)|`2025-05-18 09:02:43`|
 |1|[AssaultCube&#95;qteeq&#95;&#91;unknowncheats&#46;me&#93;&#95;&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49772)|`2025-05-18 09:02:43`|
+|7|[FluffBot420v1&#46;7&#95;BETA&#95;6&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49790)|`2025-05-18 10:50:46`|
+|7|[h2m unlock all](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49780)|`2025-05-18 10:50:46`|
+|2|[Mod&#95;Menu&#95;v1&#46;1&#46;1&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49779)|`2025-05-18 10:50:46`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Signed driver Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/698485-signed-driver-colorbot.html)|`2025-05-18 10:32:00`|`Overwatch`|
+|[vanguard block boad arduino ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701076-vanguard-block-boad-arduino.html)|`2025-05-18 10:28:00`|`Valorant`|
+|[New ColorBot/TriggerBot Signed Microsoft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684493-colorbot-triggerbot-signed-microsoft.html)|`2025-05-18 10:24:00`|`Valorant`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-05-18 08:57:00`|`Alternative Online Mods`|
 |[Rocket League Help with Hooking into Nameplate Boost Indicator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/700046-rocket-league-help-hooking-nameplate-boost-indicator.html)|`2025-05-18 08:53:00`|`Other Games`|
 |[AssaultCube 1&#46;3&#46;0&#46;2 &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/700767-assaultcube-1-3-0-2-external.html)|`2025-05-18 08:49:00`|`Other FPS Games`|
