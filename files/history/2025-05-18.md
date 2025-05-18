@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Starting my Cheat Dev journey&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701089-starting-cheat-dev-journey.html)|`2025-05-18 14:47:00`|`Rust`|
+|[Theia static decryptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696332-theia-static-decryptor.html)|`2025-05-18 14:41:00`|`Anti-Cheat Bypass`|
 |[Dead island 2 External Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/595262-dead-island-2-external-menu.html)|`2025-05-18 14:29:00`|`Other FPS Games`|
 |[Pirate Generator&#45;only cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/696086-pirate-generator-cheat.html)|`2025-05-18 14:03:00`|`Sea of Thieves`|
 |[Brawlhalla cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/701087-brawlhalla-cheat.html)|`2025-05-18 13:31:00`|`Other Games`|
