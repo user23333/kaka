@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Updated Offsets Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701258-updated-offsets-discussion.html)|`2025-05-19 11:46:00`|`Valorant`|
+|[Building a fully nulled/spoofable PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/701262-building-nulled-spoofable-pc.html)|`2025-05-19 11:28:00`|`PC Hardware`|
+|[How to Grind infinit HG Wins, Levels and Money](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/680032-grind-infinit-hg-wins-levels-money.html)|`2025-05-19 11:13:00`|`Sea of Thieves`|
+|[Rocket League Wintrading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/628382-rocket-league-wintrading.html)|`2025-05-19 11:09:00`|`Other Games`|
 |[best game resolution for colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/696888-game-resolution-colorbot.html)|`2025-05-19 11:01:00`|`Valorant`|
 |[Toram Online &#45; STEAM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/484409-toram-online-steam.html)|`2025-05-19 10:57:00`|`Other MMORPG and Strategy`|
 |[Mini features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/701174-mini-features.html)|`2025-05-19 10:55:00`|`Apex Legends`|
