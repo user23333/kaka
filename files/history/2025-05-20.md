@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[is this done by hacker or it's just a server side bug?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/701350-hacker-server-bug.html)|`2025-05-20 06:39:00`|`Combat Arms`|
+|[Insanely fast triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/701254-insanely-fast-triggerbot.html)|`2025-05-20 06:33:00`|`Half Life`|
+|[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2025-05-20 06:16:00`|`Unity`|
 |[Where do you guys get info on things?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/700399-guys-info.html)|`2025-05-20 06:31:00`|`General Programming and Reversing`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-05-20 06:26:00`|`Rust`|
 |[Burnout, Language Hopping, and My Game Hacking Journey – What Am I Doing Wrong?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/698837-burnout-language-hopping-game-hacking-journey-am-doing-wrong.html)|`2025-05-20 06:16:00`|`Programming for Beginners`|
