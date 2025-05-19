@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need help bypassing battleye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701075-help-bypassing-battleye.html)|`2025-05-19 20:35:00`|`Grand Theft Auto V`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-05-19 20:31:00`|`Overwatch`|
+|[Safe Read & Write Methods For Dll Using NTAPI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/700953-safe-read-write-methods-dll-using-ntapi.html)|`2025-05-19 20:28:00`|`PUBG Mobile`|
 |[Lview External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/700945-lview-external.html)|`2025-05-19 19:55:00`|`League of Legends`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-05-19 19:32:00`|`Alternative Online Mods`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-05-19 19:29:00`|`Other FPS Games`|
