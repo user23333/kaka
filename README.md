@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stackwalking DPCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701068-stackwalking-dpcs.html)|`2025-05-19 17:40:00`|`Anti-Cheat Bypass`|
+|[HLL: Hell Let Loose](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/340677-hll-hell-loose.html)|`2025-05-19 17:34:00`|`Other FPS Games`|
 |[Is Rust update new anti cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/700699-rust-update-anti-cheat.html)|`2025-05-19 17:27:00`|`Rust`|
 |[Movement cfgs without ghub](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/700930-movement-cfgs-ghub.html)|`2025-05-19 17:26:00`|`Apex Legends`|
 |[DMA cheat easier to make?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/700293-dma-cheat-easier.html)|`2025-05-19 16:50:00`|`Off Topic`|
