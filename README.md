@@ -27,9 +27,14 @@
 |2|[VACModuleDumper&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49802)|`2025-05-20 03:26:35`|
 |1|[MW3 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49799)|`2025-05-20 04:58:17`|
 |1|[darkest days](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49803)|`2025-05-20 05:29:16`|
+|2|[triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49806)|`2025-05-20 06:32:39`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Where do you guys get info on things?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/700399-guys-info.html)|`2025-05-20 06:31:00`|`General Programming and Reversing`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-05-20 06:26:00`|`Rust`|
+|[Burnout, Language Hopping, and My Game Hacking Journey – What Am I Doing Wrong?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/698837-burnout-language-hopping-game-hacking-journey-am-doing-wrong.html)|`2025-05-20 06:16:00`|`Programming for Beginners`|
+|[ask dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/700956-dma.html)|`2025-05-20 06:15:00`|`Apex Legends`|
 |[Rambling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/701346-rambling.html)|`2025-05-20 06:07:00`|`Off Topic`|
 |[ARMA 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/114242-arma-3-reversal-structs-offsets.html)|`2025-05-20 06:04:00`|`ARMA 3`|
 |[how can i start gamehacking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/700363-start-gamehacking.html)|`2025-05-20 06:00:00`|`Programming for Beginners`|
