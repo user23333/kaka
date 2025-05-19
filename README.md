@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[YimMenuV2Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697581-yimmenuv2mod.html)|`2025-05-20 01:06:00`|`Grand Theft Auto V`|
+|[HLL: Hell Let Loose](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/340677-hll-hell-loose.html)|`2025-05-20 01:06:00`|`Other FPS Games`|
 |[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2025-05-20 00:57:00`|`Palia`|
 |[SEOwned x64 fixed for new tf2 update&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/691125-seowned-x64-fixed-tf2-update.html)|`2025-05-20 00:44:00`|`Team Fortress 2`|
 |[GlobalVars nullptr](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701150-globalvars-nullptr.html)|`2025-05-20 00:42:00`|`Counter-Strike 2`|
