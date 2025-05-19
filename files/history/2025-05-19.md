@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do external cheats move the mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/701221-external-cheats-move-mouse.html)|`2025-05-19 22:49:00`|`Rainbow Six Siege`|
 |[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-05-19 22:26:00`|`Other FPS Games`|
 |[Even github with source is not safe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/700657-github-source-safe.html)|`2025-05-19 22:24:00`|`Off Topic`|
 |[FACEIT MAP Driver Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701305-faceit-map-driver-exploit.html)|`2025-05-19 22:18:00`|`Anti-Cheat Bypass`|
