@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rocket League &#45; Unlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/624955-rocket-league-unlock.html)|`2025-05-20 23:27:00`|`Other Games`|
 |["Ghost client" for lunar client 1&#46;8&#46;9 &#40;forge&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/700386-ghost-client-lunar-client-1-8-9-forge.html)|`2025-05-20 23:24:00`|`Minecraft`|
 |[bfme maphack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701405-bfme-maphack.html)|`2025-05-20 23:16:00`|`Other MMORPG and Strategy`|
 |[Why do I only see externals here?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/700736-externals.html)|`2025-05-20 23:11:00`|`Counter-Strike 2`|
