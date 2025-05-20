@@ -12,6 +12,7 @@
 |25|[Darkest Days Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/700489-darkest-days-internal.html)|`2025-05-20 00:16:55`|`other-fps-games`|
 |6|[YimMenuV2 &#40;will update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701009-yimmenuv2-update.html)|`2025-05-20 00:16:55`|`grand-theft-auto-v`|
 |40|[Updated Offsets Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701258-updated-offsets-discussion.html)|`2025-05-20 11:32:54`|`valorant`|
+|2|[Gta 5 Legacy/Enhanced mod menus](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700803-gta-5-legacy-enhanced-mod-menus.html)|`2025-05-20 13:12:21`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Modern Warfare III Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/605287-call-duty-modern-warfare-iii-reversal-structs-offsets.html)|`2025-05-20 13:10:00`|`Call of Duty: Modern Warfare III`|
+|[V&#45;Rising ESP &#40;Updated 1&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/639282-rising-esp-updated-1-0-a.html)|`2025-05-20 12:56:00`|`Other MMORPG and Strategy`|
+|[Fishing macro for "E"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/701289-fishing-macro.html)|`2025-05-20 12:56:00`|`Alternative Online Mods`|
 |[bones, real hitbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/695216-bones-real-hitbox.html)|`2025-05-20 12:09:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[XEX external v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/698574-xex-external-v2.html)|`2025-05-20 11:36:00`|`Apex Legends`|
 |[Handle Hijacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701367-handle-hijacking.html)|`2025-05-20 11:15:00`|`Counter-Strike 2`|
