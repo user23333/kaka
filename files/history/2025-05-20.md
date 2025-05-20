@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hijacking Rivatuner or Nvidia Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/701387-hijacking-rivatuner-nvidia-overlay.html)|`2025-05-20 17:06:00`|`PUBG Mobile`|
 |[Is there any Heist Editor thing for Enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701383-heist-editor-enhanced.html)|`2025-05-20 16:38:00`|`Grand Theft Auto V`|
 |[Star Citizen SDK Generator &#40;Not Full SDK&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/692382-star-citizen-sdk-generator-sdk.html)|`2025-05-20 16:35:00`|`Other FPS Games`|
 |[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2025-05-20 16:09:00`|`Other MMORPG and Strategy`|
