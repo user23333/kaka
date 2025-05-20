@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AC Blocker RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/691938-ac-blocker-release.html)|`2025-05-20 10:40:00`|`Call of Duty: Black Ops 6`|
+|[Draw Skeletons drop to 1 fps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/696800-draw-skeletons-drop-1-fps.html)|`2025-05-20 10:32:00`|`Rust`|
+|[About Frida](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/701088-frida.html)|`2025-05-20 10:05:00`|`HELLDIVERS 2`|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-05-20 10:01:00`|`Farlight 84`|
 |[how to apply offsets correctly and tell if pointer or normal?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693363-apply-offsets-correctly-tell-pointer-normal.html)|`2025-05-20 08:44:00`|`Counter-Strike 2`|
 |[GTA ONLINE ENHANCED ALL AWARDS STATS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701294-gta-online-enhanced-awards-stats.html)|`2025-05-20 08:24:00`|`Grand Theft Auto V`|
 |[Rust Anti Cheat Update Blocks Virtual Mouse Input&#46; Any Workarounds?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/700839-rust-anti-cheat-update-blocks-virtual-mouse-input-workarounds.html)|`2025-05-20 08:15:00`|`Rust`|
