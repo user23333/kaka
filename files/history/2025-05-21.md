@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Ban Evasion IPv6 IP Change](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701401-rust-ban-evasion-ipv6-ip-change.html)|`2025-05-21 07:38:00`|`Rust`|
+|[Jeff Injector &#45; Insta Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/701455-jeff-injector-insta-ban.html)|`2025-05-21 07:38:00`|`Marvel Rivals`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-05-21 07:36:00`|`Counter-Strike 2`|
 |[FPS Drop with Agent Models &#40;Skinchanger&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/700795-fps-drop-agent-models-skinchanger.html)|`2025-05-21 07:33:00`|`Counter-Strike 2`|
 |[EAC disables my DMA card when joining a server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701224-eac-disables-dma-card-joining-server.html)|`2025-05-21 07:28:00`|`Rust`|
