@@ -11,6 +11,7 @@
 |16|[Has the Windows driver signature been cracked?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700793-windows-driver-signature-cracked.html)|`2025-05-20 00:16:55`|`anti-cheat-bypass`|
 |25|[Darkest Days Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/700489-darkest-days-internal.html)|`2025-05-20 00:16:55`|`other-fps-games`|
 |6|[YimMenuV2 &#40;will update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701009-yimmenuv2-update.html)|`2025-05-20 00:16:55`|`grand-theft-auto-v`|
+|40|[Updated Offsets Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701258-updated-offsets-discussion.html)|`2025-05-20 11:32:54`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Handle Hijacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701367-handle-hijacking.html)|`2025-05-20 11:15:00`|`Counter-Strike 2`|
+|[Delay ban after 7 days from spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700692-delay-ban-7-days-spoofing.html)|`2025-05-20 10:53:00`|`Valorant`|
+|[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-05-20 10:48:00`|`Other FPS Games`|
 |[AC Blocker RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/691938-ac-blocker-release.html)|`2025-05-20 10:40:00`|`Call of Duty: Black Ops 6`|
 |[Draw Skeletons drop to 1 fps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/696800-draw-skeletons-drop-1-fps.html)|`2025-05-20 10:32:00`|`Rust`|
 |[About Frida](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/701088-frida.html)|`2025-05-20 10:05:00`|`HELLDIVERS 2`|
