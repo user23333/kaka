@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hijacking Rivatuner or Nvidia Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/701387-hijacking-rivatuner-nvidia-overlay.html)|`2025-05-21 04:39:00`|`PUBG Mobile`|
 |[Jackpot Slots Lua E&E &#45; Nenyooo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700161-jackpot-slots-lua-nenyooo.html)|`2025-05-21 04:31:00`|`Grand Theft Auto V`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-05-21 04:22:00`|`Other FPS Games`|
 |[Is the experimental version changing the new game engine?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/700690-experimental-version-changing-game-engine.html)|`2025-05-21 04:13:00`|`DayZ SA`|
