@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[An ImGui&#45;less way to get window width & height](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701333-imgui-window-width-height.html)|`2025-05-21 01:55:00`|`Counter-Strike 2`|
+|[ingame font loading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701428-ingame-font-loading.html)|`2025-05-21 01:54:00`|`Rust`|
 |[SEOwned x64 fixed for new tf2 update&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/691125-seowned-x64-fixed-tf2-update.html)|`2025-05-21 01:47:00`|`Team Fortress 2`|
 |[Skin changer Apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/698592-skin-changer-apex.html)|`2025-05-21 01:40:00`|`Apex Legends`|
 |[&#91;UPCOMING&#93; Valorant Kernel Triggerbot – External & Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701010-upcoming-valorant-kernel-triggerbot-external-undetected.html)|`2025-05-21 01:39:00`|`Valorant`|
