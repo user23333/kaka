@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Skin changer Apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/698592-skin-changer-apex.html)|`2025-05-21 01:40:00`|`Apex Legends`|
+|[&#91;UPCOMING&#93; Valorant Kernel Triggerbot – External & Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701010-upcoming-valorant-kernel-triggerbot-external-undetected.html)|`2025-05-21 01:39:00`|`Valorant`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-05-21 01:36:00`|`Playerunknown's Battlegrounds`|
+|[Car Customization tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699161-car-customization-tool.html)|`2025-05-21 01:28:00`|`Grand Theft Auto V`|
 |[Help with argument to call game function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/701425-help-argument-call-game-function.html)|`2025-05-21 01:20:00`|`Forum General`|
 |[QuasarDMA Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/697510-quasardma-update.html)|`2025-05-21 01:18:00`|`Rust`|
 |[Anti&#45;Report Bullet Track Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/701424-anti-report-bullet-track-bypass.html)|`2025-05-21 01:15:00`|`PUBG Mobile`|
