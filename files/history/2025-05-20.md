@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Titanfall 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/191976-titanfall-2-reversal-structs-offsets.html)|`2025-05-20 15:04:00`|`Titanfall`|
 |[What communication method is more stable in PUBG now](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700683-communication-method-stable-pubg.html)|`2025-05-20 14:33:00`|`Anti-Cheat Bypass`|
 |[how to make fakelag in CS2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701371-fakelag-cs2.html)|`2025-05-20 14:14:00`|`Counter-Strike 2`|
 |[Mac OS inject cheat good](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/699210-mac-os-inject-cheat.html)|`2025-05-20 13:57:00`|`Garry's Mod`|
