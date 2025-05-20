@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fade Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701115-fade-chams.html)|`2025-05-20 15:26:00`|`Valorant`|
+|[Need Gameloop Ban Fixer and Guest Reset Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/701378-gameloop-ban-fixer-guest-reset-tool.html)|`2025-05-20 15:25:00`|`PUBG Mobile`|
+|[How to get entity?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/701377-entity.html)|`2025-05-20 15:25:00`|`Apex Legends`|
 |[Titanfall 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/191976-titanfall-2-reversal-structs-offsets.html)|`2025-05-20 15:04:00`|`Titanfall`|
 |[What communication method is more stable in PUBG now](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700683-communication-method-stable-pubg.html)|`2025-05-20 14:33:00`|`Anti-Cheat Bypass`|
 |[how to make fakelag in CS2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701371-fakelag-cs2.html)|`2025-05-20 14:14:00`|`Counter-Strike 2`|
