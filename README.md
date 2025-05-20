@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help with argument to call game function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/701425-help-argument-call-game-function.html)|`2025-05-21 01:20:00`|`Forum General`|
+|[QuasarDMA Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/697510-quasardma-update.html)|`2025-05-21 01:18:00`|`Rust`|
+|[Anti&#45;Report Bullet Track Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/701424-anti-report-bullet-track-bypass.html)|`2025-05-21 01:15:00`|`PUBG Mobile`|
+|[is this done by hacker or it's just a server side bug?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/701350-hacker-server-bug.html)|`2025-05-21 01:09:00`|`Combat Arms`|
 |[Aimbot Humanization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701420-aimbot-humanization.html)|`2025-05-21 01:07:00`|`Counter-Strike 2`|
 |[RIP older Windows Driver Kits &#40;WDK&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/701422-rip-windows-driver-kits-wdk.html)|`2025-05-21 01:03:00`|`Forum General`|
 |[Hell Let Loose DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/701419-hell-loose-dma.html)|`2025-05-21 00:53:00`|`Other FPS Games`|
