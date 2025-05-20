@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DARKEST DAYS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697870-darkest-days-reversal-structs-offsets.html)|`2025-05-20 15:39:00`|`Other FPS Games`|
 |[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-05-20 15:31:00`|`Other FPS Games`|
 |[Fade Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701115-fade-chams.html)|`2025-05-20 15:26:00`|`Valorant`|
 |[Need Gameloop Ban Fixer and Guest Reset Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/701378-gameloop-ban-fixer-guest-reset-tool.html)|`2025-05-20 15:25:00`|`PUBG Mobile`|
