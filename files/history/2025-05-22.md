@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to Grind infinit HG Wins, Levels and Money](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/680032-grind-infinit-hg-wins-levels-money.html)|`2025-05-22 05:11:00`|`Sea of Thieves`|
 |[Better Sunoki's fully updated TriggerBot &#43; Mafia4321x's Spoofer &#43; Cc's TB launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701603-sunokis-updated-triggerbot-mafia4321xs-spoofer-ccs-tb-launcher.html)|`2025-05-22 04:55:00`|`Valorant`|
 |[GlobalVars nullptr](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701150-globalvars-nullptr.html)|`2025-05-22 04:46:00`|`Counter-Strike 2`|
 |[Fast And Simple Triggerbot &#40;ASM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698448-fast-simple-triggerbot-asm.html)|`2025-05-22 04:42:00`|`Valorant`|
