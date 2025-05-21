@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Updated Offsets Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701258-updated-offsets-discussion.html)|`2025-05-22 01:48:00`|`Valorant`|
+|[Is ~5&#46;6% CPU usage normal for a cheat with multiple memory&#45;read threads?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701536-5-6-cpu-usage-normal-cheat-multiple-memory-read-threads.html)|`2025-05-22 01:47:00`|`Counter-Strike 2`|
+|[Please tell me how to join Discord on this site&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/699330-please-tell-join-discord-site.html)|`2025-05-22 01:46:00`|`Forum General`|
+|[G hub app](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/698143-hub-app.html)|`2025-05-22 01:45:00`|`Forum General`|
 |[DMA Fuser Display](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/700400-dma-fuser-display.html)|`2025-05-22 01:40:00`|`Forum General`|
 |[Simple cheat question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/701413-simple-cheat-question.html)|`2025-05-22 01:39:00`|`Forum General`|
 |[is battleye detecting topmost windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701236-battleye-detecting-topmost-windows.html)|`2025-05-22 01:37:00`|`Anti-Cheat Bypass`|
