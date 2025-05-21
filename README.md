@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cracking a cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/701616-cracking-cheat.html)|`2025-05-22 06:52:00`|`General Programming and Reversing`|
 |[How script dumping works ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/701074-script-dumping.html)|`2025-05-22 06:45:00`|`Garry's Mod`|
 |["Ghost client" for lunar client 1&#46;8&#46;9 &#40;forge&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/700386-ghost-client-lunar-client-1-8-9-forge.html)|`2025-05-22 06:40:00`|`Minecraft`|
 |[&#124; DeadLock Cheat &#124;&#124; Scripts &#124;&#124; Auto&#45;Updating &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/693609-deadlock-cheat-scripts-auto-updating.html)|`2025-05-22 06:35:00`|`Deadlock`|
