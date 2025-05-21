@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Complete noob here &#40;gta online legacy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700910-complete-noob-gta-online-legacy.html)|`2025-05-22 03:46:00`|`Grand Theft Auto V`|
 |[&#91;UPCOMING&#93; Valorant Kernel Triggerbot – External & Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701010-upcoming-valorant-kernel-triggerbot-external-undetected.html)|`2025-05-22 03:20:00`|`Valorant`|
 |[GM Fatal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/701093-gm-fatal.html)|`2025-05-22 03:18:00`|`Garry's Mod`|
 |[illusionary](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701354-illusionary.html)|`2025-05-22 02:54:00`|`Counter-Strike 2`|
