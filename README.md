@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[grenade esp help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701613-grenade-esp-help.html)|`2025-05-22 06:30:00`|`Counter-Strike 2`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-05-22 06:30:00`|`Escape from Tarkov`|
+|[Reliable income opportunities&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/700635-reliable-income-opportunities.html)|`2025-05-22 06:28:00`|`Off Topic`|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-05-22 06:27:00`|`Other FPS Games`|
+|[unlock all bypass??;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700016-unlock-bypass.html)|`2025-05-22 06:16:00`|`Call of Duty: Black Ops 6`|
 |[&#91;LINUX&#93; External Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/696976-linux-external-multihack.html)|`2025-05-22 06:01:00`|`Counter-Strike 2 Releases`|
 |[About Rigel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/701544-rigel.html)|`2025-05-22 05:27:00`|`Overwatch`|
 |[Lsass Access](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/700993-lsass-access.html)|`2025-05-22 05:26:00`|`Alternative Online Mods`|
