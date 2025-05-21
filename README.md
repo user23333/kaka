@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Recoil Table Changes Teachings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/698991-rust-recoil-table-changes-teachings.html)|`2025-05-21 08:49:00`|`Rust`|
+|[GTA V E&E broken progression fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695572-gta-broken-progression-fix.html)|`2025-05-21 08:48:00`|`Grand Theft Auto V`|
+|[MetalStorm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701459-metalstorm.html)|`2025-05-21 08:46:00`|`Other MMORPG and Strategy`|
+|[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-05-21 08:29:00`|`HELLDIVERS 2`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-05-21 08:28:00`|`Rainbow Six Siege`|
 |[PAGE&#95;NOACCESS Bypass, Full Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701296-page_noaccess-bypass-dump.html)|`2025-05-21 07:54:00`|`Anti-Cheat Bypass`|
 |[FiveM Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/698583-fivem-dumper.html)|`2025-05-21 07:50:00`|`Alternative Online Mods`|
 |[Theia static decryptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696332-theia-static-decryptor.html)|`2025-05-21 07:50:00`|`Anti-Cheat Bypass`|
