@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Skybox color changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693099-skybox-color-changer.html)|`2025-05-21 21:35:00`|`Counter-Strike 2`|
+|[esp source update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/701545-esp-source-update.html)|`2025-05-21 21:12:00`|`PUBG Mobile`|
+|[About Rigel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/701544-rigel.html)|`2025-05-21 21:12:00`|`Overwatch`|
 |[Bo6 internal source stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/693560-bo6-internal-source-stuff.html)|`2025-05-21 21:03:00`|`Call of Duty: Black Ops 6`|
 |[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2025-05-21 20:53:00`|`Elite: Dangerous`|
 |[Recoil scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/699848-recoil-scripts.html)|`2025-05-21 20:52:00`|`THE FINALS`|
