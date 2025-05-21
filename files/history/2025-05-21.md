@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/696538-vigor-internal-cheat.html)|`2025-05-21 21:51:00`|`Other FPS Games`|
 |[new](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/701546-new.html)|`2025-05-21 21:36:00`|`Introductions`|
 |[Skybox color changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693099-skybox-color-changer.html)|`2025-05-21 21:35:00`|`Counter-Strike 2`|
 |[esp source update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/701545-esp-source-update.html)|`2025-05-21 21:12:00`|`PUBG Mobile`|
