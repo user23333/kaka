@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-05-22 00:32:00`|`Counter-Strike 2`|
+|[update asphyxia base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701569-update-asphyxia-base.html)|`2025-05-22 00:30:00`|`Counter-Strike 2`|
+|[tampermonkey BOTLOBBY SCRIPT XBOX CLOUD / GeForce NOW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700634-tampermonkey-botlobby-script-xbox-cloud-geforce.html)|`2025-05-22 00:29:00`|`Call of Duty: Black Ops 6`|
+|[NVIDIA GPU NVFBC SCREEN CAPTURE C&#43;&#43; PIXELBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699814-nvidia-gpu-nvfbc-screen-capture-pixelbot.html)|`2025-05-22 00:27:00`|`Valorant`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-05-22 00:26:00`|`Call of Duty: Black Ops 6`|
+|[VALORANT VAN 5 NEW HDD ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701568-valorant-van-5-hdd.html)|`2025-05-22 00:23:00`|`Valorant`|
+|[i need fix 1 day 64 bit pubg mobile gl](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/701567-fix-1-day-64-bit-pubg-mobile-gl.html)|`2025-05-22 00:22:00`|`PUBG Mobile`|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2025-05-22 00:20:00`|`Deadlock`|
+|[TPM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/649260-tpm-spoofer.html)|`2025-05-22 00:19:00`|`Valorant`|
 |[Meow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699145-meow.html)|`2025-05-22 00:08:00`|`Marvel Rivals`|
 |[Complete Anti&#45;Cheat BYPASS &#40;&#43;ONLINE&#43;INJECTOR&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/701513-complete-anti-cheat-bypass-online-injector.html)|`2025-05-22 00:02:00`|`Marvel Rivals`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-05-21 23:59:00`|`Other FPS Games`|
