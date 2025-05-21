@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA Fuser Display](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/700400-dma-fuser-display.html)|`2025-05-22 01:40:00`|`Forum General`|
+|[Simple cheat question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/701413-simple-cheat-question.html)|`2025-05-22 01:39:00`|`Forum General`|
+|[is battleye detecting topmost windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701236-battleye-detecting-topmost-windows.html)|`2025-05-22 01:37:00`|`Anti-Cheat Bypass`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-05-22 01:36:00`|`Marvel Rivals`|
 |[Any free way to spoof?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/700477-free-spoof.html)|`2025-05-22 01:31:00`|`Rust`|
 |[HX cheats mod menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/701574-hx-cheats-mod-menu.html)|`2025-05-22 01:26:00`|`Alternative Online Mods`|
 |[EAC disables my DMA card when joining a server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701224-eac-disables-dma-card-joining-server.html)|`2025-05-22 01:23:00`|`Rust`|
