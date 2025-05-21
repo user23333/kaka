@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[high risk ban fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/701579-risk-ban-fix.html)|`2025-05-22 02:11:00`|`PUBG Mobile`|
+|[Russian TuT vpn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/701552-russian-tut-vpn.html)|`2025-05-22 02:09:00`|`Escape from Tarkov`|
+|[GTA5&#95;Enchanced Basic DMA Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689945-gta5_enchanced-basic-dma-tool.html)|`2025-05-22 02:05:00`|`Grand Theft Auto V`|
 |[Updated Offsets Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701258-updated-offsets-discussion.html)|`2025-05-22 01:48:00`|`Valorant`|
 |[Is ~5&#46;6% CPU usage normal for a cheat with multiple memory&#45;read threads?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701536-5-6-cpu-usage-normal-cheat-multiple-memory-read-threads.html)|`2025-05-22 01:47:00`|`Counter-Strike 2`|
 |[Please tell me how to join Discord on this site&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/699330-please-tell-join-discord-site.html)|`2025-05-22 01:46:00`|`Forum General`|
