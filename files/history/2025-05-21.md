@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bo6 internal source stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/693560-bo6-internal-source-stuff.html)|`2025-05-21 21:03:00`|`Call of Duty: Black Ops 6`|
+|[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2025-05-21 20:53:00`|`Elite: Dangerous`|
+|[Recoil scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/699848-recoil-scripts.html)|`2025-05-21 20:52:00`|`THE FINALS`|
 |[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-05-21 20:26:00`|`Grand Theft Auto V`|
 |[Is ~5&#46;6% CPU usage normal for a cheat with multiple memory&#45;read threads?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701536-5-6-cpu-usage-normal-cheat-multiple-memory-read-threads.html)|`2025-05-21 20:16:00`|`Counter-Strike 2`|
 |[safe aimbot arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701270-safe-aimbot-arduino.html)|`2025-05-21 20:12:00`|`Valorant`|
