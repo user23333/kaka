@@ -27,9 +27,18 @@
 |91|[No&#95;signed&#95;file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49788)|`2025-05-21 00:22:39`|
 |1|[SeOwned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49793)|`2025-05-21 03:22:50`|
 |2|[HorizonPlugin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49809)|`2025-05-21 03:43:04`|
+|3|[prestige 9 level 70](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49816)|`2025-05-21 11:28:01`|
+|3|[Outlast Trials Tool &#45; V1&#46;01](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49815)|`2025-05-21 11:28:01`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead Island 2 / Frisla Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/583251-dead-island-2-frisla-menu.html)|`2025-05-21 10:50:00`|`Other FPS Games`|
+|[No Recoil G&#45;Hub Lua for Rainbow Six Siege](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/701449-recoil-hub-lua-rainbow-six-siege.html)|`2025-05-21 10:43:00`|`Rainbow Six Siege`|
+|[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-05-21 10:42:00`|`Other FPS Games`|
+|[Inject cheats on GTA 5 &#40;e&e&#41; using XBOX app?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701504-inject-cheats-gta-5-using-xbox-app.html)|`2025-05-21 10:42:00`|`Grand Theft Auto V`|
+|[i need hook&#46;cpp or hook&#46;h file pubg gl 64 bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/701503-hook-cpp-hook-file-pubg-gl-64-bit.html)|`2025-05-21 10:41:00`|`PUBG Mobile`|
+|[Amalgam VAC Ban Risk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/701085-amalgam-vac-ban-risk.html)|`2025-05-21 10:38:00`|`Team Fortress 2`|
+|[hows arduino colorbotting state rn?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700830-hows-arduino-colorbotting-rn.html)|`2025-05-21 10:33:00`|`Valorant`|
 |[Osussist v3 MultiHack for osu&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/671577-osussist-v3-multihack-osu.html)|`2025-05-21 10:22:00`|`Other Games`|
 |[Destiny 2 Cheat Table &#43; Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680045-destiny-2-cheat-table-cheat-engine.html)|`2025-05-21 10:11:00`|`Other FPS Games`|
 |[How can i run movement scripts without lghub](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/696724-run-movement-scripts-lghub.html)|`2025-05-21 10:03:00`|`Apex Legends`|
