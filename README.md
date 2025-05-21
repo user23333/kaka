@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fast And Simple Triggerbot &#40;ASM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698448-fast-simple-triggerbot-asm.html)|`2025-05-22 04:42:00`|`Valorant`|
+|[skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701602-skin-changer.html)|`2025-05-22 04:37:00`|`Counter-Strike 2`|
 |[One armed robber ESP/NOCLIP/XP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/701597-armed-robber-esp-noclip-xp.html)|`2025-05-22 04:17:00`|`Other FPS Games`|
 |[Moonlight / sunshine help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/701596-moonlight-sunshine-help.html)|`2025-05-22 04:12:00`|`Escape from Tarkov`|
 |[DARKEST DAYS &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699687-darkest-days-internal.html)|`2025-05-22 04:12:00`|`Other FPS Games`|
