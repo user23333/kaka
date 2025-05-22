@@ -33,6 +33,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SmmInfect &#45; Smm Backdoor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664482-smminfect-smm-backdoor.html)|`2025-05-22 22:17:00`|`Anti-Cheat Bypass`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-05-22 22:13:00`|`Grand Theft Auto V`|
+|[Touch of death](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/701706-touch-death.html)|`2025-05-22 22:11:00`|`Sea of Thieves`|
+|[Fade Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701115-fade-chams.html)|`2025-05-22 22:08:00`|`Valorant`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-05-22 22:06:00`|`Rust`|
+|[Replay Glitch&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701705-replay-glitch.html)|`2025-05-22 22:06:00`|`Grand Theft Auto V`|
+|[Polygon Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/701704-polygon-offsets.html)|`2025-05-22 21:59:00`|`Other FPS Games`|
 |[Car Customization tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699161-car-customization-tool.html)|`2025-05-22 21:46:00`|`Grand Theft Auto V`|
 |[Insanely fast triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/701254-insanely-fast-triggerbot.html)|`2025-05-22 21:43:00`|`Other FPS Games`|
 |[TOP MACRO Logitech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668884-top-macro-logitech.html)|`2025-05-22 21:41:00`|`Rust`|
