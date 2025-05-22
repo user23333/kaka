@@ -25,9 +25,12 @@
 |44|[darkest days](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49803)|`2025-05-23 00:17:01`|
 |24|[VACModuleDumper&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49802)|`2025-05-23 00:17:01`|
 |1|[fearmp hack&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49808)|`2025-05-23 04:35:05`|
+|1|[MasterRobber122](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49824)|`2025-05-23 05:38:02`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[One armed robber ESP/NOCLIP/XP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/701597-armed-robber-esp-noclip-xp.html)|`2025-05-23 05:37:00`|`Other FPS Games`|
+|[Rust 1ms Recoil Script using HID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701732-rust-1ms-recoil-script-using-hid.html)|`2025-05-23 05:37:00`|`Rust`|
 |[Rust script using arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701440-rust-script-using-arduino.html)|`2025-05-23 05:23:00`|`Rust`|
 |[Is rust actually viable for game hacking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust-language-/685138-rust-actually-viable-game-hacking.html)|`2025-05-23 05:17:00`|`Rust (Language)`|
 |[GTAVTool &#45; Replay Glitch Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/636267-gtavtool-replay-glitch-tool.html)|`2025-05-23 05:13:00`|`Grand Theft Auto V`|
