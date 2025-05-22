@@ -25,9 +25,14 @@
 |77|[AHKtriggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49800)|`2025-05-22 00:11:07`|
 |54|[MW3 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49799)|`2025-05-22 00:11:07`|
 |154|[Rust Cheat Soruce](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49798)|`2025-05-22 00:11:07`|
+|1|[VoidCrewCheatSource&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49828)|`2025-05-22 08:55:32`|
+|1|[VoidCrew&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49827)|`2025-05-22 08:55:32`|
+|3|[FluffBot420&#95;v1&#46;7&#95;BETA&#95;&#35;9&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49821)|`2025-05-22 08:55:32`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Void Crew](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/601334-void-crew.html)|`2025-05-22 08:42:00`|`Other Games`|
+|[CS2 AntiAim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701657-cs2-antiaim.html)|`2025-05-22 08:32:00`|`Counter-Strike 2`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-05-22 07:48:00`|`Escape from Tarkov`|
 |[I hate being low IQ, everything takes 3x longer to learn&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/700882-hate-low-iq-takes-3x-learn.html)|`2025-05-22 07:38:00`|`Off Topic`|
 |[Insert Globals in YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701650-insert-globals-yimmenu.html)|`2025-05-22 07:23:00`|`Grand Theft Auto V`|
