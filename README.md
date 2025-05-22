@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust script using arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701440-rust-script-using-arduino.html)|`2025-05-23 05:23:00`|`Rust`|
+|[Is rust actually viable for game hacking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust-language-/685138-rust-actually-viable-game-hacking.html)|`2025-05-23 05:17:00`|`Rust (Language)`|
 |[GTAVTool &#45; Replay Glitch Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/636267-gtavtool-replay-glitch-tool.html)|`2025-05-23 05:13:00`|`Grand Theft Auto V`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-05-23 04:50:00`|`Other Games`|
 |[Car Customization tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699161-car-customization-tool.html)|`2025-05-23 04:38:00`|`Grand Theft Auto V`|
