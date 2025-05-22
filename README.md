@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-05-22 23:38:00`|`DayZ SA`|
+|[WAW ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-5-world-at-war/455184-waw-esp.html)|`2025-05-22 23:38:00`|`Call of Duty 5: World at War`|
 |[HWID Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701712-hwid-question.html)|`2025-05-22 23:23:00`|`Anti-Cheat Bypass`|
 |[V Rising 1&#46;1 ESP Updated&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701393-rising-1-1-esp-updated.html)|`2025-05-22 23:17:00`|`Other MMORPG and Strategy`|
 |[Any way to get yprac for free?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701709-yprac-free.html)|`2025-05-22 23:08:00`|`Counter-Strike 2`|
