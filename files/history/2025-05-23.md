@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-05-23 05:42:00`|`Other FPS Games`|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2025-05-23 05:39:00`|`Valorant`|
 |[One armed robber ESP/NOCLIP/XP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/701597-armed-robber-esp-noclip-xp.html)|`2025-05-23 05:37:00`|`Other FPS Games`|
 |[Rust 1ms Recoil Script using HID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701732-rust-1ms-recoil-script-using-hid.html)|`2025-05-23 05:37:00`|`Rust`|
 |[Rust script using arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701440-rust-script-using-arduino.html)|`2025-05-23 05:23:00`|`Rust`|
