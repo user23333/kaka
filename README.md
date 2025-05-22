@@ -11,6 +11,7 @@
 |11|[&#91;UPCOMING&#93; Valorant Kernel Triggerbot – External & Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701010-upcoming-valorant-kernel-triggerbot-external-undetected.html)|`2025-05-23 00:17:01`|`valorant`|
 |14|[GTA ONLINE ENHANCED ALL AWARDS STATS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701294-gta-online-enhanced-awards-stats.html)|`2025-05-23 00:17:01`|`grand-theft-auto-v`|
 |21|[Starting my Cheat Dev journey&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701089-starting-cheat-dev-journey.html)|`2025-05-23 00:17:01`|`rust`|
+|21|[Logitech Script Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701450-logitech-script-bypass.html)|`2025-05-23 06:56:34`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
