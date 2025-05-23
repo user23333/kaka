@@ -29,9 +29,16 @@
 |1|[MasterRobber122](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49824)|`2025-05-23 05:38:02`|
 |2|[5&#46;3&#46;2&#45;1933977&#43;&#43;&#43;S2&#95;1&#95;release&#45;Marvel Rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49830)|`2025-05-23 08:59:04`|
 |1|[MeowAssist&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49829)|`2025-05-23 08:59:04`|
+|2|[horizon plugin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49833)|`2025-05-23 10:40:50`|
+|1|[ZeroUpdate&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49826)|`2025-05-23 10:40:50`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Function String Associate IDA 9&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/700481-function-string-associate-ida-9-1-a.html)|`2025-05-23 10:16:00`|`General Programming and Reversing`|
+|[Dead By Daylight Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694248-dead-daylight-internal.html)|`2025-05-23 10:03:00`|`Other FPS Games`|
+|["Ghost client" for lunar client 1&#46;8&#46;9 &#40;forge&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/700386-ghost-client-lunar-client-1-8-9-forge.html)|`2025-05-23 09:56:00`|`Minecraft`|
+|[I Bypassed EAC, any questions ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701722-bypassed-eac-questions.html)|`2025-05-23 09:55:00`|`Anti-Cheat Bypass`|
+|[aimbot visibility check with m&#95;bSpotted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/698445-aimbot-visibility-check-m_bspotted.html)|`2025-05-23 09:03:00`|`Counter-Strike 2`|
 |[Meow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699145-meow.html)|`2025-05-23 08:53:00`|`Marvel Rivals`|
 |[Rust Recoil Table Changes Teachings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/698991-rust-recoil-table-changes-teachings.html)|`2025-05-23 08:50:00`|`Rust`|
 |[Insanely fast triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/701254-insanely-fast-triggerbot.html)|`2025-05-23 08:41:00`|`Other FPS Games`|
