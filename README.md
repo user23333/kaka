@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead Player ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/701438-dead-player-esp.html)|`2025-05-23 21:23:00`|`Call of Duty: Black Ops 6`|
+|[&#124; DeadLock Cheat &#124;&#124; Scripts &#124;&#124; Auto&#45;Updating &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/693609-deadlock-cheat-scripts-auto-updating.html)|`2025-05-23 21:06:00`|`Deadlock`|
 |[For Honor AFK AHK script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701810-honor-afk-ahk-script.html)|`2025-05-23 20:45:00`|`Other MMORPG and Strategy`|
 |[Pubg Mobile hax source code&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/701809-pubg-mobile-hax-source-code.html)|`2025-05-23 20:45:00`|`PUBG Mobile`|
 |[Logitech Script Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701450-logitech-script-bypass.html)|`2025-05-23 20:44:00`|`Rust`|
