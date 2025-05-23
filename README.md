@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TraceShape/Visiblity Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701812-traceshape-visiblity-check.html)|`2025-05-24 06:40:00`|`Counter-Strike 2`|
+|[Rambling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/701346-rambling.html)|`2025-05-24 06:37:00`|`Off Topic`|
 |[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-05-24 06:29:00`|`Sea of Thieves`|
 |[arduino leonardo &#43; host shield overwatch 2 color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/701776-arduino-leonardo-host-shield-overwatch-2-color-aimbot.html)|`2025-05-24 06:25:00`|`Overwatch`|
 |[League Kiting DMA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/701865-league-kiting-dma.html)|`2025-05-24 06:25:00`|`League of Legends`|
