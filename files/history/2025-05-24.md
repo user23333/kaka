@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[triggerbots dead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701703-triggerbots-dead.html)|`2025-05-24 04:17:00`|`Valorant`|
+|[How to get entity?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/701377-entity.html)|`2025-05-24 04:14:00`|`Apex Legends`|
+|[Are there XP mods?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/701821-xp-mods.html)|`2025-05-24 04:04:00`|`Star Wars Battlefront 2`|
+|[PUBG Experience &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/693901-pubg-experience-dma.html)|`2025-05-24 03:58:00`|`Playerunknown's Battlegrounds`|
 |[Gray Zone Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/634880-gray-zone-warfare-reversal-structs-offsets.html)|`2025-05-24 03:58:00`|`Other FPS Games`|
 |[HWID Spoof?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701845-hwid-spoof.html)|`2025-05-24 03:54:00`|`Valorant`|
 |[Undetectable among us Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/637492-undetectable-cheat.html)|`2025-05-24 03:54:00`|`Among Us`|
