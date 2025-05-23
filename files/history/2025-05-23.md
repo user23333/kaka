@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-05-23 18:13:00`|`Grand Theft Auto V`|
+|[Why drivers are vulnerable?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/701800-drivers-vulnerable.html)|`2025-05-23 18:07:00`|`General Programming and Reversing`|
+|[SMM Driver Detection Vectors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701694-smm-driver-detection-vectors.html)|`2025-05-23 17:59:00`|`Anti-Cheat Bypass`|
 |[Pattern lua&#95;shared&#46;dll gmod x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/701719-pattern-lua_shared-dll-gmod-x64.html)|`2025-05-23 17:41:00`|`Garry's Mod`|
 |[esp source update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/701545-esp-source-update.html)|`2025-05-23 16:52:00`|`PUBG Mobile`|
 |[tick lost or correction? the bullet missed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701794-tick-lost-correction-bullet-missed.html)|`2025-05-23 16:44:00`|`Counter-Strike 2`|
