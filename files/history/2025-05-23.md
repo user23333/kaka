@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-05-23 18:23:00`|`League of Legends`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-05-23 18:13:00`|`Grand Theft Auto V`|
 |[Why drivers are vulnerable?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/701800-drivers-vulnerable.html)|`2025-05-23 18:07:00`|`General Programming and Reversing`|
 |[SMM Driver Detection Vectors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701694-smm-driver-detection-vectors.html)|`2025-05-23 17:59:00`|`Anti-Cheat Bypass`|
