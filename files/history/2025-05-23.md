@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pattern lua&#95;shared&#46;dll gmod x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/701719-pattern-lua_shared-dll-gmod-x64.html)|`2025-05-23 17:41:00`|`Garry's Mod`|
 |[esp source update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/701545-esp-source-update.html)|`2025-05-23 16:52:00`|`PUBG Mobile`|
 |[tick lost or correction? the bullet missed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701794-tick-lost-correction-bullet-missed.html)|`2025-05-23 16:44:00`|`Counter-Strike 2`|
 |[Chivalry 2 Heaveyweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689993-chivalry-2-heaveyweight-cheat.html)|`2025-05-23 16:36:00`|`Other Games`|
