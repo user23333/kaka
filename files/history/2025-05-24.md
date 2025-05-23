@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Easiest way to hide from EnumWindows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701870-easiest-hide-enumwindows.html)|`2025-05-24 07:18:00`|`Anti-Cheat Bypass`|
 |[Dumper&#45;7 Not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/701774-dumper-7-a.html)|`2025-05-24 06:53:00`|`Splitgate`|
 |[External Farlight 84 Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/661656-external-farlight-84-free-cheat.html)|`2025-05-24 06:42:00`|`Farlight 84`|
 |[TraceShape/Visiblity Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701812-traceshape-visiblity-check.html)|`2025-05-24 06:40:00`|`Counter-Strike 2`|
