@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[need some good cheat advice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701791-cheat-advice.html)|`2025-05-23 15:04:00`|`Valorant`|
+|[Any working Genshin Impact Cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/701790-genshin-impact-cheats.html)|`2025-05-23 15:02:00`|`Genshin Impact`|
+|[Driver IOCTL Communication Interrupted by EAC in Apex Legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/701549-driver-ioctl-communication-interrupted-eac-apex-legends.html)|`2025-05-23 14:57:00`|`Apex Legends`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-05-23 14:53:00`|`Apex Legends`|
 |[Regarding the attempt to modify the attack speed in Drakensang Online&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/691143-regarding-attempt-modify-attack-speed-drakensang-online.html)|`2025-05-23 14:25:00`|`Other MMORPG and Strategy`|
 |[LEADERBOARDS AND MINIGAME STATS IN GTA ONLINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701786-leaderboards-minigame-stats-gta-online.html)|`2025-05-23 14:05:00`|`Grand Theft Auto V`|
