@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-05-24 01:56:00`|`Other Games`|
 |[Fast And Simple Triggerbot &#40;ASM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698448-fast-simple-triggerbot-asm.html)|`2025-05-24 01:46:00`|`Valorant`|
 |[Brawlhalla Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/690162-brawlhalla-offsets.html)|`2025-05-24 01:44:00`|`Other Games`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-05-24 01:29:00`|`Apex Legends`|
