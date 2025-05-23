@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;GHUB&#93; Mouse&Keyboard Lib &#91;C&#43;&#43;&#93;&#91;LogiCVE&#93;&#91;GFCK&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/680315-ghub-mouse-keyboard-lib-logicve-gfck.html)|`2025-05-24 05:48:00`|`C and C++`|
 |[Read only ab with c&#35;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701864-read-ab.html)|`2025-05-24 05:40:00`|`Counter-Strike 2`|
 |[TarkovGUI &#124; PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/694944-tarkovgui-pve.html)|`2025-05-24 05:38:00`|`Escape from Tarkov`|
 |[Genshin İmpact Shika Cheat 5&#46;0&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/660051-genshin-mpact-shika-cheat-5-0-0-1-a.html)|`2025-05-24 05:36:00`|`Genshin Impact`|
