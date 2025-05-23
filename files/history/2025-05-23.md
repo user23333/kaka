@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[vgk dma firmware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698956-vgk-dma-firmware.html)|`2025-05-23 11:30:00`|`Valorant`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-05-23 11:09:00`|`Rainbow Six Siege`|
 |[Function String Associate IDA 9&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/700481-function-string-associate-ida-9-1-a.html)|`2025-05-23 10:16:00`|`General Programming and Reversing`|
 |[Dead By Daylight Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694248-dead-daylight-internal.html)|`2025-05-23 10:03:00`|`Other FPS Games`|
 |["Ghost client" for lunar client 1&#46;8&#46;9 &#40;forge&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/700386-ghost-client-lunar-client-1-8-9-forge.html)|`2025-05-23 09:56:00`|`Minecraft`|
