@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[need help making shadow legacy cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/701854-help-shadow-legacy-cheats.html)|`2025-05-24 03:40:00`|`Rainbow Six Siege`|
 |[Webs PVE Only Menu v7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v7.html)|`2025-05-24 03:36:00`|`Escape from Tarkov`|
 |[Mastering Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-support/690404-mastering-cheat-engine.html)|`2025-05-24 03:12:00`|`Cheat Engine Support`|
 |[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-05-24 03:07:00`|`HELLDIVERS 2`|
