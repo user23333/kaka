@@ -13,6 +13,7 @@
 |21|[Starting my Cheat Dev journey&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701089-starting-cheat-dev-journey.html)|`2025-05-23 00:17:01`|`rust`|
 |21|[Logitech Script Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701450-logitech-script-bypass.html)|`2025-05-23 06:56:34`|`rust`|
 |6|[CS2 uses only AI &#124; Anti&#45;Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701282-cs2-ai-anti-cheat.html)|`2025-05-23 17:20:41`|`counter-strike-2-a`|
+|12|[Complete Anti&#45;Cheat BYPASS &#40;&#43;ONLINE&#43;INJECTOR&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/701513-complete-anti-cheat-bypass-online-injector.html)|`2025-05-23 23:34:11`|`marvel-rivals`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RageMP EAC anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/701662-ragemp-eac-anticheat.html)|`2025-05-23 23:32:00`|`Alternative Online Mods`|
+|[HOW TO PARSE A FAKE PITCH](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701379-parse-fake-pitch.html)|`2025-05-23 23:20:00`|`Counter-Strike 2`|
 |[Bypass nProtect Gameguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685790-bypass-nprotect-gameguard.html)|`2025-05-23 23:18:00`|`Anti-Cheat Bypass`|
 |[ODIN V4 FOR STEAM ONLY&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/645623-odin-v4-steam.html)|`2025-05-23 22:47:00`|`Paladins`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-05-23 22:29:00`|`Counter-Strike 2`|
