@@ -27,9 +27,18 @@
 |24|[VACModuleDumper&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49802)|`2025-05-23 00:17:01`|
 |1|[fearmp hack&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49808)|`2025-05-23 04:35:05`|
 |1|[MasterRobber122](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49824)|`2025-05-23 05:38:02`|
+|2|[5&#46;3&#46;2&#45;1933977&#43;&#43;&#43;S2&#95;1&#95;release&#45;Marvel Rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49830)|`2025-05-23 08:59:04`|
+|1|[MeowAssist&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49829)|`2025-05-23 08:59:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Meow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699145-meow.html)|`2025-05-23 08:53:00`|`Marvel Rivals`|
+|[Rust Recoil Table Changes Teachings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/698991-rust-recoil-table-changes-teachings.html)|`2025-05-23 08:50:00`|`Rust`|
+|[Insanely fast triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/701254-insanely-fast-triggerbot.html)|`2025-05-23 08:41:00`|`Other FPS Games`|
+|[When you tithe&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/701770-tithe.html)|`2025-05-23 08:35:00`|`Off Topic`|
+|[External Raycasting &#40;PhysX recreation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673196-external-raycasting-physx-recreation.html)|`2025-05-23 08:14:00`|`Escape from Tarkov`|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-05-23 08:07:00`|`Grand Theft Auto V`|
+|[alternative way to retrieve cr3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701748-alternative-retrieve-cr3.html)|`2025-05-23 08:06:00`|`Anti-Cheat Bypass`|
 |[Dead by Daylight Full Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/701723-dead-daylight-internal.html)|`2025-05-23 07:53:00`|`Other FPS Games`|
 |[CsGo2 Kernel Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701598-csgo2-kernel-driver.html)|`2025-05-23 07:27:00`|`Counter-Strike 2`|
 |[Fast And Simple Triggerbot &#40;ASM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698448-fast-simple-triggerbot-asm.html)|`2025-05-23 07:26:00`|`Valorant`|
