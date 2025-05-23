@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[mod&#95;au](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/694266-mod_au.html)|`2025-05-24 05:30:00`|`Among Us`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-05-24 05:28:00`|`Alternative Online Mods`|
 |[GTA 5 Enhanced DMA Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701780-gta-5-enhanced-dma-menu.html)|`2025-05-24 05:11:00`|`Grand Theft Auto V`|
 |[SMM Driver Detection Vectors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701694-smm-driver-detection-vectors.html)|`2025-05-24 05:08:00`|`Anti-Cheat Bypass`|
 |[External FiveM SilentAim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/701833-external-fivem-silentaim.html)|`2025-05-24 05:07:00`|`Alternative Online Mods`|
