@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-05-25 07:29:00`|`Marvel Rivals`|
 |[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-05-25 07:24:00`|`HELLDIVERS 2`|
 |[VRising ESP and Aimbot 1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701829-vrising-esp-aimbot-1-1-a.html)|`2025-05-25 07:16:00`|`Other MMORPG and Strategy`|
 |[HWID unban and cheat recommendations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/702049-hwid-unban-cheat-recommendations.html)|`2025-05-25 07:13:00`|`Star Wars Battlefront 2`|
