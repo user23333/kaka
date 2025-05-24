@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Safe Read & Write Methods For Dll Using NTAPI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/700953-safe-read-write-methods-dll-using-ntapi.html)|`2025-05-24 21:08:00`|`PUBG Mobile`|
+|[Lview External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/700945-lview-external.html)|`2025-05-24 21:00:00`|`League of Legends`|
 |[ValidateHwnd access violation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701924-validatehwnd-access-violation.html)|`2025-05-24 20:52:00`|`Anti-Cheat Bypass`|
 |[⭐ Universal Triggerbot v1&#46;0b &#91;UNDETECTED&#93; 💕](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701916-universal-triggerbot-v1-0b-undetected.html)|`2025-05-24 20:34:00`|`Valorant`|
 |[RunString FileDownloaders &#91;New&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/698399-runstring-filedownloaders.html)|`2025-05-24 20:23:00`|`Garry's Mod`|
