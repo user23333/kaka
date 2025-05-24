@@ -24,9 +24,16 @@
 |46|[FluffBot420&#95;v1&#46;7&#95;BETA&#95;&#35;9&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49821)|`2025-05-24 00:12:31`|
 |25|[nvmechecker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49819)|`2025-05-24 00:12:31`|
 |110|[prestige 9 level 70](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49816)|`2025-05-24 00:12:31`|
+|1|[Fellas PVE Menu v7&#46;2 Updated ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49841)|`2025-05-24 09:40:24`|
+|1|[Battlefield4&#45;DMA&#45;ESP&#45;v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49839)|`2025-05-24 09:40:24`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fade Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701115-fade-chams.html)|`2025-05-24 09:37:00`|`Valorant`|
+|[AmongUsCosmetics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/521567-amonguscosmetics.html)|`2025-05-24 09:34:00`|`Among Us`|
+|[&#91;DMA&#93; ESP &#43; AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/701785-dma-esp-aim.html)|`2025-05-24 09:26:00`|`Battlefield 4`|
+|[REPX &#45; R&#46;E&#46;P&#46;O&#46; Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/697781-repx-cheat.html)|`2025-05-24 09:22:00`|`Other MMORPG and Strategy`|
+|[manual mapping in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701167-manual-mapping-2025-a.html)|`2025-05-24 09:19:00`|`Anti-Cheat Bypass`|
 |[advice for add makcu and aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/701875-advice-add-makcu-aimbot.html)|`2025-05-24 07:56:00`|`Apex Legends`|
 |[TOP MACRO Logitech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668884-top-macro-logitech.html)|`2025-05-24 07:50:00`|`Rust`|
 |[How do I make an external undetected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701874-external-undetected.html)|`2025-05-24 07:48:00`|`Counter-Strike 2`|
