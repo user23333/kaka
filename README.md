@@ -27,6 +27,7 @@
 |1|[Fellas PVE Menu v7&#46;2 Updated ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49841)|`2025-05-24 09:40:24`|
 |1|[Battlefield4&#45;DMA&#45;ESP&#45;v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49839)|`2025-05-24 09:40:24`|
 |15|[MHUR&#95;HOORAY&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49840)|`2025-05-24 10:58:22`|
+|1|[GTA5 Enhanced DMA Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49838)|`2025-05-24 14:42:13`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
