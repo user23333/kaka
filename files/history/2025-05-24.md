@@ -26,9 +26,14 @@
 |110|[prestige 9 level 70](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49816)|`2025-05-24 00:12:31`|
 |1|[Fellas PVE Menu v7&#46;2 Updated ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49841)|`2025-05-24 09:40:24`|
 |1|[Battlefield4&#45;DMA&#45;ESP&#45;v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49839)|`2025-05-24 09:40:24`|
+|15|[MHUR&#95;HOORAY&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49840)|`2025-05-24 10:58:22`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[vgk dma firmware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698956-vgk-dma-firmware.html)|`2025-05-24 10:42:00`|`Valorant`|
+|[The Bible in Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/700075-bible-cheats.html)|`2025-05-24 10:40:00`|`Off Topic`|
+|[Ollvm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/701884-ollvm.html)|`2025-05-24 10:30:00`|`C and C++`|
+|[ask dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/700956-dma.html)|`2025-05-24 10:26:00`|`Apex Legends`|
 |[Fade Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701115-fade-chams.html)|`2025-05-24 09:37:00`|`Valorant`|
 |[AmongUsCosmetics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/521567-amonguscosmetics.html)|`2025-05-24 09:34:00`|`Among Us`|
 |[&#91;DMA&#93; ESP &#43; AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/701785-dma-esp-aim.html)|`2025-05-24 09:26:00`|`Battlefield 4`|
