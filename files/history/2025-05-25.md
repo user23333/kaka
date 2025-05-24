@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Better Sunoki's fully updated TriggerBot &#43; Mafia4321x's Spoofer &#43; Cc's TB launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701603-sunokis-updated-triggerbot-mafia4321xs-spoofer-ccs-tb-launcher.html)|`2025-05-25 02:15:00`|`Valorant`|
+|[Apex Legends Lurching](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/700420-apex-legends-lurching.html)|`2025-05-25 02:11:00`|`Apex Legends`|
+|[Dual PC Basic Setup &#45; Step&#45;by&#45;Step Hardware Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701965-dual-pc-basic-setup-step-step-hardware-guide.html)|`2025-05-25 02:10:00`|`Valorant`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-05-25 02:06:00`|`Call of Duty: Black Ops 6`|
+|[Logitech G HUB version 2021&#46;10 FUNCTIONAL VERSION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701964-logitech-hub-version-2021-10-functional-version.html)|`2025-05-25 02:02:00`|`Rust`|
 |[how can i start gamehacking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/700363-start-gamehacking.html)|`2025-05-25 01:53:00`|`Programming for Beginners`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-05-25 01:44:00`|`Other FPS Games`|
 |[Dead By Daylight DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682901-dead-daylight-dma-esp.html)|`2025-05-25 01:44:00`|`Other FPS Games`|
