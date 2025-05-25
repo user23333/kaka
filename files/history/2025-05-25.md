@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-05-25 08:26:00`|`Apex Legends`|
+|[F&#46;E&#46;A&#46;R&#46; Combat v1&#46;08 or SEC2 or Perseus Mandate v1&#46;0 hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/fear/630559-combat-v1-08-sec2-perseus-mandate-v1-0-hack.html)|`2025-05-25 08:13:00`|`FEAR`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-05-25 07:29:00`|`Marvel Rivals`|
 |[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-05-25 07:24:00`|`HELLDIVERS 2`|
 |[VRising ESP and Aimbot 1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701829-vrising-esp-aimbot-1-1-a.html)|`2025-05-25 07:16:00`|`Other MMORPG and Strategy`|
