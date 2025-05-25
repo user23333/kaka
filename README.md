@@ -26,9 +26,13 @@
 |118|[MHUR&#95;HOORAY&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49840)|`2025-05-26 00:11:29`|
 |3|[EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49852)|`2025-05-26 00:35:01`|
 |1|[a&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49854)|`2025-05-26 02:27:05`|
+|1|[ezSwing V1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49857)|`2025-05-26 02:43:23`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ezSwing &#45; PGA 2k25 Perfect Swing Every Time](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/701957-ezswing-pga-2k25-perfect-swing-time.html)|`2025-05-26 02:40:00`|`Other Games`|
+|[SCS2 &#45; Semi&#45;External Mod for Counter&#45;Strike 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/651580-scs2-semi-external-mod-counter-strike-2-a.html)|`2025-05-26 02:36:00`|`Counter-Strike 2 Releases`|
+|[How to optimize arduino aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701392-optimize-arduino-aimbot.html)|`2025-05-26 02:36:00`|`Valorant`|
 |[cs2 multicheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702131-cs2-multicheat.html)|`2025-05-26 02:22:00`|`Counter-Strike 2`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2025-05-26 02:16:00`|`Deadlock`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-05-26 02:12:00`|`Other FPS Games`|
