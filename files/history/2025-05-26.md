@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chivalry 2 Heaveyweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689993-chivalry-2-heaveyweight-cheat.html)|`2025-05-26 07:20:00`|`Other Games`|
+|[Makcu 1PC Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698881-makcu-1pc-colorbot.html)|`2025-05-26 07:19:00`|`Valorant`|
 |[Nenyooo Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/488777-nenyooo-menu.html)|`2025-05-26 07:16:00`|`Grand Theft Auto V`|
 |[hookloader fork](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702198-hookloader-fork.html)|`2025-05-26 06:44:00`|`Valorant`|
 |[How difficult would it be to code a colorbot for Mac?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/702200-difficult-code-colorbot-mac.html)|`2025-05-26 06:57:00`|`Other FPS Games`|
