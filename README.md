@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Easiest way to hide from EnumWindows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701870-easiest-hide-enumwindows.html)|`2025-05-26 01:39:00`|`Anti-Cheat Bypass`|
+|[FiveM sv&#95;pureLevel changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/640619-fivem-sv_purelevel-changer.html)|`2025-05-26 01:37:00`|`Alternative Online Mods`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-05-26 01:35:00`|`ARMA 3`|
 |[GTA 5 Enhanced DMA Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701780-gta-5-enhanced-dma-menu.html)|`2025-05-26 01:22:00`|`Grand Theft Auto V`|
 |[Could anyone share the latest version of Rigel source files?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/695022-share-version-rigel-source-files.html)|`2025-05-26 01:03:00`|`Overwatch`|
 |[Annoying 24&#45;hour Ban When Using Aimbot ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/702169-annoying-24-hour-ban-using-aimbot.html)|`2025-05-26 00:58:00`|`Playerunknown's Battlegrounds`|
