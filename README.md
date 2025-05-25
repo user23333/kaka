@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HorizonMW Unlock all &#40;level 70&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/701454-horizonmw-unlock-level-70-a.html)|`2025-05-26 04:47:00`|`Call of Duty 4: Modern Warfare`|
+|[manual mapping in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701167-manual-mapping-2025-a.html)|`2025-05-26 04:45:00`|`Anti-Cheat Bypass`|
+|[How detectable is a recoil "assist" macro?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/700766-detectable-recoil-assist-macro.html)|`2025-05-26 04:44:00`|`Rainbow Six Siege`|
+|[CS2 Skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701779-cs2-skin-changer.html)|`2025-05-26 04:42:00`|`Counter-Strike 2`|
 |[CUserCmd structure & help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702186-cusercmd-structure-help.html)|`2025-05-26 04:31:00`|`Counter-Strike 2`|
 |[Rust Blocks DMA reads :&#40;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/702184-rust-blocks-dma-reads.html)|`2025-05-26 04:18:00`|`Rust`|
 |[looking for working on maplestory universe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/701408-looking-maplestory-universe.html)|`2025-05-26 04:11:00`|`Maple Story`|
