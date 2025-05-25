@@ -34,9 +34,13 @@
 |3|[mod&#95;au&#95;steam&#95;v16&#46;0&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49837)|`2025-05-25 07:09:27`|
 |1|[fortnite&#45;external&#45;base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49835)|`2025-05-25 07:09:27`|
 |3|[internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49843)|`2025-05-25 11:38:13`|
+|3|[Rivals UnKnoWn Update S2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49848)|`2025-05-25 12:31:33`|
+|2|[AmongUsCosmetics &#40;v16&#46;0&#46;5 Source Code&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49845)|`2025-05-25 12:31:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust AI Aimbot &#45; Beta](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/620721-rust-ai-aimbot-beta.html)|`2025-05-25 12:24:00`|`Rust`|
+|[AmongUsCosmetics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/521567-amonguscosmetics.html)|`2025-05-25 12:09:00`|`Among Us`|
 |[Valorant python colorbot code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702075-valorant-python-colorbot-code.html)|`2025-05-25 11:51:00`|`Valorant`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-05-25 11:39:00`|`League of Legends`|
 |[GSC For PS4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-4-a/702072-gsc-ps4.html)|`2025-05-25 10:49:00`|`Call of Duty: Black Ops 4`|
