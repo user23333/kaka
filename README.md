@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project L33T Internal Simple](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/701873-project-l33t-internal-simple.html)|`2025-05-25 12:36:00`|`Other FPS Games`|
+|[Fallout 76 Gleaming Depth Ultracite Terror skip ba2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/701550-fallout-76-gleaming-depth-ultracite-terror-skip-ba2.html)|`2025-05-25 12:10:00`|`Other FPS Games`|
 |[Rust AI Aimbot &#45; Beta](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/620721-rust-ai-aimbot-beta.html)|`2025-05-25 12:24:00`|`Rust`|
 |[AmongUsCosmetics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/521567-amonguscosmetics.html)|`2025-05-25 12:09:00`|`Among Us`|
 |[Valorant python colorbot code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702075-valorant-python-colorbot-code.html)|`2025-05-25 11:51:00`|`Valorant`|
