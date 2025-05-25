@@ -40,6 +40,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Operation Flashpoint Red River hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/630554-operation-flashpoint-red-river-hack.html)|`2025-05-25 22:19:00`|`Other FPS Games`|
+|[cheat external for cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/702133-cheat-external-cs2.html)|`2025-05-25 22:10:00`|`Introductions`|
+|[How to optimize arduino aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701392-optimize-arduino-aimbot.html)|`2025-05-25 22:08:00`|`Valorant`|
 |[new member](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/702108-new-member.html)|`2025-05-25 22:04:00`|`Introductions`|
 |[Introduction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/702105-introduction.html)|`2025-05-25 22:02:00`|`Introductions`|
 |[hey](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/702104-hey.html)|`2025-05-25 22:02:00`|`Introductions`|
