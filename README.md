@@ -33,9 +33,12 @@
 |1|[mod&#95;au&#95;epic&#95;v16&#46;0&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49846)|`2025-05-25 07:09:27`|
 |3|[mod&#95;au&#95;steam&#95;v16&#46;0&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49837)|`2025-05-25 07:09:27`|
 |1|[fortnite&#45;external&#45;base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49835)|`2025-05-25 07:09:27`|
+|3|[internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49843)|`2025-05-25 11:38:13`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GSC For PS4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-4-a/702072-gsc-ps4.html)|`2025-05-25 10:49:00`|`Call of Duty: Black Ops 4`|
+|[QuasarDMA Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/697510-quasardma-update.html)|`2025-05-25 10:48:00`|`Rust`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-05-25 08:26:00`|`Apex Legends`|
 |[F&#46;E&#46;A&#46;R&#46; Combat v1&#46;08 or SEC2 or Perseus Mandate v1&#46;0 hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/fear/630559-combat-v1-08-sec2-perseus-mandate-v1-0-hack.html)|`2025-05-25 08:13:00`|`FEAR`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-05-25 07:29:00`|`Marvel Rivals`|
