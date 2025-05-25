@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nenyooo Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/488777-nenyooo-menu.html)|`2025-05-26 07:16:00`|`Grand Theft Auto V`|
+|[hookloader fork](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702198-hookloader-fork.html)|`2025-05-26 06:44:00`|`Valorant`|
 |[How difficult would it be to code a colorbot for Mac?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/702200-difficult-code-colorbot-mac.html)|`2025-05-26 06:57:00`|`Other FPS Games`|
 |[esp source update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/701545-esp-source-update.html)|`2025-05-26 06:42:00`|`PUBG Mobile`|
 |[Can anyone make a DMA software for Battlefield v?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/697648-dma-software-battlefield.html)|`2025-05-26 06:15:00`|`Battlefield V`|
