@@ -39,6 +39,8 @@
 |3|[Rivals UnKnoWn Update S2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49848)|`2025-05-25 12:31:33`|
 |2|[AmongUsCosmetics &#40;v16&#46;0&#46;5 Source Code&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49845)|`2025-05-25 12:31:33`|
 |2|[AmongUsCosmetics &#40;v16&#46;0&#46;5&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49853)|`2025-05-25 23:28:27`|
+|1|[GSC For PS4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49851)|`2025-05-25 23:55:49`|
+|2|[marvel&#45;rivals&#45;mappings&#46;usmap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49850)|`2025-05-25 23:55:49`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
