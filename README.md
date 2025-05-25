@@ -13,6 +13,7 @@
 |6|[CS2 uses only AI &#124; Anti&#45;Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701282-cs2-ai-anti-cheat.html)|`2025-05-25 00:09:47`|`counter-strike-2-a`|
 |14|[GTA 5 Enhanced DMA Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701780-gta-5-enhanced-dma-menu.html)|`2025-05-25 00:53:16`|`grand-theft-auto-v`|
 |6|[manual mapping in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701167-manual-mapping-2025-a.html)|`2025-05-25 01:14:39`|`anti-cheat-bypass`|
+|3|[HorizonMW Unlock all &#40;level 70&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/701454-horizonmw-unlock-level-70-a.html)|`2025-05-25 14:52:34`|`call-of-duty-4-modern-warfare`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
