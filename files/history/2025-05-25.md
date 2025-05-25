@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-05-25 13:40:00`|`Rainbow Six Siege`|
 |[Hijacking Rivatuner or Nvidia Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/701387-hijacking-rivatuner-nvidia-overlay.html)|`2025-05-25 13:02:00`|`PUBG Mobile`|
 |[Dead game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/691074-dead-game.html)|`2025-05-25 12:49:00`|`HELLDIVERS 2`|
 |[Project L33T Internal Simple](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/701873-project-l33t-internal-simple.html)|`2025-05-25 12:36:00`|`Other FPS Games`|
