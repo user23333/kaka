@@ -40,6 +40,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cs2 multicheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702131-cs2-multicheat.html)|`2025-05-25 21:25:00`|`Counter-Strike 2`|
+|[Valorant PixelBoT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702128-valorant-pixelbot.html)|`2025-05-25 21:16:00`|`Valorant`|
 |[How to unlock festive tint for up n atomizer on GTA5 enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701925-unlock-festive-tint-atomizer-gta5-enhanced.html)|`2025-05-25 20:22:00`|`Grand Theft Auto V`|
 |[Pixel Gun 3D Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/663707-pixel-gun-3d-cheat-engine-table.html)|`2025-05-25 19:59:00`|`Cheat Engine Tables`|
 |[NOOB needs help with GTA5 cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/702121-noob-help-gta5-cheats.html)|`2025-05-25 19:49:00`|`Grand Theft Auto V`|
