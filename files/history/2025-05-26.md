@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[3&#46;8 ENCRYPTION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/700799-3-8-encryption.html)|`2025-05-26 04:52:00`|`PUBG Mobile`|
+|[PUBG GLOBAL 3&#46;8 UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/699669-pubg-global-3-8-ue4-offsets.html)|`2025-05-26 04:51:00`|`PUBG Mobile`|
+|[eax apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/701554-eax-apex.html)|`2025-05-26 04:49:00`|`Apex Legends`|
 |[HorizonMW Unlock all &#40;level 70&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/701454-horizonmw-unlock-level-70-a.html)|`2025-05-26 04:47:00`|`Call of Duty 4: Modern Warfare`|
 |[manual mapping in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701167-manual-mapping-2025-a.html)|`2025-05-26 04:45:00`|`Anti-Cheat Bypass`|
 |[How detectable is a recoil "assist" macro?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/700766-detectable-recoil-assist-macro.html)|`2025-05-26 04:44:00`|`Rainbow Six Siege`|
