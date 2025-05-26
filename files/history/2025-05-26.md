@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[echo&#46;ac &#45; Minecraft/FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695485-echo-ac-minecraft-fivem.html)|`2025-05-26 12:25:00`|`Anti-Cheat Bypass`|
+|[twisted YimMenuV2 with lsc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701342-twisted-yimmenuv2-lsc.html)|`2025-05-26 12:16:00`|`Grand Theft Auto V`|
+|[Dupe exploit &#91;PC Verison&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/688691-dupe-exploit-pc-verison.html)|`2025-05-26 12:15:00`|`DayZ SA`|
+|[L4D2 Hack Menu &#40;Steam&#41; 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695228-l4d2-hack-menu-steam-2025-a.html)|`2025-05-26 12:04:00`|`Other FPS Games`|
 |[GTA V New Globals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/702229-gta-globals.html)|`2025-05-26 11:36:00`|`Grand Theft Auto V`|
 |[New Comer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/701917-comer.html)|`2025-05-26 11:20:00`|`Introductions`|
 |[V Rising &#45; Invaders of Oakveil Community Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/702226-rising-invaders-oakveil-community-cheat.html)|`2025-05-26 10:53:00`|`Other MMORPG and Strategy`|
