@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant PixelBoT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702128-valorant-pixelbot.html)|`2025-05-27 06:58:00`|`Valorant`|
 |[ARMA 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/114242-arma-3-reversal-structs-offsets.html)|`2025-05-27 06:27:00`|`ARMA 3`|
 |[eax apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/701554-eax-apex.html)|`2025-05-27 06:23:00`|`Apex Legends`|
 |[PUBG GLOBAL 3&#46;8 UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/699669-pubg-global-3-8-ue4-offsets.html)|`2025-05-27 06:18:00`|`PUBG Mobile`|
