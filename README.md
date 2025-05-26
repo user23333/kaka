@@ -11,6 +11,7 @@
 |6|[Better Sunoki's fully updated TriggerBot &#43; Mafia4321x's Spoofer &#43; Cc's TB launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701603-sunokis-updated-triggerbot-mafia4321xs-spoofer-ccs-tb-launcher.html)|`2025-05-27 00:12:41`|`valorant`|
 |14|[Rust 1ms Recoil Script using HID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701732-rust-1ms-recoil-script-using-hid.html)|`2025-05-27 00:12:41`|`rust`|
 |12|[V Rising 1&#46;1 ESP Updated&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701393-rising-1-1-esp-updated.html)|`2025-05-27 00:12:41`|`other-mmorpg-and-strategy`|
+|14|[triggerbots dead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701703-triggerbots-dead.html)|`2025-05-27 05:34:00`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[object&#45;detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/702268-object-detection.html)|`2025-05-27 05:28:00`|`CrossFire`|
 |[MiniRoyale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/607408-miniroyale-reversal-structs-offsets.html)|`2025-05-27 05:23:00`|`Other FPS Games`|
 |[Where can I find Mac colorbot coding assistance?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/702322-mac-colorbot-coding-assistance.html)|`2025-05-27 05:16:00`|`Off Topic`|
 |[Better Sunoki's fully updated TriggerBot &#43; Mafia4321x's Spoofer &#43; Cc's TB launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701603-sunokis-updated-triggerbot-mafia4321xs-spoofer-ccs-tb-launcher.html)|`2025-05-27 05:09:00`|`Valorant`|
