@@ -14,6 +14,7 @@
 |5|[twisted YimMenuV2 with lsc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701342-twisted-yimmenuv2-lsc.html)|`2025-05-26 03:35:50`|`grand-theft-auto-v`|
 |8|[⭐ Universal Triggerbot v1&#46;0b &#91;UNDETECTED&#93; 💕](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701916-universal-triggerbot-v1-0b-undetected.html)|`2025-05-26 05:37:23`|`valorant`|
 |5|[Better Sunoki's fully updated TriggerBot &#43; Mafia4321x's Spoofer &#43; Cc's TB launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701603-sunokis-updated-triggerbot-mafia4321xs-spoofer-ccs-tb-launcher.html)|`2025-05-26 17:58:58`|`valorant`|
+|13|[Rust 1ms Recoil Script using HID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701732-rust-1ms-recoil-script-using-hid.html)|`2025-05-26 20:37:44`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How can I find GWorld offset?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/694190-gworld-offset.html)|`2025-05-26 20:06:00`|`All Points Bulletin`|
 |[Skinchanger WEAPON ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702255-skinchanger-weapon-id.html)|`2025-05-26 19:55:00`|`Counter-Strike 2`|
 |[How to set level/ give RR with YimMenu V2 on E&E](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697452-set-level-rr-yimmenu-v2.html)|`2025-05-26 19:48:00`|`Grand Theft Auto V`|
 |[First message on this site](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/702250-message-site.html)|`2025-05-26 19:31:00`|`Introductions`|
