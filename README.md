@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to view your own rep and see other peoples rep?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/702236-view-own-rep-peoples-rep.html)|`2025-05-26 19:21:00`|`Forum General`|
+|[GTA closes by itself](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/702249-gta-closes.html)|`2025-05-26 18:26:00`|`Grand Theft Auto V`|
 |[Pro CS2 DMA &#45; Esp & Aimbot & Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656442-pro-cs2-dma-esp-aimbot-web-radar.html)|`2025-05-26 19:08:00`|`Counter-Strike 2`|
 |[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-05-26 19:03:00`|`HELLDIVERS 2`|
 |[ask dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/700956-dma.html)|`2025-05-26 18:45:00`|`Apex Legends`|
