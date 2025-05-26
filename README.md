@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BandicamHook &#45; Hijack Bandicam's overlay for rendering onto the screen with DirectX11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/636162-bandicamhook-hijack-bandicams-overlay-rendering-onto-screen-directx11.html)|`2025-05-26 17:18:00`|`C and C++`|
+|[Play kernel&#45;level ANTI&#45;CHEAT games in hyper&#45;v](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701901-play-kernel-level-anti-cheat-games-hyper.html)|`2025-05-26 17:08:00`|`Valorant`|
+|[&#91;DMA&#93; COD &#45; ESP &#43; AIM &#40;steam only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700409-dma-cod-esp-aim-steam.html)|`2025-05-26 17:02:00`|`Call of Duty: Black Ops 6`|
 |[alternative way to retrieve cr3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701748-alternative-retrieve-cr3.html)|`2025-05-26 16:29:00`|`Anti-Cheat Bypass`|
 |[GTA5&#95;Enchanced Basic DMA Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689945-gta5_enchanced-basic-dma-tool.html)|`2025-05-26 16:27:00`|`Grand Theft Auto V`|
 |[PAGE&#95;NOACCESS Bypass, Full Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701296-page_noaccess-bypass-dump.html)|`2025-05-26 15:25:00`|`Anti-Cheat Bypass`|
