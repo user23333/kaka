@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-05-26 23:39:00`|`Other FPS Games`|
+|[NEW obs&#45;studio jitter aim reduce recoil script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/590499-obs-studio-jitter-aim-reduce-recoil-script.html)|`2025-05-26 23:37:00`|`Apex Legends`|
 |[Better Sunoki's fully updated TriggerBot &#43; Mafia4321x's Spoofer &#43; Cc's TB launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701603-sunokis-updated-triggerbot-mafia4321xs-spoofer-ccs-tb-launcher.html)|`2025-05-26 23:31:00`|`Valorant`|
 |[Heist Party Powder DLC IDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/702277-heist-party-powder-dlc-ids.html)|`2025-05-26 23:26:00`|`Payday 3`|
 |[90% Updated DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702275-90-updated-dma.html)|`2025-05-26 22:52:00`|`Valorant`|
