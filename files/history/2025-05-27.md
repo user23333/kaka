@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MiniRoyale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/607408-miniroyale-reversal-structs-offsets.html)|`2025-05-27 05:23:00`|`Other FPS Games`|
+|[Where can I find Mac colorbot coding assistance?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/702322-mac-colorbot-coding-assistance.html)|`2025-05-27 05:16:00`|`Off Topic`|
+|[Better Sunoki's fully updated TriggerBot &#43; Mafia4321x's Spoofer &#43; Cc's TB launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701603-sunokis-updated-triggerbot-mafia4321xs-spoofer-ccs-tb-launcher.html)|`2025-05-27 05:09:00`|`Valorant`|
 |[Meow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699145-meow.html)|`2025-05-27 04:53:00`|`Marvel Rivals`|
 |[rcs rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/640033-rcs-rust.html)|`2025-05-27 04:28:00`|`Rust`|
 |[Wexizev2 FiveM &#40;Weapon Spawner/ Resource Stopper&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/689576-wexizev2-fivem-weapon-spawner-resource-stopper.html)|`2025-05-27 04:16:00`|`Alternative Online Mods`|
