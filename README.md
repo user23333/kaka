@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Troll features externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/702269-troll-features-externally.html)|`2025-05-27 03:27:00`|`Alternative Online Mods`|
+|[External Wallbang Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702238-external-wallbang-check.html)|`2025-05-27 03:26:00`|`Counter-Strike 2`|
+|[HMW Anti cheat information](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/702301-hmw-anti-cheat-information.html)|`2025-05-27 03:26:00`|`Call of Duty 4: Modern Warfare`|
 |[PAGE&#95;NOACCESS Bypass, Full Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701296-page_noaccess-bypass-dump.html)|`2025-05-27 03:19:00`|`Anti-Cheat Bypass`|
 |[Webs PVE Only Menu v7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v7.html)|`2025-05-27 03:13:00`|`Escape from Tarkov`|
 |[Bongo Cat &#124; infinit key pressing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/702298-bongo-cat-infinit-key-pressing.html)|`2025-05-27 03:05:00`|`General Programming and Reversing`|
