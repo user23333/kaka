@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARMA 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/114242-arma-3-reversal-structs-offsets.html)|`2025-05-27 06:27:00`|`ARMA 3`|
+|[eax apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/701554-eax-apex.html)|`2025-05-27 06:23:00`|`Apex Legends`|
+|[PUBG GLOBAL 3&#46;8 UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/699669-pubg-global-3-8-ue4-offsets.html)|`2025-05-27 06:18:00`|`PUBG Mobile`|
 |[driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/702155-driver.html)|`2025-05-27 06:04:00`|`Anti-Cheat Bypass`|
 |[hand and weapon chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/702325-hand-weapon-chams.html)|`2025-05-27 05:35:00`|`Apex Legends`|
 |[1&#46;28 experimental cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/701112-1-28-experimental-cheats.html)|`2025-05-27 05:53:00`|`DayZ SA`|
