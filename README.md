@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is there any no recoil usable ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/702248-recoil-usable.html)|`2025-05-26 18:19:00`|`Apex Legends`|
 |[pcileech&#45;multimedia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/623718-pcileech-multimedia.html)|`2025-05-26 17:39:00`|`Anti-Cheat Bypass`|
 |[BandicamHook &#45; Hijack Bandicam's overlay for rendering onto the screen with DirectX11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/636162-bandicamhook-hijack-bandicams-overlay-rendering-onto-screen-directx11.html)|`2025-05-26 17:18:00`|`C and C++`|
 |[Play kernel&#45;level ANTI&#45;CHEAT games in hyper&#45;v](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701901-play-kernel-level-anti-cheat-games-hyper.html)|`2025-05-26 17:08:00`|`Valorant`|
