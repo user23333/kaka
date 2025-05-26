@@ -16,6 +16,7 @@
 |5|[Better Sunoki's fully updated TriggerBot &#43; Mafia4321x's Spoofer &#43; Cc's TB launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701603-sunokis-updated-triggerbot-mafia4321xs-spoofer-ccs-tb-launcher.html)|`2025-05-26 17:58:58`|`valorant`|
 |13|[Rust 1ms Recoil Script using HID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701732-rust-1ms-recoil-script-using-hid.html)|`2025-05-26 20:37:44`|`rust`|
 |25|[Entity list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701298-entity-list.html)|`2025-05-26 21:07:53`|`counter-strike-2-a`|
+|12|[V Rising 1&#46;1 ESP Updated&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701393-rising-1-1-esp-updated.html)|`2025-05-26 21:36:32`|`other-mmorpg-and-strategy`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Model for AI Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/691272-model-ai-aimbot.html)|`2025-05-26 21:25:00`|`CrossFire`|
+|[Troll features externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/702269-troll-features-externally.html)|`2025-05-26 21:23:00`|`Alternative Online Mods`|
+|[vanguard block boad arduino ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701076-vanguard-block-boad-arduino.html)|`2025-05-26 21:19:00`|`Valorant`|
+|[object&#45;detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/702268-object-detection.html)|`2025-05-26 21:19:00`|`CrossFire`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-05-26 21:02:00`|`Other FPS Games`|
 |[How can I find GWorld offset?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/694190-gworld-offset.html)|`2025-05-26 20:06:00`|`All Points Bulletin`|
 |[Skinchanger WEAPON ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702255-skinchanger-weapon-id.html)|`2025-05-26 19:55:00`|`Counter-Strike 2`|
