@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Undetected VAC module dumper &#40;no dll or injector required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701140-undetected-vac-module-dumper-dll-injector-required.html)|`2025-05-28 01:22:00`|`Anti-Cheat Bypass`|
+|[Looking for a Safe Undetected Cheat as of 26&#45;05&#45;2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/702232-looking-safe-undetected-cheat-26-05-2025-a.html)|`2025-05-28 01:17:00`|`Grand Theft Auto V`|
+|[New Armor system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/702385-armor-system.html)|`2025-05-28 01:17:00`|`Payday 3`|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-05-28 01:13:00`|`Other FPS Games`|
+|[DLL injection in gta v](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/702239-dll-injection-gta.html)|`2025-05-28 01:11:00`|`Grand Theft Auto V`|
 |[Rust Anti Cheat Update Blocks Virtual Mouse Input&#46; Any Workarounds?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/700839-rust-anti-cheat-update-blocks-virtual-mouse-input-workarounds.html)|`2025-05-28 00:55:00`|`Rust`|
 |[Updated Offsets Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701258-updated-offsets-discussion.html)|`2025-05-28 00:53:00`|`Valorant`|
 |[HMW Anti cheat information](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/702301-hmw-anti-cheat-information.html)|`2025-05-28 00:51:00`|`Call of Duty 4: Modern Warfare`|
