@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Swapchain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/702387-swapchain.html)|`2025-05-27 22:52:00`|`Escape from Tarkov`|
 |[New Armor system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/702385-armor-system.html)|`2025-05-27 22:39:00`|`Payday 3`|
 |[Signed driver Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/698485-signed-driver-colorbot.html)|`2025-05-27 22:37:00`|`Overwatch`|
 |[HorizonMW Unlock all &#40;level 70&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/701454-horizonmw-unlock-level-70-a.html)|`2025-05-27 22:34:00`|`Call of Duty 4: Modern Warfare`|
