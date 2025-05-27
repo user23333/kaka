@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need help finding offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/702241-help-finding-offsets.html)|`2025-05-27 23:17:00`|`Escape from Tarkov`|
+|[GTA Online Christmas Discount Problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/702392-gta-online-christmas-discount.html)|`2025-05-27 23:09:00`|`Grand Theft Auto V`|
+|[Grand Theft Auto V Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144819-grand-theft-auto-scripting.html)|`2025-05-27 23:02:00`|`Grand Theft Auto V`|
 |[Swapchain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/702387-swapchain.html)|`2025-05-27 22:52:00`|`Escape from Tarkov`|
 |[New Armor system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/702385-armor-system.html)|`2025-05-27 22:39:00`|`Payday 3`|
 |[Signed driver Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/698485-signed-driver-colorbot.html)|`2025-05-27 22:37:00`|`Overwatch`|
