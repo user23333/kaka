@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-05-28 01:39:00`|`Call of Duty: Black Ops 6`|
+|[rcs rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/640033-rcs-rust.html)|`2025-05-28 01:37:00`|`Rust`|
+|[⭐ Universal Triggerbot v1&#46;0b &#91;UNDETECTED&#93; 💕](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701916-universal-triggerbot-v1-0b-undetected.html)|`2025-05-28 01:34:00`|`Valorant`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-05-28 01:33:00`|`Grand Theft Auto V`|
 |[Undetected VAC module dumper &#40;no dll or injector required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701140-undetected-vac-module-dumper-dll-injector-required.html)|`2025-05-28 01:22:00`|`Anti-Cheat Bypass`|
 |[Looking for a Safe Undetected Cheat as of 26&#45;05&#45;2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/702232-looking-safe-undetected-cheat-26-05-2025-a.html)|`2025-05-28 01:17:00`|`Grand Theft Auto V`|
 |[New Armor system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/702385-armor-system.html)|`2025-05-28 01:17:00`|`Payday 3`|
