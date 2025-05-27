@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HMW Unlock All &#43; Stats &#40;Can be done on your own account&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/702383-hmw-unlock-stats-own-account.html)|`2025-05-27 22:22:00`|`Call of Duty 4: Modern Warfare`|
+|[How to fix old cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/701154-fix-cheat.html)|`2025-05-27 22:15:00`|`Counterstrike Global Offensive`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-05-27 21:37:00`|`Other FPS Games`|
 |[If u know, we know](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702376-if-u-know-we-know.html)|`2025-05-27 20:41:00`|`Valorant`|
 |[TPM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/649260-tpm-spoofer.html)|`2025-05-27 20:41:00`|`Valorant`|
