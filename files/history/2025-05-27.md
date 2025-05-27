@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[KeStackAttachProcess leads crash but not BSOD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/701892-kestackattachprocess-leads-crash-bsod.html)|`2025-05-27 15:20:00`|`Forum General`|
+|[Help with argument to call game function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/701425-help-argument-call-game-function.html)|`2025-05-27 15:16:00`|`Forum General`|
+|[static prop alpha modulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/702358-static-prop-alpha-modulation.html)|`2025-05-27 15:16:00`|`CounterStrike Source`|
+|[what injector?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/702154-injector.html)|`2025-05-27 15:13:00`|`Forum General`|
 |[injector for warzone bo6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/702356-injector-warzone-bo6.html)|`2025-05-27 14:35:00`|`Call of Duty: Black Ops 6`|
 |[Straftat Full Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/686040-straftat-cheat.html)|`2025-05-27 14:29:00`|`Other Games`|
 |[Updated Offsets Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701258-updated-offsets-discussion.html)|`2025-05-27 14:09:00`|`Valorant`|
