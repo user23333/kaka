@@ -26,9 +26,13 @@
 |17|[mod&#95;au&#95;epic&#95;v16&#46;0&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49846)|`2025-05-27 00:12:41`|
 |30|[AmongUsCosmetics &#40;v16&#46;0&#46;5 Source Code&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49845)|`2025-05-27 00:12:41`|
 |3|[Hookloader Recode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49858)|`2025-05-27 00:50:50`|
+|1|[INFX&#95;26&#95;05](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49860)|`2025-05-27 11:59:31`|
+|4|[ExtrasensoryPerception](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49859)|`2025-05-27 11:59:31`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[L4D2 Hack Menu &#40;Steam&#41; 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695228-l4d2-hack-menu-steam-2025-a.html)|`2025-05-27 11:54:00`|`Other FPS Games`|
+|[Annoying 24&#45;hour Ban When Using Aimbot ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/702169-annoying-24-hour-ban-using-aimbot.html)|`2025-05-27 11:38:00`|`Playerunknown's Battlegrounds`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-05-27 11:30:00`|`Counter-Strike 2`|
 |[Can anyone make a DMA software for Battlefield v?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/697648-dma-software-battlefield.html)|`2025-05-27 11:23:00`|`Battlefield V`|
 |[Recoil scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/699848-recoil-scripts.html)|`2025-05-27 10:53:00`|`THE FINALS`|
