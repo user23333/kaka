@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Safe Read & Write Methods For Dll Using NTAPI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/700953-safe-read-write-methods-dll-using-ntapi.html)|`2025-05-27 16:04:00`|`PUBG Mobile`|
+|[Hey all&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/702360-hey.html)|`2025-05-27 16:01:00`|`Forum General`|
 |[KeStackAttachProcess leads crash but not BSOD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/701892-kestackattachprocess-leads-crash-bsod.html)|`2025-05-27 15:20:00`|`Forum General`|
 |[Help with argument to call game function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/701425-help-argument-call-game-function.html)|`2025-05-27 15:16:00`|`Forum General`|
 |[static prop alpha modulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/702358-static-prop-alpha-modulation.html)|`2025-05-27 15:16:00`|`CounterStrike Source`|
