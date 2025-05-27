@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Esp not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702264-cs2-esp.html)|`2025-05-28 05:57:00`|`Counter-Strike 2`|
 |[32 bit cheat still exist?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/702372-32-bit-cheat-exist.html)|`2025-05-28 05:48:00`|`Team Fortress 2`|
 |[Play kernel&#45;level ANTI&#45;CHEAT games in hyper&#45;v](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701901-play-kernel-level-anti-cheat-games-hyper.html)|`2025-05-28 05:48:00`|`Anti-Cheat Bypass`|
 |[RIP 75T After EAC Update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/702444-rip-75t-eac-update.html)|`2025-05-28 05:44:00`|`Rust`|
