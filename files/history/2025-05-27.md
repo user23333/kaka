@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[fastest overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/702395-fastest-overlay.html)|`2025-05-27 23:30:00`|`General Programming and Reversing`|
+|[Dead By Daylight Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694248-dead-daylight-internal.html)|`2025-05-27 23:28:00`|`Other FPS Games`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-05-27 23:27:00`|`Counter-Strike 2`|
+|[help inputhistory and DT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702394-help-inputhistory-dt.html)|`2025-05-27 23:24:00`|`Counter-Strike 2`|
 |[Need help finding offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/702241-help-finding-offsets.html)|`2025-05-27 23:17:00`|`Escape from Tarkov`|
 |[GTA Online Christmas Discount Problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/702392-gta-online-christmas-discount.html)|`2025-05-27 23:09:00`|`Grand Theft Auto V`|
 |[Grand Theft Auto V Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144819-grand-theft-auto-scripting.html)|`2025-05-27 23:02:00`|`Grand Theft Auto V`|
