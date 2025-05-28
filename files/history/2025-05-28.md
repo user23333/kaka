@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Aviator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/702492-aviator.html)|`2025-05-28 18:02:00`|`Other Games`|
+|[Ultimate Spoofer &#45; Advanced Stealthy HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700067-ultimate-spoofer-advanced-stealthy-hwid-spoofer.html)|`2025-05-28 17:58:00`|`Anti-Cheat Bypass`|
 |[Bulldog CS2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/691601-bulldog-cs2-internal.html)|`2025-05-28 16:54:00`|`Counter-Strike 2 Releases`|
 |[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-05-28 16:34:00`|`Rainbow Six Siege`|
 |[Autostrafe Cant Write to button::left](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702486-autostrafe-cant-write-button-left.html)|`2025-05-28 15:36:00`|`Counter-Strike 2`|
