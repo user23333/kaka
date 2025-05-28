@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder test drive unlock tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/671076-war-thunder-test-drive-unlock-tool.html)|`2025-05-28 10:16:00`|`Other MMORPG and Strategy`|
+|[Best Screen capture method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701879-screen-capture-method.html)|`2025-05-28 10:14:00`|`Valorant`|
+|[XBOX Banning/Suspending Cloud Gaming Accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/701415-xbox-banning-suspending-cloud-gaming-accounts.html)|`2025-05-28 10:13:00`|`Call of Duty: Black Ops 6`|
+|[Better skeleton method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702461-skeleton-method.html)|`2025-05-28 10:07:00`|`Counter-Strike 2`|
+|[Controller Emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673578-controller-emulation.html)|`2025-05-28 09:52:00`|`Call of Duty: Black Ops 6`|
+|[Need help to bypass emulator without patch case 10 in anaogs lib](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/702401-help-bypass-emulator-patch-10-anaogs-lib.html)|`2025-05-28 09:46:00`|`PUBG Mobile`|
 |[ARMA 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/114242-arma-3-reversal-structs-offsets.html)|`2025-05-28 08:35:00`|`ARMA 3`|
 |[Goldberg Steam Emulator&#46; Scoreboard Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/701398-goldberg-steam-emulator-scoreboard-crash.html)|`2025-05-28 08:00:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-05-28 07:57:00`|`Counter-Strike 2`|
