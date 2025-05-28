@@ -37,6 +37,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-05-28 23:43:00`|`Farlight 84`|
+|[Smite 2 Internal &#40;F&#42;ck HiRez&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/702558-smite-2-internal-ck-hirez.html)|`2025-05-28 23:43:00`|`Other FPS Games`|
+|[I wanna understand c so bad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/702556-wanna-understand-bad.html)|`2025-05-28 23:37:00`|`Off Topic`|
 |[Unlimited abilities &#45; Standalone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/637550-unlimited-abilities-standalone.html)|`2025-05-28 23:35:00`|`Star Wars Battlefront 2`|
 |[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2025-05-28 23:14:00`|`Garry's Mod`|
 |[Resident Evil 4 Remake &#124; Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/702550-resident-evil-4-remake-steam.html)|`2025-05-28 22:39:00`|`Other Games`|
