@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Newest SDK 28/05/25](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/702562-sdk-28-05-25-a.html)|`2025-05-28 23:55:00`|`Marvel Rivals`|
+|[&#91;VOTE&#93; June 2025 Member of the Month](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/702561-vote-june-2025-month.html)|`2025-05-28 23:52:00`|`Member of the Month`|
 |[Issue when Compiling a DLL with the SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/701999-issue-compiling-dll-sdk.html)|`2025-05-28 23:50:00`|`Marvel Rivals`|
 |[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-05-28 23:43:00`|`Farlight 84`|
 |[Smite 2 Internal &#40;F&#42;ck HiRez&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/702558-smite-2-internal-ck-hirez.html)|`2025-05-28 23:43:00`|`Other FPS Games`|
