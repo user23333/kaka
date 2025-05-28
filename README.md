@@ -15,6 +15,7 @@
 |8|[Logitech G HUB version 2021&#46;10 FUNCTIONAL VERSION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701964-logitech-hub-version-2021-10-functional-version.html)|`2025-05-28 07:27:56`|`rust`|
 |11|[V Rising &#45; Invaders of Oakveil Community Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/702226-rising-invaders-oakveil-community-cheat.html)|`2025-05-28 08:55:03`|`other-mmorpg-and-strategy`|
 |11|[driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/702155-driver.html)|`2025-05-28 13:52:06`|`anti-cheat-bypass`|
+|10|[Are there XP mods?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/701821-xp-mods.html)|`2025-05-28 22:42:17`|`star-wars-battlefront-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Resident Evil 4 Remake &#124; Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/702550-resident-evil-4-remake-steam.html)|`2025-05-28 22:39:00`|`Other Games`|
+|[OnShot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/702549-onshot.html)|`2025-05-28 22:39:00`|`Counterstrike Global Offensive`|
+|[How can I find GWorld offset?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/694190-gworld-offset.html)|`2025-05-28 22:28:00`|`All Points Bulletin`|
+|[SoundSight: CS2 Audio ESP &#45; 3D Spatial Sound Radar for Enemy Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691687-soundsight-cs2-audio-esp-3d-spatial-sound-radar-enemy-detection.html)|`2025-05-28 22:27:00`|`Counter-Strike 2`|
 |[Makcu 1PC Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698881-makcu-1pc-colorbot.html)|`2025-05-28 21:45:00`|`Valorant`|
 |[AI Aimbot For Free Without/without Aimmy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/702542-ai-aimbot-free-aimmy.html)|`2025-05-28 21:31:00`|`Apex Legends`|
 |[Reversing for External and Internal cheat on AssaultCube](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/702509-reversing-external-internal-cheat-assaultcube.html)|`2025-05-28 21:20:00`|`General Programming and Reversing`|
