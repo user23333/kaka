@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any hackers from way back still around?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/america-s-army-operations-2-x/42279-hackers.html)|`2025-05-29 07:07:00`|`America's Army Operations 2.x`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-05-29 07:05:00`|`Call of Duty: Black Ops 6`|
+|[ANEURISM IV &#45; Steam game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691595-aneurism-iv-steam-game.html)|`2025-05-29 07:00:00`|`Other Games`|
+|[ANEURISM IV &#45; Steam game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691595-aneurism-iv-steam-game.html)|`2025-05-29 07:00:00`|`Other Games`|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-05-29 06:57:00`|`HELLDIVERS 2`|
 |[What Techniques Do Anti&#45;Cheats Use to Classify a Thread as a Cheat Thread?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/702021-techniques-anti-cheats-classify-thread-cheat-thread.html)|`2025-05-29 06:17:00`|`Anti-Cheat Bypass`|
 |[Rust cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/702391-rust-cheat.html)|`2025-05-29 06:07:00`|`Rust`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-05-29 06:01:00`|`Overwatch`|
