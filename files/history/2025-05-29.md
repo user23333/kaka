@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Smite 2 Internal &#40;F&#42;ck HiRez&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/702558-smite-2-internal-ck-hirez.html)|`2025-05-29 00:43:00`|`Other FPS Games`|
+|[Achieved no delay on my external overlay giving up on transparency](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702567-achieved-delay-external-overlay-giving-transparency.html)|`2025-05-29 00:36:00`|`Counter-Strike 2`|
+|[AI Aimbot For Free Without/without Aimmy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/702542-ai-aimbot-free-aimmy.html)|`2025-05-29 00:28:00`|`Apex Legends`|
+|[All Mouse NoRecoil 1&#46;0 IS OUT &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-1-0-recoil-helpy-auto-config-probably-ud-universal.html)|`2025-05-29 00:23:00`|`Rainbow Six Siege`|
+|[Bo6 internal source stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/693560-bo6-internal-source-stuff.html)|`2025-05-29 00:23:00`|`Call of Duty: Black Ops 6`|
 |[How to work with the CN server?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/691540-cn-server.html)|`2025-05-29 00:19:00`|`League of Legends`|
 |[SCUM has switched its anti&#45;cheat provider](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/702565-scum-switched-anti-cheat-provider.html)|`2025-05-29 00:18:00`|`Scum`|
 |[YimMenuV2Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697581-yimmenuv2mod.html)|`2025-05-29 00:16:00`|`Grand Theft Auto V`|
