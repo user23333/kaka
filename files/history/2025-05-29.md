@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fantasy Life i The Girl who Steals Time](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/702590-fantasy-life-girl-steals-time.html)|`2025-05-29 04:42:00`|`Other MMORPG and Strategy`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-05-29 04:35:00`|`Marvel Rivals`|
 |[Point blank static pointers &#40;CE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/692705-blank-static-pointers-ce.html)|`2025-05-29 04:27:00`|`Other FPS Games`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-05-29 04:22:00`|`Other Games`|
 |[Splitgate 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/656551-splitgate-2-reversal-structs-offsets.html)|`2025-05-29 04:21:00`|`Splitgate`|
