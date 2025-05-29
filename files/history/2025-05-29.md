@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Old Dragon City Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/702425-dragon-city-tool.html)|`2025-05-29 08:56:00`|`Other Games`|
+|[How do i make my bhop auto strafe/gain speed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/627344-bhop-auto-strafe-gain-speed.html)|`2025-05-29 08:53:00`|`Counter-Strike 2`|
+|[Triggerbot delay issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702615-triggerbot-delay-issue.html)|`2025-05-29 08:50:00`|`Counter-Strike 2`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-05-29 08:46:00`|`Other FPS Games`|
+|[Easy Apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/702617-easy-apex.html)|`2025-05-29 08:43:00`|`Apex Legends`|
+|[Adhesive Anticheat FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/702023-adhesive-anticheat-fivem.html)|`2025-05-29 08:38:00`|`Anti-Cheat Bypass`|
 |[Any hackers from way back still around?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/america-s-army-operations-2-x/42279-hackers.html)|`2025-05-29 07:07:00`|`America's Army Operations 2.x`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-05-29 07:05:00`|`Call of Duty: Black Ops 6`|
 |[ANEURISM IV &#45; Steam game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691595-aneurism-iv-steam-game.html)|`2025-05-29 07:00:00`|`Other Games`|
