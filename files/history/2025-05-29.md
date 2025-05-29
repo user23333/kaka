@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[echo&#46;ac &#45; Minecraft/FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695485-echo-ac-minecraft-fivem.html)|`2025-05-29 18:09:00`|`Anti-Cheat Bypass`|
+|[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2025-05-29 17:57:00`|`Other FPS Games`|
+|[Hardware aimbot boards list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701129-hardware-aimbot-boards-list.html)|`2025-05-29 17:57:00`|`Valorant`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-05-29 17:47:00`|`Other FPS Games`|
 |[Pro CS2 DMA &#45; Esp & Aimbot & Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656442-pro-cs2-dma-esp-aimbot-web-radar.html)|`2025-05-29 17:07:00`|`Counter-Strike 2`|
 |[external BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/702640-external-bo6.html)|`2025-05-29 16:39:00`|`Call of Duty: Black Ops 6`|
