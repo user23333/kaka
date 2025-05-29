@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[boot device verification failed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701600-boot-device-verification-failed.html)|`2025-05-30 04:43:00`|`Valorant`|
+|[Difference between VAL152 & VAL5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702778-difference-val152-val5.html)|`2025-05-30 04:42:00`|`Valorant`|
+|[rcs rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/640033-rcs-rust.html)|`2025-05-30 04:39:00`|`Rust`|
 |[valorant code van 152 banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699153-valorant-code-van-152-banned.html)|`2025-05-30 04:28:00`|`Valorant`|
 |[ACE &#40;Anti&#45;Cheat Expert&#41; spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/702768-ace-anti-cheat-expert-spoofer.html)|`2025-05-30 04:28:00`|`Anti-Cheat Bypass`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-05-30 04:25:00`|`League of Legends`|
