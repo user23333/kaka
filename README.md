@@ -26,9 +26,11 @@
 |94|[Hookloader Recode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49858)|`2025-05-30 00:14:52`|
 |1|[FakeVgc&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49902)|`2025-05-30 04:12:10`|
 |1|[NoVgkLauncher&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49903)|`2025-05-30 04:32:04`|
+|1|[5&#46;3&#46;2&#45;1933977&#43;&#43;&#43;depot&#95;marvel&#43;S2&#95;1&#95;release&#45;Mar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49884)|`2025-05-30 04:50:55`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Newest SDK 28/05/25](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/702562-sdk-28-05-25-a.html)|`2025-05-30 04:46:00`|`Marvel Rivals`|
 |[boot device verification failed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701600-boot-device-verification-failed.html)|`2025-05-30 04:43:00`|`Valorant`|
 |[Difference between VAL152 & VAL5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702778-difference-val152-val5.html)|`2025-05-30 04:42:00`|`Valorant`|
 |[rcs rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/640033-rcs-rust.html)|`2025-05-30 04:39:00`|`Rust`|
