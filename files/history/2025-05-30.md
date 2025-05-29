@@ -24,9 +24,13 @@
 |73|[INFX&#95;26&#95;05](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49860)|`2025-05-30 00:14:52`|
 |98|[ExtrasensoryPerception](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49859)|`2025-05-30 00:14:52`|
 |94|[Hookloader Recode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49858)|`2025-05-30 00:14:52`|
+|1|[FakeVgc&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49902)|`2025-05-30 04:12:10`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deep Rock Galactic Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/487947-deep-rock-galactic-cheat-table.html)|`2025-05-30 04:07:00`|`Cheat Engine Tables`|
+|[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-05-30 04:05:00`|`Grand Theft Auto V`|
+|[camera&#95;manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702755-camera_manager.html)|`2025-05-30 04:03:00`|`Valorant`|
 |[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2025-05-30 03:45:00`|`Other FPS Games`|
 |[Ida pro 7&#46;6 sigmaker problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/702749-ida-pro-7-6-sigmaker.html)|`2025-05-30 03:37:00`|`General Programming and Reversing`|
 |[are auto counter strafe on valorant detectable ? if yes do you got one](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702621-auto-counter-strafe-valorant-detectable-yes.html)|`2025-05-30 03:30:00`|`Valorant`|
