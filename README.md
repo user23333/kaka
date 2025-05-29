@@ -12,6 +12,7 @@
 |8|[SMM Driver Detection Vectors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701694-smm-driver-detection-vectors.html)|`2025-05-29 00:22:52`|`anti-cheat-bypass`|
 |16|[Valorant PixelBoT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702128-valorant-pixelbot.html)|`2025-05-29 00:22:52`|`valorant`|
 |10|[Logitech G HUB version 2021&#46;10 FUNCTIONAL VERSION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701964-logitech-hub-version-2021-10-functional-version.html)|`2025-05-29 04:56:35`|`rust`|
+|10|[Are there XP mods?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/701821-xp-mods.html)|`2025-05-29 18:37:26`|`star-wars-battlefront-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[valorant code van 152 banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699153-valorant-code-van-152-banned.html)|`2025-05-29 18:13:00`|`Valorant`|
 |[echo&#46;ac &#45; Minecraft/FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695485-echo-ac-minecraft-fivem.html)|`2025-05-29 18:09:00`|`Anti-Cheat Bypass`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2025-05-29 17:57:00`|`Other FPS Games`|
 |[Hardware aimbot boards list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701129-hardware-aimbot-boards-list.html)|`2025-05-29 17:57:00`|`Valorant`|
