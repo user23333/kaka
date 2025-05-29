@@ -25,9 +25,19 @@
 |98|[ExtrasensoryPerception](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49859)|`2025-05-30 00:14:52`|
 |94|[Hookloader Recode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49858)|`2025-05-30 00:14:52`|
 |1|[FakeVgc&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49902)|`2025-05-30 04:12:10`|
+|1|[NoVgkLauncher&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49903)|`2025-05-30 04:32:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[valorant code van 152 banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699153-valorant-code-van-152-banned.html)|`2025-05-30 04:28:00`|`Valorant`|
+|[ACE &#40;Anti&#45;Cheat Expert&#41; spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/702768-ace-anti-cheat-expert-spoofer.html)|`2025-05-30 04:28:00`|`Anti-Cheat Bypass`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-05-30 04:25:00`|`League of Legends`|
+|[How a colorbot works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684835-colorbot.html)|`2025-05-30 04:24:00`|`Valorant`|
+|[Record DMA Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/701351-record-dma-overlay.html)|`2025-05-30 04:20:00`|`General Programming and Reversing`|
+|[Old Dragon City Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/702425-dragon-city-tool.html)|`2025-05-30 04:19:00`|`Other Games`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-05-30 04:13:00`|`Other FPS Games`|
+|[Onyx &#124; Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699725-onyx-triggerbot.html)|`2025-05-30 04:13:00`|`Valorant`|
+|[How to find EngineTraceClient004 &#91;TraceRay&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702759-enginetraceclient004-traceray.html)|`2025-05-30 04:11:00`|`Counter-Strike 2`|
 |[Deep Rock Galactic Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/487947-deep-rock-galactic-cheat-table.html)|`2025-05-30 04:07:00`|`Cheat Engine Tables`|
 |[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-05-30 04:05:00`|`Grand Theft Auto V`|
 |[camera&#95;manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702755-camera_manager.html)|`2025-05-30 04:03:00`|`Valorant`|
