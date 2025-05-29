@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2025-05-29 13:16:00`|`Deadlock`|
 |[Motion Blur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702626-motion-blur.html)|`2025-05-29 12:36:00`|`Counter-Strike 2`|
 |[COD Plunder &#45; Humanized AFK Script &#40;Fast Gun/Acc Lvl XP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/687454-cod-plunder-humanized-afk-script-fast-gun-acc-lvl-xp.html)|`2025-05-29 12:34:00`|`Call of Duty: Black Ops 6`|
 |[VALORANT offsets hashes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702625-valorant-offsets-hashes.html)|`2025-05-29 12:32:00`|`Valorant`|
