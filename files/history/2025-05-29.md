@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701132-rust-cheat.html)|`2025-05-29 21:45:00`|`Rust`|
+|[The Closest Thing To Aimbot & No Recoil You're Going To Get](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/687328-closest-aimbot-recoil-youre.html)|`2025-05-29 21:39:00`|`THE FINALS`|
 |[Career unlock with Yimmenu v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696116-career-unlock-yimmenu-v2.html)|`2025-05-29 21:37:00`|`Grand Theft Auto V`|
 |[Aimbot Using Traceshape](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702714-aimbot-using-traceshape.html)|`2025-05-29 21:33:00`|`Counter-Strike 2`|
 |[STRAFTAT UnlockAll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/702713-straftat-unlockall.html)|`2025-05-29 21:33:00`|`Other Games`|
