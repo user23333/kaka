@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The simplest way to unlock GTA&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696911-simplest-unlock-gta.html)|`2025-05-29 20:35:00`|`Grand Theft Auto V`|
+|[The path of a cheat developer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/702598-path-cheat-developer.html)|`2025-05-29 20:34:00`|`Rust`|
+|[Complete Anti&#45;Cheat BYPASS &#40;&#43;ONLINE&#43;INJECTOR&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/701513-complete-anti-cheat-bypass-online-injector.html)|`2025-05-29 20:26:00`|`Marvel Rivals`|
 |[Reversing for External and Internal cheat on AssaultCube](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/702509-reversing-external-internal-cheat-assaultcube.html)|`2025-05-29 19:58:00`|`General Programming and Reversing`|
 |[How to achieve more cheat performance &#40; DMA &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/614808-achieve-cheat-performance-dma.html)|`2025-05-29 19:57:00`|`Anti-Cheat Bypass`|
 |[EOS overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701804-eos-overlay.html)|`2025-05-29 19:31:00`|`Anti-Cheat Bypass`|
