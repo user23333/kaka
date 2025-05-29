@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Reversing for External and Internal cheat on AssaultCube](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/702509-reversing-external-internal-cheat-assaultcube.html)|`2025-05-29 19:58:00`|`General Programming and Reversing`|
+|[How to achieve more cheat performance &#40; DMA &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/614808-achieve-cheat-performance-dma.html)|`2025-05-29 19:57:00`|`Anti-Cheat Bypass`|
 |[EOS overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701804-eos-overlay.html)|`2025-05-29 19:31:00`|`Anti-Cheat Bypass`|
 |["Ghost client" for lunar client 1&#46;8&#46;9 &#40;forge&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/700386-ghost-client-lunar-client-1-8-9-forge.html)|`2025-05-29 19:25:00`|`Minecraft`|
 |[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-05-29 18:51:00`|`Grand Theft Auto V`|
