@@ -41,6 +41,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TPM / HVCI / SB Popup Bypass by freezing Dnscache](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/702867-tpm-hvci-sb-popup-bypass-freezing-dnscache.html)|`2025-05-30 19:46:00`|`Anti-Cheat Bypass`|
+|[Meow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699145-meow.html)|`2025-05-30 19:44:00`|`Marvel Rivals`|
+|[Gmod External Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/702859-gmod-external-python.html)|`2025-05-30 19:23:00`|`Garry's Mod`|
 |[How do you collect feedback from users?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/702847-collect-feedback-users.html)|`2025-05-30 19:41:00`|`Forum General`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-05-30 19:27:00`|`Grand Theft Auto V`|
 |[Current VAC3 cs2 modules dump 2025&#45;05&#45;30](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/702857-current-vac3-cs2-modules-dump-2025-05-30-a.html)|`2025-05-30 19:12:00`|`Anti-Cheat Bypass`|
