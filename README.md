@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Triggerbot lagging](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702904-triggerbot-lagging.html)|`2025-05-31 02:53:00`|`Counter-Strike 2`|
+|[fake pitch resolver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702903-fake-pitch-resolver.html)|`2025-05-31 02:49:00`|`Counter-Strike 2`|
+|[Aimbot Using Traceshape](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702714-aimbot-using-traceshape.html)|`2025-05-31 02:48:00`|`Counter-Strike 2`|
+|[Looking for](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/702902-looking.html)|`2025-05-31 02:48:00`|`HELLDIVERS 2`|
 |[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-05-31 02:47:00`|`Sea of Thieves`|
 |[Assault cube Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/702848-assault-cube-internal.html)|`2025-05-31 02:43:00`|`Programming for Beginners`|
 |[Equip Item In loadout invenory issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702738-equip-item-loadout-invenory-issue.html)|`2025-05-31 02:22:00`|`Counter-Strike 2`|
