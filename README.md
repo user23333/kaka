@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sideloading cert](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700219-sideloading-cert.html)|`2025-05-31 03:47:00`|`Anti-Cheat Bypass`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-05-31 03:47:00`|`Alternative Online Mods`|
+|[BannleEye &#45; Banning arbitrary players using BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667333-bannleeye-banning-arbitrary-players-using.html)|`2025-05-31 03:46:00`|`Anti-Cheat Bypass`|
 |[Fragpunk Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697941-fragpunk-internal.html)|`2025-05-31 03:37:00`|`Other FPS Games`|
 |[data ptr swap win 11 24h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683598-data-ptr-swap-win-11-24h2.html)|`2025-05-31 03:37:00`|`Anti-Cheat Bypass`|
 |[pcileech&#45;multimedia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/623718-pcileech-multimedia.html)|`2025-05-31 03:34:00`|`Anti-Cheat Bypass`|
