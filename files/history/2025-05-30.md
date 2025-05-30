@@ -41,6 +41,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rocket League &#45; Name Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/699045-rocket-league-name-spoofer.html)|`2025-05-30 14:54:00`|`Other Games`|
+|[The detection issue of EAC&#45;EOS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/702845-detection-issue-eac-eos.html)|`2025-05-30 14:53:00`|`Anti-Cheat Bypass`|
 |[Complete Anti&#45;Cheat BYPASS &#40;&#43;ONLINE&#43;INJECTOR&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/701513-complete-anti-cheat-bypass-online-injector.html)|`2025-05-30 14:21:00`|`Marvel Rivals`|
 |[DC Universe &#45; No Delay Hack &#43; Auto Clicker &#40; Internal &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/696178-dc-universe-delay-hack-auto-clicker-internal.html)|`2025-05-30 14:19:00`|`Other MMORPG and Strategy`|
 |[getting access to my old uknowncheats account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/702792-getting-access-uknowncheats-account.html)|`2025-05-30 14:11:00`|`Off Topic`|
