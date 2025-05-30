@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[splitgate 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/702287-splitgate-2-a.html)|`2025-05-31 01:14:00`|`Splitgate`|
+|[How a colorbot works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684835-colorbot.html)|`2025-05-31 01:14:00`|`Valorant`|
+|[KMBox or MAKCU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702893-kmbox-makcu.html)|`2025-05-31 01:12:00`|`Valorant`|
+|[Check if in main menu?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702894-check-main-menu.html)|`2025-05-31 01:08:00`|`Counter-Strike 2`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-05-31 01:03:00`|`Other FPS Games`|
 |[How to permanently unlock the railgun and alien weapons etc&#46; with YimMenuV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/702735-permanently-unlock-railgun-alien-weapons-etc-yimmenuv2.html)|`2025-05-31 00:55:00`|`Grand Theft Auto V`|
 |[MCC Toolbox &#45; Trainer supports Halo Reach, Halo CE, Halo 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/397845-mcc-toolbox-trainer-supports-halo-reach-halo-ce-halo-2-a.html)|`2025-05-31 00:52:00`|`Halo`|
 |[data for AI cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702829-data-ai-cheats.html)|`2025-05-31 00:49:00`|`Counter-Strike 2`|
