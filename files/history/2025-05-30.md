@@ -41,6 +41,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-05-30 14:59:00`|`Grand Theft Auto V`|
+|[Anyone know how level hack possible?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/668746-level-hack.html)|`2025-05-30 14:57:00`|`Among Us`|
 |[Rocket League &#45; Name Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/699045-rocket-league-name-spoofer.html)|`2025-05-30 14:54:00`|`Other Games`|
 |[The detection issue of EAC&#45;EOS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/702845-detection-issue-eac-eos.html)|`2025-05-30 14:53:00`|`Anti-Cheat Bypass`|
 |[Complete Anti&#45;Cheat BYPASS &#40;&#43;ONLINE&#43;INJECTOR&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/701513-complete-anti-cheat-bypass-online-injector.html)|`2025-05-30 14:21:00`|`Marvel Rivals`|
