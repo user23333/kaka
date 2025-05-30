@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;500&#43;fps no lag&#93; DMA All types of ESP, Chams, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/699879-500-fps-lag-dma-types-esp-chams-recoil.html)|`2025-05-31 06:44:00`|`Rust`|
+|[No pill rotation?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/702474-pill-rotation.html)|`2025-05-31 06:43:00`|`Team Fortress 2`|
 |[Anyone found CreateNewTextureID func?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/702923-found-createnewtextureid-func.html)|`2025-05-31 06:32:00`|`Apex Legends`|
 |[Makcu 1PC Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698881-makcu-1pc-colorbot.html)|`2025-05-31 06:30:00`|`Valorant`|
 |[CS2 uses only AI &#124; Anti&#45;Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701282-cs2-ai-anti-cheat.html)|`2025-05-31 06:25:00`|`Counter-Strike 2`|
