@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking for Guidance on Reverse Engineering & Memory Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/702291-looking-guidance-reverse-engineering-memory-offsets.html)|`2025-05-30 21:25:00`|`Programming for Beginners`|
 |[What's Your Favorite PC Game?  Post Here&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/36192-whats-favorite-pc-game-post.html)|`2025-05-30 21:11:00`|`Off Topic`|
 |[Rust Anti Cheat Update Blocks Virtual Mouse Input&#46; Any Workarounds?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/700839-rust-anti-cheat-update-blocks-virtual-mouse-input-workarounds.html)|`2025-05-30 21:04:00`|`Rust`|
 |[Valorant PixelBoT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702128-valorant-pixelbot.html)|`2025-05-30 21:00:00`|`Valorant`|
