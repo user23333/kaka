@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-05-31 01:59:00`|`Apex Legends`|
+|[Are pixel scripts detected and bannable ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/702737-pixel-scripts-detected-bannable.html)|`2025-05-31 01:59:00`|`League of Legends`|
 |[How to find TraceShape and Init Trace the easy way](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702898-traceshape-init-trace-easy.html)|`2025-05-31 01:51:00`|`Counter-Strike 2`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-05-31 01:50:00`|`Counter-Strike 2`|
 |[Easy Apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/702617-easy-apex.html)|`2025-05-31 01:50:00`|`Apex Legends`|
