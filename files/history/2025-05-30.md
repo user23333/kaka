@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Autostrafe Cant Write to button::left](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702486-autostrafe-cant-write-button-left.html)|`2025-05-30 13:17:00`|`Counter-Strike 2`|
 |[Driver signing certificate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/697690-driver-signing-certificate.html)|`2025-05-30 13:07:00`|`Anti-Cheat Bypass`|
 |[Simple CLI injector for Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/702638-simple-cli-injector-windows.html)|`2025-05-30 12:47:00`|`General Programming and Reversing`|
 |[&#91;DMA&#93; COD &#45; ESP &#43; AIM &#40;steam only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700409-dma-cod-esp-aim-steam.html)|`2025-05-30 11:50:00`|`Call of Duty: Black Ops 6`|
