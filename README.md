@@ -41,6 +41,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Crystal of Atlan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/702573-crystal-atlan.html)|`2025-05-30 19:53:00`|`Other MMORPG and Strategy`|
+|[Help with easy code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/702110-help-easy-code.html)|`2025-05-30 19:51:00`|`Programming for Beginners`|
+|[Self&#45;unmapping / self&#45;unloading DLL and shellcode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/694499-self-unmapping-self-unloading-dll-shellcode.html)|`2025-05-30 19:49:00`|`General Programming and Reversing`|
 |[TPM / HVCI / SB Popup Bypass by freezing Dnscache](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/702867-tpm-hvci-sb-popup-bypass-freezing-dnscache.html)|`2025-05-30 19:46:00`|`Anti-Cheat Bypass`|
 |[Meow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699145-meow.html)|`2025-05-30 19:44:00`|`Marvel Rivals`|
 |[Gmod External Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/702859-gmod-external-python.html)|`2025-05-30 19:23:00`|`Garry's Mod`|
