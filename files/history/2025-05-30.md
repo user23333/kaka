@@ -41,6 +41,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Complete Anti&#45;Cheat BYPASS &#40;&#43;ONLINE&#43;INJECTOR&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/701513-complete-anti-cheat-bypass-online-injector.html)|`2025-05-30 14:21:00`|`Marvel Rivals`|
+|[DC Universe &#45; No Delay Hack &#43; Auto Clicker &#40; Internal &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/696178-dc-universe-delay-hack-auto-clicker-internal.html)|`2025-05-30 14:19:00`|`Other MMORPG and Strategy`|
+|[getting access to my old uknowncheats account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/702792-getting-access-uknowncheats-account.html)|`2025-05-30 14:11:00`|`Off Topic`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-05-30 13:51:00`|`ARMA 3`|
 |[data for AI cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702829-data-ai-cheats.html)|`2025-05-30 13:42:00`|`Counter-Strike 2`|
 |[Smite 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/702558-smite-2-internal.html)|`2025-05-30 13:19:00`|`Other FPS Games`|
