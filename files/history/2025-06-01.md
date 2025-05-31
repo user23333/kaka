@@ -11,6 +11,8 @@
 |10|[Looking for a Safe Undetected Cheat as of 26&#45;05&#45;2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/702232-looking-safe-undetected-cheat-26-05-2025-a.html)|`2025-06-01 00:11:00`|`grand-theft-auto-v`|
 |41|[Smite 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/702558-smite-2-internal.html)|`2025-06-01 00:11:00`|`other-fps-games`|
 |7|[Dual PC Basic Setup &#45; Step&#45;by&#45;Step Hardware Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701965-dual-pc-basic-setup-step-step-hardware-guide.html)|`2025-06-01 00:11:00`|`valorant`|
+|10|[external BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/702640-external-bo6.html)|`2025-06-01 02:10:18`|`call-of-duty-black-ops-6-a`|
+|10|[Motion Blur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702626-motion-blur.html)|`2025-06-01 02:10:18`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-06-01 02:05:00`|`Other FPS Games`|
+|[Outriders Worldslayer &#45; &#40;Epic, Gamepass, Steam&#41; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/565800-outriders-worldslayer-epic-gamepass-steam-cheat-table.html)|`2025-06-01 01:56:00`|`Other Games`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-06-01 01:43:00`|`Counter-Strike 2`|
 |[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-06-01 01:43:00`|`Other Games`|
 |[mod&#95;au](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/694266-mod_au.html)|`2025-06-01 01:42:00`|`Among Us`|
