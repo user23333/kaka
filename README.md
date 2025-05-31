@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[what did fivem change in the versions b3095&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/669039-fivem-change-versions-b3095.html)|`2025-06-01 06:37:00`|`Alternative Online Mods`|
+|[resourcemanager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/699054-resourcemanager.html)|`2025-06-01 06:34:00`|`Alternative Online Mods`|
+|[Detected hooking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/700223-detected-hooking.html)|`2025-06-01 06:34:00`|`Alternative Online Mods`|
+|[Triggerbot, Counter strafe, Configs system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703075-triggerbot-counter-strafe-configs-system.html)|`2025-06-01 06:31:00`|`Valorant`|
 |[Memory Struc Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struc-offset.html)|`2025-06-01 06:25:00`|`Valorant`|
 |[Unlock &#45; Car trunk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/702585-unlock-car-trunk.html)|`2025-06-01 06:25:00`|`Alternative Online Mods`|
 |[Possible to launch FiveM without adhesive?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/697068-launch-fivem-adhesive.html)|`2025-06-01 06:23:00`|`Alternative Online Mods`|
