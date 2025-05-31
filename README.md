@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Treason's V3 AIO Aim Assist Edit &#40;BETA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670270-treasons-v3-aio-aim-assist-edit-beta.html)|`2025-06-01 00:54:00`|`Call of Duty: Black Ops 6`|
 |[external BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/702640-external-bo6.html)|`2025-06-01 00:48:00`|`Call of Duty: Black Ops 6`|
 |[L4D2 Offset not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/703024-l4d2-offset.html)|`2025-06-01 00:44:00`|`Other FPS Games`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-06-01 00:44:00`|`Call of Duty: Black Ops 6`|
