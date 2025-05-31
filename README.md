@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Issue With Mouse Movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702974-issue-mouse-movement.html)|`2025-05-31 16:24:00`|`Valorant`|
 |[Simple ESP/Radar for HMW?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/701564-simple-esp-radar-hmw.html)|`2025-05-31 15:59:00`|`Call of Duty 4: Modern Warfare`|
 |[Palia Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/596326-palia-multihack.html)|`2025-05-31 15:52:00`|`Palia`|
 |[Requesting assistance in Data Collection&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/702469-requesting-assistance-data-collection.html)|`2025-05-31 15:52:00`|`General Programming and Reversing`|
