@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Colorbot Python 2PC setup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703037-valorant-colorbot-python-2pc-setup.html)|`2025-06-01 03:23:00`|`Valorant`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-06-01 03:23:00`|`Other Games`|
+|[Current VAC3 cs2 modules dump 2025&#45;05&#45;30](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/702857-current-vac3-cs2-modules-dump-2025-05-30-a.html)|`2025-06-01 03:21:00`|`Anti-Cheat Bypass`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-06-01 03:19:00`|`Other FPS Games`|
 |[CS2 uses only AI &#124; Anti&#45;Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701282-cs2-ai-anti-cheat.html)|`2025-06-01 03:13:00`|`Counter-Strike 2`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-06-01 02:53:00`|`Other FPS Games`|
 |[is writing to dwviewangles safe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703034-writing-dwviewangles-safe.html)|`2025-06-01 02:51:00`|`Counter-Strike 2`|
