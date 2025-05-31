@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-06-01 01:23:00`|`League of Legends`|
+|[can't get my JS code to run using run&#95;script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703028-cant-js-code-run-using-run_script.html)|`2025-06-01 01:10:00`|`Counter-Strike 2`|
 |[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2025-06-01 01:06:00`|`Other MMORPG and Strategy`|
 |[Icon only bug in season 4 ????](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/702780-icon-bug-season-4-a.html)|`2025-06-01 00:58:00`|`Call of Duty: Black Ops 6`|
 |[Angry atheist questions the Bible&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/703026-angry-atheist-questions-bible.html)|`2025-06-01 00:56:00`|`Off Topic`|
