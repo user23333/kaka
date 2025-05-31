@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ready to Paste NVIDIA GPU Spoofing &#40;multi&#45;version support 53x&#45;56x&#43;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685601-ready-paste-nvidia-gpu-spoofing-multi-version-support-53x-56x.html)|`2025-05-31 23:48:00`|`Anti-Cheat Bypass`|
+|[Goldberg Steam Emulator&#46; Scoreboard Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/701398-goldberg-steam-emulator-scoreboard-crash.html)|`2025-05-31 23:48:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Change the car color](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/686696-change-car-color.html)|`2025-05-31 23:10:00`|`Grand Theft Auto V`|
 |[Is there any way to set up my heist in Enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703014-set-heist-enhanced.html)|`2025-05-31 23:08:00`|`Grand Theft Auto V`|
 |[aimbot using AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703013-aimbot-using-ai.html)|`2025-05-31 22:59:00`|`Valorant`|
