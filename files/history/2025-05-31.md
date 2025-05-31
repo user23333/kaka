@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Change the car color](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/686696-change-car-color.html)|`2025-05-31 23:10:00`|`Grand Theft Auto V`|
+|[Is there any way to set up my heist in Enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703014-set-heist-enhanced.html)|`2025-05-31 23:08:00`|`Grand Theft Auto V`|
+|[aimbot using AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703013-aimbot-using-ai.html)|`2025-05-31 22:59:00`|`Valorant`|
 |[Which Cheat is Harder to Detect in PVP? &#40;Eulen vs&#46; Skript gg&#41; &#43; File Renaming Tips](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/693720-cheat-harder-detect-pvp-eulen-vs-skript-gg-file-renaming-tips.html)|`2025-05-31 22:52:00`|`Alternative Online Mods`|
 |[Zodiak &#45; Fastcup Full Kernel Driver Cheat v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/665011-zodiak-fastcup-kernel-driver-cheat-v2.html)|`2025-05-31 22:31:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[CE Payday 3 &#45; 790407](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/697955-ce-payday-3-790407-a.html)|`2025-05-31 21:31:00`|`Payday 3`|
