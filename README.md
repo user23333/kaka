@@ -27,9 +27,11 @@
 |53|[gotk&#45;sdk&#45;dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49892)|`2025-06-01 00:11:00`|
 |59|[Among us v11 cheat table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49890)|`2025-06-01 00:11:00`|
 |1|[Methcrack&#95;Pro&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49897)|`2025-06-01 06:59:01`|
+|1|[VACModuleDumper&#46;exe &#45; v0&#46;02](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49898)|`2025-06-01 07:45:48`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Undetected VAC module dumper &#40;no dll or injector required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701140-undetected-vac-module-dumper-dll-injector-required.html)|`2025-06-01 07:41:00`|`Anti-Cheat Bypass`|
 |[The First Descendant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/602336-descendant-reversal-structs-offsets.html)|`2025-06-01 07:34:00`|`Other FPS Games`|
 |[HX cheats mod menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/701574-hx-cheats-mod-menu.html)|`2025-06-01 07:33:00`|`Alternative Online Mods`|
 |[pubg kaka and stay source &#91;DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/698494-pubg-kaka-stay-source-dma.html)|`2025-06-01 07:31:00`|`Playerunknown's Battlegrounds`|
