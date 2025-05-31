@@ -12,6 +12,7 @@
 |9|[Crystal of Atlan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/702573-crystal-atlan.html)|`2025-05-31 00:14:35`|`other-mmorpg-and-strategy`|
 |19|[Easy Apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/702617-easy-apex.html)|`2025-05-31 00:14:35`|`apex-legends`|
 |32|[Smite 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/702558-smite-2-internal.html)|`2025-05-31 16:47:09`|`other-fps-games`|
+|7|[Dual PC Basic Setup &#45; Step&#45;by&#45;Step Hardware Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701965-dual-pc-basic-setup-step-step-hardware-guide.html)|`2025-05-31 20:54:00`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to use memflow for cheating &#40;how to learn&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/702996-memflow-cheating-learn.html)|`2025-05-31 20:51:00`|`Forum General`|
+|[About RP&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/702998-rp.html)|`2025-05-31 20:49:00`|`Grand Theft Auto V`|
+|[Wicked Menu/ Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/372512-wicked-menu-cheat-engine.html)|`2025-05-31 20:44:00`|`Red Dead Redemption 2`|
+|[Better Sunoki's fully updated TriggerBot &#43; Mafia4321x's Spoofer &#43; Cc's TB launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701603-sunokis-updated-triggerbot-mafia4321xs-spoofer-ccs-tb-launcher.html)|`2025-05-31 20:43:00`|`Valorant`|
+|[Onyx &#124; Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699725-onyx-triggerbot.html)|`2025-05-31 20:41:00`|`Valorant`|
 |[I wanna understand c so bad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/702556-wanna-understand-bad.html)|`2025-05-31 19:56:00`|`Off Topic`|
 |[Nenyooo Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/488777-nenyooo-menu.html)|`2025-05-31 19:54:00`|`Grand Theft Auto V`|
 |[dma cheat mc 1&#46;21&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/702588-dma-cheat-mc-1-21-4-a.html)|`2025-05-31 19:45:00`|`Minecraft`|
