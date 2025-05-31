@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Zodiak &#45; Fastcup Full Kernel Driver Cheat v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/665011-zodiak-fastcup-kernel-driver-cheat-v2.html)|`2025-05-31 22:31:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[CE Payday 3 &#45; 790407](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/697955-ce-payday-3-790407-a.html)|`2025-05-31 21:31:00`|`Payday 3`|
 |[HMW Unlock All &#43; Stats &#40;Can be done on your own account&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/702383-hmw-unlock-stats-own-account.html)|`2025-05-31 21:24:00`|`Call of Duty 4: Modern Warfare`|
 |[Help with argument to call game function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/701425-help-argument-call-game-function.html)|`2025-05-31 20:58:00`|`Forum General`|
