@@ -43,6 +43,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is It Possible to Train an AI Bot to Master "Puck" &#40;Physics&#45;Based Hockey Game&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/703151-train-ai-bot-master-puck-physics-based-hockey-game.html)|`2025-06-01 23:56:00`|`General Programming and Reversing`|
 |[How Vanguard works with Valorant &#43; Disabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/702821-vanguard-valorant-disabler.html)|`2025-06-01 23:48:00`|`Anti-Cheat Bypass`|
 |[TPM / HVCI / SB Popup Bypass by freezing Dnscache](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702867-tpm-hvci-sb-popup-bypass-freezing-dnscache.html)|`2025-06-01 23:46:00`|`Valorant`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-06-01 23:23:00`|`Rainbow Six Siege`|
