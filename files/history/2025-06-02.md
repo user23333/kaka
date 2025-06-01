@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-06-02 00:52:00`|`Rainbow Six Siege`|
+|[PLEASE GOD SOMEONE MAKE A DMA CHEAT ON HERE OR HELP ME MAKE ONE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/703095-please-god-dma-cheat-help.html)|`2025-06-02 00:51:00`|`Rainbow Six Siege`|
+|[Fluffbot420](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/700017-fluffbot420.html)|`2025-06-02 00:50:00`|`Marvel Rivals`|
+|[DMA DayZ Fuser ESP &#43; Radar Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/606723-dma-dayz-fuser-esp-radar-source-release.html)|`2025-06-02 00:50:00`|`DayZ SA`|
+|[New on Rainbow &#40;external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/703120-rainbow-external.html)|`2025-06-02 00:49:00`|`Rainbow Six Siege`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-06-02 00:49:00`|`Call of Duty: Black Ops 6`|
+|[Rank question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703116-rank-question.html)|`2025-06-02 00:46:00`|`Grand Theft Auto V`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-06-02 00:43:00`|`League of Legends`|
+|[How to find StaticFindObject address ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/693896-staticfindobject-address.html)|`2025-06-02 00:34:00`|`Unreal Engine 4`|
 |[Icon only bug in season 4 ????](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/702780-icon-bug-season-4-a.html)|`2025-06-02 00:13:00`|`Call of Duty: Black Ops 6`|
 |[dayz cheat external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/703099-dayz-cheat-external.html)|`2025-06-02 00:04:00`|`DayZ SA`|
 |[Check if in main menu?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702894-check-main-menu.html)|`2025-06-02 00:03:00`|`Counter-Strike 2`|
