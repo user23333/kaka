@@ -42,6 +42,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[There is a bot lobby method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/702909-bot-lobby-method.html)|`2025-06-01 21:49:00`|`Apex Legends`|
 |[PUBG MOBILE Gameloop Emulator Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/576303-pubg-mobile-gameloop-emulator-cheat.html)|`2025-06-01 21:32:00`|`PUBG Mobile`|
 |[GTA V Object ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/346794-gta-object-esp.html)|`2025-06-01 21:29:00`|`Grand Theft Auto V`|
 |[Apex Legends Lurching](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/700420-apex-legends-lurching.html)|`2025-06-01 21:18:00`|`Apex Legends`|
