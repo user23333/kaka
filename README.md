@@ -28,9 +28,21 @@
 |59|[Among us v11 cheat table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49890)|`2025-06-01 00:11:00`|
 |1|[Methcrack&#95;Pro&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49897)|`2025-06-01 06:59:01`|
 |1|[VACModuleDumper&#46;exe &#45; v0&#46;02](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49898)|`2025-06-01 07:45:48`|
+|11|[smite2updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49912)|`2025-06-01 09:38:34`|
+|3|[VAC3 CS2 Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49911)|`2025-06-01 09:38:34`|
+|7|[latest version of yim lsc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49909)|`2025-06-01 09:38:34`|
+|9|[EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49908)|`2025-06-01 09:38:34`|
+|4|[UnlockAll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49907)|`2025-06-01 09:38:34`|
+|2|[saved&#95;json&#95;vehicles&#95;yimmenuv2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49905)|`2025-06-01 09:38:34`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-06-01 09:38:00`|`Escape from Tarkov`|
+|[How to optimize arduino aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701392-optimize-arduino-aimbot.html)|`2025-06-01 09:31:00`|`Valorant`|
+|[Ai Model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/703092-ai-model.html)|`2025-06-01 09:30:00`|`THE FINALS`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-06-01 09:22:00`|`Valorant`|
+|[Skeleton ESP BUG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702967-skeleton-esp-bug.html)|`2025-06-01 09:21:00`|`Counter-Strike 2`|
+|[Smite 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/702558-smite-2-internal.html)|`2025-06-01 09:15:00`|`Other FPS Games`|
 |[Looking for a Safe Undetected Cheat as of 26&#45;05&#45;2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/702232-looking-safe-undetected-cheat-26-05-2025-a.html)|`2025-06-01 07:49:00`|`Grand Theft Auto V`|
 |[Undetected VAC module dumper &#40;no dll or injector required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701140-undetected-vac-module-dumper-dll-injector-required.html)|`2025-06-01 07:41:00`|`Anti-Cheat Bypass`|
 |[The First Descendant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/602336-descendant-reversal-structs-offsets.html)|`2025-06-01 07:34:00`|`Other FPS Games`|
