@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how would i make a cheat for this game myself](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/703208-cheat-game.html)|`2025-06-02 04:57:00`|`Star Wars Battlefront 2`|
 |[The Division 2 Triggerbot &#91;undetect btw&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/398356-division-2-triggerbot-undetect-btw.html)|`2025-06-02 04:33:00`|`Tom Clancy's The Division`|
 |[ACE anti&#45;cheat discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/687479-ace-anti-cheat-discussion.html)|`2025-06-02 04:29:00`|`Anti-Cheat Bypass`|
 |[&#91;Updated&#93; Dead by Daylight Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/635513-updated-dead-daylight-unlock-dlcs-skins.html)|`2025-06-02 04:28:00`|`Other FPS Games`|
