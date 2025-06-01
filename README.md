@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[No pill rotation?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/702474-pill-rotation.html)|`2025-06-02 05:24:00`|`Team Fortress 2`|
+|[⭐ Universal Triggerbot v1&#46;0b &#91;UNDETECTED&#93; 💕](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701916-universal-triggerbot-v1-0b-undetected.html)|`2025-06-02 05:21:00`|`Valorant`|
 |[sigarette &#45; x64dbg sig maker/scanner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/703210-sigarette-x64dbg-sig-maker-scanner.html)|`2025-06-02 05:16:00`|`General Programming and Reversing`|
 |[Motion Blur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702626-motion-blur.html)|`2025-06-02 05:12:00`|`Counter-Strike 2`|
 |[how would i make a cheat for this game myself](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/703208-cheat-game.html)|`2025-06-02 04:57:00`|`Star Wars Battlefront 2`|
