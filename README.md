@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Physical to Virtual with EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/702958-physical-virtual-eac.html)|`2025-06-02 02:36:00`|`Rust`|
+|[MmCopyMemory fails when dumping Apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/703174-mmcopymemory-fails-dumping-apex.html)|`2025-06-02 02:36:00`|`General Programming and Reversing`|
+|[How to dump the game to analyze in ida?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/703172-dump-game-analyze-ida.html)|`2025-06-02 02:32:00`|`Call of Duty: Black Ops 2`|
+|[YimMenuV2 E&E with money cheat &#40;No FSL&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/694886-yimmenuv2-money-cheat-fsl.html)|`2025-06-02 02:30:00`|`Grand Theft Auto V`|
 |[SurrounDead Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/703106-surroundead-cheat.html)|`2025-06-02 02:21:00`|`Other FPS Games`|
 |[I made open source modmenu for Mobile Legends with premium cheatloaders and its free&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/703144-source-modmenu-mobile-legends-premium-cheatloaders-free.html)|`2025-06-02 02:15:00`|`Android`|
 |[Programming for Beginners](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/703171-programming-beginners.html)|`2025-06-02 02:09:00`|`Programming for Beginners`|
