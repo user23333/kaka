@@ -42,6 +42,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;DMA&#93; COD &#45; ESP &#43; AIM &#40;steam only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700409-dma-cod-esp-aim-steam.html)|`2025-06-01 19:02:00`|`Call of Duty: Black Ops 6`|
 |[⋆˚✮🎧 ValoTrigger Pro Menu Update 🎧✮˚⋆](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702950-valotrigger-pro-menu-update.html)|`2025-06-01 18:54:00`|`Valorant`|
 |[Onyx &#124; Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699725-onyx-triggerbot.html)|`2025-06-01 18:49:00`|`Valorant`|
 |[Debugging Amalgam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/703123-debugging-amalgam.html)|`2025-06-01 18:19:00`|`Team Fortress 2`|
