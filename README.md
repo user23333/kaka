@@ -42,6 +42,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Amalgam x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/639800-amalgam-x64.html)|`2025-06-01 22:27:00`|`Team Fortress 2`|
+|[is there a direct way to get AEquippableGroundPickup&#95;C from an Actor?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703137-direct-aequippablegroundpickup_c-actor.html)|`2025-06-01 22:24:00`|`Valorant`|
 |[There is a bot lobby method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/702909-bot-lobby-method.html)|`2025-06-01 21:49:00`|`Apex Legends`|
 |[PUBG MOBILE Gameloop Emulator Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/576303-pubg-mobile-gameloop-emulator-cheat.html)|`2025-06-01 21:32:00`|`PUBG Mobile`|
 |[GTA V Object ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/346794-gta-object-esp.html)|`2025-06-01 21:29:00`|`Grand Theft Auto V`|
