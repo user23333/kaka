@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple ESP/Radar for HMW?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/701564-simple-esp-radar-hmw.html)|`2025-06-02 05:37:00`|`Call of Duty 4: Modern Warfare`|
+|[Has the Windows driver signature been cracked?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700793-windows-driver-signature-cracked.html)|`2025-06-02 05:37:00`|`Anti-Cheat Bypass`|
+|[⋆˚✮🎧 ValoTrigger Pro Menu Update 🎧✮˚⋆](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702950-valotrigger-pro-menu-update.html)|`2025-06-02 05:30:00`|`Valorant`|
 |[No pill rotation?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/702474-pill-rotation.html)|`2025-06-02 05:24:00`|`Team Fortress 2`|
 |[⭐ Universal Triggerbot v1&#46;0b &#91;UNDETECTED&#93; 💕](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701916-universal-triggerbot-v1-0b-undetected.html)|`2025-06-02 05:21:00`|`Valorant`|
 |[sigarette &#45; x64dbg sig maker/scanner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/703210-sigarette-x64dbg-sig-maker-scanner.html)|`2025-06-02 05:16:00`|`General Programming and Reversing`|
