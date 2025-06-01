@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-06-02 05:40:00`|`Phasmophobia`|
 |[Simple ESP/Radar for HMW?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/701564-simple-esp-radar-hmw.html)|`2025-06-02 05:37:00`|`Call of Duty 4: Modern Warfare`|
 |[Has the Windows driver signature been cracked?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700793-windows-driver-signature-cracked.html)|`2025-06-02 05:37:00`|`Anti-Cheat Bypass`|
 |[⋆˚✮🎧 ValoTrigger Pro Menu Update 🎧✮˚⋆](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702950-valotrigger-pro-menu-update.html)|`2025-06-02 05:30:00`|`Valorant`|
