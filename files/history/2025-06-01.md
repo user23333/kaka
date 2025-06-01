@@ -40,6 +40,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTA V Enhanced outfits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701323-gta-enhanced-outfits.html)|`2025-06-01 12:55:00`|`Grand Theft Auto V`|
+|[SurrounDead Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/703106-surroundead-cheat.html)|`2025-06-01 12:48:00`|`Other FPS Games`|
+|[Usernames not showing on some players randomly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703105-usernames-players-randomly.html)|`2025-06-01 12:47:00`|`Counter-Strike 2`|
 |[Does magic bullet work externally now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/703104-magic-bullet-externally.html)|`2025-06-01 12:42:00`|`PlanetSide 2`|
 |[VutriumBot 1&#46;0&#46;2 Free &#45; Rocket League Visual Aid & Bot Integration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/702424-vutriumbot-1-0-2-free-rocket-league-visual-aid-bot-integration.html)|`2025-06-01 12:40:00`|`Other Games`|
 |[Splitgate 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/656551-splitgate-2-reversal-structs-offsets.html)|`2025-06-01 12:38:00`|`Splitgate`|
