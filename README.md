@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ready to Paste NVIDIA GPU Spoofing &#40;multi&#45;version support 53x&#45;56x&#43;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685601-ready-paste-nvidia-gpu-spoofing-multi-version-support-53x-56x.html)|`2025-06-02 07:52:00`|`Anti-Cheat Bypass`|
 |[KMBox or MAKCU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702893-kmbox-makcu.html)|`2025-06-02 07:45:00`|`Valorant`|
 |[Meow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699145-meow.html)|`2025-06-02 07:42:00`|`Marvel Rivals`|
 |[VAN 152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703002-van-152-a.html)|`2025-06-02 07:30:00`|`Valorant`|
