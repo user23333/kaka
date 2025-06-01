@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant PixelBoT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702128-valorant-pixelbot.html)|`2025-06-02 01:28:00`|`Valorant`|
+|[Triggerbot, Counter strafe, Configs system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703075-triggerbot-counter-strafe-configs-system.html)|`2025-06-02 01:27:00`|`Valorant`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-06-02 01:25:00`|`Valorant`|
+|[Crystal of Atlan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/702573-crystal-atlan.html)|`2025-06-02 01:20:00`|`Other MMORPG and Strategy`|
+|[Get UE4 CurrentWeapon Offset Using SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/703161-ue4-currentweapon-offset-using-sdk.html)|`2025-06-02 01:16:00`|`PUBG Mobile`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-06-02 01:15:00`|`Other Games`|
 |[pubg kaka and stay source &#91;DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/698494-pubg-kaka-stay-source-dma.html)|`2025-06-02 01:14:00`|`Playerunknown's Battlegrounds`|
 |[L4D2 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/622950-l4d2-cheat.html)|`2025-06-02 01:13:00`|`Other FPS Games`|
 |[Anti&#45;Recoil Universal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/626683-anti-recoil-universal.html)|`2025-06-02 01:09:00`|`Rainbow Six Siege`|
