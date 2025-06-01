@@ -34,9 +34,17 @@
 |9|[EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49908)|`2025-06-01 09:38:34`|
 |4|[UnlockAll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49907)|`2025-06-01 09:38:34`|
 |2|[saved&#95;json&#95;vehicles&#95;yimmenuv2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49905)|`2025-06-01 09:38:34`|
+|1|[DeepSeekDriver&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49926)|`2025-06-01 11:22:51`|
+|4|[mod&#95;au 3&#46;2&#46;2&#46;0 &#40;steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49917)|`2025-06-01 11:22:51`|
+|7|[FluffBot420v1&#46;9&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49915)|`2025-06-01 11:22:51`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Info about remote injection of resources](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/702179-info-remote-injection-resources.html)|`2025-06-01 11:03:00`|`HELLDIVERS 2`|
+|[dayz cheat external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/703099-dayz-cheat-external.html)|`2025-06-01 11:02:00`|`DayZ SA`|
+|[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-06-01 11:00:00`|`HELLDIVERS 2`|
+|[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/696538-vigor-internal-cheat.html)|`2025-06-01 10:55:00`|`Other FPS Games`|
+|[Safer Driver Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/702983-safer-driver-cheat.html)|`2025-06-01 10:22:00`|`General Programming and Reversing`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-06-01 09:38:00`|`Escape from Tarkov`|
 |[How to optimize arduino aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701392-optimize-arduino-aimbot.html)|`2025-06-01 09:31:00`|`Valorant`|
 |[Ai Model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/703092-ai-model.html)|`2025-06-01 09:30:00`|`THE FINALS`|
