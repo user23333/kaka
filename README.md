@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[KMBox or MAKCU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702893-kmbox-makcu.html)|`2025-06-02 07:45:00`|`Valorant`|
 |[Meow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699145-meow.html)|`2025-06-02 07:42:00`|`Marvel Rivals`|
 |[VAN 152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703002-van-152-a.html)|`2025-06-02 07:30:00`|`Valorant`|
 |[SERVICE EARN Transactions on E&E with yimv2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703220-service-earn-transactions-yimv2.html)|`2025-06-02 07:27:00`|`Grand Theft Auto V`|
