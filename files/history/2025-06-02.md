@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Load Vulnerable Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703217-load-vulnerable-driver.html)|`2025-06-02 07:08:00`|`Anti-Cheat Bypass`|
+|[&#91;RELEASE&#93; Permanent Boot Spoofer — Loads Driver at Boot &#40;No kdmapper needed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703216-release-permanent-boot-spoofer-loads-driver-boot-kdmapper.html)|`2025-06-02 07:07:00`|`Valorant`|
 |[Starting my Cheat Dev journey&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701089-starting-cheat-dev-journey.html)|`2025-06-02 06:50:00`|`Rust`|
 |[Recoil scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/699848-recoil-scripts.html)|`2025-06-02 06:50:00`|`THE FINALS`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-06-02 06:49:00`|`Marvel Rivals`|
