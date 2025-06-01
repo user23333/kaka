@@ -42,6 +42,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Debugging Amalgam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/703123-debugging-amalgam.html)|`2025-06-01 18:19:00`|`Team Fortress 2`|
 |[Any pubg steam hack please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/702955-pubg-steam-hack-please.html)|`2025-06-01 17:52:00`|`Playerunknown's Battlegrounds`|
 |[New on Rainbow &#40;external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/703120-rainbow-external.html)|`2025-06-01 17:12:00`|`Rainbow Six Siege`|
 |[Read only Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699392-read-esp.html)|`2025-06-01 16:44:00`|`Counter-Strike 2`|
