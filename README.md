@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-06-03 01:06:00`|`Other FPS Games`|
+|[Anti&#45;Cheats Bypass Using External Thunderbolt Enclosure and Pcileech &#91;VGK&#93; &#91;FACEIT&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/702960-anti-cheats-bypass-using-external-thunderbolt-enclosure-pcileech-vgk-faceit.html)|`2025-06-03 01:04:00`|`Anti-Cheat Bypass`|
+|[I hate being low IQ, everything takes 3x longer to learn&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/700882-hate-low-iq-takes-3x-learn.html)|`2025-06-03 01:02:00`|`Off Topic`|
+|[&#91;Internal&#93; DayZ Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/696704-internal-dayz-cheat.html)|`2025-06-03 01:01:00`|`DayZ SA`|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-06-03 01:00:00`|`Counter-Strike 2 Releases`|
+|[dayz cheat external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/703099-dayz-cheat-external.html)|`2025-06-03 00:59:00`|`DayZ SA`|
 |[SurrounDead Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/703106-surroundead-cheat.html)|`2025-06-03 00:58:00`|`Other FPS Games`|
 |[Does Vanguard actually detect private DMA firmwares?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703351-vanguard-actually-detect-private-dma-firmwares.html)|`2025-06-03 00:47:00`|`Valorant`|
 |[twisted YimMenuV2 with lsc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701342-twisted-yimmenuv2-lsc.html)|`2025-06-03 00:47:00`|`Grand Theft Auto V`|
