@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-06-02 20:09:00`|`PUBG Releases`|
+|[League Kiting DMA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/701865-league-kiting-dma.html)|`2025-06-02 20:06:00`|`League of Legends`|
 |[Heist Party Powder DLC IDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/702277-heist-party-powder-dlc-ids.html)|`2025-06-02 19:18:00`|`Payday 3`|
 |[any cheat working for SP zm/mp? Just for fun](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-vanguard/687069-cheat-sp-zm-mp-fun.html)|`2025-06-02 19:15:00`|`Call of Duty: Vanguard`|
 |[dma cheat mc 1&#46;21&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/702588-dma-cheat-mc-1-21-4-a.html)|`2025-06-02 19:11:00`|`Minecraft`|
