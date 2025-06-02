@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rocket League &#45; Nebula Client, Item Spawner, Title Spawner, Etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696293-rocket-league-nebula-client-item-spawner-title-spawner-etc.html)|`2025-06-03 06:45:00`|`Other Games`|
+|[Getting an Handle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703380-getting-handle.html)|`2025-06-03 06:44:00`|`Anti-Cheat Bypass`|
 |[Player Model Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696994-player-model-changer.html)|`2025-06-03 06:35:00`|`Counter-Strike 2`|
 |[Smite 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/702558-smite-2-internal.html)|`2025-06-03 06:31:00`|`Other FPS Games`|
 |[can't get my JS code to run using run&#95;script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703028-cant-js-code-run-using-run_script.html)|`2025-06-03 06:30:00`|`Counter-Strike 2`|
