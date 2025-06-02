@@ -27,9 +27,14 @@
 |1|[Methcrack Pro V2&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49947)|`2025-06-03 04:43:25`|
 |5|[spoofer&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49940)|`2025-06-03 04:43:25`|
 |1|[Hearts of Iron IV&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49935)|`2025-06-03 04:43:25`|
+|1|[Squad 22: ZOV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49944)|`2025-06-03 05:13:45`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-06-03 05:02:00`|`Rust`|
+|[Squad 22: ZOV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/703276-squad-22-zov.html)|`2025-06-03 05:00:00`|`Other Games`|
+|[internal spoof calling n more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703275-internal-spoof-calling.html)|`2025-06-03 04:59:00`|`Valorant`|
+|[SubTick strafe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703375-subtick-strafe.html)|`2025-06-03 04:58:00`|`Counter-Strike 2`|
 |[Everything is correct , but esp doesnt show up](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703270-correct-esp-doesnt.html)|`2025-06-03 04:56:00`|`Valorant`|
 |[Apex Legends No Recoil &#91;Logitech Only&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/680089-apex-legends-recoil-logitech.html)|`2025-06-03 04:47:00`|`Apex Legends`|
 |[Custom Kill Ragdoll effects](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703227-custom-kill-ragdoll-effects.html)|`2025-06-03 04:44:00`|`Counter-Strike 2`|
