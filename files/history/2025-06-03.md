@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-06-03 03:03:00`|`Other FPS Games`|
 |[Simple ESP/Radar for HMW?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/701564-simple-esp-radar-hmw.html)|`2025-06-03 02:52:00`|`Call of Duty 4: Modern Warfare`|
 |[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-06-03 02:37:00`|`Other FPS Games`|
 |[simple glow snippet &#40;internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/685218-simple-glow-snippet-internal.html)|`2025-06-03 02:34:00`|`Marvel Rivals`|
