@@ -14,6 +14,7 @@
 |10|[HMW Unlock All &#43; Stats &#40;Can be done on your own account&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/702383-hmw-unlock-stats-own-account.html)|`2025-06-02 11:42:22`|`call-of-duty-4-modern-warfare`|
 |4|[« YoloV8 AIMBOT C&#43;&#43; source »](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702406-yolov8-aimbot-source.html)|`2025-06-02 12:38:04`|`valorant`|
 |23|[TPM / HVCI / SB Popup Bypass by freezing Dnscache](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702867-tpm-hvci-sb-popup-bypass-freezing-dnscache.html)|`2025-06-02 16:14:03`|`valorant`|
+|37|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-06-02 23:11:15`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,9 +32,12 @@
 |1|[CustomRules&#46;cs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49943)|`2025-06-02 22:35:28`|
 |2|[Universal&#95;sv&#95;pureLevelChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49921)|`2025-06-02 22:35:28`|
 |1|[Dayzcheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49930)|`2025-06-02 22:49:25`|
+|2|[VRising&#45;ESP&#45;Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49941)|`2025-06-02 23:11:15`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[V Rising &#45; Invaders of Oakveil Community Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/702226-rising-invaders-oakveil-community-cheat.html)|`2025-06-02 23:02:00`|`Other MMORPG and Strategy`|
+|[Dupe exploit &#91;PC Verison&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/688691-dupe-exploit-pc-verison.html)|`2025-06-02 22:56:00`|`DayZ SA`|
 |[Astroneer Qbits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/431633-astroneer-qbits.html)|`2025-06-02 22:27:00`|`Unreal Engine 4`|
 |[Free Apex Coins/Cheap Coins Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/693249-free-apex-coins-cheap-coins-thread.html)|`2025-06-02 22:22:00`|`Apex Legends`|
 |[FiveM sv&#95;pureLevel changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/640619-fivem-sv_purelevel-changer.html)|`2025-06-02 22:21:00`|`Alternative Online Mods`|
