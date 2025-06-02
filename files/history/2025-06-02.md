@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Universal Macro Tools &#40;All Games&#45;All Mouse&#41; NoRecoil&#45;Rapidfire](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/369416-universal-macro-tools-games-mouse-norecoil-rapidfire.html)|`2025-06-02 15:48:00`|`Other FPS Games`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-06-02 15:33:00`|`Phasmophobia`|
 |[IW4X unban after alterware update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/681411-iw4x-unban-alterware-update.html)|`2025-06-02 15:28:00`|`Call of Duty 6: Modern Warfare 2`|
 |[Bulldog CS2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/691601-bulldog-cs2-internal.html)|`2025-06-02 14:48:00`|`Counter-Strike 2 Releases`|
