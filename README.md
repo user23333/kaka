@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[can't get my JS code to run using run&#95;script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703028-cant-js-code-run-using-run_script.html)|`2025-06-03 06:30:00`|`Counter-Strike 2`|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-06-03 06:29:00`|`Counter-Strike 2`|
+|[How Vanguard works with Valorant &#43; Disabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/702821-vanguard-valorant-disabler.html)|`2025-06-03 06:28:00`|`Anti-Cheat Bypass`|
+|[Is there any way to set up my heist in Enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703014-set-heist-enhanced.html)|`2025-06-03 06:24:00`|`Grand Theft Auto V`|
+|[Remove grass and bushes from dark and darker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/703379-remove-grass-bushes-dark-darker.html)|`2025-06-03 06:22:00`|`Other FPS Games`|
 |[OSRS Magic Enchant Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/runescape/703377-osrs-magic-enchant-bot.html)|`2025-06-03 05:57:00`|`RuneScape`|
 |[Rust Anti Cheat Update Blocks Virtual Mouse Input&#46; Any Workarounds?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/700839-rust-anti-cheat-update-blocks-virtual-mouse-input-workarounds.html)|`2025-06-03 05:55:00`|`Rust`|
 |[Need help improving recoil smoothness & consistency &#40;C&#43;&#43; external Rust script&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/700389-help-improving-recoil-smoothness-consistency-external-rust-script.html)|`2025-06-03 05:54:00`|`Rust`|
