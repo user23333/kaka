@@ -33,9 +33,12 @@
 |2|[Universal&#95;sv&#95;pureLevelChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49921)|`2025-06-02 22:35:28`|
 |1|[Dayzcheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49930)|`2025-06-02 22:49:25`|
 |2|[VRising&#45;ESP&#45;Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49941)|`2025-06-02 23:11:15`|
+|2|[VRising&#45;ESP&#45;Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49942)|`2025-06-02 23:32:46`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Superglide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/688318-apex-superglide.html)|`2025-06-02 23:19:00`|`Apex Legends`|
+|[Macro No Recoil &#43; Auto Ping &#45; BO6 and Warzone&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/703339-macro-recoil-auto-ping-bo6-warzone.html)|`2025-06-02 23:05:00`|`Call of Duty: Black Ops 6`|
 |[V Rising &#45; Invaders of Oakveil Community Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/702226-rising-invaders-oakveil-community-cheat.html)|`2025-06-02 23:02:00`|`Other MMORPG and Strategy`|
 |[Dupe exploit &#91;PC Verison&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/688691-dupe-exploit-pc-verison.html)|`2025-06-02 22:56:00`|`DayZ SA`|
 |[Astroneer Qbits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/431633-astroneer-qbits.html)|`2025-06-02 22:27:00`|`Unreal Engine 4`|
