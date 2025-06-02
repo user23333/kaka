@@ -30,6 +30,7 @@
 |1|[SurrounDead Internal V1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49932)|`2025-06-02 02:22:14`|
 |1|[CustomRules&#46;cs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49943)|`2025-06-02 22:35:28`|
 |2|[Universal&#95;sv&#95;pureLevelChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49921)|`2025-06-02 22:35:28`|
+|1|[Dayzcheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49930)|`2025-06-02 22:49:25`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
