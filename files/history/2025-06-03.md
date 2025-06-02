@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SurrounDead Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/703106-surroundead-cheat.html)|`2025-06-03 00:58:00`|`Other FPS Games`|
+|[Does Vanguard actually detect private DMA firmwares?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703351-vanguard-actually-detect-private-dma-firmwares.html)|`2025-06-03 00:47:00`|`Valorant`|
+|[twisted YimMenuV2 with lsc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701342-twisted-yimmenuv2-lsc.html)|`2025-06-03 00:47:00`|`Grand Theft Auto V`|
+|[Reading XInput/PS5 Controller State via DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/703350-reading-xinput-ps5-controller-via-dma.html)|`2025-06-03 00:46:00`|`General Programming and Reversing`|
 |[What is cause my red trust on my new account?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702896-cause-red-trust-account.html)|`2025-06-03 00:42:00`|`Counter-Strike 2`|
 |[The detection issue of EAC&#45;EOS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/702845-detection-issue-eac-eos.html)|`2025-06-03 00:31:00`|`Anti-Cheat Bypass`|
 |[Cartoon Shooter Game Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/702855-cartoon-shooter-game-thread.html)|`2025-06-03 00:30:00`|`Off Topic`|
