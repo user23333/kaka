@@ -28,9 +28,15 @@
 |19|[VAC3 CS2 Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49911)|`2025-06-02 00:21:21`|
 |68|[FiveM DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49910)|`2025-06-02 00:21:21`|
 |1|[SurrounDead Internal V1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49932)|`2025-06-02 02:22:14`|
+|1|[CustomRules&#46;cs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49943)|`2025-06-02 22:35:28`|
+|2|[Universal&#95;sv&#95;pureLevelChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49921)|`2025-06-02 22:35:28`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Astroneer Qbits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/431633-astroneer-qbits.html)|`2025-06-02 22:27:00`|`Unreal Engine 4`|
+|[Free Apex Coins/Cheap Coins Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/693249-free-apex-coins-cheap-coins-thread.html)|`2025-06-02 22:22:00`|`Apex Legends`|
+|[FiveM sv&#95;pureLevel changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/640619-fivem-sv_purelevel-changer.html)|`2025-06-02 22:21:00`|`Alternative Online Mods`|
+|[Fix "The client failed the anti&#45;cheat backend check"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703335-fix-client-failed-anti-cheat-backend-check.html)|`2025-06-02 22:12:00`|`Apex Legends`|
 |[Dead By Daylight Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694248-dead-daylight-internal.html)|`2025-06-02 22:04:00`|`Other FPS Games`|
 |[Any up to date linux cheats for TF2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/700036-date-linux-cheats-tf2.html)|`2025-06-02 21:54:00`|`Team Fortress 2`|
 |[The Quinfall &#45; Hack &#40;Auto Gather, Kill whole map etc&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/687398-quinfall-hack-auto-gather-kill-map-etc.html)|`2025-06-02 21:47:00`|`Other MMORPG and Strategy`|
