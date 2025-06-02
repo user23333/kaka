@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-06-03 01:44:00`|`Escape from Tarkov`|
 |[Methcrack Pro V2 AI AimBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/703241-methcrack-pro-v2-ai-aimbot.html)|`2025-06-03 01:43:00`|`Half Life`|
 |[Get UE4 CurrentWeapon Offset Using SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/703161-ue4-currentweapon-offset-using-sdk.html)|`2025-06-03 01:40:00`|`PUBG Mobile`|
 |[Driver problems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/703356-driver.html)|`2025-06-03 01:32:00`|`C and C++`|
