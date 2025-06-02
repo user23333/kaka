@@ -24,9 +24,14 @@
 |286|[Black ops 6 External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49923)|`2025-06-03 00:21:33`|
 |7|[Universal&#95;sv&#95;pureLevelChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49921)|`2025-06-03 00:21:33`|
 |57|[mod&#95;au 3&#46;2&#46;2&#46;0 &#40;steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49917)|`2025-06-03 00:21:33`|
+|1|[Methcrack Pro V2&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49947)|`2025-06-03 04:43:25`|
+|5|[spoofer&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49940)|`2025-06-03 04:43:25`|
+|1|[Hearts of Iron IV&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49935)|`2025-06-03 04:43:25`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hearts of Iron IV Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/703167-hearts-iron-iv-cheat.html)|`2025-06-03 04:41:00`|`Other MMORPG and Strategy`|
+|[External Raycasting &#40;PhysX recreation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673196-external-raycasting-physx-recreation.html)|`2025-06-03 04:36:00`|`Escape from Tarkov`|
 |[Cs2 Voidware External Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693235-cs2-voidware-external-read.html)|`2025-06-03 04:29:00`|`Counter-Strike 2`|
 |[Arduino Uno R4 &#43; USB HOST SHIELD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703284-arduino-uno-r4-usb-host-shield.html)|`2025-06-03 04:03:00`|`Valorant`|
 |[external BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/702640-external-bo6.html)|`2025-06-03 03:56:00`|`Call of Duty: Black Ops 6`|
