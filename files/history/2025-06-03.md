@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What is cause my red trust on my new account?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702896-cause-red-trust-account.html)|`2025-06-03 00:42:00`|`Counter-Strike 2`|
+|[The detection issue of EAC&#45;EOS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/702845-detection-issue-eac-eos.html)|`2025-06-03 00:31:00`|`Anti-Cheat Bypass`|
+|[Cartoon Shooter Game Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/702855-cartoon-shooter-game-thread.html)|`2025-06-03 00:30:00`|`Off Topic`|
+|[Free Apex Coins/Cheap Coins Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/693249-free-apex-coins-cheap-coins-thread.html)|`2025-06-03 00:30:00`|`Apex Legends`|
+|[HWID ban duration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/625445-hwid-ban-duration.html)|`2025-06-03 00:25:00`|`Valorant`|
+|[Does magic bullet work externally now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/703104-magic-bullet-externally.html)|`2025-06-03 00:22:00`|`PlanetSide 2`|
 |[Zero Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703075-zero-triggerbot.html)|`2025-06-03 00:21:00`|`Valorant`|
 |[By any chance, does anyone know of any World of Tanks Blitz hacks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/606471-chance-world-tanks-blitz-hacks.html)|`2025-06-03 00:18:00`|`Other Games`|
 |[Easy Apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/702617-easy-apex.html)|`2025-06-03 00:08:00`|`Apex Legends`|
