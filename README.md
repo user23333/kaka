@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-06-03 22:58:00`|`Other FPS Games`|
 |[trigger bot driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703118-trigger-bot-driver.html)|`2025-06-03 22:50:00`|`Valorant`|
 |[Blue screen on mouse movement after running valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703515-blue-screen-mouse-movement-running-valorant.html)|`2025-06-03 22:49:00`|`Valorant`|
 |[iced&#43;&#43; &#45; C&#43;&#43; wrapper for icedx86 decoder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/703514-iced-wrapper-icedx86-decoder.html)|`2025-06-03 22:41:00`|`C and C++`|
