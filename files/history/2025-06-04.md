@@ -12,6 +12,7 @@
 |23|[TPM / HVCI / SB Popup Bypass by freezing Dnscache](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702867-tpm-hvci-sb-popup-bypass-freezing-dnscache.html)|`2025-06-04 00:18:04`|`valorant`|
 |19|[need new offsets for internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702635-offsets-internal.html)|`2025-06-04 00:18:04`|`valorant`|
 |14|[Commendation Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/702907-commendation-exploit.html)|`2025-06-04 00:57:47`|`sea-of-thieves`|
+|25|[&#91;RELEASE&#93; Permanent Boot Spoofer — Loads Driver at Boot &#40;No kdmapper needed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703216-release-permanent-boot-spoofer-loads-driver-boot-kdmapper.html)|`2025-06-04 05:11:33`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
