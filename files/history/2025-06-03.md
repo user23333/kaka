@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lua sciprt for Unique Cargo CEO &#40;globals update?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703412-lua-sciprt-unique-cargo-ceo-globals-update.html)|`2025-06-03 14:27:00`|`Grand Theft Auto V`|
 |[YimMenuV2 Latest Patch build 819](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699673-yimmenuv2-patch-build-819-a.html)|`2025-06-03 14:04:00`|`Grand Theft Auto V`|
 |[alien egg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703410-alien-egg.html)|`2025-06-03 13:50:00`|`Grand Theft Auto V`|
 |[WDA&#95;excludefromcapture Bypass Needed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699010-wda_excludefromcapture-bypass.html)|`2025-06-03 13:18:00`|`Anti-Cheat Bypass`|
