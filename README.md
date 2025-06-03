@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[can't get my JS code to run using run&#95;script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703028-cant-js-code-run-using-run_script.html)|`2025-06-04 01:13:00`|`Counter-Strike 2`|
+|[pdfwkrnl exploit &#43; kernel function calling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703376-pdfwkrnl-exploit-kernel-function-calling.html)|`2025-06-04 01:12:00`|`Anti-Cheat Bypass`|
+|[Nightreign Relic Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/703528-nightreign-relic-editor.html)|`2025-06-04 01:07:00`|`Other Games`|
+|[What's Your Favorite PC Game?  Post Here&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/36192-whats-favorite-pc-game-post.html)|`2025-06-04 01:04:00`|`Off Topic`|
+|[Input pattern](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703526-input-pattern.html)|`2025-06-04 01:03:00`|`Counter-Strike 2`|
+|[The detection issue of EAC&#45;EOS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/702845-detection-issue-eac-eos.html)|`2025-06-04 01:01:00`|`Anti-Cheat Bypass`|
 |[HWID BAN QUICK FIX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703525-hwid-ban-quick-fix.html)|`2025-06-04 00:56:00`|`Valorant`|
 |[need some help with gworld](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/703524-help-gworld.html)|`2025-06-04 00:56:00`|`Splitgate`|
 |[Macro No Recoil &#43; Auto Ping &#45; BO6 and Warzone&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/703339-macro-recoil-auto-ping-bo6-warzone.html)|`2025-06-04 00:51:00`|`Call of Duty: Black Ops 6`|
