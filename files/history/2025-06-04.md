@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any news of recoil macros being detected in Siege X](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/703096-news-recoil-macros-detected-siege.html)|`2025-06-04 05:26:00`|`Rainbow Six Siege`|
+|[Help with the driver implementation in the kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703429-help-driver-implementation-kernel.html)|`2025-06-04 05:25:00`|`Anti-Cheat Bypass`|
 |[Motion Blur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702626-motion-blur.html)|`2025-06-04 04:50:00`|`Counter-Strike 2`|
 |[Ghub jitter aim and mantle jump script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/606681-ghub-jitter-aim-mantle-jump-script.html)|`2025-06-04 04:39:00`|`Apex Legends`|
 |[EAC doesn't shuffle cr3 recently?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703170-eac-doesnt-shuffle-cr3-recently.html)|`2025-06-04 04:36:00`|`Anti-Cheat Bypass`|
