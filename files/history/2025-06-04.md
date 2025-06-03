@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ghub jitter aim and mantle jump script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/606681-ghub-jitter-aim-mantle-jump-script.html)|`2025-06-04 04:39:00`|`Apex Legends`|
+|[EAC doesn't shuffle cr3 recently?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703170-eac-doesnt-shuffle-cr3-recently.html)|`2025-06-04 04:36:00`|`Anti-Cheat Bypass`|
 |[How to unlock rare costumes with YimMenuV2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703518-unlock-rare-costumes-yimmenuv2.html)|`2025-06-04 04:28:00`|`Grand Theft Auto V`|
 |[valorant in vm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703513-valorant-vm.html)|`2025-06-04 04:21:00`|`Valorant`|
 |[Definitive Ultimate Cheatpack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/633084-definitive-ultimate-cheatpack.html)|`2025-06-04 04:16:00`|`Star Wars Battlefront 2`|
