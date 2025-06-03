@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Member of the Month &#45; June 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/703498-month-june-2025-a.html)|`2025-06-03 21:47:00`|`Member of the Month`|
+|[Star Citizen &#45; Bugs and Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/703488-star-citizen-bugs-methods.html)|`2025-06-03 21:44:00`|`Other FPS Games`|
+|[Is It Possible to Train an AI Bot to Master "Puck" &#40;Physics&#45;Based Hockey Game&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/703481-train-ai-bot-master-puck-physics-based-hockey-game.html)|`2025-06-03 21:42:00`|`General Programming and Reversing`|
 |[Can't figure out mousemove aimbot&#43;rcs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703177-cant-figure-mousemove-aimbot-rcs.html)|`2025-06-03 21:31:00`|`Counter-Strike 2`|
 |[Sideloading cert](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700219-sideloading-cert.html)|`2025-06-03 21:31:00`|`Anti-Cheat Bypass`|
 |[Replay Glitch For Enhanced Version &#40;in depth guide&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691095-replay-glitch-enhanced-version-depth-guide.html)|`2025-06-03 21:27:00`|`Grand Theft Auto V`|
