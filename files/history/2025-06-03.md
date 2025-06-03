@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can't figure out mousemove aimbot&#43;rcs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703177-cant-figure-mousemove-aimbot-rcs.html)|`2025-06-03 21:31:00`|`Counter-Strike 2`|
+|[Sideloading cert](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700219-sideloading-cert.html)|`2025-06-03 21:31:00`|`Anti-Cheat Bypass`|
+|[Replay Glitch For Enhanced Version &#40;in depth guide&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/691095-replay-glitch-enhanced-version-depth-guide.html)|`2025-06-03 21:27:00`|`Grand Theft Auto V`|
+|[GTAVTool &#45; Replay Glitch Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/636267-gtavtool-replay-glitch-tool.html)|`2025-06-03 21:25:00`|`Grand Theft Auto V`|
+|[Lua G Hub Script — Fully Undetectable on FACEIT &#40;2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703146-lua-hub-script-undetectable-faceit-2025-a.html)|`2025-06-03 21:23:00`|`Counter-Strike 2`|
 |[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2025-06-03 20:51:00`|`Other MMORPG and Strategy`|
 |[first time user](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/703426-time-user.html)|`2025-06-03 20:13:00`|`Introductions`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-06-03 20:09:00`|`Grand Theft Auto V`|
