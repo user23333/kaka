@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 uses only AI &#124; Anti&#45;Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701282-cs2-ai-anti-cheat.html)|`2025-06-04 07:33:00`|`Counter-Strike 2`|
+|[Rocket League &#45; KingMod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/703487-rocket-league-kingmod.html)|`2025-06-04 07:31:00`|`Other Games`|
 |[&#91;PC&#93; DayZ clone exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/703564-pc-dayz-clone-exploit.html)|`2025-06-04 07:18:00`|`DayZ SA`|
 |[Meow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699145-meow.html)|`2025-06-04 07:00:00`|`Marvel Rivals`|
 |[Getting an Handle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703380-getting-handle.html)|`2025-06-04 06:57:00`|`Anti-Cheat Bypass`|
