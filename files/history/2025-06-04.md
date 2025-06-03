@@ -24,9 +24,19 @@
 |91|[5&#46;6&#46;0&#45;42911808&#43;&#43;&#43;Fortnite&#43;Release&#45;35&#46;20](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49934)|`2025-06-04 00:18:04`|
 |33|[SurrounDead Internal V1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49932)|`2025-06-04 00:18:04`|
 |71|[Dayzcheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49930)|`2025-06-04 00:18:04`|
+|1|[interception&#46;net v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49954)|`2025-06-04 00:45:23`|
+|3|[Macro No Recoil &#43; Auto Ping BO6&#45;Warzone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49945)|`2025-06-04 00:45:23`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SubTick strafe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703375-subtick-strafe.html)|`2025-06-04 00:44:00`|`Counter-Strike 2`|
+|[Blacklight Retribution ESP &#43; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/703520-blacklight-retribution-esp-aimbot.html)|`2025-06-04 00:44:00`|`Other FPS Games`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-06-04 00:42:00`|`Rust`|
+|[Interception &#46;net](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-/703427-interception-net.html)|`2025-06-04 00:42:00`|`C#`|
+|[Smite 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/702558-smite-2-internal.html)|`2025-06-04 00:39:00`|`Other FPS Games`|
+|[how would i make a cheat for this game myself](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/703208-cheat-game.html)|`2025-06-04 00:38:00`|`Star Wars Battlefront 2`|
+|[YimMenuV2Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697581-yimmenuv2mod.html)|`2025-06-04 00:38:00`|`Grand Theft Auto V`|
+|[internal spoof calling n more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703275-internal-spoof-calling.html)|`2025-06-04 00:38:00`|`Valorant`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-06-04 00:16:00`|`DayZ SA`|
 |[Do your part&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/703383-do-your-part.html)|`2025-06-04 00:12:00`|`Off Topic`|
 |[Cracked rust cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/703517-cracked-rust-cheat.html)|`2025-06-04 00:11:00`|`Rust`|
