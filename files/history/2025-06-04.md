@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mouse move aimbot no longer works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703553-mouse-move-aimbot.html)|`2025-06-04 05:49:00`|`Apex Legends`|
 |[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-06-04 05:39:00`|`Other FPS Games`|
 |[PostRender XQZ chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/703552-postrender-xqz-chams.html)|`2025-06-04 05:33:00`|`Garry's Mod`|
 |[Extreme Injector 3&#46;7 cant find kernel32&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/703337-extreme-injector-3-7-cant-kernel32-dll.html)|`2025-06-04 05:32:00`|`Other FPS Games`|
