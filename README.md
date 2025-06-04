@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PLEASE GOD SOMEONE MAKE A DMA CHEAT ON HERE OR HELP ME MAKE ONE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/703095-please-god-dma-cheat-help.html)|`2025-06-04 15:15:00`|`Rainbow Six Siege`|
+|[Model for AI Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/691272-model-ai-aimbot.html)|`2025-06-04 15:12:00`|`CrossFire`|
 |[ban for 72 hours](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/702916-ban-72-hours.html)|`2025-06-04 14:35:00`|`Playerunknown's Battlegrounds`|
 |[Dead By Daylight Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694248-dead-daylight-internal.html)|`2025-06-04 14:15:00`|`Other FPS Games`|
 |[TOP MACRO Logitech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668884-top-macro-logitech.html)|`2025-06-04 13:11:00`|`Rust`|
