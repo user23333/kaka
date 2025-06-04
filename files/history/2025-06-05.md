@@ -28,6 +28,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pirate Generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/699335-pirate-generator.html)|`2025-06-05 02:44:00`|`Sea of Thieves`|
+|[CS2 uses only AI &#124; Anti&#45;Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701282-cs2-ai-anti-cheat.html)|`2025-06-05 02:41:00`|`Counter-Strike 2`|
+|[Made a simple packer in rust for COM files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/703647-simple-packer-rust-com-files.html)|`2025-06-05 02:39:00`|`General Programming and Reversing`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-06-05 02:39:00`|`ARMA 3`|
+|[Arduino Uno R4 &#43; USB HOST SHIELD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703284-arduino-uno-r4-usb-host-shield.html)|`2025-06-05 02:38:00`|`Valorant`|
+|[Motion Blur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702626-motion-blur.html)|`2025-06-05 02:32:00`|`Counter-Strike 2`|
+|[EAC doesn't shuffle cr3 recently?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703170-eac-doesnt-shuffle-cr3-recently.html)|`2025-06-05 02:30:00`|`Anti-Cheat Bypass`|
+|[Commendation Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/702907-commendation-exploit.html)|`2025-06-05 02:26:00`|`Sea of Thieves`|
+|[time&#95;scale external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703646-time_scale-external.html)|`2025-06-05 02:24:00`|`Anti-Cheat Bypass`|
 |[Help with the driver implementation in the kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703429-help-driver-implementation-kernel.html)|`2025-06-05 01:56:00`|`Anti-Cheat Bypass`|
 |[Is there any way to set up my heist in Enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703014-set-heist-enhanced.html)|`2025-06-05 01:49:00`|`Grand Theft Auto V`|
 |[Can I spawn NPC models online?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703626-spawn-npc-models-online.html)|`2025-06-05 01:41:00`|`Grand Theft Auto V`|
