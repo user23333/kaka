@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking For A Working Valorant Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700649-looking-valorant-spoofer.html)|`2025-06-04 21:58:00`|`Valorant`|
 |[did they add a hwid ban yet?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/703531-add-hwid-ban.html)|`2025-06-04 21:52:00`|`Marvel Rivals`|
 |[VALORANT TPM  SECURE BOOT HVCI HWID GİGABYTE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703627-valorant-tpm-secure-boot-hvci-hwid-gabyte.html)|`2025-06-04 21:48:00`|`Valorant`|
 |[Can I spawn NPC models online?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703626-spawn-npc-models-online.html)|`2025-06-04 21:38:00`|`Grand Theft Auto V`|
