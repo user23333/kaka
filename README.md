@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fivem Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/685777-fivem-internal-cheat.html)|`2025-06-04 22:03:00`|`Alternative Online Mods`|
+|[Blue screen on mouse movement after running valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703515-blue-screen-mouse-movement-running-valorant.html)|`2025-06-04 22:02:00`|`Valorant`|
 |[Looking For A Working Valorant Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700649-looking-valorant-spoofer.html)|`2025-06-04 21:58:00`|`Valorant`|
 |[did they add a hwid ban yet?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/703531-add-hwid-ban.html)|`2025-06-04 21:52:00`|`Marvel Rivals`|
 |[VALORANT TPM  SECURE BOOT HVCI HWID GİGABYTE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703627-valorant-tpm-secure-boot-hvci-hwid-gabyte.html)|`2025-06-04 21:48:00`|`Valorant`|
