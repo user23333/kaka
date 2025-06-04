@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Banned in Valorant &#45; Data Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/394123-banned-valorant-data-collection-thread.html)|`2025-06-04 22:48:00`|`Valorant`|
+|[Commendation Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/702907-commendation-exploit.html)|`2025-06-04 22:44:00`|`Sea of Thieves`|
+|[Pirate Generator &#40;that works&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/703442-pirate-generator.html)|`2025-06-04 22:36:00`|`Sea of Thieves`|
+|[Chivalry 2 Heaveyweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689993-chivalry-2-heaveyweight-cheat.html)|`2025-06-04 22:28:00`|`Other Games`|
+|[Member of the Month &#45; June 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/703498-month-june-2025-a.html)|`2025-06-04 22:26:00`|`Member of the Month`|
 |[Fivem Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/685777-fivem-internal-cheat.html)|`2025-06-04 22:03:00`|`Alternative Online Mods`|
 |[Blue screen on mouse movement after running valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703515-blue-screen-mouse-movement-running-valorant.html)|`2025-06-04 22:02:00`|`Valorant`|
 |[Looking For A Working Valorant Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700649-looking-valorant-spoofer.html)|`2025-06-04 21:58:00`|`Valorant`|
