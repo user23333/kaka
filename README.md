@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BO2Z Toolbox 2&#46;4 &#40;plutonium&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/418713-bo2z-toolbox-2-4-plutonium.html)|`2025-06-04 08:43:00`|`Call of Duty: Black Ops 2`|
+|[external BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/702640-external-bo6.html)|`2025-06-04 08:29:00`|`Call of Duty: Black Ops 6`|
+|[The Adryan Pack &#45; Multiplayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/694661-adryan-pack-multiplayer.html)|`2025-06-04 08:17:00`|`Star Wars Battlefront 2`|
+|[How to deactivate GameObject externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/703566-deactivate-gameobject-externally.html)|`2025-06-04 08:15:00`|`Unity`|
+|[Nuxar1 Decryption dumper fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699123-nuxar1-decryption-dumper-fix.html)|`2025-06-04 08:02:00`|`Call of Duty: Black Ops 6`|
 |[CS2 uses only AI &#124; Anti&#45;Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701282-cs2-ai-anti-cheat.html)|`2025-06-04 07:33:00`|`Counter-Strike 2`|
 |[Rocket League &#45; KingMod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/703487-rocket-league-kingmod.html)|`2025-06-04 07:31:00`|`Other Games`|
 |[&#91;PC&#93; DayZ clone exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/703564-pc-dayz-clone-exploit.html)|`2025-06-04 07:18:00`|`DayZ SA`|
