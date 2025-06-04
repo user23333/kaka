@@ -28,9 +28,14 @@
 |113|[5&#46;6&#46;0&#45;42911808&#43;&#43;&#43;Fortnite&#43;Release&#45;35&#46;20](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49934)|`2025-06-05 00:16:42`|
 |1|[SilentWare SRC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49949)|`2025-06-05 03:08:55`|
 |1|[src1&#45;x64&#45;internal&#45;base&#45;odin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49961)|`2025-06-05 03:48:09`|
+|1|[interception&#46;net v1 source code ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49962)|`2025-06-05 04:18:18`|
+|1|[pdfwkrnl&#45;exploit&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49948)|`2025-06-05 04:18:18`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[pdfwkrnl exploit &#43; kernel function calling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703376-pdfwkrnl-exploit-kernel-function-calling.html)|`2025-06-05 04:14:00`|`Anti-Cheat Bypass`|
+|[Interception &#46;net](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-/703427-interception-net.html)|`2025-06-05 04:14:00`|`C#`|
+|[Aero Tales Online The World &#45; AntiCheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/703676-aero-tales-online-world-anticheat.html)|`2025-06-05 04:04:00`|`Other Games`|
 |[ask dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/700956-dma.html)|`2025-06-05 03:53:00`|`Apex Legends`|
 |[Workaround](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703668-workaround.html)|`2025-06-05 03:47:00`|`Apex Legends`|
 |[Source1 x64 internal base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/source-engine/703546-source1-x64-internal-base.html)|`2025-06-05 03:47:00`|`Source Engine`|
