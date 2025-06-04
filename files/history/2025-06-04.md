@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anti&#45;Cheats Bypass Using External Thunderbolt Enclosure and Pcileech &#91;VGK&#93; &#91;FACEIT&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/702960-anti-cheats-bypass-using-external-thunderbolt-enclosure-pcileech-vgk-faceit.html)|`2025-06-04 16:31:00`|`Anti-Cheat Bypass`|
 |[Valorant EFI Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/614166-valorant-efi-spoofer.html)|`2025-06-04 16:25:00`|`Valorant`|
 |[Camera Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703589-camera-offsets.html)|`2025-06-04 16:19:00`|`Valorant`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-06-04 16:08:00`|`Other Games`|
