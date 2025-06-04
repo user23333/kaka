@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Model for AI Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/691272-model-ai-aimbot.html)|`2025-06-05 07:34:00`|`CrossFire`|
 |[Is It Possible to Train an AI Bot to Master "Puck" &#40;Physics&#45;Based Hockey Game&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/703481-train-ai-bot-master-puck-physics-based-hockey-game.html)|`2025-06-05 07:28:00`|`General Programming and Reversing`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-06-05 07:08:00`|`DayZ SA`|
 |[&#91;RELEASE&#93; Permanent Boot Spoofer — Loads Driver at Boot &#40;No kdmapper needed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703216-release-permanent-boot-spoofer-loads-driver-boot-kdmapper.html)|`2025-06-05 07:03:00`|`Valorant`|
