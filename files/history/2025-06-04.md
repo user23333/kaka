@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CrossFire minimizes when dumping with ScyllaHide &#40;for research purposes&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/699555-crossfire-minimizes-dumping-scyllahide-research-purposes.html)|`2025-06-04 23:56:00`|`CrossFire`|
+|[esp dont work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703549-esp-dont.html)|`2025-06-04 23:49:00`|`Counter-Strike 2`|
+|[account permanently banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/695891-account-permanently-banned.html)|`2025-06-04 23:40:00`|`Call of Duty: Black Ops 6`|
 |[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2025-06-04 23:07:00`|`Counter-Strike 2`|
 |[Banned in Valorant &#45; Data Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/394123-banned-valorant-data-collection-thread.html)|`2025-06-04 22:48:00`|`Valorant`|
 |[Commendation Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/702907-commendation-exploit.html)|`2025-06-04 22:44:00`|`Sea of Thieves`|
