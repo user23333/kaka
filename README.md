@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Get UE4 CurrentWeapon Offset Using SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/703161-ue4-currentweapon-offset-using-sdk.html)|`2025-06-04 19:51:00`|`PUBG Mobile`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-06-04 19:45:00`|`Counter-Strike 2`|
 |[How to Bypass Decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699974-bypass-decryption.html)|`2025-06-04 19:02:00`|`Call of Duty: Black Ops 6`|
 |[Gmod External Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/702859-gmod-external-python.html)|`2025-06-04 19:01:00`|`Garry's Mod`|
