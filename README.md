@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is there any way to set up my heist in Enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703014-set-heist-enhanced.html)|`2025-06-05 01:49:00`|`Grand Theft Auto V`|
 |[Can I spawn NPC models online?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703626-spawn-npc-models-online.html)|`2025-06-05 01:41:00`|`Grand Theft Auto V`|
 |[Meow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699145-meow.html)|`2025-06-05 01:40:00`|`Marvel Rivals`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-06-05 01:40:00`|`Call of Duty: Black Ops 6`|
