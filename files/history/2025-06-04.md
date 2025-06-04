@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Custom Kill Ragdoll effects](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703227-custom-kill-ragdoll-effects.html)|`2025-06-04 21:09:00`|`Counter-Strike 2`|
+|[Is there any way to set up my heist in Enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703014-set-heist-enhanced.html)|`2025-06-04 21:08:00`|`Grand Theft Auto V`|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-06-04 20:32:00`|`Counter-Strike 2`|
 |[trigger bot driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703118-trigger-bot-driver.html)|`2025-06-04 20:30:00`|`Valorant`|
 |[Gray Zone Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/634880-gray-zone-warfare-reversal-structs-offsets.html)|`2025-06-04 20:21:00`|`Other FPS Games`|
 |[Proper Unreal Engine VR W2S](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/703617-proper-unreal-engine-vr-w2s.html)|`2025-06-04 20:09:00`|`Unreal Engine 4`|
