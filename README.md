@@ -42,6 +42,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Free Valorant Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703748-free-valorant-internal.html)|`2025-06-05 19:45:00`|`Valorant`|
+|[Which identifiers does EAC ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698713-identifiers-eac-ban.html)|`2025-06-05 19:45:00`|`Anti-Cheat Bypass`|
 |[Repu Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703747-repu-table.html)|`2025-06-05 19:33:00`|`Grand Theft Auto V`|
 |[how to get past scp sl global ban? im testing the anticheat&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/703744-past-scp-sl-global-ban-im-testing-anticheat.html)|`2025-06-05 18:50:00`|`Other Games`|
 |[HWID Ban and Multiple accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/703278-hwid-ban-multiple-accounts.html)|`2025-06-05 18:13:00`|`Genshin Impact`|
