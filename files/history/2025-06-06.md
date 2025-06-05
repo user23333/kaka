@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fluffbot420](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/700017-fluffbot420.html)|`2025-06-06 05:05:00`|`Marvel Rivals`|
+|[Dune: Awakening Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699887-dune-awakening-reversal-structs-offsets.html)|`2025-06-06 05:03:00`|`Other FPS Games`|
 |[SERVICE EARN Transactions on E&E with yimv2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703220-service-earn-transactions-yimv2.html)|`2025-06-06 04:53:00`|`Grand Theft Auto V`|
 |[Macro No Recoil &#43; Auto Ping &#45; BO6 and Warzone&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/703339-macro-recoil-auto-ping-bo6-warzone.html)|`2025-06-06 04:45:00`|`Call of Duty: Black Ops 6`|
 |[Script using ESP32&#45;S3, EAC Detection?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/703547-script-using-esp32-s3-eac-detection.html)|`2025-06-06 04:32:00`|`Rust`|
