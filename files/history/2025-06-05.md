@@ -42,6 +42,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PCI Card Emulation Questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703784-pci-card-emulation-questions.html)|`2025-06-05 23:42:00`|`Anti-Cheat Bypass`|
 |[Hyperdbg driver detected by EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700521-hyperdbg-driver-detected-eac.html)|`2025-06-05 23:37:00`|`Anti-Cheat Bypass`|
 |[MmCopyMemory fails when dumping Apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/703174-mmcopymemory-fails-dumping-apex.html)|`2025-06-05 23:35:00`|`General Programming and Reversing`|
 |[Write to ConvarAdmin stopped working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/703782-write-convaradmin-stopped.html)|`2025-06-05 23:34:00`|`Rust`|
