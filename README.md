@@ -42,6 +42,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Warframe&#93; Player Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/678485-warframe-player-offset.html)|`2025-06-05 21:02:00`|`Other FPS Games`|
+|[Valorant External Source Free](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703760-valorant-external-source-free.html)|`2025-06-05 20:54:00`|`Valorant`|
+|[Does Vanguard actually detect private DMA firmwares?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703351-vanguard-actually-detect-private-dma-firmwares.html)|`2025-06-05 20:40:00`|`Valorant`|
+|[External Offsets 3&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/699665-external-offsets-3-8-a.html)|`2025-06-05 20:27:00`|`PUBG Mobile`|
 |[Grand Theft Auto V Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144819-grand-theft-auto-scripting.html)|`2025-06-05 20:15:00`|`Grand Theft Auto V`|
 |[AI for auto ore farming](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/698722-ai-auto-ore-farming.html)|`2025-06-05 19:55:00`|`Rust`|
 |[Left 4 Dead 2 Bhop Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/652324-left-4-dead-2-bhop-script.html)|`2025-06-05 19:53:00`|`Other FPS Games`|
