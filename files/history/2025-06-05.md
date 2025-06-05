@@ -42,6 +42,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to properly send input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703723-properly-send-input.html)|`2025-06-05 22:07:00`|`Counter-Strike 2`|
+|[Rust account nuker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/702899-rust-account-nuker.html)|`2025-06-05 22:01:00`|`Rust`|
+|[DMA DayZ Fuser ESP &#43; Radar Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/606723-dma-dayz-fuser-esp-radar-source-release.html)|`2025-06-05 22:00:00`|`DayZ SA`|
+|[Axera BO3 ZM Trainer &#40; External &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/495431-axera-bo3-zm-trainer-external.html)|`2025-06-05 21:59:00`|`Call of Duty: Black Ops 3`|
 |[Djcowely's BO6 Aim assist Objective ignore AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/680903-djcowelys-bo6-aim-assist-objective-ignore-ahk.html)|`2025-06-05 21:56:00`|`Call of Duty: Black Ops 6`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-06-05 21:39:00`|`Apex Legends`|
 |[Isonzo Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675510-isonzo-internal-cheat.html)|`2025-06-05 21:34:00`|`Other FPS Games`|
