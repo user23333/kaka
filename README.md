@@ -41,6 +41,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What are the methods that people who sell accounts use](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703730-methods-people-sell-accounts.html)|`2025-06-05 16:35:00`|`Counter-Strike 2`|
+|[cfemen & gir489's Ready or Not hook v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632144-cfemen-gir489s-ready-hook-v1-0-a.html)|`2025-06-05 16:30:00`|`Other FPS Games`|
+|[Horizon Rocket League Plugin &#40;Spawn Titles/Items, Set Paint, Credits & Shop Fake Buy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/701283-horizon-rocket-league-plugin-spawn-titles-items-set-paint-credits-shop-fake-buy.html)|`2025-06-05 16:19:00`|`Other Games`|
 |[Sideloading cert](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700219-sideloading-cert.html)|`2025-06-05 15:14:00`|`Anti-Cheat Bypass`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-06-05 14:57:00`|`Other FPS Games`|
 |[il2cpp rebuilt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/703726-il2cpp-rebuilt.html)|`2025-06-05 14:46:00`|`Rust`|
