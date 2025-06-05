@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[il2cpp rebuilt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/703726-il2cpp-rebuilt.html)|`2025-06-05 14:46:00`|`Rust`|
 |[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-06-05 14:30:00`|`PUBG Releases`|
 |[PLEASE GOD SOMEONE MAKE A DMA CHEAT ON HERE OR HELP ME MAKE ONE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/703095-please-god-dma-cheat-help.html)|`2025-06-05 14:19:00`|`Rainbow Six Siege`|
 |[Nuxar1 Decryption dumper fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699123-nuxar1-decryption-dumper-fix.html)|`2025-06-05 14:07:00`|`Call of Duty: Black Ops 6`|
