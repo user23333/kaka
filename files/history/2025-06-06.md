@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-06-06 03:06:00`|`Rust`|
+|[Plutonium Black Ops 2 &#124; Menu ESP & MORE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/466909-plutonium-black-ops-2-menu-esp.html)|`2025-06-06 03:02:00`|`Call of Duty: Black Ops 2`|
+|[&#91;Warframe&#93; Player Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/678485-warframe-player-offset.html)|`2025-06-06 02:56:00`|`Other FPS Games`|
 |[Botlobby Tool FREE &#91;BO6/MW3/WARZONE&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/696676-botlobby-tool-free-bo6-mw3-warzone.html)|`2025-06-06 02:54:00`|`Call of Duty: Black Ops 6`|
 |[Bullet tracer using player&#95;hurt event](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703804-bullet-tracer-using-player_hurt-event.html)|`2025-06-06 02:46:00`|`Counter-Strike 2`|
 |[Free Valorant Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703748-free-valorant-internal.html)|`2025-06-06 02:45:00`|`Valorant`|
