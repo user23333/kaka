@@ -42,6 +42,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AI for auto ore farming](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/698722-ai-auto-ore-farming.html)|`2025-06-05 19:55:00`|`Rust`|
+|[Left 4 Dead 2 Bhop Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/652324-left-4-dead-2-bhop-script.html)|`2025-06-05 19:53:00`|`Other FPS Games`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-06-05 19:53:00`|`Other Games`|
+|[How to Locate and VTable Hook Game's DX12 Present Function?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/direct3d/703752-locate-vtable-hook-games-dx12-function.html)|`2025-06-05 19:51:00`|`Direct3D`|
 |[Free Valorant Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703748-free-valorant-internal.html)|`2025-06-05 19:45:00`|`Valorant`|
 |[Which identifiers does EAC ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698713-identifiers-eac-ban.html)|`2025-06-05 19:45:00`|`Anti-Cheat Bypass`|
 |[Repu Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703747-repu-table.html)|`2025-06-05 19:33:00`|`Grand Theft Auto V`|
