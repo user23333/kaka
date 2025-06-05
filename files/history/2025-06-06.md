@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[internal spoof calling n more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703275-internal-spoof-calling.html)|`2025-06-06 04:25:00`|`Valorant`|
+|[Gmod External Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/702859-gmod-external-python.html)|`2025-06-06 04:25:00`|`Garry's Mod`|
 |[Help decrypt and testes nonce and signatures Controller handshake with PS5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/703814-help-decrypt-testes-nonce-signatures-controller-handshake-ps5.html)|`2025-06-06 04:13:00`|`General Programming and Reversing`|
 |[Battle Point "giver"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/703813-battle-giver.html)|`2025-06-06 04:12:00`|`Star Wars Battlefront 2`|
 |[Motion Blur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702626-motion-blur.html)|`2025-06-06 04:12:00`|`Counter-Strike 2`|
