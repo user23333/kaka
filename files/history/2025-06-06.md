@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CrossFire minimizes when dumping with ScyllaHide &#40;for research purposes&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/699555-crossfire-minimizes-dumping-scyllahide-research-purposes.html)|`2025-06-06 03:24:00`|`CrossFire`|
+|[Can’t Find LocalPlayer or EntityList in Warspear Online &#40;2D&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/703588-localplayer-entitylist-warspear-online-2d.html)|`2025-06-06 03:19:00`|`Other MMORPG and Strategy`|
 |[Can't figure out mousemove aimbot&#43;rcs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703177-cant-figure-mousemove-aimbot-rcs.html)|`2025-06-06 03:13:00`|`Counter-Strike 2`|
 |[Mouse blocking workarounds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703575-mouse-blocking-workarounds.html)|`2025-06-06 03:12:00`|`Apex Legends`|
 |[Rust Anti Cheat Update Blocks Virtual Mouse Input&#46; Any Workarounds?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/700839-rust-anti-cheat-update-blocks-virtual-mouse-input-workarounds.html)|`2025-06-06 03:11:00`|`Rust`|
