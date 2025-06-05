@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2025-06-06 07:43:00`|`Unity`|
+|[Observation ban&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/703691-observation-ban.html)|`2025-06-06 07:39:00`|`PUBG Mobile`|
 |[iced&#43;&#43; &#45; C&#43;&#43; wrapper for icedx86 decoder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/703514-iced-wrapper-icedx86-decoder.html)|`2025-06-06 07:30:00`|`C and C++`|
 |[Free Apex Coins/Cheap Coins Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/693249-free-apex-coins-cheap-coins-thread.html)|`2025-06-06 07:29:00`|`Apex Legends`|
 |[Dead By Daylight Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694248-dead-daylight-internal.html)|`2025-06-06 07:23:00`|`Other FPS Games`|
