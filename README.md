@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can't figure out mousemove aimbot&#43;rcs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703177-cant-figure-mousemove-aimbot-rcs.html)|`2025-06-06 03:13:00`|`Counter-Strike 2`|
+|[Mouse blocking workarounds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703575-mouse-blocking-workarounds.html)|`2025-06-06 03:12:00`|`Apex Legends`|
+|[Rust Anti Cheat Update Blocks Virtual Mouse Input&#46; Any Workarounds?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/700839-rust-anti-cheat-update-blocks-virtual-mouse-input-workarounds.html)|`2025-06-06 03:11:00`|`Rust`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-06-06 03:07:00`|`Valorant`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-06-06 03:06:00`|`Rust`|
 |[Plutonium Black Ops 2 &#124; Menu ESP & MORE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/466909-plutonium-black-ops-2-menu-esp.html)|`2025-06-06 03:02:00`|`Call of Duty: Black Ops 2`|
 |[&#91;Warframe&#93; Player Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/678485-warframe-player-offset.html)|`2025-06-06 02:56:00`|`Other FPS Games`|
