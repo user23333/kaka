@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-06-06 00:51:00`|`DayZ SA`|
+|[DayZ Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/639749-dayz-dumper.html)|`2025-06-06 00:51:00`|`DayZ SA`|
+|[What are the methods that people who sell accounts use](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703730-methods-people-sell-accounts.html)|`2025-06-06 00:50:00`|`Counter-Strike 2`|
+|[time&#95;scale external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/703790-time_scale-external.html)|`2025-06-06 00:46:00`|`Escape from Tarkov`|
+|[Commendation Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/702907-commendation-exploit.html)|`2025-06-06 00:39:00`|`Sea of Thieves`|
 |[is writing to dwviewangles safe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703034-writing-dwviewangles-safe.html)|`2025-06-06 00:37:00`|`Counter-Strike 2`|
 |[GTA 5 Enhanced DMA Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701780-gta-5-enhanced-dma-menu.html)|`2025-06-06 00:25:00`|`Grand Theft Auto V`|
 |[Zero Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703075-zero-triggerbot.html)|`2025-06-06 00:18:00`|`Valorant`|
