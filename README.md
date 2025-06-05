@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help decrypt and testes nonce and signatures Controller handshake with PS5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/703814-help-decrypt-testes-nonce-signatures-controller-handshake-ps5.html)|`2025-06-06 04:13:00`|`General Programming and Reversing`|
+|[Battle Point "giver"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/703813-battle-giver.html)|`2025-06-06 04:12:00`|`Star Wars Battlefront 2`|
+|[Motion Blur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702626-motion-blur.html)|`2025-06-06 04:12:00`|`Counter-Strike 2`|
+|[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-06-06 04:03:00`|`Rainbow Six Siege`|
 |[How to find EngineTraceClient004 &#91;TraceRay&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702759-enginetraceclient004-traceray.html)|`2025-06-06 03:53:00`|`Counter-Strike 2`|
 |[DeadUnlock: Open source aimbot and esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/703711-deadunlock-source-aimbot-esp.html)|`2025-06-06 03:49:00`|`Deadlock`|
 |[Repu Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703747-repu-table.html)|`2025-06-06 03:44:00`|`Grand Theft Auto V`|
