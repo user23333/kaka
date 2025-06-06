@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Remove grass and bushes from dark and darker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/703379-remove-grass-bushes-dark-darker.html)|`2025-06-06 23:51:00`|`Other FPS Games`|
 |[Rasberry pi WIFI aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703897-rasberry-pi-wifi-aimbot.html)|`2025-06-06 23:45:00`|`Valorant`|
 |[Looking for 3&#45;5 Testers: Get a Fully Spoofed Mouse Firmware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703917-looking-3-5-testers-spoofed-mouse-firmware.html)|`2025-06-06 23:40:00`|`Valorant`|
 |[Hearts of Iron IV Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/703167-hearts-iron-iv-cheat.html)|`2025-06-06 23:36:00`|`Other MMORPG and Strategy`|
