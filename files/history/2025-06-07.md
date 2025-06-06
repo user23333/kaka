@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anti&#45;Cheats Bypass Using External Thunderbolt Enclosure and Pcileech &#91;VGK&#93; &#91;FACEIT&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/702960-anti-cheats-bypass-using-external-thunderbolt-enclosure-pcileech-vgk-faceit.html)|`2025-06-07 01:08:00`|`Anti-Cheat Bypass`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-06-07 00:55:00`|`Counter-Strike 2`|
 |[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2025-06-07 00:55:00`|`Palia`|
 |[fivem createthread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/703922-fivem-createthread.html)|`2025-06-07 00:54:00`|`Alternative Online Mods`|
