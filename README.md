@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;PC&#93; DayZ clone exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/703564-pc-dayz-clone-exploit.html)|`2025-06-07 07:38:00`|`DayZ SA`|
 |[GTA 5 Enhanced DMA Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701780-gta-5-enhanced-dma-menu.html)|`2025-06-07 07:06:00`|`Grand Theft Auto V`|
 |[YimMenuV2 Latest Patch build 819](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699673-yimmenuv2-patch-build-819-a.html)|`2025-06-07 06:30:00`|`Grand Theft Auto V`|
 |[Is there any way to set up my heist in Enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703014-set-heist-enhanced.html)|`2025-06-07 06:19:00`|`Grand Theft Auto V`|
