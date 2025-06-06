@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[il2cpp rebuilt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/703726-il2cpp-rebuilt.html)|`2025-06-07 01:41:00`|`Rust`|
+|[Arduino Working Jitter aim bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703532-arduino-jitter-aim-bypass.html)|`2025-06-07 01:39:00`|`Apex Legends`|
 |[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-06-07 01:14:00`|`Other FPS Games`|
 |[Anti&#45;Cheats Bypass Using External Thunderbolt Enclosure and Pcileech &#91;VGK&#93; &#91;FACEIT&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/702960-anti-cheats-bypass-using-external-thunderbolt-enclosure-pcileech-vgk-faceit.html)|`2025-06-07 01:08:00`|`Anti-Cheat Bypass`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-06-07 00:55:00`|`Counter-Strike 2`|
