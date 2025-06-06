@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-06-07 02:10:00`|`League of Legends`|
+|[Bullet tracer using player&#95;hurt event](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703804-bullet-tracer-using-player_hurt-event.html)|`2025-06-07 02:02:00`|`Counter-Strike 2`|
+|[game of thrones kingsroad hack & offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701827-game-thrones-kingsroad-hack-offsets.html)|`2025-06-07 02:02:00`|`Other MMORPG and Strategy`|
+|[Emulating hardware input in hyper&#45;v](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703802-emulating-hardware-input-hyper.html)|`2025-06-07 01:59:00`|`Anti-Cheat Bypass`|
 |[Blade and Soul Neo Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/689197-blade-soul-neo-hack.html)|`2025-06-07 01:54:00`|`Other MMORPG and Strategy`|
 |[Instant Ban With Arduino Leonardo Aimbot Even After Spoofing and Changing PCs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703928-instant-ban-arduino-leonardo-aimbot-spoofing-changing-pcs.html)|`2025-06-07 01:44:00`|`Valorant`|
 |[il2cpp rebuilt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/703726-il2cpp-rebuilt.html)|`2025-06-07 01:41:00`|`Rust`|
