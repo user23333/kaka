@@ -25,9 +25,12 @@
 |2|[BlacklightRevived](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49970)|`2025-06-08 00:19:28`|
 |45|[Overwatch Dump &#40;138949&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49969)|`2025-06-08 00:19:28`|
 |2|[FN Menu Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49975)|`2025-06-08 00:41:57`|
+|2|[FluffBot420&#95;v1&#46;10&#95;Beta&#95;1&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49983)|`2025-06-08 01:15:31`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Microsoft EV Certificate Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704062-microsoft-ev-certificate-question.html)|`2025-06-08 01:10:00`|`Valorant`|
+|[Fluffbot420](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/700017-fluffbot420.html)|`2025-06-08 01:01:00`|`Marvel Rivals`|
 |[Click here if ur HWID banned on valorant&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703931-click-ur-hwid-banned-valorant.html)|`2025-06-08 00:59:00`|`Valorant`|
 |[How does VG work on a high level ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/703918-vg-level.html)|`2025-06-08 00:55:00`|`League of Legends`|
 |[how to unlock these gta&#43; clothes?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703935-unlock-gta-clothes.html)|`2025-06-08 00:51:00`|`Grand Theft Auto V`|
