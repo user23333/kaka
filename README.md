@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unturned Egguware w/ bypass &#91;LINUX&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/693201-unturned-egguware-bypass-linux.html)|`2025-06-07 23:39:00`|`Other FPS Games`|
+|[Unencrypted GameAssembly&#46;dll from Feb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/703996-unencrypted-gameassembly-dll-feb.html)|`2025-06-07 23:37:00`|`Rust`|
 |[is writing to dwviewangles safe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703034-writing-dwviewangles-safe.html)|`2025-06-07 23:21:00`|`Counter-Strike 2`|
 |[I made open source modmenu for Mobile Legends with premium cheatloaders and its free&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/703144-source-modmenu-mobile-legends-premium-cheatloaders-free.html)|`2025-06-07 23:20:00`|`Android`|
 |[Arduino Spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704051-arduino-spoof.html)|`2025-06-07 23:15:00`|`Valorant`|
