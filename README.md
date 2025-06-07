@@ -44,6 +44,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadside Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/387306-deadside-reversal-structs-offsets.html)|`2025-06-08 07:11:00`|`Other FPS Games`|
+|[Psuedo code for Hitsound / Event log](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/704091-psuedo-code-hitsound-event-log.html)|`2025-06-08 07:03:00`|`Alternative Online Mods`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-06-08 07:01:00`|`Other MMORPG and Strategy`|
 |[Using Kernel driver signed in leagues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704089-using-kernel-driver-signed-leagues.html)|`2025-06-08 06:20:00`|`Counter-Strike 2`|
 |[How to disable CDC / Serial Port / Com Port on Arduino Uno R4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703716-disable-cdc-serial-port-com-port-arduino-uno-r4.html)|`2025-06-08 06:19:00`|`Valorant`|
 |[Delete a file with open handle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703878-delete-file-handle.html)|`2025-06-08 06:18:00`|`Anti-Cheat Bypass`|
