@@ -44,6 +44,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[No Recoil G&#45;Hub Lua for Rainbow Six Siege](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/701449-recoil-hub-lua-rainbow-six-siege.html)|`2025-06-08 07:42:00`|`Rainbow Six Siege`|
 |[Deadside Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/387306-deadside-reversal-structs-offsets.html)|`2025-06-08 07:11:00`|`Other FPS Games`|
 |[Psuedo code for Hitsound / Event log](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/704091-psuedo-code-hitsound-event-log.html)|`2025-06-08 07:03:00`|`Alternative Online Mods`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-06-08 07:01:00`|`Other MMORPG and Strategy`|
