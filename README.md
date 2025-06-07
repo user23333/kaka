@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to disable CDC / Serial Port / Com Port on Arduino Uno R4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703716-disable-cdc-serial-port-com-port-arduino-uno-r4.html)|`2025-06-07 12:13:00`|`Valorant`|
+|[« YoloV8 AIMBOT C&#43;&#43; source »](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702406-yolov8-aimbot-source.html)|`2025-06-07 12:05:00`|`Valorant`|
+|[Solomissions Lua for Legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703978-solomissions-lua-legacy.html)|`2025-06-07 11:57:00`|`Grand Theft Auto V`|
 |[Rasberry pi WIFI aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703897-rasberry-pi-wifi-aimbot.html)|`2025-06-07 11:52:00`|`Valorant`|
 |[Cold War Trainer working 1&#46;25&#46;5 &#40;Geogeo paste&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/501719-cold-war-trainer-1-25-5-geogeo-paste.html)|`2025-06-07 11:31:00`|`Call of Duty: Black Ops Cold War`|
 |[WILDLIFE PHOTOGRAPHY CHALLENGE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703975-wildlife-photography-challenge.html)|`2025-06-07 11:25:00`|`Grand Theft Auto V`|
