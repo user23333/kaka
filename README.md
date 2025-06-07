@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 External &#40;Powerful&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703995-cs2-external-powerful.html)|`2025-06-07 16:11:00`|`Counter-Strike 2`|
 |[AI or Basic CS2 BOT idea](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703994-ai-basic-cs2-bot-idea.html)|`2025-06-07 15:45:00`|`Counter-Strike 2`|
 |[esp dont work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703549-esp-dont.html)|`2025-06-07 15:42:00`|`Counter-Strike 2`|
 |[DMA movment cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703993-dma-movment-cheat.html)|`2025-06-07 15:36:00`|`Apex Legends`|
