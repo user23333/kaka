@@ -37,9 +37,15 @@
 |1|[Rust Feb 2025 unencrypted build](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50001)|`2025-06-08 04:29:19`|
 |1|[Solo Leveling Dump V1&#46;2&#46;65](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50000)|`2025-06-08 04:29:19`|
 |7|[mhur&#95;external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49998)|`2025-06-08 04:29:19`|
+|2|[Warden's Rust DMA Cheat v1&#46;3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50005)|`2025-06-08 04:46:10`|
+|1|[xterial 1&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50002)|`2025-06-08 04:46:10`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[In the case of DMA, will the self&#45;aiming with the software be detected by the system?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/703799-dma-self-aiming-software-detected-system.html)|`2025-06-08 04:45:00`|`Escape from Tarkov`|
+|[external BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/702640-external-bo6.html)|`2025-06-08 04:44:00`|`Call of Duty: Black Ops 6`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-06-08 04:42:00`|`Other FPS Games`|
+|[DayZ Executable Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/703534-dayz-executable-scripts.html)|`2025-06-08 04:30:00`|`DayZ SA`|
 |[XP hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/703954-xp-hack.html)|`2025-06-08 04:27:00`|`Star Wars Battlefront 2`|
 |[Unencrypted GameAssembly&#46;dll from Feb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/703996-unencrypted-gameassembly-dll-feb.html)|`2025-06-08 04:27:00`|`Rust`|
 |[Solo Leveling Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/704048-solo-leveling-reversal-structs-offsets.html)|`2025-06-08 04:25:00`|`Other MMORPG and Strategy`|
