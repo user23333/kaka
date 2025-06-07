@@ -12,6 +12,7 @@
 |15|[pdfwkrnl exploit &#43; kernel function calling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703376-pdfwkrnl-exploit-kernel-function-calling.html)|`2025-06-07 00:25:28`|`anti-cheat-bypass`|
 |15|[Internal ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/703386-internal-esp-aimbot.html)|`2025-06-07 00:25:28`|`star-wars-battlefront-2-a`|
 |12|[Mouse blocking workarounds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703575-mouse-blocking-workarounds.html)|`2025-06-07 03:53:40`|`apex-legends`|
+|17|[Mouse move aimbot no longer works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703553-mouse-move-aimbot.html)|`2025-06-07 12:39:37`|`apex-legends`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2025-06-07 12:36:00`|`Combat Arms`|
+|[Bypass EFT Region Lock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/703982-bypass-eft-region-lock.html)|`2025-06-07 12:33:00`|`Escape from Tarkov`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-06-07 12:18:00`|`Apex Legends`|
 |[How to disable CDC / Serial Port / Com Port on Arduino Uno R4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703716-disable-cdc-serial-port-com-port-arduino-uno-r4.html)|`2025-06-07 12:13:00`|`Valorant`|
 |[« YoloV8 AIMBOT C&#43;&#43; source »](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702406-yolov8-aimbot-source.html)|`2025-06-07 12:05:00`|`Valorant`|
 |[Solomissions Lua for Legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703978-solomissions-lua-legacy.html)|`2025-06-07 11:57:00`|`Grand Theft Auto V`|
