@@ -13,6 +13,7 @@
 |15|[Internal ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/703386-internal-esp-aimbot.html)|`2025-06-07 00:25:28`|`star-wars-battlefront-2-a`|
 |12|[Mouse blocking workarounds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703575-mouse-blocking-workarounds.html)|`2025-06-07 03:53:40`|`apex-legends`|
 |17|[Mouse move aimbot no longer works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703553-mouse-move-aimbot.html)|`2025-06-07 12:39:37`|`apex-legends`|
+|11|[Looks like EA has finally managed to block jitter aim scripts&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703407-looks-ea-finally-managed-block-jitter-aim-scripts.html)|`2025-06-07 14:39:19`|`apex-legends`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-06-07 14:37:00`|`Overwatch`|
 |[zap&#45;client &#91;Legitbot, Ragebot, Glow, ESP & More&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/628823-zap-client-legitbot-ragebot-glow-esp.html)|`2025-06-07 14:10:00`|`Apex Legends`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-06-07 13:56:00`|`Other FPS Games`|
 |[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-06-07 13:15:00`|`Other FPS Games`|
