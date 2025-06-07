@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AI or Basic CS2 BOT idea](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703994-ai-basic-cs2-bot-idea.html)|`2025-06-07 15:45:00`|`Counter-Strike 2`|
+|[esp dont work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703549-esp-dont.html)|`2025-06-07 15:42:00`|`Counter-Strike 2`|
 |[DMA movment cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703993-dma-movment-cheat.html)|`2025-06-07 15:36:00`|`Apex Legends`|
 |[change opguns ba2 to increased damage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/703796-change-opguns-ba2-increased-damage.html)|`2025-06-07 14:43:00`|`Other FPS Games`|
 |[How does VG work on a high level ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/703918-vg-level.html)|`2025-06-07 14:41:00`|`League of Legends`|
