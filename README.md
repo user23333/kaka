@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to unlock these gta&#43; clothes?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703935-unlock-gta-clothes.html)|`2025-06-08 00:51:00`|`Grand Theft Auto V`|
+|[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-06-08 00:49:00`|`HELLDIVERS 2`|
 |[Are there any movement recorders for cs2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702463-movement-recorders-cs2.html)|`2025-06-08 00:34:00`|`Counter-Strike 2`|
 |[How to properly send input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703723-properly-send-input.html)|`2025-06-08 00:33:00`|`Counter-Strike 2`|
 |[Gmod External Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/702859-gmod-external-python.html)|`2025-06-08 00:24:00`|`Garry's Mod`|
