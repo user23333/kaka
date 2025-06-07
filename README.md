@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rasberry pi WIFI aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703897-rasberry-pi-wifi-aimbot.html)|`2025-06-07 11:52:00`|`Valorant`|
 |[Cold War Trainer working 1&#46;25&#46;5 &#40;Geogeo paste&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/501719-cold-war-trainer-1-25-5-geogeo-paste.html)|`2025-06-07 11:31:00`|`Call of Duty: Black Ops Cold War`|
 |[WILDLIFE PHOTOGRAPHY CHALLENGE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703975-wildlife-photography-challenge.html)|`2025-06-07 11:25:00`|`Grand Theft Auto V`|
 |[Apex Memory Aim Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703974-apex-memory-aim-help.html)|`2025-06-07 11:20:00`|`Apex Legends`|
