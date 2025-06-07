@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-06-07 21:02:00`|`Other FPS Games`|
+|[Hearts of Iron IV Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/703167-hearts-iron-iv-cheat.html)|`2025-06-07 20:46:00`|`Other MMORPG and Strategy`|
+|[How to permanently unlock the railgun and alien weapons etc&#46; with YimMenuV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/702735-permanently-unlock-railgun-alien-weapons-etc-yimmenuv2.html)|`2025-06-07 20:36:00`|`Grand Theft Auto V`|
+|[Mouse blocking workarounds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703575-mouse-blocking-workarounds.html)|`2025-06-07 20:19:00`|`Apex Legends`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-06-07 20:17:00`|`Apex Legends`|
 |[Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/703107-internal.html)|`2025-06-07 20:15:00`|`Overwatch`|
 |[How to properly send input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703723-properly-send-input.html)|`2025-06-07 20:02:00`|`Counter-Strike 2`|
