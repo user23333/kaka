@@ -11,6 +11,7 @@
 |14|[Mouse blocking workarounds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703575-mouse-blocking-workarounds.html)|`2025-06-08 00:19:28`|`apex-legends`|
 |17|[Mouse move aimbot no longer works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703553-mouse-move-aimbot.html)|`2025-06-08 00:19:28`|`apex-legends`|
 |11|[Looks like EA has finally managed to block jitter aim scripts&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703407-looks-ea-finally-managed-block-jitter-aim-scripts.html)|`2025-06-08 00:19:28`|`apex-legends`|
+|24|[internal spoof calling n more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703275-internal-spoof-calling.html)|`2025-06-08 06:29:03`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -42,6 +43,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Using Kernel driver signed in leagues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704089-using-kernel-driver-signed-leagues.html)|`2025-06-08 06:20:00`|`Counter-Strike 2`|
+|[How to disable CDC / Serial Port / Com Port on Arduino Uno R4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703716-disable-cdc-serial-port-com-port-arduino-uno-r4.html)|`2025-06-08 06:19:00`|`Valorant`|
+|[Delete a file with open handle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703878-delete-file-handle.html)|`2025-06-08 06:18:00`|`Anti-Cheat Bypass`|
 |[Valorant gigabyte b650m Ds3h Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704087-valorant-gigabyte-b650m-ds3h-spoofer.html)|`2025-06-08 05:56:00`|`Valorant`|
 |[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2025-06-08 05:22:00`|`Garry's Mod`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-06-08 05:22:00`|`Other FPS Games`|
