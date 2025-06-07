@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[D3D12 Engine Chams Teaser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/693932-d3d12-engine-chams-teaser.html)|`2025-06-07 22:21:00`|`Rainbow Six Siege`|
+|[hwid ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/703969-hwid-ban.html)|`2025-06-07 22:17:00`|`CrossFire`|
+|[Zero Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703075-zero-triggerbot.html)|`2025-06-07 22:10:00`|`Valorant`|
 |[how to unlock these gta&#43; clothes?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703935-unlock-gta-clothes.html)|`2025-06-07 22:04:00`|`Grand Theft Auto V`|
 |[Aimbot, ESP, Damage hack &#45; Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/438759-aimbot-esp-damage-hack-menu.html)|`2025-06-07 21:50:00`|`Star Wars Battlefront 2`|
 |[Workaround](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703668-workaround.html)|`2025-06-07 21:43:00`|`Apex Legends`|
