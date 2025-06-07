@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-06-07 10:39:00`|`Counter-Strike 2`|
+|[Cs2 Voidware External Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693235-cs2-voidware-external-read.html)|`2025-06-07 10:37:00`|`Counter-Strike 2`|
+|[Lethal Menu &#45; Lethal Company Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/615575-lethal-menu-lethal-company-cheat.html)|`2025-06-07 09:53:00`|`Lethal Company`|
+|[VutriumBot 1&#46;0&#46;2 Free &#45; Rocket League Visual Aid & Bot Integration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/702424-vutriumbot-1-0-2-free-rocket-league-visual-aid-bot-integration.html)|`2025-06-07 09:49:00`|`Other Games`|
+|[Got banned for no apparent reason](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/699270-banned-apparent-reason.html)|`2025-06-07 09:49:00`|`Sea of Thieves`|
+|[Gmod External Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/702859-gmod-external-python.html)|`2025-06-07 09:35:00`|`Garry's Mod`|
 |[Any up to date linux cheats for TF2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/700036-date-linux-cheats-tf2.html)|`2025-06-07 09:05:00`|`Team Fortress 2`|
 |[Simple ESP/Radar for HMW?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/701564-simple-esp-radar-hmw.html)|`2025-06-07 08:50:00`|`Call of Duty 4: Modern Warfare`|
 |[Apex CV YOLO v8 Aim Assist Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/624584-apex-cv-yolo-v8-aim-assist-bot.html)|`2025-06-07 08:49:00`|`Apex Legends`|
