@@ -44,6 +44,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Memory Aim Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703974-apex-memory-aim-help.html)|`2025-06-08 21:20:00`|`Apex Legends`|
+|[COD Plunder &#45; Humanized AFK Script &#40;Fast Gun/Acc Lvl XP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/687454-cod-plunder-humanized-afk-script-fast-gun-acc-lvl-xp.html)|`2025-06-08 21:05:00`|`Call of Duty: Black Ops 6`|
 |[Where can i get other ntoskrnl&#46;exe for windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704170-ntoskrnl-exe-windows.html)|`2025-06-08 20:56:00`|`Anti-Cheat Bypass`|
 |[League Kiting DMA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/701865-league-kiting-dma.html)|`2025-06-08 20:38:00`|`League of Legends`|
 |[Need help finding offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/702241-help-finding-offsets.html)|`2025-06-08 20:31:00`|`Escape from Tarkov`|
