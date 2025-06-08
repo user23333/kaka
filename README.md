@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is There a Way to Use TASK&#95;GO&#95;STRAIGHT&#95;TO&#95;COORD Externally?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/704193-task_go_straight_to_coord-externally.html)|`2025-06-09 02:24:00`|`Alternative Online Mods`|
+|[Cold War Trainer working 1&#46;25&#46;5 &#40;Geogeo paste&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/501719-cold-war-trainer-1-25-5-geogeo-paste.html)|`2025-06-09 02:23:00`|`Call of Duty: Black Ops Cold War`|
+|[Arduino Working Jitter aim bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703532-arduino-jitter-aim-bypass.html)|`2025-06-09 02:23:00`|`Apex Legends`|
+|[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-06-09 02:21:00`|`Sea of Thieves`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-06-09 02:14:00`|`Rust`|
+|[Workaround](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703668-workaround.html)|`2025-06-09 02:14:00`|`Apex Legends`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-06-09 02:04:00`|`Grand Theft Auto V`|
 |[Macro No Recoil &#43; Auto Ping &#45; BO6 and Warzone&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/703339-macro-recoil-auto-ping-bo6-warzone.html)|`2025-06-09 01:56:00`|`Call of Duty: Black Ops 6`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-06-09 01:49:00`|`Apex Legends`|
