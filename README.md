@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Not finding offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704092-finding-offsets.html)|`2025-06-09 03:20:00`|`Counter-Strike 2`|
+|[Etheria Restart Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/700240-etheria-restart-reversal-structs-offsets.html)|`2025-06-09 03:17:00`|`Other Games`|
+|[Need Roblox offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/704195-roblox-offsets.html)|`2025-06-09 03:10:00`|`General Programming and Reversing`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-06-09 03:05:00`|`Valorant`|
 |[A simple internal ESP and aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704194-simple-internal-esp-aimbot.html)|`2025-06-09 02:59:00`|`Counter-Strike 2`|
 |[lone&#45;dma eft&#45;dma&#45;radar built w/ wpf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/704132-lone-dma-eft-dma-radar-built-wpf.html)|`2025-06-09 02:58:00`|`Escape from Tarkov`|
