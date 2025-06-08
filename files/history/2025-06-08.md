@@ -44,6 +44,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple ESP/Radar for HMW?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/701564-simple-esp-radar-hmw.html)|`2025-06-08 08:55:00`|`Call of Duty 4: Modern Warfare`|
+|[i need help with backdoor exploiting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/704065-help-backdoor-exploiting.html)|`2025-06-08 08:55:00`|`Off Topic`|
+|[PAYDAY: The Heist &#124; Solo Achievements and Challenges](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-the-heist/704097-payday-heist-solo-achievements-challenges.html)|`2025-06-08 08:45:00`|`Payday: The Heist`|
+|[Best mod menu for RedM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/704090-mod-menu-redm.html)|`2025-06-08 08:44:00`|`Red Dead Redemption 2`|
+|[whatsappp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/704075-whatsappp.html)|`2025-06-08 08:43:00`|`Introductions`|
+|[Need help with a program installation, please&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/704074-help-program-installation-please.html)|`2025-06-08 08:42:00`|`Introductions`|
+|[How to Bypass Decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699974-bypass-decryption.html)|`2025-06-08 08:41:00`|`Call of Duty: Black Ops 6`|
+|[material chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704106-material-chams.html)|`2025-06-08 08:38:00`|`Valorant`|
 |[External drawing hitbox pills](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703731-external-drawing-hitbox-pills.html)|`2025-06-08 07:54:00`|`Counter-Strike 2`|
 |[No Recoil G&#45;Hub Lua for Rainbow Six Siege](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/701449-recoil-hub-lua-rainbow-six-siege.html)|`2025-06-08 07:42:00`|`Rainbow Six Siege`|
 |[Deadside Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/387306-deadside-reversal-structs-offsets.html)|`2025-06-08 07:11:00`|`Other FPS Games`|
