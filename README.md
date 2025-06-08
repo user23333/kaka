@@ -44,6 +44,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bullet tracer using player&#95;hurt event](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703804-bullet-tracer-using-player_hurt-event.html)|`2025-06-08 22:07:00`|`Counter-Strike 2`|
+|[L4D2 Catalyst&#46;club compiled](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699642-l4d2-catalyst-club-compiled.html)|`2025-06-08 21:47:00`|`Other FPS Games`|
 |[Custom Kill Ragdoll effects](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703227-custom-kill-ragdoll-effects.html)|`2025-06-08 21:52:00`|`Counter-Strike 2`|
 |[SCP SL Cheat v13&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/611154-scp-sl-cheat-v13-3-1-a.html)|`2025-06-08 21:27:00`|`Other Games`|
 |[🧠 Looking for Lords Mobile Network&#45;Based Bot Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/704171-looking-lords-mobile-network-based-bot-source.html)|`2025-06-08 21:22:00`|`Other Games`|
