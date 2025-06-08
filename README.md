@@ -27,9 +27,13 @@
 |1|[Solo Achievements and Challenges](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50006)|`2025-06-09 00:48:36`|
 |1|[5&#46;6&#46;0&#45;43214806&#43;&#43;&#43;Fortnite&#43;Release&#45;36&#46;00](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50009)|`2025-06-09 02:50:38`|
 |2|[GameAssembly&#46;dll &#45; PVZ Fusion Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50007)|`2025-06-09 02:50:38`|
+|2|[eft&#45;dma&#45;radar&#45;v1&#46;1&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50010)|`2025-06-09 03:10:02`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-06-09 03:05:00`|`Valorant`|
+|[A simple internal ESP and aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704194-simple-internal-esp-aimbot.html)|`2025-06-09 02:59:00`|`Counter-Strike 2`|
+|[lone&#45;dma eft&#45;dma&#45;radar built w/ wpf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/704132-lone-dma-eft-dma-radar-built-wpf.html)|`2025-06-09 02:58:00`|`Escape from Tarkov`|
 |[How to call custom &#46;VPCF &#40;effect&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704177-call-custom-vpcf-effect.html)|`2025-06-09 02:50:00`|`Counter-Strike 2`|
 |[Plant Vs Zombie Fusion Cheats &#40;dll patch&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/704101-plant-vs-zombie-fusion-cheats-dll-patch.html)|`2025-06-09 02:45:00`|`Other Games`|
 |[Starting my Cheat Dev journey&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701089-starting-cheat-dev-journey.html)|`2025-06-09 02:43:00`|`Rust`|
