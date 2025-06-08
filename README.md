@@ -40,6 +40,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[L4D2 client offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/704233-l4d2-client-offsets.html)|`2025-06-09 07:53:00`|`Other FPS Games`|
 |[overlay lag](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704232-overlay-lag.html)|`2025-06-09 07:48:00`|`Counter-Strike 2`|
 |[CS2 External &#45; Dynamic ESP Box Size Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/700499-cs2-external-dynamic-esp-box-size-help.html)|`2025-06-09 07:43:00`|`Counter-Strike 2`|
 |[Unique ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/704229-unique-id.html)|`2025-06-09 07:11:00`|`CounterStrike 1.5, 1.6 and Mods`|
