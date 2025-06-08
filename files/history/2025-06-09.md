@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Loading vulnerable driver from byte array for mapping&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704207-loading-vulnerable-driver-byte-array-mapping.html)|`2025-06-09 06:18:00`|`Anti-Cheat Bypass`|
+|[PAGE&#95;NOACCESS Bypass, Full Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701296-page_noaccess-bypass-dump.html)|`2025-06-09 06:18:00`|`Anti-Cheat Bypass`|
 |[How do these super credits work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/704222-super-credits.html)|`2025-06-09 06:12:00`|`HELLDIVERS 2`|
 |[Pose decrypt &#40;for entity&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700510-pose-decrypt-entity.html)|`2025-06-09 06:03:00`|`Call of Duty: Black Ops 6`|
 |[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-06-09 05:32:00`|`Grand Theft Auto V`|
