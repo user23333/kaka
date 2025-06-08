@@ -44,6 +44,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;RELEASE&#93; Permanent Boot Spoofer — Loads Driver at Boot &#40;No kdmapper needed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703216-release-permanent-boot-spoofer-loads-driver-boot-kdmapper.html)|`2025-06-08 13:39:00`|`Valorant`|
 |[Ai TriggerBot without DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/704141-ai-triggerbot-dma.html)|`2025-06-08 13:30:00`|`Apex Legends`|
 |[DMA movment cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703993-dma-movment-cheat.html)|`2025-06-08 13:20:00`|`Apex Legends`|
 |[Instant Ban With Arduino Leonardo Aimbot Even After Spoofing and Changing PCs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703928-instant-ban-arduino-leonardo-aimbot-spoofing-changing-pcs.html)|`2025-06-08 12:39:00`|`Valorant`|
