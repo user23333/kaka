@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTA 5 Enhanced DMA Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701780-gta-5-enhanced-dma-menu.html)|`2025-06-09 00:48:00`|`Grand Theft Auto V`|
 |[PAYDAY: The Heist &#124; Solo Achievements and Challenges](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-the-heist/704097-payday-heist-solo-achievements-challenges.html)|`2025-06-09 00:47:00`|`Payday: The Heist`|
 |[The TCSM Trainer &#40;Outline ESP, Godmode, Invisible, more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/598623-tcsm-trainer-outline-esp-godmode-invisible.html)|`2025-06-09 00:42:00`|`Other FPS Games`|
 |[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-06-09 00:39:00`|`Other Games`|
