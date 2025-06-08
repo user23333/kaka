@@ -25,9 +25,14 @@
 |66|[Anti&#45;cheat GUI simulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49991)|`2025-06-09 00:13:37`|
 |5|[SvenCoop AIO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=49990)|`2025-06-09 00:13:37`|
 |1|[Solo Achievements and Challenges](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50006)|`2025-06-09 00:48:36`|
+|1|[5&#46;6&#46;0&#45;43214806&#43;&#43;&#43;Fortnite&#43;Release&#45;36&#46;00](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50009)|`2025-06-09 02:50:38`|
+|2|[GameAssembly&#46;dll &#45; PVZ Fusion Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50007)|`2025-06-09 02:50:38`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to call custom &#46;VPCF &#40;effect&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704177-call-custom-vpcf-effect.html)|`2025-06-09 02:50:00`|`Counter-Strike 2`|
+|[Plant Vs Zombie Fusion Cheats &#40;dll patch&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/704101-plant-vs-zombie-fusion-cheats-dll-patch.html)|`2025-06-09 02:45:00`|`Other Games`|
+|[Starting my Cheat Dev journey&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701089-starting-cheat-dev-journey.html)|`2025-06-09 02:43:00`|`Rust`|
 |[Is There a Way to Use TASK&#95;GO&#95;STRAIGHT&#95;TO&#95;COORD Externally?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/704193-task_go_straight_to_coord-externally.html)|`2025-06-09 02:24:00`|`Alternative Online Mods`|
 |[Cold War Trainer working 1&#46;25&#46;5 &#40;Geogeo paste&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/501719-cold-war-trainer-1-25-5-geogeo-paste.html)|`2025-06-09 02:23:00`|`Call of Duty: Black Ops Cold War`|
 |[Arduino Working Jitter aim bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703532-arduino-jitter-aim-bypass.html)|`2025-06-09 02:23:00`|`Apex Legends`|
