@@ -44,6 +44,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypass EFT Region Lock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/703982-bypass-eft-region-lock.html)|`2025-06-08 10:28:00`|`Escape from Tarkov`|
+|[Read username on DeadLock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/696225-read-username-deadlock.html)|`2025-06-08 10:08:00`|`Deadlock`|
+|[Not finding offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704092-finding-offsets.html)|`2025-06-08 10:02:00`|`Counter-Strike 2`|
+|[Can't figure out mousemove aimbot&#43;rcs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703177-cant-figure-mousemove-aimbot-rcs.html)|`2025-06-08 09:52:00`|`Counter-Strike 2`|
+|[New](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/704109-new.html)|`2025-06-08 09:30:00`|`Introductions`|
 |[Simple ESP/Radar for HMW?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/701564-simple-esp-radar-hmw.html)|`2025-06-08 08:55:00`|`Call of Duty 4: Modern Warfare`|
 |[i need help with backdoor exploiting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/704065-help-backdoor-exploiting.html)|`2025-06-08 08:55:00`|`Off Topic`|
 |[PAYDAY: The Heist &#124; Solo Achievements and Challenges](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-the-heist/704097-payday-heist-solo-achievements-challenges.html)|`2025-06-08 08:45:00`|`Payday: The Heist`|
