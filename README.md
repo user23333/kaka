@@ -33,9 +33,13 @@
 |1|[Menu Snowbreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50014)|`2025-06-09 03:59:53`|
 |4|[Helldivers 2 Undetected Features v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50013)|`2025-06-09 03:59:53`|
 |1|[mw3server&#46;idb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50017)|`2025-06-09 04:20:09`|
+|3|[hentchelhook cheat dll ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50021)|`2025-06-09 04:34:26`|
+|1|[Lies of P](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50020)|`2025-06-09 04:34:26`|
+|4|[Universal Fov Changer &#45; UFC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50019)|`2025-06-09 04:34:26`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What Kernel Communication Methods do you guys use?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704208-kernel-communication-methods-guys.html)|`2025-06-09 04:29:00`|`Anti-Cheat Bypass`|
 |[Yimmenu Legacy Version??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700960-yimmenu-legacy-version.html)|`2025-06-09 04:10:00`|`Grand Theft Auto V`|
 |[Zero Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703075-zero-triggerbot.html)|`2025-06-09 04:09:00`|`Valorant`|
 |[Universal FOV Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/704202-universal-fov-changer.html)|`2025-06-09 03:59:00`|`Unity`|
