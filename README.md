@@ -43,6 +43,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Auto Shop &#45; Customers vehicles not spawning](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/704258-auto-shop-customers-vehicles-spawning.html)|`2025-06-09 16:54:00`|`Grand Theft Auto V`|
 |[FAQ Valorant Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/421120-faq-valorant-bans.html)|`2025-06-09 16:39:00`|`Valorant`|
 |[Script using ESP32&#45;S3, EAC Detection?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/703547-script-using-esp32-s3-eac-detection.html)|`2025-06-09 16:25:00`|`Rust`|
 |[People vanishing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/704256-people-vanishing.html)|`2025-06-09 16:24:00`|`Rust`|
