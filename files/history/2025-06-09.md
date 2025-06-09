@@ -44,6 +44,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-06-09 21:37:00`|`Playerunknown's Battlegrounds`|
+|[I'm not hacking but need help understanding how I am triggering black ops6 anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704060-im-hacking-help-understanding-am-triggering-black-ops6-anti-cheat.html)|`2025-06-09 21:28:00`|`Anti-Cheat Bypass`|
+|[Question with stat editor in current Yimmenuv2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/704278-question-stat-editor-current-yimmenuv2.html)|`2025-06-09 21:20:00`|`Grand Theft Auto V`|
+|[Making a 2 PC triggerbot with a physical mouse click?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704277-2-pc-triggerbot-physical-mouse-click.html)|`2025-06-09 21:16:00`|`Valorant`|
+|[All my personal cars are gone?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700058-personal-cars-gone.html)|`2025-06-09 21:14:00`|`Grand Theft Auto V`|
 |[« YoloV8 AIMBOT C&#43;&#43; source »](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702406-yolov8-aimbot-source.html)|`2025-06-09 21:00:00`|`Valorant`|
 |[Hearts of Iron IV Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/703167-hearts-iron-iv-cheat.html)|`2025-06-09 20:49:00`|`Other MMORPG and Strategy`|
 |[Elden ring new Cheat Table &#43; Online &#40;risky&#41; &#43; CE Undetected &#43; future updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661671-elden-ring-cheat-table-online-risky-ce-undetected-future-updates.html)|`2025-06-09 20:42:00`|`Other FPS Games`|
