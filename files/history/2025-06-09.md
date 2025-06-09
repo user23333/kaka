@@ -13,6 +13,7 @@
 |24|[internal spoof calling n more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703275-internal-spoof-calling.html)|`2025-06-09 00:13:37`|`valorant`|
 |12|[Anti&#45;cheat game cheat detection simulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703949-anti-cheat-game-cheat-detection-simulator.html)|`2025-06-09 07:11:33`|`anti-cheat-bypass`|
 |14|[Workaround](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703668-workaround.html)|`2025-06-09 18:41:40`|`apex-legends`|
+|9|[CS2 External &#40;Powerful&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703995-cs2-external-powerful.html)|`2025-06-09 23:13:31`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -44,6 +45,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[From ProcessEvent to Direct Calls – My Vanguard Approach](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704290-processevent-direct-calls-vanguard-approach.html)|`2025-06-09 23:11:00`|`Valorant`|
+|[Voyager and EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704289-voyager-eac.html)|`2025-06-09 23:11:00`|`Anti-Cheat Bypass`|
+|[Palspawn Function?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/692428-palspawn-function.html)|`2025-06-09 23:02:00`|`Palworld`|
 |[Player Velocity Prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/704285-player-velocity-prediction.html)|`2025-06-09 22:39:00`|`Rust`|
 |[TPM / HVCI / SB Popup Bypass by freezing Dnscache](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702867-tpm-hvci-sb-popup-bypass-freezing-dnscache.html)|`2025-06-09 22:31:00`|`Valorant`|
 |[pubg kaka and stay source &#91;DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/698494-pubg-kaka-stay-source-dma.html)|`2025-06-09 21:56:00`|`Playerunknown's Battlegrounds`|
