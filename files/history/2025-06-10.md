@@ -11,6 +11,7 @@
 |12|[Anti&#45;cheat game cheat detection simulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703949-anti-cheat-game-cheat-detection-simulator.html)|`2025-06-10 00:20:30`|`anti-cheat-bypass`|
 |14|[Workaround](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703668-workaround.html)|`2025-06-10 00:20:30`|`apex-legends`|
 |9|[CS2 External &#40;Powerful&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703995-cs2-external-powerful.html)|`2025-06-10 00:20:30`|`counter-strike-2-a`|
+|14|[Helldivers 2 Undetected Features by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/704156-helldivers-2-undetected-features-igromanru.html)|`2025-06-10 05:55:26`|`helldivers-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
