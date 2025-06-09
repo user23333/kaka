@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fluffbot420](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/700017-fluffbot420.html)|`2025-06-10 04:36:00`|`Marvel Rivals`|
 |[L4D2 client offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/704233-l4d2-client-offsets.html)|`2025-06-10 04:31:00`|`Other FPS Games`|
 |[Gamerfun Valo script, Triggerbot updated, Agent lock removed&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691652-gamerfun-valo-script-triggerbot-updated-agent-lock-removed.html)|`2025-06-10 04:21:00`|`Valorant`|
 |[How to delete personal cars?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703695-delete-personal-cars.html)|`2025-06-10 04:16:00`|`Grand Theft Auto V`|
