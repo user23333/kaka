@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lag switching in clash royale](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/704362-lag-switching-clash-royale.html)|`2025-06-10 07:51:00`|`Forum General`|
+|[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2025-06-10 07:50:00`|`Other Games`|
+|[DayZ Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/639749-dayz-dumper.html)|`2025-06-10 07:49:00`|`DayZ SA`|
 |[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-06-10 07:14:00`|`Sea of Thieves`|
 |[asphyxia&#45;cs2 updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/687274-asphyxia-cs2-updated.html)|`2025-06-10 07:12:00`|`Counter-Strike 2`|
 |[The Isle legacy Cheat Engine Table 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/645143-isle-legacy-cheat-engine-table-2-0-a.html)|`2025-06-10 07:08:00`|`Unreal Engine 4`|
