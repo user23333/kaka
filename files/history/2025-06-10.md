@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dota 2 Internal Guild Api](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/703630-dota-2-internal-guild-api.html)|`2025-06-10 02:47:00`|`Other MMORPG and Strategy`|
+|[What Kernel Communication Methods do you guys use?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704208-kernel-communication-methods-guys.html)|`2025-06-10 02:42:00`|`Anti-Cheat Bypass`|
+|[ladware kernel external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704276-ladware-kernel-external.html)|`2025-06-10 02:38:00`|`Counter-Strike 2`|
+|[Yimmenu Legacy Version??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700960-yimmenu-legacy-version.html)|`2025-06-10 02:28:00`|`Grand Theft Auto V`|
 |[Some offsets can fix the ban 32bit GL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/704305-offsets-fix-ban-32bit-gl.html)|`2025-06-10 02:12:00`|`PUBG Mobile`|
 |[Any toggleable autoparries?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/704094-toggleable-autoparries.html)|`2025-06-10 02:09:00`|`Star Wars Battlefront 2`|
 |[HOOK BYPASS EMULATOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/704304-hook-bypass-emulator.html)|`2025-06-10 02:06:00`|`PUBG Mobile`|
