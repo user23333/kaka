@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-06-10 05:15:00`|`Alternative Online Mods`|
+|[Cold War Trainer working 1&#46;25&#46;5 &#40;Geogeo paste&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/501719-cold-war-trainer-1-25-5-geogeo-paste.html)|`2025-06-10 05:11:00`|`Call of Duty: Black Ops Cold War`|
+|[COD Plunder &#45; Humanized AFK Script &#40;Fast Gun/Acc Lvl XP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/687454-cod-plunder-humanized-afk-script-fast-gun-acc-lvl-xp.html)|`2025-06-10 05:10:00`|`Call of Duty: Black Ops 6`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-06-10 04:58:00`|`DayZ SA`|
 |[Universal FOV Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/704202-universal-fov-changer.html)|`2025-06-10 04:53:00`|`Unity`|
 |[Exploit on WH for VALORANT&#46; Vanguard does not detect this&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704302-exploit-wh-valorant-vanguard-detect.html)|`2025-06-10 04:52:00`|`Valorant`|
