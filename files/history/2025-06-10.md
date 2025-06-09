@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Some offsets can fix the ban 32bit GL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/704305-offsets-fix-ban-32bit-gl.html)|`2025-06-10 02:12:00`|`PUBG Mobile`|
+|[Any toggleable autoparries?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/704094-toggleable-autoparries.html)|`2025-06-10 02:09:00`|`Star Wars Battlefront 2`|
+|[HOOK BYPASS EMULATOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/704304-hook-bypass-emulator.html)|`2025-06-10 02:06:00`|`PUBG Mobile`|
+|[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-06-10 02:01:00`|`HELLDIVERS 2`|
+|[EAC doesn't shuffle cr3 recently?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703170-eac-doesnt-shuffle-cr3-recently.html)|`2025-06-10 02:01:00`|`Anti-Cheat Bypass`|
 |[Using Kernel driver signed in leagues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704089-using-kernel-driver-signed-leagues.html)|`2025-06-10 01:56:00`|`Counter-Strike 2`|
 |[TPM / HVCI / SB Popup Bypass by freezing Dnscache](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702867-tpm-hvci-sb-popup-bypass-freezing-dnscache.html)|`2025-06-10 01:42:00`|`Valorant`|
 |[Warden's Free Ultimate Gamer Rust DMA Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/702331-wardens-free-ultimate-gamer-rust-dma-cheat.html)|`2025-06-10 01:38:00`|`Rust`|
