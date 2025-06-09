@@ -40,6 +40,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-06-09 08:56:00`|`Counter-Strike 2`|
+|[Question about dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/703937-question-dma.html)|`2025-06-09 08:36:00`|`PC Hardware`|
+|[DayZ Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/639749-dayz-dumper.html)|`2025-06-09 08:31:00`|`DayZ SA`|
+|[Ai TriggerBot without DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/704141-ai-triggerbot-dma.html)|`2025-06-09 08:09:00`|`Apex Legends`|
 |[L4D2 client offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/704233-l4d2-client-offsets.html)|`2025-06-09 07:53:00`|`Other FPS Games`|
 |[overlay lag](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704232-overlay-lag.html)|`2025-06-09 07:48:00`|`Counter-Strike 2`|
 |[CS2 External &#45; Dynamic ESP Box Size Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/700499-cs2-external-dynamic-esp-box-size-help.html)|`2025-06-09 07:43:00`|`Counter-Strike 2`|
