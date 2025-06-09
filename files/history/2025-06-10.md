@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kingly Order of Souls Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/704249-kingly-souls-exploit.html)|`2025-06-10 03:20:00`|`Sea of Thieves`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-06-10 03:20:00`|`Counter-Strike 2`|
+|[Blade and Soul Neo Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/689197-blade-soul-neo-hack.html)|`2025-06-10 03:18:00`|`Other MMORPG and Strategy`|
+|[Radar FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/703049-radar-fivem.html)|`2025-06-10 03:16:00`|`Alternative Online Mods`|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-06-10 03:12:00`|`Battlefield 4`|
 |[I'm not hacking but need help understanding how I am triggering black ops6 anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704060-im-hacking-help-understanding-am-triggering-black-ops6-anti-cheat.html)|`2025-06-10 03:07:00`|`Anti-Cheat Bypass`|
 |[Making a 2 PC triggerbot with a physical mouse click?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704277-2-pc-triggerbot-physical-mouse-click.html)|`2025-06-10 03:03:00`|`Valorant`|
 |[hentchelhook &#124; the best tf2 cheat in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/704100-hentchelhook-tf2-cheat-2025-a.html)|`2025-06-10 02:54:00`|`Team Fortress 2`|
