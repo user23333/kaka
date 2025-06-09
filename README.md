@@ -37,9 +37,17 @@
 |3|[hentchelhook cheat dll ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50021)|`2025-06-09 04:34:26`|
 |1|[Lies of P](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50020)|`2025-06-09 04:34:26`|
 |4|[Universal Fov Changer &#45; UFC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50019)|`2025-06-09 04:34:26`|
+|7|[Stealthy IOCTL communication using ConDrv&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50024)|`2025-06-09 10:48:18`|
+|2|[DayZ DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50023)|`2025-06-09 10:48:18`|
+|2|[WarThunder&#45;DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50022)|`2025-06-09 10:48:18`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[just latest offsets anyone ???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/704239-offsets.html)|`2025-06-09 10:44:00`|`Battlefield V`|
+|[Movement cfgs without ghub](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/700930-movement-cfgs-ghub.html)|`2025-06-09 10:39:00`|`Apex Legends`|
+|[All Mouse NoRecoil 1&#46;0 IS OUT &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-1-0-recoil-helpy-auto-config-probably-ud-universal.html)|`2025-06-09 10:19:00`|`Rainbow Six Siege`|
+|[i need help with backdoor exploiting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/704065-help-backdoor-exploiting.html)|`2025-06-09 10:16:00`|`Off Topic`|
+|[WILDLIFE PHOTOGRAPHY CHALLENGE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703975-wildlife-photography-challenge.html)|`2025-06-09 10:13:00`|`Grand Theft Auto V`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-06-09 08:56:00`|`Counter-Strike 2`|
 |[Question about dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/703937-question-dma.html)|`2025-06-09 08:36:00`|`PC Hardware`|
 |[DayZ Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/639749-dayz-dumper.html)|`2025-06-09 08:31:00`|`DayZ SA`|
