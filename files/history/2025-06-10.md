@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Linux&#93; Universal No Recoil using virtual mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/704360-linux-universal-recoil-using-virtual-mouse.html)|`2025-06-10 06:51:00`|`Other FPS Games`|
 |[Any pubg steam hack please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/702955-pubg-steam-hack-please.html)|`2025-06-10 06:40:00`|`Playerunknown's Battlegrounds`|
 |[Screen capturing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-/704358-screen-capturing.html)|`2025-06-10 06:36:00`|`C#`|
 |[Blacklight Retribution ESP &#43; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/703520-blacklight-retribution-esp-aimbot.html)|`2025-06-10 06:22:00`|`Other FPS Games`|
