@@ -45,6 +45,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how can i start gamehacking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/700363-start-gamehacking.html)|`2025-06-09 23:21:00`|`Programming for Beginners`|
 |[From ProcessEvent to Direct Calls – My Vanguard Approach](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704290-processevent-direct-calls-vanguard-approach.html)|`2025-06-09 23:11:00`|`Valorant`|
 |[Voyager and EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704289-voyager-eac.html)|`2025-06-09 23:11:00`|`Anti-Cheat Bypass`|
 |[Palspawn Function?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/692428-palspawn-function.html)|`2025-06-09 23:02:00`|`Palworld`|
