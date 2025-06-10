@@ -14,6 +14,7 @@
 |14|[Helldivers 2 Undetected Features by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/704156-helldivers-2-undetected-features-igromanru.html)|`2025-06-10 05:55:26`|`helldivers-2-a`|
 |21|[Script using ESP32&#45;S3, EAC Detection?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/703547-script-using-esp32-s3-eac-detection.html)|`2025-06-10 07:59:45`|`rust`|
 |9|[Click here if ur HWID banned on valorant&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703931-click-ur-hwid-banned-valorant.html)|`2025-06-10 11:10:30`|`valorant`|
+|9|[ASRock OC Tuner Vulnerable Driver &#43; POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703929-asrock-oc-tuner-vulnerable-driver-poc.html)|`2025-06-10 13:11:21`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can't Dump cshell Anymore After Update – Any Solutions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/703909-cant-dump-cshell-anymore-update-solutions.html)|`2025-06-10 13:00:00`|`CrossFire`|
 |[Reversing offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/704160-reversing-offsets.html)|`2025-06-10 12:47:00`|`Alternative Online Mods`|
 |[Men of War: Assault Squad 2 Multiplayer Cheat &#45; Netrahook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/704380-war-assault-squad-2-multiplayer-cheat-netrahook.html)|`2025-06-10 12:37:00`|`Other MMORPG and Strategy`|
 |[splitgate 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/702287-splitgate-2-a.html)|`2025-06-10 12:00:00`|`Splitgate`|
