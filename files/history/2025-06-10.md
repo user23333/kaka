@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-06-10 16:32:00`|`Call of Duty: Black Ops 6`|
 |[Need help finding offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/702241-help-finding-offsets.html)|`2025-06-10 16:25:00`|`Escape from Tarkov`|
 |[Help with undetected hooking method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/696661-help-undetected-hooking-method.html)|`2025-06-10 15:56:00`|`Forum General`|
 |[camera&#46;cs for 3&#46;3&#46;5:12340](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wow-hacks-and-bots/704393-camera-cs-3-3-5-12340-a.html)|`2025-06-10 15:55:00`|`Wow Hacks and Bots`|
