@@ -29,9 +29,14 @@
 |304|[Helldivers 2 Undetected Features v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50013)|`2025-06-11 00:19:36`|
 |90|[xterial 1&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50012)|`2025-06-11 00:19:36`|
 |2|[CS2 NoSkill&#46;cc External Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50025)|`2025-06-11 02:43:59`|
+|0|[DuneSDK 11&#46;06&#46;2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50056)|`2025-06-11 06:46:19`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/704215-war-thunder-dma.html)|`2025-06-11 06:44:00`|`Other MMORPG and Strategy`|
+|[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-06-11 06:42:00`|`Grand Theft Auto V`|
+|[Dune: Awakening Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699887-dune-awakening-reversal-structs-offsets.html)|`2025-06-11 06:41:00`|`Other FPS Games`|
+|[External hitbox triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704473-external-hitbox-triggerbot.html)|`2025-06-11 06:39:00`|`Counter-Strike 2`|
 |[Looking for a Safe Undetected Cheat as of 26&#45;05&#45;2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/702232-looking-safe-undetected-cheat-26-05-2025-a.html)|`2025-06-11 06:32:00`|`Grand Theft Auto V`|
 |[lone&#45;dma eft&#45;dma&#45;radar built w/ wpf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/704132-lone-dma-eft-dma-radar-built-wpf.html)|`2025-06-11 06:30:00`|`Escape from Tarkov`|
 |[Kingly Order of Souls Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/704249-kingly-souls-exploit.html)|`2025-06-11 06:05:00`|`Sea of Thieves`|
