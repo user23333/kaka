@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cheat for brawhalla](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/700925-cheat-brawhalla.html)|`2025-06-10 13:31:00`|`Other Games`|
+|[Brawlhalla cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/701087-brawlhalla-cheat.html)|`2025-06-10 13:31:00`|`Other Games`|
+|[Information for spoof&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/704386-information-spoof.html)|`2025-06-10 13:26:00`|`PC Hardware`|
+|[Rust Anti Cheat Update Blocks Virtual Mouse Input&#46; Any Workarounds?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/700839-rust-anti-cheat-update-blocks-virtual-mouse-input-workarounds.html)|`2025-06-10 13:16:00`|`Rust`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-06-10 13:13:00`|`League of Legends`|
 |[Can't Dump cshell Anymore After Update – Any Solutions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/703909-cant-dump-cshell-anymore-update-solutions.html)|`2025-06-10 13:00:00`|`CrossFire`|
 |[Reversing offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/704160-reversing-offsets.html)|`2025-06-10 12:47:00`|`Alternative Online Mods`|
 |[Men of War: Assault Squad 2 Multiplayer Cheat &#45; Netrahook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/704380-war-assault-squad-2-multiplayer-cheat-netrahook.html)|`2025-06-10 12:37:00`|`Other MMORPG and Strategy`|
