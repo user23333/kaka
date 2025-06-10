@@ -12,6 +12,7 @@
 |21|[Script using ESP32&#45;S3, EAC Detection?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/703547-script-using-esp32-s3-eac-detection.html)|`2025-06-11 00:19:36`|`rust`|
 |9|[ASRock OC Tuner Vulnerable Driver &#43; POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703929-asrock-oc-tuner-vulnerable-driver-poc.html)|`2025-06-11 00:19:36`|`anti-cheat-bypass`|
 |7|[Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703732-internal-source.html)|`2025-06-11 01:43:44`|`valorant`|
+|6|[Valorant External Source Free](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703760-valorant-external-source-free.html)|`2025-06-11 04:32:50`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mouse blocking workarounds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703575-mouse-blocking-workarounds.html)|`2025-06-11 04:26:00`|`Apex Legends`|
+|[Anti&#45;cheat game cheat detection simulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703949-anti-cheat-game-cheat-detection-simulator.html)|`2025-06-11 04:22:00`|`Anti-Cheat Bypass`|
+|[overlay lag](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704232-overlay-lag.html)|`2025-06-11 04:15:00`|`Counter-Strike 2`|
 |[hentchelhook &#124; the best tf2 cheat in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/704100-hentchelhook-tf2-cheat-2025-a.html)|`2025-06-11 04:03:00`|`Team Fortress 2`|
 |[HOOK BYPASS EMULATOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/704304-hook-bypass-emulator.html)|`2025-06-11 03:58:00`|`PUBG Mobile`|
 |[Some offsets can fix the ban 32bit GL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/704305-offsets-fix-ban-32bit-gl.html)|`2025-06-11 03:56:00`|`PUBG Mobile`|
