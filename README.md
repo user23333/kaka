@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kingly Order of Souls Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/704249-kingly-souls-exploit.html)|`2025-06-11 06:05:00`|`Sea of Thieves`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-06-11 06:03:00`|`Overwatch`|
 |[mod&#95;au](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/694266-mod_au.html)|`2025-06-11 05:49:00`|`Among Us`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-06-11 05:40:00`|`Escape from Tarkov`|
 |[Helldivers 2 Undetected Features by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/704156-helldivers-2-undetected-features-igromanru.html)|`2025-06-11 05:36:00`|`HELLDIVERS 2`|
