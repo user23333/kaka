@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I want to get into coding cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/704067-coding-cheats.html)|`2025-06-10 21:02:00`|`Rainbow Six Siege`|
+|[Action Figure/Signal Jammer/Card Esp?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/704410-action-figure-signal-jammer-card-esp.html)|`2025-06-10 21:02:00`|`Grand Theft Auto V`|
+|[Anti&#45;cheat game cheat detection simulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703949-anti-cheat-game-cheat-detection-simulator.html)|`2025-06-10 21:02:00`|`Anti-Cheat Bypass`|
+|[HMW Perfect Autowall / NoSpread / Esp / Hitbox testing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/704185-hmw-perfect-autowall-nospread-esp-hitbox-testing.html)|`2025-06-10 20:59:00`|`Call of Duty 4: Modern Warfare`|
+|[triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702106-triggerbot.html)|`2025-06-10 20:34:00`|`Counter-Strike 2`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-06-10 19:49:00`|`Playerunknown's Battlegrounds`|
 |[CS2 External &#40;Powerful&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703995-cs2-external-powerful.html)|`2025-06-10 19:47:00`|`Counter-Strike 2`|
 |[External D3D11 Shellcode Toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/704405-external-d3d11-shellcode-toolkit.html)|`2025-06-10 19:39:00`|`C and C++`|
