@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[THE FINALS aim bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/686101-finals-aim-bot.html)|`2025-06-11 07:23:00`|`THE FINALS`|
+|[Elden ring new Cheat Table &#43; Online &#40;risky&#41; &#43; CE Undetected &#43; future updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661671-elden-ring-cheat-table-online-risky-ce-undetected-future-updates.html)|`2025-06-11 07:18:00`|`Other FPS Games`|
 |[Recoil scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/699848-recoil-scripts.html)|`2025-06-11 07:13:00`|`THE FINALS`|
 |[cfemen & gir489's Satisfactory Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661834-cfemen-gir489s-satisfactory-cheat.html)|`2025-06-11 07:10:00`|`Other FPS Games`|
 |[“Please suggest some good approaches—I’m out of ideas&#46;”](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704474-please-suggest-approaches-ideas.html)|`2025-06-11 07:06:00`|`Anti-Cheat Bypass`|
