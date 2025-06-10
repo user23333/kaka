@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Adryan Pack &#45; Multiplayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/694661-adryan-pack-multiplayer.html)|`2025-06-10 23:41:00`|`Star Wars Battlefront 2`|
+|[How to Locate and VTable Hook Game's DX12 Present Function?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/direct3d/703752-locate-vtable-hook-games-dx12-function.html)|`2025-06-10 23:40:00`|`Direct3D`|
 |[YimMenuV2Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697581-yimmenuv2mod.html)|`2025-06-10 23:31:00`|`Grand Theft Auto V`|
 |[please answer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704427-please-answer.html)|`2025-06-10 23:23:00`|`Valorant`|
 |[Ban? I don’t understand&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/704426-ban-don-understand.html)|`2025-06-10 23:23:00`|`Playerunknown's Battlegrounds`|
