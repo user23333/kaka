@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External or Hybrid &#40;Internal with Overlaying&#41; Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/704438-external-hybrid-internal-overlaying-base.html)|`2025-06-11 02:15:00`|`Marvel Rivals`|
+|[External offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703430-external-offsets.html)|`2025-06-11 02:13:00`|`Valorant`|
+|[did they add a hwid ban yet?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/703531-add-hwid-ban.html)|`2025-06-11 02:02:00`|`Marvel Rivals`|
+|[Question with stat editor in current Yimmenuv2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/704278-question-stat-editor-current-yimmenuv2.html)|`2025-06-11 01:59:00`|`Grand Theft Auto V`|
+|[Meow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699145-meow.html)|`2025-06-11 01:56:00`|`Marvel Rivals`|
 |[Stumbled on a 2Box Trick via Discord&#46;&#46;&#46; Whatâ€™s the Deal?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699218-stumbled-2box-trick-via-discord-deal.html)|`2025-06-11 01:55:00`|`Call of Duty: Black Ops 6`|
 |[Best mod menu for RedM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/704090-mod-menu-redm.html)|`2025-06-11 01:54:00`|`Red Dead Redemption 2`|
 |[What Kernel Communication Methods do you guys use?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704208-kernel-communication-methods-guys.html)|`2025-06-11 01:50:00`|`Anti-Cheat Bypass`|
