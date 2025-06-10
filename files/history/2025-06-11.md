@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Voyager and EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704289-voyager-eac.html)|`2025-06-11 03:23:00`|`Anti-Cheat Bypass`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-06-11 03:21:00`|`DayZ SA`|
+|[Hero name esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/704346-hero-name-esp.html)|`2025-06-11 03:12:00`|`Deadlock`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-06-11 03:03:00`|`Counter-Strike 2`|
 |[APB Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/493164-apb-triggerbot.html)|`2025-06-11 03:01:00`|`All Points Bulletin`|
 |[How to Read a Byte Array Dynamically](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/704442-read-byte-array-dynamically.html)|`2025-06-11 02:52:00`|`General Programming and Reversing`|
