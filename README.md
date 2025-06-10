@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;DMA&#93; COD &#45; ESP &#43; AIM &#40;steam only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700409-dma-cod-esp-aim-steam.html)|`2025-06-10 13:46:00`|`Call of Duty: Black Ops 6`|
+|[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-06-10 13:46:00`|`Grand Theft Auto V`|
 |[Driver IOCTL Communication Interrupted by EAC in Apex Legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/701549-driver-ioctl-communication-interrupted-eac-apex-legends.html)|`2025-06-10 13:43:00`|`Apex Legends`|
 |[Any COH2 Cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/703149-coh2-cheats.html)|`2025-06-10 13:34:00`|`Other MMORPG and Strategy`|
 |[cheat for brawhalla](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/700925-cheat-brawhalla.html)|`2025-06-10 13:31:00`|`Other Games`|
