@@ -14,6 +14,7 @@
 |7|[Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703732-internal-source.html)|`2025-06-11 01:43:44`|`valorant`|
 |6|[Valorant External Source Free](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703760-valorant-external-source-free.html)|`2025-06-11 04:32:50`|`valorant`|
 |22|[hentchelhook &#124; the best tf2 cheat in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/704100-hentchelhook-tf2-cheat-2025-a.html)|`2025-06-11 05:51:22`|`team-fortress-2-a`|
+|5|[Stealthy IOCTL communication using ConDrv&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704238-stealthy-ioctl-communication-using-condrv-sys.html)|`2025-06-11 05:57:34`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
