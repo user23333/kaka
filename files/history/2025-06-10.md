@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-06-10 19:49:00`|`Playerunknown's Battlegrounds`|
+|[CS2 External &#40;Powerful&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703995-cs2-external-powerful.html)|`2025-06-10 19:47:00`|`Counter-Strike 2`|
 |[External D3D11 Shellcode Toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/704405-external-d3d11-shellcode-toolkit.html)|`2025-06-10 19:39:00`|`C and C++`|
 |[Call of Duty: MW3 Killstreak Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/704404-call-duty-mw3-killstreak-tool.html)|`2025-06-10 19:38:00`|`Call of Duty: Black Ops 6`|
 |[Lords mobile decrypted binaries](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/286793-lords-mobile-decrypted-binaries.html)|`2025-06-10 19:33:00`|`Android`|
