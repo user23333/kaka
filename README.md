@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BotOps Hub &#40;bot lobby tool, no VM required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674129-botops-hub-bot-lobby-tool-vm-required.html)|`2025-06-10 21:53:00`|`Call of Duty: Black Ops 6`|
 |[xterial &#45; External read only esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704055-xterial-external-read-esp.html)|`2025-06-10 21:18:00`|`Counter-Strike 2 Releases`|
 |[VALORANT temporary account ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704413-valorant-temporary-account-ban.html)|`2025-06-10 21:18:00`|`Valorant`|
 |[Absolute BEST Unban Method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703776-absolute-unban-method.html)|`2025-06-10 21:13:00`|`Apex Legends`|
