@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Exploit on WH for VALORANT&#46; Vanguard does not detect this&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704302-exploit-wh-valorant-vanguard-detect.html)|`2025-06-11 05:28:00`|`Valorant`|
+|[xterial &#45; External read only esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704055-xterial-external-read-esp.html)|`2025-06-11 05:15:00`|`Counter-Strike 2 Releases`|
+|[New Recoil Control Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/704458-recoil-control-method.html)|`2025-06-11 05:14:00`|`Apex Legends`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-06-11 05:12:00`|`Other Games`|
+|[Zombie Trainer with working xp mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/436528-zombie-trainer-xp-mod.html)|`2025-06-11 05:09:00`|`Call of Duty: Black Ops Cold War`|
 |[Men of War: Assault Squad 2 Multiplayer Cheat &#45; Netrahook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/704380-war-assault-squad-2-multiplayer-cheat-netrahook.html)|`2025-06-11 05:08:00`|`Other MMORPG and Strategy`|
 |[Arduino Working Jitter aim bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703532-arduino-jitter-aim-bypass.html)|`2025-06-11 05:06:00`|`Apex Legends`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-06-11 05:05:00`|`Apex Legends`|
