@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Helldivers 2 Undetected Features by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/704156-helldivers-2-undetected-features-igromanru.html)|`2025-06-11 05:36:00`|`HELLDIVERS 2`|
 |[Exploit on WH for VALORANT&#46; Vanguard does not detect this&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704302-exploit-wh-valorant-vanguard-detect.html)|`2025-06-11 05:28:00`|`Valorant`|
 |[xterial &#45; External read only esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704055-xterial-external-read-esp.html)|`2025-06-11 05:15:00`|`Counter-Strike 2 Releases`|
 |[New Recoil Control Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/704458-recoil-control-method.html)|`2025-06-11 05:14:00`|`Apex Legends`|
