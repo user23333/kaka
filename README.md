@@ -25,9 +25,16 @@
 |44|[Menu Snowbreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50014)|`2025-06-11 00:19:36`|
 |304|[Helldivers 2 Undetected Features v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50013)|`2025-06-11 00:19:36`|
 |90|[xterial 1&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50012)|`2025-06-11 00:19:36`|
+|2|[CS2 NoSkill&#46;cc External Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50025)|`2025-06-11 02:43:59`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Achieved no delay on my external overlay giving up on transparency](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702567-achieved-delay-external-overlay-giving-transparency.html)|`2025-06-11 02:37:00`|`Counter-Strike 2`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-06-11 02:37:00`|`Grand Theft Auto V`|
+|[YimMenuV2Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697581-yimmenuv2mod.html)|`2025-06-11 02:35:00`|`Grand Theft Auto V`|
+|[Obtaining csgo&#95;player&#95;previewmodel without hooking createEntity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704440-obtaining-csgo_player_previewmodel-hooking-createentity.html)|`2025-06-11 02:33:00`|`Counter-Strike 2`|
+|[Albion Online Dungeon Checker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/670358-albion-online-dungeon-checker.html)|`2025-06-11 02:32:00`|`Other MMORPG and Strategy`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-06-11 02:28:00`|`ARMA 3`|
 |[External or Hybrid &#40;Internal with Overlaying&#41; Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/704438-external-hybrid-internal-overlaying-base.html)|`2025-06-11 02:15:00`|`Marvel Rivals`|
 |[External offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703430-external-offsets.html)|`2025-06-11 02:13:00`|`Valorant`|
 |[did they add a hwid ban yet?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/703531-add-hwid-ban.html)|`2025-06-11 02:02:00`|`Marvel Rivals`|
