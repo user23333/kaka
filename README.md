@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dupe exploit &#91;PC Verison&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/688691-dupe-exploit-pc-verison.html)|`2025-06-10 09:39:00`|`DayZ SA`|
+|[FiveM DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/702854-fivem-dma-esp.html)|`2025-06-10 09:33:00`|`Alternative Online Mods`|
+|[Loading vulnerable driver from byte array for mapping&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704207-loading-vulnerable-driver-byte-array-mapping.html)|`2025-06-10 09:20:00`|`Anti-Cheat Bypass`|
+|[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-06-10 09:01:00`|`Other FPS Games`|
+|[Universal FOV Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/704370-universal-fov-changer.html)|`2025-06-10 09:01:00`|`Unity`|
+|[Valorant gigabyte b650m Ds3h Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704087-valorant-gigabyte-b650m-ds3h-spoofer.html)|`2025-06-10 08:57:00`|`Valorant`|
 |[Crystal of Atlan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/702573-crystal-atlan.html)|`2025-06-10 07:55:00`|`Other MMORPG and Strategy`|
 |[Lag switching in clash royale](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/704362-lag-switching-clash-royale.html)|`2025-06-10 07:51:00`|`Forum General`|
 |[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2025-06-10 07:50:00`|`Other Games`|
