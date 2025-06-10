@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Driver IOCTL Communication Interrupted by EAC in Apex Legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/701549-driver-ioctl-communication-interrupted-eac-apex-legends.html)|`2025-06-10 13:43:00`|`Apex Legends`|
+|[Any COH2 Cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/703149-coh2-cheats.html)|`2025-06-10 13:34:00`|`Other MMORPG and Strategy`|
 |[cheat for brawhalla](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/700925-cheat-brawhalla.html)|`2025-06-10 13:31:00`|`Other Games`|
 |[Brawlhalla cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/701087-brawlhalla-cheat.html)|`2025-06-10 13:31:00`|`Other Games`|
 |[Information for spoof&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/704386-information-spoof.html)|`2025-06-10 13:26:00`|`PC Hardware`|
