@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2025-06-11 01:24:00`|`Counter-Strike 2 Releases`|
+|[DMA goodness?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/703091-dma-goodness.html)|`2025-06-11 01:19:00`|`Star Wars Battlefront 2`|
 |[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2025-06-11 01:10:00`|`DayZ SA`|
 |[Etheria: Restart](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/703833-etheria-restart.html)|`2025-06-11 01:10:00`|`Other MMORPG and Strategy`|
 |[Etheria Restart Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/700240-etheria-restart-reversal-structs-offsets.html)|`2025-06-11 01:09:00`|`Other Games`|
