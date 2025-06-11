@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-06-11 09:11:00`|`Counter-Strike 2 Releases`|
+|[What im doing wrong?????????](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/704486-im-doing-wrong.html)|`2025-06-11 08:59:00`|`General Programming and Reversing`|
+|[Triggerbot Internal Wallbang](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704484-triggerbot-internal-wallbang.html)|`2025-06-11 08:34:00`|`Counter-Strike 2`|
+|[PUBG ESP SIMPLE CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/702364-pubg-esp-simple-cheat.html)|`2025-06-11 08:14:00`|`Playerunknown's Battlegrounds`|
 |[VutriumBot 1&#46;0&#46;2 Free &#45; Rocket League Visual Aid & Bot Integration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/702424-vutriumbot-1-0-2-free-rocket-league-visual-aid-bot-integration.html)|`2025-06-11 07:46:00`|`Other Games`|
 |[SEOwned x64 fixed for new tf2 update&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/691125-seowned-x64-fixed-tf2-update.html)|`2025-06-11 07:44:00`|`Team Fortress 2`|
 |[THE FINALS aim bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/686101-finals-aim-bot.html)|`2025-06-11 07:23:00`|`THE FINALS`|
