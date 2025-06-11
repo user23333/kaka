@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ShadowRegion GWorld  new？](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704508-shadowregion-gworld.html)|`2025-06-11 11:58:00`|`Valorant`|
+|[L4D2 Hack Menu &#40;Steam&#41; 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695228-l4d2-hack-menu-steam-2025-a.html)|`2025-06-11 11:56:00`|`Other FPS Games`|
+|[Question about loader security](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/704507-question-loader-security.html)|`2025-06-11 11:50:00`|`General Programming and Reversing`|
 |[MeThCrAcK PrO AI AimBot &#40;&#91;removed&#93; menu decent performance&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/702604-methcrack-pro-ai-aimbot-removed-menu-decent-performance.html)|`2025-06-11 11:38:00`|`Half Life`|
 |[Career unlock with Yimmenu v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696116-career-unlock-yimmenu-v2.html)|`2025-06-11 11:30:00`|`Grand Theft Auto V`|
 |[Yimmenu v2 features&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/704506-yimmenu-v2-features.html)|`2025-06-11 11:24:00`|`Grand Theft Auto V`|
