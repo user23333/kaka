@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fluffbot420](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/700017-fluffbot420.html)|`2025-06-12 07:34:00`|`Marvel Rivals`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-06-12 07:03:00`|`Other MMORPG and Strategy`|
 |[Obtaining csgo&#95;player&#95;previewmodel without hooking createEntity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704440-obtaining-csgo_player_previewmodel-hooking-createentity.html)|`2025-06-12 06:59:00`|`Counter-Strike 2`|
 |[Imgui structure builder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/704628-imgui-structure-builder.html)|`2025-06-12 06:58:00`|`General Programming and Reversing`|
