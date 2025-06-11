@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-06-12 03:12:00`|`League of Legends`|
 |[Bombardino Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/704529-bombardino-internal.html)|`2025-06-12 03:04:00`|`Marvel Rivals`|
 |[War Thunder nvidia profile inspector help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/704613-war-thunder-nvidia-profile-inspector-help.html)|`2025-06-12 02:57:00`|`Other FPS Games`|
 |[Apex CV YOLO v8 Aim Assist Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/624584-apex-cv-yolo-v8-aim-assist-bot.html)|`2025-06-12 02:46:00`|`Apex Legends`|
