@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[“Please suggest some good approaches—I’m out of ideas&#46;”](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704474-please-suggest-approaches-ideas.html)|`2025-06-12 06:12:00`|`Anti-Cheat Bypass`|
+|[Stealthy IOCTL communication using ConDrv&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704238-stealthy-ioctl-communication-using-condrv-sys.html)|`2025-06-12 06:08:00`|`Anti-Cheat Bypass`|
 |[Loading vulnerable driver from byte array for mapping&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704207-loading-vulnerable-driver-byte-array-mapping.html)|`2025-06-12 05:45:00`|`Anti-Cheat Bypass`|
 |[Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/704623-overlay.html)|`2025-06-12 05:44:00`|`C and C++`|
 |[HMW Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/703932-hmw-offsets.html)|`2025-06-12 05:38:00`|`Call of Duty 4: Modern Warfare`|
