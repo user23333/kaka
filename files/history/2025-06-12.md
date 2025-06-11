@@ -27,6 +27,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ladware kernel external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704276-ladware-kernel-external.html)|`2025-06-12 02:14:00`|`Counter-Strike 2`|
+|[The Adryan Pack &#45; Multiplayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/694661-adryan-pack-multiplayer.html)|`2025-06-12 02:13:00`|`Star Wars Battlefront 2`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-06-12 02:13:00`|`ARMA 3`|
+|[Reversing Natives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/703545-reversing-natives.html)|`2025-06-12 02:13:00`|`Alternative Online Mods`|
+|[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-06-12 02:12:00`|`Marvel Rivals`|
+|[HID&#45;reports AI aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704514-hid-reports-ai-aimbot.html)|`2025-06-12 02:09:00`|`Valorant`|
+|[Hardware aimbot boards list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701129-hardware-aimbot-boards-list.html)|`2025-06-12 02:09:00`|`Valorant`|
+|[External or Hybrid &#40;Internal with Overlaying&#41; Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/704438-external-hybrid-internal-overlaying-base.html)|`2025-06-12 02:08:00`|`Marvel Rivals`|
+|[getting world internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704296-getting-world-internal.html)|`2025-06-12 02:07:00`|`Valorant`|
+|[Does Faceit ban your router?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704268-faceit-ban-router.html)|`2025-06-12 02:03:00`|`Counter-Strike 2`|
 |[What's the last technical textbook you read?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/702204-whats-technical-textbook-read.html)|`2025-06-12 01:50:00`|`Off Topic`|
 |[dma cheat mc 1&#46;21&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/702588-dma-cheat-mc-1-21-4-a.html)|`2025-06-12 01:42:00`|`Minecraft`|
 |[VutriumBot 1&#46;0&#46;2 Free &#45; Rocket League Visual Aid & Bot Integration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/702424-vutriumbot-1-0-2-free-rocket-league-visual-aid-bot-integration.html)|`2025-06-12 01:39:00`|`Other Games`|
