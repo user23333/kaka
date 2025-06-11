@@ -30,9 +30,15 @@
 |90|[xterial 1&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50012)|`2025-06-11 00:19:36`|
 |2|[CS2 NoSkill&#46;cc External Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50025)|`2025-06-11 02:43:59`|
 |0|[DuneSDK 11&#46;06&#46;2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50056)|`2025-06-11 06:46:19`|
+|1|[KDZero Kernel river](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50026)|`2025-06-11 21:04:08`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SWBF2 Internal ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/581560-swbf2-internal-esp.html)|`2025-06-11 21:03:00`|`Star Wars Battlefront 2`|
+|[REPX &#45; R&#46;E&#46;P&#46;O&#46; Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/697781-repx-cheat.html)|`2025-06-11 21:00:00`|`Other MMORPG and Strategy`|
+|[Sven Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/613815-sven-internal.html)|`2025-06-11 20:57:00`|`Other FPS Games`|
+|[New Siege X](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/704465-siege.html)|`2025-06-11 20:54:00`|`Rainbow Six Siege`|
+|[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-06-11 20:51:00`|`Rainbow Six Siege`|
 |[DSE win 11 24h2 lastest version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704396-dse-win-11-24h2-lastest-version.html)|`2025-06-11 20:16:00`|`Anti-Cheat Bypass`|
 |[I Need DSE&#45;Patcher for Win11&#45; 24H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683763-dse-patcher-win11-24h2.html)|`2025-06-11 20:14:00`|`Anti-Cheat Bypass`|
 |[Dayz pc dupe &#40;NOT PATCHED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/704228-dayz-pc-dupe-patched.html)|`2025-06-11 20:08:00`|`DayZ SA`|
