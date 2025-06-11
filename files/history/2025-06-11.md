@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MeThCrAcK PrO AI AimBot &#40;&#91;removed&#93; menu decent performance&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/702604-methcrack-pro-ai-aimbot-removed-menu-decent-performance.html)|`2025-06-11 11:38:00`|`Half Life`|
+|[Career unlock with Yimmenu v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696116-career-unlock-yimmenu-v2.html)|`2025-06-11 11:30:00`|`Grand Theft Auto V`|
+|[Yimmenu v2 features&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/704506-yimmenu-v2-features.html)|`2025-06-11 11:24:00`|`Grand Theft Auto V`|
 |[Auto Parry on BF Expanded Kyber](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/704499-auto-parry-bf-expanded-kyber.html)|`2025-06-11 10:53:00`|`Star Wars Battlefront 2`|
 |[Among Us Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/574185-cheat-table.html)|`2025-06-11 10:51:00`|`Among Us`|
 |[please answer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704427-please-answer.html)|`2025-06-11 10:35:00`|`Valorant`|
