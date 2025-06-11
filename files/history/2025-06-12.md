@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Wildgate Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699955-wildgate-reversal-structs-offsets.html)|`2025-06-12 05:12:00`|`Other FPS Games`|
+|[The arcade cannot practice fingerprint cracking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/704411-arcade-practice-fingerprint-cracking.html)|`2025-06-12 05:09:00`|`Grand Theft Auto V`|
+|[esp for HorizonMW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/703983-esp-horizonmw.html)|`2025-06-12 05:08:00`|`Call of Duty 4: Modern Warfare`|
+|[Zero Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703075-zero-triggerbot.html)|`2025-06-12 05:03:00`|`Valorant`|
 |[War Thunder DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/704215-war-thunder-dma.html)|`2025-06-12 04:40:00`|`Other MMORPG and Strategy`|
 |[No Recoil G&#45;Hub Lua for Rainbow Six Siege](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/701449-recoil-hub-lua-rainbow-six-siege.html)|`2025-06-12 04:31:00`|`Rainbow Six Siege`|
 |[Grand Theft Auto V Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144819-grand-theft-auto-scripting.html)|`2025-06-12 04:28:00`|`Grand Theft Auto V`|
