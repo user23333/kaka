@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-06-11 15:24:00`|`Escape from Tarkov`|
 |[Method for Sharing Rainbow Six Siege Glasser Skin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/704257-method-sharing-rainbow-six-siege-glasser-skin.html)|`2025-06-11 14:59:00`|`Rainbow Six Siege`|
 |[Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703732-internal-source.html)|`2025-06-11 14:51:00`|`Valorant`|
 |[Got banned 6th day&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/700850-banned-6th-day.html)|`2025-06-11 14:29:00`|`Escape from Tarkov`|
