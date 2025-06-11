@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTA:SA/SAMP cheat menu mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/677373-gta-sa-samp-cheat-menu-mod.html)|`2025-06-12 01:25:00`|`Other Single Player Games`|
+|[Looking for a Safe Undetected Cheat as of 26&#45;05&#45;2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/702232-looking-safe-undetected-cheat-26-05-2025-a.html)|`2025-06-12 01:16:00`|`Grand Theft Auto V`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-06-12 01:12:00`|`Escape from Tarkov`|
+|[GTA Online: Money Fronts Coming June 17](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/704575-gta-online-money-fronts-coming-june-17-a.html)|`2025-06-12 01:11:00`|`Grand Theft Auto V`|
 |[KUBERA &#45; x86 CPU & Environment emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/704069-kubera-x86-cpu-environment-emulator.html)|`2025-06-12 00:59:00`|`General Programming and Reversing`|
 |[MvM death anims](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/704574-mvm-death-anims.html)|`2025-06-12 00:50:00`|`Team Fortress 2`|
 |[People vanishing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/704256-people-vanishing.html)|`2025-06-12 00:49:00`|`Rust`|
