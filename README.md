@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant External Source Free](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703760-valorant-external-source-free.html)|`2025-06-12 05:21:00`|`Valorant`|
 |[Wildgate Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699955-wildgate-reversal-structs-offsets.html)|`2025-06-12 05:12:00`|`Other FPS Games`|
 |[The arcade cannot practice fingerprint cracking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/704411-arcade-practice-fingerprint-cracking.html)|`2025-06-12 05:09:00`|`Grand Theft Auto V`|
 |[esp for HorizonMW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/703983-esp-horizonmw.html)|`2025-06-12 05:08:00`|`Call of Duty 4: Modern Warfare`|
