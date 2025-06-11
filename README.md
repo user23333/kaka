@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[working cheats on gta 5 online legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/704457-cheats-gta-5-online-legacy.html)|`2025-06-11 18:48:00`|`Grand Theft Auto V`|
+|[any way to get unbanned on faceit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702548-unbanned-faceit.html)|`2025-06-11 18:44:00`|`Counter-Strike 2`|
 |[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-06-11 18:03:00`|`HELLDIVERS 2`|
 |[Hardware aimbot boards list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701129-hardware-aimbot-boards-list.html)|`2025-06-11 17:54:00`|`Valorant`|
 |[HWID ban duration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/625445-hwid-ban-duration.html)|`2025-06-11 18:23:00`|`Valorant`|
