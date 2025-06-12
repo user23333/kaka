@@ -11,6 +11,7 @@
 |30|[Voyager and EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704289-voyager-eac.html)|`2025-06-13 00:25:36`|`anti-cheat-bypass`|
 |9|[ASRock OC Tuner Vulnerable Driver &#43; POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703929-asrock-oc-tuner-vulnerable-driver-poc.html)|`2025-06-13 00:25:36`|`anti-cheat-bypass`|
 |12|[ladware kernel external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704276-ladware-kernel-external.html)|`2025-06-13 00:25:36`|`counter-strike-2-a`|
+|18|[FULLY WORKING EXTERNAL &#43; SIGNED DRIVER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704649-external-signed-driver.html)|`2025-06-13 07:58:48`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Latest 2024 UnBan Method &#45; EAC/BE And Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/676059-2024-unban-method-eac.html)|`2025-06-13 07:56:00`|`Anti-Cheat Bypass`|
 |[splitgate 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/702287-splitgate-2-a.html)|`2025-06-13 07:50:00`|`Splitgate`|
 |[Absolute BEST Unban Method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703776-absolute-unban-method.html)|`2025-06-13 07:35:00`|`Apex Legends`|
 |[SoundSight: CS2 Audio ESP &#45; 3D Spatial Sound Radar for Enemy Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691687-soundsight-cs2-audio-esp-3d-spatial-sound-radar-enemy-detection.html)|`2025-06-13 07:27:00`|`Counter-Strike 2`|
