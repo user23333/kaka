@@ -34,6 +34,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/702854-fivem-dma-esp.html)|`2025-06-12 14:45:00`|`Alternative Online Mods`|
+|[SiegeX QB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/704656-siegex-qb.html)|`2025-06-12 14:40:00`|`Rainbow Six Siege`|
+|[R6 razer macro detectable?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/702566-r6-razer-macro-detectable.html)|`2025-06-12 14:34:00`|`Rainbow Six Siege`|
+|[I NEED A SIMPLE ESP BFV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/704516-simple-esp-bfv.html)|`2025-06-12 14:32:00`|`Battlefield V`|
+|[How to make glow for](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/704654-glow.html)|`2025-06-12 14:28:00`|`Deadlock`|
 |[New to all of this and looking to bypass EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704646-looking-bypass-eac.html)|`2025-06-12 13:41:00`|`Anti-Cheat Bypass`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-06-12 13:33:00`|`Valorant`|
 |[FULLY WORKING EXTERNAL &#43; SIGNED DRIVER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704649-external-signed-driver.html)|`2025-06-12 13:33:00`|`Valorant`|
