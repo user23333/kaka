@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to play with higher fov?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/704561-play-fov.html)|`2025-06-12 08:46:00`|`Grand Theft Auto V`|
+|[does a delay ban restart the 4 month ban timer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704430-delay-ban-restart-4-month-ban-timer.html)|`2025-06-12 08:07:00`|`Valorant`|
 |[Invoking server functions from the client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/704630-invoking-server-functions-client.html)|`2025-06-12 07:53:00`|`Alternative Online Mods`|
 |[Complete Anti&#45;Cheat BYPASS &#40;&#43;ONLINE&#43;INJECTOR&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/701513-complete-anti-cheat-bypass-online-injector.html)|`2025-06-12 07:44:00`|`Marvel Rivals`|
 |[Fluffbot420](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/700017-fluffbot420.html)|`2025-06-12 07:34:00`|`Marvel Rivals`|
