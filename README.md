@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[valorant colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/693264-valorant-colorbot.html)|`2025-06-13 05:57:00`|`Valorant`|
 |[palworld internal update with &#42;spawnpal&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/623520-palworld-internal-update-spawnpal.html)|`2025-06-13 05:40:00`|`Palworld`|
 |[Men of War: Assault Squad 2 Multiplayer Cheat &#45; Netrahook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/704380-war-assault-squad-2-multiplayer-cheat-netrahook.html)|`2025-06-13 05:34:00`|`Other MMORPG and Strategy`|
 |[R6 account bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/704740-r6-account-bans.html)|`2025-06-13 05:31:00`|`Rainbow Six Siege`|
