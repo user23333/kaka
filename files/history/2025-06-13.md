@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Men of War: Assault Squad 2 Multiplayer Cheat &#45; Netrahook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/704380-war-assault-squad-2-multiplayer-cheat-netrahook.html)|`2025-06-13 05:34:00`|`Other MMORPG and Strategy`|
+|[R6 account bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/704740-r6-account-bans.html)|`2025-06-13 05:31:00`|`Rainbow Six Siege`|
+|[Horizon Rocket League Plugin &#40;Spawn Titles/Items, Set Paint, Credits & Shop Fake Buy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/701283-horizon-rocket-league-plugin-spawn-titles-items-set-paint-credits-shop-fake-buy.html)|`2025-06-13 05:27:00`|`Other Games`|
+|[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-06-13 05:12:00`|`Marvel Rivals`|
 |[steam acc gen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704678-steam-acc-gen.html)|`2025-06-13 05:23:00`|`Counter-Strike 2`|
 |[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-06-13 05:20:00`|`Sea of Thieves`|
 |[Obtaining csgo&#95;player&#95;previewmodel without hooking createEntity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/704440-obtaining-csgo_player_previewmodel-hooking-createentity.html)|`2025-06-13 05:08:00`|`Counterstrike Global Offensive`|
