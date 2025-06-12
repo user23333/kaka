@@ -28,9 +28,16 @@
 |1|[mw2mp&#46;idb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50048)|`2025-06-12 13:14:11`|
 |1|[Helldivers 2 Undetected Features v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50042)|`2025-06-12 13:14:11`|
 |2|[patcher&#95;hmw&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50040)|`2025-06-12 13:14:11`|
+|1|[5&#46;6&#46;0&#45;43339403&#43;&#43;&#43;Fortnite&#43;Release&#45;36&#46;00](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50068)|`2025-06-12 13:34:05`|
+|2|[eft&#45;dma&#45;radar&#45;v1&#46;1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50055)|`2025-06-12 13:34:05`|
+|1|[BlackPowderPreload](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50049)|`2025-06-12 13:34:05`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-06-12 13:33:00`|`Valorant`|
+|[FULLY WORKING EXTERNAL &#43; SIGNED DRIVER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704649-external-signed-driver.html)|`2025-06-12 13:33:00`|`Valorant`|
+|[All Mouse NoRecoil 1&#46;0 IS OUT &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-1-0-recoil-helpy-auto-config-probably-ud-universal.html)|`2025-06-12 13:21:00`|`Rainbow Six Siege`|
+|[lone&#45;dma eft&#45;dma&#45;radar built w/ wpf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/704132-lone-dma-eft-dma-radar-built-wpf.html)|`2025-06-12 13:16:00`|`Escape from Tarkov`|
 |[Helldivers 2 Undetected Features by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/704156-helldivers-2-undetected-features-igromanru.html)|`2025-06-12 13:13:00`|`HELLDIVERS 2`|
 |[mw2 mp symbols idb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/704412-mw2-mp-symbols-idb.html)|`2025-06-12 13:11:00`|`Call of Duty 6: Modern Warfare 2`|
 |[hwidbypassclient for HorizonMW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/704144-hwidbypassclient-horizonmw.html)|`2025-06-12 13:10:00`|`Call of Duty 4: Modern Warfare`|
