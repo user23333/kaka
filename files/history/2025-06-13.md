@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-06-13 04:44:00`|`Call of Duty: Black Ops 6`|
+|[New Recoil Control Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/704458-recoil-control-method.html)|`2025-06-13 04:42:00`|`Apex Legends`|
+|[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2025-06-13 04:42:00`|`Other FPS Games`|
 |[What have I missed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/704709-missed.html)|`2025-06-13 04:30:00`|`Alternative Online Mods`|
 |[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-06-13 04:25:00`|`Rainbow Six Siege`|
 |[syscalls&#45;cpp: a modular C&#43;&#43;20 framework for hook&#45;proof direct syscalls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/704706-syscalls-cpp-modular-20-framework-hook-proof-direct-syscalls.html)|`2025-06-13 04:15:00`|`C and C++`|
