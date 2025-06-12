@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-06-13 00:41:00`|`PUBG Releases`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-06-13 00:38:00`|`Rust`|
+|[⋆˚✮🎧 ValoTrigger Pro Menu Update 🎧✮˚⋆](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702950-valotrigger-pro-menu-update.html)|`2025-06-13 00:28:00`|`Valorant`|
+|[Active Matter ecs dump &#40;Dagor Engine&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/704694-active-matter-ecs-dump-dagor-engine.html)|`2025-06-13 00:26:00`|`Other FPS Games`|
 |[esp for HorizonMW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/703983-esp-horizonmw.html)|`2025-06-13 00:24:00`|`Call of Duty 4: Modern Warfare`|
 |[Can anyone make a DMA software for Battlefield v?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/697648-dma-software-battlefield.html)|`2025-06-13 00:24:00`|`Battlefield V`|
 |[War Thunder DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/704215-war-thunder-dma.html)|`2025-06-13 00:24:00`|`Other MMORPG and Strategy`|
