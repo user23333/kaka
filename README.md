@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2025-06-12 18:45:00`|`Garry's Mod`|
 |[Free hwid spoofers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/704669-free-hwid-spoofers.html)|`2025-06-12 18:41:00`|`Apex Legends`|
 |[Any undetectable method to get money via yimv2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/704549-undetectable-method-money-via-yimv2.html)|`2025-06-12 18:33:00`|`Grand Theft Auto V`|
 |[hentchelhook &#124; the best tf2 cheat in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/704100-hentchelhook-tf2-cheat-2025-a.html)|`2025-06-12 18:30:00`|`Team Fortress 2`|
