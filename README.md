@@ -35,6 +35,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Free hwid spoofers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/704669-free-hwid-spoofers.html)|`2025-06-12 18:41:00`|`Apex Legends`|
+|[Any undetectable method to get money via yimv2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/704549-undetectable-method-money-via-yimv2.html)|`2025-06-12 18:33:00`|`Grand Theft Auto V`|
+|[hentchelhook &#124; the best tf2 cheat in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/704100-hentchelhook-tf2-cheat-2025-a.html)|`2025-06-12 18:30:00`|`Team Fortress 2`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-06-12 18:25:00`|`Escape from Tarkov`|
+|[amalgam problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/704179-amalgam.html)|`2025-06-12 18:25:00`|`Team Fortress 2`|
 |[Cheat for The Isle Legacy &#40;Not Evrima&#41; — UE 4&#46;25 &#124; VAC Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/704667-cheat-isle-legacy-evrima-ue-4-25-vac.html)|`2025-06-12 18:09:00`|`Other FPS Games`|
 |[I CONTINUOUSLY GET TEMPORARY ACCOUNT BAN, HELP ME](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704456-continuously-temporary-account-ban-help.html)|`2025-06-12 17:23:00`|`Valorant`|
 |[⋆˚✮🎧 ValoTrigger Pro Menu Update 🎧✮˚⋆](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702950-valotrigger-pro-menu-update.html)|`2025-06-12 16:46:00`|`Valorant`|
