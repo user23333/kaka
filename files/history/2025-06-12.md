@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-06-12 10:10:00`|`PUBG Releases`|
+|[spligate 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/704635-spligate-2-a.html)|`2025-06-12 10:06:00`|`Splitgate`|
+|[Dune: Awakening Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699887-dune-awakening-reversal-structs-offsets.html)|`2025-06-12 10:00:00`|`Other FPS Games`|
+|[BotOps Hub &#40;bot lobby tool, no VM required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674129-botops-hub-bot-lobby-tool-vm-required.html)|`2025-06-12 09:40:00`|`Call of Duty: Black Ops 6`|
+|[AFK Rank Up Script 50 Wins&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/703960-afk-rank-script-50-wins.html)|`2025-06-12 09:38:00`|`Call of Duty: Black Ops 6`|
 |[how to play with higher fov?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/704561-play-fov.html)|`2025-06-12 08:46:00`|`Grand Theft Auto V`|
 |[does a delay ban restart the 4 month ban timer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704430-delay-ban-restart-4-month-ban-timer.html)|`2025-06-12 08:07:00`|`Valorant`|
 |[Invoking server functions from the client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/704630-invoking-server-functions-client.html)|`2025-06-12 07:53:00`|`Alternative Online Mods`|
