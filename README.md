@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Thoughts on SendInput Detection and Safer Input Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704639-sendinput-detection-safer-input-methods.html)|`2025-06-12 12:41:00`|`Valorant`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-06-12 12:19:00`|`Other FPS Games`|
 |[FAQ Valorant Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/421120-faq-valorant-bans.html)|`2025-06-12 12:00:00`|`Valorant`|
 |[what did fivem change in the versions b3095&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/669039-fivem-change-versions-b3095.html)|`2025-06-12 11:49:00`|`Alternative Online Mods`|
