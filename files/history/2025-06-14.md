@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New Recoil Control Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/704458-recoil-control-method.html)|`2025-06-14 00:54:00`|`Apex Legends`|
+|[Any undetectable method to get money via yimv2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/704549-undetectable-method-money-via-yimv2.html)|`2025-06-14 00:54:00`|`Grand Theft Auto V`|
+|[All Mouse NoRecoil 1&#46;0 IS OUT &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-1-0-recoil-helpy-auto-config-probably-ud-universal.html)|`2025-06-14 00:54:00`|`Rainbow Six Siege`|
+|[Zero Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703075-zero-triggerbot.html)|`2025-06-14 00:53:00`|`Valorant`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-06-14 00:47:00`|`Counter-Strike 2`|
+|[game of thrones kingsroad hack & offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701827-game-thrones-kingsroad-hack-offsets.html)|`2025-06-14 00:45:00`|`Other MMORPG and Strategy`|
 |[Anti&#45;Cheats Bypass Using External Thunderbolt Enclosure and Pcileech &#91;VGK&#93; &#91;FACEIT&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/702960-anti-cheats-bypass-using-external-thunderbolt-enclosure-pcileech-vgk-faceit.html)|`2025-06-14 00:44:00`|`Anti-Cheat Bypass`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-06-14 00:43:00`|`Rust`|
 |[Good Sources that i can driver swap with](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704552-sources-driver-swap.html)|`2025-06-14 00:39:00`|`Counter-Strike 2`|
