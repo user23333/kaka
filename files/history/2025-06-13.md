@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[spligate 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/704635-spligate-2-a.html)|`2025-06-13 18:42:00`|`Splitgate`|
 |[Helldivers 2 Undetected Features by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/704156-helldivers-2-undetected-features-igromanru.html)|`2025-06-13 18:36:00`|`HELLDIVERS 2`|
 |[Run multiple instances of TF2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/703882-run-multiple-instances-tf2.html)|`2025-06-13 17:44:00`|`Team Fortress 2`|
 |[Click here if ur HWID banned on valorant&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703931-click-ur-hwid-banned-valorant.html)|`2025-06-13 17:31:00`|`Valorant`|
