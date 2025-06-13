@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Most undetected form of legit cheating?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704553-undetected-form-legit-cheating.html)|`2025-06-14 01:53:00`|`Valorant`|
+|[“Please suggest some good approaches—I’m out of ideas&#46;”](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704474-please-suggest-approaches-ideas.html)|`2025-06-14 01:52:00`|`Anti-Cheat Bypass`|
 |[L4D2 Hack Menu &#40;Steam&#41; 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695228-l4d2-hack-menu-steam-2025-a.html)|`2025-06-14 01:45:00`|`Other FPS Games`|
 |[Reversing Natives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/703545-reversing-natives.html)|`2025-06-14 01:44:00`|`Alternative Online Mods`|
 |[What have I missed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/704709-missed.html)|`2025-06-14 01:41:00`|`Alternative Online Mods`|
