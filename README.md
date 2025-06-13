@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Making a 2 PC triggerbot with a physical mouse click?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704277-2-pc-triggerbot-physical-mouse-click.html)|`2025-06-13 15:12:00`|`Valorant`|
 |[crosshairID offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/698888-crosshairid-offset.html)|`2025-06-13 14:27:00`|`CounterStrike Source`|
 |[fallout 76 mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637757-fallout-76-mods.html)|`2025-06-13 13:15:00`|`Other FPS Games`|
 |[&#91;GMod External&#93; Is there any proper way to get SENT / Prop info from entity list?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/704770-gmod-external-proper-sent-prop-info-entity-list.html)|`2025-06-13 13:14:00`|`Garry's Mod`|
