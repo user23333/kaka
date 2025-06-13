@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Team Fortress 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/102936-team-fortress-2-reversal-structs-offsets.html)|`2025-06-13 21:56:00`|`Team Fortress 2`|
+|[Isonzo Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675510-isonzo-internal-cheat.html)|`2025-06-13 21:50:00`|`Other FPS Games`|
 |[Xenuine Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/704818-xenuine-anticheat.html)|`2025-06-13 21:37:00`|`Playerunknown's Battlegrounds`|
 |[Good Sources that i can driver swap with](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704552-sources-driver-swap.html)|`2025-06-13 21:33:00`|`Counter-Strike 2`|
 |[How safe is a skinchanger?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704813-safe-skinchanger.html)|`2025-06-13 21:18:00`|`Counter-Strike 2`|
