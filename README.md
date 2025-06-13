@@ -11,6 +11,7 @@
 |30|[Voyager and EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704289-voyager-eac.html)|`2025-06-14 00:00:11`|`anti-cheat-bypass`|
 |22|[hentchelhook &#124; the best tf2 cheat in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/704100-hentchelhook-tf2-cheat-2025-a.html)|`2025-06-14 00:00:11`|`team-fortress-2-a`|
 |14|[ladware kernel external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704276-ladware-kernel-external.html)|`2025-06-14 00:00:11`|`counter-strike-2-a`|
+|13|[xterial &#45; External read only esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704055-xterial-external-read-esp.html)|`2025-06-14 02:30:34`|`counter-strike-2-releases`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Accounts getting insta banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704837-accounts-getting-insta-banned.html)|`2025-06-14 02:29:00`|`Valorant`|
+|[syscalls&#45;cpp: a modular C&#43;&#43;20 framework for hook&#45;proof direct syscalls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/704706-syscalls-cpp-modular-20-framework-hook-proof-direct-syscalls.html)|`2025-06-14 02:26:00`|`C and C++`|
+|[splitgate 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/702287-splitgate-2-a.html)|`2025-06-14 02:23:00`|`Splitgate`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-06-14 02:22:00`|`Other Games`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-06-14 02:16:00`|`Escape from Tarkov`|
+|[Give Cars to friend or get modded Cars](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/704836-cars-friend-modded-cars.html)|`2025-06-14 02:11:00`|`Grand Theft Auto V`|
+|[Bypass virtual mouse &#40;I may have found a solution&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/704557-bypass-virtual-mouse-found-solution.html)|`2025-06-14 02:07:00`|`Rust`|
 |[Crystal of Atlan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/702573-crystal-atlan.html)|`2025-06-14 01:56:00`|`Other MMORPG and Strategy`|
 |[Fast And Simple Triggerbot &#40;ASM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698448-fast-simple-triggerbot-asm.html)|`2025-06-14 01:56:00`|`Valorant`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-06-14 01:54:00`|`Counter-Strike 2`|
