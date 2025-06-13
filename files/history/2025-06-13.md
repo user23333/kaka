@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anti cleanopsT7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/704789-anti-cleanopst7.html)|`2025-06-13 16:20:00`|`Call of Duty: Black Ops 3`|
+|[Spawning question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/704640-spawning-question.html)|`2025-06-13 16:02:00`|`Grand Theft Auto V`|
 |[Hijacking Rivatuner or Nvidia Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/701387-hijacking-rivatuner-nvidia-overlay.html)|`2025-06-13 15:30:00`|`PUBG Mobile`|
 |[Making a 2 PC triggerbot with a physical mouse click?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704277-2-pc-triggerbot-physical-mouse-click.html)|`2025-06-13 15:12:00`|`Valorant`|
 |[crosshairID offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/698888-crosshairid-offset.html)|`2025-06-13 14:27:00`|`CounterStrike Source`|
