@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-06-13 12:22:00`|`Other Games`|
+|[GTA V Enhanced &#40;Xbox&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/704690-gta-enhanced-xbox.html)|`2025-06-13 12:10:00`|`Grand Theft Auto V`|
 |[Crystal of Atlan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/702573-crystal-atlan.html)|`2025-06-13 12:03:00`|`Other MMORPG and Strategy`|
 |[Stealthy IOCTL communication using ConDrv&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704238-stealthy-ioctl-communication-using-condrv-sys.html)|`2025-06-13 11:55:00`|`Anti-Cheat Bypass`|
 |[status&#95;cpp&#95;eh&#95;exception](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/704766-status_cpp_eh_exception.html)|`2025-06-13 11:50:00`|`DayZ SA`|
