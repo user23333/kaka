@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Thoughts on SendInput Detection and Safer Input Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704639-sendinput-detection-safer-input-methods.html)|`2025-06-14 02:48:00`|`Valorant`|
+|[GTA V Enhanced &#40;Xbox&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/704690-gta-enhanced-xbox.html)|`2025-06-14 02:47:00`|`Grand Theft Auto V`|
+|[Horizon Rocket League Plugin &#40;Spawn Titles/Items, Set Paint, Credits & Shop Fake Buy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/701283-horizon-rocket-league-plugin-spawn-titles-items-set-paint-credits-shop-fake-buy.html)|`2025-06-14 02:45:00`|`Other Games`|
+|[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-06-14 02:39:00`|`Sea of Thieves`|
+|[Spawning question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/704640-spawning-question.html)|`2025-06-14 02:37:00`|`Grand Theft Auto V`|
 |[Accounts getting insta banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704837-accounts-getting-insta-banned.html)|`2025-06-14 02:29:00`|`Valorant`|
 |[syscalls&#45;cpp: a modular C&#43;&#43;20 framework for hook&#45;proof direct syscalls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/704706-syscalls-cpp-modular-20-framework-hook-proof-direct-syscalls.html)|`2025-06-14 02:26:00`|`C and C++`|
 |[splitgate 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/702287-splitgate-2-a.html)|`2025-06-14 02:23:00`|`Splitgate`|
