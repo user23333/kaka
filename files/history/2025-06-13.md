@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[old juggworkz release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/704261-juggworkz-release.html)|`2025-06-13 10:36:00`|`Team Fortress 2`|
+|[PdFwKrnl&#46;sys Detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704764-pdfwkrnl-sys-detected.html)|`2025-06-13 10:20:00`|`Anti-Cheat Bypass`|
+|[AmongUsCosmetics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/521567-amonguscosmetics.html)|`2025-06-13 10:17:00`|`Among Us`|
+|[How exactly do tpm bans work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704762-exactly-tpm-bans.html)|`2025-06-13 09:57:00`|`Valorant`|
 |[Game Variable Hijacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/javascript/704760-game-variable-hijacking.html)|`2025-06-13 09:21:00`|`Javascript`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-06-13 09:11:00`|`Valorant`|
 |[Lua deobfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/web-and-scripting/695421-lua-deobfuscation.html)|`2025-06-13 08:46:00`|`Web and Scripting`|
