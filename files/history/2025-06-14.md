@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheating penalties?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/704080-cheating-penalties.html)|`2025-06-14 06:29:00`|`HELLDIVERS 2`|
+|[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2025-06-14 06:25:00`|`Other MMORPG and Strategy`|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-06-14 06:23:00`|`Other FPS Games`|
+|[Multiclient](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/704858-multiclient.html)|`2025-06-14 06:17:00`|`Other FPS Games`|
+|[&#91;GMod External&#93; Is there any proper way to get SENT / Prop info from entity list?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/704770-gmod-external-proper-sent-prop-info-entity-list.html)|`2025-06-14 06:10:00`|`Garry's Mod`|
 |[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-06-14 05:51:00`|`PUBG Releases`|
 |[i beg someone to pleeease](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/704854-beg-pleeease.html)|`2025-06-14 05:49:00`|`Star Wars Battlefront 2`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-06-14 05:44:00`|`Other FPS Games`|
