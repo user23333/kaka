@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Jackpot Slots Lua E&E &#45; Nenyooo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700161-jackpot-slots-lua-nenyooo.html)|`2025-06-14 00:24:00`|`Grand Theft Auto V`|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-06-14 00:23:00`|`HELLDIVERS 2`|
+|[FULLY WORKING EXTERNAL &#43; SIGNED DRIVER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704649-external-signed-driver.html)|`2025-06-14 00:21:00`|`Valorant`|
+|[Voyager and EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704289-voyager-eac.html)|`2025-06-14 00:21:00`|`Anti-Cheat Bypass`|
+|[IL2CPP DUMPER NEW FEADTURE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/704825-il2cpp-dumper-feadture.html)|`2025-06-14 00:21:00`|`Unity`|
+|[ladware kernel external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704276-ladware-kernel-external.html)|`2025-06-14 00:20:00`|`Counter-Strike 2`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-06-14 00:16:00`|`Apex Legends`|
+|[cfemen & gir489's Satisfactory Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661834-cfemen-gir489s-satisfactory-cheat.html)|`2025-06-14 00:09:00`|`Other FPS Games`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-06-14 00:09:00`|`Escape from Tarkov`|
 |[Free hwid spoofers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/704669-free-hwid-spoofers.html)|`2025-06-13 23:54:00`|`Apex Legends`|
 |[PUBG GLOBAL 3&#46;8 UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/699669-pubg-global-3-8-ue4-offsets.html)|`2025-06-13 23:54:00`|`PUBG Mobile`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-06-13 23:42:00`|`Grand Theft Auto V`|
