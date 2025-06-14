@@ -51,6 +51,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Team Fortress 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/102936-team-fortress-2-reversal-structs-offsets.html)|`2025-06-15 04:38:00`|`Team Fortress 2`|
+|[Arduino Working Jitter aim bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703532-arduino-jitter-aim-bypass.html)|`2025-06-15 04:35:00`|`Apex Legends`|
+|[What have I missed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/704709-missed.html)|`2025-06-15 04:29:00`|`Alternative Online Mods`|
 |[BF2042 NoRecoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/699701-bf2042-norecoil.html)|`2025-06-15 04:22:00`|`Battlefield 2042`|
 |[Private Server for Hounds: The Last Hope](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/704962-private-server-hounds-hope.html)|`2025-06-15 04:05:00`|`General Programming and Reversing`|
 |[Record DMA Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/701351-record-dma-overlay.html)|`2025-06-15 04:00:00`|`General Programming and Reversing`|
