@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypass nProtect Gameguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685790-bypass-nprotect-gameguard.html)|`2025-06-14 15:01:00`|`Anti-Cheat Bypass`|
+|[What Kernel Communication Methods do you guys use?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704208-kernel-communication-methods-guys.html)|`2025-06-14 14:59:00`|`Anti-Cheat Bypass`|
 |[Lethal dt range?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/703998-lethal-dt-range.html)|`2025-06-14 14:35:00`|`Team Fortress 2`|
 |[Need help setting up tf2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/704671-help-setting-tf2-cheat.html)|`2025-06-14 14:34:00`|`Team Fortress 2`|
 |[Lua G Hub Script — Fully Undetectable on FACEIT &#40;2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703146-lua-hub-script-undetectable-faceit-2025-a.html)|`2025-06-14 13:31:00`|`Counter-Strike 2`|
