@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dupe exploit &#91;PC Verison&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/688691-dupe-exploit-pc-verison.html)|`2025-06-14 18:09:00`|`DayZ SA`|
+|[ESP external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/704397-esp-external.html)|`2025-06-14 18:00:00`|`Garry's Mod`|
 |[Fluffbot420](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/700017-fluffbot420.html)|`2025-06-14 17:53:00`|`Marvel Rivals`|
 |[External AI CV League Assist — Seeking Collaboration / Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/704755-external-ai-cv-league-assist-seeking-collaboration-discussion.html)|`2025-06-14 17:41:00`|`League of Legends`|
 |[EAC disables my DMA card when joining a server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701224-eac-disables-dma-card-joining-server.html)|`2025-06-14 17:28:00`|`Rust`|
