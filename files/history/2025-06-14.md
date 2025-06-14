@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC disables my DMA card when joining a server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701224-eac-disables-dma-card-joining-server.html)|`2025-06-14 17:28:00`|`Rust`|
+|[Kernel Mode Anticheat for VAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704466-kernel-mode-anticheat-vac.html)|`2025-06-14 17:21:00`|`Anti-Cheat Bypass`|
+|[Loki SCP: Secret Laboratory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/704266-loki-scp-secret-laboratory.html)|`2025-06-14 17:18:00`|`Other Games`|
 |[Discord causing BattleEye kicks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/704903-discord-causing-battleeye-kicks.html)|`2025-06-14 17:09:00`|`Grand Theft Auto V`|
 |[Self&#45;unmapping / self&#45;unloading DLL and shellcode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/694499-self-unmapping-self-unloading-dll-shellcode.html)|`2025-06-14 16:25:00`|`General Programming and Reversing`|
 |[Warden's Free Ultimate Gamer Rust DMA Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/702331-wardens-free-ultimate-gamer-rust-dma-cheat.html)|`2025-06-14 16:33:00`|`Rust`|
