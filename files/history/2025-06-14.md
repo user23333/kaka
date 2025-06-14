@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Inject Hack Gameloop EN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/662716-inject-hack-gameloop-en.html)|`2025-06-14 07:59:00`|`PUBG Mobile`|
 |[Stumbled on a 2Box Trick via Discord&#46;&#46;&#46; Whatâ€™s the Deal?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699218-stumbled-2box-trick-via-discord-deal.html)|`2025-06-14 07:52:00`|`Call of Duty: Black Ops 6`|
 |[Can someone provide a cheat program for VALORANT using KVM technology? linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704820-provide-cheat-program-valorant-using-kvm-technology-linux.html)|`2025-06-14 07:52:00`|`Valorant`|
 |[Gems Of War 8&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/702434-gems-war-8-5-a.html)|`2025-06-14 07:41:00`|`Cheat Engine Tables`|
