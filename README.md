@@ -51,6 +51,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Heroes of Valor Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697486-heroes-valor-reversal-structs-offsets.html)|`2025-06-15 03:40:00`|`Other FPS Games`|
+|[GTA 5 Enhanced DMA Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701780-gta-5-enhanced-dma-menu.html)|`2025-06-15 03:37:00`|`Grand Theft Auto V`|
 |[Can someone provide a cheat program for VALORANT using KVM technology? linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704820-provide-cheat-program-valorant-using-kvm-technology-linux.html)|`2025-06-15 03:17:00`|`Valorant`|
 |[Looking for New No Recoil Macro Method &#40;EAC Detected Logitech&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/704939-looking-recoil-macro-method-eac-detected-logitech.html)|`2025-06-15 03:11:00`|`Rust`|
 |[first steps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704864-steps.html)|`2025-06-15 03:07:00`|`Counter-Strike 2`|
