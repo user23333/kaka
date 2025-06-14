@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fluffbot420](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/700017-fluffbot420.html)|`2025-06-15 00:53:00`|`Marvel Rivals`|
+|[ARDUINO EHTERNET SHIELD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704935-arduino-ehternet-shield.html)|`2025-06-15 00:52:00`|`Valorant`|
+|[valorant colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/693264-valorant-colorbot.html)|`2025-06-15 00:48:00`|`Valorant`|
 |[Zero Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703075-zero-triggerbot.html)|`2025-06-15 00:47:00`|`Valorant`|
 |[external thread got dmcaed&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704887-external-thread-dmcaed.html)|`2025-06-15 00:46:00`|`Valorant`|
 |[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2025-06-15 00:45:00`|`DayZ SA`|
