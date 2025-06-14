@@ -47,6 +47,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lua Menus](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/704957-lua-menus.html)|`2025-06-15 02:51:00`|`Alternative Online Mods`|
+|[Any COH2 Cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/703149-coh2-cheats.html)|`2025-06-15 02:49:00`|`Other MMORPG and Strategy`|
 |[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-06-15 02:40:00`|`Other FPS Games`|
 |[syscalls&#45;cpp: a modular C&#43;&#43;20 framework for hook&#45;proof direct syscalls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/704706-syscalls-cpp-modular-20-framework-hook-proof-direct-syscalls.html)|`2025-06-15 02:38:00`|`C and C++`|
 |[Active Matter ecs dump &#40;Dagor Engine&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/704694-active-matter-ecs-dump-dagor-engine.html)|`2025-06-15 02:37:00`|`Other FPS Games`|
