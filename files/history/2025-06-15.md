@@ -52,9 +52,12 @@
 |1|[Artanis RCS v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50090)|`2025-06-15 06:29:44`|
 |1|[IL2CPPDUMPER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50088)|`2025-06-15 06:41:48`|
 |2|[LokiSCPSL&#95;v&#95;0&#95;10&#95;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50082)|`2025-06-15 06:48:32`|
+|1|[Lethal Menu v&#46;1&#46;4&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50087)|`2025-06-15 06:54:29`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lethal Menu &#45; Lethal Company Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/615575-lethal-menu-lethal-company-cheat.html)|`2025-06-15 06:54:00`|`Lethal Company`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-06-15 06:49:00`|`Escape from Tarkov`|
 |[Loki SCP: Secret Laboratory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/704266-loki-scp-secret-laboratory.html)|`2025-06-15 06:44:00`|`Other Games`|
 |[Contributions to the MapleStory Hacking Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/704976-contributions-maplestory-hacking-community.html)|`2025-06-15 06:36:00`|`Maple Story`|
 |[IL2CPP DUMPER NEW FEADTURE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/704825-il2cpp-dumper-feadture.html)|`2025-06-15 06:32:00`|`Unity`|
