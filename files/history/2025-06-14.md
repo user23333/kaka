@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External AI CV League Assist — Seeking Collaboration / Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/704755-external-ai-cv-league-assist-seeking-collaboration-discussion.html)|`2025-06-14 17:41:00`|`League of Legends`|
 |[EAC disables my DMA card when joining a server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701224-eac-disables-dma-card-joining-server.html)|`2025-06-14 17:28:00`|`Rust`|
 |[Kernel Mode Anticheat for VAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704466-kernel-mode-anticheat-vac.html)|`2025-06-14 17:21:00`|`Anti-Cheat Bypass`|
 |[Loki SCP: Secret Laboratory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/704266-loki-scp-secret-laboratory.html)|`2025-06-14 17:18:00`|`Other Games`|
