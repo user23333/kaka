@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals memflow&#45;qemu external aimbot source written in Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/684393-marvel-rivals-memflow-qemu-external-aimbot-source-written-rust.html)|`2025-06-15 00:55:00`|`Marvel Rivals`|
 |[Fluffbot420](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/700017-fluffbot420.html)|`2025-06-15 00:53:00`|`Marvel Rivals`|
 |[ARDUINO EHTERNET SHIELD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704935-arduino-ehternet-shield.html)|`2025-06-15 00:52:00`|`Valorant`|
 |[valorant colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/693264-valorant-colorbot.html)|`2025-06-15 00:48:00`|`Valorant`|
