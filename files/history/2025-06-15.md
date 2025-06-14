@@ -31,9 +31,13 @@
 |2|[horizon plugin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50052)|`2025-06-15 01:30:40`|
 |1|[Bombardino Internal&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50061)|`2025-06-15 01:39:54`|
 |2|[apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50058)|`2025-06-15 01:39:54`|
+|0|[apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50063)|`2025-06-15 01:46:11`|
+|3|[xterial 1&#46;0&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50062)|`2025-06-15 01:46:11`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Updating Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/704517-updating-offsets.html)|`2025-06-15 01:46:00`|`Overwatch`|
+|[xterial &#45; External read only esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704055-xterial-external-read-esp.html)|`2025-06-15 01:42:00`|`Counter-Strike 2 Releases`|
 |[Bombardino Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/704529-bombardino-internal.html)|`2025-06-15 01:38:00`|`Marvel Rivals`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-06-15 01:36:00`|`Valorant`|
 |[apex external source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/704496-apex-external-source.html)|`2025-06-15 01:31:00`|`Apex Legends`|
