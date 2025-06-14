@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lethal dt range?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/703998-lethal-dt-range.html)|`2025-06-14 14:35:00`|`Team Fortress 2`|
+|[Need help setting up tf2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/704671-help-setting-tf2-cheat.html)|`2025-06-14 14:34:00`|`Team Fortress 2`|
 |[Lua G Hub Script — Fully Undetectable on FACEIT &#40;2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703146-lua-hub-script-undetectable-faceit-2025-a.html)|`2025-06-14 13:31:00`|`Counter-Strike 2`|
 |[For Honor &#45; Sciprt by florasSecret &#45; Autoblock, Parry, Deflects, D b/Unblockables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/414701-honor-sciprt-florassecret-autoblock-parry-deflects-unblockables.html)|`2025-06-14 13:18:00`|`Other MMORPG and Strategy`|
 |[Fast Run and Stat editor for YimMenuV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/704889-fast-run-stat-editor-yimmenuv2.html)|`2025-06-14 12:55:00`|`Grand Theft Auto V`|
