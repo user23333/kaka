@@ -39,9 +39,21 @@
 |1|[Imgui Struct Builder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50067)|`2025-06-15 01:58:06`|
 |3|[pandora loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50072)|`2025-06-15 02:19:36`|
 |2|[CS2 NoSkill&#46;cc External Source Cleaned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50070)|`2025-06-15 02:19:36`|
+|1|[syscalls&#45;cpp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50081)|`2025-06-15 02:41:57`|
+|1|[Active Matter ECS Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50079)|`2025-06-15 02:41:57`|
+|1|[DescendantInternal&#95;1&#46;0&#46;89&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50078)|`2025-06-15 02:41:57`|
+|4|[Bombardino Internal 1&#46;0&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50074)|`2025-06-15 02:41:57`|
+|5|[Helldivers 2 Undetected Features v1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50073)|`2025-06-15 02:41:57`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-06-15 02:40:00`|`Other FPS Games`|
+|[syscalls&#45;cpp: a modular C&#43;&#43;20 framework for hook&#45;proof direct syscalls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/704706-syscalls-cpp-modular-20-framework-hook-proof-direct-syscalls.html)|`2025-06-15 02:38:00`|`C and C++`|
+|[Active Matter ecs dump &#40;Dagor Engine&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/704694-active-matter-ecs-dump-dagor-engine.html)|`2025-06-15 02:37:00`|`Other FPS Games`|
+|[Interception Rename Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704955-interception-rename-python.html)|`2025-06-15 02:31:00`|`Anti-Cheat Bypass`|
+|[What Kernel Communication Methods do you guys use?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704208-kernel-communication-methods-guys.html)|`2025-06-15 02:30:00`|`Anti-Cheat Bypass`|
+|[Helldivers 2 Undetected Features by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/704156-helldivers-2-undetected-features-igromanru.html)|`2025-06-15 02:27:00`|`HELLDIVERS 2`|
+|[hudsight2 ipc hijack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704842-hudsight2-ipc-hijack.html)|`2025-06-15 02:22:00`|`Anti-Cheat Bypass`|
 |[ImGui Loader &#40; pandora &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/704615-imgui-loader-pandora.html)|`2025-06-15 02:15:00`|`General Graphics`|
 |[CS2 External &#40;Powerful&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703995-cs2-external-powerful.html)|`2025-06-15 02:05:00`|`Counter-Strike 2`|
 |[Muck Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/704642-muck-internal-cheat.html)|`2025-06-15 01:57:00`|`Other FPS Games`|
