@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[LocalPlayer check not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/704881-localplayer-check.html)|`2025-06-14 10:45:00`|`Apex Legends`|
+|[I made open source modmenu for Mobile Legends with premium cheatloaders and its free&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/703144-source-modmenu-mobile-legends-premium-cheatloaders-free.html)|`2025-06-14 10:37:00`|`Android`|
+|[Run multiple instances of TF2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/703882-run-multiple-instances-tf2.html)|`2025-06-14 10:23:00`|`Team Fortress 2`|
+|[I hate being low IQ, everything takes 3x longer to learn&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/700882-hate-low-iq-takes-3x-learn.html)|`2025-06-14 10:19:00`|`Off Topic`|
+|[Cheat for Repertoire of Myriad Melodies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/695069-cheat-repertoire-myriad-melodies.html)|`2025-06-14 10:17:00`|`Genshin Impact`|
 |[Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/704866-radar.html)|`2025-06-14 09:37:00`|`Apex Legends`|
 |[War Thunder DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/704215-war-thunder-dma.html)|`2025-06-14 09:29:00`|`Other MMORPG and Strategy`|
 |[arduino no recoil?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/704869-arduino-recoil.html)|`2025-06-14 09:11:00`|`Rainbow Six Siege`|
