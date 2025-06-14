@@ -51,6 +51,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-06-15 05:04:00`|`Counter-Strike 2`|
 |[PUBG MOBILE Gameloop Emulator Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/576303-pubg-mobile-gameloop-emulator-cheat.html)|`2025-06-15 04:53:00`|`PUBG Mobile`|
 |[Treason's V3 Head Offset Feature](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/704967-treasons-v3-head-offset-feature.html)|`2025-06-15 04:52:00`|`Call of Duty: Black Ops 6`|
 |[Private Server for Hounds: The Last Hope](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/704966-private-server-hounds-hope.html)|`2025-06-15 04:52:00`|`Other FPS Games`|
