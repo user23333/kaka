@@ -27,9 +27,16 @@
 |24|[Mw3 Kill Streak Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50044)|`2025-06-15 00:11:31`|
 |1|[Netrahookmowas2freecheatnodisc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50047)|`2025-06-15 00:35:07`|
 |1|[Rivals UnKnoWn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50050)|`2025-06-15 00:47:54`|
+|2|[marvel rivals simple internal &#43; skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50057)|`2025-06-15 01:30:40`|
+|2|[horizon plugin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50052)|`2025-06-15 01:30:40`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-06-15 01:28:00`|`Marvel Rivals`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-06-15 01:26:00`|`Grand Theft Auto V`|
+|[SWBF2 Internal ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/581560-swbf2-internal-esp.html)|`2025-06-15 01:26:00`|`Star Wars Battlefront 2`|
+|[Armor Swap &#40;Python&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/704948-armor-swap-python.html)|`2025-06-15 01:23:00`|`Apex Legends`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-06-15 01:23:00`|`Playerunknown's Battlegrounds`|
 |[YimMenuV2Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697581-yimmenuv2mod.html)|`2025-06-15 01:14:00`|`Grand Theft Auto V`|
 |[All Mouse NoRecoil 1&#46;0 IS OUT &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-1-0-recoil-helpy-auto-config-probably-ud-universal.html)|`2025-06-15 01:01:00`|`Rainbow Six Siege`|
 |[Marvel Rivals memflow&#45;qemu external aimbot source written in Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/684393-marvel-rivals-memflow-qemu-external-aimbot-source-written-rust.html)|`2025-06-15 00:55:00`|`Marvel Rivals`|
