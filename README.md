@@ -66,9 +66,16 @@
 |1|[tensorrt&#45;installer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50097)|`2025-06-15 19:55:30`|
 |1|[Hunters&#45;Inc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50100)|`2025-06-15 20:17:46`|
 |1|[Isonzo Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50096)|`2025-06-15 20:17:46`|
+|1|[Regs OBJ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50111)|`2025-06-15 20:56:42`|
+|1|[GoT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50104)|`2025-06-15 20:56:42`|
+|3|[Hearts of Iron IV&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50101)|`2025-06-15 20:56:42`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[help to ban account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705050-help-ban-account.html)|`2025-06-15 20:50:00`|`Valorant`|
+|[Problem with ReadPhys or WritePhys i think ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704982-readphys-writephys.html)|`2025-06-15 20:47:00`|`Anti-Cheat Bypass`|
+|[&#91;UE5&#93; pSilent Bullets not Registering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/705044-ue5-psilent-bullets-registering.html)|`2025-06-15 20:23:00`|`General Programming and Reversing`|
+|[Hearts of Iron IV Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/703167-hearts-iron-iv-cheat.html)|`2025-06-15 20:18:00`|`Other MMORPG and Strategy`|
 |[Webs PVE Only Menu v7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v7.html)|`2025-06-15 20:06:00`|`Escape from Tarkov`|
 |[Hunters Inc&#46; Demo – Steam Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/704853-hunters-inc-demo-steam-trainer.html)|`2025-06-15 20:05:00`|`Other FPS Games`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-06-15 20:03:00`|`Escape from Tarkov`|
