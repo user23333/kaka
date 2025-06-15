@@ -64,6 +64,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HMW Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/703932-hmw-offsets.html)|`2025-06-15 18:29:00`|`Call of Duty 4: Modern Warfare`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-06-15 18:13:00`|`ARMA 3`|
 |[Nuxar1 Decryption dumper fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699123-nuxar1-decryption-dumper-fix.html)|`2025-06-15 17:50:00`|`Call of Duty: Black Ops 6`|
 |[Accounts getting insta banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704837-accounts-getting-insta-banned.html)|`2025-06-15 16:56:00`|`Valorant`|
