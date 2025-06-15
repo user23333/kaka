@@ -64,6 +64,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CrossFirePH Comeback SpeedHack&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/704616-crossfireph-comeback-speedhack.html)|`2025-06-15 15:18:00`|`CrossFire`|
+|[Isonzo Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675510-isonzo-internal-cheat.html)|`2025-06-15 15:12:00`|`Other FPS Games`|
+|[Pixel Gun 3D Internal Cheat Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705021-pixel-gun-3d-internal-cheat-base.html)|`2025-06-15 15:09:00`|`Other FPS Games`|
+|[ANEURISM IV &#45; Steam game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691595-aneurism-iv-steam-game.html)|`2025-06-15 15:09:00`|`Other Games`|
+|[War Thunder DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/704215-war-thunder-dma.html)|`2025-06-15 15:00:00`|`Other MMORPG and Strategy`|
 |[ARMA 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/114242-arma-3-reversal-structs-offsets.html)|`2025-06-15 14:43:00`|`ARMA 3`|
 |[Pixel Strike 3D Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705017-pixel-strike-3d-base.html)|`2025-06-15 14:43:00`|`Other FPS Games`|
 |[Color AimBot &#40;bypasses obj&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/705015-color-aimbot-bypasses-obj.html)|`2025-06-15 14:16:00`|`Call of Duty: Black Ops 6`|
