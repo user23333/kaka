@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to calculate the angles for an aimbot correctly?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/705103-calculate-angles-aimbot-correctly.html)|`2025-06-16 03:31:00`|`Forum General`|
 |[How to calculate the angles for an aimbot correctly?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/705102-calculate-angles-aimbot-correctly.html)|`2025-06-16 03:30:00`|`Forum General`|
 |[Color AimBot &#40;bypasses obj&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/705015-color-aimbot-bypasses-obj.html)|`2025-06-16 03:30:00`|`Call of Duty: Black Ops 6`|
 |[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-06-16 03:28:00`|`Other FPS Games`|
