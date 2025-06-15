@@ -64,6 +64,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pixel Strike 3D Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705017-pixel-strike-3d-base.html)|`2025-06-15 14:43:00`|`Other FPS Games`|
 |[Color AimBot &#40;bypasses obj&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/705015-color-aimbot-bypasses-obj.html)|`2025-06-15 14:16:00`|`Call of Duty: Black Ops 6`|
 |[Bo6&#92;WZ cleaner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/705014-bo6-wz-cleaner.html)|`2025-06-15 13:55:00`|`Call of Duty: Black Ops 6`|
 |[How to root out anticheat people&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/705010-root-anticheat-people.html)|`2025-06-15 13:25:00`|`Off Topic`|
