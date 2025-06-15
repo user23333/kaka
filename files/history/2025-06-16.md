@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Questions I have for anti&#45;cheat bypassing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/705096-questions-anti-cheat-bypassing.html)|`2025-06-16 02:50:00`|`Anti-Cheat Bypass`|
+|[July 2025 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/705095-july-2025-motm-nominations.html)|`2025-06-16 02:48:00`|`Member of the Month`|
+|[finding uworld internally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705094-finding-uworld-internally.html)|`2025-06-16 02:47:00`|`Valorant`|
 |[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2025-06-16 02:42:00`|`Elite: Dangerous`|
 |[steam acc gen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704678-steam-acc-gen.html)|`2025-06-16 02:40:00`|`Counter-Strike 2`|
 |[Problem with ReadPhys or WritePhys i think ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704982-readphys-writephys.html)|`2025-06-16 02:37:00`|`Anti-Cheat Bypass`|
