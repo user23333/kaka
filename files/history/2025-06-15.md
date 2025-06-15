@@ -72,6 +72,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG No recoil macro For all razer mouse using Razer synapse &#91;Undetected&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/658324-pubg-recoil-macro-razer-mouse-using-razer-synapse-undetected.html)|`2025-06-15 23:45:00`|`PUBG Releases`|
 |[Hello im new first post](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/705053-hello-im-post.html)|`2025-06-15 23:45:00`|`Introductions`|
 |[just joined](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/705036-joined.html)|`2025-06-15 23:44:00`|`Introductions`|
 |[I’m excited to learn &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/705033-excited-learn.html)|`2025-06-15 23:44:00`|`Introductions`|
