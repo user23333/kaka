@@ -64,6 +64,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fragpunk Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697941-fragpunk-internal.html)|`2025-06-15 12:57:00`|`Other FPS Games`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-06-15 12:54:00`|`Apex Legends`|
 |[makcu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705009-makcu.html)|`2025-06-15 12:53:00`|`Valorant`|
 |[Most undetected form of legit cheating?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704553-undetected-form-legit-cheating.html)|`2025-06-15 12:27:00`|`Valorant`|
