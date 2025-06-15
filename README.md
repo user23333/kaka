@@ -64,6 +64,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bo6&#92;WZ cleaner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/705014-bo6-wz-cleaner.html)|`2025-06-15 13:55:00`|`Call of Duty: Black Ops 6`|
 |[How to root out anticheat people&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/705010-root-anticheat-people.html)|`2025-06-15 13:25:00`|`Off Topic`|
 |[Fragpunk Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697941-fragpunk-internal.html)|`2025-06-15 12:57:00`|`Other FPS Games`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-06-15 12:54:00`|`Apex Legends`|
