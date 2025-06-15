@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-06-16 04:09:00`|`Playerunknown's Battlegrounds`|
+|[Van restriction SB error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705107-van-restriction-sb-error.html)|`2025-06-16 04:05:00`|`Valorant`|
+|[What is the main "anti&#45;recoil" this days?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/704932-main-anti-recoil-days.html)|`2025-06-16 04:02:00`|`Apex Legends`|
+|[esp32s3 script with weapon and accessory detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/705105-esp32s3-script-weapon-accessory-detection.html)|`2025-06-16 03:59:00`|`Rust`|
+|[Accounts getting insta banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704837-accounts-getting-insta-banned.html)|`2025-06-16 03:59:00`|`Valorant`|
 |[How to calculate the angles for an aimbot correctly?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/705103-calculate-angles-aimbot-correctly.html)|`2025-06-16 03:31:00`|`Forum General`|
 |[How to calculate the angles for an aimbot correctly?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/705102-calculate-angles-aimbot-correctly.html)|`2025-06-16 03:30:00`|`Forum General`|
 |[Color AimBot &#40;bypasses obj&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/705015-color-aimbot-bypasses-obj.html)|`2025-06-16 03:30:00`|`Call of Duty: Black Ops 6`|
