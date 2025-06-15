@@ -72,6 +72,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Classic Offensive W2S Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/705057-classic-offensive-w2s-issues.html)|`2025-06-15 21:53:00`|`Counterstrike Global Offensive`|
+|[What kind of colorbot config do you use?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705055-colorbot-config.html)|`2025-06-15 21:48:00`|`Valorant`|
 |[Lua deobfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/web-and-scripting/695421-lua-deobfuscation.html)|`2025-06-15 21:46:00`|`Web and Scripting`|
 |[Auto Parry on BF Expanded Kyber](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/704499-auto-parry-bf-expanded-kyber.html)|`2025-06-15 21:38:00`|`Star Wars Battlefront 2`|
 |[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2025-06-15 21:37:00`|`Other FPS Games`|
