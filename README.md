@@ -65,6 +65,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Phasmophobia mod menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/705039-phasmophobia-mod-menu.html)|`2025-06-15 19:47:00`|`Phasmophobia`|
+|[ABOUT VALO BAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705038-valo-ban.html)|`2025-06-15 19:37:00`|`Valorant`|
 |[ESP external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/704397-esp-external.html)|`2025-06-15 19:06:00`|`Garry's Mod`|
 |[&#91;External Tool&#93; Recoil Magnet–Style Trainer for THE FINALS – Adjustable Input Pull](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/704900-external-tool-recoil-magnet-style-trainer-finals-adjustable-input-pull.html)|`2025-06-15 18:48:00`|`THE FINALS`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-06-15 18:46:00`|`League of Legends`|
