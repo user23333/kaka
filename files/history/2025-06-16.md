@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Smite 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/702558-smite-2-internal.html)|`2025-06-16 22:47:00`|`Other FPS Games`|
 |[subtick strafe weird outside of local servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705145-subtick-strafe-weird-outside-local-servers.html)|`2025-06-16 22:32:00`|`Counter-Strike 2`|
 |[Obtaining csgo&#95;player&#95;previewmodel without hooking createEntity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704440-obtaining-csgo_player_previewmodel-hooking-createentity.html)|`2025-06-16 22:31:00`|`Counter-Strike 2`|
 |[How to reverse create move with IDA Pro 7&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705087-reverse-create-move-ida-pro-7-5-a.html)|`2025-06-16 22:24:00`|`Counter-Strike 2`|
