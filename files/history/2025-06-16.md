@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-06-16 16:15:00`|`DayZ SA`|
+|[old juggworkz release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/704261-juggworkz-release.html)|`2025-06-16 16:11:00`|`Team Fortress 2`|
+|[Bypass rewasd?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705155-bypass-rewasd.html)|`2025-06-16 16:04:00`|`Apex Legends`|
+|[Mouse Detection HVCI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/617897-mouse-detection-hvci.html)|`2025-06-16 16:03:00`|`Anti-Cheat Bypass`|
 |[Classic Offensive W2S Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/705057-classic-offensive-w2s-issues.html)|`2025-06-16 15:50:00`|`Counterstrike Global Offensive`|
 |[C&#43;&#43; Color Triggerbot New Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/691387-color-triggerbot-undetected.html)|`2025-06-16 15:16:00`|`Valorant`|
 |[how to use linux cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705148-linux-cheats.html)|`2025-06-16 15:15:00`|`Apex Legends`|
