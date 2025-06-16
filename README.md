@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Xenos injector v2&#46;3&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/124013-xenos-injector-v2-3-2-a.html)|`2025-06-17 07:10:00`|`General Programming and Reversing`|
+|[Specific server offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/705184-specific-server-offset.html)|`2025-06-17 07:07:00`|`Garry's Mod`|
+|[7DTD 1&#46;4 B14 Creative and Debug Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699759-7dtd-1-4-b14-creative-debug-assembly-csharp-dll.html)|`2025-06-17 07:06:00`|`Other FPS Games`|
+|[7DTD 1&#46;2 Creative and Debug Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/679721-7dtd-1-2-creative-debug-assembly-csharp-dll.html)|`2025-06-17 07:05:00`|`Other FPS Games`|
+|[GTA 5 enhanced Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693747-gta-5-enhanced-mod-menu.html)|`2025-06-17 07:02:00`|`Grand Theft Auto V`|
+|[Plouton &#45; A System Management Mode &#40;SMM&#41; cheat framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693225-plouton-system-management-mode-smm-cheat-framework.html)|`2025-06-17 07:00:00`|`Anti-Cheat Bypass`|
 |[New Recoil Control Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/704458-recoil-control-method.html)|`2025-06-17 06:39:00`|`Apex Legends`|
 |[Faceit ID Verification / AC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705294-faceit-id-verification-ac-bypass.html)|`2025-06-17 06:38:00`|`Counter-Strike 2`|
 |[looking for best option](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/705142-looking-option.html)|`2025-06-17 06:13:00`|`Escape from Tarkov`|
