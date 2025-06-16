@@ -17,6 +17,7 @@
 |5|[apex external source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/704496-apex-external-source.html)|`2025-06-16 06:57:36`|`apex-legends`|
 |9|[old juggworkz release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/704261-juggworkz-release.html)|`2025-06-16 14:49:17`|`team-fortress-2-a`|
 |6|[An Introduction to Syscalls &#45; Bypassing Anti&#45;Cheat Hooks &#91;User&#45;Mode&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704470-introduction-syscalls-bypassing-anti-cheat-hooks-user-mode.html)|`2025-06-16 17:49:53`|`anti-cheat-bypass`|
+|7|[cheat loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704691-cheat-loader.html)|`2025-06-16 21:07:34`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lethal dt range?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/703998-lethal-dt-range.html)|`2025-06-16 20:45:00`|`Team Fortress 2`|
+|[I made open source modmenu for Mobile Legends with premium cheatloaders and its free&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/703144-source-modmenu-mobile-legends-premium-cheatloaders-free.html)|`2025-06-16 20:41:00`|`Android`|
+|[Phasmophobia mod menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/705039-phasmophobia-mod-menu.html)|`2025-06-16 20:31:00`|`Phasmophobia`|
+|[Zombie Trainer with working xp mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/436528-zombie-trainer-xp-mod.html)|`2025-06-16 20:27:00`|`Call of Duty: Black Ops Cold War`|
 |[&#91;500&#43;fps no lag&#93; DMA All types of ESP, Chams, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/699879-500-fps-lag-dma-types-esp-chams-recoil.html)|`2025-06-16 20:22:00`|`Rust`|
 |[SeValidateImageHeader appears to be done](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699163-sevalidateimageheader-appears.html)|`2025-06-16 20:22:00`|`Anti-Cheat Bypass`|
 |[Getting Map name](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704265-getting-map-name.html)|`2025-06-16 20:12:00`|`Counter-Strike 2`|
