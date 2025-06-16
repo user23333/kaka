@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What's the last technical textbook you read?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/702204-whats-technical-textbook-read.html)|`2025-06-16 22:19:00`|`Off Topic`|
+|[HLL: Hell Let Loose](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/340677-hll-hell-loose.html)|`2025-06-16 22:19:00`|`Other FPS Games`|
+|[HID&#45;reports python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705182-hid-reports-python.html)|`2025-06-16 22:17:00`|`Valorant`|
+|[Completely solo script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705183-completely-solo-script.html)|`2025-06-16 22:08:00`|`Grand Theft Auto V`|
 |[Put benny's wheels in personal vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/376369-bennys-wheels-personal-vehicle.html)|`2025-06-16 21:38:00`|`Grand Theft Auto V`|
 |[Xone External cheat web radar script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705179-xone-external-cheat-web-radar-script.html)|`2025-06-16 21:38:00`|`Counter-Strike 2`|
 |[Best driver mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/705178-driver-mapper.html)|`2025-06-16 21:35:00`|`Anti-Cheat Bypass`|
