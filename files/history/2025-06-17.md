@@ -12,6 +12,7 @@
 |7|[cheat loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704691-cheat-loader.html)|`2025-06-17 00:13:18`|`counter-strike-2-a`|
 |12|[GoodDiePUBG &#45; PUBG 3&#46;8 Emulator Hack Source &#40;server/client&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/704753-gooddiepubg-pubg-3-8-emulator-hack-source-server-client.html)|`2025-06-17 00:13:18`|`pubg-mobile`|
 |7|[eac interception unload fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704868-eac-interception-unload-fix.html)|`2025-06-17 01:49:51`|`anti-cheat-bypass`|
+|7|[steam acc gen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704678-steam-acc-gen.html)|`2025-06-17 05:42:23`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
