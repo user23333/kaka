@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Heroes of Valor Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697486-heroes-valor-reversal-structs-offsets.html)|`2025-06-17 05:30:00`|`Other FPS Games`|
+|[Heroes of Valor &#45; Heroes of Cheats Lua](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/698565-heroes-valor-heroes-cheats-lua.html)|`2025-06-17 05:29:00`|`Other FPS Games`|
+|[FamilyMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/631659-familymenu.html)|`2025-06-17 05:25:00`|`Red Dead Redemption 2`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-06-17 05:23:00`|`Other FPS Games`|
+|[Roblox Kernel Level External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/704872-roblox-kernel-level-external.html)|`2025-06-17 05:22:00`|`Other Games`|
 |[Net Messages](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/700205-net-messages.html)|`2025-06-17 05:09:00`|`Garry's Mod`|
 |[TOP MACRO Logitech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/668884-top-macro-logitech.html)|`2025-06-17 05:04:00`|`Rust`|
 |[PUBG ESP SIMPLE CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/702364-pubg-esp-simple-cheat.html)|`2025-06-17 04:59:00`|`Playerunknown's Battlegrounds`|
