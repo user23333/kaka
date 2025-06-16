@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino Working Jitter aim bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703532-arduino-jitter-aim-bypass.html)|`2025-06-16 14:20:00`|`Apex Legends`|
+|[What kind of colorbot config do you use?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705055-colorbot-config.html)|`2025-06-16 14:14:00`|`Valorant`|
+|[Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705034-valorant.html)|`2025-06-16 14:13:00`|`Valorant`|
+|[ABOUT VALO BAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705038-valo-ban.html)|`2025-06-16 14:13:00`|`Valorant`|
+|[HWID Ban question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705078-hwid-ban-question.html)|`2025-06-16 14:09:00`|`Valorant`|
 |[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-06-16 13:53:00`|`Other FPS Games`|
 |[is there are any free apex hacks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705013-free-apex-hacks.html)|`2025-06-16 13:13:00`|`Apex Legends`|
 |[NoRecoil stopped working after CrossFire West/BR update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/704573-norecoil-stopped-crossfire-west-br-update.html)|`2025-06-16 12:57:00`|`CrossFire`|
