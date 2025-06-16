@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTA 5 Enhanced DMA Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701780-gta-5-enhanced-dma-menu.html)|`2025-06-16 08:53:00`|`Grand Theft Auto V`|
+|[Restoring the cheat work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/705130-restoring-cheat.html)|`2025-06-16 08:29:00`|`Garry's Mod`|
+|[&#91;UE5&#93; pSilent Bullets not Registering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/705044-ue5-psilent-bullets-registering.html)|`2025-06-16 08:23:00`|`General Programming and Reversing`|
+|[Signed Spoofer By Microsoft&#40;EAC & BE&#41;  Early Christmas Present](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677190-signed-spoofer-microsoft-eac-christmas.html)|`2025-06-16 08:19:00`|`Anti-Cheat Bypass`|
+|[Rocket league GoS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695342-rocket-league-gos.html)|`2025-06-16 08:11:00`|`Other Games`|
 |[Gray Zone Warfare Bag Dupe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/637832-gray-zone-warfare-bag-dupe.html)|`2025-06-16 07:01:00`|`Other FPS Games`|
 |[cs2 structs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705121-cs2-structs.html)|`2025-06-16 06:55:00`|`Counter-Strike 2`|
 |[For Honor &#45; Sciprt by florasSecret &#45; Autoblock, Parry, Deflects, D b/Unblockables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/414701-honor-sciprt-florassecret-autoblock-parry-deflects-unblockables.html)|`2025-06-16 06:58:00`|`Other MMORPG and Strategy`|
