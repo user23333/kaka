@@ -15,6 +15,7 @@
 |14|[Dayz pc dupe &#40;NOT PATCHED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/704228-dayz-pc-dupe-patched.html)|`2025-06-16 05:19:31`|`dayz-sa`|
 |5|[Kingly Order of Souls Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/704249-kingly-souls-exploit.html)|`2025-06-16 06:51:46`|`sea-of-thieves`|
 |5|[apex external source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/704496-apex-external-source.html)|`2025-06-16 06:57:36`|`apex-legends`|
+|9|[old juggworkz release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/704261-juggworkz-release.html)|`2025-06-16 14:49:17`|`team-fortress-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-06-16 14:47:00`|`Other FPS Games`|
+|[Heroes of Valor Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-heroes/697515-heroes-valor-cheat.html)|`2025-06-16 14:40:00`|`Battlefield Heroes`|
+|[zap&#45;client &#91;Legitbot, Ragebot, Glow, ESP & More&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/628823-zap-client-legitbot-ragebot-glow-esp.html)|`2025-06-16 14:29:00`|`Apex Legends`|
 |[Arduino Working Jitter aim bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703532-arduino-jitter-aim-bypass.html)|`2025-06-16 14:20:00`|`Apex Legends`|
 |[What kind of colorbot config do you use?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705055-colorbot-config.html)|`2025-06-16 14:14:00`|`Valorant`|
 |[Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705034-valorant.html)|`2025-06-16 14:13:00`|`Valorant`|
