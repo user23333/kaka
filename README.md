@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anything to get me banned FAST](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/702490-banned-fast.html)|`2025-06-17 03:21:00`|`Rainbow Six Siege`|
+|[Auto Parry on BF Expanded Kyber](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/704499-auto-parry-bf-expanded-kyber.html)|`2025-06-17 03:19:00`|`Star Wars Battlefront 2`|
+|[External hitbox triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704473-external-hitbox-triggerbot.html)|`2025-06-17 03:15:00`|`Counter-Strike 2`|
 |[Arduino Working Jitter aim bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703532-arduino-jitter-aim-bypass.html)|`2025-06-17 03:08:00`|`Apex Legends`|
 |[pubg kaka and stay source &#91;DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/698494-pubg-kaka-stay-source-dma.html)|`2025-06-17 02:51:00`|`Playerunknown's Battlegrounds`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-06-17 02:50:00`|`Rust`|
