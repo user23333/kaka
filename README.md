@@ -34,6 +34,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Put benny's wheels in personal vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/376369-bennys-wheels-personal-vehicle.html)|`2025-06-16 21:38:00`|`Grand Theft Auto V`|
+|[Xone External cheat web radar script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705179-xone-external-cheat-web-radar-script.html)|`2025-06-16 21:38:00`|`Counter-Strike 2`|
+|[Best driver mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/705178-driver-mapper.html)|`2025-06-16 21:35:00`|`Anti-Cheat Bypass`|
+|[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2025-06-16 21:25:00`|`Escape from Tarkov`|
+|[New Siege X](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/704465-siege.html)|`2025-06-16 21:24:00`|`Rainbow Six Siege`|
+|[Bo6&#92;WZ cleaner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/705014-bo6-wz-cleaner.html)|`2025-06-16 21:22:00`|`Call of Duty: Black Ops 6`|
 |[Lethal dt range?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/703998-lethal-dt-range.html)|`2025-06-16 20:45:00`|`Team Fortress 2`|
 |[I made open source modmenu for Mobile Legends with premium cheatloaders and its free&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/703144-source-modmenu-mobile-legends-premium-cheatloaders-free.html)|`2025-06-16 20:41:00`|`Android`|
 |[Phasmophobia mod menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/705039-phasmophobia-mod-menu.html)|`2025-06-16 20:31:00`|`Phasmophobia`|
