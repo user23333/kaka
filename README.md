@@ -32,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Inventory Changer CS2 UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705165-inventory-changer-cs2-ud.html)|`2025-06-16 17:39:00`|`Counter-Strike 2`|
+|[Get Components without decrypt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/705164-components-decrypt.html)|`2025-06-16 17:32:00`|`Overwatch`|
+|[Chivalry 2 Heaveyweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689993-chivalry-2-heaveyweight-cheat.html)|`2025-06-16 17:32:00`|`Other Games`|
+|[Theia static decryptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696332-theia-static-decryptor.html)|`2025-06-16 17:30:00`|`Anti-Cheat Bypass`|
+|[Is There a Way to Use TASK&#95;GO&#95;STRAIGHT&#95;TO&#95;COORD Externally?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/704193-task_go_straight_to_coord-externally.html)|`2025-06-16 17:21:00`|`Alternative Online Mods`|
+|[يمكنك استخدام هذه البورتات مع اي هاك محاك¡](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/705163-161.html)|`2025-06-16 17:20:00`|`PUBG Mobile`|
 |[ud injector?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/700841-ud-injector.html)|`2025-06-16 17:18:00`|`Farlight 84`|
 |[Jackpot Slots Lua E&E &#45; Nenyooo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700161-jackpot-slots-lua-nenyooo.html)|`2025-06-16 16:47:00`|`Grand Theft Auto V`|
 |[Enjoy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/705160-enjoy.html)|`2025-06-16 16:45:00`|`PUBG Mobile`|
