@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-06-16 19:50:00`|`Call of Duty: Black Ops 6`|
 |[How can I check if the button is pressed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705168-check-button-pressed.html)|`2025-06-16 18:38:00`|`Counter-Strike 2`|
 |[Standoff2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/704452-standoff2-external-cheat.html)|`2025-06-16 18:32:00`|`Other FPS Games`|
 |[simple internal esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/705167-simple-internal-esp.html)|`2025-06-16 18:08:00`|`Rust`|
