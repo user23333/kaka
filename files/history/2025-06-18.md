@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-06-18 03:22:00`|`Grand Theft Auto V`|
+|[finding uworld internally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705094-finding-uworld-internally.html)|`2025-06-18 03:17:00`|`Valorant`|
+|[UD Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705421-ud-triggerbot.html)|`2025-06-18 03:16:00`|`Valorant`|
+|[HID&#45;reports python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705182-hid-reports-python.html)|`2025-06-18 03:13:00`|`Valorant`|
 |[Rust DMA Source, Feature Packed&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/689793-rust-dma-source-feature-packed.html)|`2025-06-18 03:09:00`|`Rust`|
 |[rocket league lagswitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705417-rocket-league-lagswitch.html)|`2025-06-18 02:42:00`|`Other FPS Games`|
 |[Arduino Color Bot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/705416-arduino-color-bot.html)|`2025-06-18 02:39:00`|`Rainbow Six Siege`|
