@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-06-17 12:28:00`|`Rainbow Six Siege`|
+|[Can someone provide a cheat program for VALORANT using KVM technology? linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704820-provide-cheat-program-valorant-using-kvm-technology-linux.html)|`2025-06-17 12:20:00`|`Valorant`|
 |[Smite 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/702558-smite-2-internal.html)|`2025-06-17 11:48:00`|`Other FPS Games`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-06-17 11:41:00`|`Grand Theft Auto V`|
 |[AHK scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705342-ahk-scripts.html)|`2025-06-17 11:39:00`|`Apex Legends`|
