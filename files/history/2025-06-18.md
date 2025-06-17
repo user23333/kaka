@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HMW Anti cheat information](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/702301-hmw-anti-cheat-information.html)|`2025-06-18 00:55:00`|`Call of Duty 4: Modern Warfare`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-06-18 00:53:00`|`Valorant`|
+|[Splitgate 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/656551-splitgate-2-reversal-structs-offsets.html)|`2025-06-18 00:47:00`|`Splitgate`|
+|[is there are any free apex hacks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705013-free-apex-hacks.html)|`2025-06-18 00:44:00`|`Apex Legends`|
 |[What is going wrong here ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/705211-wrong.html)|`2025-06-18 00:33:00`|`Call of Duty: Black Ops 6`|
 |[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2025-06-18 00:29:00`|`Grand Theft Auto V`|
 |[pubg kaka and stay source &#91;DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/698494-pubg-kaka-stay-source-dma.html)|`2025-06-18 00:27:00`|`Playerunknown's Battlegrounds`|
