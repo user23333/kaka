@@ -30,6 +30,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can anyone guide me on how to get a menu to work online?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705338-guide-menu-online.html)|`2025-06-17 10:57:00`|`Grand Theft Auto V`|
+|[Kingly Order of Souls Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/704249-kingly-souls-exploit.html)|`2025-06-17 10:56:00`|`Sea of Thieves`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-06-17 10:30:00`|`Grand Theft Auto V`|
+|[ban evading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/705166-ban-evading.html)|`2025-06-17 10:10:00`|`Rainbow Six Siege`|
+|[is there are any free apex hacks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705013-free-apex-hacks.html)|`2025-06-17 10:01:00`|`Apex Legends`|
+|[Agents of Sabotage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/704492-agents-sabotage.html)|`2025-06-17 10:00:00`|`Grand Theft Auto V`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-06-17 09:50:00`|`Phasmophobia`|
 |[arduino no recoil?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/704869-arduino-recoil.html)|`2025-06-17 09:30:00`|`Rainbow Six Siege`|
 |[How to reverse create move with IDA Pro 7&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705087-reverse-create-move-ida-pro-7-5-a.html)|`2025-06-17 09:26:00`|`Counter-Strike 2`|
 |[catalyst&#46;club/astolfoware&#46;cc for l4d2 source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695563-catalyst-club-astolfoware-cc-l4d2-source.html)|`2025-06-17 09:26:00`|`Other FPS Games`|
