@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HWID unban and cheat recommendations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/702049-hwid-unban-cheat-recommendations.html)|`2025-06-17 14:59:00`|`Star Wars Battlefront 2`|
+|[Valorant Interal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705075-valorant-interal-source.html)|`2025-06-17 14:56:00`|`Valorant`|
+|[PUBG No recoil macro For all razer mouse using Razer synapse &#91;Undetected&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/658324-pubg-recoil-macro-razer-mouse-using-razer-synapse-undetected.html)|`2025-06-17 14:53:00`|`PUBG Releases`|
+|[esp for HorizonMW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/703983-esp-horizonmw.html)|`2025-06-17 14:52:00`|`Call of Duty 4: Modern Warfare`|
 |[strinova spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/674539-strinova-spoofer.html)|`2025-06-17 14:43:00`|`Other FPS Games`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-06-17 14:25:00`|`Valorant`|
 |[HMW Anti cheat information](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/702301-hmw-anti-cheat-information.html)|`2025-06-17 14:11:00`|`Call of Duty 4: Modern Warfare`|
