@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Best method and tools to farm SC and Medals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/705386-method-tools-farm-sc-medals.html)|`2025-06-17 21:09:00`|`HELLDIVERS 2`|
+|[C&#43;&#43; Lightweight Assembler Library](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/704958-lightweight-assembler-library.html)|`2025-06-17 21:06:00`|`C and C++`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-06-17 21:02:00`|`ARMA 3`|
+|[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-06-17 20:54:00`|`Grand Theft Auto V`|
+|[Open source osu tablet AA / Zenith](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705383-source-osu-tablet-aa-zenith.html)|`2025-06-17 20:39:00`|`Other Games`|
+|[B&#46;O&#46;R&#46;E](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704620-b-o-r-e.html)|`2025-06-17 20:32:00`|`Anti-Cheat Bypass`|
 |[Most undetected form of legit cheating?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704553-undetected-form-legit-cheating.html)|`2025-06-17 20:25:00`|`Valorant`|
 |[Clash Royale Exploit/Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/705381-clash-royale-exploit-mod.html)|`2025-06-17 20:21:00`|`Half Life`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-06-17 20:15:00`|`Grand Theft Auto V`|
