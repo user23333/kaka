@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[rocket league lagswitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705417-rocket-league-lagswitch.html)|`2025-06-18 02:42:00`|`Other FPS Games`|
+|[Arduino Color Bot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/705416-arduino-color-bot.html)|`2025-06-18 02:39:00`|`Rainbow Six Siege`|
+|[esp drawing at random places](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704173-esp-drawing-random.html)|`2025-06-18 02:33:00`|`Counter-Strike 2`|
+|[Getting Map name](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704265-getting-map-name.html)|`2025-06-18 02:28:00`|`Counter-Strike 2`|
+|[Can anyone make a DMA software for Battlefield v?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/697648-dma-software-battlefield.html)|`2025-06-18 02:21:00`|`Battlefield V`|
+|[Python 2025 upper&#45; lower code searching](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705236-python-2025-upper-lower-code-searching.html)|`2025-06-18 02:21:00`|`Valorant`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-06-18 02:20:00`|`Other FPS Games`|
 |[Roblox Kernel Level External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/704872-roblox-kernel-level-external.html)|`2025-06-18 02:19:00`|`Other Games`|
 |[An Introduction to Syscalls &#45; Bypassing Anti&#45;Cheat Hooks &#91;User&#45;Mode&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704470-introduction-syscalls-bypassing-anti-cheat-hooks-user-mode.html)|`2025-06-18 02:13:00`|`Anti-Cheat Bypass`|
