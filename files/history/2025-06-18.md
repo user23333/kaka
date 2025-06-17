@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SCP SL Cheat v13&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/611154-scp-sl-cheat-v13-3-1-a.html)|`2025-06-18 01:33:00`|`Other Games`|
+|[lone&#45;dma eft&#45;dma&#45;radar built w/ wpf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/704132-lone-dma-eft-dma-radar-built-wpf.html)|`2025-06-18 01:31:00`|`Escape from Tarkov`|
+|[BaseCmd / Input history](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705405-basecmd-input-history.html)|`2025-06-18 01:21:00`|`Counter-Strike 2`|
+|[Smite 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/702558-smite-2-internal.html)|`2025-06-18 01:15:00`|`Other FPS Games`|
 |[Broken Arrow &#43;13 Trainer&#40;CT table&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673542-broken-arrow-13-trainer-ct-table.html)|`2025-06-18 01:13:00`|`Other MMORPG and Strategy`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-06-18 01:10:00`|`Rust`|
 |[From Scratch External C&#43;&#43;&#40;custom gdi&#43; overlay&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705403-scratch-external-custom-gdi-overlay.html)|`2025-06-18 01:10:00`|`Counter-Strike 2`|
