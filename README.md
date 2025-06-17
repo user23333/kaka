@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to calculate the angles for an aimbot correctly?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/705102-calculate-angles-aimbot-correctly.html)|`2025-06-17 18:23:00`|`Forum General`|
+|[The Bible in Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/700075-bible-cheats.html)|`2025-06-17 18:15:00`|`Off Topic`|
+|[Why Do So Many Cheat Devs Using ImGui Ignore Dynamic Sizing for Menus?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/689392-cheat-devs-using-imgui-ignore-dynamic-sizing-menus.html)|`2025-06-17 18:11:00`|`Off Topic`|
+|[I hate being low IQ, everything takes 3x longer to learn&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/700882-hate-low-iq-takes-3x-learn.html)|`2025-06-17 18:09:00`|`Off Topic`|
 |[SEO64 fixed &#40;entities&#46;h&#41; 6/14/2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/704896-seo64-fixed-entities-6-14-2025-a.html)|`2025-06-17 17:54:00`|`Team Fortress 2`|
 |[SmmInfect &#45; Smm Backdoor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664482-smminfect-smm-backdoor.html)|`2025-06-17 17:48:00`|`Anti-Cheat Bypass`|
 |[CS2 BUNNY HOP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704898-cs2-bunny-hop.html)|`2025-06-17 17:46:00`|`Counter-Strike 2`|
