@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Thoughts on SendInput Detection and Safer Input Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704639-sendinput-detection-safer-input-methods.html)|`2025-06-18 07:48:00`|`Valorant`|
 |[loadd &#45; the world most ud injector ever](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/704273-loadd-world-ud-injector.html)|`2025-06-18 07:35:00`|`C and C++`|
 |[J2k Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705368-j2k-scripting.html)|`2025-06-18 07:21:00`|`Apex Legends`|
 |[Get bomb position while in player inventory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705197-bomb-position-player-inventory.html)|`2025-06-18 07:12:00`|`Counter-Strike 2`|
