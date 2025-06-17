@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is there anything for the new game called REMATCH?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705388-game-called-rematch.html)|`2025-06-17 21:35:00`|`Other Games`|
+|[How are you? An Important Question In Busy Modern Life](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/705387-question-busy-modern-life.html)|`2025-06-17 21:28:00`|`Off Topic`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-06-17 21:15:00`|`Other FPS Games`|
+|[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-06-17 21:14:00`|`Marvel Rivals`|
 |[Best method and tools to farm SC and Medals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/705386-method-tools-farm-sc-medals.html)|`2025-06-17 21:09:00`|`HELLDIVERS 2`|
 |[C&#43;&#43; Lightweight Assembler Library](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/704958-lightweight-assembler-library.html)|`2025-06-17 21:06:00`|`C and C++`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-06-17 21:02:00`|`ARMA 3`|
