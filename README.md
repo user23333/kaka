@@ -11,6 +11,7 @@
 |12|[GoodDiePUBG &#45; PUBG 3&#46;8 Emulator Hack Source &#40;server/client&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/704753-gooddiepubg-pubg-3-8-emulator-hack-source-server-client.html)|`2025-06-18 00:15:59`|`pubg-mobile`|
 |6|[An Introduction to Syscalls &#45; Bypassing Anti&#45;Cheat Hooks &#91;User&#45;Mode&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704470-introduction-syscalls-bypassing-anti-cheat-hooks-user-mode.html)|`2025-06-18 00:15:59`|`anti-cheat-bypass`|
 |7|[eac interception unload fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704868-eac-interception-unload-fix.html)|`2025-06-18 00:15:59`|`anti-cheat-bypass`|
+|14|[2PC/1PC 1:1 CLONED ARDUINO FIRMWARE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705025-2pc-1pc-1-1-cloned-arduino-firmware.html)|`2025-06-18 03:57:38`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG simple cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/700401-pubg-simple-cheat.html)|`2025-06-18 03:52:00`|`PUBG Releases`|
+|[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2025-06-18 03:51:00`|`Elite: Dangerous`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-06-18 03:40:00`|`League of Legends`|
+|[Isonzo Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/675510-isonzo-internal-cheat.html)|`2025-06-18 03:36:00`|`Other FPS Games`|
+|[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-06-18 03:32:00`|`Sea of Thieves`|
 |[splitgate 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/702287-splitgate-2-a.html)|`2025-06-18 03:29:00`|`Splitgate`|
 |[status&#95;cpp&#95;eh&#95;exception](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/704766-status_cpp_eh_exception.html)|`2025-06-18 03:25:00`|`DayZ SA`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-06-18 03:22:00`|`Grand Theft Auto V`|
