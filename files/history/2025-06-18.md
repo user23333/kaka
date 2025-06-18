@@ -42,6 +42,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War of rigths reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705453-war-rigths-reversal.html)|`2025-06-18 13:19:00`|`Other FPS Games`|
 |[Does Faceit ban your router?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704268-faceit-ban-router.html)|`2025-06-18 12:57:00`|`Counter-Strike 2`|
 |[Faceit ID Verification / AC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705294-faceit-id-verification-ac-bypass.html)|`2025-06-18 12:52:00`|`Counter-Strike 2`|
 |[m&#95;nTickBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705452-m_ntickbase.html)|`2025-06-18 12:48:00`|`Counter-Strike 2`|
