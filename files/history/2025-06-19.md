@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Inventory Changer CS2 UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705165-inventory-changer-cs2-ud.html)|`2025-06-19 05:56:00`|`Counter-Strike 2`|
 |[subtick strafe weird outside of local servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705145-subtick-strafe-weird-outside-local-servers.html)|`2025-06-19 05:49:00`|`Counter-Strike 2`|
 |[Createmove hooking help :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705464-createmove-hooking-help.html)|`2025-06-19 05:46:00`|`Counter-Strike 2`|
 |[Motion Blur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702626-motion-blur.html)|`2025-06-19 05:44:00`|`Counter-Strike 2`|
