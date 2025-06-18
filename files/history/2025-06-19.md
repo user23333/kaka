@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TPM &#43; Secure Boot "Bypass"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/631852-tpm-secure-boot-bypass.html)|`2025-06-19 06:56:00`|`Valorant`|
 |[2PC/1PC 1:1 CLONED ARDUINO FIRMWARE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705025-2pc-1pc-1-1-cloned-arduino-firmware.html)|`2025-06-19 06:48:00`|`Valorant`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-06-19 06:45:00`|`Grand Theft Auto V`|
 |[Trigger bot firing with high aim punch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705576-trigger-bot-firing-aim-punch.html)|`2025-06-19 06:45:00`|`Counter-Strike 2`|
