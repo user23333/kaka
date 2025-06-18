@@ -11,6 +11,7 @@
 |7|[B&#46;O&#46;R&#46;E](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704620-b-o-r-e.html)|`2025-06-19 00:15:45`|`anti-cheat-bypass`|
 |9|[steam acc gen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704678-steam-acc-gen.html)|`2025-06-19 00:15:45`|`counter-strike-2-a`|
 |10|[Color AimBot &#40;bypasses obj&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/705015-color-aimbot-bypasses-obj.html)|`2025-06-19 00:15:45`|`call-of-duty-black-ops-6-a`|
+|15|[SEO64 fixed &#40;entities&#46;h&#41; 6/14/2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/704896-seo64-fixed-entities-6-14-2025-a.html)|`2025-06-19 05:27:24`|`team-fortress-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[lone&#45;dma eft&#45;dma&#45;radar built w/ wpf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/704132-lone-dma-eft-dma-radar-built-wpf.html)|`2025-06-19 05:18:00`|`Escape from Tarkov`|
+|[Unturned Egguware w/ bypass &#91;LINUX&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/693201-unturned-egguware-bypass-linux.html)|`2025-06-19 05:09:00`|`Other FPS Games`|
 |[BO6 / WZ Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/685349-bo6-wz-internal.html)|`2025-06-19 05:06:00`|`Call of Duty: Black Ops 6`|
 |[FBC: Firebreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705440-fbc-firebreak.html)|`2025-06-19 05:04:00`|`Other FPS Games`|
 |[J2k Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705368-j2k-scripting.html)|`2025-06-19 05:02:00`|`Apex Legends`|
