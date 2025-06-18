@@ -42,6 +42,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Faceit ID Verification / AC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705294-faceit-id-verification-ac-bypass.html)|`2025-06-18 12:52:00`|`Counter-Strike 2`|
+|[m&#95;nTickBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705452-m_ntickbase.html)|`2025-06-18 12:48:00`|`Counter-Strike 2`|
 |[replay glitch got patched?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705451-replay-glitch-patched.html)|`2025-06-18 12:26:00`|`Grand Theft Auto V`|
 |[Undetected CE for CW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/680552-undetected-ce-cw.html)|`2025-06-18 12:20:00`|`Call of Duty: Black Ops Cold War`|
 |[Lag Switcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/705448-lag-switcher.html)|`2025-06-18 12:00:00`|`DayZ SA`|
