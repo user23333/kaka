@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTA V 1&#46;71 Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705404-gta-1-71-mod-menu.html)|`2025-06-19 01:32:00`|`Grand Theft Auto V`|
+|[Arduino Color Bot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/705416-arduino-color-bot.html)|`2025-06-19 01:30:00`|`Rainbow Six Siege`|
+|[Anything to get me banned FAST](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/702490-banned-fast.html)|`2025-06-19 01:26:00`|`Rainbow Six Siege`|
+|[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2025-06-19 01:26:00`|`Unity`|
+|[Best driver mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/705178-driver-mapper.html)|`2025-06-19 01:21:00`|`Anti-Cheat Bypass`|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-06-19 01:15:00`|`Other FPS Games`|
 |[Goldberg Steam Emulator&#46; Scoreboard Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/701398-goldberg-steam-emulator-scoreboard-crash.html)|`2025-06-19 01:14:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Put benny's wheels in personal vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/376369-bennys-wheels-personal-vehicle.html)|`2025-06-19 01:12:00`|`Grand Theft Auto V`|
 |[Unique ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/704229-unique-id.html)|`2025-06-19 01:12:00`|`CounterStrike 1.5, 1.6 and Mods`|
