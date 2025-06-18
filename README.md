@@ -44,6 +44,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[roblox external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/702036-roblox-external.html)|`2025-06-18 18:58:00`|`Introductions`|
 |[Horizon Rocket League Plugin &#40;Spawn Titles/Items, Set Paint, Credits & Shop Fake Buy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/701283-horizon-rocket-league-plugin-spawn-titles-items-set-paint-credits-shop-fake-buy.html)|`2025-06-18 17:55:00`|`Other Games`|
 |[Meow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699145-meow.html)|`2025-06-18 17:46:00`|`Marvel Rivals`|
 |[tool to dump loaded km drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/705467-tool-dump-loaded-km-drivers.html)|`2025-06-18 17:33:00`|`Anti-Cheat Bypass`|
