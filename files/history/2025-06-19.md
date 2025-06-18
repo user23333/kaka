@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BO6 / WZ Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/685349-bo6-wz-internal.html)|`2025-06-19 05:06:00`|`Call of Duty: Black Ops 6`|
+|[FBC: Firebreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705440-fbc-firebreak.html)|`2025-06-19 05:04:00`|`Other FPS Games`|
+|[J2k Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705368-j2k-scripting.html)|`2025-06-19 05:02:00`|`Apex Legends`|
+|[Crash when calling TraceShape](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705174-crash-calling-traceshape.html)|`2025-06-19 04:56:00`|`Counter-Strike 2`|
 |[External hitmarkers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705567-external-hitmarkers.html)|`2025-06-19 04:40:00`|`Counter-Strike 2`|
 |[Gold Dropper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/567212-gold-dropper.html)|`2025-06-19 04:37:00`|`Red Dead Redemption 2`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2025-06-19 04:36:00`|`Other FPS Games`|
