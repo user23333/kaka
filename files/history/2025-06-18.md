@@ -44,6 +44,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FamilyMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/631659-familymenu.html)|`2025-06-18 21:33:00`|`Red Dead Redemption 2`|
+|[GTA 5 Enhanced DMA Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701780-gta-5-enhanced-dma-menu.html)|`2025-06-18 21:32:00`|`Grand Theft Auto V`|
+|[Crash when calling TraceShape](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705174-crash-calling-traceshape.html)|`2025-06-18 21:18:00`|`Counter-Strike 2`|
+|[How to calculate the angles for an aimbot correctly?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/705102-calculate-angles-aimbot-correctly.html)|`2025-06-18 21:17:00`|`Forum General`|
+|[Chivalry2 Pak &#40;outdated&#41; and short tutorial&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705485-chivalry2-pak-outdated-short-tutorial.html)|`2025-06-18 21:15:00`|`Other FPS Games`|
 |[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-06-18 21:05:00`|`PUBG Releases`|
 |[7DTD 1&#46;4 B14 Creative and Debug Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699759-7dtd-1-4-b14-creative-debug-assembly-csharp-dll.html)|`2025-06-18 20:51:00`|`Other FPS Games`|
 |[Loki SCP: Secret Laboratory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/704266-loki-scp-secret-laboratory.html)|`2025-06-18 20:28:00`|`Other Games`|
