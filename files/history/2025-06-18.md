@@ -29,9 +29,25 @@
 |20|[tensorrt&#45;installer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50097)|`2025-06-18 00:15:59`|
 |24|[Isonzo Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50096)|`2025-06-18 00:15:59`|
 |77|[seo64fix 6/14/2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50095)|`2025-06-18 00:15:59`|
+|6|[DMAByDaylight v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50128)|`2025-06-18 11:08:20`|
+|1|[smite2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50122)|`2025-06-18 11:08:20`|
+|3|[rust&#45;zov&#45;esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50121)|`2025-06-18 11:08:20`|
+|1|[kmbox&#95;util&#46;h](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50119)|`2025-06-18 11:08:20`|
+|1|[Elden Ring &#45; Cheat V3&#46;3&#46;0 ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50117)|`2025-06-18 11:08:20`|
+|0|[EasyFishingAHK&#45;Fo76](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50116)|`2025-06-18 11:08:20`|
+|1|[EasyFishing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50115)|`2025-06-18 11:08:20`|
+|7|[Valorant Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50114)|`2025-06-18 11:08:20`|
+|1|[capture headers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50113)|`2025-06-18 11:08:20`|
+|2|[arduino&#95;fw](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50112)|`2025-06-18 11:08:20`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[simple internal esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/705167-simple-internal-esp.html)|`2025-06-18 11:00:00`|`Rust`|
+|[Inventory Changer CS2 UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705165-inventory-changer-cs2-ud.html)|`2025-06-18 10:58:00`|`Counter-Strike 2`|
+|[Valorant Interal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705075-valorant-interal-source.html)|`2025-06-18 10:58:00`|`Valorant`|
+|[Imgui structure builder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/704628-imgui-structure-builder.html)|`2025-06-18 10:56:00`|`General Programming and Reversing`|
+|[Elden ring new Cheat Table &#43; Online &#40;risky&#41; &#43; CE Undetected &#43; future updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661671-elden-ring-cheat-table-online-risky-ce-undetected-future-updates.html)|`2025-06-18 10:49:00`|`Other FPS Games`|
+|[Fastest screen capture method &#45; less than 1ms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705058-fastest-screen-capture-method-1ms.html)|`2025-06-18 10:37:00`|`Valorant`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-06-18 09:25:00`|`Rainbow Six Siege`|
 |[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-06-18 08:52:00`|`Other FPS Games`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-06-18 08:51:00`|`Counter-Strike 2`|
