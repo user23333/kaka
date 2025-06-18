@@ -42,6 +42,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lag Switcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/705448-lag-switcher.html)|`2025-06-18 12:00:00`|`DayZ SA`|
 |[TPM &#43; Secure Boot "Bypass"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/631852-tpm-secure-boot-bypass.html)|`2025-06-18 11:23:00`|`Valorant`|
 |[Defiance Game &#40;Fawkes&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/698168-defiance-game-fawkes.html)|`2025-06-18 11:15:00`|`Other MMORPG and Strategy`|
 |[Crystal of Atlan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/702573-crystal-atlan.html)|`2025-06-18 11:09:00`|`Other MMORPG and Strategy`|
