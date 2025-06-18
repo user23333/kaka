@@ -44,6 +44,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is there anything for the new game called REMATCH?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705388-game-called-rematch.html)|`2025-06-18 21:51:00`|`Other Games`|
+|[TFA CSO Weapon pack airstrike exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/696991-tfa-cso-weapon-pack-airstrike-exploit.html)|`2025-06-18 21:49:00`|`Garry's Mod`|
+|[Apex Rage External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/660129-apex-rage-external-cheat.html)|`2025-06-18 21:46:00`|`Apex Legends`|
+|[RocketLeage Offsets Finder&#40;2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/684597-rocketleage-offsets-finder-2025-a.html)|`2025-06-18 21:41:00`|`Other Games`|
 |[FamilyMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/631659-familymenu.html)|`2025-06-18 21:33:00`|`Red Dead Redemption 2`|
 |[GTA 5 Enhanced DMA Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701780-gta-5-enhanced-dma-menu.html)|`2025-06-18 21:32:00`|`Grand Theft Auto V`|
 |[Crash when calling TraceShape](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705174-crash-calling-traceshape.html)|`2025-06-18 21:18:00`|`Counter-Strike 2`|
