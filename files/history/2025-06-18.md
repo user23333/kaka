@@ -44,6 +44,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-06-18 22:57:00`|`Counter-Strike 2`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-06-18 22:50:00`|`Other FPS Games`|
 |[Is your IDA PRO ida64&#46;exe digitally signed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/705492-ida-pro-ida64-exe-digitally-signed.html)|`2025-06-18 22:48:00`|`Anti-Cheat Bypass`|
 |[Hook ShellCode Kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/705491-hook-shellcode-kernel.html)|`2025-06-18 22:46:00`|`Anti-Cheat Bypass`|
