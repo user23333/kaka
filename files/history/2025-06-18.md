@@ -42,6 +42,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-06-18 15:36:00`|`Playerunknown's Battlegrounds`|
 |[Anti&#45;Smoke Steam Version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/705460-anti-smoke-steam-version.html)|`2025-06-18 15:28:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[mini royale](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694384-mini-royale.html)|`2025-06-18 15:24:00`|`Other FPS Games`|
 |[&#91;Steam&#93; Rise of Eros Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/699658-steam-rise-eros-mod-menu.html)|`2025-06-18 15:21:00`|`Other Games`|
