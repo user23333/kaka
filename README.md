@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sons of the Forest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/572665-sons-forest.html)|`2025-06-19 13:53:00`|`Unity`|
 |[Horizon Rocket League Plugin &#40;Spawn Titles/Items, Set Paint, Credits & Shop Fake Buy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/701283-horizon-rocket-league-plugin-spawn-titles-items-set-paint-credits-shop-fake-buy.html)|`2025-06-19 13:34:00`|`Other Games`|
 |[rocket league lagswitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705417-rocket-league-lagswitch.html)|`2025-06-19 13:33:00`|`Other FPS Games`|
 |[Chaos Menu & Lua Executor "REDM"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/593368-chaos-menu-lua-executor-redm.html)|`2025-06-19 13:19:00`|`Red Dead Redemption 2`|
