@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[pdfwkrnl exploit &#43; kernel function calling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703376-pdfwkrnl-exploit-kernel-function-calling.html)|`2025-06-19 22:26:00`|`Anti-Cheat Bypass`|
 |[GTA 5 Enhanced DMA Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701780-gta-5-enhanced-dma-menu.html)|`2025-06-19 22:06:00`|`Grand Theft Auto V`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-06-19 21:58:00`|`Marvel Rivals`|
 |[ret addr spoofing for find object](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705638-ret-addr-spoofing-object.html)|`2025-06-19 21:39:00`|`Valorant`|
