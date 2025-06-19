@@ -13,6 +13,7 @@
 |10|[Color AimBot &#40;bypasses obj&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/705015-color-aimbot-bypasses-obj.html)|`2025-06-19 00:15:45`|`call-of-duty-black-ops-6-a`|
 |15|[SEO64 fixed &#40;entities&#46;h&#41; 6/14/2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/704896-seo64-fixed-entities-6-14-2025-a.html)|`2025-06-19 05:27:24`|`team-fortress-2-a`|
 |6|[simple internal esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/705167-simple-internal-esp.html)|`2025-06-19 10:49:29`|`rust`|
+|10|[Dead by Daylight DMA &#45; Based on IntelSDM &#45; Added features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/704981-dead-daylight-dma-based-intelsdm-added-features.html)|`2025-06-19 21:04:41`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex CV YOLO v8 Aim Assist Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/624584-apex-cv-yolo-v8-aim-assist-bot.html)|`2025-06-19 20:56:00`|`Apex Legends`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-06-19 20:55:00`|`Playerunknown's Battlegrounds`|
+|[HWID unban and cheat recommendations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/702049-hwid-unban-cheat-recommendations.html)|`2025-06-19 20:30:00`|`Star Wars Battlefront 2`|
 |[Fastest screen capture method &#45; less than 1ms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705058-fastest-screen-capture-method-1ms.html)|`2025-06-19 20:19:00`|`Valorant`|
 |[All VAC system modules hooks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705633-vac-system-modules-hooks.html)|`2025-06-19 20:16:00`|`Counter-Strike 2`|
 |[Game Functions from Natives &#40;?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/705423-game-functions-natives.html)|`2025-06-19 20:07:00`|`Alternative Online Mods`|
