@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Signed Mouse Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705026-signed-mouse-driver.html)|`2025-06-20 02:18:00`|`Valorant`|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-06-20 02:04:00`|`Other FPS Games`|
 |[Visibility Check Problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705685-visibility-check.html)|`2025-06-20 01:53:00`|`Counter-Strike 2`|
 |[simple internal esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/705167-simple-internal-esp.html)|`2025-06-20 01:52:00`|`Rust`|
 |[Contributions to the MapleStory Hacking Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/704976-contributions-maplestory-hacking-community.html)|`2025-06-20 01:51:00`|`Maple Story`|
