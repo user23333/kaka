@@ -25,9 +25,14 @@
 |201|[Valorant Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50114)|`2025-06-20 00:23:07`|
 |36|[capture headers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50113)|`2025-06-20 00:23:07`|
 |26|[arduino&#95;fw](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50112)|`2025-06-20 00:23:07`|
+|2|[C&#43;&#43; Blazing Assembler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50126)|`2025-06-20 01:44:48`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FACEIT Spying even when game is off&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/705379-faceit-spying-game.html)|`2025-06-20 01:41:00`|`Anti-Cheat Bypass`|
+|[Pixel Gun 3D Internal Cheat Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705021-pixel-gun-3d-internal-cheat-base.html)|`2025-06-20 01:41:00`|`Other FPS Games`|
+|[C&#43;&#43; Lightweight Assembler Library](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/704958-lightweight-assembler-library.html)|`2025-06-20 01:32:00`|`C and C++`|
+|[Is there anything for the new game called REMATCH?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705388-game-called-rematch.html)|`2025-06-20 01:32:00`|`Other Games`|
 |[YimMenuV2Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697581-yimmenuv2mod.html)|`2025-06-20 01:27:00`|`Grand Theft Auto V`|
 |[Auto Shop Board Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705682-auto-shop-board-issues.html)|`2025-06-20 01:26:00`|`Grand Theft Auto V`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-06-20 01:24:00`|`Other FPS Games`|
