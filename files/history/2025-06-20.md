@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is your IDA PRO ida64&#46;exe digitally signed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/705492-ida-pro-ida64-exe-digitally-signed.html)|`2025-06-20 03:47:00`|`General Programming and Reversing`|
 |[GTA V 1&#46;71 Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705404-gta-1-71-mod-menu.html)|`2025-06-20 03:32:00`|`Grand Theft Auto V`|
 |[Can I get banned for unlocking Overflod Suzume using GTA&#43; Unlock via Yimv2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705642-banned-unlocking-overflod-suzume-using-gta-unlock-via-yimv2.html)|`2025-06-20 03:29:00`|`Grand Theft Auto V`|
 |[Dayz pc dupe &#40;NOT PATCHED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/704228-dayz-pc-dupe-patched.html)|`2025-06-20 03:15:00`|`DayZ SA`|
