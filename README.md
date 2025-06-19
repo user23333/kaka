@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fastest screen capture method &#45; less than 1ms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705058-fastest-screen-capture-method-1ms.html)|`2025-06-19 20:19:00`|`Valorant`|
+|[All VAC system modules hooks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705633-vac-system-modules-hooks.html)|`2025-06-19 20:16:00`|`Counter-Strike 2`|
+|[Game Functions from Natives &#40;?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/705423-game-functions-natives.html)|`2025-06-19 20:07:00`|`Alternative Online Mods`|
 |[Memory Scan Bloqued Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/705632-memory-scan-bloqued-cheat-engine.html)|`2025-06-19 19:55:00`|`Off Topic`|
 |[How are you? An Important Question In Busy Modern Life](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/705387-question-busy-modern-life.html)|`2025-06-19 19:34:00`|`Off Topic`|
 |[Python 2025 upper&#45; lower code searching](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705236-python-2025-upper-lower-code-searching.html)|`2025-06-19 18:25:00`|`Valorant`|
