@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Python 2025 upper&#45; lower code searching](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705236-python-2025-upper-lower-code-searching.html)|`2025-06-19 18:25:00`|`Valorant`|
+|[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-06-19 18:23:00`|`PUBG Releases`|
+|[OSRS Magic Enchant Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/runescape/703377-osrs-magic-enchant-bot.html)|`2025-06-19 18:23:00`|`RuneScape`|
+|[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-06-19 18:10:00`|`Other FPS Games`|
 |[Yolov5 Enemy Detection Models for AI AIMBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/634345-yolov5-enemy-detection-models-ai-aimbot.html)|`2025-06-19 18:10:00`|`Rainbow Six Siege`|
 |[Serializing protobuf CSVCMsg&#95;UserMessage to CSVCMsg&#95;UserMessage&#95;t for SendNetMessage?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705624-serializing-protobuf-csvcmsg_usermessage-csvcmsg_usermessage_t-sendnetmessage.html)|`2025-06-19 17:53:00`|`Counter-Strike 2`|
 |[How to reverse wasm game files for 8ball pool web version&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/web-and-scripting/701162-reverse-wasm-game-files-8ball-pool-web-version.html)|`2025-06-19 17:47:00`|`Web and Scripting`|
