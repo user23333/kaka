@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BO2Z Toolbox 2&#46;4 &#40;plutonium&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/418713-bo2z-toolbox-2-4-plutonium.html)|`2025-06-19 22:49:00`|`Call of Duty: Black Ops 2`|
 |[Can I get banned for unlocking Overflod Suzume using GTA&#43; Unlock via Yimv2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705642-banned-unlocking-overflod-suzume-using-gta-unlock-via-yimv2.html)|`2025-06-19 22:37:00`|`Grand Theft Auto V`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-06-19 22:35:00`|`Valorant`|
 |[pdfwkrnl exploit &#43; kernel function calling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703376-pdfwkrnl-exploit-kernel-function-calling.html)|`2025-06-19 22:26:00`|`Anti-Cheat Bypass`|
