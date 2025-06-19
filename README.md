@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-06-19 15:37:00`|`Other FPS Games`|
 |[How to calculate the angles for an aimbot correctly?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/705102-calculate-angles-aimbot-correctly.html)|`2025-06-19 14:41:00`|`Forum General`|
 |[Self&#45;unmapping / self&#45;unloading DLL and shellcode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/694499-self-unmapping-self-unloading-dll-shellcode.html)|`2025-06-19 14:08:00`|`General Programming and Reversing`|
 |[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2025-06-19 14:00:00`|`Sea of Thieves`|
