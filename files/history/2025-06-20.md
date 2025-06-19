@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What im doing wrong?????????](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/704486-im-doing-wrong.html)|`2025-06-20 07:38:00`|`General Programming and Reversing`|
+|[rip public genshin cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/705719-rip-public-genshin-cheats.html)|`2025-06-20 07:36:00`|`Genshin Impact`|
 |[ARDUINO EHTERNET SHIELD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704935-arduino-ehternet-shield.html)|`2025-06-20 06:40:00`|`Valorant`|
 |[What is going wrong here ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/705211-wrong.html)|`2025-06-20 06:38:00`|`Call of Duty: Black Ops 6`|
 |[Put benny's wheels in personal vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/376369-bennys-wheels-personal-vehicle.html)|`2025-06-20 06:26:00`|`Grand Theft Auto V`|
