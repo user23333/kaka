@@ -31,9 +31,15 @@
 |1|[EasyFishing &#46;ba2 and &#46;ahk script v1&#46;06](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50140)|`2025-06-21 01:29:38`|
 |1|[Hell Let Loose SDK &#40;EPIC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50139)|`2025-06-21 01:29:38`|
 |1|[VRising&#45;ESP&#45;Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50135)|`2025-06-21 01:29:38`|
+|1|[VRising&#45;ESP&#45;Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50136)|`2025-06-21 01:41:25`|
+|1|[MezWareExt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50129)|`2025-06-21 01:41:25`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex yolov11 AI AimAssistant&#40;Logitech Ghub&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/688904-apex-yolov11-ai-aimassistant-logitech-ghub.html)|`2025-06-21 01:40:00`|`Apex Legends`|
+|[From Scratch External C&#43;&#43;&#40;custom gdi&#43; overlay&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705403-scratch-external-custom-gdi-overlay.html)|`2025-06-21 01:40:00`|`Counter-Strike 2`|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-06-21 01:37:00`|`Sea of Thieves`|
+|[Trigger bot firing with high aim punch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705576-trigger-bot-firing-aim-punch.html)|`2025-06-21 01:37:00`|`Counter-Strike 2`|
 |[Business Cooldown with Yimmenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705755-business-cooldown-yimmenu.html)|`2025-06-21 01:28:00`|`Grand Theft Auto V`|
 |[V Rising &#45; Invaders of Oakveil Community Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/702226-rising-invaders-oakveil-community-cheat.html)|`2025-06-21 01:24:00`|`Other MMORPG and Strategy`|
 |[Put benny's wheels in personal vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/376369-bennys-wheels-personal-vehicle.html)|`2025-06-21 01:23:00`|`Grand Theft Auto V`|
