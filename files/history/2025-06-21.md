@@ -39,6 +39,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2025-06-21 03:07:00`|`Counter-Strike 2 Releases`|
+|[Driver detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/705820-driver-detection.html)|`2025-06-21 03:04:00`|`Anti-Cheat Bypass`|
+|[Helldivers 2 Undetected Features by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/704156-helldivers-2-undetected-features-igromanru.html)|`2025-06-21 03:03:00`|`HELLDIVERS 2`|
 |[Loki SCP: Secret Laboratory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/704266-loki-scp-secret-laboratory.html)|`2025-06-21 02:48:00`|`Other Games`|
 |[Slot machines in casinos do not work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705811-slot-machines-casinos.html)|`2025-06-21 02:42:00`|`Grand Theft Auto V`|
 |[No recoil logitech lua script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/705788-recoil-logitech-lua-script.html)|`2025-06-21 02:38:00`|`Rainbow Six Siege`|
