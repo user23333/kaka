@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Darkest Days Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/700489-darkest-days-internal.html)|`2025-06-20 14:25:00`|`Other FPS Games`|
+|[Stumbled on a 2Box Trick via Discord&#46;&#46;&#46; Whatâ€™s the Deal?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699218-stumbled-2box-trick-via-discord-deal.html)|`2025-06-20 14:19:00`|`Call of Duty: Black Ops 6`|
+|[flagged accounts are available for migration?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696670-flagged-accounts-available-migration.html)|`2025-06-20 14:10:00`|`Grand Theft Auto V`|
+|[Elden ring new Cheat Table &#43; Online &#40;risky&#41; &#43; CE Undetected &#43; future updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661671-elden-ring-cheat-table-online-risky-ce-undetected-future-updates.html)|`2025-06-20 14:09:00`|`Other FPS Games`|
 |[Nuxar1 Decryption dumper partial fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-ii/698982-nuxar1-decryption-dumper-partial-fix.html)|`2025-06-20 13:51:00`|`Call of Duty: Modern Warfare II`|
 |[From coding to hacking: An introduction guide to practical &#40;external&#41; game hacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/267073-coding-hacking-introduction-guide-practical-external-game-hacking.html)|`2025-06-20 13:50:00`|`Programming for Beginners`|
 |[Zero Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703075-zero-triggerbot.html)|`2025-06-20 12:46:00`|`Valorant`|
