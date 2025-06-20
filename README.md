@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;Question&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705747-question.html)|`2025-06-20 15:22:00`|`Grand Theft Auto V`|
 |[MOUSE MOVEMENT UNDETECTED &#35;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/705138-mouse-movement-undetected-4-a.html)|`2025-06-20 14:52:00`|`Anti-Cheat Bypass`|
 |[tool to dump loaded km drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/705467-tool-dump-loaded-km-drivers.html)|`2025-06-20 14:43:00`|`Anti-Cheat Bypass`|
 |[pdfwkrnl exploit &#43; kernel function calling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703376-pdfwkrnl-exploit-kernel-function-calling.html)|`2025-06-20 14:41:00`|`Anti-Cheat Bypass`|
