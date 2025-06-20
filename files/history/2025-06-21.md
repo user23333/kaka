@@ -39,6 +39,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Loki SCP: Secret Laboratory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/704266-loki-scp-secret-laboratory.html)|`2025-06-21 02:48:00`|`Other Games`|
+|[Slot machines in casinos do not work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705811-slot-machines-casinos.html)|`2025-06-21 02:42:00`|`Grand Theft Auto V`|
+|[No recoil logitech lua script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/705788-recoil-logitech-lua-script.html)|`2025-06-21 02:38:00`|`Rainbow Six Siege`|
+|[FATE DMA Source With a lot of features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/659710-fate-dma-source-lot-features.html)|`2025-06-21 02:38:00`|`Apex Legends`|
+|[Lag Switcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/705448-lag-switcher.html)|`2025-06-21 02:37:00`|`DayZ SA`|
 |[REPO Simple Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/689820-repo-simple-cheat.html)|`2025-06-21 02:23:00`|`Other MMORPG and Strategy`|
 |[splitgate 2 dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/705807-splitgate-2-dma.html)|`2025-06-21 02:20:00`|`Splitgate`|
 |[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-06-21 02:18:00`|`PUBG Releases`|
