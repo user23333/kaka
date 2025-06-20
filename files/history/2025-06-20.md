@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-06-20 21:05:00`|`Grand Theft Auto V`|
+|[Dumping offsets  in the Browser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705774-dumping-offsets-browser.html)|`2025-06-20 21:01:00`|`Counter-Strike 2`|
+|[Perfect Silent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/705207-perfect-silent.html)|`2025-06-20 20:41:00`|`Call of Duty: Black Ops Cold War`|
+|[&#91;DMA&#93; COD &#45; ESP &#43; AIM &#40;steam only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700409-dma-cod-esp-aim-steam.html)|`2025-06-20 20:40:00`|`Call of Duty: Black Ops 6`|
 |[External &#40;&#46;bat&#41; Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705587-external-bat-skin-changer.html)|`2025-06-20 20:23:00`|`Counter-Strike 2`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-06-20 20:19:00`|`Phasmophobia`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-06-20 20:14:00`|`Counter-Strike 2`|
