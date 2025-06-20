@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nuxar1 Decryption dumper partial fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-ii/698982-nuxar1-decryption-dumper-partial-fix.html)|`2025-06-20 13:51:00`|`Call of Duty: Modern Warfare II`|
+|[From coding to hacking: An introduction guide to practical &#40;external&#41; game hacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/267073-coding-hacking-introduction-guide-practical-external-game-hacking.html)|`2025-06-20 13:50:00`|`Programming for Beginners`|
 |[Zero Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703075-zero-triggerbot.html)|`2025-06-20 12:46:00`|`Valorant`|
 |[Nevermore3228's No Recoil Logitech GHUB Script Y9S1 Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/628147-nevermore3228s-recoil-logitech-ghub-script-y9s1-updated.html)|`2025-06-20 12:45:00`|`Rainbow Six Siege`|
 |[Color AimBot &#40;bypasses obj&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/705015-color-aimbot-bypasses-obj.html)|`2025-06-20 12:22:00`|`Call of Duty: Black Ops 6`|
