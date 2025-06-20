@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|["Legit" Cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/704923-legit-cheats.html)|`2025-06-20 22:40:00`|`Star Wars Battlefront 2`|
+|[Wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/705588-wallhack.html)|`2025-06-20 22:38:00`|`Rainbow Six Siege`|
+|[FBC: Firebreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705440-fbc-firebreak.html)|`2025-06-20 22:36:00`|`Other FPS Games`|
 |[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-06-20 22:29:00`|`Grand Theft Auto V`|
 |[VAC Modules Reversal 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705782-vac-modules-reversal-2025-a.html)|`2025-06-20 22:28:00`|`Counter-Strike 2`|
 |[GTA5 Enhanced Basic Dumper &#91;DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700169-gta5-enhanced-basic-dumper-dma.html)|`2025-06-20 22:27:00`|`Grand Theft Auto V`|
