@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Zero Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703075-zero-triggerbot.html)|`2025-06-20 12:46:00`|`Valorant`|
+|[Nevermore3228's No Recoil Logitech GHUB Script Y9S1 Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/628147-nevermore3228s-recoil-logitech-ghub-script-y9s1-updated.html)|`2025-06-20 12:45:00`|`Rainbow Six Siege`|
 |[Color AimBot &#40;bypasses obj&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/705015-color-aimbot-bypasses-obj.html)|`2025-06-20 12:22:00`|`Call of Duty: Black Ops 6`|
 |[Chivalry2 Pak &#40;outdated&#41; and short tutorial&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705485-chivalry2-pak-outdated-short-tutorial.html)|`2025-06-20 11:35:00`|`Other FPS Games`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-06-20 11:34:00`|`Apex Legends`|
