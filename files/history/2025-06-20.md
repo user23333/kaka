@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[game of thrones kingsroad hack & offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701827-game-thrones-kingsroad-hack-offsets.html)|`2025-06-20 09:36:00`|`Other MMORPG and Strategy`|
+|[Bypass rewasd?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705155-bypass-rewasd.html)|`2025-06-20 09:31:00`|`Apex Legends`|
+|[Why Ignore Z on chams not works in deadlock?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/698640-ignore-chams-deadlock.html)|`2025-06-20 09:23:00`|`Deadlock`|
+|[Heists crashing While using YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705728-heists-crashing-using-yimmenu.html)|`2025-06-20 09:12:00`|`Grand Theft Auto V`|
 |[PdFwKrnl&#46;sys Detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704764-pdfwkrnl-sys-detected.html)|`2025-06-20 07:55:00`|`Anti-Cheat Bypass`|
 |[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2025-06-20 07:51:00`|`Elite: Dangerous`|
 |[What im doing wrong?????????](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/704486-im-doing-wrong.html)|`2025-06-20 07:38:00`|`General Programming and Reversing`|
