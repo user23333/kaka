@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Info on HWID bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/705372-info-hwid-bans.html)|`2025-06-22 03:03:00`|`Rainbow Six Siege`|
+|[Wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/705588-wallhack.html)|`2025-06-22 03:00:00`|`Rainbow Six Siege`|
 |[Roblox executer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705413-roblox-executer.html)|`2025-06-22 02:52:00`|`Other Games`|
 |[Has the modification of the 100&#45;round magazine become invalid?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/705732-modification-100-round-magazine-invalid.html)|`2025-06-22 02:44:00`|`Payday 3`|
 |[Valorant insta headshot AIMBOT&#91;UNDETECTED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/688675-valorant-insta-headshot-aimbot-undetected.html)|`2025-06-22 02:44:00`|`Valorant`|
