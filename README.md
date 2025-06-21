@@ -42,6 +42,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-06-21 15:58:00`|`Other FPS Games`|
 |[Protobuf allocation causes crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705895-protobuf-allocation-causes-crash.html)|`2025-06-21 15:45:00`|`Counter-Strike 2`|
 |[How can Rocket League Bots work Online?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705894-rocket-league-bots-online.html)|`2025-06-21 15:38:00`|`Other Games`|
 |[xterial &#45; External read only esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704055-xterial-external-read-esp.html)|`2025-06-21 14:59:00`|`Counter-Strike 2 Releases`|
