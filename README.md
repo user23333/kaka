@@ -42,6 +42,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypass rewasd?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705155-bypass-rewasd.html)|`2025-06-21 17:15:00`|`Apex Legends`|
+|[ladware kernel external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704276-ladware-kernel-external.html)|`2025-06-21 17:09:00`|`Counter-Strike 2`|
 |[DMA Radar/Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/697254-dma-radar-fuser.html)|`2025-06-21 16:56:00`|`DayZ SA`|
 |[hyperv memory allocation feature](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/705898-hyperv-memory-allocation-feature.html)|`2025-06-21 16:48:00`|`Anti-Cheat Bypass`|
 |[Call of Duty: Black Ops Cold War Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/421778-call-duty-black-ops-cold-war-reversal-structs-offsets.html)|`2025-06-21 16:27:00`|`Call of Duty: Black Ops Cold War`|
