@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RAZER NEW ALL WEAPONS 1&#45;3 MS &#40;FREE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/640381-razer-weapons-1-3-ms-free.html)|`2025-06-22 07:53:00`|`Rust`|
+|[Triggerbot Playtester](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706000-triggerbot-playtester.html)|`2025-06-22 07:52:00`|`Valorant`|
 |[&#40;Question&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705747-question.html)|`2025-06-22 07:46:00`|`Grand Theft Auto V`|
 |[Looking for Rust recoil macro alternative using Arduino Leonardo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/703362-looking-rust-recoil-macro-alternative-using-arduino-leonardo.html)|`2025-06-22 07:46:00`|`Rust`|
 |[Borderlands 2 Co&#45;Op Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/573825-borderlands-2-co-op-table.html)|`2025-06-22 07:43:00`|`Cheat Engine Tables`|
