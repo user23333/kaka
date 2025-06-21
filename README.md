@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Starting my Cheat Dev journey&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/701089-starting-cheat-dev-journey.html)|`2025-06-22 02:41:00`|`Rust`|
+|[Mordhau Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/334741-mordhau-reversal-structs-offsets.html)|`2025-06-22 02:37:00`|`Other FPS Games`|
+|[Ultimate Spoofer &#45; Advanced Stealthy HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700067-ultimate-spoofer-advanced-stealthy-hwid-spoofer.html)|`2025-06-22 02:29:00`|`Anti-Cheat Bypass`|
+|[Put benny's wheels in personal vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/376369-bennys-wheels-personal-vehicle.html)|`2025-06-22 02:24:00`|`Grand Theft Auto V`|
 |[Internal Questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705946-internal-questions.html)|`2025-06-22 02:17:00`|`Counter-Strike 2`|
 |[Free Apex Coins/Cheap Coins Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/693249-free-apex-coins-cheap-coins-thread.html)|`2025-06-22 02:14:00`|`Apex Legends`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-06-22 02:03:00`|`Other FPS Games`|
