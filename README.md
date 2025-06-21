@@ -42,6 +42,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-06-21 23:28:00`|`Escape from Tarkov`|
+|[Ultimate Spoofer &#45; Advanced Stealthy HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700067-ultimate-spoofer-advanced-stealthy-hwid-spoofer.html)|`2025-06-21 23:18:00`|`Anti-Cheat Bypass`|
+|[All Mouse NoRecoil 1&#46;0 IS OUT &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-1-0-recoil-helpy-auto-config-probably-ud-universal.html)|`2025-06-21 23:13:00`|`Rainbow Six Siege`|
 |[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2025-06-21 22:45:00`|`Elite: Dangerous`|
 |[Lighting Modulation &#40;Using dLights&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/705878-lighting-modulation-using-dlights.html)|`2025-06-21 22:33:00`|`Team Fortress 2`|
 |[ret addr spoofing for find object](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705638-ret-addr-spoofing-object.html)|`2025-06-21 22:12:00`|`Valorant`|
