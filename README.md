@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;Question&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705747-question.html)|`2025-06-22 07:46:00`|`Grand Theft Auto V`|
+|[Looking for Rust recoil macro alternative using Arduino Leonardo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/703362-looking-rust-recoil-macro-alternative-using-arduino-leonardo.html)|`2025-06-22 07:46:00`|`Rust`|
 |[Borderlands 2 Co&#45;Op Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/573825-borderlands-2-co-op-table.html)|`2025-06-22 07:43:00`|`Cheat Engine Tables`|
 |[Horizon Rocket League Plugin &#40;Spawn Titles/Items, Set Paint, Credits & Shop Fake Buy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/701283-horizon-rocket-league-plugin-spawn-titles-items-set-paint-credits-shop-fake-buy.html)|`2025-06-22 07:26:00`|`Other Games`|
 |[Faceit Verification](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705926-faceit-verification.html)|`2025-06-22 07:25:00`|`Counter-Strike 2`|
