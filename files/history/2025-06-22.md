@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;New&#93; Super People Reversal, Structs, and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705622-super-people-reversal-structs-offsets.html)|`2025-06-22 03:23:00`|`Other FPS Games`|
+|[Achieved no delay on my external overlay giving up on transparency](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702567-achieved-delay-external-overlay-giving-transparency.html)|`2025-06-22 03:15:00`|`Counter-Strike 2`|
 |[Info on HWID bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/705372-info-hwid-bans.html)|`2025-06-22 03:03:00`|`Rainbow Six Siege`|
 |[Wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/705588-wallhack.html)|`2025-06-22 03:00:00`|`Rainbow Six Siege`|
 |[Roblox executer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705413-roblox-executer.html)|`2025-06-22 02:52:00`|`Other Games`|
