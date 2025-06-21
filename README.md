@@ -42,6 +42,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Inject Hack Gameloop EN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/662716-inject-hack-gameloop-en.html)|`2025-06-21 23:53:00`|`PUBG Mobile`|
 |[Valorant Interal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705075-valorant-interal-source.html)|`2025-06-21 23:43:00`|`Valorant`|
 |[Scripting for movement/recoil easy to find](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705930-scripting-movement-recoil-easy.html)|`2025-06-21 23:37:00`|`Apex Legends`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-06-21 23:28:00`|`Escape from Tarkov`|
