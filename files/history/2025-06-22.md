@@ -26,9 +26,11 @@
 |11|[VRising&#45;ESP&#45;Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50135)|`2025-06-22 00:17:49`|
 |1|[Discovery&#95;SDK&#95;21&#46;06&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50170)|`2025-06-22 06:31:19`|
 |1|[5&#46;4&#46;4&#45;0&#43;UE5&#45;ChronoOdyssey SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50150)|`2025-06-22 06:43:26`|
+|1|[Chrono Odissey Module dumped 19/06/2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50151)|`2025-06-22 06:49:42`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;LINUX&#93; External Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/696976-linux-external-multihack.html)|`2025-06-22 06:48:00`|`Counter-Strike 2 Releases`|
 |[Chrono Odyssey, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/705637-chrono-odyssey-structs-offsets.html)|`2025-06-22 06:41:00`|`Other MMORPG and Strategy`|
 |[Distance ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/705877-distance-esp.html)|`2025-06-22 06:39:00`|`All Points Bulletin`|
 |[Hi](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/705938-hi.html)|`2025-06-22 06:38:00`|`Introductions`|
