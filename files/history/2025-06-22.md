@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-06-22 12:19:00`|`Sea of Thieves`|
+|[Does Razer Mouse Method Work with ONNX?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706016-razer-mouse-method-onnx.html)|`2025-06-22 12:15:00`|`Valorant`|
+|[MOUSE MOVEMENT UNDETECTED &#35;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/705138-mouse-movement-undetected-4-a.html)|`2025-06-22 12:15:00`|`Anti-Cheat Bypass`|
 |[Kernel DLL Injector does not work &#40;Manual Mapping &#43; Driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705745-kernel-dll-injector-manual-mapping-driver.html)|`2025-06-22 11:43:00`|`Other Games`|
 |[&#91; External &#93; SPT&#45;AKI CheatBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/626274-external-spt-aki-cheatbase.html)|`2025-06-22 11:39:00`|`Escape from Tarkov`|
 |[Webs PVE Only Menu v7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/651661-webs-pve-menu-v7.html)|`2025-06-22 11:17:00`|`Escape from Tarkov`|
