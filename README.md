@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Linux External ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/674732-linux-external-esp-aimbot.html)|`2025-06-22 21:38:00`|`Counter-Strike 2 Releases`|
+|[how to use linux cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705148-linux-cheats.html)|`2025-06-22 21:31:00`|`Apex Legends`|
+|[apex offset dumper &#91;windows&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705886-apex-offset-dumper-windows.html)|`2025-06-22 21:30:00`|`Apex Legends`|
+|[2PC LAN AI Aimbot for Valorant – YOLO&#45;based](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/705760-2pc-lan-ai-aimbot-valorant-yolo-based.html)|`2025-06-22 21:29:00`|`Anti-Cheat Bypass`|
+|[Career unlock with Yimmenu v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696116-career-unlock-yimmenu-v2.html)|`2025-06-22 21:25:00`|`Grand Theft Auto V`|
 |[Working Triggerbot Bypass requirements](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699874-triggerbot-bypass-requirements.html)|`2025-06-22 21:05:00`|`Valorant`|
 |[Problem with drawing skeleton](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706059-drawing-skeleton.html)|`2025-06-22 21:01:00`|`Counter-Strike 2`|
 |[Undo hwid spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/705996-undo-hwid-spoofing.html)|`2025-06-22 20:54:00`|`Anti-Cheat Bypass`|
