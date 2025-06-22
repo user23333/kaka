@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VAC Modules Reversal 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705782-vac-modules-reversal-2025-a.html)|`2025-06-23 05:55:00`|`Counter-Strike 2`|
+|[DMA Problems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/695087-dma.html)|`2025-06-23 05:54:00`|`PC Hardware`|
+|[ASRock OC Tuner Vulnerable Driver &#43; POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703929-asrock-oc-tuner-vulnerable-driver-poc.html)|`2025-06-23 05:51:00`|`Anti-Cheat Bypass`|
 |[Showcasing my private projectile aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/706137-showcasing-private-projectile-aimbot.html)|`2025-06-23 05:35:00`|`Team Fortress 2`|
 |[Anticheat Blocker Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/706030-anticheat-blocker-source.html)|`2025-06-23 05:29:00`|`Call of Duty: Black Ops 6`|
 |[HLL: Hell Let Loose](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/340677-hll-hell-loose.html)|`2025-06-23 05:11:00`|`Other FPS Games`|
