@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to make skin changer inventory?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704844-skin-changer-inventory.html)|`2025-06-22 19:47:00`|`Counter-Strike 2`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-06-22 19:46:00`|`Counter-Strike 2`|
 |[YimMenu Injection Fails with 0xC0000022 on Epic GTA5&#95;Enhanced&#46;exe"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/706035-yimmenu-injection-fails-0xc0000022-epic-gta5_enhanced-exe.html)|`2025-06-22 19:40:00`|`Grand Theft Auto V`|
 |[Lockdown &#45; Protocol External&#46; WORKING CHEATS 6/22/2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706036-lockdown-protocol-external-cheats-6-22-2025-a.html)|`2025-06-22 19:19:00`|`Other Games`|
 |[All Mouse NoRecoil 1&#46;0 IS OUT &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-1-0-recoil-helpy-auto-config-probably-ud-universal.html)|`2025-06-22 19:00:00`|`Rainbow Six Siege`|
