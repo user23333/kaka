@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lethal Menu &#45; Lethal Company Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/615575-lethal-menu-lethal-company-cheat.html)|`2025-06-23 03:08:00`|`Lethal Company`|
+|[Cutiehook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/705961-cutiehook.html)|`2025-06-23 03:07:00`|`Alternative Online Mods`|
+|[YimMenuV2Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697581-yimmenuv2mod.html)|`2025-06-23 03:00:00`|`Grand Theft Auto V`|
+|[Simple Crime Simulator Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706044-simple-crime-simulator-menu.html)|`2025-06-23 03:00:00`|`Other Games`|
 |[apex offset dumper &#91;windows&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705886-apex-offset-dumper-windows.html)|`2025-06-23 02:50:00`|`Apex Legends`|
 |[Unlimited evade &#43; Auto&#45;parry](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/633394-unlimited-evade-auto-parry.html)|`2025-06-23 02:30:00`|`Star Wars Battlefront 2`|
 |[Dead by Daylight DMA &#45; Based on IntelSDM &#45; Added features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/704981-dead-daylight-dma-based-intelsdm-added-features.html)|`2025-06-23 02:36:00`|`Other FPS Games`|
