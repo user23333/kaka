@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fastest screen capture method &#45; less than 1ms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705058-fastest-screen-capture-method-1ms.html)|`2025-06-22 10:53:00`|`Valorant`|
+|[GoodDiePUBG &#45; PUBG 3&#46;8 Emulator Hack Source &#40;server/client&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/704753-gooddiepubg-pubg-3-8-emulator-hack-source-server-client.html)|`2025-06-22 10:38:00`|`PUBG Mobile`|
+|[Reconstruct PE headers from a dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/706009-reconstruct-pe-headers-dump.html)|`2025-06-22 10:01:00`|`General Programming and Reversing`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-06-22 09:00:00`|`Other FPS Games`|
 |[YimMenuV2Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697581-yimmenuv2mod.html)|`2025-06-22 08:49:00`|`Grand Theft Auto V`|
 |[DayZ 1&#46;27 for modded launchers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/690903-dayz-1-27-modded-launchers.html)|`2025-06-22 08:46:00`|`DayZ SA`|
