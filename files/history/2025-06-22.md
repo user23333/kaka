@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino Trace Cleaner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706046-arduino-trace-cleaner.html)|`2025-06-22 18:50:00`|`Valorant`|
 |[game of thrones kingsroad hack & offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701827-game-thrones-kingsroad-hack-offsets.html)|`2025-06-22 18:38:00`|`Other MMORPG and Strategy`|
 |[Zero Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703075-zero-triggerbot.html)|`2025-06-22 18:37:00`|`Valorant`|
 |[Simple Crime Simulator Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706044-simple-crime-simulator-menu.html)|`2025-06-22 18:31:00`|`Other Games`|
