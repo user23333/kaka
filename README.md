@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Missing Motherboard Serial Numbers – Is This Normal or an Issue?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706145-missing-motherboard-serial-normal-issue.html)|`2025-06-23 07:29:00`|`Valorant`|
 |[CHAMS FREE FIRE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705787-chams-free-fire.html)|`2025-06-23 07:07:00`|`Other Games`|
 |[I am new to this and have questions&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/706142-am-questions.html)|`2025-06-23 07:05:00`|`Star Wars Battlefront 2`|
 |[What's Your Favorite PC Game?  Post Here&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/36192-whats-favorite-pc-game-post.html)|`2025-06-23 06:56:00`|`Off Topic`|
