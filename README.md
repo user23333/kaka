@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FBC: Firebreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705440-fbc-firebreak.html)|`2025-06-22 23:57:00`|`Other FPS Games`|
 |[War Thunder test drive unlock tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/671076-war-thunder-test-drive-unlock-tool.html)|`2025-06-22 23:47:00`|`Other MMORPG and Strategy`|
 |[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/682483-demonologist-internal.html)|`2025-06-22 23:42:00`|`Other Games`|
 |[Help&#33;&#33;&#33; How to achieve efficient knife self&#45;aiming?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/706079-help-achieve-efficient-knife-self-aiming.html)|`2025-06-22 23:33:00`|`CounterStrike 1.5, 1.6 and Mods`|
