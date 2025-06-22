@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fivem Offsets and Signatur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/706091-fivem-offsets-signatur.html)|`2025-06-23 00:48:00`|`Alternative Online Mods`|
+|[Solo Leveling ARISE OVERDRIVE Demo Offsets &#45; SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/706090-solo-leveling-arise-overdrive-demo-offsets-sdk.html)|`2025-06-23 00:46:00`|`Other MMORPG and Strategy`|
+|[GTA V 1&#46;71 Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705404-gta-1-71-mod-menu.html)|`2025-06-23 00:42:00`|`Grand Theft Auto V`|
+|[Broken Arrow &#43;13 Trainer&#40;CT table&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673542-broken-arrow-13-trainer-ct-table.html)|`2025-06-23 00:42:00`|`Other MMORPG and Strategy`|
 |[Fallout 76 Gleaming Depth research lab mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/706088-fallout-76-gleaming-depth-research-lab-mod.html)|`2025-06-23 00:23:00`|`Other FPS Games`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-06-23 00:15:00`|`Other FPS Games`|
 |[For Honor &#45; Sciprt by florasSecret &#45; Autoblock, Parry, Deflects, D b/Unblockables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/414701-honor-sciprt-florassecret-autoblock-parry-deflects-unblockables.html)|`2025-06-23 00:13:00`|`Other MMORPG and Strategy`|
