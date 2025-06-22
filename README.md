@@ -31,9 +31,12 @@
 |4|[eax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50146)|`2025-06-23 01:34:18`|
 |1|[Supervive aimbot script &#43; AI training](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50154)|`2025-06-23 02:40:15`|
 |1|[BravoHotelClient&#45;Win64&#45;Shipping&#45;Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50149)|`2025-06-23 02:40:15`|
+|1|[MarvelSDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50158)|`2025-06-23 04:30:47`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-06-23 04:24:00`|`Sea of Thieves`|
+|[Nenyooo Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/488777-nenyooo-menu.html)|`2025-06-23 04:12:00`|`Grand Theft Auto V`|
 |[Crystal Of Atlan Updated Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/706028-crystal-atlan-updated-cheat-table.html)|`2025-06-23 04:10:00`|`Other MMORPG and Strategy`|
 |[Solo Leveling/Farming/Exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/706116-solo-leveling-farming-exploits.html)|`2025-06-23 04:08:00`|`Sea of Thieves`|
 |[Dumper/Loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/706053-dumper-loader.html)|`2025-06-23 04:05:00`|`Garry's Mod`|
