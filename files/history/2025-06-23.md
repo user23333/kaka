@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Recoil macro alternatives using pi pico 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/706095-recoil-macro-alternatives-using-pi-pico-2-a.html)|`2025-06-23 00:55:00`|`Rust`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-06-23 00:55:00`|`Counter-Strike 2`|
+|[Crystal of Atlan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/702573-crystal-atlan.html)|`2025-06-23 00:53:00`|`Other MMORPG and Strategy`|
 |[Fivem Offsets and Signatur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/706091-fivem-offsets-signatur.html)|`2025-06-23 00:48:00`|`Alternative Online Mods`|
 |[Solo Leveling ARISE OVERDRIVE Demo Offsets &#45; SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/706090-solo-leveling-arise-overdrive-demo-offsets-sdk.html)|`2025-06-23 00:46:00`|`Other MMORPG and Strategy`|
 |[GTA V 1&#46;71 Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705404-gta-1-71-mod-menu.html)|`2025-06-23 00:42:00`|`Grand Theft Auto V`|
