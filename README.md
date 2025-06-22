@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Offsets 3&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/699665-external-offsets-3-8-a.html)|`2025-06-22 15:13:00`|`PUBG Mobile`|
+|[Pipsi&#45;WW &#91; Wuthering Waves Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/638632-pipsi-ww-wuthering-waves-cheat.html)|`2025-06-22 15:10:00`|`Other MMORPG and Strategy`|
 |[Protobuf allocation causes crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705895-protobuf-allocation-causes-crash.html)|`2025-06-22 15:00:00`|`Counter-Strike 2`|
 |[Helldivers 2 Undetected Features by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/704156-helldivers-2-undetected-features-igromanru.html)|`2025-06-22 14:24:00`|`HELLDIVERS 2`|
 |[no recoil razer synapse 4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706018-recoil-razer-synapse-4-a.html)|`2025-06-22 14:23:00`|`Rainbow Six Siege`|
