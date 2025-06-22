@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty Modern Warfare 3 Dedicated Server IDB leak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/704191-call-duty-modern-warfare-3-dedicated-server-idb-leak.html)|`2025-06-22 17:26:00`|`Call of Duty: Modern Warfare 3`|
 |[Aimbot crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706034-aimbot-crash.html)|`2025-06-22 17:04:00`|`Counter-Strike 2`|
 |[Rocket League Unlock All &#43; Thorami Bot &#43; Xeno Inj](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661082-rocket-league-unlock-thorami-bot-xeno-inj.html)|`2025-06-22 16:50:00`|`Other FPS Games`|
 |[Cayo Primary finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705932-cayo-primary-finder.html)|`2025-06-22 16:18:00`|`Grand Theft Auto V`|
