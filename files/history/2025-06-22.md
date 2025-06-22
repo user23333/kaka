@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how make internal esp in c&#43;&#43;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705812-internal-esp.html)|`2025-06-22 23:22:00`|`Counter-Strike 2`|
+|[pdfwkrnl exploit &#43; kernel function calling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703376-pdfwkrnl-exploit-kernel-function-calling.html)|`2025-06-22 23:15:00`|`Anti-Cheat Bypass`|
 |[What paid chair are you guys using and recomend?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/706074-paid-chair-guys-using-recomend.html)|`2025-06-22 22:54:00`|`Call of Duty: Black Ops 6`|
 |[weapon box esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706073-weapon-box-esp.html)|`2025-06-22 22:43:00`|`Counter-Strike 2`|
 |[Peak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705321-peak.html)|`2025-06-22 22:23:00`|`Other Games`|
