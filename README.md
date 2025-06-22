@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CHAMS FREE FIRE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705787-chams-free-fire.html)|`2025-06-23 07:07:00`|`Other Games`|
+|[I am new to this and have questions&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/706142-am-questions.html)|`2025-06-23 07:05:00`|`Star Wars Battlefront 2`|
+|[What's Your Favorite PC Game?  Post Here&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/36192-whats-favorite-pc-game-post.html)|`2025-06-23 06:56:00`|`Off Topic`|
 |[Full Splitgate 2 Decryption &#43; Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/705956-splitgate-2-decryption-offsets.html)|`2025-06-23 06:42:00`|`Splitgate`|
 |[GoodDiePUBG &#45; PUBG 3&#46;8 Emulator Hack Source &#40;server/client&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/704753-gooddiepubg-pubg-3-8-emulator-hack-source-server-client.html)|`2025-06-23 06:38:00`|`PUBG Mobile`|
 |[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-06-23 06:36:00`|`Grand Theft Auto V`|
