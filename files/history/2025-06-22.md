@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[weapon box esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706073-weapon-box-esp.html)|`2025-06-22 22:43:00`|`Counter-Strike 2`|
 |[Peak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705321-peak.html)|`2025-06-22 22:23:00`|`Other Games`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-06-22 22:22:00`|`Other FPS Games`|
 |[Dayz pc dupe &#40;NOT PATCHED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/704228-dayz-pc-dupe-patched.html)|`2025-06-22 22:08:00`|`DayZ SA`|
