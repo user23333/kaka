@@ -35,6 +35,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[YimMenu Injection Fails with 0xC0000022 on Epic GTA5&#95;Enhanced&#46;exe"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/706035-yimmenu-injection-fails-0xc0000022-epic-gta5_enhanced-exe.html)|`2025-06-23 10:54:00`|`Grand Theft Auto V`|
+|[i got val 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705885-val-5-a.html)|`2025-06-23 10:51:00`|`Valorant`|
+|[GTA V Battleye Bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705960-gta-battleye-bypass.html)|`2025-06-23 10:50:00`|`Grand Theft Auto V`|
+|[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-06-23 10:42:00`|`Call of Duty: Black Ops 3`|
+|[Genshin Impact &#40; Unity &#41; IL2CPP Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/702285-genshin-impact-unity-il2cpp-dumper.html)|`2025-06-23 10:38:00`|`Programming for Beginners`|
+|[Genshin cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/706071-genshin-cheat.html)|`2025-06-23 10:35:00`|`Genshin Impact`|
+|[rip public genshin cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/705719-rip-public-genshin-cheats.html)|`2025-06-23 10:30:00`|`Genshin Impact`|
+|[Dma Firmware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704447-dma-firmware.html)|`2025-06-23 10:18:00`|`Anti-Cheat Bypass`|
 |[How to bypass Device Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/697578-bypass-device-ban.html)|`2025-06-23 09:19:00`|`Marvel Rivals`|
 |[HI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/706110-hi.html)|`2025-06-23 09:16:00`|`Introductions`|
 |[AmongUsCosmetics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/521567-amonguscosmetics.html)|`2025-06-23 09:15:00`|`Among Us`|
