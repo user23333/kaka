@@ -27,9 +27,19 @@
 |1|[ABravoHotelCharacterBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50176)|`2025-06-24 04:39:41`|
 |1|[CrystalOfAtlan CheatTable UPDATED  ByREALHELL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50183)|`2025-06-24 04:50:05`|
 |1|[SPT&#95;AKI&#95;BASIC&#95;EXTERNAL&#95;3&#46;11&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50181)|`2025-06-24 04:50:05`|
+|3|[Artanis RCS v1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50188)|`2025-06-24 05:11:20`|
+|1|[CrimeSimCheatMenu&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50184)|`2025-06-24 05:11:20`|
+|1|[pe&#95;reconstructor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50180)|`2025-06-24 05:11:20`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Plutonium Black Ops 2 &#124; Menu ESP & MORE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/466909-plutonium-black-ops-2-menu-esp.html)|`2025-06-24 05:08:00`|`Call of Duty: Black Ops 2`|
+|[Simple Crime Simulator Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706044-simple-crime-simulator-menu.html)|`2025-06-24 05:07:00`|`Other Games`|
+|[Clean Menu base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/699973-clean-menu-base.html)|`2025-06-24 05:06:00`|`C and C++`|
+|[Reconstruct PE headers from a dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/706009-reconstruct-pe-headers-dump.html)|`2025-06-24 05:05:00`|`General Programming and Reversing`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-06-24 05:04:00`|`Counter-Strike 2`|
+|[People vanishing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/704256-people-vanishing.html)|`2025-06-24 05:03:00`|`Rust`|
+|[loadd &#45; the world most ud injector ever](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/704273-loadd-world-ud-injector.html)|`2025-06-24 05:03:00`|`C and C++`|
 |[Crystal Of Atlan Updated Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/706028-crystal-atlan-updated-cheat-table.html)|`2025-06-24 04:46:00`|`Other MMORPG and Strategy`|
 |[Avoid E&#46;A&#46;C Detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706257-avoid-detections.html)|`2025-06-24 04:45:00`|`Anti-Cheat Bypass`|
 |[&#91; External &#93; SPT&#45;AKI CheatBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/626274-external-spt-aki-cheatbase.html)|`2025-06-24 04:44:00`|`Escape from Tarkov`|
