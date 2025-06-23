@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2025-06-23 15:39:00`|`Deadlock`|
 |[MONEY FRONT DLC AWARDS AND CAREER PROGRESS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/706182-money-front-dlc-awards-career-progress.html)|`2025-06-23 15:17:00`|`Grand Theft Auto V`|
 |[Wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/705588-wallhack.html)|`2025-06-23 14:55:00`|`Rainbow Six Siege`|
 |[Kernel DLL Injector does not work &#40;Manual Mapping &#43; Driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705745-kernel-dll-injector-manual-mapping-driver.html)|`2025-06-23 14:43:00`|`Other Games`|
