@@ -46,9 +46,15 @@
 |2|[Dumper Src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50159)|`2025-06-23 22:52:06`|
 |1|[Rematch SDK offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50172)|`2025-06-23 23:17:31`|
 |1|[rust dumped assets 18797287](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50171)|`2025-06-23 23:17:31`|
+|1|[DirectX error log 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50178)|`2025-06-23 23:37:04`|
+|1|[DirectX error log](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50177)|`2025-06-23 23:37:04`|
+|5|[DMAByDaylight&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50166)|`2025-06-23 23:37:04`|
+|1|[Bombardino Internal&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50165)|`2025-06-23 23:37:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bombardino Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/704529-bombardino-internal.html)|`2025-06-23 23:36:00`|`Marvel Rivals`|
+|[Undo hwid spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/705996-undo-hwid-spoofing.html)|`2025-06-23 23:18:00`|`Anti-Cheat Bypass`|
 |[Rematch Offsets SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705933-rematch-offsets-sdk.html)|`2025-06-23 23:13:00`|`Other Games`|
 |[For Honor &#45; Ported to Interception by Shunrai &#45; Script by florasSecret](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/498875-honor-ported-interception-shunrai-script-florassecret.html)|`2025-06-23 23:13:00`|`Other MMORPG and Strategy`|
 |[Auto Dump Prefab Ids &#40; Server &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/698071-auto-dump-prefab-ids-server.html)|`2025-06-23 23:11:00`|`Rust`|
