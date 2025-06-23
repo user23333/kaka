@@ -25,9 +25,15 @@
 |3|[guard anticheat module deobfuscated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50167)|`2025-06-24 00:14:00`|
 |8|[DMAByDaylight&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50166)|`2025-06-24 00:14:00`|
 |1|[ABravoHotelCharacterBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50176)|`2025-06-24 04:39:41`|
+|1|[CrystalOfAtlan CheatTable UPDATED  ByREALHELL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50183)|`2025-06-24 04:50:05`|
+|1|[SPT&#95;AKI&#95;BASIC&#95;EXTERNAL&#95;3&#46;11&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50181)|`2025-06-24 04:50:05`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Crystal Of Atlan Updated Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/706028-crystal-atlan-updated-cheat-table.html)|`2025-06-24 04:46:00`|`Other MMORPG and Strategy`|
+|[Avoid E&#46;A&#46;C Detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706257-avoid-detections.html)|`2025-06-24 04:45:00`|`Anti-Cheat Bypass`|
+|[&#91; External &#93; SPT&#45;AKI CheatBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/626274-external-spt-aki-cheatbase.html)|`2025-06-24 04:44:00`|`Escape from Tarkov`|
+|[Cs2 External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685266-cs2-external.html)|`2025-06-24 04:42:00`|`Counter-Strike 2`|
 |[&#91;New&#93; Super People Reversal, Structs, and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705622-super-people-reversal-structs-offsets.html)|`2025-06-24 04:39:00`|`Other FPS Games`|
 |[Permanent spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705936-permanent-spoofing.html)|`2025-06-24 04:33:00`|`Valorant`|
 |[is it normal that after arduino fw flash it only shows 1 com port](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706205-normal-arduino-fw-flash-1-com-port.html)|`2025-06-24 04:30:00`|`Valorant`|
