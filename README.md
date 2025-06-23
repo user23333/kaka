@@ -42,6 +42,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2025-06-23 20:24:00`|`Sea of Thieves`|
+|[is it normal that after arduino fw flash it only shows 1 com port](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706205-normal-arduino-fw-flash-1-com-port.html)|`2025-06-23 20:15:00`|`Valorant`|
+|[People vanishing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/704256-people-vanishing.html)|`2025-06-23 20:12:00`|`Rust`|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-06-23 20:10:00`|`Counter-Strike 2`|
 |[reWASD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/706201-rewasd.html)|`2025-06-23 19:52:00`|`Apex Legends`|
 |[GTA ONLINE ENHANCED ALL AWARDS STATS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701294-gta-online-enhanced-awards-stats.html)|`2025-06-23 19:45:00`|`Grand Theft Auto V`|
 |[Looking for New No Recoil Macro Method &#40;EAC Detected Logitech&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/704939-looking-recoil-macro-method-eac-detected-logitech.html)|`2025-06-23 19:41:00`|`Rust`|
