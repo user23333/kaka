@@ -53,6 +53,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Where to learn c&#35; and is it good for a beginner new to programming?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-/696092-learn-beginner-programming.html)|`2025-06-23 23:43:00`|`C#`|
 |[Bombardino Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/704529-bombardino-internal.html)|`2025-06-23 23:36:00`|`Marvel Rivals`|
 |[Undo hwid spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/705996-undo-hwid-spoofing.html)|`2025-06-23 23:18:00`|`Anti-Cheat Bypass`|
 |[Rematch Offsets SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705933-rematch-offsets-sdk.html)|`2025-06-23 23:13:00`|`Other Games`|
