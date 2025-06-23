@@ -16,6 +16,7 @@
 |9|[FACEIT Spying even when game is off&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/705379-faceit-spying-game.html)|`2025-06-23 12:00:19`|`anti-cheat-bypass`|
 |18|[Chrono Odyssey, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/705637-chrono-odyssey-structs-offsets.html)|`2025-06-23 17:41:14`|`other-mmorpg-and-strategy`|
 |10|[From Scratch External C&#43;&#43;&#40;custom gdi&#43; overlay&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705403-scratch-external-custom-gdi-overlay.html)|`2025-06-23 18:16:43`|`counter-strike-2-a`|
+|11|[All VAC system modules hooks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705633-vac-system-modules-hooks.html)|`2025-06-23 21:47:31`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -42,6 +43,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[device anomaly detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/706213-device-anomaly-detected.html)|`2025-06-23 21:42:00`|`Farlight 84`|
+|[Redmatch 2 internal cheat &#40;imperium&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/688217-redmatch-2-internal-cheat-imperium.html)|`2025-06-23 21:40:00`|`Other FPS Games`|
+|[SWBF2 ESP/Aimbot/Damage Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/580865-swbf2-esp-aimbot-damage-hack.html)|`2025-06-23 21:32:00`|`Star Wars Battlefront 2`|
+|[UwUHax &#45; Left 4 Dead 2 L4D2 Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/467348-uwuhax-left-4-dead-2-l4d2-multihack.html)|`2025-06-23 21:22:00`|`Other FPS Games`|
 |[Luna &#124; Free CS2 Cheat &#124; INTERNAL &#124; ESP, Aim, BHop, &#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/681945-luna-free-cs2-cheat-internal-esp-aim-bhop.html)|`2025-06-23 21:01:00`|`Counter-Strike 2 Releases`|
 |[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2025-06-23 20:24:00`|`Sea of Thieves`|
 |[is it normal that after arduino fw flash it only shows 1 com port](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706205-normal-arduino-fw-flash-1-com-port.html)|`2025-06-23 20:15:00`|`Valorant`|
