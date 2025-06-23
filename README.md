@@ -13,6 +13,7 @@
 |10|[VAC Modules Reversal 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705782-vac-modules-reversal-2025-a.html)|`2025-06-23 00:16:13`|`counter-strike-2-a`|
 |17|[&#91;New&#93; Super People Reversal, Structs, and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705622-super-people-reversal-structs-offsets.html)|`2025-06-23 00:39:58`|`other-fps-games`|
 |11|[FBC: Firebreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705440-fbc-firebreak.html)|`2025-06-23 04:12:38`|`other-fps-games`|
+|9|[FACEIT Spying even when game is off&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/705379-faceit-spying-game.html)|`2025-06-23 12:00:19`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-06-23 11:30:00`|`Overwatch`|
+|[pdfwkrnl exploit &#43; kernel function calling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703376-pdfwkrnl-exploit-kernel-function-calling.html)|`2025-06-23 11:25:00`|`Anti-Cheat Bypass`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-06-23 11:21:00`|`Grand Theft Auto V`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-06-23 11:20:00`|`Grand Theft Auto V`|
+|[Bloodstrike](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690058-bloodstrike.html)|`2025-06-23 11:12:00`|`Other FPS Games`|
 |[YimMenu Injection Fails with 0xC0000022 on Epic GTA5&#95;Enhanced&#46;exe"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/706035-yimmenu-injection-fails-0xc0000022-epic-gta5_enhanced-exe.html)|`2025-06-23 10:54:00`|`Grand Theft Auto V`|
 |[i got val 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705885-val-5-a.html)|`2025-06-23 10:51:00`|`Valorant`|
 |[GTA V Battleye Bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705960-gta-battleye-bypass.html)|`2025-06-23 10:50:00`|`Grand Theft Auto V`|
