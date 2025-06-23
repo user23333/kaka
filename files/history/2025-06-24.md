@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Glow v&#46;2 &#40;Reworked&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/694346-cs2-glow-2-reworked.html)|`2025-06-24 02:49:00`|`Counter-Strike 2 Releases`|
 |[I](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/701377-i.html)|`2025-06-24 02:46:00`|`Apex Legends`|
 |[Genshin İmpact Shika Cheat 5&#46;0&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/660051-genshin-mpact-shika-cheat-5-0-0-1-a.html)|`2025-06-24 02:39:00`|`Genshin Impact`|
 |[esp only drawing over downed players](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/706243-esp-drawing-players.html)|`2025-06-24 02:38:00`|`Apex Legends`|
