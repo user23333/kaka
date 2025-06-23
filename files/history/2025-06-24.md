@@ -30,9 +30,18 @@
 |3|[Artanis RCS v1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50188)|`2025-06-24 05:11:20`|
 |1|[CrimeSimCheatMenu&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50184)|`2025-06-24 05:11:20`|
 |1|[pe&#95;reconstructor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50180)|`2025-06-24 05:11:20`|
+|3|[NewTriggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50187)|`2025-06-24 05:29:09`|
+|3|[Helldivers 2 Undetected Features v1&#46;2&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50186)|`2025-06-24 05:29:09`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bloodstrike](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690058-bloodstrike.html)|`2025-06-24 05:27:00`|`Other FPS Games`|
+|[angle to pixels depending of fov](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/706263-angle-pixels-depending-fov.html)|`2025-06-24 05:26:00`|`General Programming and Reversing`|
+|[Polygon Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/582488-polygon-internal-cheat.html)|`2025-06-24 05:24:00`|`Other FPS Games`|
+|[any script or whatev to stop my pirated Arma 3's Battleye from blocking "steam&#95;api64"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/706262-script-whatev-stop-pirated-arma-3s-battleye-blocking-steam_api64.html)|`2025-06-24 05:22:00`|`ARMA 3`|
+|[GTA 5 Enhanced DMA Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701780-gta-5-enhanced-dma-menu.html)|`2025-06-24 05:19:00`|`Grand Theft Auto V`|
+|[Shell Code&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/706261-shell-code.html)|`2025-06-24 05:18:00`|`PUBG Mobile`|
+|[Helldivers 2 Undetected Features by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/704156-helldivers-2-undetected-features-igromanru.html)|`2025-06-24 05:17:00`|`HELLDIVERS 2`|
 |[Plutonium Black Ops 2 &#124; Menu ESP & MORE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/466909-plutonium-black-ops-2-menu-esp.html)|`2025-06-24 05:08:00`|`Call of Duty: Black Ops 2`|
 |[Simple Crime Simulator Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706044-simple-crime-simulator-menu.html)|`2025-06-24 05:07:00`|`Other Games`|
 |[Clean Menu base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/699973-clean-menu-base.html)|`2025-06-24 05:06:00`|`C and C++`|
