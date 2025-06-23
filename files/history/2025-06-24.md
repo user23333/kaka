@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fivem decryption tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/706200-fivem-decryption-tool.html)|`2025-06-24 03:21:00`|`Alternative Online Mods`|
+|[Panicore internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/658925-panicore-internal.html)|`2025-06-24 03:19:00`|`Other Games`|
+|[Absolute BEST Unban Method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703776-absolute-unban-method.html)|`2025-06-24 03:15:00`|`Apex Legends`|
+|[Rocket League &#45; Unlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/624955-rocket-league-unlock.html)|`2025-06-24 03:14:00`|`Other Games`|
 |[TarkovGUI &#124; PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/694944-tarkovgui-pve.html)|`2025-06-24 03:03:00`|`Escape from Tarkov`|
 |[CS2 Glow v&#46;2 &#40;Reworked&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/694346-cs2-glow-2-reworked.html)|`2025-06-24 02:49:00`|`Counter-Strike 2 Releases`|
 |[I](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/701377-i.html)|`2025-06-24 02:46:00`|`Apex Legends`|
