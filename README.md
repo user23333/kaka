@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-06-23 18:45:00`|`Other FPS Games`|
+|[Dayz pc dupe &#40;NOT PATCHED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/704228-dayz-pc-dupe-patched.html)|`2025-06-23 18:44:00`|`DayZ SA`|
 |[EC&#45;CS2 &#91;UM/KM/EFI/DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/604514-ec-cs2-um-km-efi-dma.html)|`2025-06-23 18:36:00`|`Counter-Strike 2 Releases`|
 |[I would like to hear your opinion about lagcomp esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706058-hear-opinion-lagcomp-esp.html)|`2025-06-23 18:32:00`|`Counter-Strike 2`|
 |[Anti&#45;Recoil Universal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/626683-anti-recoil-universal.html)|`2025-06-23 18:30:00`|`Rainbow Six Siege`|
