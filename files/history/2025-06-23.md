@@ -35,6 +35,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to bypass Device Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/697578-bypass-device-ban.html)|`2025-06-23 09:19:00`|`Marvel Rivals`|
+|[HI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/706110-hi.html)|`2025-06-23 09:16:00`|`Introductions`|
+|[AmongUsCosmetics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/521567-amonguscosmetics.html)|`2025-06-23 09:15:00`|`Among Us`|
+|[Nuxar1 Decryption dumper fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699123-nuxar1-decryption-dumper-fix.html)|`2025-06-23 09:12:00`|`Call of Duty: Black Ops 6`|
+|[BannleEye &#45; Banning arbitrary players using BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667333-bannleeye-banning-arbitrary-players-using.html)|`2025-06-23 09:10:00`|`Anti-Cheat Bypass`|
 |[Missing Motherboard Serial Numbers – Is This Normal or an Issue?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706145-missing-motherboard-serial-normal-issue.html)|`2025-06-23 07:29:00`|`Valorant`|
 |[CHAMS FREE FIRE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705787-chams-free-fire.html)|`2025-06-23 07:07:00`|`Other Games`|
 |[I am new to this and have questions&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/706142-am-questions.html)|`2025-06-23 07:05:00`|`Star Wars Battlefront 2`|
