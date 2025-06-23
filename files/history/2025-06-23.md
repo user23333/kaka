@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kernel DLL Injector does not work &#40;Manual Mapping &#43; Driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705745-kernel-dll-injector-manual-mapping-driver.html)|`2025-06-23 14:43:00`|`Other Games`|
+|[CS2 Enhanced Map Parser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693378-cs2-enhanced-map-parser.html)|`2025-06-23 14:31:00`|`Counter-Strike 2`|
+|[Contractors Showdown: Exfilzone Duping Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/701380-contractors-showdown-exfilzone-duping-methods.html)|`2025-06-23 14:30:00`|`Other FPS Games`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-06-23 14:19:00`|`ARMA 3`|
 |[League Kiting DMA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/701865-league-kiting-dma.html)|`2025-06-23 14:16:00`|`League of Legends`|
 |[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2025-06-23 14:16:00`|`Other FPS Games`|
 |[Achieved no delay on my external overlay giving up on transparency](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702567-achieved-delay-external-overlay-giving-transparency.html)|`2025-06-23 13:54:00`|`Counter-Strike 2`|
