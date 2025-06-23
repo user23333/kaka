@@ -35,9 +35,12 @@
 |1|[Supervive aimbot script &#43; AI training](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50154)|`2025-06-23 02:40:15`|
 |1|[BravoHotelClient&#45;Win64&#45;Shipping&#45;Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50149)|`2025-06-23 02:40:15`|
 |1|[MarvelSDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50158)|`2025-06-23 04:30:47`|
+|1|[RustMakcuscript](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50161)|`2025-06-23 19:30:00`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Makcu recoil script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/705777-rust-makcu-recoil-script.html)|`2025-06-23 19:28:00`|`Rust`|
+|[Fivem decryption tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/706200-fivem-decryption-tool.html)|`2025-06-23 19:20:00`|`Alternative Online Mods`|
 |[This thread is painfully dead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warhammer/706198-thread-painfully-dead.html)|`2025-06-23 19:15:00`|`Warhammer`|
 |[&#124; DeadLock Cheat &#124;&#124; Scripts &#124;&#124; Auto&#45;Updating &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/693609-deadlock-cheat-scripts-auto-updating.html)|`2025-06-23 19:10:00`|`Deadlock`|
 |[War Thunder DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/704215-war-thunder-dma.html)|`2025-06-23 19:10:00`|`Other MMORPG and Strategy`|
