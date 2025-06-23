@@ -24,9 +24,15 @@
 |5|[apex offset dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50168)|`2025-06-24 00:14:00`|
 |3|[guard anticheat module deobfuscated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50167)|`2025-06-24 00:14:00`|
 |8|[DMAByDaylight&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50166)|`2025-06-24 00:14:00`|
+|1|[ABravoHotelCharacterBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50176)|`2025-06-24 04:39:41`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;New&#93; Super People Reversal, Structs, and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705622-super-people-reversal-structs-offsets.html)|`2025-06-24 04:39:00`|`Other FPS Games`|
+|[Permanent spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705936-permanent-spoofing.html)|`2025-06-24 04:33:00`|`Valorant`|
+|[is it normal that after arduino fw flash it only shows 1 com port](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706205-normal-arduino-fw-flash-1-com-port.html)|`2025-06-24 04:30:00`|`Valorant`|
+|[Full Splitgate 2 Decryption &#43; Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/705956-splitgate-2-decryption-offsets.html)|`2025-06-24 04:27:00`|`Splitgate`|
+|[LittleCLI &#45; a simple command line interface](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/694057-littlecli-simple-command-line-interface.html)|`2025-06-24 04:25:00`|`General Programming and Reversing`|
 |[Get FiveM Build External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/706253-fivem-build-external.html)|`2025-06-24 04:23:00`|`Alternative Online Mods`|
 |[AFK Script for Plunder &#40;Read the Description&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/656179-afk-script-plunder-read-description.html)|`2025-06-24 04:18:00`|`Call of Duty: Modern Warfare III`|
 |[Project Bloodstrike PC Esp Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/619430-project-bloodstrike-pc-esp-aimbot.html)|`2025-06-24 04:13:00`|`Other FPS Games`|
