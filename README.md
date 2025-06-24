@@ -39,6 +39,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead By Daylight DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682901-dead-daylight-dma-esp.html)|`2025-06-24 12:02:00`|`Other FPS Games`|
+|[Universal Recoil &#40;like UMT program&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/617894-universal-recoil-umt-program.html)|`2025-06-24 11:51:00`|`Other FPS Games`|
+|[Stealthy IOCTL communication using ConDrv&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704238-stealthy-ioctl-communication-using-condrv-sys.html)|`2025-06-24 11:45:00`|`Anti-Cheat Bypass`|
 |[Memoriam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/563890-memoriam.html)|`2025-06-24 11:34:00`|`Garry's Mod`|
 |[MetalStorm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701459-metalstorm.html)|`2025-06-24 11:30:00`|`Other MMORPG and Strategy`|
 |[FragPunk Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/666506-fragpunk-reversal-structs-offsets.html)|`2025-06-24 11:24:00`|`Other FPS Games`|
