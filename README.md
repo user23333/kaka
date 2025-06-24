@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SEO64 fixed &#40;entities&#46;h&#41; 6/14/2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/704896-seo64-fixed-entities-6-14-2025-a.html)|`2025-06-25 00:48:00`|`Team Fortress 2`|
+|[Peak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706121-peak.html)|`2025-06-25 00:47:00`|`Other Games`|
 |[Flags read properly, but bhop breaks inputs &#40;Shift/Ctrl/Mouse1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695018-flags-read-properly-bhop-breaks-inputs-shift-ctrl-mouse1.html)|`2025-06-25 00:25:00`|`Counter-Strike 2`|
 |[Missing Motherboard Serial Numbers – Is This Normal or an Issue?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706145-missing-motherboard-serial-normal-issue.html)|`2025-06-25 00:18:00`|`Valorant`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-06-25 00:11:00`|`Phasmophobia`|
