@@ -30,6 +30,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SCP Secret Laboratory Entity List](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/706424-scp-secret-laboratory-entity-list.html)|`2025-06-25 06:31:00`|`Other FPS Games`|
+|[Hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/706380-hello.html)|`2025-06-25 06:30:00`|`Introductions`|
+|[New to UC – Ready to Learn and Explore&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/706378-uc-ready-learn-explore.html)|`2025-06-25 06:29:00`|`Introductions`|
+|[&#91;New&#93; Super People Reversal, Structs, and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705622-super-people-reversal-structs-offsets.html)|`2025-06-25 06:29:00`|`Other FPS Games`|
+|[&#91;Hello&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/706439-hello.html)|`2025-06-25 06:22:00`|`Introductions`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-06-25 06:19:00`|`Grand Theft Auto V`|
+|[Where to learn c&#35; and is it good for a beginner new to programming?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-/696092-learn-beginner-programming.html)|`2025-06-25 06:10:00`|`C#`|
 |[Now jitter is completely blocked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/706301-jitter-completely-blocked.html)|`2025-06-25 06:08:00`|`Apex Legends`|
 |[Updating Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/704517-updating-offsets.html)|`2025-06-25 06:00:00`|`Overwatch`|
 |[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-06-25 05:47:00`|`Call of Duty: Black Ops 3`|
