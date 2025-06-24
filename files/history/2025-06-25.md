@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any okay injector?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/706287-okay-injector.html)|`2025-06-25 03:33:00`|`Call of Duty: Black Ops 6`|
+|[DuneCore v3 &#45; CS2 Best hack so far &#40;for legit players&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691168-dunecore-v3-cs2-hack-legit-players.html)|`2025-06-25 03:30:00`|`Counter-Strike 2`|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-06-25 03:29:00`|`Other FPS Games`|
 |[LGhub scripts not working anymore??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706421-lghub-scripts-anymore.html)|`2025-06-25 03:23:00`|`Rainbow Six Siege`|
 |[Nexus External ESP V2 &#40;PyMeow&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/690093-nexus-external-esp-v2-pymeow.html)|`2025-06-25 03:23:00`|`Garry's Mod`|
 |[apex offset dumper &#91;windows&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705886-apex-offset-dumper-windows.html)|`2025-06-25 03:07:00`|`Apex Legends`|
