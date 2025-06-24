@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Undetectable among us Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/637492-undetectable-cheat.html)|`2025-06-24 19:38:00`|`Among Us`|
+|[game of thrones kingsroad hack & offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701827-game-thrones-kingsroad-hack-offsets.html)|`2025-06-24 19:33:00`|`Other MMORPG and Strategy`|
 |[Arduino Working Jitter aim bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703532-arduino-jitter-aim-bypass.html)|`2025-06-24 19:36:00`|`Apex Legends`|
 |[Firmware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/706370-firmware.html)|`2025-06-24 19:29:00`|`Introductions`|
 |[FOV Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/706369-fov-changer.html)|`2025-06-24 19:20:00`|`Rust`|
