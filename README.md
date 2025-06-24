@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need some pointers in the right direction to help me start off](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/706177-pointers-direction-help-start.html)|`2025-06-25 06:45:00`|`Rust`|
+|[Red text on steam/gameban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/706445-red-text-steam-gameban.html)|`2025-06-25 06:42:00`|`Star Wars Battlefront 2`|
+|[Saving modded cars permanently using YIM menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/706398-saving-modded-cars-permanently-using-yim-menu.html)|`2025-06-25 06:38:00`|`Grand Theft Auto V`|
 |[SCP Secret Laboratory Entity List](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/706424-scp-secret-laboratory-entity-list.html)|`2025-06-25 06:31:00`|`Other FPS Games`|
 |[Hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/706380-hello.html)|`2025-06-25 06:30:00`|`Introductions`|
 |[New to UC – Ready to Learn and Explore&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/706378-uc-ready-learn-explore.html)|`2025-06-25 06:29:00`|`Introductions`|
