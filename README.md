@@ -11,6 +11,7 @@
 |18|[Chrono Odyssey, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/705637-chrono-odyssey-structs-offsets.html)|`2025-06-25 00:18:30`|`other-mmorpg-and-strategy`|
 |11|[All VAC system modules hooks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705633-vac-system-modules-hooks.html)|`2025-06-25 00:18:30`|`counter-strike-2-a`|
 |10|[Peak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706121-peak.html)|`2025-06-25 00:18:30`|`other-games`|
+|10|[Any undetectable money making method for Yimv2 1&#46;71?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705689-undetectable-money-method-yimv2-1-71-a.html)|`2025-06-25 01:14:20`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[⋆˚✮🎧 ValoTrigger Pro Menu Update 🎧✮˚⋆](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702950-valotrigger-pro-menu-update.html)|`2025-06-25 01:07:00`|`Valorant`|
+|[Titanfall 2 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/688353-titanfall-2-internal-cheat.html)|`2025-06-25 01:05:00`|`Titanfall`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-06-25 01:03:00`|`Grand Theft Auto V`|
+|[pdfwkrnl exploit &#43; kernel function calling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703376-pdfwkrnl-exploit-kernel-function-calling.html)|`2025-06-25 01:01:00`|`Anti-Cheat Bypass`|
 |[SEO64 fixed &#40;entities&#46;h&#41; 6/14/2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/704896-seo64-fixed-entities-6-14-2025-a.html)|`2025-06-25 00:48:00`|`Team Fortress 2`|
 |[Peak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706121-peak.html)|`2025-06-25 00:47:00`|`Other Games`|
 |[Flags read properly, but bhop breaks inputs &#40;Shift/Ctrl/Mouse1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/695018-flags-read-properly-bhop-breaks-inputs-shift-ctrl-mouse1.html)|`2025-06-25 00:25:00`|`Counter-Strike 2`|
