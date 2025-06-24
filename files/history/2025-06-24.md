@@ -39,6 +39,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-06-24 13:30:00`|`Grand Theft Auto V`|
+|[Fastest screen capture method &#45; less than 1ms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705058-fastest-screen-capture-method-1ms.html)|`2025-06-24 13:24:00`|`Valorant`|
+|[Luna &#124; Free CS2 Cheat &#124; INTERNAL &#124; ESP, Aim, BHop, &#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/681945-luna-free-cs2-cheat-internal-esp-aim-bhop.html)|`2025-06-24 13:20:00`|`Counter-Strike 2 Releases`|
+|[DayZ 1&#46;26 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/668418-dayz-1-26-cheat.html)|`2025-06-24 13:12:00`|`DayZ SA`|
 |[DMA Radar/Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/697254-dma-radar-fuser.html)|`2025-06-24 13:05:00`|`DayZ SA`|
 |[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-06-24 13:04:00`|`Other Games`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-06-24 12:48:00`|`Counter-Strike 2`|
