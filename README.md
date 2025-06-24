@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[LGhub scripts not working anymore??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706421-lghub-scripts-anymore.html)|`2025-06-25 03:23:00`|`Rainbow Six Siege`|
+|[Nexus External ESP V2 &#40;PyMeow&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/690093-nexus-external-esp-v2-pymeow.html)|`2025-06-25 03:23:00`|`Garry's Mod`|
 |[apex offset dumper &#91;windows&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705886-apex-offset-dumper-windows.html)|`2025-06-25 03:07:00`|`Apex Legends`|
 |[Dead by Daylight DMA &#45; Based on IntelSDM &#45; Added features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/704981-dead-daylight-dma-based-intelsdm-added-features.html)|`2025-06-25 02:46:00`|`Other FPS Games`|
 |[tool to dump loaded km drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/705467-tool-dump-loaded-km-drivers.html)|`2025-06-25 02:32:00`|`Anti-Cheat Bypass`|
