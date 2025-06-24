@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[rp2040 board usb host help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701592-rp2040-board-usb-host-help.html)|`2025-06-25 06:51:00`|`Valorant`|
+|[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2025-06-25 06:48:00`|`Other Games`|
+|[DMA CUSTOM FIRMWARE GUIDE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/613135-dma-custom-firmware-guide.html)|`2025-06-25 06:48:00`|`Anti-Cheat Bypass`|
+|[Rust bloody bypass arduino or whatever](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/704883-rust-bloody-bypass-arduino-whatever.html)|`2025-06-25 06:47:00`|`Rust`|
+|[eft am i cooked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/706222-eft-am-cooked.html)|`2025-06-25 06:47:00`|`Escape from Tarkov`|
+|[SoT how to run 2 copies on 1 PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/700494-sot-run-2-copies-1-pc.html)|`2025-06-25 06:42:00`|`Sea of Thieves`|
 |[Need some pointers in the right direction to help me start off](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/706177-pointers-direction-help-start.html)|`2025-06-25 06:45:00`|`Rust`|
 |[Red text on steam/gameban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/706445-red-text-steam-gameban.html)|`2025-06-25 06:42:00`|`Star Wars Battlefront 2`|
 |[Saving modded cars permanently using YIM menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/706398-saving-modded-cars-permanently-using-yim-menu.html)|`2025-06-25 06:38:00`|`Grand Theft Auto V`|
