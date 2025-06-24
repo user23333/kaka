@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Best Practices for Implementing Integrity Checks in a Protector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/706436-practices-implementing-integrity-checks-protector.html)|`2025-06-25 05:19:00`|`General Programming and Reversing`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-06-25 04:59:00`|`Sea of Thieves`|
 |[C&#43;&#43; Lightweight Assembler Library](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/704958-lightweight-assembler-library.html)|`2025-06-25 04:58:00`|`C and C++`|
 |[arduino leo/HID COMM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706434-arduino-leo-hid-comm.html)|`2025-06-25 04:52:00`|`Valorant`|
