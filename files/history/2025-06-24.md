@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA Radar/Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/697254-dma-radar-fuser.html)|`2025-06-24 13:05:00`|`DayZ SA`|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-06-24 13:04:00`|`Other Games`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-06-24 12:48:00`|`Counter-Strike 2`|
 |[Treason's V3 AIO Aim Assist Edit &#40;BETA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670270-treasons-v3-aio-aim-assist-edit-beta.html)|`2025-06-24 12:35:00`|`Call of Duty: Black Ops 6`|
 |[How to reliably detect only the head for color&#45;based triggerbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706303-reliably-detect-head-color-based-triggerbot.html)|`2025-06-24 12:32:00`|`Valorant`|
