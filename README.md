@@ -39,6 +39,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-06-24 18:34:00`|`Grand Theft Auto V`|
+|[eft am i cooked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/706222-eft-am-cooked.html)|`2025-06-24 18:30:00`|`Escape from Tarkov`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-06-24 18:16:00`|`Other FPS Games`|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-06-24 18:15:00`|`HELLDIVERS 2`|
 |[Free Apex Coins/Cheap Coins Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/693249-free-apex-coins-cheap-coins-thread.html)|`2025-06-24 18:05:00`|`Apex Legends`|
 |[CSS x64 fully&#45;featured cheat &#43; sourcecode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/688352-css-x64-featured-cheat-sourcecode.html)|`2025-06-24 18:02:00`|`CounterStrike Source`|
 |[Working Skinchanger Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706316-skinchanger-source-code.html)|`2025-06-24 17:59:00`|`Counter-Strike 2`|
