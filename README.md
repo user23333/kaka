@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Loki SCP: Secret Laboratory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/704266-loki-scp-secret-laboratory.html)|`2025-06-26 04:30:00`|`Other Games`|
+|[Permanent spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705936-permanent-spoofing.html)|`2025-06-26 04:27:00`|`Valorant`|
+|[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2025-06-26 04:19:00`|`Garry's Mod`|
 |[Crash Spectator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/706581-crash-spectator.html)|`2025-06-26 04:06:00`|`Apex Legends`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-06-26 04:06:00`|`Valorant`|
 |[cs2 hvh cheat free working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706565-cs2-hvh-cheat-free.html)|`2025-06-26 03:47:00`|`Counter-Strike 2`|
