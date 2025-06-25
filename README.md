@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 External &#40;Powerful&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703995-cs2-external-powerful.html)|`2025-06-25 17:54:00`|`Counter-Strike 2`|
 |[Arduino mouse stops working after triggering aimbot too many times](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706510-arduino-mouse-stops-triggering-aimbot-times.html)|`2025-06-25 17:46:00`|`Valorant`|
 |[static reversal analysis obfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/706492-static-reversal-analysis-obfuscation.html)|`2025-06-25 17:30:00`|`General Programming and Reversing`|
 |[Fastest screen capture method &#45; less than 1ms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705058-fastest-screen-capture-method-1ms.html)|`2025-06-25 17:27:00`|`Valorant`|
