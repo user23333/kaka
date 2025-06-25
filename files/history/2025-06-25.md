@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ImGui&#45;Drawn ESP Boxes Vanish In&#45;Game, But Menu Works Fine – Any Fixes?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706185-imgui-drawn-esp-boxes-vanish-game-menu-fine-fixes.html)|`2025-06-25 23:52:00`|`Counter-Strike 2`|
+|[Esp not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706379-esp.html)|`2025-06-25 23:51:00`|`Counter-Strike 2`|
 |[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-06-25 23:37:00`|`HELLDIVERS 2`|
 |[Who has the latest cheat&#45;engine&#45;table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/706548-cheat-engine-table.html)|`2025-06-25 23:31:00`|`HELLDIVERS 2`|
 |[Looking for New No Recoil Macro Method &#40;EAC Detected Logitech&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/704939-looking-recoil-macro-method-eac-detected-logitech.html)|`2025-06-25 23:20:00`|`Rust`|
