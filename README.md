@@ -14,6 +14,7 @@
 |10|[Any undetectable money making method for Yimv2 1&#46;71?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705689-undetectable-money-method-yimv2-1-71-a.html)|`2025-06-25 01:14:20`|`grand-theft-auto-v`|
 |12|[Can I get banned for unlocking Overflod Suzume using GTA&#43; Unlock via Yimv2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705642-banned-unlocking-overflod-suzume-using-gta-unlock-via-yimv2.html)|`2025-06-25 01:34:23`|`grand-theft-auto-v`|
 |11|[tool to dump loaded km drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/705467-tool-dump-loaded-km-drivers.html)|`2025-06-25 10:30:14`|`anti-cheat-bypass`|
+|16|[Simple Crime Simulator Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706044-simple-crime-simulator-menu.html)|`2025-06-25 17:40:51`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -38,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[static reversal analysis obfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/706492-static-reversal-analysis-obfuscation.html)|`2025-06-25 17:30:00`|`General Programming and Reversing`|
+|[Fastest screen capture method &#45; less than 1ms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705058-fastest-screen-capture-method-1ms.html)|`2025-06-25 17:27:00`|`Valorant`|
 |[Rocket League &#45; Unlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/624955-rocket-league-unlock.html)|`2025-06-25 17:19:00`|`Other Games`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-06-25 17:13:00`|`Other MMORPG and Strategy`|
 |[Pointer swap compatible with CFG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706490-pointer-swap-compatible-cfg.html)|`2025-06-25 17:01:00`|`Anti-Cheat Bypass`|
