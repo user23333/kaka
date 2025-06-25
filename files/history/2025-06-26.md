@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Creating a movement fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/700893-creating-movement-fix.html)|`2025-06-26 01:45:00`|`Minecraft`|
+|[League Kiting DMA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/701865-league-kiting-dma.html)|`2025-06-26 01:44:00`|`League of Legends`|
+|[arduino leo c&#43;&#43; via hid reports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705864-arduino-leo-via-hid-reports.html)|`2025-06-26 01:43:00`|`Valorant`|
+|[Moving items in inventory &#40;jni&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/706284-moving-items-inventory-jni.html)|`2025-06-26 01:42:00`|`Minecraft`|
+|[Dead Frontier 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/458678-dead-frontier-2-a.html)|`2025-06-26 01:36:00`|`Other FPS Games`|
+|[Private Server for Hounds: The Last Hope](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/704966-private-server-hounds-hope.html)|`2025-06-26 01:35:00`|`Other FPS Games`|
 |[Free Apex Coins/Cheap Coins Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/693249-free-apex-coins-cheap-coins-thread.html)|`2025-06-26 01:14:00`|`Apex Legends`|
 |[Working Skinchanger Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706316-skinchanger-source-code.html)|`2025-06-26 01:14:00`|`Counter-Strike 2`|
 |[The Division 1 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/516112-division-1-internal.html)|`2025-06-26 01:11:00`|`Tom Clancy's The Division`|
