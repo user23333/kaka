@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2025-06-26 04:53:00`|`Deadlock`|
+|[Rocket League Lag Switch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706585-rocket-league-lag-switch.html)|`2025-06-26 04:50:00`|`Other Games`|
 |[What are the offsets needed for this and where can I even find offsets at all?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/694199-offsets-offsets.html)|`2025-06-26 04:46:00`|`Deadlock`|
 |[Aircraft Carrier battle and Casino Work to a specific job, anyway to do this?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/706584-aircraft-carrier-battle-casino-specific-job-anyway.html)|`2025-06-26 04:40:00`|`Grand Theft Auto V`|
 |[runtime patchguard disabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706184-runtime-patchguard-disabler.html)|`2025-06-26 04:39:00`|`Anti-Cheat Bypass`|
