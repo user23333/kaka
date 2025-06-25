@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hardware Scripts &#40;ESP32, Arduinos&#41; detectable by EAC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/706554-hardware-scripts-esp32-arduinos-detectable-eac.html)|`2025-06-26 00:55:00`|`Rust`|
+|[Peak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706121-peak.html)|`2025-06-26 00:48:00`|`Other Games`|
+|[Anyone Tried a VALORANT Triggerbot That Only Fires When Standing Still?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706469-tried-valorant-triggerbot-fires-standing.html)|`2025-06-26 00:48:00`|`Valorant`|
 |[DMA &#45; AMD 550 &#45; Firmware detection BIOS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706478-dma-amd-550-firmware-detection-bios.html)|`2025-06-26 00:30:00`|`Anti-Cheat Bypass`|
 |[DescendantInternal for The First Descendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/658547-descendantinternal-descendant.html)|`2025-06-26 00:29:00`|`Other FPS Games`|
 |[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-06-26 00:28:00`|`Other FPS Games`|
