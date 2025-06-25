@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ValHook External &#124;&#124; 30&#43; Scripts &#124;&#124; Aim&#43;ESP &#124;&#124; Custom Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/706519-valhook-external-30-scripts-aim-esp-custom-radar.html)|`2025-06-25 18:56:00`|`Deadlock`|
+|[Questions about bypassing vac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706518-questions-bypassing-vac.html)|`2025-06-25 18:47:00`|`Counter-Strike 2`|
 |[Rematch Offsets SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705933-rematch-offsets-sdk.html)|`2025-06-25 18:50:00`|`Other Games`|
 |[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-06-25 18:42:00`|`Grand Theft Auto V`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-06-25 18:39:00`|`Other FPS Games`|
