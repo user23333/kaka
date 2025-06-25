@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Shell Code&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/706261-shell-code.html)|`2025-06-25 22:51:00`|`PUBG Mobile`|
+|[Esp tweaking out](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/706539-esp-tweaking.html)|`2025-06-25 22:50:00`|`Rust`|
 |[Anticheat Blocker Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/706030-anticheat-blocker-source.html)|`2025-06-25 22:22:00`|`Call of Duty: Black Ops 6`|
 |[YOLO V5 AI Aim Assit Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/696351-yolo-v5-ai-aim-assit-bot.html)|`2025-06-25 22:18:00`|`Apex Legends`|
 |[Fix "The client failed the anti&#45;cheat backend check"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703335-fix-client-failed-anti-cheat-backend-check.html)|`2025-06-25 22:06:00`|`Apex Legends`|
