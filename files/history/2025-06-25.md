@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Smeltra v1&#46;0 &#45; External CS2 Cheat with Glow ESP & Triggerbot &#40;Rust&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706543-smeltra-v1-0-external-cs2-cheat-glow-esp-triggerbot-rust.html)|`2025-06-25 23:05:00`|`Counter-Strike 2`|
 |[HWID BAN What component do I need to replace?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/706186-hwid-ban-component-replace.html)|`2025-06-25 22:55:00`|`Apex Legends`|
 |[War Thunder DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/704215-war-thunder-dma.html)|`2025-06-25 22:52:00`|`Other MMORPG and Strategy`|
 |[Shell Code&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/706261-shell-code.html)|`2025-06-25 22:51:00`|`PUBG Mobile`|
