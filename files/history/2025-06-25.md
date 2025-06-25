@@ -39,6 +39,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BetterAimAssist: Valorant aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682003-betteraimassist-valorant-aim-assist.html)|`2025-06-25 18:06:00`|`Valorant`|
+|[Battlefield 2042 &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/467604-battlefield-2042-reversal-structs-offsets.html)|`2025-06-25 18:03:00`|`Battlefield 2042`|
+|[Is Mass Lock safe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/706476-mass-lock-safe.html)|`2025-06-25 17:59:00`|`Elite: Dangerous`|
+|[Teensy 4&#46;1 &#43; USB Host &#43; Ethernet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/706511-teensy-4-1-usb-host-ethernet.html)|`2025-06-25 17:49:00`|`Introductions`|
 |[CS2 External &#40;Powerful&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703995-cs2-external-powerful.html)|`2025-06-25 17:54:00`|`Counter-Strike 2`|
 |[Arduino mouse stops working after triggering aimbot too many times](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706510-arduino-mouse-stops-triggering-aimbot-times.html)|`2025-06-25 17:46:00`|`Valorant`|
 |[static reversal analysis obfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/706492-static-reversal-analysis-obfuscation.html)|`2025-06-25 17:30:00`|`General Programming and Reversing`|
