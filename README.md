@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-06-26 07:04:00`|`PUBG Releases`|
 |[lone&#45;dma eft&#45;dma&#45;radar built w/ wpf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/704132-lone-dma-eft-dma-radar-built-wpf.html)|`2025-06-26 06:57:00`|`Escape from Tarkov`|
 |[YimMenu Injection Fails with 0xC0000022 on Epic GTA5&#95;Enhanced&#46;exe"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/706035-yimmenu-injection-fails-0xc0000022-epic-gta5_enhanced-exe.html)|`2025-06-26 06:47:00`|`Grand Theft Auto V`|
 |[Warden's Free Ultimate Gamer Rust DMA Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/702331-wardens-free-ultimate-gamer-rust-dma-cheat.html)|`2025-06-26 06:41:00`|`Rust`|
