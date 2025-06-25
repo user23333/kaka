@@ -39,6 +39,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Enhanced Map Parser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693378-cs2-enhanced-map-parser.html)|`2025-06-25 19:12:00`|`Counter-Strike 2`|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-06-25 19:06:00`|`HELLDIVERS 2`|
+|[Smash and Grab  IDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/706523-smash-grab-ids.html)|`2025-06-25 19:04:00`|`Payday 3`|
+|[MONEY FRONT DLC AWARDS AND CAREER PROGRESS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/706182-money-front-dlc-awards-career-progress.html)|`2025-06-25 19:02:00`|`Grand Theft Auto V`|
+|[Rust entity list and pos&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/706521-rust-entity-list-pos.html)|`2025-06-25 18:58:00`|`Rust`|
 |[ValHook External &#124;&#124; 30&#43; Scripts &#124;&#124; Aim&#43;ESP &#124;&#124; Custom Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/706519-valhook-external-30-scripts-aim-esp-custom-radar.html)|`2025-06-25 18:56:00`|`Deadlock`|
 |[Questions about bypassing vac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706518-questions-bypassing-vac.html)|`2025-06-25 18:47:00`|`Counter-Strike 2`|
 |[Rematch Offsets SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705933-rematch-offsets-sdk.html)|`2025-06-25 18:50:00`|`Other Games`|
