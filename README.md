@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rocket League &#45; Unlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/624955-rocket-league-unlock.html)|`2025-06-25 17:19:00`|`Other Games`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-06-25 17:13:00`|`Other MMORPG and Strategy`|
+|[Pointer swap compatible with CFG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706490-pointer-swap-compatible-cfg.html)|`2025-06-25 17:01:00`|`Anti-Cheat Bypass`|
 |[FOV Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/706369-fov-changer.html)|`2025-06-25 16:40:00`|`Rust`|
 |[Pipsi&#45;HI3 &#91; Honkai Impact 3rd Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/631036-pipsi-hi3-honkai-impact-3rd-cheat.html)|`2025-06-25 16:18:00`|`Other MMORPG and Strategy`|
 |[LUA adresses fivem b3258](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/706192-lua-adresses-fivem-b3258.html)|`2025-06-25 15:17:00`|`Alternative Online Mods`|
