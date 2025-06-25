@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fix "The client failed the anti&#45;cheat backend check"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703335-fix-client-failed-anti-cheat-backend-check.html)|`2025-06-25 22:06:00`|`Apex Legends`|
+|[Looking for Solutions: Always Getting ‘Account Under Restriction’ Warning?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706537-looking-solutions-getting-account-restriction-warning.html)|`2025-06-25 22:06:00`|`Valorant`|
 |[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2025-06-25 21:52:00`|`Garry's Mod`|
 |[Gmod Metatables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/706423-gmod-metatables.html)|`2025-06-25 21:49:00`|`Garry's Mod`|
 |[RU Warface external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/681338-ru-warface-external-cheat.html)|`2025-06-25 21:30:00`|`Warface`|
