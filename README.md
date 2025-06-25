@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RU Warface external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/681338-ru-warface-external-cheat.html)|`2025-06-25 21:30:00`|`Warface`|
+|[Growtopia proxy, but in C&#35;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706536-growtopia-proxy.html)|`2025-06-25 21:28:00`|`Other Games`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-06-25 21:10:00`|`Overwatch`|
 |[Has the modification of the 100&#45;round magazine become invalid?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/705732-modification-100-round-magazine-invalid.html)|`2025-06-25 21:07:00`|`Payday 3`|
 |[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/696538-vigor-internal-cheat.html)|`2025-06-25 21:07:00`|`Other FPS Games`|
