@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-06-25 20:22:00`|`Rainbow Six Siege`|
+|[German Documentary about Cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/706530-german-documentary-cheating.html)|`2025-06-25 20:12:00`|`Off Topic`|
 |[How can Rocket League Bots work Online?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705894-rocket-league-bots-online.html)|`2025-06-25 19:46:00`|`Other Games`|
 |[How do I stop my bots from getting banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/706527-stop-bots-getting-banned.html)|`2025-06-25 19:44:00`|`Call of Duty: Black Ops 6`|
 |[Problem with drawing skeleton](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706059-drawing-skeleton.html)|`2025-06-25 19:38:00`|`Counter-Strike 2`|
