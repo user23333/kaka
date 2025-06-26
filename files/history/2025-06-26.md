@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[i got val 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705885-val-5-a.html)|`2025-06-26 14:26:00`|`Valorant`|
+|[Any okay injector?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/706287-okay-injector.html)|`2025-06-26 14:26:00`|`Call of Duty: Black Ops 6`|
+|[DMA Radar/Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/697254-dma-radar-fuser.html)|`2025-06-26 14:21:00`|`DayZ SA`|
+|[FiveM Vehicle speed modification?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/706640-fivem-vehicle-speed-modification.html)|`2025-06-26 14:18:00`|`Alternative Online Mods`|
+|[Red text on steam/gameban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/706445-red-text-steam-gameban.html)|`2025-06-26 14:10:00`|`Star Wars Battlefront 2`|
+|[just latest offsets anyone ???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/704239-offsets.html)|`2025-06-26 14:01:00`|`Battlefield V`|
 |[CS2 Enhanced Map Parser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693378-cs2-enhanced-map-parser.html)|`2025-06-26 13:50:00`|`Counter-Strike 2`|
 |[MpFilter&#46;sys &#40;KM Traces&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/706635-mpfilter-sys-km-traces.html)|`2025-06-26 13:24:00`|`General Programming and Reversing`|
 |[RustRecoilMacro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706634-rustrecoilmacro.html)|`2025-06-26 13:21:00`|`Rainbow Six Siege`|
