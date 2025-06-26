@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anti&#45;Smoke Steam Version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/705460-anti-smoke-steam-version.html)|`2025-06-27 04:35:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[How to reliably detect only the head for color&#45;based triggerbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706303-reliably-detect-head-color-based-triggerbot.html)|`2025-06-27 04:32:00`|`Valorant`|
+|[Arduino ban wave 6/25/2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706580-arduino-ban-wave-6-25-2025-a.html)|`2025-06-27 04:27:00`|`Valorant`|
+|[CrossFirePH Bypass Cheat engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/706703-crossfireph-bypass-cheat-engine.html)|`2025-06-27 04:20:00`|`CrossFire`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-06-27 04:11:00`|`Other FPS Games`|
 |[Clean Menu base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/699973-clean-menu-base.html)|`2025-06-27 04:10:00`|`C and C++`|
 |[external BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/702640-external-bo6.html)|`2025-06-27 04:03:00`|`Call of Duty: Black Ops 6`|
