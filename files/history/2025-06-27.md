@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ESP external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/704397-esp-external.html)|`2025-06-27 03:22:00`|`Garry's Mod`|
+|[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-06-27 03:15:00`|`Marvel Rivals`|
 |[⋆˚✮🎧 ValoTrigger Pro Menu Update 🎧✮˚⋆](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702950-valotrigger-pro-menu-update.html)|`2025-06-27 03:02:00`|`Valorant`|
 |[Smeltra v1&#46;0 &#45; External CS2 Cheat with Glow ESP & Triggerbot &#40;Rust&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706543-smeltra-v1-0-external-cs2-cheat-glow-esp-triggerbot-rust.html)|`2025-06-27 03:02:00`|`Counter-Strike 2`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-06-27 02:59:00`|`Grand Theft Auto V`|
