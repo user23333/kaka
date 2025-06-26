@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[V Rising &#45; Invaders of Oakveil Community Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/702226-rising-invaders-oakveil-community-cheat.html)|`2025-06-26 09:05:00`|`Other MMORPG and Strategy`|
+|[twisted YimMenuV2 with lsc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701342-twisted-yimmenuv2-lsc.html)|`2025-06-26 09:04:00`|`Grand Theft Auto V`|
+|[Anti&#45;Smoke Steam Version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/705460-anti-smoke-steam-version.html)|`2025-06-26 09:02:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Auto Update External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/614771-auto-update-external.html)|`2025-06-26 08:44:00`|`Overwatch`|
+|[theHunter: Call of the Wild Internal Radar, ESP, & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644365-thehunter-call-wild-internal-radar-esp.html)|`2025-06-26 08:43:00`|`Other FPS Games`|
 |[pdfwkrnl exploit &#43; kernel function calling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703376-pdfwkrnl-exploit-kernel-function-calling.html)|`2025-06-26 07:49:00`|`Anti-Cheat Bypass`|
 |[update of sig](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706602-update-sig.html)|`2025-06-26 07:48:00`|`Counter-Strike 2`|
 |[Titanfall 2 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/688353-titanfall-2-internal-cheat.html)|`2025-06-26 07:41:00`|`Titanfall`|
