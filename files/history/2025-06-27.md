@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-06-27 07:02:00`|`Other FPS Games`|
+|[Item Duping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/703110-item-duping.html)|`2025-06-27 06:20:00`|`Rust`|
+|[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2025-06-27 06:18:00`|`Garry's Mod`|
 |[Questions about bypassing vac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706518-questions-bypassing-vac.html)|`2025-06-27 06:48:00`|`Counter-Strike 2`|
 |[Best driver mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/705178-driver-mapper.html)|`2025-06-27 06:14:00`|`Anti-Cheat Bypass`|
 |[Fastest method to capture screen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/422635-fastest-method-capture-screen.html)|`2025-06-27 06:08:00`|`General Programming and Reversing`|
