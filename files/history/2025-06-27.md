@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Protobufs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/696931-cs2-protobufs.html)|`2025-06-27 04:59:00`|`Counter-Strike 2`|
+|[PUBG ESP SIMPLE CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/702364-pubg-esp-simple-cheat.html)|`2025-06-27 04:56:00`|`Playerunknown's Battlegrounds`|
+|[Internal Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706710-internal-aimbot.html)|`2025-06-27 04:56:00`|`Counter-Strike 2`|
 |[Serializing protobuf CSVCMsg&#95;UserMessage to CSVCMsg&#95;UserMessage&#95;t for SendNetMessage?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705624-serializing-protobuf-csvcmsg_usermessage-csvcmsg_usermessage_t-sendnetmessage.html)|`2025-06-27 04:46:00`|`Counter-Strike 2`|
 |[Cheat testing and anticheat reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706606-cheat-testing-anticheat-reversal.html)|`2025-06-27 04:44:00`|`Anti-Cheat Bypass`|
 |[Is this silent aim dtc or not?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706706-silent-aim-dtc.html)|`2025-06-27 04:41:00`|`Counter-Strike 2`|
