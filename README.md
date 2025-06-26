@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2025-06-27 02:05:00`|`Apex Legends`|
+|[Python 2025 upper&#45; lower code searching](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705236-python-2025-upper-lower-code-searching.html)|`2025-06-27 02:04:00`|`Valorant`|
+|[GTA ONLINE ENHANCED ALL AWARDS STATS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701294-gta-online-enhanced-awards-stats.html)|`2025-06-27 01:58:00`|`Grand Theft Auto V`|
+|[Any okay injector?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/706287-okay-injector.html)|`2025-06-27 01:57:00`|`Call of Duty: Black Ops 6`|
+|[How to remove main screen ads ClientMod v34 ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/704974-remove-main-screen-ads-clientmod-v34.html)|`2025-06-27 01:56:00`|`CounterStrike Source`|
 |[Supervive script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/705565-supervive-script.html)|`2025-06-27 01:49:00`|`Other MMORPG and Strategy`|
 |[30 CS2 Skybox Materials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706403-30-cs2-skybox-materials.html)|`2025-06-27 01:36:00`|`Counter-Strike 2`|
 |[FamilyMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/631659-familymenu.html)|`2025-06-27 01:34:00`|`Red Dead Redemption 2`|
