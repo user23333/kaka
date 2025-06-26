@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bo6&#92;WZ cleaner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/705014-bo6-wz-cleaner.html)|`2025-06-27 03:48:00`|`Call of Duty: Black Ops 6`|
 |[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/696538-vigor-internal-cheat.html)|`2025-06-27 03:36:00`|`Other FPS Games`|
 |[FragPunk Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/666506-fragpunk-reversal-structs-offsets.html)|`2025-06-27 03:33:00`|`Other FPS Games`|
 |[FiveM Vehicle speed modification?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/706640-fivem-vehicle-speed-modification.html)|`2025-06-27 03:30:00`|`Alternative Online Mods`|
