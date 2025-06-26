@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Enhanced Map Parser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693378-cs2-enhanced-map-parser.html)|`2025-06-26 13:50:00`|`Counter-Strike 2`|
 |[MpFilter&#46;sys &#40;KM Traces&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/706635-mpfilter-sys-km-traces.html)|`2025-06-26 13:24:00`|`General Programming and Reversing`|
 |[RustRecoilMacro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706634-rustrecoilmacro.html)|`2025-06-26 13:21:00`|`Rainbow Six Siege`|
 |[Roblox executer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705413-roblox-executer.html)|`2025-06-26 12:26:00`|`Other Games`|
