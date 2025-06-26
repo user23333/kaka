@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Serializing protobuf CSVCMsg&#95;UserMessage to CSVCMsg&#95;UserMessage&#95;t for SendNetMessage?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705624-serializing-protobuf-csvcmsg_usermessage-csvcmsg_usermessage_t-sendnetmessage.html)|`2025-06-27 04:46:00`|`Counter-Strike 2`|
+|[Cheat testing and anticheat reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706606-cheat-testing-anticheat-reversal.html)|`2025-06-27 04:44:00`|`Anti-Cheat Bypass`|
+|[Is this silent aim dtc or not?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706706-silent-aim-dtc.html)|`2025-06-27 04:41:00`|`Counter-Strike 2`|
 |[Anti&#45;Smoke Steam Version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/705460-anti-smoke-steam-version.html)|`2025-06-27 04:35:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[How to reliably detect only the head for color&#45;based triggerbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706303-reliably-detect-head-color-based-triggerbot.html)|`2025-06-27 04:32:00`|`Valorant`|
 |[Arduino ban wave 6/25/2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706580-arduino-ban-wave-6-25-2025-a.html)|`2025-06-27 04:27:00`|`Valorant`|
