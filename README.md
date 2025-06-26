@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Obtaining team names for an external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/706647-obtaining-team-names-external.html)|`2025-06-26 16:27:00`|`Garry's Mod`|
 |[Distance ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/705877-distance-esp.html)|`2025-06-26 16:00:00`|`All Points Bulletin`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-06-26 15:50:00`|`Other FPS Games`|
 |[ROP&#45;BF3&#45;Minimap&#45;Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-3-a/351012-rop-bf3-minimap-cheat.html)|`2025-06-26 15:28:00`|`Battlefield 3`|
