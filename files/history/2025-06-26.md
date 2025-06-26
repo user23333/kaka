@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hunters Inc&#46; Demo – Steam Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/704853-hunters-inc-demo-steam-trainer.html)|`2025-06-26 19:48:00`|`Other FPS Games`|
 |[how does networking in CA work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/702932-networking-ca.html)|`2025-06-26 19:38:00`|`Combat Arms`|
 |[Play Together/Rank Boosting Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/353364-play-rank-boosting-thread.html)|`2025-06-26 19:35:00`|`Apex Legends`|
 |[Dumping offsets  in the Browser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705774-dumping-offsets-browser.html)|`2025-06-26 19:31:00`|`Counter-Strike 2`|
