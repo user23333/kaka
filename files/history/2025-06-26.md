@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Roblox executer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705413-roblox-executer.html)|`2025-06-26 12:26:00`|`Other Games`|
+|[Valorant triggerbots are now detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706141-valorant-triggerbots-detected.html)|`2025-06-26 12:12:00`|`Valorant`|
 |[Ricochet bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706629-ricochet-bans.html)|`2025-06-26 11:36:00`|`Anti-Cheat Bypass`|
 |[Get FiveM Build External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/706253-fivem-build-external.html)|`2025-06-26 11:03:00`|`Alternative Online Mods`|
 |[how can i spoof fivem token permamently](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/706396-spoof-fivem-token-permamently.html)|`2025-06-26 11:02:00`|`Alternative Online Mods`|
