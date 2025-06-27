@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chrono Odyssey, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/705637-chrono-odyssey-structs-offsets.html)|`2025-06-27 22:50:00`|`Other MMORPG and Strategy`|
+|[GoodDiePUBG &#45; PUBG 3&#46;8 Emulator Hack Source &#40;server/client&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/704753-gooddiepubg-pubg-3-8-emulator-hack-source-server-client.html)|`2025-06-27 22:48:00`|`PUBG Mobile`|
 |[esp for HorizonMW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/703983-esp-horizonmw.html)|`2025-06-27 22:21:00`|`Call of Duty 4: Modern Warfare`|
 |[HMW Perfect Autowall / NoSpread / Esp / Hitbox testing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/704185-hmw-perfect-autowall-nospread-esp-hitbox-testing.html)|`2025-06-27 22:18:00`|`Call of Duty 4: Modern Warfare`|
 |[Rustlang External Pointer Chain &#40;Offset Chain&#41; Reader Function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/706834-rustlang-external-pointer-chain-offset-chain-reader-function.html)|`2025-06-27 21:53:00`|`General Programming and Reversing`|
