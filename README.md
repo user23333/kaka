@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Warden's Free Ultimate Gamer Rust DMA Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/702331-wardens-free-ultimate-gamer-rust-dma-cheat.html)|`2025-06-27 14:53:00`|`Rust`|
 |[Internal Freecam for ALT:V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/706624-internal-freecam-alt.html)|`2025-06-27 13:32:00`|`Alternative Online Mods`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2025-06-27 13:27:00`|`Other FPS Games`|
 |[Struggling to Compile My DMA Cheats &#45; Need Help with Errors in Visual Studio](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/706798-struggling-compile-dma-cheats-help-errors-visual-studio.html)|`2025-06-27 13:10:00`|`General Programming and Reversing`|
