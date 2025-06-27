@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Definitive Ultimate Cheatpack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/633084-definitive-ultimate-cheatpack.html)|`2025-06-28 05:06:00`|`Star Wars Battlefront 2`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-06-28 04:09:00`|`Call of Duty: Black Ops 6`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-06-28 04:05:00`|`Valorant`|
 |[MONEY FRONT DLC AWARDS AND CAREER PROGRESS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/706182-money-front-dlc-awards-career-progress.html)|`2025-06-28 03:34:00`|`Grand Theft Auto V`|
