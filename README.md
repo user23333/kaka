@@ -12,6 +12,7 @@
 |9|[Anticheat Blocker Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/706030-anticheat-blocker-source.html)|`2025-06-27 00:14:48`|`call-of-duty-black-ops-6-a`|
 |14|[Crystal Of Atlan Updated Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/706028-crystal-atlan-updated-cheat-table.html)|`2025-06-27 00:14:48`|`other-mmorpg-and-strategy`|
 |8|[apex offset dumper &#91;windows&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705886-apex-offset-dumper-windows.html)|`2025-06-27 02:44:25`|`apex-legends`|
+|22|[Arduino ban wave 6/25/2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706580-arduino-ban-wave-6-25-2025-a.html)|`2025-06-27 22:33:48`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[esp for HorizonMW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/703983-esp-horizonmw.html)|`2025-06-27 22:21:00`|`Call of Duty 4: Modern Warfare`|
+|[HMW Perfect Autowall / NoSpread / Esp / Hitbox testing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/704185-hmw-perfect-autowall-nospread-esp-hitbox-testing.html)|`2025-06-27 22:18:00`|`Call of Duty 4: Modern Warfare`|
 |[Rustlang External Pointer Chain &#40;Offset Chain&#41; Reader Function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/706834-rustlang-external-pointer-chain-offset-chain-reader-function.html)|`2025-06-27 21:53:00`|`General Programming and Reversing`|
 |[Zero Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703075-zero-triggerbot.html)|`2025-06-27 21:50:00`|`Valorant`|
 |[Bo6/ console](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/701365-bo6-console.html)|`2025-06-27 21:37:00`|`Call of Duty: Black Ops 6`|
