@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EC&#45;CS2 &#91;UM/KM/EFI/DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/604514-ec-cs2-um-km-efi-dma.html)|`2025-06-27 17:55:00`|`Counter-Strike 2 Releases`|
 |[Is Mass Lock safe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/706476-mass-lock-safe.html)|`2025-06-27 17:35:00`|`Elite: Dangerous`|
 |[Inject into free EAC protected game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706808-inject-free-eac-protected-game.html)|`2025-06-27 16:35:00`|`Anti-Cheat Bypass`|
 |[Play kernel&#45;level ANTI&#45;CHEAT games in hyper&#45;v](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701901-play-kernel-level-anti-cheat-games-hyper.html)|`2025-06-27 16:27:00`|`Anti-Cheat Bypass`|
