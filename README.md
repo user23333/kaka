@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rustlang External Pointer Chain &#40;Offset Chain&#41; Reader Function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/706834-rustlang-external-pointer-chain-offset-chain-reader-function.html)|`2025-06-27 21:53:00`|`General Programming and Reversing`|
+|[Zero Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703075-zero-triggerbot.html)|`2025-06-27 21:50:00`|`Valorant`|
 |[Bo6/ console](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/701365-bo6-console.html)|`2025-06-27 21:37:00`|`Call of Duty: Black Ops 6`|
 |[Straftat Full Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/686040-straftat-cheat.html)|`2025-06-27 21:22:00`|`Other Games`|
 |[Valorant new Offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706828-valorant-offsets.html)|`2025-06-27 20:27:00`|`Valorant`|
