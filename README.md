@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TPM / HVCI / SB Popup Bypass by freezing Dnscache](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702867-tpm-hvci-sb-popup-bypass-freezing-dnscache.html)|`2025-06-28 00:22:00`|`Valorant`|
+|[L4D2 Hack Menu &#40;Steam&#41; 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695228-l4d2-hack-menu-steam-2025-a.html)|`2025-06-28 00:14:00`|`Other FPS Games`|
+|[van restriction 3 boot verification failure](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706649-van-restriction-3-boot-verification-failure.html)|`2025-06-28 00:12:00`|`Valorant`|
+|[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2025-06-28 00:09:00`|`Other FPS Games`|
+|[FiveM Cheat &#124; Dumper & Trigger find](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/654012-fivem-cheat-dumper-trigger.html)|`2025-06-28 00:09:00`|`Alternative Online Mods`|
+|[Peak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706121-peak.html)|`2025-06-28 00:08:00`|`Other Games`|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-06-28 00:05:00`|`Other FPS Games`|
+|[Schedule I Dump Converter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706840-schedule-dump-converter.html)|`2025-06-28 00:03:00`|`Other Games`|
 |[apex rage cheat &#40;external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705590-apex-rage-cheat-external.html)|`2025-06-27 23:57:00`|`Apex Legends`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-06-27 23:56:00`|`Alternative Online Mods`|
 |[Send client side chat message](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706821-send-client-chat-message.html)|`2025-06-27 23:51:00`|`Counter-Strike 2`|
