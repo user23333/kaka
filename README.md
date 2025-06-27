@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Roblox executer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705413-roblox-executer.html)|`2025-06-28 07:32:00`|`Other Games`|
+|[DayZ Mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/705063-dayz-mods.html)|`2025-06-28 07:18:00`|`DayZ SA`|
 |[Helldivers 2 Undetected Features by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/704156-helldivers-2-undetected-features-igromanru.html)|`2025-06-28 07:16:00`|`HELLDIVERS 2`|
 |[Should i disable DSE? &#91;AC Bypass&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706886-disable-dse-ac-bypass.html)|`2025-06-28 07:16:00`|`Anti-Cheat Bypass`|
 |[offsets &#40;request&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706885-offsets-request.html)|`2025-06-28 07:07:00`|`Valorant`|
