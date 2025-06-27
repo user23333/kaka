@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-06-28 03:27:00`|`Escape from Tarkov`|
+|[Career unlock with Yimmenu v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696116-career-unlock-yimmenu-v2.html)|`2025-06-28 03:26:00`|`Grand Theft Auto V`|
 |[New additions to the staff team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/706862-additions-staff-team.html)|`2025-06-28 03:22:00`|`Information and Announcements`|
 |[God exists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/697595-god-exists.html)|`2025-06-28 03:09:00`|`Off Topic`|
 |[game of thrones kingsroad hack & offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701827-game-thrones-kingsroad-hack-offsets.html)|`2025-06-28 03:08:00`|`Other MMORPG and Strategy`|
