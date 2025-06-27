@@ -27,9 +27,16 @@
 |351|[StupidSolutions 06/24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50196)|`2025-06-27 00:14:48`|
 |1|[peak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50215)|`2025-06-27 19:28:33`|
 |1|[NoRecoil All Mouse v1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50211)|`2025-06-27 19:37:49`|
+|1|[Hell Let Loose SDK &#40;EPIC &#45; 25&#46;06&#46;2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50221)|`2025-06-27 20:27:23`|
+|2|[missware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50219)|`2025-06-27 20:27:23`|
+|17|[PhasmoMenu v0&#46;5&#46;6&#46;3 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50216)|`2025-06-27 20:27:23`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;VOTE&#93; July 2025 Member of the Month](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/706827-vote-july-2025-month.html)|`2025-06-27 20:24:00`|`Member of the Month`|
+|[Any undetectable money making method for Yimv2 1&#46;71?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705689-undetectable-money-method-yimv2-1-71-a.html)|`2025-06-27 20:23:00`|`Grand Theft Auto V`|
+|[cs2 hvh cheat free working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706565-cs2-hvh-cheat-free.html)|`2025-06-27 20:13:00`|`Counter-Strike 2`|
+|[HLL: Hell Let Loose](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/340677-hll-hell-loose.html)|`2025-06-27 19:58:00`|`Other FPS Games`|
 |[Send client side chat message](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706821-send-client-chat-message.html)|`2025-06-27 19:56:00`|`Counter-Strike 2`|
 |[ValHook External &#124;&#124; 30&#43; Scripts &#124;&#124; Aim&#43;ESP &#124;&#124; Custom Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/706519-valhook-external-30-scripts-aim-esp-custom-radar.html)|`2025-06-27 19:42:00`|`Deadlock`|
 |[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-06-27 19:31:00`|`PUBG Releases`|
