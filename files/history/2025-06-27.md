@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Send client side chat message](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706821-send-client-chat-message.html)|`2025-06-27 19:56:00`|`Counter-Strike 2`|
 |[ValHook External &#124;&#124; 30&#43; Scripts &#124;&#124; Aim&#43;ESP &#124;&#124; Custom Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/706519-valhook-external-30-scripts-aim-esp-custom-radar.html)|`2025-06-27 19:42:00`|`Deadlock`|
 |[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-06-27 19:31:00`|`PUBG Releases`|
 |[Peak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706121-peak.html)|`2025-06-27 19:28:00`|`Other Games`|
