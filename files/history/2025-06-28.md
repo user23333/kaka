@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[external BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/702640-external-bo6.html)|`2025-06-28 06:30:00`|`Call of Duty: Black Ops 6`|
+|[New Valorant Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706880-valorant-offsets.html)|`2025-06-28 06:28:00`|`Valorant`|
+|[Valorant triggerbots are now detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706141-valorant-triggerbots-detected.html)|`2025-06-28 06:24:00`|`Valorant`|
+|[Archero 2 &#40;BlueStacks&#41; – How to auto&#45;find offsets for player/mobs/projectiles?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/706879-archero-2-bluestacks-auto-offsets-player-mobs-projectiles.html)|`2025-06-28 06:18:00`|`Android`|
+|[splitgate 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/702287-splitgate-2-a.html)|`2025-06-28 06:15:00`|`Splitgate`|
 |[Crystal Of Atlan Updated Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/706028-crystal-atlan-updated-cheat-table.html)|`2025-06-28 06:08:00`|`Other MMORPG and Strategy`|
 |[Cs2 external Release 1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706189-cs2-external-release-1-a.html)|`2025-06-28 06:03:00`|`Counter-Strike 2`|
 |[Fast And Simple Triggerbot &#40;ASM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698448-fast-simple-triggerbot-asm.html)|`2025-06-28 05:51:00`|`Valorant`|
