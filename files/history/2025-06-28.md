@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/614111-cs2-internal-cheat.html)|`2025-06-28 00:34:00`|`Counter-Strike 2`|
+|[esp for HorizonMW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/703983-esp-horizonmw.html)|`2025-06-28 00:33:00`|`Call of Duty 4: Modern Warfare`|
+|[Is this silent aim dtc or not?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706706-silent-aim-dtc.html)|`2025-06-28 00:32:00`|`Counter-Strike 2`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-06-28 00:28:00`|`Apex Legends`|
+|[Bo6&#92;WZ cleaner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/705014-bo6-wz-cleaner.html)|`2025-06-28 00:27:00`|`Call of Duty: Black Ops 6`|
 |[TPM / HVCI / SB Popup Bypass by freezing Dnscache](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702867-tpm-hvci-sb-popup-bypass-freezing-dnscache.html)|`2025-06-28 00:22:00`|`Valorant`|
 |[L4D2 Hack Menu &#40;Steam&#41; 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/695228-l4d2-hack-menu-steam-2025-a.html)|`2025-06-28 00:14:00`|`Other FPS Games`|
 |[van restriction 3 boot verification failure](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706649-van-restriction-3-boot-verification-failure.html)|`2025-06-28 00:12:00`|`Valorant`|
