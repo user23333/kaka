@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Inject into free EAC protected game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706808-inject-free-eac-protected-game.html)|`2025-06-27 16:35:00`|`Anti-Cheat Bypass`|
 |[Play kernel&#45;level ANTI&#45;CHEAT games in hyper&#45;v](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701901-play-kernel-level-anti-cheat-games-hyper.html)|`2025-06-27 16:27:00`|`Anti-Cheat Bypass`|
 |[Treason's V3 AIO Aim Assist Edit &#40;BETA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670270-treasons-v3-aio-aim-assist-edit-beta.html)|`2025-06-27 16:26:00`|`Call of Duty: Black Ops 6`|
 |[Starting from a base or doing everything yourself?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706805-starting-base-doing-yourself.html)|`2025-06-27 16:10:00`|`Counter-Strike 2`|
