@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deceit 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640740-deceit-2-internal.html)|`2025-06-28 22:09:00`|`Other FPS Games`|
+|[Starting from a base or doing everything yourself?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706805-starting-base-doing-yourself.html)|`2025-06-28 22:05:00`|`Counter-Strike 2`|
+|[doubletap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706998-doubletap.html)|`2025-06-28 22:02:00`|`Counter-Strike 2`|
+|[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2025-06-28 22:01:00`|`Scum`|
 |[How do I edit DLLs?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/706984-edit-dlls.html)|`2025-06-28 21:53:00`|`Forum General`|
 |[Re: Lies of P Steam 1&#46;5&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/704199-re-lies-steam-1-5-0-0-a.html)|`2025-06-28 21:51:00`|`Other FPS Games`|
 |[Moonware Golf with your friends cheat menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653150-moonware-golf-friends-cheat-menu.html)|`2025-06-28 21:49:00`|`Other FPS Games`|
