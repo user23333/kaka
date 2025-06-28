@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Full Splitgate 2 Decryption &#43; Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/705956-splitgate-2-decryption-offsets.html)|`2025-06-28 15:44:00`|`Splitgate`|
+|[I](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/701377-i.html)|`2025-06-28 15:40:00`|`Apex Legends`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-06-28 15:31:00`|`Phasmophobia`|
 |[Linux External ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/674732-linux-external-esp-aimbot.html)|`2025-06-28 15:30:00`|`Counter-Strike 2 Releases`|
 |[Inject into free EAC protected game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706808-inject-free-eac-protected-game.html)|`2025-06-28 15:28:00`|`Anti-Cheat Bypass`|
