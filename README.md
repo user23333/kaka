@@ -40,6 +40,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-06-29 07:35:00`|`Grand Theft Auto V`|
 |[visual studio 2019 setup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/706814-visual-studio-2019-setup.html)|`2025-06-29 07:06:00`|`C and C++`|
 |[VoidCrew Cheat – Infinite Gifts & Perk Points](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/706772-voidcrew-cheat-infinite-gifts-perk.html)|`2025-06-29 06:52:00`|`Other FPS Games`|
 |[GTA 5 Enhanced DMA Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701780-gta-5-enhanced-dma-menu.html)|`2025-06-29 06:44:00`|`Grand Theft Auto V`|
