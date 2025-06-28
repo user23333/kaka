@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Manual Mapping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/707000-manual-mapping.html)|`2025-06-28 22:44:00`|`General Programming and Reversing`|
+|[Rocket League Breezi Flick Macro AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706919-rocket-league-breezi-flick-macro-ahk.html)|`2025-06-28 22:43:00`|`Other Games`|
 |[The Adryan Pack &#45; Standalones & Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/695187-adryan-pack-standalones-source.html)|`2025-06-28 22:19:00`|`Star Wars Battlefront 2`|
 |[Deceit 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640740-deceit-2-internal.html)|`2025-06-28 22:09:00`|`Other FPS Games`|
 |[Starting from a base or doing everything yourself?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706805-starting-base-doing-yourself.html)|`2025-06-28 22:05:00`|`Counter-Strike 2`|
