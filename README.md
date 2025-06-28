@@ -12,6 +12,7 @@
 |24|[Arduino ban wave 6/25/2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706580-arduino-ban-wave-6-25-2025-a.html)|`2025-06-28 00:00:04`|`valorant`|
 |12|[Cs2 external Release 1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706189-cs2-external-release-1-a.html)|`2025-06-28 00:00:04`|`counter-strike-2-a`|
 |8|[apex offset dumper &#91;windows&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705886-apex-offset-dumper-windows.html)|`2025-06-28 10:25:36`|`apex-legends`|
+|13|[Smeltra v1&#46;0 &#45; External CS2 Cheat with Glow ESP & Triggerbot &#40;Rust&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706543-smeltra-v1-0-external-cs2-cheat-glow-esp-triggerbot-rust.html)|`2025-06-28 13:11:53`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/703386-internal-esp-aimbot.html)|`2025-06-28 13:07:00`|`Star Wars Battlefront 2`|
 |[Grenade Prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706275-grenade-prediction.html)|`2025-06-28 12:54:00`|`Counter-Strike 2`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-06-28 12:38:00`|`Counter-Strike 2`|
 |[Auto Dump Prefab Ids &#40; Server &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/698071-auto-dump-prefab-ids-server.html)|`2025-06-28 12:37:00`|`Rust`|
