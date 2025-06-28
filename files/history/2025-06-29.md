@@ -25,9 +25,13 @@
 |380|[PhasmoMenu v0&#46;5&#46;6&#46;3 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50216)|`2025-06-29 00:21:49`|
 |195|[peak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50215)|`2025-06-29 00:21:49`|
 |117|[NoRecoil All Mouse v1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50211)|`2025-06-29 00:21:49`|
+|1|[Rematch AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50255)|`2025-06-29 04:51:50`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-06-29 04:51:00`|`Other FPS Games`|
+|[Zero Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703075-zero-triggerbot.html)|`2025-06-29 04:46:00`|`Valorant`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-06-29 04:44:00`|`Call of Duty: Black Ops 6`|
 |[Rematch AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/707035-rematch-ahk.html)|`2025-06-29 04:43:00`|`Other Games`|
 |[Final Jitter aim for Controller&#40;and MnK&#41;, bugs fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/673025-final-jitter-aim-controller-mnk-bugs-fixed.html)|`2025-06-29 04:40:00`|`Apex Legends`|
 |[GoodDiePUBG &#45; PUBG 3&#46;8 Emulator Hack Source &#40;server/client&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/704753-gooddiepubg-pubg-3-8-emulator-hack-source-server-client.html)|`2025-06-29 04:34:00`|`PUBG Mobile`|
