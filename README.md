@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[doubletap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706998-doubletap.html)|`2025-06-29 03:59:00`|`Counter-Strike 2`|
+|[Arduino ban wave 6/25/2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706580-arduino-ban-wave-6-25-2025-a.html)|`2025-06-29 03:59:00`|`Valorant`|
 |[TarkovGUI &#124; PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/694944-tarkovgui-pve.html)|`2025-06-29 03:59:00`|`Escape from Tarkov`|
 |[RogueCompany external esp &#43; aim updated 4fun](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/706912-roguecompany-external-esp-aim-updated-4fun.html)|`2025-06-29 03:51:00`|`Other FPS Games`|
 |[Jeff Injector &#45; Insta Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/701455-jeff-injector-insta-ban.html)|`2025-06-29 03:50:00`|`Marvel Rivals`|
