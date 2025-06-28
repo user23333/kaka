@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino Working Jitter aim bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703532-arduino-jitter-aim-bypass.html)|`2025-06-29 02:59:00`|`Apex Legends`|
+|[Do You Love Crypto?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/673834-love-crypto.html)|`2025-06-29 02:59:00`|`Off Topic`|
+|[God exists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/697595-god-exists.html)|`2025-06-29 02:53:00`|`Off Topic`|
+|[Polygon Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/582488-polygon-internal-cheat.html)|`2025-06-29 02:52:00`|`Other FPS Games`|
+|[War Thunder DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/704215-war-thunder-dma.html)|`2025-06-29 02:43:00`|`Other MMORPG and Strategy`|
+|[Nexus External ESP V2 &#40;PyMeow&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/690093-nexus-external-esp-v2-pymeow.html)|`2025-06-29 02:43:00`|`Garry's Mod`|
+|[Bypassing server&#45;side anticheat in Unity IL2CPP game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/707023-bypassing-server-anticheat-unity-il2cpp-game.html)|`2025-06-29 02:35:00`|`Anti-Cheat Bypass`|
 |[How to find StaticFindObject address ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/693896-staticfindobject-address.html)|`2025-06-29 02:42:00`|`Unreal Engine 4`|
 |[Elden ring new Cheat Table &#43; Online &#40;risky&#41; &#43; CE Undetected &#43; future updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661671-elden-ring-cheat-table-online-risky-ce-undetected-future-updates.html)|`2025-06-29 02:14:00`|`Other FPS Games`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-06-29 02:08:00`|`Counter-Strike 2`|
