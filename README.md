@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2025-06-28 17:30:00`|`Deadlock`|
+|[&#91;New&#93; Super People Reversal, Structs, and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705622-super-people-reversal-structs-offsets.html)|`2025-06-28 17:27:00`|`Other FPS Games`|
+|[ESP LAG &#40;d3d9 & imgui&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/705720-esp-lag-d3d9-imgui.html)|`2025-06-28 17:27:00`|`Forum General`|
+|[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2025-06-28 17:20:00`|`Combat Arms`|
+|[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2025-06-28 17:19:00`|`Counter-Strike 2 Releases`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-06-28 17:19:00`|`Rust`|
 |[Dune: Awakening Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699887-dune-awakening-reversal-structs-offsets.html)|`2025-06-28 17:16:00`|`Other FPS Games`|
 |[LOLControl Beta 2&#46;0 / Auto Accept / Account Manager /  Game and Vanguard Control](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/706474-lolcontrol-beta-2-0-auto-accept-account-manager-game-vanguard-control.html)|`2025-06-28 16:52:00`|`League of Legends`|
 |[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-06-28 16:28:00`|`Marvel Rivals`|
