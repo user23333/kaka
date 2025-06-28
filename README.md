@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-06-29 01:16:00`|`Other FPS Games`|
+|[Anticheat Blocker Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/706030-anticheat-blocker-source.html)|`2025-06-29 01:13:00`|`Call of Duty: Black Ops 6`|
+|[esp32s3 script with weapon and accessory detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/705105-esp32s3-script-weapon-accessory-detection.html)|`2025-06-29 01:11:00`|`Rust`|
+|[Free Apex Coins/Cheap Coins Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/693249-free-apex-coins-cheap-coins-thread.html)|`2025-06-29 01:08:00`|`Apex Legends`|
+|[GTAVTool &#45; Replay Glitch Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/636267-gtavtool-replay-glitch-tool.html)|`2025-06-29 01:05:00`|`Grand Theft Auto V`|
+|[Infinite Destiny 2 DLCs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/706619-infinite-destiny-2-dlcs.html)|`2025-06-29 01:05:00`|`Forum General`|
+|[External Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706675-external-chams.html)|`2025-06-29 01:04:00`|`Counter-Strike 2`|
 |[cs2 hvh cheat free working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706565-cs2-hvh-cheat-free.html)|`2025-06-29 00:49:00`|`Counter-Strike 2`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-06-29 00:49:00`|`Escape from Tarkov`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-06-29 00:47:00`|`Rust`|
