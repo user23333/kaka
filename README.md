@@ -45,6 +45,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[awall issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707090-awall-issue.html)|`2025-06-29 19:36:00`|`Counter-Strike 2`|
 |[Straftat Full Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/686040-straftat-cheat.html)|`2025-06-29 19:16:00`|`Other Games`|
 |[Vibe coding an AntiCheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/706251-vibe-coding-anticheat.html)|`2025-06-29 19:15:00`|`All Points Bulletin`|
 |[Distance ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/705877-distance-esp.html)|`2025-06-29 19:12:00`|`All Points Bulletin`|
