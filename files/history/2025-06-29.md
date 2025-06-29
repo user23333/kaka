@@ -38,9 +38,16 @@
 |4|[ReadyOrNot Internal Recode ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50235)|`2025-06-29 06:32:23`|
 |2|[asthmaphobia v0&#46;13&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50240)|`2025-06-29 07:12:05`|
 |19|[PhasmoMenu v0&#46;5&#46;6&#46;4 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50242)|`2025-06-29 12:02:22`|
+|6|[TFD Helper 1&#46;0&#46;24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50257)|`2025-06-29 12:40:31`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Roblox External Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/707061-roblox-external-esp.html)|`2025-06-29 12:31:00`|`Other Games`|
+|[apex rage cheat &#40;external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705590-apex-rage-cheat-external.html)|`2025-06-29 12:28:00`|`Apex Legends`|
+|[Gears of war 5 Cheats&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/569000-gears-war-5-cheats.html)|`2025-06-29 12:27:00`|`Other Games`|
+|[FamilyMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/631659-familymenu.html)|`2025-06-29 12:19:00`|`Red Dead Redemption 2`|
+|[Shinobi Warfare &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/618535-shinobi-warfare-steam.html)|`2025-06-29 12:14:00`|`Other MMORPG and Strategy`|
+|[external BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/702640-external-bo6.html)|`2025-06-29 12:13:00`|`Call of Duty: Black Ops 6`|
 |[Making my own anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707059-own-anticheat.html)|`2025-06-29 12:00:00`|`Valorant`|
 |[FAQ Valorant Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/421120-faq-valorant-bans.html)|`2025-06-29 11:58:00`|`Valorant`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-06-29 11:37:00`|`Phasmophobia`|
