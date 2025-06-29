@@ -45,6 +45,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Do I need to spoof if I'm banned in Warzone for BO6?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/707084-spoof-im-banned-warzone-bo6.html)|`2025-06-29 19:06:00`|`Call of Duty: Black Ops 6`|
+|[Battlemetrics and IP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/706683-battlemetrics-ip.html)|`2025-06-29 18:59:00`|`Rust`|
 |[r6s obs walls?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/707082-r6s-obs-walls.html)|`2025-06-29 18:54:00`|`Rainbow Six Siege`|
 |[Need help finding Actor and Actor Count](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707081-help-finding-actor-actor-count.html)|`2025-06-29 18:35:00`|`Other FPS Games`|
 |[Dead by Daylight DMA &#45; Based on IntelSDM &#45; Added features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/704981-dead-daylight-dma-based-intelsdm-added-features.html)|`2025-06-29 18:29:00`|`Other FPS Games`|
