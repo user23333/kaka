@@ -43,6 +43,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Please teach me how to use hacks right &#40;money front update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/706663-please-teach-hacks-money-front-update.html)|`2025-06-29 17:50:00`|`Grand Theft Auto V`|
 |[YimMenu Injection Fails with 0xC0000022 on Epic GTA5&#95;Enhanced&#46;exe"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/706035-yimmenu-injection-fails-0xc0000022-epic-gta5_enhanced-exe.html)|`2025-06-29 17:30:00`|`Grand Theft Auto V`|
 |[Any undetectable money making method for Yimv2 1&#46;71?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705689-undetectable-money-method-yimv2-1-71-a.html)|`2025-06-29 17:14:00`|`Grand Theft Auto V`|
 |[I get kicked by BattleEye after deleting FSL and Yimmenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/706865-kicked-battleeye-deleting-fsl-yimmenu.html)|`2025-06-29 17:09:00`|`Grand Theft Auto V`|
