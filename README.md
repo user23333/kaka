@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Current working vulnerable drivers &#40;Windows 11&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/707125-current-vulnerable-drivers-windows-11-a.html)|`2025-06-30 01:56:00`|`General Programming and Reversing`|
+|[Ultimate COD WW2 Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/650299-ultimate-cod-ww2-thread.html)|`2025-06-30 01:55:00`|`Other Games`|
+|[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-06-30 01:30:00`|`Call of Duty: Black Ops 3`|
 |[Triggerbot shooting on own team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707124-triggerbot-shooting-own-team.html)|`2025-06-30 01:49:00`|`Counter-Strike 2`|
 |[trouble finding createmove in ida](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706782-trouble-finding-createmove-ida.html)|`2025-06-30 01:41:00`|`Counter-Strike 2`|
 |[Roblox External Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/707061-roblox-external-esp.html)|`2025-06-30 01:37:00`|`Other Games`|
