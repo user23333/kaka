@@ -12,6 +12,7 @@
 |3|[R6  Walls with OBS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706718-r6-walls-obs.html)|`2025-06-30 00:20:25`|`rainbow-six-siege`|
 |17|[AbyssTF public rls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/706779-abysstf-public-rls.html)|`2025-06-30 00:20:25`|`team-fortress-2-a`|
 |8|[Working Skinchanger Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706316-skinchanger-source-code.html)|`2025-06-30 04:43:40`|`counter-strike-2-a`|
+|8|[Please teach me how to use hacks right &#40;money front update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/706663-please-teach-hacks-money-front-update.html)|`2025-06-30 06:31:34`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,9 +32,14 @@
 |1|[Helldivers 2 Undetected Features v1&#46;2&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50262)|`2025-06-30 05:10:54`|
 |2|[PEAK&#45;AIO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50245)|`2025-06-30 05:27:22`|
 |3|[Neko Beta v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50246)|`2025-06-30 06:10:13`|
+|1|[BASBB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50264)|`2025-06-30 06:31:34`|
+|1|[HeroesOfValorXPHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50258)|`2025-06-30 06:31:34`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Heroes of Valor &#45; XP Multiplier Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707057-heroes-valor-xp-multiplier-hack.html)|`2025-06-30 06:24:00`|`Other FPS Games`|
+|[RogueCompany external esp &#43; aim updated 4fun](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/706912-roguecompany-external-esp-aim-updated-4fun.html)|`2025-06-30 06:11:00`|`Other FPS Games`|
+|[Mastering Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-support/690404-mastering-cheat-engine.html)|`2025-06-30 06:10:00`|`Cheat Engine Support`|
 |[MONEY FRONT DLC AWARDS AND CAREER PROGRESS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/706182-money-front-dlc-awards-career-progress.html)|`2025-06-30 06:01:00`|`Grand Theft Auto V`|
 |[Career unlock with Yimmenu v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696116-career-unlock-yimmenu-v2.html)|`2025-06-30 05:54:00`|`Grand Theft Auto V`|
 |[Fast And Simple Triggerbot &#40;ASM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698448-fast-simple-triggerbot-asm.html)|`2025-06-30 05:36:00`|`Valorant`|
