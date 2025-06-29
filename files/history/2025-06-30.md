@@ -26,9 +26,13 @@
 |5|[AssaultCube&#95;qteeq&#95;&#91;unknowncheats&#46;me&#93;&#95;&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50238)|`2025-06-30 00:20:25`|
 |177|[UltimateMenu For YimMenu V2&#46;7 1&#46;71 Legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50237)|`2025-06-30 00:20:25`|
 |2|[No Recoil PUBG v1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50252)|`2025-06-30 04:43:40`|
+|1|[SpeederGOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50244)|`2025-06-30 04:50:22`|
+|2|[Rezuma External v1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50241)|`2025-06-30 04:50:22`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[game of thrones kingsroad hack & offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701827-game-thrones-kingsroad-hack-offsets.html)|`2025-06-30 04:48:00`|`Other MMORPG and Strategy`|
+|[Cs2 external Release 1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706189-cs2-external-release-1-a.html)|`2025-06-30 04:44:00`|`Counter-Strike 2`|
 |[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-06-30 04:41:00`|`PUBG Releases`|
 |[Silver and Blood](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/707033-silver-blood.html)|`2025-06-30 04:40:00`|`Other MMORPG and Strategy`|
 |[i need help about DuplicateHandle or any solution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/706900-help-duplicatehandle-solution.html)|`2025-06-30 04:29:00`|`General Programming and Reversing`|
