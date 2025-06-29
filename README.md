@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[i need help about DuplicateHandle or any solution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/706900-help-duplicatehandle-solution.html)|`2025-06-30 04:29:00`|`General Programming and Reversing`|
+|[Splitgate 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/656551-splitgate-2-reversal-structs-offsets.html)|`2025-06-30 04:21:00`|`Splitgate`|
 |[Lockdown Protocol External by Fozzila &#40;Update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/700529-lockdown-protocol-external-fozzila-update.html)|`2025-06-30 04:08:00`|`Other Games`|
 |[VGK "emulator" & bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/685227-vgk-emulator-bypass.html)|`2025-06-30 04:04:00`|`League of Legends`|
 |[How can I start??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/706896-start.html)|`2025-06-30 03:42:00`|`Call of Duty: Black Ops 6`|
