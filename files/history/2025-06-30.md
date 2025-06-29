@@ -34,9 +34,16 @@
 |3|[Neko Beta v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50246)|`2025-06-30 06:10:13`|
 |1|[BASBB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50264)|`2025-06-30 06:31:34`|
 |1|[HeroesOfValorXPHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50258)|`2025-06-30 06:31:34`|
+|1|[Impulse&#95;Release&#95;v1&#46;0&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50260)|`2025-06-30 06:44:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RustRecoilMacro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706634-rustrecoilmacro.html)|`2025-06-30 06:42:00`|`Rainbow Six Siege`|
+|[External AI CV League Assist — Seeking Collaboration / Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/704755-external-ai-cv-league-assist-seeking-collaboration-discussion.html)|`2025-06-30 06:38:00`|`League of Legends`|
+|[R6  Walls with OBS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706718-r6-walls-obs.html)|`2025-06-30 06:33:00`|`Rainbow Six Siege`|
+|[Broken Arrow &#43;13 Trainer&#40;CT table&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673542-broken-arrow-13-trainer-ct-table.html)|`2025-06-30 06:29:00`|`Other MMORPG and Strategy`|
+|[Struggling to Compile My DMA Cheats &#45; Need Help with Errors in Visual Studio](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/706798-struggling-compile-dma-cheats-help-errors-visual-studio.html)|`2025-06-30 06:28:00`|`General Programming and Reversing`|
+|[Silent via trajectory array](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/698042-silent-via-trajectory-array.html)|`2025-06-30 06:25:00`|`Escape from Tarkov`|
 |[Heroes of Valor &#45; XP Multiplier Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707057-heroes-valor-xp-multiplier-hack.html)|`2025-06-30 06:24:00`|`Other FPS Games`|
 |[RogueCompany external esp &#43; aim updated 4fun](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/706912-roguecompany-external-esp-aim-updated-4fun.html)|`2025-06-30 06:11:00`|`Other FPS Games`|
 |[Mastering Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-support/690404-mastering-cheat-engine.html)|`2025-06-30 06:10:00`|`Cheat Engine Support`|
