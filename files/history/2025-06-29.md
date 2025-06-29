@@ -40,6 +40,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2025-06-29 10:44:00`|`Palworld`|
+|[Genshin Impact &#40; Unity &#41; IL2CPP Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/702285-genshin-impact-unity-il2cpp-dumper.html)|`2025-06-29 10:33:00`|`Programming for Beginners`|
+|[Updating Old Hacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/705128-updating-hacks.html)|`2025-06-29 10:08:00`|`Programming for Beginners`|
+|[How to update a cod cheat/patterns &#43; updated base for cod/steam/xbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/686435-update-cod-cheat-patterns-updated-base-cod-steam-xbox.html)|`2025-06-29 10:06:00`|`Call of Duty: Black Ops 6`|
 |[Starting from a base or doing everything yourself?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706805-starting-base-doing-yourself.html)|`2025-06-29 08:58:00`|`Counter-Strike 2`|
 |[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/696538-vigor-internal-cheat.html)|`2025-06-29 08:52:00`|`Other FPS Games`|
 |[Strinova Internal &#40;Aimbot & ESP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/677105-strinova-internal-aimbot-esp.html)|`2025-06-29 08:45:00`|`Other FPS Games`|
