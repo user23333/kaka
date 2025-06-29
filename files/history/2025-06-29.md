@@ -42,6 +42,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lockdown Protocol External by Fozzila &#40;Update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/700529-lockdown-protocol-external-fozzila-update.html)|`2025-06-29 15:27:00`|`Other Games`|
 |[DLL injection methods in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/698776-dll-injection-methods-2025-a.html)|`2025-06-29 15:01:00`|`General Programming and Reversing`|
 |[wanting to find someone who has cheats for sea of thieves hourglass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/706868-cheats-sea-thieves-hourglass.html)|`2025-06-29 14:59:00`|`Sea of Thieves`|
 |[Driver Signature](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/707066-driver-signature.html)|`2025-06-29 14:18:00`|`Programming for Beginners`|
