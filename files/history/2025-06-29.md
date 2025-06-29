@@ -45,6 +45,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Manual Mapping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/707000-manual-mapping.html)|`2025-06-29 21:51:00`|`General Programming and Reversing`|
 |[Collection of DLC codes for Steam version&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/686182-collection-dlc-codes-steam-version.html)|`2025-06-29 21:45:00`|`Payday 3`|
 |["R6 Siege Anti&#45;Recoil Script – Works on Any Logitech Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706876-r6-siege-anti-recoil-script-logitech-mouse.html)|`2025-06-29 21:41:00`|`Rainbow Six Siege`|
 |[Moving items in inventory &#40;jni&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/706284-moving-items-inventory-jni.html)|`2025-06-29 21:36:00`|`Minecraft`|
