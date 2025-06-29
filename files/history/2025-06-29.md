@@ -45,6 +45,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hello, I’m new here&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/707112-hello.html)|`2025-06-29 23:45:00`|`Introductions`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-06-29 23:46:00`|`Other FPS Games`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-06-29 23:42:00`|`Playerunknown's Battlegrounds`|
 |[Are Recoil Scripts Detectable?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/707110-recoil-scripts-detectable.html)|`2025-06-29 23:40:00`|`Rainbow Six Siege`|
