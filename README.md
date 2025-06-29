@@ -42,6 +42,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-06-29 15:53:00`|`Escape from Tarkov`|
 |[All Mouse NoRecoil 1&#46;0 IS OUT &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-1-0-recoil-helpy-auto-config-probably-ud-universal.html)|`2025-06-29 15:36:00`|`Rainbow Six Siege`|
 |[Lockdown Protocol External by Fozzila &#40;Update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/700529-lockdown-protocol-external-fozzila-update.html)|`2025-06-29 15:27:00`|`Other Games`|
 |[DLL injection methods in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/698776-dll-injection-methods-2025-a.html)|`2025-06-29 15:01:00`|`General Programming and Reversing`|
