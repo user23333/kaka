@@ -28,6 +28,7 @@
 |2|[No Recoil PUBG v1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50252)|`2025-06-30 04:43:40`|
 |1|[SpeederGOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50244)|`2025-06-30 04:50:22`|
 |2|[Rezuma External v1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50241)|`2025-06-30 04:50:22`|
+|1|[Helldivers 2 Undetected Features v1&#46;2&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50262)|`2025-06-30 05:10:54`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
