@@ -45,6 +45,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Safer Driver Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/702983-safer-driver-cheat.html)|`2025-06-29 20:54:00`|`General Programming and Reversing`|
+|[TPM AND SB BYPASS &#43; SPOOFER &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/623808-tpm-sb-bypass-spoofer.html)|`2025-06-29 20:45:00`|`Valorant`|
+|[GMS V258&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/694200-gms-v258-2-a.html)|`2025-06-29 20:40:00`|`Maple Story`|
 |[Age of Empires 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/589592-age-empires-4-reversal-structs-offsets.html)|`2025-06-29 20:06:00`|`Other MMORPG and Strategy`|
 |[Age Of Empires 4 SCAR Lua Injection &#45; Fog&#45;of&#45;War Reveal, HUD Tweaks &#45; Steam/Xbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/707091-age-empires-4-scar-lua-injection-fog-war-reveal-hud-tweaks-steam-xbox.html)|`2025-06-29 20:04:00`|`Other MMORPG and Strategy`|
 |[Motherboard uuid changing every boot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706835-motherboard-uuid-changing-boot.html)|`2025-06-29 19:56:00`|`Valorant`|
