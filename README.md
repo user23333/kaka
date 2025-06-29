@@ -14,6 +14,7 @@
 |7|[GTA V Battleye Bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705960-gta-battleye-bypass.html)|`2025-06-29 01:59:27`|`grand-theft-auto-v`|
 |26|[ネコちゃん &#124;「 ✦ Neko Triggerbot✦ 」 &#124; ネコちゃん](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706894-neko-triggerbot.html)|`2025-06-29 04:57:41`|`valorant`|
 |2|[R6  Walls with OBS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706718-r6-walls-obs.html)|`2025-06-29 16:12:31`|`rainbow-six-siege`|
+|8|[Working Skinchanger Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706316-skinchanger-source-code.html)|`2025-06-29 18:40:38`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -43,6 +44,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need help finding Actor and Actor Count](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707081-help-finding-actor-actor-count.html)|`2025-06-29 18:35:00`|`Other FPS Games`|
+|[Dead by Daylight DMA &#45; Based on IntelSDM &#45; Added features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/704981-dead-daylight-dma-based-intelsdm-added-features.html)|`2025-06-29 18:29:00`|`Other FPS Games`|
+|[Definitive Ultimate Cheatpack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/633084-definitive-ultimate-cheatpack.html)|`2025-06-29 18:29:00`|`Star Wars Battlefront 2`|
 |[Please teach me how to use hacks right &#40;money front update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/706663-please-teach-hacks-money-front-update.html)|`2025-06-29 17:50:00`|`Grand Theft Auto V`|
 |[YimMenu Injection Fails with 0xC0000022 on Epic GTA5&#95;Enhanced&#46;exe"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/706035-yimmenu-injection-fails-0xc0000022-epic-gta5_enhanced-exe.html)|`2025-06-29 17:30:00`|`Grand Theft Auto V`|
 |[Any undetectable money making method for Yimv2 1&#46;71?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705689-undetectable-money-method-yimv2-1-71-a.html)|`2025-06-29 17:14:00`|`Grand Theft Auto V`|
