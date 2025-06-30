@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2025-07-01 05:52:00`|`Counter-Strike 2 Releases`|
 |[Jank Night Club Loop for YimMenuV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707253-jank-night-club-loop-yimmenuv2.html)|`2025-07-01 05:44:00`|`Grand Theft Auto V`|
 |[Game cheats creating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/707230-game-cheats-creating.html)|`2025-07-01 05:41:00`|`Programming for Beginners`|
 |[R6  Walls with OBS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706718-r6-walls-obs.html)|`2025-07-01 05:40:00`|`Rainbow Six Siege`|
