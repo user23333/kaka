@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Do I need to spoof if I'm banned in Warzone for BO6?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/707084-spoof-im-banned-warzone-bo6.html)|`2025-06-30 09:39:00`|`Call of Duty: Black Ops 6`|
+|[arduino hid report descriptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695806-arduino-hid-report-descriptor.html)|`2025-06-30 09:13:00`|`Valorant`|
 |[Joytokey bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/707167-joytokey-bypass.html)|`2025-06-30 07:57:00`|`Apex Legends`|
 |[TPM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/649260-tpm-spoofer.html)|`2025-06-30 07:55:00`|`Valorant`|
 |[Pipsi&#45;SR &#91; Honkai: Star Rail Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/623438-pipsi-sr-honkai-star-rail-cheat.html)|`2025-06-30 07:54:00`|`Other MMORPG and Strategy`|
