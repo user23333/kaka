@@ -14,6 +14,7 @@
 |8|[Working Skinchanger Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706316-skinchanger-source-code.html)|`2025-06-30 04:43:40`|`counter-strike-2-a`|
 |8|[Please teach me how to use hacks right &#40;money front update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/706663-please-teach-hacks-money-front-update.html)|`2025-06-30 06:31:34`|`grand-theft-auto-v`|
 |1|[PEAK hacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706714-peak-hacks.html)|`2025-06-30 12:57:53`|`other-games`|
+|5|[RustRecoilMacro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706634-rustrecoilmacro.html)|`2025-06-30 18:15:28`|`rainbow-six-siege`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -40,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nenyooo Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/488777-nenyooo-menu.html)|`2025-06-30 18:06:00`|`Grand Theft Auto V`|
 |[Re: Lies of P Steam 1&#46;5&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/704199-re-lies-steam-1-5-0-0-a.html)|`2025-06-30 15:58:00`|`Cheat Engine Tables`|
 |[SDK for Greed of Man](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706716-sdk-greed.html)|`2025-06-30 15:48:00`|`Other Games`|
 |[reWASD AimBot Config](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/707190-rewasd-aimbot-config.html)|`2025-06-30 15:42:00`|`Apex Legends`|
