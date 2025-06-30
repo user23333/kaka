@@ -39,6 +39,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[valorant colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/693264-valorant-colorbot.html)|`2025-06-30 11:58:00`|`Valorant`|
+|[Valorant Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706997-valorant-skin-changer.html)|`2025-06-30 11:53:00`|`Valorant`|
+|[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2025-06-30 11:44:00`|`Grand Theft Auto V`|
+|[adhesive bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/707108-adhesive-bypass.html)|`2025-06-30 11:34:00`|`Alternative Online Mods`|
 |[Fallout 76](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/305579-fallout-76-a.html)|`2025-06-30 11:01:00`|`Other FPS Games`|
 |[Do I need to spoof if I'm banned in Warzone for BO6?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/707084-spoof-im-banned-warzone-bo6.html)|`2025-06-30 09:39:00`|`Call of Duty: Black Ops 6`|
 |[arduino hid report descriptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695806-arduino-hid-report-descriptor.html)|`2025-06-30 09:13:00`|`Valorant`|
