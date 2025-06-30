@@ -41,6 +41,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706675-external-chams.html)|`2025-06-30 19:38:00`|`Counter-Strike 2`|
+|[YimMenuV2Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697581-yimmenuv2mod.html)|`2025-06-30 19:37:00`|`Grand Theft Auto V`|
+|[Help&#33;&#33;&#33; How to achieve efficient knife self&#45;aiming?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/706079-help-achieve-efficient-knife-self-aiming.html)|`2025-06-30 19:31:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Which paid cheat best for BO6?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/707201-paid-cheat-bo6.html)|`2025-06-30 19:27:00`|`Call of Duty: Black Ops 6`|
 |[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-06-30 19:22:00`|`Other FPS Games`|
 |[Introduction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/707175-introduction.html)|`2025-06-30 19:21:00`|`Introductions`|
