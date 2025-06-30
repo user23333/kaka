@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[QEMU/KVM VM help &#40;RDTSC & QEMU rebuild&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-software/707236-qemu-kvm-vm-help-rdtsc-qemu-rebuild.html)|`2025-07-01 05:34:00`|`Other Software`|
+|[are scripts detected now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/707248-scripts-detected.html)|`2025-07-01 05:23:00`|`Rainbow Six Siege`|
 |[Kernel Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/707040-kernel-injector.html)|`2025-07-01 05:23:00`|`Anti-Cheat Bypass`|
 |[Anyone here banned twice?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706914-banned-twice.html)|`2025-07-01 05:21:00`|`Valorant`|
 |[Vanguard Blocking Custom OS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707116-vanguard-blocking-custom-os.html)|`2025-07-01 05:20:00`|`Valorant`|
