@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Forceful unlink method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/706228-forceful-unlink-method.html)|`2025-07-01 06:50:00`|`Call of Duty: Black Ops 6`|
+|[ESP Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/701793-esp-issue.html)|`2025-07-01 06:49:00`|`Programming for Beginners`|
 |[Is Trust Factor and Trusted Aged Accounts a real thing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/707256-trust-factor-trusted-aged-accounts-real.html)|`2025-07-01 06:42:00`|`Call of Duty: Black Ops 6`|
 |[Visibility Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707254-visibility-check.html)|`2025-07-01 06:36:00`|`Valorant`|
 |[Looking for timing bug or exploit in RPS minigame](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/705170-looking-timing-bug-exploit-rps-minigame.html)|`2025-07-01 06:35:00`|`Programming for Beginners`|
