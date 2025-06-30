@@ -41,6 +41,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Altv Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/707217-altv-anticheat.html)|`2025-06-30 23:09:00`|`Alternative Online Mods`|
+|[Rigel updated help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/707216-rigel-updated-help.html)|`2025-06-30 22:58:00`|`Overwatch`|
 |[dma,Always overflowing???help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707215-dma-overflowing-help.html)|`2025-06-30 22:53:00`|`Counter-Strike 2`|
 |[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2025-06-30 22:28:00`|`Other MMORPG and Strategy`|
 |[Any Broken Arrow happenings?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/707178-broken-arrow-happenings.html)|`2025-06-30 21:27:00`|`Other Games`|
