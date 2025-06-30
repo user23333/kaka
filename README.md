@@ -41,6 +41,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[external aimbot laggy unless no sleep](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707197-external-aimbot-laggy-unless-sleep.html)|`2025-06-30 18:31:00`|`Counter-Strike 2`|
+|[Any cheat or afk lobbies?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-ii/707196-cheat-afk-lobbies.html)|`2025-06-30 18:30:00`|`Call of Duty: Modern Warfare II`|
+|[Cloud Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/707195-cloud-radar.html)|`2025-06-30 18:28:00`|`Garry's Mod`|
+|[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2025-06-30 18:24:00`|`Other FPS Games`|
+|[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2025-06-30 18:19:00`|`Palworld`|
+|[firmware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/707194-firmware.html)|`2025-06-30 18:17:00`|`Rust`|
 |[Nenyooo Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/488777-nenyooo-menu.html)|`2025-06-30 18:06:00`|`Grand Theft Auto V`|
 |[Re: Lies of P Steam 1&#46;5&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/704199-re-lies-steam-1-5-0-0-a.html)|`2025-06-30 15:58:00`|`Cheat Engine Tables`|
 |[SDK for Greed of Man](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706716-sdk-greed.html)|`2025-06-30 15:48:00`|`Other Games`|
