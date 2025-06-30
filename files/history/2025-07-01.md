@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kernel Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/707040-kernel-injector.html)|`2025-07-01 05:23:00`|`Anti-Cheat Bypass`|
+|[Anyone here banned twice?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706914-banned-twice.html)|`2025-07-01 05:21:00`|`Valorant`|
+|[Vanguard Blocking Custom OS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707116-vanguard-blocking-custom-os.html)|`2025-07-01 05:20:00`|`Valorant`|
+|[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-07-01 05:09:00`|`PUBG Releases`|
 |[Valorant Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706997-valorant-skin-changer.html)|`2025-07-01 05:13:00`|`Valorant`|
 |[Arcade has "unsetup" itself and cannot fix it, anyone else dealt with this issue?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707171-arcade-unsetup-fix-else-dealt-issue.html)|`2025-07-01 05:09:00`|`Grand Theft Auto V`|
 |[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-07-01 04:56:00`|`Grand Theft Auto V`|
