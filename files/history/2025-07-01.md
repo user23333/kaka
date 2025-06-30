@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-07-01 03:21:00`|`Phasmophobia`|
+|[BANNED? Talk about it here&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/277803-banned-talk.html)|`2025-07-01 03:13:00`|`Rainbow Six Siege`|
+|[Help with Walls?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706212-help-walls.html)|`2025-07-01 03:12:00`|`Rainbow Six Siege`|
+|[External Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706675-external-chams.html)|`2025-07-01 03:12:00`|`Counter-Strike 2`|
 |[Nenyooo Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/488777-nenyooo-menu.html)|`2025-07-01 03:08:00`|`Grand Theft Auto V`|
 |[VGK "Disabler" to dump LoL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/656598-vgk-disabler-dump-lol.html)|`2025-07-01 03:08:00`|`League of Legends`|
 |[Walls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706796-walls.html)|`2025-07-01 03:04:00`|`Rainbow Six Siege`|
