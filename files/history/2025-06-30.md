@@ -41,6 +41,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vischeck DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/707208-vischeck-dma.html)|`2025-06-30 20:36:00`|`Playerunknown's Battlegrounds`|
+|[Rust Makcu recoil script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/705777-rust-makcu-recoil-script.html)|`2025-06-30 20:31:00`|`Rust`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-06-30 20:11:00`|`Alternative Online Mods`|
+|[Injection Info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707207-injection-info.html)|`2025-06-30 20:10:00`|`Counter-Strike 2`|
+|[Anti&#45;cheat blocking driver&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/706717-anti-cheat-blocking-driver.html)|`2025-06-30 20:02:00`|`Call of Duty: Modern Warfare`|
+|[Fivem Queue Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/707099-fivem-queue-bypass.html)|`2025-06-30 19:59:00`|`Alternative Online Mods`|
 |[runtime patchguard disabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706184-runtime-patchguard-disabler.html)|`2025-06-30 19:53:00`|`Anti-Cheat Bypass`|
 |[ROP&#45;BF3&#45;Minimap&#45;Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-3-a/351012-rop-bf3-minimap-cheat.html)|`2025-06-30 19:51:00`|`Battlefield 3`|
 |[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-06-30 19:46:00`|`Grand Theft Auto V`|
