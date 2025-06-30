@@ -13,6 +13,7 @@
 |17|[AbyssTF public rls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/706779-abysstf-public-rls.html)|`2025-06-30 00:20:25`|`team-fortress-2-a`|
 |8|[Working Skinchanger Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706316-skinchanger-source-code.html)|`2025-06-30 04:43:40`|`counter-strike-2-a`|
 |8|[Please teach me how to use hacks right &#40;money front update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/706663-please-teach-hacks-money-front-update.html)|`2025-06-30 06:31:34`|`grand-theft-auto-v`|
+|1|[PEAK hacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706714-peak-hacks.html)|`2025-06-30 12:57:53`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
