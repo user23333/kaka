@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Should i disable DSE? &#91;AC Bypass&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706886-disable-dse-ac-bypass.html)|`2025-07-01 07:49:00`|`Anti-Cheat Bypass`|
+|[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-07-01 07:49:00`|`Call of Duty: Black Ops 3`|
+|[driver cant resolve cr3 eac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706676-driver-cant-resolve-cr3-eac.html)|`2025-07-01 07:48:00`|`Anti-Cheat Bypass`|
+|[Signed Spoofer By Microsoft&#40;EAC & BE&#41;  Early Christmas Present](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677190-signed-spoofer-microsoft-eac-christmas.html)|`2025-07-01 07:46:00`|`Anti-Cheat Bypass`|
 |[Fragpunk Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697941-fragpunk-internal.html)|`2025-07-01 07:09:00`|`Other FPS Games`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-07-01 07:07:00`|`Counter-Strike 2`|
 |[Forceful unlink method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/706228-forceful-unlink-method.html)|`2025-07-01 06:50:00`|`Call of Duty: Black Ops 6`|
