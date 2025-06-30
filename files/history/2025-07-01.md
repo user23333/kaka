@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2025-07-01 02:16:00`|`Sea of Thieves`|
+|[Battlefield 1 &#45; 2x Damage Multiplier](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/500253-battlefield-1-2x-damage-multiplier.html)|`2025-07-01 02:15:00`|`Battlefield 1`|
+|[LEGIT PREMIUM CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/698358-legit-premium-cheat.html)|`2025-07-01 02:14:00`|`Battlefield 1`|
 |[apex rage cheat &#40;external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705590-apex-rage-cheat-external.html)|`2025-07-01 01:41:00`|`Apex Legends`|
 |[External Auto&#45;wall Penetration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/696253-external-auto-wall-penetration.html)|`2025-07-01 01:21:00`|`Escape from Tarkov`|
 |[Rematch AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/707035-rematch-ahk.html)|`2025-07-01 01:09:00`|`Other Games`|
