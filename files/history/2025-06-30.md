@@ -39,6 +39,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MXT Menu 1&#46;0&#46;5 with Discord Invite popup removed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/504501-mxt-menu-1-0-5-discord-invite-popup-removed.html)|`2025-06-30 12:35:00`|`Call of Duty: Black Ops 3`|
+|[Arcade has "unsetup" itself and cannot fix it, anyone else dealt with this issue?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707171-arcade-unsetup-fix-else-dealt-issue.html)|`2025-06-30 12:15:00`|`Grand Theft Auto V`|
+|[How do you dump PlanetSide 2 and get offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/706134-dump-planetside-2-offsets.html)|`2025-06-30 12:02:00`|`PlanetSide 2`|
 |[valorant colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/693264-valorant-colorbot.html)|`2025-06-30 11:58:00`|`Valorant`|
 |[Valorant Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706997-valorant-skin-changer.html)|`2025-06-30 11:53:00`|`Valorant`|
 |[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2025-06-30 11:44:00`|`Grand Theft Auto V`|
