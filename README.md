@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fallout 76](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/305579-fallout-76-a.html)|`2025-06-30 11:01:00`|`Other FPS Games`|
 |[Do I need to spoof if I'm banned in Warzone for BO6?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/707084-spoof-im-banned-warzone-bo6.html)|`2025-06-30 09:39:00`|`Call of Duty: Black Ops 6`|
 |[arduino hid report descriptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/695806-arduino-hid-report-descriptor.html)|`2025-06-30 09:13:00`|`Valorant`|
 |[Joytokey bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/707167-joytokey-bypass.html)|`2025-06-30 07:57:00`|`Apex Legends`|
