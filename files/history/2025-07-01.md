@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;PC&#41; Character Clone Dupe Patched?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/693744-pc-character-clone-dupe-patched.html)|`2025-07-01 19:26:00`|`DayZ SA`|
+|[how to make cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/707308-cheat.html)|`2025-07-01 19:25:00`|`Programming for Beginners`|
 |[Vanguard DMA PCIE Device Blocking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706678-vanguard-dma-pcie-device-blocking.html)|`2025-07-01 19:03:00`|`Anti-Cheat Bypass`|
 |[DMA &#45; AMD 550 &#45; Firmware detection BIOS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706478-dma-amd-550-firmware-detection-bios.html)|`2025-07-01 19:01:00`|`Anti-Cheat Bypass`|
 |[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-07-01 18:54:00`|`Other Games`|
