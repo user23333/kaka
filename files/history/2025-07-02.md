@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Glitch tech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706230-glitch-tech.html)|`2025-07-02 06:49:00`|`Rainbow Six Siege`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-07-02 06:49:00`|`Counter-Strike 2`|
+|[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-07-02 06:48:00`|`Sea of Thieves`|
+|[Is it over for logitech scripts?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/707296-logitech-scripts.html)|`2025-07-02 06:48:00`|`Rainbow Six Siege`|
 |[are scripts detected now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/707248-scripts-detected.html)|`2025-07-02 06:44:00`|`Rainbow Six Siege`|
 |[Help&#33;&#33;&#33; How to achieve efficient knife self&#45;aiming?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/706079-help-achieve-efficient-knife-self-aiming.html)|`2025-07-02 06:39:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2025-07-02 06:17:00`|`Other FPS Games`|
