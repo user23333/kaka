@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-07-01 16:13:00`|`Grand Theft Auto V`|
+|[runtime patchguard disabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706184-runtime-patchguard-disabler.html)|`2025-07-01 16:08:00`|`Anti-Cheat Bypass`|
+|[Nothing for F125?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705920-f125.html)|`2025-07-01 16:04:00`|`Other Games`|
 |[Mapper for EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/705725-mapper-eac.html)|`2025-07-01 15:22:00`|`Anti-Cheat Bypass`|
 |[AbyssTF public rls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/706779-abysstf-public-rls.html)|`2025-07-01 15:16:00`|`Team Fortress 2`|
 |[pcileech&#45;rtl8188ee&#45;wifi emul](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/654112-pcileech-rtl8188ee-wifi-emul.html)|`2025-07-01 15:10:00`|`Anti-Cheat Bypass`|
