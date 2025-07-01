@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mapper for EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/705725-mapper-eac.html)|`2025-07-01 15:22:00`|`Anti-Cheat Bypass`|
+|[AbyssTF public rls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/706779-abysstf-public-rls.html)|`2025-07-01 15:16:00`|`Team Fortress 2`|
 |[pcileech&#45;rtl8188ee&#45;wifi emul](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/654112-pcileech-rtl8188ee-wifi-emul.html)|`2025-07-01 15:10:00`|`Anti-Cheat Bypass`|
 |[New member&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/705699-new-member.html)|`2025-07-01 14:43:00`|`Introductions`|
 |[What's the last technical textbook you read?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/702204-whats-technical-textbook-read.html)|`2025-07-01 14:37:00`|`Off Topic`|
