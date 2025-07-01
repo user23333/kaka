@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Crystal Of Atlan Updated Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/706028-crystal-atlan-updated-cheat-table.html)|`2025-07-01 09:19:00`|`Other MMORPG and Strategy`|
+|[Crashing issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/707289-crashing-issue.html)|`2025-07-01 08:30:00`|`Call of Duty: Black Ops 3`|
+|[Idol Party](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/704001-idol-party.html)|`2025-07-01 08:26:00`|`Other MMORPG and Strategy`|
+|[how to start &#42;big boy&#42; reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706907-start-boy-reversing.html)|`2025-07-01 08:05:00`|`Anti-Cheat Bypass`|
 |[Should i disable DSE? &#91;AC Bypass&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706886-disable-dse-ac-bypass.html)|`2025-07-01 07:49:00`|`Anti-Cheat Bypass`|
 |[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-07-01 07:49:00`|`Call of Duty: Black Ops 3`|
 |[driver cant resolve cr3 eac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706676-driver-cant-resolve-cr3-eac.html)|`2025-07-01 07:48:00`|`Anti-Cheat Bypass`|
