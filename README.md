@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ultimate COD WW2 Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/650299-ultimate-cod-ww2-thread.html)|`2025-07-01 12:49:00`|`Other Games`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-07-01 12:46:00`|`Overwatch`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-07-01 12:17:00`|`Other FPS Games`|
 |[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2025-07-01 12:02:00`|`Palworld`|
