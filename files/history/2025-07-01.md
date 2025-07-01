@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-07-01 22:36:00`|`Apex Legends`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-07-01 22:25:00`|`Other MMORPG and Strategy`|
+|[makcu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705009-makcu.html)|`2025-07-01 22:24:00`|`Valorant`|
+|[Rematch new game&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696030-rematch-game.html)|`2025-07-01 22:23:00`|`Other Games`|
 |[ImGui menu using ImGui&#45;DirectX&#45;11&#45;Kiero&#45;Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/707353-imgui-menu-using-imgui-directx-11-kiero-hook.html)|`2025-07-01 22:03:00`|`C and C++`|
 |[Logitech Ghub 2021&#46;11&#46;1775 Blocked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/707348-logitech-ghub-2021-11-1775-blocked.html)|`2025-07-01 21:42:00`|`Rainbow Six Siege`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-07-01 21:41:00`|`DayZ SA`|
