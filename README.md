@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BE HWID Ban, do they HWID at time of ban or historical?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/706685-hwid-ban-hwid-time-ban-historical.html)|`2025-07-01 20:21:00`|`Escape from Tarkov`|
 |[New ColorBot/TriggerBot Signed Microsoft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684493-colorbot-triggerbot-signed-microsoft.html)|`2025-07-01 19:52:00`|`Valorant`|
 |[FragPunk Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/666506-fragpunk-reversal-structs-offsets.html)|`2025-07-01 19:38:00`|`Other FPS Games`|
 |[&#40;PC&#41; Character Clone Dupe Patched?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/693744-pc-character-clone-dupe-patched.html)|`2025-07-01 19:26:00`|`DayZ SA`|
