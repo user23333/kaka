@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight DMA &#45; Based on IntelSDM &#45; Added features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/704981-dead-daylight-dma-based-intelsdm-added-features.html)|`2025-07-03 01:53:00`|`Other FPS Games`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-07-03 01:52:00`|`Other FPS Games`|
+|[driver cert](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/707517-driver-cert.html)|`2025-07-03 01:51:00`|`Anti-Cheat Bypass`|
 |[The Adryan Pack &#45; Multiplayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/694661-adryan-pack-multiplayer.html)|`2025-07-03 01:45:00`|`Star Wars Battlefront 2`|
 |[Call of duty WW2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/707515-call-duty-ww2.html)|`2025-07-03 01:43:00`|`Forum General`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-07-03 01:40:00`|`Rainbow Six Siege`|
