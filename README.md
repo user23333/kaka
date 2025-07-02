@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to get dwm's SwapChain in 24h2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/707456-dwms-swapchain-24h2.html)|`2025-07-02 15:23:00`|`Anti-Cheat Bypass`|
+|[Internal MessageBox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/707367-internal-messagebox.html)|`2025-07-02 15:23:00`|`CrossFire`|
 |[Combat Master Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/580878-combat-master-reversal-structs-offsets.html)|`2025-07-02 15:06:00`|`Combat Master`|
 |[GTAV style menu &#40;very bad code&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/direct3d/707452-gtav-style-menu-bad-code.html)|`2025-07-02 14:51:00`|`Direct3D`|
 |[Signed Spoofer By Microsoft&#40;EAC & BE&#41;  Early Christmas Present](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/677190-signed-spoofer-microsoft-eac-christmas.html)|`2025-07-02 14:49:00`|`Anti-Cheat Bypass`|
