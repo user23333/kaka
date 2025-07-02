@@ -12,6 +12,7 @@
 |13|[Rematch AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/707035-rematch-ahk.html)|`2025-07-02 00:20:58`|`other-games`|
 |12|[how to start &#42;big boy&#42; reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706907-start-boy-reversing.html)|`2025-07-02 00:20:58`|`anti-cheat-bypass`|
 |14|[Oreo Rivals &#91;Internal Cheat With External Overlay And New Hooking &#43; Silent Aim&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/707135-oreo-rivals-internal-cheat-external-overlay-hooking-silent-aim.html)|`2025-07-02 19:56:47`|`marvel-rivals`|
+|16|[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-07-02 22:56:24`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fix 10min](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/707302-fix-10min.html)|`2025-07-02 22:50:00`|`PUBG Mobile`|
+|[Warden's Free Ultimate Gamer Rust DMA Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/702331-wardens-free-ultimate-gamer-rust-dma-cheat.html)|`2025-07-02 22:50:00`|`Rust`|
 |[Anti&#45;cheat game cheat detection simulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703949-anti-cheat-game-cheat-detection-simulator.html)|`2025-07-02 22:42:00`|`Anti-Cheat Bypass`|
 |[Does EAC use any techniques to stop DriverEntry from being called?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/707481-eac-techniques-stop-driverentry-called.html)|`2025-07-02 22:38:00`|`Anti-Cheat Bypass`|
 |[per bone vischeck?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/707327-bone-vischeck.html)|`2025-07-02 22:28:00`|`Unreal Engine 4`|
