@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to permanently save vehicle modifications?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707471-permanently-save-vehicle-modifications.html)|`2025-07-02 17:48:00`|`Grand Theft Auto V`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-07-02 17:16:00`|`Other MMORPG and Strategy`|
 |[Easy patch for Arbor infinite trial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/707467-easy-patch-arbor-infinite-trial.html)|`2025-07-02 17:15:00`|`PC Software`|
 |[TPM / HVCI / SB BYPASS?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707465-tpm-hvci-sb-bypass.html)|`2025-07-02 16:57:00`|`Valorant`|
