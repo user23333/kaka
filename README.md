@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Interception &#46;net](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-/703427-interception-net.html)|`2025-07-02 20:25:00`|`C#`|
 |[External Player Freeze](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/707237-external-player-freeze.html)|`2025-07-02 19:55:00`|`Alternative Online Mods`|
 |[Limit release machine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653172-limit-release-machine.html)|`2025-07-02 19:31:00`|`Other FPS Games`|
 |[OW2 cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/703434-ow2-cheats.html)|`2025-07-02 19:13:00`|`Overwatch`|
