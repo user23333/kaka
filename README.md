@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how can i spoof fivem token permamently](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/706396-spoof-fivem-token-permamently.html)|`2025-07-02 12:52:00`|`Alternative Online Mods`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-07-02 12:47:00`|`Call of Duty: Black Ops 6`|
+|[imgui menu dll based](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/707446-imgui-menu-dll-based.html)|`2025-07-02 12:44:00`|`C and C++`|
 |[how do i unlock the ghost exposed hat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707445-unlock-ghost-exposed-hat.html)|`2025-07-02 12:23:00`|`Grand Theft Auto V`|
 |[unlock all is detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/707444-unlock-detected.html)|`2025-07-02 12:07:00`|`Call of Duty: Black Ops 6`|
 |[Anyone know if fake inventory openings are possible in CS2 like in CS:GO?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707435-fake-inventory-openings-cs2-cs.html)|`2025-07-02 11:53:00`|`Counter-Strike 2`|
