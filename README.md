@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is there a new VG Emulator for League of Legends that works?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/707491-vg-emulator-league-legends.html)|`2025-07-02 20:57:00`|`League of Legends`|
+|[Hello There&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/707462-hello.html)|`2025-07-02 20:40:00`|`Introductions`|
+|[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2025-07-02 20:26:00`|`Apex Legends`|
+|[Undo hwid spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/705996-undo-hwid-spoofing.html)|`2025-07-02 20:13:00`|`Anti-Cheat Bypass`|
 |[Interception &#46;net](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-/703427-interception-net.html)|`2025-07-02 20:25:00`|`C#`|
 |[External Player Freeze](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/707237-external-player-freeze.html)|`2025-07-02 19:55:00`|`Alternative Online Mods`|
 |[Limit release machine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653172-limit-release-machine.html)|`2025-07-02 19:31:00`|`Other FPS Games`|
