@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[7DTD 2&#46;0 Latest Stable Creative and Debug Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707218-7dtd-2-0-stable-creative-debug-assembly-csharp-dll.html)|`2025-07-03 00:58:00`|`Other FPS Games`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-07-03 00:56:00`|`Other FPS Games`|
+|[game of thrones kingsroad hack & offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701827-game-thrones-kingsroad-hack-offsets.html)|`2025-07-03 00:55:00`|`Other MMORPG and Strategy`|
+|[Looking to Mirror All Moves from Chess&#46;com to Lichess Analysis Board Automatically](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/707508-looking-mirror-moves-chess-com-lichess-analysis-board-automatically.html)|`2025-07-03 00:53:00`|`Other Games`|
+|[Anyone know if fake inventory openings are possible in CS2 like in CS:GO?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707435-fake-inventory-openings-cs2-cs.html)|`2025-07-03 00:50:00`|`Counter-Strike 2`|
+|[entering multiple indexes code all at once ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/706259-entering-multiple-indexes-code.html)|`2025-07-03 00:49:00`|`Grand Theft Auto V`|
 |[Auto Shop Board Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705682-auto-shop-board-issues.html)|`2025-07-03 00:46:00`|`Grand Theft Auto V`|
 |[Member of the Month &#45; July 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/707504-month-july-2025-a.html)|`2025-07-03 00:46:00`|`Member of the Month`|
 |[AbyssTF public rls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/706779-abysstf-public-rls.html)|`2025-07-03 00:45:00`|`Team Fortress 2`|
