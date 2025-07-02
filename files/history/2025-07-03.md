@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help&#33;&#33;&#33; How to achieve efficient knife self&#45;aiming?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/706079-help-achieve-efficient-knife-self-aiming.html)|`2025-07-03 06:40:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[VAC Modules Reversal 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705782-vac-modules-reversal-2025-a.html)|`2025-07-03 06:29:00`|`Counter-Strike 2`|
 |[Esp tweaking out](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/706539-esp-tweaking.html)|`2025-07-03 06:29:00`|`Rust`|
 |[What is this Cheat Called?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706902-cheat-called.html)|`2025-07-03 06:21:00`|`Valorant`|
