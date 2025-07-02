@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-07-03 02:52:00`|`Rust`|
+|[There's any cheat for GTA V Enhanced working with enabled BattleEye?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707495-theres-cheat-gta-enhanced-enabled-battleeye.html)|`2025-07-03 02:48:00`|`Grand Theft Auto V`|
 |[God exists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/697595-god-exists.html)|`2025-07-03 02:41:00`|`Off Topic`|
 |[how to reset the heist setup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707212-reset-heist-setup.html)|`2025-07-03 02:37:00`|`Grand Theft Auto V`|
 |[Any Unlimited Blocking stamina loaded via FMM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/707404-unlimited-blocking-stamina-loaded-via-fmm.html)|`2025-07-03 02:34:00`|`Star Wars Battlefront 2`|
