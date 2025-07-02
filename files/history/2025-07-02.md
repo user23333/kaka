@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VutriumBot 1&#46;0&#46;2 Free &#45; Rocket League Visual Aid & Bot Integration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/702424-vutriumbot-1-0-2-free-rocket-league-visual-aid-bot-integration.html)|`2025-07-02 23:19:00`|`Other Games`|
 |[Elden ring new Cheat Table &#43; Online &#40;risky&#41; &#43; CE Undetected &#43; future updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661671-elden-ring-cheat-table-online-risky-ce-undetected-future-updates.html)|`2025-07-02 23:09:00`|`Other FPS Games`|
 |[Fix 10min](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/707302-fix-10min.html)|`2025-07-02 22:50:00`|`PUBG Mobile`|
 |[Warden's Free Ultimate Gamer Rust DMA Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/702331-wardens-free-ultimate-gamer-rust-dma-cheat.html)|`2025-07-02 22:50:00`|`Rust`|
