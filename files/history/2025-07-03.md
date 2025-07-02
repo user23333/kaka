@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2025-07-03 05:51:00`|`Counter-Strike 2 Releases`|
 |[x86 PE Packer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/707409-x86-pe-packer.html)|`2025-07-03 05:41:00`|`Anti-Cheat Bypass`|
 |[Usage of AI tools for reverse engineering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/707497-usage-ai-tools-reverse-engineering.html)|`2025-07-03 05:41:00`|`General Programming and Reversing`|
 |[Valorant PixelBoT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702128-valorant-pixelbot.html)|`2025-07-03 05:37:00`|`Valorant`|
