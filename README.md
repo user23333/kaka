@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HWID info from Riot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707448-hwid-info-riot.html)|`2025-07-02 14:14:00`|`Valorant`|
+|[Reversing game with uncommon engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/703555-reversing-game-uncommon-engine.html)|`2025-07-02 13:58:00`|`General Programming and Reversing`|
 |[From Scratch External C&#43;&#43;&#40;custom gdi&#43; overlay&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705403-scratch-external-custom-gdi-overlay.html)|`2025-07-02 13:33:00`|`Counter-Strike 2`|
 |[Unlock more Chameleon/Wheel paints on Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/690610-unlock-chameleon-wheel-paints-enhanced.html)|`2025-07-02 13:15:00`|`Grand Theft Auto V`|
 |[Motherboard uuid changing every boot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706835-motherboard-uuid-changing-boot.html)|`2025-07-02 13:10:00`|`Valorant`|
