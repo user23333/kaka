@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anyone know if fake inventory openings are possible in CS2 like in CS:GO?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707435-fake-inventory-openings-cs2-cs.html)|`2025-07-02 11:53:00`|`Counter-Strike 2`|
+|[reWASD AimBot Config](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/707190-rewasd-aimbot-config.html)|`2025-07-02 11:48:00`|`Apex Legends`|
+|[Joytokey bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/707167-joytokey-bypass.html)|`2025-07-02 11:42:00`|`Apex Legends`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-07-02 11:35:00`|`Counter-Strike 2 Releases`|
 |[Disney Dreamlight Valley Cheat Engine Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/645409-disney-dreamlight-valley-cheat-engine-cheat-table.html)|`2025-07-02 11:30:00`|`Cheat Engine Tables`|
 |[visual studio 2019 setup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/706814-visual-studio-2019-setup.html)|`2025-07-02 11:20:00`|`C and C++`|
