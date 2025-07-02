@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[x86 PE Packer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/707409-x86-pe-packer.html)|`2025-07-03 05:41:00`|`Anti-Cheat Bypass`|
+|[Usage of AI tools for reverse engineering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/707497-usage-ai-tools-reverse-engineering.html)|`2025-07-03 05:41:00`|`General Programming and Reversing`|
+|[Valorant PixelBoT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702128-valorant-pixelbot.html)|`2025-07-03 05:37:00`|`Valorant`|
+|[FiveM &#45; External Silent Aimbot &#40;HandleBullet Crash&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/707506-fivem-external-silent-aimbot-handlebullet-crash.html)|`2025-07-03 05:36:00`|`Alternative Online Mods`|
 |[LOLControl Beta 2&#46;0 / Auto Accept / Account Manager /  Game and Vanguard Control](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/706474-lolcontrol-beta-2-0-auto-accept-account-manager-game-vanguard-control.html)|`2025-07-03 05:23:00`|`League of Legends`|
 |[Injection Info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707207-injection-info.html)|`2025-07-03 05:20:00`|`Counter-Strike 2`|
 |[NEW EAC LGHUB Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/707383-eac-lghub-bypass.html)|`2025-07-03 05:18:00`|`Rainbow Six Siege`|
