@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/707574-colorbot.html)|`2025-07-03 10:10:00`|`Splitgate`|
+|[Valorant UEFI secure boot popup ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707572-valorant-uefi-secure-boot-popup.html)|`2025-07-03 09:58:00`|`Valorant`|
+|[How to get dwm's SwapChain in 24h2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/707456-dwms-swapchain-24h2.html)|`2025-07-03 09:45:00`|`Anti-Cheat Bypass`|
+|[FragPunk Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/666506-fragpunk-reversal-structs-offsets.html)|`2025-07-03 09:34:00`|`Other FPS Games`|
+|[Vehicle spawner externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/707570-vehicle-spawner-externally.html)|`2025-07-03 09:31:00`|`Alternative Online Mods`|
 |[Schedule I Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695317-schedule-cheat-table.html)|`2025-07-03 08:47:00`|`Other Games`|
 |[Mastering Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-support/690404-mastering-cheat-engine.html)|`2025-07-03 08:29:00`|`Cheat Engine Support`|
 |[Unique Ban Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/707565-unique-ban-question.html)|`2025-07-03 08:17:00`|`Escape from Tarkov`|
