@@ -37,9 +37,15 @@
 |1|[FBC FIREBREAK UPDATED Cheat Table By REALHELL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50316)|`2025-07-04 05:42:29`|
 |1|[Artanis RCS v1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50313)|`2025-07-04 05:42:29`|
 |2|[stats editor 0&#46;0&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50299)|`2025-07-04 05:42:29`|
+|1|[borderlands hack&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50325)|`2025-07-04 05:54:27`|
+|1|[nfsw af&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50319)|`2025-07-04 05:54:27`|
+|1|[nfsr hack&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50318)|`2025-07-04 05:54:27`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need For Speed World auto finish hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/630561-speed-world-auto-finish-hack.html)|`2025-07-04 05:53:00`|`Other MMORPG and Strategy`|
+|[Need for Speed Rivals hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/630563-speed-rivals-hack.html)|`2025-07-04 05:53:00`|`Other Games`|
+|[Borderlands GoldKeys hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/630568-borderlands-goldkeys-hack.html)|`2025-07-04 05:48:00`|`Other Single Player Games`|
 |[Complete Anti&#45;Cheat BYPASS &#40;&#43;ONLINE&#43;INJECTOR&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/701513-complete-anti-cheat-bypass-online-injector.html)|`2025-07-04 05:40:00`|`Marvel Rivals`|
 |[FBC FIREBREAK UPDATED CHEAT TABLE GamePass Version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707601-fbc-firebreak-updated-cheat-table-gamepass-version.html)|`2025-07-04 05:37:00`|`Other FPS Games`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-07-04 05:35:00`|`League of Legends`|
