@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[what are the best settings for SEOwnedDE?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/707245-settings-seownedde.html)|`2025-07-04 01:17:00`|`Team Fortress 2`|
+|[The Finals ColorBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/669800-finals-colorbot.html)|`2025-07-04 01:16:00`|`THE FINALS`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-07-04 01:15:00`|`Escape from Tarkov`|
+|[exp farming](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/707652-exp-farming.html)|`2025-07-04 01:14:00`|`CrossFire`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2025-07-04 01:14:00`|`Grand Theft Auto V`|
+|[Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706101-cheat-engine.html)|`2025-07-04 01:13:00`|`Anti-Cheat Bypass`|
+|[New to coding hacks/exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/707651-coding-hacks-exploits.html)|`2025-07-04 01:13:00`|`Introductions`|
+|[Silver and Blood Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/707458-silver-blood-cheat-engine-table.html)|`2025-07-04 01:10:00`|`Other MMORPG and Strategy`|
+|[Cs2 external Release 1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706189-cs2-external-release-1-a.html)|`2025-07-04 01:09:00`|`Counter-Strike 2`|
 |[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2025-07-04 00:56:00`|`Counter-Strike 2 Releases`|
 |[DayZ PC Easy Dupe with Autohotkey](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/707460-dayz-pc-easy-dupe-autohotkey.html)|`2025-07-04 00:51:00`|`DayZ SA`|
 |[Rocket League &#45; Nebula Client, Item Spawner, Title Spawner, Etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696293-rocket-league-nebula-client-item-spawner-title-spawner-etc.html)|`2025-07-04 00:49:00`|`Other Games`|
