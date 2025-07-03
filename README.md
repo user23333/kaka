@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[am i updating my signatures right?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707626-am-updating-signatures.html)|`2025-07-03 20:58:00`|`Counter-Strike 2`|
+|[Zero Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703075-zero-triggerbot.html)|`2025-07-03 20:51:00`|`Valorant`|
+|[DSE win 11 24h2 lastest version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704396-dse-win-11-24h2-lastest-version.html)|`2025-07-03 20:49:00`|`Anti-Cheat Bypass`|
 |[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2025-07-03 20:17:00`|`Counter-Strike 2`|
 |[Roblox finding Folders &#40; 'Humanoid' 'Players' etc&#46;&#46; &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/705093-roblox-finding-folders-humanoid-players-etc.html)|`2025-07-03 20:15:00`|`Programming for Beginners`|
 |[Fastest screen capture Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707620-fastest-screen-capture-python.html)|`2025-07-03 20:11:00`|`Valorant`|
