@@ -12,6 +12,7 @@
 |2|["R6 Siege Anti&#45;Recoil Script – Works on Any Logitech Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706876-r6-siege-anti-recoil-script-logitech-mouse.html)|`2025-07-04 00:24:34`|`rainbow-six-siege`|
 |12|[how to start &#42;big boy&#42; reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706907-start-boy-reversing.html)|`2025-07-04 00:24:34`|`anti-cheat-bypass`|
 |9|[Dune Awakening Repair Exploit After Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707561-dune-awakening-repair-exploit-patch.html)|`2025-07-04 05:42:29`|`other-fps-games`|
+|6|[Dune Awakening dupe POST FIX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707538-dune-awakening-dupe-post-fix.html)|`2025-07-04 07:57:16`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
