@@ -40,9 +40,21 @@
 |1|[borderlands hack&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50325)|`2025-07-04 05:54:27`|
 |1|[nfsw af&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50319)|`2025-07-04 05:54:27`|
 |1|[nfsr hack&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50318)|`2025-07-04 05:54:27`|
+|1|[sdde hack&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50324)|`2025-07-04 06:19:47`|
+|1|[ofrr hack&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50323)|`2025-07-04 06:19:47`|
+|1|[ofdr hack&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50322)|`2025-07-04 06:19:47`|
+|1|[nfsw launcher&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50321)|`2025-07-04 06:19:47`|
+|1|[nfsw hack&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50320)|`2025-07-04 06:19:47`|
+|1|[ddc hack&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50317)|`2025-07-04 06:19:47`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Why trigger bots don't work properly anymore?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707766-trigger-bots-dont-properly-anymore.html)|`2025-07-04 06:19:00`|`Valorant`|
+|[Divinity Dragon Commander hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/630567-divinity-dragon-commander-hack.html)|`2025-07-04 06:12:00`|`Other MMORPG and Strategy`|
+|[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-07-04 06:08:00`|`Marvel Rivals`|
+|[Sleeping Dogs Definitive Edition hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/630565-sleeping-dogs-definitive-edition-hack.html)|`2025-07-04 06:07:00`|`Other FPS Games`|
+|[Operation Flashpoint Red River hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/630554-operation-flashpoint-red-river-hack.html)|`2025-07-04 06:07:00`|`Other FPS Games`|
+|[Operation Flashpoint Dragon Rising hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/630558-operation-flashpoint-dragon-rising-hack.html)|`2025-07-04 06:06:00`|`Other FPS Games`|
 |[Need For Speed World auto finish hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/630561-speed-world-auto-finish-hack.html)|`2025-07-04 05:53:00`|`Other MMORPG and Strategy`|
 |[Need for Speed Rivals hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/630563-speed-rivals-hack.html)|`2025-07-04 05:53:00`|`Other Games`|
 |[Borderlands GoldKeys hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/630568-borderlands-goldkeys-hack.html)|`2025-07-04 05:48:00`|`Other Single Player Games`|
