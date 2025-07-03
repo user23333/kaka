@@ -30,9 +30,15 @@
 |1|[Hearts of Iron IV&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50274)|`2025-07-03 12:18:48`|
 |1|[Auto G &#43; Auto 3 &#43; Auto Enter ahk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50295)|`2025-07-03 12:48:50`|
 |3|[RL Macros &#43; Fennec Swap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50277)|`2025-07-03 12:48:50`|
+|1|[Silver and Blood Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50309)|`2025-07-03 13:02:17`|
+|1|[LGHUB&#95;Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50296)|`2025-07-03 13:02:17`|
+|2|[Raax&#45;OGFN&#45;Internal&#45;V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50284)|`2025-07-03 13:02:17`|
+|2|[simple injector marvel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50281)|`2025-07-03 13:02:17`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Wicked Menu / Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/487033-wicked-menu-cheat-engine.html)|`2025-07-03 13:01:00`|`Grand Theft Auto V`|
+|[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-07-03 12:49:00`|`Marvel Rivals`|
 |[Logitech Ghub 2021&#46;11&#46;1775 Blocked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/707348-logitech-ghub-2021-11-1775-blocked.html)|`2025-07-03 12:37:00`|`Rainbow Six Siege`|
 |[Dungeon Defenders 2 Auto G &#43; Auto 3 &#43; Auto Enter script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/707050-dungeon-defenders-2-auto-auto-3-auto-enter-script.html)|`2025-07-03 12:30:00`|`Other Games`|
 |[&#91;removed&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707198-removed.html)|`2025-07-03 12:27:00`|`Counter-Strike 2`|
