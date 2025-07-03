@@ -49,6 +49,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to permanently save vehicle modifications?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707471-permanently-save-vehicle-modifications.html)|`2025-07-04 06:47:00`|`Grand Theft Auto V`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-07-04 06:23:00`|`Grand Theft Auto V`|
 |[Why trigger bots don't work properly anymore?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707766-trigger-bots-dont-properly-anymore.html)|`2025-07-04 06:19:00`|`Valorant`|
 |[Divinity Dragon Commander hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/630567-divinity-dragon-commander-hack.html)|`2025-07-04 06:12:00`|`Other MMORPG and Strategy`|
