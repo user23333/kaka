@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM &#45; External Silent Aimbot &#40;HandleBullet Crash&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/707506-fivem-external-silent-aimbot-handlebullet-crash.html)|`2025-07-04 02:54:00`|`Alternative Online Mods`|
+|[CS2 Enhanced Map Parser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693378-cs2-enhanced-map-parser.html)|`2025-07-04 02:52:00`|`Counter-Strike 2`|
+|[The Finals CEG Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/707634-finals-ceg-framework.html)|`2025-07-04 02:51:00`|`Anti-Cheat Bypass`|
 |[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-07-04 02:42:00`|`Half Life`|
 |[CS2 External using driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699829-cs2-external-using-driver.html)|`2025-07-04 02:30:00`|`Counter-Strike 2`|
 |[unlock all is detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/707444-unlock-detected.html)|`2025-07-04 02:22:00`|`Call of Duty: Black Ops 6`|
