@@ -11,6 +11,7 @@
 |14|[NEW EAC LGHUB Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/707383-eac-lghub-bypass.html)|`2025-07-04 00:24:34`|`rainbow-six-siege`|
 |2|["R6 Siege Anti&#45;Recoil Script – Works on Any Logitech Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706876-r6-siege-anti-recoil-script-logitech-mouse.html)|`2025-07-04 00:24:34`|`rainbow-six-siege`|
 |12|[how to start &#42;big boy&#42; reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706907-start-boy-reversing.html)|`2025-07-04 00:24:34`|`anti-cheat-bypass`|
+|9|[Dune Awakening Repair Exploit After Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707561-dune-awakening-repair-exploit-patch.html)|`2025-07-04 05:42:29`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,9 +34,16 @@
 |1|[dll menu base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50302)|`2025-07-04 05:18:36`|
 |1|[qteeq&#95;Hunters&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50298)|`2025-07-04 05:32:06`|
 |3|[PhasmoMenu v0&#46;5&#46;6&#46;5 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50297)|`2025-07-04 05:32:06`|
+|1|[FBC FIREBREAK UPDATED Cheat Table By REALHELL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50316)|`2025-07-04 05:42:29`|
+|1|[Artanis RCS v1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50313)|`2025-07-04 05:42:29`|
+|2|[stats editor 0&#46;0&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50299)|`2025-07-04 05:42:29`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Complete Anti&#45;Cheat BYPASS &#40;&#43;ONLINE&#43;INJECTOR&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/701513-complete-anti-cheat-bypass-online-injector.html)|`2025-07-04 05:40:00`|`Marvel Rivals`|
+|[FBC FIREBREAK UPDATED CHEAT TABLE GamePass Version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707601-fbc-firebreak-updated-cheat-table-gamepass-version.html)|`2025-07-04 05:37:00`|`Other FPS Games`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-07-04 05:35:00`|`League of Legends`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-07-04 05:33:00`|`Grand Theft Auto V`|
 |[long term solution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707579-term-solution.html)|`2025-07-04 05:29:00`|`Valorant`|
 |[Hunters Inc &#45; External Hack &#45;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707406-hunters-inc-external-hack.html)|`2025-07-04 05:28:00`|`Other FPS Games`|
 |[imgui menu dll based](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/707446-imgui-menu-dll-based.html)|`2025-07-04 05:12:00`|`C and C++`|
