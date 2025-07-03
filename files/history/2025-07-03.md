@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/465314-super-animal-royale-hack.html)|`2025-07-03 11:28:00`|`Other Games`|
+|[CS2 external esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/600259-cs2-external-esp.html)|`2025-07-03 11:01:00`|`Counter-Strike 2 Releases`|
 |[Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/707574-colorbot.html)|`2025-07-03 10:10:00`|`Splitgate`|
 |[Valorant UEFI secure boot popup ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707572-valorant-uefi-secure-boot-popup.html)|`2025-07-03 09:58:00`|`Valorant`|
 |[How to get dwm's SwapChain in 24h2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/707456-dwms-swapchain-24h2.html)|`2025-07-03 09:45:00`|`Anti-Cheat Bypass`|
