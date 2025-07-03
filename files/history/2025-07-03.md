@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Continuous Sentinel BUG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/707589-continuous-sentinel-bug.html)|`2025-07-03 15:35:00`|`Apex Legends`|
 |[FiveM Version External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/706005-fivem-version-external.html)|`2025-07-03 15:17:00`|`Alternative Online Mods`|
 |[palworld internal update with &#42;spawnpal&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/623520-palworld-internal-update-spawnpal.html)|`2025-07-03 15:15:00`|`Palworld`|
 |[Is there a new VG Emulator for League of Legends that works?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/707491-vg-emulator-league-legends.html)|`2025-07-03 15:13:00`|`League of Legends`|
