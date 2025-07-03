@@ -37,6 +37,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to obtain &#46;vphys file for parsing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707564-obtain-vphys-file-parsing.html)|`2025-07-03 13:25:00`|`Counter-Strike 2`|
+|[apex rage cheat &#40;external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705590-apex-rage-cheat-external.html)|`2025-07-03 13:19:00`|`Apex Legends`|
+|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-07-03 13:04:00`|`Half Life`|
 |[Wicked Menu / Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/487033-wicked-menu-cheat-engine.html)|`2025-07-03 13:01:00`|`Grand Theft Auto V`|
 |[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-07-03 12:49:00`|`Marvel Rivals`|
 |[Logitech Ghub 2021&#46;11&#46;1775 Blocked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/707348-logitech-ghub-2021-11-1775-blocked.html)|`2025-07-03 12:37:00`|`Rainbow Six Siege`|
