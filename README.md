@@ -31,9 +31,13 @@
 |3|[Oreo Rivals Injector &#40;latest&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50292)|`2025-07-04 04:53:56`|
 |1|[Oreo Rivals Normal Internal Ver&#46; &#40;latest&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50291)|`2025-07-04 04:53:56`|
 |1|[dll menu base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50302)|`2025-07-04 05:18:36`|
+|1|[qteeq&#95;Hunters&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50298)|`2025-07-04 05:32:06`|
+|3|[PhasmoMenu v0&#46;5&#46;6&#46;5 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50297)|`2025-07-04 05:32:06`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[long term solution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707579-term-solution.html)|`2025-07-04 05:29:00`|`Valorant`|
+|[Hunters Inc &#45; External Hack &#45;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707406-hunters-inc-external-hack.html)|`2025-07-04 05:28:00`|`Other FPS Games`|
 |[imgui menu dll based](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/707446-imgui-menu-dll-based.html)|`2025-07-04 05:12:00`|`C and C++`|
 |[HWID info from Riot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707448-hwid-info-riot.html)|`2025-07-04 05:10:00`|`Valorant`|
 |[cant apply holiday liveries on moc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695650-cant-apply-holiday-liveries-moc.html)|`2025-07-04 05:07:00`|`Grand Theft Auto V`|
