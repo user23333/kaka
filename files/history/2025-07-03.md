@@ -15,6 +15,7 @@
 |2|["R6 Siege Anti&#45;Recoil Script – Works on Any Logitech Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706876-r6-siege-anti-recoil-script-logitech-mouse.html)|`2025-07-03 03:41:23`|`rainbow-six-siege`|
 |11|[Peak &#45; AIO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706875-peak-aio.html)|`2025-07-03 07:56:32`|`other-games`|
 |6|[Dune awakening dupe need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707490-dune-awakening-dupe-help.html)|`2025-07-03 18:09:30`|`other-fps-games`|
+|13|[NEW EAC LGHUB Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/707383-eac-lghub-bypass.html)|`2025-07-03 21:37:36`|`rainbow-six-siege`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -38,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops Cold War Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/421778-call-duty-black-ops-cold-war-reversal-structs-offsets.html)|`2025-07-03 21:26:00`|`Call of Duty: Black Ops Cold War`|
+|[COD Plunder &#45; Humanized AFK Script &#40;Fast Gun/Acc Lvl XP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/687454-cod-plunder-humanized-afk-script-fast-gun-acc-lvl-xp.html)|`2025-07-03 21:06:00`|`Call of Duty: Black Ops 6`|
 |[am i updating my signatures right?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707626-am-updating-signatures.html)|`2025-07-03 20:58:00`|`Counter-Strike 2`|
 |[Zero Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703075-zero-triggerbot.html)|`2025-07-03 20:51:00`|`Valorant`|
 |[DSE win 11 24h2 lastest version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704396-dse-win-11-24h2-lastest-version.html)|`2025-07-03 20:49:00`|`Anti-Cheat Bypass`|
