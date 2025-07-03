@@ -38,6 +38,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Borderlands GoldKeys hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/630568-borderlands-goldkeys-hack.html)|`2025-07-03 19:21:00`|`Other Single Player Games`|
+|[basic chams base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/688179-basic-chams-base.html)|`2025-07-03 19:19:00`|`Call of Duty: Black Ops 6`|
+|[Sleeping Dogs Definitive Edition hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/630565-sleeping-dogs-definitive-edition-hack.html)|`2025-07-03 19:17:00`|`Other FPS Games`|
+|[Operation Flashpoint Red River hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/630554-operation-flashpoint-red-river-hack.html)|`2025-07-03 19:14:00`|`Other FPS Games`|
 |[Visibility Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707254-visibility-check.html)|`2025-07-03 19:11:00`|`Valorant`|
 |[Nenyooo Menu lua scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707613-nenyooo-menu-lua-scripts.html)|`2025-07-03 19:08:00`|`Grand Theft Auto V`|
 |[Plouton &#45; A System Management Mode &#40;SMM&#41; cheat framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693225-plouton-system-management-mode-smm-cheat-framework.html)|`2025-07-03 19:07:00`|`Anti-Cheat Bypass`|
