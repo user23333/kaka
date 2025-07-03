@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to permanently save vehicle modifications?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707471-permanently-save-vehicle-modifications.html)|`2025-07-03 18:28:00`|`Grand Theft Auto V`|
+|[Teensy 4&#46;1 &#43; USB Host &#43; Ethernet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/706511-teensy-4-1-usb-host-ethernet.html)|`2025-07-03 18:22:00`|`Introductions`|
+|[How to unlock festive tint for up n atomizer on GTA5 enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701925-unlock-festive-tint-atomizer-gta5-enhanced.html)|`2025-07-03 18:12:00`|`Grand Theft Auto V`|
 |[FBC: Firebreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705440-fbc-firebreak.html)|`2025-07-03 17:45:00`|`Other FPS Games`|
 |[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-07-03 17:42:00`|`Other FPS Games`|
 |[TarkovGUI &#124; PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/694944-tarkovgui-pve.html)|`2025-07-03 17:34:00`|`Escape from Tarkov`|
