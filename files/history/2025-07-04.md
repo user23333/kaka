@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-07-04 02:42:00`|`Half Life`|
+|[CS2 External using driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699829-cs2-external-using-driver.html)|`2025-07-04 02:30:00`|`Counter-Strike 2`|
 |[unlock all is detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/707444-unlock-detected.html)|`2025-07-04 02:22:00`|`Call of Duty: Black Ops 6`|
 |[Member of the Month &#45; July 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/707504-month-july-2025-a.html)|`2025-07-04 02:12:00`|`Member of the Month`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-07-04 02:07:00`|`Rainbow Six Siege`|
