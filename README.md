@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[7DTD 1&#46;3 Creative and Debug Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/687101-7dtd-1-3-creative-debug-assembly-csharp-dll.html)|`2025-07-03 19:29:00`|`Other FPS Games`|
 |[Hardware Scripts &#40;ESP32, Arduinos&#41; detectable by EAC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/706554-hardware-scripts-esp32-arduinos-detectable-eac.html)|`2025-07-03 19:35:00`|`Rust`|
 |[Borderlands GoldKeys hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/630568-borderlands-goldkeys-hack.html)|`2025-07-03 19:21:00`|`Other Single Player Games`|
 |[basic chams base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/688179-basic-chams-base.html)|`2025-07-03 19:19:00`|`Call of Duty: Black Ops 6`|
