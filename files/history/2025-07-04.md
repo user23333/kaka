@@ -30,9 +30,15 @@
 |1|[Oreo  Rivals Crash Fix  Internal Ver &#40;LATEST&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50293)|`2025-07-04 04:53:56`|
 |3|[Oreo Rivals Injector &#40;latest&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50292)|`2025-07-04 04:53:56`|
 |1|[Oreo Rivals Normal Internal Ver&#46; &#40;latest&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50291)|`2025-07-04 04:53:56`|
+|1|[dll menu base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50302)|`2025-07-04 05:18:36`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[imgui menu dll based](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/707446-imgui-menu-dll-based.html)|`2025-07-04 05:12:00`|`C and C++`|
+|[HWID info from Riot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707448-hwid-info-riot.html)|`2025-07-04 05:10:00`|`Valorant`|
+|[cant apply holiday liveries on moc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695650-cant-apply-holiday-liveries-moc.html)|`2025-07-04 05:07:00`|`Grand Theft Auto V`|
+|[how to Safe Environment on AndroidEmulatorEx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/707531-safe-environment-androidemulatorex.html)|`2025-07-04 05:03:00`|`PUBG Mobile`|
+|[CSGhost v4 &#45; Injector with Full Integrated VAC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cs-go-releases/454734-csghost-v4-injector-integrated-vac-bypass.html)|`2025-07-04 04:55:00`|`CS:GO Releases`|
 |[Oreo Rivals &#91;Internal Cheat With External Overlay And New Hooking &#43; Silent Aim&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/707135-oreo-rivals-internal-cheat-external-overlay-hooking-silent-aim.html)|`2025-07-04 04:49:00`|`Marvel Rivals`|
 |[Universal Recoil &#40;like UMT program&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/617894-universal-recoil-umt-program.html)|`2025-07-04 04:33:00`|`Other FPS Games`|
 |[Are people still using aimbots in battlefield?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/707511-people-using-aimbots-battlefield.html)|`2025-07-04 04:32:00`|`Battlefield 2042`|
