@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Are people still using aimbots in battlefield?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/707511-people-using-aimbots-battlefield.html)|`2025-07-04 04:32:00`|`Battlefield 2042`|
+|[Roblox View Matrix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/707670-roblox-view-matrix.html)|`2025-07-04 04:18:00`|`Forum General`|
 |[imgui menu advanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/707223-imgui-menu-advanced.html)|`2025-07-04 04:11:00`|`C and C++`|
 |[SEO64 fixed &#40;entities&#46;h&#41; 6/14/2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/704896-seo64-fixed-entities-6-14-2025-a.html)|`2025-07-04 04:05:00`|`Team Fortress 2`|
 |[Ranked Glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/707423-ranked-glitch.html)|`2025-07-04 04:03:00`|`Apex Legends`|
