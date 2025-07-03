@@ -25,9 +25,15 @@
 |2|[Hearts of Iron IV&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50274)|`2025-07-04 00:24:34`|
 |33|[rcv2&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50272)|`2025-07-04 00:24:34`|
 |1|[Updated Gems of War](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50286)|`2025-07-04 03:10:51`|
+|1|[menu imgui amnesia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50282)|`2025-07-04 04:14:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[imgui menu advanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/707223-imgui-menu-advanced.html)|`2025-07-04 04:11:00`|`C and C++`|
+|[SEO64 fixed &#40;entities&#46;h&#41; 6/14/2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/704896-seo64-fixed-entities-6-14-2025-a.html)|`2025-07-04 04:05:00`|`Team Fortress 2`|
+|[Ranked Glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/707423-ranked-glitch.html)|`2025-07-04 04:03:00`|`Apex Legends`|
+|[Dune Awakening Dupe Exploit After Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707666-dune-awakening-dupe-exploit-patch.html)|`2025-07-04 04:01:00`|`Other FPS Games`|
+|[Process Snatcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/706574-process-snatcher.html)|`2025-07-04 03:57:00`|`General Programming and Reversing`|
 |[Fivem Bypass No special characters](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/706165-fivem-bypass-special-characters.html)|`2025-07-04 03:56:00`|`Grand Theft Auto V`|
 |[Hardware Scripts &#40;ESP32, Arduinos&#41; detectable by EAC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/706554-hardware-scripts-esp32-arduinos-detectable-eac.html)|`2025-07-04 03:48:00`|`Rust`|
 |[Valorant UEFI secure boot popup ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707572-valorant-uefi-secure-boot-popup.html)|`2025-07-04 03:48:00`|`Valorant`|
