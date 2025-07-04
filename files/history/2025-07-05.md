@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-07-05 06:43:00`|`Rainbow Six Siege`|
+|[Contractors Showdown: Exfilzone Duping Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/701380-contractors-showdown-exfilzone-duping-methods.html)|`2025-07-05 06:39:00`|`Other FPS Games`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-07-05 06:35:00`|`Escape from Tarkov`|
 |[Can&#96;t open CS2 without &#45;insecure tag](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707878-cs2-insecure-tag.html)|`2025-07-05 06:25:00`|`Counter-Strike 2`|
 |[GTA ONLINE ENHANCED ALL AWARDS STATS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701294-gta-online-enhanced-awards-stats.html)|`2025-07-05 06:18:00`|`Grand Theft Auto V`|
 |[Rocket League &#45; Name Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/699045-rocket-league-name-spoofer.html)|`2025-07-05 06:16:00`|`Other Games`|
