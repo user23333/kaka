@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bombardino Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/704529-bombardino-internal.html)|`2025-07-05 04:39:00`|`Marvel Rivals`|
+|[rp2040 board usb host help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/701592-rp2040-board-usb-host-help.html)|`2025-07-05 04:38:00`|`Valorant`|
+|[Cheap Hardware Cheats for Valorant?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707573-cheap-hardware-cheats-valorant.html)|`2025-07-05 04:36:00`|`Valorant`|
+|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-07-05 04:35:00`|`Other FPS Games`|
 |[ネコちゃん &#124;「 ✦ Neko Triggerbot✦ 」 &#124; ネコちゃん](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706894-neko-triggerbot.html)|`2025-07-05 04:31:00`|`Valorant`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-07-05 04:08:00`|`Grand Theft Auto V`|
 |[Console Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/707421-console-cheats.html)|`2025-07-05 04:07:00`|`Call of Duty: Black Ops 6`|
