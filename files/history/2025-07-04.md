@@ -50,6 +50,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New to the cheating&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/707660-cheating.html)|`2025-07-04 20:16:00`|`Introductions`|
+|[Definitive Ultimate Cheatpack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/633084-definitive-ultimate-cheatpack.html)|`2025-07-04 20:13:00`|`Star Wars Battlefront 2`|
+|[&#40;Selfleak&#41;unturned cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707794-selfleak-unturned-cheat.html)|`2025-07-04 20:09:00`|`Other FPS Games`|
+|[is there any valorant cheat that works?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707832-valorant-cheat.html)|`2025-07-04 20:08:00`|`Valorant`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-07-04 20:03:00`|`Counter-Strike 2`|
 |[Rocket League Breezi Flick Macro AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706919-rocket-league-breezi-flick-macro-ahk.html)|`2025-07-04 19:47:00`|`Other Games`|
 |[Blade and Soul Neo Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/689197-blade-soul-neo-hack.html)|`2025-07-04 19:47:00`|`Other MMORPG and Strategy`|
 |[Fastest screen capture method &#45; less than 1ms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705058-fastest-screen-capture-method-1ms.html)|`2025-07-04 19:33:00`|`Valorant`|
