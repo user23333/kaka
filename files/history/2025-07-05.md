@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-07-05 02:36:00`|`Counter-Strike 2`|
+|[How&#45;to Sign Kernel Driver With Leaked Certificate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/587763-sign-kernel-driver-leaked-certificate.html)|`2025-07-05 02:28:00`|`Anti-Cheat Bypass`|
 |[Increase FPS In BR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/706465-increase-fps-br.html)|`2025-07-05 02:24:00`|`Apex Legends`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-07-05 02:22:00`|`Other FPS Games`|
 |[TPM / HVCI / SB BYPASS?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707465-tpm-hvci-sb-bypass.html)|`2025-07-05 02:19:00`|`Valorant`|
