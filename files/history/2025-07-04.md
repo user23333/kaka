@@ -51,6 +51,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Bunnyhop Script with Memory Reading & Randomized Timing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/707850-cs2-bunnyhop-script-memory-reading-randomized-timing.html)|`2025-07-04 22:40:00`|`Counter-Strike 2 Releases`|
+|[movement prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707806-movement-prediction.html)|`2025-07-04 22:39:00`|`Counter-Strike 2`|
 |[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2025-07-04 22:29:00`|`Other FPS Games`|
 |[CS2 Offsets Fetcher and Organized Python Class Generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/707848-cs2-offsets-fetcher-organized-python-class-generator.html)|`2025-07-04 22:28:00`|`Counter-Strike 2 Releases`|
 |[Any simple Undetected ESPs for Gmod?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/707786-simple-undetected-esps-gmod.html)|`2025-07-04 22:28:00`|`Garry's Mod`|
