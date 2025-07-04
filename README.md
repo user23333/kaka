@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Increase FPS In BR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/706465-increase-fps-br.html)|`2025-07-05 02:24:00`|`Apex Legends`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-07-05 02:22:00`|`Other FPS Games`|
+|[TPM / HVCI / SB BYPASS?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707465-tpm-hvci-sb-bypass.html)|`2025-07-05 02:19:00`|`Valorant`|
+|[Gta 5 enhanced get all weapons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697710-gta-5-enhanced-weapons.html)|`2025-07-05 02:06:00`|`Grand Theft Auto V`|
+|[Elden ring new Cheat Table &#43; Online &#40;risky&#41; &#43; CE Undetected &#43; future updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661671-elden-ring-cheat-table-online-risky-ce-undetected-future-updates.html)|`2025-07-05 02:03:00`|`Other FPS Games`|
+|[Oreo Rivals &#91;Internal Cheat With External Overlay And New Hooking &#43; Silent Aim&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/707135-oreo-rivals-internal-cheat-external-overlay-hooking-silent-aim.html)|`2025-07-05 02:02:00`|`Marvel Rivals`|
+|[movement prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707806-movement-prediction.html)|`2025-07-05 01:58:00`|`Counter-Strike 2`|
 |[The Finals CEG Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/707634-finals-ceg-framework.html)|`2025-07-05 01:58:00`|`Anti-Cheat Bypass`|
 |[Peak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706121-peak.html)|`2025-07-05 01:38:00`|`Other Games`|
 |[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-07-05 01:50:00`|`Battlefield 4`|
