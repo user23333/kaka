@@ -50,6 +50,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Recycle Bin Robbery](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707809-recycle-bin-robbery.html)|`2025-07-04 13:50:00`|`Grand Theft Auto V`|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-07-04 13:43:00`|`Other FPS Games`|
+|[Cheap Hardware Cheats for Valorant?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707573-cheap-hardware-cheats-valorant.html)|`2025-07-04 13:41:00`|`Valorant`|
 |[Are Macros easily detectable?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/707807-macros-easily-detectable.html)|`2025-07-04 13:17:00`|`Sea of Thieves`|
 |[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2025-07-04 13:13:00`|`Other FPS Games`|
 |[RustRecoilMacro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706634-rustrecoilmacro.html)|`2025-07-04 13:13:00`|`Rainbow Six Siege`|
