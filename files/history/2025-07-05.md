@@ -12,6 +12,7 @@
 |18|[Rematch AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/707035-rematch-ahk.html)|`2025-07-05 00:20:59`|`other-games`|
 |19|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2025-07-05 00:20:59`|`grand-theft-auto-v`|
 |12|[how to start &#42;big boy&#42; reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706907-start-boy-reversing.html)|`2025-07-05 05:51:55`|`anti-cheat-bypass`|
+|2|[Dune Awakening Dupe Exploit After Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707666-dune-awakening-dupe-exploit-patch.html)|`2025-07-05 06:14:37`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
