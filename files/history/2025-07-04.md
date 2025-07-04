@@ -51,6 +51,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-07-04 22:34:00`|`Grand Theft Auto V`|
 |[ANEURISM IV &#45; Steam game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691595-aneurism-iv-steam-game.html)|`2025-07-04 22:50:00`|`Other Games`|
 |[CS2 Bunnyhop Script with Memory Reading & Randomized Timing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/707850-cs2-bunnyhop-script-memory-reading-randomized-timing.html)|`2025-07-04 22:40:00`|`Counter-Strike 2 Releases`|
 |[movement prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707806-movement-prediction.html)|`2025-07-04 22:39:00`|`Counter-Strike 2`|
