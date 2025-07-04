@@ -50,6 +50,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fallout 76](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/305579-fallout-76-a.html)|`2025-07-04 11:40:00`|`Other FPS Games`|
+|[Onboard macros](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/707621-onboard-macros.html)|`2025-07-04 11:35:00`|`Apex Legends`|
 |[&#40;PC&#41; Character Clone Dupe Patched?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/693744-pc-character-clone-dupe-patched.html)|`2025-07-04 10:54:00`|`DayZ SA`|
 |[New to all of this; So bare with&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/707796-bare.html)|`2025-07-04 10:40:00`|`Apex Legends`|
 |[Rematch AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/707035-rematch-ahk.html)|`2025-07-04 09:57:00`|`Other Games`|
