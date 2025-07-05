@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New cs2 anticheat update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707917-cs2-anticheat-update.html)|`2025-07-05 16:22:00`|`Counter-Strike 2`|
+|[lone&#45;dma eft&#45;dma&#45;radar built w/ wpf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/704132-lone-dma-eft-dma-radar-built-wpf.html)|`2025-07-05 16:14:00`|`Escape from Tarkov`|
 |[What is this Cheat Called?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706902-cheat-called.html)|`2025-07-05 15:59:00`|`Valorant`|
 |[Custom legendary skins will result in cheating tags](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/699760-custom-legendary-skins-result-cheating-tags.html)|`2025-07-05 15:36:00`|`Payday 2`|
 |[Genshin Impact &#40; Unity &#41; IL2CPP Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/702285-genshin-impact-unity-il2cpp-dumper.html)|`2025-07-05 15:32:00`|`Programming for Beginners`|
