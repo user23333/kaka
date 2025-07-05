@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What is this Cheat Called?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706902-cheat-called.html)|`2025-07-05 15:59:00`|`Valorant`|
+|[Custom legendary skins will result in cheating tags](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/699760-custom-legendary-skins-result-cheating-tags.html)|`2025-07-05 15:36:00`|`Payday 2`|
 |[Genshin Impact &#40; Unity &#41; IL2CPP Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/702285-genshin-impact-unity-il2cpp-dumper.html)|`2025-07-05 15:32:00`|`Programming for Beginners`|
 |[7DTD 2&#46;0 Latest Stable Creative and Debug Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707218-7dtd-2-0-stable-creative-debug-assembly-csharp-dll.html)|`2025-07-05 14:57:00`|`Other FPS Games`|
 |[r6s obs walls?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/707082-r6s-obs-walls.html)|`2025-07-05 14:48:00`|`Rainbow Six Siege`|
