@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VAN:Restriction vanguard config change detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707672-van-restriction-vanguard-config-change-detected.html)|`2025-07-05 12:43:00`|`Valorant`|
 |[An Unreal process has crashed: UE&#45;Marvel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/707900-unreal-process-crashed-ue-marvel.html)|`2025-07-05 12:28:00`|`Marvel Rivals`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-07-05 11:53:00`|`League of Legends`|
 |[Nexus External ESP V2 &#40;PyMeow&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/690093-nexus-external-esp-v2-pymeow.html)|`2025-07-05 11:52:00`|`Garry's Mod`|
