@@ -11,6 +11,7 @@
 |20|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2025-07-06 00:00:30`|`grand-theft-auto-v`|
 |13|[r6s obs walls?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/707082-r6s-obs-walls.html)|`2025-07-06 00:00:30`|`rainbow-six-siege`|
 |11|[Vanguard Blocking Custom OS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707116-vanguard-blocking-custom-os.html)|`2025-07-06 00:00:30`|`valorant`|
+|12|[reWASD AimBot Config](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/707190-rewasd-aimbot-config.html)|`2025-07-06 04:49:04`|`apex-legends`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
