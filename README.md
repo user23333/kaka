@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help with Walls?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706212-help-walls.html)|`2025-07-05 21:56:00`|`Rainbow Six Siege`|
+|[are scripts detected now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/707248-scripts-detected.html)|`2025-07-05 21:55:00`|`Rainbow Six Siege`|
 |[Is it possible to read memory for visibility check? &#40;no map parsing&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/707943-read-memory-visibility-check-map-parsing.html)|`2025-07-05 21:53:00`|`Counter-Strike 2 Releases`|
 |["R6 Siege Anti&#45;Recoil Script – Works on Any Logitech Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706876-r6-siege-anti-recoil-script-logitech-mouse.html)|`2025-07-05 21:49:00`|`Rainbow Six Siege`|
 |[cs2 internal free hvh cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707942-cs2-internal-free-hvh-cheat.html)|`2025-07-05 21:48:00`|`Counter-Strike 2`|
