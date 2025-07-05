@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[van 152 traceX &#40;slothytechs&#41; spoofer not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707964-van-152-tracex-slothytechs-spoofer.html)|`2025-07-06 01:36:00`|`Valorant`|
+|[The Finals ColorBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/669800-finals-colorbot.html)|`2025-07-06 01:36:00`|`THE FINALS`|
 |[NEW EAC LGHUB Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/707383-eac-lghub-bypass.html)|`2025-07-06 01:19:00`|`Rainbow Six Siege`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2025-07-06 01:18:00`|`Grand Theft Auto V`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-07-06 01:13:00`|`Grand Theft Auto V`|
