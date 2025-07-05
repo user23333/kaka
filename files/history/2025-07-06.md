@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hardware Scripts &#40;ESP32, Arduinos&#41; detectable by EAC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/706554-hardware-scripts-esp32-arduinos-detectable-eac.html)|`2025-07-06 02:32:00`|`Rust`|
+|[&#91;DMA&#93; COD &#45; ESP &#43; AIM &#40;steam only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700409-dma-cod-esp-aim-steam.html)|`2025-07-06 02:31:00`|`Call of Duty: Black Ops 6`|
+|[Gta 5 enhanced get all weapons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697710-gta-5-enhanced-weapons.html)|`2025-07-06 02:26:00`|`Grand Theft Auto V`|
 |[Internal MessageBox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/707367-internal-messagebox.html)|`2025-07-06 02:23:00`|`CrossFire`|
 |[CRT in internal?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/707967-crt-internal.html)|`2025-07-06 02:23:00`|`Call of Duty: Black Ops 6`|
 |[Arduino Working Jitter aim bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703532-arduino-jitter-aim-bypass.html)|`2025-07-06 02:12:00`|`Apex Legends`|
