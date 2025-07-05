@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FBC FIREBREAK UPDATED CHEAT TABLE GamePass Version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707601-fbc-firebreak-updated-cheat-table-gamepass-version.html)|`2025-07-06 05:15:00`|`Other FPS Games`|
+|[pls help with asset bundle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/707985-pls-help-asset-bundle.html)|`2025-07-06 05:12:00`|`Rust`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-07-06 05:08:00`|`Alternative Online Mods`|
 |[CS 2 Kernel Cheat With Many Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/707639-cs-2-kernel-cheat-features.html)|`2025-07-06 05:06:00`|`Counter-Strike 2 Releases`|
 |[game of thrones kingsroad hack & offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701827-game-thrones-kingsroad-hack-offsets.html)|`2025-07-06 04:51:00`|`Other MMORPG and Strategy`|
