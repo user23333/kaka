@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-07-06 01:13:00`|`Grand Theft Auto V`|
+|[sleepy cheat dev thoughts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/707904-sleepy-cheat-dev.html)|`2025-07-06 01:10:00`|`Off Topic`|
+|[Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705842-spoofer.html)|`2025-07-06 01:08:00`|`Valorant`|
 |[autostrafer matchmaking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707963-autostrafer-matchmaking.html)|`2025-07-06 00:59:00`|`Counter-Strike 2`|
 |[Can the mouse right&#45;click be set to not display the attack arrow?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/707960-mouse-click-set-display-attack-arrow.html)|`2025-07-06 00:38:00`|`League of Legends`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-07-06 00:35:00`|`League of Legends`|
