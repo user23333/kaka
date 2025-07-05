@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Persona5: Phantom X](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/707919-persona5-phantom.html)|`2025-07-05 17:33:00`|`Other MMORPG and Strategy`|
+|[just latest offsets anyone ???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/704239-offsets.html)|`2025-07-05 17:32:00`|`Battlefield V`|
 |[Dead by Daylight &#45; Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625318-dead-daylight-unlock-dlcs-skins.html)|`2025-07-05 17:25:00`|`Other FPS Games`|
 |[Definitive Ultimate Cheatpack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/633084-definitive-ultimate-cheatpack.html)|`2025-07-05 17:24:00`|`Star Wars Battlefront 2`|
 |[how to permanently save vehicle modifications?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707471-permanently-save-vehicle-modifications.html)|`2025-07-05 17:22:00`|`Grand Theft Auto V`|
