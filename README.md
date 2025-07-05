@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New to the cheating&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/707660-cheating.html)|`2025-07-05 23:40:00`|`Introductions`|
+|[FiveM &#45; External Silent Aimbot &#40;HandleBullet Crash&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/707506-fivem-external-silent-aimbot-handlebullet-crash.html)|`2025-07-05 23:38:00`|`Alternative Online Mods`|
 |[disable disk smart function error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/707952-disable-disk-smart-function-error.html)|`2025-07-05 23:29:00`|`Anti-Cheat Bypass`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-07-05 23:26:00`|`Apex Legends`|
 |[Bot lobbies through GPU Renting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703739-bot-lobbies-gpu-renting.html)|`2025-07-05 23:22:00`|`Apex Legends`|
