@@ -15,6 +15,7 @@
 |2|[Dune Awakening Dupe Exploit After Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707666-dune-awakening-dupe-exploit-patch.html)|`2025-07-05 06:14:37`|`other-fps-games`|
 |24|[RogueCompany external esp &#43; aim updated 4fun](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/706912-roguecompany-external-esp-aim-updated-4fun.html)|`2025-07-05 09:42:06`|`other-fps-games`|
 |12|[r6s obs walls?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/707082-r6s-obs-walls.html)|`2025-07-05 12:40:42`|`rainbow-six-siege`|
+|11|[Vanguard Blocking Custom OS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707116-vanguard-blocking-custom-os.html)|`2025-07-05 14:45:08`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2025-07-05 14:42:00`|`Counter-Strike 2`|
+|[best hooking method for "undetected" vac use?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707911-hooking-method-undetected-vac.html)|`2025-07-05 14:39:00`|`Counter-Strike 2`|
+|[Upcoming Release&#33; Looking for Feature suggestions? &#45; External, Read Only, Kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707603-upcoming-release-looking-feature-suggestions-external-read-kernel.html)|`2025-07-05 14:29:00`|`Counter-Strike 2`|
 |[Item ids on everything seems to changed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/707908-item-ids-changed.html)|`2025-07-05 14:03:00`|`Payday 3`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-07-05 13:45:00`|`Escape from Tarkov`|
 |[God exists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/697595-god-exists.html)|`2025-07-05 13:39:00`|`Off Topic`|
