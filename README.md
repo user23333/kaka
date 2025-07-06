@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM &#45; External Silent Aimbot &#40;HandleBullet Crash&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/707506-fivem-external-silent-aimbot-handlebullet-crash.html)|`2025-07-07 03:26:00`|`Alternative Online Mods`|
+|[NEW EAC LGHUB Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/707383-eac-lghub-bypass.html)|`2025-07-07 03:26:00`|`Rainbow Six Siege`|
+|[interal cheat help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/707957-interal-cheat-help.html)|`2025-07-07 03:24:00`|`Alternative Online Mods`|
+|[BlockInput](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/707959-blockinput.html)|`2025-07-07 03:20:00`|`Alternative Online Mods`|
 |[Why not use Mouse Movement?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/708127-mouse-movement.html)|`2025-07-07 03:13:00`|`Alternative Online Mods`|
 |[ALT FIRE IDEN MOD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/708111-alt-fire-iden-mod.html)|`2025-07-07 03:02:00`|`Star Wars Battlefront 2`|
 |[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2025-07-07 03:01:00`|`Elite: Dangerous`|
