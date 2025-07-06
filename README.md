@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-07-07 04:34:00`|`Counter-Strike 2`|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-07-07 04:32:00`|`Counter-Strike 2 Releases`|
+|[So i wanna ask a bit about eac dtc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708036-wanna-bit-eac-dtc.html)|`2025-07-07 04:25:00`|`Anti-Cheat Bypass`|
 |[Overlay FPS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/708170-overlay-fps.html)|`2025-07-07 04:21:00`|`Call of Duty: Black Ops 6`|
 |[Specter Services – Sniper Elite 5 Trainer &#43; EAC Bypass &#40;DX12/Vulkan All Platforms&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/707897-specter-services-sniper-elite-5-trainer-eac-bypass-dx12-vulkan-platforms.html)|`2025-07-07 04:07:00`|`Introductions`|
 |[SWBF2 ESP/Aimbot/Damage Hack – Re&#45;Release & Tutorial &#40;2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/707868-swbf2-esp-aimbot-damage-hack-re-release-tutorial-2025-a.html)|`2025-07-07 04:03:00`|`Star Wars Battlefront 2`|
