@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VAC Modules Reversal 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705782-vac-modules-reversal-2025-a.html)|`2025-07-06 18:30:00`|`Counter-Strike 2`|
+|[NewPickupSurvivalLoot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/708046-newpickupsurvivalloot.html)|`2025-07-06 18:22:00`|`Apex Legends`|
 |[Console Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/707421-console-cheats.html)|`2025-07-06 18:11:00`|`Call of Duty: Black Ops 6`|
 |[TurtleWoW &#45; Hack Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/world-of-warcraft/708040-turtlewow-hack-tool.html)|`2025-07-06 18:05:00`|`World of Warcraft`|
 |[How to unlock festive tint for up n atomizer on GTA5 enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701925-unlock-festive-tint-atomizer-gta5-enhanced.html)|`2025-07-06 18:03:00`|`Grand Theft Auto V`|
