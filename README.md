@@ -35,9 +35,13 @@
 |1|[GHaxV2&#46;0&#46;py](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50357)|`2025-07-06 22:53:46`|
 |1|[Artanis RCS v1&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50354)|`2025-07-06 22:59:39`|
 |1|[GHaxV2&#46;2&#46;py](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50359)|`2025-07-06 23:18:39`|
+|2|[GHaxV2&#95;3&#46;py](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50360)|`2025-07-06 23:32:49`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Completely solo script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705183-completely-solo-script.html)|`2025-07-06 23:32:00`|`Grand Theft Auto V`|
+|[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2025-07-06 23:24:00`|`Other FPS Games`|
+|[YimMenuV2Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697581-yimmenuv2mod.html)|`2025-07-06 23:20:00`|`Grand Theft Auto V`|
 |[Dead by Daylight ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/708068-dead-daylight-esp.html)|`2025-07-06 22:38:00`|`Other FPS Games`|
 |[Translating virtual address to physical address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708066-translating-virtual-address-physical-address.html)|`2025-07-06 22:25:00`|`Anti-Cheat Bypass`|
 |[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2025-07-06 22:09:00`|`DayZ SA`|
