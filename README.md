@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Outfit Editor   and  BBOB&#40;browser extension that generates Outfits Code for Bincohax&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/624819-outfit-editor-bbob-browser-extension-generates-outfits-code-bincohax.html)|`2025-07-06 21:20:00`|`Grand Theft Auto V`|
+|[How to unlock El stricker rifle?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/708058-unlock-el-stricker-rifle.html)|`2025-07-06 21:05:00`|`Grand Theft Auto V`|
+|[How to permanently unlock the railgun and alien weapons etc&#46; with YimMenuV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/702735-permanently-unlock-railgun-alien-weapons-etc-yimmenuv2.html)|`2025-07-06 21:02:00`|`Grand Theft Auto V`|
+|[Disabling battleEye not working anymore ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707817-disabling-battleeye-anymore.html)|`2025-07-06 20:59:00`|`Grand Theft Auto V`|
 |[Should I use the kernel mode driver for Roblox external?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/708062-kernel-mode-driver-roblox-external.html)|`2025-07-06 20:40:00`|`Other Games`|
 |[Simple Crime Simulator Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706044-simple-crime-simulator-menu.html)|`2025-07-06 20:28:00`|`Other Games`|
 |[Age Of Empires 4 SCAR Lua Injection &#45; Fog&#45;of&#45;War Reveal, HUD Tweaks &#45; Steam/Xbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/707091-age-empires-4-scar-lua-injection-fog-war-reveal-hud-tweaks-steam-xbox.html)|`2025-07-06 20:25:00`|`Other MMORPG and Strategy`|
