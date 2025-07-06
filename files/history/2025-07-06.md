@@ -31,6 +31,7 @@
 |2|[cs2 vmdl&#95;c parser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50349)|`2025-07-06 20:58:15`|
 |1|[RazeHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50330)|`2025-07-06 20:58:15`|
 |1|[cs2kernelcheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50329)|`2025-07-06 20:58:15`|
+|1|[GHaxV2&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50358)|`2025-07-06 22:47:54`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
