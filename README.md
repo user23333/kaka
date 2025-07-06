@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Elden Ring NightReign cheat &#43; Online &#43; Future Updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/708023-elden-ring-nightreign-cheat-online-future-updates.html)|`2025-07-06 13:03:00`|`Other FPS Games`|
+|[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2025-07-06 12:59:00`|`Other FPS Games`|
+|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-07-06 12:58:00`|`Other FPS Games`|
 |[Are Recoil Scripts Detectable?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/707110-recoil-scripts-detectable.html)|`2025-07-06 12:45:00`|`Rainbow Six Siege`|
 |[ARK Survival Evolved ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/588369-ark-survival-evolved-esp.html)|`2025-07-06 12:30:00`|`Other FPS Games`|
 |[Interception &#46;net](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-/703427-interception-net.html)|`2025-07-06 12:23:00`|`C#`|
