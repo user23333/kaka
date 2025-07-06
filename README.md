@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overlay FPS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/708170-overlay-fps.html)|`2025-07-07 04:21:00`|`Call of Duty: Black Ops 6`|
+|[Specter Services – Sniper Elite 5 Trainer &#43; EAC Bypass &#40;DX12/Vulkan All Platforms&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/707897-specter-services-sniper-elite-5-trainer-eac-bypass-dx12-vulkan-platforms.html)|`2025-07-07 04:07:00`|`Introductions`|
+|[SWBF2 ESP/Aimbot/Damage Hack – Re&#45;Release & Tutorial &#40;2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/707868-swbf2-esp-aimbot-damage-hack-re-release-tutorial-2025-a.html)|`2025-07-07 04:03:00`|`Star Wars Battlefront 2`|
+|[RustRecoilMacro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706634-rustrecoilmacro.html)|`2025-07-07 04:02:00`|`Rainbow Six Siege`|
 |[css v34 on steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/707220-css-v34-steam.html)|`2025-07-07 03:29:00`|`CounterStrike Source`|
 |[Need help for award stat name](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/708163-help-award-stat-name.html)|`2025-07-07 03:29:00`|`Grand Theft Auto V`|
 |[FiveM &#45; External Silent Aimbot &#40;HandleBullet Crash&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/707506-fivem-external-silent-aimbot-handlebullet-crash.html)|`2025-07-07 03:26:00`|`Alternative Online Mods`|
