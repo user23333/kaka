@@ -11,6 +11,7 @@
 |12|[reWASD AimBot Config](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/707190-rewasd-aimbot-config.html)|`2025-07-07 00:10:42`|`apex-legends`|
 |14|[Silver and Blood Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/707458-silver-blood-cheat-engine-table.html)|`2025-07-07 00:10:42`|`other-mmorpg-and-strategy`|
 |6|[x86 PE Packer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/707409-x86-pe-packer.html)|`2025-07-07 00:10:42`|`anti-cheat-bypass`|
+|16|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-07-07 00:57:15`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -24,9 +25,13 @@
 |5|[RazeHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50330)|`2025-07-07 00:10:42`|
 |6|[cs2kernelcheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50329)|`2025-07-07 00:10:42`|
 |28|[Peak v1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50326)|`2025-07-07 00:10:42`|
+|2|[4&#46;26&#46;1&#45;0&#43;&#43;&#43;UE4&#43;Release&#45;4&#46;26&#45;ABInfinite&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50337)|`2025-07-07 00:57:15`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-07-07 00:56:00`|`Other FPS Games`|
+|[game of thrones kingsroad hack & offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701827-game-thrones-kingsroad-hack-offsets.html)|`2025-07-07 00:52:00`|`Other MMORPG and Strategy`|
+|[Free Apex Coins/Cheap Coins Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/693249-free-apex-coins-cheap-coins-thread.html)|`2025-07-07 00:51:00`|`Apex Legends`|
 |[CS2 vmdl&#95;c parser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707998-cs2-vmdl_c-parser.html)|`2025-07-07 00:48:00`|`Counter-Strike 2`|
 |[&#40;Selfleak&#41;unturned cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707794-selfleak-unturned-cheat.html)|`2025-07-07 00:47:00`|`Other FPS Games`|
 |[Process Snatcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/706574-process-snatcher.html)|`2025-07-07 00:42:00`|`General Programming and Reversing`|
