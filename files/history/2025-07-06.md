@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chivalry 2 Heaveyweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689993-chivalry-2-heaveyweight-cheat.html)|`2025-07-06 11:10:00`|`Other Games`|
+|[Lethal Menu &#45; Lethal Company Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/615575-lethal-menu-lethal-company-cheat.html)|`2025-07-06 11:08:00`|`Lethal Company`|
+|[The Finals CEG Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/707634-finals-ceg-framework.html)|`2025-07-06 11:02:00`|`Anti-Cheat Bypass`|
+|[Hello there](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/707910-hello.html)|`2025-07-06 10:54:00`|`Introductions`|
+|[Clean Menu base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/699973-clean-menu-base.html)|`2025-07-06 10:47:00`|`C and C++`|
+|[weapon name esp, 97% cpu usage &#40;internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708008-weapon-name-esp-97-cpu-usage-internal.html)|`2025-07-06 10:41:00`|`Counter-Strike 2`|
+|[Redmatch 2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699721-redmatch-2-internal.html)|`2025-07-06 10:41:00`|`Other FPS Games`|
 |[aneurism iv](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/708003-aneurism-iv.html)|`2025-07-06 09:34:00`|`Other Games`|
 |[driver cert](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/707517-driver-cert.html)|`2025-07-06 09:31:00`|`Anti-Cheat Bypass`|
 |[Fake Prime CS2 Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707537-fake-prime-cs2-python.html)|`2025-07-06 09:26:00`|`Counter-Strike 2`|
