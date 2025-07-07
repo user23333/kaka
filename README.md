@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal MessageBox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/707367-internal-messagebox.html)|`2025-07-07 18:09:00`|`CrossFire`|
+|[HWBP hooks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708234-hwbp-hooks.html)|`2025-07-07 18:01:00`|`Anti-Cheat Bypass`|
 |[Current Weapon Offset 3&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708232-current-weapon-offset-3-9-a.html)|`2025-07-07 17:49:00`|`PUBG Mobile`|
 |[exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/708226-exploits.html)|`2025-07-07 16:42:00`|`Marvel Rivals`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-07-07 16:06:00`|`Apex Legends`|
