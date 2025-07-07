@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[basic chams base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/688179-basic-chams-base.html)|`2025-07-07 21:56:00`|`Call of Duty: Black Ops 6`|
 |[Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708256-offsets.html)|`2025-07-07 21:31:00`|`Rust`|
 |[r6s obs walls?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/707082-r6s-obs-walls.html)|`2025-07-07 21:30:00`|`Rainbow Six Siege`|
 |[Is it possible to log into Roblox using a virtual machine?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-software/708255-log-roblox-using-virtual-machine.html)|`2025-07-07 21:29:00`|`Other Software`|
