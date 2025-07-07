@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-07-08 06:05:00`|`Other FPS Games`|
+|[failed to open mouse device](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/708307-failed-mouse-device.html)|`2025-07-08 06:05:00`|`Rainbow Six Siege`|
 |[Van Restrictions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708306-van-restrictions.html)|`2025-07-08 05:53:00`|`Valorant`|
 |[Model for AI Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/691272-model-ai-aimbot.html)|`2025-07-08 05:40:00`|`CrossFire`|
 |[Help with DMA Setup for FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/708260-help-dma-setup-fivem.html)|`2025-07-08 05:39:00`|`Alternative Online Mods`|
