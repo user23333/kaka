@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Offsets 3&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708247-external-offsets-3-9-a.html)|`2025-07-07 19:50:00`|`PUBG Mobile`|
+|[PUBG GLOBAL 3&#46;9 UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708245-pubg-global-3-9-ue4-offsets.html)|`2025-07-07 19:46:00`|`PUBG Mobile`|
 |[Ranked Glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/707423-ranked-glitch.html)|`2025-07-07 19:35:00`|`Apex Legends`|
 |[&#91;removed&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708031-removed.html)|`2025-07-07 19:29:00`|`Counter-Strike 2`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-07-07 19:24:00`|`Apex Legends`|
