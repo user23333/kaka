@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708256-offsets.html)|`2025-07-07 21:31:00`|`Rust`|
+|[r6s obs walls?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/707082-r6s-obs-walls.html)|`2025-07-07 21:30:00`|`Rainbow Six Siege`|
+|[Is it possible to log into Roblox using a virtual machine?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-software/708255-log-roblox-using-virtual-machine.html)|`2025-07-07 21:29:00`|`Other Software`|
+|[Magic Bullet Shell PubgM&#45;3&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708254-magic-bullet-shell-pubgm-3-9-a.html)|`2025-07-07 21:29:00`|`PUBG Mobile`|
 |[Are there any cheat menus/hacks that can lag/crash lobbies?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/705067-cheat-menus-hacks-lag-crash-lobbies.html)|`2025-07-07 21:08:00`|`Lethal Company`|
 |[device anomaly detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/706213-device-anomaly-detected.html)|`2025-07-07 21:08:00`|`Farlight 84`|
 |[Cheat Engine Table HELP&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-support/707971-cheat-engine-table-help.html)|`2025-07-07 21:06:00`|`Cheat Engine Support`|
