@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[need ideas](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708200-ideas.html)|`2025-07-07 11:52:00`|`Counter-Strike 2`|
+|[Proper attacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708206-proper-attacking.html)|`2025-07-07 11:50:00`|`Counter-Strike 2`|
+|[Weapon Icons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708204-weapon-icons.html)|`2025-07-07 11:44:00`|`Counter-Strike 2`|
+|[Are Recoil Scripts Detectable?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/707110-recoil-scripts-detectable.html)|`2025-07-07 11:37:00`|`Rainbow Six Siege`|
+|[best hooking method for "undetected" vac use?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707911-hooking-method-undetected-vac.html)|`2025-07-07 11:33:00`|`Counter-Strike 2`|
 |[FragPunk Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/666506-fragpunk-reversal-structs-offsets.html)|`2025-07-07 10:52:00`|`Other FPS Games`|
 |[&#91;External Tool&#93; Recoil Magnet–Style Trainer for THE FINALS – Adjustable Input Pull](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/704900-external-tool-recoil-magnet-style-trainer-finals-adjustable-input-pull.html)|`2025-07-07 10:46:00`|`THE FINALS`|
 |[Translating virtual address to physical address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708066-translating-virtual-address-physical-address.html)|`2025-07-07 10:37:00`|`Anti-Cheat Bypass`|
