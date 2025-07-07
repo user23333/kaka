@@ -31,6 +31,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FragPunk Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/666506-fragpunk-reversal-structs-offsets.html)|`2025-07-07 10:52:00`|`Other FPS Games`|
+|[&#91;External Tool&#93; Recoil Magnet–Style Trainer for THE FINALS – Adjustable Input Pull](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/704900-external-tool-recoil-magnet-style-trainer-finals-adjustable-input-pull.html)|`2025-07-07 10:46:00`|`THE FINALS`|
+|[Translating virtual address to physical address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708066-translating-virtual-address-physical-address.html)|`2025-07-07 10:37:00`|`Anti-Cheat Bypass`|
+|[mecha break](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/708198-mecha-break.html)|`2025-07-07 10:20:00`|`Other FPS Games`|
+|[CRT in internal?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/707967-crt-internal.html)|`2025-07-07 10:11:00`|`Call of Duty: Black Ops 6`|
+|[Cheap Hardware Cheats for Valorant?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707573-cheap-hardware-cheats-valorant.html)|`2025-07-07 10:10:00`|`Valorant`|
+|[Contractors Showdown: Exfilzone Duping Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/701380-contractors-showdown-exfilzone-duping-methods.html)|`2025-07-07 10:05:00`|`Other FPS Games`|
+|[Splitgate 2 Full SDK &#43; Info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/708196-splitgate-2-sdk-info.html)|`2025-07-07 10:03:00`|`Splitgate`|
 |[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-07-07 09:03:00`|`Other FPS Games`|
 |[how would i make a cheat for this game myself](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/703208-cheat-game.html)|`2025-07-07 09:03:00`|`Star Wars Battlefront 2`|
 |[finally ready to start learning to code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/707843-finally-ready-start-learning-code.html)|`2025-07-07 08:53:00`|`Programming for Beginners`|
