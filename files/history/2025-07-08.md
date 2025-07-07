@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Introoooo to Tek](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/708268-introoooo-tek.html)|`2025-07-08 04:39:00`|`Introductions`|
+|[Member of the Month &#45; July 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/707504-month-july-2025-a.html)|`2025-07-08 04:38:00`|`Member of the Month`|
 |[TPM / HVCI / SB Popup Bypass by freezing Dnscache](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702867-tpm-hvci-sb-popup-bypass-freezing-dnscache.html)|`2025-07-08 04:30:00`|`Valorant`|
 |[Logitech Lua &#40;Universal&#41; &#45;simulant V1&#46;0 R6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/601250-logitech-lua-universal-simulant-v1-0-r6.html)|`2025-07-08 04:24:00`|`Rainbow Six Siege`|
 |[ネコちゃん &#124;「 ✦ Neko Triggerbot✦ 」 &#124; ネコちゃん](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706894-neko-triggerbot.html)|`2025-07-08 04:14:00`|`Valorant`|
