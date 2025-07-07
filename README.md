@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[??? raspberry as a second computer for DMA ???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708243-raspberry-computer-dma.html)|`2025-07-07 19:11:00`|`Rust`|
+|[Touch 4Games Auto Dance Perfect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/708242-touch-4games-auto-dance-perfect.html)|`2025-07-07 19:07:00`|`Cheat Engine Tables`|
+|[&#46;lua Code conversion from cherax to yimmenu v2 enhanted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707340-lua-code-conversion-cherax-yimmenu-v2-enhanted.html)|`2025-07-07 19:04:00`|`Grand Theft Auto V`|
 |[Rematch game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/708002-rematch-game.html)|`2025-07-07 18:36:00`|`Other Games`|
 |[TPM / HVCI / SB Popup Bypass by freezing Dnscache](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702867-tpm-hvci-sb-popup-bypass-freezing-dnscache.html)|`2025-07-07 18:21:00`|`Valorant`|
 |[Internal MessageBox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/707367-internal-messagebox.html)|`2025-07-07 18:09:00`|`CrossFire`|
