@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-07-07 23:26:00`|`Other FPS Games`|
+|[basic anticheat reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708197-basic-anticheat-reversal.html)|`2025-07-07 23:17:00`|`Anti-Cheat Bypass`|
 |[need a source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/700496-source.html)|`2025-07-07 22:35:00`|`Playerunknown's Battlegrounds`|
 |[Is it possible for someone to make a kernel rcs &#43; triggerbot for cs2 read only?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708192-kernel-rcs-triggerbot-cs2-read.html)|`2025-07-07 22:29:00`|`Counter-Strike 2`|
 |[Logitech Lua &#40;Universal&#41; &#45;simulant V1&#46;0 R6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/601250-logitech-lua-universal-simulant-v1-0-r6.html)|`2025-07-07 22:14:00`|`Rainbow Six Siege`|
