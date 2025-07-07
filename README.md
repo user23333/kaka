@@ -36,6 +36,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Are there any cheat menus/hacks that can lag/crash lobbies?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/705067-cheat-menus-hacks-lag-crash-lobbies.html)|`2025-07-07 21:08:00`|`Lethal Company`|
+|[device anomaly detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/706213-device-anomaly-detected.html)|`2025-07-07 21:08:00`|`Farlight 84`|
+|[Cheat Engine Table HELP&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-support/707971-cheat-engine-table-help.html)|`2025-07-07 21:06:00`|`Cheat Engine Support`|
+|[rustDMA&#45;imgui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708252-rustdma-imgui.html)|`2025-07-07 21:05:00`|`Rust`|
+|[I hate being low IQ, everything takes 3x longer to learn&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/700882-hate-low-iq-takes-3x-learn.html)|`2025-07-07 21:03:00`|`Off Topic`|
+|[Simple Liar's Bar Mod &#124; 0&#46;93 &#124; DLL &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691934-simple-liars-bar-mod-0-93-dll-source.html)|`2025-07-07 21:00:00`|`Other Games`|
 |[Found an undetected way to move the mouse in the game, help me implement it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707837-found-undetected-move-mouse-game-help-implement.html)|`2025-07-07 20:19:00`|`Valorant`|
 |[External Offsets 3&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708247-external-offsets-3-9-a.html)|`2025-07-07 19:50:00`|`PUBG Mobile`|
 |[PUBG GLOBAL 3&#46;9 UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708245-pubg-global-3-9-ue4-offsets.html)|`2025-07-07 19:46:00`|`PUBG Mobile`|
