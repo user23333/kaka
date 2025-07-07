@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Driver detection vectors for easy ac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/707609-driver-detection-vectors-easy-ac.html)|`2025-07-07 15:19:00`|`Anti-Cheat Bypass`|
+|[Bot lobbies through GPU Renting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703739-bot-lobbies-gpu-renting.html)|`2025-07-07 15:08:00`|`Apex Legends`|
 |[How to unlock these special item in arena workshop?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/708216-unlock-special-item-arena-workshop.html)|`2025-07-07 14:56:00`|`Grand Theft Auto V`|
 |[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2025-07-07 14:55:00`|`Escape from Tarkov`|
 |[Solid KM External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708215-solid-km-external.html)|`2025-07-07 14:55:00`|`Counter-Strike 2`|
