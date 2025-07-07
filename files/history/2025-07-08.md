@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Van Restrictions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708306-van-restrictions.html)|`2025-07-08 05:53:00`|`Valorant`|
 |[Model for AI Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/691272-model-ai-aimbot.html)|`2025-07-08 05:40:00`|`CrossFire`|
 |[Help with DMA Setup for FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/708260-help-dma-setup-fivem.html)|`2025-07-08 05:39:00`|`Alternative Online Mods`|
 |[Is it possible for someone to make a kernel rcs &#43; triggerbot for cs2 read only?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708192-kernel-rcs-triggerbot-cs2-read.html)|`2025-07-08 05:34:00`|`Counter-Strike 2`|
