@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VAN:Restriction vanguard config change detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707672-van-restriction-vanguard-config-change-detected.html)|`2025-07-07 12:48:00`|`Valorant`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-07-07 12:34:00`|`League of Legends`|
 |[TurtleWoW &#45; Hack Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/world-of-warcraft/708040-turtlewow-hack-tool.html)|`2025-07-07 12:22:00`|`World of Warcraft`|
 |[Postal 3 SpeedHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/708209-postal-3-speedhack.html)|`2025-07-07 12:15:00`|`Other FPS Games`|
 |[Universal Recoil &#40;like UMT program&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/617894-universal-recoil-umt-program.html)|`2025-07-07 12:11:00`|`Other FPS Games`|
