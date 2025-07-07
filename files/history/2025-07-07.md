@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-07-07 16:06:00`|`Apex Legends`|
+|[no recoil razer synapse 4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706018-recoil-razer-synapse-4-a.html)|`2025-07-07 16:05:00`|`Rainbow Six Siege`|
 |[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2025-07-07 15:53:00`|`Elite: Dangerous`|
 |[Modify Cheat Engine to avoid detection and debug games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/assembly/708220-modify-cheat-engine-avoid-detection-debug-games.html)|`2025-07-07 15:36:00`|`Assembly`|
 |[what kind of women u liking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/708219-women-liking.html)|`2025-07-07 15:27:00`|`Off Topic`|
