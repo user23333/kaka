@@ -12,6 +12,7 @@
 |23|[Driver detection vectors for easy ac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/707609-driver-detection-vectors-easy-ac.html)|`2025-07-09 00:00:19`|`anti-cheat-bypass`|
 |15|[Silver and Blood Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/707458-silver-blood-cheat-engine-table.html)|`2025-07-09 00:00:19`|`other-mmorpg-and-strategy`|
 |27|[best hooking method for "undetected" vac use?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707911-hooking-method-undetected-vac.html)|`2025-07-09 01:18:39`|`counter-strike-2-a`|
+|16|[VAN:Restriction vanguard config change detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707672-van-restriction-vanguard-config-change-detected.html)|`2025-07-09 04:39:13`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[esp for HorizonMW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/703983-esp-horizonmw.html)|`2025-07-09 04:26:00`|`Call of Duty 4: Modern Warfare`|
+|[Lockdown Protocol External by Fozzila &#40;Update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/700529-lockdown-protocol-external-fozzila-update.html)|`2025-07-09 04:23:00`|`Other Games`|
 |[Helldivers 2 Undetected Features by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/704156-helldivers-2-undetected-features-igromanru.html)|`2025-07-09 04:20:00`|`HELLDIVERS 2`|
 |[KMBOX Detected by EAC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/708310-kmbox-detected-eac.html)|`2025-07-09 03:50:00`|`Apex Legends`|
 |[SANALIKA GAME](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/680001-sanalika-game.html)|`2025-07-09 03:29:00`|`Other MMORPG and Strategy`|
