@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New VAC Live agents](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707551-vac-live-agents.html)|`2025-07-09 07:39:00`|`Counter-Strike 2`|
+|[New to r6 cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/708273-r6-cheating.html)|`2025-07-09 07:31:00`|`Rainbow Six Siege`|
+|[External Farlight 84 Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/661656-external-farlight-84-free-cheat.html)|`2025-07-09 07:30:00`|`Farlight 84`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-07-09 07:13:00`|`Rainbow Six Siege`|
 |[ReClassDark — Dark mode & fixes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/707941-reclassdark-dark-mode-fixes.html)|`2025-07-09 07:07:00`|`General Programming and Reversing`|
 |[basic chams base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/688179-basic-chams-base.html)|`2025-07-09 06:55:00`|`Call of Duty: Black Ops 6`|
