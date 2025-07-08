@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lazybead &#40;LB&#41; &#45; Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat.html)|`2025-07-09 05:28:00`|`Sea of Thieves`|
+|[Are Recoil Scripts Detectable?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/707110-recoil-scripts-detectable.html)|`2025-07-09 05:24:00`|`Rainbow Six Siege`|
+|[Finding Valorant Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708420-finding-valorant-offsets.html)|`2025-07-09 05:17:00`|`Valorant`|
+|[PVE the ammunition used is 0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/707855-pve-ammunition-0-a.html)|`2025-07-09 05:15:00`|`Escape from Tarkov`|
 |[exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/708226-exploits.html)|`2025-07-09 05:04:00`|`Marvel Rivals`|
 |[esp for HorizonMW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/703983-esp-horizonmw.html)|`2025-07-09 04:26:00`|`Call of Duty 4: Modern Warfare`|
 |[Lockdown Protocol External by Fozzila &#40;Update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/700529-lockdown-protocol-external-fozzila-update.html)|`2025-07-09 04:23:00`|`Other Games`|
