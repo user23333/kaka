@@ -11,6 +11,7 @@
 |27|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-07-09 00:00:19`|`other-fps-games`|
 |23|[Driver detection vectors for easy ac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/707609-driver-detection-vectors-easy-ac.html)|`2025-07-09 00:00:19`|`anti-cheat-bypass`|
 |15|[Silver and Blood Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/707458-silver-blood-cheat-engine-table.html)|`2025-07-09 00:00:19`|`other-mmorpg-and-strategy`|
+|27|[best hooking method for "undetected" vac use?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707911-hooking-method-undetected-vac.html)|`2025-07-09 01:18:39`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Are there Undetected DLL Injectors for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708336-undetected-dll-injectors-cs2.html)|`2025-07-09 01:14:00`|`Counter-Strike 2`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-07-09 01:05:00`|`Call of Duty: Black Ops 6`|
 |[disable disk smart function error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/707952-disable-disk-smart-function-error.html)|`2025-07-09 00:57:00`|`Anti-Cheat Bypass`|
 |[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-07-09 00:44:00`|`Other FPS Games`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2025-07-09 00:34:00`|`Grand Theft Auto V`|
