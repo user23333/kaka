@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hello Newcomer  here](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/708337-hello-newcomer.html)|`2025-07-08 19:33:00`|`Introductions`|
+|[hiyaaa](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/708329-hiyaaa.html)|`2025-07-08 19:32:00`|`Introductions`|
+|[Introduction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/708314-introduction.html)|`2025-07-08 19:29:00`|`Introductions`|
 |[Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708256-offsets.html)|`2025-07-08 19:26:00`|`Rust`|
 |[Hi](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/708305-hi.html)|`2025-07-08 19:26:00`|`Introductions`|
 |[So, theres any good script today?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/708304-theres-script.html)|`2025-07-08 19:25:00`|`League of Legends`|
