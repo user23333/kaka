@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fast And Simple Triggerbot &#40;ASM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698448-fast-simple-triggerbot-asm.html)|`2025-07-09 01:34:00`|`Valorant`|
+|[Offsets/Pointers Confusion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/708324-offsets-pointers-confusion.html)|`2025-07-09 01:25:00`|`General Programming and Reversing`|
+|[TPM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/649260-tpm-spoofer.html)|`2025-07-09 01:25:00`|`Valorant`|
+|[apex rage cheat &#40;external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705590-apex-rage-cheat-external.html)|`2025-07-09 01:22:00`|`Apex Legends`|
+|[CS 2 Kernel Cheat With Many Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/707639-cs-2-kernel-cheat-features.html)|`2025-07-09 01:19:00`|`Counter-Strike 2 Releases`|
 |[Are there Undetected DLL Injectors for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708336-undetected-dll-injectors-cs2.html)|`2025-07-09 01:14:00`|`Counter-Strike 2`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-07-09 01:05:00`|`Call of Duty: Black Ops 6`|
 |[disable disk smart function error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/707952-disable-disk-smart-function-error.html)|`2025-07-09 00:57:00`|`Anti-Cheat Bypass`|
