@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to make a DayZ cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/708413-dayz-cheat.html)|`2025-07-09 06:36:00`|`DayZ SA`|
+|[rustDMA&#45;imgui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708252-rustdma-imgui.html)|`2025-07-09 06:30:00`|`Rust`|
+|[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-07-09 06:29:00`|`Sea of Thieves`|
+|[Ipad View](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708430-ipad-view.html)|`2025-07-09 06:26:00`|`PUBG Mobile`|
+|[Health & Armor bar seem farther apart](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708344-health-armor-bar-farther-apart.html)|`2025-07-09 06:24:00`|`Counter-Strike 2`|
+|[Simple Liar's Bar Mod &#124; 0&#46;93 &#124; DLL &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691934-simple-liars-bar-mod-0-93-dll-source.html)|`2025-07-09 06:22:00`|`Other Games`|
 |[failed to open mouse device](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/708307-failed-mouse-device.html)|`2025-07-09 06:18:00`|`Rainbow Six Siege`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-07-09 06:15:00`|`Overwatch`|
 |[TurtleWoW &#45; Hack Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/world-of-warcraft/708040-turtlewow-hack-tool.html)|`2025-07-09 06:00:00`|`World of Warcraft`|
