@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[no recoil razer synapse 4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706018-recoil-razer-synapse-4-a.html)|`2025-07-08 16:17:00`|`Rainbow Six Siege`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-07-08 16:03:00`|`Counter-Strike 2`|
+|[Pipsi&#45;SR &#91; Honkai: Star Rail Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/623438-pipsi-sr-honkai-star-rail-cheat.html)|`2025-07-08 15:59:00`|`Other MMORPG and Strategy`|
 |[New to r6 cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/708273-r6-cheating.html)|`2025-07-08 15:51:00`|`Rainbow Six Siege`|
 |[Chivalry 2 Simple Lightweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/681745-chivalry-2-simple-lightweight-cheat.html)|`2025-07-08 15:39:00`|`Other Games`|
 |[What is the risk of being banned for 120 fov? &#40;cheat engine&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/708047-risk-banned-120-fov-cheat-engine.html)|`2025-07-08 15:26:00`|`Sea of Thieves`|
