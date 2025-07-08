@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight DMA &#45; Based on IntelSDM &#45; Added features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/704981-dead-daylight-dma-based-intelsdm-added-features.html)|`2025-07-08 11:48:00`|`Other FPS Games`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-07-08 11:46:00`|`Escape from Tarkov`|
+|[League Kiting DMA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/701865-league-kiting-dma.html)|`2025-07-08 11:30:00`|`League of Legends`|
+|[Oreo Rivals &#91;Internal Cheat With External Overlay And New Hooking &#43; Silent Aim&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/707135-oreo-rivals-internal-cheat-external-overlay-hooking-silent-aim.html)|`2025-07-08 11:23:00`|`Marvel Rivals`|
 |[Any Free Undetected ESP for Valorant? &#40;July 2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708322-free-undetected-esp-valorant-july-2025-a.html)|`2025-07-08 10:52:00`|`Valorant`|
 |[external dex for roblox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670469-external-dex-roblox.html)|`2025-07-08 10:47:00`|`Other Games`|
 |[&#91;Internal&#93; DayZ Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/696704-internal-dayz-cheat.html)|`2025-07-08 10:39:00`|`DayZ SA`|
