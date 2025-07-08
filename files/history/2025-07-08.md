@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[driver cert](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/707517-driver-cert.html)|`2025-07-08 14:42:00`|`Anti-Cheat Bypass`|
+|[How&#45;to Sign Kernel Driver With Leaked Certificate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/587763-sign-kernel-driver-leaked-certificate.html)|`2025-07-08 14:24:00`|`Anti-Cheat Bypass`|
 |[Weapon Icons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708204-weapon-icons.html)|`2025-07-08 14:11:00`|`Counter-Strike 2`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-07-08 14:06:00`|`Counter-Strike 2`|
 |[Internal Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/708333-internal-chams.html)|`2025-07-08 13:40:00`|`Rainbow Six Siege`|
