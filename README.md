@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Collection of DLC codes for Steam version&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/686182-collection-dlc-codes-steam-version.html)|`2025-07-09 23:48:00`|`Payday 3`|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-07-09 23:40:00`|`Other Games`|
+|[Physical allocation mapped into user VA – &#33;pte still empty / user&#45;mode can’t read](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708404-physical-allocation-mapped-user-va-pte-empty-user-mode-read.html)|`2025-07-09 23:40:00`|`Anti-Cheat Bypass`|
+|[External Offsets 3&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708247-external-offsets-3-9-a.html)|`2025-07-09 23:40:00`|`PUBG Mobile`|
 |[Ragnarok Origin Global PC cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/624052-ragnarok-origin-global-pc-cheat.html)|`2025-07-09 23:37:00`|`Other MMORPG and Strategy`|
 |[Tera Classic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/708537-tera-classic.html)|`2025-07-09 23:29:00`|`Other MMORPG and Strategy`|
 |[Continuous Sentinel BUG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/707589-continuous-sentinel-bug.html)|`2025-07-09 23:26:00`|`Apex Legends`|
