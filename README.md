@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pubg Mobile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708542-pubg-mobile.html)|`2025-07-09 23:56:00`|`PUBG Mobile`|
+|[asus b550 mk van 152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708398-asus-b550-mk-van-152-a.html)|`2025-07-09 23:54:00`|`Valorant`|
 |[Collection of DLC codes for Steam version&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/686182-collection-dlc-codes-steam-version.html)|`2025-07-09 23:48:00`|`Payday 3`|
 |[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-07-09 23:40:00`|`Other Games`|
 |[Physical allocation mapped into user VA – &#33;pte still empty / user&#45;mode can’t read](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708404-physical-allocation-mapped-user-va-pte-empty-user-mode-read.html)|`2025-07-09 23:40:00`|`Anti-Cheat Bypass`|
