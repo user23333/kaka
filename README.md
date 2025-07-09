@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Touch 4Games Auto Dance Perfect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/708242-touch-4games-auto-dance-perfect.html)|`2025-07-09 19:15:00`|`Cheat Engine Tables`|
+|[Free Apex Coins/Cheap Coins Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/693249-free-apex-coins-cheap-coins-thread.html)|`2025-07-09 19:01:00`|`Apex Legends`|
+|[skinchanger isnt dumping weapons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708502-skinchanger-isnt-dumping-weapons.html)|`2025-07-09 18:59:00`|`Counter-Strike 2`|
 |[PUBG GLOBAL 3&#46;9 UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708245-pubg-global-3-9-ue4-offsets.html)|`2025-07-09 18:19:00`|`PUBG Mobile`|
 |[Onboard macros](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/707621-onboard-macros.html)|`2025-07-09 18:07:00`|`Apex Legends`|
 |[Splitgate 2 Full SDK &#43; Info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/708196-splitgate-2-sdk-info.html)|`2025-07-09 18:05:00`|`Splitgate`|
