@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Upcoming Release&#33; Looking for Feature suggestions? &#45; External, Read Only, Kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707603-upcoming-release-looking-feature-suggestions-external-read-kernel.html)|`2025-07-09 21:36:00`|`Counter-Strike 2`|
+|[Disabling battleEye not working anymore ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707817-disabling-battleeye-anymore.html)|`2025-07-09 21:31:00`|`Grand Theft Auto V`|
+|[i joined fresh](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/708524-joined-fresh.html)|`2025-07-09 21:28:00`|`Introductions`|
+|[New cs2 bot ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708520-cs2-bot.html)|`2025-07-09 21:23:00`|`Counter-Strike 2`|
+|[NEW EAC LGHUB Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/707383-eac-lghub-bypass.html)|`2025-07-09 21:17:00`|`Rainbow Six Siege`|
 |[Are people still using aimbots in battlefield?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/707511-people-using-aimbots-battlefield.html)|`2025-07-09 20:12:00`|`Battlefield 2042`|
 |[??? raspberry as a second computer for DMA ???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708243-raspberry-computer-dma.html)|`2025-07-09 20:04:00`|`Rust`|
 |[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2025-07-09 20:01:00`|`Other FPS Games`|
