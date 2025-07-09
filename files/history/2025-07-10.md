@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Career unlock with Yimmenu v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696115-career-unlock-yimmenu-v2.html)|`2025-07-10 01:50:00`|`Grand Theft Auto V`|
+|[Stat Editor RP Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/708035-stat-editor-rp-changer.html)|`2025-07-10 01:48:00`|`Grand Theft Auto V`|
 |[Contractors Showdown: Exfilzone Duping Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/701380-contractors-showdown-exfilzone-duping-methods.html)|`2025-07-10 01:46:00`|`Other FPS Games`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-07-10 01:39:00`|`Counter-Strike 2`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-07-10 01:37:00`|`Rust`|
