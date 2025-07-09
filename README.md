@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ragnarok Origin Global PC cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/624052-ragnarok-origin-global-pc-cheat.html)|`2025-07-09 23:37:00`|`Other MMORPG and Strategy`|
+|[Tera Classic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/708537-tera-classic.html)|`2025-07-09 23:29:00`|`Other MMORPG and Strategy`|
+|[Continuous Sentinel BUG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/707589-continuous-sentinel-bug.html)|`2025-07-09 23:26:00`|`Apex Legends`|
 |[Whats the best AHK script for BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/707933-whats-ahk-script-bo6.html)|`2025-07-09 23:09:00`|`Call of Duty: Black Ops 6`|
 |[SoundSight: CS2 Audio ESP &#45; 3D Spatial Sound Radar for Enemy Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691687-soundsight-cs2-audio-esp-3d-spatial-sound-radar-enemy-detection.html)|`2025-07-09 23:08:00`|`Counter-Strike 2`|
 |[CS2 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/614111-cs2-internal-cheat.html)|`2025-07-09 23:07:00`|`Counter-Strike 2`|
