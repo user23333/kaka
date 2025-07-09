@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Whats the best AHK script for BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/707933-whats-ahk-script-bo6.html)|`2025-07-09 23:09:00`|`Call of Duty: Black Ops 6`|
+|[SoundSight: CS2 Audio ESP &#45; 3D Spatial Sound Radar for Enemy Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691687-soundsight-cs2-audio-esp-3d-spatial-sound-radar-enemy-detection.html)|`2025-07-09 23:08:00`|`Counter-Strike 2`|
+|[CS2 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/614111-cs2-internal-cheat.html)|`2025-07-09 23:07:00`|`Counter-Strike 2`|
+|[finally ready to start learning to code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/707843-finally-ready-start-learning-code.html)|`2025-07-09 23:02:00`|`Programming for Beginners`|
 |[Clean Menu base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/699973-clean-menu-base.html)|`2025-07-09 22:57:00`|`C and C++`|
 |[Kmbox net](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708535-kmbox-net.html)|`2025-07-09 22:56:00`|`Valorant`|
 |[want to learn how to create cheat c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/708497-learn-create-cheat.html)|`2025-07-09 22:55:00`|`C and C++`|
