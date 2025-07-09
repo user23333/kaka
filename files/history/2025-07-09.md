@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Model for AI Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/691272-model-ai-aimbot.html)|`2025-07-09 22:31:00`|`CrossFire`|
+|[Is it possible to read memory for visibility check? &#40;no map parsing&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/707943-read-memory-visibility-check-map-parsing.html)|`2025-07-09 22:26:00`|`Counter-Strike 2 Releases`|
 |[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2025-07-09 21:58:00`|`Other FPS Games`|
 |[What is best way to access memory with the least overhead in a Hypervisor environment](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708513-access-memory-overhead-hypervisor-environment.html)|`2025-07-09 21:47:00`|`Anti-Cheat Bypass`|
 |[How to Dump and Find Offsets In MacOS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/708316-dump-offsets-macos.html)|`2025-07-09 21:44:00`|`League of Legends`|
