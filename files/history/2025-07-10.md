@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA Issues &#124; Can't read game image past first 4KB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708578-dma-issues-cant-read-game-image-past-4kb.html)|`2025-07-10 02:43:00`|`Anti-Cheat Bypass`|
+|[CS2 Head Bone Position for Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708444-cs2-head-bone-position-aimbot.html)|`2025-07-10 02:42:00`|`Counter-Strike 2`|
+|[CS2 Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708467-cs2-skin-changer.html)|`2025-07-10 02:37:00`|`Counter-Strike 2`|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-07-10 02:36:00`|`Farlight 84`|
+|[knife skin isnt changing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708577-knife-skin-isnt-changing.html)|`2025-07-10 02:33:00`|`Counter-Strike 2`|
 |[Paladins Items ids update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/707399-paladins-items-ids-update.html)|`2025-07-10 02:27:00`|`Paladins`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-07-10 02:21:00`|`Counter-Strike 2`|
 |[PUBG No recoil macro For all razer mouse using Razer synapse &#91;Undetected&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/658324-pubg-recoil-macro-razer-mouse-using-razer-synapse-undetected.html)|`2025-07-10 02:21:00`|`PUBG Releases`|
