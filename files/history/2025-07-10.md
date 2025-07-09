@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to unlock these special item in arena workshop?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/708216-unlock-special-item-arena-workshop.html)|`2025-07-10 01:33:00`|`Grand Theft Auto V`|
+|[valorant dll injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708406-valorant-dll-injector.html)|`2025-07-10 01:32:00`|`Valorant`|
+|[Is Possible make dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/708568-dma.html)|`2025-07-10 01:32:00`|`Alternative Online Mods`|
+|[Best Practices for Implementing Integrity Checks in a Protector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/706436-practices-implementing-integrity-checks-protector.html)|`2025-07-10 01:30:00`|`General Programming and Reversing`|
+|[CS 2 Kernel Cheat With Many Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/707639-cs-2-kernel-cheat-features.html)|`2025-07-10 01:29:00`|`Counter-Strike 2 Releases`|
 |[Overlay FPS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/708170-overlay-fps.html)|`2025-07-10 01:15:00`|`Call of Duty: Black Ops 6`|
 |[Driver detection vectors for easy ac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/707609-driver-detection-vectors-easy-ac.html)|`2025-07-10 01:12:00`|`Anti-Cheat Bypass`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-07-10 01:11:00`|`Valorant`|
