@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Outlast Trials Internal Cheat&#33;&#33;&#40;Just Run it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640965-outlast-trials-internal-cheat-run.html)|`2025-07-09 21:58:00`|`Other FPS Games`|
 |[What is best way to access memory with the least overhead in a Hypervisor environment](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708513-access-memory-overhead-hypervisor-environment.html)|`2025-07-09 21:47:00`|`Anti-Cheat Bypass`|
 |[How to Dump and Find Offsets In MacOS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/708316-dump-offsets-macos.html)|`2025-07-09 21:44:00`|`League of Legends`|
 |[Peak &#45; AIO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706875-peak-aio.html)|`2025-07-09 21:44:00`|`Other Games`|
