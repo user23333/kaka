@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Onboard macros](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/707621-onboard-macros.html)|`2025-07-09 18:07:00`|`Apex Legends`|
+|[Splitgate 2 Full SDK &#43; Info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/708196-splitgate-2-sdk-info.html)|`2025-07-09 18:05:00`|`Splitgate`|
+|[Get Components without decrypt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/705164-components-decrypt.html)|`2025-07-09 18:02:00`|`Overwatch`|
+|[PLEASE HELP ME](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/708494-please-help.html)|`2025-07-09 17:57:00`|`Overwatch`|
 |[DayZ PC Easy Dupe with Autohotkey](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/707460-dayz-pc-easy-dupe-autohotkey.html)|`2025-07-09 17:37:00`|`DayZ SA`|
 |[Found an undetected way to move the mouse in the game, help me implement it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707837-found-undetected-move-mouse-game-help-implement.html)|`2025-07-09 17:32:00`|`Valorant`|
 |[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2025-07-09 17:30:00`|`Other MMORPG and Strategy`|
