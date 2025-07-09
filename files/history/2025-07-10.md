@@ -12,6 +12,7 @@
 |16|[VAN:Restriction vanguard config change detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707672-van-restriction-vanguard-config-change-detected.html)|`2025-07-10 00:15:14`|`valorant`|
 |18|[CS2 vmdl&#95;c parser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707998-cs2-vmdl_c-parser.html)|`2025-07-10 00:15:14`|`counter-strike-2-a`|
 |3|[New VAC Live agents](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707551-vac-live-agents.html)|`2025-07-10 04:33:54`|`counter-strike-2-a`|
+|15|[Cheap Hardware Cheats for Valorant?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707573-cheap-hardware-cheats-valorant.html)|`2025-07-10 06:33:46`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Universal Recoil &#40;like UMT program&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/617894-universal-recoil-umt-program.html)|`2025-07-10 06:21:00`|`Other FPS Games`|
 |[Translating virtual address to physical address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708066-translating-virtual-address-physical-address.html)|`2025-07-10 05:56:00`|`Anti-Cheat Bypass`|
 |[My skinchanger isn't dumping weapons, gloves and knife](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708594-skinchanger-isnt-dumping-weapons-gloves-knife.html)|`2025-07-10 05:31:00`|`Counter-Strike 2`|
 |[Phasmo Save Editor &#40;All items/Cosmetics/Money/Lv & Prestige Editor/etc&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/708592-phasmo-save-editor-items-cosmetics-money-lv-prestige-editor-etc.html)|`2025-07-10 05:20:00`|`Phasmophobia`|
