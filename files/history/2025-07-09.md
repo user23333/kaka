@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What is best way to access memory with the least overhead in a Hypervisor environment](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708513-access-memory-overhead-hypervisor-environment.html)|`2025-07-09 21:47:00`|`Anti-Cheat Bypass`|
+|[How to Dump and Find Offsets In MacOS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/708316-dump-offsets-macos.html)|`2025-07-09 21:44:00`|`League of Legends`|
+|[Peak &#45; AIO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706875-peak-aio.html)|`2025-07-09 21:44:00`|`Other Games`|
 |[Upcoming Release&#33; Looking for Feature suggestions? &#45; External, Read Only, Kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707603-upcoming-release-looking-feature-suggestions-external-read-kernel.html)|`2025-07-09 21:36:00`|`Counter-Strike 2`|
 |[Disabling battleEye not working anymore ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707817-disabling-battleeye-anymore.html)|`2025-07-09 21:31:00`|`Grand Theft Auto V`|
 |[i joined fresh](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/708524-joined-fresh.html)|`2025-07-09 21:28:00`|`Introductions`|
