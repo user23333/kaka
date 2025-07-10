@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-07-10 09:04:00`|`Counter-Strike 2`|
+|[ability immunity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/708608-ability-immunity.html)|`2025-07-10 08:38:00`|`Star Wars Battlefront 2`|
+|[Apex R5Reloaded offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705959-apex-r5reloaded-offsets.html)|`2025-07-10 08:38:00`|`Apex Legends`|
+|[external dex for roblox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670469-external-dex-roblox.html)|`2025-07-10 08:24:00`|`Other Games`|
 |[Van Restrictions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708306-van-restrictions.html)|`2025-07-10 07:54:00`|`Valorant`|
 |[Hearing voice chat during Freecam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/708603-hearing-voice-chat-freecam.html)|`2025-07-10 07:47:00`|`Alternative Online Mods`|
 |[best hooking method for "undetected" vac use?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707911-hooking-method-undetected-vac.html)|`2025-07-10 07:43:00`|`Counter-Strike 2`|
