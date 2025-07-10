@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[D3D11 Rendering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/direct3d/708632-d3d11-rendering.html)|`2025-07-10 14:53:00`|`Direct3D`|
+|[Using NaturalVision Evolved &#40;NVE&#41; in GTA Online Without Getting Banned by BattlEye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/708631-using-naturalvision-evolved-nve-gta-online-getting-banned-battleye.html)|`2025-07-10 14:48:00`|`Grand Theft Auto V`|
+|[Animated Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708491-animated-chams.html)|`2025-07-10 14:41:00`|`Counter-Strike 2`|
+|[Classic Offensive &#91;NEW&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/705856-classic-offensive.html)|`2025-07-10 14:34:00`|`Counterstrike Global Offensive`|
 |[RGH Camo Replacing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/707558-rgh-camo-replacing.html)|`2025-07-10 14:21:00`|`Call of Duty: Black Ops 2`|
 |[Rebuilt SceneManager&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708015-rebuilt-scenemanager.html)|`2025-07-10 14:07:00`|`Rust`|
 |[Career unlock with Yimmenu v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696116-career-unlock-yimmenu-v2.html)|`2025-07-10 13:39:00`|`Grand Theft Auto V`|
