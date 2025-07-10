@@ -12,6 +12,7 @@
 |25|[Translating virtual address to physical address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708066-translating-virtual-address-physical-address.html)|`2025-07-11 00:24:59`|`anti-cheat-bypass`|
 |13|[Found an undetected way to move the mouse in the game, help me implement it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707837-found-undetected-move-mouse-game-help-implement.html)|`2025-07-11 00:24:59`|`valorant`|
 |17|[I create fake  signing certificates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708299-create-fake-signing-certificates.html)|`2025-07-11 04:24:47`|`anti-cheat-bypass`|
+|6|[Disabling battleEye not working anymore ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707817-disabling-battleeye-anymore.html)|`2025-07-11 04:40:20`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Titanfall 2 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/688353-titanfall-2-internal-cheat.html)|`2025-07-11 04:30:00`|`Titanfall`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-07-11 04:25:00`|`Apex Legends`|
 |[any good roblox execs?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/708712-roblox-execs.html)|`2025-07-11 04:24:00`|`Other Games`|
 |[Welcome](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/708709-welcome.html)|`2025-07-11 04:20:00`|`Introductions`|
 |[Oreo Rivals &#91;Internal Cheat With External Overlay And New Hooking &#43; Silent Aim&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/707135-oreo-rivals-internal-cheat-external-overlay-hooking-silent-aim.html)|`2025-07-11 04:15:00`|`Marvel Rivals`|
