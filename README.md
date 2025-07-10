@@ -18,6 +18,7 @@
 |6|[Continuous Sentinel BUG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/707589-continuous-sentinel-bug.html)|`2025-07-10 13:27:04`|`apex-legends`|
 |5|[cs2 internal free hvh cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707942-cs2-internal-free-hvh-cheat.html)|`2025-07-10 15:42:51`|`counter-strike-2-a`|
 |25|[Translating virtual address to physical address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708066-translating-virtual-address-physical-address.html)|`2025-07-10 18:41:48`|`anti-cheat-bypass`|
+|13|[Found an undetected way to move the mouse in the game, help me implement it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707837-found-undetected-move-mouse-game-help-implement.html)|`2025-07-10 23:23:08`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
