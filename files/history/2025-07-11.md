@@ -11,6 +11,7 @@
 |5|[cs2 internal free hvh cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707942-cs2-internal-free-hvh-cheat.html)|`2025-07-11 00:24:59`|`counter-strike-2-a`|
 |25|[Translating virtual address to physical address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708066-translating-virtual-address-physical-address.html)|`2025-07-11 00:24:59`|`anti-cheat-bypass`|
 |13|[Found an undetected way to move the mouse in the game, help me implement it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707837-found-undetected-move-mouse-game-help-implement.html)|`2025-07-11 00:24:59`|`valorant`|
+|17|[I create fake  signing certificates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708299-create-fake-signing-certificates.html)|`2025-07-11 04:24:47`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[any good roblox execs?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/708712-roblox-execs.html)|`2025-07-11 04:24:00`|`Other Games`|
+|[Welcome](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/708709-welcome.html)|`2025-07-11 04:20:00`|`Introductions`|
+|[Oreo Rivals &#91;Internal Cheat With External Overlay And New Hooking &#43; Silent Aim&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/707135-oreo-rivals-internal-cheat-external-overlay-hooking-silent-aim.html)|`2025-07-11 04:15:00`|`Marvel Rivals`|
+|[basic anticheat reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708197-basic-anticheat-reversal.html)|`2025-07-11 04:15:00`|`Anti-Cheat Bypass`|
+|[cs2 internal free hvh cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707942-cs2-internal-free-hvh-cheat.html)|`2025-07-11 04:14:00`|`Counter-Strike 2`|
 |[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2025-07-11 03:58:00`|`Counter-Strike 2 Releases`|
 |[Does it ban memory reading or kernel cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/708551-ban-memory-reading-kernel-cheat.html)|`2025-07-11 03:56:00`|`Among Us`|
 |[Free Apex Coins/Cheap Coins Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/693249-free-apex-coins-cheap-coins-thread.html)|`2025-07-11 03:50:00`|`Apex Legends`|
