@@ -17,6 +17,7 @@
 |24|[valorant dll injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708406-valorant-dll-injector.html)|`2025-07-10 10:57:18`|`valorant`|
 |6|[Continuous Sentinel BUG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/707589-continuous-sentinel-bug.html)|`2025-07-10 13:27:04`|`apex-legends`|
 |5|[cs2 internal free hvh cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707942-cs2-internal-free-hvh-cheat.html)|`2025-07-10 15:42:51`|`counter-strike-2-a`|
+|25|[Translating virtual address to physical address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708066-translating-virtual-address-physical-address.html)|`2025-07-10 18:41:48`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-07-10 17:51:00`|`Counter-Strike 2 Releases`|
 |[My cheat was doing fine for 500 hours&#46; Now VAC Live detects it within a few rounds&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708645-cheat-doing-fine-500-hours-vac-live-detects-rounds.html)|`2025-07-10 18:13:00`|`Counter-Strike 2`|
 |[Elden Ring NightReign cheat &#43; Online &#43; Future Updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/708023-elden-ring-nightreign-cheat-online-future-updates.html)|`2025-07-10 17:59:00`|`Other FPS Games`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-07-10 17:44:00`|`Escape from Tarkov`|
