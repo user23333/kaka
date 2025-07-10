@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Using Fiddler to reward yourself any item](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/708637-using-fiddler-reward-yourself-item.html)|`2025-07-11 03:33:00`|`Payday 3`|
+|[Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/708706-cheat.html)|`2025-07-11 03:32:00`|`Rainbow Six Siege`|
+|[rage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/708705-rage-cheat.html)|`2025-07-11 03:29:00`|`Rainbow Six Siege`|
 |[How to find a stable kernel apc injection thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708703-stable-kernel-apc-injection-thread.html)|`2025-07-11 03:22:00`|`Anti-Cheat Bypass`|
 |[Discovering a zero&#45;day vulnerability in the Argus Monitor driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708619-discovering-zero-day-vulnerability-argus-monitor-driver.html)|`2025-07-11 03:17:00`|`Anti-Cheat Bypass`|
 |[Dead By Daylight Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694248-dead-daylight-internal.html)|`2025-07-11 03:11:00`|`Other FPS Games`|
