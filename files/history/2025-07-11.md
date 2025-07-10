@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Paint kits applied wrong on weapons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708696-paint-kits-applied-wrong-weapons.html)|`2025-07-11 02:36:00`|`Counter-Strike 2`|
+|[Hwid Banned how can i spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708472-hwid-banned-spoof.html)|`2025-07-11 02:35:00`|`Valorant`|
+|[DMA Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/707944-dma-spoofing.html)|`2025-07-11 02:28:00`|`PC Hardware`|
+|[Rematch new game&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696030-rematch-game.html)|`2025-07-11 02:27:00`|`Other Games`|
 |[basic chams base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/688179-basic-chams-base.html)|`2025-07-11 02:14:00`|`Call of Duty: Black Ops 6`|
 |[Found an undetected way to move the mouse in the game, help me implement it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707837-found-undetected-move-mouse-game-help-implement.html)|`2025-07-11 02:10:00`|`Valorant`|
 |[Molotov/Incendiary Esp Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708693-molotov-incendiary-esp-help.html)|`2025-07-11 02:06:00`|`Counter-Strike 2`|
