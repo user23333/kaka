@@ -15,6 +15,7 @@
 |15|[Cheap Hardware Cheats for Valorant?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707573-cheap-hardware-cheats-valorant.html)|`2025-07-10 06:33:46`|`valorant`|
 |5|[Overwatch 2 &#45; Cheat &#45; Blowverwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/707869-overwatch-2-cheat-blowverwatch.html)|`2025-07-10 07:33:11`|`overwatch`|
 |24|[valorant dll injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708406-valorant-dll-injector.html)|`2025-07-10 10:57:18`|`valorant`|
+|6|[Continuous Sentinel BUG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/707589-continuous-sentinel-bug.html)|`2025-07-10 13:27:04`|`apex-legends`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2025-07-10 13:13:00`|`Other MMORPG and Strategy`|
 |[Overwatch 2 &#45; Cheat &#45; Blowverwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/707869-overwatch-2-cheat-blowverwatch.html)|`2025-07-10 12:39:00`|`Overwatch`|
 |[DMA detection soon?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/706658-dma-detection-soon.html)|`2025-07-10 12:29:00`|`Escape from Tarkov`|
 |[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2025-07-10 12:19:00`|`Sea of Thieves`|
