@@ -31,9 +31,14 @@
 |109|[GHaxV2&#95;3&#46;py](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50360)|`2025-07-10 00:15:14`|
 |12|[GHaxV2&#46;2&#46;py](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50359)|`2025-07-10 00:15:14`|
 |1|[Areeb&#95;Ahmed&#95;Code&#95;Signing&#46;pfx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50394)|`2025-07-10 03:18:35`|
+|1|[DELTA 08&#45;07&#45;2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50387)|`2025-07-10 17:39:23`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ANEURISM IV &#45; Steam game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691595-aneurism-iv-steam-game.html)|`2025-07-10 17:34:00`|`Other Games`|
+|[Whats the best AHK script for BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/707933-whats-ahk-script-bo6.html)|`2025-07-10 17:32:00`|`Call of Duty: Black Ops 6`|
+|[ネコちゃん &#124;「 ✦ Neko Triggerbot✦ 」 &#124; ネコちゃん](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706894-neko-triggerbot.html)|`2025-07-10 17:27:00`|`Valorant`|
+|[Triggerbot with SSG08 only plays fire animation repeatedly before actually shooting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708641-triggerbot-ssg08-plays-fire-animation-repeatedly-actually-shooting.html)|`2025-07-10 17:23:00`|`Counter-Strike 2`|
 |[commend bot cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707655-commend-bot-cs2.html)|`2025-07-10 17:18:00`|`Counter-Strike 2`|
 |[Help with dynamically analyzing vgk&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708638-help-dynamically-analyzing-vgk-sys.html)|`2025-07-10 17:08:00`|`Valorant`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-07-10 16:43:00`|`Grand Theft Auto V`|
