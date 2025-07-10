@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2025-07-11 05:27:00`|`Palia`|
+|[Auto Update External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/614771-auto-update-external.html)|`2025-07-11 05:23:00`|`Overwatch`|
 |[any base?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/708718-base.html)|`2025-07-11 05:06:00`|`League of Legends`|
 |[FName Decryption&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708716-fname-decryption.html)|`2025-07-11 05:05:00`|`Valorant`|
 |[Using NaturalVision Evolved &#40;NVE&#41; in GTA Online Without Getting Banned by BattlEye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/708631-using-naturalvision-evolved-nve-gta-online-getting-banned-battleye.html)|`2025-07-11 05:05:00`|`Grand Theft Auto V`|
