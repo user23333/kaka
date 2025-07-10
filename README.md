@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Extreme Injector v3&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/213038-extreme-injector-v3-7-a.html)|`2025-07-11 07:30:00`|`General Programming and Reversing`|
 |[best hooking method for "undetected" vac use?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707911-hooking-method-undetected-vac.html)|`2025-07-11 07:20:00`|`Counter-Strike 2`|
 |[How to make a successful CS2 p2c in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708826-successful-cs2-p2c-2025-a.html)|`2025-07-11 07:19:00`|`Counter-Strike 2`|
 |[easy anticheat bypass inquiry](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/708496-easy-anticheat-bypass-inquiry.html)|`2025-07-11 07:16:00`|`Introductions`|
