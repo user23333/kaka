@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[basic chams base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/688179-basic-chams-base.html)|`2025-07-11 02:14:00`|`Call of Duty: Black Ops 6`|
+|[Found an undetected way to move the mouse in the game, help me implement it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707837-found-undetected-move-mouse-game-help-implement.html)|`2025-07-11 02:10:00`|`Valorant`|
+|[Molotov/Incendiary Esp Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708693-molotov-incendiary-esp-help.html)|`2025-07-11 02:06:00`|`Counter-Strike 2`|
+|[Rematch AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/707035-rematch-ahk.html)|`2025-07-11 02:06:00`|`Other Games`|
+|[Mac OSX hacking, is Rust any better than C?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust-language-/679065-mac-osx-hacking-rust.html)|`2025-07-11 02:02:00`|`Rust (Language)`|
+|[Method Bypass BE &#40;External&#41; &#43; spoof method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708692-method-bypass-external-spoof-method.html)|`2025-07-11 02:01:00`|`Anti-Cheat Bypass`|
+|[CS2 Offsets Fetcher and Organized Python Class Generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/707848-cs2-offsets-fetcher-organized-python-class-generator.html)|`2025-07-11 01:58:00`|`Counter-Strike 2 Releases`|
+|[chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708687-chams.html)|`2025-07-11 01:58:00`|`Counter-Strike 2`|
+|[Bo6 external Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/708600-bo6-external-source.html)|`2025-07-11 01:57:00`|`Call of Duty: Black Ops 6`|
 |[miss vac bypass dll injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708675-miss-vac-bypass-dll-injector.html)|`2025-07-11 01:47:00`|`Counter-Strike 2`|
 |[particales](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708686-particales.html)|`2025-07-11 01:47:00`|`Counter-Strike 2`|
 |[7 Days to Die](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/455904-7-days-die.html)|`2025-07-11 01:44:00`|`Other FPS Games`|
