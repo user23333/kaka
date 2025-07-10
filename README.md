@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Has anyone ever handled cr3&#95;load&#95;exiting on MS Hyper&#45;V?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708652-handled-cr3_load_exiting-ms-hyper.html)|`2025-07-10 19:53:00`|`Anti-Cheat Bypass`|
+|[device anomaly detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/706213-device-anomaly-detected.html)|`2025-07-10 19:51:00`|`Farlight 84`|
 |[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2025-07-10 19:36:00`|`Other FPS Games`|
 |[How to play on a cis account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/707999-play-cis-account.html)|`2025-07-10 19:33:00`|`Escape from Tarkov`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-07-10 19:19:00`|`Other FPS Games`|
