@@ -36,6 +36,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TPM AND SB BYPASS &#43; SPOOFER &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/623808-tpm-sb-bypass-spoofer.html)|`2025-07-10 22:15:00`|`Valorant`|
+|[APEX DMA fails after entering lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/708663-apex-dma-fails-entering-lobby.html)|`2025-07-10 22:13:00`|`Apex Legends`|
+|[Most spoofable pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708630-spoofable-pc.html)|`2025-07-10 22:11:00`|`Valorant`|
+|[HEY GUYS&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/708650-hey-guys.html)|`2025-07-10 22:10:00`|`Introductions`|
+|[CS2 Offsets Fetcher and Organized Python Class Generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/707848-cs2-offsets-fetcher-organized-python-class-generator.html)|`2025-07-10 22:10:00`|`Counter-Strike 2 Releases`|
+|[Nuxar1 Decryption dumper fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699123-nuxar1-decryption-dumper-fix.html)|`2025-07-10 22:06:00`|`Call of Duty: Black Ops 6`|
 |[Reading Armor Value](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708660-reading-armor-value.html)|`2025-07-10 21:51:00`|`Counter-Strike 2`|
 |[what kind of women u liking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/708219-women-liking.html)|`2025-07-10 21:41:00`|`Off Topic`|
 |[Getting spectator list in Python &#40;what i tried provided&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708658-getting-spectator-list-python-tried-provided.html)|`2025-07-10 21:34:00`|`Counter-Strike 2`|
