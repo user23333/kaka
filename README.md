@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Using Fiddler to reward yourself any item](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/708637-using-fiddler-reward-yourself-item.html)|`2025-07-10 16:24:00`|`Payday 3`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-07-10 15:33:00`|`Other FPS Games`|
 |[skinchanger is applying wrong skin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708517-skinchanger-applying-wrong-skin.html)|`2025-07-10 15:33:00`|`Counter-Strike 2`|
 |[D3D11 Rendering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/direct3d/708632-d3d11-rendering.html)|`2025-07-10 14:53:00`|`Direct3D`|
