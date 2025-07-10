@@ -16,6 +16,7 @@
 |5|[Overwatch 2 &#45; Cheat &#45; Blowverwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/707869-overwatch-2-cheat-blowverwatch.html)|`2025-07-10 07:33:11`|`overwatch`|
 |24|[valorant dll injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708406-valorant-dll-injector.html)|`2025-07-10 10:57:18`|`valorant`|
 |6|[Continuous Sentinel BUG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/707589-continuous-sentinel-bug.html)|`2025-07-10 13:27:04`|`apex-legends`|
+|5|[cs2 internal free hvh cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707942-cs2-internal-free-hvh-cheat.html)|`2025-07-10 15:42:51`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-07-10 15:33:00`|`Other FPS Games`|
+|[skinchanger is applying wrong skin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708517-skinchanger-applying-wrong-skin.html)|`2025-07-10 15:33:00`|`Counter-Strike 2`|
 |[D3D11 Rendering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/direct3d/708632-d3d11-rendering.html)|`2025-07-10 14:53:00`|`Direct3D`|
 |[Using NaturalVision Evolved &#40;NVE&#41; in GTA Online Without Getting Banned by BattlEye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/708631-using-naturalvision-evolved-nve-gta-online-getting-banned-battleye.html)|`2025-07-10 14:48:00`|`Grand Theft Auto V`|
 |[Animated Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708491-animated-chams.html)|`2025-07-10 14:41:00`|`Counter-Strike 2`|
