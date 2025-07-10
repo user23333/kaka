@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[APEX DMA fails after entering lobby due to EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708664-apex-dma-fails-entering-lobby-due-eac.html)|`2025-07-10 22:17:00`|`Anti-Cheat Bypass`|
 |[TPM AND SB BYPASS &#43; SPOOFER &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/623808-tpm-sb-bypass-spoofer.html)|`2025-07-10 22:15:00`|`Valorant`|
 |[APEX DMA fails after entering lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/708663-apex-dma-fails-entering-lobby.html)|`2025-07-10 22:13:00`|`Apex Legends`|
 |[Most spoofable pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708630-spoofable-pc.html)|`2025-07-10 22:11:00`|`Valorant`|
