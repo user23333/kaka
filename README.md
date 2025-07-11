@@ -32,9 +32,12 @@
 |2|[rustDMA&#45;imgui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50376)|`2025-07-11 13:24:46`|
 |2|[Rust Try For ESP &#40;don't work rn&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50374)|`2025-07-11 13:24:46`|
 |2|[TurtleWoW &#45; Hack Tool v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50373)|`2025-07-11 13:24:46`|
+|4|[PhasmoMenu v0&#46;5&#46;6&#46;7 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50408)|`2025-07-11 18:43:19`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dark Hours and Dark Hours Proglogue Infinite Stamina](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/708871-dark-hours-dark-hours-proglogue-infinite-stamina.html)|`2025-07-11 18:34:00`|`Other FPS Games`|
+|[CS 2 Kernel Cheat With Many Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/707639-cs-2-kernel-cheat-features.html)|`2025-07-11 18:28:00`|`Counter-Strike 2 Releases`|
 |[My First Assault Cube 1&#46;3&#46;0&#46;2 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707995-assault-cube-1-3-0-2-cheat.html)|`2025-07-11 18:17:00`|`Other FPS Games`|
 |[How to unlock festive tint for up n atomizer on GTA5 enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701925-unlock-festive-tint-atomizer-gta5-enhanced.html)|`2025-07-11 18:08:00`|`Grand Theft Auto V`|
 |[APEX DMA fails after entering lobby due to EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708664-apex-dma-fails-entering-lobby-due-eac.html)|`2025-07-11 18:08:00`|`Anti-Cheat Bypass`|
