@@ -12,6 +12,7 @@
 |47|[CS2 Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708467-cs2-skin-changer.html)|`2025-07-12 00:25:22`|`counter-strike-2-a`|
 |3|[C&#43;&#43; AI Dual PC Flickbot base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708033-ai-dual-pc-flickbot-base.html)|`2025-07-12 00:25:22`|`valorant`|
 |9|[Backtrack Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708512-backtrack-chams.html)|`2025-07-12 01:58:42`|`counter-strike-2-a`|
+|13|[Discovering a zero&#45;day vulnerability in the Argus Monitor driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708619-discovering-zero-day-vulnerability-argus-monitor-driver.html)|`2025-07-12 03:38:15`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
