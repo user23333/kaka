@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[sleepy cheat dev thoughts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/707904-sleepy-cheat-dev.html)|`2025-07-11 17:10:00`|`Off Topic`|
+|[Unturned Finding Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707664-unturned-finding-offsets.html)|`2025-07-11 17:07:00`|`Other FPS Games`|
 |[Special forces Rush](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707586-special-forces-rush.html)|`2025-07-11 16:55:00`|`Other FPS Games`|
 |[What Cheats do you think AdamBradley Uses?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/708183-cheats-adambradley.html)|`2025-07-11 16:54:00`|`Apex Legends`|
 |[Best laptops to buy and I can still spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708860-laptops-buy-spoof.html)|`2025-07-11 16:40:00`|`Anti-Cheat Bypass`|
