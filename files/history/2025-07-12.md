@@ -29,9 +29,14 @@
 |1|[Impulse&#95;Release&#95;v1&#46;0&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50382)|`2025-07-12 03:44:45`|
 |1|[RazeHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50378)|`2025-07-12 03:56:31`|
 |1|[dump&#95;corlib&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50379)|`2025-07-12 04:14:10`|
+|1|[cs2kernelcheat1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50384)|`2025-07-12 04:34:00`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS 2 Kernel Cheat With Many Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/707639-cs-2-kernel-cheat-features.html)|`2025-07-12 04:33:00`|`Counter-Strike 2 Releases`|
+|[Reversing weapon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/708936-reversing-weapon.html)|`2025-07-12 04:29:00`|`Star Wars Battlefront 2`|
+|[Rocket League FOV Changer &#40;Steam Only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/708394-rocket-league-fov-changer-steam.html)|`2025-07-12 04:25:00`|`Other Games`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-07-12 04:18:00`|`Escape from Tarkov`|
 |[Entity Loop is 0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708934-entity-loop-0-a.html)|`2025-07-12 04:12:00`|`Rust`|
 |[DMA detection soon?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/706658-dma-detection-soon.html)|`2025-07-12 04:12:00`|`Escape from Tarkov`|
 |[miss vac bypass dll injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708675-miss-vac-bypass-dll-injector.html)|`2025-07-12 04:04:00`|`Counter-Strike 2`|
