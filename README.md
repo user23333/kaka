@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[about cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708881-cheat.html)|`2025-07-11 20:14:00`|`PUBG Mobile`|
+|[protection &#43; injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708880-protection-injection.html)|`2025-07-11 20:13:00`|`Anti-Cheat Bypass`|
+|[exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/708226-exploits.html)|`2025-07-11 20:09:00`|`Marvel Rivals`|
 |[Peak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706121-peak.html)|`2025-07-11 19:55:00`|`Other Games`|
 |[skin changing issue &#40;kinda&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708877-skin-changing-issue-kinda.html)|`2025-07-11 19:46:00`|`Counter-Strike 2`|
 |[skin changing issue &#40;kinda&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/708877-skin-changing-issue-kinda.html)|`2025-07-11 19:46:00`|`Counter-Strike 2 Releases`|
