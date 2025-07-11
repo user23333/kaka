@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rocket League Predictions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/708937-rocket-league-predictions.html)|`2025-07-12 05:06:00`|`Other Games`|
+|[Summer Banner Contest 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/708695-summer-banner-contest-2025-a.html)|`2025-07-12 05:05:00`|`General Graphics`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-07-12 04:54:00`|`Apex Legends`|
 |[CS 2 Kernel Cheat With Many Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/707639-cs-2-kernel-cheat-features.html)|`2025-07-12 04:33:00`|`Counter-Strike 2 Releases`|
 |[Reversing weapon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/708936-reversing-weapon.html)|`2025-07-12 04:29:00`|`Star Wars Battlefront 2`|
