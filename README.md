@@ -28,9 +28,15 @@
 |26|[SplitGate2&#95;SDK&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50370)|`2025-07-12 00:25:22`|
 |1|[Impulse&#95;Release&#95;v1&#46;0&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50382)|`2025-07-12 03:44:45`|
 |1|[RazeHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50378)|`2025-07-12 03:56:31`|
+|1|[dump&#95;corlib&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50379)|`2025-07-12 04:14:10`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Entity Loop is 0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708934-entity-loop-0-a.html)|`2025-07-12 04:12:00`|`Rust`|
+|[DMA detection soon?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/706658-dma-detection-soon.html)|`2025-07-12 04:12:00`|`Escape from Tarkov`|
+|[miss vac bypass dll injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708675-miss-vac-bypass-dll-injector.html)|`2025-07-12 04:04:00`|`Counter-Strike 2`|
+|[how to map phys mem pages to usermode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/708933-map-phys-mem-pages-usermode.html)|`2025-07-12 04:04:00`|`C and C++`|
+|[&#40;Selfleak&#41;unturned cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707794-selfleak-unturned-cheat.html)|`2025-07-12 04:02:00`|`Other FPS Games`|
 |[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-07-12 03:54:00`|`Other FPS Games`|
 |[Odin v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/629281-odin-v1.html)|`2025-07-12 03:48:00`|`Paladins`|
 |[CS2 Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708467-cs2-skin-changer.html)|`2025-07-12 03:44:00`|`Counter-Strike 2`|
