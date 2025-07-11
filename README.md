@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Paladins Items ids update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/707399-paladins-items-ids-update.html)|`2025-07-12 02:44:00`|`Paladins`|
+|[detect&#46;ac silent aim bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/708922-detect-ac-silent-aim-bypass.html)|`2025-07-12 02:42:00`|`Alternative Online Mods`|
+|[about cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708881-cheat.html)|`2025-07-12 02:40:00`|`PUBG Mobile`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-07-12 02:37:00`|`Alternative Online Mods`|
+|[perm unban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708850-perm-unban.html)|`2025-07-12 02:37:00`|`Valorant`|
+|[imgui menu dll based](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/707446-imgui-menu-dll-based.html)|`2025-07-12 02:34:00`|`C and C++`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-07-12 02:27:00`|`Other FPS Games`|
 |[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2025-07-12 02:20:00`|`Other FPS Games`|
 |[REPO Simple Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/689820-repo-simple-cheat.html)|`2025-07-12 02:20:00`|`Other MMORPG and Strategy`|
 |[Any luck with other dump methods?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/708917-luck-dump-methods.html)|`2025-07-12 02:17:00`|`Apex Legends`|
