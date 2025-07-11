@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Shadow Region Reversal Struct and Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708947-shadow-region-reversal-struct-offset.html)|`2025-07-12 07:00:00`|`Valorant`|
 |[Ignite&#46;pub Legit Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/708946-ignite-pub-legit-check.html)|`2025-07-12 06:41:00`|`Apex Legends`|
 |[Need HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/708839-hwid-spoofer.html)|`2025-07-12 06:28:00`|`PC Hardware`|
 |[Python External Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708944-python-external-radar.html)|`2025-07-12 06:26:00`|`Counter-Strike 2`|
