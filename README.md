@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pose decrypt &#40;for entity&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700510-pose-decrypt-entity.html)|`2025-07-11 11:02:00`|`Call of Duty: Black Ops 6`|
+|[I create fake  signing certificates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708299-create-fake-signing-certificates.html)|`2025-07-11 10:44:00`|`Anti-Cheat Bypass`|
+|[APEX DMA fails after entering lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/708663-apex-dma-fails-entering-lobby.html)|`2025-07-11 10:42:00`|`Apex Legends`|
+|[css v34 on steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/707220-css-v34-steam.html)|`2025-07-11 10:35:00`|`CounterStrike Source`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-07-11 10:16:00`|`Escape from Tarkov`|
 |[Backtrack Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708512-backtrack-chams.html)|`2025-07-11 09:01:00`|`Counter-Strike 2`|
 |[Rocket league bots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/708048-rocket-league-bots.html)|`2025-07-11 08:17:00`|`Other Games`|
 |[Fast And Simple Triggerbot &#40;ASM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698448-fast-simple-triggerbot-asm.html)|`2025-07-11 08:14:00`|`Valorant`|
