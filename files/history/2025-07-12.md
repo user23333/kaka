@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Found an undetected way to move the mouse in the game, help me implement it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707837-found-undetected-move-mouse-game-help-implement.html)|`2025-07-12 00:41:00`|`Valorant`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-07-12 00:40:00`|`Valorant`|
+|[Chat team color changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/708621-chat-team-color-changer.html)|`2025-07-12 00:37:00`|`Team Fortress 2`|
+|[FiveM External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/708905-fivem-external.html)|`2025-07-12 00:32:00`|`Other Games`|
+|[Oreo Rivals &#91;Internal Cheat With External Overlay And New Hooking &#43; Silent Aim&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/707135-oreo-rivals-internal-cheat-external-overlay-hooking-silent-aim.html)|`2025-07-12 00:32:00`|`Marvel Rivals`|
+|[Any Pubg Cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/708903-pubg-cheat.html)|`2025-07-12 00:28:00`|`PUBG Releases`|
 |[How to unlock festive tint for up n atomizer on GTA5 enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701925-unlock-festive-tint-atomizer-gta5-enhanced.html)|`2025-07-12 00:24:00`|`Grand Theft Auto V`|
 |[Pose decrypt &#40;for entity&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700510-pose-decrypt-entity.html)|`2025-07-12 00:20:00`|`Call of Duty: Black Ops 6`|
 |[Physical allocation mapped into user VA – &#33;pte still empty / user&#45;mode can’t read](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708404-physical-allocation-mapped-user-va-pte-empty-user-mode-read.html)|`2025-07-12 00:17:00`|`Anti-Cheat Bypass`|
