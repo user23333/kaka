@@ -28,9 +28,19 @@
 |63|[EarlyMacroRelease](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50363)|`2025-07-11 00:24:59`|
 |25|[AMD SVM Hypervisor Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50362)|`2025-07-11 00:24:59`|
 |2|[Process Snatcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50366)|`2025-07-11 13:00:21`|
+|1|[5&#46;6&#46;0&#45;43997926&#43;&#43;&#43;Fortnite&#43;Release&#45;36&#46;10](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50396)|`2025-07-11 13:24:46`|
+|2|[rustDMA&#45;imgui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50376)|`2025-07-11 13:24:46`|
+|2|[Rust Try For ESP &#40;don't work rn&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50374)|`2025-07-11 13:24:46`|
+|2|[TurtleWoW &#45; Hack Tool v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50373)|`2025-07-11 13:24:46`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-07-11 13:22:00`|`Rainbow Six Siege`|
+|[perm unban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708850-perm-unban.html)|`2025-07-11 13:21:00`|`Valorant`|
+|[All Mouse NoRecoil 1&#46;0 IS OUT &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-1-0-recoil-helpy-auto-config-probably-ud-universal.html)|`2025-07-11 13:19:00`|`Rainbow Six Siege`|
+|[Simple r6 esp/chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/692673-simple-r6-esp-chams.html)|`2025-07-11 13:16:00`|`Rainbow Six Siege`|
+|[rustDMA&#45;imgui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708252-rustdma-imgui.html)|`2025-07-11 13:12:00`|`Rust`|
+|[Try to make a Rust ESP &#40;players&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/708235-try-rust-esp-players.html)|`2025-07-11 13:07:00`|`Introductions`|
 |[Process Snatcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/706574-process-snatcher.html)|`2025-07-11 12:58:00`|`General Programming and Reversing`|
 |[Liar's Poker Assistant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/708099-liars-poker-assistant.html)|`2025-07-11 12:49:00`|`Other Games`|
 |[Bitcraft Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/708848-bitcraft-online.html)|`2025-07-11 12:44:00`|`Other MMORPG and Strategy`|
