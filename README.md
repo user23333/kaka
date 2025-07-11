@@ -27,9 +27,13 @@
 |2|[cs2 vmdl&#95;c parser c2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50364)|`2025-07-11 00:24:59`|
 |63|[EarlyMacroRelease](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50363)|`2025-07-11 00:24:59`|
 |25|[AMD SVM Hypervisor Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50362)|`2025-07-11 00:24:59`|
+|2|[Process Snatcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50366)|`2025-07-11 13:00:21`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Process Snatcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/706574-process-snatcher.html)|`2025-07-11 12:58:00`|`General Programming and Reversing`|
+|[Liar's Poker Assistant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/708099-liars-poker-assistant.html)|`2025-07-11 12:49:00`|`Other Games`|
+|[Bitcraft Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/708848-bitcraft-online.html)|`2025-07-11 12:44:00`|`Other MMORPG and Strategy`|
 |[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2025-07-11 12:36:00`|`Other MMORPG and Strategy`|
 |[Help with dynamically analyzing vgk&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708638-help-dynamically-analyzing-vgk-sys.html)|`2025-07-11 12:23:00`|`Valorant`|
 |[Ultimate CHEATPACK 2&#46;0 V28](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/632979-ultimate-cheatpack-2-0-v28.html)|`2025-07-11 12:19:00`|`Star Wars Battlefront 2`|
