@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Peak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706121-peak.html)|`2025-07-11 19:55:00`|`Other Games`|
+|[skin changing issue &#40;kinda&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708877-skin-changing-issue-kinda.html)|`2025-07-11 19:46:00`|`Counter-Strike 2`|
 |[skin changing issue &#40;kinda&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/708877-skin-changing-issue-kinda.html)|`2025-07-11 19:46:00`|`Counter-Strike 2 Releases`|
 |[Anti Recoil Easy Lua Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/708102-anti-recoil-easy-lua-script.html)|`2025-07-11 19:45:00`|`Rainbow Six Siege`|
 |[Straftat Full Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/686040-straftat-cheat.html)|`2025-07-11 19:37:00`|`Other Games`|
