@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ipad View](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708430-ipad-view.html)|`2025-07-12 02:57:00`|`PUBG Mobile`|
+|[Another stupid way to bypass SB/TPM/HVCI pop&#45;ups](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708924-stupid-bypass-sb-tpm-hvci-pop-ups.html)|`2025-07-12 02:56:00`|`Valorant`|
 |[Paladins Items ids update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/707399-paladins-items-ids-update.html)|`2025-07-12 02:44:00`|`Paladins`|
 |[detect&#46;ac silent aim bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/708922-detect-ac-silent-aim-bypass.html)|`2025-07-12 02:42:00`|`Alternative Online Mods`|
 |[about cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708881-cheat.html)|`2025-07-12 02:40:00`|`PUBG Mobile`|
