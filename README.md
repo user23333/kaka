@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Special forces Rush](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707586-special-forces-rush.html)|`2025-07-11 16:55:00`|`Other FPS Games`|
+|[What Cheats do you think AdamBradley Uses?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/708183-cheats-adambradley.html)|`2025-07-11 16:54:00`|`Apex Legends`|
 |[Best laptops to buy and I can still spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708860-laptops-buy-spoof.html)|`2025-07-11 16:40:00`|`Anti-Cheat Bypass`|
 |[c&#43;&#43; reflect &#40;kinda&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/708546-reflect-kinda.html)|`2025-07-11 16:35:00`|`C and C++`|
 |[Bombardino Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/704529-bombardino-internal.html)|`2025-07-11 15:52:00`|`Marvel Rivals`|
