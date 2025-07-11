@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[skin changing issue &#40;kinda&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/708877-skin-changing-issue-kinda.html)|`2025-07-11 19:46:00`|`Counter-Strike 2 Releases`|
+|[Anti Recoil Easy Lua Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/708102-anti-recoil-easy-lua-script.html)|`2025-07-11 19:45:00`|`Rainbow Six Siege`|
 |[Straftat Full Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/686040-straftat-cheat.html)|`2025-07-11 19:37:00`|`Other Games`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-07-11 19:26:00`|`Marvel Rivals`|
 |[Dark Hours and Dark Hours Proglogue Infinite Stamina](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/708871-dark-hours-dark-hours-proglogue-infinite-stamina.html)|`2025-07-11 18:34:00`|`Other FPS Games`|
