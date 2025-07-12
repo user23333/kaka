@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ragebot Crashing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708942-ragebot-crashing.html)|`2025-07-12 11:53:00`|`Counter-Strike 2`|
+|[TruckersMP ban evasion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/708950-truckersmp-ban-evasion.html)|`2025-07-12 11:53:00`|`Other Games`|
+|[Open source osu tablet AA / Zenith](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705383-source-osu-tablet-aa-zenith.html)|`2025-07-12 11:43:00`|`Other Games`|
+|[Shrek script spammer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/708701-shrek-script-spammer.html)|`2025-07-12 11:41:00`|`Garry's Mod`|
 |[Is it possible to read memory for visibility check? &#40;no map parsing&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707943-read-memory-visibility-check-map-parsing.html)|`2025-07-12 10:51:00`|`Counter-Strike 2`|
 |[Best laptops to buy and I can still spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708860-laptops-buy-spoof.html)|`2025-07-12 10:40:00`|`Anti-Cheat Bypass`|
 |[Faceit detection vectors for ban evasion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708383-faceit-detection-vectors-ban-evasion.html)|`2025-07-12 10:30:00`|`Anti-Cheat Bypass`|
