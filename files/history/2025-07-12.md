@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Offsets/Pointers Confusion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/708324-offsets-pointers-confusion.html)|`2025-07-12 17:44:00`|`General Programming and Reversing`|
 |[Get FiveM Build External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/706253-fivem-build-external.html)|`2025-07-12 17:33:00`|`Alternative Online Mods`|
 |[apex color aimbot,c&#43;&#43; 80days 0ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/684954-apex-color-aimbot-80days-0ban.html)|`2025-07-12 17:20:00`|`Apex Legends`|
 |[cant get hvloader&#46;dll in bldrloadimage hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708990-cant-hvloader-dll-bldrloadimage-hook.html)|`2025-07-12 17:18:00`|`Anti-Cheat Bypass`|
