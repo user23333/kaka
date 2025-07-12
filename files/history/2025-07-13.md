@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New to phasmophobia hacking : HELP NEEDED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/709002-phasmophobia-hacking-help.html)|`2025-07-13 04:19:00`|`Phasmophobia`|
+|[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2025-07-13 04:13:00`|`Sea of Thieves`|
+|[DMA Issues &#124; Can't read game image past first 4KB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708578-dma-issues-cant-read-game-image-past-4kb.html)|`2025-07-13 04:12:00`|`Anti-Cheat Bypass`|
+|[Lag Switcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/705448-lag-switcher.html)|`2025-07-13 04:09:00`|`DayZ SA`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-07-13 04:06:00`|`Valorant`|
 |[ALMIR MASK TWITCH DROP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/705124-almir-mask-twitch-drop.html)|`2025-07-13 03:56:00`|`Payday 3`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-07-13 03:50:00`|`Counter-Strike 2`|
 |[Fiddler not unlocking all dlc, admin/rewards not showing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/708929-fiddler-unlocking-dlc-admin-rewards.html)|`2025-07-13 03:50:00`|`Payday 3`|
