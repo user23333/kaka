@@ -34,6 +34,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is it possible to read memory for visibility check? &#40;no map parsing&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707943-read-memory-visibility-check-map-parsing.html)|`2025-07-12 10:51:00`|`Counter-Strike 2`|
+|[Best laptops to buy and I can still spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708860-laptops-buy-spoof.html)|`2025-07-12 10:40:00`|`Anti-Cheat Bypass`|
+|[Faceit detection vectors for ban evasion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708383-faceit-detection-vectors-ban-evasion.html)|`2025-07-12 10:30:00`|`Anti-Cheat Bypass`|
+|[GoodDiePUBG &#45; PUBG 3&#46;9 Emulator Hack Source and Release &#40;server/client&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708956-gooddiepubg-pubg-3-9-emulator-hack-source-release-server-client.html)|`2025-07-12 10:28:00`|`PUBG Mobile`|
+|[EXCOMMUNICATION OF @notwav](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/708955-excommunication-notwav.html)|`2025-07-12 10:07:00`|`Off Topic`|
+|[Splitgate 2 Full SDK &#43; Info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/708196-splitgate-2-sdk-info.html)|`2025-07-12 10:04:00`|`Splitgate`|
 |[New VAC Live agents](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707551-vac-live-agents.html)|`2025-07-12 08:55:00`|`Counter-Strike 2`|
 |[Is it possible for someone to make a kernel rcs &#43; triggerbot for cs2 read only?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708192-kernel-rcs-triggerbot-cs2-read.html)|`2025-07-12 08:48:00`|`Counter-Strike 2`|
 |[Calculate coordinates for ESP drawing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/day-of-defeat/708486-calculate-coordinates-esp-drawing.html)|`2025-07-12 08:37:00`|`Day of Defeat`|
