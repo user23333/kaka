@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[basic chams base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/688179-basic-chams-base.html)|`2025-07-12 18:26:00`|`Call of Duty: Black Ops 6`|
+|[Kill Count](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708993-kill-count.html)|`2025-07-12 18:15:00`|`Counter-Strike 2`|
+|[chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708687-chams.html)|`2025-07-12 18:12:00`|`Counter-Strike 2`|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-07-12 18:08:00`|`Phasmophobia`|
 |[basic anticheat reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708197-basic-anticheat-reversal.html)|`2025-07-12 17:53:00`|`Anti-Cheat Bypass`|
 |[Offsets/Pointers Confusion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/708324-offsets-pointers-confusion.html)|`2025-07-12 17:44:00`|`General Programming and Reversing`|
 |[Get FiveM Build External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/706253-fivem-build-external.html)|`2025-07-12 17:33:00`|`Alternative Online Mods`|
