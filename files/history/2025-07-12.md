@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bitcraft Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/708848-bitcraft-online.html)|`2025-07-12 23:41:00`|`Other MMORPG and Strategy`|
+|[What is your favorite cheat of all time?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/708890-favorite-cheat-time.html)|`2025-07-12 23:34:00`|`Forum General`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-07-12 23:29:00`|`DayZ SA`|
 |[Last Epoch Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/709022-epoch-online.html)|`2025-07-12 23:21:00`|`Other MMORPG and Strategy`|
 |[Star Wars Battlefront II &#45; Server Menu &#45;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/680218-star-wars-battlefront-ii-server-menu.html)|`2025-07-12 23:05:00`|`Star Wars Battlefront 2`|
