@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Forceful unlink method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/706228-forceful-unlink-method.html)|`2025-07-13 01:29:00`|`Call of Duty: Black Ops 6`|
+|[apex color aimbot,c&#43;&#43; 80days 0ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/684954-apex-color-aimbot-80days-0ban.html)|`2025-07-13 01:29:00`|`Apex Legends`|
+|[getting unencrypted offsets&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/704627-getting-unencrypted-offsets.html)|`2025-07-13 01:26:00`|`Rust`|
+|[CS2 Glow in Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/707945-cs2-glow-python.html)|`2025-07-13 01:26:00`|`Counter-Strike 2 Releases`|
+|[Temp spoofer driver &#40;randomize all serials&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/594353-temp-spoofer-driver-randomize-serials.html)|`2025-07-13 01:18:00`|`Valorant`|
 |[Vigor internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662490-vigor-internal-cheat.html)|`2025-07-13 01:11:00`|`Other FPS Games`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-07-13 01:03:00`|`Rust`|
 |[All Mouse NoRecoil 1&#46;0 IS OUT &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-1-0-recoil-helpy-auto-config-probably-ud-universal.html)|`2025-07-13 01:02:00`|`Rainbow Six Siege`|
