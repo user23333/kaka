@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Universal Recoil for All Games By:8code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/xdefiant/639384-universal-recoil-games-8code.html)|`2025-07-13 07:31:00`|`xDefiant`|
 |[DMA detection soon?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/706658-dma-detection-soon.html)|`2025-07-13 07:15:00`|`Escape from Tarkov`|
 |[ReClassDark — Dark mode & fixes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/707941-reclassdark-dark-mode-fixes.html)|`2025-07-13 06:52:00`|`General Programming and Reversing`|
 |[RustRecoilMacro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706634-rustrecoilmacro.html)|`2025-07-13 06:52:00`|`Rainbow Six Siege`|
