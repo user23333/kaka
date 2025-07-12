@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ALMIR MASK TWITCH DROP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/705124-almir-mask-twitch-drop.html)|`2025-07-13 03:56:00`|`Payday 3`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-07-13 03:50:00`|`Counter-Strike 2`|
 |[Fiddler not unlocking all dlc, admin/rewards not showing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/708929-fiddler-unlocking-dlc-admin-rewards.html)|`2025-07-13 03:50:00`|`Payday 3`|
 |[Jacket and Houston characters](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/708988-jacket-houston-characters.html)|`2025-07-13 03:48:00`|`Payday 3`|
