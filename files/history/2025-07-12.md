@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dune Awakening Repair Exploit After Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707561-dune-awakening-repair-exploit-patch.html)|`2025-07-12 15:30:00`|`Other FPS Games`|
+|[Member of the Month &#45; July 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/707504-month-july-2025-a.html)|`2025-07-12 15:05:00`|`Member of the Month`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-07-12 15:36:00`|`Call of Duty: Black Ops 6`|
 |[Classic Offensive Weapon list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/708983-classic-offensive-weapon-list.html)|`2025-07-12 15:24:00`|`Counterstrike Global Offensive`|
 |[Gmod Metatables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/706423-gmod-metatables.html)|`2025-07-12 15:04:00`|`Garry's Mod`|
