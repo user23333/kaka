@@ -27,9 +27,13 @@
 |1|[TrevorV2&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50385)|`2025-07-13 01:56:35`|
 |1|[Rematch AHK v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50399)|`2025-07-13 06:33:56`|
 |1|[accelmem 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50392)|`2025-07-13 06:33:56`|
+|1|[external menu base dx11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50404)|`2025-07-13 06:46:16`|
+|1|[Argus&#45;PoC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50398)|`2025-07-13 06:46:16`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Discovering a zero&#45;day vulnerability in the Argus Monitor driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708619-discovering-zero-day-vulnerability-argus-monitor-driver.html)|`2025-07-13 06:40:00`|`Anti-Cheat Bypass`|
+|[imgui dx11 external menu base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/708711-imgui-dx11-external-menu-base.html)|`2025-07-13 06:34:00`|`C and C++`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-07-13 06:33:00`|`Counter-Strike 2`|
 |[accelmem &#45; Cross Platform SIMD & MT&#45;Optimized Memory Operations & Cryptography](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/708480-accelmem-cross-platform-simd-mt-optimized-memory-operations-cryptography.html)|`2025-07-13 06:30:00`|`C and C++`|
 |[&#91;removed&#93; roblox dma external release &#40;techno&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/709085-removed-roblox-dma-external-release-techno.html)|`2025-07-13 06:30:00`|`Other Games`|
