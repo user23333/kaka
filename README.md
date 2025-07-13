@@ -43,6 +43,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Backtrack Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708512-backtrack-chams.html)|`2025-07-13 16:50:00`|`Counter-Strike 2`|
+|[Frameware Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/677239-frameware-release.html)|`2025-07-13 16:47:00`|`Overwatch`|
 |[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2025-07-13 16:31:00`|`Grand Theft Auto V`|
 |[cs 1&#46;6 external esp can't debug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/709007-cs-1-6-external-esp-cant-debug.html)|`2025-07-13 16:19:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Nexus External ESP V2 &#40;PyMeow&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/690093-nexus-external-esp-v2-pymeow.html)|`2025-07-13 16:12:00`|`Garry's Mod`|
