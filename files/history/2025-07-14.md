@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External AI CV League Assist — Seeking Collaboration / Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/704755-external-ai-cv-league-assist-seeking-collaboration-discussion.html)|`2025-07-14 06:45:00`|`League of Legends`|
+|[HMW Unlock All &#43; Stats &#40;Can be done on your own account&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/702383-hmw-unlock-stats-own-account.html)|`2025-07-14 06:34:00`|`Call of Duty 4: Modern Warfare`|
 |[Sea Of Thieves Spike Tool V2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/708489-sea-thieves-spike-tool-v2.html)|`2025-07-14 06:32:00`|`Sea of Thieves`|
 |[CS2 External ESP &#124; Win32 GDI &#43; ctypes, no Pymem or PyMeow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709220-cs2-external-esp-win32-gdi-ctypes-pymem-pymeow.html)|`2025-07-14 06:28:00`|`Counter-Strike 2`|
 |[Ranked Glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/707423-ranked-glitch.html)|`2025-07-14 06:00:00`|`Apex Legends`|
