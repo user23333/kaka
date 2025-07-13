@@ -39,6 +39,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-07-14 07:16:00`|`Counter-Strike 2`|
+|[HorizonMW Unlock all &#40;level 70&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/701454-horizonmw-unlock-level-70-a.html)|`2025-07-14 07:16:00`|`Call of Duty 4: Modern Warfare`|
+|[any base?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/708718-base.html)|`2025-07-14 07:15:00`|`League of Legends`|
+|[Definitive Ultimate Cheatpack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/633084-definitive-ultimate-cheatpack.html)|`2025-07-14 07:14:00`|`Star Wars Battlefront 2`|
 |[External AI CV League Assist — Seeking Collaboration / Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/704755-external-ai-cv-league-assist-seeking-collaboration-discussion.html)|`2025-07-14 06:45:00`|`League of Legends`|
 |[HMW Unlock All &#43; Stats &#40;Can be done on your own account&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/702383-hmw-unlock-stats-own-account.html)|`2025-07-14 06:34:00`|`Call of Duty 4: Modern Warfare`|
 |[Sea Of Thieves Spike Tool V2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/708489-sea-thieves-spike-tool-v2.html)|`2025-07-14 06:32:00`|`Sea of Thieves`|
