@@ -38,6 +38,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[7DTD 2&#46;0 Latest Stable Creative and Debug Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707218-7dtd-2-0-stable-creative-debug-assembly-csharp-dll.html)|`2025-07-14 04:39:00`|`Other FPS Games`|
+|[collecting drops without starting the game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709168-collecting-drops-starting-game.html)|`2025-07-14 04:34:00`|`Counter-Strike 2`|
+|[Oreo Rivals &#91;Internal Cheat With External Overlay And New Hooking &#43; Silent Aim&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/707135-oreo-rivals-internal-cheat-external-overlay-hooking-silent-aim.html)|`2025-07-14 04:33:00`|`Marvel Rivals`|
+|[Reading Memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/708980-reading-memory.html)|`2025-07-14 04:32:00`|`Apex Legends`|
 |[Bounty hunter xp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/709201-bounty-hunter-xp.html)|`2025-07-14 04:12:00`|`Red Dead Redemption 2`|
 |[HWID BAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/709032-hwid-ban.html)|`2025-07-14 04:07:00`|`THE FINALS`|
 |[Elgato Virtual Camera &#45; IRP MasterIrp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/709198-elgato-virtual-camera-irp-masterirp.html)|`2025-07-14 03:55:00`|`General Programming and Reversing`|
