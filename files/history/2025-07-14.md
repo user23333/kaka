@@ -25,9 +25,14 @@
 |49|[TarkovGUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50402)|`2025-07-14 00:09:38`|
 |21|[miss](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50401)|`2025-07-14 00:09:38`|
 |1|[Dark Hours Infinite Stamina](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50410)|`2025-07-14 00:57:20`|
+|3|[DeltaForceClient&#45;Win64&#45;Shipping&#95;11&#46;07&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50418)|`2025-07-14 01:11:57`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vigor internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662490-vigor-internal-cheat.html)|`2025-07-14 01:08:00`|`Other FPS Games`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-07-14 01:08:00`|`Call of Duty: Black Ops 6`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-07-14 01:03:00`|`Rust`|
+|[Is the new yimmenu working for you guys?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/709165-yimmenu-guys.html)|`2025-07-14 01:01:00`|`Grand Theft Auto V`|
 |[Self&#45;Leak &#45; DOOMSDAY &#40;Internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/664457-self-leak-doomsday-internal.html)|`2025-07-14 00:55:00`|`Call of Duty: Black Ops 2`|
 |[Ultimate COD WW2 Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/650299-ultimate-cod-ww2-thread.html)|`2025-07-14 00:55:00`|`Other Games`|
 |[Last Epoch Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/709022-epoch-online.html)|`2025-07-14 00:53:00`|`Other MMORPG and Strategy`|
