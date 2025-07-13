@@ -11,6 +11,7 @@
 |9|[What Cheats do you think AdamBradley Uses?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/708183-cheats-adambradley.html)|`2025-07-13 00:19:07`|`apex-legends`|
 |3|[C&#43;&#43; AI Dual PC Flickbot base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708033-ai-dual-pc-flickbot-base.html)|`2025-07-13 00:19:07`|`valorant`|
 |5|[rustDMA&#45;imgui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708252-rustdma-imgui.html)|`2025-07-13 00:19:07`|`rust`|
+|6|[Anti Recoil Easy Lua Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/708102-anti-recoil-easy-lua-script.html)|`2025-07-13 09:46:31`|`rainbow-six-siege`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,9 +35,17 @@
 |2|[EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50393)|`2025-07-13 07:18:39`|
 |1|[Combat Master Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50391)|`2025-07-13 07:52:55`|
 |1|[TarkovGUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50402)|`2025-07-13 07:58:57`|
+|1|[Titanfall 2 Internal Cheat v2&#46;2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50405)|`2025-07-13 09:46:31`|
+|79|[StupidSolutions for 0&#46;16&#46;8&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50395)|`2025-07-13 09:46:31`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2025-07-13 09:37:00`|`Escape from Tarkov`|
+|[Can someone provide a cheat program for VALORANT using KVM technology? linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704820-provide-cheat-program-valorant-using-kvm-technology-linux.html)|`2025-07-13 09:31:00`|`Valorant`|
+|[BloodStrike Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/709099-bloodstrike-offsets.html)|`2025-07-13 09:28:00`|`Other FPS Games`|
+|[Straftat Full Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/686040-straftat-cheat.html)|`2025-07-13 09:17:00`|`Other Games`|
+|[FSL issues using linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/709096-fsl-issues-using-linux.html)|`2025-07-13 09:09:00`|`Grand Theft Auto V`|
+|[&#91; External &#93; SPT&#45;AKI CheatBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/626274-external-spt-aki-cheatbase.html)|`2025-07-13 09:03:00`|`Escape from Tarkov`|
 |[TarkovGUI &#124; PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/694944-tarkovgui-pve.html)|`2025-07-13 07:58:00`|`Escape from Tarkov`|
 |[Combat Master Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/708468-combat-master-internal.html)|`2025-07-13 07:52:00`|`Combat Master`|
 |[Open source osu tablet AA / Zenith](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705383-source-osu-tablet-aa-zenith.html)|`2025-07-13 07:52:00`|`Other Games`|
