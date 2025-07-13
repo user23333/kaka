@@ -28,9 +28,15 @@
 |3|[DeltaForceClient&#45;Win64&#45;Shipping&#95;11&#46;07&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50418)|`2025-07-14 01:11:57`|
 |2|[Vigor internal ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50420)|`2025-07-14 01:30:03`|
 |1|[Dominate&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50421)|`2025-07-14 01:42:27`|
+|1|[Helldivers 2 &#45; Stratagem Hotkey Manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50419)|`2025-07-14 02:16:19`|
+|2|[Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50411)|`2025-07-14 02:16:19`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New Updated Fully Working Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708891-updated-triggerbot.html)|`2025-07-14 02:13:00`|`Valorant`|
+|[Helldivers 2 &#45; Stratagem Hotkey Manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/708700-helldivers-2-stratagem-hotkey-manager.html)|`2025-07-14 02:07:00`|`HELLDIVERS 2`|
+|[Combat Master Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/708468-combat-master-internal.html)|`2025-07-14 02:07:00`|`Combat Master`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-07-14 02:01:00`|`Playerunknown's Battlegrounds`|
 |[Another stupid way to bypass SB/TPM/HVCI pop&#45;ups](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708924-stupid-bypass-sb-tpm-hvci-pop-ups.html)|`2025-07-14 01:48:00`|`Valorant`|
 |[Free External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709037-free-external.html)|`2025-07-14 01:43:00`|`Counter-Strike 2`|
 |[CS2 Glow in Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/707945-cs2-glow-python.html)|`2025-07-14 01:40:00`|`Counter-Strike 2 Releases`|
