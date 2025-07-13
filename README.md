@@ -47,6 +47,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Driver mapping with HVCI on](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709171-driver-mapping-hvci.html)|`2025-07-13 23:48:00`|`Valorant`|
+|[External Offsets 3&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708247-external-offsets-3-9-a.html)|`2025-07-13 23:43:00`|`PUBG Mobile`|
 |[collecting drops without starting the game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709168-collecting-drops-starting-game.html)|`2025-07-13 23:25:00`|`Counter-Strike 2`|
 |[Want to go back to playing the game legit after cheating and getting banned&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/709167-playing-game-legit-cheating-getting-banned.html)|`2025-07-13 23:21:00`|`Escape from Tarkov`|
 |[GhostActivity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/709166-ghostactivity.html)|`2025-07-13 23:02:00`|`Phasmophobia`|
