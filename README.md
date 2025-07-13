@@ -43,6 +43,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is it possible to read memory for visibility check? &#40;no map parsing&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707943-read-memory-visibility-check-map-parsing.html)|`2025-07-13 14:45:00`|`Counter-Strike 2`|
+|[&#40;External&#41; Strange ESP behaviour](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/709124-external-strange-esp-behaviour.html)|`2025-07-13 14:43:00`|`DayZ SA`|
+|[game of thrones kingsroad hack & offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701827-game-thrones-kingsroad-hack-offsets.html)|`2025-07-13 14:40:00`|`Other MMORPG and Strategy`|
+|[bullet trace](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709123-bullet-trace.html)|`2025-07-13 14:38:00`|`Counter-Strike 2`|
 |[Twitch drops mask &#45; pls post if u hv missing fiddler IDs to share thanks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/709121-twitch-drops-mask-pls-post-hv-missing-fiddler-ids-share-thanks.html)|`2025-07-13 13:49:00`|`Payday 3`|
 |[can dma get you banned if its unplugged](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709094-dma-banned-unplugged.html)|`2025-07-13 12:43:00`|`Anti-Cheat Bypass`|
 |[Definitive Ultimate Cheatpack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/633084-definitive-ultimate-cheatpack.html)|`2025-07-13 12:41:00`|`Star Wars Battlefront 2`|
