@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS 2 dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709214-cs-2-dumper.html)|`2025-07-14 05:49:00`|`Counter-Strike 2`|
 |[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2025-07-14 05:43:00`|`Escape from Tarkov`|
 |[Rust Recoil Pattern](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709119-rust-recoil-pattern.html)|`2025-07-14 05:42:00`|`Rust`|
 |[getting unencrypted offsets&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/704627-getting-unencrypted-offsets.html)|`2025-07-14 05:42:00`|`Rust`|
