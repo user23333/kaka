@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sea Of Thieves Spike Tool V2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/708489-sea-thieves-spike-tool-v2.html)|`2025-07-14 06:32:00`|`Sea of Thieves`|
+|[CS2 External ESP &#124; Win32 GDI &#43; ctypes, no Pymem or PyMeow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709220-cs2-external-esp-win32-gdi-ctypes-pymem-pymeow.html)|`2025-07-14 06:28:00`|`Counter-Strike 2`|
 |[Ranked Glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/707423-ranked-glitch.html)|`2025-07-14 06:00:00`|`Apex Legends`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-07-14 05:53:00`|`Escape from Tarkov`|
 |[CS 2 dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709214-cs-2-dumper.html)|`2025-07-14 05:49:00`|`Counter-Strike 2`|
