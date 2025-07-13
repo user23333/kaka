@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ReClassDark — Dark mode & fixes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/707941-reclassdark-dark-mode-fixes.html)|`2025-07-14 00:33:00`|`General Programming and Reversing`|
+|[Palworld cheat &#45; what happened?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/708940-palworld-cheat-happened.html)|`2025-07-14 00:31:00`|`Palworld`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-07-14 00:22:00`|`Escape from Tarkov`|
+|[Internal ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/703386-internal-esp-aimbot.html)|`2025-07-14 00:21:00`|`Star Wars Battlefront 2`|
+|[Can someone provide a cheat program for VALORANT using KVM technology? linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704820-provide-cheat-program-valorant-using-kvm-technology-linux.html)|`2025-07-14 00:18:00`|`Valorant`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-07-14 00:16:00`|`Alternative Online Mods`|
+|[Python External Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708944-python-external-radar.html)|`2025-07-14 00:11:00`|`Counter-Strike 2`|
 |[Driver mapping with HVCI on](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709171-driver-mapping-hvci.html)|`2025-07-14 00:09:00`|`Valorant`|
 |[BF3 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-3-a/709019-bf3-internal-cheat.html)|`2025-07-14 00:05:00`|`Battlefield 3`|
 |[Jacket and Houston characters](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/708988-jacket-houston-characters.html)|`2025-07-14 00:00:00`|`Payday 3`|
