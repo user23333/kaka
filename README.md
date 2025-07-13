@@ -43,6 +43,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[can dma get you banned if its unplugged](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709094-dma-banned-unplugged.html)|`2025-07-13 12:43:00`|`Anti-Cheat Bypass`|
+|[Definitive Ultimate Cheatpack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/633084-definitive-ultimate-cheatpack.html)|`2025-07-13 12:41:00`|`Star Wars Battlefront 2`|
+|[The Adryan Pack &#45; Multiplayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/694661-adryan-pack-multiplayer.html)|`2025-07-13 12:39:00`|`Star Wars Battlefront 2`|
+|[Can somebody make an infinite ability cheat with FBMod?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/709095-infinite-ability-cheat-fbmod.html)|`2025-07-13 12:38:00`|`Star Wars Battlefront 2`|
 |[DayZ 1&#46;28 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/708021-dayz-1-28-offsets.html)|`2025-07-13 11:52:00`|`DayZ SA`|
 |[Reading Memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/708980-reading-memory.html)|`2025-07-13 11:52:00`|`Apex Legends`|
 |[Palworld cheat &#45; what happened?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/708940-palworld-cheat-happened.html)|`2025-07-13 11:17:00`|`Palworld`|
