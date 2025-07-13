@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bounty hunter xp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/709201-bounty-hunter-xp.html)|`2025-07-14 04:12:00`|`Red Dead Redemption 2`|
 |[HWID BAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/709032-hwid-ban.html)|`2025-07-14 04:07:00`|`THE FINALS`|
 |[Elgato Virtual Camera &#45; IRP MasterIrp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/709198-elgato-virtual-camera-irp-masterirp.html)|`2025-07-14 03:55:00`|`General Programming and Reversing`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-07-14 03:47:00`|`Counter-Strike 2`|
