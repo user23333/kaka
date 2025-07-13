@@ -43,6 +43,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Blue Archive Steam ver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/708972-blue-archive-steam-ver.html)|`2025-07-13 19:49:00`|`Other MMORPG and Strategy`|
 |[about cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708881-cheat.html)|`2025-07-13 18:54:00`|`PUBG Mobile`|
 |[Phasmo Save Editor &#40;All items/Cosmetics/Money/Lv & Prestige Editor/etc&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/708592-phasmo-save-editor-items-cosmetics-money-lv-prestige-editor-etc.html)|`2025-07-13 18:32:00`|`Phasmophobia`|
 |[Internal ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/703386-internal-esp-aimbot.html)|`2025-07-13 18:18:00`|`Star Wars Battlefront 2`|
