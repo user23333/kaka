@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DX11 Overlay – Best Way to Stay Undetected &#40;ImGui / Transparent Window&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709175-dx11-overlay-stay-undetected-imgui-transparent-window.html)|`2025-07-14 00:44:00`|`Anti-Cheat Bypass`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-07-14 00:42:00`|`Valorant`|
 |[ReClassDark — Dark mode & fixes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/707941-reclassdark-dark-mode-fixes.html)|`2025-07-14 00:33:00`|`General Programming and Reversing`|
 |[Palworld cheat &#45; what happened?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/708940-palworld-cheat-happened.html)|`2025-07-14 00:31:00`|`Palworld`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-07-14 00:22:00`|`Escape from Tarkov`|
