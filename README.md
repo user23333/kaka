@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6 Offset/Decrypt Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/709192-r6-offset-decrypt-method.html)|`2025-07-14 02:45:00`|`Rainbow Six Siege`|
+|[Stat Editor RP Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/708035-stat-editor-rp-changer.html)|`2025-07-14 02:43:00`|`Grand Theft Auto V`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-07-14 02:40:00`|`Phasmophobia`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-07-14 02:38:00`|`League of Legends`|
 |[Native Invoker for Rage MP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/708519-native-invoker-rage-mp.html)|`2025-07-14 02:34:00`|`Grand Theft Auto V`|
