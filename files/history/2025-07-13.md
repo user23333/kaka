@@ -41,9 +41,12 @@
 |6|[asthmaphobia v0&#46;13&#46;1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50403)|`2025-07-13 11:23:53`|
 |5|[miss](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50401)|`2025-07-13 11:23:53`|
 |2|[Marvel SDK 11/07/2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50412)|`2025-07-13 21:04:42`|
+|2|[Techno](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50423)|`2025-07-13 21:35:11`|
+|3|[DBD Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50413)|`2025-07-13 21:35:11`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can't find ACSDKThread or RTHeartbeat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/709162-cant-acsdkthread-rtheartbeat.html)|`2025-07-13 21:34:00`|`Marvel Rivals`|
 |[Create own GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/709161-create-own-gui.html)|`2025-07-13 20:59:00`|`Alternative Online Mods`|
 |[ID's for PD3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/709147-ids-pd3.html)|`2025-07-13 20:52:00`|`Payday 3`|
 |[Supremacy manipulaton tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/709158-supremacy-manipulaton-tool.html)|`2025-07-13 20:43:00`|`Star Wars Battlefront 2`|
