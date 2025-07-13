@@ -13,6 +13,7 @@
 |5|[rustDMA&#45;imgui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708252-rustdma-imgui.html)|`2025-07-13 00:19:07`|`rust`|
 |6|[Anti Recoil Easy Lua Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/708102-anti-recoil-easy-lua-script.html)|`2025-07-13 09:46:31`|`rainbow-six-siege`|
 |15|[miss vac bypass dll injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708675-miss-vac-bypass-dll-injector.html)|`2025-07-13 12:09:37`|`counter-strike-2-a`|
+|8|[TREVOR V2 &#124; Simple & Secure GUI &#46;DLL Injector for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708373-trevor-v2-simple-secure-gui-dll-injector-cs2.html)|`2025-07-13 22:35:01`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
