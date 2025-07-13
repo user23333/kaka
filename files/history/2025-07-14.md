@@ -24,9 +24,15 @@
 |26|[asthmaphobia v0&#46;13&#46;1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50403)|`2025-07-14 00:09:38`|
 |49|[TarkovGUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50402)|`2025-07-14 00:09:38`|
 |21|[miss](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50401)|`2025-07-14 00:09:38`|
+|1|[Dark Hours Infinite Stamina](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50410)|`2025-07-14 00:57:20`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Self&#45;Leak &#45; DOOMSDAY &#40;Internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/664457-self-leak-doomsday-internal.html)|`2025-07-14 00:55:00`|`Call of Duty: Black Ops 2`|
+|[Ultimate COD WW2 Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/650299-ultimate-cod-ww2-thread.html)|`2025-07-14 00:55:00`|`Other Games`|
+|[Last Epoch Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/709022-epoch-online.html)|`2025-07-14 00:53:00`|`Other MMORPG and Strategy`|
+|[Dark Hours and Dark Hours Proglogue Infinite Stamina](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/708871-dark-hours-dark-hours-proglogue-infinite-stamina.html)|`2025-07-14 00:51:00`|`Other FPS Games`|
+|[windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/709174-windows.html)|`2025-07-14 00:36:00`|`Introductions`|
 |[DX11 Overlay – Best Way to Stay Undetected &#40;ImGui / Transparent Window&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709175-dx11-overlay-stay-undetected-imgui-transparent-window.html)|`2025-07-14 00:44:00`|`Anti-Cheat Bypass`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-07-14 00:42:00`|`Valorant`|
 |[ReClassDark — Dark mode & fixes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/707941-reclassdark-dark-mode-fixes.html)|`2025-07-14 00:33:00`|`General Programming and Reversing`|
