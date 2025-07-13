@@ -27,9 +27,12 @@
 |1|[Dark Hours Infinite Stamina](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50410)|`2025-07-14 00:57:20`|
 |3|[DeltaForceClient&#45;Win64&#45;Shipping&#95;11&#46;07&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50418)|`2025-07-14 01:11:57`|
 |2|[Vigor internal ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50420)|`2025-07-14 01:30:03`|
+|1|[Dominate&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50421)|`2025-07-14 01:42:27`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Glow in Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/707945-cs2-glow-python.html)|`2025-07-14 01:40:00`|`Counter-Strike 2 Releases`|
+|[Can't find ACSDKThread or RTHeartbeat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/709162-cant-acsdkthread-rtheartbeat.html)|`2025-07-14 01:38:00`|`Marvel Rivals`|
 |[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-07-14 01:28:00`|`Other FPS Games`|
 |[BO6 DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670998-bo6-dma-esp.html)|`2025-07-14 01:24:00`|`Call of Duty: Black Ops 6`|
 |[Ban Data Collection Thread/Unban Method Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/420476-ban-data-collection-thread-unban-method-discussion.html)|`2025-07-14 01:22:00`|`Escape from Tarkov`|
