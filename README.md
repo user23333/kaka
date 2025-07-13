@@ -46,6 +46,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TPM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/649260-tpm-spoofer.html)|`2025-07-13 21:50:00`|`Valorant`|
 |[Can't find ACSDKThread or RTHeartbeat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/709162-cant-acsdkthread-rtheartbeat.html)|`2025-07-13 21:34:00`|`Marvel Rivals`|
 |[Create own GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/709161-create-own-gui.html)|`2025-07-13 20:59:00`|`Alternative Online Mods`|
 |[ID's for PD3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/709147-ids-pd3.html)|`2025-07-13 20:52:00`|`Payday 3`|
