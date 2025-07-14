@@ -37,9 +37,14 @@
 |1|[GoodDiePUBG &#45; PUBG 3&#46;9 Emulator Hack Source a](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50416)|`2025-07-14 02:42:27`|
 |1|[Repo mod menu for v0&#46;72](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50415)|`2025-07-14 02:42:27`|
 |1|[Flectorite v1&#46;0&#46;32](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50424)|`2025-07-14 03:15:45`|
+|1|[cmut](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50431)|`2025-07-14 16:48:05`|
+|3|[MSI cert Leaked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50426)|`2025-07-14 16:48:05`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chams with no recoil and more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/682715-chams-recoil.html)|`2025-07-14 16:35:00`|`Rainbow Six Siege`|
+|[⚔️ cmut: A Lightweight, Cross&#45;Platform C&#43;&#43;20 Polymorphic Obfuscation Engine ⚔️](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/709250-cmut-lightweight-cross-platform-20-polymorphic-obfuscation-engine.html)|`2025-07-14 16:29:00`|`C and C++`|
+|[Leaked MSI cert unblacklisted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/709249-leaked-msi-cert-unblacklisted.html)|`2025-07-14 16:19:00`|`General Programming and Reversing`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/683283-cheat-legit-external-update-tkz-credits.html)|`2025-07-14 16:03:00`|`Counter-Strike 2`|
 |[CS2 Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708467-cs2-skin-changer.html)|`2025-07-14 15:48:00`|`Counter-Strike 2`|
 |[Screenshot By Pass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/709120-screenshot-pass.html)|`2025-07-14 15:40:00`|`Playerunknown's Battlegrounds`|
