@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[runtime patchguard disabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706184-runtime-patchguard-disabler.html)|`2025-07-15 05:29:00`|`Anti-Cheat Bypass`|
+|[TarkovGUI &#124; PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/694944-tarkovgui-pve.html)|`2025-07-15 05:24:00`|`Escape from Tarkov`|
 |[Discovering a zero&#45;day vulnerability in the Argus Monitor driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708619-discovering-zero-day-vulnerability-argus-monitor-driver.html)|`2025-07-15 05:18:00`|`Anti-Cheat Bypass`|
 |[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-07-15 05:08:00`|`Other FPS Games`|
 |[ProjectLocker C&#43;&#43; External &#40;ESP / Recoil, Spread / UnlockAll&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/587891-projectlocker-external-esp-recoil-spread-unlockall.html)|`2025-07-15 05:06:00`|`Battlefield 4`|
