@@ -42,6 +42,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[pubg kaka and stay source &#91;DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/698494-pubg-kaka-stay-source-dma.html)|`2025-07-14 19:03:00`|`Playerunknown's Battlegrounds`|
+|[imgui menu dll based](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/707446-imgui-menu-dll-based.html)|`2025-07-14 19:02:00`|`C and C++`|
+|[Arduino &#43; Shark Attack X3 migration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709263-arduino-shark-attack-x3-migration.html)|`2025-07-14 19:01:00`|`Valorant`|
 |[no view effects dont giving any results](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/709139-view-effects-dont-giving-results.html)|`2025-07-14 18:20:00`|`CounterStrike Source`|
 |[TREVOR V2 &#124; Simple & Secure GUI &#46;DLL Injector for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708373-trevor-v2-simple-secure-gui-dll-injector-cs2.html)|`2025-07-14 18:10:00`|`Counter-Strike 2`|
 |[Fast And Simple Triggerbot &#40;ASM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698448-fast-simple-triggerbot-asm.html)|`2025-07-14 18:08:00`|`Valorant`|
