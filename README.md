@@ -15,6 +15,7 @@
 |10|[Splitgate 2 Full SDK &#43; Info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/708196-splitgate-2-sdk-info.html)|`2025-07-14 06:53:00`|`splitgate`|
 |20|[New Updated Fully Working Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708891-updated-triggerbot.html)|`2025-07-14 11:22:46`|`valorant`|
 |4|[External Offsets 3&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708247-external-offsets-3-9-a.html)|`2025-07-14 19:46:53`|`pubg-mobile`|
+|6|[Bo6 external Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/708600-bo6-external-source.html)|`2025-07-14 19:53:01`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
