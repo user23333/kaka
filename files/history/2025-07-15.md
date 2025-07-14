@@ -11,6 +11,7 @@
 |15|[miss vac bypass dll injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708675-miss-vac-bypass-dll-injector.html)|`2025-07-15 00:23:44`|`counter-strike-2-a`|
 |23|[Free External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709037-free-external.html)|`2025-07-15 00:23:44`|`counter-strike-2-a`|
 |6|[Bo6 external Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/708600-bo6-external-source.html)|`2025-07-15 00:23:44`|`call-of-duty-black-ops-6-a`|
+|12|[Another stupid way to bypass SB/TPM/HVCI pop&#45;ups](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708924-stupid-bypass-sb-tpm-hvci-pop-ups.html)|`2025-07-15 04:56:14`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
