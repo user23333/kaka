@@ -16,6 +16,7 @@
 |20|[New Updated Fully Working Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708891-updated-triggerbot.html)|`2025-07-14 11:22:46`|`valorant`|
 |4|[External Offsets 3&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708247-external-offsets-3-9-a.html)|`2025-07-14 19:46:53`|`pubg-mobile`|
 |6|[Bo6 external Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/708600-bo6-external-source.html)|`2025-07-14 19:53:01`|`call-of-duty-black-ops-6-a`|
+|22|[Free External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709037-free-external.html)|`2025-07-14 21:50:16`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -44,6 +45,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-07-14 21:48:00`|`Grand Theft Auto V`|
+|[Getting D3D9 device crashing&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/709279-getting-d3d9-device-crashing.html)|`2025-07-14 21:47:00`|`Team Fortress 2`|
+|[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2025-07-14 21:37:00`|`Other FPS Games`|
+|[Question about weapon balance patches](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/709277-question-weapon-balance-patches.html)|`2025-07-14 20:59:00`|`Call of Duty 4: Modern Warfare`|
+|[SIMPLE ESP FOR ARMA 2 &#40;dayz, epoch and origins&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-2-a/689511-simple-esp-arma-2-dayz-epoch-origins.html)|`2025-07-14 20:58:00`|`ARMA 2`|
 |[Need help with Roblox account gen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/709274-help-roblox-account-gen.html)|`2025-07-14 20:20:00`|`Programming for Beginners`|
 |[CS2 Python Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/633657-cs2-python-cheat.html)|`2025-07-14 20:18:00`|`Counter-Strike 2 Releases`|
 |[Apex R5Reloaded offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705959-apex-r5reloaded-offsets.html)|`2025-07-14 20:17:00`|`Apex Legends`|
