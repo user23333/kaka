@@ -42,6 +42,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Noob Friendly Guide For Getting Offsets with CasualX Apexbot Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/452956-noob-friendly-guide-getting-offsets-casualx-apexbot-dumper.html)|`2025-07-14 19:38:00`|`Apex Legends`|
+|[VAC kernel&#45;mode bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668374-vac-kernel-mode-bypass.html)|`2025-07-14 19:35:00`|`Anti-Cheat Bypass`|
 |[pubg kaka and stay source &#91;DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/698494-pubg-kaka-stay-source-dma.html)|`2025-07-14 19:03:00`|`Playerunknown's Battlegrounds`|
 |[imgui menu dll based](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/707446-imgui-menu-dll-based.html)|`2025-07-14 19:02:00`|`C and C++`|
 |[Arduino &#43; Shark Attack X3 migration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709263-arduino-shark-attack-x3-migration.html)|`2025-07-14 19:01:00`|`Valorant`|
