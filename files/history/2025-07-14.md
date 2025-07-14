@@ -44,6 +44,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need help with Roblox account gen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/709274-help-roblox-account-gen.html)|`2025-07-14 20:20:00`|`Programming for Beginners`|
+|[CS2 Python Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/633657-cs2-python-cheat.html)|`2025-07-14 20:18:00`|`Counter-Strike 2 Releases`|
+|[Apex R5Reloaded offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705959-apex-r5reloaded-offsets.html)|`2025-07-14 20:17:00`|`Apex Legends`|
+|[Cleaner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/709269-cleaner.html)|`2025-07-14 20:15:00`|`Rainbow Six Siege`|
+|[Looking for built kernal level mac adress spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709267-looking-built-kernal-level-mac-adress-spoofer.html)|`2025-07-14 20:12:00`|`Valorant`|
+|[A remote desktop software that can move the mouse in Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709266-remote-desktop-software-move-mouse-valorant.html)|`2025-07-14 20:07:00`|`Valorant`|
 |[VTube Studio DLC Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689731-vtube-studio-dlc-unlocker.html)|`2025-07-14 19:39:00`|`Other Games`|
 |[Noob Friendly Guide For Getting Offsets with CasualX Apexbot Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/452956-noob-friendly-guide-getting-offsets-casualx-apexbot-dumper.html)|`2025-07-14 19:38:00`|`Apex Legends`|
 |[VAC kernel&#45;mode bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/668374-vac-kernel-mode-bypass.html)|`2025-07-14 19:35:00`|`Anti-Cheat Bypass`|
