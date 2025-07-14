@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What music are you listening right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/music-and-videos/86098-music-listening.html)|`2025-07-15 01:13:00`|`Music and Videos`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-07-15 01:10:00`|`Other FPS Games`|
+|[GTA ONLINE ENHANCED ALL AWARDS STATS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701294-gta-online-enhanced-awards-stats.html)|`2025-07-15 01:05:00`|`Grand Theft Auto V`|
+|[Twitch drops mask &#45; pls post if u hv missing fiddler IDs to share thanks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/709121-twitch-drops-mask-pls-post-hv-missing-fiddler-ids-share-thanks.html)|`2025-07-15 00:55:00`|`Payday 3`|
 |[Dune Awakening dupe Game currency loophole made public](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/709288-dune-awakening-dupe-game-currency-loophole-public.html)|`2025-07-15 00:53:00`|`Other FPS Games`|
 |[CS2 Offsets Fetcher and Organized Python Class Generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/707848-cs2-offsets-fetcher-organized-python-class-generator.html)|`2025-07-15 00:48:00`|`Counter-Strike 2 Releases`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-07-15 00:45:00`|`Other Games`|
