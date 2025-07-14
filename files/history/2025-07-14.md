@@ -40,6 +40,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nexus External ESP V2 &#40;PyMeow&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/690093-nexus-external-esp-v2-pymeow.html)|`2025-07-14 13:41:00`|`Garry's Mod`|
+|[Rebuilt SceneManager&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708015-rebuilt-scenemanager.html)|`2025-07-14 13:34:00`|`Rust`|
+|[Most spoofable pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708630-spoofable-pc.html)|`2025-07-14 13:33:00`|`Valorant`|
+|[Can somebody make an infinite ability cheat with FBMod?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/709095-infinite-ability-cheat-fbmod.html)|`2025-07-14 13:28:00`|`Star Wars Battlefront 2`|
 |[HW recoil control script for everygame](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/704796-hw-recoil-control-script-everygame.html)|`2025-07-14 13:05:00`|`Rust`|
 |[EAC blocked manual map injection?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708985-eac-blocked-manual-map-injection.html)|`2025-07-14 13:05:00`|`Anti-Cheat Bypass`|
 |[Rocket League Predictions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/708937-rocket-league-predictions.html)|`2025-07-14 12:40:00`|`Other Games`|
