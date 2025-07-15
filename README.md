@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[open logitech hub via arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700162-logitech-hub-via-arduino.html)|`2025-07-16 05:41:00`|`Valorant`|
 |[Reversed VAC modules](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709488-reversed-vac-modules.html)|`2025-07-16 05:32:00`|`Counter-Strike 2`|
 |[ARMA 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/114242-arma-3-reversal-structs-offsets.html)|`2025-07-16 05:31:00`|`ARMA 3`|
 |[GTA ONLINE Endless tumbles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/709243-gta-online-endless-tumbles.html)|`2025-07-16 05:26:00`|`Grand Theft Auto V`|
