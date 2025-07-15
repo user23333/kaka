@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DARKEST DAYS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697870-darkest-days-reversal-structs-offsets.html)|`2025-07-15 22:00:00`|`Other FPS Games`|
+|[Gun van weapons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/708837-gun-van-weapons.html)|`2025-07-15 21:44:00`|`Grand Theft Auto V`|
+|[CS 1&#46;6 Simple WallHack by KkK1337](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/496671-cs-1-6-simple-wallhack-kkk1337.html)|`2025-07-15 21:43:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Crashing issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/707289-crashing-issue.html)|`2025-07-15 21:41:00`|`Call of Duty: Black Ops 3`|
 |[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-07-15 21:47:00`|`Grand Theft Auto V`|
 |[Understanding how fiveM structures works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/709450-understanding-fivem-structures.html)|`2025-07-15 21:21:00`|`Alternative Online Mods`|
 |[Polygon Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/701704-polygon-offsets.html)|`2025-07-15 20:30:00`|`Other FPS Games`|
