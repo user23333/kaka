@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Reading memory without manual mapping driver SEH](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709444-reading-memory-manual-mapping-driver-seh.html)|`2025-07-15 19:48:00`|`Anti-Cheat Bypass`|
 |[autstrafe matchmaking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709443-autstrafe-matchmaking.html)|`2025-07-15 19:46:00`|`Counter-Strike 2`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-07-15 19:29:00`|`Phasmophobia`|
 |[CS 2 dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709214-cs-2-dumper.html)|`2025-07-15 19:26:00`|`Counter-Strike 2`|
