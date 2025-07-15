@@ -28,9 +28,11 @@
 |1|[rustDMA&#45;imgui &#40;19176775&#46;1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50432)|`2025-07-16 03:38:55`|
 |1|[WardenDMA&#45;Rust&#45;1&#46;3&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50428)|`2025-07-16 03:38:55`|
 |2|[5&#46;6&#46;0&#45;43847582&#43;&#43;&#43;Fortnite&#43;Release&#45;36&#46;20](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50439)|`2025-07-16 03:46:45`|
+|3|[vac&#45;modules](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50443)|`2025-07-16 05:50:49`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Upcoming Release&#33; Looking for Feature suggestions? &#45; External, Read Only, Kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707603-upcoming-release-looking-feature-suggestions-external-read-kernel.html)|`2025-07-16 05:44:00`|`Counter-Strike 2`|
 |[open logitech hub via arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700162-logitech-hub-via-arduino.html)|`2025-07-16 05:41:00`|`Valorant`|
 |[Reversed VAC modules](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709488-reversed-vac-modules.html)|`2025-07-16 05:32:00`|`Counter-Strike 2`|
 |[ARMA 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/114242-arma-3-reversal-structs-offsets.html)|`2025-07-16 05:31:00`|`ARMA 3`|
