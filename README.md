@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-07-16 05:52:00`|`Apex Legends`|
 |[Upcoming Release&#33; Looking for Feature suggestions? &#45; External, Read Only, Kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707603-upcoming-release-looking-feature-suggestions-external-read-kernel.html)|`2025-07-16 05:44:00`|`Counter-Strike 2`|
 |[open logitech hub via arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700162-logitech-hub-via-arduino.html)|`2025-07-16 05:41:00`|`Valorant`|
 |[Reversed VAC modules](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709488-reversed-vac-modules.html)|`2025-07-16 05:32:00`|`Counter-Strike 2`|
