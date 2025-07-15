@@ -11,6 +11,7 @@
 |13|[My cheat was doing fine for 500 hours&#46; Now VAC Live detects it within a few rounds&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708645-cheat-doing-fine-500-hours-vac-live-detects-rounds.html)|`2025-07-16 00:21:19`|`counter-strike-2-a`|
 |6|[Bo6 external Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/708600-bo6-external-source.html)|`2025-07-16 00:21:19`|`call-of-duty-black-ops-6-a`|
 |12|[Another stupid way to bypass SB/TPM/HVCI pop&#45;ups](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708924-stupid-bypass-sb-tpm-hvci-pop-ups.html)|`2025-07-16 00:21:19`|`valorant`|
+|5|[GoodDiePUBG &#45; PUBG 3&#46;9 Emulator Hack Source and Release &#40;server/client&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708956-gooddiepubg-pubg-3-9-emulator-hack-source-release-server-client.html)|`2025-07-16 02:34:52`|`pubg-mobile`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple AK&#45;HOLO script for esp32s3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709183-simple-ak-holo-script-esp32s3.html)|`2025-07-16 02:30:00`|`Rust`|
+|[GTA ONLINE ENHANCED ALL AWARDS STATS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701294-gta-online-enhanced-awards-stats.html)|`2025-07-16 02:27:00`|`Grand Theft Auto V`|
+|[What is best way to access memory with the least overhead in a Hypervisor environment](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708513-access-memory-overhead-hypervisor-environment.html)|`2025-07-16 02:27:00`|`Anti-Cheat Bypass`|
+|[Bombardino Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/704529-bombardino-internal.html)|`2025-07-16 02:21:00`|`Marvel Rivals`|
+|[How to play on a cis account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/707999-play-cis-account.html)|`2025-07-16 02:20:00`|`Escape from Tarkov`|
+|[FiveM &#45; External Silent Aimbot &#40;HandleBullet Crash&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/707506-fivem-external-silent-aimbot-handlebullet-crash.html)|`2025-07-16 02:15:00`|`Alternative Online Mods`|
+|[Roblox View Matrix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/707670-roblox-view-matrix.html)|`2025-07-16 02:15:00`|`Forum General`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-07-16 01:37:00`|`Alternative Online Mods`|
 |[Most used safe methods for money with YimMenuV2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/709364-safe-methods-money-yimmenuv2.html)|`2025-07-16 01:37:00`|`Grand Theft Auto V`|
 |[Polygon Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/701704-polygon-offsets.html)|`2025-07-16 01:37:00`|`Other FPS Games`|
