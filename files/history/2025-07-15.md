@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[can dma get you banned if its unplugged](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709094-dma-banned-unplugged.html)|`2025-07-15 18:23:00`|`Anti-Cheat Bypass`|
 |[my game is crashing when i die](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709436-game-crashing-die.html)|`2025-07-15 18:04:00`|`Counter-Strike 2`|
 |[how to use arduino r3 &#43; hostshiled as much as possible undetect?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709434-arduino-r3-hostshiled-undetect.html)|`2025-07-15 17:30:00`|`Valorant`|
 |[Dell bios flashing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709038-dell-bios-flashing.html)|`2025-07-15 16:35:00`|`Valorant`|
