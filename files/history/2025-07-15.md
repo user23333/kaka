@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[valo unban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709435-valo-unban.html)|`2025-07-15 23:35:00`|`Valorant`|
 |[WaterTheDev exposed&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/708974-waterthedev-exposed.html)|`2025-07-15 23:18:00`|`Off Topic`|
 |[ChargeRifel Shoot On Click](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/709459-chargerifel-shoot-click.html)|`2025-07-15 23:16:00`|`Apex Legends`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-07-15 23:15:00`|`Grand Theft Auto V`|
