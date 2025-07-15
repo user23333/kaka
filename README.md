@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Getting D3D9 device crashing&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/709279-getting-d3d9-device-crashing.html)|`2025-07-16 03:53:00`|`Team Fortress 2`|
 |[Apex legends esp only cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/709298-apex-legends-esp-cheat.html)|`2025-07-16 03:47:00`|`Apex Legends`|
 |[best ways to filter color](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709479-filter-color.html)|`2025-07-16 03:43:00`|`Valorant`|
 |[disappearance of players and box “flash” &#40;server protection?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/709478-disappearance-players-box-flash-server-protection.html)|`2025-07-16 03:41:00`|`Garry's Mod`|
