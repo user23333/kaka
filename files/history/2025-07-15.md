@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Bunnyhop Script with Memory Reading & Randomized Timing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/707850-cs2-bunnyhop-script-memory-reading-randomized-timing.html)|`2025-07-15 23:52:00`|`Counter-Strike 2 Releases`|
 |[valo unban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709435-valo-unban.html)|`2025-07-15 23:35:00`|`Valorant`|
 |[WaterTheDev exposed&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/708974-waterthedev-exposed.html)|`2025-07-15 23:18:00`|`Off Topic`|
 |[ChargeRifel Shoot On Click](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/709459-chargerifel-shoot-click.html)|`2025-07-15 23:16:00`|`Apex Legends`|
