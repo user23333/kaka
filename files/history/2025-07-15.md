@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dell bios flashing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709038-dell-bios-flashing.html)|`2025-07-15 16:35:00`|`Valorant`|
 |[Rebuilt SceneManager&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708015-rebuilt-scenemanager.html)|`2025-07-15 16:14:00`|`Rust`|
 |[Most possible safe way to send inputs?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709430-safe-send-inputs.html)|`2025-07-15 16:14:00`|`Valorant`|
 |[Simple External Item Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/709428-simple-external-item-esp.html)|`2025-07-15 16:03:00`|`Payday 3`|
