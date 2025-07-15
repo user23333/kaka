@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[WaterTheDev exposed&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/708974-waterthedev-exposed.html)|`2025-07-15 23:18:00`|`Off Topic`|
+|[ChargeRifel Shoot On Click](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/709459-chargerifel-shoot-click.html)|`2025-07-15 23:16:00`|`Apex Legends`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-07-15 23:15:00`|`Grand Theft Auto V`|
+|[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2025-07-15 23:03:00`|`Combat Arms`|
 |[Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705842-spoofer.html)|`2025-07-15 22:54:00`|`Valorant`|
 |[Is the new yimmenu working for you guys?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/709165-yimmenu-guys.html)|`2025-07-15 22:53:00`|`Grand Theft Auto V`|
 |[7 Days to Die](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/455904-7-days-die.html)|`2025-07-15 22:53:00`|`Other FPS Games`|
