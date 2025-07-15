@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SRC cs2 External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709409-src-cs2-external-base.html)|`2025-07-16 02:54:00`|`Counter-Strike 2`|
+|[Open source osu tablet AA / Zenith](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705383-source-osu-tablet-aa-zenith.html)|`2025-07-16 02:50:00`|`Other Games`|
+|[Destiny 2 Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/669951-destiny-2-reversal.html)|`2025-07-16 02:48:00`|`Other FPS Games`|
+|[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-07-16 02:40:00`|`PUBG Releases`|
+|[Leaked MSI cert unblacklisted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/709249-leaked-msi-cert-unblacklisted.html)|`2025-07-16 02:35:00`|`General Programming and Reversing`|
 |[Simple AK&#45;HOLO script for esp32s3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709183-simple-ak-holo-script-esp32s3.html)|`2025-07-16 02:30:00`|`Rust`|
 |[GTA ONLINE ENHANCED ALL AWARDS STATS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701294-gta-online-enhanced-awards-stats.html)|`2025-07-16 02:27:00`|`Grand Theft Auto V`|
 |[What is best way to access memory with the least overhead in a Hypervisor environment](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708513-access-memory-overhead-hypervisor-environment.html)|`2025-07-16 02:27:00`|`Anti-Cheat Bypass`|
