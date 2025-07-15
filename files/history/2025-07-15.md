@@ -28,9 +28,14 @@
 |45|[GoodDiePUBG &#45; PUBG 3&#46;9 Emulator Hack Source a](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50416)|`2025-07-15 00:23:44`|
 |1|[cs2 ext src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50436)|`2025-07-15 18:52:15`|
 |1|[MORDHAU DUMPER 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50434)|`2025-07-15 19:15:48`|
+|1|[GSC SCRIPT BYPASS&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50433)|`2025-07-15 19:30:30`|
+|1|[cs go dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50430)|`2025-07-15 19:30:30`|
+|2|[PhasmoMenu v0&#46;5&#46;6&#46;8 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50425)|`2025-07-15 19:30:30`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-07-15 19:29:00`|`Phasmophobia`|
+|[CS 2 dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709214-cs-2-dumper.html)|`2025-07-15 19:26:00`|`Counter-Strike 2`|
 |[Mordhau cheat &#124;&#124; Patch &#35;28](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/612663-mordhau-cheat-patch-28-a.html)|`2025-07-15 19:15:00`|`Other FPS Games`|
 |[Valorant colorbots cpp and python?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709439-valorant-colorbots-cpp-python.html)|`2025-07-15 18:48:00`|`Valorant`|
 |[can dma get you banned if its unplugged](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709094-dma-banned-unplugged.html)|`2025-07-15 18:23:00`|`Anti-Cheat Bypass`|
