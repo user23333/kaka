@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-07-16 18:16:00`|`Valorant`|
 |[CS2 External ESP &#124; Win32 GDI &#43; ctypes, no Pymem or PyMeow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709220-cs2-external-esp-win32-gdi-ctypes-pymem-pymeow.html)|`2025-07-16 18:10:00`|`Counter-Strike 2`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-07-16 17:49:00`|`Counter-Strike 2 Releases`|
 |[Blue Archive Steam ver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/708972-blue-archive-steam-ver.html)|`2025-07-16 17:01:00`|`Other MMORPG and Strategy`|
