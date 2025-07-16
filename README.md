@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Blue Archive Steam ver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/708972-blue-archive-steam-ver.html)|`2025-07-16 17:01:00`|`Other MMORPG and Strategy`|
+|[Grand Theft Auto V Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144819-grand-theft-auto-scripting.html)|`2025-07-16 16:58:00`|`Grand Theft Auto V`|
 |[how to write buttons correctly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709524-write-buttons-correctly.html)|`2025-07-16 16:30:00`|`Counter-Strike 2`|
 |[My cheat was doing fine for 500 hours&#46; Now VAC Live detects it within a few rounds&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708645-cheat-doing-fine-500-hours-vac-live-detects-rounds.html)|`2025-07-16 16:29:00`|`Counter-Strike 2`|
 |[Can my main account get Vac banned if I got one on my second account?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/704262-main-account-vac-banned-account.html)|`2025-07-16 16:25:00`|`Forum General`|
