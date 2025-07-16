@@ -11,6 +11,7 @@
 |8|[GoodDiePUBG &#45; PUBG 3&#46;9 Emulator Hack Source and Release &#40;server/client&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708956-gooddiepubg-pubg-3-9-emulator-hack-source-release-server-client.html)|`2025-07-17 00:26:27`|`pubg-mobile`|
 |22|[Driver mapping with HVCI on](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709171-driver-mapping-hvci.html)|`2025-07-17 00:26:27`|`valorant`|
 |10|[Using Fiddler to reward yourself any item](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/708637-using-fiddler-reward-yourself-item.html)|`2025-07-17 00:26:27`|`payday-3-a`|
+|9|[SRC cs2 External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709409-src-cs2-external-base.html)|`2025-07-17 07:15:43`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
