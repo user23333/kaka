@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[should i use x64dbg or cheat engine to debug my cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/708054-x64dbg-cheat-engine-debug-cheats.html)|`2025-07-17 05:47:00`|`General Programming and Reversing`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-07-17 05:43:00`|`Alternative Online Mods`|
 |[New Updated Fully Working Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708891-updated-triggerbot.html)|`2025-07-17 05:30:00`|`Valorant`|
 |[Discovering a zero&#45;day vulnerability in the Argus Monitor driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708619-discovering-zero-day-vulnerability-argus-monitor-driver.html)|`2025-07-17 05:30:00`|`Anti-Cheat Bypass`|
