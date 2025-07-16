@@ -34,6 +34,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Getting a pointer to IDXGISwapChain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709399-getting-pointer-idxgiswapchain.html)|`2025-07-16 16:17:00`|`Counter-Strike 2`|
+|[TPM / HVCI / SB BYPASS?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707465-tpm-hvci-sb-bypass.html)|`2025-07-16 16:14:00`|`Valorant`|
+|[i need a free dt/ud cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709299-free-dt-ud-cheat.html)|`2025-07-16 16:12:00`|`Valorant`|
+|[Noob Friendly Guide For Getting Offsets with CasualX Apexbot Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/452956-noob-friendly-guide-getting-offsets-casualx-apexbot-dumper.html)|`2025-07-16 16:09:00`|`Apex Legends`|
+|[how to make rust cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709437-rust-cheats.html)|`2025-07-16 16:07:00`|`Rust`|
 |[HW recoil control script for everygame](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/704796-hw-recoil-control-script-everygame.html)|`2025-07-16 15:57:00`|`Rust`|
 |[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-07-16 15:41:00`|`Grand Theft Auto V`|
 |[How to Save Modded Cars using Yim Menu Legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/709521-save-modded-cars-using-yim-menu-legacy.html)|`2025-07-16 15:38:00`|`Grand Theft Auto V`|
