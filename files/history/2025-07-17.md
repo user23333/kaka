@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ESP Doesn't work because of entitylist on some maps&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709540-esp-doesnt-entitylist-maps.html)|`2025-07-17 04:34:00`|`Counter-Strike 2`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-07-17 04:31:00`|`Playerunknown's Battlegrounds`|
+|[Cheat Features &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/709640-cheat-features-dma.html)|`2025-07-17 04:26:00`|`Call of Duty: Black Ops 6`|
+|[how finding game object manager &#40;easy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/459704-finding-game-object-manager-easy.html)|`2025-07-17 04:24:00`|`Rust`|
+|[Is the new yimmenu working for you guys?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/709165-yimmenu-guys.html)|`2025-07-17 04:22:00`|`Grand Theft Auto V`|
+|[Shadow Region Reversal Struct and Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708947-shadow-region-reversal-struct-offset.html)|`2025-07-17 04:21:00`|`Valorant`|
+|[CS2 External using driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/699829-cs2-external-using-driver.html)|`2025-07-17 04:15:00`|`Counter-Strike 2`|
 |[esp bo6/wz4 DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/709631-esp-bo6-wz4-dma.html)|`2025-07-17 04:10:00`|`Call of Duty: Black Ops 6`|
 |[For Honor &#45; Sciprt by florasSecret &#45; Autoblock, Parry, Deflects, D b/Unblockables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/414701-honor-sciprt-florassecret-autoblock-parry-deflects-unblockables.html)|`2025-07-17 04:08:00`|`Other MMORPG and Strategy`|
 |[Ghosts of Tabor standalone cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/709639-ghosts-tabor-standalone-cheat.html)|`2025-07-17 04:00:00`|`Other FPS Games`|
