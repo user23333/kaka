@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to write buttons correctly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709524-write-buttons-correctly.html)|`2025-07-16 16:30:00`|`Counter-Strike 2`|
+|[My cheat was doing fine for 500 hours&#46; Now VAC Live detects it within a few rounds&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708645-cheat-doing-fine-500-hours-vac-live-detects-rounds.html)|`2025-07-16 16:29:00`|`Counter-Strike 2`|
+|[Can my main account get Vac banned if I got one on my second account?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/704262-main-account-vac-banned-account.html)|`2025-07-16 16:25:00`|`Forum General`|
 |[Getting a pointer to IDXGISwapChain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709399-getting-pointer-idxgiswapchain.html)|`2025-07-16 16:17:00`|`Counter-Strike 2`|
 |[TPM / HVCI / SB BYPASS?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/707465-tpm-hvci-sb-bypass.html)|`2025-07-16 16:14:00`|`Valorant`|
 |[i need a free dt/ud cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709299-free-dt-ud-cheat.html)|`2025-07-16 16:12:00`|`Valorant`|
