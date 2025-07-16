@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EXCEPTION&#95;ACCESS&#95;VIOLATION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/709665-exception_access_violation.html)|`2025-07-17 07:21:00`|`Marvel Rivals`|
+|[Can somebody make an infinite ability cheat with FBMod?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/709095-infinite-ability-cheat-fbmod.html)|`2025-07-17 07:06:00`|`Star Wars Battlefront 2`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-07-17 06:26:00`|`Call of Duty: Black Ops 6`|
 |[colourbot overcompensating &#40;PYTHON&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709422-colourbot-overcompensating-python.html)|`2025-07-17 06:21:00`|`Valorant`|
 |[Peak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706121-peak.html)|`2025-07-17 06:16:00`|`Other Games`|
