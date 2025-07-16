@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Palworld Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/620076-palworld-reversal-structs-offsets.html)|`2025-07-16 12:41:00`|`Palworld`|
+|[Python Palworld offset dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/623221-python-palworld-offset-dumper.html)|`2025-07-16 12:39:00`|`Palworld`|
+|[Im hwid banned i thinks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709513-im-hwid-banned.html)|`2025-07-16 12:37:00`|`Valorant`|
+|[Como Encontrar a Base e o PlayerActorBase do BloodStrike no IDA Pro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/709511-como-encontrar-base-playeractorbase-bloodstrike-ida-pro.html)|`2025-07-16 12:22:00`|`Other Games`|
+|[Dead By Daylight Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694248-dead-daylight-internal.html)|`2025-07-16 12:11:00`|`Other FPS Games`|
+|[pubg kaka and stay source &#91;DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/698494-pubg-kaka-stay-source-dma.html)|`2025-07-16 12:11:00`|`Playerunknown's Battlegrounds`|
 |[Encontrando a Base e o PlayerActorBase do BloodStrike no IDA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/709508-encontrando-base-playeractorbase-bloodstrike-ida.html)|`2025-07-16 11:58:00`|`Other Games`|
 |[apex rage cheat &#40;external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705590-apex-rage-cheat-external.html)|`2025-07-16 11:22:00`|`Apex Legends`|
 |[Nuxar1 Decryption dumper fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699123-nuxar1-decryption-dumper-fix.html)|`2025-07-16 11:19:00`|`Call of Duty: Black Ops 6`|
