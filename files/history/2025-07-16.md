@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SWBF2 ESP/Aimbot/Damage Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/580865-swbf2-esp-aimbot-damage-hack.html)|`2025-07-16 21:55:00`|`Star Wars Battlefront 2`|
+|[Help&#33;&#33;&#33; How to achieve efficient knife self&#45;aiming?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/706079-help-achieve-efficient-knife-self-aiming.html)|`2025-07-16 21:54:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[ChargeRifel Shoot On Click](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/709459-chargerifel-shoot-click.html)|`2025-07-16 21:43:00`|`Apex Legends`|
 |[Auto Update External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/614771-auto-update-external.html)|`2025-07-16 21:30:00`|`Overwatch`|
 |[Considerring &#45; AAA&#43; title &#45; anti&#45;guard memory scanner bypass&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/709403-considerring-aaa-title-anti-guard-memory-scanner-bypass.html)|`2025-07-16 21:23:00`|`Programming for Beginners`|
