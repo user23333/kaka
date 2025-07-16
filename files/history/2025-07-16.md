@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Free External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/709037-free-external.html)|`2025-07-16 11:02:00`|`Counter-Strike 2 Releases`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-07-16 10:59:00`|`Other FPS Games`|
+|[iced&#43;&#43; &#45; C&#43;&#43; wrapper for icedx86 decoder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/703514-iced-wrapper-icedx86-decoder.html)|`2025-07-16 10:51:00`|`C and C++`|
+|[KUBERA &#45; x86 CPU & Environment emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/704069-kubera-x86-cpu-environment-emulator.html)|`2025-07-16 10:51:00`|`General Programming and Reversing`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-07-16 10:41:00`|`Grand Theft Auto V`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-07-16 10:20:00`|`Playerunknown's Battlegrounds`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-07-16 08:43:00`|`League of Legends`|
 |[MEDIA &#40;I WANT DO MEDIA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709498-media-media.html)|`2025-07-16 08:37:00`|`Rust`|
 |[SO&#46;&#46;&#46; can we finish the deal with lenovo spoofing once and for all?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709503-finish-deal-lenovo-spoofing.html)|`2025-07-16 08:24:00`|`Valorant`|
