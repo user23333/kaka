@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HW recoil control script for everygame](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/704796-hw-recoil-control-script-everygame.html)|`2025-07-16 15:57:00`|`Rust`|
 |[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-07-16 15:41:00`|`Grand Theft Auto V`|
 |[How to Save Modded Cars using Yim Menu Legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/709521-save-modded-cars-using-yim-menu-legacy.html)|`2025-07-16 15:38:00`|`Grand Theft Auto V`|
 |[Fix "The client failed the anti&#45;cheat backend check"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703335-fix-client-failed-anti-cheat-backend-check.html)|`2025-07-16 15:21:00`|`Apex Legends`|
