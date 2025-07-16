@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-07-17 06:26:00`|`Call of Duty: Black Ops 6`|
+|[colourbot overcompensating &#40;PYTHON&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709422-colourbot-overcompensating-python.html)|`2025-07-17 06:21:00`|`Valorant`|
+|[Peak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706121-peak.html)|`2025-07-17 06:16:00`|`Other Games`|
+|[SO&#46;&#46;&#46; can we finish the deal with lenovo spoofing once and for all?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709503-finish-deal-lenovo-spoofing.html)|`2025-07-17 06:14:00`|`Valorant`|
 |[WaterTheDev exposed&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/708974-waterthedev-exposed.html)|`2025-07-17 06:12:00`|`Off Topic`|
 |[Actors Location Not Updating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709659-actors-location-updating.html)|`2025-07-17 06:12:00`|`Valorant`|
 |[cfemen & gir489's Ready or Not hook v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632144-cfemen-gir489s-ready-hook-v1-0-a.html)|`2025-07-17 06:01:00`|`Other FPS Games`|
