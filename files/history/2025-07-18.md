@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[KUBERA &#45; x86 CPU & Environment emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/704069-kubera-x86-cpu-environment-emulator.html)|`2025-07-18 05:23:00`|`General Programming and Reversing`|
+|[FiveM External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/708905-fivem-external.html)|`2025-07-18 05:18:00`|`Other Games`|
 |[BEST TOPIC OF THE MONTH: HOW TO MAKE SUCIDE???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709163-topic-month-sucide.html)|`2025-07-18 05:15:00`|`Rust`|
 |[Sever HWID Banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/709626-sever-hwid-banned.html)|`2025-07-18 05:09:00`|`Alternative Online Mods`|
 |[CS 1&#46;6 Simple WallHack by KkK1337](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/496671-cs-1-6-simple-wallhack-kkk1337.html)|`2025-07-18 05:09:00`|`CounterStrike 1.5, 1.6 and Mods`|
