@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Blue Archive Steam ver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/708972-blue-archive-steam-ver.html)|`2025-07-17 21:57:00`|`Other MMORPG and Strategy`|
+|[Spike Timer Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709728-spike-timer-helper.html)|`2025-07-17 21:55:00`|`Valorant`|
 |[Hook gameoverlayrenderer64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709727-hook-gameoverlayrenderer64.html)|`2025-07-17 21:31:00`|`Counter-Strike 2`|
 |[enemies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/709725-enemies.html)|`2025-07-17 21:28:00`|`Off Topic`|
 |[Can't Hook FOV Function in CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709417-cant-hook-fov-function-cs2.html)|`2025-07-17 21:25:00`|`Counter-Strike 2`|
