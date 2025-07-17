@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BEST TOPIC OF THE MONTH: HOW TO MAKE SUCIDE???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709163-topic-month-sucide.html)|`2025-07-17 14:58:00`|`Rust`|
+|[Eriksholm: The Stolen Dream](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/709693-eriksholm-stolen-dream.html)|`2025-07-17 14:56:00`|`Cheat Engine Tables`|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-07-17 14:55:00`|`HELLDIVERS 2`|
+|[SRC cs2 External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709409-src-cs2-external-base.html)|`2025-07-17 14:52:00`|`Counter-Strike 2`|
 |[FiveM Resource Threads](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/709690-fivem-resource-threads.html)|`2025-07-17 14:36:00`|`Alternative Online Mods`|
 |[perm unban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708850-perm-unban.html)|`2025-07-17 13:40:00`|`Valorant`|
 |[basic chams base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/688179-basic-chams-base.html)|`2025-07-17 13:25:00`|`Call of Duty: Black Ops 6`|
