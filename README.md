@@ -32,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Testing anti cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/709754-testing-anti-cheat.html)|`2025-07-18 04:36:00`|`Alternative Online Mods`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-07-18 04:24:00`|`Grand Theft Auto V`|
+|[Rocket League &#45; KingMod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/703487-rocket-league-kingmod.html)|`2025-07-18 04:24:00`|`Other Games`|
+|[SRC cs2 External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709409-src-cs2-external-base.html)|`2025-07-18 04:21:00`|`Counter-Strike 2`|
+|[ESP Doesn't work because of entitylist on some maps&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709540-esp-doesnt-entitylist-maps.html)|`2025-07-18 04:18:00`|`Counter-Strike 2`|
+|[Simple AK&#45;HOLO script for esp32s3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709183-simple-ak-holo-script-esp32s3.html)|`2025-07-18 04:12:00`|`Rust`|
 |[CSS x64 fully&#45;featured cheat &#43; sourcecode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/688352-css-x64-featured-cheat-sourcecode.html)|`2025-07-18 04:06:00`|`CounterStrike Source`|
 |[Legion TD 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/709784-legion-td-2-a.html)|`2025-07-18 03:51:00`|`Other MMORPG and Strategy`|
 |[Simple external esp/radarhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709710-simple-external-esp-radarhack.html)|`2025-07-18 03:48:00`|`Rust`|
