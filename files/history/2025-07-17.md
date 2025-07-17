@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Russian Account Bypass TUT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/688961-russian-account-bypass-tut.html)|`2025-07-17 16:15:00`|`Escape from Tarkov`|
 |[GTA5 Enhanced rpf&#46;cache](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/709697-gta5-enhanced-rpf-cache.html)|`2025-07-17 15:47:00`|`Grand Theft Auto V`|
 |[DayZ PC Easy Dupe with Autohotkey](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/707460-dayz-pc-easy-dupe-autohotkey.html)|`2025-07-17 15:32:00`|`DayZ SA`|
 |[Contracor showdown exfil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/709696-contracor-showdown-exfil.html)|`2025-07-17 15:29:00`|`Other FPS Games`|
