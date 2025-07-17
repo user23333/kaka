@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-07-17 16:53:00`|`Marvel Rivals`|
 |[Dune Awakening dupe Game currency loophole made public](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/709288-dune-awakening-dupe-game-currency-loophole-public.html)|`2025-07-17 16:31:00`|`Other FPS Games`|
 |[Rememento: White Shadow Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/709701-rememento-white-shadow-cheat.html)|`2025-07-17 16:26:00`|`Cheat Engine Tables`|
 |[Russian Account Bypass TUT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/688961-russian-account-bypass-tut.html)|`2025-07-17 16:15:00`|`Escape from Tarkov`|
