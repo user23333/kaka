@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTA5 Enhanced rpf&#46;cache](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/709697-gta5-enhanced-rpf-cache.html)|`2025-07-17 15:47:00`|`Grand Theft Auto V`|
 |[DayZ PC Easy Dupe with Autohotkey](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/707460-dayz-pc-easy-dupe-autohotkey.html)|`2025-07-17 15:32:00`|`DayZ SA`|
 |[Contracor showdown exfil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/709696-contracor-showdown-exfil.html)|`2025-07-17 15:29:00`|`Other FPS Games`|
 |[Rocket League &#45; Dumper &#40;x64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/402519-rocket-league-dumper-x64.html)|`2025-07-17 15:13:00`|`Other FPS Games`|
