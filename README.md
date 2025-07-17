@@ -12,6 +12,7 @@
 |7|[Dune Awakening dupe Game currency loophole made public](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/709288-dune-awakening-dupe-game-currency-loophole-public.html)|`2025-07-18 00:24:04`|`other-fps-games`|
 |2|[rage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/708705-rage-cheat.html)|`2025-07-18 00:24:04`|`rainbow-six-siege`|
 |7|[hyper&#45;reV &#45; memory introspection &#43; reverse engineering powered by leveraging Hyper&#45;V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709634-hyper-rev-memory-introspection-reverse-engineering-powered-leveraging-hyper.html)|`2025-07-18 00:48:19`|`anti-cheat-bypass`|
+|7|[DX11 Overlay – Best Way to Stay Undetected &#40;ImGui / Transparent Window&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709175-dx11-overlay-stay-undetected-imgui-transparent-window.html)|`2025-07-18 03:31:23`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[colourbot detection factors &#40;PYTHON&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709684-colourbot-detection-factors-python.html)|`2025-07-18 03:26:00`|`Valorant`|
 |[Linux External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689557-linux-external-base.html)|`2025-07-18 03:11:00`|`Marvel Rivals`|
 |[GoodDiePUBG &#45; PUBG 3&#46;9 Emulator Hack Source and Release &#40;server/client&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708956-gooddiepubg-pubg-3-9-emulator-hack-source-release-server-client.html)|`2025-07-18 03:10:00`|`PUBG Mobile`|
 |[Another stupid way to bypass SB/TPM/HVCI pop&#45;ups](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708924-stupid-bypass-sb-tpm-hvci-pop-ups.html)|`2025-07-18 03:03:00`|`Valorant`|
