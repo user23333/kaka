@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2025-07-17 08:52:00`|`Grand Theft Auto V`|
+|[how to make rust cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709437-rust-cheats.html)|`2025-07-17 08:38:00`|`Rust`|
 |[detect&#46;ac silent aim bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/708922-detect-ac-silent-aim-bypass.html)|`2025-07-17 07:47:00`|`Alternative Online Mods`|
 |[Fastest Python Valorant Triggerbot &#40;fr&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612762-fastest-python-valorant-triggerbot-fr.html)|`2025-07-17 07:46:00`|`Valorant`|
 |[EXCEPTION&#95;ACCESS&#95;VIOLATION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/709665-exception_access_violation.html)|`2025-07-17 07:21:00`|`Marvel Rivals`|
