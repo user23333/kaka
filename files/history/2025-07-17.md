@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Driver for mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709687-driver-mouse.html)|`2025-07-17 12:43:00`|`Valorant`|
+|[Twitch drops mask &#45; pls post if u hv missing fiddler IDs to share thanks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/709121-twitch-drops-mask-pls-post-hv-missing-fiddler-ids-share-thanks.html)|`2025-07-17 12:35:00`|`Payday 3`|
+|[Material "Editor" for chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709601-material-editor-chams.html)|`2025-07-17 12:26:00`|`Counter-Strike 2`|
+|[colourbot detection factors &#40;PYTHON&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709684-colourbot-detection-factors-python.html)|`2025-07-17 12:24:00`|`Valorant`|
 |[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-07-17 11:57:00`|`Other FPS Games`|
 |[Model for AI Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/691272-model-ai-aimbot.html)|`2025-07-17 11:49:00`|`CrossFire`|
 |[Want to go back to playing the game legit after cheating and getting banned&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/709167-playing-game-legit-cheating-getting-banned.html)|`2025-07-17 11:42:00`|`Escape from Tarkov`|
