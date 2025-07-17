@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TPM / HVCI / SB Popup Bypass by freezing Dnscache](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702867-tpm-hvci-sb-popup-bypass-freezing-dnscache.html)|`2025-07-18 03:00:00`|`Valorant`|
+|[Found a way to spoof dell pcs but need ur help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709681-found-spoof-dell-pcs-ur-help.html)|`2025-07-18 02:59:00`|`Valorant`|
+|[VAC safety of opening handle from discord](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709779-vac-safety-handle-discord.html)|`2025-07-18 02:57:00`|`Counter-Strike 2`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-07-18 02:56:00`|`DayZ SA`|
 |[Squad v8&#46;2&#46;1 &#40;2025&#41; ini](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/681581-squad-v8-2-1-2025-ini.html)|`2025-07-18 02:45:00`|`Other FPS Games`|
 |[Payday 2 Thermite Paste Script ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/709775-payday-2-thermite-paste-script.html)|`2025-07-18 02:40:00`|`Payday 2`|
 |[New Updated Fully Working Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708891-updated-triggerbot.html)|`2025-07-18 02:39:00`|`Valorant`|
