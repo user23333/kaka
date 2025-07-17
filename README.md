@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[7DTD 2&#46;0 Latest Stable Creative and Debug Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707218-7dtd-2-0-stable-creative-debug-assembly-csharp-dll.html)|`2025-07-17 23:37:00`|`Other FPS Games`|
+|[rage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/708705-rage-cheat.html)|`2025-07-17 23:31:00`|`Rainbow Six Siege`|
 |[old juggworkz release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/704261-juggworkz-release.html)|`2025-07-17 23:19:00`|`Team Fortress 2`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-07-17 23:17:00`|`Sea of Thieves`|
 |[Bypass Anti&#45;Cheat   Genshin Impact 5&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/658478-bypass-anti-cheat-genshin-impact-5-0-a.html)|`2025-07-17 23:12:00`|`Genshin Impact`|
