@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;PC&#93; DayZ clone exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/703564-pc-dayz-clone-exploit.html)|`2025-07-18 04:43:00`|`DayZ SA`|
 |[Testing anti cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/709754-testing-anti-cheat.html)|`2025-07-18 04:36:00`|`Alternative Online Mods`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-07-18 04:24:00`|`Grand Theft Auto V`|
 |[Rocket League &#45; KingMod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/703487-rocket-league-kingmod.html)|`2025-07-18 04:24:00`|`Other Games`|
