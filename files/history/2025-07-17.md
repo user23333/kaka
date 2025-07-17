@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-07-17 18:47:00`|`Counter-Strike 2`|
 |[Anyone can guide me how to setup vac bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/709709-guide-setup-vac-bypass.html)|`2025-07-17 18:35:00`|`Team Fortress 2`|
 |[silence = everything&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/696887-silence.html)|`2025-07-17 18:32:00`|`Off Topic`|
 |[What's Your Favorite PC Game?  Post Here&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/36192-whats-favorite-pc-game-post.html)|`2025-07-17 18:31:00`|`Off Topic`|
