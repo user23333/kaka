@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How i can dupe level in GTA5 legacy?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/709748-dupe-level-gta5-legacy.html)|`2025-07-18 07:39:00`|`Grand Theft Auto V`|
+|[GTA ONLINE ENHANCED ALL AWARDS STATS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701294-gta-online-enhanced-awards-stats.html)|`2025-07-18 07:37:00`|`Grand Theft Auto V`|
+|[Money for other players](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/709807-money-players.html)|`2025-07-18 07:33:00`|`Grand Theft Auto V`|
+|[RAZER NEW ALL WEAPONS 1&#45;3 MS &#40;FREE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/640381-razer-weapons-1-3-ms-free.html)|`2025-07-18 07:33:00`|`Rust`|
 |[NO FLASH &#43; NO SMOKE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709804-flash-smoke.html)|`2025-07-18 07:20:00`|`Counter-Strike 2`|
 |[Lua cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/709803-lua-cheats.html)|`2025-07-18 07:16:00`|`Garry's Mod`|
 |[Programming learning c&#35; as a beginner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-/709799-programming-learning-beginner.html)|`2025-07-18 06:44:00`|`C#`|
