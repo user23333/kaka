@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2025-07-17 22:33:00`|`Apex Legends`|
+|[How i can dupe level in GTA5 legacy?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/709748-dupe-level-gta5-legacy.html)|`2025-07-17 22:33:00`|`Grand Theft Auto V`|
 |[Want some Info about game's working&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/709733-info-games.html)|`2025-07-17 22:15:00`|`PUBG Mobile`|
 |[Simple external esp/radarhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709710-simple-external-esp-radarhack.html)|`2025-07-17 22:14:00`|`Rust`|
 |[Two accounts 1 computer ban question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/676763-accounts-1-computer-ban-question.html)|`2025-07-17 22:09:00`|`Escape from Tarkov`|
