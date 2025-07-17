@@ -12,6 +12,7 @@
 |22|[Driver mapping with HVCI on](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709171-driver-mapping-hvci.html)|`2025-07-17 00:26:27`|`valorant`|
 |10|[Using Fiddler to reward yourself any item](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/708637-using-fiddler-reward-yourself-item.html)|`2025-07-17 00:26:27`|`payday-3-a`|
 |9|[SRC cs2 External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709409-src-cs2-external-base.html)|`2025-07-17 07:15:43`|`counter-strike-2-a`|
+|1|[rage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/708705-rage-cheat.html)|`2025-07-17 11:08:33`|`rainbow-six-siege`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[prominence poker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/709679-prominence-poker.html)|`2025-07-17 10:41:00`|`Other Games`|
+|[Straftat Full Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/686040-straftat-cheat.html)|`2025-07-17 10:25:00`|`Other Games`|
+|[Continuous Sentinel BUG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/707589-continuous-sentinel-bug.html)|`2025-07-17 10:13:00`|`Apex Legends`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2025-07-17 08:52:00`|`Grand Theft Auto V`|
 |[how to make rust cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709437-rust-cheats.html)|`2025-07-17 08:38:00`|`Rust`|
 |[detect&#46;ac silent aim bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/708922-detect-ac-silent-aim-bypass.html)|`2025-07-17 07:47:00`|`Alternative Online Mods`|
