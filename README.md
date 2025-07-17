@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[perm unban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708850-perm-unban.html)|`2025-07-17 13:40:00`|`Valorant`|
 |[basic chams base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/688179-basic-chams-base.html)|`2025-07-17 13:25:00`|`Call of Duty: Black Ops 6`|
 |[&#40;External&#41; Item Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/709688-external-item-offsets.html)|`2025-07-17 13:11:00`|`DayZ SA`|
 |[Falsely Banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709492-falsely-banned.html)|`2025-07-17 12:58:00`|`Rust`|
