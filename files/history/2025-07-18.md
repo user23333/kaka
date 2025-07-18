@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2025-07-18 13:10:00`|`Counter-Strike 2 Releases`|
+|[HACK FOR ANDRIODEMULATOREN WITHOUT BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/709819-hack-andriodemulatoren-bypass.html)|`2025-07-18 13:05:00`|`PUBG Mobile`|
+|[AHK MultiScript &#124; Pean's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605440-ahk-multiscript-peans-rcs.html)|`2025-07-18 12:51:00`|`Counter-Strike 2 Releases`|
 |[Moving items in inventory &#40;jni&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/706284-moving-items-inventory-jni.html)|`2025-07-18 12:25:00`|`Minecraft`|
 |[question about mod hider](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/709044-question-mod-hider.html)|`2025-07-18 12:24:00`|`Minecraft`|
 |[Do cheat devs love vanguard?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709817-cheat-devs-love-vanguard.html)|`2025-07-18 12:16:00`|`Valorant`|
