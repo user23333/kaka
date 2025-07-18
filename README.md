@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Where to get a pubg cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/709845-pubg-cheat.html)|`2025-07-18 22:58:00`|`Playerunknown's Battlegrounds`|
 |[LF2 or team for ranked rebirth&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/709245-lf2-team-ranked-rebirth.html)|`2025-07-18 22:17:00`|`Call of Duty: Black Ops 6`|
 |[Need code or algorithm idea to aim exactly head for colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709841-code-algorithm-idea-aim-exactly-head-colorbot.html)|`2025-07-18 22:17:00`|`Valorant`|
 |[Auto Update External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/614771-auto-update-external.html)|`2025-07-18 22:16:00`|`Overwatch`|
