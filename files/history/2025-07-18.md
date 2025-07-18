@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Auto Update External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/614771-auto-update-external.html)|`2025-07-18 22:16:00`|`Overwatch`|
+|[How a spoofer work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709627-spoofer.html)|`2025-07-18 22:14:00`|`Valorant`|
+|[Reversed VAC modules](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709488-reversed-vac-modules.html)|`2025-07-18 22:04:00`|`Counter-Strike 2`|
 |[Is Keypress based triggerbots detected or not?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709838-keypress-based-triggerbots-detected.html)|`2025-07-18 21:41:00`|`Valorant`|
 |[Chams dx11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/709839-chams-dx11.html)|`2025-07-18 21:37:00`|`Rainbow Six Siege`|
 |[how to use arduino r3 &#43; hostshiled as much as possible undetect?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709434-arduino-r3-hostshiled-undetect.html)|`2025-07-18 21:29:00`|`Valorant`|
