@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[LF2 or team for ranked rebirth&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/709245-lf2-team-ranked-rebirth.html)|`2025-07-18 22:17:00`|`Call of Duty: Black Ops 6`|
+|[Need code or algorithm idea to aim exactly head for colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709841-code-algorithm-idea-aim-exactly-head-colorbot.html)|`2025-07-18 22:17:00`|`Valorant`|
 |[Auto Update External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/614771-auto-update-external.html)|`2025-07-18 22:16:00`|`Overwatch`|
 |[How a spoofer work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709627-spoofer.html)|`2025-07-18 22:14:00`|`Valorant`|
 |[Reversed VAC modules](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709488-reversed-vac-modules.html)|`2025-07-18 22:04:00`|`Counter-Strike 2`|
