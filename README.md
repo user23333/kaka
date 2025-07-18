@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;BloodStrike Mobile&#93; Help filtering object for esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/680388-bloodstrike-mobile-help-filtering-object-esp.html)|`2025-07-18 17:57:00`|`Other FPS Games`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-07-18 17:55:00`|`Escape from Tarkov`|
 |[BLACK STIGMA Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/709828-black-stigma-reversal-structs-offsets.html)|`2025-07-18 17:27:00`|`Other FPS Games`|
 |[apex color aimbot,c&#43;&#43; 80days 0ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/684954-apex-color-aimbot-80days-0ban.html)|`2025-07-18 16:54:00`|`Apex Legends`|
 |[The Adryan Pack &#45; Multiplayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/694661-adryan-pack-multiplayer.html)|`2025-07-18 16:45:00`|`Star Wars Battlefront 2`|
