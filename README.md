@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Wicked Menu/ Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/372512-wicked-menu-cheat-engine.html)|`2025-07-18 23:48:00`|`Red Dead Redemption 2`|
+|[EAC Injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709851-eac-injection.html)|`2025-07-18 23:41:00`|`Anti-Cheat Bypass`|
 |[Everything About Warframe's Client Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/594641-warframes-client-anticheat.html)|`2025-07-18 23:07:00`|`Other FPS Games`|
 |[cheatHUB &#45; Your reliable backend](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/web-and-scripting/614468-cheathub-reliable-backend.html)|`2025-07-18 23:17:00`|`Web and Scripting`|
 |[My own Cheat Engine with licensed Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709235-own-cheat-engine-licensed-driver.html)|`2025-07-18 23:17:00`|`Anti-Cheat Bypass`|
