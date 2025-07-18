@@ -32,6 +32,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Driver for mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709687-driver-mouse.html)|`2025-07-18 09:11:00`|`Valorant`|
+|[Material "Editor" for chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709601-material-editor-chams.html)|`2025-07-18 09:10:00`|`Counter-Strike 2`|
+|[Continuous Sentinel BUG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/707589-continuous-sentinel-bug.html)|`2025-07-18 09:07:00`|`Apex Legends`|
+|[Straftat Full Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/686040-straftat-cheat.html)|`2025-07-18 09:02:00`|`Other Games`|
+|[WaterTheDev exposed&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/708974-waterthedev-exposed.html)|`2025-07-18 09:01:00`|`Off Topic`|
+|[What is the risk of being banned for 120 fov? &#40;cheat engine&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/708047-risk-banned-120-fov-cheat-engine.html)|`2025-07-18 08:39:00`|`Sea of Thieves`|
+|[Como Encontrar a Base e o PlayerActorBase do BloodStrike no IDA Pro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/709511-como-encontrar-base-playeractorbase-bloodstrike-ida-pro.html)|`2025-07-18 08:37:00`|`Other Games`|
 |[ARMA 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/114242-arma-3-reversal-structs-offsets.html)|`2025-07-18 07:48:00`|`ARMA 3`|
 |[How i can dupe level in GTA5 legacy?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/709748-dupe-level-gta5-legacy.html)|`2025-07-18 07:39:00`|`Grand Theft Auto V`|
 |[GTA ONLINE ENHANCED ALL AWARDS STATS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701294-gta-online-enhanced-awards-stats.html)|`2025-07-18 07:37:00`|`Grand Theft Auto V`|
