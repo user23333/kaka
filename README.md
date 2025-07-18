@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Moving items in inventory &#40;jni&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/706284-moving-items-inventory-jni.html)|`2025-07-18 12:25:00`|`Minecraft`|
+|[question about mod hider](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/709044-question-mod-hider.html)|`2025-07-18 12:24:00`|`Minecraft`|
+|[Do cheat devs love vanguard?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709817-cheat-devs-love-vanguard.html)|`2025-07-18 12:16:00`|`Valorant`|
+|[Bitcraft Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/708848-bitcraft-online.html)|`2025-07-18 12:11:00`|`Other MMORPG and Strategy`|
 |[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2025-07-18 12:00:00`|`DayZ SA`|
 |[Battlefield 2042 &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/467604-battlefield-2042-reversal-structs-offsets.html)|`2025-07-18 11:54:00`|`Battlefield 2042`|
 |[Any hint to debug ? freeze and dced on private server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/709792-hint-debug-freeze-dced-private-server.html)|`2025-07-18 11:25:00`|`Maple Story`|
