@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Driver mapping with HVCI on](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709171-driver-mapping-hvci.html)|`2025-07-19 02:27:00`|`Valorant`|
+|[NO FLASH &#43; NO SMOKE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709804-flash-smoke.html)|`2025-07-19 02:23:00`|`Counter-Strike 2`|
+|[VAN 57](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/709871-van-57-a.html)|`2025-07-19 02:21:00`|`League of Legends`|
+|[Backtrack Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708512-backtrack-chams.html)|`2025-07-19 02:21:00`|`Counter-Strike 2`|
+|[DayZ 1&#46;28 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/708021-dayz-1-28-offsets.html)|`2025-07-19 02:20:00`|`DayZ SA`|
+|[Rivals UnKnoWn &#91;Internal&#93; &#45; Giving Back to the Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695531-rivals-unknown-internal-giving-community.html)|`2025-07-19 02:15:00`|`Marvel Rivals`|
+|[lone&#45;dma eft&#45;dma&#45;radar built w/ wpf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/704132-lone-dma-eft-dma-radar-built-wpf.html)|`2025-07-19 02:13:00`|`Escape from Tarkov`|
+|[RustRecoilMacro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706634-rustrecoilmacro.html)|`2025-07-19 02:12:00`|`Rainbow Six Siege`|
+|[VALORANT TPM SB HVCI UEFI BOOT BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709869-valorant-tpm-sb-hvci-uefi-boot-bypass.html)|`2025-07-19 02:10:00`|`Valorant`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-07-19 01:57:00`|`Grand Theft Auto V`|
 |[Is VID, PID and name spoofing enough for apex?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/709868-vid-pid-name-spoofing-apex.html)|`2025-07-19 01:57:00`|`Apex Legends`|
 |[Simple AK&#45;HOLO script for esp32s3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709183-simple-ak-holo-script-esp32s3.html)|`2025-07-19 01:53:00`|`Rust`|
