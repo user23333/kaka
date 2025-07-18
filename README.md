@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is Keypress based triggerbots detected or not?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709838-keypress-based-triggerbots-detected.html)|`2025-07-18 21:41:00`|`Valorant`|
+|[Chams dx11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/709839-chams-dx11.html)|`2025-07-18 21:37:00`|`Rainbow Six Siege`|
+|[how to use arduino r3 &#43; hostshiled as much as possible undetect?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709434-arduino-r3-hostshiled-undetect.html)|`2025-07-18 21:29:00`|`Valorant`|
+|[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-07-18 21:23:00`|`Other FPS Games`|
 |[theHunter: Call of the Wild Internal Radar, ESP, & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644365-thehunter-call-wild-internal-radar-esp.html)|`2025-07-18 20:53:00`|`Other FPS Games`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-07-18 20:48:00`|`Other FPS Games`|
 |[Can I Bypass A Battlefield 2042 Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/707972-bypass-battlefield-2042-ban.html)|`2025-07-18 20:06:00`|`Battlefield 2042`|
