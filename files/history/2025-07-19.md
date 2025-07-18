@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-07-19 04:50:00`|`Other FPS Games`|
+|[Horizon Rocket League Plugin &#40;Spawn Titles/Items, Set Paint, Credits & Shop Fake Buy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/701283-horizon-rocket-league-plugin-spawn-titles-items-set-paint-credits-shop-fake-buy.html)|`2025-07-19 04:33:00`|`Other Games`|
 |[External Among Us overlay &#40;undetectable&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/685399-external-overlay-undetectable.html)|`2025-07-19 04:31:00`|`Among Us`|
 |[Screen Capture Latency](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/709822-screen-capture-latency.html)|`2025-07-19 04:25:00`|`C and C++`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-07-19 04:24:00`|`Other FPS Games`|
