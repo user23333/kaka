@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Understanding how fiveM structures works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/709450-understanding-fivem-structures.html)|`2025-07-19 05:30:00`|`Alternative Online Mods`|
+|[FiveM Simple External base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/645500-fivem-simple-external-base.html)|`2025-07-19 05:26:00`|`Alternative Online Mods`|
+|[Testing anti cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/709754-testing-anti-cheat.html)|`2025-07-19 05:19:00`|`Alternative Online Mods`|
 |[EXCEPTION&#95;ACCESS&#95;VIOLATION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/709665-exception_access_violation.html)|`2025-07-19 05:07:00`|`Marvel Rivals`|
 |[how use a src/base to make my own cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709887-src-base-own-cheat.html)|`2025-07-19 05:05:00`|`Counter-Strike 2`|
 |[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-07-19 05:02:00`|`PUBG Releases`|
