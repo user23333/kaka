@@ -11,6 +11,7 @@
 |15|[Reversed VAC modules](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709488-reversed-vac-modules.html)|`2025-07-19 00:11:32`|`counter-strike-2-a`|
 |9|[DX11 Overlay – Best Way to Stay Undetected &#40;ImGui / Transparent Window&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709175-dx11-overlay-stay-undetected-imgui-transparent-window.html)|`2025-07-19 00:11:32`|`anti-cheat-bypass`|
 |15|[dma: second pc hwid banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/708949-dma-pc-hwid-banned.html)|`2025-07-19 00:11:32`|`escape-from-tarkov`|
+|11|[Leaked MSI cert unblacklisted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/709249-leaked-msi-cert-unblacklisted.html)|`2025-07-19 02:51:28`|`general-programming-and-reversing`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -24,9 +25,18 @@
 |573|[Helldivers 2 Undetected Features v1&#46;2&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50438)|`2025-07-19 00:11:32`|
 |16|[mc&#45;session&#45;changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50437)|`2025-07-19 00:11:32`|
 |227|[cs2 ext src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50436)|`2025-07-19 00:11:32`|
+|1|[Gems Of War](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50455)|`2025-07-19 02:51:28`|
+|1|[GHaxV3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50452)|`2025-07-19 02:51:28`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-07-19 02:49:00`|`League of Legends`|
+|[Gems Of War 8&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/702434-gems-war-8-5-a.html)|`2025-07-19 02:48:00`|`Cheat Engine Tables`|
+|[CS2 Python Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/633657-cs2-python-cheat.html)|`2025-07-19 02:47:00`|`Counter-Strike 2 Releases`|
+|[Star Wars Battlefront II &#45; Server Menu &#45;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/680218-star-wars-battlefront-ii-server-menu.html)|`2025-07-19 02:40:00`|`Star Wars Battlefront 2`|
+|[Internal ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/703386-internal-esp-aimbot.html)|`2025-07-19 02:38:00`|`Star Wars Battlefront 2`|
+|[Forcefully Enable Unlimited FPS In Gameloop&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/709874-forcefully-enable-unlimited-fps-gameloop.html)|`2025-07-19 02:37:00`|`PUBG Mobile`|
+|[Perma Ban wave for Boosting: AFK farming / Bot lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/709853-perma-ban-wave-boosting-afk-farming-bot-lobbies.html)|`2025-07-19 02:37:00`|`Call of Duty: Black Ops 6`|
 |[Driver mapping with HVCI on](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709171-driver-mapping-hvci.html)|`2025-07-19 02:27:00`|`Valorant`|
 |[NO FLASH &#43; NO SMOKE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709804-flash-smoke.html)|`2025-07-19 02:23:00`|`Counter-Strike 2`|
 |[VAN 57](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/709871-van-57-a.html)|`2025-07-19 02:21:00`|`League of Legends`|
