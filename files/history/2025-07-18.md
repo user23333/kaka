@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Everything About Warframe's Client Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/594641-warframes-client-anticheat.html)|`2025-07-18 23:07:00`|`Other FPS Games`|
 |[cheatHUB &#45; Your reliable backend](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/web-and-scripting/614468-cheathub-reliable-backend.html)|`2025-07-18 23:17:00`|`Web and Scripting`|
 |[My own Cheat Engine with licensed Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709235-own-cheat-engine-licensed-driver.html)|`2025-07-18 23:17:00`|`Anti-Cheat Bypass`|
 |[Where to get a pubg cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/709845-pubg-cheat.html)|`2025-07-18 22:58:00`|`Playerunknown's Battlegrounds`|
