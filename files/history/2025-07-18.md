@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Adryan Pack &#45; Multiplayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/694661-adryan-pack-multiplayer.html)|`2025-07-18 16:45:00`|`Star Wars Battlefront 2`|
+|[Crystal of Atlan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/702573-crystal-atlan.html)|`2025-07-18 16:30:00`|`Other MMORPG and Strategy`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2025-07-18 16:22:00`|`Grand Theft Auto V`|
 |[Crystal Of Atlan Updated Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/706028-crystal-atlan-updated-cheat-table.html)|`2025-07-18 16:17:00`|`Other MMORPG and Strategy`|
 |[DX11 Overlay – Best Way to Stay Undetected &#40;ImGui / Transparent Window&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709175-dx11-overlay-stay-undetected-imgui-transparent-window.html)|`2025-07-18 15:59:00`|`Anti-Cheat Bypass`|
