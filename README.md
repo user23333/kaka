@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[shared memory communication](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709660-shared-memory-communication.html)|`2025-07-18 11:05:00`|`Anti-Cheat Bypass`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-07-18 10:55:00`|`Grand Theft Auto V`|
+|[Is the new yimmenu working for you guys?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/709165-yimmenu-guys.html)|`2025-07-18 10:43:00`|`Grand Theft Auto V`|
+|[Lockdown Protocol External by Fozzila &#40;Update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/700529-lockdown-protocol-external-fozzila-update.html)|`2025-07-18 10:36:00`|`Other Games`|
+|[Fast And Simple Triggerbot &#40;ASM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698448-fast-simple-triggerbot-asm.html)|`2025-07-18 10:34:00`|`Valorant`|
 |[Driver for mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709687-driver-mouse.html)|`2025-07-18 09:11:00`|`Valorant`|
 |[Material "Editor" for chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709601-material-editor-chams.html)|`2025-07-18 09:10:00`|`Counter-Strike 2`|
 |[Continuous Sentinel BUG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/707589-continuous-sentinel-bug.html)|`2025-07-18 09:07:00`|`Apex Legends`|
