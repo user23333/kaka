@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-07-19 23:44:00`|`Counter-Strike 2 Releases`|
 |[Arduino Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/709983-arduino-help.html)|`2025-07-19 23:39:00`|`Apex Legends`|
 |[Cloudheim &#40;OBT&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/709981-cloudheim-obt.html)|`2025-07-19 23:37:00`|`Cheat Engine Tables`|
 |[Hero debug menu, Force start, animations & starfighter exploits &#40;Standalone&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/633092-hero-debug-menu-force-start-animations-starfighter-exploits-standalone.html)|`2025-07-19 23:34:00`|`Star Wars Battlefront 2`|
