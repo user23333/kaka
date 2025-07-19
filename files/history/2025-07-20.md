@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[shared memory comm not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710013-shared-memory-comm.html)|`2025-07-20 05:57:00`|`Anti-Cheat Bypass`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-07-20 05:52:00`|`Other FPS Games`|
 |[Simple AK&#45;HOLO script for esp32s3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709183-simple-ak-holo-script-esp32s3.html)|`2025-07-20 05:39:00`|`Rust`|
 |[Dune Awakening dupe Game currency loophole made public](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/709288-dune-awakening-dupe-game-currency-loophole-public.html)|`2025-07-20 05:35:00`|`Other FPS Games`|
 |[My own Cheat Engine with licensed Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709235-own-cheat-engine-licensed-driver.html)|`2025-07-20 05:38:00`|`Anti-Cheat Bypass`|
