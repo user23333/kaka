@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[No one talks about Arduino anymore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710009-talks-arduino-anymore.html)|`2025-07-20 05:04:00`|`Valorant`|
+|[⚔️ cmut: A Lightweight, Cross&#45;Platform C&#43;&#43;20 Polymorphic Obfuscation Engine ⚔️](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/709250-cmut-lightweight-cross-platform-20-polymorphic-obfuscation-engine.html)|`2025-07-20 04:58:00`|`C and C++`|
+|[GoodDiePUBG &#45; PUBG 3&#46;9 Emulator Hack Source and Release &#40;server/client&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708956-gooddiepubg-pubg-3-9-emulator-hack-source-release-server-client.html)|`2025-07-20 04:55:00`|`PUBG Mobile`|
 |[Question Motherboards compatibility with DMA cards](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/709394-question-motherboards-compatibility-dma-cards.html)|`2025-07-20 04:44:00`|`PC Hardware`|
 |[can dma get you banned if its unplugged](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709094-dma-banned-unplugged.html)|`2025-07-20 04:39:00`|`Anti-Cheat Bypass`|
 |[RustRecoilMacro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706634-rustrecoilmacro.html)|`2025-07-20 04:35:00`|`Rainbow Six Siege`|
