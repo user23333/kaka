@@ -41,6 +41,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/709983-arduino-help.html)|`2025-07-19 23:39:00`|`Apex Legends`|
+|[Cloudheim &#40;OBT&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/709981-cloudheim-obt.html)|`2025-07-19 23:37:00`|`Cheat Engine Tables`|
+|[Hero debug menu, Force start, animations & starfighter exploits &#40;Standalone&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/633092-hero-debug-menu-force-start-animations-starfighter-exploits-standalone.html)|`2025-07-19 23:34:00`|`Star Wars Battlefront 2`|
 |[Crystal Of Atlan Updated Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/706028-crystal-atlan-updated-cheat-table.html)|`2025-07-19 23:32:00`|`Other MMORPG and Strategy`|
 |[GTA ONLINE ENHANCED ALL AWARDS STATS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701294-gta-online-enhanced-awards-stats.html)|`2025-07-19 23:28:00`|`Grand Theft Auto V`|
 |[Found a way to spoof dell pcs but need ur help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709681-found-spoof-dell-pcs-ur-help.html)|`2025-07-19 23:23:00`|`Valorant`|
