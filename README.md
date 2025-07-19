@@ -40,6 +40,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How i can dupe level in GTA5 legacy?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/709748-dupe-level-gta5-legacy.html)|`2025-07-19 13:53:00`|`Grand Theft Auto V`|
 |[prominence poker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/709932-prominence-poker.html)|`2025-07-19 13:44:00`|`Cheat Engine Tables`|
 |[rcs dont work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709930-rcs-dont.html)|`2025-07-19 13:34:00`|`Counter-Strike 2`|
 |[TPM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/649260-tpm-spoofer.html)|`2025-07-19 13:19:00`|`Valorant`|
