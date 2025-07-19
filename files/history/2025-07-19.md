@@ -40,6 +40,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FOV Reset or Working Method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/709936-fov-reset-method.html)|`2025-07-19 15:27:00`|`Sea of Thieves`|
 |[Undetected DLL Injector/Loader?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/709935-undetected-dll-injector-loader.html)|`2025-07-19 14:45:00`|`Counterstrike Global Offensive`|
 |[anyone kno any hourglass glitches?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/709833-kno-hourglass-glitches.html)|`2025-07-19 14:40:00`|`Sea of Thieves`|
 |[Need code or algorithm idea to aim exactly head for colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709841-code-algorithm-idea-aim-exactly-head-colorbot.html)|`2025-07-19 14:37:00`|`Valorant`|
