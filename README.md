@@ -11,6 +11,7 @@
 |11|[Leaked MSI cert unblacklisted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/709249-leaked-msi-cert-unblacklisted.html)|`2025-07-20 00:23:43`|`general-programming-and-reversing`|
 |15|[Is the new yimmenu working for you guys?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/709165-yimmenu-guys.html)|`2025-07-20 00:23:43`|`grand-theft-auto-v`|
 |10|[A remote desktop software that can move the mouse in Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709266-remote-desktop-software-move-mouse-valorant.html)|`2025-07-20 00:23:43`|`valorant`|
+|3|[Most used safe methods for money with YimMenuV2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/709364-safe-methods-money-yimmenuv2.html)|`2025-07-20 01:52:21`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
