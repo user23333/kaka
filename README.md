@@ -30,9 +30,17 @@
 |1|[externaltriggerbotchromiumx64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50478)|`2025-07-20 07:31:20`|
 |1|[ubdated menu ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50469)|`2025-07-20 07:31:20`|
 |1|[SastashaFied v0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50457)|`2025-07-20 07:31:20`|
+|4|[Updated External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50474)|`2025-07-20 07:44:59`|
+|1|[Helldivers 2 &#45; Stratagem Hotkey Manager v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50473)|`2025-07-20 07:44:59`|
+|1|[Ultimate&#95;Zombie&#95;Defense](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50472)|`2025-07-20 07:44:59`|
+|1|[starlight version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50471)|`2025-07-20 07:44:59`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ultimate Zombie Defense 2 &#40;UZD2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/709856-ultimate-zombie-defense-2-uzd2.html)|`2025-07-20 07:43:00`|`Other FPS Games`|
+|[Helldivers 2 &#45; Stratagem Hotkey Manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/708700-helldivers-2-stratagem-hotkey-manager.html)|`2025-07-20 07:41:00`|`HELLDIVERS 2`|
+|[DX11 Overlay – Best Way to Stay Undetected &#40;ImGui / Transparent Window&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709175-dx11-overlay-stay-undetected-imgui-transparent-window.html)|`2025-07-20 07:39:00`|`Anti-Cheat Bypass`|
+|[Auto Update External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/614771-auto-update-external.html)|`2025-07-20 07:38:00`|`Overwatch`|
 |[Exetrnal Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/709941-exetrnal-triggerbot.html)|`2025-07-20 07:28:00`|`Garry's Mod`|
 |[imgui dx11 external menu base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/708711-imgui-dx11-external-menu-base.html)|`2025-07-20 07:25:00`|`C and C++`|
 |[Mw2/iw4x internal mod menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/709486-mw2-iw4x-internal-mod-menu.html)|`2025-07-20 07:19:00`|`Call of Duty 6: Modern Warfare 2`|
