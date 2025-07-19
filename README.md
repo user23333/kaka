@@ -40,6 +40,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nebula Connection Failed at Login when using Fiddler&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/709967-nebula-connection-failed-login-using-fiddler.html)|`2025-07-19 21:29:00`|`Payday 3`|
 |[Arduino Working Jitter aim bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703532-arduino-jitter-aim-bypass.html)|`2025-07-19 20:59:00`|`Apex Legends`|
 |[I need help&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/709942-help.html)|`2025-07-19 20:42:00`|`Forum General`|
 |[Valorant Colorbot Logic with no STUTTER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709934-valorant-colorbot-logic-stutter.html)|`2025-07-19 20:40:00`|`Valorant`|
