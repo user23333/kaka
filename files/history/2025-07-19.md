@@ -40,6 +40,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Undetected DLL Injector/Loader?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/709935-undetected-dll-injector-loader.html)|`2025-07-19 14:45:00`|`Counterstrike Global Offensive`|
+|[anyone kno any hourglass glitches?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/709833-kno-hourglass-glitches.html)|`2025-07-19 14:40:00`|`Sea of Thieves`|
+|[Need code or algorithm idea to aim exactly head for colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709841-code-algorithm-idea-aim-exactly-head-colorbot.html)|`2025-07-19 14:37:00`|`Valorant`|
+|[Sever HWID Banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/709626-sever-hwid-banned.html)|`2025-07-19 14:30:00`|`Alternative Online Mods`|
 |[How i can dupe level in GTA5 legacy?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/709748-dupe-level-gta5-legacy.html)|`2025-07-19 13:53:00`|`Grand Theft Auto V`|
 |[prominence poker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/709932-prominence-poker.html)|`2025-07-19 13:44:00`|`Cheat Engine Tables`|
 |[rcs dont work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709930-rcs-dont.html)|`2025-07-19 13:34:00`|`Counter-Strike 2`|
