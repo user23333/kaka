@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Helldivers 2 Undetected Features by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/704156-helldivers-2-undetected-features-igromanru.html)|`2025-07-20 03:14:00`|`HELLDIVERS 2`|
 |[Car meet unlocks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/709998-car-meet-unlocks.html)|`2025-07-20 03:09:00`|`Grand Theft Auto V`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-07-20 03:04:00`|`Counter-Strike 2`|
 |[Gems Of War 8&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/702434-gems-war-8-5-a.html)|`2025-07-20 03:00:00`|`Cheat Engine Tables`|
