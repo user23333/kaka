@@ -27,9 +27,16 @@
 |19|[Game of Thrones: Kingsroad Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50451)|`2025-07-20 00:23:43`|
 |1|[Cloudheim Cheat Table &#40;OBT&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50480)|`2025-07-20 05:27:53`|
 |1|[BhopExternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50475)|`2025-07-20 07:08:19`|
+|1|[externaltriggerbotchromiumx64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50478)|`2025-07-20 07:31:20`|
+|1|[ubdated menu ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50469)|`2025-07-20 07:31:20`|
+|1|[SastashaFied v0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50457)|`2025-07-20 07:31:20`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Exetrnal Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/709941-exetrnal-triggerbot.html)|`2025-07-20 07:28:00`|`Garry's Mod`|
+|[imgui dx11 external menu base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/708711-imgui-dx11-external-menu-base.html)|`2025-07-20 07:25:00`|`C and C++`|
+|[Mw2/iw4x internal mod menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/709486-mw2-iw4x-internal-mod-menu.html)|`2025-07-20 07:19:00`|`Call of Duty 6: Modern Warfare 2`|
+|[Escape The Backrooms Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/615556-escape-backrooms-internal.html)|`2025-07-20 07:16:00`|`Other FPS Games`|
 |[whats the best hook for an internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709487-whats-hook-internal.html)|`2025-07-20 07:06:00`|`Counter-Strike 2`|
 |[Blue Archive](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/709768-blue-archive.html)|`2025-07-20 07:06:00`|`Cheat Engine Tables`|
 |[detect&#46;ac silent aim bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/708922-detect-ac-silent-aim-bypass.html)|`2025-07-20 07:05:00`|`Alternative Online Mods`|
