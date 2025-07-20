@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Python Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/633657-cs2-python-cheat.html)|`2025-07-21 06:44:00`|`Counter-Strike 2 Releases`|
+|[HDMI Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/709491-hdmi-fuser.html)|`2025-07-21 06:43:00`|`PC Hardware`|
 |[How do I follow this pointer chain to my localplayer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/710072-follow-pointer-chain-localplayer.html)|`2025-07-21 06:27:00`|`General Programming and Reversing`|
 |[Bright nights that are only modified once&#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685838-bright-nights-modified-dma.html)|`2025-07-21 06:20:00`|`Rust`|
 |[EFT: Arena Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/614375-eft-arena-reversal-structs-offsets.html)|`2025-07-21 06:19:00`|`Escape from Tarkov`|
