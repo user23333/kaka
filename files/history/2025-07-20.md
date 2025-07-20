@@ -40,6 +40,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chivalry2 Pak &#40;outdated&#41; and short tutorial&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705485-chivalry2-pak-outdated-short-tutorial.html)|`2025-07-20 20:17:00`|`Other FPS Games`|
+|[Dune Awakening dupe POST FIX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707538-dune-awakening-dupe-post-fix.html)|`2025-07-20 20:16:00`|`Other FPS Games`|
+|[Rememento: White Shadow Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/709701-rememento-white-shadow-cheat.html)|`2025-07-20 20:07:00`|`Cheat Engine Tables`|
 |[Is VID, PID and name spoofing enough for apex?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/709868-vid-pid-name-spoofing-apex.html)|`2025-07-20 19:36:00`|`Apex Legends`|
 |[Fivem Spoofer hwid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/709798-fivem-spoofer-hwid.html)|`2025-07-20 19:32:00`|`Alternative Online Mods`|
 |[Why do I need 4 posts to send a message?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/587713-4-posts-send-message.html)|`2025-07-20 19:03:00`|`Forum General`|
