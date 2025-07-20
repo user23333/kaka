@@ -40,6 +40,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ESP Template](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/710063-esp-template.html)|`2025-07-20 18:08:00`|`All Points Bulletin`|
 |[Ironbark Lookout Disabling VHS Effect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/710060-ironbark-lookout-disabling-vhs-effect.html)|`2025-07-20 17:52:00`|`Other Single Player Games`|
 |[Dumping Packages/GObjects/GNames](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/710056-dumping-packages-gobjects-gnames.html)|`2025-07-20 17:51:00`|`All Points Bulletin`|
 |[Leaked MSI cert unblacklisted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/709249-leaked-msi-cert-unblacklisted.html)|`2025-07-20 17:26:00`|`General Programming and Reversing`|
