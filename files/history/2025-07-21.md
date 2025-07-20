@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Colorbot&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/709989-marvel-rivals-colorbot.html)|`2025-07-21 01:51:00`|`Marvel Rivals`|
+|[Lightmoon V2 &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709987-lightmoon-v2-external.html)|`2025-07-21 01:50:00`|`Counter-Strike 2`|
+|[Un&#45;Protect and Dumping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/566399-un-protect-dumping.html)|`2025-07-21 01:39:00`|`Valorant`|
 |[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-07-21 01:49:00`|`Other FPS Games`|
 |[External or Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/709884-external-internal.html)|`2025-07-21 01:36:00`|`General Programming and Reversing`|
 |[is it safe to cheat on genshin impact?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/710104-safe-cheat-genshin-impact.html)|`2025-07-21 01:35:00`|`Genshin Impact`|
