@@ -12,6 +12,7 @@
 |15|[Is the new yimmenu working for you guys?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/709165-yimmenu-guys.html)|`2025-07-20 00:23:43`|`grand-theft-auto-v`|
 |10|[A remote desktop software that can move the mouse in Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709266-remote-desktop-software-move-mouse-valorant.html)|`2025-07-20 00:23:43`|`valorant`|
 |3|[Most used safe methods for money with YimMenuV2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/709364-safe-methods-money-yimmenuv2.html)|`2025-07-20 01:52:21`|`grand-theft-auto-v`|
+|10|[My own Cheat Engine with licensed Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709235-own-cheat-engine-licensed-driver.html)|`2025-07-20 09:53:50`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -39,6 +40,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cfemen & gir489's Ready or Not hook v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632144-cfemen-gir489s-ready-hook-v1-0-a.html)|`2025-07-20 09:33:00`|`Other FPS Games`|
+|[DLL injection methods in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/698776-dll-injection-methods-2025-a.html)|`2025-07-20 09:20:00`|`General Programming and Reversing`|
+|[Looking for a bo6 no smoke cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/709970-looking-bo6-smoke-cheat.html)|`2025-07-20 09:20:00`|`Call of Duty: Black Ops 6`|
+|[External or Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/709884-external-internal.html)|`2025-07-20 09:17:00`|`General Programming and Reversing`|
+|[Castle Crashers Unlock All preview](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other/710029-castle-crashers-unlock-preview.html)|`2025-07-20 09:16:00`|`Other`|
+|[Getting EPROCESS&#46;ObjectTable offset dynamically](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/709980-getting-eprocess-objecttable-offset-dynamically.html)|`2025-07-20 09:15:00`|`General Programming and Reversing`|
+|[Discovering a zero&#45;day vulnerability in the Argus Monitor driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708619-discovering-zero-day-vulnerability-argus-monitor-driver.html)|`2025-07-20 09:11:00`|`Anti-Cheat Bypass`|
 |[Summer Banner Contest 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/708695-summer-banner-contest-2025-a.html)|`2025-07-20 07:54:00`|`General Graphics`|
 |[SurronDead Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/709957-surrondead-reversal-structs-offsets.html)|`2025-07-20 07:46:00`|`Other FPS Games`|
 |[Ultimate Zombie Defense 2 &#40;UZD2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/709856-ultimate-zombie-defense-2-uzd2.html)|`2025-07-20 07:43:00`|`Other FPS Games`|
