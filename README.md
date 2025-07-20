@@ -40,6 +40,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Reversed VAC modules](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709488-reversed-vac-modules.html)|`2025-07-20 12:19:00`|`Counter-Strike 2`|
+|[Fastest screen&#45;capture?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709882-fastest-screen-capture.html)|`2025-07-20 12:09:00`|`Valorant`|
+|[External AI CV League Assist — Seeking Collaboration / Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/704755-external-ai-cv-league-assist-seeking-collaboration-discussion.html)|`2025-07-20 12:00:00`|`League of Legends`|
+|[need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/710036-help.html)|`2025-07-20 11:50:00`|`PUBG Mobile`|
+|[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2025-07-20 11:31:00`|`Other FPS Games`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-07-20 11:19:00`|`Overwatch`|
 |[cfemen & gir489's Ready or Not hook v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632144-cfemen-gir489s-ready-hook-v1-0-a.html)|`2025-07-20 09:33:00`|`Other FPS Games`|
 |[DLL injection methods in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/698776-dll-injection-methods-2025-a.html)|`2025-07-20 09:20:00`|`General Programming and Reversing`|
