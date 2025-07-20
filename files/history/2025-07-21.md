@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-07-21 03:48:00`|`Apex Legends`|
+|[Looking for a bo6 no smoke cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/709970-looking-bo6-smoke-cheat.html)|`2025-07-21 03:46:00`|`Call of Duty: Black Ops 6`|
+|[RustRecoilMacro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706634-rustrecoilmacro.html)|`2025-07-21 03:45:00`|`Rainbow Six Siege`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-07-21 03:45:00`|`Counter-Strike 2`|
 |[imgui only works in windowed mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710111-imgui-windowed-mode.html)|`2025-07-21 03:40:00`|`Counter-Strike 2`|
 |[Forts cheat table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/625043-forts-cheat-table.html)|`2025-07-21 03:31:00`|`Other MMORPG and Strategy`|
 |[Send client side chat message](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706821-send-client-chat-message.html)|`2025-07-21 03:21:00`|`Counter-Strike 2`|
