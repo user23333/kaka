@@ -40,6 +40,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[bSendPacket CreateMove stack x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/710047-bsendpacket-createmove-stack-x64.html)|`2025-07-20 14:37:00`|`CounterStrike Source`|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-07-20 14:36:00`|`Other FPS Games`|
+|[Help hack norecoil cs1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/710044-help-hack-norecoil-cs1-1-a.html)|`2025-07-20 14:22:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[KUBERA &#45; x86 CPU & Environment emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/704069-kubera-x86-cpu-environment-emulator.html)|`2025-07-20 14:17:00`|`General Programming and Reversing`|
 |[Can I Bypass A Battlefield 2042 Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/707972-bypass-battlefield-2042-ban.html)|`2025-07-20 13:31:00`|`Battlefield 2042`|
 |[Yolov5 Enemy Detection Models for AI AIMBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/634345-yolov5-enemy-detection-models-ai-aimbot.html)|`2025-07-20 12:58:00`|`Rainbow Six Siege`|
 |[ACE anti&#45;cheat discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/687479-ace-anti-cheat-discussion.html)|`2025-07-20 12:43:00`|`Anti-Cheat Bypass`|
