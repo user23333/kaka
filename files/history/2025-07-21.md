@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-07-21 07:12:00`|`Other MMORPG and Strategy`|
+|[Marvel Rivals TriggerBot & AimAssist &#40;MouseBased Undetected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/678761-marvel-rivals-triggerbot-aimassist-mousebased-undetected.html)|`2025-07-21 07:11:00`|`Marvel Rivals`|
+|[external BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/702640-external-bo6.html)|`2025-07-21 07:01:00`|`Call of Duty: Black Ops 6`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-07-21 06:58:00`|`Overwatch`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-07-21 06:50:00`|`Escape from Tarkov`|
 |[CS2 Python Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/633657-cs2-python-cheat.html)|`2025-07-21 06:44:00`|`Counter-Strike 2 Releases`|
