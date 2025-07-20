@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC Injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709851-eac-injection.html)|`2025-07-20 23:53:00`|`Anti-Cheat Bypass`|
 |[Turn off BattlEye can not go Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/710086-battleye-online.html)|`2025-07-20 23:43:00`|`Grand Theft Auto V`|
 |[How do I follow this pointer chain to my localplayer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/710072-follow-pointer-chain-localplayer.html)|`2025-07-20 23:30:00`|`General Programming and Reversing`|
 |[Realtime SDK Viewer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/710084-realtime-sdk-viewer.html)|`2025-07-20 23:26:00`|`Unreal Engine 4`|
