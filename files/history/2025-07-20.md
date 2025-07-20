@@ -13,6 +13,7 @@
 |10|[A remote desktop software that can move the mouse in Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709266-remote-desktop-software-move-mouse-valorant.html)|`2025-07-20 00:23:43`|`valorant`|
 |3|[Most used safe methods for money with YimMenuV2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/709364-safe-methods-money-yimmenuv2.html)|`2025-07-20 01:52:21`|`grand-theft-auto-v`|
 |10|[My own Cheat Engine with licensed Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709235-own-cheat-engine-licensed-driver.html)|`2025-07-20 09:53:50`|`anti-cheat-bypass`|
+|16|[Simple AK&#45;HOLO script for esp32s3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709183-simple-ak-holo-script-esp32s3.html)|`2025-07-20 23:52:07`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
