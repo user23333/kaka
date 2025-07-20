@@ -40,6 +40,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BetterAimAssist: Valorant aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682003-betteraimassist-valorant-aim-assist.html)|`2025-07-20 14:57:00`|`Valorant`|
 |[bSendPacket CreateMove stack x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/710047-bsendpacket-createmove-stack-x64.html)|`2025-07-20 14:37:00`|`CounterStrike Source`|
 |[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-07-20 14:36:00`|`Other FPS Games`|
 |[Help hack norecoil cs1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/710044-help-hack-norecoil-cs1-1-a.html)|`2025-07-20 14:22:00`|`CounterStrike 1.5, 1.6 and Mods`|
