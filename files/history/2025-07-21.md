@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External or Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/709884-external-internal.html)|`2025-07-21 01:36:00`|`General Programming and Reversing`|
+|[is it safe to cheat on genshin impact?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/710104-safe-cheat-genshin-impact.html)|`2025-07-21 01:35:00`|`Genshin Impact`|
+|[Bypass Anti&#45;Cheat   Genshin Impact 5&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/658478-bypass-anti-cheat-genshin-impact-5-0-a.html)|`2025-07-21 01:33:00`|`Genshin Impact`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-07-21 01:23:00`|`DayZ SA`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-07-21 01:20:00`|`Valorant`|
 |[Grand Theft Auto V Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144819-grand-theft-auto-scripting.html)|`2025-07-21 01:20:00`|`Grand Theft Auto V`|
