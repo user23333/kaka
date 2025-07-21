@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[hyper&#45;reV &#45; memory introspection &#43; reverse engineering powered by leveraging Hyper&#45;V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709634-hyper-rev-memory-introspection-reverse-engineering-powered-leveraging-hyper.html)|`2025-07-21 20:05:00`|`Anti-Cheat Bypass`|
 |[Has Unknowncheats become a clownware distribution platform?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/710179-unknowncheats-clownware-distribution-platform.html)|`2025-07-21 19:38:00`|`Forum General`|
 |[what mapper is good ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710177-mapper.html)|`2025-07-21 19:31:00`|`Valorant`|
 |[Ban Data Collection Thread/Unban Method Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/420476-ban-data-collection-thread-unban-method-discussion.html)|`2025-07-21 19:30:00`|`Escape from Tarkov`|
