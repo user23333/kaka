@@ -15,6 +15,7 @@
 |16|[Blue Archive](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/709768-blue-archive.html)|`2025-07-21 01:06:56`|`cheat-engine-tables`|
 |17|[colourbot overcompensating &#40;PYTHON&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709422-colourbot-overcompensating-python.html)|`2025-07-21 09:50:11`|`valorant`|
 |16|[how to use arduino r3 &#43; hostshiled as much as possible undetect?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709434-arduino-r3-hostshiled-undetect.html)|`2025-07-21 13:26:22`|`valorant`|
+|5|[Lightmoon V2 &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709987-lightmoon-v2-external.html)|`2025-07-21 18:56:09`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-07-21 18:46:00`|`Other FPS Games`|
 |[How to make skeleton?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710055-skeleton.html)|`2025-07-21 18:42:00`|`Counter-Strike 2`|
 |[SastashaFied Bo1 SP/ZM Mod Menu for Plutonium T5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/710176-sastashafied-bo1-sp-zm-mod-menu-plutonium-t5.html)|`2025-07-21 18:38:00`|`Call of Duty: Black Ops`|
 |[What is the struct at &#91;CModelState&#43;0x0D8&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710171-struct-cmodelstate-0x0d8.html)|`2025-07-21 18:31:00`|`Counter-Strike 2`|
