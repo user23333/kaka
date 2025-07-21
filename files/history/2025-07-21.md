@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BANNED? Talk about it here&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/277803-banned-talk.html)|`2025-07-21 21:08:00`|`Rainbow Six Siege`|
+|[whats the best hook for an internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709487-whats-hook-internal.html)|`2025-07-21 21:04:00`|`Counter-Strike 2`|
+|[Rust decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710182-rust-decryption.html)|`2025-07-21 20:41:00`|`Rust`|
 |[hyper&#45;reV &#45; memory introspection &#43; reverse engineering powered by leveraging Hyper&#45;V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709634-hyper-rev-memory-introspection-reverse-engineering-powered-leveraging-hyper.html)|`2025-07-21 20:05:00`|`Anti-Cheat Bypass`|
 |[Has Unknowncheats become a clownware distribution platform?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/710179-unknowncheats-clownware-distribution-platform.html)|`2025-07-21 19:38:00`|`Forum General`|
 |[what mapper is good ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710177-mapper.html)|`2025-07-21 19:31:00`|`Valorant`|
