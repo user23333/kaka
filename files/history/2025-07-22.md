@@ -12,6 +12,7 @@
 |12|[How detected are triggerbots?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709780-detected-triggerbots.html)|`2025-07-22 00:22:11`|`valorant`|
 |2|[Free CS2 EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709959-free-cs2-external-cheat.html)|`2025-07-22 00:22:11`|`counter-strike-2-a`|
 |16|[Marvel Rivals Colorbot&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/709989-marvel-rivals-colorbot.html)|`2025-07-22 02:28:04`|`marvel-rivals`|
+|9|[PHYSX &#45; Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709796-physx-rust.html)|`2025-07-22 06:56:35`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
