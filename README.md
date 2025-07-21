@@ -11,6 +11,7 @@
 |17|[colourbot overcompensating &#40;PYTHON&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709422-colourbot-overcompensating-python.html)|`2025-07-22 00:22:11`|`valorant`|
 |12|[How detected are triggerbots?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709780-detected-triggerbots.html)|`2025-07-22 00:22:11`|`valorant`|
 |2|[Free CS2 EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709959-free-cs2-external-cheat.html)|`2025-07-22 00:22:11`|`counter-strike-2-a`|
+|16|[Marvel Rivals Colorbot&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/709989-marvel-rivals-colorbot.html)|`2025-07-22 02:28:04`|`marvel-rivals`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-07-22 02:26:00`|`Apex Legends`|
+|[Helldivers 2 Undetected Features by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/704156-helldivers-2-undetected-features-igromanru.html)|`2025-07-22 02:18:00`|`HELLDIVERS 2`|
+|[Rocket League &#45; ThoramiBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/593885-rocket-league-thoramibot.html)|`2025-07-22 02:15:00`|`Other Games`|
+|[Ironbark Lookout Disabling VHS Effect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/710060-ironbark-lookout-disabling-vhs-effect.html)|`2025-07-22 02:11:00`|`Other Single Player Games`|
+|[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2025-07-22 02:02:00`|`DayZ SA`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-07-22 01:54:00`|`Other Games`|
 |[Marvel Rivals Colorbot&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/709989-marvel-rivals-colorbot.html)|`2025-07-22 01:54:00`|`Marvel Rivals`|
 |[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-07-22 01:53:00`|`Other FPS Games`|
