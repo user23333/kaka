@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARMA 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/114242-arma-3-reversal-structs-offsets.html)|`2025-07-22 04:10:00`|`ARMA 3`|
+|[GHax &#45; Open Source Forum](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710221-ghax-source-forum.html)|`2025-07-22 04:07:00`|`Counter-Strike 2`|
+|[Console Cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/710220-console-cheating.html)|`2025-07-22 04:05:00`|`Apex Legends`|
 |[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-07-22 03:47:00`|`Other FPS Games`|
 |[Battle Point "giver"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/703813-battle-giver.html)|`2025-07-22 03:42:00`|`Star Wars Battlefront 2`|
 |[SWBF2 ESP/Aimbot/Damage Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/580865-swbf2-esp-aimbot-damage-hack.html)|`2025-07-22 03:41:00`|`Star Wars Battlefront 2`|
