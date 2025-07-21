@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Y7S3 updated&#93; Rainbow Six Siege Logitech No recoil lua script &#40;all operators&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/514341-y7s3-updated-rainbow-six-siege-logitech-recoil-lua-script-operators.html)|`2025-07-21 17:58:00`|`Rainbow Six Siege`|
 |[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-07-21 17:40:00`|`HELLDIVERS 2`|
 |[War of rigths reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705453-war-rigths-reversal.html)|`2025-07-21 16:56:00`|`Other FPS Games`|
 |[manual map problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710163-manual-map.html)|`2025-07-21 16:54:00`|`Anti-Cheat Bypass`|
