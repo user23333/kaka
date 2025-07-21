@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Poxel&#46;io Browser Aimbot &#43; Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/709401-poxel-io-browser-aimbot-cheat.html)|`2025-07-21 22:29:00`|`Other Games`|
 |[Dead by Daylight &#45; Skin Unlocker and Perk Unlocker &#124; Fiddler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662687-dead-daylight-skin-unlocker-perk-unlocker-fiddler.html)|`2025-07-21 21:35:00`|`Other FPS Games`|
 |[basic chams base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/688179-basic-chams-base.html)|`2025-07-21 21:16:00`|`Call of Duty: Black Ops 6`|
 |[BANNED? Talk about it here&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/277803-banned-talk.html)|`2025-07-21 21:08:00`|`Rainbow Six Siege`|
