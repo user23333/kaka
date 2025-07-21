@@ -28,6 +28,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Battle Point "giver"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/703813-battle-giver.html)|`2025-07-22 03:42:00`|`Star Wars Battlefront 2`|
+|[SWBF2 ESP/Aimbot/Damage Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/580865-swbf2-esp-aimbot-damage-hack.html)|`2025-07-22 03:41:00`|`Star Wars Battlefront 2`|
+|[Does a Starfighter Aimbot/Cheat exist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/708422-starfighter-aimbot-cheat-exist.html)|`2025-07-22 03:40:00`|`Star Wars Battlefront 2`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-07-22 03:39:00`|`Escape from Tarkov`|
+|[Definitive Ultimate Cheatpack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/633084-definitive-ultimate-cheatpack.html)|`2025-07-22 03:38:00`|`Star Wars Battlefront 2`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-07-22 03:37:00`|`Call of Duty: Black Ops 6`|
+|[Aimbot, ESP, Damage hack &#45; Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/438759-aimbot-esp-damage-hack-menu.html)|`2025-07-22 03:33:00`|`Star Wars Battlefront 2`|
+|[HWID unban and cheat recommendations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/702049-hwid-unban-cheat-recommendations.html)|`2025-07-22 03:31:00`|`Star Wars Battlefront 2`|
+|[1 hit lightsaber damage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/707883-1-hit-lightsaber-damage.html)|`2025-07-22 03:29:00`|`Star Wars Battlefront 2`|
 |[The Adryan Pack &#45; Multiplayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/694661-adryan-pack-multiplayer.html)|`2025-07-22 03:27:00`|`Star Wars Battlefront 2`|
 |[Hero debug menu, Force start, animations & starfighter exploits &#40;Standalone&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/633092-hero-debug-menu-force-start-animations-starfighter-exploits-standalone.html)|`2025-07-22 03:22:00`|`Star Wars Battlefront 2`|
 |[Unlimited abilities &#45; Standalone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/637550-unlimited-abilities-standalone.html)|`2025-07-22 03:21:00`|`Star Wars Battlefront 2`|
