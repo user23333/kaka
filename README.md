@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-07-22 01:24:00`|`Other FPS Games`|
+|[um&#45;km function hooking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710145-um-km-function-hooking.html)|`2025-07-22 01:24:00`|`Anti-Cheat Bypass`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-07-22 01:24:00`|`Playerunknown's Battlegrounds`|
+|[bSendPacket CreateMove stack x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/710047-bsendpacket-createmove-stack-x64.html)|`2025-07-22 01:22:00`|`CounterStrike Source`|
+|[Np anti&#45;cheating bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710205-np-anti-cheating-bypass.html)|`2025-07-22 01:17:00`|`HELLDIVERS 2`|
+|[Blue Archive](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/709768-blue-archive.html)|`2025-07-22 01:15:00`|`Cheat Engine Tables`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-07-22 00:54:00`|`Other FPS Games`|
 |[Dumping Packages/GObjects/GNames](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/710056-dumping-packages-gobjects-gnames.html)|`2025-07-22 00:52:00`|`All Points Bulletin`|
 |[AbyssTF public rls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/706779-abysstf-public-rls.html)|`2025-07-22 00:50:00`|`Team Fortress 2`|
