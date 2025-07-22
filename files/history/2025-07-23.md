@@ -11,6 +11,7 @@
 |14|[How detected are triggerbots?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709780-detected-triggerbots.html)|`2025-07-23 00:26:07`|`valorant`|
 |6|[EAC Injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709851-eac-injection.html)|`2025-07-23 00:26:07`|`anti-cheat-bypass`|
 |11|[Do cheat devs love vanguard?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709817-cheat-devs-love-vanguard.html)|`2025-07-23 00:26:07`|`valorant`|
+|4|[Valorant Colorbot Logic with no STUTTER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709934-valorant-colorbot-logic-stutter.html)|`2025-07-23 05:43:39`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
