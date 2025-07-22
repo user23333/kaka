@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[hyper&#45;reV &#45; memory introspection &#43; reverse engineering powered by leveraging Hyper&#45;V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709634-hyper-rev-memory-introspection-reverse-engineering-powered-leveraging-hyper.html)|`2025-07-22 18:46:00`|`Anti-Cheat Bypass`|
+|[FiveM DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/702854-fivem-dma-esp.html)|`2025-07-22 18:11:00`|`Alternative Online Mods`|
+|[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/696538-vigor-internal-cheat.html)|`2025-07-22 18:07:00`|`Other FPS Games`|
 |[Advanced norecoil script for esp32s3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710109-advanced-norecoil-script-esp32s3.html)|`2025-07-22 17:58:00`|`Rust`|
 |[Simple ESP for cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710038-simple-esp-cs2.html)|`2025-07-22 17:36:00`|`Counter-Strike 2`|
 |[Someone have stat editor for GTA legacy 1&#46;71](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/710280-stat-editor-gta-legacy-1-71-a.html)|`2025-07-22 17:06:00`|`Grand Theft Auto V`|
