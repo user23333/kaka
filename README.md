@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Mobile login API request](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/707602-pubg-mobile-login-api-request.html)|`2025-07-22 22:22:00`|`PUBG Mobile`|
+|[whats the best hook for an internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709487-whats-hook-internal.html)|`2025-07-22 22:19:00`|`Counter-Strike 2`|
 |[external BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/702640-external-bo6.html)|`2025-07-22 22:10:00`|`Call of Duty: Black Ops 6`|
 |[How to add hack to pubg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/710304-add-hack-pubg.html)|`2025-07-22 21:54:00`|`PUBG Mobile`|
 |[can dma get you banned if its unplugged](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709094-dma-banned-unplugged.html)|`2025-07-22 21:40:00`|`Anti-Cheat Bypass`|
