@@ -16,6 +16,7 @@
 |16|[how to use arduino r3 &#43; hostshiled as much as possible undetect?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709434-arduino-r3-hostshiled-undetect.html)|`2025-07-22 13:50:55`|`valorant`|
 |6|[EAC Injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709851-eac-injection.html)|`2025-07-22 14:53:42`|`anti-cheat-bypass`|
 |7|[whats the best hook for an internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709487-whats-hook-internal.html)|`2025-07-22 17:38:34`|`counter-strike-2-a`|
+|11|[Do cheat devs love vanguard?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709817-cheat-devs-love-vanguard.html)|`2025-07-22 17:58:01`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
