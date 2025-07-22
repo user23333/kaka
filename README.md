@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709928-cheat.html)|`2025-07-23 01:25:00`|`Rust`|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-07-23 01:24:00`|`Other FPS Games`|
+|[External Freecam?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/698043-external-freecam.html)|`2025-07-23 01:19:00`|`Alternative Online Mods`|
+|[DOTA 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/427630-dota-2-reversal-structs-offsets.html)|`2025-07-23 01:19:00`|`Other MMORPG and Strategy`|
+|[How to get dwm's SwapChain in 24h2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/707456-dwms-swapchain-24h2.html)|`2025-07-23 01:18:00`|`Anti-Cheat Bypass`|
+|[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2025-07-23 01:16:00`|`Elite: Dangerous`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-07-23 01:15:00`|`League of Legends`|
+|[War Thunder test drive unlock tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/671076-war-thunder-test-drive-unlock-tool.html)|`2025-07-23 01:11:00`|`Other MMORPG and Strategy`|
+|[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-07-23 01:07:00`|`Other FPS Games`|
 |[External CS2 &#45; Get list of all entity's weapons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710269-external-cs2-list-entitys-weapons.html)|`2025-07-23 01:01:00`|`Counter-Strike 2`|
 |[Simple aim assist idea](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708591-simple-aim-assist-idea.html)|`2025-07-23 01:00:00`|`Valorant`|
 |[How to add hack to pubg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/710304-add-hack-pubg.html)|`2025-07-23 01:00:00`|`PUBG Mobile`|
