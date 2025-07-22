@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple Gta Enhanced external triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/710301-simple-gta-enhanced-external-triggerbot.html)|`2025-07-22 21:13:00`|`Grand Theft Auto V`|
+|[is it safe to cheat on genshin impact?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/710104-safe-cheat-genshin-impact.html)|`2025-07-22 21:06:00`|`Genshin Impact`|
+|[Private work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/710300-private.html)|`2025-07-22 21:04:00`|`Forum General`|
 |[Change the statistics of money earned on the website](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/710299-change-statistics-money-earned-website.html)|`2025-07-22 20:42:00`|`Grand Theft Auto V`|
 |[third person external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710298-third-person-external.html)|`2025-07-22 20:34:00`|`Counter-Strike 2`|
 |[hidapi detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710297-hidapi-detected.html)|`2025-07-22 20:28:00`|`Valorant`|
