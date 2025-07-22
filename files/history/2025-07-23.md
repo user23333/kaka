@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Contractors Showdown: Exfilzone Duping Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/701380-contractors-showdown-exfilzone-duping-methods.html)|`2025-07-23 03:18:00`|`Other FPS Games`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-07-23 03:12:00`|`Other FPS Games`|
 |[Undetected DLL Injector/Loader?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709935-undetected-dll-injector-loader.html)|`2025-07-23 03:07:00`|`Counter-Strike 2`|
 |[External Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/710123-external-radar.html)|`2025-07-23 03:04:00`|`CounterStrike Source`|
 |[bSendPacket CreateMove stack x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/710047-bsendpacket-createmove-stack-x64.html)|`2025-07-23 03:02:00`|`CounterStrike Source`|
