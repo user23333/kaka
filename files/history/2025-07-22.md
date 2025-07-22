@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Change the statistics of money earned on the website](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/710299-change-statistics-money-earned-website.html)|`2025-07-22 20:42:00`|`Grand Theft Auto V`|
+|[third person external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710298-third-person-external.html)|`2025-07-22 20:34:00`|`Counter-Strike 2`|
+|[hidapi detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710297-hidapi-detected.html)|`2025-07-22 20:28:00`|`Valorant`|
+|[EAAC Coming to Battlefield V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/629397-eaac-coming-battlefield.html)|`2025-07-22 20:06:00`|`Battlefield V`|
 |[Internal Features Share Spinbot,Magicbullet &#46;&#46;&#46;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710291-internal-features-share-spinbot-magicbullet.html)|`2025-07-22 19:50:00`|`Valorant`|
 |[Is there any point in using a driver for a cs2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710290-using-driver-cs2-cheat.html)|`2025-07-22 19:42:00`|`Counter-Strike 2`|
 |[Turn off BattlEye can not go Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/710086-battleye-online.html)|`2025-07-22 19:24:00`|`Grand Theft Auto V`|
