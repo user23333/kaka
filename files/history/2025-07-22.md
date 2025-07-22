@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Strayed VR Reversal, Structs, Offsets And A Tutorial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/710277-strayed-vr-reversal-structs-offsets-tutorial.html)|`2025-07-22 15:57:00`|`General Programming and Reversing`|
+|[How to Increase Account Trust Without Getting Banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/710276-increase-account-trust-getting-banned.html)|`2025-07-22 15:56:00`|`Call of Duty: Black Ops 6`|
 |[GoodDiePUBG &#45; PUBG 3&#46;8 Emulator Hack Source &#40;server/client&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/704753-gooddiepubg-pubg-3-8-emulator-hack-source-server-client.html)|`2025-07-22 15:22:00`|`PUBG Mobile`|
 |[Question/s &#43; Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710065-question-help.html)|`2025-07-22 15:20:00`|`HELLDIVERS 2`|
 |[skinchanger offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710273-skinchanger-offsets.html)|`2025-07-22 15:07:00`|`Counter-Strike 2`|
