@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[skinchanger offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710273-skinchanger-offsets.html)|`2025-07-22 15:07:00`|`Counter-Strike 2`|
 |[I hate being low IQ, everything takes 3x longer to learn&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/700882-hate-low-iq-takes-3x-learn.html)|`2025-07-22 14:23:00`|`Off Topic`|
 |[OVERLAY IN EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710272-overlay-eac.html)|`2025-07-22 14:13:00`|`Anti-Cheat Bypass`|
 |[How to Bypass AntiCheat FiveGuard?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/710271-bypass-anticheat-fiveguard.html)|`2025-07-22 13:46:00`|`Alternative Online Mods`|
