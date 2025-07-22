@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Someone have stat editor for GTA legacy 1&#46;71](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/710280-stat-editor-gta-legacy-1-71-a.html)|`2025-07-22 17:06:00`|`Grand Theft Auto V`|
 |[BF3 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-3-a/709019-bf3-internal-cheat.html)|`2025-07-22 16:29:00`|`Battlefield 3`|
 |[??? raspberry as a second computer for DMA ???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708243-raspberry-computer-dma.html)|`2025-07-22 16:22:00`|`Rust`|
 |[HW recoil control script for everygame](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/704796-hw-recoil-control-script-everygame.html)|`2025-07-22 16:17:00`|`Rust`|
