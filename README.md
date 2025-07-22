@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[can dma get you banned if its unplugged](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709094-dma-banned-unplugged.html)|`2025-07-22 21:40:00`|`Anti-Cheat Bypass`|
 |[Simple Gta Enhanced external triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/710301-simple-gta-enhanced-external-triggerbot.html)|`2025-07-22 21:13:00`|`Grand Theft Auto V`|
 |[is it safe to cheat on genshin impact?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/710104-safe-cheat-genshin-impact.html)|`2025-07-22 21:06:00`|`Genshin Impact`|
 |[Private work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/710300-private.html)|`2025-07-22 21:04:00`|`Forum General`|
