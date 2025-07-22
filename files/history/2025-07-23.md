@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[whats the best hook for an internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709487-whats-hook-internal.html)|`2025-07-23 06:33:00`|`Counter-Strike 2`|
+|[No one talks about Arduino anymore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710009-talks-arduino-anymore.html)|`2025-07-23 06:27:00`|`Valorant`|
+|[Get Components without decrypt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/705164-components-decrypt.html)|`2025-07-23 06:17:00`|`Overwatch`|
+|[IOCTL TO SHARED MEM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710354-ioctl-shared-mem.html)|`2025-07-23 06:15:00`|`Anti-Cheat Bypass`|
+|[Will vanguard ban on alt affect main account&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710353-vanguard-ban-alt-affect-main-account.html)|`2025-07-23 06:06:00`|`Valorant`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-07-23 05:49:00`|`DayZ SA`|
 |[Is there any point in using a driver for a cs2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710290-using-driver-cs2-cheat.html)|`2025-07-23 05:28:00`|`Counter-Strike 2`|
 |[How are you guys finding offsets and signatures?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/710348-guys-finding-offsets-signatures.html)|`2025-07-23 05:23:00`|`Apex Legends`|
