@@ -13,6 +13,7 @@
 |2|[Free CS2 EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709959-free-cs2-external-cheat.html)|`2025-07-22 00:22:11`|`counter-strike-2-a`|
 |16|[Marvel Rivals Colorbot&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/709989-marvel-rivals-colorbot.html)|`2025-07-22 02:28:04`|`marvel-rivals`|
 |9|[PHYSX &#45; Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709796-physx-rust.html)|`2025-07-22 06:56:35`|`rust`|
+|16|[how to use arduino r3 &#43; hostshiled as much as possible undetect?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709434-arduino-r3-hostshiled-undetect.html)|`2025-07-22 13:50:55`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to Bypass AntiCheat FiveGuard?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/710271-bypass-anticheat-fiveguard.html)|`2025-07-22 13:46:00`|`Alternative Online Mods`|
+|[FiveM External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/710270-fivem-external.html)|`2025-07-22 13:45:00`|`Alternative Online Mods`|
+|[Gmod Metatables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/706423-gmod-metatables.html)|`2025-07-22 13:36:00`|`Garry's Mod`|
 |[External CS2 &#45; Get list of all entity's weapons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710269-external-cs2-list-entitys-weapons.html)|`2025-07-22 13:29:00`|`Counter-Strike 2`|
 |[visible check internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710268-visible-check-internal.html)|`2025-07-22 13:11:00`|`Counter-Strike 2`|
 |[Palworld Internal DX11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/710102-palworld-internal-dx11.html)|`2025-07-22 12:59:00`|`Palworld`|
