@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Injecting into CSRSS on boot / driver load](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/710153-injecting-csrss-boot-driver-load.html)|`2025-07-23 04:31:00`|`General Programming and Reversing`|
+|[manual map problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710163-manual-map.html)|`2025-07-23 04:27:00`|`Anti-Cheat Bypass`|
+|[um&#45;km function hooking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710145-um-km-function-hooking.html)|`2025-07-23 04:25:00`|`Anti-Cheat Bypass`|
+|[CUSTOM IOCREATEDRIVER IN EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710263-custom-iocreatedriver-eac.html)|`2025-07-23 04:22:00`|`Anti-Cheat Bypass`|
 |[Open source osu tablet AA / Zenith](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705383-source-osu-tablet-aa-zenith.html)|`2025-07-23 03:57:00`|`Other Games`|
 |[Last Epoch Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/709022-epoch-online.html)|`2025-07-23 03:41:00`|`Other MMORPG and Strategy`|
 |[??? raspberry as a second computer for DMA ???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708243-raspberry-computer-dma.html)|`2025-07-23 03:35:00`|`Rust`|
