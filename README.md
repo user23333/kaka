@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External CS2 &#45; Get list of all entity's weapons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710269-external-cs2-list-entitys-weapons.html)|`2025-07-23 01:01:00`|`Counter-Strike 2`|
+|[Simple aim assist idea](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708591-simple-aim-assist-idea.html)|`2025-07-23 01:00:00`|`Valorant`|
+|[How to add hack to pubg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/710304-add-hack-pubg.html)|`2025-07-23 01:00:00`|`PUBG Mobile`|
+|[why dummy last&#95;visible&#95;time so weird](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/710285-dummy-last_visible_time-weird.html)|`2025-07-23 00:58:00`|`Apex Legends`|
+|[GHax &#45; Open Source Forum](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710221-ghax-source-forum.html)|`2025-07-23 00:53:00`|`Counter-Strike 2`|
+|[communications detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710315-communications-detection.html)|`2025-07-23 00:50:00`|`Anti-Cheat Bypass`|
+|[hidapi detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710297-hidapi-detected.html)|`2025-07-23 00:49:00`|`Valorant`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-07-23 00:45:00`|`Other FPS Games`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-07-23 00:43:00`|`Other FPS Games`|
 |[External to dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/710311-external-dma.html)|`2025-07-23 00:37:00`|`Alternative Online Mods`|
