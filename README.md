@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CarX Drift Racing Online &#45; Advanced Selector Spammer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/710404-carx-drift-racing-online-advanced-selector-spammer.html)|`2025-07-23 16:40:00`|`Other Games`|
+|[my name is goware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/710383-name-goware.html)|`2025-07-23 16:37:00`|`Introductions`|
+|[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2025-07-23 16:26:00`|`HELLDIVERS 2`|
+|[Using Oversw33t with Valorant?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710416-using-oversw33t-valorant.html)|`2025-07-23 15:49:00`|`Valorant`|
 |[is there any working cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/708976-cheats.html)|`2025-07-23 16:14:00`|`Among Us`|
 |[is it possible to use a client side inventory viewer using lua and how](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/709818-client-inventory-viewer-using-lua.html)|`2025-07-23 16:04:00`|`Garry's Mod`|
 |[richup io the browser game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/710024-richup-io-browser-game.html)|`2025-07-23 16:00:00`|`Other Games`|
