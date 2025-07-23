@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Peak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706121-peak.html)|`2025-07-23 11:00:00`|`Other Games`|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-07-23 10:52:00`|`Counter-Strike 2 Releases`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-07-23 10:35:00`|`Playerunknown's Battlegrounds`|
+|[Rust auto detection with py](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709922-rust-auto-detection-py.html)|`2025-07-23 10:34:00`|`Rust`|
+|[GPU Crash dump Triggered](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/700265-gpu-crash-dump-triggered.html)|`2025-07-23 10:29:00`|`Marvel Rivals`|
+|[Fixed "mouse&#95;open" for MouseClassServiceCallbackTrick](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710391-fixed-mouse_open-mouseclassservicecallbacktrick.html)|`2025-07-23 10:21:00`|`Anti-Cheat Bypass`|
 |[Lightmoon V2 &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709987-lightmoon-v2-external.html)|`2025-07-23 09:03:00`|`Counter-Strike 2`|
 |[CCSWeaponInfo structure](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/710382-ccsweaponinfo-structure.html)|`2025-07-23 08:55:00`|`CounterStrike Source`|
 |[Controller Emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673578-controller-emulation.html)|`2025-07-23 08:45:00`|`Call of Duty: Black Ops 6`|
