@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Creating a internal c&#43;&#43; DrawLine&#40;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/710429-creating-internal-drawline.html)|`2025-07-23 19:28:00`|`Escape from Tarkov`|
+|[Cs2 Smoke Remove &#124;&#124; AntiSmoke c&#43;&#43; interior](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710403-cs2-smoke-remove-antismoke-interior.html)|`2025-07-23 19:26:00`|`Counter-Strike 2`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2025-07-23 19:20:00`|`Grand Theft Auto V`|
 |[Combat Master Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/708468-combat-master-internal.html)|`2025-07-23 19:09:00`|`Combat Master`|
 |[I hate being low IQ, everything takes 3x longer to learn&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/700882-hate-low-iq-takes-3x-learn.html)|`2025-07-23 18:48:00`|`Off Topic`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-07-23 18:44:00`|`Grand Theft Auto V`|
