@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rocket League &#45; Name Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/699045-rocket-league-name-spoofer.html)|`2025-07-23 19:42:00`|`Other Games`|
+|[DLL injection methods in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/698776-dll-injection-methods-2025-a.html)|`2025-07-23 19:41:00`|`General Programming and Reversing`|
 |[Name spoofing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/710254-name-spoofing.html)|`2025-07-23 19:36:00`|`Call of Duty 4: Modern Warfare`|
 |[Creating a internal c&#43;&#43; DrawLine&#40;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/710429-creating-internal-drawline.html)|`2025-07-23 19:28:00`|`Escape from Tarkov`|
 |[Cs2 Smoke Remove &#124;&#124; AntiSmoke c&#43;&#43; interior](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710403-cs2-smoke-remove-antismoke-interior.html)|`2025-07-23 19:26:00`|`Counter-Strike 2`|
