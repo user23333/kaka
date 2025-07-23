@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Python Mouse Input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/710405-python-mouse-input.html)|`2025-07-23 14:11:00`|`General Programming and Reversing`|
+|[CS 2 Kernel Cheat With Many Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/707639-cs-2-kernel-cheat-features.html)|`2025-07-23 14:09:00`|`Counter-Strike 2 Releases`|
+|[RustRecoilMacro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706634-rustrecoilmacro.html)|`2025-07-23 14:03:00`|`Rainbow Six Siege`|
 |[splitgate 2 dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/705807-splitgate-2-dma.html)|`2025-07-23 13:53:00`|`Splitgate`|
 |[Priston Tale reversing and bypassing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701220-priston-tale-reversing-bypassing.html)|`2025-07-23 13:37:00`|`Other MMORPG and Strategy`|
 |[external viewmodel chams &#40;kinda&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710401-external-viewmodel-chams-kinda.html)|`2025-07-23 13:21:00`|`Counter-Strike 2`|
