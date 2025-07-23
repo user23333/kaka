@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chivalry2 Pak &#40;outdated&#41; and short tutorial&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705485-chivalry2-pak-outdated-short-tutorial.html)|`2025-07-24 00:15:00`|`Other FPS Games`|
+|[Valorant Colorbot Logic with no STUTTER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709934-valorant-colorbot-logic-stutter.html)|`2025-07-24 00:12:00`|`Valorant`|
+|[Gems Of War 8&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/702434-gems-war-8-5-a.html)|`2025-07-24 00:11:00`|`Cheat Engine Tables`|
+|[Crossfire West Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/708478-crossfire-west-cheat-engine.html)|`2025-07-24 00:08:00`|`CrossFire`|
+|[Simple external esp/radarhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709710-simple-external-esp-radarhack.html)|`2025-07-24 00:05:00`|`Rust`|
+|[Is duping possible?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/709901-duping.html)|`2025-07-24 00:03:00`|`Escape from Tarkov`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-07-23 23:53:00`|`Other Games`|
 |[DX11 Overlay – Best Way to Stay Undetected &#40;ImGui / Transparent Window&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709175-dx11-overlay-stay-undetected-imgui-transparent-window.html)|`2025-07-23 23:52:00`|`Anti-Cheat Bypass`|
 |[Auto Update External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/614771-auto-update-external.html)|`2025-07-23 23:50:00`|`Overwatch`|
 |[GTA Online Money mod menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701208-gta-online-money-mod-menu.html)|`2025-07-23 23:36:00`|`Grand Theft Auto V`|
