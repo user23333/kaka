@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Name spoofing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/710254-name-spoofing.html)|`2025-07-23 19:36:00`|`Call of Duty 4: Modern Warfare`|
 |[Creating a internal c&#43;&#43; DrawLine&#40;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/710429-creating-internal-drawline.html)|`2025-07-23 19:28:00`|`Escape from Tarkov`|
 |[Cs2 Smoke Remove &#124;&#124; AntiSmoke c&#43;&#43; interior](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710403-cs2-smoke-remove-antismoke-interior.html)|`2025-07-23 19:26:00`|`Counter-Strike 2`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2025-07-23 19:20:00`|`Grand Theft Auto V`|
