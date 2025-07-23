@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[is ardunio colorbots ud?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710539-ardunio-colorbots-ud.html)|`2025-07-24 05:40:00`|`Valorant`|
+|[Discord Overlay Handle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710533-discord-overlay-handle.html)|`2025-07-24 05:38:00`|`Counter-Strike 2`|
+|[How to Perm Spoof a SSD NVMe the real way&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667328-perm-spoof-ssd-nvme-real.html)|`2025-07-24 05:38:00`|`Anti-Cheat Bypass`|
+|[GoodDiePUBG &#45; PUBG 3&#46;9 Emulator Hack Source and Release &#40;server/client&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708956-gooddiepubg-pubg-3-9-emulator-hack-source-release-server-client.html)|`2025-07-24 05:38:00`|`PUBG Mobile`|
+|[External Offsets 3&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708247-external-offsets-3-9-a.html)|`2025-07-24 05:36:00`|`PUBG Mobile`|
+|[TREVOR V2 &#124; Simple & Secure GUI &#46;DLL Injector for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708373-trevor-v2-simple-secure-gui-dll-injector-cs2.html)|`2025-07-24 05:35:00`|`Counter-Strike 2`|
 |[Realtime SDK Viewer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/710084-realtime-sdk-viewer.html)|`2025-07-24 05:20:00`|`Unreal Engine 4`|
 |[Best Head Detection Method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710189-head-detection-method.html)|`2025-07-24 05:17:00`|`Valorant`|
 |[2 pc setup using MAKCU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710550-2-pc-setup-using-makcu.html)|`2025-07-24 05:12:00`|`Valorant`|
