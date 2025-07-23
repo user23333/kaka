@@ -11,6 +11,7 @@
 |7|[EAC Injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709851-eac-injection.html)|`2025-07-24 00:00:12`|`anti-cheat-bypass`|
 |5|[Valorant Colorbot Logic with no STUTTER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709934-valorant-colorbot-logic-stutter.html)|`2025-07-24 00:00:12`|`valorant`|
 |11|[Do cheat devs love vanguard?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709817-cheat-devs-love-vanguard.html)|`2025-07-24 00:00:12`|`valorant`|
+|25|[Anyone can guide me how to setup vac bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/709709-guide-setup-vac-bypass.html)|`2025-07-24 03:20:09`|`team-fortress-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[WinDefender blocking drivers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710400-windefender-blocking-drivers.html)|`2025-07-24 03:17:00`|`Anti-Cheat Bypass`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-07-24 03:14:00`|`Grand Theft Auto V`|
+|[simple recoil scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/710531-simple-recoil-scripts.html)|`2025-07-24 03:13:00`|`Programming for Beginners`|
+|[Give please magic shell 3&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/710530-please-magic-shell-3-9-a.html)|`2025-07-24 03:11:00`|`PUBG Mobile`|
+|[Internal Features Share Spinbot,Magicbullet &#46;&#46;&#46;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710291-internal-features-share-spinbot-magicbullet.html)|`2025-07-24 03:10:00`|`Valorant`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-07-24 02:55:00`|`Call of Duty: Black Ops 6`|
 |[ETS2/TruckersMP &#45; no damage and speed limit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/681605-ets2-truckersmp-damage-speed-limit.html)|`2025-07-24 02:54:00`|`Other Games`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-07-24 02:08:00`|`Grand Theft Auto V`|
