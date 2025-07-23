@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to moonwalk in DayZ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/499626-moonwalk-dayz.html)|`2025-07-23 20:21:00`|`DayZ SA`|
+|[Well&#46;cC &#40;PyMeow&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/710243-cc-pymeow.html)|`2025-07-23 20:17:00`|`Garry's Mod`|
+|[Straftat Full Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/686040-straftat-cheat.html)|`2025-07-23 20:02:00`|`Other Games`|
+|[PUBGM ActorsArray Decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/515295-pubgm-actorsarray-decryption.html)|`2025-07-23 20:01:00`|`PUBG Mobile`|
 |[Rocket League &#45; Name Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/699045-rocket-league-name-spoofer.html)|`2025-07-23 19:42:00`|`Other Games`|
 |[DLL injection methods in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/698776-dll-injection-methods-2025-a.html)|`2025-07-23 19:41:00`|`General Programming and Reversing`|
 |[Name spoofing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/710254-name-spoofing.html)|`2025-07-23 19:36:00`|`Call of Duty 4: Modern Warfare`|
