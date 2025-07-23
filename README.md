@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Priston Tale reversing and bypassing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701220-priston-tale-reversing-bypassing.html)|`2025-07-23 13:37:00`|`Other MMORPG and Strategy`|
+|[external viewmodel chams &#40;kinda&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710401-external-viewmodel-chams-kinda.html)|`2025-07-23 13:21:00`|`Counter-Strike 2`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-07-23 13:05:00`|`Escape from Tarkov`|
 |[Valorant Colorbot Logic with no STUTTER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709934-valorant-colorbot-logic-stutter.html)|`2025-07-23 12:56:00`|`Valorant`|
 |[League of Legends Freezing After Disabling VGC and VGK When Attempting a Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/709892-league-legends-freezing-disabling-vgc-vgk-attempting-dump.html)|`2025-07-23 12:55:00`|`League of Legends`|
