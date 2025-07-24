@@ -50,6 +50,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-07-24 18:39:00`|`Counter-Strike 2`|
+|[Wildgate Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699955-wildgate-reversal-structs-offsets.html)|`2025-07-24 18:17:00`|`Other FPS Games`|
+|[Overwatch ViewMatrix offset dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/710593-overwatch-viewmatrix-offset-dumper.html)|`2025-07-24 18:16:00`|`Overwatch`|
 |[Blue Archive Cheat — Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/710592-blue-archive-cheat-steam.html)|`2025-07-24 17:46:00`|`Other MMORPG and Strategy`|
 |[game of thrones kingsroad hack & offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701827-game-thrones-kingsroad-hack-offsets.html)|`2025-07-24 17:43:00`|`Other MMORPG and Strategy`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-07-24 17:20:00`|`Marvel Rivals`|
