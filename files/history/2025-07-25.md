@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Black Baby CE Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/699271-black-baby-ce-table.html)|`2025-07-25 03:45:00`|`Cheat Engine Tables`|
+|[How to properly get camera projection matrix?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710576-properly-camera-projection-matrix.html)|`2025-07-25 03:42:00`|`Rust`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-07-25 03:41:00`|`Valorant`|
 |[The most disgusting anti&#45;cheat engine in history](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710360-disgusting-anti-cheat-engine-history.html)|`2025-07-25 03:41:00`|`Anti-Cheat Bypass`|
 |[Blue Archive](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/709768-blue-archive.html)|`2025-07-25 03:33:00`|`Cheat Engine Tables`|
