@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA Detection in Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710648-dma-detection-rust.html)|`2025-07-25 05:17:00`|`Rust`|
+|[Internal Features Share Spinbot,Magicbullet &#46;&#46;&#46;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710291-internal-features-share-spinbot-magicbullet.html)|`2025-07-25 05:14:00`|`Valorant`|
 |[FiveM Simple External base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/645500-fivem-simple-external-base.html)|`2025-07-25 05:06:00`|`Alternative Online Mods`|
 |[Prop ESP?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/710231-prop-esp.html)|`2025-07-25 04:58:00`|`Alternative Online Mods`|
 |[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2025-07-25 04:57:00`|`Palia`|
