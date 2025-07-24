@@ -50,6 +50,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How are you guys finding offsets and signatures?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/710348-guys-finding-offsets-signatures.html)|`2025-07-24 14:10:00`|`Apex Legends`|
+|[??? raspberry as a second computer for DMA ???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708243-raspberry-computer-dma.html)|`2025-07-24 14:09:00`|`Rust`|
 |[HW recoil control script for everygame](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/704796-hw-recoil-control-script-everygame.html)|`2025-07-24 13:54:00`|`Rust`|
 |[Console Cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/710220-console-cheating.html)|`2025-07-24 13:50:00`|`Apex Legends`|
 |[Helldivers 2 &#45; Stratagem Hotkey Manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/708700-helldivers-2-stratagem-hotkey-manager.html)|`2025-07-24 13:30:00`|`HELLDIVERS 2`|
