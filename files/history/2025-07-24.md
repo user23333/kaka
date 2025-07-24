@@ -27,9 +27,22 @@
 |116|[Updated External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50474)|`2025-07-24 00:00:12`|
 |36|[Helldivers 2 &#45; Stratagem Hotkey Manager v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50473)|`2025-07-24 00:00:12`|
 |24|[Ultimate&#95;Zombie&#95;Defense](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50472)|`2025-07-24 00:00:12`|
+|1|[cmut&#95;update1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50493)|`2025-07-24 12:48:12`|
+|1|[externaltriggerbotchromiumx64&#45;src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50492)|`2025-07-24 12:48:12`|
+|2|[Simple&#95;ESP&#95;7&#45;20&#45;2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50490)|`2025-07-24 12:48:12`|
+|1|[Artanis RCS v1&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50488)|`2025-07-24 12:48:12`|
+|2|[External Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50487)|`2025-07-24 12:48:12`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[No Cooldown Hacks for Paladins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/710246-cooldown-hacks-paladins.html)|`2025-07-24 12:47:00`|`Paladins`|
+|[⚔️ cmut: A Lightweight, Cross&#45;Platform C&#43;&#43;20 Polymorphic Obfuscation Engine ⚔️](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/709250-cmut-lightweight-cross-platform-20-polymorphic-obfuscation-engine.html)|`2025-07-24 12:46:00`|`C and C++`|
+|[Lightmoon V2 &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709987-lightmoon-v2-external.html)|`2025-07-24 12:45:00`|`Counter-Strike 2`|
+|[Exetrnal Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/709941-exetrnal-triggerbot.html)|`2025-07-24 12:42:00`|`Garry's Mod`|
+|[Castle Crashers Unlock All preview](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other/710029-castle-crashers-unlock-preview.html)|`2025-07-24 12:41:00`|`Other`|
+|[The division 2  &#45; Weapons Infinite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/710502-division-2-weapons-infinite.html)|`2025-07-24 12:40:00`|`Tom Clancy's The Division`|
+|[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2025-07-24 12:39:00`|`Counter-Strike 2 Releases`|
+|[Simple ESP for cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710038-simple-esp-cs2.html)|`2025-07-24 12:39:00`|`Counter-Strike 2`|
 |[Prop ESP?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/710231-prop-esp.html)|`2025-07-24 12:01:00`|`Alternative Online Mods`|
 |[How to properly get camera projection matrix?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710576-properly-camera-projection-matrix.html)|`2025-07-24 11:57:00`|`Rust`|
 |[Agents of Sabotage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/704492-agents-sabotage.html)|`2025-07-24 11:52:00`|`Grand Theft Auto V`|
