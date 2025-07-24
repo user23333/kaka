@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[esp32s3 script with weapon and accessory detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/705105-esp32s3-script-weapon-accessory-detection.html)|`2025-07-25 04:07:00`|`Rust`|
+|[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-07-25 04:05:00`|`Call of Duty: Black Ops 3`|
+|[Crashing issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/707289-crashing-issue.html)|`2025-07-25 04:04:00`|`Call of Duty: Black Ops 3`|
+|[SWBF2 ESP/Aimbot/Damage Hack – Re&#45;Release & Tutorial &#40;2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/707868-swbf2-esp-aimbot-damage-hack-re-release-tutorial-2025-a.html)|`2025-07-25 03:49:00`|`Star Wars Battlefront 2`|
+|[REPO Simple Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/689820-repo-simple-cheat.html)|`2025-07-25 03:48:00`|`Other MMORPG and Strategy`|
 |[Cant find process module](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/710333-cant-process-module.html)|`2025-07-25 03:52:00`|`Apex Legends`|
 |[KUBERA &#45; x86 CPU & Environment emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/704069-kubera-x86-cpu-environment-emulator.html)|`2025-07-25 03:49:00`|`General Programming and Reversing`|
 |[Black Baby CE Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/699271-black-baby-ce-table.html)|`2025-07-25 03:45:00`|`Cheat Engine Tables`|
