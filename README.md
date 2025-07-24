@@ -13,6 +13,7 @@
 |11|[Do cheat devs love vanguard?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709817-cheat-devs-love-vanguard.html)|`2025-07-24 00:00:12`|`valorant`|
 |25|[Anyone can guide me how to setup vac bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/709709-guide-setup-vac-bypass.html)|`2025-07-24 03:20:09`|`team-fortress-2-a`|
 |11|[Internal Features Share Spinbot,Magicbullet &#46;&#46;&#46;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710291-internal-features-share-spinbot-magicbullet.html)|`2025-07-24 06:56:42`|`valorant`|
+|11|[The most disgusting anti&#45;cheat engine in history](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710360-disgusting-anti-cheat-engine-history.html)|`2025-07-24 11:11:14`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Helldivers 2 Undetected Features by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/704156-helldivers-2-undetected-features-igromanru.html)|`2025-07-24 11:10:00`|`HELLDIVERS 2`|
+|[Combat Master Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/708468-combat-master-internal.html)|`2025-07-24 10:57:00`|`Combat Master`|
+|[Blue Archive](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/709768-blue-archive.html)|`2025-07-24 10:36:00`|`Cheat Engine Tables`|
+|[Osussist v3 MultiHack for osu&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/671577-osussist-v3-multihack-osu.html)|`2025-07-24 10:32:00`|`Other Games`|
+|[How a spoofer work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709627-spoofer.html)|`2025-07-24 10:28:00`|`Valorant`|
+|[Is Stack Unwinding and Walking Realistically Possible in NMI Callback?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710309-stack-unwinding-walking-realistically-nmi-callback.html)|`2025-07-24 10:20:00`|`Anti-Cheat Bypass`|
+|[esp32s3 script with weapon and accessory detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/705105-esp32s3-script-weapon-accessory-detection.html)|`2025-07-24 10:17:00`|`Rust`|
+|[How can I unlock all awards on legacy?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/710003-unlock-awards-legacy.html)|`2025-07-24 10:13:00`|`Grand Theft Auto V`|
 |[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2025-07-24 09:02:00`|`Other FPS Games`|
 |[Injector alkad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710564-injector-alkad.html)|`2025-07-24 08:44:00`|`Rust`|
 |[cfemen & gir489's Ready or Not hook v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632144-cfemen-gir489s-ready-hook-v1-0-a.html)|`2025-07-24 08:43:00`|`Other FPS Games`|
