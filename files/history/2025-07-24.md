@@ -50,6 +50,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gray Zone Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/634880-gray-zone-warfare-reversal-structs-offsets.html)|`2025-07-24 21:54:00`|`Other FPS Games`|
 |[Python Mouse Input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/710405-python-mouse-input.html)|`2025-07-24 21:34:00`|`General Programming and Reversing`|
 |[Rocket League Macros &#43; Octane to Fennec Swap Plugin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/707185-rocket-league-macros-octane-fennec-swap-plugin.html)|`2025-07-24 21:31:00`|`Other Games`|
 |[EXTERNAL apb&#46;one](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/710621-external-apb.html)|`2025-07-24 21:31:00`|`All Points Bulletin`|
