@@ -12,6 +12,7 @@
 |14|[How detected are triggerbots?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709780-detected-triggerbots.html)|`2025-07-25 00:15:32`|`valorant`|
 |6|[Valorant Colorbot Logic with no STUTTER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709934-valorant-colorbot-logic-stutter.html)|`2025-07-25 00:15:32`|`valorant`|
 |7|[Rainbow Six Siege Internal Rage Cheat Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/710335-rainbow-six-siege-internal-rage-cheat-source.html)|`2025-07-25 01:37:40`|`rainbow-six-siege`|
+|12|[Internal Features Share Spinbot,Magicbullet &#46;&#46;&#46;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710291-internal-features-share-spinbot-magicbullet.html)|`2025-07-25 03:19:34`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch ViewMatrix offset dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/710593-overwatch-viewmatrix-offset-dumper.html)|`2025-07-25 03:11:00`|`Overwatch`|
+|[my latest doesnt work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/709858-doesnt.html)|`2025-07-25 03:08:00`|`Overwatch`|
+|[Helldivers 2 &#45; Stratagem Hotkey Manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/708700-helldivers-2-stratagem-hotkey-manager.html)|`2025-07-25 03:05:00`|`HELLDIVERS 2`|
+|[SWBF2 Internal ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/581560-swbf2-internal-esp.html)|`2025-07-25 03:04:00`|`Star Wars Battlefront 2`|
+|[Console Cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/710220-console-cheating.html)|`2025-07-25 03:01:00`|`Apex Legends`|
 |[The Adryan Pack &#45; Multiplayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/694661-adryan-pack-multiplayer.html)|`2025-07-25 02:58:00`|`Star Wars Battlefront 2`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-07-25 02:53:00`|`Apex Legends`|
 |[Internal ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/703386-internal-esp-aimbot.html)|`2025-07-25 02:52:00`|`Star Wars Battlefront 2`|
