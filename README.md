@@ -42,9 +42,16 @@
 |2|[Rememento: White Shadow Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50503)|`2025-07-24 13:13:27`|
 |2|[GHaxV3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50501)|`2025-07-24 13:13:27`|
 |3|[Starwars battlefront 2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50499)|`2025-07-24 13:13:27`|
+|4|[stats editor 0&#46;0&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50525)|`2025-07-24 13:42:29`|
+|1|[Chivalry AF4 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50524)|`2025-07-24 13:42:29`|
+|1|[GemsOfWar&#95;v87&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50520)|`2025-07-24 13:42:29`|
+|2|[Combat Master Internal Base &#91;Source&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50519)|`2025-07-24 13:42:29`|
+|15|[Helldivers 2 Sneaky Stuff v1&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50518)|`2025-07-24 13:42:29`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Helldivers 2 &#45; Stratagem Hotkey Manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/708700-helldivers-2-stratagem-hotkey-manager.html)|`2025-07-24 13:30:00`|`HELLDIVERS 2`|
+|[AmongUsCosmetics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/521567-amonguscosmetics.html)|`2025-07-24 13:29:00`|`Among Us`|
 |[Rainbow Six Siege Internal Rage Cheat Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/710335-rainbow-six-siege-internal-rage-cheat-source.html)|`2025-07-24 13:09:00`|`Rainbow Six Siege`|
 |[Simple Gta Enhanced external triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/710301-simple-gta-enhanced-external-triggerbot.html)|`2025-07-24 13:03:00`|`Grand Theft Auto V`|
 |[New Updated Fully Working Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708891-updated-triggerbot.html)|`2025-07-24 13:01:00`|`Valorant`|
