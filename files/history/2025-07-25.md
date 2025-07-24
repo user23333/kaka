@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-07-25 07:51:00`|`Other FPS Games`|
+|[Native Invoker for Rage MP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/708519-native-invoker-rage-mp.html)|`2025-07-25 07:49:00`|`Grand Theft Auto V`|
 |[Free External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/709037-free-external.html)|`2025-07-25 07:45:00`|`Counter-Strike 2 Releases`|
 |[FPS Drops Alot in Valorant When TB is Running](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710660-fps-drops-alot-valorant-tb-running.html)|`2025-07-25 07:35:00`|`Valorant`|
 |[EngineTrace has been crashing for days and I dont know why&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/710658-enginetrace-crashing-days-dont.html)|`2025-07-25 07:07:00`|`CounterStrike Source`|
