@@ -50,6 +50,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-07-24 18:45:00`|`Sea of Thieves`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-07-24 18:39:00`|`Counter-Strike 2`|
 |[Wildgate Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699955-wildgate-reversal-structs-offsets.html)|`2025-07-24 18:17:00`|`Other FPS Games`|
 |[Overwatch ViewMatrix offset dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/710593-overwatch-viewmatrix-offset-dumper.html)|`2025-07-24 18:16:00`|`Overwatch`|
