@@ -50,6 +50,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2025-07-24 21:14:00`|`Deadlock`|
+|[Inventory Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710618-inventory-changer.html)|`2025-07-24 21:07:00`|`Counter-Strike 2`|
+|[YimMenuV2 not opening with FSL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/710612-yimmenuv2-fsl.html)|`2025-07-24 20:56:00`|`Grand Theft Auto V`|
+|[Raspberry Pi Pico Recoil working / UD?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710605-raspberry-pi-pico-recoil-ud.html)|`2025-07-24 20:49:00`|`Rust`|
 |[FSL not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/710602-fsl.html)|`2025-07-24 20:36:00`|`Grand Theft Auto V`|
 |[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-07-24 20:27:00`|`Other FPS Games`|
 |[Human Mouse Movement with AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710600-human-mouse-movement-ai.html)|`2025-07-24 20:13:00`|`Anti-Cheat Bypass`|
