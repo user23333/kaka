@@ -50,6 +50,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2025-07-24 22:40:00`|`Other FPS Games`|
 |[Project Zomboid Cheat &#45; Valkur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/645408-project-zomboid-cheat-valkur.html)|`2025-07-24 22:17:00`|`Other MMORPG and Strategy`|
 |[Rivals UnKnoWn &#91;Internal&#93; &#45; Giving Back to the Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695531-rivals-unknown-internal-giving-community.html)|`2025-07-24 22:17:00`|`Marvel Rivals`|
 |[Everything About Warframe's Client Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/594641-warframes-client-anticheat.html)|`2025-07-24 22:03:00`|`Other FPS Games`|
