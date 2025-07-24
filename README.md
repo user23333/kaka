@@ -50,6 +50,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Python Mouse Input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/710405-python-mouse-input.html)|`2025-07-24 21:34:00`|`General Programming and Reversing`|
+|[Rocket League Macros &#43; Octane to Fennec Swap Plugin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/707185-rocket-league-macros-octane-fennec-swap-plugin.html)|`2025-07-24 21:31:00`|`Other Games`|
+|[EXTERNAL apb&#46;one](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/710621-external-apb.html)|`2025-07-24 21:31:00`|`All Points Bulletin`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2025-07-24 21:14:00`|`Deadlock`|
 |[Inventory Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710618-inventory-changer.html)|`2025-07-24 21:07:00`|`Counter-Strike 2`|
 |[YimMenuV2 not opening with FSL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/710612-yimmenuv2-fsl.html)|`2025-07-24 20:56:00`|`Grand Theft Auto V`|
