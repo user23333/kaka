@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-07-26 04:24:00`|`Escape from Tarkov`|
+|[pSilent Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/710759-psilent-help.html)|`2025-07-26 04:18:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-07-26 04:17:00`|`Counter-Strike 2`|
+|[How to disable SARD anti&#45;cheat while playing a certain game? Is it possible?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/710757-disable-sard-anti-cheat-playing-game.html)|`2025-07-26 04:14:00`|`Forum General`|
 |[Supervive script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/705565-supervive-script.html)|`2025-07-26 03:57:00`|`Other MMORPG and Strategy`|
 |[CS2 Python Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/633657-cs2-python-cheat.html)|`2025-07-26 03:53:00`|`Counter-Strike 2 Releases`|
 |[Native Invoker for Rage MP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/708519-native-invoker-rage-mp.html)|`2025-07-26 03:52:00`|`Grand Theft Auto V`|
