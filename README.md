@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[An Introduction to Syscalls &#45; Bypassing Anti&#45;Cheat Hooks &#91;User&#45;Mode&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704470-introduction-syscalls-bypassing-anti-cheat-hooks-user-mode.html)|`2025-07-25 15:07:00`|`Anti-Cheat Bypass`|
 |[Will vanguard ban on alt affect main account&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710353-vanguard-ban-alt-affect-main-account.html)|`2025-07-25 14:35:00`|`Valorant`|
 |[How a spoofer work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709627-spoofer.html)|`2025-07-25 14:31:00`|`Valorant`|
 |[How to map the corresponding competitive rank?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710689-map-corresponding-competitive-rank.html)|`2025-07-25 14:16:00`|`Valorant`|
