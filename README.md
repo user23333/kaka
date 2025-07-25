@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[skybox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710741-skybox.html)|`2025-07-26 01:19:00`|`Counter-Strike 2`|
+|[&#91;FO76&#93; Idea to bring back SOME injected items&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/709769-fo76-idea-bring-injected-items.html)|`2025-07-26 01:14:00`|`Other FPS Games`|
+|[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-07-26 01:14:00`|`Other FPS Games`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-07-26 01:12:00`|`Other FPS Games`|
+|[An Introduction to Syscalls &#45; Bypassing Anti&#45;Cheat Hooks &#91;User&#45;Mode&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704470-introduction-syscalls-bypassing-anti-cheat-hooks-user-mode.html)|`2025-07-26 01:04:00`|`Anti-Cheat Bypass`|
+|[Blue Archive Cheat — Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/710592-blue-archive-cheat-steam.html)|`2025-07-26 01:04:00`|`Other MMORPG and Strategy`|
 |[After the PUBG game update on July 23rd, I was banned after going offline&#46; What could](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710700-pubg-game-update-july-23rd-banned-offline.html)|`2025-07-26 00:42:00`|`Anti-Cheat Bypass`|
 |[ネコちゃん &#124;「 ✦ Neko Triggerbot✦ 」 &#124; ネコちゃん](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706894-neko-triggerbot.html)|`2025-07-26 00:32:00`|`Valorant`|
 |[Liar's Bar Mod &#124; 0&#46;92 &#124; IL2CPP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/685319-liars-bar-mod-0-92-il2cpp.html)|`2025-07-26 00:12:00`|`Other Games`|
