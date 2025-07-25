@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Will vanguard ban on alt affect main account&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710353-vanguard-ban-alt-affect-main-account.html)|`2025-07-25 14:35:00`|`Valorant`|
+|[How a spoofer work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709627-spoofer.html)|`2025-07-25 14:31:00`|`Valorant`|
 |[How to map the corresponding competitive rank?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710689-map-corresponding-competitive-rank.html)|`2025-07-25 14:16:00`|`Valorant`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-07-25 12:54:00`|`Rust`|
 |[Rocket League Macros &#43; Octane to Fennec Swap Plugin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/707185-rocket-league-macros-octane-fennec-swap-plugin.html)|`2025-07-25 12:46:00`|`Other Games`|
