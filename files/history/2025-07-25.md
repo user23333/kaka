@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cloudflare Warp on another pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704797-cloudflare-warp-pc.html)|`2025-07-25 21:26:00`|`Valorant`|
+|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-07-25 21:26:00`|`Other FPS Games`|
+|[external BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/702640-external-bo6.html)|`2025-07-25 21:25:00`|`Call of Duty: Black Ops 6`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-07-25 21:18:00`|`Overwatch`|
+|[hidapi detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710297-hidapi-detected.html)|`2025-07-25 21:17:00`|`Valorant`|
 |[Need code or algorithm idea to aim exactly head for colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709841-code-algorithm-idea-aim-exactly-head-colorbot.html)|`2025-07-25 21:08:00`|`Valorant`|
 |[Combat Master Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/708468-combat-master-internal.html)|`2025-07-25 21:00:00`|`Combat Master`|
 |[Helldivers 2 Macro Tool &#45; Streamline Your Stratagem Inputs&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/709846-helldivers-2-macro-tool-streamline-stratagem-inputs.html)|`2025-07-25 20:58:00`|`HELLDIVERS 2`|
