@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA Key Input Windows 11 24h2 fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/694320-dma-key-input-windows-11-24h2-fix.html)|`2025-07-26 07:25:00`|`General Programming and Reversing`|
+|[Shadow Region Reversal Struct and Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708947-shadow-region-reversal-struct-offset.html)|`2025-07-26 07:17:00`|`Valorant`|
 |[Term Client Side ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/710776-term-client-ban.html)|`2025-07-26 07:02:00`|`PUBG Mobile`|
 |[vgk bypasses/disablers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710775-vgk-bypasses-disablers.html)|`2025-07-26 07:00:00`|`Valorant`|
 |[Gears 5 Unlock All Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/710774-gears-5-unlock-tool.html)|`2025-07-26 06:59:00`|`Other Games`|
