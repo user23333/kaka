@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Raycasting &#40;PhysX recreation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673196-external-raycasting-physx-recreation.html)|`2025-07-25 11:06:00`|`Escape from Tarkov`|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-07-25 11:01:00`|`Battlefield 4`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-07-25 10:17:00`|`Other FPS Games`|
+|[Rainbow Six Siege Internal Rage Cheat Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/710335-rainbow-six-siege-internal-rage-cheat-source.html)|`2025-07-25 10:16:00`|`Rainbow Six Siege`|
+|[Are people still using aimbots in battlefield?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/707511-people-using-aimbots-battlefield.html)|`2025-07-25 10:06:00`|`Battlefield 2042`|
+|[cfemen & gir489's Ready or Not hook v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632144-cfemen-gir489s-ready-hook-v1-0-a.html)|`2025-07-25 10:04:00`|`Other FPS Games`|
 |[Unable to obtain the base address of the Overwatch process module](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/710674-unable-obtain-base-address-overwatch-process-module.html)|`2025-07-25 09:19:00`|`Programming for Beginners`|
 |[Unable to obtain the base address of the Overwatch process module](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/710673-unable-obtain-base-address-overwatch-process-module.html)|`2025-07-25 09:17:00`|`Overwatch`|
 |[Yimmenu GTA V Legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/710672-yimmenu-gta-legacy.html)|`2025-07-25 09:16:00`|`Grand Theft Auto V`|
