@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unable to obtain the base address of the Overwatch process module](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/710674-unable-obtain-base-address-overwatch-process-module.html)|`2025-07-25 09:19:00`|`Programming for Beginners`|
+|[Unable to obtain the base address of the Overwatch process module](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/710673-unable-obtain-base-address-overwatch-process-module.html)|`2025-07-25 09:17:00`|`Overwatch`|
+|[Yimmenu GTA V Legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/710672-yimmenu-gta-legacy.html)|`2025-07-25 09:16:00`|`Grand Theft Auto V`|
+|[Custom Mesh/Textures using sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710668-custom-mesh-textures-using-sdk.html)|`2025-07-25 09:08:00`|`Valorant`|
+|[Do cheat devs love vanguard?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709817-cheat-devs-love-vanguard.html)|`2025-07-25 09:03:00`|`Valorant`|
+|[EXTERNAL apb&#46;one](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/710621-external-apb.html)|`2025-07-25 09:02:00`|`All Points Bulletin`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-07-25 07:51:00`|`Other FPS Games`|
 |[Native Invoker for Rage MP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/708519-native-invoker-rage-mp.html)|`2025-07-25 07:49:00`|`Grand Theft Auto V`|
 |[Free External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/709037-free-external.html)|`2025-07-25 07:45:00`|`Counter-Strike 2 Releases`|
