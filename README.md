@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PointBlank Indonesia Function Calling Detection Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/433916-pointblank-indonesia-function-calling-detection-bypass.html)|`2025-07-26 02:43:00`|`Other FPS Games`|
+|[Crossfire West Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/708478-crossfire-west-cheat-engine.html)|`2025-07-26 02:25:00`|`CrossFire`|
 |[cant even launch rust &#45; interception](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710746-cant-launch-rust-interception.html)|`2025-07-26 02:19:00`|`Rust`|
 |[writing to EPROCESS&#45;&#62;DirectoryTableBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710745-writing-eprocess-directorytablebase.html)|`2025-07-26 02:18:00`|`Anti-Cheat Bypass`|
 |[Human Mouse Movement with AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710600-human-mouse-movement-ai.html)|`2025-07-26 02:15:00`|`Anti-Cheat Bypass`|
