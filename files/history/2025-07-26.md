@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypassing BE for CE &#40;almost&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699064-bypassing-ce.html)|`2025-07-26 01:39:00`|`Anti-Cheat Bypass`|
+|[fivem vrp thing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/710697-fivem-vrp.html)|`2025-07-26 01:31:00`|`Alternative Online Mods`|
 |[skybox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710741-skybox.html)|`2025-07-26 01:19:00`|`Counter-Strike 2`|
 |[&#91;FO76&#93; Idea to bring back SOME injected items&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/709769-fo76-idea-bring-injected-items.html)|`2025-07-26 01:14:00`|`Other FPS Games`|
 |[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-07-26 01:14:00`|`Other FPS Games`|
