@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[A new member on the team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/709991-team.html)|`2025-07-26 06:29:00`|`Information and Announcements`|
+|[Creating first simple cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/710769-creating-simple-cheat.html)|`2025-07-26 06:24:00`|`Garry's Mod`|
+|[How do you port to x64?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/710669-port-x64.html)|`2025-07-26 06:16:00`|`Team Fortress 2`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-07-26 06:01:00`|`Other FPS Games`|
 |[Is my colorbot ud?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710768-colorbot-ud.html)|`2025-07-26 05:54:00`|`Valorant`|
 |[Rainbow Six Siege Internal Rage Cheat Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/710335-rainbow-six-siege-internal-rage-cheat-source.html)|`2025-07-26 05:32:00`|`Rainbow Six Siege`|
