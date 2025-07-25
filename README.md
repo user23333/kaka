@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The most disgusting anti&#45;cheat engine in history](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710360-disgusting-anti-cheat-engine-history.html)|`2025-07-26 02:59:00`|`Anti-Cheat Bypass`|
+|[Is there a paid menu where I can print as much money as I want?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/710729-paid-menu-print-money.html)|`2025-07-26 02:56:00`|`Grand Theft Auto V`|
+|[How to Make Permanent Advanced UAV &#40;Read Only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/710574-permanent-advanced-uav-read.html)|`2025-07-26 02:53:00`|`Call of Duty: Black Ops 6`|
 |[PointBlank Indonesia Function Calling Detection Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/433916-pointblank-indonesia-function-calling-detection-bypass.html)|`2025-07-26 02:43:00`|`Other FPS Games`|
 |[Crossfire West Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/708478-crossfire-west-cheat-engine.html)|`2025-07-26 02:25:00`|`CrossFire`|
 |[cant even launch rust &#45; interception](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710746-cant-launch-rust-interception.html)|`2025-07-26 02:19:00`|`Rust`|
