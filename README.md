@@ -31,6 +31,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need code or algorithm idea to aim exactly head for colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709841-code-algorithm-idea-aim-exactly-head-colorbot.html)|`2025-07-25 21:08:00`|`Valorant`|
+|[Combat Master Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/708468-combat-master-internal.html)|`2025-07-25 21:00:00`|`Combat Master`|
+|[Helldivers 2 Macro Tool &#45; Streamline Your Stratagem Inputs&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/709846-helldivers-2-macro-tool-streamline-stratagem-inputs.html)|`2025-07-25 20:58:00`|`HELLDIVERS 2`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-07-25 20:41:00`|`Other FPS Games`|
+|[A new member on the team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/709991-team.html)|`2025-07-25 20:37:00`|`Information and Announcements`|
+|[Payday 3 Black Market](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/606667-payday-3-black-market.html)|`2025-07-25 20:31:00`|`Payday 3`|
+|[What is the risk of being banned for 120 fov? &#40;cheat engine&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/708047-risk-banned-120-fov-cheat-engine.html)|`2025-07-25 20:27:00`|`Sea of Thieves`|
 |[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2025-07-25 20:25:00`|`Sea of Thieves`|
 |[Valorant Internal offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710715-valorant-internal-offsets.html)|`2025-07-25 20:04:00`|`Valorant`|
 |[External cheat GS/Steam WG/ECD bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/692681-external-cheat-gs-steam-wg-ecd-bypass.html)|`2025-07-25 20:02:00`|`CounterStrike 1.5, 1.6 and Mods`|
