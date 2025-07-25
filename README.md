@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is Stack Unwinding and Walking Realistically Possible in NMI Callback?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710309-stack-unwinding-walking-realistically-nmi-callback.html)|`2025-07-26 01:47:00`|`Anti-Cheat Bypass`|
+|[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2025-07-26 01:44:00`|`HELLDIVERS 2`|
+|[Visible Check for External Hack &#45; PUBG Mobile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/710704-visible-check-external-hack-pubg-mobile.html)|`2025-07-26 01:42:00`|`PUBG Mobile`|
+|[Killing Floor 3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/710699-killing-floor-3-a.html)|`2025-07-26 01:42:00`|`Cheat Engine Tables`|
 |[Bypassing BE for CE &#40;almost&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699064-bypassing-ce.html)|`2025-07-26 01:39:00`|`Anti-Cheat Bypass`|
 |[fivem vrp thing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/710697-fivem-vrp.html)|`2025-07-26 01:31:00`|`Alternative Online Mods`|
 |[skybox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710741-skybox.html)|`2025-07-26 01:19:00`|`Counter-Strike 2`|
