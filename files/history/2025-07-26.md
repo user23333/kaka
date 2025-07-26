@@ -43,6 +43,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unreleased Liveries](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/710812-unreleased-liveries.html)|`2025-07-26 18:54:00`|`Grand Theft Auto V`|
+|[Simple ESP for cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710038-simple-esp-cs2.html)|`2025-07-26 18:49:00`|`Counter-Strike 2`|
 |[War Thunder offset dumper source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/667525-war-thunder-offset-dumper-source.html)|`2025-07-26 18:39:00`|`Other MMORPG and Strategy`|
 |[cfgs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/709813-cfgs.html)|`2025-07-26 18:37:00`|`Apex Legends`|
 |[EAC DMA can't getbaseaddress](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710709-eac-dma-cant-getbaseaddress.html)|`2025-07-26 18:35:00`|`Rust`|
