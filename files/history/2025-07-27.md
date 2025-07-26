@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Killing Floor 3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/710699-killing-floor-3-a.html)|`2025-07-27 00:41:00`|`Cheat Engine Tables`|
+|[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2025-07-27 00:38:00`|`Other FPS Games`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-07-27 00:34:00`|`Valorant`|
+|[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2025-07-27 00:28:00`|`HELLDIVERS 2`|
+|[What's the last technical textbook you read?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/702204-whats-technical-textbook-read.html)|`2025-07-27 00:25:00`|`Off Topic`|
+|[Rust map &#46;PNG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709793-rust-map-png.html)|`2025-07-27 00:21:00`|`Rust`|
 |[August 2025 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/709974-august-2025-motm-nominations.html)|`2025-07-27 00:09:00`|`Member of the Month`|
 |[Chivalry 2 CHEAT AF4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/710526-chivalry-2-cheat-af4.html)|`2025-07-27 00:08:00`|`Other Games`|
 |[EXTERNAL apb&#46;one](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/710621-external-apb.html)|`2025-07-27 00:07:00`|`All Points Bulletin`|
