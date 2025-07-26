@@ -25,9 +25,20 @@
 |4|[exe&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50537)|`2025-07-27 00:18:04`|
 |20|[apboneexternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50535)|`2025-07-27 00:18:04`|
 |11|[mouseai&#46;rar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50534)|`2025-07-27 00:18:04`|
+|1|[BLACK STIGMA Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50552)|`2025-07-27 01:32:55`|
+|2|[Killing Floor 3 Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50551)|`2025-07-27 01:32:55`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BLACK STIGMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/710810-black-stigma.html)|`2025-07-27 01:32:00`|`Cheat Engine Tables`|
+|[Finding offsets in java games&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/703883-finding-offsets-java-games.html)|`2025-07-27 01:29:00`|`Programming for Beginners`|
+|[finally ready to start learning to code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/707843-finally-ready-start-learning-code.html)|`2025-07-27 01:26:00`|`Programming for Beginners`|
+|[CS2 Python Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/633657-cs2-python-cheat.html)|`2025-07-27 01:24:00`|`Counter-Strike 2 Releases`|
+|[how to make cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/707308-cheat.html)|`2025-07-27 01:23:00`|`Programming for Beginners`|
+|[Internal ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/703386-internal-esp-aimbot.html)|`2025-07-27 01:23:00`|`Star Wars Battlefront 2`|
+|[How to Dump a Game with Active Anti&#45;Cheat &#40;BattlEye&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/707536-dump-game-active-anti-cheat-battleye.html)|`2025-07-27 01:22:00`|`Programming for Beginners`|
+|[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2025-07-27 01:19:00`|`Counter-Strike 2 Releases`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-07-27 01:18:00`|`Escape from Tarkov`|
 |[How to begin developing stealthy injectors?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/709787-begin-developing-stealthy-injectors.html)|`2025-07-27 01:05:00`|`Programming for Beginners`|
 |[⚔️ cmut: A Lightweight, Cross&#45;Platform C&#43;&#43;20 Polymorphic Obfuscation Engine ⚔️](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/709250-cmut-lightweight-cross-platform-20-polymorphic-obfuscation-engine.html)|`2025-07-27 01:05:00`|`C and C++`|
 |[simple recoil scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/710531-simple-recoil-scripts.html)|`2025-07-27 01:02:00`|`Programming for Beginners`|
