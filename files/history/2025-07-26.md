@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sideloading cert](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700219-sideloading-cert.html)|`2025-07-26 10:57:00`|`Anti-Cheat Bypass`|
+|[Best Head Detection Method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710189-head-detection-method.html)|`2025-07-26 10:19:00`|`Valorant`|
+|[UEDumper &#45; The all in one Unreal Engine Dumper and editor for UE 4&#46;19 &#45; 5&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/589162-uedumper-unreal-engine-dumper-editor-ue-4-19-5-2-a.html)|`2025-07-26 10:08:00`|`General Programming and Reversing`|
+|[Skipping new account casual games requirement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710785-skipping-account-casual-games-requirement.html)|`2025-07-26 09:50:00`|`Counter-Strike 2`|
+|[Marvel Rivals memflow&#45;qemu external aimbot source written in Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/684393-marvel-rivals-memflow-qemu-external-aimbot-source-written-rust.html)|`2025-07-26 09:42:00`|`Marvel Rivals`|
 |[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-07-26 09:03:00`|`Other FPS Games`|
 |[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-07-26 08:57:00`|`Other FPS Games`|
 |[new Fakeadmin/Debugcamera detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710777-fakeadmin-debugcamera-detection.html)|`2025-07-26 08:51:00`|`Rust`|
