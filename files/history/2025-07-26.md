@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking for DMA Firmware for CS2 Which One Is Best? How Does It Work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710783-looking-dma-firmware-cs2.html)|`2025-07-26 11:56:00`|`Counter-Strike 2`|
+|[FiveM Simple External base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/645500-fivem-simple-external-base.html)|`2025-07-26 11:31:00`|`Alternative Online Mods`|
 |[Sideloading cert](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700219-sideloading-cert.html)|`2025-07-26 10:57:00`|`Anti-Cheat Bypass`|
 |[Best Head Detection Method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710189-head-detection-method.html)|`2025-07-26 10:19:00`|`Valorant`|
 |[UEDumper &#45; The all in one Unreal Engine Dumper and editor for UE 4&#46;19 &#45; 5&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/589162-uedumper-unreal-engine-dumper-editor-ue-4-19-5-2-a.html)|`2025-07-26 10:08:00`|`General Programming and Reversing`|
