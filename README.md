@@ -43,6 +43,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[visible check internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710268-visible-check-internal.html)|`2025-07-26 19:34:00`|`Counter-Strike 2`|
+|[is there a way to spoof laptop?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710814-spoof-laptop.html)|`2025-07-26 19:29:00`|`Valorant`|
+|[Minecraft crushes after dll injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/594683-minecraft-crushes-dll-injection.html)|`2025-07-26 19:28:00`|`Minecraft`|
 |[currently working cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/710813-currently-cheats.html)|`2025-07-26 19:21:00`|`Genshin Impact`|
 |[Dying Light 1 &#40;V1&#46;50&#41; Internal &#124; Aimbot, ESP,&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/688897-dying-light-1-v1-50-internal-aimbot-esp.html)|`2025-07-26 19:09:00`|`Other FPS Games`|
 |[Unreleased Liveries](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/710812-unreleased-liveries.html)|`2025-07-26 18:54:00`|`Grand Theft Auto V`|
