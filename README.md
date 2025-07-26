@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[new Fakeadmin/Debugcamera detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710777-fakeadmin-debugcamera-detection.html)|`2025-07-27 04:44:00`|`Rust`|
+|[Marvel Rivals memflow&#45;qemu external aimbot source written in Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/684393-marvel-rivals-memflow-qemu-external-aimbot-source-written-rust.html)|`2025-07-27 04:39:00`|`Marvel Rivals`|
 |[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-07-27 04:22:00`|`Other FPS Games`|
 |[BloodStrike CALL PyRun Functions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710855-bloodstrike-call-pyrun-functions.html)|`2025-07-27 04:20:00`|`Other FPS Games`|
 |[Troubles with Themida anti&#45;debug &#40;SCP:SL&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710638-troubles-themida-anti-debug-scp-sl.html)|`2025-07-27 04:06:00`|`Anti-Cheat Bypass`|
