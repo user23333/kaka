@@ -43,6 +43,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder offset dumper source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/667525-war-thunder-offset-dumper-source.html)|`2025-07-26 18:39:00`|`Other MMORPG and Strategy`|
+|[cfgs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/709813-cfgs.html)|`2025-07-26 18:37:00`|`Apex Legends`|
 |[EAC DMA can't getbaseaddress](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710709-eac-dma-cant-getbaseaddress.html)|`2025-07-26 18:35:00`|`Rust`|
 |[BLACK STIGMA Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/709828-black-stigma-reversal-structs-offsets.html)|`2025-07-26 18:30:00`|`Other FPS Games`|
 |[BLACK STIGMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/710810-black-stigma.html)|`2025-07-26 18:28:00`|`Cheat Engine Tables`|
