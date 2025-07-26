@@ -43,6 +43,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Free External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/709037-free-external.html)|`2025-07-26 15:15:00`|`Counter-Strike 2 Releases`|
+|[&#91;BLT&#93; Selective DLC Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/185930-blt-selective-dlc-unlocker.html)|`2025-07-26 15:15:00`|`Payday 2`|
+|[How to clean your history in cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/710799-clean-history-cheating.html)|`2025-07-26 15:15:00`|`Team Fortress 2`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-07-26 14:28:00`|`Counter-Strike 2`|
 |[Yimmenu GTA V Legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/710672-yimmenu-gta-legacy.html)|`2025-07-26 14:24:00`|`Grand Theft Auto V`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-07-26 14:16:00`|`Grand Theft Auto V`|
