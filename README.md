@@ -12,6 +12,7 @@
 |15|[Advanced norecoil script for esp32s3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710109-advanced-norecoil-script-esp32s3.html)|`2025-07-26 00:21:03`|`rust`|
 |43|[Chivalry 2 CHEAT AF4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/710526-chivalry-2-cheat-af4.html)|`2025-07-26 00:21:03`|`other-games`|
 |16|[Palworld Internal DX11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/710102-palworld-internal-dx11.html)|`2025-07-26 14:51:45`|`palworld`|
+|19|[Killing Floor 3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/710699-killing-floor-3-a.html)|`2025-07-26 21:02:47`|`cheat-engine-tables`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -43,6 +44,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Connecting To Macku Via Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/710819-connecting-macku-via-python.html)|`2025-07-26 20:27:00`|`PC Hardware`|
 |[Any hint to debug ? freeze and dced on private server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/709792-hint-debug-freeze-dced-private-server.html)|`2025-07-26 20:02:00`|`Maple Story`|
 |[motherboard not enough space](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/710817-motherboard-space.html)|`2025-07-26 19:59:00`|`PC Hardware`|
 |[LEGIT PREMIUM CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/698358-legit-premium-cheat.html)|`2025-07-26 19:57:00`|`Battlefield 1`|
