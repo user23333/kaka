@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[God exists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/697595-god-exists.html)|`2025-07-27 04:57:00`|`Off Topic`|
+|[writing to EPROCESS&#45;&#62;DirectoryTableBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710745-writing-eprocess-directorytablebase.html)|`2025-07-27 04:57:00`|`Anti-Cheat Bypass`|
+|[Rocket league horsedash script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/710857-rocket-league-horsedash-script.html)|`2025-07-27 04:53:00`|`Other Games`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-07-27 04:44:00`|`Apex Legends`|
 |[new Fakeadmin/Debugcamera detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710777-fakeadmin-debugcamera-detection.html)|`2025-07-27 04:44:00`|`Rust`|
 |[Marvel Rivals memflow&#45;qemu external aimbot source written in Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/684393-marvel-rivals-memflow-qemu-external-aimbot-source-written-rust.html)|`2025-07-27 04:39:00`|`Marvel Rivals`|
