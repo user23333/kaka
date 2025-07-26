@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EngineTrace has been crashing for days and I dont know why&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/710658-enginetrace-crashing-days-dont.html)|`2025-07-27 03:31:00`|`CounterStrike Source`|
+|[NMI & IDTR Patchguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710851-nmi-idtr-patchguard.html)|`2025-07-27 03:31:00`|`Anti-Cheat Bypass`|
 |[Lethal Menu &#45; Lethal Company Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/615575-lethal-menu-lethal-company-cheat.html)|`2025-07-27 03:22:00`|`Lethal Company`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-07-27 03:18:00`|`Rust`|
 |[Is there a paid menu where I can print as much money as I want?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/710729-paid-menu-print-money.html)|`2025-07-27 03:16:00`|`Grand Theft Auto V`|
