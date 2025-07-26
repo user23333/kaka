@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RP2040 fixes, ARDUINO 1PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710630-rp2040-fixes-arduino-1pc.html)|`2025-07-27 01:45:00`|`Valorant`|
+|[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-07-27 01:45:00`|`Other FPS Games`|
+|[Will vanguard ban on alt affect main account&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710353-vanguard-ban-alt-affect-main-account.html)|`2025-07-27 01:43:00`|`Valorant`|
+|[What age did you find Games?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/707599-age-games.html)|`2025-07-27 01:39:00`|`Off Topic`|
+|[Nebula Connection Failed at Login when using Fiddler&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/709967-nebula-connection-failed-login-using-fiddler.html)|`2025-07-27 01:39:00`|`Payday 3`|
 |[BLACK STIGMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/710810-black-stigma.html)|`2025-07-27 01:32:00`|`Cheat Engine Tables`|
 |[Finding offsets in java games&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/703883-finding-offsets-java-games.html)|`2025-07-27 01:29:00`|`Programming for Beginners`|
 |[finally ready to start learning to code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/707843-finally-ready-start-learning-code.html)|`2025-07-27 01:26:00`|`Programming for Beginners`|
