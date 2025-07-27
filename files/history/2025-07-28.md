@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force: Hawk Ops AI AIM model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/681142-delta-force-hawk-ops-ai-aim-model.html)|`2025-07-28 00:49:00`|`Other FPS Games`|
+|[Looking for DMA Firmware for CS2 Which One Is Best? How Does It Work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710783-looking-dma-firmware-cs2.html)|`2025-07-28 00:47:00`|`Counter-Strike 2`|
 |[internal warzone bo6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/710864-internal-warzone-bo6.html)|`2025-07-28 00:40:00`|`Call of Duty: Black Ops 6`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-07-28 00:31:00`|`Other Games`|
 |[HW recoil control script for everygame](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/704796-hw-recoil-control-script-everygame.html)|`2025-07-28 00:29:00`|`Rust`|
