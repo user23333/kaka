@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Problem With Createmove/Usercmd](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711003-createmove-usercmd.html)|`2025-07-28 06:26:00`|`Counter-Strike 2`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-07-28 06:25:00`|`Playerunknown's Battlegrounds`|
+|[Smoke check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710995-smoke-check.html)|`2025-07-28 06:21:00`|`Counter-Strike 2`|
 |[Smoke check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711002-smoke-check.html)|`2025-07-28 06:16:00`|`Counter-Strike 2`|
 |[BLACK STIGMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/710810-black-stigma.html)|`2025-07-28 05:55:00`|`Cheat Engine Tables`|
 |[is it manual ban? my friend got it and he wasnt cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710840-manual-ban-friend-wasnt-cheating.html)|`2025-07-28 05:41:00`|`Rust`|
