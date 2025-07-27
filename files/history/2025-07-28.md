@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BLACK STIGMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/710810-black-stigma.html)|`2025-07-28 05:55:00`|`Cheat Engine Tables`|
 |[is it manual ban? my friend got it and he wasnt cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710840-manual-ban-friend-wasnt-cheating.html)|`2025-07-28 05:41:00`|`Rust`|
 |[Age Of Empires 4 SCAR Lua Injection &#45; Fog&#45;of&#45;War Reveal, HUD Tweaks &#45; Steam/Xbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/707091-age-empires-4-scar-lua-injection-fog-war-reveal-hud-tweaks-steam-xbox.html)|`2025-07-28 05:33:00`|`Other MMORPG and Strategy`|
 |[GHax &#45; Open Source Forum](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710221-ghax-source-forum.html)|`2025-07-28 05:26:00`|`Counter-Strike 2`|
