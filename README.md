@@ -11,6 +11,7 @@
 |20|[Advanced norecoil script for esp32s3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710109-advanced-norecoil-script-esp32s3.html)|`2025-07-28 00:18:10`|`rust`|
 |19|[Console Cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/710220-console-cheating.html)|`2025-07-28 00:18:10`|`apex-legends`|
 |24|[Blue Archive Cheat — Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/710592-blue-archive-cheat-steam.html)|`2025-07-28 00:18:10`|`other-mmorpg-and-strategy`|
+|14|[Is Stack Unwinding and Walking Realistically Possible in NMI Callback?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710309-stack-unwinding-walking-realistically-nmi-callback.html)|`2025-07-28 01:08:36`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Blue Archive](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/709768-blue-archive.html)|`2025-07-28 01:04:00`|`Cheat Engine Tables`|
+|[Resource Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/710497-resource-dumper.html)|`2025-07-28 01:03:00`|`Alternative Online Mods`|
+|[KD Tracker external/DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/710751-kd-tracker-external-dma.html)|`2025-07-28 01:03:00`|`Call of Duty: Black Ops 6`|
+|[How is interception installed without a valid signature?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/710956-interception-installed-valid-signature.html)|`2025-07-28 01:01:00`|`Programming for Beginners`|
+|[Killing floor 3 Easy Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710892-killing-floor-3-easy-cheat.html)|`2025-07-28 00:57:00`|`Other FPS Games`|
 |[Delta Force: Hawk Ops AI AIM model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/681142-delta-force-hawk-ops-ai-aim-model.html)|`2025-07-28 00:49:00`|`Other FPS Games`|
 |[Looking for DMA Firmware for CS2 Which One Is Best? How Does It Work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710783-looking-dma-firmware-cs2.html)|`2025-07-28 00:47:00`|`Counter-Strike 2`|
 |[internal warzone bo6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/710864-internal-warzone-bo6.html)|`2025-07-28 00:40:00`|`Call of Duty: Black Ops 6`|
