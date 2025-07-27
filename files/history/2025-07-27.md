@@ -13,6 +13,7 @@
 |17|[Console Cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/710220-console-cheating.html)|`2025-07-27 00:18:04`|`apex-legends`|
 |14|[Is Stack Unwinding and Walking Realistically Possible in NMI Callback?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710309-stack-unwinding-walking-realistically-nmi-callback.html)|`2025-07-27 01:09:39`|`anti-cheat-bypass`|
 |4|[Simple ESP for cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710038-simple-esp-cs2.html)|`2025-07-27 02:58:48`|`counter-strike-2-a`|
+|24|[Blue Archive Cheat — Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/710592-blue-archive-cheat-steam.html)|`2025-07-27 17:00:11`|`other-mmorpg-and-strategy`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fake Ping with Cheat Engine for everyone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710866-fake-ping-cheat-engine.html)|`2025-07-27 16:59:00`|`Counter-Strike 2`|
+|[Looking for built kernal level mac adress spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709267-looking-built-kernal-level-mac-adress-spoofer.html)|`2025-07-27 16:58:00`|`Valorant`|
 |[FiveM DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/702854-fivem-dma-esp.html)|`2025-07-27 15:04:00`|`Alternative Online Mods`|
 |[Umamusume: Pretty Derby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/707493-umamusume-pretty-derby.html)|`2025-07-27 14:37:00`|`Other MMORPG and Strategy`|
 |[Client sided Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710894-client-sided-silent-aim.html)|`2025-07-27 14:25:00`|`Valorant`|
