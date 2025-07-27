@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Contractors Showdown: Exfilzone Duping Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/701380-contractors-showdown-exfilzone-duping-methods.html)|`2025-07-28 06:57:00`|`Other FPS Games`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-07-28 06:51:00`|`Alternative Online Mods`|
+|[YimMenuV2 not opening with FSL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/710612-yimmenuv2-fsl.html)|`2025-07-28 06:28:00`|`Grand Theft Auto V`|
+|[Wintrading programs for Rocket League?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/689735-wintrading-programs-rocket-league.html)|`2025-07-28 06:17:00`|`Half Life`|
 |[Problem With Createmove/Usercmd](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711003-createmove-usercmd.html)|`2025-07-28 06:26:00`|`Counter-Strike 2`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-07-28 06:25:00`|`Playerunknown's Battlegrounds`|
 |[Smoke check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710995-smoke-check.html)|`2025-07-28 06:21:00`|`Counter-Strike 2`|
