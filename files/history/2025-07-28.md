@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GHax &#45; Open Source Forum](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710221-ghax-source-forum.html)|`2025-07-28 05:26:00`|`Counter-Strike 2`|
+|[Mouse Proxy &#40;Teensy 4&#46;1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/439183-mouse-proxy-teensy-4-1-a.html)|`2025-07-28 05:16:00`|`Anti-Cheat Bypass`|
+|[Smoke check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/710995-smoke-check.html)|`2025-07-28 05:15:00`|`Counter-Strike 2 Releases`|
 |[How to bypass a Overwatch2 ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/710755-bypass-overwatch2-ban.html)|`2025-07-28 04:55:00`|`Overwatch`|
 |[Rust map &#46;PNG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709793-rust-map-png.html)|`2025-07-28 04:53:00`|`Rust`|
 |[Silver and Blood Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/707458-silver-blood-cheat-engine-table.html)|`2025-07-28 04:50:00`|`Other MMORPG and Strategy`|
