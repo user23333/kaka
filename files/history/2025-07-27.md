@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-07-27 09:45:00`|`Other FPS Games`|
+|[Console Cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/710220-console-cheating.html)|`2025-07-27 08:59:00`|`Apex Legends`|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-07-27 08:45:00`|`Other FPS Games`|
+|[Helldivers 2 &#45; Stratagem Hotkey Manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/708700-helldivers-2-stratagem-hotkey-manager.html)|`2025-07-27 08:43:00`|`HELLDIVERS 2`|
 |[Anyone have the latest TeamID offsets aswell as any name offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/710868-teamid-offsets-aswell-name-offsets.html)|`2025-07-27 07:12:00`|`Combat Master`|
 |[Sign the Petition&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/710867-sign-petition.html)|`2025-07-27 07:11:00`|`Unreal Engine 4`|
 |[ネコちゃん &#124;「 ✦ Neko Triggerbot✦ 」 &#124; ネコちゃん](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706894-neko-triggerbot.html)|`2025-07-27 07:00:00`|`Valorant`|
