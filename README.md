@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VAC Live Changed Again](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710957-vac-live-changed.html)|`2025-07-27 23:32:00`|`Counter-Strike 2`|
+|[Looking for DMA Firmware for CS2 Which One Is Best? How Does It Work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710783-looking-dma-firmware-cs2.html)|`2025-07-27 23:32:00`|`Counter-Strike 2`|
+|[How is interception installed without a valid signature?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/710956-interception-installed-valid-signature.html)|`2025-07-27 23:26:00`|`Programming for Beginners`|
+|[&#91;VOTE&#93; August 2025 Member of the Month](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/710955-vote-august-2025-month.html)|`2025-07-27 23:19:00`|`Member of the Month`|
 |[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-07-27 23:03:00`|`PUBG Releases`|
 |[Case 10 UE4 ??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/710093-10-ue4.html)|`2025-07-27 22:27:00`|`PUBG Mobile`|
 |[Fragpunk Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697941-fragpunk-internal.html)|`2025-07-27 21:49:00`|`Other FPS Games`|
