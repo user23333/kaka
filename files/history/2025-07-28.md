@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AmongUsCosmetics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/521567-amonguscosmetics.html)|`2025-07-28 07:54:00`|`Among Us`|
 |[writing to EPROCESS&#45;&#62;DirectoryTableBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710745-writing-eprocess-directorytablebase.html)|`2025-07-28 07:33:00`|`Anti-Cheat Bypass`|
 |[What information is there regarding AFK kick and avoiding it&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/711006-information-regarding-afk-kick-avoiding.html)|`2025-07-28 07:26:00`|`Sea of Thieves`|
 |[Contractors Showdown: Exfilzone Duping Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/701380-contractors-showdown-exfilzone-duping-methods.html)|`2025-07-28 06:57:00`|`Other FPS Games`|
