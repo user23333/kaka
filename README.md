@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NVIDIA GPU NVFBC SCREEN CAPTURE C&#43;&#43; PIXELBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699814-nvidia-gpu-nvfbc-screen-capture-pixelbot.html)|`2025-07-27 14:10:00`|`Valorant`|
 |[Killing floor 3 Easy Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710892-killing-floor-3-easy-cheat.html)|`2025-07-27 13:53:00`|`Other FPS Games`|
 |[Rematch Offsets SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705933-rematch-offsets-sdk.html)|`2025-07-27 13:35:00`|`Other Games`|
 |[Rematch new game&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696030-rematch-game.html)|`2025-07-27 13:34:00`|`Other Games`|
