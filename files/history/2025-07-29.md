@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chivalry II PAK Mod Loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/711030-chivalry-ii-pak-mod-loader.html)|`2025-07-29 01:50:00`|`Other Games`|
+|[The most disgusting anti&#45;cheat engine in history](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710360-disgusting-anti-cheat-engine-history.html)|`2025-07-29 01:17:00`|`Anti-Cheat Bypass`|
 |[Yimmenu GTA V Legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/710672-yimmenu-gta-legacy.html)|`2025-07-29 01:43:00`|`Grand Theft Auto V`|
 |[internal warzone bo6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/710864-internal-warzone-bo6.html)|`2025-07-29 01:39:00`|`Call of Duty: Black Ops 6`|
 |[External ESP bone flicker？？？](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/711014-external-esp-bone-flicker.html)|`2025-07-29 01:26:00`|`Rust`|
