@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GEARS 5 Unlock All Tool 2025 &#40;in works&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/709390-gears-5-unlock-tool-2025-a.html)|`2025-07-28 09:24:00`|`Forum General`|
+|[SCP:SL Reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/711013-scp-sl-reversing.html)|`2025-07-28 09:11:00`|`Other Games`|
+|[RustRecoilMacro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706634-rustrecoilmacro.html)|`2025-07-28 08:54:00`|`Rainbow Six Siege`|
+|[DMA question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/711010-dma-question.html)|`2025-07-28 08:38:00`|`Rust`|
+|[How to clean your history in cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/710799-clean-history-cheating.html)|`2025-07-28 08:23:00`|`Team Fortress 2`|
+|[CS2 Glow in Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/707945-cs2-glow-python.html)|`2025-07-28 08:19:00`|`Counter-Strike 2 Releases`|
 |[AmongUsCosmetics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/521567-amonguscosmetics.html)|`2025-07-28 07:54:00`|`Among Us`|
 |[writing to EPROCESS&#45;&#62;DirectoryTableBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710745-writing-eprocess-directorytablebase.html)|`2025-07-28 07:33:00`|`Anti-Cheat Bypass`|
 |[What information is there regarding AFK kick and avoiding it&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/711006-information-regarding-afk-kick-avoiding.html)|`2025-07-28 07:26:00`|`Sea of Thieves`|
