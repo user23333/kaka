@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ESP32&#45;s3 espresiff norecoil &#43; ai aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710839-esp32-s3-espresiff-norecoil-ai-aimbot.html)|`2025-07-28 19:24:00`|`Rust`|
+|[Decryption &#43; offset dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/478869-decryption-offset-dumper.html)|`2025-07-28 18:47:00`|`Call of Duty: Modern Warfare`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-07-28 19:01:00`|`Escape from Tarkov`|
 |[getting offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/711036-getting-offsets.html)|`2025-07-28 18:47:00`|`Apex Legends`|
 |[Rocket league horsedash script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/710858-rocket-league-horsedash-script.html)|`2025-07-28 18:45:00`|`Other Games`|
