@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dune: Awakening Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699887-dune-awakening-reversal-structs-offsets.html)|`2025-07-28 20:20:00`|`Other FPS Games`|
+|[Material "Editor" for chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709601-material-editor-chams.html)|`2025-07-28 20:02:00`|`Counter-Strike 2`|
+|[Nenyooo Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/488777-nenyooo-menu.html)|`2025-07-28 19:59:00`|`Grand Theft Auto V`|
+|[anyway to store lost slam van?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/675077-anyway-store-lost-slam-van.html)|`2025-07-28 19:52:00`|`Grand Theft Auto V`|
 |[Summer Banner Contest 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/708695-summer-banner-contest-2025-a.html)|`2025-07-28 19:51:00`|`General Graphics`|
 |[FiveM Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/698583-fivem-dumper.html)|`2025-07-28 19:41:00`|`Alternative Online Mods`|
 |[Umamusume: Pretty Derby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/707493-umamusume-pretty-derby.html)|`2025-07-28 19:40:00`|`Other MMORPG and Strategy`|
