@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[reWASD AimBot Config](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/707190-rewasd-aimbot-config.html)|`2025-07-28 22:38:00`|`Apex Legends`|
 |[Discord Overlay Handle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710533-discord-overlay-handle.html)|`2025-07-28 22:28:00`|`Counter-Strike 2`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-07-28 22:18:00`|`Counter-Strike 2`|
 |[Easy patch for Arbor infinite trial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/707467-easy-patch-arbor-infinite-trial.html)|`2025-07-28 22:07:00`|`PC Software`|
