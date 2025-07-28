@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[edit hook main&#46;cpp file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/711053-edit-hook-main-cpp-file.html)|`2025-07-29 00:46:00`|`PUBG Mobile`|
+|[Auto Dump Prefab Ids &#40; Server &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/698071-auto-dump-prefab-ids-server.html)|`2025-07-29 00:45:00`|`Rust`|
+|[Killing Floor 3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/710699-killing-floor-3-a.html)|`2025-07-29 00:34:00`|`Cheat Engine Tables`|
+|[Botlobby Tool FREE &#91;BO6/MW3/WARZONE&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/696676-botlobby-tool-free-bo6-mw3-warzone.html)|`2025-07-29 00:34:00`|`Call of Duty: Black Ops 6`|
 |[FiveM Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/698583-fivem-dumper.html)|`2025-07-29 00:25:00`|`Alternative Online Mods`|
 |[For Honor &#45; Ported to Interception by Shunrai &#45; Script by florasSecret](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/498875-honor-ported-interception-shunrai-script-florassecret.html)|`2025-07-29 00:21:00`|`Other MMORPG and Strategy`|
 |[ESP32&#45;s3 espresiff norecoil &#43; ai aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710839-esp32-s3-espresiff-norecoil-ai-aimbot.html)|`2025-07-29 00:20:00`|`Rust`|
