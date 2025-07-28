@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Summer Banner Contest 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/708695-summer-banner-contest-2025-a.html)|`2025-07-28 19:51:00`|`General Graphics`|
 |[FiveM Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/698583-fivem-dumper.html)|`2025-07-28 19:41:00`|`Alternative Online Mods`|
 |[Umamusume: Pretty Derby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/707493-umamusume-pretty-derby.html)|`2025-07-28 19:40:00`|`Other MMORPG and Strategy`|
 |[Is it possible to disable/bypass SARD anti&#45;cheat at all?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/711038-disable-bypass-sard-anti-cheat.html)|`2025-07-28 19:40:00`|`Anti-Cheat Bypass`|
