@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[C17PacketCustomPayload Thaumcraft Research Complete/Aspects Give](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/711119-c17packetcustompayload-thaumcraft-research-complete-aspects.html)|`2025-07-29 14:32:00`|`Minecraft`|
+|[Does a Starfighter Aimbot/Cheat exist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/708422-starfighter-aimbot-cheat-exist.html)|`2025-07-29 14:28:00`|`Star Wars Battlefront 2`|
+|[cheat broken after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711118-cheat-broken-update.html)|`2025-07-29 14:01:00`|`Counter-Strike 2`|
 |[SastashaFied Bo1 SP/ZM Mod Menu for Plutonium T5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/710176-sastashafied-bo1-sp-zm-mod-menu-plutonium-t5.html)|`2025-07-29 13:50:00`|`Call of Duty: Black Ops`|
 |[Creating a internal c&#43;&#43; DrawLine&#40;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/710429-creating-internal-drawline.html)|`2025-07-29 13:35:00`|`Escape from Tarkov`|
 |[Valorant TriggerBot Logitech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711115-valorant-triggerbot-logitech.html)|`2025-07-29 13:32:00`|`Valorant`|
