@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cant access local player values after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711244-cant-access-local-player-values-update.html)|`2025-07-30 07:39:00`|`Counter-Strike 2`|
 |[Discovering a zero&#45;day vulnerability in the Argus Monitor driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708619-discovering-zero-day-vulnerability-argus-monitor-driver.html)|`2025-07-30 07:13:00`|`Anti-Cheat Bypass`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-07-30 07:08:00`|`Counter-Strike 2`|
 |[COD Plunder &#45; Humanized AFK Script &#40;Fast Gun/Acc Lvl XP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/687454-cod-plunder-humanized-afk-script-fast-gun-acc-lvl-xp.html)|`2025-07-30 07:06:00`|`Call of Duty: Black Ops 6`|
