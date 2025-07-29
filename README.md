@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valve hwid tracking for trust factor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711060-valve-hwid-tracking-trust-factor.html)|`2025-07-30 01:53:00`|`Counter-Strike 2`|
+|[cheatHUB &#45; Your reliable backend](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/web-and-scripting/614468-cheathub-reliable-backend.html)|`2025-07-30 01:50:00`|`Web and Scripting`|
 |[Deep Rock Galactic: Deep Dive Delirium &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/617904-deep-rock-galactic-deep-dive-delirium-internal.html)|`2025-07-30 01:38:00`|`Other Single Player Games`|
 |[Plouton &#45; A System Management Mode &#40;SMM&#41; cheat framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693225-plouton-system-management-mode-smm-cheat-framework.html)|`2025-07-30 01:33:00`|`Anti-Cheat Bypass`|
 |[I want the ID for Road Rage &#40;Unlocked Lootboxes&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/711173-id-road-rage-unlocked-lootboxes.html)|`2025-07-30 01:07:00`|`Payday 3`|
