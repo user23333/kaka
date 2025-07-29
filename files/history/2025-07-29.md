@@ -13,6 +13,7 @@
 |17|[Is Stack Unwinding and Walking Realistically Possible in NMI Callback?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710309-stack-unwinding-walking-realistically-nmi-callback.html)|`2025-07-29 00:00:14`|`anti-cheat-bypass`|
 |15|[internal warzone bo6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/710864-internal-warzone-bo6.html)|`2025-07-29 04:15:54`|`call-of-duty-black-ops-6-a`|
 |5|[How to Make Permanent Advanced UAV &#40;Read Only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/710574-permanent-advanced-uav-read.html)|`2025-07-29 19:54:53`|`call-of-duty-black-ops-6-a`|
+|8|[Arduino Jitter&#40;Humanized&#41;&#45;SuperGlide&#40;FPS&#45;ADAPTIVE&#41;&#45;TapStrafe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/710652-arduino-jitter-humanized-superglide-fps-adaptive-tapstrafe.html)|`2025-07-29 23:42:23`|`apex-legends`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Battlefield 1 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/186728-battlefield-1-reversal-structs-offsets.html)|`2025-07-29 23:17:00`|`Battlefield 1`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-07-29 22:26:00`|`Apex Legends`|
 |[Blue Archive Steam ver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/708972-blue-archive-steam-ver.html)|`2025-07-29 22:09:00`|`Other MMORPG and Strategy`|
 |[cheat broken after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711153-cheat-broken-update.html)|`2025-07-29 21:42:00`|`Counter-Strike 2`|
