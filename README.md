@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EngineTrace has been crashing for days and I dont know why&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/710658-enginetrace-crashing-days-dont.html)|`2025-07-30 06:41:00`|`CounterStrike Source`|
 |[Native Invoker for Rage MP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/708519-native-invoker-rage-mp.html)|`2025-07-30 06:17:00`|`Grand Theft Auto V`|
 |[VAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711056-vac.html)|`2025-07-30 06:15:00`|`Counter-Strike 2`|
 |[cs2&#45;dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711108-cs2-dumper.html)|`2025-07-30 05:53:00`|`Counter-Strike 2`|
