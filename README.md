@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Emote Mod etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/710212-emote-mod-etc.html)|`2025-07-29 16:47:00`|`Star Wars Battlefront 2`|
+|[D3D11 Rendering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/direct3d/708632-d3d11-rendering.html)|`2025-07-29 16:47:00`|`Direct3D`|
+|[⚔️ cmut: A Lightweight, Cross&#45;Platform C&#43;&#43;20 Polymorphic Obfuscation Engine ⚔️](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/709250-cmut-lightweight-cross-platform-20-polymorphic-obfuscation-engine.html)|`2025-07-29 16:34:00`|`C and C++`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-07-29 16:32:00`|`Other MMORPG and Strategy`|
+|[ACE External Cheats detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/710685-ace-external-cheats-detection.html)|`2025-07-29 16:32:00`|`PUBG Mobile`|
+|[Battlefront 2 Reversal and Structs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/236649-battlefront-2-reversal-structs.html)|`2025-07-29 16:26:00`|`Star Wars Battlefront 2`|
 |[cheatHUB &#45; Your reliable backend](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/web-and-scripting/614468-cheathub-reliable-backend.html)|`2025-07-29 15:53:00`|`Web and Scripting`|
 |[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-07-29 15:49:00`|`Battlefield 4`|
 |[Revolution Idle Anti Cheat Bypass/Freeshop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/711124-revolution-idle-anti-cheat-bypass-freeshop.html)|`2025-07-29 15:46:00`|`Other Games`|
