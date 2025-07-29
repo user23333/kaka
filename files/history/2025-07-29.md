@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to get Altv&#45;client&#46;pdb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/701108-altv-client-pdb.html)|`2025-07-29 19:39:00`|`Alternative Online Mods`|
+|[Killing floor 3 Easy Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710892-killing-floor-3-easy-cheat.html)|`2025-07-29 19:34:00`|`Other FPS Games`|
+|[V Rising &#45; Invaders of Oakveil Community Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/702226-rising-invaders-oakveil-community-cheat.html)|`2025-07-29 19:16:00`|`Other MMORPG and Strategy`|
 |[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2025-07-29 19:26:00`|`Grand Theft Auto V`|
 |[Admin/Dev Flag](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/711141-admin-dev-flag.html)|`2025-07-29 19:24:00`|`Rust`|
 |[External Bunny Hop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711045-external-bunny-hop.html)|`2025-07-29 18:41:00`|`Counter-Strike 2`|
