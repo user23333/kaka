@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-07-30 03:25:00`|`Other FPS Games`|
+|[Definitive Ultimate Cheatpack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/633084-definitive-ultimate-cheatpack.html)|`2025-07-30 03:23:00`|`Star Wars Battlefront 2`|
+|[Brawlhalla Pointers & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/710555-brawlhalla-pointers-offsets.html)|`2025-07-30 03:20:00`|`Other Games`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-07-30 03:02:00`|`Counter-Strike 2 Releases`|
 |[The Future of Rainbow 6 Recoil Scripts&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/710846-future-rainbow-6-recoil-scripts.html)|`2025-07-30 02:58:00`|`Rainbow Six Siege`|
 |[Visible Check for External Hack &#45; PUBG Mobile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/710704-visible-check-external-hack-pubg-mobile.html)|`2025-07-30 02:56:00`|`PUBG Mobile`|
