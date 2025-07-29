@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SoundSight: CS2 Audio ESP &#45; 3D Spatial Sound Radar for Enemy Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691687-soundsight-cs2-audio-esp-3d-spatial-sound-radar-enemy-detection.html)|`2025-07-29 15:23:00`|`Counter-Strike 2`|
 |[C17PacketCustomPayload Thaumcraft Research Complete/Aspects Give](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/711119-c17packetcustompayload-thaumcraft-research-complete-aspects.html)|`2025-07-29 14:32:00`|`Minecraft`|
 |[Does a Starfighter Aimbot/Cheat exist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/708422-starfighter-aimbot-cheat-exist.html)|`2025-07-29 14:28:00`|`Star Wars Battlefront 2`|
 |[cheat broken after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711118-cheat-broken-update.html)|`2025-07-29 14:01:00`|`Counter-Strike 2`|
