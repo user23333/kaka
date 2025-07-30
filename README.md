@@ -43,6 +43,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight DMA &#45; Based on IntelSDM &#45; Added features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/704981-dead-daylight-dma-based-intelsdm-added-features.html)|`2025-07-30 22:38:00`|`Other FPS Games`|
+|[Turtle WoW Multihack Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/world-of-warcraft/710080-turtle-wow-multihack-internal.html)|`2025-07-30 22:33:00`|`World of Warcraft`|
 |[I want to go to jail &#40;for a Buckle&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/711325-jail-buckle.html)|`2025-07-30 22:23:00`|`Red Dead Redemption 2`|
 |[pdb iw8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/711323-pdb-iw8.html)|`2025-07-30 22:01:00`|`Call of Duty: Black Ops 6`|
 |[Palworld Internal DX11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/710102-palworld-internal-dx11.html)|`2025-07-30 21:55:00`|`Palworld`|
