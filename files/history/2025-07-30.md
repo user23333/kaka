@@ -43,6 +43,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ESP is drawing in ImGui window &#40;FiveM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/710998-esp-drawing-imgui-window-fivem.html)|`2025-07-30 15:18:00`|`General Programming and Reversing`|
+|[D3D11 ImGui Gone, Alt&#43;Tab Res Change](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/711133-d3d11-imgui-gone-alt-tab-res-change.html)|`2025-07-30 15:16:00`|`C and C++`|
+|[Do You Love Crypto?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/673834-love-crypto.html)|`2025-07-30 15:16:00`|`Off Topic`|
+|[legit external w radio &#40;awesome&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710908-legit-external-radio-awesome.html)|`2025-07-30 15:11:00`|`Counter-Strike 2`|
+|[schema dumper isnt working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711274-schema-dumper-isnt.html)|`2025-07-30 15:09:00`|`Counter-Strike 2`|
 |[Grounded 2 Xbox Game Pass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/711273-grounded-2-xbox-game-pass.html)|`2025-07-30 14:39:00`|`Cheat Engine Tables`|
 |[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2025-07-30 14:35:00`|`Combat Arms`|
 |[FUMES](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/711100-fumes.html)|`2025-07-30 14:24:00`|`Cheat Engine Tables`|
