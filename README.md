@@ -13,6 +13,7 @@
 |8|[Arduino Jitter&#40;Humanized&#41;&#45;SuperGlide&#40;FPS&#45;ADAPTIVE&#41;&#45;TapStrafe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/710652-arduino-jitter-humanized-superglide-fps-adaptive-tapstrafe.html)|`2025-07-30 00:12:20`|`apex-legends`|
 |5|[Human Mouse Movement with AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710600-human-mouse-movement-ai.html)|`2025-07-30 02:49:22`|`anti-cheat-bypass`|
 |16|[Valve hwid tracking for trust factor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711060-valve-hwid-tracking-trust-factor.html)|`2025-07-30 09:44:17`|`counter-strike-2-a`|
+|10|[Mage Arena](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711077-mage-arena.html)|`2025-07-30 12:56:20`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[simple internal esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/705167-simple-internal-esp.html)|`2025-07-30 12:55:00`|`Rust`|
+|[SCP: CB Multiplayer Reborn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/711265-scp-cb-multiplayer-reborn.html)|`2025-07-30 12:16:00`|`Other Games`|
 |[YIM 2&#46;0/2&#46;1 Download & Compatibility with GTA V Legacy/Enhanced Patch 1&#46;71](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/711263-yim-2-0-2-1-download-compatibility-gta-legacy-enhanced-patch-1-71-a.html)|`2025-07-30 12:07:00`|`Grand Theft Auto V`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-07-30 12:06:00`|`Grand Theft Auto V`|
 |[Straftat Unlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/711262-straftat-unlock.html)|`2025-07-30 12:06:00`|`Other Games`|
