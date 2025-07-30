@@ -43,6 +43,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Grounded 2 Xbox Game Pass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/711273-grounded-2-xbox-game-pass.html)|`2025-07-30 14:39:00`|`Cheat Engine Tables`|
+|[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2025-07-30 14:35:00`|`Combat Arms`|
 |[FUMES](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/711100-fumes.html)|`2025-07-30 14:24:00`|`Cheat Engine Tables`|
 |[Primal Planet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/711110-primal-planet.html)|`2025-07-30 14:20:00`|`Cheat Engine Tables`|
 |[Peak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706121-peak.html)|`2025-07-30 13:56:00`|`Other Games`|
