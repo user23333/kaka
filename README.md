@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat Master Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/708468-combat-master-internal.html)|`2025-07-31 07:17:00`|`Combat Master`|
+|[Valorant TriggerBot Logitech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711115-valorant-triggerbot-logitech.html)|`2025-07-31 07:14:00`|`Valorant`|
 |[2PC/1PC 1:1 CLONED ARDUINO FIRMWARE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705025-2pc-1pc-1-1-cloned-arduino-firmware.html)|`2025-07-31 06:41:00`|`Valorant`|
 |[Is my colorbot ud?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710768-colorbot-ud.html)|`2025-07-31 05:59:00`|`Valorant`|
 |[Lightmoon V2 &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709987-lightmoon-v2-external.html)|`2025-07-31 05:58:00`|`Counter-Strike 2`|
