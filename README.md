@@ -43,6 +43,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PAGE&#95;NOACCESS Bypass, Full Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701296-page_noaccess-bypass-dump.html)|`2025-07-30 16:50:00`|`Anti-Cheat Bypass`|
+|[Simple ESP for cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710038-simple-esp-cs2.html)|`2025-07-30 16:50:00`|`Counter-Strike 2`|
+|[TREVOR V2 &#124; Simple & Secure GUI &#46;DLL Injector for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708373-trevor-v2-simple-secure-gui-dll-injector-cs2.html)|`2025-07-30 16:33:00`|`Counter-Strike 2`|
+|[Using Python for Externals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/710520-using-python-externals.html)|`2025-07-30 16:31:00`|`ARMA 3`|
 |[ESP is drawing in ImGui window &#40;FiveM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/710998-esp-drawing-imgui-window-fivem.html)|`2025-07-30 15:18:00`|`General Programming and Reversing`|
 |[D3D11 ImGui Gone, Alt&#43;Tab Res Change](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/711133-d3d11-imgui-gone-alt-tab-res-change.html)|`2025-07-30 15:16:00`|`C and C++`|
 |[Do You Love Crypto?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/673834-love-crypto.html)|`2025-07-30 15:16:00`|`Off Topic`|
