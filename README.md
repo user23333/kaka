@@ -43,6 +43,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[valo unban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709435-valo-unban.html)|`2025-07-30 21:06:00`|`Valorant`|
+|[looking for fastest methods of reading physical memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/711313-looking-fastest-methods-reading-physical-memory.html)|`2025-07-30 21:01:00`|`Anti-Cheat Bypass`|
+|[R/W BSOD with Shared Memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/711312-bsod-shared-memory.html)|`2025-07-30 20:59:00`|`C and C++`|
+|[getting offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/711036-getting-offsets.html)|`2025-07-30 20:57:00`|`Apex Legends`|
+|[Cannot scan in maplestoryworld &#40;artale&#41; or msw](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/706627-scan-maplestoryworld-artale-msw.html)|`2025-07-30 20:48:00`|`Maple Story`|
 |[Best way to hide dll in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/711305-hide-dll-2025-a.html)|`2025-07-30 20:09:00`|`Anti-Cheat Bypass`|
 |[Russian Account Bypass TUT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/688961-russian-account-bypass-tut.html)|`2025-07-30 20:03:00`|`Escape from Tarkov`|
 |[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-07-30 19:43:00`|`Grand Theft Auto V`|
