@@ -43,6 +43,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Obtaining Recoil Pattern](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/711322-obtaining-recoil-pattern.html)|`2025-07-30 21:39:00`|`Rust`|
+|[Nebula Connection Failed at Login when using Fiddler&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/709967-nebula-connection-failed-login-using-fiddler.html)|`2025-07-30 21:27:00`|`Payday 3`|
 |[valo unban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709435-valo-unban.html)|`2025-07-30 21:06:00`|`Valorant`|
 |[looking for fastest methods of reading physical memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/711313-looking-fastest-methods-reading-physical-memory.html)|`2025-07-30 21:01:00`|`Anti-Cheat Bypass`|
 |[R/W BSOD with Shared Memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/711312-bsod-shared-memory.html)|`2025-07-30 20:59:00`|`C and C++`|
