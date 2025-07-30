@@ -43,6 +43,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[A2X dumper doesnt work&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711280-a2x-dumper-doesnt.html)|`2025-07-30 17:07:00`|`Counter-Strike 2`|
+|[esp32s3 script with weapon and accessory detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/705105-esp32s3-script-weapon-accessory-detection.html)|`2025-07-30 16:59:00`|`Rust`|
 |[PAGE&#95;NOACCESS Bypass, Full Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/701296-page_noaccess-bypass-dump.html)|`2025-07-30 16:50:00`|`Anti-Cheat Bypass`|
 |[Simple ESP for cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710038-simple-esp-cs2.html)|`2025-07-30 16:50:00`|`Counter-Strike 2`|
 |[TREVOR V2 &#124; Simple & Secure GUI &#46;DLL Injector for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708373-trevor-v2-simple-secure-gui-dll-injector-cs2.html)|`2025-07-30 16:33:00`|`Counter-Strike 2`|
