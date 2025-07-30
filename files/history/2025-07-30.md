@@ -43,6 +43,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/465314-super-animal-royale-hack.html)|`2025-07-30 19:09:00`|`Other Games`|
+|[Material "Editor" for chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709601-material-editor-chams.html)|`2025-07-30 19:02:00`|`Counter-Strike 2`|
 |[Free External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/709037-free-external.html)|`2025-07-30 18:54:00`|`Counter-Strike 2 Releases`|
 |[PUBG MOBILE BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/705500-pubg-mobile-bypass.html)|`2025-07-30 18:50:00`|`PUBG Mobile`|
 |[Cyber Tool V2 &#43; COD HQ &#45; Tool &#45; MW3&#45; MW2 &#43; Offhost Noclip And Super Speed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/711103-cyber-tool-v2-cod-hq-tool-mw3-mw2-offhost-noclip-super-speed.html)|`2025-07-30 18:48:00`|`Call of Duty: Modern Warfare 3`|
