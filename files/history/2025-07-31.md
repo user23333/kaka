@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is there a good skin unlocker in Siege X?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706479-skin-unlocker-siege.html)|`2025-07-31 07:53:00`|`Rainbow Six Siege`|
+|[The Future of Rainbow 6 Recoil Scripts&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/710846-future-rainbow-6-recoil-scripts.html)|`2025-07-31 07:51:00`|`Rainbow Six Siege`|
+|[Making a DMA Web Based Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710398-dma-web-based-radar.html)|`2025-07-31 07:48:00`|`Rust`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-07-31 07:48:00`|`Other FPS Games`|
 |[Rust map&#46;png](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/711437-rust-map-png.html)|`2025-07-31 07:43:00`|`Rust`|
 |[BetterAimAssist: Valorant aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682003-betteraimassist-valorant-aim-assist.html)|`2025-07-31 07:31:00`|`Valorant`|
 |[Combat Master Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/708468-combat-master-internal.html)|`2025-07-31 07:17:00`|`Combat Master`|
