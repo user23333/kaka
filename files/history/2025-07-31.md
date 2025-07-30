@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight &#45; Skin Unlocker and Perk Unlocker &#124; Fiddler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662687-dead-daylight-skin-unlocker-perk-unlocker-fiddler.html)|`2025-07-31 00:48:00`|`Other FPS Games`|
+|[driver cant read / get base on 23h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/711357-driver-cant-read-base-23h2.html)|`2025-07-31 00:34:00`|`General Programming and Reversing`|
+|[SCP SL / SCP SECRET LABRATORY GLOBAL METADATA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/711248-scp-sl-scp-secret-labratory-global-metadata.html)|`2025-07-31 00:32:00`|`Other Games`|
+|[Temp spoofer driver &#40;randomize all serials&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/594353-temp-spoofer-driver-randomize-serials.html)|`2025-07-31 00:31:00`|`Valorant`|
+|[legit external w radio &#40;awesome&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710908-legit-external-radio-awesome.html)|`2025-07-31 00:20:00`|`Counter-Strike 2`|
 |[GFAC dropped](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/711352-gfac-dropped.html)|`2025-07-31 00:27:00`|`All Points Bulletin`|
 |[external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711355-external.html)|`2025-07-31 00:25:00`|`Counter-Strike 2`|
 |[cs2 esp base / cheat sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711350-cs2-esp-base-cheat-sdk.html)|`2025-07-31 00:13:00`|`Counter-Strike 2`|
