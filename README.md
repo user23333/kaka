@@ -43,6 +43,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[pdb iw8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/711323-pdb-iw8.html)|`2025-07-30 22:01:00`|`Call of Duty: Black Ops 6`|
+|[Palworld Internal DX11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/710102-palworld-internal-dx11.html)|`2025-07-30 21:55:00`|`Palworld`|
+|[I'm looking for a jitter for the controller](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/682487-im-looking-jitter-controller.html)|`2025-07-30 21:50:00`|`Apex Legends`|
+|[Any Pubg Cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/708903-pubg-cheat.html)|`2025-07-30 21:40:00`|`PUBG Releases`|
+|[PUBG No recoil macro v5&#46;0 For all razer mouse using Razer synapse &#91;Undetected&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/573297-pubg-recoil-macro-v5-0-razer-mouse-using-razer-synapse-undetected.html)|`2025-07-30 21:36:00`|`PUBG Releases`|
 |[Obtaining Recoil Pattern](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/711322-obtaining-recoil-pattern.html)|`2025-07-30 21:39:00`|`Rust`|
 |[Nebula Connection Failed at Login when using Fiddler&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/709967-nebula-connection-failed-login-using-fiddler.html)|`2025-07-30 21:27:00`|`Payday 3`|
 |[valo unban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709435-valo-unban.html)|`2025-07-30 21:06:00`|`Valorant`|
