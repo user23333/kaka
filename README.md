@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lightmoon V2 &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709987-lightmoon-v2-external.html)|`2025-07-31 05:58:00`|`Counter-Strike 2`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-07-31 05:57:00`|`Other FPS Games`|
+|[Kernel Driver BSODS after Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711427-kernel-driver-bsods-update.html)|`2025-07-31 05:55:00`|`Counter-Strike 2`|
+|[Bypassing BE for CE &#40;almost&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699064-bypassing-ce.html)|`2025-07-31 05:53:00`|`Anti-Cheat Bypass`|
 |[Executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/711426-executor.html)|`2025-07-31 05:50:00`|`Alternative Online Mods`|
 |[Ban evasion &#43; steam linked to EA acc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/711425-ban-evasion-steam-linked-ea-acc.html)|`2025-07-31 05:17:00`|`Battlefield 2042`|
 |[Valve hwid tracking for trust factor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711060-valve-hwid-tracking-trust-factor.html)|`2025-07-31 04:49:00`|`Counter-Strike 2`|
