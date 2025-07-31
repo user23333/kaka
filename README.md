@@ -29,9 +29,14 @@
 |7|[GHaxV3&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50573)|`2025-07-31 00:00:04`|
 |6|[GHaxV3&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50572)|`2025-07-31 00:00:04`|
 |9|[peak&#46;ct](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50571)|`2025-07-31 00:00:04`|
+|1|[&#43;&#43;Fortnite&#43;Release&#45;36&#46;30&#45;CL&#45;44367537](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50619)|`2025-07-31 21:47:57`|
+|7|[valorant 5&#46;3 ue update sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50618)|`2025-07-31 21:47:57`|
+|7|[valorant 5&#46;3 ue update sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50617)|`2025-07-31 21:47:57`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[POLYGON basic external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710575-polygon-basic-external.html)|`2025-07-31 21:41:00`|`Other FPS Games`|
+|[TREVOR V2 &#124; Simple & Secure GUI &#46;DLL Injector for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708373-trevor-v2-simple-secure-gui-dll-injector-cs2.html)|`2025-07-31 21:33:00`|`Counter-Strike 2`|
 |[Problem with signatures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711506-signatures.html)|`2025-07-31 21:02:00`|`Counter-Strike 2`|
 |[swapchain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711504-swapchain.html)|`2025-07-31 20:58:00`|`Counter-Strike 2`|
 |[Marvel Rivals Colorbot&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/709989-marvel-rivals-colorbot.html)|`2025-07-31 20:56:00`|`Marvel Rivals`|
