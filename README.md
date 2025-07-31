@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ANEURISM IV &#45; Steam game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691595-aneurism-iv-steam-game.html)|`2025-08-01 06:55:00`|`Other Games`|
 |[Kernel Driver BSODS after Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711427-kernel-driver-bsods-update.html)|`2025-08-01 06:48:00`|`Counter-Strike 2`|
 |[Mage Arena](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711077-mage-arena.html)|`2025-08-01 06:48:00`|`Other FPS Games`|
 |[makcu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711614-makcu.html)|`2025-08-01 06:41:00`|`Valorant`|
