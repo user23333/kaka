@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA Radar/Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/697254-dma-radar-fuser.html)|`2025-07-31 22:24:00`|`DayZ SA`|
+|[How can I create an ESP that won't be detected by Vac?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711558-create-esp-wont-detected-vac.html)|`2025-07-31 22:23:00`|`Counter-Strike 2`|
+|[Best way to handle triggerbot input?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711371-handle-triggerbot-input.html)|`2025-07-31 22:22:00`|`Counter-Strike 2`|
+|[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2025-07-31 22:17:00`|`Counter-Strike 2`|
 |[&#91;LINUX&#93; Dune Awakening Simple external ESP Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710801-linux-dune-awakening-simple-external-esp-base.html)|`2025-07-31 21:50:00`|`Other FPS Games`|
 |[POLYGON basic external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710575-polygon-basic-external.html)|`2025-07-31 21:41:00`|`Other FPS Games`|
 |[TREVOR V2 &#124; Simple & Secure GUI &#46;DLL Injector for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708373-trevor-v2-simple-secure-gui-dll-injector-cs2.html)|`2025-07-31 21:33:00`|`Counter-Strike 2`|
