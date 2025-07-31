@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[playing while steam offline](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/711565-playing-steam-offline.html)|`2025-07-31 23:12:00`|`Team Fortress 2`|
+|[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2025-07-31 23:08:00`|`Elite: Dangerous`|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-07-31 23:02:00`|`HELLDIVERS 2`|
+|[Need help in this code for grenade](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/711563-help-code-grenade.html)|`2025-07-31 23:00:00`|`PUBG Mobile`|
 |[SastashaFied Bo1 SP/ZM Mod Menu for Plutonium T5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/710176-sastashafied-bo1-sp-zm-mod-menu-plutonium-t5.html)|`2025-07-31 22:40:00`|`Call of Duty: Black Ops`|
 |[DMA Radar/Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/697254-dma-radar-fuser.html)|`2025-07-31 22:24:00`|`DayZ SA`|
 |[How can I create an ESP that won't be detected by Vac?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711558-create-esp-wont-detected-vac.html)|`2025-07-31 22:23:00`|`Counter-Strike 2`|
