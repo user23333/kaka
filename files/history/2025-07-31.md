@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[edit hook main&#46;cpp file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/711053-edit-hook-main-cpp-file.html)|`2025-07-31 08:42:00`|`PUBG Mobile`|
+|[ARK: Survial Ascended](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694202-ark-survial-ascended.html)|`2025-07-31 08:39:00`|`Other FPS Games`|
+|[R/W BSOD with Shared Memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/711312-bsod-shared-memory.html)|`2025-07-31 08:31:00`|`C and C++`|
+|[D3D11 ImGui Gone, Alt&#43;Tab Res Change](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/711133-d3d11-imgui-gone-alt-tab-res-change.html)|`2025-07-31 08:29:00`|`C and C++`|
+|[Sub Rosa ESP &#40;JPXS&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705609-sub-rosa-esp-jpxs.html)|`2025-07-31 08:28:00`|`Other FPS Games`|
 |[Is there a good skin unlocker in Siege X?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706479-skin-unlocker-siege.html)|`2025-07-31 07:53:00`|`Rainbow Six Siege`|
 |[The Future of Rainbow 6 Recoil Scripts&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/710846-future-rainbow-6-recoil-scripts.html)|`2025-07-31 07:51:00`|`Rainbow Six Siege`|
 |[Making a DMA Web Based Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710398-dma-web-based-radar.html)|`2025-07-31 07:48:00`|`Rust`|
