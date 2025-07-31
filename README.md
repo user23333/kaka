@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Colorbot Logic with no STUTTER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709934-valorant-colorbot-logic-stutter.html)|`2025-07-31 15:18:00`|`Valorant`|
+|[Blue Archive Steam ver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/708972-blue-archive-steam-ver.html)|`2025-07-31 15:11:00`|`Other MMORPG and Strategy`|
+|[Fivem Spoofer hwid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/709798-fivem-spoofer-hwid.html)|`2025-07-31 14:59:00`|`Alternative Online Mods`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-07-31 14:57:00`|`Other FPS Games`|
 |[Autoupdating NoRecoil and NoSpread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/678646-autoupdating-norecoil-nospread.html)|`2025-07-31 14:54:00`|`Rainbow Six Siege`|
 |[CS2 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/614111-cs2-internal-cheat.html)|`2025-07-31 14:47:00`|`Counter-Strike 2`|
