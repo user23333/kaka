@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-08-01 04:48:00`|`Playerunknown's Battlegrounds`|
+|[W2S Issue &#45; ESP Issue &#45; Mage Arena](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711073-w2s-issue-esp-issue-mage-arena.html)|`2025-08-01 04:44:00`|`Other FPS Games`|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-08-01 04:38:00`|`Grand Theft Auto V`|
+|[Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/703107-internal.html)|`2025-08-01 04:37:00`|`Overwatch`|
 |[legit external w radio &#40;awesome&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710908-legit-external-radio-awesome.html)|`2025-08-01 04:27:00`|`Counter-Strike 2`|
 |[MM'd DLL crashes when using UCRT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/711605-mmd-dll-crashes-using-ucrt.html)|`2025-08-01 04:26:00`|`General Programming and Reversing`|
 |[Decrypting encrypted Battle Eye Shellcode Reports &#45; rand](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/711604-decrypting-encrypted-battle-eye-shellcode-reports-rand.html)|`2025-08-01 04:21:00`|`Anti-Cheat Bypass`|
