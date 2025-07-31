@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-07-31 10:47:00`|`Other Games`|
+|[Fixed "mouse&#95;open" for MouseClassServiceCallbackTrick](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710391-fixed-mouse_open-mouseclassservicecallbacktrick.html)|`2025-07-31 10:46:00`|`Anti-Cheat Bypass`|
 |[edit hook main&#46;cpp file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/711053-edit-hook-main-cpp-file.html)|`2025-07-31 08:42:00`|`PUBG Mobile`|
 |[ARK: Survial Ascended](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694202-ark-survial-ascended.html)|`2025-07-31 08:39:00`|`Other FPS Games`|
 |[R/W BSOD with Shared Memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/711312-bsod-shared-memory.html)|`2025-07-31 08:31:00`|`C and C++`|
