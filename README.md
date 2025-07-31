@@ -13,6 +13,7 @@
 |5|[Human Mouse Movement with AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710600-human-mouse-movement-ai.html)|`2025-07-31 00:00:04`|`anti-cheat-bypass`|
 |7|[The Future of Rainbow 6 Recoil Scripts&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/710846-future-rainbow-6-recoil-scripts.html)|`2025-07-31 02:33:20`|`rainbow-six-siege`|
 |6|[Grounded 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/711252-grounded-2-a.html)|`2025-07-31 03:59:38`|`cheat-engine-tables`|
+|5|[legit external w radio &#40;awesome&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710908-legit-external-radio-awesome.html)|`2025-07-31 17:50:29`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
