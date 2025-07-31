@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Grounded 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/711252-grounded-2-a.html)|`2025-08-01 02:40:00`|`Cheat Engine Tables`|
+|[Turtle WoW Multihack Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/world-of-warcraft/710080-turtle-wow-multihack-internal.html)|`2025-08-01 02:20:00`|`World of Warcraft`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-08-01 02:17:00`|`Other FPS Games`|
 |[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-08-01 02:17:00`|`Other FPS Games`|
 |[free undetected antiflash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711588-free-undetected-antiflash.html)|`2025-08-01 02:14:00`|`Valorant`|
 |[My colorbot is not accurate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711316-colorbot-accurate.html)|`2025-08-01 02:14:00`|`Valorant`|
