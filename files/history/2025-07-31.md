@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Emulate a controller for aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/688502-emulate-controller-aim-assist.html)|`2025-07-31 14:23:00`|`THE FINALS`|
+|[How to get started](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/711027-started.html)|`2025-07-31 14:22:00`|`Forum General`|
+|[Updated CS2 Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711462-updated-cs2-dumper.html)|`2025-07-31 14:17:00`|`Counter-Strike 2`|
+|[Do You Love Crypto?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/673834-love-crypto.html)|`2025-07-31 14:17:00`|`Off Topic`|
+|[Obtaining Recoil Pattern](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/711322-obtaining-recoil-pattern.html)|`2025-07-31 14:16:00`|`Rust`|
 |[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2025-07-31 13:03:00`|`HELLDIVERS 2`|
 |[Umamusume: Pretty Derby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/707493-umamusume-pretty-derby.html)|`2025-07-31 12:54:00`|`Other MMORPG and Strategy`|
 |[Call of Duty: Modern Warfare II Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-ii/514893-call-duty-modern-warfare-ii-reversal-structs-offsets.html)|`2025-07-31 12:37:00`|`Call of Duty: Modern Warfare II`|
