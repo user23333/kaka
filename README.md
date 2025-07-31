@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Future of Rainbow 6 Recoil Scripts&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/710846-future-rainbow-6-recoil-scripts.html)|`2025-08-01 03:19:00`|`Rainbow Six Siege`|
+|[swapchain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711504-swapchain.html)|`2025-08-01 03:11:00`|`Counter-Strike 2`|
+|[Any 2Take1 lookalike for GA Enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/711595-2take1-lookalike-ga-enhanced.html)|`2025-08-01 03:10:00`|`Grand Theft Auto V`|
 |[external viewmodel chams &#40;kinda&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710401-external-viewmodel-chams-kinda.html)|`2025-08-01 02:59:00`|`Counter-Strike 2`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-08-01 02:57:00`|`Counter-Strike 2`|
 |[Need help in this code for grenade](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/711563-help-code-grenade.html)|`2025-08-01 02:55:00`|`PUBG Mobile`|
