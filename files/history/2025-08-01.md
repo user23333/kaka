@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[legit external w radio &#40;awesome&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710908-legit-external-radio-awesome.html)|`2025-08-01 04:27:00`|`Counter-Strike 2`|
+|[MM'd DLL crashes when using UCRT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/711605-mmd-dll-crashes-using-ucrt.html)|`2025-08-01 04:26:00`|`General Programming and Reversing`|
+|[Decrypting encrypted Battle Eye Shellcode Reports &#45; rand](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/711604-decrypting-encrypted-battle-eye-shellcode-reports-rand.html)|`2025-08-01 04:21:00`|`Anti-Cheat Bypass`|
 |[Palworld Internal DX11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/710102-palworld-internal-dx11.html)|`2025-08-01 04:05:00`|`Palworld`|
 |[Chivalry 2 Heaveyweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689993-chivalry-2-heaveyweight-cheat.html)|`2025-08-01 04:04:00`|`Other Games`|
 |[russian account vpn bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/711470-russian-account-vpn-bypass.html)|`2025-08-01 03:55:00`|`Escape from Tarkov`|
