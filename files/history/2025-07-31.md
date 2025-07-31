@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[rustDMA&#45;imgui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708252-rustdma-imgui.html)|`2025-07-31 23:48:00`|`Rust`|
+|[nametags in ghostclient &#40;DLL injected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/711572-nametags-ghostclient-dll-injected.html)|`2025-07-31 23:44:00`|`Minecraft`|
+|[SEOwned x64 fixed for new tf2 update&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/691125-seowned-x64-fixed-tf2-update.html)|`2025-07-31 23:38:00`|`Team Fortress 2`|
 |[Turtle WoW Multihack Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/world-of-warcraft/710080-turtle-wow-multihack-internal.html)|`2025-07-31 23:38:00`|`World of Warcraft`|
 |[does anticheatexpert ban ram？](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/674909-anticheatexpert-ban-ram.html)|`2025-07-31 23:34:00`|`Anti-Cheat Bypass`|
 |[Chivalry 2 CHEAT AF4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/710526-chivalry-2-cheat-af4.html)|`2025-07-31 23:32:00`|`Other Games`|
