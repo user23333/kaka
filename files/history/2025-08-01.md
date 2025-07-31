@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[russian account vpn bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/711470-russian-account-vpn-bypass.html)|`2025-08-01 03:55:00`|`Escape from Tarkov`|
+|[Any up to date linux cheats for TF2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/700036-date-linux-cheats-tf2.html)|`2025-08-01 03:55:00`|`Team Fortress 2`|
 |[The Future of Rainbow 6 Recoil Scripts&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/710846-future-rainbow-6-recoil-scripts.html)|`2025-08-01 03:19:00`|`Rainbow Six Siege`|
 |[swapchain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711504-swapchain.html)|`2025-08-01 03:11:00`|`Counter-Strike 2`|
 |[Any 2Take1 lookalike for GA Enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/711595-2take1-lookalike-ga-enhanced.html)|`2025-08-01 03:10:00`|`Grand Theft Auto V`|
