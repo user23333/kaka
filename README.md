@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Colorbot&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/709989-marvel-rivals-colorbot.html)|`2025-08-01 20:43:00`|`Marvel Rivals`|
+|[Console Cheat BO6 / PS5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/711679-console-cheat-bo6-ps5.html)|`2025-08-01 20:30:00`|`Call of Duty: Black Ops 6`|
 |[Lightmoon V2 &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709987-lightmoon-v2-external.html)|`2025-08-01 20:18:00`|`Counter-Strike 2`|
 |[Overlay not showing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/711676-overlay.html)|`2025-08-01 19:54:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Class Informer IDA 9&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/711675-class-informer-ida-9-2-a.html)|`2025-08-01 19:43:00`|`General Programming and Reversing`|
