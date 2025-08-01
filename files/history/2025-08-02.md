@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Getting player money information](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711656-getting-player-money-information.html)|`2025-08-02 02:44:00`|`Counter-Strike 2`|
 |[About VAC Live cooldown levels](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711692-vac-live-cooldown-levels.html)|`2025-08-02 02:30:00`|`Counter-Strike 2`|
 |[Buffer list problems and how to locate?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/711716-buffer-list-locate.html)|`2025-08-02 02:29:00`|`Rust`|
 |[new to cheating help me plz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/711098-cheating-help-plz.html)|`2025-08-02 02:25:00`|`Star Wars Battlefront 2`|
