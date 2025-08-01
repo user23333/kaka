@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Create a bypass for PC&#45;Checks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/711733-create-bypass-pc-checks.html)|`2025-08-02 05:28:00`|`Alternative Online Mods`|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-08-02 05:28:00`|`Other Games`|
+|[Secure Boot popup Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711499-secure-boot-popup-bypass.html)|`2025-08-02 05:22:00`|`Valorant`|
+|[how long last slot ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/711731-slot-ban.html)|`2025-08-02 05:21:00`|`Grand Theft Auto V`|
+|[What lib do y'all use ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-/711172-lib-yall.html)|`2025-08-02 05:20:00`|`C#`|
+|[Bot Lobby Discussion – Share Working Methods &#40;2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/711730-bot-lobby-discussion-share-methods-2025-a.html)|`2025-08-02 05:14:00`|`Apex Legends`|
 |[Can vanguard detect a CS2 Kernel cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709194-vanguard-detect-cs2-kernel-cheat.html)|`2025-08-02 05:13:00`|`Counter-Strike 2`|
 |[Where do I start?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/711677-start.html)|`2025-08-02 05:09:00`|`General Programming and Reversing`|
 |[ネコちゃん &#124;「 ✦ Neko Triggerbot✦ 」 &#124; ネコちゃん](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706894-neko-triggerbot.html)|`2025-08-02 05:07:00`|`Valorant`|
