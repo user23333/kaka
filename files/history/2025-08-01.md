@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-08-01 13:44:00`|`Grand Theft Auto V`|
+|[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-08-01 13:43:00`|`HELLDIVERS 2`|
 |[user input interceptor or emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/711622-user-input-interceptor-emulation.html)|`2025-08-01 12:46:00`|`Anti-Cheat Bypass`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-08-01 12:38:00`|`Grand Theft Auto V`|
 |[YIM 2&#46;0/2&#46;1 Download & Compatibility with GTA V Legacy/Enhanced Patch 1&#46;71](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/711263-yim-2-0-2-1-download-compatibility-gta-legacy-enhanced-patch-1-71-a.html)|`2025-08-01 12:32:00`|`Grand Theft Auto V`|
