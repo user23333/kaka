@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any free unlock all that are legit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/711428-free-unlock-legit.html)|`2025-08-01 17:14:00`|`Call of Duty: Black Ops 6`|
+|[TREVOR V2 &#124; Simple & Secure GUI &#46;DLL Injector for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708373-trevor-v2-simple-secure-gui-dll-injector-cs2.html)|`2025-08-01 17:06:00`|`Counter-Strike 2`|
+|[TPM/Secure Boot Bypass with WARP Not Working Anymore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711104-tpm-secure-boot-bypass-warp-anymore.html)|`2025-08-01 17:05:00`|`Valorant`|
+|[PUBG No Recoil for all Mouse &#45; UMCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/711277-pubg-recoil-mouse-umcs.html)|`2025-08-01 17:01:00`|`PUBG Releases`|
+|[How to get EntityList, PlayerName, steamID of CS2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710815-entitylist-playername-steamid-cs2.html)|`2025-08-01 17:00:00`|`Counter-Strike 2`|
 |[Buy Silent Aim source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/711625-buy-silent-aim-source.html)|`2025-08-01 16:57:00`|`Marvel Rivals`|
 |[Rememento: White Shadow Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/709701-rememento-white-shadow-cheat.html)|`2025-08-01 16:54:00`|`Cheat Engine Tables`|
 |[ACE External Cheats detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/710685-ace-external-cheats-detection.html)|`2025-08-01 16:38:00`|`PUBG Mobile`|
