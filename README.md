@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cannot find entity list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711736-entity-list.html)|`2025-08-02 06:13:00`|`Counter-Strike 2`|
+|[From coding to hacking: An introduction guide to practical &#40;external&#41; game hacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/267073-coding-hacking-introduction-guide-practical-external-game-hacking.html)|`2025-08-02 06:05:00`|`Programming for Beginners`|
+|[Cant launch any heists with friends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/711696-cant-launch-heists-friends.html)|`2025-08-02 06:01:00`|`Grand Theft Auto V`|
+|[streaming files dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/711617-streaming-files-dumper.html)|`2025-08-02 05:58:00`|`Alternative Online Mods`|
 |[MM'd DLL crashes when using UCRT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/711605-mmd-dll-crashes-using-ucrt.html)|`2025-08-02 05:40:00`|`General Programming and Reversing`|
 |[Create a bypass for PC&#45;Checks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/711733-create-bypass-pc-checks.html)|`2025-08-02 05:28:00`|`Alternative Online Mods`|
 |[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-08-02 05:28:00`|`Other Games`|
