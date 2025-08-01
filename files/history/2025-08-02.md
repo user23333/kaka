@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-08-02 01:44:00`|`Overwatch`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-08-02 01:40:00`|`Grand Theft Auto V`|
+|[Spider Free External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/711201-spider-free-external.html)|`2025-08-02 01:37:00`|`Alternative Online Mods`|
+|[Looking for Hook/Injector Compatible with New UE5 Update &#40;Valorant&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711669-looking-hook-injector-compatible-ue5-update-valorant.html)|`2025-08-02 01:36:00`|`Valorant`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-08-02 01:29:00`|`Other FPS Games`|
 |[FSL guide and answers of common questions &#40;Legacy & E&E&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692331-fsl-guide-answers-common-questions-legacy.html)|`2025-08-02 01:22:00`|`Grand Theft Auto V`|
 |[cs2 pattern](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711710-cs2-pattern.html)|`2025-08-02 01:22:00`|`Counter-Strike 2`|
 |[Directional ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711653-directional-esp.html)|`2025-08-02 01:20:00`|`Counter-Strike 2`|
