@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal Features Share Spinbot,Magicbullet &#46;&#46;&#46;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710291-internal-features-share-spinbot-magicbullet.html)|`2025-08-01 18:43:00`|`Valorant`|
+|[Previous Objective in COOP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/711590-previous-objective-coop.html)|`2025-08-01 18:37:00`|`Star Wars Battlefront 2`|
+|[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2025-08-01 18:37:00`|`Other FPS Games`|
 |[Any free unlock all that are legit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/711428-free-unlock-legit.html)|`2025-08-01 17:14:00`|`Call of Duty: Black Ops 6`|
 |[TREVOR V2 &#124; Simple & Secure GUI &#46;DLL Injector for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708373-trevor-v2-simple-secure-gui-dll-injector-cs2.html)|`2025-08-01 17:06:00`|`Counter-Strike 2`|
 |[TPM/Secure Boot Bypass with WARP Not Working Anymore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711104-tpm-secure-boot-bypass-warp-anymore.html)|`2025-08-01 17:05:00`|`Valorant`|
