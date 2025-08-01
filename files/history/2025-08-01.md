@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Directional ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711653-directional-esp.html)|`2025-08-01 14:26:00`|`Counter-Strike 2`|
+|[How do I resolve the BSG launcher ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/711621-resolve-bsg-launcher-ban.html)|`2025-08-01 14:10:00`|`Escape from Tarkov`|
 |[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-08-01 13:44:00`|`Grand Theft Auto V`|
 |[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-08-01 13:43:00`|`HELLDIVERS 2`|
 |[user input interceptor or emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/711622-user-input-interceptor-emulation.html)|`2025-08-01 12:46:00`|`Anti-Cheat Bypass`|
