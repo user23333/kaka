@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ACE External Cheats detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/710685-ace-external-cheats-detection.html)|`2025-08-01 16:38:00`|`PUBG Mobile`|
+|[bonematrix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711365-bonematrix.html)|`2025-08-01 16:25:00`|`Counter-Strike 2`|
 |[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2025-08-01 16:00:00`|`Elite: Dangerous`|
 |[Lonesdma question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/711660-lonesdma-question.html)|`2025-08-01 15:34:00`|`Escape from Tarkov`|
 |[usb host shield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711659-usb-host-shield.html)|`2025-08-01 15:32:00`|`Valorant`|
