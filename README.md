@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AnimGraph2 and knife animations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711685-animgraph2-knife-animations.html)|`2025-08-01 22:22:00`|`Counter-Strike 2`|
+|[Co&#45;op Checkpoint Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-ii/709396-co-op-checkpoint-cheat.html)|`2025-08-01 22:20:00`|`Call of Duty: Modern Warfare II`|
+|[offset unturned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/710990-offset-unturned.html)|`2025-08-01 22:19:00`|`Other Games`|
 |[Van Restriction Windows build](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711682-van-restriction-windows-build.html)|`2025-08-01 21:54:00`|`Valorant`|
 |[Dayz pc dupe &#40;NOT PATCHED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/704228-dayz-pc-dupe-patched.html)|`2025-08-01 21:26:00`|`DayZ SA`|
 |[trigger bot via raspberry pi pico](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711151-trigger-bot-via-raspberry-pi-pico.html)|`2025-08-01 21:20:00`|`Valorant`|
