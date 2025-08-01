@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-08-02 03:09:00`|`Counter-Strike 2 Releases`|
+|[TPM/Secure Boot Bypass with WARP Not Working Anymore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711104-tpm-secure-boot-bypass-warp-anymore.html)|`2025-08-02 03:06:00`|`Valorant`|
+|[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-08-02 02:58:00`|`Sea of Thieves`|
+|[Mage Arena Simple Hack &#45; Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711721-mage-arena-simple-hack-python.html)|`2025-08-02 02:57:00`|`Other FPS Games`|
+|[Console Cheat BO6 / PS5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/711679-console-cheat-bo6-ps5.html)|`2025-08-02 02:56:00`|`Call of Duty: Black Ops 6`|
 |[Getting player money information](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711656-getting-player-money-information.html)|`2025-08-02 02:44:00`|`Counter-Strike 2`|
 |[About VAC Live cooldown levels](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711692-vac-live-cooldown-levels.html)|`2025-08-02 02:30:00`|`Counter-Strike 2`|
 |[Buffer list problems and how to locate?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/711716-buffer-list-locate.html)|`2025-08-02 02:29:00`|`Rust`|
