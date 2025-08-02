@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rememento: White Shadow Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/709701-rememento-white-shadow-cheat.html)|`2025-08-02 14:43:00`|`Cheat Engine Tables`|
+|[AnimGraph2 and knife animations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711685-animgraph2-knife-animations.html)|`2025-08-02 14:43:00`|`Counter-Strike 2`|
+|[Legion TD 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/709784-legion-td-2-a.html)|`2025-08-02 14:42:00`|`Other MMORPG and Strategy`|
 |[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-08-02 14:18:00`|`Other FPS Games`|
 |[DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/711772-dma.html)|`2025-08-02 14:11:00`|`Call of Duty: Black Ops 6`|
 |[W2S Problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711771-w2s.html)|`2025-08-02 14:08:00`|`Counter-Strike 2`|
