@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to get playerName?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711802-playername.html)|`2025-08-02 21:35:00`|`Counter-Strike 2`|
+|[Looking for R6 injector&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/711803-looking-r6-injector.html)|`2025-08-02 21:33:00`|`Rainbow Six Siege`|
+|[Yimmenu GTA V Legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/710672-yimmenu-gta-legacy.html)|`2025-08-02 21:29:00`|`Grand Theft Auto V`|
 |[Bypass Anti&#45;Cheat   Genshin Impact 5&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/658478-bypass-anti-cheat-genshin-impact-5-0-a.html)|`2025-08-02 20:46:00`|`Genshin Impact`|
 |[Entity List not being found from client entities? &#91;HELP&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/711799-entity-list-found-client-entities-help.html)|`2025-08-02 20:42:00`|`Rust`|
 |[Cursor AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/711797-cursor-ai.html)|`2025-08-02 20:29:00`|`General Programming and Reversing`|
