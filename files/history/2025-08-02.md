@@ -36,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[hi](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/711707-hi.html)|`2025-08-02 17:23:00`|`Introductions`|
+|[Best way to hide dll in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/711305-hide-dll-2025-a.html)|`2025-08-02 17:23:00`|`Anti-Cheat Bypass`|
+|[Killing floor 3 Easy Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710892-killing-floor-3-easy-cheat.html)|`2025-08-02 17:11:00`|`Other FPS Games`|
+|[Kernel Section Creation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/708034-kernel-section-creation.html)|`2025-08-02 17:09:00`|`General Programming and Reversing`|
+|[YIM 2&#46;0/2&#46;1 Download & Compatibility with GTA V Legacy/Enhanced Patch 1&#46;71](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/711263-yim-2-0-2-1-download-compatibility-gta-legacy-enhanced-patch-1-71-a.html)|`2025-08-02 17:01:00`|`Grand Theft Auto V`|
 |[Inventory: Knives and Gloves problem after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711778-inventory-knives-gloves-update.html)|`2025-08-02 16:20:00`|`Counter-Strike 2`|
 |[Auto Update External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/614771-auto-update-external.html)|`2025-08-02 16:11:00`|`Overwatch`|
 |[How to get started](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/711027-started.html)|`2025-08-02 16:02:00`|`Forum General`|
