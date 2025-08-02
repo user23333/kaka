@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat base question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/711097-cheat-base-question.html)|`2025-08-03 02:21:00`|`Team Fortress 2`|
+|[Inventory: Knives and Gloves problem after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711778-inventory-knives-gloves-update.html)|`2025-08-03 02:12:00`|`Counter-Strike 2`|
+|[Combat Master Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/708468-combat-master-internal.html)|`2025-08-03 02:11:00`|`Combat Master`|
+|[RP2040 fixes, ARDUINO 1PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710630-rp2040-fixes-arduino-1pc.html)|`2025-08-03 01:49:00`|`Valorant`|
 |[Getting BaseNetworkable Chain And Decryptions For Begginers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710345-getting-basenetworkable-chain-decryptions-begginers.html)|`2025-08-03 01:56:00`|`Rust`|
 |[BetterAimAssist: Valorant aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682003-betteraimassist-valorant-aim-assist.html)|`2025-08-03 01:51:00`|`Valorant`|
 |[Crew Level &#40;GTAHaX&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/355679-crew-level-gtahax.html)|`2025-08-03 01:48:00`|`Grand Theft Auto V`|
