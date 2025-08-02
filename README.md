@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2025-08-02 23:09:00`|`Counter-Strike 2 Releases`|
+|[Hypervisor &#43; TCP server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/711810-hypervisor-tcp-server.html)|`2025-08-02 23:07:00`|`Call of Duty: Black Ops 6`|
+|[Strafe hack strafe direction how to minimize](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/711687-strafe-hack-strafe-direction-minimize.html)|`2025-08-02 23:03:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-08-02 22:46:00`|`Other FPS Games`|
 |[OW2 cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/703434-ow2-cheats.html)|`2025-08-02 22:39:00`|`Overwatch`|
 |[Remove yourself from demos?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/710388-remove-yourself-demos.html)|`2025-08-02 22:36:00`|`Call of Duty: Black Ops 2`|
