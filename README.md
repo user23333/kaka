@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Physical Read TranslateLinearAddress fails on PDPTE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/711471-physical-read-translatelinearaddress-fails-pdpte.html)|`2025-08-03 05:39:00`|`Apex Legends`|
+|[GoodDiePUBG &#45; PUBG 3&#46;9 Emulator Hack Source and Release &#40;server/client&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708956-gooddiepubg-pubg-3-9-emulator-hack-source-release-server-client.html)|`2025-08-03 05:38:00`|`PUBG Mobile`|
 |[YIM 2&#46;0/2&#46;1 Download & Compatibility with GTA V Legacy/Enhanced Patch 1&#46;71](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/711263-yim-2-0-2-1-download-compatibility-gta-legacy-enhanced-patch-1-71-a.html)|`2025-08-03 05:16:00`|`Grand Theft Auto V`|
 |[Palworld Internal DX11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/710102-palworld-internal-dx11.html)|`2025-08-03 05:12:00`|`Palworld`|
 |[Candy Crush Saga &#40;Windows Store Version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/711508-candy-crush-saga-windows-store-version.html)|`2025-08-03 05:11:00`|`Cheat Engine Tables`|
