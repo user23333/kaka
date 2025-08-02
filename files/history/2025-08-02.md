@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cod Finally Started Hwid Bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/711249-cod-finally-started-hwid-bans.html)|`2025-08-02 09:24:00`|`Call of Duty: Black Ops 6`|
+|[free undetected antiflash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711588-free-undetected-antiflash.html)|`2025-08-02 09:11:00`|`Valorant`|
+|[Battleye kicks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/711465-battleye-kicks.html)|`2025-08-02 08:41:00`|`Grand Theft Auto V`|
+|[PUBG No Recoil for all Mouse &#45; UMCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/711277-pubg-recoil-mouse-umcs.html)|`2025-08-02 08:41:00`|`PUBG Releases`|
+|[Palworld Internal DX11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/710102-palworld-internal-dx11.html)|`2025-08-02 08:35:00`|`Palworld`|
 |[Fixed "mouse&#95;open" for MouseClassServiceCallbackTrick](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710391-fixed-mouse_open-mouseclassservicecallbacktrick.html)|`2025-08-02 07:47:00`|`Anti-Cheat Bypass`|
 |[Solid KM External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708215-solid-km-external.html)|`2025-08-02 07:35:00`|`Counter-Strike 2`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-08-02 07:31:00`|`ARMA 3`|
