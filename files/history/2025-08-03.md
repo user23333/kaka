@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Request Certain Mods Here](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/462657-request-mods.html)|`2025-08-03 06:33:00`|`Payday 2`|
+|[External Valorant Cheat DTC&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711851-external-valorant-cheat-dtc.html)|`2025-08-03 06:26:00`|`Valorant`|
+|[hyper&#45;reV &#45; memory introspection &#43; reverse engineering powered by leveraging Hyper&#45;V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709634-hyper-rev-memory-introspection-reverse-engineering-powered-leveraging-hyper.html)|`2025-08-03 06:21:00`|`Anti-Cheat Bypass`|
+|[How do I resolve the BSG launcher ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/711621-resolve-bsg-launcher-ban.html)|`2025-08-03 06:16:00`|`Escape from Tarkov`|
+|[Remove Head Bobbing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/711757-remove-head-bobbing.html)|`2025-08-03 06:14:00`|`Escape from Tarkov`|
 |[GFAC dropped](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/711352-gfac-dropped.html)|`2025-08-03 06:00:00`|`All Points Bulletin`|
 |[Bo6/ console](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/701365-bo6-console.html)|`2025-08-03 05:57:00`|`Call of Duty: Black Ops 6`|
 |[please help with integration of m&#95;bSpotted for a simple visibility check&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711847-please-help-integration-m_bspotted-simple-visibility-check.html)|`2025-08-03 05:48:00`|`Counter-Strike 2`|
