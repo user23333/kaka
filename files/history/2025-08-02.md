@@ -11,6 +11,7 @@
 |32|[TPM/Secure Boot Bypass with WARP Not Working Anymore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711104-tpm-secure-boot-bypass-warp-anymore.html)|`2025-08-02 00:22:14`|`valorant`|
 |20|[R6S External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/711453-r6s-external-base.html)|`2025-08-02 00:22:14`|`rainbow-six-siege`|
 |6|[cheat broken after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711153-cheat-broken-update.html)|`2025-08-02 00:22:14`|`counter-strike-2-a`|
+|9|[YIM 2&#46;0/2&#46;1 Download & Compatibility with GTA V Legacy/Enhanced Patch 1&#46;71](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/711263-yim-2-0-2-1-download-compatibility-gta-legacy-enhanced-patch-1-71-a.html)|`2025-08-02 11:05:27`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Python Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/633657-cs2-python-cheat.html)|`2025-08-02 10:54:00`|`Counter-Strike 2 Releases`|
+|[Deadlocked &#45; External Multi Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/711759-deadlocked-external-multi-cheat.html)|`2025-08-02 10:46:00`|`Deadlock`|
+|[How to Make Permanent Advanced UAV &#40;Read Only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/710574-permanent-advanced-uav-read.html)|`2025-08-02 10:45:00`|`Call of Duty: Black Ops 6`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-08-02 09:51:00`|`Escape from Tarkov`|
 |[Cod Finally Started Hwid Bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/711249-cod-finally-started-hwid-bans.html)|`2025-08-02 09:24:00`|`Call of Duty: Black Ops 6`|
 |[free undetected antiflash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711588-free-undetected-antiflash.html)|`2025-08-02 09:11:00`|`Valorant`|
 |[Battleye kicks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/711465-battleye-kicks.html)|`2025-08-02 08:41:00`|`Grand Theft Auto V`|
