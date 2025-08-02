@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Please, I really need help 🙏🏼](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/711785-please-help.html)|`2025-08-02 17:35:00`|`Call of Duty: Black Ops 6`|
+|[edit hook main&#46;cpp file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/711053-edit-hook-main-cpp-file.html)|`2025-08-02 17:31:00`|`PUBG Mobile`|
 |[hi](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/711707-hi.html)|`2025-08-02 17:23:00`|`Introductions`|
 |[Best way to hide dll in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/711305-hide-dll-2025-a.html)|`2025-08-02 17:23:00`|`Anti-Cheat Bypass`|
 |[Killing floor 3 Easy Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710892-killing-floor-3-easy-cheat.html)|`2025-08-02 17:11:00`|`Other FPS Games`|
