@@ -36,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bombardino Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/704529-bombardino-internal.html)|`2025-08-02 20:14:00`|`Marvel Rivals`|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-08-02 20:13:00`|`Other FPS Games`|
+|[Unturned &#45; How to spoof HWID Serials on your Mono Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/709622-unturned-spoof-hwid-serials-mono-internal.html)|`2025-08-02 20:07:00`|`Other FPS Games`|
+|[Cheating on alt while protecting main acc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/711794-cheating-alt-protecting-main-acc.html)|`2025-08-02 20:03:00`|`Team Fortress 2`|
+|[Looking for help with PS5 CODBO6 Hacks by using an elgato](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/697664-looking-help-ps5-codbo6-hacks-using-elgato.html)|`2025-08-02 20:01:00`|`Call of Duty: Black Ops 6`|
 |[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2025-08-02 19:54:00`|`Combat Arms`|
 |[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2025-08-02 19:45:00`|`Unity`|
 |[Ultimate Spoofer &#45; Advanced Stealthy HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700067-ultimate-spoofer-advanced-stealthy-hwid-spoofer.html)|`2025-08-02 19:12:00`|`Anti-Cheat Bypass`|
