@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypass Anti&#45;Cheat   Genshin Impact 5&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/658478-bypass-anti-cheat-genshin-impact-5-0-a.html)|`2025-08-02 20:46:00`|`Genshin Impact`|
+|[Entity List not being found from client entities? &#91;HELP&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/711799-entity-list-found-client-entities-help.html)|`2025-08-02 20:42:00`|`Rust`|
+|[Cursor AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/711797-cursor-ai.html)|`2025-08-02 20:29:00`|`General Programming and Reversing`|
 |[Bombardino Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/704529-bombardino-internal.html)|`2025-08-02 20:14:00`|`Marvel Rivals`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-08-02 20:13:00`|`Other FPS Games`|
 |[Unturned &#45; How to spoof HWID Serials on your Mono Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/709622-unturned-spoof-hwid-serials-mono-internal.html)|`2025-08-02 20:07:00`|`Other FPS Games`|
