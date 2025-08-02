@@ -27,9 +27,20 @@
 |9|[Primal Planet Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50591)|`2025-08-02 00:22:14`|
 |1|[candycrushsaga&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50627)|`2025-08-02 12:00:24`|
 |1|[FiveM Spider External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50602)|`2025-08-02 12:00:24`|
+|1|[RUST Macro FullPack for Logitech mouses](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50629)|`2025-08-02 12:36:34`|
+|1|[DeepSeekDriver&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50626)|`2025-08-02 12:36:34`|
+|2|[Gorilla Vs 100 Men](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50624)|`2025-08-02 12:36:34`|
+|3|[Day of the Shell Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50623)|`2025-08-02 12:36:34`|
+|2|[Sastasha Injector v0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50611)|`2025-08-02 12:36:34`|
+|1|[Ready Or Not Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50610)|`2025-08-02 12:36:34`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Blue Archive Cheat — Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/710592-blue-archive-cheat-steam.html)|`2025-08-02 12:27:00`|`Other MMORPG and Strategy`|
+|[Sastasha Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/711299-sastasha-injector.html)|`2025-08-02 12:23:00`|`General Programming and Reversing`|
+|[obfuscated lua best macro logitech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/711318-obfuscated-lua-macro-logitech.html)|`2025-08-02 12:12:00`|`Rust`|
+|[Safer Driver Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/702983-safer-driver-cheat.html)|`2025-08-02 12:11:00`|`General Programming and Reversing`|
+|[Gorilla Vs 100 Men Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/711460-gorilla-vs-100-cheat.html)|`2025-08-02 12:10:00`|`Cheat Engine Tables`|
 |[Revolution Idle Anti Cheat Bypass/Freeshop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/711124-revolution-idle-anti-cheat-bypass-freeshop.html)|`2025-08-02 11:54:00`|`Other Games`|
 |[New Updated Fully Working Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708891-updated-triggerbot.html)|`2025-08-02 11:48:00`|`Valorant`|
 |[Killing Floor 3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/710699-killing-floor-3-a.html)|`2025-08-02 11:47:00`|`Cheat Engine Tables`|
