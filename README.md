@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-08-03 10:04:00`|`Counter-Strike 2`|
+|[Bot Lobby Discussion – Share Working Methods &#40;2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/711730-bot-lobby-discussion-share-methods-2025-a.html)|`2025-08-03 09:56:00`|`Apex Legends`|
+|[Plouton &#45; A System Management Mode &#40;SMM&#41; cheat framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693225-plouton-system-management-mode-smm-cheat-framework.html)|`2025-08-03 09:53:00`|`Anti-Cheat Bypass`|
+|[Mage Arena](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711077-mage-arena.html)|`2025-08-03 09:48:00`|`Other FPS Games`|
+|[UPDATED &#33;&#33;&#33; MACRO FOR MOUSE ALL MOUSE LOGITECH](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/711760-updated-macro-mouse-mouse-logitech.html)|`2025-08-03 09:47:00`|`PUBG Releases`|
+|[W2S Issue &#45; ESP Issue &#45; Mage Arena](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711073-w2s-issue-esp-issue-mage-arena.html)|`2025-08-03 09:25:00`|`Other FPS Games`|
 |[ARMA 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/114242-arma-3-reversal-structs-offsets.html)|`2025-08-03 07:49:00`|`ARMA 3`|
 |[how long last slot ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/711731-slot-ban.html)|`2025-08-03 07:45:00`|`Grand Theft Auto V`|
 |[lua exec should be working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/711868-lua-exec.html)|`2025-08-03 07:38:00`|`Alternative Online Mods`|
