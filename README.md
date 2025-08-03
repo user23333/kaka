@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[W2S Issue &#45; ESP Issue &#45; Mage Arena](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711073-w2s-issue-esp-issue-mage-arena.html)|`2025-08-04 07:57:00`|`Other FPS Games`|
 |[Any idea why after the update my external aimbot is broken?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711842-idea-update-external-aimbot-broken.html)|`2025-08-04 07:26:00`|`Counter-Strike 2`|
 |[Mage Arena](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711077-mage-arena.html)|`2025-08-04 07:19:00`|`Other FPS Games`|
 |[Unturned Egguware w/ bypass &#91;LINUX&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/693201-unturned-egguware-bypass-linux.html)|`2025-08-04 07:07:00`|`Other FPS Games`|
