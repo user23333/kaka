@@ -29,9 +29,17 @@
 |144|[valorant 5&#46;3 ue update sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50617)|`2025-08-03 00:23:36`|
 |20|[Sastasha Injector v0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50611)|`2025-08-03 00:23:36`|
 |201|[Ready Or Not Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50610)|`2025-08-03 00:23:36`|
+|1|[IDA&#95;ClassInformer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50634)|`2025-08-03 19:14:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-08-03 19:11:00`|`Phasmophobia`|
+|[Advanced norecoil script for esp32s3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710109-advanced-norecoil-script-esp32s3.html)|`2025-08-03 19:10:00`|`Rust`|
+|[Straftat Unlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/711262-straftat-unlock.html)|`2025-08-03 19:08:00`|`Other Games`|
+|[Deadlocked &#45; External Multi Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/711759-deadlocked-external-multi-cheat.html)|`2025-08-03 19:05:00`|`Deadlock`|
+|[Phasmophobia cheat using AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/711933-phasmophobia-cheat-using-ai.html)|`2025-08-03 19:03:00`|`Phasmophobia`|
+|[Create a bypass for PC&#45;Checks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/711733-create-bypass-pc-checks.html)|`2025-08-03 19:01:00`|`Alternative Online Mods`|
+|[Class Informer IDA 9&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/711675-class-informer-ida-9-2-a.html)|`2025-08-03 18:59:00`|`General Programming and Reversing`|
 |[Arduino Colorbot with R4 WIFI and host shield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711932-arduino-colorbot-r4-wifi-host-shield.html)|`2025-08-03 18:57:00`|`Valorant`|
 |[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-08-03 18:56:00`|`Grand Theft Auto V`|
 |[GTA ONLINE ENHANCED ALL AWARDS STATS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701294-gta-online-enhanced-awards-stats.html)|`2025-08-03 18:28:00`|`Grand Theft Auto V`|
