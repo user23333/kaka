@@ -15,6 +15,7 @@
 |11|[free undetected antiflash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711588-free-undetected-antiflash.html)|`2025-08-03 03:56:13`|`valorant`|
 |11|[Best way to hide dll in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/711305-hide-dll-2025-a.html)|`2025-08-03 05:51:09`|`anti-cheat-bypass`|
 |6|[Mage Arena Simple Hack &#45; Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711721-mage-arena-simple-hack-python.html)|`2025-08-03 14:00:21`|`other-fps-games`|
+|12|[&#91;Mage Arena&#93; MagusToolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711827-mage-arena-magustoolkit.html)|`2025-08-03 18:41:17`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTA ONLINE ENHANCED ALL AWARDS STATS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701294-gta-online-enhanced-awards-stats.html)|`2025-08-03 18:28:00`|`Grand Theft Auto V`|
 |[Combat Master Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/580878-combat-master-reversal-structs-offsets.html)|`2025-08-03 18:09:00`|`Combat Master`|
 |[New Updated Fully Working Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708891-updated-triggerbot.html)|`2025-08-03 18:08:00`|`Valorant`|
 |[Visible Check for External Hack &#45; PUBG Mobile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/710704-visible-check-external-hack-pubg-mobile.html)|`2025-08-03 17:59:00`|`PUBG Mobile`|
