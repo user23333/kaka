@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Enlisted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711165-enlisted.html)|`2025-08-04 02:50:00`|`Other FPS Games`|
+|[trigger bot via raspberry pi pico](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711151-trigger-bot-via-raspberry-pi-pico.html)|`2025-08-04 02:48:00`|`Valorant`|
+|[External cheat GS/Steam WG/ECD bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/692681-external-cheat-gs-steam-wg-ecd-bypass.html)|`2025-08-04 02:48:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[CLR Hosting Detection/Prevention](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-/711982-clr-hosting-detection-prevention.html)|`2025-08-04 02:47:00`|`C#`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-08-04 02:28:00`|`Other FPS Games`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-08-04 02:24:00`|`Apex Legends`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-08-04 02:16:00`|`Grand Theft Auto V`|
