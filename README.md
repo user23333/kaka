@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypass Anti&#45;Cheat   Genshin Impact 5&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/658478-bypass-anti-cheat-genshin-impact-5-0-a.html)|`2025-08-03 22:50:00`|`Genshin Impact`|
 |[Pattern Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/711158-pattern-dump.html)|`2025-08-03 22:32:00`|`Rust`|
 |[EAC firmware wave ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/711953-eac-firmware-wave-ban.html)|`2025-08-03 22:25:00`|`Rust`|
 |[Chiverly 2 Mod loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711952-chiverly-2-mod-loader.html)|`2025-08-03 22:20:00`|`Other FPS Games`|
