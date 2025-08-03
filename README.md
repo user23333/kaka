@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino Colorbot with R4 WIFI and host shield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711932-arduino-colorbot-r4-wifi-host-shield.html)|`2025-08-04 01:57:00`|`Valorant`|
+|[ARMA 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/114242-arma-3-reversal-structs-offsets.html)|`2025-08-04 01:55:00`|`ARMA 3`|
 |[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2025-08-04 01:49:00`|`Counter-Strike 2 Releases`|
 |[Cheating on alt while protecting main acc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/711794-cheating-alt-protecting-main-acc.html)|`2025-08-04 01:44:00`|`Team Fortress 2`|
 |[how do i turn off auto&#45;backstab in amalgam?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/711905-auto-backstab-amalgam.html)|`2025-08-04 01:41:00`|`Team Fortress 2`|
