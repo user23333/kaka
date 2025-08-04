@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Grenade prediction path](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/712056-grenade-prediction-path.html)|`2025-08-04 17:53:00`|`Playerunknown's Battlegrounds`|
 |[streaming files dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/711617-streaming-files-dumper.html)|`2025-08-04 17:33:00`|`Alternative Online Mods`|
 |[&#91;Help&#93; Arduino Leonardo R3 Rust Recoil Macro – Is it still safe in 2025?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/712011-help-arduino-leonardo-r3-rust-recoil-macro-safe-2025-a.html)|`2025-08-04 17:28:00`|`Rust`|
 |[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-08-04 17:24:00`|`Other FPS Games`|
