@@ -12,6 +12,7 @@
 |16|[free undetected antiflash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711588-free-undetected-antiflash.html)|`2025-08-05 00:14:31`|`valorant`|
 |18|[External Valorant Cheat DTC&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711851-external-valorant-cheat-dtc.html)|`2025-08-05 00:14:31`|`valorant`|
 |11|[Best way to hide dll in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/711305-hide-dll-2025-a.html)|`2025-08-05 02:27:58`|`anti-cheat-bypass`|
+|27|[Mage Arena](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711791-mage-arena.html)|`2025-08-05 05:59:17`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
