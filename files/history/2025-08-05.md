@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TraceShape m&#95;end = m&#95;start](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712132-traceshape-m_end-m_start.html)|`2025-08-05 04:44:00`|`Counter-Strike 2`|
+|[A Guide on how to bypass Forensic based ACs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712060-guide-bypass-forensic-based-acs.html)|`2025-08-05 04:40:00`|`Anti-Cheat Bypass`|
+|[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2025-08-05 04:25:00`|`Deadlock`|
 |[Getting Apex Legends offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/712130-getting-apex-legends-offsets.html)|`2025-08-05 04:34:00`|`Apex Legends`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-08-05 04:29:00`|`Valorant`|
 |[how long last slot ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/711731-slot-ban.html)|`2025-08-05 04:16:00`|`Grand Theft Auto V`|
