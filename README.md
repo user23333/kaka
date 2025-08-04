@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-08-05 07:42:00`|`Sea of Thieves`|
+|[Loki SCP: Secret Laboratory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/704266-loki-scp-secret-laboratory.html)|`2025-08-05 07:17:00`|`Other Games`|
 |[No head without setcriticalhits false](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/712151-head-setcriticalhits-false.html)|`2025-08-05 07:27:00`|`Alternative Online Mods`|
 |[kicking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/712145-kicking.html)|`2025-08-05 07:04:00`|`Star Wars Battlefront 2`|
 |[&#91;DMA&#93; ESP &#43; AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/701785-dma-esp-aim.html)|`2025-08-05 07:01:00`|`Battlefield 4`|
