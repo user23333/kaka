@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What music are you listening right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/music-and-videos/86098-music-listening.html)|`2025-08-05 05:43:00`|`Music and Videos`|
 |[Stalker 2: Heart of Chernobyl &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/683026-stalker-2-heart-chernobyl-external.html)|`2025-08-05 05:29:00`|`Other Single Player Games`|
 |[Arduino Working Jitter aim bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703532-arduino-jitter-aim-bypass.html)|`2025-08-05 05:05:00`|`Apex Legends`|
 |[TraceShape m&#95;end = m&#95;start](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712132-traceshape-m_end-m_start.html)|`2025-08-05 04:44:00`|`Counter-Strike 2`|
