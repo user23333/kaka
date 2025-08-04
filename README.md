@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SastashaFied T5 MP &#40;Undetected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/710791-sastashafied-t5-mp-undetected.html)|`2025-08-04 17:07:00`|`Call of Duty: Black Ops`|
+|[&#60;3 DMA for RUST &#60;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/712052-3-dma-rust-3-a.html)|`2025-08-04 17:06:00`|`Rust`|
 |[How to not get banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/711955-banned.html)|`2025-08-04 16:14:00`|`Grand Theft Auto V`|
 |[Rematch AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/707035-rematch-ahk.html)|`2025-08-04 15:50:00`|`Other Games`|
 |[Battleye kicks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/711465-battleye-kicks.html)|`2025-08-04 15:06:00`|`Grand Theft Auto V`|
