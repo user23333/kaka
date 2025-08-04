@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Palworld Internal DX11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/710102-palworld-internal-dx11.html)|`2025-08-05 04:12:00`|`Palworld`|
+|[Botlobby Tool FREE &#91;BO6/MW3/WARZONE&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/696676-botlobby-tool-free-bo6-mw3-warzone.html)|`2025-08-05 04:12:00`|`Call of Duty: Black Ops 6`|
+|[FUMES](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/711100-fumes.html)|`2025-08-05 04:02:00`|`Cheat Engine Tables`|
+|[&#91;Help&#93; Arduino Leonardo R3 Rust Recoil Macro – Is it still safe in 2025?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/712011-help-arduino-leonardo-r3-rust-recoil-macro-safe-2025-a.html)|`2025-08-05 04:00:00`|`Rust`|
+|[Dead By Daylight DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682901-dead-daylight-dma-esp.html)|`2025-08-05 04:00:00`|`Other FPS Games`|
+|[Titan Quest II Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/712127-titan-quest-ii-cheat.html)|`2025-08-05 03:56:00`|`Cheat Engine Tables`|
+|[GHUB LUA MACROS FOR MARVEL RIVALS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/711251-ghub-lua-macros-marvel-rivals.html)|`2025-08-05 03:54:00`|`Marvel Rivals`|
 |[CS2 Internal Skinchanger with Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712122-cs2-internal-skinchanger-offsets.html)|`2025-08-05 03:35:00`|`Counter-Strike 2`|
 |[7DTD 2&#46;0 Latest Stable Creative and Debug Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707218-7dtd-2-0-stable-creative-debug-assembly-csharp-dll.html)|`2025-08-05 03:19:00`|`Other FPS Games`|
 |[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2025-08-05 03:16:00`|`Other FPS Games`|
