@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-08-04 23:17:00`|`Grand Theft Auto V`|
+|[Xelize &#40;Half&#45;Life 2 Deathmatch&#41; External Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/423748-xelize-half-life-2-deathmatch-external-menu.html)|`2025-08-04 23:01:00`|`Half Life`|
 |[ARP Spoof OpenWrt &#45; Trying avoid VAN Restriction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712090-arp-spoof-openwrt-trying-avoid-van-restriction.html)|`2025-08-04 22:51:00`|`Valorant`|
 |[DLC&#45;Weapon unlock for pc multiplayer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-4-a/709177-dlc-weapon-unlock-pc-multiplayer.html)|`2025-08-04 22:50:00`|`Call of Duty: Black Ops 4`|
 |[Class Informer IDA 9&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/711675-class-informer-ida-9-2-a.html)|`2025-08-04 22:47:00`|`General Programming and Reversing`|
