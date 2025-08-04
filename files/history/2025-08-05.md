@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[No head without setcriticalhits false](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/712151-head-setcriticalhits-false.html)|`2025-08-05 07:27:00`|`Alternative Online Mods`|
 |[kicking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/712145-kicking.html)|`2025-08-05 07:04:00`|`Star Wars Battlefront 2`|
 |[&#91;DMA&#93; ESP &#43; AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/701785-dma-esp-aim.html)|`2025-08-05 07:01:00`|`Battlefield 4`|
 |[Memory allocation in a game with eac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712141-memory-allocation-game-eac.html)|`2025-08-05 06:51:00`|`Anti-Cheat Bypass`|
