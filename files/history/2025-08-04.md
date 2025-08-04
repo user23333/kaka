@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Battlefield 6 &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/712081-battlefield-6-reversal-structs-offsets.html)|`2025-08-04 23:41:00`|`Battlefield 2042`|
+|[Has anyone found a way to get around the script patch?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/712093-found-script-patch.html)|`2025-08-04 23:39:00`|`Rust`|
+|[Candy Crush Saga &#40;Windows Store Version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/711508-candy-crush-saga-windows-store-version.html)|`2025-08-04 23:32:00`|`Cheat Engine Tables`|
+|[Pirate Generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/699335-pirate-generator.html)|`2025-08-04 23:28:00`|`Sea of Thieves`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-08-04 23:17:00`|`Grand Theft Auto V`|
 |[Xelize &#40;Half&#45;Life 2 Deathmatch&#41; External Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/423748-xelize-half-life-2-deathmatch-external-menu.html)|`2025-08-04 23:01:00`|`Half Life`|
 |[ARP Spoof OpenWrt &#45; Trying avoid VAN Restriction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712090-arp-spoof-openwrt-trying-avoid-van-restriction.html)|`2025-08-04 22:51:00`|`Valorant`|
