@@ -29,9 +29,12 @@
 |1|[Straftat Unlock All update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50632)|`2025-08-04 13:24:39`|
 |1|[EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50631)|`2025-08-04 13:24:39`|
 |1|[Super&#45;Natural&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50628)|`2025-08-04 13:24:39`|
+|8|[mage arena &#45; zy hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50650)|`2025-08-04 13:55:18`|
+|1|[Ultimate Chicken Horse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50639)|`2025-08-04 13:55:18`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ultimate Chicken Horse Mod Menu &#45; v1&#46;9&#46;03](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/561865-ultimate-chicken-horse-mod-menu-v1-9-03-a.html)|`2025-08-04 13:27:00`|`Other Games`|
 |[Chiverly 2 Mod loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711952-chiverly-2-mod-loader.html)|`2025-08-04 13:20:00`|`Other FPS Games`|
 |[⚔️ cmut: A Lightweight, Cross&#45;Platform C&#43;&#43;20 Polymorphic Obfuscation Engine ⚔️](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/709250-cmut-lightweight-cross-platform-20-polymorphic-obfuscation-engine.html)|`2025-08-04 13:19:00`|`C and C++`|
 |[Straftat Unlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/711262-straftat-unlock.html)|`2025-08-04 13:18:00`|`Other Games`|
