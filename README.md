@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Switch 2 anyone?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/nintendo/712043-switch-2-a.html)|`2025-08-04 14:15:00`|`Nintendo`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-08-04 13:56:00`|`Rust`|
 |[Ultimate Chicken Horse Mod Menu &#45; v1&#46;9&#46;03](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/561865-ultimate-chicken-horse-mod-menu-v1-9-03-a.html)|`2025-08-04 13:27:00`|`Other Games`|
 |[Chiverly 2 Mod loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711952-chiverly-2-mod-loader.html)|`2025-08-04 13:20:00`|`Other FPS Games`|
 |[⚔️ cmut: A Lightweight, Cross&#45;Platform C&#43;&#43;20 Polymorphic Obfuscation Engine ⚔️](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/709250-cmut-lightweight-cross-platform-20-polymorphic-obfuscation-engine.html)|`2025-08-04 13:19:00`|`C and C++`|
