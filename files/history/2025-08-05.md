@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ganning &#45; The Automated Gold Panner &#45; Syn County](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/686795-ganning-automated-gold-panner-syn-county.html)|`2025-08-05 02:53:00`|`Red Dead Redemption 2`|
+|[Arduino Colorbot with R4 WIFI and host shield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711932-arduino-colorbot-r4-wifi-host-shield.html)|`2025-08-05 02:50:00`|`Valorant`|
+|[How can I start to reverse adhesive](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/712038-start-reverse-adhesive.html)|`2025-08-05 02:45:00`|`Alternative Online Mods`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-08-05 02:42:00`|`Counter-Strike 2`|
+|[How to get started](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/711027-started.html)|`2025-08-05 02:40:00`|`Forum General`|
+|[Console Cheats Explained &#43; Important PSA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/712086-console-cheats-explained-psa.html)|`2025-08-05 02:32:00`|`Apex Legends`|
 |[Phasmophobia cheat using AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/711933-phasmophobia-cheat-using-ai.html)|`2025-08-05 02:26:00`|`Phasmophobia`|
 |[Pro CS2 DMA &#45; Esp & Aimbot & Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656442-pro-cs2-dma-esp-aimbot-web-radar.html)|`2025-08-05 02:26:00`|`Counter-Strike 2`|
 |[tampermonkey BOTLOBBY SCRIPT XBOX CLOUD / GeForce NOW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700634-tampermonkey-botlobby-script-xbox-cloud-geforce.html)|`2025-08-05 02:26:00`|`Call of Duty: Black Ops 6`|
