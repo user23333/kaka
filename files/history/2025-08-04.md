@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[streaming files dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/711617-streaming-files-dumper.html)|`2025-08-04 17:33:00`|`Alternative Online Mods`|
+|[&#91;Help&#93; Arduino Leonardo R3 Rust Recoil Macro – Is it still safe in 2025?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/712011-help-arduino-leonardo-r3-rust-recoil-macro-safe-2025-a.html)|`2025-08-04 17:28:00`|`Rust`|
+|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-08-04 17:24:00`|`Other FPS Games`|
 |[SastashaFied T5 MP &#40;Undetected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/710791-sastashafied-t5-mp-undetected.html)|`2025-08-04 17:07:00`|`Call of Duty: Black Ops`|
 |[&#60;3 DMA for RUST &#60;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/712052-3-dma-rust-3-a.html)|`2025-08-04 17:06:00`|`Rust`|
 |[How to not get banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/711955-banned.html)|`2025-08-04 16:14:00`|`Grand Theft Auto V`|
