@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lightmoon V2 &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709987-lightmoon-v2-external.html)|`2025-08-05 08:58:00`|`Counter-Strike 2`|
+|[Entity Loop is 0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708934-entity-loop-0-a.html)|`2025-08-05 08:57:00`|`Rust`|
+|[Rust decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710182-rust-decryption.html)|`2025-08-05 08:52:00`|`Rust`|
+|[Where do I even begin?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712161-begin.html)|`2025-08-05 08:48:00`|`Valorant`|
+|[Entity list triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712146-entity-list-triggerbot.html)|`2025-08-05 08:39:00`|`Counter-Strike 2`|
+|[Looking for Hook/Injector Compatible with New UE5 Update &#40;Valorant&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711669-looking-hook-injector-compatible-ue5-update-valorant.html)|`2025-08-05 08:31:00`|`Valorant`|
 |[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-08-05 07:42:00`|`Sea of Thieves`|
 |[Loki SCP: Secret Laboratory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/704266-loki-scp-secret-laboratory.html)|`2025-08-05 07:17:00`|`Other Games`|
 |[No head without setcriticalhits false](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/712151-head-setcriticalhits-false.html)|`2025-08-05 07:27:00`|`Alternative Online Mods`|
