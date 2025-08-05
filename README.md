@@ -11,6 +11,7 @@
 |16|[free undetected antiflash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711588-free-undetected-antiflash.html)|`2025-08-06 00:17:56`|`valorant`|
 |5|[Mage arena &#91;full cheat&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/711876-mage-arena-cheat.html)|`2025-08-06 00:17:56`|`off-topic`|
 |11|[Best way to hide dll in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/711305-hide-dll-2025-a.html)|`2025-08-06 00:17:56`|`anti-cheat-bypass`|
+|23|[Battlefield 6 &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712081-battlefield-6-reversal-structs-offsets.html)|`2025-08-06 04:57:31`|`battlefield-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Updated CS2 Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711462-updated-cs2-dumper.html)|`2025-08-06 04:53:00`|`Counter-Strike 2`|
 |[rustDMA&#45;imgui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708252-rustdma-imgui.html)|`2025-08-06 04:39:00`|`Rust`|
 |[CE tables for custom games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/711914-ce-tables-custom-games.html)|`2025-08-06 04:37:00`|`Halo`|
 |[PUBG No Recoil for all Mouse &#45; UMCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/711277-pubg-recoil-mouse-umcs.html)|`2025-08-06 04:31:00`|`PUBG Releases`|
