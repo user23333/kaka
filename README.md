@@ -32,9 +32,13 @@
 |1|[DeltaForceClient&#45;Win64&#45;Shipping&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50668)|`2025-08-05 23:23:37`|
 |2|[IDA&#95;FunctionStringAssociate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50667)|`2025-08-05 23:23:37`|
 |1|[BetterAimAssist Compiled v2&#46;0 &#40;fixed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50640)|`2025-08-05 23:23:37`|
+|1|[com&#46;garena&#46;game&#46;df&#46;1&#46;203&#46;37103&#46;5201&#46;aarch64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50678)|`2025-08-05 23:42:42`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[POLYGON basic external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710575-polygon-basic-external.html)|`2025-08-05 23:37:00`|`Other FPS Games`|
+|[Battlefield 6 &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712081-battlefield-6-reversal-structs-offsets.html)|`2025-08-05 23:34:00`|`Battlefield 6`|
+|[vpk&#45;dumper&#45;cli](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712228-vpk-dumper-cli.html)|`2025-08-05 23:30:00`|`Counter-Strike 2`|
 |[BetterAimAssist: Valorant aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682003-betteraimassist-valorant-aim-assist.html)|`2025-08-05 23:21:00`|`Valorant`|
 |[R6S External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/711453-r6s-external-base.html)|`2025-08-05 23:20:00`|`Rainbow Six Siege`|
 |[Issue with getting the Bullet List](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/711944-issue-getting-bullet-list.html)|`2025-08-05 23:12:00`|`Escape from Tarkov`|
