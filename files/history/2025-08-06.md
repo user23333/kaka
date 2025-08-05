@@ -26,9 +26,15 @@
 |32|[IDA&#95;ClassInformer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50634)|`2025-08-06 00:17:56`|
 |1|[executorfivem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50654)|`2025-08-06 04:15:45`|
 |2|[GFusion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50653)|`2025-08-06 04:15:45`|
+|2|[everwareRUST&#45;DMA&#40;19356451&#46;3&#41;&#95;w&#95;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50647)|`2025-08-06 04:40:13`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[rustDMA&#45;imgui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708252-rustdma-imgui.html)|`2025-08-06 04:39:00`|`Rust`|
+|[CE tables for custom games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/711914-ce-tables-custom-games.html)|`2025-08-06 04:37:00`|`Halo`|
+|[PUBG No Recoil for all Mouse &#45; UMCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/711277-pubg-recoil-mouse-umcs.html)|`2025-08-06 04:31:00`|`PUBG Releases`|
+|[Schedule I &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695780-schedule-internal.html)|`2025-08-06 04:29:00`|`Other Games`|
+|[Tanks Blitz &#40;Lesta&#41; ESP Player's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/711725-tanks-blitz-lesta-esp-players.html)|`2025-08-06 04:22:00`|`Other MMORPG and Strategy`|
 |[GROWTOPİA PROXY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/712251-growtop-proxy.html)|`2025-08-06 04:13:00`|`Other Games`|
 |[lua exec should be working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/711868-lua-exec.html)|`2025-08-06 04:13:00`|`Alternative Online Mods`|
 |[how to find out where a character is looking at](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/712245-character-looking.html)|`2025-08-06 04:12:00`|`Grand Theft Auto V`|
