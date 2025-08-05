@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TREVOR V2 &#124; Simple & Secure GUI &#46;DLL Injector for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708373-trevor-v2-simple-secure-gui-dll-injector-cs2.html)|`2025-08-05 22:10:00`|`Counter-Strike 2`|
+|[Iterate entity list internally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712217-iterate-entity-list-internally.html)|`2025-08-05 21:58:00`|`Counter-Strike 2`|
 |[Getting map data from memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712215-getting-map-data-memory.html)|`2025-08-05 21:55:00`|`Counter-Strike 2`|
 |[PatchGuard Pages](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712214-patchguard-pages.html)|`2025-08-05 21:48:00`|`Anti-Cheat Bypass`|
 |[Grand Theft Auto V Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144819-grand-theft-auto-scripting.html)|`2025-08-05 21:27:00`|`Grand Theft Auto V`|
