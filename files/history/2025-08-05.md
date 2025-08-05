@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any hint to debug ? freeze and dced on private server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/709792-hint-debug-freeze-dced-private-server.html)|`2025-08-05 22:57:00`|`Maple Story`|
+|[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/696538-vigor-internal-cheat.html)|`2025-08-05 22:56:00`|`Other FPS Games`|
 |[Pirate Generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/699335-pirate-generator.html)|`2025-08-05 22:44:00`|`Sea of Thieves`|
 |[need a source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/700496-source.html)|`2025-08-05 22:40:00`|`Playerunknown's Battlegrounds`|
 |[Recommended base external/internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710872-recommended-base-external-internal.html)|`2025-08-05 22:36:00`|`Valorant`|
