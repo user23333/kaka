@@ -28,9 +28,15 @@
 |1|[executorfivem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50654)|`2025-08-06 04:15:45`|
 |2|[GFusion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50653)|`2025-08-06 04:15:45`|
 |2|[everwareRUST&#45;DMA&#40;19356451&#46;3&#41;&#95;w&#95;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50647)|`2025-08-06 04:40:13`|
+|1|[DMAByDaylight 9&#46;1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50649)|`2025-08-06 05:15:24`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Palworld Internal DX11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/710102-palworld-internal-dx11.html)|`2025-08-06 05:11:00`|`Palworld`|
+|[Dead By Daylight DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682901-dead-daylight-dma-esp.html)|`2025-08-06 05:03:00`|`Other FPS Games`|
+|[DMAByDaylight updated for 9&#46;1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711681-dmabydaylight-updated-9-1-0-a.html)|`2025-08-06 05:03:00`|`Other FPS Games`|
+|[Battlefield 6 &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712081-battlefield-6-reversal-structs-offsets.html)|`2025-08-06 05:01:00`|`Battlefield 6`|
+|[Spoofing Database](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712255-spoofing-database.html)|`2025-08-06 05:00:00`|`Valorant`|
 |[Updated CS2 Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711462-updated-cs2-dumper.html)|`2025-08-06 04:53:00`|`Counter-Strike 2`|
 |[rustDMA&#45;imgui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708252-rustdma-imgui.html)|`2025-08-06 04:39:00`|`Rust`|
 |[CE tables for custom games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/711914-ce-tables-custom-games.html)|`2025-08-06 04:37:00`|`Halo`|
