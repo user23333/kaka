@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Class Informer IDA 9&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/711675-class-informer-ida-9-2-a.html)|`2025-08-05 14:28:00`|`General Programming and Reversing`|
+|[weapon ids?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/712179-weapon-ids.html)|`2025-08-05 14:09:00`|`Star Wars Battlefront 2`|
 |[Turtle WoW Multihack Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/world-of-warcraft/710080-turtle-wow-multihack-internal.html)|`2025-08-05 13:50:00`|`World of Warcraft`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-08-05 12:42:00`|`Grand Theft Auto V`|
 |[Arduino &#43; HID Communication &#43; USB Host Shield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712176-arduino-hid-communication-usb-host-shield.html)|`2025-08-05 12:25:00`|`Valorant`|
