@@ -31,9 +31,13 @@
 |1|[DMAByDaylight 9&#46;1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50649)|`2025-08-06 05:15:24`|
 |1|[Bloodstrike simple color bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50659)|`2025-08-06 05:33:41`|
 |1|[ValorantExternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50651)|`2025-08-06 05:33:41`|
+|1|[GFusionV2&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50666)|`2025-08-06 05:46:01`|
+|1|[qengine 2&#46;0 Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50658)|`2025-08-06 05:46:01`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Help&#93; Arduino Leonardo R3 Rust Recoil Macro – Is it still safe in 2025?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/712011-help-arduino-leonardo-r3-rust-recoil-macro-safe-2025-a.html)|`2025-08-06 05:45:00`|`Rust`|
+|[qengine 2&#46;0 Is Here&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/711929-qengine-2-0-a.html)|`2025-08-06 05:36:00`|`C and C++`|
 |[TPM/Secure Boot Bypass with WARP Not Working Anymore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711104-tpm-secure-boot-bypass-warp-anymore.html)|`2025-08-06 05:33:00`|`Valorant`|
 |[BloodStrike Colour Bot &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711708-bloodstrike-colour-bot-source.html)|`2025-08-06 05:32:00`|`Other FPS Games`|
 |[External Valorant Cheat DTC&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711851-external-valorant-cheat-dtc.html)|`2025-08-06 05:23:00`|`Valorant`|
