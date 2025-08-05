@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Windows 24H2 update broke handle hijacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712194-windows-24h2-update-broke-handle-hijacking.html)|`2025-08-05 19:39:00`|`Counter-Strike 2`|
 |[Schedule I Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695317-schedule-cheat-table.html)|`2025-08-05 19:27:00`|`Other Games`|
 |[Shadow Region Reversal Struct and Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708947-shadow-region-reversal-struct-offset.html)|`2025-08-05 19:21:00`|`Valorant`|
 |[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-08-05 19:15:00`|`Other FPS Games`|
