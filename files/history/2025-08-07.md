@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[LegacyGameUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712405-legacygameui.html)|`2025-08-07 01:53:00`|`Counter-Strike 2`|
 |[ThreadSpoofer — Simple but sneaky TEB/PEB spoofing for anti&#45;debug evasion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712401-threadspoofer-simple-sneaky-teb-peb-spoofing-anti-debug-evasion.html)|`2025-08-07 01:49:00`|`Anti-Cheat Bypass`|
 |[External Valorant Cheat DTC&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711851-external-valorant-cheat-dtc.html)|`2025-08-07 01:49:00`|`Valorant`|
 |[Injection issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712402-injection-issue.html)|`2025-08-07 01:48:00`|`Counter-Strike 2`|
