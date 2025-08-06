@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking for working external cheat base cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712399-looking-external-cheat-base-cs2.html)|`2025-08-07 01:31:00`|`Counter-Strike 2`|
+|[Why does my seemingly wrong relative jmp offset takes to the correct memory address?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/712057-seemingly-wrong-relative-jmp-offset-takes-correct-memory-address.html)|`2025-08-07 01:28:00`|`General Programming and Reversing`|
+|[RCS acts differently on different fps limits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712398-rcs-acts-fps-limits.html)|`2025-08-07 01:22:00`|`Counter-Strike 2`|
 |[SEOwned x64 fixed for new tf2 update&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/691125-seowned-x64-fixed-tf2-update.html)|`2025-08-07 01:11:00`|`Team Fortress 2`|
 |[qengine 2&#46;0 Is Here&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/711929-qengine-2-0-a.html)|`2025-08-07 01:09:00`|`C and C++`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-08-07 01:06:00`|`Counter-Strike 2`|
