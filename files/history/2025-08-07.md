@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[A Guide on how to bypass Forensic based ACs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712060-guide-bypass-forensic-based-acs.html)|`2025-08-07 05:39:00`|`Anti-Cheat Bypass`|
+|[&#91;RARE&#93; BASED NOSPREAD CONTEXT MENU PURE LUA CHEAT DIRECTED BY ME THE BEST CHEAT 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/712425-rare-based-nospread-context-menu-pure-lua-cheat-directed-cheat-2025-a.html)|`2025-08-07 05:38:00`|`Garry's Mod`|
+|[Arduino &#43; HID Communication &#43; USB Host Shield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712176-arduino-hid-communication-usb-host-shield.html)|`2025-08-07 05:32:00`|`Valorant`|
 |[Dead By Daylight DMA Only ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712187-dead-daylight-dma-esp.html)|`2025-08-07 05:18:00`|`Other FPS Games`|
 |[Lightmoon V2 &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709987-lightmoon-v2-external.html)|`2025-08-07 05:17:00`|`Counter-Strike 2`|
 |[Weapon Names &#40;internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712029-weapon-names-internal.html)|`2025-08-07 05:17:00`|`Counter-Strike 2`|
