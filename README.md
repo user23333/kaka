@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Secure Boot Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712335-valorant-secure-boot-bypass.html)|`2025-08-06 19:16:00`|`Valorant`|
+|[The other side](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/712334-the-other-side.html)|`2025-08-06 19:06:00`|`Other Games`|
 |[God exists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/697595-god-exists.html)|`2025-08-06 18:57:00`|`Off Topic`|
 |[Remove Smoke and Smoke Color](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712333-remove-smoke-smoke-color.html)|`2025-08-06 18:53:00`|`Counter-Strike 2`|
 |[Titan Quest II Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/712127-titan-quest-ii-cheat.html)|`2025-08-06 18:49:00`|`Cheat Engine Tables`|
