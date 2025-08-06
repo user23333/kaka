@@ -40,6 +40,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-08-06 23:18:00`|`Other FPS Games`|
+|[Why does my seemingly wrong relative jmp offset takes to the correct memory address?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/712057-seemingly-wrong-relative-jmp-offset-takes-correct-memory-address.html)|`2025-08-06 23:14:00`|`General Programming and Reversing`|
+|[Deadlocked &#45; External Multi Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/711759-deadlocked-external-multi-cheat.html)|`2025-08-06 23:00:00`|`Deadlock`|
 |[Does HWID ban from other BE games translate ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/712374-hwid-ban-games-translate.html)|`2025-08-06 22:54:00`|`Rainbow Six Siege`|
 |[SastashaFied Bo1 SP/ZM Mod Menu for Plutonium T5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/710176-sastashafied-bo1-sp-zm-mod-menu-plutonium-t5.html)|`2025-08-06 22:50:00`|`Call of Duty: Black Ops`|
 |[Roblox Kernel Level External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/704872-roblox-kernel-level-external.html)|`2025-08-06 22:43:00`|`Other Games`|
