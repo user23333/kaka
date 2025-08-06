@@ -38,6 +38,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-08-06 10:55:00`|`Playerunknown's Battlegrounds`|
+|[TraceShape m&#95;end = m&#95;start](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712132-traceshape-m_end-m_start.html)|`2025-08-06 10:25:00`|`Counter-Strike 2`|
+|[Get FiveM Build](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/712293-fivem-build.html)|`2025-08-06 10:24:00`|`Alternative Online Mods`|
+|[CS:CO Bone IDs based on play model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/705202-cs-co-bone-ids-based-play-model.html)|`2025-08-06 10:23:00`|`Counterstrike Global Offensive`|
 |[Combat Master CE Godmode, MEGA XP, Instant Weapon/Player Max Level, Attachment Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/583715-combat-master-ce-godmode-mega-xp-instant-weapon-player-max-level-attachment-mod.html)|`2025-08-06 08:55:00`|`Combat Master`|
 |[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-08-06 08:52:00`|`Other FPS Games`|
 |[Summer Banner Contest 2025 &#45; Winners&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/712006-summer-banner-contest-2025-winners.html)|`2025-08-06 08:50:00`|`Information and Announcements`|
