@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ThreadSpoofer — Simple but sneaky TEB/PEB spoofing for anti&#45;debug evasion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712401-threadspoofer-simple-sneaky-teb-peb-spoofing-anti-debug-evasion.html)|`2025-08-07 01:49:00`|`Anti-Cheat Bypass`|
+|[External Valorant Cheat DTC&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711851-external-valorant-cheat-dtc.html)|`2025-08-07 01:49:00`|`Valorant`|
+|[Injection issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712402-injection-issue.html)|`2025-08-07 01:48:00`|`Counter-Strike 2`|
+|[SMOKE ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712230-smoke-esp.html)|`2025-08-07 01:47:00`|`Counter-Strike 2`|
 |[Looking for working external cheat base cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712399-looking-external-cheat-base-cs2.html)|`2025-08-07 01:31:00`|`Counter-Strike 2`|
 |[Why does my seemingly wrong relative jmp offset takes to the correct memory address?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/712057-seemingly-wrong-relative-jmp-offset-takes-correct-memory-address.html)|`2025-08-07 01:28:00`|`General Programming and Reversing`|
 |[RCS acts differently on different fps limits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712398-rcs-acts-fps-limits.html)|`2025-08-07 01:22:00`|`Counter-Strike 2`|
