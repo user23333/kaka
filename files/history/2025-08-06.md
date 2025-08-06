@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Tommy De La Ricky says hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/712247-tommy-de-la-ricky-hello.html)|`2025-08-06 17:30:00`|`Introductions`|
+|[EXTERNAL apb&#46;one](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/710621-external-apb.html)|`2025-08-06 17:20:00`|`All Points Bulletin`|
 |[Recommended base external/internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710872-recommended-base-external-internal.html)|`2025-08-06 16:52:00`|`Valorant`|
 |[Issue with getting the Bullet List](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/711944-issue-getting-bullet-list.html)|`2025-08-06 16:43:00`|`Escape from Tarkov`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-08-06 15:54:00`|`Escape from Tarkov`|
