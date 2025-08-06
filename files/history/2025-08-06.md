@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to Make Permanent Advanced UAV &#40;Read Only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/710574-permanent-advanced-uav-read.html)|`2025-08-06 17:42:00`|`Call of Duty: Black Ops 6`|
+|[subtle fullbright](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/613468-subtle-fullbright.html)|`2025-08-06 17:37:00`|`Phasmophobia`|
 |[Tommy De La Ricky says hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/712247-tommy-de-la-ricky-hello.html)|`2025-08-06 17:30:00`|`Introductions`|
 |[EXTERNAL apb&#46;one](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/710621-external-apb.html)|`2025-08-06 17:20:00`|`All Points Bulletin`|
 |[Recommended base external/internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710872-recommended-base-external-internal.html)|`2025-08-06 16:52:00`|`Valorant`|
