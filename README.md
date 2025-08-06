@@ -39,6 +39,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-08-06 15:45:00`|`Phasmophobia`|
+|[&#91;S26&#93; 100% Superglide Macro &#45; MnK & Controller &#45; Works on Steam & EA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/712312-s26-100-superglide-macro-mnk-controller-steam-ea.html)|`2025-08-06 15:44:00`|`Apex Legends`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-08-06 15:43:00`|`Other FPS Games`|
+|[&#91;S26&#93; 100% Superglide Macro &#45; MnK & Controller &#45; Works on Steam & EA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/712311-s26-100-superglide-macro-mnk-controller-steam-ea.html)|`2025-08-06 15:43:00`|`Apex Legends`|
+|[HWID unban and cheat recommendations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/702049-hwid-unban-cheat-recommendations.html)|`2025-08-06 15:38:00`|`Star Wars Battlefront 2`|
 |[Inventory: Knives and Gloves problem after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711778-inventory-knives-gloves-update.html)|`2025-08-06 15:24:00`|`Counter-Strike 2`|
 |[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2025-08-06 15:19:00`|`Other FPS Games`|
 |[Combat Master Full Game Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/712309-combat-master-game-dump.html)|`2025-08-06 15:13:00`|`Combat Master`|
