@@ -40,6 +40,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does HWID ban from other BE games translate ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/712374-hwid-ban-games-translate.html)|`2025-08-06 22:54:00`|`Rainbow Six Siege`|
+|[SastashaFied Bo1 SP/ZM Mod Menu for Plutonium T5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/710176-sastashafied-bo1-sp-zm-mod-menu-plutonium-t5.html)|`2025-08-06 22:50:00`|`Call of Duty: Black Ops`|
 |[Roblox Kernel Level External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/704872-roblox-kernel-level-external.html)|`2025-08-06 22:43:00`|`Other Games`|
 |[Easy Anti&#45;Cheat bypass on private game server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712350-easy-anti-cheat-bypass-private-game-server.html)|`2025-08-06 22:39:00`|`Anti-Cheat Bypass`|
 |[Launch games with bad eac configuration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/711977-launch-games-bad-eac-configuration.html)|`2025-08-06 22:34:00`|`Other MMORPG and Strategy`|
