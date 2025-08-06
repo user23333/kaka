@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fivem decryption tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/706200-fivem-decryption-tool.html)|`2025-08-07 06:35:00`|`Alternative Online Mods`|
+|[Bufferlist is abnormally large? &#40; billions &#41; help pls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/712431-bufferlist-abnormally-billions-help-pls.html)|`2025-08-07 06:21:00`|`Rust`|
+|[kernel util header](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/712428-kernel-util-header.html)|`2025-08-07 06:14:00`|`C and C++`|
 |[Hypervisor &#43; TCP server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/711810-hypervisor-tcp-server.html)|`2025-08-07 05:59:00`|`Anti-Cheat Bypass`|
 |[&#91;S26&#93; 100% Superglide Macro &#45; MnK & Controller &#45; Works on Steam & EA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/712312-s26-100-superglide-macro-mnk-controller-steam-ea.html)|`2025-08-07 05:54:00`|`Apex Legends`|
 |[nametags in ghostclient &#40;DLL injected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/711572-nametags-ghostclient-dll-injected.html)|`2025-08-07 05:50:00`|`Minecraft`|
