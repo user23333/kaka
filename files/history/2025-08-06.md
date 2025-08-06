@@ -39,6 +39,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Roblox ESP LAG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712305-roblox-esp-lag.html)|`2025-08-06 12:54:00`|`Other FPS Games`|
+|[any experience of battleye bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/712304-experience-battleye-bans.html)|`2025-08-06 12:47:00`|`Grand Theft Auto V`|
+|[Funny mage arena exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712303-funny-mage-arena-exploits.html)|`2025-08-06 12:44:00`|`Other FPS Games`|
+|[Valid adress](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/712302-valid-adress.html)|`2025-08-06 12:26:00`|`Programming for Beginners`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-08-06 12:13:00`|`Phasmophobia`|
 |[The &#46;data ptr function hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712300-data-ptr-function-hook.html)|`2025-08-06 11:57:00`|`Anti-Cheat Bypass`|
 |[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2025-08-06 11:44:00`|`Escape from Tarkov`|
 |[Knives Out &#45; Reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712023-knives-reversing.html)|`2025-08-06 11:21:00`|`Other FPS Games`|
