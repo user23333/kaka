@@ -39,6 +39,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The First Descendant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/602336-descendant-reversal-structs-offsets.html)|`2025-08-06 13:10:00`|`Other FPS Games`|
+|[BOIII offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/712128-boiii-offsets.html)|`2025-08-06 13:01:00`|`Call of Duty: Black Ops 3`|
+|[Kernel MouClassCallback mouse move freeze](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712225-kernel-mouclasscallback-mouse-move-freeze.html)|`2025-08-06 13:00:00`|`Anti-Cheat Bypass`|
+|[30 CS2 Skybox Materials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706403-30-cs2-skybox-materials.html)|`2025-08-06 12:55:00`|`Counter-Strike 2`|
 |[Roblox ESP LAG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712305-roblox-esp-lag.html)|`2025-08-06 12:54:00`|`Other FPS Games`|
 |[any experience of battleye bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/712304-experience-battleye-bans.html)|`2025-08-06 12:47:00`|`Grand Theft Auto V`|
 |[Funny mage arena exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712303-funny-mage-arena-exploits.html)|`2025-08-06 12:44:00`|`Other FPS Games`|
