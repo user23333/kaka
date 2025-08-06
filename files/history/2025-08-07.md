@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-08-07 06:48:00`|`HELLDIVERS 2`|
+|[How can I start to reverse adhesive](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/712038-start-reverse-adhesive.html)|`2025-08-07 06:48:00`|`Alternative Online Mods`|
 |[Fivem decryption tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/706200-fivem-decryption-tool.html)|`2025-08-07 06:35:00`|`Alternative Online Mods`|
 |[Bufferlist is abnormally large? &#40; billions &#41; help pls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/712431-bufferlist-abnormally-billions-help-pls.html)|`2025-08-07 06:21:00`|`Rust`|
 |[kernel util header](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/712428-kernel-util-header.html)|`2025-08-07 06:14:00`|`C and C++`|
