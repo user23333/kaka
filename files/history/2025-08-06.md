@@ -40,6 +40,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Roblox Kernel Level External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/704872-roblox-kernel-level-external.html)|`2025-08-06 22:43:00`|`Other Games`|
+|[Easy Anti&#45;Cheat bypass on private game server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712350-easy-anti-cheat-bypass-private-game-server.html)|`2025-08-06 22:39:00`|`Anti-Cheat Bypass`|
+|[Launch games with bad eac configuration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/711977-launch-games-bad-eac-configuration.html)|`2025-08-06 22:34:00`|`Other MMORPG and Strategy`|
+|[Roblox visible check/raycast](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/711796-roblox-visible-check-raycast.html)|`2025-08-06 22:29:00`|`General Programming and Reversing`|
+|[Roblox AIMBOT External Usermode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711916-roblox-aimbot-external-usermode.html)|`2025-08-06 22:27:00`|`Other FPS Games`|
 |[CS2 offsets for linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712223-cs2-offsets-linux.html)|`2025-08-06 22:17:00`|`Counter-Strike 2`|
 |[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2025-08-06 22:08:00`|`Combat Arms`|
 |[BLACK STIGMA Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/709828-black-stigma-reversal-structs-offsets.html)|`2025-08-06 21:50:00`|`Other FPS Games`|
