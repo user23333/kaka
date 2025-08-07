@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Candy Crush Saga &#40;Windows Store Version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/711508-candy-crush-saga-windows-store-version.html)|`2025-08-08 05:38:00`|`Cheat Engine Tables`|
+|[Combat Master Full Game Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/712309-combat-master-game-dump.html)|`2025-08-08 05:33:00`|`Combat Master`|
+|[How viable is using a vulnerable driver for reading memory?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712580-viable-using-vulnerable-driver-reading-memory.html)|`2025-08-08 05:32:00`|`Anti-Cheat Bypass`|
+|[Getting ban without a cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/712579-getting-ban-cheat.html)|`2025-08-08 05:31:00`|`PUBG Mobile`|
 |[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-08-08 05:11:00`|`Other FPS Games`|
 |[does valorant ban diskdrive serialnumber ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712575-valorant-ban-diskdrive-serialnumber.html)|`2025-08-08 05:07:00`|`Valorant`|
 |[&#91;DMA&#93; ESP &#43; AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/701785-dma-esp-aim.html)|`2025-08-08 04:48:00`|`Battlefield 4`|
