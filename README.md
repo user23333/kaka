@@ -25,9 +25,20 @@
 |1|[GFusionV2&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50672)|`2025-08-08 00:22:45`|
 |1|[7DTD 2&#46;1 Stable Assembly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50671)|`2025-08-08 00:22:45`|
 |7|[DuneSandbox&#45;Win64&#45;Shipping&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50670)|`2025-08-08 00:22:45`|
+|2|[ba&#45;cheeto&#45;v3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50688)|`2025-08-08 03:19:35`|
+|1|[Jocasta Protocol](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50685)|`2025-08-08 03:19:35`|
+|1|[Trevor4&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50684)|`2025-08-08 03:19:35`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rivals UnKnoWn &#91;Internal&#93; &#45; Giving Back to the Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695531-rivals-unknown-internal-giving-community.html)|`2025-08-08 03:19:00`|`Marvel Rivals`|
+|[read only external silent aim &#40;kinda&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712556-read-external-silent-aim-kinda.html)|`2025-08-08 03:17:00`|`Valorant`|
+|[Programming learning c&#35; as a beginner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-/709799-programming-learning-beginner.html)|`2025-08-08 03:15:00`|`C#`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-08-08 03:13:00`|`Playerunknown's Battlegrounds`|
+|[GTA SA:MP BonePosition Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712558-gta-sa-mp-boneposition-crash.html)|`2025-08-08 03:09:00`|`Other FPS Games`|
+|[TREVOR V2 &#124; Simple & Secure GUI &#46;DLL Injector for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708373-trevor-v2-simple-secure-gui-dll-injector-cs2.html)|`2025-08-08 03:07:00`|`Counter-Strike 2`|
+|[Blue Archive Cheat — Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/710592-blue-archive-cheat-steam.html)|`2025-08-08 03:02:00`|`Other MMORPG and Strategy`|
+|[R6S External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/711453-r6s-external-base.html)|`2025-08-08 03:02:00`|`Rainbow Six Siege`|
 |[offset unturned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/710990-offset-unturned.html)|`2025-08-08 02:57:00`|`Other Games`|
 |[Simple RCS &#91;PYTHON&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/712343-simple-rcs-python.html)|`2025-08-08 02:55:00`|`Rainbow Six Siege`|
 |[Easy Anti&#45;Cheat bypass on private game server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712350-easy-anti-cheat-bypass-private-game-server.html)|`2025-08-08 02:43:00`|`Anti-Cheat Bypass`|
