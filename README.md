@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-08-08 00:51:00`|`Other Games`|
+|[Chivalry II PAK Mod Loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/711030-chivalry-ii-pak-mod-loader.html)|`2025-08-08 00:50:00`|`Other Games`|
 |[How do you dump PlanetSide 2 and get offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/706134-dump-planetside-2-offsets.html)|`2025-08-08 00:44:00`|`PlanetSide 2`|
 |[Deadlocked &#45; External Multi Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/711759-deadlocked-external-multi-cheat.html)|`2025-08-08 00:38:00`|`Deadlock`|
 |[Battlefield 6 &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712081-battlefield-6-reversal-structs-offsets.html)|`2025-08-08 00:24:00`|`Battlefield 6`|
