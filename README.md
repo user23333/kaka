@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[internal bo6 forcesave](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/711694-internal-bo6-forcesave.html)|`2025-08-07 17:52:00`|`Call of Duty: Black Ops 6`|
+|[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-08-07 17:44:00`|`Other FPS Games`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-08-07 17:39:00`|`Grand Theft Auto V`|
 |[Internal MessageBox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/707367-internal-messagebox.html)|`2025-08-07 17:36:00`|`CrossFire`|
 |[Any way to mod GTA E&E without FSL?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/711561-mod-gta-fsl.html)|`2025-08-07 16:50:00`|`Grand Theft Auto V`|
