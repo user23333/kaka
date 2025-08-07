@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Updated Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712544-updated-base.html)|`2025-08-08 01:46:00`|`Counter-Strike 2`|
 |[A&#46;I&#46;L&#46;A](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/712543-a-i-l-a.html)|`2025-08-08 01:44:00`|`Cheat Engine Tables`|
 |[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-08-08 01:43:00`|`Other FPS Games`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-08-08 01:37:00`|`Escape from Tarkov`|
