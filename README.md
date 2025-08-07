@@ -28,9 +28,17 @@
 |2|[ba&#45;cheeto&#45;v3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50688)|`2025-08-08 03:19:35`|
 |1|[Jocasta Protocol](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50685)|`2025-08-08 03:19:35`|
 |1|[Trevor4&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50684)|`2025-08-08 03:19:35`|
+|1|[SastashaDbgViewer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50689)|`2025-08-08 03:41:54`|
+|1|[RevolutionDownfall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50683)|`2025-08-08 03:41:54`|
+|1|[Magepopo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50681)|`2025-08-08 03:41:54`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA Radar/Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/697254-dma-radar-fuser.html)|`2025-08-08 03:39:00`|`DayZ SA`|
+|[SastashaDbgViewer &#45; Debug Viewer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/712239-sastashadbgviewer-debug-viewer.html)|`2025-08-08 03:36:00`|`General Programming and Reversing`|
+|[EA Overlay &#45; How do they render it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712537-ea-overlay-render.html)|`2025-08-08 03:35:00`|`Battlefield 6`|
+|[Revolution Idle Anti Cheat Bypass/Freeshop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/711124-revolution-idle-anti-cheat-bypass-freeshop.html)|`2025-08-08 03:33:00`|`Other Games`|
+|[Mage arena &#91;full cheat&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/711876-mage-arena-cheat.html)|`2025-08-08 03:32:00`|`Off Topic`|
 |[Issue with getting the Bullet List](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/711944-issue-getting-bullet-list.html)|`2025-08-08 03:29:00`|`Escape from Tarkov`|
 |[Straftat Full Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/686040-straftat-cheat.html)|`2025-08-08 03:24:00`|`Other Games`|
 |[Killer Klowns From Outer Space](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/639658-killer-klowns-outer-space.html)|`2025-08-08 03:21:00`|`Other FPS Games`|
