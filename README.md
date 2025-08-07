@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[pcileech&#45;rtl8188ee&#45;wifi emul](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/654112-pcileech-rtl8188ee-wifi-emul.html)|`2025-08-07 11:10:00`|`Anti-Cheat Bypass`|
+|[Mage Arena Simple Hack &#45; Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711721-mage-arena-simple-hack-python.html)|`2025-08-07 10:37:00`|`Other FPS Games`|
 |[Any CarX Street hacks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/712448-carx-street-hacks.html)|`2025-08-07 09:43:00`|`Other Games`|
 |[PatchGuard Pages](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712214-patchguard-pages.html)|`2025-08-07 09:38:00`|`Anti-Cheat Bypass`|
 |[Unturned &#45; How to spoof HWID Serials on your Mono Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/709622-unturned-spoof-hwid-serials-mono-internal.html)|`2025-08-07 09:24:00`|`Other FPS Games`|
