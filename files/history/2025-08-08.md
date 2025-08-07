@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FXAP Decrypt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/712588-fxap-decrypt.html)|`2025-08-08 07:33:00`|`General Programming and Reversing`|
+|[The native CREATE&#95;CAM function crashes the game&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/712439-native-create_cam-function-crashes-game.html)|`2025-08-08 07:30:00`|`Grand Theft Auto V`|
+|[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-08-08 07:22:00`|`PUBG Releases`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-08-08 07:21:00`|`DayZ SA`|
 |[Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/703107-internal.html)|`2025-08-08 06:52:00`|`Overwatch`|
 |[utilsV &#124;&#124; Easy to use Lobby Reveal &#43; Booster &#43; Refund & more&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/577538-utilsv-easy-lobby-reveal-booster-refund.html)|`2025-08-08 06:49:00`|`League of Legends`|
 |[Osussist v3 MultiHack for osu&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/671577-osussist-v3-multihack-osu.html)|`2025-08-08 06:43:00`|`Other Games`|
