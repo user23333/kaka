@@ -27,9 +27,15 @@
 |14|[paks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50660)|`2025-08-07 00:00:40`|
 |46|[Bloodstrike simple color bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50659)|`2025-08-07 00:00:40`|
 |4|[val sdk last](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50710)|`2025-08-07 17:43:24`|
+|4|[Apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50694)|`2025-08-07 18:42:15`|
+|2|[FOCUS Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50677)|`2025-08-07 18:42:15`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[game crashing with weird message every time i inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/712234-game-crashing-weird-message-time-inject.html)|`2025-08-07 18:30:00`|`Marvel Rivals`|
+|[FOCUS Macro/AI Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/712181-focus-macro-ai-aimbot.html)|`2025-08-07 18:30:00`|`Rainbow Six Siege`|
+|[ACE&#45;Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/703257-ace-anticheat.html)|`2025-08-07 18:22:00`|`Anti-Cheat Bypass`|
+|[ACE &#40;Anti&#45;Cheat Expert&#41; spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/702768-ace-anti-cheat-expert-spoofer.html)|`2025-08-07 18:20:00`|`Anti-Cheat Bypass`|
 |[Wicked Menu/ Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/372512-wicked-menu-cheat-engine.html)|`2025-08-07 18:03:00`|`Red Dead Redemption 2`|
 |[TPM AND SB BYPASS &#43; SPOOFER &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/623808-tpm-sb-bypass-spoofer.html)|`2025-08-07 17:58:00`|`Valorant`|
 |[internal bo6 forcesave](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/711694-internal-bo6-forcesave.html)|`2025-08-07 17:52:00`|`Call of Duty: Black Ops 6`|
