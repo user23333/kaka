@@ -11,6 +11,7 @@
 |16|[free undetected antiflash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711588-free-undetected-antiflash.html)|`2025-08-07 00:00:40`|`valorant`|
 |17|[Valorant TPM bypass No Delay&#45;No Restart&#45;No Temp Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711808-valorant-tpm-bypass-delay-restart-temp-ban.html)|`2025-08-07 00:00:40`|`valorant`|
 |11|[Updated CS2 Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711462-updated-cs2-dumper.html)|`2025-08-07 00:00:40`|`counter-strike-2-a`|
+|19|[Inventory: Knives and Gloves problem after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711778-inventory-knives-gloves-update.html)|`2025-08-07 12:27:26`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[POLYGON basic external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710575-polygon-basic-external.html)|`2025-08-07 12:22:00`|`Other FPS Games`|
+|[Finding CMapInfo After Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712454-finding-cmapinfo-update.html)|`2025-08-07 12:15:00`|`Counter-Strike 2`|
+|[GHUB LUA MACROS FOR MARVEL RIVALS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/711251-ghub-lua-macros-marvel-rivals.html)|`2025-08-07 12:02:00`|`Marvel Rivals`|
+|[esp32s3 script with weapon and accessory detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/705105-esp32s3-script-weapon-accessory-detection.html)|`2025-08-07 11:57:00`|`Rust`|
+|[C17PacketCustomPayload Thaumcraft Research Complete/Aspects Give](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/711119-c17packetcustompayload-thaumcraft-research-complete-aspects.html)|`2025-08-07 11:53:00`|`Minecraft`|
+|[ESP32&#45;s3 espresiff norecoil &#43; ai aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710839-esp32-s3-espresiff-norecoil-ai-aimbot.html)|`2025-08-07 11:52:00`|`Rust`|
+|[Moving items in inventory &#40;jni&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/706284-moving-items-inventory-jni.html)|`2025-08-07 11:50:00`|`Minecraft`|
 |[pcileech&#45;rtl8188ee&#45;wifi emul](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/654112-pcileech-rtl8188ee-wifi-emul.html)|`2025-08-07 11:10:00`|`Anti-Cheat Bypass`|
 |[Mage Arena Simple Hack &#45; Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711721-mage-arena-simple-hack-python.html)|`2025-08-07 10:37:00`|`Other FPS Games`|
 |[Any CarX Street hacks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/712448-carx-street-hacks.html)|`2025-08-07 09:43:00`|`Other Games`|
