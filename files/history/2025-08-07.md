@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Risks of using scripts with geforcenow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/712427-risks-using-scripts-geforcenow.html)|`2025-08-07 15:53:00`|`Rust`|
 |[Advanced norecoil script for esp32s3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710109-advanced-norecoil-script-esp32s3.html)|`2025-08-07 15:40:00`|`Rust`|
 |[HW recoil control script for everygame](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/704796-hw-recoil-control-script-everygame.html)|`2025-08-07 15:36:00`|`Rust`|
 |[Hello, everyone&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/712463-hello.html)|`2025-08-07 15:27:00`|`Introductions`|
