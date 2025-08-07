@@ -11,6 +11,7 @@
 |19|[Valorant TPM bypass No Delay&#45;No Restart&#45;No Temp Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711808-valorant-tpm-bypass-delay-restart-temp-ban.html)|`2025-08-08 00:22:45`|`valorant`|
 |21|[Inventory: Knives and Gloves problem after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711778-inventory-knives-gloves-update.html)|`2025-08-08 00:22:45`|`counter-strike-2-a`|
 |16|[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2025-08-08 00:22:45`|`counter-strike-2-releases`|
+|13|[lua exec should be working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/711868-lua-exec.html)|`2025-08-08 02:35:34`|`alternative-online-mods`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[apex color aimbot,c&#43;&#43; 80days 0ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/684954-apex-color-aimbot-80days-0ban.html)|`2025-08-08 02:35:00`|`Apex Legends`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-08-08 02:26:00`|`Other FPS Games`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-08-08 02:25:00`|`Apex Legends`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-08-08 02:24:00`|`Rust`|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-08-08 02:21:00`|`Farlight 84`|
 |[kicking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/712145-kicking.html)|`2025-08-08 01:59:00`|`Star Wars Battlefront 2`|
 |[Cronus Zen or XIM or Aimzentrix?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/700723-cronus-zen-xim-aimzentrix.html)|`2025-08-08 01:57:00`|`Apex Legends`|
 |[Getting map data from memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712215-getting-map-data-memory.html)|`2025-08-08 01:56:00`|`Counter-Strike 2`|
