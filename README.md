@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I need help drawing esp externally on cs2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712539-help-drawing-esp-externally-cs2.html)|`2025-08-08 07:57:00`|`Counter-Strike 2`|
+|[internal bo6 forcesave](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/711694-internal-bo6-forcesave.html)|`2025-08-08 07:55:00`|`Call of Duty: Black Ops 6`|
 |[Any more AFK lobbies?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/688386-afk-lobbies.html)|`2025-08-08 07:48:00`|`Apex Legends`|
 |[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2025-08-08 07:38:00`|`Elite: Dangerous`|
 |[FXAP Decrypt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/712588-fxap-decrypt.html)|`2025-08-08 07:33:00`|`General Programming and Reversing`|
