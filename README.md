@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any CarX Street hacks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/712448-carx-street-hacks.html)|`2025-08-07 09:43:00`|`Other Games`|
+|[PatchGuard Pages](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712214-patchguard-pages.html)|`2025-08-07 09:38:00`|`Anti-Cheat Bypass`|
+|[Unturned &#45; How to spoof HWID Serials on your Mono Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/709622-unturned-spoof-hwid-serials-mono-internal.html)|`2025-08-07 09:24:00`|`Other FPS Games`|
+|[ClassInformer PlugIn for IDA 9&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/712445-classinformer-plugin-ida-9-1-a.html)|`2025-08-07 09:14:00`|`General Programming and Reversing`|
+|[Titan Quest II Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/712127-titan-quest-ii-cheat.html)|`2025-08-07 09:01:00`|`Cheat Engine Tables`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-08-07 09:00:00`|`Other MMORPG and Strategy`|
 |[Tanks Blitz &#40;Lesta&#41; ESP Player's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/711725-tanks-blitz-lesta-esp-players.html)|`2025-08-07 07:51:00`|`Other MMORPG and Strategy`|
 |[Ban evasion &#43; steam linked to EA acc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/711425-ban-evasion-steam-linked-ea-acc.html)|`2025-08-07 07:33:00`|`Battlefield 2042`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-08-07 07:31:00`|`Apex Legends`|
