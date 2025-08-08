@@ -36,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Star Wars Battlefront II &#45; Server Menu &#45;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/680218-star-wars-battlefront-ii-server-menu.html)|`2025-08-08 09:14:00`|`Star Wars Battlefront 2`|
+|[SWBF2 Internal ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/581560-swbf2-internal-esp.html)|`2025-08-08 09:06:00`|`Star Wars Battlefront 2`|
+|[Sub Rosa ESP &#40;JPXS&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705609-sub-rosa-esp-jpxs.html)|`2025-08-08 08:59:00`|`Other FPS Games`|
+|[internal warzone bo6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/710864-internal-warzone-bo6.html)|`2025-08-08 08:54:00`|`Call of Duty: Black Ops 6`|
+|[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-08-08 08:52:00`|`Other FPS Games`|
 |[I need help drawing esp externally on cs2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712539-help-drawing-esp-externally-cs2.html)|`2025-08-08 07:57:00`|`Counter-Strike 2`|
 |[internal bo6 forcesave](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/711694-internal-bo6-forcesave.html)|`2025-08-08 07:55:00`|`Call of Duty: Black Ops 6`|
 |[Any more AFK lobbies?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/688386-afk-lobbies.html)|`2025-08-08 07:48:00`|`Apex Legends`|
