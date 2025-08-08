@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC bypass discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/712523-eac-bypass-discussion.html)|`2025-08-08 12:58:00`|`Rust`|
+|[getting enemy weapon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/712621-getting-enemy-weapon.html)|`2025-08-08 12:56:00`|`PUBG Mobile`|
+|[Easy Dx11 ImGui hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/712620-easy-dx11-imgui-hook.html)|`2025-08-08 12:47:00`|`General Programming and Reversing`|
+|[BetterAimAssist: Valorant aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/682003-betteraimassist-valorant-aim-assist.html)|`2025-08-08 12:46:00`|`Valorant`|
 |[Anti cheat kicking me from lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/712619-anti-cheat-kicking-lobbies.html)|`2025-08-08 12:26:00`|`Halo`|
 |[Valorant TPM bypass No Delay&#45;No Restart&#45;No Temp Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711808-valorant-tpm-bypass-delay-restart-temp-ban.html)|`2025-08-08 12:12:00`|`Valorant`|
 |[manual map problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710163-manual-map.html)|`2025-08-08 11:56:00`|`Anti-Cheat Bypass`|
