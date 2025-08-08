@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Member of the Month &#45; August 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/711996-month-august-2025-a.html)|`2025-08-08 19:20:00`|`Member of the Month`|
+|[Transparent Windows without flag](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712651-transparent-windows-flag.html)|`2025-08-08 19:18:00`|`Anti-Cheat Bypass`|
 |[Shadow Region Reversal Struct and Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708947-shadow-region-reversal-struct-offset.html)|`2025-08-08 19:17:00`|`Valorant`|
 |[Summer Banner Contest 2025 &#45; Winners&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/712006-summer-banner-contest-2025-winners.html)|`2025-08-08 19:16:00`|`Information and Announcements`|
 |[bf6 color aimbot?C&#43;&#43; has been implemented](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712650-bf6-color-aimbot-implemented.html)|`2025-08-08 19:13:00`|`Battlefield 6`|
