@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[has someone ever tried to make ai agent to make cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/712585-tried-ai-agent-cheats.html)|`2025-08-08 16:30:00`|`General Programming and Reversing`|
 |[bf6 color aimbot? c&#43;&#43; has been implemented](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712636-bf6-color-aimbot-implemented.html)|`2025-08-08 16:22:00`|`Battlefield 6`|
 |[menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712635-menu.html)|`2025-08-08 16:21:00`|`Counter-Strike 2`|
 |[Is it possible to disconnect players?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/712576-disconnect-players.html)|`2025-08-08 16:07:00`|`Phasmophobia`|
