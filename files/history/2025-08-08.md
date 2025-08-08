@@ -37,6 +37,7 @@
 |2|[IDA91&#95;ClassInformer&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50705)|`2025-08-08 19:18:03`|
 |1|[DMAByDaylight 9&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50706)|`2025-08-08 19:44:39`|
 |1|[everwareDAYZ&#45;DMA&#40;19469874&#46;1&#41;&#95;w&#95;DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50701)|`2025-08-08 19:51:52`|
+|1|[CFramework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50722)|`2025-08-08 19:57:53`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
