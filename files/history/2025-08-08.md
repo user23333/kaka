@@ -38,9 +38,12 @@
 |1|[DMAByDaylight 9&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50706)|`2025-08-08 19:44:39`|
 |1|[everwareDAYZ&#45;DMA&#40;19469874&#46;1&#41;&#95;w&#95;DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50701)|`2025-08-08 19:51:52`|
 |1|[CFramework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50722)|`2025-08-08 19:57:53`|
+|63|[mhur&#95;external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50717)|`2025-08-08 20:35:24`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTA 5 Enhanced DMA Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701780-gta-5-enhanced-dma-menu.html)|`2025-08-08 20:35:00`|`Grand Theft Auto V`|
+|[Changing the Third person camera distance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/712653-changing-third-person-camera-distance.html)|`2025-08-08 20:09:00`|`Minecraft`|
 |[everwareDAYZ&#45;DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/711155-everwaredayz-dma.html)|`2025-08-08 19:46:00`|`DayZ SA`|
 |[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2025-08-08 19:39:00`|`Counter-Strike 2 Releases`|
 |[Memory allocation and creation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712492-memory-allocation-creation.html)|`2025-08-08 19:33:00`|`Anti-Cheat Bypass`|
