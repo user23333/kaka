@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cfemen & gir489's Ready or Not hook v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632144-cfemen-gir489s-ready-hook-v1-0-a.html)|`2025-08-08 14:59:00`|`Other FPS Games`|
+|[New Updated Fully Working Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708891-updated-triggerbot.html)|`2025-08-08 14:50:00`|`Valorant`|
+|[external visible check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/712446-external-visible-check.html)|`2025-08-08 14:48:00`|`Alternative Online Mods`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-08-08 14:34:00`|`Grand Theft Auto V`|
 |[CS2 FaceIT AARCS &#40;AimAssist RecoilControlSystem &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/618077-cs2-faceit-aarcs-aimassist-recoilcontrolsystem.html)|`2025-08-08 14:28:00`|`Counter-Strike 2`|
 |[Where To Find? &#45; CS2 External Skin Changer Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712630-cs2-external-skin-changer-source.html)|`2025-08-08 14:28:00`|`Counter-Strike 2`|
