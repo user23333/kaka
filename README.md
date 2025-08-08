@@ -34,9 +34,16 @@
 |1|[Magepopo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50681)|`2025-08-08 03:41:54`|
 |2|[overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50687)|`2025-08-08 03:48:40`|
 |2|[EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50690)|`2025-08-08 04:26:56`|
+|2|[IDA91&#95;ClassInformer&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50705)|`2025-08-08 19:18:03`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Shadow Region Reversal Struct and Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708947-shadow-region-reversal-struct-offset.html)|`2025-08-08 19:17:00`|`Valorant`|
+|[Summer Banner Contest 2025 &#45; Winners&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/712006-summer-banner-contest-2025-winners.html)|`2025-08-08 19:16:00`|`Information and Announcements`|
+|[bf6 color aimbot?C&#43;&#43; has been implemented](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712650-bf6-color-aimbot-implemented.html)|`2025-08-08 19:13:00`|`Battlefield 6`|
+|[Dead By Daylight DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682901-dead-daylight-dma-esp.html)|`2025-08-08 19:12:00`|`Other FPS Games`|
+|[ClassInformer PlugIn for IDA 9&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/712445-classinformer-plugin-ida-9-1-a.html)|`2025-08-08 19:11:00`|`General Programming and Reversing`|
+|[Project Zomboid Cheat &#45; Valkur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/645408-project-zomboid-cheat-valkur.html)|`2025-08-08 19:10:00`|`Other MMORPG and Strategy`|
 |[Changing names](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/712586-changing-names.html)|`2025-08-08 18:36:00`|`Grand Theft Auto V`|
 |[GTAVTool &#45; Replay Glitch Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/636267-gtavtool-replay-glitch-tool.html)|`2025-08-08 18:16:00`|`Grand Theft Auto V`|
 |[Disable secureboot requirement or bypass it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712616-disable-secureboot-requirement-bypass.html)|`2025-08-08 18:09:00`|`Battlefield 6`|
