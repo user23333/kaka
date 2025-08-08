@@ -27,9 +27,11 @@
 |119|[EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50690)|`2025-08-09 00:00:21`|
 |1|[TWowCheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50728)|`2025-08-09 00:27:13`|
 |1|[pipes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50718)|`2025-08-09 01:29:25`|
+|9|[cod&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50730)|`2025-08-09 05:30:21`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Getting ban without a cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/712579-getting-ban-cheat.html)|`2025-08-09 05:22:00`|`PUBG Mobile`|
 |[Shadow Project](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/712714-shadow-project.html)|`2025-08-09 05:12:00`|`Cheat Engine Tables`|
 |[⚜︎ JARVIS VGC EMULATOR ⚜︎  —  ⚜︎ UNDETECTABLE ⚜︎](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712713-jarvis-vgc-emulator-undetectable.html)|`2025-08-09 05:10:00`|`Valorant`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-08-09 05:03:00`|`Grand Theft Auto V`|
