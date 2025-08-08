@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-08-08 14:34:00`|`Grand Theft Auto V`|
+|[CS2 FaceIT AARCS &#40;AimAssist RecoilControlSystem &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/618077-cs2-faceit-aarcs-aimassist-recoilcontrolsystem.html)|`2025-08-08 14:28:00`|`Counter-Strike 2`|
+|[Where To Find? &#45; CS2 External Skin Changer Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712630-cs2-external-skin-changer-source.html)|`2025-08-08 14:28:00`|`Counter-Strike 2`|
+|[Autotag,No recoil Logitech &#46;lua script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712629-autotag-recoil-logitech-lua-script.html)|`2025-08-08 14:18:00`|`Battlefield 6`|
 |[&#91;removed&#93; roblox dma external release &#40;techno&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/709085-removed-roblox-dma-external-release-techno.html)|`2025-08-08 13:55:00`|`Other Games`|
 |[Finally a working External SkinChanger for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689733-finally-external-skinchanger-cs2.html)|`2025-08-08 13:50:00`|`Counter-Strike 2`|
 |[Do You Love Crypto?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/673834-love-crypto.html)|`2025-08-08 13:34:00`|`Off Topic`|
