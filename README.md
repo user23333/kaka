@@ -35,9 +35,12 @@
 |2|[overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50687)|`2025-08-08 03:48:40`|
 |2|[EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50690)|`2025-08-08 04:26:56`|
 |2|[IDA91&#95;ClassInformer&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50705)|`2025-08-08 19:18:03`|
+|1|[DMAByDaylight 9&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50706)|`2025-08-08 19:44:39`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2025-08-08 19:39:00`|`Counter-Strike 2 Releases`|
+|[Memory allocation and creation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712492-memory-allocation-creation.html)|`2025-08-08 19:33:00`|`Anti-Cheat Bypass`|
 |[Member of the Month &#45; August 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/711996-month-august-2025-a.html)|`2025-08-08 19:20:00`|`Member of the Month`|
 |[Transparent Windows without flag](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712651-transparent-windows-flag.html)|`2025-08-08 19:18:00`|`Anti-Cheat Bypass`|
 |[Shadow Region Reversal Struct and Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708947-shadow-region-reversal-struct-offset.html)|`2025-08-08 19:17:00`|`Valorant`|
