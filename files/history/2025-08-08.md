@@ -42,6 +42,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Warframe Epic Games Sellers method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710120-warframe-epic-games-sellers-method.html)|`2025-08-08 23:22:00`|`Other FPS Games`|
+|[ROX have new PC Cilent Unity need Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/712671-rox-pc-cilent-unity-cheat.html)|`2025-08-08 23:18:00`|`Other MMORPG and Strategy`|
+|[Dayz pc dupe &#40;NOT PATCHED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/704228-dayz-pc-dupe-patched.html)|`2025-08-08 23:17:00`|`DayZ SA`|
+|[easily call eidolon::Xor for internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/712669-easily-call-eidolon-xor-internal.html)|`2025-08-08 23:14:00`|`Overwatch`|
+|[cheat engine and x64dbg bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712666-cheat-engine-x64dbg-bypass.html)|`2025-08-08 23:11:00`|`Battlefield 6`|
 |[DMA detection soon?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/706658-dma-detection-soon.html)|`2025-08-08 22:59:00`|`Escape from Tarkov`|
 |[reWASD AimBot Config](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/707190-rewasd-aimbot-config.html)|`2025-08-08 22:46:00`|`Apex Legends`|
 |[Vanguard Bypass&#43;Secure Boot Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712663-vanguard-bypass-secure-boot-bypass.html)|`2025-08-08 22:31:00`|`Valorant`|
