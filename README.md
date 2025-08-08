@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MonoClass invalid methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/712623-monoclass-invalid-methods.html)|`2025-08-08 13:25:00`|`Escape from Tarkov`|
+|[Need help with reverse engineering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/712512-help-reverse-engineering.html)|`2025-08-08 13:23:00`|`General Programming and Reversing`|
+|[TPM/Secure Boot Bypass with WARP Not Working Anymore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711104-tpm-secure-boot-bypass-warp-anymore.html)|`2025-08-08 13:12:00`|`Valorant`|
+|[ESP32&#45;s3 espresiff norecoil &#43; ai aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710839-esp32-s3-espresiff-norecoil-ai-aimbot.html)|`2025-08-08 13:09:00`|`Rust`|
 |[EAC bypass discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/712523-eac-bypass-discussion.html)|`2025-08-08 12:58:00`|`Rust`|
 |[getting enemy weapon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/712621-getting-enemy-weapon.html)|`2025-08-08 12:56:00`|`PUBG Mobile`|
 |[Easy Dx11 ImGui hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/712620-easy-dx11-imgui-hook.html)|`2025-08-08 12:47:00`|`General Programming and Reversing`|
