@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[bf6 color aimbot? c&#43;&#43; has been implemented](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712636-bf6-color-aimbot-implemented.html)|`2025-08-08 16:22:00`|`Battlefield 6`|
+|[menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712635-menu.html)|`2025-08-08 16:21:00`|`Counter-Strike 2`|
+|[Is it possible to disconnect players?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/712576-disconnect-players.html)|`2025-08-08 16:07:00`|`Phasmophobia`|
+|[Strafe hack strafe direction how to minimize](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/711687-strafe-hack-strafe-direction-minimize.html)|`2025-08-08 16:01:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Mage Arena](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711077-mage-arena.html)|`2025-08-08 15:54:00`|`Other FPS Games`|
 |[FPS Chess Rust External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712633-fps-chess-rust-external.html)|`2025-08-08 15:49:00`|`Other FPS Games`|
 |[Recoil Helpy &#91;GHUB&#93;&#91;Mouse only&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/610096-recoil-helpy-ghub-mouse.html)|`2025-08-08 15:04:00`|`Rainbow Six Siege`|
