@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Router MAC address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712541-router-mac-address.html)|`2025-08-09 01:06:00`|`Anti-Cheat Bypass`|
+|[R6S External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/711453-r6s-external-base.html)|`2025-08-09 01:05:00`|`Rainbow Six Siege`|
+|[BO6 Warzone Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/712688-bo6-warzone-internal-cheat.html)|`2025-08-09 01:04:00`|`Call of Duty: Black Ops 6`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-08-09 00:59:00`|`Valorant`|
+|[Valorant TPM bypass No Delay&#45;No Restart&#45;No Temp Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711808-valorant-tpm-bypass-delay-restart-temp-ban.html)|`2025-08-09 00:56:00`|`Valorant`|
+|[AFUDOS error 22 &#45; Problem allocating memory &#40;ASUS A520M&#45;K BIOS Flash&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712687-afudos-error-22-allocating-memory-asus-a520m-bios-flash.html)|`2025-08-09 00:55:00`|`Valorant`|
+|[Supremacy manipulation tool & Supremacy Hero selecter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/712686-supremacy-manipulation-tool-supremacy-hero-selecter.html)|`2025-08-09 00:51:00`|`Star Wars Battlefront 2`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-08-09 00:52:00`|`Alternative Online Mods`|
 |[Killing floor 3 Easy Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710892-killing-floor-3-easy-cheat.html)|`2025-08-09 00:50:00`|`Other FPS Games`|
 |[Arduino Working Jitter aim bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703532-arduino-jitter-aim-bypass.html)|`2025-08-09 00:46:00`|`Apex Legends`|
