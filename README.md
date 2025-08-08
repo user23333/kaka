@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Exit lag crack or alternative?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/712643-exit-lag-crack-alternative.html)|`2025-08-08 17:57:00`|`PC Software`|
 |[&#91;Mage Arena&#93; MagusToolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711827-mage-arena-magustoolkit.html)|`2025-08-08 17:53:00`|`Other FPS Games`|
 |[early exit trap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/712642-exit-trap.html)|`2025-08-08 17:51:00`|`Alternative Online Mods`|
 |[Pirate dayz launcher with screenshots anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/712639-pirate-dayz-launcher-screenshots-anti-cheat.html)|`2025-08-08 17:23:00`|`DayZ SA`|
