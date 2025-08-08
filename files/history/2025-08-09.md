@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Safest way to read/write memory from kernel to bypass AC&#40;BE specifically&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710340-safest-read-write-memory-kernel-bypass-ac-specifically.html)|`2025-08-09 06:57:00`|`Anti-Cheat Bypass`|
+|[DISK SPOOF EAC &#40; UD&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712175-disk-spoof-eac-ud.html)|`2025-08-09 06:56:00`|`Anti-Cheat Bypass`|
+|[PatchGuard Pages](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712214-patchguard-pages.html)|`2025-08-09 06:54:00`|`Anti-Cheat Bypass`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-08-09 06:53:00`|`Counter-Strike 2 Releases`|
 |[Hypervisor &#43; TCP server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/711810-hypervisor-tcp-server.html)|`2025-08-09 06:51:00`|`Anti-Cheat Bypass`|
 |[Memory allocation and creation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712492-memory-allocation-creation.html)|`2025-08-09 06:44:00`|`Anti-Cheat Bypass`|
