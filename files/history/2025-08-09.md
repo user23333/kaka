@@ -24,9 +24,20 @@
 |26|[Schedule I &#45; Internal v4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50692)|`2025-08-09 00:00:21`|
 |11|[TurtleWoW&#95;internal&#95;v02](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50691)|`2025-08-09 00:00:21`|
 |119|[EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50690)|`2025-08-09 00:00:21`|
+|1|[TWowCheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50728)|`2025-08-09 00:27:13`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FXAP dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/712681-fxap-dumper.html)|`2025-08-09 00:25:00`|`Alternative Online Mods`|
+|[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-08-09 00:24:00`|`Other FPS Games`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-08-09 00:23:00`|`Marvel Rivals`|
+|[&#91;Mage Arena&#93; MagusToolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711827-mage-arena-magustoolkit.html)|`2025-08-09 00:22:00`|`Other FPS Games`|
+|[Turtle WoW Multihack Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/world-of-warcraft/710080-turtle-wow-multihack-internal.html)|`2025-08-09 00:20:00`|`World of Warcraft`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-08-09 00:13:00`|`Escape from Tarkov`|
+|[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-08-09 00:12:00`|`Other FPS Games`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-08-09 00:07:00`|`Other Games`|
+|[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2025-08-09 00:06:00`|`Other FPS Games`|
+|[Do You Love Crypto?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/673834-love-crypto.html)|`2025-08-09 00:04:00`|`Off Topic`|
 |[Valorant cloudflare warp bypass tpm uefi secure boot ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712528-valorant-cloudflare-warp-bypass-tpm-uefi-secure-boot.html)|`2025-08-08 23:54:00`|`Valorant`|
 |[Spider Free External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/711201-spider-free-external.html)|`2025-08-08 23:53:00`|`Alternative Online Mods`|
 |[Getting Map name](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704265-getting-map-name.html)|`2025-08-08 23:51:00`|`Counter-Strike 2`|
