@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Mage Arena&#93; MagusToolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711827-mage-arena-magustoolkit.html)|`2025-08-08 17:53:00`|`Other FPS Games`|
+|[early exit trap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/712642-exit-trap.html)|`2025-08-08 17:51:00`|`Alternative Online Mods`|
 |[Pirate dayz launcher with screenshots anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/712639-pirate-dayz-launcher-screenshots-anti-cheat.html)|`2025-08-08 17:23:00`|`DayZ SA`|
 |[Supremacy 1 Mil XP in a single game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/712519-supremacy-1-mil-xp-single-game.html)|`2025-08-08 17:12:00`|`Star Wars Battlefront 2`|
 |[has someone ever tried to make ai agent to make cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/712585-tried-ai-agent-cheats.html)|`2025-08-08 16:30:00`|`General Programming and Reversing`|
