@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chiverly 2 Mod loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711952-chiverly-2-mod-loader.html)|`2025-08-09 03:43:00`|`Other FPS Games`|
 |[Issue with getting the Bullet List](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/711944-issue-getting-bullet-list.html)|`2025-08-09 03:40:00`|`Escape from Tarkov`|
 |[SastashaFied T5 MP &#40;Undetected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/710791-sastashafied-t5-mp-undetected.html)|`2025-08-09 03:31:00`|`Call of Duty: Black Ops`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-08-09 03:28:00`|`Overwatch`|
