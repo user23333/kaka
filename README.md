@@ -12,6 +12,7 @@
 |17|[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2025-08-09 00:00:21`|`counter-strike-2-releases`|
 |3|[AHK Aim bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712495-ahk-aim-bot.html)|`2025-08-09 00:00:21`|`battlefield-6-a`|
 |14|[lua exec should be working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/711868-lua-exec.html)|`2025-08-09 02:57:28`|`alternative-online-mods`|
+|12|[DXGI&#95;ERROR&#95;INVALID&#95;CALL after Present hook / ExecuteCommandLists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712426-dxgi_error_invalid_call-hook-executecommandlists.html)|`2025-08-09 10:54:32`|`battlefield-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[easily call eidolon::Xor for internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/712669-easily-call-eidolon-xor-internal.html)|`2025-08-09 10:50:00`|`Overwatch`|
+|[does valorant ban diskdrive serialnumber ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712575-valorant-ban-diskdrive-serialnumber.html)|`2025-08-09 10:46:00`|`Valorant`|
 |[AutoWall has crashed&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712701-autowall-crashed.html)|`2025-08-09 07:48:00`|`Counter-Strike 2`|
 |[POLYGON basic external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710575-polygon-basic-external.html)|`2025-08-09 07:40:00`|`Other FPS Games`|
 |[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2025-08-09 07:34:00`|`Elite: Dangerous`|
