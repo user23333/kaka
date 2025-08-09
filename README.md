@@ -12,6 +12,7 @@
 |14|[lua exec should be working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/711868-lua-exec.html)|`2025-08-10 00:15:05`|`alternative-online-mods`|
 |5|[Disable secureboot requirement or bypass it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712616-disable-secureboot-requirement-bypass.html)|`2025-08-10 00:15:05`|`battlefield-6-a`|
 |11|[Titan Quest II Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/712127-titan-quest-ii-cheat.html)|`2025-08-10 01:43:33`|`cheat-engine-tables`|
+|2|[Autotag,No recoil Logitech &#46;lua script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712629-autotag-recoil-logitech-lua-script.html)|`2025-08-10 06:36:39`|`battlefield-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anti cheat kicking me from lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/712619-anti-cheat-kicking-lobbies.html)|`2025-08-10 06:35:00`|`Halo`|
+|[skin changer writing externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712249-skin-changer-writing-externally.html)|`2025-08-10 06:34:00`|`Counter-Strike 2`|
+|[bright night flicker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/712842-bright-night-flicker.html)|`2025-08-10 06:21:00`|`Rust`|
 |[Bots software](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/712841-bots-software.html)|`2025-08-10 05:55:00`|`Team Fortress 2`|
 |[&#91;Updated&#93; Dead by Daylight Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/635513-updated-dead-daylight-unlock-dlcs-skins.html)|`2025-08-10 05:45:00`|`Other FPS Games`|
 |[External GetEntityFromClassName](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712839-external-getentityfromclassname.html)|`2025-08-10 05:36:00`|`Counter-Strike 2`|
