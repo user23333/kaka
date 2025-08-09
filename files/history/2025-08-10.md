@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Safest way to read/write memory from kernel to bypass AC&#40;BE specifically&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710340-safest-read-write-memory-kernel-bypass-ac-specifically.html)|`2025-08-10 03:51:00`|`Anti-Cheat Bypass`|
 |[Menu Showcase &#40;RgDayz Based Cheat&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/712711-menu-showcase-rgdayz-based-cheat.html)|`2025-08-10 03:49:00`|`DayZ SA`|
 |[Searching Developer for pbgm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/712828-searching-developer-pbgm.html)|`2025-08-10 03:41:00`|`PUBG Mobile`|
 |[How to change memory protection from PAGE&#95;READONLY to PAGE&#95;READWRITE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/712827-change-memory-protection-page_readonly-page_readwrite.html)|`2025-08-10 03:35:00`|`Programming for Beginners`|
