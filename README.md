@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The native CREATE&#95;CAM function crashes the game&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/712439-native-create_cam-function-crashes-game.html)|`2025-08-10 06:57:00`|`Grand Theft Auto V`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-08-10 06:56:00`|`Alternative Online Mods`|
 |[Deadlock External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/663070-deadlock-external.html)|`2025-08-10 06:48:00`|`Deadlock`|
 |[Turtle WoW Multihack Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/world-of-warcraft/710080-turtle-wow-multihack-internal.html)|`2025-08-10 06:44:00`|`World of Warcraft`|
 |[Funny mage arena exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712303-funny-mage-arena-exploits.html)|`2025-08-10 06:41:00`|`Other FPS Games`|
