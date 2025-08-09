@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bots software](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/712841-bots-software.html)|`2025-08-10 05:55:00`|`Team Fortress 2`|
 |[&#91;Updated&#93; Dead by Daylight Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/635513-updated-dead-daylight-unlock-dlcs-skins.html)|`2025-08-10 05:45:00`|`Other FPS Games`|
 |[External GetEntityFromClassName](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712839-external-getentityfromclassname.html)|`2025-08-10 05:36:00`|`Counter-Strike 2`|
 |[game of thrones kingsroad hack & offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701827-game-thrones-kingsroad-hack-offsets.html)|`2025-08-10 05:34:00`|`Other MMORPG and Strategy`|
