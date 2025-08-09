@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FREE AI AIM C&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other/712751-free-ai-aim.html)|`2025-08-09 12:45:00`|`Other`|
+|[Mage Arena](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711077-mage-arena.html)|`2025-08-09 12:41:00`|`Other FPS Games`|
 |[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2025-08-09 12:31:00`|`Counter-Strike 2 Releases`|
 |[Fast Loot Macro for Razer Mouse PUBG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/710028-fast-loot-macro-razer-mouse-pubg.html)|`2025-08-09 12:11:00`|`Playerunknown's Battlegrounds`|
 |[Castle Crashers Unlock All preview](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other/710029-castle-crashers-unlock-preview.html)|`2025-08-09 12:05:00`|`Other`|
