@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[runtime patchguard disabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706184-runtime-patchguard-disabler.html)|`2025-08-09 20:01:00`|`Anti-Cheat Bypass`|
 |[External Valorant Cheat DTC&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711851-external-valorant-cheat-dtc.html)|`2025-08-09 18:50:00`|`Valorant`|
 |[pure mode bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/712773-pure-mode-bypass.html)|`2025-08-09 19:04:00`|`Alternative Online Mods`|
 |[Dota 2 Internal Guild Api](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/703630-dota-2-internal-guild-api.html)|`2025-08-09 18:59:00`|`Other MMORPG and Strategy`|
