@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[apex rage cheat &#40;external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705590-apex-rage-cheat-external.html)|`2025-08-10 04:45:00`|`Apex Legends`|
 |[TPM/Secure Boot Bypass with WARP Not Working Anymore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711104-tpm-secure-boot-bypass-warp-anymore.html)|`2025-08-10 04:44:00`|`Valorant`|
 |[Getting Map name](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704265-getting-map-name.html)|`2025-08-10 04:43:00`|`Counter-Strike 2`|
 |[FiveM Assets Decryptor &#40;Escrow&#45;Remover&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/712697-fivem-assets-decryptor-escrow-remover.html)|`2025-08-10 04:39:00`|`Alternative Online Mods`|
