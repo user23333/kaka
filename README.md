@@ -15,6 +15,7 @@
 |12|[DXGI&#95;ERROR&#95;INVALID&#95;CALL after Present hook / ExecuteCommandLists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712426-dxgi_error_invalid_call-hook-executecommandlists.html)|`2025-08-09 10:54:32`|`battlefield-6-a`|
 |3|[bf6 color aimbot?C&#43;&#43; has been implemented](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712650-bf6-color-aimbot-implemented.html)|`2025-08-09 16:21:16`|`battlefield-6-a`|
 |31|[⚜︎ JARVIS VGC EMULATOR ⚜︎  —  ⚜︎ UNDETECTABLE ⚜︎](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712713-jarvis-vgc-emulator-undetectable.html)|`2025-08-09 19:25:13`|`valorant`|
+|5|[Disable secureboot requirement or bypass it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712616-disable-secureboot-requirement-bypass.html)|`2025-08-09 22:33:50`|`battlefield-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
