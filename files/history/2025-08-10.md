@@ -15,6 +15,7 @@
 |2|[Autotag,No recoil Logitech &#46;lua script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712629-autotag-recoil-logitech-lua-script.html)|`2025-08-10 06:36:39`|`battlefield-6-a`|
 |2|[EA Overlay &#45; How do they render it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712537-ea-overlay-render.html)|`2025-08-10 07:20:34`|`battlefield-6-a`|
 |10|[no recoil r6s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/712035-recoil-r6s.html)|`2025-08-10 07:44:20`|`rainbow-six-siege`|
+|3|[cheat engine and x64dbg bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712666-cheat-engine-x64dbg-bypass.html)|`2025-08-10 07:56:43`|`battlefield-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[hyper&#45;reV &#45; memory introspection &#43; reverse engineering powered by leveraging Hyper&#45;V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709634-hyper-rev-memory-introspection-reverse-engineering-powered-leveraging-hyper.html)|`2025-08-10 07:52:00`|`Anti-Cheat Bypass`|
 |[Ultimate CHEATPACK 2&#46;0 V28](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/632979-ultimate-cheatpack-2-0-v28.html)|`2025-08-10 07:47:00`|`Star Wars Battlefront 2`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-08-10 07:45:00`|`Other FPS Games`|
 |[what do I do with this cheat bruh](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712731-cheat-bruh.html)|`2025-08-10 07:32:00`|`Counter-Strike 2`|
