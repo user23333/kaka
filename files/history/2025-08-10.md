@@ -11,6 +11,7 @@
 |13|[DXGI&#95;ERROR&#95;INVALID&#95;CALL after Present hook / ExecuteCommandLists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712426-dxgi_error_invalid_call-hook-executecommandlists.html)|`2025-08-10 00:15:05`|`battlefield-6-a`|
 |14|[lua exec should be working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/711868-lua-exec.html)|`2025-08-10 00:15:05`|`alternative-online-mods`|
 |5|[Disable secureboot requirement or bypass it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712616-disable-secureboot-requirement-bypass.html)|`2025-08-10 00:15:05`|`battlefield-6-a`|
+|11|[Titan Quest II Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/712127-titan-quest-ii-cheat.html)|`2025-08-10 01:43:33`|`cheat-engine-tables`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-08-10 01:41:00`|`Other MMORPG and Strategy`|
+|[Resource Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/710497-resource-dumper.html)|`2025-08-10 01:39:00`|`Alternative Online Mods`|
+|[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-08-10 01:37:00`|`Other FPS Games`|
+|[Loki SCP: Secret Laboratory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/704266-loki-scp-secret-laboratory.html)|`2025-08-10 01:37:00`|`Other Games`|
 |[Drop,Pickup,Buy items question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712752-drop-pickup-buy-items-question.html)|`2025-08-10 01:27:00`|`Counter-Strike 2`|
 |[Vanguard Bypass&#43;Secure Boot Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712663-vanguard-bypass-secure-boot-bypass.html)|`2025-08-10 01:25:00`|`Valorant`|
 |[Spider Free External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/711201-spider-free-external.html)|`2025-08-10 01:18:00`|`Alternative Online Mods`|
