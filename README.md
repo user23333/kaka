@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2025-08-09 13:45:00`|`Grand Theft Auto V`|
 |[bf6 color aimbot?C&#43;&#43; has been implemented](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712650-bf6-color-aimbot-implemented.html)|`2025-08-09 13:23:00`|`Battlefield 6`|
 |[ESP32&#45;s3 espresiff norecoil &#43; ai aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710839-esp32-s3-espresiff-norecoil-ai-aimbot.html)|`2025-08-09 13:17:00`|`Rust`|
 |[ReClassDark — Dark mode & fixes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/707941-reclassdark-dark-mode-fixes.html)|`2025-08-09 13:08:00`|`General Programming and Reversing`|
