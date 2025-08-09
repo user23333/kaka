@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Turtle WoW Multihack Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/world-of-warcraft/710080-turtle-wow-multihack-internal.html)|`2025-08-10 06:44:00`|`World of Warcraft`|
+|[Funny mage arena exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712303-funny-mage-arena-exploits.html)|`2025-08-10 06:41:00`|`Other FPS Games`|
 |[Anti cheat kicking me from lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/712619-anti-cheat-kicking-lobbies.html)|`2025-08-10 06:35:00`|`Halo`|
 |[skin changer writing externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712249-skin-changer-writing-externally.html)|`2025-08-10 06:34:00`|`Counter-Strike 2`|
 |[bright night flicker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/712842-bright-night-flicker.html)|`2025-08-10 06:21:00`|`Rust`|
