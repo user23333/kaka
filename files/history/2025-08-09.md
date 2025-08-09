@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Cheat/Hack ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/511214-external-cheat-hack-esp.html)|`2025-08-09 21:29:00`|`Valorant`|
 |[Finding natives offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/712786-finding-natives-offsets.html)|`2025-08-09 21:22:00`|`Alternative Online Mods`|
 |[Teach me and givme some tips on reaverse of Missile in IDA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/712782-teach-givme-tips-reaverse-missile-ida.html)|`2025-08-09 20:45:00`|`League of Legends`|
 |[Simple CLI injector for Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/702638-simple-cli-injector-windows.html)|`2025-08-09 20:44:00`|`General Programming and Reversing`|
