@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Mobile 3&#46;9 PAK Decryption – Core Function Overview](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/712748-pubg-mobile-3-9-pak-decryption-core-function-overview.html)|`2025-08-09 11:40:00`|`PUBG Mobile`|
+|[Rust External &#45; RUNTIME AUTO UPDATE OFFSETS/DECRYPTION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/695007-rust-external-runtime-auto-update-offsets-decryption.html)|`2025-08-09 11:30:00`|`Rust`|
+|[high cpu usage when injecting dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/712747-cpu-usage-injecting-dll.html)|`2025-08-09 11:24:00`|`League of Legends`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-08-09 10:57:00`|`League of Legends`|
 |[easily call eidolon::Xor for internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/712669-easily-call-eidolon-xor-internal.html)|`2025-08-09 10:50:00`|`Overwatch`|
 |[does valorant ban diskdrive serialnumber ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712575-valorant-ban-diskdrive-serialnumber.html)|`2025-08-09 10:46:00`|`Valorant`|
 |[AutoWall has crashed&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712701-autowall-crashed.html)|`2025-08-09 07:48:00`|`Counter-Strike 2`|
