@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Searching Developer for pbgm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/712828-searching-developer-pbgm.html)|`2025-08-10 03:41:00`|`PUBG Mobile`|
 |[How to change memory protection from PAGE&#95;READONLY to PAGE&#95;READWRITE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/712827-change-memory-protection-page_readonly-page_readwrite.html)|`2025-08-10 03:35:00`|`Programming for Beginners`|
 |[When will the era of cheating in dma end&Future development](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/579938-era-cheating-dma-future-development.html)|`2025-08-10 03:34:00`|`Anti-Cheat Bypass`|
 |[Spoofing Database](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712255-spoofing-database.html)|`2025-08-10 03:33:00`|`Valorant`|
