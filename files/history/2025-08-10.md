@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Tanks Blitz &#40;Lesta&#41; ESP Player's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/711725-tanks-blitz-lesta-esp-players.html)|`2025-08-10 05:15:00`|`Other MMORPG and Strategy`|
 |[Technical Questions on Vanguard's Secure Boot & TPM Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709752-technical-questions-vanguards-secure-boot-tpm-detection.html)|`2025-08-10 05:00:00`|`Valorant`|
 |[ThreadSpoofer — Simple but sneaky TEB/PEB spoofing for anti&#45;debug evasion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712401-threadspoofer-simple-sneaky-teb-peb-spoofing-anti-debug-evasion.html)|`2025-08-10 05:00:00`|`Anti-Cheat Bypass`|
 |[apex rage cheat &#40;external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705590-apex-rage-cheat-external.html)|`2025-08-10 04:45:00`|`Apex Legends`|
