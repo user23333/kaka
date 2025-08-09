@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2025-08-09 12:31:00`|`Counter-Strike 2 Releases`|
+|[Fast Loot Macro for Razer Mouse PUBG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/710028-fast-loot-macro-razer-mouse-pubg.html)|`2025-08-09 12:11:00`|`Playerunknown's Battlegrounds`|
 |[Castle Crashers Unlock All preview](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other/710029-castle-crashers-unlock-preview.html)|`2025-08-09 12:05:00`|`Other`|
 |[Enlisted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711165-enlisted.html)|`2025-08-09 12:05:00`|`Other FPS Games`|
 |[FAST LOOT PUBG FOR LOGITECH](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/712749-fast-loot-pubg-logitech.html)|`2025-08-09 11:58:00`|`PUBG Releases`|
