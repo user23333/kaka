@@ -40,6 +40,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Color aimbot is totally feasible in bf6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712901-color-aimbot-totally-feasible-bf6.html)|`2025-08-10 17:33:00`|`Battlefield 6`|
+|[Pointer encryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/712899-pointer-encryption.html)|`2025-08-10 17:24:00`|`C and C++`|
+|[Free Fire Emulator Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/712898-free-fire-emulator-bypass.html)|`2025-08-10 17:21:00`|`Other Games`|
 |[Chivalry 2 CHEAT AF4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/710526-chivalry-2-cheat-af4.html)|`2025-08-10 17:17:00`|`Other Games`|
 |[EFT DMA Radar Lite WPF](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/712525-eft-dma-radar-lite-wpf.html)|`2025-08-10 17:06:00`|`Escape from Tarkov`|
 |[How to Bypass VAN 152, VAL 5 on Lenovo Laptops for Valorant, League Of Legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712896-bypass-van-152-val-5-lenovo-laptops-valorant-league-legends.html)|`2025-08-10 16:52:00`|`Valorant`|
