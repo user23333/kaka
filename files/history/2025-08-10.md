@@ -30,9 +30,15 @@
 |10|[everwareDAYZ&#45;DMA&#40;19469874&#46;1&#41;&#95;w&#95;DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50701)|`2025-08-10 00:15:05`|
 |101|[Apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50694)|`2025-08-10 00:15:05`|
 |1|[candycrushsaga&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50745)|`2025-08-10 00:39:37`|
+|1|[GFusionV2&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50709)|`2025-08-10 12:50:14`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2025-08-10 12:48:00`|`Counter-Strike 2 Releases`|
+|[Blue Archive Cheat — Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/710592-blue-archive-cheat-steam.html)|`2025-08-10 12:45:00`|`Other MMORPG and Strategy`|
+|[LOL Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/712341-lol-dumper.html)|`2025-08-10 12:43:00`|`League of Legends`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-08-10 12:41:00`|`Marvel Rivals`|
+|[&#91;S26&#93; 100% Superglide Macro &#45; MnK & Controller &#45; Works on Steam & EA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/712312-s26-100-superglide-macro-mnk-controller-steam-ea.html)|`2025-08-10 12:36:00`|`Apex Legends`|
 |[does valorant ban diskdrive serialnumber ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712575-valorant-ban-diskdrive-serialnumber.html)|`2025-08-10 11:41:00`|`Valorant`|
 |[AFUDOS error 22 &#45; Problem allocating memory &#40;ASUS A520M&#45;K BIOS Flash&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712687-afudos-error-22-allocating-memory-asus-a520m-bios-flash.html)|`2025-08-10 11:40:00`|`Valorant`|
 |[CS2 Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712869-cs2-injector.html)|`2025-08-10 11:37:00`|`Counter-Strike 2`|
