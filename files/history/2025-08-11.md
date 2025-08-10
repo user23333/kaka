@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Advanced norecoil script for esp32s3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710109-advanced-norecoil-script-esp32s3.html)|`2025-08-11 05:02:00`|`Rust`|
 |[Onyx &#124; Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699725-onyx-triggerbot.html)|`2025-08-11 04:44:00`|`Valorant`|
 |[Recoil Vectors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699178-recoil-vectors.html)|`2025-08-11 04:41:00`|`Call of Duty: Black Ops 6`|
 |[cfemen & gir489's Ready or Not hook v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632144-cfemen-gir489s-ready-hook-v1-0-a.html)|`2025-08-11 04:39:00`|`Other FPS Games`|
