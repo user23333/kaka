@@ -40,6 +40,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hooking a std::map that was compiled back in VS2003](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/712894-hooking-std-map-compiled-vs2003.html)|`2025-08-10 16:09:00`|`C and C++`|
+|[DXGI&#95;ERROR&#95;INVALID&#95;CALL after Present hook / ExecuteCommandLists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712426-dxgi_error_invalid_call-hook-executecommandlists.html)|`2025-08-10 16:07:00`|`Battlefield 6`|
+|[CarX Drift Racing Online &#45; Advanced Selector Spammer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/710404-carx-drift-racing-online-advanced-selector-spammer.html)|`2025-08-10 16:00:00`|`Other Games`|
+|[no recoil r6s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/712035-recoil-r6s.html)|`2025-08-10 15:59:00`|`Rainbow Six Siege`|
 |[༺ 𝙉𝙊𝙑𝘼 ༻ — ✧ Ultimate Insyde Spoofer ✧](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712892-ultimate-insyde-spoofer.html)|`2025-08-10 15:12:00`|`Valorant`|
 |[help an old cheater out](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712875-help-cheater.html)|`2025-08-10 15:08:00`|`Battlefield 6`|
 |[123](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712891-123.html)|`2025-08-10 15:08:00`|`Valorant`|
