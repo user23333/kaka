@@ -40,6 +40,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AHK MultiScript &#124; Pean's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605440-ahk-multiscript-peans-rcs.html)|`2025-08-10 14:44:00`|`Counter-Strike 2 Releases`|
+|[Bloodstrike Cheat / Source?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682536-bloodstrike-cheat-source.html)|`2025-08-10 14:23:00`|`Other FPS Games`|
 |[gigabyte custom bios not posting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712885-gigabyte-custom-bios-posting.html)|`2025-08-10 14:04:00`|`Valorant`|
 |[AFK Script for Plunder &#40;Read the Description&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/656179-afk-script-plunder-read-description.html)|`2025-08-10 13:58:00`|`Call of Duty: Modern Warfare III`|
 |[Titan Two setup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/711101-titan-setup.html)|`2025-08-10 13:57:00`|`Apex Legends`|
