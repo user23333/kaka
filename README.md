@@ -40,6 +40,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I want to start cheating but have a budget](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/712761-start-cheating-budget.html)|`2025-08-10 20:53:00`|`Rust`|
 |[Box & Health ESP made in cpp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711986-box-health-esp-cpp.html)|`2025-08-10 20:37:00`|`Counter-Strike 2 Releases`|
 |[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2025-08-10 20:17:00`|`Other FPS Games`|
 |[First ban help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/712911-ban-help.html)|`2025-08-10 19:40:00`|`Escape from Tarkov`|
