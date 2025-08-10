@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[aimbot tracing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712549-aimbot-tracing.html)|`2025-08-11 05:37:00`|`Counter-Strike 2`|
+|[Bypassing Kernel Memory Integrity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712933-bypassing-kernel-memory-integrity.html)|`2025-08-11 05:37:00`|`Anti-Cheat Bypass`|
 |[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2025-08-11 05:28:00`|`Sea of Thieves`|
 |[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-08-11 05:27:00`|`Other FPS Games`|
 |[Can you use a Unlock All Tool on PS5 without remote play?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/712294-unlock-tool-ps5-remote-play.html)|`2025-08-11 05:25:00`|`Call of Duty: Black Ops 6`|
