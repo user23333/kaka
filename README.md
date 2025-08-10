@@ -45,6 +45,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/712684-offsets.html)|`2025-08-10 23:47:00`|`Counterstrike Global Offensive`|
 |[Graphical Hooks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/d3d-tutorials-and-source/712832-graphical-hooks.html)|`2025-08-10 23:40:00`|`D3D Tutorials and Source`|
 |[FPS Chess Rust External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712633-fps-chess-rust-external.html)|`2025-08-10 23:36:00`|`Other FPS Games`|
 |[external visible check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/712446-external-visible-check.html)|`2025-08-10 23:35:00`|`Alternative Online Mods`|
