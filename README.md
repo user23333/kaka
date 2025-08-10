@@ -40,6 +40,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/703107-internal.html)|`2025-08-10 18:53:00`|`Overwatch`|
 |[Palworld Internal DX11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/710102-palworld-internal-dx11.html)|`2025-08-10 18:43:00`|`Palworld`|
 |[high cpu usage when injecting dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/712747-cpu-usage-injecting-dll.html)|`2025-08-10 18:42:00`|`League of Legends`|
 |[Age of Empires IV &#45; External Scar Script Injector & Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/712742-age-empires-iv-external-scar-script-injector-helper.html)|`2025-08-10 18:24:00`|`Other MMORPG and Strategy`|
