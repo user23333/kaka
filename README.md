@@ -40,9 +40,18 @@
 |1|[Marvel Rivals SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50739)|`2025-08-10 22:44:20`|
 |1|[cfemen & gir489's Satisfactory Cheat v1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50735)|`2025-08-10 23:13:20`|
 |1|[cfemen & gir489's Ready or Not hook v1&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50736)|`2025-08-10 23:31:33`|
+|1|[GI 5&#46;8 Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50755)|`2025-08-10 23:43:08`|
+|1|[Graphical hooks &#40;Source code&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50753)|`2025-08-10 23:43:08`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Graphical Hooks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/d3d-tutorials-and-source/712832-graphical-hooks.html)|`2025-08-10 23:40:00`|`D3D Tutorials and Source`|
+|[FPS Chess Rust External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712633-fps-chess-rust-external.html)|`2025-08-10 23:36:00`|`Other FPS Games`|
+|[external visible check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/712446-external-visible-check.html)|`2025-08-10 23:35:00`|`Alternative Online Mods`|
+|[Ultimate Zombie Defense 2 &#40;UZD2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712584-ultimate-zombie-defense-2-uzd2.html)|`2025-08-10 23:34:00`|`Other FPS Games`|
+|[External Farlight 84 Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/661656-external-farlight-84-free-cheat.html)|`2025-08-10 23:32:00`|`Farlight 84`|
+|[actor velocity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/712934-actor-velocity.html)|`2025-08-10 23:31:00`|`PUBG Mobile`|
+|[Bypassing Kernel Memory Integrity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712933-bypassing-kernel-memory-integrity.html)|`2025-08-10 23:31:00`|`Anti-Cheat Bypass`|
 |[cfemen & gir489's Ready or Not hook v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632144-cfemen-gir489s-ready-hook-v1-0-a.html)|`2025-08-10 23:25:00`|`Other FPS Games`|
 |[cfemen & gir489's Satisfactory Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661834-cfemen-gir489s-satisfactory-cheat.html)|`2025-08-10 23:12:00`|`Other FPS Games`|
 |[Global Unban Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/712932-global-unban-method.html)|`2025-08-10 23:08:00`|`Alternative Online Mods`|
