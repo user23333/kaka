@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hypervisor detected by "Profiling CPUID against FYL2XP1"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712995-hypervisor-detected-profiling-cpuid-fyl2xp1.html)|`2025-08-11 05:50:00`|`Anti-Cheat Bypass`|
+|[Python DMA Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/712854-python-dma-web-radar.html)|`2025-08-11 05:47:00`|`DayZ SA`|
 |[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-08-11 05:42:00`|`Other FPS Games`|
 |[Chiverly 2 Mod loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711952-chiverly-2-mod-loader.html)|`2025-08-11 05:41:00`|`Other FPS Games`|
 |[Xim  Matrix Scripts and Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/712994-xim-matrix-scripts-recoil.html)|`2025-08-11 05:41:00`|`Apex Legends`|
