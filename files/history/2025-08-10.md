@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[does valorant ban diskdrive serialnumber ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712575-valorant-ban-diskdrive-serialnumber.html)|`2025-08-10 11:41:00`|`Valorant`|
+|[AFUDOS error 22 &#45; Problem allocating memory &#40;ASUS A520M&#45;K BIOS Flash&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712687-afudos-error-22-allocating-memory-asus-a520m-bios-flash.html)|`2025-08-10 11:40:00`|`Valorant`|
+|[CS2 Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712869-cs2-injector.html)|`2025-08-10 11:37:00`|`Counter-Strike 2`|
+|[FAST LOOT PUBG FOR LOGITECH](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/712749-fast-loot-pubg-logitech.html)|`2025-08-10 11:23:00`|`PUBG Releases`|
 |[faster & better cheat optimization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/712866-faster-cheat-optimization.html)|`2025-08-10 11:14:00`|`Rust`|
 |[runtime patchguard disabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/706184-runtime-patchguard-disabler.html)|`2025-08-10 11:11:00`|`Anti-Cheat Bypass`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-08-10 10:38:00`|`Other FPS Games`|
