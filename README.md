@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2025-08-11 05:28:00`|`Sea of Thieves`|
+|[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-08-11 05:27:00`|`Other FPS Games`|
+|[Can you use a Unlock All Tool on PS5 without remote play?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/712294-unlock-tool-ps5-remote-play.html)|`2025-08-11 05:25:00`|`Call of Duty: Black Ops 6`|
+|[CS 1&#46;6 Auto Bunny&#45;Hop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/709385-cs-1-6-auto-bunny-hop.html)|`2025-08-11 05:14:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Advanced norecoil script for esp32s3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710109-advanced-norecoil-script-esp32s3.html)|`2025-08-11 05:02:00`|`Rust`|
 |[Onyx &#124; Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/699725-onyx-triggerbot.html)|`2025-08-11 04:44:00`|`Valorant`|
 |[Recoil Vectors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699178-recoil-vectors.html)|`2025-08-11 04:41:00`|`Call of Duty: Black Ops 6`|
