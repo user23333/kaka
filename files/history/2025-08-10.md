@@ -40,6 +40,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to Bypass VAN 152, VAL 5 on Lenovo Laptops for Valorant, League Of Legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712896-bypass-van-152-val-5-lenovo-laptops-valorant-league-legends.html)|`2025-08-10 16:52:00`|`Valorant`|
+|[All Mouse NoRecoil 1&#46;0 IS OUT &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-1-0-recoil-helpy-auto-config-probably-ud-universal.html)|`2025-08-10 16:49:00`|`Rainbow Six Siege`|
 |[Shadow Region Reversal Struct and Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708947-shadow-region-reversal-struct-offset.html)|`2025-08-10 16:31:00`|`Valorant`|
 |[Hooking a std::map that was compiled back in VS2003](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/712894-hooking-std-map-compiled-vs2003.html)|`2025-08-10 16:09:00`|`C and C++`|
 |[DXGI&#95;ERROR&#95;INVALID&#95;CALL after Present hook / ExecuteCommandLists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712426-dxgi_error_invalid_call-hook-executecommandlists.html)|`2025-08-10 16:07:00`|`Battlefield 6`|
