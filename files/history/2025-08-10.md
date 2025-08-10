@@ -40,6 +40,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[gigabyte custom bios not posting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712885-gigabyte-custom-bios-posting.html)|`2025-08-10 14:04:00`|`Valorant`|
+|[AFK Script for Plunder &#40;Read the Description&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/656179-afk-script-plunder-read-description.html)|`2025-08-10 13:58:00`|`Call of Duty: Modern Warfare III`|
+|[Titan Two setup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/711101-titan-setup.html)|`2025-08-10 13:57:00`|`Apex Legends`|
+|[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2025-08-10 13:56:00`|`DayZ SA`|
 |[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2025-08-10 13:51:00`|`Other MMORPG and Strategy`|
 |[Pose decrypt &#40;for entity&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700510-pose-decrypt-entity.html)|`2025-08-10 13:32:00`|`Call of Duty: Black Ops 6`|
 |[How to install and use YimMenu in GTA Online with gamepass version?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/712730-install-yimmenu-gta-online-gamepass-version.html)|`2025-08-10 13:19:00`|`Grand Theft Auto V`|
