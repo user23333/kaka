@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-08-12 03:10:00`|`Marvel Rivals`|
 |[Methods to inject a DLL via autodial DLL hijacking into user&#45;mode free EAC game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713048-methods-inject-dll-via-autodial-dll-hijacking-user-mode-free-eac-game.html)|`2025-08-12 02:59:00`|`Anti-Cheat Bypass`|
 |[why vehicle not spawned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/712755-vehicle-spawned.html)|`2025-08-12 02:59:00`|`Grand Theft Auto V`|
 |[How do you dump PlanetSide 2 and get offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/706134-dump-planetside-2-offsets.html)|`2025-08-12 02:56:00`|`PlanetSide 2`|
