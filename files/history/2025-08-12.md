@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ihnm &#45; TTS overlay for games &#43; Soundboard &#43; Sync song playback &#43; Lipsync for SCP:SL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/710854-ihnm-tts-overlay-games-soundboard-sync-song-playback-lipsync-scp-sl.html)|`2025-08-12 04:21:00`|`Other Games`|
+|[Global Unban Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/712932-global-unban-method.html)|`2025-08-12 04:20:00`|`Alternative Online Mods`|
+|[DIY HPTT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713168-diy-hptt.html)|`2025-08-12 04:16:00`|`Anti-Cheat Bypass`|
 |[Whisper Mountain Outbreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/713141-whisper-mountain-outbreak.html)|`2025-08-12 03:52:00`|`Cheat Engine Tables`|
 |[reWASD AimBot Config](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/707190-rewasd-aimbot-config.html)|`2025-08-12 03:46:00`|`Apex Legends`|
 |[Makcu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713028-makcu.html)|`2025-08-12 03:41:00`|`Valorant`|
