@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I need blood strike 32 bit offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712061-blood-strike-32-bit-offset.html)|`2025-08-11 20:26:00`|`Other FPS Games`|
+|[Arma 3 Universal Radio Interceptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/713034-arma-3-universal-radio-interceptor.html)|`2025-08-11 20:25:00`|`ARMA 3`|
+|[i need Help to unpacking Vmp of a cheat in C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/712950-help-unpacking-vmp-cheat.html)|`2025-08-11 20:16:00`|`General Programming and Reversing`|
+|[How get offsets for "R&#46;E&#46;P&#46;O"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/712804-offsets.html)|`2025-08-11 20:08:00`|`General Programming and Reversing`|
 |[Combat Master Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/708468-combat-master-internal.html)|`2025-08-11 19:49:00`|`Combat Master`|
 |[Gun van weapons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/708837-gun-van-weapons.html)|`2025-08-11 19:47:00`|`Grand Theft Auto V`|
 |[AHK Aim bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712495-ahk-aim-bot.html)|`2025-08-11 19:35:00`|`Battlefield 6`|
