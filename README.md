@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[lordnine infinite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/712321-lordnine-infinite.html)|`2025-08-12 06:45:00`|`Other MMORPG and Strategy`|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-08-12 06:36:00`|`Apex Legends`|
+|[POLYGON basic external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710575-polygon-basic-external.html)|`2025-08-12 06:35:00`|`Other FPS Games`|
 |[Does anyone have a link to this video on youtube?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/712550-link-video-youtube.html)|`2025-08-12 06:27:00`|`Forum General`|
 |[BO6 Warzone Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/712688-bo6-warzone-internal-cheat.html)|`2025-08-12 06:21:00`|`Call of Duty: Black Ops 6`|
 |[Gun van weapons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/708837-gun-van-weapons.html)|`2025-08-12 06:10:00`|`Grand Theft Auto V`|
