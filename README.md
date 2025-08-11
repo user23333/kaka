@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Set skins with scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/713082-set-skins-scripts.html)|`2025-08-11 23:53:00`|`Apex Legends`|
 |[Arduino &#43; Host Shield &#43; Rasberry Pi 5 tips](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712758-arduino-host-shield-rasberry-pi-5-tips.html)|`2025-08-11 23:13:00`|`Valorant`|
 |[GHUB LUA MACROS FOR MARVEL RIVALS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/711251-ghub-lua-macros-marvel-rivals.html)|`2025-08-11 23:03:00`|`Marvel Rivals`|
 |[&#91;Mage Arena&#93; ClearModdingFlag BepinEx plugin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/713008-mage-arena-clearmoddingflag-bepinex-plugin.html)|`2025-08-11 22:49:00`|`Other FPS Games`|
