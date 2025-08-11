@@ -11,6 +11,7 @@
 |12|[BO6 Warzone Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/712688-bo6-warzone-internal-cheat.html)|`2025-08-12 00:19:12`|`call-of-duty-black-ops-6-a`|
 |2|[EA Overlay &#45; How do they render it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712537-ea-overlay-render.html)|`2025-08-12 00:19:12`|`battlefield-6-a`|
 |11|[Titan Quest II Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/712127-titan-quest-ii-cheat.html)|`2025-08-12 00:19:12`|`cheat-engine-tables`|
+|36|[༺ 𝙉𝙊𝙑𝘼 ༻ — ✧ Ultimate Insyde Spoofer ✧](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712892-ultimate-insyde-spoofer.html)|`2025-08-12 03:01:23`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Methods to inject a DLL via autodial DLL hijacking into user&#45;mode free EAC game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713048-methods-inject-dll-via-autodial-dll-hijacking-user-mode-free-eac-game.html)|`2025-08-12 02:59:00`|`Anti-Cheat Bypass`|
+|[why vehicle not spawned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/712755-vehicle-spawned.html)|`2025-08-12 02:59:00`|`Grand Theft Auto V`|
+|[How do you dump PlanetSide 2 and get offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/706134-dump-planetside-2-offsets.html)|`2025-08-12 02:56:00`|`PlanetSide 2`|
+|[What core functions do I actually need for Esp ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/712707-core-functions-actually-esp.html)|`2025-08-12 02:52:00`|`Rust`|
+|[Current state of KVM detection in Anti&#45;Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713105-current-kvm-detection-anti-cheat.html)|`2025-08-12 02:50:00`|`Anti-Cheat Bypass`|
 |[FiveM Native Invoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/713002-fivem-native-invoker.html)|`2025-08-12 02:46:00`|`Alternative Online Mods`|
 |[Anti&#45;Cheat Expert HWID Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713075-anti-cheat-expert-hwid-discussion.html)|`2025-08-12 02:45:00`|`Anti-Cheat Bypass`|
 |[Peak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706121-peak.html)|`2025-08-12 02:43:00`|`Other Games`|
