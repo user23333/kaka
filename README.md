@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-08-11 16:15:00`|`Escape from Tarkov`|
+|[AimZenix Configs&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/713043-aimzenix-configs.html)|`2025-08-11 16:10:00`|`Apex Legends`|
+|[secure boot bypass=no kernel level protection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713009-secure-boot-bypass-kernel-level-protection.html)|`2025-08-11 16:06:00`|`Battlefield 6`|
+|[heartbeat bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/713040-heartbeat-bypass.html)|`2025-08-11 15:59:00`|`Halo`|
 |[Valorant TPM bypass No Delay&#45;No Restart&#45;No Temp Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711808-valorant-tpm-bypass-delay-restart-temp-ban.html)|`2025-08-11 15:50:00`|`Valorant`|
 |[Cronus Zen or XIM or Aimzentrix?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/700723-cronus-zen-xim-aimzentrix.html)|`2025-08-11 15:40:00`|`Apex Legends`|
 |[Problem with player glow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/711148-player-glow.html)|`2025-08-11 15:32:00`|`Apex Legends`|
