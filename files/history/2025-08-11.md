@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GHUB LUA MACROS FOR MARVEL RIVALS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/711251-ghub-lua-macros-marvel-rivals.html)|`2025-08-11 23:03:00`|`Marvel Rivals`|
 |[&#91;Mage Arena&#93; ClearModdingFlag BepinEx plugin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/713008-mage-arena-clearmoddingflag-bepinex-plugin.html)|`2025-08-11 22:49:00`|`Other FPS Games`|
 |[Need help with reverse engineering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/712512-help-reverse-engineering.html)|`2025-08-11 22:20:00`|`General Programming and Reversing`|
 |[CS 1&#46;6 Simple WallHack by KkK1337](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/496671-cs-1-6-simple-wallhack-kkk1337.html)|`2025-08-11 22:15:00`|`CounterStrike 1.5, 1.6 and Mods`|
