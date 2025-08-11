@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spoofing Database](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712255-spoofing-database.html)|`2025-08-11 17:54:00`|`Valorant`|
 |[Mage Arena](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711077-mage-arena.html)|`2025-08-11 17:46:00`|`Other FPS Games`|
 |[Paying $500 finders fee for Faceit cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713051-paying-500-finders-fee-faceit-cheat.html)|`2025-08-11 17:34:00`|`Counter-Strike 2`|
 |[esp32s3 script with weapon and accessory detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/705105-esp32s3-script-weapon-accessory-detection.html)|`2025-08-11 17:30:00`|`Rust`|
