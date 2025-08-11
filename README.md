@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6S External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/711453-r6s-external-base.html)|`2025-08-12 05:39:00`|`Rainbow Six Siege`|
 |[Valorant TPM bypass No Delay&#45;No Restart&#45;No Temp Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711808-valorant-tpm-bypass-delay-restart-temp-ban.html)|`2025-08-12 05:31:00`|`Valorant`|
 |[Allocating memory from Kernel Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/283042-allocating-memory-kernel-driver.html)|`2025-08-12 05:18:00`|`Anti-Cheat Bypass`|
 |[Does magic bullet work externally now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/703104-magic-bullet-externally.html)|`2025-08-12 05:04:00`|`PlanetSide 2`|
