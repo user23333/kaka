@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[rocket league invisible and title exploit ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/710823-rocket-league-invisible-title-exploit.html)|`2025-08-11 20:56:00`|`Other Games`|
+|[Router Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713068-router-cheat.html)|`2025-08-11 20:53:00`|`Counter-Strike 2`|
+|[PUBG No Recoil for all Mouse &#45; UMCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/711277-pubg-recoil-mouse-umcs.html)|`2025-08-11 20:51:00`|`PUBG Releases`|
 |[I need blood strike 32 bit offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712061-blood-strike-32-bit-offset.html)|`2025-08-11 20:26:00`|`Other FPS Games`|
 |[Arma 3 Universal Radio Interceptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/713034-arma-3-universal-radio-interceptor.html)|`2025-08-11 20:25:00`|`ARMA 3`|
 |[i need Help to unpacking Vmp of a cheat in C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/712950-help-unpacking-vmp-cheat.html)|`2025-08-11 20:16:00`|`General Programming and Reversing`|
