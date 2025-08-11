@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BF6 DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712831-bf6-dma.html)|`2025-08-12 01:49:00`|`Battlefield 6`|
+|[cheat engine and x64dbg bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712666-cheat-engine-x64dbg-bypass.html)|`2025-08-12 01:47:00`|`Battlefield 6`|
+|[Chiverly 2 Mod loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711952-chiverly-2-mod-loader.html)|`2025-08-12 01:46:00`|`Other FPS Games`|
+|[Battlefield 6 &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712081-battlefield-6-reversal-structs-offsets.html)|`2025-08-12 01:45:00`|`Battlefield 6`|
+|[WinLRPC&#45;Hunter &#45; Local RPC Endpoint Scanner for Research](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713095-winlrpc-hunter-local-rpc-endpoint-scanner-research.html)|`2025-08-12 01:44:00`|`Anti-Cheat Bypass`|
 |[BloodStrike Colour Bot &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711708-bloodstrike-colour-bot-source.html)|`2025-08-12 01:40:00`|`Other FPS Games`|
 |[C&#43;&#43; SPT Aki 3&#46;11&#46;3 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/713092-spt-aki-3-11-3-internal.html)|`2025-08-12 01:33:00`|`Escape from Tarkov`|
 |[7 Days to Die](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/455904-7-days-die.html)|`2025-08-12 01:32:00`|`Other FPS Games`|
