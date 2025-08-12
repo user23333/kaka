@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[i need Help to unpacking Vmp of a cheat in C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/712950-help-unpacking-vmp-cheat.html)|`2025-08-13 01:12:00`|`General Programming and Reversing`|
+|[⚜︎ JARVIS VGC EMULATOR ⚜︎  —  ⚜︎ UNDETECTABLE ⚜︎](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712713-jarvis-vgc-emulator-undetectable.html)|`2025-08-13 01:10:00`|`Valorant`|
+|[Current state of KVM detection in Anti&#45;Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713105-current-kvm-detection-anti-cheat.html)|`2025-08-13 01:01:00`|`Anti-Cheat Bypass`|
+|[Hypervisor detected by "Profiling CPUID against FYL2XP1"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712995-hypervisor-detected-profiling-cpuid-fyl2xp1.html)|`2025-08-13 01:00:00`|`Anti-Cheat Bypass`|
+|[Whisper Mountain Outbreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/713141-whisper-mountain-outbreak.html)|`2025-08-13 00:57:00`|`Cheat Engine Tables`|
 |[SastashFied Iw5 &#40;Undetected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/712859-sastashfied-iw5-undetected.html)|`2025-08-13 00:48:00`|`Call of Duty: Modern Warfare 3`|
 |[I NEED A SIMPLE ESP BFV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/704516-simple-esp-bfv.html)|`2025-08-13 00:44:00`|`Battlefield V`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-08-13 00:43:00`|`Rust`|
