@@ -25,6 +25,7 @@
 |95|[Marvel Rivals Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50742)|`2025-08-12 00:19:12`|
 |84|[MageArenaManager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50741)|`2025-08-12 00:19:12`|
 |20|[freeai](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50740)|`2025-08-12 00:19:12`|
+|2|[ABInfinite SDK&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50786)|`2025-08-12 18:50:12`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
