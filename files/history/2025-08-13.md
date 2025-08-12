@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Internal &#124; Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/712774-marvel-rivals-internal-updated.html)|`2025-08-13 01:46:00`|`Marvel Rivals`|
+|[External Valorant Cheat DTC&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711851-external-valorant-cheat-dtc.html)|`2025-08-13 01:36:00`|`Valorant`|
 |[i need Help to unpacking Vmp of a cheat in C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/712950-help-unpacking-vmp-cheat.html)|`2025-08-13 01:12:00`|`General Programming and Reversing`|
 |[⚜︎ JARVIS VGC EMULATOR ⚜︎  —  ⚜︎ UNDETECTABLE ⚜︎](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712713-jarvis-vgc-emulator-undetectable.html)|`2025-08-13 01:10:00`|`Valorant`|
 |[Current state of KVM detection in Anti&#45;Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713105-current-kvm-detection-anti-cheat.html)|`2025-08-13 01:01:00`|`Anti-Cheat Bypass`|
