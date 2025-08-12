@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-08-13 06:38:00`|`Marvel Rivals`|
+|[&#91; External &#93; SPT&#45;AKI CheatBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/626274-external-spt-aki-cheatbase.html)|`2025-08-13 06:36:00`|`Escape from Tarkov`|
+|[Rust &#124; Server Side Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/713036-rust-server-bans.html)|`2025-08-13 06:34:00`|`Rust`|
 |[Was working on my friend account to complete his battle pass and they perma ban me fo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/712871-friend-account-complete-battle-pass-perma-ban-fo.html)|`2025-08-13 06:19:00`|`Call of Duty: Black Ops 6`|
 |[how do people equip wonder weapons in zombies loadouts?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/713217-people-equip-wonder-weapons-zombies-loadouts.html)|`2025-08-13 06:17:00`|`Call of Duty: Black Ops 6`|
 |[Wicked Menu/ Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/372512-wicked-menu-cheat-engine.html)|`2025-08-13 06:05:00`|`Red Dead Redemption 2`|
