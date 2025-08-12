@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is there still a memory viewer tool?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/712165-memory-viewer-tool.html)|`2025-08-12 14:32:00`|`League of Legends`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-08-12 14:03:00`|`Other MMORPG and Strategy`|
 |[Battleye kicks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/711465-battleye-kicks.html)|`2025-08-12 13:47:00`|`Grand Theft Auto V`|
 |[FiveM Assets Decryptor &#40;Escrow&#45;Remover&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/712697-fivem-assets-decryptor-escrow-remover.html)|`2025-08-12 13:40:00`|`Alternative Online Mods`|
