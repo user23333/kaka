@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PreserveKillfeed broken](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713055-preservekillfeed-broken.html)|`2025-08-12 17:42:00`|`Counter-Strike 2`|
+|[ROM &#45; Golden Age: Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/713228-rom-golden-age-reversal-structs-offsets.html)|`2025-08-12 17:40:00`|`Other MMORPG and Strategy`|
 |[What are they blocking in the big 2025?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712850-blocking-2025-a.html)|`2025-08-12 17:14:00`|`Valorant`|
 |[no recoil r6s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/712035-recoil-r6s.html)|`2025-08-12 17:02:00`|`Rainbow Six Siege`|
 |[Spoofing Database](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712255-spoofing-database.html)|`2025-08-12 16:55:00`|`Valorant`|
