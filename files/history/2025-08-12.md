@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DXGI&#95;ERROR&#95;INVALID&#95;CALL after Present hook / ExecuteCommandLists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712426-dxgi_error_invalid_call-hook-executecommandlists.html)|`2025-08-12 12:40:00`|`Battlefield 6`|
+|[Rivals UnKnoWn &#91;Internal&#93; &#45; Giving Back to the Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695531-rivals-unknown-internal-giving-community.html)|`2025-08-12 12:32:00`|`Marvel Rivals`|
+|[Everything you need to paste a recoil script&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/390615-paste-recoil-script.html)|`2025-08-12 12:30:00`|`Rust`|
+|[Router Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713068-router-cheat.html)|`2025-08-12 12:22:00`|`Counter-Strike 2`|
+|[Windows 24H2 update broke handle hijacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712194-windows-24h2-update-broke-handle-hijacking.html)|`2025-08-12 12:17:00`|`Counter-Strike 2`|
 |[&#91;RARE&#93; BASED NOSPREAD CONTEXT MENU PURE LUA CHEAT DIRECTED BY ME THE BEST CHEAT 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/712425-rare-based-nospread-context-menu-pure-lua-cheat-directed-cheat-2025-a.html)|`2025-08-12 12:07:00`|`Garry's Mod`|
 |[Hooking a std::map that was compiled back in VS2003](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/712894-hooking-std-map-compiled-vs2003.html)|`2025-08-12 11:54:00`|`C and C++`|
 |[femboy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/712188-femboy.html)|`2025-08-12 11:53:00`|`Off Topic`|
