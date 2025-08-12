@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Was working on my friend account to complete his battle pass and they perma ban me fo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/712871-friend-account-complete-battle-pass-perma-ban-fo.html)|`2025-08-13 06:19:00`|`Call of Duty: Black Ops 6`|
+|[how do people equip wonder weapons in zombies loadouts?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/713217-people-equip-wonder-weapons-zombies-loadouts.html)|`2025-08-13 06:17:00`|`Call of Duty: Black Ops 6`|
 |[Wicked Menu/ Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/372512-wicked-menu-cheat-engine.html)|`2025-08-13 06:05:00`|`Red Dead Redemption 2`|
 |[Hooking a std::map that was compiled back in VS2003](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/712894-hooking-std-map-compiled-vs2003.html)|`2025-08-13 06:00:00`|`C and C++`|
 |[&#91;DMA&#93; COD &#45; ESP &#43; AIM &#40;steam only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700409-dma-cod-esp-aim-steam.html)|`2025-08-13 05:51:00`|`Call of Duty: Black Ops 6`|
