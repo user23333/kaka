@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Brawlhalla Combo Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/712728-brawlhalla-combo-bot.html)|`2025-08-12 18:34:00`|`Other Games`|
+|[bright night flicker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/712842-bright-night-flicker.html)|`2025-08-12 18:21:00`|`Rust`|
+|[PUBG Mobile 3&#46;9 PAK Decryption – Core Function Overview](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/712748-pubg-mobile-3-9-pak-decryption-core-function-overview.html)|`2025-08-12 18:16:00`|`PUBG Mobile`|
 |[Sniper Elite 4 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/692172-sniper-elite-4-internal.html)|`2025-08-12 18:07:00`|`Other MMORPG and Strategy`|
 |[Spider Free External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/711201-spider-free-external.html)|`2025-08-12 17:56:00`|`Alternative Online Mods`|
 |[PreserveKillfeed broken](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713055-preservekillfeed-broken.html)|`2025-08-12 17:42:00`|`Counter-Strike 2`|
