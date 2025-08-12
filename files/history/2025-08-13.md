@@ -25,9 +25,14 @@
 |17|[Graphical hooks &#40;Source code&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50753)|`2025-08-13 00:14:30`|
 |45|[python dma web radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50750)|`2025-08-13 00:14:30`|
 |1|[eaac&#95;dumped&#95;for&#95;analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50790)|`2025-08-13 03:38:43`|
+|3|[asthmaphobia v0&#46;14&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50788)|`2025-08-13 05:20:31`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[shocky undetected aimbot and trigger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713290-shocky-undetected-aimbot-trigger.html)|`2025-08-13 05:19:00`|`Valorant`|
+|[Bodycam Simple Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682418-bodycam-simple-internal.html)|`2025-08-13 05:13:00`|`Other FPS Games`|
+|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-08-13 05:11:00`|`Other FPS Games`|
+|[&#91;LINUX&#93; External Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/696976-linux-external-multihack.html)|`2025-08-13 05:01:00`|`Counter-Strike 2 Releases`|
 |[pls help with asset bundle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/707985-pls-help-asset-bundle.html)|`2025-08-13 04:59:00`|`Rust`|
 |[schema](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712768-schema.html)|`2025-08-13 04:56:00`|`Counter-Strike 2`|
 |[Why this forum is so dead?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/713198-forum-dead.html)|`2025-08-13 04:44:00`|`Overwatch`|
