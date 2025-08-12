@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Autotag,No recoil Logitech &#46;lua script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712629-autotag-recoil-logitech-lua-script.html)|`2025-08-12 16:32:00`|`Battlefield 6`|
 |[Rewriting SteamRemoteStorage&#40;&#41; to make it work without Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/713221-rewriting-steamremotestorage-steam.html)|`2025-08-12 16:21:00`|`General Programming and Reversing`|
 |[eac fw unblock method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712622-eac-fw-unblock-method.html)|`2025-08-12 15:30:00`|`Anti-Cheat Bypass`|
 |[secure boot bypass=no kernel level protection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713009-secure-boot-bypass-kernel-level-protection.html)|`2025-08-12 14:56:00`|`Battlefield 6`|
