@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-08-13 02:25:00`|`League of Legends`|
+|[sploink &#91;cs2 external cheat&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713076-sploink-cs2-external-cheat.html)|`2025-08-13 02:15:00`|`Counter-Strike 2`|
+|[Finally a working External SkinChanger for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689733-finally-external-skinchanger-cs2.html)|`2025-08-13 02:12:00`|`Counter-Strike 2`|
+|[&#91;Mage Arena&#93; MagusToolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711827-mage-arena-magustoolkit.html)|`2025-08-13 02:04:00`|`Other FPS Games`|
+|[help an old cheater out](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712875-help-cheater.html)|`2025-08-13 02:02:00`|`Battlefield 6`|
 |[Marvel Rivals Internal &#124; Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/712774-marvel-rivals-internal-updated.html)|`2025-08-13 01:46:00`|`Marvel Rivals`|
 |[External Valorant Cheat DTC&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711851-external-valorant-cheat-dtc.html)|`2025-08-13 01:36:00`|`Valorant`|
 |[i need Help to unpacking Vmp of a cheat in C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/712950-help-unpacking-vmp-cheat.html)|`2025-08-13 01:12:00`|`General Programming and Reversing`|
