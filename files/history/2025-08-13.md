@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino Jitter&#40;Humanized&#41;&#45;SuperGlide&#40;FPS&#45;ADAPTIVE&#41;&#45;TapStrafe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/710652-arduino-jitter-humanized-superglide-fps-adaptive-tapstrafe.html)|`2025-08-13 05:42:00`|`Apex Legends`|
+|[Does HWID ban from other BE games translate ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/712374-hwid-ban-games-translate.html)|`2025-08-13 05:34:00`|`Rainbow Six Siege`|
 |[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2025-08-13 05:31:00`|`Combat Arms`|
 |[Fully Updated Roblox External Source &#40;centrum&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712673-updated-roblox-external-source-centrum.html)|`2025-08-13 05:29:00`|`Other FPS Games`|
 |[Revolution Idle Anti Cheat Bypass/Freeshop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/711124-revolution-idle-anti-cheat-bypass-freeshop.html)|`2025-08-13 05:23:00`|`Other Games`|
