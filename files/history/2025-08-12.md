@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;RARE&#93; BASED NOSPREAD CONTEXT MENU PURE LUA CHEAT DIRECTED BY ME THE BEST CHEAT 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/712425-rare-based-nospread-context-menu-pure-lua-cheat-directed-cheat-2025-a.html)|`2025-08-12 12:07:00`|`Garry's Mod`|
+|[Hooking a std::map that was compiled back in VS2003](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/712894-hooking-std-map-compiled-vs2003.html)|`2025-08-12 11:54:00`|`C and C++`|
 |[femboy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/712188-femboy.html)|`2025-08-12 11:53:00`|`Off Topic`|
 |[Combat Master Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/708468-combat-master-internal.html)|`2025-08-12 11:34:00`|`Combat Master`|
 |[sploink &#91;cs2 external cheat&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713076-sploink-cs2-external-cheat.html)|`2025-08-12 11:32:00`|`Counter-Strike 2`|
