@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SastashFied Iw5 &#40;Undetected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/712859-sastashfied-iw5-undetected.html)|`2025-08-13 00:48:00`|`Call of Duty: Modern Warfare 3`|
+|[I NEED A SIMPLE ESP BFV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/704516-simple-esp-bfv.html)|`2025-08-13 00:44:00`|`Battlefield V`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-08-13 00:43:00`|`Rust`|
 |[YimMenuV2 not injecting anymore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/713255-yimmenuv2-injecting-anymore.html)|`2025-08-13 00:43:00`|`Grand Theft Auto V`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-08-13 00:40:00`|`Other FPS Games`|
 |[&#91;Mage Arena&#93; ClearModdingFlag BepinEx plugin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/713008-mage-arena-clearmoddingflag-bepinex-plugin.html)|`2025-08-13 00:34:00`|`Other FPS Games`|
