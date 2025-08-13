@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-08-14 07:12:00`|`Farlight 84`|
+|[External Farlight 84 Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/661656-external-farlight-84-free-cheat.html)|`2025-08-14 07:08:00`|`Farlight 84`|
+|[Neuromuscular Aim Assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/713346-neuromuscular-aim-assist.html)|`2025-08-14 07:05:00`|`Off Topic`|
+|[Making an external cheat &#45; the stuff that are important](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/713418-external-cheat-stuff.html)|`2025-08-14 07:05:00`|`Programming for Beginners`|
+|[skin changer writing externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712249-skin-changer-writing-externally.html)|`2025-08-14 07:05:00`|`Counter-Strike 2`|
+|[Lightmoon V2 &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709987-lightmoon-v2-external.html)|`2025-08-14 06:59:00`|`Counter-Strike 2`|
 |[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-08-14 06:51:00`|`Other FPS Games`|
 |[GHub bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/713287-ghub-bypass.html)|`2025-08-14 06:46:00`|`Apex Legends`|
 |[conhost&#45;v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/713416-conhost-v2.html)|`2025-08-14 06:41:00`|`Alternative Online Mods`|
