@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ROM &#45; Golden Age: Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/713228-rom-golden-age-reversal-structs-offsets.html)|`2025-08-13 10:54:00`|`Other MMORPG and Strategy`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-08-13 09:44:00`|`Other FPS Games`|
 |[Bypassing Kernel Memory Integrity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712933-bypassing-kernel-memory-integrity.html)|`2025-08-13 09:36:00`|`Anti-Cheat Bypass`|
 |[CodeStage Anticheat &#45; Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/712704-codestage-anticheat-source-code.html)|`2025-08-13 09:18:00`|`Unity`|
