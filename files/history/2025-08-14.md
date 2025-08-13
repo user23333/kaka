@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Was working on my friend account to complete his battle pass and they perma ban me fo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/712871-friend-account-complete-battle-pass-perma-ban-fo.html)|`2025-08-14 01:33:00`|`Call of Duty: Black Ops 6`|
+|[understanding cheats &#40; plz read &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713373-understanding-cheats-plz-read.html)|`2025-08-14 01:30:00`|`Counter-Strike 2`|
+|[Kernel&#45;Mode Driver for External Cheats &#40;Bypassing EAC, BattleEye, ACE, etc&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713392-kernel-mode-driver-external-cheats-bypassing-eac-battleeye-ace-etc.html)|`2025-08-14 01:29:00`|`Anti-Cheat Bypass`|
+|[Combat Master Full Game Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/712309-combat-master-game-dump.html)|`2025-08-14 01:29:00`|`Combat Master`|
+|[Everything you need to paste a recoil script&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/390615-paste-recoil-script.html)|`2025-08-14 01:28:00`|`Rust`|
+|[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-08-14 01:28:00`|`Other FPS Games`|
 |[VAN &#45;102](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713029-van-102-a.html)|`2025-08-14 01:26:00`|`Valorant`|
 |[Internal Trigger Executor Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/713321-internal-trigger-executor-source.html)|`2025-08-14 01:25:00`|`Alternative Online Mods`|
 |[extracing smoke voxels](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713330-extracing-smoke-voxels.html)|`2025-08-14 01:23:00`|`Counter-Strike 2`|
