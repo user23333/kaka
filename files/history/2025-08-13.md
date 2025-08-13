@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Autotag,No recoil Logitech &#46;lua script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712629-autotag-recoil-logitech-lua-script.html)|`2025-08-13 23:12:00`|`Battlefield 6`|
+|[When will the era of cheating in dma end&Future development](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/579938-era-cheating-dma-future-development.html)|`2025-08-13 23:06:00`|`Anti-Cheat Bypass`|
 |[Intercepting NMIs in Hyper&#45;V Hypervisor &#40;NmiExiting not triggering&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/713262-intercepting-nmis-hyper-hypervisor-nmiexiting-triggering.html)|`2025-08-13 22:20:00`|`General Programming and Reversing`|
 |[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-08-13 21:58:00`|`Other FPS Games`|
 |[External Farlight 84 Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/661656-external-farlight-84-free-cheat.html)|`2025-08-13 21:55:00`|`Farlight 84`|
