@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GHUB LUA MACROS FOR MARVEL RIVALS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/711251-ghub-lua-macros-marvel-rivals.html)|`2025-08-14 02:16:00`|`Marvel Rivals`|
+|[read only external silent aim &#40;kinda&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712556-read-external-silent-aim-kinda.html)|`2025-08-14 02:09:00`|`Valorant`|
+|[cheat engine and x64dbg bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712666-cheat-engine-x64dbg-bypass.html)|`2025-08-14 02:05:00`|`Battlefield 6`|
 |[Was working on my friend account to complete his battle pass and they perma ban me fo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/712871-friend-account-complete-battle-pass-perma-ban-fo.html)|`2025-08-14 01:33:00`|`Call of Duty: Black Ops 6`|
 |[understanding cheats &#40; plz read &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713373-understanding-cheats-plz-read.html)|`2025-08-14 01:30:00`|`Counter-Strike 2`|
 |[Kernel&#45;Mode Driver for External Cheats &#40;Bypassing EAC, BattleEye, ACE, etc&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713392-kernel-mode-driver-external-cheats-bypassing-eac-battleeye-ace-etc.html)|`2025-08-14 01:29:00`|`Anti-Cheat Bypass`|
