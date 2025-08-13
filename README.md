@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-08-13 21:58:00`|`Other FPS Games`|
+|[External Farlight 84 Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/661656-external-farlight-84-free-cheat.html)|`2025-08-13 21:55:00`|`Farlight 84`|
+|[SmmInfect &#45; Smm Backdoor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664482-smminfect-smm-backdoor.html)|`2025-08-13 21:50:00`|`Anti-Cheat Bypass`|
 |[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-08-13 21:43:00`|`PUBG Releases`|
 |[understanding cheats &#40; plz read &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713373-understanding-cheats-plz-read.html)|`2025-08-13 21:40:00`|`Counter-Strike 2`|
 |[Disable secureboot requirement or bypass it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712616-disable-secureboot-requirement-bypass.html)|`2025-08-13 21:38:00`|`Battlefield 6`|
