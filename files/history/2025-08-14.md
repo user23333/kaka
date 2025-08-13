@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[2D Map bound for radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713398-2d-map-bound-radar.html)|`2025-08-14 02:32:00`|`Counter-Strike 2`|
+|[Does magic bullet work externally now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/703104-magic-bullet-externally.html)|`2025-08-14 02:29:00`|`PlanetSide 2`|
+|[Has anyone found a way to get around the script patch?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/712093-found-script-patch.html)|`2025-08-14 02:27:00`|`Rust`|
+|[no recoil r6s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/712035-recoil-r6s.html)|`2025-08-14 02:27:00`|`Rainbow Six Siege`|
+|[Beginner questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/712084-beginner-questions.html)|`2025-08-14 02:26:00`|`Rust`|
+|[Fate Trigger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/713396-fate-trigger-reversal-structs-offsets.html)|`2025-08-14 02:22:00`|`Other FPS Games`|
 |[GHUB LUA MACROS FOR MARVEL RIVALS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/711251-ghub-lua-macros-marvel-rivals.html)|`2025-08-14 02:16:00`|`Marvel Rivals`|
 |[read only external silent aim &#40;kinda&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712556-read-external-silent-aim-kinda.html)|`2025-08-14 02:09:00`|`Valorant`|
 |[cheat engine and x64dbg bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712666-cheat-engine-x64dbg-bypass.html)|`2025-08-14 02:05:00`|`Battlefield 6`|
