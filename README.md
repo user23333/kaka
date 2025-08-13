@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spider Free External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/711201-spider-free-external.html)|`2025-08-14 00:49:00`|`Alternative Online Mods`|
+|[What core functions do I actually need for Esp ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/712707-core-functions-actually-esp.html)|`2025-08-14 00:47:00`|`Rust`|
+|[new Fakeadmin/Debugcamera detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710777-fakeadmin-debugcamera-detection.html)|`2025-08-14 00:42:00`|`Rust`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-08-14 00:41:00`|`Valorant`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-08-14 00:40:00`|`Escape from Tarkov`|
 |[Whats i doing wrong? CreateMove CMD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712986-whats-doing-wrong-createmove-cmd.html)|`2025-08-14 00:36:00`|`Counter-Strike 2`|
 |[Updated GHUB recoil script LUA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/680399-updated-ghub-recoil-script-lua.html)|`2025-08-14 00:32:00`|`Rainbow Six Siege`|
