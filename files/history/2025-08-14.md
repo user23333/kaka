@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fivem decryption tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/706200-fivem-decryption-tool.html)|`2025-08-14 06:33:00`|`Alternative Online Mods`|
+|[New accounts get locked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/713415-accounts-locked.html)|`2025-08-14 06:19:00`|`Overwatch`|
 |[Valorant Offset Collaboration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713414-valorant-offset-collaboration.html)|`2025-08-14 06:10:00`|`Valorant`|
 |[FiveM Assets Decryptor &#40;Escrow&#45;Remover&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/712697-fivem-assets-decryptor-escrow-remover.html)|`2025-08-14 05:55:00`|`Alternative Online Mods`|
 |[NMI & IDTR Patchguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710851-nmi-idtr-patchguard.html)|`2025-08-14 05:47:00`|`Anti-Cheat Bypass`|
