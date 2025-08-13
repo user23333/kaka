@@ -32,9 +32,12 @@
 |4|[Straftat Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50782)|`2025-08-13 11:57:28`|
 |1|[Straftat Unlock All 0&#46;0&#46;0&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50781)|`2025-08-13 11:57:28`|
 |1|[SevenDTDMono 1&#46;1&#46;3&#46;162&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50776)|`2025-08-13 11:57:28`|
+|7|[Palworld Internal1&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50791)|`2025-08-13 12:25:46`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal Trigger Executor Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/713321-internal-trigger-executor-source.html)|`2025-08-13 12:07:00`|`Alternative Online Mods`|
+|[Palworld Internal DX11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/710102-palworld-internal-dx11.html)|`2025-08-13 11:59:00`|`Palworld`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-08-13 11:56:00`|`Phasmophobia`|
 |[Everything you need to paste a recoil script&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/390615-paste-recoil-script.html)|`2025-08-13 11:55:00`|`Rust`|
 |[7 Days to Die](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/455904-7-days-die.html)|`2025-08-13 11:55:00`|`Other FPS Games`|
