@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Python Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/633657-cs2-python-cheat.html)|`2025-08-13 19:01:00`|`Counter-Strike 2 Releases`|
 |[Elgato Virtual Camera &#45; IRP MasterIrp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/709198-elgato-virtual-camera-irp-masterirp.html)|`2025-08-13 18:57:00`|`General Programming and Reversing`|
 |[PML4E Bit Modification Causing MEMORY&#95;MANAGEMENT BSOD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713348-pml4e-bit-modification-causing-memory_management-bsod.html)|`2025-08-13 18:54:00`|`Anti-Cheat Bypass`|
 |[Does magic bullet work externally now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/703104-magic-bullet-externally.html)|`2025-08-13 18:45:00`|`PlanetSide 2`|
