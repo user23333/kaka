@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DIY HPTT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713168-diy-hptt.html)|`2025-08-13 19:38:00`|`Anti-Cheat Bypass`|
+|[&#91;Mage Arena&#93; Awesome New Hacks, Chaos Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712767-mage-arena-awesome-hacks-chaos-menu.html)|`2025-08-13 19:32:00`|`Other FPS Games`|
 |[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2025-08-13 19:19:00`|`Counter-Strike 2 Releases`|
 |[From coding to hacking: An introduction guide to practical &#40;external&#41; game hacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/267073-coding-hacking-introduction-guide-practical-external-game-hacking.html)|`2025-08-13 19:18:00`|`Programming for Beginners`|
 |[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2025-08-13 19:09:00`|`Sea of Thieves`|
