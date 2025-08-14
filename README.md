@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Terminull Brigade](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712094-terminull-brigade.html)|`2025-08-15 04:29:00`|`Other FPS Games`|
+|[Can´t find world&#95;physics&#46;vphys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713526-world_physics-vphys.html)|`2025-08-15 04:27:00`|`Counter-Strike 2`|
+|[Magic bullet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713481-magic-bullet.html)|`2025-08-15 04:25:00`|`Counter-Strike 2`|
+|[Looking for A No Recoil Script for Logitech G Hub](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713524-looking-recoil-script-logitech-hub.html)|`2025-08-15 04:25:00`|`Battlefield 6`|
+|[Mouse AIM ASSIST &#40;controller emu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653697-mouse-aim-assist-controller-emu.html)|`2025-08-15 04:25:00`|`Call of Duty: Black Ops 6`|
+|[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-08-15 04:23:00`|`PUBG Releases`|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-08-15 04:19:00`|`Battlefield 4`|
 |[Company of Heroes 2 SP/MP Tools](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/472523-company-heroes-2-sp-mp-tools.html)|`2025-08-15 04:11:00`|`Other MMORPG and Strategy`|
 |[How to get a list of users from a Rust server?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709774-list-users-rust-server.html)|`2025-08-15 04:06:00`|`Rust`|
 |[X64 Unwinding stack of a mapped driver thread&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713485-x64-unwinding-stack-mapped-driver-thread.html)|`2025-08-15 04:05:00`|`Anti-Cheat Bypass`|
