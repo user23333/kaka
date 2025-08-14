@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[pure mode bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/712773-pure-mode-bypass.html)|`2025-08-15 02:55:00`|`Alternative Online Mods`|
+|[Finally a working External SkinChanger for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689733-finally-external-skinchanger-cs2.html)|`2025-08-15 02:49:00`|`Counter-Strike 2`|
 |[&#91;Mage Arena&#93; MagusToolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711827-mage-arena-magustoolkit.html)|`2025-08-15 02:46:00`|`Other FPS Games`|
 |[Dying Light 1 &#40;V1&#46;50&#41; Internal &#124; Aimbot, ESP,&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/688897-dying-light-1-v1-50-internal-aimbot-esp.html)|`2025-08-15 02:43:00`|`Other FPS Games`|
 |[asa family share?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/713338-asa-family-share.html)|`2025-08-15 02:41:00`|`Other FPS Games`|
