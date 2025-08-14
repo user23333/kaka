@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[sploink &#91;cs2 external cheat&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713076-sploink-cs2-external-cheat.html)|`2025-08-14 11:34:00`|`Counter-Strike 2`|
+|[how to find effects externally?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/713439-effects-externally.html)|`2025-08-14 11:20:00`|`Rust`|
 |[152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713438-152.html)|`2025-08-14 11:05:00`|`Valorant`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-08-14 10:43:00`|`Grand Theft Auto V`|
 |[VAL RESTRICTION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713436-val-restriction.html)|`2025-08-14 10:36:00`|`Valorant`|
