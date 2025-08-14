@@ -31,9 +31,13 @@
 |1|[DMA&#45;WarThunder&#45;SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50811)|`2025-08-14 21:49:42`|
 |1|[Farlight 4&#46;25&#46;3&#45;1310357](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50809)|`2025-08-14 21:49:42`|
 |1|[Schedule I &#45; Internal v4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50810)|`2025-08-14 21:58:35`|
+|2|[Fortnite&#45;Release&#45;37&#46;00&#45;CL&#45;44765404 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50806)|`2025-08-14 22:17:18`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-08-14 22:16:00`|`Other FPS Games`|
+|[hyper&#45;reV &#45; memory introspection &#43; reverse engineering powered by leveraging Hyper&#45;V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709634-hyper-rev-memory-introspection-reverse-engineering-powered-leveraging-hyper.html)|`2025-08-14 22:07:00`|`Anti-Cheat Bypass`|
+|[&#91;Mage Arena&#93; Shadow Government Toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712526-mage-arena-shadow-government-toolkit.html)|`2025-08-14 22:04:00`|`Other FPS Games`|
 |[Spoofer for TF2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/713400-spoofer-tf2.html)|`2025-08-14 21:43:00`|`Team Fortress 2`|
 |[Grenade prediction path](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/712056-grenade-prediction-path.html)|`2025-08-14 21:23:00`|`Playerunknown's Battlegrounds`|
 |[try to do nospread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/713478-try-nospread.html)|`2025-08-14 21:11:00`|`Apex Legends`|
