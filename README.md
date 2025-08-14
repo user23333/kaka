@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Whats i doing wrong? CreateMove CMD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712986-whats-doing-wrong-createmove-cmd.html)|`2025-08-15 01:05:00`|`Counter-Strike 2`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-08-15 01:02:00`|`Counter-Strike 2`|
 |[⚜︎ JARVIS VGC EMULATOR ⚜︎  —  ⚜︎ UNDETECTABLE ⚜︎](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712713-jarvis-vgc-emulator-undetectable.html)|`2025-08-15 00:55:00`|`Valorant`|
 |[Marvel Rivals Internal &#124; Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/712774-marvel-rivals-internal-updated.html)|`2025-08-15 00:52:00`|`Marvel Rivals`|
 |[Banned in Battlefield 6 &#45; Data Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713413-banned-battlefield-6-data-collection-thread.html)|`2025-08-15 00:40:00`|`Battlefield 6`|
