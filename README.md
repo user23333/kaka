@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[looking for developers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/713533-looking-developers.html)|`2025-08-15 06:14:00`|`Apex Legends`|
+|[CounterStrike Source Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/157661-counterstrike-source-reversal-structs-offsets.html)|`2025-08-15 06:04:00`|`CounterStrike Source`|
 |[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-08-15 05:47:00`|`Call of Duty: Black Ops 3`|
 |[Unlock Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/713530-unlock-tool.html)|`2025-08-15 05:41:00`|`Call of Duty: Modern Warfare III`|
 |[Does anyone know the latest Getsecre function? t](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/713529-getsecre-function.html)|`2025-08-15 05:37:00`|`Battlefield V`|
