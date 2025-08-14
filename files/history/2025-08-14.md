@@ -27,9 +27,14 @@
 |21|[Straftat Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50782)|`2025-08-14 00:21:29`|
 |9|[Straftat Unlock All 0&#46;0&#46;0&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50781)|`2025-08-14 00:21:29`|
 |37|[Rules&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50780)|`2025-08-14 00:21:29`|
+|1|[Marvel Rivals SDK &#40;14/08/2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50812)|`2025-08-14 21:49:42`|
+|1|[DMA&#45;WarThunder&#45;SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50811)|`2025-08-14 21:49:42`|
+|1|[Farlight 4&#46;25&#46;3&#45;1310357](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50809)|`2025-08-14 21:49:42`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spoofer for TF2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/713400-spoofer-tf2.html)|`2025-08-14 21:43:00`|`Team Fortress 2`|
+|[Grenade prediction path](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/712056-grenade-prediction-path.html)|`2025-08-14 21:23:00`|`Playerunknown's Battlegrounds`|
 |[try to do nospread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/713478-try-nospread.html)|`2025-08-14 21:11:00`|`Apex Legends`|
 |[GTA ONLINE ENHANCED ALL AWARDS STATS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701294-gta-online-enhanced-awards-stats.html)|`2025-08-14 20:36:00`|`Grand Theft Auto V`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-08-14 20:29:00`|`Rainbow Six Siege`|
