@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SMOKE ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712230-smoke-esp.html)|`2025-08-15 01:39:00`|`Counter-Strike 2`|
 |[360 cranium removal bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/713500-360-cranium-removal-bot.html)|`2025-08-15 01:26:00`|`Combat Master`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-08-15 01:20:00`|`Call of Duty: Black Ops 6`|
 |[Whats i doing wrong? CreateMove CMD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712986-whats-doing-wrong-createmove-cmd.html)|`2025-08-15 01:05:00`|`Counter-Strike 2`|
