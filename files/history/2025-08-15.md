@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Company of Heroes 2 SP/MP Tools](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/472523-company-heroes-2-sp-mp-tools.html)|`2025-08-15 04:11:00`|`Other MMORPG and Strategy`|
+|[How to get a list of users from a Rust server?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709774-list-users-rust-server.html)|`2025-08-15 04:06:00`|`Rust`|
+|[X64 Unwinding stack of a mapped driver thread&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713485-x64-unwinding-stack-mapped-driver-thread.html)|`2025-08-15 04:05:00`|`Anti-Cheat Bypass`|
+|[The Texas Chainsaw Massacre Tool &#45; Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712655-texas-chainsaw-massacre-tool-internal-cheat.html)|`2025-08-15 03:53:00`|`Other FPS Games`|
+|[Arduino Working Jitter aim bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703532-arduino-jitter-aim-bypass.html)|`2025-08-15 03:52:00`|`Apex Legends`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-08-15 03:56:00`|`Phasmophobia`|
 |[Ra Ra BOOM Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/713515-ra-ra-boom-cheat.html)|`2025-08-15 03:51:00`|`Cheat Engine Tables`|
 |[Spoofer for TF2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/713400-spoofer-tf2.html)|`2025-08-15 03:51:00`|`Team Fortress 2`|
