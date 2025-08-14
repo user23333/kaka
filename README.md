@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Mage Arena&#93; Awesome New Hacks, Chaos Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712767-mage-arena-awesome-hacks-chaos-menu.html)|`2025-08-14 13:39:00`|`Other FPS Games`|
 |[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-08-14 13:10:00`|`Grand Theft Auto V`|
 |[🧠 Looking for Lords Mobile Network&#45;Based Bot Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/704171-looking-lords-mobile-network-based-bot-source.html)|`2025-08-14 12:58:00`|`Other Games`|
 |[Technical Questions on Vanguard's Secure Boot & TPM Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709752-technical-questions-vanguards-secure-boot-tpm-detection.html)|`2025-08-14 12:57:00`|`Valorant`|
