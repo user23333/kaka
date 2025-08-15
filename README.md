@@ -28,6 +28,8 @@
 |180|[asthmaphobia v0&#46;14&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50788)|`2025-08-15 00:20:13`|
 |5|[Valorant External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50818)|`2025-08-15 06:53:00`|
 |1|[LucidBot BFsix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50821)|`2025-08-15 06:59:00`|
+|5|[Outlast Trials Tool &#45; V3&#46;01](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50828)|`2025-08-15 17:44:23`|
+|1|[cod external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50826)|`2025-08-15 17:44:23`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
