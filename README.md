@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat Broke after recent 8/14/25 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713590-cheat-broke-recent-8-14-25-update.html)|`2025-08-16 01:39:00`|`Counter-Strike 2`|
+|[Spider Free External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/711201-spider-free-external.html)|`2025-08-16 01:34:00`|`Alternative Online Mods`|
 |[DrawLines in ISurface acting up](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/713201-drawlines-isurface-acting.html)|`2025-08-16 01:50:00`|`Garry's Mod`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-08-16 01:48:00`|`Apex Legends`|
 |[R6S External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/711453-r6s-external-base.html)|`2025-08-16 01:39:00`|`Rainbow Six Siege`|
