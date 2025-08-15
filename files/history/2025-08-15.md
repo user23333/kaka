@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Free Farlight External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/713600-free-farlight-external.html)|`2025-08-15 19:31:00`|`Farlight 84`|
+|[Kernel&#45;Mode Driver for External Cheats &#40;Bypassing EAC, BattleEye, ACE, etc&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713392-kernel-mode-driver-external-cheats-bypassing-eac-battleeye-ace-etc.html)|`2025-08-15 19:31:00`|`Anti-Cheat Bypass`|
 |[external BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/702640-external-bo6.html)|`2025-08-15 19:19:00`|`Call of Duty: Black Ops 6`|
 |[&#91;Mage Arena&#93; Shadow Government Toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712526-mage-arena-shadow-government-toolkit.html)|`2025-08-15 19:19:00`|`Other FPS Games`|
 |[Use soft&#45;routing to bypass the VAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713337-soft-routing-bypass-vac.html)|`2025-08-15 19:07:00`|`Counter-Strike 2`|
