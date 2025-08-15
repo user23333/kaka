@@ -13,6 +13,7 @@
 |18|[&#91;Mage Arena&#93; Awesome New Hacks, Chaos Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712767-mage-arena-awesome-hacks-chaos-menu.html)|`2025-08-16 00:23:00`|`other-fps-games`|
 |13|[help an old cheater out](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712875-help-cheater.html)|`2025-08-16 01:09:52`|`battlefield-6-a`|
 |12|[Genshin Impact 5&#46;8 Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/712706-genshin-impact-5-8-table.html)|`2025-08-16 01:09:52`|`genshin-impact`|
+|9|[LucidBot AutoSpotter & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713528-lucidbot-autospotter.html)|`2025-08-16 02:56:50`|`battlefield-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cheat engine and x64dbg bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712666-cheat-engine-x64dbg-bypass.html)|`2025-08-16 02:53:00`|`Battlefield 6`|
+|[TPM AND SB BYPASS &#43; SPOOFER &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/623808-tpm-sb-bypass-spoofer.html)|`2025-08-16 02:47:00`|`Valorant`|
 |[Technical Questions on Vanguard's Secure Boot & TPM Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709752-technical-questions-vanguards-secure-boot-tpm-detection.html)|`2025-08-16 02:41:00`|`Valorant`|
 |[REPO Simple Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/689820-repo-simple-cheat.html)|`2025-08-16 02:35:00`|`Other MMORPG and Strategy`|
 |[GTA5 Enhanced Basic Dumper &#91;DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700169-gta5-enhanced-basic-dumper-dma.html)|`2025-08-16 02:34:00`|`Grand Theft Auto V`|
