@@ -29,6 +29,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Newbie want to start codding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/713605-newbie-start-codding.html)|`2025-08-16 01:30:00`|`ARMA 3`|
+|[LucidBot AutoSpotter & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713528-lucidbot-autospotter.html)|`2025-08-16 01:27:00`|`Battlefield 6`|
+|[WarThunder DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/713460-warthunder-dma.html)|`2025-08-16 01:26:00`|`Other MMORPG and Strategy`|
+|[Blue Archive Cheat — Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/710592-blue-archive-cheat-steam.html)|`2025-08-16 01:22:00`|`Other MMORPG and Strategy`|
+|[Helldivers 2 Undetected Features by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/704156-helldivers-2-undetected-features-igromanru.html)|`2025-08-16 01:22:00`|`HELLDIVERS 2`|
+|[EVO3 &#124; Updated External Legit/Semi&#45;Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/713273-evo3-updated-external-legit-semi-rage-cheat.html)|`2025-08-16 01:16:00`|`Counter-Strike 2 Releases`|
+|[Fast Opencv Color Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/quake-champions/451839-fast-opencv-color-aimbot.html)|`2025-08-16 01:11:00`|`Quake Champions`|
+|[Banned in Battlefield 6 &#45; Data Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713413-banned-battlefield-6-data-collection-thread.html)|`2025-08-16 01:10:00`|`Battlefield 6`|
 |[Dying Light 1 &#40;V1&#46;50&#41; Internal &#124; Aimbot, ESP,&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/688897-dying-light-1-v1-50-internal-aimbot-esp.html)|`2025-08-16 01:09:00`|`Other FPS Games`|
 |[Spoofing Database](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712255-spoofing-database.html)|`2025-08-16 01:08:00`|`Valorant`|
 |[⚜︎ JARVIS VGC EMULATOR ⚜︎  —  ⚜︎ UNDETECTABLE ⚜︎](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712713-jarvis-vgc-emulator-undetectable.html)|`2025-08-16 01:02:00`|`Valorant`|
