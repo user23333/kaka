@@ -31,9 +31,11 @@
 |5|[Outlast Trials Tool &#45; V3&#46;01](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50828)|`2025-08-15 17:44:23`|
 |1|[cod external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50826)|`2025-08-15 17:44:23`|
 |2|[PhasmoMenu v0&#46;5&#46;7&#46;1 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50823)|`2025-08-15 17:50:48`|
+|1|[Selective Mods Hider](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50808)|`2025-08-15 17:56:40`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[conhost&#45;v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/713416-conhost-v2.html)|`2025-08-15 17:52:00`|`Alternative Online Mods`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-08-15 17:45:00`|`Phasmophobia`|
 |[Found a way to spoof dell pcs but need ur help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709681-found-spoof-dell-pcs-ur-help.html)|`2025-08-15 17:25:00`|`Valorant`|
 |[cheat engine and x64dbg bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712666-cheat-engine-x64dbg-bypass.html)|`2025-08-15 17:18:00`|`Battlefield 6`|
