@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[kdmapper driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/713611-kdmapper-driver.html)|`2025-08-15 20:57:00`|`Rainbow Six Siege`|
+|[What is the best full BE bypass to buy?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/713609-bypass-buy.html)|`2025-08-15 20:48:00`|`Grand Theft Auto V`|
+|[TREVOR V2 &#124; Simple & Secure GUI &#46;DLL Injector for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708373-trevor-v2-simple-secure-gui-dll-injector-cs2.html)|`2025-08-15 20:41:00`|`Counter-Strike 2`|
 |[&#91;BLT&#93; Selective DLC Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/185930-blt-selective-dlc-unlocker.html)|`2025-08-15 20:08:00`|`Payday 2`|
 |[Free Farlight External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/713600-free-farlight-external.html)|`2025-08-15 19:31:00`|`Farlight 84`|
 |[Kernel&#45;Mode Driver for External Cheats &#40;Bypassing EAC, BattleEye, ACE, etc&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713392-kernel-mode-driver-external-cheats-bypassing-eac-battleeye-ace-etc.html)|`2025-08-15 19:31:00`|`Anti-Cheat Bypass`|
