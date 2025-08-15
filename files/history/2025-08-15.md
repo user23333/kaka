@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Found a way to spoof dell pcs but need ur help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709681-found-spoof-dell-pcs-ur-help.html)|`2025-08-15 17:25:00`|`Valorant`|
+|[cheat engine and x64dbg bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712666-cheat-engine-x64dbg-bypass.html)|`2025-08-15 17:18:00`|`Battlefield 6`|
+|[Fast BHop in Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711250-fast-bhop-python.html)|`2025-08-15 17:14:00`|`Counter-Strike 2 Releases`|
 |[Simple offset dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/713312-simple-offset-dumper.html)|`2025-08-15 16:53:00`|`Alternative Online Mods`|
 |[BF6 second week beta test new map trial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713463-bf6-week-beta-test-map-trial.html)|`2025-08-15 16:09:00`|`Battlefield 6`|
 |[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-08-15 15:46:00`|`Other FPS Games`|
