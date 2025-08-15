@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EVO3 &#124; Updated External Legit/Semi&#45;Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/713273-evo3-updated-external-legit-semi-rage-cheat.html)|`2025-08-15 23:38:00`|`Counter-Strike 2 Releases`|
 |[Cheat Broke after recent 8/14/25 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713590-cheat-broke-recent-8-14-25-update.html)|`2025-08-15 23:05:00`|`Counter-Strike 2`|
 |[Battle Eye AC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713631-battle-eye-ac.html)|`2025-08-15 22:54:00`|`Anti-Cheat Bypass`|
 |[Intercepting NMIs in Hyper&#45;V Hypervisor &#40;NmiExiting not triggering&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/713262-intercepting-nmis-hyper-hypervisor-nmiexiting-triggering.html)|`2025-08-15 22:51:00`|`General Programming and Reversing`|
