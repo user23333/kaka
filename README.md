@@ -29,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TPM spoofing guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713559-tpm-spoofing-guide.html)|`2025-08-15 08:46:00`|`Valorant`|
+|[Windows 24H2 update broke handle hijacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712194-windows-24h2-update-broke-handle-hijacking.html)|`2025-08-15 08:40:00`|`Counter-Strike 2`|
+|[Upcoming Release&#33; Looking for Feature suggestions? &#45; External, Read Only, Kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707603-upcoming-release-looking-feature-suggestions-external-read-kernel.html)|`2025-08-15 08:34:00`|`Counter-Strike 2`|
+|[skin changer writing externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712249-skin-changer-writing-externally.html)|`2025-08-15 08:27:00`|`Counter-Strike 2`|
+|[All Mouse NoRecoil 1&#46;0 IS OUT &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-1-0-recoil-helpy-auto-config-probably-ud-universal.html)|`2025-08-15 08:25:00`|`Rainbow Six Siege`|
+|[Advanced norecoil script for esp32s3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710109-advanced-norecoil-script-esp32s3.html)|`2025-08-15 08:18:00`|`Rust`|
+|[Battlefield 1 &#45; 2x Damage Multiplier](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/500253-battlefield-1-2x-damage-multiplier.html)|`2025-08-15 08:15:00`|`Battlefield 1`|
 |[C&#43;&#43; SPT Aki 3&#46;11&#46;3 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/713092-spt-aki-3-11-3-internal.html)|`2025-08-15 07:33:00`|`Escape from Tarkov`|
 |[Peak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706121-peak.html)|`2025-08-15 07:27:00`|`Other Games`|
 |[Sigmaker failed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713554-sigmaker-failed.html)|`2025-08-15 07:26:00`|`Counter-Strike 2`|
