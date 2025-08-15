@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-08-15 10:31:00`|`Grand Theft Auto V`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-08-15 10:13:00`|`Escape from Tarkov`|
+|[Curious about the recent viral clips about RileyCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713301-curious-recent-viral-clips-rileycs.html)|`2025-08-15 09:41:00`|`Battlefield 6`|
+|[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-08-15 09:31:00`|`Grand Theft Auto V`|
 |[TPM spoofing guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713559-tpm-spoofing-guide.html)|`2025-08-15 08:46:00`|`Valorant`|
 |[Windows 24H2 update broke handle hijacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712194-windows-24h2-update-broke-handle-hijacking.html)|`2025-08-15 08:40:00`|`Counter-Strike 2`|
 |[Upcoming Release&#33; Looking for Feature suggestions? &#45; External, Read Only, Kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707603-upcoming-release-looking-feature-suggestions-external-read-kernel.html)|`2025-08-15 08:34:00`|`Counter-Strike 2`|
