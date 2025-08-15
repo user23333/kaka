@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Technical Questions on Vanguard's Secure Boot & TPM Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709752-technical-questions-vanguards-secure-boot-tpm-detection.html)|`2025-08-16 02:41:00`|`Valorant`|
+|[REPO Simple Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/689820-repo-simple-cheat.html)|`2025-08-16 02:35:00`|`Other MMORPG and Strategy`|
+|[GTA5 Enhanced Basic Dumper &#91;DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/700169-gta5-enhanced-basic-dumper-dma.html)|`2025-08-16 02:34:00`|`Grand Theft Auto V`|
+|[Reading map geometry for external raycast](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713670-reading-map-geometry-external-raycast.html)|`2025-08-16 02:29:00`|`Counter-Strike 2`|
+|[anti ddos&#40;Prevent disconnection&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/713371-anti-ddos-prevent-disconnection.html)|`2025-08-16 02:27:00`|`Apex Legends`|
 |[Cheat Broke after recent 8/14/25 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713590-cheat-broke-recent-8-14-25-update.html)|`2025-08-16 01:39:00`|`Counter-Strike 2`|
 |[Spider Free External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/711201-spider-free-external.html)|`2025-08-16 01:34:00`|`Alternative Online Mods`|
 |[DrawLines in ISurface acting up](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/713201-drawlines-isurface-acting.html)|`2025-08-16 01:50:00`|`Garry's Mod`|
