@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[themida anti&#45;debug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/713629-themida-anti-debug.html)|`2025-08-15 22:37:00`|`General Programming and Reversing`|
 |[How to Find Offsets in Cheat Engine &#40;Using Health Address as Example&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/709268-offsets-cheat-engine-using-health-address-example.html)|`2025-08-15 21:44:00`|`League of Legends`|
 |[&#91;DMA&#93; ESP &#43; AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/701785-dma-esp-aim.html)|`2025-08-15 21:42:00`|`Battlefield 4`|
 |[Helldivers 2 Undetected Features by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/704156-helldivers-2-undetected-features-igromanru.html)|`2025-08-15 21:12:00`|`HELLDIVERS 2`|
