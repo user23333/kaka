@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Paid TPM Spoofer for free&#40;signed driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713718-paid-tpm-spoofer-free-signed-driver.html)|`2025-08-16 11:48:00`|`Valorant`|
+|[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2025-08-16 11:35:00`|`Other Games`|
+|[&#91;Mage Arena&#93; Awesome New Hacks, Chaos Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712767-mage-arena-awesome-hacks-chaos-menu.html)|`2025-08-16 11:09:00`|`Other FPS Games`|
+|[BLACK STIGMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/710810-black-stigma.html)|`2025-08-16 10:34:00`|`Cheat Engine Tables`|
 |[Tanks Blitz &#40;Lesta&#41; ESP Player's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/711725-tanks-blitz-lesta-esp-players.html)|`2025-08-16 10:21:00`|`Other MMORPG and Strategy`|
 |[&#91;BloodStrike PC WallHack&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/713715-bloodstrike-pc-wallhack.html)|`2025-08-16 09:58:00`|`Other FPS Games`|
 |[any ahk aimbot or cheat atm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712772-ahk-aimbot-cheat-atm.html)|`2025-08-16 09:34:00`|`Battlefield 6`|
