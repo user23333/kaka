@@ -18,6 +18,8 @@
 |24|[Why this forum is so dead?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/713198-forum-dead.html)|`2025-08-16 17:40:02`|`overwatch`|
 |3|[secure boot bypass=no kernel level protection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713009-secure-boot-bypass-kernel-level-protection.html)|`2025-08-16 18:34:12`|`battlefield-6-a`|
 |6|[Banned in Battlefield 6 &#45; Data Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713413-banned-battlefield-6-data-collection-thread.html)|`2025-08-16 19:10:57`|`battlefield-6-a`|
+|19|[Free Farlight External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/713600-free-farlight-external.html)|`2025-08-16 20:59:44`|`farlight-84-a`|
+|20|[External B06 &#40;ESP &#43; Name &#43; Health &#43; KD, etc&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/713576-external-b06-esp-name-health-kd-etc.html)|`2025-08-16 20:59:44`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -40,6 +42,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[99% auto updatable Simple Internal Cheat &#40;no need decryption&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/682116-99-auto-updatable-simple-internal-cheat-decryption.html)|`2025-08-16 20:35:00`|`Rust`|
+|[Razer Synapse Jitter macro that doesn't drift and actually worksl](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/713579-razer-synapse-jitter-macro-doesnt-drift-actually-worksl.html)|`2025-08-16 20:31:00`|`Apex Legends`|
 |[Send client side chat message](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706821-send-client-chat-message.html)|`2025-08-16 20:08:00`|`Counter-Strike 2`|
 |[silence = everything&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/696887-silence.html)|`2025-08-16 19:49:00`|`Off Topic`|
 |[Summoners War: Chronicles Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/522468-summoners-war-chronicles-cheats.html)|`2025-08-16 19:47:00`|`Other MMORPG and Strategy`|
