@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Grenade prediction path](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/712056-grenade-prediction-path.html)|`2025-08-16 15:38:00`|`Playerunknown's Battlegrounds`|
 |[How to learn to make a temp swoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/713733-learn-temp-swoofer.html)|`2025-08-16 15:34:00`|`Forum General`|
 |[Loki SCP: Secret Laboratory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/704266-loki-scp-secret-laboratory.html)|`2025-08-16 15:02:00`|`Other Games`|
 |[Revolution Idle Anti Cheat Bypass/Freeshop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/711124-revolution-idle-anti-cheat-bypass-freeshop.html)|`2025-08-16 14:52:00`|`Other Games`|
