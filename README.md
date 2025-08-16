@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[WinLRPC&#45;Hunter &#45; Local RPC Endpoint Scanner for Research](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713095-winlrpc-hunter-local-rpc-endpoint-scanner-research.html)|`2025-08-17 01:42:00`|`Anti-Cheat Bypass`|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-08-17 01:41:00`|`Counter-Strike 2 Releases`|
+|[offset help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713692-offset-help.html)|`2025-08-17 01:38:00`|`Counter-Strike 2`|
 |[BF6 DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712831-bf6-dma.html)|`2025-08-17 01:35:00`|`Battlefield 6`|
 |[POLYGON basic external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710575-polygon-basic-external.html)|`2025-08-17 01:32:00`|`Other FPS Games`|
 |[External hitbox triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704473-external-hitbox-triggerbot.html)|`2025-08-17 01:30:00`|`Counter-Strike 2`|
