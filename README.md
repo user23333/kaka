@@ -32,9 +32,11 @@
 |2|[TPM&#45;magic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50834)|`2025-08-17 04:09:52`|
 |3|[Lightmoon V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50841)|`2025-08-17 04:29:36`|
 |3|[pdfwkrnl&#45;exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50835)|`2025-08-17 04:29:36`|
+|1|[Palworld Internal1&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50832)|`2025-08-17 04:47:36`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Palworld Internal DX11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/710102-palworld-internal-dx11.html)|`2025-08-17 04:44:00`|`Palworld`|
 |[conhost&#45;v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/713416-conhost-v2.html)|`2025-08-17 04:31:00`|`Alternative Online Mods`|
 |[Rust External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/713701-rust-external-base.html)|`2025-08-17 04:29:00`|`Rust`|
 |[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2025-08-17 04:27:00`|`DayZ SA`|
