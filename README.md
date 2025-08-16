@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Tanks Blitz &#40;Lesta&#41; ESP Player's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/711725-tanks-blitz-lesta-esp-players.html)|`2025-08-16 10:21:00`|`Other MMORPG and Strategy`|
+|[&#91;BloodStrike PC WallHack&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/713715-bloodstrike-pc-wallhack.html)|`2025-08-16 09:58:00`|`Other FPS Games`|
 |[any ahk aimbot or cheat atm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712772-ahk-aimbot-cheat-atm.html)|`2025-08-16 09:34:00`|`Battlefield 6`|
 |[Asus BIOS spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713113-asus-bios-spoof.html)|`2025-08-16 09:33:00`|`Valorant`|
 |[Hooking a std::map that was compiled back in VS2003](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/712894-hooking-std-map-compiled-vs2003.html)|`2025-08-16 09:22:00`|`C and C++`|
