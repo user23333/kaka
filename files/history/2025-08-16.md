@@ -42,6 +42,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Roblox external dex / framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/713794-roblox-external-dex-framework.html)|`2025-08-16 23:48:00`|`Other Games`|
 |[How do I bypass anti cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713182-bypass-anti-cheats.html)|`2025-08-16 23:43:00`|`Anti-Cheat Bypass`|
 |[Draw models in main menu &#40; easy &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/713792-draw-models-main-menu-easy.html)|`2025-08-16 23:26:00`|`Team Fortress 2`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-08-16 23:13:00`|`Other MMORPG and Strategy`|
