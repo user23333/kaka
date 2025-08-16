@@ -42,6 +42,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Draw models in main menu &#40; easy &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/713792-draw-models-main-menu-easy.html)|`2025-08-16 23:26:00`|`Team Fortress 2`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-08-16 23:13:00`|`Other MMORPG and Strategy`|
+|[any advice on just cheating the camos?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/713473-advice-cheating-camos.html)|`2025-08-16 23:13:00`|`Call of Duty: Black Ops 6`|
+|[external silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/692753-external-silent-aim.html)|`2025-08-16 23:03:00`|`Counter-Strike 2`|
 |[Eyes the horror game PC &#124; Internal v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/713714-eyes-horror-game-pc-internal-v1.html)|`2025-08-16 23:03:00`|`Other Single Player Games`|
 |[BF6 Anti&#45;Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713778-bf6-anti-recoil.html)|`2025-08-16 22:57:00`|`Battlefield 6`|
 |[Escrow remover aviable somwhere?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/713672-escrow-remover-aviable-somwhere.html)|`2025-08-16 22:55:00`|`Alternative Online Mods`|
