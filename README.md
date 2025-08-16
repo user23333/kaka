@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I want to get everything on my ps5 account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/712897-ps5-account.html)|`2025-08-16 17:48:00`|`Call of Duty: Black Ops Cold War`|
+|[How to grind HG &#40;Hourglass Cheese&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/713751-grind-hg-hourglass-cheese.html)|`2025-08-16 17:48:00`|`Sea of Thieves`|
+|[God exists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/697595-god-exists.html)|`2025-08-16 17:47:00`|`Off Topic`|
 |[VAN &#45;102](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713029-van-102-a.html)|`2025-08-16 17:40:00`|`Valorant`|
 |[King's Blade](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/713747-kings-blade.html)|`2025-08-16 17:23:00`|`Cheat Engine Tables`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-08-16 17:22:00`|`Other FPS Games`|
