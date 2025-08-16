@@ -28,9 +28,18 @@
 |28|[Schedule I &#45; Internal v4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50810)|`2025-08-16 00:23:00`|
 |33|[Farlight 4&#46;25&#46;3&#45;1310357](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50809)|`2025-08-16 00:23:00`|
 |3|[Selective Mods Hider](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50808)|`2025-08-16 00:23:00`|
+|0|[Modded&#95;f6&#95;gigabyte&#95;aorusZ790&#95;elite&#95;ax&#95;ice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50822)|`2025-08-16 14:44:12`|
+|2|[asthmaphobia v0&#46;14&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50820)|`2025-08-16 14:44:12`|
+|2|[360 Flesh Ripper v31&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50815)|`2025-08-16 14:44:12`|
+|2|[Color bot version 2 updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50814)|`2025-08-16 14:44:12`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TPM spoofing guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713559-tpm-spoofing-guide.html)|`2025-08-16 14:41:00`|`Valorant`|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-08-16 14:38:00`|`Phasmophobia`|
+|[Rage &#124; astrals tech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/713369-rage-astrals-tech.html)|`2025-08-16 14:35:00`|`Among Us`|
+|[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2025-08-16 14:34:00`|`Counter-Strike 2 Releases`|
+|[POLYGON basic external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710575-polygon-basic-external.html)|`2025-08-16 14:29:00`|`Other FPS Games`|
 |[C&#43;&#43; SPT Aki 3&#46;11&#46;3 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/713092-spt-aki-3-11-3-internal.html)|`2025-08-16 14:13:00`|`Escape from Tarkov`|
 |[WinLRPC&#45;Hunter &#45; Local RPC Endpoint Scanner for Research](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713095-winlrpc-hunter-local-rpc-endpoint-scanner-research.html)|`2025-08-16 14:10:00`|`Anti-Cheat Bypass`|
 |[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-08-16 13:52:00`|`Call of Duty: Black Ops 3`|
