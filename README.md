@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-08-17 01:26:00`|`Other FPS Games`|
+|[Battlefield 6 &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712081-battlefield-6-reversal-structs-offsets.html)|`2025-08-17 01:11:00`|`Battlefield 6`|
 |[Rubinium &#124; Free Inventory Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/713776-rubinium-free-inventory-changer.html)|`2025-08-17 01:09:00`|`Counter-Strike 2 Releases`|
 |[SCP: CB Multiplayer Reborn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/711265-scp-cb-multiplayer-reborn.html)|`2025-08-17 01:07:00`|`Other Games`|
 |[New Updated Fully Working Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708891-updated-triggerbot.html)|`2025-08-17 01:04:00`|`Valorant`|
