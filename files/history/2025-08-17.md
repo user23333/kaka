@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do I bypass anti cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713182-bypass-anti-cheats.html)|`2025-08-17 03:05:00`|`Anti-Cheat Bypass`|
+|[Event/Trophy Savegame Keys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/617303-event-trophy-savegame-keys.html)|`2025-08-17 03:03:00`|`Phasmophobia`|
+|[cheat engine and x64dbg bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712666-cheat-engine-x64dbg-bypass.html)|`2025-08-17 02:59:00`|`Battlefield 6`|
 |[External Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713828-external-skin-changer.html)|`2025-08-17 02:49:00`|`Counter-Strike 2`|
 |[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-08-17 02:48:00`|`Farlight 84`|
 |[Entity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/713827-entity.html)|`2025-08-17 02:45:00`|`Alternative Online Mods`|
