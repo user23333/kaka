@@ -27,9 +27,16 @@
 |1|[External&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50844)|`2025-08-17 02:14:14`|
 |1|[spt&#95;internal&#95;3&#95;11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50836)|`2025-08-17 02:14:14`|
 |2|[Dominate&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50829)|`2025-08-17 03:43:16`|
+|18|[Dominate&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50839)|`2025-08-17 04:09:52`|
+|2|[TPM&#45;magic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50834)|`2025-08-17 04:09:52`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TPM Spoofer for free &#40;signed driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713720-tpm-spoofer-free-signed-driver.html)|`2025-08-17 04:09:00`|`Valorant`|
+|[Diskjacker &#45; Runtime Hyper&#45;V Hijacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713325-diskjacker-runtime-hyper-hijacking.html)|`2025-08-17 04:08:00`|`Anti-Cheat Bypass`|
+|[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2025-08-17 04:03:00`|`Other Games`|
+|[DrawLines in ISurface acting up](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/713201-drawlines-isurface-acting.html)|`2025-08-17 04:02:00`|`Garry's Mod`|
+|[How to unlock rare costumes with YimMenuV2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703518-unlock-rare-costumes-yimmenuv2.html)|`2025-08-17 04:00:00`|`Grand Theft Auto V`|
 |[&#91;BloodStrike PC WallHack&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/713715-bloodstrike-pc-wallhack.html)|`2025-08-17 03:46:00`|`Other FPS Games`|
 |[I want to get everything on my ps5 account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/712897-ps5-account.html)|`2025-08-17 03:39:00`|`Call of Duty: Black Ops Cold War`|
 |[Peak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706121-peak.html)|`2025-08-17 03:34:00`|`Other Games`|
