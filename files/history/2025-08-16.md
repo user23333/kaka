@@ -16,6 +16,7 @@
 |9|[LucidBot AutoSpotter & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713528-lucidbot-autospotter.html)|`2025-08-16 02:56:50`|`battlefield-6-a`|
 |27|[Valorant External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713513-valorant-external-base.html)|`2025-08-16 05:13:52`|`valorant`|
 |24|[Why this forum is so dead?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/713198-forum-dead.html)|`2025-08-16 17:40:02`|`overwatch`|
+|3|[secure boot bypass=no kernel level protection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713009-secure-boot-bypass-kernel-level-protection.html)|`2025-08-16 18:34:12`|`battlefield-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -38,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-08-16 18:30:00`|`Grand Theft Auto V`|
+|[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2025-08-16 18:02:00`|`Rainbow Six Siege`|
 |[skeleton bone esp help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/713753-skeleton-bone-esp-help.html)|`2025-08-16 18:10:00`|`Rust`|
 |[I want to get everything on my ps5 account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/712897-ps5-account.html)|`2025-08-16 17:48:00`|`Call of Duty: Black Ops Cold War`|
 |[How to grind HG &#40;Hourglass Cheese&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/713751-grind-hg-hourglass-cheese.html)|`2025-08-16 17:48:00`|`Sea of Thieves`|
