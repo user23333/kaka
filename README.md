@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to grind HG &#40;Hourglass Cheese&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/713751-grind-hg-hourglass-cheese.html)|`2025-08-18 03:57:00`|`Sea of Thieves`|
+|[Male and female characters have different offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/713857-male-female-characters-offsets.html)|`2025-08-18 03:54:00`|`Rust`|
 |[Eac bypass for online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/714005-eac-bypass-online.html)|`2025-08-18 03:41:00`|`Halo`|
 |[BF6 DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712831-bf6-dma.html)|`2025-08-18 03:38:00`|`Battlefield 6`|
 |[any advice on just cheating the camos?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/713473-advice-cheating-camos.html)|`2025-08-18 03:38:00`|`Call of Duty: Black Ops 6`|
