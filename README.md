@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to Make Permanent Advanced UAV &#40;Read Only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/710574-permanent-advanced-uav-read.html)|`2025-08-18 04:17:00`|`Call of Duty: Black Ops 6`|
+|[ESP External/Driver &#45; HunterVoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712154-esp-external-driver-huntervoker.html)|`2025-08-18 04:12:00`|`Counter-Strike 2`|
+|[Asus BIOS spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713113-asus-bios-spoof.html)|`2025-08-18 04:11:00`|`Valorant`|
 |[How to grind HG &#40;Hourglass Cheese&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/713751-grind-hg-hourglass-cheese.html)|`2025-08-18 03:57:00`|`Sea of Thieves`|
 |[Male and female characters have different offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/713857-male-female-characters-offsets.html)|`2025-08-18 03:54:00`|`Rust`|
 |[Eac bypass for online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/714005-eac-bypass-online.html)|`2025-08-18 03:41:00`|`Halo`|
