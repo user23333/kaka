@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino leonardo without host shield detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713984-arduino-leonardo-host-shield-detected.html)|`2025-08-18 00:52:00`|`Battlefield 6`|
+|[Invalid PDPT entry from usermode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713983-invalid-pdpt-entry-usermode.html)|`2025-08-18 00:52:00`|`Anti-Cheat Bypass`|
+|[Getting avatar frame color](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713762-getting-avatar-frame-color.html)|`2025-08-18 00:50:00`|`Counter-Strike 2`|
+|[Curious about the recent viral clips about RileyCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713301-curious-recent-viral-clips-rileycs.html)|`2025-08-18 00:49:00`|`Battlefield 6`|
 |[Banned in Battlefield 6 &#45; Data Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713413-banned-battlefield-6-data-collection-thread.html)|`2025-08-18 00:39:00`|`Battlefield 6`|
 |[Un&#45;Protect and Dumping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/566399-un-protect-dumping.html)|`2025-08-18 00:30:00`|`Valorant`|
 |[LATEST OFFETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/713310-offets.html)|`2025-08-18 00:29:00`|`Alternative Online Mods`|
