@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does Shadow SSDT Hook still work in win11?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713296-shadow-ssdt-hook-win11.html)|`2025-08-17 22:56:00`|`Anti-Cheat Bypass`|
 |[Issue with Lua scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/713832-issue-lua-scripting.html)|`2025-08-17 22:46:00`|`Grand Theft Auto V`|
 |[Weird bug with arduino mouse movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713968-weird-bug-arduino-mouse-movement.html)|`2025-08-17 22:41:00`|`Valorant`|
 |[Chivalry 2 Heaveyweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689993-chivalry-2-heaveyweight-cheat.html)|`2025-08-17 22:36:00`|`Other Games`|
