@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[1PC still viable? &#40;HID Arduino&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714022-1pc-viable-hid-arduino.html)|`2025-08-18 06:10:00`|`Valorant`|
+|[DayZ PC Easy Dupe with Autohotkey](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/707460-dayz-pc-easy-dupe-autohotkey.html)|`2025-08-18 06:02:00`|`DayZ SA`|
+|[RAZER NEW ALL WEAPONS 1&#45;3 MS &#40;FREE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/640381-razer-weapons-1-3-ms-free.html)|`2025-08-18 05:57:00`|`Rust`|
+|[Dead by Daylight DMA &#45; Based on IntelSDM &#45; Added features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/704981-dead-daylight-dma-based-intelsdm-added-features.html)|`2025-08-18 05:54:00`|`Other FPS Games`|
 |[AHK Aim bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712495-ahk-aim-bot.html)|`2025-08-18 05:54:00`|`Battlefield 6`|
 |[Working valorant spoofer after val152 ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713997-valorant-spoofer-val152.html)|`2025-08-18 05:49:00`|`Valorant`|
 |[No ESP after 1 game&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/714018-esp-1-game.html)|`2025-08-18 05:45:00`|`Call of Duty: Black Ops 6`|
