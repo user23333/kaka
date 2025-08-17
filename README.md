@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to bypass EAC and BE?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713950-bypass-eac.html)|`2025-08-17 19:57:00`|`Anti-Cheat Bypass`|
 |[Sigmaker failed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713554-sigmaker-failed.html)|`2025-08-17 19:39:00`|`Counter-Strike 2`|
 |[Finally a working External SkinChanger for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689733-finally-external-skinchanger-cs2.html)|`2025-08-17 19:38:00`|`Counter-Strike 2`|
 |[kmbox net stupid questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/713946-kmbox-net-stupid-questions.html)|`2025-08-17 19:35:00`|`PC Hardware`|
