@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-08-17 08:53:00`|`Other FPS Games`|
+|[Manual Map Injection CRT Initialization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/713877-manual-map-injection-crt-initialization.html)|`2025-08-17 08:45:00`|`C and C++`|
+|[Is it possible to use offsets or something similar to determine that all cs2 clients](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713873-offsets-similar-determine-cs2-clients.html)|`2025-08-17 08:29:00`|`Counter-Strike 2`|
 |[SastashaFied CM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/713872-sastashafied-cm.html)|`2025-08-17 07:44:00`|`Combat Master`|
 |[God exists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/697595-god-exists.html)|`2025-08-17 07:42:00`|`Off Topic`|
 |[G Hub Scripts Stopped Working in Apex &#45; Need Fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703398-hub-scripts-stopped-apex-fix.html)|`2025-08-17 07:39:00`|`Apex Legends`|
