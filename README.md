@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-08-18 04:53:00`|`Counter-Strike 2`|
 |[any basic r6 cheats rn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/713728-basic-r6-cheats-rn.html)|`2025-08-18 04:51:00`|`Rainbow Six Siege`|
 |[Dead By Daylight DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/682901-dead-daylight-dma-esp.html)|`2025-08-18 04:42:00`|`Other FPS Games`|
 |[&#91;APEX unrelated&#93; Does disarming HWID ban causes antivirus programs dont work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/714010-apex-unrelated-disarming-hwid-ban-causes-antivirus-programs-dont.html)|`2025-08-18 04:40:00`|`Apex Legends`|
