@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;BloodStrike PC WallHack&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/713715-bloodstrike-pc-wallhack.html)|`2025-08-18 01:26:00`|`Other FPS Games`|
+|[sploink &#91;cs2 external cheat&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713076-sploink-cs2-external-cheat.html)|`2025-08-18 01:21:00`|`Counter-Strike 2`|
+|[Custom curver software and anti cheat bf6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713953-custom-curver-software-anti-cheat-bf6.html)|`2025-08-18 01:20:00`|`Battlefield 6`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-08-18 01:15:00`|`Apex Legends`|
 |[question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713987-question.html)|`2025-08-18 01:02:00`|`Counter-Strike 2`|
 |[Arduino Jitter&#40;Humanized&#41;&#45;SuperGlide&#40;FPS&#45;ADAPTIVE&#41;&#45;TapStrafe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/710652-arduino-jitter-humanized-superglide-fps-adaptive-tapstrafe.html)|`2025-08-18 01:01:00`|`Apex Legends`|
