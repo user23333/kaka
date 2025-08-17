@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rage&#46;CM – Combat Master Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/713964-rage-cm-combat-master-menu.html)|`2025-08-18 03:13:00`|`Combat Master`|
+|[Crystal of Atlan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/714000-crystal-atlan.html)|`2025-08-18 03:09:00`|`Cheat Engine Tables`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-08-18 03:06:00`|`Valorant`|
 |[30 CS2 Skybox Materials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/706403-30-cs2-skybox-materials.html)|`2025-08-18 02:45:00`|`Counter-Strike 2`|
 |[BloodStrike Colour Bot &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711708-bloodstrike-colour-bot-source.html)|`2025-08-18 02:44:00`|`Other FPS Games`|
 |[Broken Arrow &#43;13 Trainer&#40;CT table&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673542-broken-arrow-13-trainer-ct-table.html)|`2025-08-18 02:42:00`|`Other MMORPG and Strategy`|
