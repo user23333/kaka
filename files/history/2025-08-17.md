@@ -41,6 +41,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Recoil Script Source needed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/713977-rust-recoil-script-source.html)|`2025-08-17 23:28:00`|`Rust`|
+|[Roblox finding Folders &#40; 'Humanoid' 'Players' etc&#46;&#46; &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/705093-roblox-finding-folders-humanoid-players-etc.html)|`2025-08-17 23:24:00`|`Programming for Beginners`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-08-17 23:23:00`|`Escape from Tarkov`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-08-17 23:17:00`|`Rainbow Six Siege`|
+|[Neuromuscular Aim Assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/713346-neuromuscular-aim-assist.html)|`2025-08-17 23:15:00`|`Off Topic`|
 |[ION Shift Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/713972-ion-shift-cheat.html)|`2025-08-17 23:00:00`|`Cheat Engine Tables`|
 |[Has the Windows driver signature been cracked?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/700793-windows-driver-signature-cracked.html)|`2025-08-17 22:58:00`|`Anti-Cheat Bypass`|
 |[Does Shadow SSDT Hook still work in win11?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713296-shadow-ssdt-hook-win11.html)|`2025-08-17 22:56:00`|`Anti-Cheat Bypass`|
