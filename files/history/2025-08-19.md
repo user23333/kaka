@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-08-19 05:36:00`|`Grand Theft Auto V`|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-08-19 05:32:00`|`Other FPS Games`|
+|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-08-19 05:30:00`|`Other FPS Games`|
 |[Elite Dangerous Farming Credits for Billions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/691253-elite-dangerous-farming-credits-billions.html)|`2025-08-19 05:18:00`|`Elite: Dangerous`|
 |[i will be glad to receive any information](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/712999-glad-receive-information.html)|`2025-08-19 05:05:00`|`Warface`|
 |[Roblox external dex / framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/713794-roblox-external-dex-framework.html)|`2025-08-19 05:01:00`|`Other Games`|
