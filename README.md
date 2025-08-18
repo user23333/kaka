@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Something wrong in schema system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714146-wrong-schema-system.html)|`2025-08-19 07:29:00`|`Counter-Strike 2`|
+|[Kernel&#45;Mode Driver for External Cheats &#40;Bypassing EAC, BattleEye, ACE, etc&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713392-kernel-mode-driver-external-cheats-bypassing-eac-battleeye-ace-etc.html)|`2025-08-19 07:24:00`|`Anti-Cheat Bypass`|
 |[Rubinium &#124; Free Inventory Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/713776-rubinium-free-inventory-changer.html)|`2025-08-19 07:09:00`|`Counter-Strike 2 Releases`|
 |[cheat engine and x64dbg bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712666-cheat-engine-x64dbg-bypass.html)|`2025-08-19 06:50:00`|`Battlefield 6`|
 |[How do I gain an offset from this?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/714085-gain-offset.html)|`2025-08-19 06:50:00`|`General Programming and Reversing`|
