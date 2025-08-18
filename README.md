@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 External Bhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/604580-cs2-external-bhop.html)|`2025-08-18 11:17:00`|`Counter-Strike 2 Releases`|
+|[pdfwkrnl&#45;exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713725-pdfwkrnl-exploit.html)|`2025-08-18 11:04:00`|`Anti-Cheat Bypass`|
 |[Efootball Steam 26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/714051-efootball-steam-26-a.html)|`2025-08-18 09:42:00`|`Off Topic`|
 |[Does marvel rivals HWID ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/714034-marvel-rivals-hwid-ban.html)|`2025-08-18 09:29:00`|`Marvel Rivals`|
 |[Understanding context switching X64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713989-understanding-context-switching-x64.html)|`2025-08-18 09:19:00`|`Anti-Cheat Bypass`|
