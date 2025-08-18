@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Weapon transfer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/714074-weapon-transfer.html)|`2025-08-18 18:53:00`|`Warface`|
 |[i will be glad to receive any information](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/712999-glad-receive-information.html)|`2025-08-18 18:42:00`|`Warface`|
 |[How to move a character to new coordinates?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/712287-move-character-coordinates.html)|`2025-08-18 18:37:00`|`Warface`|
 |[skip puzzle of The White House heist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/713796-skip-puzzle-white-house-heist.html)|`2025-08-18 18:15:00`|`Payday 2`|
