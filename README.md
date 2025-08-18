@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-08-18 23:30:00`|`Other FPS Games`|
 |[Gigantes Ex Machina](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/714102-gigantes-ex-machina.html)|`2025-08-18 22:58:00`|`Cheat Engine Tables`|
 |[External hitbox triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/704473-external-hitbox-triggerbot.html)|`2025-08-18 22:56:00`|`Counter-Strike 2`|
 |[XRC Pasted Driver &#40;Signed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714093-xrc-pasted-driver-signed.html)|`2025-08-18 22:34:00`|`Anti-Cheat Bypass`|
