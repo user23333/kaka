@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cheat engine and x64dbg bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712666-cheat-engine-x64dbg-bypass.html)|`2025-08-19 06:50:00`|`Battlefield 6`|
+|[How do I gain an offset from this?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/714085-gain-offset.html)|`2025-08-19 06:50:00`|`General Programming and Reversing`|
 |[Can anyone help with dwViewMatrix offset ? A2X dumper aren’t correct &#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713966-help-dwviewmatrix-offset-a2x-dumper-aren-correct.html)|`2025-08-19 06:37:00`|`Counter-Strike 2`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-08-19 06:36:00`|`Counter-Strike 2 Releases`|
 |[Do you have any wall hacksCounter&#45;Strike 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714101-wall-hackscounter-strike-2-a.html)|`2025-08-19 06:35:00`|`Counter-Strike 2`|
