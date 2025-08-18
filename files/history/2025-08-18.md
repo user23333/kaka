@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to start from the very bottom?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/713764-start-bottom.html)|`2025-08-18 18:56:00`|`Forum General`|
 |[Weapon transfer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/714074-weapon-transfer.html)|`2025-08-18 18:53:00`|`Warface`|
 |[i will be glad to receive any information](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/712999-glad-receive-information.html)|`2025-08-18 18:42:00`|`Warface`|
 |[How to move a character to new coordinates?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/712287-move-character-coordinates.html)|`2025-08-18 18:37:00`|`Warface`|
