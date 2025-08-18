@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Efootball Steam 26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/714051-efootball-steam-26-a.html)|`2025-08-18 09:42:00`|`Off Topic`|
+|[Does marvel rivals HWID ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/714034-marvel-rivals-hwid-ban.html)|`2025-08-18 09:29:00`|`Marvel Rivals`|
+|[Understanding context switching X64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713989-understanding-context-switching-x64.html)|`2025-08-18 09:19:00`|`Anti-Cheat Bypass`|
+|[About openIW8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/714002-openiw8.html)|`2025-08-18 09:18:00`|`Call of Duty: Black Ops 6`|
 |[Does Razer Mouse Method Work with ONNX?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706016-razer-mouse-method-onnx.html)|`2025-08-18 07:56:00`|`Valorant`|
 |[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-08-18 07:56:00`|`Call of Duty: Black Ops 3`|
 |[Schedule I &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695780-schedule-internal.html)|`2025-08-18 07:53:00`|`Other Games`|
