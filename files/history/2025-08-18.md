@@ -41,6 +41,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SOCOM U&#46;S NAVY SEALs Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playstation/689014-socom-navy-seals-reversal-structs-offsets.html)|`2025-08-18 19:18:00`|`PlayStation`|
+|[QuakeLive Color Aimbot AHK Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/quake-live/67618-quakelive-color-aimbot-ahk-script.html)|`2025-08-18 19:09:00`|`Quake Live`|
 |[How to start from the very bottom?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/713764-start-bottom.html)|`2025-08-18 18:56:00`|`Forum General`|
 |[Weapon transfer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/714074-weapon-transfer.html)|`2025-08-18 18:53:00`|`Warface`|
 |[i will be glad to receive any information](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/712999-glad-receive-information.html)|`2025-08-18 18:42:00`|`Warface`|
