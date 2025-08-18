@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Entity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/713827-entity.html)|`2025-08-19 06:26:00`|`Alternative Online Mods`|
+|[Free External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/709037-free-external.html)|`2025-08-19 06:16:00`|`Counter-Strike 2 Releases`|
+|[Free Farlight External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/713600-free-farlight-external.html)|`2025-08-19 06:11:00`|`Farlight 84`|
 |[Lightmoon V2 &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709987-lightmoon-v2-external.html)|`2025-08-19 06:08:00`|`Counter-Strike 2`|
 |[CounterStrike Source Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/157661-counterstrike-source-reversal-structs-offsets.html)|`2025-08-19 05:53:00`|`CounterStrike Source`|
 |[help an old cheater out](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712875-help-cheater.html)|`2025-08-19 05:49:00`|`Battlefield 6`|
