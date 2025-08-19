@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino Jitter&#40;Humanized&#41;&#45;SuperGlide&#40;FPS&#45;ADAPTIVE&#41;&#45;TapStrafe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/710652-arduino-jitter-humanized-superglide-fps-adaptive-tapstrafe.html)|`2025-08-19 12:59:00`|`Apex Legends`|
+|[30 min ban on 6 kill or 11 kill](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/714117-30-min-ban-6-kill-11-kill.html)|`2025-08-19 12:57:00`|`PUBG Mobile`|
 |[My progress and concerns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/714168-progress-concerns.html)|`2025-08-19 12:42:00`|`League of Legends`|
 |[Valorant account flagging&#46; Is it only tied to the account?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714089-valorant-account-flagging-tied-account.html)|`2025-08-19 12:38:00`|`Valorant`|
 |[This is bremmer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/713587-bremmer.html)|`2025-08-19 12:36:00`|`Introductions`|
