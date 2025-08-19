@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;DMA&#41; Black Ops 6: Fuser ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670830-dma-black-ops-6-fuser-esp.html)|`2025-08-20 04:32:00`|`Call of Duty: Black Ops 6`|
+|[source engine new nospread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/714159-source-engine-nospread.html)|`2025-08-20 04:31:00`|`Apex Legends`|
+|[Fivem Injection Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/710007-fivem-injection-methods.html)|`2025-08-20 04:29:00`|`Alternative Online Mods`|
+|[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2025-08-20 04:25:00`|`Combat Arms`|
+|[FiveM LoadLibraryA Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/714229-fivem-loadlibrarya-injector.html)|`2025-08-20 04:23:00`|`Alternative Online Mods`|
 |[Teleportation bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wow-hacks-and-bots/714228-teleportation-bug.html)|`2025-08-20 04:19:00`|`Wow Hacks and Bots`|
 |[ghost&#45;engine spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/714227-ghost-engine-spoofer.html)|`2025-08-20 04:11:00`|`Alternative Online Mods`|
 |[Dead by Daylight DMA &#45; Based on IntelSDM &#45; Added features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/704981-dead-daylight-dma-based-intelsdm-added-features.html)|`2025-08-20 04:11:00`|`Other FPS Games`|
