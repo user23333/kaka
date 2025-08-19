@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino leonardo without host shield detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713984-arduino-leonardo-host-shield-detected.html)|`2025-08-19 17:26:00`|`Battlefield 6`|
+|[New Pubg 3&#46;9 item Entitys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/714183-pubg-3-9-item-entitys.html)|`2025-08-19 17:16:00`|`PUBG Mobile`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-08-19 17:14:00`|`Rainbow Six Siege`|
 |[Help on coding r6 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/705994-help-coding-r6-cheat.html)|`2025-08-19 17:09:00`|`Rainbow Six Siege`|
 |[schema help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713698-schema-help.html)|`2025-08-19 16:39:00`|`Counter-Strike 2`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-08-19 16:23:00`|`Counter-Strike 2`|
