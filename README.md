@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[shadow legacy game dumps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/714245-shadow-legacy-game-dumps.html)|`2025-08-20 07:14:00`|`Rainbow Six Siege`|
+|[start making rust cheats with simple esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/714244-start-rust-cheats-simple-esp.html)|`2025-08-20 06:59:00`|`Rust`|
 |[GTA ONLINE ENHANCED ALL AWARDS STATS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701294-gta-online-enhanced-awards-stats.html)|`2025-08-20 06:50:00`|`Grand Theft Auto V`|
 |[Fivem Natives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/714243-fivem-natives.html)|`2025-08-20 06:47:00`|`Alternative Online Mods`|
 |[Change Aggregate scene object color](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711654-change-aggregate-scene-object-color.html)|`2025-08-20 06:45:00`|`Counter-Strike 2`|
