@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Get Game Build](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/714232-game-build.html)|`2025-08-20 04:47:00`|`Alternative Online Mods`|
+|[Crystal of Atlan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/714000-crystal-atlan.html)|`2025-08-20 04:45:00`|`Cheat Engine Tables`|
 |[Get Dirbase from &#95;MMPFN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710561-dirbase-_mmpfn.html)|`2025-08-20 04:39:00`|`Anti-Cheat Bypass`|
 |[DMA detection soon?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/706658-dma-detection-soon.html)|`2025-08-20 04:39:00`|`Escape from Tarkov`|
 |[&#40;DMA&#41; Black Ops 6: Fuser ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670830-dma-black-ops-6-fuser-esp.html)|`2025-08-20 04:32:00`|`Call of Duty: Black Ops 6`|
