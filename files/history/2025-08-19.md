@@ -11,6 +11,7 @@
 |10|[BF6 Anti&#45;Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713778-bf6-anti-recoil.html)|`2025-08-19 00:18:26`|`battlefield-6-a`|
 |47|[Memory Aim &#40;with Angle from ClientActive&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/713551-memory-aim-angle-clientactive.html)|`2025-08-19 00:18:26`|`call-of-duty-black-ops-6-a`|
 |12|[Diskjacker &#45; Runtime Hyper&#45;V Hijacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713325-diskjacker-runtime-hyper-hijacking.html)|`2025-08-19 00:18:26`|`anti-cheat-bypass`|
+|14|[Curious about the recent viral clips about RileyCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713301-curious-recent-viral-clips-rileycs.html)|`2025-08-19 10:46:06`|`battlefield-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[themida anti&#45;debug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/713629-themida-anti-debug.html)|`2025-08-19 10:16:00`|`General Programming and Reversing`|
+|[Peak &#45; AIO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706875-peak-aio.html)|`2025-08-19 10:11:00`|`Other Games`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-08-19 09:59:00`|`Phasmophobia`|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-08-19 09:50:00`|`Other Games`|
+|[Age of Empires IV &#45; External Scar Script Injector & Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/712742-age-empires-iv-external-scar-script-injector-helper.html)|`2025-08-19 09:49:00`|`Other MMORPG and Strategy`|
 |[Validating license info bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/714150-validating-license-info-bypass.html)|`2025-08-19 08:48:00`|`Halo`|
 |[Deadlocked &#45; External Multi Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/711759-deadlocked-external-multi-cheat.html)|`2025-08-19 08:30:00`|`Deadlock`|
 |[Inventory: Knives and Gloves problem after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711778-inventory-knives-gloves-update.html)|`2025-08-19 08:25:00`|`Counter-Strike 2`|
