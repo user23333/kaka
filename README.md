@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[REPO Simple Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/689820-repo-simple-cheat.html)|`2025-08-19 19:31:00`|`Other MMORPG and Strategy`|
 |[How do I get ghost rooms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/714191-ghost.html)|`2025-08-19 19:26:00`|`Phasmophobia`|
 |[Blue Archive Cheat — Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/710592-blue-archive-cheat-steam.html)|`2025-08-19 19:14:00`|`Other MMORPG and Strategy`|
 |[SastashaFied CM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/713872-sastashafied-cm.html)|`2025-08-19 19:04:00`|`Combat Master`|
