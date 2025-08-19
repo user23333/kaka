@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[easiest bright night](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/714180-easiest-bright-night.html)|`2025-08-19 15:13:00`|`Rust`|
+|[Materials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714179-materials.html)|`2025-08-19 15:06:00`|`Counter-Strike 2`|
+|[Salvage Yard Robberies Weekly Cooldown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/714178-salvage-yard-robberies-weekly-cooldown.html)|`2025-08-19 15:05:00`|`Grand Theft Auto V`|
+|[PUBG No Recoil for all Mouse &#45; UMCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/711277-pubg-recoil-mouse-umcs.html)|`2025-08-19 14:58:00`|`PUBG Releases`|
 |[Does Shadow SSDT Hook still work in win11?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713296-shadow-ssdt-hook-win11.html)|`2025-08-19 14:27:00`|`Anti-Cheat Bypass`|
 |[Dropped item entities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714177-dropped-item-entities.html)|`2025-08-19 14:07:00`|`Counter-Strike 2`|
 |[Esp box issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713988-esp-box-issue.html)|`2025-08-19 14:02:00`|`Counter-Strike 2`|
