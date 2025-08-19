@@ -25,9 +25,13 @@
 |22|[Polygonupdated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50851)|`2025-08-19 00:18:26`|
 |1|[MW2/IW4 ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50850)|`2025-08-19 00:18:26`|
 |6|[SastashaFied CM v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50849)|`2025-08-19 00:18:26`|
+|0|[zipDriverIDADB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50870)|`2025-08-19 12:35:19`|
+|1|[universal ai model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50866)|`2025-08-19 12:35:19`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/714026-hello.html)|`2025-08-19 12:34:00`|`Introductions`|
+|[Hello, I am new here &#40;2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/713944-hello-am-2025-a.html)|`2025-08-19 12:31:00`|`Introductions`|
 |[External Nade Helper?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714166-external-nade-helper.html)|`2025-08-19 12:10:00`|`Counter-Strike 2`|
 |[Valorant Colorbot Logic with no STUTTER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709934-valorant-colorbot-logic-stutter.html)|`2025-08-19 12:06:00`|`Valorant`|
 |[POLYGON basic external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710575-polygon-basic-external.html)|`2025-08-19 11:56:00`|`Other FPS Games`|
