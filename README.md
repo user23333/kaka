@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-08-20 00:37:00`|`Rust`|
+|[Need Full bright For Phasmophobia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/714215-bright-phasmophobia.html)|`2025-08-20 00:33:00`|`Phasmophobia`|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-08-20 00:29:00`|`Apex Legends`|
+|[Seriously looking for an XP hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/713723-seriously-looking-xp-hack.html)|`2025-08-20 00:29:00`|`Star Wars Battlefront 2`|
+|[BF6 Anti&#45;Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713778-bf6-anti-recoil.html)|`2025-08-20 00:19:00`|`Battlefield 6`|
+|[GoodDiePUBG &#45; PUBG 3&#46;9 Emulator Hack Source and Release &#40;server/client&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708956-gooddiepubg-pubg-3-9-emulator-hack-source-release-server-client.html)|`2025-08-20 00:17:00`|`PUBG Mobile`|
+|[Full component list finder &#40;no decryption needed, auto&#45;update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/687570-component-list-finder-decryption-auto-update.html)|`2025-08-20 00:17:00`|`Overwatch`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-08-20 00:17:00`|`Escape from Tarkov`|
 |[TPM Spoofer for free &#40;signed driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713720-tpm-spoofer-free-signed-driver.html)|`2025-08-20 00:14:00`|`Valorant`|
 |[Arduino Jitter&#40;Humanized&#41;&#45;SuperGlide&#40;FPS&#45;ADAPTIVE&#41;&#45;TapStrafe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/710652-arduino-jitter-humanized-superglide-fps-adaptive-tapstrafe.html)|`2025-08-20 00:07:00`|`Apex Legends`|
 |[Latest Amalgam release not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/714212-amalgam-release.html)|`2025-08-20 00:05:00`|`Team Fortress 2`|
