@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[update offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714195-update-offset.html)|`2025-08-20 06:04:00`|`Counter-Strike 2`|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-08-20 06:00:00`|`Other FPS Games`|
+|[Can anyone help with dwViewMatrix offset ? A2X dumper aren’t correct &#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713966-help-dwviewmatrix-offset-a2x-dumper-aren-correct.html)|`2025-08-20 05:58:00`|`Counter-Strike 2`|
+|[Something wrong in schema system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714146-wrong-schema-system.html)|`2025-08-20 05:58:00`|`Counter-Strike 2`|
+|[Spoofing Microsoft motherboard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714240-spoofing-microsoft-motherboard.html)|`2025-08-20 05:56:00`|`Valorant`|
 |[Curious about the recent viral clips about RileyCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713301-curious-recent-viral-clips-rileycs.html)|`2025-08-20 05:49:00`|`Battlefield 6`|
 |[Draw models in main menu &#40; easy &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/713792-draw-models-main-menu-easy.html)|`2025-08-20 05:45:00`|`Team Fortress 2`|
 |[How do I get ghost rooms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/714191-ghost.html)|`2025-08-20 05:23:00`|`Phasmophobia`|
