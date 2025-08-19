@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My progress and concerns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/714168-progress-concerns.html)|`2025-08-19 12:42:00`|`League of Legends`|
+|[Valorant account flagging&#46; Is it only tied to the account?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714089-valorant-account-flagging-tied-account.html)|`2025-08-19 12:38:00`|`Valorant`|
+|[This is bremmer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/713587-bremmer.html)|`2025-08-19 12:36:00`|`Introductions`|
 |[Hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/714026-hello.html)|`2025-08-19 12:34:00`|`Introductions`|
 |[Hello, I am new here &#40;2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/713944-hello-am-2025-a.html)|`2025-08-19 12:31:00`|`Introductions`|
 |[External Nade Helper?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714166-external-nade-helper.html)|`2025-08-19 12:10:00`|`Counter-Strike 2`|
