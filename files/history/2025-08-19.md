@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Nade Helper?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714166-external-nade-helper.html)|`2025-08-19 12:10:00`|`Counter-Strike 2`|
+|[Valorant Colorbot Logic with no STUTTER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709934-valorant-colorbot-logic-stutter.html)|`2025-08-19 12:06:00`|`Valorant`|
+|[POLYGON basic external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710575-polygon-basic-external.html)|`2025-08-19 11:56:00`|`Other FPS Games`|
 |[Xbox One's robust security Measures Bypassed &#40;Sort Of&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/xbox/714161-xbox-ones-robust-security-measures-bypassed-sort.html)|`2025-08-19 11:27:00`|`XBOX`|
 |[source engine new nospread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/714159-source-engine-nospread.html)|`2025-08-19 11:06:00`|`Apex Legends`|
 |[themida anti&#45;debug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/713629-themida-anti-debug.html)|`2025-08-19 10:16:00`|`General Programming and Reversing`|
