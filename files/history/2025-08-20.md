@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cheat engine and x64dbg bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712666-cheat-engine-x64dbg-bypass.html)|`2025-08-20 01:40:00`|`Battlefield 6`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-08-20 01:39:00`|`Valorant`|
+|[does anyone got banned from plugging 2 mouses to pc ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714199-banned-plugging-2-mouses-pc.html)|`2025-08-20 01:33:00`|`Valorant`|
 |[hyper&#45;reV &#45; memory introspection &#43; reverse engineering powered by leveraging Hyper&#45;V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709634-hyper-rev-memory-introspection-reverse-engineering-powered-leveraging-hyper.html)|`2025-08-20 01:28:00`|`Anti-Cheat Bypass`|
 |[SastashaFied CM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/713872-sastashafied-cm.html)|`2025-08-20 01:17:00`|`Combat Master`|
 |[God exists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/697595-god-exists.html)|`2025-08-20 01:13:00`|`Off Topic`|
