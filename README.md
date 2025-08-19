@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Global Unban Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/712932-global-unban-method.html)|`2025-08-20 03:14:00`|`Alternative Online Mods`|
+|[Dayz pc dupe &#40;NOT PATCHED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/704228-dayz-pc-dupe-patched.html)|`2025-08-20 03:14:00`|`DayZ SA`|
+|[Salvage Yard Robberies Weekly Cooldown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/714178-salvage-yard-robberies-weekly-cooldown.html)|`2025-08-20 03:06:00`|`Grand Theft Auto V`|
+|[Deadlocked &#45; External Multi Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/711759-deadlocked-external-multi-cheat.html)|`2025-08-20 03:04:00`|`Deadlock`|
+|[DayZ PC Easy Dupe with Autohotkey](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/707460-dayz-pc-easy-dupe-autohotkey.html)|`2025-08-20 03:03:00`|`DayZ SA`|
+|[External B06 &#40;ESP &#43; Name &#43; Health &#43; KD, etc&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/713576-external-b06-esp-name-health-kd-etc.html)|`2025-08-20 02:59:00`|`Call of Duty: Black Ops 6`|
 |[DuneCore v3 &#45; CS2 Best hack so far &#40;for legit players&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691168-dunecore-v3-cs2-hack-legit-players.html)|`2025-08-20 02:54:00`|`Counter-Strike 2`|
 |[UnityEngine&#46;Camera&#46;get&#95;main&#40;&#41; glitching](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/683130-unityengine-camera-get_main-glitching.html)|`2025-08-20 02:50:00`|`Rust`|
 |[sploink &#91;cs2 external cheat&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713076-sploink-cs2-external-cheat.html)|`2025-08-20 02:31:00`|`Counter-Strike 2`|
