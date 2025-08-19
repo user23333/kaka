@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Change Aggregate scene object color](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711654-change-aggregate-scene-object-color.html)|`2025-08-20 06:45:00`|`Counter-Strike 2`|
+|[bSendPacket](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/713291-bsendpacket.html)|`2025-08-20 06:43:00`|`Team Fortress 2`|
 |[Arduino leonardo without host shield detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713984-arduino-leonardo-host-shield-detected.html)|`2025-08-20 06:35:00`|`Battlefield 6`|
 |[༺ 𝙉𝙊𝙑𝘼 ༻ — ✧ Ultimate Insyde Spoofer ✧](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712892-ultimate-insyde-spoofer.html)|`2025-08-20 06:32:00`|`Valorant`|
 |[Manual mapping with OpenSSL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/714242-manual-mapping-openssl.html)|`2025-08-20 06:26:00`|`C and C++`|
