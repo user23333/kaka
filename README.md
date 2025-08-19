@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Manual mapping with OpenSSL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/714242-manual-mapping-openssl.html)|`2025-08-20 06:26:00`|`C and C++`|
 |[update offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714195-update-offset.html)|`2025-08-20 06:04:00`|`Counter-Strike 2`|
 |[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-08-20 06:00:00`|`Other FPS Games`|
 |[Can anyone help with dwViewMatrix offset ? A2X dumper aren’t correct &#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713966-help-dwviewmatrix-offset-a2x-dumper-aren-correct.html)|`2025-08-20 05:58:00`|`Counter-Strike 2`|
