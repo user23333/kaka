@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[schema help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713698-schema-help.html)|`2025-08-20 01:55:00`|`Counter-Strike 2`|
+|[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2025-08-20 01:53:00`|`Counter-Strike 2 Releases`|
 |[Script EXE EAC Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/714218-script-exe-eac-detection.html)|`2025-08-20 01:48:00`|`Rust`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-08-20 01:43:00`|`Counter-Strike 2`|
 |[cheat engine and x64dbg bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712666-cheat-engine-x64dbg-bypass.html)|`2025-08-20 01:40:00`|`Battlefield 6`|
