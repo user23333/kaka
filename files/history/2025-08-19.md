@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Xbox One's robust security Measures Bypassed &#40;Sort Of&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/xbox/714161-xbox-ones-robust-security-measures-bypassed-sort.html)|`2025-08-19 11:27:00`|`XBOX`|
+|[source engine new nospread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/714159-source-engine-nospread.html)|`2025-08-19 11:06:00`|`Apex Legends`|
 |[themida anti&#45;debug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/713629-themida-anti-debug.html)|`2025-08-19 10:16:00`|`General Programming and Reversing`|
 |[Peak &#45; AIO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706875-peak-aio.html)|`2025-08-19 10:11:00`|`Other Games`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-08-19 09:59:00`|`Phasmophobia`|
