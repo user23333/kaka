@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Grand Theft Auto V Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144819-grand-theft-auto-scripting.html)|`2025-08-19 22:34:00`|`Grand Theft Auto V`|
+|[Why this forum is so dead?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/713198-forum-dead.html)|`2025-08-19 22:24:00`|`Overwatch`|
 |[GTA ONLINE ENHANCED ALL AWARDS STATS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701294-gta-online-enhanced-awards-stats.html)|`2025-08-19 22:17:00`|`Grand Theft Auto V`|
 |[VAC logger with automatic parameter decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714202-vac-logger-automatic-parameter-decryption.html)|`2025-08-19 22:02:00`|`Counter-Strike 2`|
 |[Different ways to Visibility check?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/712540-visibility-check.html)|`2025-08-19 21:56:00`|`Escape from Tarkov`|
