@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does marvel rivals HWID ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/714034-marvel-rivals-hwid-ban.html)|`2025-08-20 07:34:00`|`Marvel Rivals`|
+|[Updated CS2 Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711462-updated-cs2-dumper.html)|`2025-08-20 07:30:00`|`Counter-Strike 2`|
+|[Macro in Rocket League](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/714247-macro-rocket-league.html)|`2025-08-20 07:30:00`|`Other Games`|
 |[shadow legacy game dumps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/714245-shadow-legacy-game-dumps.html)|`2025-08-20 07:14:00`|`Rainbow Six Siege`|
 |[start making rust cheats with simple esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/714244-start-rust-cheats-simple-esp.html)|`2025-08-20 06:59:00`|`Rust`|
 |[GTA ONLINE ENHANCED ALL AWARDS STATS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701294-gta-online-enhanced-awards-stats.html)|`2025-08-20 06:50:00`|`Grand Theft Auto V`|
