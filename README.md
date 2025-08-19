@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2025-08-19 15:31:00`|`Deadlock`|
 |[GHUB LUA MACROS FOR MARVEL RIVALS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/711251-ghub-lua-macros-marvel-rivals.html)|`2025-08-19 15:18:00`|`Marvel Rivals`|
 |[Does Razer Mouse Method Work with ONNX?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706016-razer-mouse-method-onnx.html)|`2025-08-19 15:15:00`|`Valorant`|
 |[easiest bright night](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/714180-easiest-bright-night.html)|`2025-08-19 15:13:00`|`Rust`|
