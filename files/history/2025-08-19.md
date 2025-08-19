@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I have reached 10k rep&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/714190-reached-10k-rep.html)|`2025-08-19 18:45:00`|`Off Topic`|
+|[Dying Light 1 &#40;V1&#46;50&#41; Internal &#124; Aimbot, ESP,&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/688897-dying-light-1-v1-50-internal-aimbot-esp.html)|`2025-08-19 18:39:00`|`Other FPS Games`|
 |[Does marvel rivals HWID ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/714034-marvel-rivals-hwid-ban.html)|`2025-08-19 18:16:00`|`Marvel Rivals`|
 |[Preparing YOLO dataset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/714185-preparing-yolo-dataset.html)|`2025-08-19 17:38:00`|`Battlefield 6`|
 |[Arduino leonardo without host shield detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713984-arduino-leonardo-host-shield-detected.html)|`2025-08-19 17:26:00`|`Battlefield 6`|
