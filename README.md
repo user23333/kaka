@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Get Dirbase from &#95;MMPFN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710561-dirbase-_mmpfn.html)|`2025-08-20 04:39:00`|`Anti-Cheat Bypass`|
+|[DMA detection soon?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/706658-dma-detection-soon.html)|`2025-08-20 04:39:00`|`Escape from Tarkov`|
 |[&#40;DMA&#41; Black Ops 6: Fuser ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670830-dma-black-ops-6-fuser-esp.html)|`2025-08-20 04:32:00`|`Call of Duty: Black Ops 6`|
 |[source engine new nospread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/714159-source-engine-nospread.html)|`2025-08-20 04:31:00`|`Apex Legends`|
 |[Fivem Injection Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/710007-fivem-injection-methods.html)|`2025-08-20 04:29:00`|`Alternative Online Mods`|
