@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Automatic Arduino Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/697492-automatic-arduino-spoofer.html)|`2025-08-20 09:00:00`|`Valorant`|
+|[Inventory: Knives and Gloves problem after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711778-inventory-knives-gloves-update.html)|`2025-08-20 08:42:00`|`Counter-Strike 2`|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-08-20 08:41:00`|`Counter-Strike 2 Releases`|
 |[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-08-20 07:47:00`|`Other FPS Games`|
 |[Does marvel rivals HWID ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/714034-marvel-rivals-hwid-ban.html)|`2025-08-20 07:34:00`|`Marvel Rivals`|
 |[Updated CS2 Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711462-updated-cs2-dumper.html)|`2025-08-20 07:30:00`|`Counter-Strike 2`|
