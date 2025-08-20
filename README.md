@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to update asphixia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714300-update-asphixia.html)|`2025-08-20 15:02:00`|`Counter-Strike 2`|
+|[POLYGON basic external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710575-polygon-basic-external.html)|`2025-08-20 15:00:00`|`Other FPS Games`|
 |[FiveM sv&#95;pureLevel changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/640619-fivem-sv_purelevel-changer.html)|`2025-08-20 14:44:00`|`Alternative Online Mods`|
 |[FOV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/714239-fov.html)|`2025-08-20 14:41:00`|`Sea of Thieves`|
 |[Cs2 External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714298-cs2-external.html)|`2025-08-20 14:34:00`|`Counter-Strike 2`|
