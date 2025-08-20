@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[zap&#45;client &#91;Legitbot, Ragebot, Glow, ESP & More&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/628823-zap-client-legitbot-ragebot-glow-esp.html)|`2025-08-21 02:48:00`|`Apex Legends`|
+|[360 cranium removal bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/713500-360-cranium-removal-bot.html)|`2025-08-21 02:44:00`|`Combat Master`|
+|[update offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714195-update-offset.html)|`2025-08-21 02:44:00`|`Counter-Strike 2`|
 |[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-08-21 02:42:00`|`Sea of Thieves`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-08-21 02:34:00`|`Alternative Online Mods`|
 |[GoodDiePUBG &#45; PUBG 3&#46;9 Emulator Hack Source and Release &#40;server/client&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708956-gooddiepubg-pubg-3-9-emulator-hack-source-release-server-client.html)|`2025-08-21 02:30:00`|`PUBG Mobile`|
