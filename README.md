@@ -12,6 +12,7 @@
 |12|[Diskjacker &#45; Runtime Hyper&#45;V Hijacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713325-diskjacker-runtime-hyper-hijacking.html)|`2025-08-20 00:17:11`|`anti-cheat-bypass`|
 |14|[Curious about the recent viral clips about RileyCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713301-curious-recent-viral-clips-rileycs.html)|`2025-08-20 00:17:11`|`battlefield-6-a`|
 |17|[Rubinium &#124; Free Inventory Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/713776-rubinium-free-inventory-changer.html)|`2025-08-20 07:44:41`|`counter-strike-2-releases`|
+|19|[XRC Pasted Driver &#40;Signed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714093-xrc-pasted-driver-signed.html)|`2025-08-20 13:44:36`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
