@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does anyone how to keep people in their car/lock them in the car](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/714231-people-car-lock-car.html)|`2025-08-21 03:37:00`|`Grand Theft Auto V`|
+|[RustRecoilMacro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706634-rustrecoilmacro.html)|`2025-08-21 03:31:00`|`Rainbow Six Siege`|
+|[FragPunk AimColor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/691467-fragpunk-aimcolor.html)|`2025-08-21 03:27:00`|`Other FPS Games`|
+|[R6S External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/711453-r6s-external-base.html)|`2025-08-21 03:23:00`|`Rainbow Six Siege`|
 |[EVO3 &#124; Updated External Legit/Semi&#45;Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/713273-evo3-updated-external-legit-semi-rage-cheat.html)|`2025-08-21 03:20:00`|`Counter-Strike 2 Releases`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-08-21 03:12:00`|`Marvel Rivals`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-08-21 03:09:00`|`Other FPS Games`|
