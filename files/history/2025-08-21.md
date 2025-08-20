@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[POLYGON basic external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710575-polygon-basic-external.html)|`2025-08-21 07:51:00`|`Other FPS Games`|
 |[Python DMA Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/712854-python-dma-web-radar.html)|`2025-08-21 07:45:00`|`DayZ SA`|
 |[Rust &#124; Ban Discussion Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/469369-rust-ban-discussion-thread.html)|`2025-08-21 07:44:00`|`Rust`|
 |[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2025-08-21 07:31:00`|`Combat Arms`|
