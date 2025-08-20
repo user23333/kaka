@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NEED BGMI 3&#46;9 64Bit External GNames and GWorld &#40;Emulator&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/714184-bgmi-3-9-64bit-external-gnames-gworld-emulator.html)|`2025-08-20 12:30:00`|`PUBG Mobile`|
 |[Arduino all&#45;in&#45;one post](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/639560-arduino-post.html)|`2025-08-20 12:12:00`|`Valorant`|
 |[My progress and concerns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/714168-progress-concerns.html)|`2025-08-20 12:03:00`|`League of Legends`|
 |[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2025-08-20 11:38:00`|`Other FPS Games`|
