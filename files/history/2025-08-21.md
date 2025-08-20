@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need direction and explanation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/714360-direction-explanation.html)|`2025-08-21 03:47:00`|`PUBG Mobile`|
 |[IDA plugged with AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/714358-ida-plugged-ai.html)|`2025-08-21 03:38:00`|`General Programming and Reversing`|
 |[Does anyone how to keep people in their car/lock them in the car](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/714231-people-car-lock-car.html)|`2025-08-21 03:37:00`|`Grand Theft Auto V`|
 |[RustRecoilMacro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706634-rustrecoilmacro.html)|`2025-08-21 03:31:00`|`Rainbow Six Siege`|
