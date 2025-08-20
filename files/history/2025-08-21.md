@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[IDA Pro MCP Server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693715-ida-pro-mcp-server.html)|`2025-08-21 03:54:00`|`Counter-Strike 2`|
+|[HW recoil control script for everygame](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/704796-hw-recoil-control-script-everygame.html)|`2025-08-21 03:52:00`|`Rust`|
+|[Troll Menu for Payday 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/504997-troll-menu-payday-2-a.html)|`2025-08-21 03:52:00`|`Payday 2`|
 |[Need direction and explanation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/714360-direction-explanation.html)|`2025-08-21 03:47:00`|`PUBG Mobile`|
 |[IDA plugged with AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/714358-ida-plugged-ai.html)|`2025-08-21 03:38:00`|`General Programming and Reversing`|
 |[Does anyone how to keep people in their car/lock them in the car](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/714231-people-car-lock-car.html)|`2025-08-21 03:37:00`|`Grand Theft Auto V`|
