@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-08-22 03:36:00`|`Marvel Rivals`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-08-22 03:32:00`|`Other FPS Games`|
+|[Looking for Dev – Rust ESP Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/714401-looking-dev-rust-esp-base.html)|`2025-08-22 03:30:00`|`Rust`|
 |[Spoofing Database](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712255-spoofing-database.html)|`2025-08-22 03:29:00`|`Valorant`|
 |[load Kernel driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/714219-load-kernel-driver.html)|`2025-08-22 03:29:00`|`Rust`|
 |[Safer Driver Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/702983-safer-driver-cheat.html)|`2025-08-22 03:21:00`|`General Programming and Reversing`|
