@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Oreo Rivals &#91;Internal Cheat With External Overlay And New Hooking &#43; Silent Aim&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/707135-oreo-rivals-internal-cheat-external-overlay-hooking-silent-aim.html)|`2025-08-22 01:48:00`|`Marvel Rivals`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-08-22 01:48:00`|`Escape from Tarkov`|
+|[Internal Executors On FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/714412-internal-executors-fivem.html)|`2025-08-22 01:46:00`|`Alternative Online Mods`|
+|[nonagon rat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714201-nonagon-rat.html)|`2025-08-22 01:45:00`|`Counter-Strike 2`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-08-22 01:39:00`|`Call of Duty: Black Ops 6`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-08-22 01:28:00`|`Counter-Strike 2`|
 |[Working valorant spoofer after val152 ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713997-valorant-spoofer-val152.html)|`2025-08-22 01:28:00`|`Valorant`|
