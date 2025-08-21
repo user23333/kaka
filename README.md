@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Are people still using aimbots in battlefield?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/707511-people-using-aimbots-battlefield.html)|`2025-08-21 20:48:00`|`Battlefield 2042`|
+|[I have reached 10k rep&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/714190-reached-10k-rep.html)|`2025-08-21 20:43:00`|`Off Topic`|
 |[running vg in a vm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/714433-running-vg-vm.html)|`2025-08-21 19:56:00`|`League of Legends`|
 |[Reversing Kernel Anticheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714432-reversing-kernel-anticheats.html)|`2025-08-21 19:55:00`|`Anti-Cheat Bypass`|
 |[Descenders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/430508-descenders.html)|`2025-08-21 19:42:00`|`Other Games`|
