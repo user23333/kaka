@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2025-08-22 04:12:00`|`Other MMORPG and Strategy`|
+|[Is SamuelTulach's Github TPM&#45;spoofer working?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714467-samueltulachs-github-tpm-spoofer.html)|`2025-08-22 04:09:00`|`Valorant`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-08-22 04:06:00`|`Other FPS Games`|
+|[Reversing BBox and Finding Offset Chains](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/714465-reversing-bbox-finding-offset-chains.html)|`2025-08-22 04:03:00`|`General Programming and Reversing`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-08-22 03:36:00`|`Marvel Rivals`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-08-22 03:32:00`|`Other FPS Games`|
 |[Looking for Dev – Rust ESP Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/714401-looking-dev-rust-esp-base.html)|`2025-08-22 03:30:00`|`Rust`|
