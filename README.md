@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Salvage Yard Robberies Weekly Cooldown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/714178-salvage-yard-robberies-weekly-cooldown.html)|`2025-08-22 16:45:00`|`Grand Theft Auto V`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-08-22 16:20:00`|`Apex Legends`|
 |[FOV changer Demo bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/714503-fov-changer-demo-bypass.html)|`2025-08-22 15:48:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Reversing Warden](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/714304-reversing-warden.html)|`2025-08-22 15:37:00`|`Overwatch`|
