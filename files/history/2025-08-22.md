@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713828-external-skin-changer.html)|`2025-08-22 17:53:00`|`Counter-Strike 2`|
 |[A LLM model specializing in CS2 cheat menu designs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714477-llm-model-specializing-cs2-cheat-menu-designs.html)|`2025-08-22 17:34:00`|`Counter-Strike 2`|
 |[gta 5 battleye working menu &#40;no dma&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/714342-gta-5-battleye-menu-dma.html)|`2025-08-22 17:18:00`|`Grand Theft Auto V`|
 |[Salvage Yard Robberies Weekly Cooldown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/714178-salvage-yard-robberies-weekly-cooldown.html)|`2025-08-22 16:45:00`|`Grand Theft Auto V`|
