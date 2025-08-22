@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Genshin Impact 5&#46;8 Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/712706-genshin-impact-5-8-table.html)|`2025-08-22 19:12:00`|`Genshin Impact`|
+|[Rust Script Shaking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/714514-rust-script-shaking.html)|`2025-08-22 19:12:00`|`Rust`|
+|[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2025-08-22 19:09:00`|`Sea of Thieves`|
+|[CS2 External Bhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/604580-cs2-external-bhop.html)|`2025-08-22 19:08:00`|`Counter-Strike 2 Releases`|
+|[Rust Script EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714513-rust-script-eac.html)|`2025-08-22 19:04:00`|`Anti-Cheat Bypass`|
 |[vac bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714512-vac-bypass.html)|`2025-08-22 18:55:00`|`Counter-Strike 2`|
 |[How do you do this inifinite Supply glitch in Arma Reforger?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/714510-inifinite-supply-glitch-arma-reforger.html)|`2025-08-22 18:39:00`|`ARMA 3`|
 |[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2025-08-22 18:21:00`|`HELLDIVERS 2`|
