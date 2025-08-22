@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG MOBILE Gameloop Emulator Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/576303-pubg-mobile-gameloop-emulator-cheat.html)|`2025-08-22 11:29:00`|`PUBG Mobile`|
+|[Tanks Blitz &#40;Lesta&#41; ESP Player's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/711725-tanks-blitz-lesta-esp-players.html)|`2025-08-22 11:27:00`|`Other MMORPG and Strategy`|
+|[YimMenuV2Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697581-yimmenuv2mod.html)|`2025-08-22 11:17:00`|`Grand Theft Auto V`|
+|[scum aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/714494-scum-aimbot.html)|`2025-08-22 10:58:00`|`Scum`|
+|[bypass farlight84](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/714493-bypass-farlight84.html)|`2025-08-22 10:53:00`|`Farlight 84`|
 |[wireframe chams&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/714491-wireframe-chams.html)|`2025-08-22 10:30:00`|`Rust`|
 |[bypass anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/714492-bypass-anticheat.html)|`2025-08-22 10:26:00`|`Half Life`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-08-22 10:14:00`|`Escape from Tarkov`|
