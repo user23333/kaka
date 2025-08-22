@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Oreo Rivals &#91;Internal Cheat With External Overlay And New Hooking &#43; Silent Aim&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/707135-oreo-rivals-internal-cheat-external-overlay-hooking-silent-aim.html)|`2025-08-23 05:52:00`|`Marvel Rivals`|
 |[fixed zxcmodule](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/714308-fixed-zxcmodule.html)|`2025-08-23 05:45:00`|`Garry's Mod`|
 |[Dropped item entities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714177-dropped-item-entities.html)|`2025-08-23 05:30:00`|`Counter-Strike 2`|
 |[IDA Pro MCP Server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/693715-ida-pro-mcp-server.html)|`2025-08-23 05:11:00`|`Counter-Strike 2`|
