@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat Master Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/708468-combat-master-internal.html)|`2025-08-23 01:49:00`|`Combat Master`|
 |[Different ways to Visibility check?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/712540-visibility-check.html)|`2025-08-23 01:30:00`|`Escape from Tarkov`|
 |[How to make a Fullbright or change the settings of the flashlight&#46; Phasmophobia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/714541-fullbright-change-settings-flashlight-phasmophobia.html)|`2025-08-23 01:22:00`|`Phasmophobia`|
 |[External · Weapon Icons And/Or Names](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714107-external-weapon-icons-names.html)|`2025-08-23 01:15:00`|`Counter-Strike 2`|
