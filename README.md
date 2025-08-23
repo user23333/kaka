@@ -12,6 +12,7 @@
 |16|[Rage&#46;CM – Combat Master Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/713964-rage-cm-combat-master-menu.html)|`2025-08-23 00:19:34`|`combat-master`|
 |9|[gta 5 battleye working menu &#40;no dma&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/714342-gta-5-battleye-menu-dma.html)|`2025-08-23 00:19:34`|`grand-theft-auto-v`|
 |8|[VAC logger with automatic parameter decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714202-vac-logger-automatic-parameter-decryption.html)|`2025-08-23 07:25:38`|`counter-strike-2-a`|
+|4|[Roblox external dex / framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/713794-roblox-external-dex-framework.html)|`2025-08-23 10:41:55`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-08-23 10:26:00`|`Other MMORPG and Strategy`|
+|[Inventory: Knives and Gloves problem after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711778-inventory-knives-gloves-update.html)|`2025-08-23 10:25:00`|`Counter-Strike 2`|
+|[media](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714593-media.html)|`2025-08-23 10:08:00`|`Valorant`|
+|[Returning player&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/714484-returning-player.html)|`2025-08-23 10:04:00`|`Grand Theft Auto V`|
+|[Op high stakes no recoil detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/714591-op-stakes-recoil-detection.html)|`2025-08-23 10:02:00`|`Rainbow Six Siege`|
+|[MEDIA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/714589-media.html)|`2025-08-23 10:02:00`|`Rust`|
+|[External B06 &#40;ESP &#43; Name &#43; Health &#43; KD, etc&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/713576-external-b06-esp-name-health-kd-etc.html)|`2025-08-23 09:39:00`|`Call of Duty: Black Ops 6`|
 |[Palworld Internal DX11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/710102-palworld-internal-dx11.html)|`2025-08-23 08:51:00`|`Palworld`|
 |[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-08-23 08:43:00`|`Other FPS Games`|
 |[Screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/714385-screenshots.html)|`2025-08-23 08:08:00`|`Call of Duty: Black Ops 6`|
