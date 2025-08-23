@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What DMA firmware should i buy for BE/EAC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/714702-dma-firmware-buy-eac.html)|`2025-08-24 04:36:00`|`Rust`|
 |[HID PROTOCOLE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714469-hid-protocole.html)|`2025-08-24 04:19:00`|`Valorant`|
 |[Does valorant ban arduino in general?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714504-valorant-ban-arduino.html)|`2025-08-24 04:14:00`|`Valorant`|
 |[Need help for decrypt FNameEntry](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714609-help-decrypt-fnameentry.html)|`2025-08-24 04:11:00`|`Valorant`|
