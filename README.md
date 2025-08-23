@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GoodDiePUBG &#45; PUBG 3&#46;9 Emulator Hack Source and Release &#40;server/client&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708956-gooddiepubg-pubg-3-9-emulator-hack-source-release-server-client.html)|`2025-08-24 05:34:00`|`PUBG Mobile`|
+|[how to find Viewmatrix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/714715-viewmatrix.html)|`2025-08-24 05:27:00`|`H1Z1`|
 |[Call of Duty: Modern Warfare 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-code-section/60986-call-duty-modern-warfare-2-reversal-structs-offsets.html)|`2025-08-24 05:11:00`|`Call of Duty 6: Code Section`|
 |[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2025-08-24 05:11:00`|`THE FINALS`|
 |[Dse patcher not working correctly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714710-dse-patcher-correctly.html)|`2025-08-24 05:05:00`|`Anti-Cheat Bypass`|
