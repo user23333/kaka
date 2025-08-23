@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Different ways to Visibility check?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/712540-visibility-check.html)|`2025-08-24 01:50:00`|`Escape from Tarkov`|
+|[TPM Spoofer for free &#40;signed driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713720-tpm-spoofer-free-signed-driver.html)|`2025-08-24 01:46:00`|`Valorant`|
 |[Reversing BBox and Finding Offset Chains](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/714465-reversing-bbox-finding-offset-chains.html)|`2025-08-24 01:43:00`|`General Programming and Reversing`|
 |[Working valorant spoofer after val152 ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713997-valorant-spoofer-val152.html)|`2025-08-24 01:42:00`|`Valorant`|
 |[R6S External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/711453-r6s-external-base.html)|`2025-08-24 01:40:00`|`Rainbow Six Siege`|
