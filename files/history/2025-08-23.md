@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Roblox external dex / framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/713794-roblox-external-dex-framework.html)|`2025-08-23 13:53:00`|`Other Games`|
 |[External Raycasting &#40;PhysX recreation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673196-external-raycasting-physx-recreation.html)|`2025-08-23 13:06:00`|`Escape from Tarkov`|
 |[&#91;Mage Arena&#93; Shadow Government Toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712526-mage-arena-shadow-government-toolkit.html)|`2025-08-23 12:55:00`|`Other FPS Games`|
 |[hw&#46;dll wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/714369-hw-dll-wallhack.html)|`2025-08-23 12:48:00`|`CounterStrike 1.5, 1.6 and Mods`|
