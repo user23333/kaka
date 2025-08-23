@@ -16,6 +16,7 @@
 |4|[Valorant External Base With HVCI Support](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714249-valorant-external-base-hvci-support.html)|`2025-08-23 12:11:19`|`valorant`|
 |8|[schizophrenic esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713952-schizophrenic-esp.html)|`2025-08-23 12:45:04`|`valorant`|
 |14|[A LLM model specializing in CS2 cheat menu designs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714477-llm-model-specializing-cs2-cheat-menu-designs.html)|`2025-08-23 21:58:34`|`counter-strike-2-a`|
+|6|[Getting DTB of EAC&#45;Protected Process via Hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713868-getting-dtb-eac-protected-process-via-hypervisor.html)|`2025-08-23 22:57:58`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
