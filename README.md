@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;DMA&#41; Black Ops 6: Fuser ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670830-dma-black-ops-6-fuser-esp.html)|`2025-08-24 03:07:00`|`Call of Duty: Black Ops 6`|
+|[HWID BsgLauncher Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/713090-hwid-bsglauncher-dumper.html)|`2025-08-24 03:05:00`|`Escape from Tarkov`|
+|[vpk&#45;dumper&#45;cli](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712228-vpk-dumper-cli.html)|`2025-08-24 03:04:00`|`Counter-Strike 2`|
 |[External Valorant Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714689-external-valorant-offsets.html)|`2025-08-24 02:55:00`|`Valorant`|
 |[Battlefield 2042 &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/467604-battlefield-2042-reversal-structs-offsets.html)|`2025-08-24 02:54:00`|`Battlefield 2042`|
 |[Best undetected  mouse move  method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714574-undetected-mouse-move-method.html)|`2025-08-24 02:45:00`|`Anti-Cheat Bypass`|
