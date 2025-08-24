@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BLACK STIGMA Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/709828-black-stigma-reversal-structs-offsets.html)|`2025-08-24 19:00:00`|`Other FPS Games`|
 |[Razer Synapse Jitter macro that doesn't drift and actually worksl](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/713579-razer-synapse-jitter-macro-doesnt-drift-actually-worksl.html)|`2025-08-24 18:48:00`|`Apex Legends`|
 |[2&#46;5k&#43; Lineups file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712780-2-5k-lineups-file.html)|`2025-08-24 18:00:00`|`Valorant`|
 |[Decent BOMB Timer &#40;Python&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714751-decent-bomb-timer-python.html)|`2025-08-24 17:44:00`|`Valorant`|
