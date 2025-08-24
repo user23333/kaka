@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple CLI injector for Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/702638-simple-cli-injector-windows.html)|`2025-08-24 21:24:00`|`General Programming and Reversing`|
 |[Stuck when working with il2cpp global metadata decryption for Realm of the Mad God](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/714777-stuck-il2cpp-global-metadata-decryption-realm-mad-god.html)|`2025-08-24 20:33:00`|`Forum General`|
 |[gta 5 battleye working menu &#40;no dma&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/714342-gta-5-battleye-menu-dma.html)|`2025-08-24 20:33:00`|`Grand Theft Auto V`|
 |[Rematch AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/707035-rematch-ahk.html)|`2025-08-24 20:03:00`|`Other Games`|
