@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[2&#46;5k&#43; Lineups file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712780-2-5k-lineups-file.html)|`2025-08-24 18:00:00`|`Valorant`|
 |[Decent BOMB Timer &#40;Python&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714751-decent-bomb-timer-python.html)|`2025-08-24 17:44:00`|`Valorant`|
 |[How strong anticheat in Dead By Daylight?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714750-strong-anticheat-dead-daylight.html)|`2025-08-24 17:32:00`|`Anti-Cheat Bypass`|
 |[Injected DLL loads but in&#45;game menu does not appear](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/713722-injected-dll-loads-game-menu-appear.html)|`2025-08-24 17:21:00`|`League of Legends`|
