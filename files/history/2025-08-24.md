@@ -13,6 +13,7 @@
 |9|[Working valorant spoofer after val152 ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713997-valorant-spoofer-val152.html)|`2025-08-24 00:07:56`|`valorant`|
 |0|[Cs2 External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714298-cs2-external.html)|`2025-08-24 07:29:19`|`counter-strike-2-a`|
 |18|[Dropped item entities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714177-dropped-item-entities.html)|`2025-08-24 20:38:08`|`counter-strike-2-a`|
+|14|[nonagon rat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714201-nonagon-rat.html)|`2025-08-24 22:31:15`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -39,6 +40,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Summoners War: Chronicles Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/522468-summoners-war-chronicles-cheats.html)|`2025-08-24 22:22:00`|`Other MMORPG and Strategy`|
 |[Palworld Internal DX11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/710102-palworld-internal-dx11.html)|`2025-08-24 22:03:00`|`Palworld`|
 |[Screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/714385-screenshots.html)|`2025-08-24 21:56:00`|`Call of Duty: Black Ops 6`|
 |[Item Pickup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/quake-live/714783-item-pickup.html)|`2025-08-24 21:55:00`|`Quake Live`|
