@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[⚜︎ JARVIS VGC EMULATOR ⚜︎  —  ⚜︎ UNDETECTABLE ⚜︎](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712713-jarvis-vgc-emulator-undetectable.html)|`2025-08-25 06:10:00`|`Valorant`|
+|[Discovering a zero&#45;day vulnerability in the Argus Monitor driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/708619-discovering-zero-day-vulnerability-argus-monitor-driver.html)|`2025-08-25 06:06:00`|`Anti-Cheat Bypass`|
 |[&#91;Mage Arena&#93; Awesome New Hacks, Chaos Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712767-mage-arena-awesome-hacks-chaos-menu.html)|`2025-08-25 05:54:00`|`Other FPS Games`|
 |[Rust anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/714870-rust-anticheat.html)|`2025-08-25 05:53:00`|`Rust`|
 |[hi](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/714548-hi.html)|`2025-08-25 05:33:00`|`PUBG Mobile`|
