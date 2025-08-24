@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat Master Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/708468-combat-master-internal.html)|`2025-08-24 12:40:00`|`Combat Master`|
+|[ESP External/Driver &#45; HunterVoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712154-esp-external-driver-huntervoker.html)|`2025-08-24 12:34:00`|`Counter-Strike 2`|
 |[&#91;Warframe&#93; Player Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/678485-warframe-player-offset.html)|`2025-08-24 12:15:00`|`Other FPS Games`|
 |[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-08-24 12:14:00`|`Other FPS Games`|
 |[Warframe Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/631004-warframe-cheat.html)|`2025-08-24 12:11:00`|`Other FPS Games`|
