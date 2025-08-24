@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lightmoon V2 &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709987-lightmoon-v2-external.html)|`2025-08-24 12:57:00`|`Counter-Strike 2`|
+|[PowerWash Simulator Mini Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/714052-powerwash-simulator-mini-cheat-menu.html)|`2025-08-24 12:57:00`|`Other Games`|
+|[Permanently Unlock WeMod Pro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/714025-permanently-unlock-wemod-pro.html)|`2025-08-24 12:56:00`|`PC Software`|
 |[Rage&#46;CM – Combat Master Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/713964-rage-cm-combat-master-menu.html)|`2025-08-24 12:53:00`|`Combat Master`|
 |[Combat Master Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/708468-combat-master-internal.html)|`2025-08-24 12:40:00`|`Combat Master`|
 |[ESP External/Driver &#45; HunterVoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712154-esp-external-driver-huntervoker.html)|`2025-08-24 12:34:00`|`Counter-Strike 2`|
