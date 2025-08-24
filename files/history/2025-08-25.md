@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rage&#46;CM – Combat Master Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/713964-rage-cm-combat-master-menu.html)|`2025-08-25 01:38:00`|`Combat Master`|
+|[R6S External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/711453-r6s-external-base.html)|`2025-08-25 01:34:00`|`Rainbow Six Siege`|
+|[External Valorant Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714689-external-valorant-offsets.html)|`2025-08-25 01:33:00`|`Valorant`|
 |[ネコちゃん &#124;「 ✦ Neko Triggerbot✦ 」 &#124; ネコちゃん](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/706894-neko-triggerbot.html)|`2025-08-25 01:26:00`|`Valorant`|
 |[Weird Createmove behaviour &#40;VAC Live&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714729-weird-createmove-behaviour-vac-live.html)|`2025-08-25 01:20:00`|`Counter-Strike 2`|
 |[ESP External/Driver &#45; HunterVoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712154-esp-external-driver-huntervoker.html)|`2025-08-25 01:10:00`|`Counter-Strike 2`|
