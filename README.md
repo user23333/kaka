@@ -35,9 +35,11 @@
 |1|[Dying Light Internal V2&#46;01 &#45; By Jenkoo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50919)|`2025-08-24 13:19:52`|
 |3|[CJNoclip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50913)|`2025-08-24 13:19:52`|
 |1|[TarkovGUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50894)|`2025-08-24 13:19:52`|
+|1|[nasm trainer example&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50924)|`2025-08-24 21:47:43`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NASM simple x32&#45;x64 injectable trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/assembly/635016-nasm-simple-x32-x64-injectable-trainer.html)|`2025-08-24 21:46:00`|`Assembly`|
 |[CS 2 Kernel Cheat With Many Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/707639-cs-2-kernel-cheat-features.html)|`2025-08-24 21:36:00`|`Counter-Strike 2 Releases`|
 |[Simple CLI injector for Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/702638-simple-cli-injector-windows.html)|`2025-08-24 21:24:00`|`General Programming and Reversing`|
 |[Stuck when working with il2cpp global metadata decryption for Realm of the Mad God](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/714777-stuck-il2cpp-global-metadata-decryption-realm-mad-god.html)|`2025-08-24 20:33:00`|`Forum General`|
