@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Mage Arena&#93; Awesome New Hacks, Chaos Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712767-mage-arena-awesome-hacks-chaos-menu.html)|`2025-08-25 05:54:00`|`Other FPS Games`|
+|[Rust anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/714870-rust-anticheat.html)|`2025-08-25 05:53:00`|`Rust`|
+|[hi](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/714548-hi.html)|`2025-08-25 05:33:00`|`PUBG Mobile`|
 |[TarkovGUI &#124; PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/694944-tarkovgui-pve.html)|`2025-08-25 05:31:00`|`Escape from Tarkov`|
 |[Manual mapping with OpenSSL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/714242-manual-mapping-openssl.html)|`2025-08-25 05:30:00`|`C and C++`|
 |[basic external um](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714828-basic-external-um.html)|`2025-08-25 05:21:00`|`Counter-Strike 2`|
