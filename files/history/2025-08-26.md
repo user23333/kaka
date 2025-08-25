@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SuperGlide ghub](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/706221-superglide-ghub.html)|`2025-08-26 03:21:00`|`Apex Legends`|
+|[Castle Crashers Unlock All preview](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other/710029-castle-crashers-unlock-preview.html)|`2025-08-26 03:20:00`|`Other`|
 |[Rubinium &#124; Free Inventory Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/713776-rubinium-free-inventory-changer.html)|`2025-08-26 03:15:00`|`Counter-Strike 2 Releases`|
 |[Activating Chams on Enemies Makes Them Sometimes Invisible](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714791-activating-chams-enemies-makes-sometimes-invisible.html)|`2025-08-26 03:10:00`|`Valorant`|
 |[AFUWIN Read Problem &#124; For Valorant HWID Remove](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714812-afuwin-read-valorant-hwid-remove.html)|`2025-08-26 03:09:00`|`Valorant`|
