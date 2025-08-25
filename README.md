@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[any basic r6 cheats rn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/713728-basic-r6-cheats-rn.html)|`2025-08-25 12:40:00`|`Rainbow Six Siege`|
 |[🧠 Looking for Lords Mobile Network&#45;Based Bot Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/704171-looking-lords-mobile-network-based-bot-source.html)|`2025-08-25 12:23:00`|`Other Games`|
 |[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-08-25 11:56:00`|`Other FPS Games`|
 |[standalone sv&#95;pure bypass &#40;x64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/714902-standalone-sv_pure-bypass-x64.html)|`2025-08-25 11:36:00`|`Team Fortress 2`|
