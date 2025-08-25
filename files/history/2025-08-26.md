@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-08-26 04:59:00`|`Alternative Online Mods`|
+|[hyper&#45;reV &#45; memory introspection &#43; reverse engineering powered by leveraging Hyper&#45;V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709634-hyper-rev-memory-introspection-reverse-engineering-powered-leveraging-hyper.html)|`2025-08-26 04:57:00`|`Anti-Cheat Bypass`|
+|[best aimpoint calculation method for colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714981-aimpoint-calculation-method-colorbot.html)|`2025-08-26 04:56:00`|`Valorant`|
 |[FiveM LoadLibraryA Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/714229-fivem-loadlibrarya-injector.html)|`2025-08-26 04:55:00`|`Alternative Online Mods`|
 |[Permanently Unlock WeMod Pro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/714025-permanently-unlock-wemod-pro.html)|`2025-08-26 04:53:00`|`PC Software`|
 |[Hell Let Loose](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707363-hell-loose.html)|`2025-08-26 04:43:00`|`Other FPS Games`|
