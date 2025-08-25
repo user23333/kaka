@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Weird ban on VGK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714951-weird-ban-vgk.html)|`2025-08-25 23:36:00`|`Anti-Cheat Bypass`|
+|[Phasmophobia Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/424456-phasmophobia-reversal-structs-offsets.html)|`2025-08-25 23:35:00`|`Phasmophobia`|
+|[External Valorant Cheat DTC&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711851-external-valorant-cheat-dtc.html)|`2025-08-25 23:24:00`|`Valorant`|
 |[Undetected Triggerbot Arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714424-undetected-triggerbot-arduino.html)|`2025-08-25 23:35:00`|`Valorant`|
 |[&#91;BloodStrike PC WallHack&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/713715-bloodstrike-pc-wallhack.html)|`2025-08-25 23:30:00`|`Other FPS Games`|
 |[Rust Script EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714513-rust-script-eac.html)|`2025-08-25 23:29:00`|`Anti-Cheat Bypass`|
