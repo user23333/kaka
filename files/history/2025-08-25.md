@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-08-25 10:23:00`|`Escape from Tarkov`|
+|[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2025-08-25 10:19:00`|`Grand Theft Auto V`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-08-25 10:19:00`|`Other Games`|
+|[Dying Light 1 &#40;V1&#46;50&#41; Internal &#124; Aimbot, ESP,&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/688897-dying-light-1-v1-50-internal-aimbot-esp.html)|`2025-08-25 09:34:00`|`Other FPS Games`|
+|[External B06 &#40;ESP &#43; Name &#43; Health &#43; KD, etc&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/713576-external-b06-esp-name-health-kd-etc.html)|`2025-08-25 09:33:00`|`Call of Duty: Black Ops 6`|
+|[cheat engine and x64dbg bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712666-cheat-engine-x64dbg-bypass.html)|`2025-08-25 09:28:00`|`Battlefield 6`|
 |[EAC bypass without dse patcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714886-eac-bypass-dse-patcher.html)|`2025-08-25 08:41:00`|`Anti-Cheat Bypass`|
 |[Looking to get into DMA cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/714799-looking-dma-cheating.html)|`2025-08-25 08:39:00`|`PC Hardware`|
 |[Faceit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714788-faceit.html)|`2025-08-25 08:38:00`|`Counter-Strike 2`|
