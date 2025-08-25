@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[bypass farlight84](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/714493-bypass-farlight84.html)|`2025-08-25 15:16:00`|`Farlight 84`|
+|[How do i make my own?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/714782-own.html)|`2025-08-25 15:13:00`|`Rust`|
+|[How to make an external really undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714915-external-undetected.html)|`2025-08-25 15:05:00`|`Counter-Strike 2`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-08-25 15:04:00`|`Counter-Strike 2`|
 |[Custom MAKCU firmware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714910-custom-makcu-firmware.html)|`2025-08-25 14:13:00`|`Valorant`|
 |[Ark evolved offset 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714721-ark-evolved-offset-2025-a.html)|`2025-08-25 14:04:00`|`Other FPS Games`|
 |[external BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/702640-external-bo6.html)|`2025-08-25 13:05:00`|`Call of Duty: Black Ops 6`|
