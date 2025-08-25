@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-08-25 11:56:00`|`Other FPS Games`|
+|[standalone sv&#95;pure bypass &#40;x64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/714902-standalone-sv_pure-bypass-x64.html)|`2025-08-25 11:36:00`|`Team Fortress 2`|
 |[Bloodhunt External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714900-bloodhunt-external.html)|`2025-08-25 11:31:00`|`Other FPS Games`|
 |[September 2025 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/714364-september-2025-motm-nominations.html)|`2025-08-25 11:13:00`|`Member of the Month`|
 |[POLYGON basic external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710575-polygon-basic-external.html)|`2025-08-25 11:08:00`|`Other FPS Games`|
