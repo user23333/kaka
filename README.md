@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Farlight 84 Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/661656-external-farlight-84-free-cheat.html)|`2025-08-25 19:54:00`|`Farlight 84`|
 |[need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/714735-help.html)|`2025-08-25 19:42:00`|`Half Life`|
 |[DSEclipse &#45; Story behind ASM bootkit that bypasses DSE in under 1 KB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714887-dseclipse-story-asm-bootkit-bypasses-dse-1-kb.html)|`2025-08-25 19:24:00`|`Anti-Cheat Bypass`|
 |[Search for a cheat for Rising Storm 2: Vietnam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714930-search-cheat-rising-storm-2-vietnam.html)|`2025-08-25 18:50:00`|`Other FPS Games`|
