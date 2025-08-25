@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Age Of Empires 4 SCAR Lua Injection &#45; Fog&#45;of&#45;War Reveal, HUD Tweaks &#45; Steam/Xbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/707091-age-empires-4-scar-lua-injection-fog-war-reveal-hud-tweaks-steam-xbox.html)|`2025-08-25 15:49:00`|`Other MMORPG and Strategy`|
 |[&#40;Colourbot&#41; How do I stop locking on to colour on the map](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714575-colourbot-stop-locking-colour-map.html)|`2025-08-25 15:43:00`|`Valorant`|
 |[bypass farlight84](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/714493-bypass-farlight84.html)|`2025-08-25 15:16:00`|`Farlight 84`|
 |[How do i make my own?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/714782-own.html)|`2025-08-25 15:13:00`|`Rust`|
