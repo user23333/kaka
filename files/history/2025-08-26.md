@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rubinium &#124; Free Inventory Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/713776-rubinium-free-inventory-changer.html)|`2025-08-26 03:15:00`|`Counter-Strike 2 Releases`|
+|[Activating Chams on Enemies Makes Them Sometimes Invisible](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714791-activating-chams-enemies-makes-sometimes-invisible.html)|`2025-08-26 03:10:00`|`Valorant`|
+|[AFUWIN Read Problem &#124; For Valorant HWID Remove](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714812-afuwin-read-valorant-hwid-remove.html)|`2025-08-26 03:09:00`|`Valorant`|
 |[Soft unlock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/714809-soft-unlock.html)|`2025-08-26 03:03:00`|`Call of Duty: Black Ops 6`|
 |[Razer Synapse Jitter macro that doesn't drift and actually worksl](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/713579-razer-synapse-jitter-macro-doesnt-drift-actually-worksl.html)|`2025-08-26 02:53:00`|`Apex Legends`|
 |[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-08-26 02:53:00`|`Other FPS Games`|
