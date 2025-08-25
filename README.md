@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RageMp Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/714331-ragemp-hack.html)|`2025-08-26 07:48:00`|`Alternative Online Mods`|
+|[Decrypting IL2CPP Metadata and Assembly for Unity il2cpp game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/714992-decrypting-il2cpp-metadata-assembly-unity-il2cpp-game.html)|`2025-08-26 07:42:00`|`General Programming and Reversing`|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-08-26 07:28:00`|`Battlefield 4`|
 |[Internal RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714993-internal-rcs.html)|`2025-08-26 07:44:00`|`Counter-Strike 2`|
 |[tampermonkey BOTLOBBY SCRIPT XBOX CLOUD / GeForce NOW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700634-tampermonkey-botlobby-script-xbox-cloud-geforce.html)|`2025-08-26 07:37:00`|`Call of Duty: Black Ops 6`|
 |[nextclient bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/710903-nextclient-bypass.html)|`2025-08-26 07:28:00`|`CounterStrike 1.5, 1.6 and Mods`|
