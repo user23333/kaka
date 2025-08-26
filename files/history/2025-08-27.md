@@ -11,6 +11,7 @@
 |19|[Chivalry 2 &#45; Noclip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/714573-chivalry-2-noclip.html)|`2025-08-27 00:12:06`|`other-games`|
 |10|[Best undetected  mouse move  method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714574-undetected-mouse-move-method.html)|`2025-08-27 00:12:06`|`anti-cheat-bypass`|
 |8|[vac bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714512-vac-bypass.html)|`2025-08-27 00:12:06`|`counter-strike-2-a`|
+|14|[&#40;Colourbot&#41; How do I stop locking on to colour on the map](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714575-colourbot-stop-locking-colour-map.html)|`2025-08-27 03:50:25`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
