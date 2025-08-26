@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CVar update struct?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715007-cvar-update-struct.html)|`2025-08-26 13:56:00`|`Counter-Strike 2`|
+|[Smite 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/702558-smite-2-internal.html)|`2025-08-26 13:55:00`|`Other FPS Games`|
 |[September 2025 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/714364-september-2025-motm-nominations.html)|`2025-08-26 12:57:00`|`Member of the Month`|
 |[Can't Dump cshell Anymore After Update – Any Solutions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/703909-cant-dump-cshell-anymore-update-solutions.html)|`2025-08-26 12:30:00`|`CrossFire`|
 |[Bypass sard anti cheat  gunbound ggh](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/gunbound/705131-bypass-sard-anti-cheat-gunbound-ggh.html)|`2025-08-26 12:08:00`|`Gunbound`|
