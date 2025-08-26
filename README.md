@@ -24,9 +24,13 @@
 |48|[Menu Snowbreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50898)|`2025-08-27 00:12:06`|
 |35|[Iw4x SastashaFied v1&#46;1 &#40;Undetected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50895)|`2025-08-27 00:12:06`|
 |87|[TarkovGUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50894)|`2025-08-27 00:12:06`|
+|1|[Latest Rematch Offsets SDK &#40;8/25/2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50945)|`2025-08-27 03:44:22`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-08-27 03:41:00`|`Other FPS Games`|
+|[Latest Rematch Offsets SDK &#40;8/25/2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/714941-rematch-offsets-sdk-8-25-2025-a.html)|`2025-08-27 03:40:00`|`Other Games`|
+|[Overlay with DX11 &#43; ImGui written in C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/712237-overlay-dx11-imgui-written.html)|`2025-08-27 03:39:00`|`C and C++`|
 |[Permanently Unlock WeMod Pro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/714025-permanently-unlock-wemod-pro.html)|`2025-08-27 03:32:00`|`PC Software`|
 |[Is there any working TB right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/715120-tb.html)|`2025-08-27 03:25:00`|`Valorant`|
 |[Simple CLI injector for Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/702638-simple-cli-injector-windows.html)|`2025-08-27 03:24:00`|`General Programming and Reversing`|
