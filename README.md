@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple CLI injector for Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/702638-simple-cli-injector-windows.html)|`2025-08-27 03:24:00`|`General Programming and Reversing`|
 |[Logitech Lua &#40;G502&#45;HERO&#41; &#45;simulant v2&#46;0R6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/715117-logitech-lua-g502-hero-simulant-v2-0r6.html)|`2025-08-27 03:07:00`|`Rainbow Six Siege`|
 |[help me dump globalmetadata](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/715113-help-dump-globalmetadata.html)|`2025-08-27 02:48:00`|`Forum General`|
 |[skinchanger logic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715109-skinchanger-logic.html)|`2025-08-27 02:39:00`|`Counter-Strike 2`|
