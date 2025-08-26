@@ -13,6 +13,7 @@
 |8|[vac bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714512-vac-bypass.html)|`2025-08-27 00:12:06`|`counter-strike-2-a`|
 |14|[&#40;Colourbot&#41; How do I stop locking on to colour on the map](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714575-colourbot-stop-locking-colour-map.html)|`2025-08-27 03:50:25`|`valorant`|
 |6|[Internal Executors On FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/714412-internal-executors-fivem.html)|`2025-08-27 04:31:11`|`alternative-online-mods`|
+|22|[cs2 fully featured feature rich openai chat api wrapper &#40;for cheat sdk features&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715053-cs2-featured-feature-rich-openai-chat-api-wrapper-cheat-sdk-features.html)|`2025-08-27 05:00:06`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,9 +33,11 @@
 |3|[source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50916)|`2025-08-27 04:48:07`|
 |1|[LooneysMod&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50922)|`2025-08-27 04:54:12`|
 |1|[SastashaFied Iw5 v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50921)|`2025-08-27 04:54:12`|
+|1|[fasm trainer example&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50923)|`2025-08-27 05:00:06`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FASM simple x32&#45;x64 injectable trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/assembly/635764-fasm-simple-x32-x64-injectable-trainer.html)|`2025-08-27 04:55:00`|`Assembly`|
 |[ESP External/Driver &#45; HunterVoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712154-esp-external-driver-huntervoker.html)|`2025-08-27 04:53:00`|`Counter-Strike 2`|
 |[&#91;Mage Arena&#93; LooneysMenu Jailbroken](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714741-mage-arena-looneysmenu-jailbroken.html)|`2025-08-27 04:52:00`|`Other FPS Games`|
 |[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2025-08-27 04:47:00`|`Grand Theft Auto V`|
