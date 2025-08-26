@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Fisherman &#45; Fishing Planet &#40;Mod Menu, ESP, Alarm Indicator, Instant Catch&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/497933-fisherman-fishing-planet-mod-menu-esp-alarm-indicator-instant-catch.html)|`2025-08-26 18:46:00`|`Other Games`|
 |[Best undetected  mouse move  method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714574-undetected-mouse-move-method.html)|`2025-08-26 18:31:00`|`Anti-Cheat Bypass`|
 |[Item Pickup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/quake-live/714783-item-pickup.html)|`2025-08-26 17:43:00`|`Quake Live`|
 |[imgui dx11 external menu base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/708711-imgui-dx11-external-menu-base.html)|`2025-08-26 17:41:00`|`C and C++`|
