@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Yolov11s Model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/715056-valorant-yolov11s-model.html)|`2025-08-27 00:35:00`|`Valorant`|
+|[Schedule I &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695780-schedule-internal.html)|`2025-08-27 00:31:00`|`Other Games`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-08-27 00:30:00`|`Call of Duty: Black Ops 6`|
+|[apex rage cheat &#40;external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705590-apex-rage-cheat-external.html)|`2025-08-27 00:30:00`|`Apex Legends`|
+|[Quick Question About Driver Certificates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/714937-quick-question-driver-certificates.html)|`2025-08-27 00:24:00`|`General Programming and Reversing`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-08-27 00:24:00`|`Apex Legends`|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-08-27 00:20:00`|`Apex Legends`|
+|[Dirt Showdown &#40;EGO engine&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/715055-dirt-showdown-ego-engine.html)|`2025-08-27 00:18:00`|`General Programming and Reversing`|
 |[CVar update struct?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715007-cvar-update-struct.html)|`2025-08-27 00:11:00`|`Counter-Strike 2`|
 |[cs2 fully featured feature rich openai chat api wrapper &#40;for cheat sdk features&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715053-cs2-featured-feature-rich-openai-chat-api-wrapper-cheat-sdk-features.html)|`2025-08-27 00:09:00`|`Counter-Strike 2`|
 |[Search for a cheat for Rising Storm 2: Vietnam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714930-search-cheat-rising-storm-2-vietnam.html)|`2025-08-26 23:59:00`|`Other FPS Games`|
