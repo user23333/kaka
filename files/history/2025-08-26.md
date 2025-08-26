@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dma error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/715040-dma-error.html)|`2025-08-26 21:47:00`|`PC Hardware`|
 |[External Valorant Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714689-external-valorant-offsets.html)|`2025-08-26 21:33:00`|`Valorant`|
 |[apex rage cheat &#40;external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705590-apex-rage-cheat-external.html)|`2025-08-26 21:31:00`|`Apex Legends`|
 |[just a basic box or bone ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/714688-basic-box-bone-esp.html)|`2025-08-26 21:13:00`|`THE FINALS`|
