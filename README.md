@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/465314-super-animal-royale-hack.html)|`2025-08-26 19:32:00`|`Other Games`|
+|[Il2Cpp CodeRegistration and MetadataRegistration missing from Unity Project?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/714859-il2cpp-coderegistration-metadataregistration-missing-unity-project.html)|`2025-08-26 19:28:00`|`Unity`|
 |[Arduino all&#45;in&#45;one post](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/639560-arduino-post.html)|`2025-08-26 19:07:00`|`Valorant`|
 |[How to dump?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/715026-dump.html)|`2025-08-26 19:01:00`|`Farlight 84`|
 |[External python cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/714196-external-python-cheat.html)|`2025-08-26 18:55:00`|`CounterStrike 1.5, 1.6 and Mods`|
