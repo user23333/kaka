@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fivem Injection Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/710007-fivem-injection-methods.html)|`2025-08-27 01:57:00`|`Alternative Online Mods`|
+|[Permanent unlock m14](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/707093-permanent-unlock-m14.html)|`2025-08-27 01:57:00`|`Call of Duty: Black Ops 3`|
+|[Polygon how to get bones?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714953-polygon-bones.html)|`2025-08-27 01:56:00`|`Other FPS Games`|
+|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-08-27 01:56:00`|`Other FPS Games`|
+|[FiveM LoadLibraryA Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/714229-fivem-loadlibrarya-injector.html)|`2025-08-27 01:55:00`|`Alternative Online Mods`|
 |[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-08-27 01:51:00`|`Call of Duty: Black Ops 3`|
 |[imgui dx11 external menu base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/708711-imgui-dx11-external-menu-base.html)|`2025-08-27 01:48:00`|`C and C++`|
 |[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-08-27 01:41:00`|`Other FPS Games`|
