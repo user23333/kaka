@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to make skinchanger?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714968-skinchanger.html)|`2025-08-26 20:34:00`|`Counter-Strike 2`|
+|[kmbox custom firmware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/714712-kmbox-custom-firmware.html)|`2025-08-26 20:05:00`|`PC Hardware`|
+|[Oreo Rivals &#91;Internal Cheat With External Overlay And New Hooking &#43; Silent Aim&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/707135-oreo-rivals-internal-cheat-external-overlay-hooking-silent-aim.html)|`2025-08-26 20:05:00`|`Marvel Rivals`|
 |[Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/465314-super-animal-royale-hack.html)|`2025-08-26 19:32:00`|`Other Games`|
 |[Il2Cpp CodeRegistration and MetadataRegistration missing from Unity Project?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/714859-il2cpp-coderegistration-metadataregistration-missing-unity-project.html)|`2025-08-26 19:28:00`|`Unity`|
 |[Arduino all&#45;in&#45;one post](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/639560-arduino-post.html)|`2025-08-26 19:07:00`|`Valorant`|
