@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Valorant Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714689-external-valorant-offsets.html)|`2025-08-26 21:33:00`|`Valorant`|
+|[apex rage cheat &#40;external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705590-apex-rage-cheat-external.html)|`2025-08-26 21:31:00`|`Apex Legends`|
 |[just a basic box or bone ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/714688-basic-box-bone-esp.html)|`2025-08-26 21:13:00`|`THE FINALS`|
 |[External Valorant Position](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714935-external-valorant-position.html)|`2025-08-26 21:05:00`|`Valorant`|
 |[A LLM model specializing in CS2 cheat menu designs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714477-llm-model-specializing-cs2-cheat-menu-designs.html)|`2025-08-26 20:57:00`|`Counter-Strike 2`|
