@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-08-27 01:51:00`|`Call of Duty: Black Ops 3`|
+|[imgui dx11 external menu base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/708711-imgui-dx11-external-menu-base.html)|`2025-08-27 01:48:00`|`C and C++`|
+|[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-08-27 01:41:00`|`Other FPS Games`|
+|[Rust Macros &#124; Arduino Leonardo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/713963-rust-macros-arduino-leonardo.html)|`2025-08-27 01:26:00`|`Rust`|
 |[Seriously looking for an XP hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/713723-seriously-looking-xp-hack.html)|`2025-08-27 01:27:00`|`Star Wars Battlefront 2`|
 |[Dropped item entities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714177-dropped-item-entities.html)|`2025-08-27 01:25:00`|`Counter-Strike 2`|
 |[EVO3 &#124; Updated External Legit/Semi&#45;Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/713273-evo3-updated-external-legit-semi-rage-cheat.html)|`2025-08-27 01:24:00`|`Counter-Strike 2 Releases`|
