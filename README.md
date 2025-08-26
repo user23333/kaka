@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I want to get into coding cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust-language-/704183-coding-cheats.html)|`2025-08-26 16:06:00`|`Rust (Language)`|
+|[Reversing Kernel Anticheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714432-reversing-kernel-anticheats.html)|`2025-08-26 16:04:00`|`Anti-Cheat Bypass`|
 |[running vg in a vm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/714433-running-vg-vm.html)|`2025-08-26 15:46:00`|`League of Legends`|
 |[Dead By Daylight DMA 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714224-dead-daylight-dma-2-0-a.html)|`2025-08-26 15:45:00`|`Other FPS Games`|
 |[Valorant Hwid spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714071-valorant-hwid-spoofing.html)|`2025-08-26 14:44:00`|`Valorant`|
