@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rubinium &#124; Free Inventory Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/713776-rubinium-free-inventory-changer.html)|`2025-08-27 05:17:00`|`Counter-Strike 2 Releases`|
 |[FASM simple x32&#45;x64 injectable trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/assembly/635764-fasm-simple-x32-x64-injectable-trainer.html)|`2025-08-27 04:55:00`|`Assembly`|
 |[ESP External/Driver &#45; HunterVoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712154-esp-external-driver-huntervoker.html)|`2025-08-27 04:53:00`|`Counter-Strike 2`|
 |[&#91;Mage Arena&#93; LooneysMenu Jailbroken](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714741-mage-arena-looneysmenu-jailbroken.html)|`2025-08-27 04:52:00`|`Other FPS Games`|
