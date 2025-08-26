@@ -30,9 +30,13 @@
 |1|[FiveM Spider External 3095](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50910)|`2025-08-27 04:31:11`|
 |1|[LetItDie&#45;Internal&#45;Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50909)|`2025-08-27 04:31:11`|
 |3|[source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50916)|`2025-08-27 04:48:07`|
+|1|[LooneysMod&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50922)|`2025-08-27 04:54:12`|
+|1|[SastashaFied Iw5 v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50921)|`2025-08-27 04:54:12`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ESP External/Driver &#45; HunterVoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712154-esp-external-driver-huntervoker.html)|`2025-08-27 04:53:00`|`Counter-Strike 2`|
+|[&#91;Mage Arena&#93; LooneysMenu Jailbroken](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714741-mage-arena-looneysmenu-jailbroken.html)|`2025-08-27 04:52:00`|`Other FPS Games`|
 |[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2025-08-27 04:47:00`|`Grand Theft Auto V`|
 |[SastashFied Iw5 &#40;Undetected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/712859-sastashfied-iw5-undetected.html)|`2025-08-27 04:45:00`|`Call of Duty: Modern Warfare 3`|
 |[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-08-27 04:39:00`|`Grand Theft Auto V`|
