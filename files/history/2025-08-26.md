@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino all&#45;in&#45;one post](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/639560-arduino-post.html)|`2025-08-26 19:07:00`|`Valorant`|
+|[How to dump?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/715026-dump.html)|`2025-08-26 19:01:00`|`Farlight 84`|
+|[External python cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/714196-external-python-cheat.html)|`2025-08-26 18:55:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[The Fisherman &#45; Fishing Planet &#40;Mod Menu, ESP, Alarm Indicator, Instant Catch&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/497933-fisherman-fishing-planet-mod-menu-esp-alarm-indicator-instant-catch.html)|`2025-08-26 18:46:00`|`Other Games`|
 |[Best undetected  mouse move  method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714574-undetected-mouse-move-method.html)|`2025-08-26 18:31:00`|`Anti-Cheat Bypass`|
 |[Item Pickup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/quake-live/714783-item-pickup.html)|`2025-08-26 17:43:00`|`Quake Live`|
