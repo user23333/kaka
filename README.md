@@ -31,6 +31,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-08-28 01:24:00`|`Counter-Strike 2`|
+|[Polygon how to get bones?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714953-polygon-bones.html)|`2025-08-28 01:24:00`|`Other FPS Games`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-08-28 01:23:00`|`Overwatch`|
+|[TPM Spoofer for free &#40;signed driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713720-tpm-spoofer-free-signed-driver.html)|`2025-08-28 01:19:00`|`Valorant`|
+|[skinchanger logic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715109-skinchanger-logic.html)|`2025-08-28 01:12:00`|`Counter-Strike 2`|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-08-28 00:59:00`|`Counter-Strike 2 Releases`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-08-28 00:57:00`|`Alternative Online Mods`|
 |[apexdumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/715180-apexdumper.html)|`2025-08-28 01:03:00`|`Apex Legends`|
 |[YimMenu not showing Lua Scripts option in Settings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/715222-yimmenu-lua-scripts-option-settings.html)|`2025-08-28 00:58:00`|`Grand Theft Auto V`|
 |[Dead By Daylight DMA 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714224-dead-daylight-dma-2-0-a.html)|`2025-08-28 00:51:00`|`Other FPS Games`|
