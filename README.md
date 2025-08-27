@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Blue Archive Cheat — Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/710592-blue-archive-cheat-steam.html)|`2025-08-28 00:27:00`|`Other MMORPG and Strategy`|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-08-28 00:26:00`|`Farlight 84`|
+|[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2025-08-28 00:25:00`|`HELLDIVERS 2`|
+|[&#40;Colourbot&#41; How do I stop locking on to colour on the map](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714575-colourbot-stop-locking-colour-map.html)|`2025-08-28 00:24:00`|`Valorant`|
+|[Bloodhunt External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714900-bloodhunt-external.html)|`2025-08-28 00:23:00`|`Other FPS Games`|
+|[noises](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/715172-noises.html)|`2025-08-28 00:21:00`|`Escape from Tarkov`|
+|[Custom MAKCU firmware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714910-custom-makcu-firmware.html)|`2025-08-28 00:14:00`|`Valorant`|
 |[valorant external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/715247-valorant-external.html)|`2025-08-28 00:08:00`|`Valorant`|
 |[What is the best way to cheat with only 1pc &#40;like the best hardware eg&#46; makcu, kmbox&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/715245-cheat-1pc-hardware-eg-makcu-kmbox.html)|`2025-08-28 00:02:00`|`Valorant`|
 |[acceleron&#46;tech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715059-acceleron-tech.html)|`2025-08-28 00:01:00`|`Anti-Cheat Bypass`|
