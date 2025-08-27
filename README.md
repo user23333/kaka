@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Finding GhostInfo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/715238-finding-ghostinfo.html)|`2025-08-28 03:04:00`|`Phasmophobia`|
 |[bSendPacket](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/713291-bsendpacket.html)|`2025-08-28 02:47:00`|`Team Fortress 2`|
 |[solution of decryption for external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/715241-solution-decryption-external.html)|`2025-08-28 02:44:00`|`Overwatch`|
 |[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-08-28 02:15:00`|`Other FPS Games`|
