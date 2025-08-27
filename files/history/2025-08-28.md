@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[game of thrones kingsroad hack & offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701827-game-thrones-kingsroad-hack-offsets.html)|`2025-08-28 07:45:00`|`Other MMORPG and Strategy`|
 |[PastaTB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/715286-pastatb.html)|`2025-08-28 07:34:00`|`Valorant`|
 |[Heirloom Id's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/715224-heirloom-ids.html)|`2025-08-28 07:23:00`|`Apex Legends`|
 |[Roblox executors available?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715282-roblox-executors-available.html)|`2025-08-28 07:16:00`|`Other Games`|
