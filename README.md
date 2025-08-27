@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Visbility Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/715200-external-visbility-check.html)|`2025-08-27 17:10:00`|`PUBG Mobile`|
+|[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2025-08-27 17:06:00`|`Other FPS Games`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-08-27 16:47:00`|`Rainbow Six Siege`|
 |[mono &#45; custom shaders &#40;or materials, idk&#41; for chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/715197-mono-custom-shaders-materials-idk-chams.html)|`2025-08-27 16:36:00`|`Unity`|
 |[September 2025 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/714364-september-2025-motm-nominations.html)|`2025-08-27 16:11:00`|`Member of the Month`|
