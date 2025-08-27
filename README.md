@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ready to Paste NVIDIA GPU Spoofing &#40;multi&#45;version support 53x&#45;56x&#43;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/685601-ready-paste-nvidia-gpu-spoofing-multi-version-support-53x-56x.html)|`2025-08-27 18:55:00`|`Anti-Cheat Bypass`|
 |[Net Messages](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/713798-net-messages.html)|`2025-08-27 18:25:00`|`Garry's Mod`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-08-27 18:22:00`|`Marvel Rivals`|
 |[easily call eidolon::Xor for internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/712669-easily-call-eidolon-xor-internal.html)|`2025-08-27 17:57:00`|`Overwatch`|
