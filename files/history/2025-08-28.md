@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Trying to find the EntityList in CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715129-trying-entitylist-cs2.html)|`2025-08-28 06:51:00`|`Counter-Strike 2`|
+|[MWIII BNET S1&#45;6 backup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/715281-mwiii-bnet-s1-6-backup.html)|`2025-08-28 06:51:00`|`Call of Duty: Modern Warfare III`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-08-28 06:30:00`|`Other FPS Games`|
 |[Battlefield 2042 &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/467604-battlefield-2042-reversal-structs-offsets.html)|`2025-08-28 06:26:00`|`Battlefield 2042`|
 |[Can I Bypass A Battlefield 2042 Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/707972-bypass-battlefield-2042-ban.html)|`2025-08-28 06:22:00`|`Battlefield 2042`|
