@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Heirloom Id's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/715224-heirloom-ids.html)|`2025-08-28 07:23:00`|`Apex Legends`|
+|[Roblox executors available?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715282-roblox-executors-available.html)|`2025-08-28 07:16:00`|`Other Games`|
 |[Permanent unlock m14](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/707093-permanent-unlock-m14.html)|`2025-08-28 07:06:00`|`Call of Duty: Black Ops 3`|
 |[Trying to find the EntityList in CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715129-trying-entitylist-cs2.html)|`2025-08-28 06:51:00`|`Counter-Strike 2`|
 |[MWIII BNET S1&#45;6 backup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/715281-mwiii-bnet-s1-6-backup.html)|`2025-08-28 06:51:00`|`Call of Duty: Modern Warfare III`|
