@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VGK cr3 encryption and decryption code simplified](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715239-vgk-cr3-encryption-decryption-code-simplified.html)|`2025-08-28 03:51:00`|`Anti-Cheat Bypass`|
 |[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2025-08-28 03:46:00`|`Other Games`|
 |[Unturned &#45; Server Connecting Format &#40;Client&#45;&#62;Server&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/714940-unturned-server-connecting-format-client-server.html)|`2025-08-28 03:40:00`|`Other Games`|
 |[gta 5 battleye working menu &#40;no dma&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/714342-gta-5-battleye-menu-dma.html)|`2025-08-28 03:35:00`|`Grand Theft Auto V`|
