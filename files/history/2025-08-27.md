@@ -40,6 +40,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What is the best way to cheat with only 1pc &#40;like the best hardware eg&#46; makcu, kmbox&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/715245-cheat-1pc-hardware-eg-makcu-kmbox.html)|`2025-08-27 23:51:00`|`Valorant`|
+|[Can writing to recoil be seen by admins?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/714952-writing-recoil-seen-admins.html)|`2025-08-27 23:49:00`|`Rust`|
 |[notwav](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/715244-notwav.html)|`2025-08-27 23:35:00`|`Off Topic`|
 |[R6S External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/711453-r6s-external-base.html)|`2025-08-27 23:25:00`|`Rainbow Six Siege`|
 |[Are people still using aimbots in battlefield?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/707511-people-using-aimbots-battlefield.html)|`2025-08-27 23:10:00`|`Battlefield 2042`|
