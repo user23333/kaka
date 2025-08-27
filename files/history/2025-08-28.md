@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rubinium &#124; Free Inventory Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/713776-rubinium-free-inventory-changer.html)|`2025-08-28 04:05:00`|`Counter-Strike 2 Releases`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-08-28 04:04:00`|`Other FPS Games`|
 |[VGK cr3 encryption and decryption code simplified](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715239-vgk-cr3-encryption-decryption-code-simplified.html)|`2025-08-28 03:51:00`|`Anti-Cheat Bypass`|
 |[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2025-08-28 03:46:00`|`Other Games`|
 |[Unturned &#45; Server Connecting Format &#40;Client&#45;&#62;Server&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/714940-unturned-server-connecting-format-client-server.html)|`2025-08-28 03:40:00`|`Other Games`|
