@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help with External Silent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/715232-help-external-silent.html)|`2025-08-27 21:49:00`|`Alternative Online Mods`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-08-27 21:41:00`|`Other Games`|
 |[Heirloom Id's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/715224-heirloom-ids.html)|`2025-08-27 21:21:00`|`Apex Legends`|
 |[Multi cheat &#35; Aimbot &#35; Esp &#35; Triggerbot &#35; Misc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/642513-multi-cheat-aimbot-esp-triggerbot-misc.html)|`2025-08-27 21:20:00`|`Counter-Strike 2 Releases`|
