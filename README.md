@@ -32,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ESP32&#45;S3 RIP?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/715292-esp32-s3-rip.html)|`2025-08-28 10:39:00`|`Rust`|
+|[Advanced norecoil script for esp32s3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710109-advanced-norecoil-script-esp32s3.html)|`2025-08-28 10:34:00`|`Rust`|
+|[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2025-08-28 10:31:00`|`Other MMORPG and Strategy`|
+|[Summoners War: Chronicles Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/522468-summoners-war-chronicles-cheats.html)|`2025-08-28 10:27:00`|`Other MMORPG and Strategy`|
+|[Mage arena &#91;full cheat&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/711876-mage-arena-cheat.html)|`2025-08-28 10:20:00`|`Off Topic`|
+|[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-08-28 10:17:00`|`Sea of Thieves`|
 |[Vape client Free](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/711187-vape-client-free.html)|`2025-08-28 08:57:00`|`Minecraft`|
 |[View model handle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715287-view-model-handle.html)|`2025-08-28 08:21:00`|`Counter-Strike 2`|
 |[MCC Toolbox &#45; Trainer supports Halo Reach, Halo CE, Halo 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/397845-mcc-toolbox-trainer-supports-halo-reach-halo-ce-halo-2-a.html)|`2025-08-28 07:58:00`|`Halo`|
