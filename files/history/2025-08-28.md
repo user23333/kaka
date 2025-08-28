@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hi, I have a few questions&#46; &#40;YimMenu v2 and fsl etc&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/715358-hi-questions-yimmenu-v2-fsl-etc.html)|`2025-08-28 23:17:00`|`Grand Theft Auto V`|
+|[making a spoofer without reinstalling the window](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/715357-spoofer-reinstalling-window.html)|`2025-08-28 23:10:00`|`Valorant`|
+|[Latest Rematch Offsets SDK &#40;8/25/2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/714941-rematch-offsets-sdk-8-25-2025-a.html)|`2025-08-28 23:02:00`|`Other Games`|
 |[Weird Createmove behaviour &#40;VAC Live&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714729-weird-createmove-behaviour-vac-live.html)|`2025-08-28 22:44:00`|`Counter-Strike 2`|
 |[&#91;Mage Arena&#93; MagusToolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711827-mage-arena-magustoolkit.html)|`2025-08-28 22:21:00`|`Other FPS Games`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2025-08-28 21:55:00`|`Valorant`|
