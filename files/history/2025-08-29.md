@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[When Lag Compensation is active, ESP and Chams &#40;Entities&#41; are corrupted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715331-lag-compensation-active-esp-chams-entities-corrupted.html)|`2025-08-29 03:12:00`|`Counter-Strike 2`|
+|[REPO Simple Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/689820-repo-simple-cheat.html)|`2025-08-29 03:06:00`|`Other MMORPG and Strategy`|
 |[acceleron&#46;tech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715059-acceleron-tech.html)|`2025-08-29 02:55:00`|`Anti-Cheat Bypass`|
 |[Let It Die &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/713564-die-internal.html)|`2025-08-29 02:49:00`|`Other Games`|
 |[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2025-08-29 02:43:00`|`Other MMORPG and Strategy`|
