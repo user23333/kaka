@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I need help for setting the mesh mask](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715169-help-setting-mesh-mask.html)|`2025-08-29 01:13:00`|`Counter-Strike 2`|
+|[Item Pickup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/quake-live/714783-item-pickup.html)|`2025-08-29 01:13:00`|`Quake Live`|
 |[Company of Heroes 1 SP/MP Tools](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/566881-company-heroes-1-sp-mp-tools.html)|`2025-08-29 01:07:00`|`Other MMORPG and Strategy`|
 |[noises](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/715172-noises.html)|`2025-08-29 01:02:00`|`Escape from Tarkov`|
 |[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2025-08-29 00:55:00`|`HELLDIVERS 2`|
