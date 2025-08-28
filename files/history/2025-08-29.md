@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[gta 5 battleye working menu &#40;no dma&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/714342-gta-5-battleye-menu-dma.html)|`2025-08-29 06:23:00`|`Grand Theft Auto V`|
+|[Rust External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/713701-rust-external-base.html)|`2025-08-29 06:20:00`|`Rust`|
+|[DSEclipse &#45; Story behind ASM bootkit that bypasses DSE in under 1 KB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714887-dseclipse-story-asm-bootkit-bypasses-dse-1-kb.html)|`2025-08-29 06:19:00`|`Anti-Cheat Bypass`|
 |[Genshin Impact 5&#46;8 Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/712706-genshin-impact-5-8-table.html)|`2025-08-29 06:14:00`|`Genshin Impact`|
 |[New ColorBot/TriggerBot Signed Microsoft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/684493-colorbot-triggerbot-signed-microsoft.html)|`2025-08-29 06:10:00`|`Valorant`|
 |[How to make custom FW for DMA &#40;FPGA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/713804-custom-fw-dma-fpga.html)|`2025-08-29 06:09:00`|`Programming for Beginners`|
