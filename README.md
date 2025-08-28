@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[OMath &#45; C&#43;&#43; Math Library for Game Development/Hacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/715360-omath-math-library-game-development-hacking.html)|`2025-08-29 03:55:00`|`Forum General`|
+|[TPM Spoofer for free &#40;signed driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713720-tpm-spoofer-free-signed-driver.html)|`2025-08-29 03:51:00`|`Valorant`|
 |[FiveM LoadLibraryA Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/714229-fivem-loadlibrarya-injector.html)|`2025-08-29 03:49:00`|`Alternative Online Mods`|
 |[Sniper Elite 4 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/692172-sniper-elite-4-internal.html)|`2025-08-29 03:48:00`|`Other MMORPG and Strategy`|
 |[BEDaisy passing weird strings to MmGetSystemRoutineAddress](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715381-bedaisy-passing-weird-strings-mmgetsystemroutineaddress.html)|`2025-08-29 03:28:00`|`Anti-Cheat Bypass`|
