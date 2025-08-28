@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[When Lag Compensation is active, ESP and Chams &#40;Entities&#41; are corrupted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715331-lag-compensation-active-esp-chams-entities-corrupted.html)|`2025-08-28 21:01:00`|`Counter-Strike 2`|
+|[Is there some convenient way to debug the cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/715330-convenient-debug-cheat.html)|`2025-08-28 20:41:00`|`Overwatch`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-08-28 20:36:00`|`Marvel Rivals`|
 |[I need help for setting the mesh mask](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715169-help-setting-mesh-mask.html)|`2025-08-28 20:32:00`|`Counter-Strike 2`|
 |[hyper&#45;reV &#45; memory introspection &#43; reverse engineering powered by leveraging Hyper&#45;V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709634-hyper-rev-memory-introspection-reverse-engineering-powered-leveraging-hyper.html)|`2025-08-28 20:24:00`|`Anti-Cheat Bypass`|
