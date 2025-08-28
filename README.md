@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2025-08-29 00:55:00`|`HELLDIVERS 2`|
+|[Horizon Walker Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/715369-horizon-walker-cheat.html)|`2025-08-29 00:52:00`|`Other MMORPG and Strategy`|
 |[Fivem Ready](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/715236-fivem-ready.html)|`2025-08-29 00:47:00`|`Alternative Online Mods`|
 |[Polygon how to get bones?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714953-polygon-bones.html)|`2025-08-29 00:42:00`|`Other FPS Games`|
 |[Help Source Coding / SDK updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/715363-help-source-coding-sdk-updated.html)|`2025-08-29 00:21:00`|`Marvel Rivals`|
