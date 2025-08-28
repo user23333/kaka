@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cs2 fully featured feature rich openai chat api wrapper &#40;for cheat sdk features&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715053-cs2-featured-feature-rich-openai-chat-api-wrapper-cheat-sdk-features.html)|`2025-08-28 15:45:00`|`Counter-Strike 2`|
 |[ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/699582-esp.html)|`2025-08-28 15:23:00`|`Battlefield 1`|
 |[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-08-28 15:21:00`|`Battlefield 4`|
 |[Modern subtick strafe &#40; utilizing C&#43;&#43; 20 and transformer LLM models &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715316-modern-subtick-strafe-utilizing-20-transformer-llm-models.html)|`2025-08-28 15:18:00`|`Counter-Strike 2`|
