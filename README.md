@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-08-30 03:40:00`|`Rainbow Six Siege`|
 |[Any Good Sources?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715492-sources.html)|`2025-08-30 03:34:00`|`Counter-Strike 2`|
 |[MGS: Snake Eater Delta &#45; SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/715491-mgs-snake-eater-delta-sdk.html)|`2025-08-30 03:31:00`|`General Programming and Reversing`|
 |[JITTER AND REDUCE RECOIL &#40;RAZER&#95;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/715489-jitter-reduce-recoil-razer_.html)|`2025-08-30 03:20:00`|`Apex Legends`|
