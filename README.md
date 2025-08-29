@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino Leonardo patched?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/714947-arduino-leonardo-patched.html)|`2025-08-29 16:12:00`|`Rust`|
 |[getting il2cpp api offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/715438-getting-il2cpp-api-offsets.html)|`2025-08-29 15:53:00`|`Forum General`|
 |[ODIN V4 FOR STEAM ONLY&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/645623-odin-v4-steam.html)|`2025-08-29 15:53:00`|`Paladins`|
 |[Fast BHop in Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711250-fast-bhop-python.html)|`2025-08-29 15:52:00`|`Counter-Strike 2 Releases`|
