@@ -13,6 +13,7 @@
 |15|[&#40;Colourbot&#41; How do I stop locking on to colour on the map](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714575-colourbot-stop-locking-colour-map.html)|`2025-08-30 00:10:51`|`valorant`|
 |14|[apexdumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/715180-apexdumper.html)|`2025-08-30 06:29:25`|`apex-legends`|
 |8|[Valorant Yolov11s Model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/715056-valorant-yolov11s-model.html)|`2025-08-30 06:29:25`|`valorant`|
+|8|[EAC bypass without dse patcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714886-eac-bypass-dse-patcher.html)|`2025-08-30 06:38:40`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,9 +31,14 @@
 |1|[Jitter, I Hardly Know Her&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50949)|`2025-08-30 06:12:03`|
 |2|[Flectorite 2&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50987)|`2025-08-30 06:29:25`|
 |1|[revemu launcher source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50947)|`2025-08-30 06:29:25`|
+|1|[MGS&#46;SnakeEaterDeltaSDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51007)|`2025-08-30 06:38:40`|
+|1|[Correct Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50950)|`2025-08-30 06:38:40`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-08-30 06:36:00`|`Escape from Tarkov`|
+|[Rivals UnKnoWn &#91;Internal&#93; &#45; Giving Back to the Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695531-rivals-unknown-internal-giving-community.html)|`2025-08-30 06:33:00`|`Marvel Rivals`|
+|[Did anyone else get unbanned after UE5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/715285-else-unbanned-ue5.html)|`2025-08-30 06:31:00`|`Valorant`|
 |[RevEmu SteamID Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/714921-revemu-steamid-changer.html)|`2025-08-30 06:25:00`|`CounterStrike Source`|
 |[Revolution Idle Anti Cheat Bypass/Freeshop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/711124-revolution-idle-anti-cheat-bypass-freeshop.html)|`2025-08-30 06:18:00`|`Other Games`|
 |[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-08-30 06:18:00`|`Other FPS Games`|
