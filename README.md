@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CVar update struct?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715007-cvar-update-struct.html)|`2025-08-29 17:31:00`|`Counter-Strike 2`|
+|[Planetside 2 Anticheat BattlEye Bypass &#40;braidead edition&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/712951-planetside-2-anticheat-battleye-bypass-braidead-edition.html)|`2025-08-29 17:30:00`|`PlanetSide 2`|
+|[gafAsyncKeyState on Win 10 &#45; Win 11 24h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/715442-gafasynckeystate-win-10-win-11-24h2.html)|`2025-08-29 17:19:00`|`C and C++`|
+|[FiveM External Vischeck](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/715441-fivem-external-vischeck.html)|`2025-08-29 17:16:00`|`Alternative Online Mods`|
+|[DMA Firmware PUBG need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/715321-dma-firmware-pubg-help.html)|`2025-08-29 17:14:00`|`Playerunknown's Battlegrounds`|
 |[theHunter: Call of the Wild &#40;Epic Games&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/693375-thehunter-call-wild-epic-games.html)|`2025-08-29 17:08:00`|`Other FPS Games`|
 |[apexdumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/715180-apexdumper.html)|`2025-08-29 16:43:00`|`Apex Legends`|
 |[Axera BO3 ZM Trainer &#40; External &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/495431-axera-bo3-zm-trainer-external.html)|`2025-08-29 16:34:00`|`Call of Duty: Black Ops 3`|
