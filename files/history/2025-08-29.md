@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Modern subtick strafe &#40; utilizing C&#43;&#43; 20 and transformer LLM models &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715316-modern-subtick-strafe-utilizing-20-transformer-llm-models.html)|`2025-08-29 21:51:00`|`Counter-Strike 2`|
+|[CS2 Double Tap SRC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715455-cs2-double-tap-src.html)|`2025-08-29 21:49:00`|`Counter-Strike 2`|
 |[How to get bullet speed, including hero skills such as Bebop's hook speed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/715454-bullet-speed-including-hero-skills-bebops-hook-speed.html)|`2025-08-29 21:21:00`|`Deadlock`|
 |[Invoke for Gold and Silver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/soldier-of-fortune-2-a/715452-invoke-gold-silver.html)|`2025-08-29 21:18:00`|`Soldier Of Fortune 2`|
 |[Draw models in main menu &#40; easy &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/713792-draw-models-main-menu-easy.html)|`2025-08-29 21:02:00`|`Team Fortress 2`|
