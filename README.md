@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-08-29 11:54:00`|`Marvel Rivals`|
 |[VGK cr3 encryption and decryption code simplified](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715239-vgk-cr3-encryption-decryption-code-simplified.html)|`2025-08-29 11:17:00`|`Anti-Cheat Bypass`|
 |[WarThunder DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/713460-warthunder-dma.html)|`2025-08-29 11:08:00`|`Other MMORPG and Strategy`|
 |[GoodDiePUBG &#45; PUBG 3&#46;9 Emulator Hack Source and Release &#40;server/client&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708956-gooddiepubg-pubg-3-9-emulator-hack-source-release-server-client.html)|`2025-08-29 10:28:00`|`PUBG Mobile`|
