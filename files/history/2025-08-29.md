@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Epic Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/715445-marvel-rivals-epic-game.html)|`2025-08-29 18:13:00`|`Marvel Rivals`|
 |[Yim's GTAV&#45;Classes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/715444-yims-gtav-classes.html)|`2025-08-29 17:46:00`|`Grand Theft Auto V`|
 |[CVar update struct?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715007-cvar-update-struct.html)|`2025-08-29 17:31:00`|`Counter-Strike 2`|
 |[Planetside 2 Anticheat BattlEye Bypass &#40;braidead edition&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/712951-planetside-2-anticheat-battleye-bypass-braidead-edition.html)|`2025-08-29 17:30:00`|`PlanetSide 2`|
