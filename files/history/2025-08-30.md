@@ -24,9 +24,12 @@
 |8|[Latest Rematch Offsets SDK &#40;8/25/2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50945)|`2025-08-30 00:10:51`|
 |16|[nasm trainer example&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50924)|`2025-08-30 00:10:51`|
 |2|[fasm trainer example&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50923)|`2025-08-30 00:10:51`|
+|1|[KernelEchoDrv&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50942)|`2025-08-30 05:56:52`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spoofer Disk / GPU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714928-spoofer-disk-gpu.html)|`2025-08-30 05:56:00`|`Anti-Cheat Bypass`|
+|[CS2 Skinchanger logic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715370-cs2-skinchanger-logic.html)|`2025-08-30 05:56:00`|`Counter-Strike 2`|
 |[Point Blank  EntityList,X,Y,Z Coordinates and more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715493-blank-entitylist-coordinates.html)|`2025-08-30 05:20:00`|`Other Games`|
 |[Lethal Menu &#45; Lethal Company Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/615575-lethal-menu-lethal-company-cheat.html)|`2025-08-30 05:07:00`|`Lethal Company`|
 |[&#91;Mage Arena&#93; MagusToolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711827-mage-arena-magustoolkit.html)|`2025-08-30 05:06:00`|`Other FPS Games`|
