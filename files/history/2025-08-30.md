@@ -42,6 +42,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Decrypting IL2CPP Metadata and Assembly for Unity il2cpp game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/714992-decrypting-il2cpp-metadata-assembly-unity-il2cpp-game.html)|`2025-08-30 07:44:00`|`General Programming and Reversing`|
 |[Update winrar to 7&#46;13, critical vuln detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/715517-update-winrar-7-13-critical-vuln-detected.html)|`2025-08-30 07:38:00`|`Off Topic`|
 |[BF 2042 Ammo Box XP Farm AHK Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/715375-bf-2042-ammo-box-xp-farm-ahk-script.html)|`2025-08-30 07:38:00`|`Battlefield 2042`|
 |[Full DoD:S & CS:S Netprop Dump for 64&#45;bit Linux ports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/source-engine/715449-dod-cs-netprop-dump-64-bit-linux-ports.html)|`2025-08-30 07:36:00`|`Source Engine`|
