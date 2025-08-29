@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BEDaisy passing weird strings to MmGetSystemRoutineAddress](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715381-bedaisy-passing-weird-strings-mmgetsystemroutineaddress.html)|`2025-08-30 04:03:00`|`Anti-Cheat Bypass`|
 |[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2025-08-30 03:49:00`|`Other MMORPG and Strategy`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-08-30 03:40:00`|`Rainbow Six Siege`|
 |[Any Good Sources?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715492-sources.html)|`2025-08-30 03:34:00`|`Counter-Strike 2`|
