@@ -11,6 +11,8 @@
 |14|[Arduino Leonardo patched?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/714947-arduino-leonardo-patched.html)|`2025-08-30 00:10:51`|`rust`|
 |3|[VGK cr3 encryption and decryption code simplified](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715239-vgk-cr3-encryption-decryption-code-simplified.html)|`2025-08-30 00:10:51`|`anti-cheat-bypass`|
 |15|[&#40;Colourbot&#41; How do I stop locking on to colour on the map](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714575-colourbot-stop-locking-colour-map.html)|`2025-08-30 00:10:51`|`valorant`|
+|14|[apexdumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/715180-apexdumper.html)|`2025-08-30 06:29:25`|`apex-legends`|
+|8|[Valorant Yolov11s Model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/715056-valorant-yolov11s-model.html)|`2025-08-30 06:29:25`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -26,9 +28,14 @@
 |2|[fasm trainer example&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50923)|`2025-08-30 00:10:51`|
 |1|[KernelEchoDrv&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50942)|`2025-08-30 05:56:52`|
 |1|[Jitter, I Hardly Know Her&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50949)|`2025-08-30 06:12:03`|
+|2|[Flectorite 2&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50987)|`2025-08-30 06:29:25`|
+|1|[revemu launcher source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50947)|`2025-08-30 06:29:25`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RevEmu SteamID Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/714921-revemu-steamid-changer.html)|`2025-08-30 06:25:00`|`CounterStrike Source`|
+|[Revolution Idle Anti Cheat Bypass/Freeshop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/711124-revolution-idle-anti-cheat-bypass-freeshop.html)|`2025-08-30 06:18:00`|`Other Games`|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-08-30 06:18:00`|`Other FPS Games`|
 |[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2025-08-30 06:08:00`|`Other FPS Games`|
 |[Jitter? I hardly know her&#33; Update from previous &#46;xml](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/714963-jitter-hardly-update-previous-xml.html)|`2025-08-30 06:05:00`|`Apex Legends`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-08-30 06:03:00`|`Other FPS Games`|
