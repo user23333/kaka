@@ -37,9 +37,16 @@
 |1|[JITTER FILES ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50999)|`2025-08-30 06:56:21`|
 |1|[AssaultCube cheat source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50998)|`2025-08-30 06:56:21`|
 |1|[csharp&#95;resource&#95;stopper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50994)|`2025-08-30 07:10:53`|
+|1|[source1&#95;css&#95;dods&#95;netprops&#95;64bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50990)|`2025-08-30 07:39:47`|
+|1|[BF 2052 Ammo Box Farm AHK Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50984)|`2025-08-30 07:39:47`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Update winrar to 7&#46;13, critical vuln detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/715517-update-winrar-7-13-critical-vuln-detected.html)|`2025-08-30 07:38:00`|`Off Topic`|
+|[BF 2042 Ammo Box XP Farm AHK Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/715375-bf-2042-ammo-box-xp-farm-ahk-script.html)|`2025-08-30 07:38:00`|`Battlefield 2042`|
+|[Full DoD:S & CS:S Netprop Dump for 64&#45;bit Linux ports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/source-engine/715449-dod-cs-netprop-dump-64-bit-linux-ports.html)|`2025-08-30 07:36:00`|`Source Engine`|
+|[YimMenuV2 Launchpad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/715467-yimmenuv2-launchpad.html)|`2025-08-30 07:34:00`|`Grand Theft Auto V`|
+|[PastaTB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/715286-pastatb.html)|`2025-08-30 07:34:00`|`Valorant`|
 |[Valorant Yolov11s Model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/715056-valorant-yolov11s-model.html)|`2025-08-30 07:30:00`|`Valorant`|
 |[Memory Aim &#40;with Angle from ClientActive&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/713551-memory-aim-angle-clientactive.html)|`2025-08-30 07:09:00`|`Call of Duty: Black Ops 6`|
 |[basic external um](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714828-basic-external-um.html)|`2025-08-30 07:02:00`|`Counter-Strike 2`|
