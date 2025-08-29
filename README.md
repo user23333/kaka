@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any Good Sources?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715492-sources.html)|`2025-08-30 03:34:00`|`Counter-Strike 2`|
+|[MGS: Snake Eater Delta &#45; SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/715491-mgs-snake-eater-delta-sdk.html)|`2025-08-30 03:31:00`|`General Programming and Reversing`|
 |[JITTER AND REDUCE RECOIL &#40;RAZER&#95;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/715489-jitter-reduce-recoil-razer_.html)|`2025-08-30 03:20:00`|`Apex Legends`|
 |[mono &#45; custom shaders &#40;or materials, idk&#41; for chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/715197-mono-custom-shaders-materials-idk-chams.html)|`2025-08-30 03:13:00`|`Unity`|
 |[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-08-30 02:59:00`|`Battlefield 4`|
