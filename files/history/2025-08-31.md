@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[C&#43;&#43; Orbwalker &#40;2020&#41; &#43; AI Project – Revisited in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/712882-orbwalker-2020-ai-project-revisited-2025-a.html)|`2025-08-31 00:32:00`|`League of Legends`|
+|[Cheat counter striker 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715601-cheat-counter-striker-2-a.html)|`2025-08-31 00:31:00`|`Counter-Strike 2`|
+|[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2025-08-31 00:30:00`|`Other MMORPG and Strategy`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-08-31 00:29:00`|`Rust`|
+|[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2025-08-31 00:29:00`|`HELLDIVERS 2`|
+|[Modern subtick strafe &#40; utilizing C&#43;&#43; 20 and transformer LLM models &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715316-modern-subtick-strafe-utilizing-20-transformer-llm-models.html)|`2025-08-31 00:28:00`|`Counter-Strike 2`|
+|[The Fisherman &#45; Fishing Planet &#40;Mod Menu, ESP, Alarm Indicator, Instant Catch&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/497933-fisherman-fishing-planet-mod-menu-esp-alarm-indicator-instant-catch.html)|`2025-08-31 00:27:00`|`Other Games`|
 |[All&#45;in&#45;one Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/715265-dumper.html)|`2025-08-30 23:55:00`|`Alternative Online Mods`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-08-30 23:50:00`|`Apex Legends`|
 |[Borderlands 3 Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/715593-borderlands-3-reversal-structs-offsets.html)|`2025-08-30 23:48:00`|`Other Single Player Games`|
