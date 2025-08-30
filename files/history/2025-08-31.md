@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Modern Warfare 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-code-section/60986-call-duty-modern-warfare-2-reversal-structs-offsets.html)|`2025-08-31 01:54:00`|`Call of Duty 6: Code Section`|
 |[The most disgusting anti&#45;cheat engine in history](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710360-disgusting-anti-cheat-engine-history.html)|`2025-08-31 01:45:00`|`Anti-Cheat Bypass`|
 |[Dead By Daylight DMA 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714224-dead-daylight-dma-2-0-a.html)|`2025-08-31 01:40:00`|`Other FPS Games`|
 |[KUSER&#95;SHARED&#95;DATA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715317-kuser_shared_data.html)|`2025-08-31 01:37:00`|`Anti-Cheat Bypass`|
