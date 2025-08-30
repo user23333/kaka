@@ -42,6 +42,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[No Recoil G&#45;Hub Lua for Rainbow Six Siege](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/701449-recoil-hub-lua-rainbow-six-siege.html)|`2025-08-30 20:32:00`|`Rainbow Six Siege`|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-08-30 20:28:00`|`Apex Legends`|
+|[C&#43;&#43; SPT Aki 3&#46;11&#46;3 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/713092-spt-aki-3-11-3-internal.html)|`2025-08-30 20:25:00`|`Escape from Tarkov`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-08-30 20:21:00`|`Escape from Tarkov`|
+|[getting il2cpp api offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/715438-getting-il2cpp-api-offsets.html)|`2025-08-30 20:21:00`|`Forum General`|
+|[Rockstar Activation Code Generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/715368-rockstar-activation-code-generator.html)|`2025-08-30 20:13:00`|`Grand Theft Auto V`|
 |[cs2 fully featured feature rich openai chat api wrapper &#40;for cheat sdk features&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715053-cs2-featured-feature-rich-openai-chat-api-wrapper-cheat-sdk-features.html)|`2025-08-30 19:58:00`|`Counter-Strike 2`|
 |[InheritsFrom Problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715171-inheritsfrom.html)|`2025-08-30 19:57:00`|`Counter-Strike 2`|
 |[Valorant External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713513-valorant-external-base.html)|`2025-08-30 19:55:00`|`Valorant`|
