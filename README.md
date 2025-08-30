@@ -43,6 +43,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Borderlands 3 Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/715593-borderlands-3-reversal-structs-offsets.html)|`2025-08-30 23:48:00`|`Other Single Player Games`|
+|[How can I learn game hacking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/715566-learn-game-hacking.html)|`2025-08-30 23:44:00`|`Programming for Beginners`|
 |[print&#40;"Hello, UC&#33;"&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/715538-print-hello-uc.html)|`2025-08-30 23:43:00`|`Introductions`|
 |[Preparing YOLO dataset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/714185-preparing-yolo-dataset.html)|`2025-08-30 23:36:00`|`Battlefield 6`|
 |[notwav](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/715244-notwav.html)|`2025-08-30 23:34:00`|`Off Topic`|
