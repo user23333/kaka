@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2025-08-31 04:37:00`|`Garry's Mod`|
+|[How are you guys signing your drivers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/715620-guys-signing-drivers.html)|`2025-08-31 04:35:00`|`Rust`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-08-31 04:13:00`|`Apex Legends`|
 |[Hero Adventure Road to Passion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/715542-hero-adventure-road-passion.html)|`2025-08-31 04:10:00`|`Other Single Player Games`|
 |[Palia Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/596326-palia-multihack.html)|`2025-08-31 04:08:00`|`Palia`|
