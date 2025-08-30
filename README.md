@@ -42,6 +42,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nexus External ESP V2 &#40;PyMeow&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/690093-nexus-external-esp-v2-pymeow.html)|`2025-08-30 08:43:00`|`Garry's Mod`|
+|[Menu My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/713007-menu-hero-ultra-rumble.html)|`2025-08-30 08:40:00`|`Other Games`|
+|[HTTP/s Proxy Checking Accuracy Help&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-/715521-http-proxy-checking-accuracy-help.html)|`2025-08-30 08:36:00`|`C#`|
+|[GTA V modding development](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/715296-gta-modding-development.html)|`2025-08-30 08:06:00`|`Grand Theft Auto V`|
+|[calling kernel functions &#91;vuln driver&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715356-calling-kernel-functions-vuln-driver.html)|`2025-08-30 08:06:00`|`Anti-Cheat Bypass`|
 |[Castle Crashers Unlock All preview](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other/710029-castle-crashers-unlock-preview.html)|`2025-08-30 07:49:00`|`Other`|
 |[Yim's GTAV&#45;Classes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/715444-yims-gtav-classes.html)|`2025-08-30 07:49:00`|`Grand Theft Auto V`|
 |[Boomerang X](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/715362-boomerang.html)|`2025-08-30 07:47:00`|`Cheat Engine Tables`|
