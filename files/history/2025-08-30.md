@@ -42,6 +42,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TPM Spoofer for free &#40;signed driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713720-tpm-spoofer-free-signed-driver.html)|`2025-08-30 14:23:00`|`Valorant`|
+|[Is TDD's source still safe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/715484-tdds-source-safe.html)|`2025-08-30 14:22:00`|`Marvel Rivals`|
 |[Need memory freeze for emulator bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/715546-memory-freeze-emulator-bypass.html)|`2025-08-30 13:50:00`|`PUBG Mobile`|
 |[FiveM LoadLibraryA Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/714229-fivem-loadlibrarya-injector.html)|`2025-08-30 13:45:00`|`Alternative Online Mods`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-08-30 13:26:00`|`Other Games`|
