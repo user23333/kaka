@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Navy Revolver Email](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/715433-navy-revolver-email.html)|`2025-08-31 03:08:00`|`Grand Theft Auto V`|
+|[Battlefield Vehicle Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-3-a/708653-battlefield-vehicle-aimbot.html)|`2025-08-31 03:02:00`|`Battlefield 3`|
 |[&#91;BloodStrike PC WallHack&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/713715-bloodstrike-pc-wallhack.html)|`2025-08-31 02:44:00`|`Other FPS Games`|
 |[farlight84 internal new update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/714814-farlight84-internal-update.html)|`2025-08-31 02:43:00`|`Farlight 84`|
 |[TPM Spoofer for free &#40;signed driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713720-tpm-spoofer-free-signed-driver.html)|`2025-08-31 02:40:00`|`Valorant`|
