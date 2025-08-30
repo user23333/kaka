@@ -42,6 +42,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rage&#46;CM – Combat Master Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/713964-rage-cm-combat-master-menu.html)|`2025-08-30 16:48:00`|`Combat Master`|
 |[Oxide Engine &#124; New Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715554-oxide-engine-cheat-engine.html)|`2025-08-30 16:42:00`|`Anti-Cheat Bypass`|
 |[theHunter: Call of the Wild Internal Radar, ESP, & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644365-thehunter-call-wild-internal-radar-esp.html)|`2025-08-30 16:31:00`|`Other FPS Games`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2025-08-30 16:27:00`|`Other FPS Games`|
