@@ -42,6 +42,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-08-30 13:26:00`|`Other Games`|
+|[SmmInfect &#45; Smm Backdoor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664482-smminfect-smm-backdoor.html)|`2025-08-30 13:24:00`|`Anti-Cheat Bypass`|
+|[Arduino Leonardo patched?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/714947-arduino-leonardo-patched.html)|`2025-08-30 13:18:00`|`Rust`|
 |[KUSER&#95;SHARED&#95;DATA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715317-kuser_shared_data.html)|`2025-08-30 13:06:00`|`Anti-Cheat Bypass`|
 |[Hero Adventure Road to Passion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/715542-hero-adventure-road-passion.html)|`2025-08-30 12:39:00`|`Other Single Player Games`|
 |[Polygon how to get bones?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714953-polygon-bones.html)|`2025-08-30 12:34:00`|`Other FPS Games`|
