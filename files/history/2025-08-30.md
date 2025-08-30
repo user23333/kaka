@@ -42,6 +42,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA Help needed please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/715562-dma-help-please.html)|`2025-08-30 18:30:00`|`PC Hardware`|
+|[Path of Exile 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676435-path-exile-2-reversal-structs-offsets.html)|`2025-08-30 18:25:00`|`Other MMORPG and Strategy`|
+|[VGK cr3 encryption and decryption code simplified](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715239-vgk-cr3-encryption-decryption-code-simplified.html)|`2025-08-30 18:18:00`|`Anti-Cheat Bypass`|
+|[Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/465314-super-animal-royale-hack.html)|`2025-08-30 18:14:00`|`Other Games`|
 |[Need Deadlock Cheat Dev](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/715561-deadlock-cheat-dev.html)|`2025-08-30 18:12:00`|`Deadlock`|
 |[global&#45;metadata&#46;dat shuffuling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/715560-global-metadata-dat-shuffuling.html)|`2025-08-30 18:04:00`|`Forum General`|
 |[Modern subtick strafe &#40; utilizing C&#43;&#43; 20 and transformer LLM models &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715316-modern-subtick-strafe-utilizing-20-transformer-llm-models.html)|`2025-08-30 17:54:00`|`Counter-Strike 2`|
