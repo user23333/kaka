@@ -11,6 +11,7 @@
 |11|[Valorant Yolov11s Model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/715056-valorant-yolov11s-model.html)|`2025-08-31 00:13:12`|`valorant`|
 |14|[apexdumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/715180-apexdumper.html)|`2025-08-31 00:13:12`|`apex-legends`|
 |8|[EAC bypass without dse patcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714886-eac-bypass-dse-patcher.html)|`2025-08-31 00:13:12`|`anti-cheat-bypass`|
+|21|[Modern subtick strafe &#40; utilizing C&#43;&#43; 20 and transformer LLM models &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715316-modern-subtick-strafe-utilizing-20-transformer-llm-models.html)|`2025-08-31 01:07:54`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-08-31 01:05:00`|`Other MMORPG and Strategy`|
+|[CSS x64 fully&#45;featured cheat &#43; sourcecode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/688352-css-x64-featured-cheat-sourcecode.html)|`2025-08-31 01:00:00`|`CounterStrike Source`|
+|[Warzone builds backup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/715604-warzone-builds-backup.html)|`2025-08-31 01:00:00`|`Call of Duty: Modern Warfare`|
 |[how to make a cheat ud](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/715568-cheat-ud.html)|`2025-08-31 00:41:00`|`Call of Duty: Black Ops 6`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-08-31 00:38:00`|`Other FPS Games`|
 |[C&#43;&#43; Orbwalker &#40;2020&#41; &#43; AI Project – Revisited in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/712882-orbwalker-2020-ai-project-revisited-2025-a.html)|`2025-08-31 00:32:00`|`League of Legends`|
