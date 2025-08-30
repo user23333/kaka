@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to make a cheat ud](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/715568-cheat-ud.html)|`2025-08-31 00:41:00`|`Call of Duty: Black Ops 6`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-08-31 00:38:00`|`Other FPS Games`|
 |[C&#43;&#43; Orbwalker &#40;2020&#41; &#43; AI Project – Revisited in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/712882-orbwalker-2020-ai-project-revisited-2025-a.html)|`2025-08-31 00:32:00`|`League of Legends`|
 |[Cheat counter striker 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715601-cheat-counter-striker-2-a.html)|`2025-08-31 00:31:00`|`Counter-Strike 2`|
 |[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2025-08-31 00:30:00`|`Other MMORPG and Strategy`|
