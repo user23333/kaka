@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Borderlands 3 &#40;Epic Games&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/521662-borderlands-3-epic-games.html)|`2025-08-31 07:36:00`|`Other Single Player Games`|
+|[notwav](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/715244-notwav.html)|`2025-08-31 07:34:00`|`Off Topic`|
+|[game crashing with weird message every time i inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/712234-game-crashing-weird-message-time-inject.html)|`2025-08-31 07:33:00`|`Marvel Rivals`|
+|[How to get rid of panic strings in your binary](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust-language-/563696-rid-panic-strings-binary.html)|`2025-08-31 07:32:00`|`Rust (Language)`|
 |[Ultimate COD WW2 Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/650299-ultimate-cod-ww2-thread.html)|`2025-08-31 07:29:00`|`Other Games`|
 |[Cod WW2 thread?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/715629-cod-ww2-thread.html)|`2025-08-31 07:24:00`|`Other FPS Games`|
 |[Rebuilt SceneManager&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708015-rebuilt-scenemanager.html)|`2025-08-31 07:08:00`|`Rust`|
