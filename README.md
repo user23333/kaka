@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Co&#45;op Checkpoint Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-ii/709396-co-op-checkpoint-cheat.html)|`2025-08-31 21:26:00`|`Call of Duty: Modern Warfare II`|
+|[BF 2042 Ammo Box XP Farm AHK Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/715375-bf-2042-ammo-box-xp-farm-ahk-script.html)|`2025-08-31 21:15:00`|`Battlefield 2042`|
+|[Spider Free External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/711201-spider-free-external.html)|`2025-08-31 21:13:00`|`Alternative Online Mods`|
+|[valorant external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/715247-valorant-external.html)|`2025-08-31 21:12:00`|`Valorant`|
 |[Valorant Internal Logging](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/715688-valorant-internal-logging.html)|`2025-08-31 21:09:00`|`Valorant`|
 |[Freecamera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/715686-freecamera.html)|`2025-08-31 20:42:00`|`Escape from Tarkov`|
 |[Bloodstrike](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690058-bloodstrike.html)|`2025-08-31 20:37:00`|`Other FPS Games`|
