@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[any help for this error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/715709-help-error.html)|`2025-08-31 23:53:00`|`Apex Legends`|
+|[BenjaminHartley](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/715649-benjaminhartley.html)|`2025-08-31 23:52:00`|`Introductions`|
 |[Reversing Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/715705-reversing-anticheat.html)|`2025-08-31 23:47:00`|`Alternative Online Mods`|
 |[BEDaisy passing weird strings to MmGetSystemRoutineAddress](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715381-bedaisy-passing-weird-strings-mmgetsystemroutineaddress.html)|`2025-08-31 23:36:00`|`Anti-Cheat Bypass`|
 |[apex rage cheat &#40;external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705590-apex-rage-cheat-external.html)|`2025-08-31 23:33:00`|`Apex Legends`|
