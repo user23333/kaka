@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/715666-apex-legends-spoofing.html)|`2025-08-31 16:06:00`|`Apex Legends`|
+|[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2025-08-31 15:58:00`|`Other FPS Games`|
+|[Rust Vac Ban Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714590-rust-vac-ban-bypass.html)|`2025-08-31 15:57:00`|`Anti-Cheat Bypass`|
 |[lordnine infinite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/712321-lordnine-infinite.html)|`2025-08-31 15:41:00`|`Other MMORPG and Strategy`|
 |[YimMenuV2 Launchpad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/715467-yimmenuv2-launchpad.html)|`2025-08-31 15:24:00`|`Grand Theft Auto V`|
 |[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2025-08-31 15:11:00`|`Other Games`|
