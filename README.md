@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VAC Modules Reversal 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705782-vac-modules-reversal-2025-a.html)|`2025-08-31 21:54:00`|`Counter-Strike 2`|
+|[How to get new pattern's?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715271-patterns.html)|`2025-08-31 21:51:00`|`Counter-Strike 2`|
 |[vac bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714512-vac-bypass.html)|`2025-08-31 21:44:00`|`Counter-Strike 2`|
 |[MGS: Snake Eater Delta &#45; SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/715491-mgs-snake-eater-delta-sdk.html)|`2025-08-31 21:30:00`|`General Programming and Reversing`|
 |[Co&#45;op Checkpoint Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-ii/709396-co-op-checkpoint-cheat.html)|`2025-08-31 21:26:00`|`Call of Duty: Modern Warfare II`|
