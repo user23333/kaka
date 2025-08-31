@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[OW2 cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/703434-ow2-cheats.html)|`2025-08-31 08:38:00`|`Overwatch`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-08-31 08:06:00`|`Alternative Online Mods`|
+|[GoodDiePUBG &#45; PUBG 3&#46;9 Emulator Hack Source and Release &#40;server/client&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708956-gooddiepubg-pubg-3-9-emulator-hack-source-release-server-client.html)|`2025-08-31 08:00:00`|`PUBG Mobile`|
 |[Borderlands 3 &#40;Epic Games&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/521662-borderlands-3-epic-games.html)|`2025-08-31 07:36:00`|`Other Single Player Games`|
 |[notwav](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/715244-notwav.html)|`2025-08-31 07:34:00`|`Off Topic`|
 |[game crashing with weird message every time i inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/712234-game-crashing-weird-message-time-inject.html)|`2025-08-31 07:33:00`|`Marvel Rivals`|
