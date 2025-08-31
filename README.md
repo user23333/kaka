@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715160-rcs.html)|`2025-09-01 06:09:00`|`Counter-Strike 2`|
+|[How can I learn game hacking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/715566-learn-game-hacking.html)|`2025-09-01 06:02:00`|`Programming for Beginners`|
 |[SEOwned x64 fixed for new tf2 update&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/691125-seowned-x64-fixed-tf2-update.html)|`2025-09-01 05:52:00`|`Team Fortress 2`|
 |[Reversing Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/715705-reversing-anticheat.html)|`2025-09-01 05:42:00`|`Alternative Online Mods`|
 |[WorldToScreen does not work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/715750-worldtoscreen.html)|`2025-09-01 05:29:00`|`PlanetSide 2`|
