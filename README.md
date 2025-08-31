@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-09-01 00:51:00`|`Other FPS Games`|
+|[Deadside Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/387306-deadside-reversal-structs-offsets.html)|`2025-09-01 00:50:00`|`Other FPS Games`|
+|[How Is Someone Giving Out EXP, Medals, and Samples Through Account IDs?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/715596-giving-exp-medals-samples-account-ids.html)|`2025-09-01 00:48:00`|`HELLDIVERS 2`|
 |[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2025-09-01 00:45:00`|`HELLDIVERS 2`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-09-01 00:41:00`|`Other MMORPG and Strategy`|
 |[YOLOv5 AI Aimbot with Arduino Mouse Controller – How to Make Movement Smooth?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/715648-yolov5-ai-aimbot-arduino-mouse-controller-movement-smooth.html)|`2025-09-01 00:41:00`|`Valorant`|
