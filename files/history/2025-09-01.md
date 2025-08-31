@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[apex rage cheat &#40;external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705590-apex-rage-cheat-external.html)|`2025-09-01 04:15:00`|`Apex Legends`|
+|[Why this forum is so dead?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/713198-forum-dead.html)|`2025-09-01 04:02:00`|`Overwatch`|
+|[Teleport Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715642-teleport-exploit.html)|`2025-09-01 04:00:00`|`Counter-Strike 2`|
 |[Schedule I &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695780-schedule-internal.html)|`2025-09-01 03:48:00`|`Other Games`|
 |[How are you guys signing your drivers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/715620-guys-signing-drivers.html)|`2025-09-01 03:19:00`|`Rust`|
 |[best spoof method for write protected motherboards](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/715739-spoof-method-write-protected-motherboards.html)|`2025-09-01 02:57:00`|`Valorant`|
