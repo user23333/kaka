@@ -13,6 +13,7 @@
 |8|[EAC bypass without dse patcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714886-eac-bypass-dse-patcher.html)|`2025-08-31 00:13:12`|`anti-cheat-bypass`|
 |21|[Modern subtick strafe &#40; utilizing C&#43;&#43; 20 and transformer LLM models &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715316-modern-subtick-strafe-utilizing-20-transformer-llm-models.html)|`2025-08-31 01:07:54`|`counter-strike-2-a`|
 |5|[Spoofer Disk / GPU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714928-spoofer-disk-gpu.html)|`2025-08-31 11:55:21`|`anti-cheat-bypass`|
+|21|[All&#45;in&#45;one Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/715265-dumper.html)|`2025-08-31 12:11:14`|`alternative-online-mods`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
