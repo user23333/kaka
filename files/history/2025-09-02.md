@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Basic ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715854-cs2-basic-esp.html)|`2025-09-02 02:55:00`|`Counter-Strike 2`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-09-02 02:48:00`|`Other FPS Games`|
 |[Anticheat bypass for Farlight 84](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/715811-anticheat-bypass-farlight-84-a.html)|`2025-09-02 02:42:00`|`Farlight 84`|
 |[Revolution Idle Anti Cheat Bypass/Freeshop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/711124-revolution-idle-anti-cheat-bypass-freeshop.html)|`2025-09-02 02:41:00`|`Other Games`|
