@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[There is no RWX allocate&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/715571-rwx-allocate.html)|`2025-09-01 22:43:00`|`Overwatch`|
+|[MapleDumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/715829-mapledumper.html)|`2025-09-01 22:43:00`|`C and C++`|
+|[How can i dump NGS module?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/715827-dump-ngs-module.html)|`2025-09-01 22:36:00`|`Maple Story`|
 |[I need help disassembling Fecurity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/709292-help-disassembling-fecurity.html)|`2025-09-01 22:25:00`|`General Programming and Reversing`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-09-01 22:19:00`|`Alternative Online Mods`|
 |[InheritsFrom Problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715171-inheritsfrom.html)|`2025-09-01 22:13:00`|`Counter-Strike 2`|
