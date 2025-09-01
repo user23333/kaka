@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[No ESP after 1 game&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/714018-esp-1-game.html)|`2025-09-02 07:18:00`|`Call of Duty: Black Ops 6`|
+|[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-09-02 07:18:00`|`Call of Duty: Black Ops 3`|
 |[Full Anticheat Disabler &#40;You can play online&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687866-anticheat-disabler-play-online.html)|`2025-09-02 07:08:00`|`Marvel Rivals`|
 |[Latest Rematch Offsets SDK &#40;8/25/2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/714941-rematch-offsets-sdk-8-25-2025-a.html)|`2025-09-02 07:06:00`|`Other Games`|
 |[Did anyone else get unbanned after UE5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/715285-else-unbanned-ue5.html)|`2025-09-02 06:59:00`|`Valorant`|
