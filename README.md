@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-09-02 01:45:00`|`Farlight 84`|
+|[How are you? An Important Question In Busy Modern Life](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/705387-question-busy-modern-life.html)|`2025-09-02 01:32:00`|`Off Topic`|
+|[Looking for Rust recoil macro alternative using Arduino Leonardo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/703362-looking-rust-recoil-macro-alternative-using-arduino-leonardo.html)|`2025-09-02 01:32:00`|`Rust`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-09-02 01:39:00`|`Apex Legends`|
 |[How to figure out what HWID is this one so I can spoof it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715794-figure-hwid-spoof.html)|`2025-09-02 01:36:00`|`Anti-Cheat Bypass`|
 |[Get FiveM Build](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/712293-fivem-build.html)|`2025-09-02 01:27:00`|`Alternative Online Mods`|
