@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BF 2042 Ammo Box XP Farm AHK Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/715375-bf-2042-ammo-box-xp-farm-ahk-script.html)|`2025-09-01 23:06:00`|`Battlefield 2042`|
+|[Chivalry 2 CHEAT AF4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/710526-chivalry-2-cheat-af4.html)|`2025-09-01 23:04:00`|`Other Games`|
+|[hw&#46;dll wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/714369-hw-dll-wallhack.html)|`2025-09-01 23:00:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[The Most Proud and Useful Thing You've Contributed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/715831-proud-useful-youve-contributed.html)|`2025-09-01 22:54:00`|`Off Topic`|
 |[There is no RWX allocate&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/715571-rwx-allocate.html)|`2025-09-01 22:43:00`|`Overwatch`|
 |[MapleDumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/715829-mapledumper.html)|`2025-09-01 22:43:00`|`C and C++`|
