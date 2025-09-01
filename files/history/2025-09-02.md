@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how get to mouse position?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715857-mouse-position.html)|`2025-09-02 03:43:00`|`Counter-Strike 2`|
 |[&#91;GHUB LUA&#93; Psylocke Auto Shuriken](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/715653-ghub-lua-psylocke-auto-shuriken.html)|`2025-09-02 03:34:00`|`Marvel Rivals`|
 |[External B06 &#40;ESP &#43; Name &#43; Health &#43; KD, etc&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/713576-external-b06-esp-name-health-kd-etc.html)|`2025-09-02 02:59:00`|`Call of Duty: Black Ops 6`|
 |[CS2 Basic ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715854-cs2-basic-esp.html)|`2025-09-02 02:55:00`|`Counter-Strike 2`|
