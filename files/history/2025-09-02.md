@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-09-02 02:48:00`|`Other FPS Games`|
+|[Anticheat bypass for Farlight 84](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/715811-anticheat-bypass-farlight-84-a.html)|`2025-09-02 02:42:00`|`Farlight 84`|
+|[Revolution Idle Anti Cheat Bypass/Freeshop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/711124-revolution-idle-anti-cheat-bypass-freeshop.html)|`2025-09-02 02:41:00`|`Other Games`|
 |[Find the process to inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715849-process-inject.html)|`2025-09-02 02:38:00`|`Counter-Strike 2`|
 |[bSendPacket CreateMove stack x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/710047-bsendpacket-createmove-stack-x64.html)|`2025-09-02 02:30:00`|`CounterStrike Source`|
 |[Chivalry 2 CHEAT AF4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/710526-chivalry-2-cheat-af4.html)|`2025-09-02 02:22:00`|`Other Games`|
