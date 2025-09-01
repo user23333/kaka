@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 AI &#43; Blockchain Aimbot &#45; NFT Minting Integration v1&#46;0 &#45; Beta](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715836-cs2-ai-blockchain-aimbot-nft-minting-integration-v1-0-beta.html)|`2025-09-02 00:32:00`|`Counter-Strike 2`|
+|[Reversing Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/715705-reversing-anticheat.html)|`2025-09-02 00:31:00`|`Alternative Online Mods`|
+|[KingModV7 &#40;Rocket league mod menu with nice features&#41; Until now, no one has published](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/714802-kingmodv7-rocket-league-mod-menu-nice-features-published.html)|`2025-09-02 00:23:00`|`Other Games`|
+|[CCHook:Reloaded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/return-to-castle-wolfenstein/492818-cchook-reloaded.html)|`2025-09-02 00:22:00`|`Return To Castle Wolfenstein`|
+|[Can't make pte readable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715837-cant-pte-readable.html)|`2025-09-02 00:17:00`|`Anti-Cheat Bypass`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-09-02 00:11:00`|`Other FPS Games`|
 |[BANANA SHOOTER FULL DUMP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/715832-banana-shooter-dump.html)|`2025-09-01 23:57:00`|`Other FPS Games`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-09-01 23:53:00`|`Counter-Strike 2`|
