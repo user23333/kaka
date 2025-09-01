@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Auto Update External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/614771-auto-update-external.html)|`2025-09-01 23:12:00`|`Overwatch`|
 |[BF 2042 Ammo Box XP Farm AHK Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/715375-bf-2042-ammo-box-xp-farm-ahk-script.html)|`2025-09-01 23:06:00`|`Battlefield 2042`|
 |[Chivalry 2 CHEAT AF4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/710526-chivalry-2-cheat-af4.html)|`2025-09-01 23:04:00`|`Other Games`|
 |[hw&#46;dll wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/714369-hw-dll-wallhack.html)|`2025-09-01 23:00:00`|`CounterStrike 1.5, 1.6 and Mods`|
