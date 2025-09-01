@@ -29,9 +29,13 @@
 |1|[source1&#95;css&#95;dods&#95;netprops&#95;64bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50990)|`2025-09-01 00:17:29`|
 |2|[rust&#45;dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51029)|`2025-09-01 21:32:50`|
 |2|[EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51013)|`2025-09-01 21:46:16`|
+|9|[ARNAB MODULE v2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51028)|`2025-09-01 22:15:18`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[InheritsFrom Problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715171-inheritsfrom.html)|`2025-09-01 22:13:00`|`Counter-Strike 2`|
+|[&#91;GHUB LUA&#93; Psylocke Auto Shuriken](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/715653-ghub-lua-psylocke-auto-shuriken.html)|`2025-09-01 22:02:00`|`Marvel Rivals`|
+|[External Menu ImGui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/715764-external-menu-imgui.html)|`2025-09-01 21:59:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[GHUB LUA MACROS FOR MARVEL RIVALS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/711251-ghub-lua-macros-marvel-rivals.html)|`2025-09-01 21:50:00`|`Marvel Rivals`|
 |[vpk&#45;dumper&#45;cli](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712228-vpk-dumper-cli.html)|`2025-09-01 21:44:00`|`Counter-Strike 2`|
 |[Spoofing Arduin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/715820-spoofing-arduin.html)|`2025-09-01 21:43:00`|`Valorant`|
