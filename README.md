@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Advanced norecoil script for esp32s3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710109-advanced-norecoil-script-esp32s3.html)|`2025-09-01 19:14:00`|`Rust`|
+|[Arduino Leonardo fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/714986-arduino-leonardo-fix.html)|`2025-09-01 19:12:00`|`Rust`|
+|[ESP32&#45;S3 RIP?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/715292-esp32-s3-rip.html)|`2025-09-01 19:11:00`|`Rust`|
 |[All&#45;in&#45;one Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/715265-dumper.html)|`2025-09-01 18:27:00`|`Alternative Online Mods`|
 |[GM Fatal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/701093-gm-fatal.html)|`2025-09-01 18:04:00`|`Garry's Mod`|
 |[rust&#45;dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/715805-rust-dumper.html)|`2025-09-01 17:32:00`|`Rust`|
