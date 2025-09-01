@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Horizon Walker Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/715195-horizon-walker-cheat.html)|`2025-09-01 19:36:00`|`Half Life`|
+|[Anticheat bypass for Farlight 84](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/715811-anticheat-bypass-farlight-84-a.html)|`2025-09-01 19:32:00`|`Farlight 84`|
 |[Advanced norecoil script for esp32s3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710109-advanced-norecoil-script-esp32s3.html)|`2025-09-01 19:14:00`|`Rust`|
 |[Arduino Leonardo fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/714986-arduino-leonardo-fix.html)|`2025-09-01 19:12:00`|`Rust`|
 |[ESP32&#45;S3 RIP?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/715292-esp32-s3-rip.html)|`2025-09-01 19:11:00`|`Rust`|
