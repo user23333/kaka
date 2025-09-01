@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I need help disassembling Fecurity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/709292-help-disassembling-fecurity.html)|`2025-09-01 22:25:00`|`General Programming and Reversing`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-09-01 22:19:00`|`Alternative Online Mods`|
 |[InheritsFrom Problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715171-inheritsfrom.html)|`2025-09-01 22:13:00`|`Counter-Strike 2`|
 |[&#91;GHUB LUA&#93; Psylocke Auto Shuriken](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/715653-ghub-lua-psylocke-auto-shuriken.html)|`2025-09-01 22:02:00`|`Marvel Rivals`|
 |[External Menu ImGui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/715764-external-menu-imgui.html)|`2025-09-01 21:59:00`|`CounterStrike 1.5, 1.6 and Mods`|
