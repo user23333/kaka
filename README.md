@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Teleport Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715642-teleport-exploit.html)|`2025-09-03 01:00:00`|`Counter-Strike 2`|
+|[tabg cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/715374-tabg-cheat.html)|`2025-09-03 00:57:00`|`Other FPS Games`|
+|[Looking for Rust recoil macro alternative using Arduino Leonardo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/703362-looking-rust-recoil-macro-alternative-using-arduino-leonardo.html)|`2025-09-03 00:49:00`|`Rust`|
+|[Aim Robot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715606-aim-robot.html)|`2025-09-03 00:47:00`|`Anti-Cheat Bypass`|
 |[Simple Dll İnjector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/715868-simple-dll-njector.html)|`2025-09-03 00:50:00`|`General Programming and Reversing`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-09-03 00:46:00`|`Counter-Strike 2 Releases`|
 |[KingModV7 &#40;Rocket league mod menu with nice features&#41; Until now, no one has published](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/714802-kingmodv7-rocket-league-mod-menu-nice-features-published.html)|`2025-09-03 00:43:00`|`Other Games`|
