@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino Leonardo patched?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/714947-arduino-leonardo-patched.html)|`2025-09-02 12:56:00`|`Rust`|
 |[DSEclipse &#45; Story behind ASM bootkit that bypasses DSE in under 1 KB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714887-dseclipse-story-asm-bootkit-bypasses-dse-1-kb.html)|`2025-09-02 12:33:00`|`Anti-Cheat Bypass`|
 |[Failed to Identify CR3 via PFN Scanning](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715904-failed-identify-cr3-via-pfn-scanning.html)|`2025-09-02 12:13:00`|`Anti-Cheat Bypass`|
 |[Server Dump Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/715902-server-dump-help.html)|`2025-09-02 11:47:00`|`Alternative Online Mods`|
