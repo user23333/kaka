@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is it easy Possible to get Unbanned in Valorant with Val 152 or Val 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/715882-easy-unbanned-valorant-val-152-val-5-a.html)|`2025-09-02 16:50:00`|`Valorant`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-09-02 16:48:00`|`League of Legends`|
 |[secret update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/715784-secret-update.html)|`2025-09-02 16:37:00`|`Garry's Mod`|
 |[Hooking NMI calling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715755-hooking-nmi-calling.html)|`2025-09-02 16:34:00`|`Anti-Cheat Bypass`|
 |[Op high stakes no recoil detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/714591-op-stakes-recoil-detection.html)|`2025-09-02 16:25:00`|`Rainbow Six Siege`|
