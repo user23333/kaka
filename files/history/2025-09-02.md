@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[gta 5 battleye working menu &#40;no dma&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/714342-gta-5-battleye-menu-dma.html)|`2025-09-02 22:55:00`|`Grand Theft Auto V`|
+|[vuln driver:&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715948-vuln-driver.html)|`2025-09-02 22:53:00`|`Anti-Cheat Bypass`|
 |[POLYGON basic external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710575-polygon-basic-external.html)|`2025-09-02 22:47:00`|`Other FPS Games`|
 |[Fully Updated Roblox External Source &#40;centrum&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712673-updated-roblox-external-source-centrum.html)|`2025-09-02 22:38:00`|`Other FPS Games`|
 |[Is TDD's source still safe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/715484-tdds-source-safe.html)|`2025-09-02 22:34:00`|`Marvel Rivals`|
