@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DARKEST DAYS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697870-darkest-days-reversal-structs-offsets.html)|`2025-09-03 04:10:00`|`Other FPS Games`|
+|[External radar hack &#40;read&#45;only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715989-external-radar-hack-read.html)|`2025-09-03 04:03:00`|`Counter-Strike 2`|
+|[All&#45;in&#45;one Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/715265-dumper.html)|`2025-09-03 04:03:00`|`Alternative Online Mods`|
+|[Mage arena &#91;full cheat&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/711876-mage-arena-cheat.html)|`2025-09-03 04:01:00`|`Off Topic`|
 |[Oxide Engine &#124; New Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715554-oxide-engine-cheat-engine.html)|`2025-09-03 03:51:00`|`Anti-Cheat Bypass`|
 |[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-09-03 03:51:00`|`Other FPS Games`|
 |[Handle Hijacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715987-handle-hijacking.html)|`2025-09-03 03:28:00`|`Anti-Cheat Bypass`|
