@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[noises](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/715172-noises.html)|`2025-09-02 21:01:00`|`Escape from Tarkov`|
+|[MGS: Snake Eater Delta &#45; SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/715491-mgs-snake-eater-delta-sdk.html)|`2025-09-02 20:59:00`|`General Programming and Reversing`|
+|[TPM Spoofer for free &#40;signed driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713720-tpm-spoofer-free-signed-driver.html)|`2025-09-02 20:52:00`|`Valorant`|
+|[EAC temporary bans fresh accounts ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/715934-eac-temporary-bans-fresh-accounts.html)|`2025-09-02 20:46:00`|`Rust`|
+|[Hiding memory regions via DKOM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/715933-hiding-memory-regions-via-dkom.html)|`2025-09-02 20:38:00`|`General Programming and Reversing`|
 |[Peak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706121-peak.html)|`2025-09-02 20:29:00`|`Other Games`|
 |[Cheats for HOLE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/715470-cheats-hole.html)|`2025-09-02 20:19:00`|`Other FPS Games`|
 |[All&#45;in&#45;one Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/715265-dumper.html)|`2025-09-02 19:31:00`|`Alternative Online Mods`|
