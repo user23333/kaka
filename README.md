@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA firmware XHCI emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715787-dma-firmware-xhci-emulation.html)|`2025-09-02 18:57:00`|`Anti-Cheat Bypass`|
 |[BLACK STIGMA Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/709828-black-stigma-reversal-structs-offsets.html)|`2025-09-02 18:48:00`|`Other FPS Games`|
 |[esp stutters when players run?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/715581-esp-stutters-players-run.html)|`2025-09-02 18:42:00`|`Rust`|
 |[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-09-02 18:37:00`|`Other FPS Games`|
