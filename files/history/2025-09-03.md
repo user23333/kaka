@@ -25,9 +25,16 @@
 |9|[MGS&#46;SnakeEaterDeltaSDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51007)|`2025-09-03 00:12:17`|
 |36|[JITTER FILES ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50999)|`2025-09-03 00:12:17`|
 |44|[AssaultCube cheat source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50998)|`2025-09-03 00:12:17`|
+|1|[EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51039)|`2025-09-03 00:49:22`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-09-03 00:46:00`|`Counter-Strike 2 Releases`|
+|[KingModV7 &#40;Rocket league mod menu with nice features&#41; Until now, no one has published](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/714802-kingmodv7-rocket-league-mod-menu-nice-features-published.html)|`2025-09-03 00:43:00`|`Other Games`|
+|[ZeroPoint &#45; External Cheat &#40;My first external cheat&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715973-zeropoint-external-cheat-external-cheat.html)|`2025-09-03 00:42:00`|`Counter-Strike 2`|
+|[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2025-09-03 00:41:00`|`Scum`|
+|[Need help with TitanHide setup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715757-help-titanhide-setup.html)|`2025-09-03 00:39:00`|`Anti-Cheat Bypass`|
+|[apex rage cheat &#40;external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705590-apex-rage-cheat-external.html)|`2025-09-03 00:38:00`|`Apex Legends`|
 |[Material "Editor" for chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709601-material-editor-chams.html)|`2025-09-03 00:35:00`|`Counter-Strike 2`|
 |[Bloodhunt External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714900-bloodhunt-external.html)|`2025-09-03 00:34:00`|`Other FPS Games`|
 |[Decoding TCP packets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/715972-decoding-tcp-packets.html)|`2025-09-03 00:33:00`|`Forum General`|
