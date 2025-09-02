@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[secret update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/715784-secret-update.html)|`2025-09-02 16:37:00`|`Garry's Mod`|
+|[Hooking NMI calling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715755-hooking-nmi-calling.html)|`2025-09-02 16:34:00`|`Anti-Cheat Bypass`|
+|[Op high stakes no recoil detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/714591-op-stakes-recoil-detection.html)|`2025-09-02 16:25:00`|`Rainbow Six Siege`|
+|[Teleport Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715642-teleport-exploit.html)|`2025-09-02 16:21:00`|`Counter-Strike 2`|
+|[theHunter: Call of the Wild Internal Radar, ESP, & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644365-thehunter-call-wild-internal-radar-esp.html)|`2025-09-02 16:20:00`|`Other FPS Games`|
 |[The Most Proud and Useful Thing You've Contributed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/715831-proud-useful-youve-contributed.html)|`2025-09-02 15:46:00`|`Off Topic`|
 |[What inspired you to start game hacking&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/715415-inspired-start-game-hacking.html)|`2025-09-02 15:37:00`|`Off Topic`|
 |[Rust Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/452384-rust-scripting.html)|`2025-09-02 15:07:00`|`Rust`|
