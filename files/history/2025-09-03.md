@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fortnite fixed MouseClassServiceCallback ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715969-fortnite-fixed-mouseclassservicecallback.html)|`2025-09-03 01:40:00`|`Anti-Cheat Bypass`|
+|[Invoke for Gold and Silver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/soldier-of-fortune-2-a/715452-invoke-gold-silver.html)|`2025-09-03 01:37:00`|`Soldier Of Fortune 2`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-09-03 01:37:00`|`Valorant`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-09-03 01:31:00`|`Rust`|
 |[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-09-03 01:27:00`|`Grand Theft Auto V`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-09-03 01:26:00`|`Alternative Online Mods`|
