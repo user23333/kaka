@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Handle Hijacking now working anymore?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715802-handle-hijacking-anymore.html)|`2025-09-02 13:07:00`|`Counter-Strike 2`|
+|[Arduino Leonardo fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/714986-arduino-leonardo-fix.html)|`2025-09-02 13:03:00`|`Rust`|
 |[Arduino Leonardo patched?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/714947-arduino-leonardo-patched.html)|`2025-09-02 12:56:00`|`Rust`|
 |[DSEclipse &#45; Story behind ASM bootkit that bypasses DSE in under 1 KB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714887-dseclipse-story-asm-bootkit-bypasses-dse-1-kb.html)|`2025-09-02 12:33:00`|`Anti-Cheat Bypass`|
 |[Failed to Identify CR3 via PFN Scanning](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715904-failed-identify-cr3-via-pfn-scanning.html)|`2025-09-02 12:13:00`|`Anti-Cheat Bypass`|
