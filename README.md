@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-09-03 02:26:00`|`Phasmophobia`|
+|[vuln driver:&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715948-vuln-driver.html)|`2025-09-03 02:04:00`|`Anti-Cheat Bypass`|
 |[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2025-09-03 01:58:00`|`HELLDIVERS 2`|
 |[Fortnite fixed MouseClassServiceCallback ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715969-fortnite-fixed-mouseclassservicecallback.html)|`2025-09-03 01:40:00`|`Anti-Cheat Bypass`|
 |[Invoke for Gold and Silver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/soldier-of-fortune-2-a/715452-invoke-gold-silver.html)|`2025-09-03 01:37:00`|`Soldier Of Fortune 2`|
