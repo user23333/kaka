@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hide silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/715679-hide-silent-aim.html)|`2025-09-02 22:15:00`|`Alternative Online Mods`|
+|[LF Firmware Developer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715944-lf-firmware-developer.html)|`2025-09-02 22:14:00`|`Anti-Cheat Bypass`|
+|[Cs2 External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/714298-cs2-external.html)|`2025-09-02 22:13:00`|`Counter-Strike 2 Releases`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-09-02 21:55:00`|`Grand Theft Auto V`|
 |[Createmove Hook not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715698-createmove-hook.html)|`2025-09-02 21:53:00`|`Counter-Strike 2`|
 |[qengine 2&#46;0 Is Here&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/711929-qengine-2-0-a.html)|`2025-09-02 21:49:00`|`C and C++`|
