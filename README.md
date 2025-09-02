@@ -12,6 +12,7 @@
 |19|[apexdumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/715180-apexdumper.html)|`2025-09-03 00:12:17`|`apex-legends`|
 |11|[YimMenuV2 Launchpad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/715467-yimmenuv2-launchpad.html)|`2025-09-03 00:12:17`|`grand-theft-auto-v`|
 |9|[Oxide Engine &#124; New Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715554-oxide-engine-cheat-engine.html)|`2025-09-03 00:36:54`|`anti-cheat-bypass`|
+|30|[Farlight 84 Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/715803-farlight-84-internal-cheat.html)|`2025-09-03 00:55:44`|`farlight-84-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -26,9 +27,11 @@
 |36|[JITTER FILES ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50999)|`2025-09-03 00:12:17`|
 |44|[AssaultCube cheat source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50998)|`2025-09-03 00:12:17`|
 |1|[EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51039)|`2025-09-03 00:49:22`|
+|1|[simple dll injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51040)|`2025-09-03 00:55:44`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple Dll İnjector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/715868-simple-dll-njector.html)|`2025-09-03 00:50:00`|`General Programming and Reversing`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-09-03 00:46:00`|`Counter-Strike 2 Releases`|
 |[KingModV7 &#40;Rocket league mod menu with nice features&#41; Until now, no one has published](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/714802-kingmodv7-rocket-league-mod-menu-nice-features-published.html)|`2025-09-03 00:43:00`|`Other Games`|
 |[ZeroPoint &#45; External Cheat &#40;My first external cheat&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715973-zeropoint-external-cheat-external-cheat.html)|`2025-09-03 00:42:00`|`Counter-Strike 2`|
