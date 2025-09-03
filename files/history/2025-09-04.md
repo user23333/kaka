@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SendClanTag](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716056-sendclantag.html)|`2025-09-04 01:23:00`|`Counter-Strike 2`|
+|[External Knife Changer not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715142-external-knife-changer.html)|`2025-09-04 01:18:00`|`Counter-Strike 2`|
+|[Bloodstrike](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690058-bloodstrike.html)|`2025-09-04 01:11:00`|`Other FPS Games`|
+|[Can't make pte readable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715837-cant-pte-readable.html)|`2025-09-04 01:11:00`|`Anti-Cheat Bypass`|
 |[Emulator bypass 3&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/715830-emulator-bypass-3-9-a.html)|`2025-09-04 01:09:00`|`PUBG Mobile`|
 |[Handle Hijacking now working anymore?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715802-handle-hijacking-anymore.html)|`2025-09-04 01:09:00`|`Counter-Strike 2`|
 |[Gathering a List of Streamer BattleMetrics IDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/716029-gathering-list-streamer-battlemetrics-ids.html)|`2025-09-04 00:57:00`|`Rust`|
