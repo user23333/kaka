@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anticheat bypass for Farlight 84](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/715811-anticheat-bypass-farlight-84-a.html)|`2025-09-04 00:48:00`|`Farlight 84`|
+|[No Cooldown Hacks for Paladins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/710246-cooldown-hacks-paladins.html)|`2025-09-04 00:46:00`|`Paladins`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-09-04 00:42:00`|`Counter-Strike 2`|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-09-04 00:40:00`|`Farlight 84`|
 |[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2025-09-04 00:38:00`|`HELLDIVERS 2`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-09-04 00:35:00`|`Other FPS Games`|
 |[Farlight Device Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/715652-farlight-device-ban.html)|`2025-09-04 00:32:00`|`Farlight 84`|
