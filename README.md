@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RogueCompany external esp &#43; aim updated 4fun](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/706912-roguecompany-external-esp-aim-updated-4fun.html)|`2025-09-04 03:19:00`|`Other FPS Games`|
+|[CS2 External Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716028-cs2-external-help.html)|`2025-09-04 03:18:00`|`Counter-Strike 2`|
 |[Oreo Rivals &#91;Internal Cheat With External Overlay And New Hooking &#43; Silent Aim&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/707135-oreo-rivals-internal-cheat-external-overlay-hooking-silent-aim.html)|`2025-09-04 03:12:00`|`Marvel Rivals`|
 |[POLYGON basic external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710575-polygon-basic-external.html)|`2025-09-04 03:03:00`|`Other FPS Games`|
 |[warface offsets &#91;03&#46;09&#46;2025&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/716124-warface-offsets-03-09-2025-a.html)|`2025-09-04 02:52:00`|`Warface`|
