@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fixing crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716123-fixing-crash.html)|`2025-09-04 02:43:00`|`Counter-Strike 2`|
 |[crashing after inject while hook present](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715976-crashing-inject-hook.html)|`2025-09-04 02:26:00`|`Counter-Strike 2`|
 |[Gems Of War 8&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/702434-gems-war-8-5-a.html)|`2025-09-04 02:14:00`|`Cheat Engine Tables`|
 |[External Offsets 4&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/716103-external-offsets-4-0-a.html)|`2025-09-04 02:08:00`|`PUBG Mobile`|
