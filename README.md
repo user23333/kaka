@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PastaTB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/715286-pastatb.html)|`2025-09-04 01:28:00`|`Valorant`|
 |[SendClanTag](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716056-sendclantag.html)|`2025-09-04 01:23:00`|`Counter-Strike 2`|
 |[External Knife Changer not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715142-external-knife-changer.html)|`2025-09-04 01:18:00`|`Counter-Strike 2`|
 |[Bloodstrike](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690058-bloodstrike.html)|`2025-09-04 01:11:00`|`Other FPS Games`|
