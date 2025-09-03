@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[pubg kaka and stay source &#91;DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/698494-pubg-kaka-stay-source-dma.html)|`2025-09-03 19:23:00`|`Playerunknown's Battlegrounds`|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-09-03 18:57:00`|`HELLDIVERS 2`|
 |[How to figure out what HWID is this one so I can spoof it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715794-figure-hwid-spoof.html)|`2025-09-03 19:04:00`|`Anti-Cheat Bypass`|
 |[Metin2 ingame chat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/716070-metin2-ingame-chat.html)|`2025-09-03 18:47:00`|`Other MMORPG and Strategy`|
 |[FACEIT AC Bypass: Technical Questions Regarding Driver Hiding and Memory Read](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715555-faceit-ac-bypass-technical-questions-regarding-driver-hiding-memory-read.html)|`2025-09-03 18:40:00`|`Anti-Cheat Bypass`|
