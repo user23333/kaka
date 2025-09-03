@@ -29,9 +29,11 @@
 |44|[AssaultCube cheat source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=50998)|`2025-09-03 00:12:17`|
 |1|[EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51039)|`2025-09-03 00:49:22`|
 |1|[simple dll injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51040)|`2025-09-03 00:55:44`|
+|1|[neac vuln driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51041)|`2025-09-03 12:44:03`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Oreo Rivals &#91;Internal Cheat With External Overlay And New Hooking &#43; Silent Aim&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/707135-oreo-rivals-internal-cheat-external-overlay-hooking-silent-aim.html)|`2025-09-03 12:35:00`|`Marvel Rivals`|
 |[Gathering a List of Streamer BattleMetrics IDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/716029-gathering-list-streamer-battlemetrics-ids.html)|`2025-09-03 12:02:00`|`Rust`|
 |[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-09-03 11:11:00`|`Farlight 84`|
 |[Bogdan Finale](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/716018-bogdan-finale.html)|`2025-09-03 11:06:00`|`Grand Theft Auto V`|
