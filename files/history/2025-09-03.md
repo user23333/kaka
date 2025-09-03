@@ -37,6 +37,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-09-03 14:27:00`|`Playerunknown's Battlegrounds`|
+|[Yim Menu v2 Unlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/705089-yim-menu-v2-unlock.html)|`2025-09-03 14:27:00`|`Grand Theft Auto V`|
+|[External · Correct Bomb Radius?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716044-external-correct-bomb-radius.html)|`2025-09-03 14:21:00`|`Counter-Strike 2`|
+|[Fastest Valorant Triggerbot &#40;colorbot&#41; &#124; work perfect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/716043-fastest-valorant-triggerbot-colorbot-perfect.html)|`2025-09-03 14:21:00`|`Half Life`|
 |[Mod Menu Crew v5&#46;3&#46;0  Definitive Edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/716042-mod-menu-crew-v5-3-0-definitive-edition.html)|`2025-09-03 14:16:00`|`Among Us`|
 |[Total kill count from scoreboard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716039-total-kill-count-scoreboard.html)|`2025-09-03 14:07:00`|`Counter-Strike 2`|
 |[Ban Data Collection Thread/Unban Method Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/420476-ban-data-collection-thread-unban-method-discussion.html)|`2025-09-03 13:49:00`|`Escape from Tarkov`|
