@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[༺ 𝙉𝙊𝙑𝘼 ༻ — ✧ Ultimate Insyde Spoofer ✧](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712892-ultimate-insyde-spoofer.html)|`2025-09-03 23:48:00`|`Valorant`|
 |[Planetside 2 Anticheat BattlEye Bypass &#40;braidead edition&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/712951-planetside-2-anticheat-battleye-bypass-braidead-edition.html)|`2025-09-03 23:42:00`|`PlanetSide 2`|
 |[FAQ Valorant Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/421120-faq-valorant-bans.html)|`2025-09-03 23:21:00`|`Valorant`|
 |[Roblox finding Folders &#40; 'Humanoid' 'Players' etc&#46;&#46; &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/705093-roblox-finding-folders-humanoid-players-etc.html)|`2025-09-03 23:11:00`|`Programming for Beginners`|
