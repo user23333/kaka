@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[apexdumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/715180-apexdumper.html)|`2025-09-04 05:04:00`|`Apex Legends`|
+|[ZeroPoint &#45; External Cheat &#40;My first external cheat&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715973-zeropoint-external-cheat-external-cheat.html)|`2025-09-04 04:59:00`|`Counter-Strike 2`|
 |[Internal UnEncrypted PlayerList](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/715867-internal-unencrypted-playerlist.html)|`2025-09-04 04:50:00`|`Rust`|
 |[Server Dump Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/715902-server-dump-help.html)|`2025-09-04 04:31:00`|`Alternative Online Mods`|
 |[Helldivers 2 Undetected Features by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/704156-helldivers-2-undetected-features-igromanru.html)|`2025-09-04 04:28:00`|`HELLDIVERS 2`|
