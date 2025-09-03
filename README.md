@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to figure out what HWID is this one so I can spoof it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715794-figure-hwid-spoof.html)|`2025-09-03 19:04:00`|`Anti-Cheat Bypass`|
 |[Metin2 ingame chat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/716070-metin2-ingame-chat.html)|`2025-09-03 18:47:00`|`Other MMORPG and Strategy`|
 |[FACEIT AC Bypass: Technical Questions Regarding Driver Hiding and Memory Read](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715555-faceit-ac-bypass-technical-questions-regarding-driver-hiding-memory-read.html)|`2025-09-03 18:40:00`|`Anti-Cheat Bypass`|
 |[Genshin impct bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/716065-genshin-impct-bypass.html)|`2025-09-03 18:25:00`|`Genshin Impact`|
