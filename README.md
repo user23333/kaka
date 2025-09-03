@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Remove Radio Cooldown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/715473-remove-radio-cooldown.html)|`2025-09-04 07:43:00`|`Combat Arms`|
+|[vuln driver:&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715948-vuln-driver.html)|`2025-09-04 07:41:00`|`Anti-Cheat Bypass`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-09-04 07:33:00`|`Counter-Strike 2 Releases`|
 |[FACEIT AC Bypass: Technical Questions Regarding Driver Hiding and Memory Read](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715555-faceit-ac-bypass-technical-questions-regarding-driver-hiding-memory-read.html)|`2025-09-04 07:26:00`|`Anti-Cheat Bypass`|
 |[HVIC help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716049-hvic-help.html)|`2025-09-04 07:23:00`|`Valorant`|
