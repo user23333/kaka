@@ -14,6 +14,8 @@
 |9|[Oxide Engine &#124; New Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715554-oxide-engine-cheat-engine.html)|`2025-09-03 00:36:54`|`anti-cheat-bypass`|
 |30|[Farlight 84 Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/715803-farlight-84-internal-cheat.html)|`2025-09-03 00:55:44`|`farlight-84-a`|
 |8|[solution of decryption for external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/715241-solution-decryption-external.html)|`2025-09-03 11:43:30`|`overwatch`|
+|4|[DMA firmware XHCI emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715787-dma-firmware-xhci-emulation.html)|`2025-09-03 23:11:02`|`anti-cheat-bypass`|
+|3|[How Is Someone Giving Out EXP, Medals, and Samples Through Account IDs?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/715596-giving-exp-medals-samples-account-ids.html)|`2025-09-03 23:11:02`|`helldivers-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -37,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How can I use Dumper&#45;7 with valorant?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716105-dumper-7-valorant.html)|`2025-09-03 23:10:00`|`Valorant`|
+|[PUBG GLOBAL 4&#46;0 UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/716104-pubg-global-4-0-ue4-offsets.html)|`2025-09-03 23:08:00`|`PUBG Mobile`|
 |[TPM Spoofer for free &#40;signed driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713720-tpm-spoofer-free-signed-driver.html)|`2025-09-03 22:53:00`|`Valorant`|
 |[Remove Radio Cooldown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/715473-remove-radio-cooldown.html)|`2025-09-03 22:51:00`|`Combat Arms`|
 |[External Offsets 4&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/716103-external-offsets-4-0-a.html)|`2025-09-03 22:51:00`|`PUBG Mobile`|
