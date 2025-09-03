@@ -37,6 +37,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[kdmapper driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/713611-kdmapper-driver.html)|`2025-09-03 22:28:00`|`Rainbow Six Siege`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-09-03 22:22:00`|`Other FPS Games`|
+|[Server&#45;Side Aimbot/Trigger Detection in The Finals?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/711567-server-aimbot-trigger-detection-finals.html)|`2025-09-03 22:21:00`|`THE FINALS`|
 |[Chivalry 2 Gamepass Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/591970-chivalry-2-gamepass-cheat-table.html)|`2025-09-03 22:02:00`|`Other Games`|
 |[Resource Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/710497-resource-dumper.html)|`2025-09-03 21:50:00`|`Alternative Online Mods`|
 |[any cheats left?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/715624-cheats-left.html)|`2025-09-03 21:35:00`|`Sea of Thieves`|
