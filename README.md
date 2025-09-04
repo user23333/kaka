@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[external auto accept](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716365-external-auto-accept.html)|`2025-09-05 03:29:00`|`Counter-Strike 2`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-09-05 03:15:00`|`Overwatch`|
 |[DMA firmware XHCI emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715787-dma-firmware-xhci-emulation.html)|`2025-09-05 02:45:00`|`Anti-Cheat Bypass`|
 |[Fastest Valorant Triggerbot &#40;colorbot&#41; &#124; work perfect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716043-fastest-valorant-triggerbot-colorbot-perfect.html)|`2025-09-05 02:28:00`|`Valorant`|
