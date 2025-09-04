@@ -37,6 +37,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unturned &#45; PlayerUpdate hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/715182-unturned-playerupdate-hook.html)|`2025-09-04 22:55:00`|`Other FPS Games`|
+|[External Raycasting &#40;PhysX recreation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673196-external-raycasting-physx-recreation.html)|`2025-09-04 22:53:00`|`Escape from Tarkov`|
+|[Free Farlight External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/713600-free-farlight-external.html)|`2025-09-04 22:53:00`|`Farlight 84`|
+|[Unturned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/715967-unturned.html)|`2025-09-04 22:52:00`|`Other FPS Games`|
+|[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-09-04 22:50:00`|`Other FPS Games`|
 |[Is it easy Possible to get Unbanned in Valorant with Val 152 or Val 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/715882-easy-unbanned-valorant-val-152-val-5-a.html)|`2025-09-04 22:37:00`|`Valorant`|
 |[What Serials Does Fortnite Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714999-serials-fortnite-ban.html)|`2025-09-04 22:28:00`|`Anti-Cheat Bypass`|
 |[PUBG 4&#46;0 MAGIC SHELL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/716349-pubg-4-0-magic-shell.html)|`2025-09-04 22:08:00`|`PUBG Mobile`|
