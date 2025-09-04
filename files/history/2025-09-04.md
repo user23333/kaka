@@ -36,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BattlEye banned a lot of people today&#46; What happened?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/715676-battleye-banned-lot-people-happened.html)|`2025-09-04 13:11:00`|`Grand Theft Auto V`|
+|[Amalgam x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/639800-amalgam-x64.html)|`2025-09-04 13:03:00`|`Team Fortress 2`|
+|[Cheat counter striker 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/715601-cheat-counter-striker-2-a.html)|`2025-09-04 13:00:00`|`Counter-Strike 2 Releases`|
+|[FlyKnight Trainer &#40;FlyKing&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715573-flyknight-trainer-flyking.html)|`2025-09-04 12:58:00`|`Other Games`|
+|[Ready or Not Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/715431-ready-internal.html)|`2025-09-04 12:57:00`|`Other FPS Games`|
 |[Age of Empires IV &#45; External Scar Script Injector & Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/712742-age-empires-iv-external-scar-script-injector-helper.html)|`2025-09-04 12:50:00`|`Other MMORPG and Strategy`|
 |[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-09-04 12:46:00`|`Apex Legends`|
 |[Full DoD:S & CS:S Netprop Dump for 64&#45;bit Linux ports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/source-engine/715449-dod-cs-netprop-dump-64-bit-linux-ports.html)|`2025-09-04 12:45:00`|`Source Engine`|
