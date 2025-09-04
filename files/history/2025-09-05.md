@@ -11,6 +11,7 @@
 |3|[How Is Someone Giving Out EXP, Medals, and Samples Through Account IDs?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/715596-giving-exp-medals-samples-account-ids.html)|`2025-09-05 00:22:42`|`helldivers-2-a`|
 |10|[SendClanTag](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716056-sendclantag.html)|`2025-09-05 00:22:42`|`counter-strike-2-a`|
 |7|[BEDaisy passing weird strings to MmGetSystemRoutineAddress](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715381-bedaisy-passing-weird-strings-mmgetsystemroutineaddress.html)|`2025-09-05 00:22:42`|`anti-cheat-bypass`|
+|6|[CS2 Double Tap SRC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715455-cs2-double-tap-src.html)|`2025-09-05 02:38:20`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fastest Valorant Triggerbot &#40;colorbot&#41; &#124; work perfect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716043-fastest-valorant-triggerbot-colorbot-perfect.html)|`2025-09-05 02:28:00`|`Valorant`|
+|[How do I detect processes on my hypervisor?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716131-detect-processes-hypervisor.html)|`2025-09-05 02:27:00`|`Anti-Cheat Bypass`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-09-05 02:25:00`|`Apex Legends`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-09-05 02:23:00`|`DayZ SA`|
+|[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-09-05 02:20:00`|`Other FPS Games`|
+|[SWBF2 Internal ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/581560-swbf2-internal-esp.html)|`2025-09-05 02:20:00`|`Star Wars Battlefront 2`|
 |[Bloodhunt Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/715768-bloodhunt-internal.html)|`2025-09-05 02:09:00`|`Other FPS Games`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-09-05 02:08:00`|`Other FPS Games`|
 |[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2025-09-05 01:53:00`|`Other MMORPG and Strategy`|
