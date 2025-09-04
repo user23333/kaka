@@ -37,6 +37,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[༺ 𝙉𝙊𝙑𝘼 ༻ — ✧ Ultimate Insyde Spoofer ✧](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712892-ultimate-insyde-spoofer.html)|`2025-09-04 15:14:00`|`Valorant`|
+|[DeadByDaylight external &#91;Steam&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715450-deadbydaylight-external-steam.html)|`2025-09-04 15:08:00`|`Other Games`|
+|[Bogdan Finale](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/716018-bogdan-finale.html)|`2025-09-04 15:05:00`|`Grand Theft Auto V`|
 |[pGameRules&#45;&#62;m&#95;fWarmupPeriodEnd&#40;&#41; always return inf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716313-pgamerules-m_fwarmupperiodend-return-inf.html)|`2025-09-04 14:46:00`|`Counter-Strike 2`|
 |[Co&#45;op Checkpoint Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-ii/709396-co-op-checkpoint-cheat.html)|`2025-09-04 13:45:00`|`Call of Duty: Modern Warfare II`|
 |[WarThunder DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/713460-warthunder-dma.html)|`2025-09-04 13:34:00`|`Other MMORPG and Strategy`|
