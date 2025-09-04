@@ -14,6 +14,7 @@
 |7|[BEDaisy passing weird strings to MmGetSystemRoutineAddress](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715381-bedaisy-passing-weird-strings-mmgetsystemroutineaddress.html)|`2025-09-04 04:35:04`|`anti-cheat-bypass`|
 |5|[vuln driver:&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715948-vuln-driver.html)|`2025-09-04 06:00:59`|`anti-cheat-bypass`|
 |6|[CS2 Double Tap SRC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715455-cs2-double-tap-src.html)|`2025-09-04 08:59:09`|`counter-strike-2-a`|
+|8|[SendClanTag](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716056-sendclantag.html)|`2025-09-04 13:56:57`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
