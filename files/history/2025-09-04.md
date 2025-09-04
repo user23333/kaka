@@ -37,6 +37,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG 4&#46;0 MAGIC SHELL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/716349-pubg-4-0-magic-shell.html)|`2025-09-04 22:08:00`|`PUBG Mobile`|
+|[Razer Synapse Jitter macro that doesn't drift and actually worksl](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/713579-razer-synapse-jitter-macro-doesnt-drift-actually-worksl.html)|`2025-09-04 22:08:00`|`Apex Legends`|
+|[Path of Exile 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676435-path-exile-2-reversal-structs-offsets.html)|`2025-09-04 22:07:00`|`Other MMORPG and Strategy`|
+|[nProtect GameGuard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715680-nprotect-gameguard.html)|`2025-09-04 21:59:00`|`Anti-Cheat Bypass`|
+|[Just here to learn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/716060-learn.html)|`2025-09-04 21:59:00`|`Introductions`|
+|[Rocket League &#45; Name Spoofer Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/716347-rocket-league-name-spoofer-updated.html)|`2025-09-04 21:57:00`|`Other Games`|
 |[Deadlocked &#45; External Multi Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/711759-deadlocked-external-multi-cheat.html)|`2025-09-04 21:28:00`|`Deadlock`|
 |[PUBG GLOBAL 4&#46;0 UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/716104-pubg-global-4-0-ue4-offsets.html)|`2025-09-04 20:55:00`|`PUBG Mobile`|
 |[destiny rising hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716087-destiny-rising-hack.html)|`2025-09-04 20:36:00`|`Other FPS Games`|
