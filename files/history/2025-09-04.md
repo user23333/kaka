@@ -32,9 +32,12 @@
 |2|[val 11&#46;05](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51064)|`2025-09-04 12:44:47`|
 |1|[hillclimbing&#46;py](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51056)|`2025-09-04 12:44:47`|
 |1|[walkingsurvival&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51055)|`2025-09-04 12:44:47`|
+|1|[source1&#95;netprop&#95;dumps&#45;css&#95;dods&#95;tf2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51058)|`2025-09-04 12:50:46`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/319804-apex-legends-reversal-structs-offsets.html)|`2025-09-04 12:46:00`|`Apex Legends`|
+|[Full DoD:S & CS:S Netprop Dump for 64&#45;bit Linux ports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/source-engine/715449-dod-cs-netprop-dump-64-bit-linux-ports.html)|`2025-09-04 12:45:00`|`Source Engine`|
 |[Walking Survival Cheat Engine Table&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/716073-walking-survival-cheat-engine-table.html)|`2025-09-04 12:44:00`|`Other Games`|
 |[Hill Climb Racing Python &#40;PC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/716074-hill-climb-racing-python-pc.html)|`2025-09-04 12:40:00`|`Other Games`|
 |[theHunter: Call of the Wild &#40;Epic Games&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/693375-thehunter-call-wild-epic-games.html)|`2025-09-04 12:39:00`|`Other FPS Games`|
