@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What Serials Does Fortnite Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714999-serials-fortnite-ban.html)|`2025-09-04 22:28:00`|`Anti-Cheat Bypass`|
 |[PUBG 4&#46;0 MAGIC SHELL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/716349-pubg-4-0-magic-shell.html)|`2025-09-04 22:08:00`|`PUBG Mobile`|
 |[Razer Synapse Jitter macro that doesn't drift and actually worksl](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/713579-razer-synapse-jitter-macro-doesnt-drift-actually-worksl.html)|`2025-09-04 22:08:00`|`Apex Legends`|
 |[Path of Exile 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676435-path-exile-2-reversal-structs-offsets.html)|`2025-09-04 22:07:00`|`Other MMORPG and Strategy`|
