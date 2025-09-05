@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bo6 HWID BAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/716403-bo6-hwid-ban.html)|`2025-09-05 19:53:00`|`Call of Duty: Black Ops 6`|
 |[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-09-05 19:42:00`|`HELLDIVERS 2`|
 |[Someone can help me hosting a hacked lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/716424-help-hosting-hacked-lobby.html)|`2025-09-05 19:11:00`|`HELLDIVERS 2`|
 |[Osussist v3 MultiHack for osu&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/671577-osussist-v3-multihack-osu.html)|`2025-09-05 19:02:00`|`Other Games`|
