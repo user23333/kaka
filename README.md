@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SendClanTag](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716056-sendclantag.html)|`2025-09-05 12:53:00`|`Counter-Strike 2`|
+|[Combat Master 2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/716405-combat-master-2-a.html)|`2025-09-05 12:52:00`|`Combat Master`|
 |[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-09-05 12:46:00`|`Call of Duty: Black Ops 3`|
 |[Rust External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/713701-rust-external-base.html)|`2025-09-05 12:01:00`|`Rust`|
 |[Handle Hijacking now working anymore?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715802-handle-hijacking-anymore.html)|`2025-09-05 11:57:00`|`Counter-Strike 2`|
