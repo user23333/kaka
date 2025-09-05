@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SSD SN Unspoofable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716379-ssd-sn-unspoofable.html)|`2025-09-06 01:26:00`|`Anti-Cheat Bypass`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2025-09-06 01:22:00`|`Grand Theft Auto V`|
+|[Need AMIDEWIN64&#46;EXE Help&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715746-amidewin64-exe-help.html)|`2025-09-06 01:21:00`|`Anti-Cheat Bypass`|
+|[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2025-09-06 01:19:00`|`HELLDIVERS 2`|
+|[How to figure out what HWID is this one so I can spoof it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715794-figure-hwid-spoof.html)|`2025-09-06 01:19:00`|`Anti-Cheat Bypass`|
+|[&#91;S26&#93; 100% Superglide Macro &#45; MnK & Controller &#45; Works on Steam & EA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/712312-s26-100-superglide-macro-mnk-controller-steam-ea.html)|`2025-09-06 01:16:00`|`Apex Legends`|
+|[Unlock Car](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/716176-unlock-car.html)|`2025-09-06 01:16:00`|`Alternative Online Mods`|
 |[valorant 3&#46; what has changed in banda](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716373-valorant-3-changed-banda.html)|`2025-09-06 01:05:00`|`Valorant`|
 |[How to find yimmenu v2 Lua scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/716451-yimmenu-v2-lua-scripts.html)|`2025-09-06 00:48:00`|`Alternative Online Mods`|
 |[༺ 𝙉𝙊𝙑𝘼 ༻ — ✧ Ultimate Insyde Spoofer ✧](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712892-ultimate-insyde-spoofer.html)|`2025-09-06 00:46:00`|`Valorant`|
