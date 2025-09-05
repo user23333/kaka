@@ -24,9 +24,13 @@
 |1388|[Helldivers 2 Sneaky Stuff v1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51042)|`2025-09-06 00:09:53`|
 |141|[neac vuln driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51041)|`2025-09-06 00:09:53`|
 |114|[simple dll injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51040)|`2025-09-06 00:09:53`|
+|389|[EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51039)|`2025-09-06 06:13:07`|
+|50|[SoundSightV2 &#45; UC Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51036)|`2025-09-06 06:13:07`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VALO COLOR BOT SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/633956-valo-color-bot-source.html)|`2025-09-06 06:06:00`|`Valorant`|
+|[&#91;RARE&#93; BASED NOSPREAD CONTEXT MENU PURE LUA CHEAT DIRECTED BY ME THE BEST CHEAT 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/712425-rare-based-nospread-context-menu-pure-lua-cheat-directed-cheat-2025-a.html)|`2025-09-06 06:01:00`|`Garry's Mod`|
 |[dt fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716480-dt-fix.html)|`2025-09-06 05:27:00`|`Counter-Strike 2`|
 |[Skins applying](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715919-skins-applying.html)|`2025-09-06 05:14:00`|`Counter-Strike 2`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-09-06 05:09:00`|`Apex Legends`|
