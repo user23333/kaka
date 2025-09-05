@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-09-05 14:03:00`|`Apex Legends`|
 |[All&#45;in&#45;one Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/715265-dumper.html)|`2025-09-05 13:55:00`|`Alternative Online Mods`|
 |[nProtect GameGuard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715680-nprotect-gameguard.html)|`2025-09-05 13:45:00`|`Anti-Cheat Bypass`|
 |[qengine 2&#46;0 Is Here&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/711929-qengine-2-0-a.html)|`2025-09-05 13:20:00`|`C and C++`|
