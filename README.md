@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[vuln driver:&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715948-vuln-driver.html)|`2025-09-06 01:30:00`|`Anti-Cheat Bypass`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-09-06 01:30:00`|`Other MMORPG and Strategy`|
 |[SSD SN Unspoofable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716379-ssd-sn-unspoofable.html)|`2025-09-06 01:26:00`|`Anti-Cheat Bypass`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2025-09-06 01:22:00`|`Grand Theft Auto V`|
 |[Need AMIDEWIN64&#46;EXE Help&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715746-amidewin64-exe-help.html)|`2025-09-06 01:21:00`|`Anti-Cheat Bypass`|
