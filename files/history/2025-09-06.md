@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-09-06 00:43:00`|`Call of Duty: Black Ops 6`|
+|[Handle Hijacking now working anymore?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715802-handle-hijacking-anymore.html)|`2025-09-06 00:41:00`|`Counter-Strike 2`|
+|[YimMenuV2's Stat Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/716410-yimmenuv2s-stat-editor.html)|`2025-09-06 00:41:00`|`Grand Theft Auto V`|
+|[Gems Of War 8&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/702434-gems-war-8-5-a.html)|`2025-09-06 00:36:00`|`Cheat Engine Tables`|
+|[Candy Crush Friends Saga &#40;Windows Store Version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/713682-candy-crush-friends-saga-windows-store-version.html)|`2025-09-06 00:33:00`|`Cheat Engine Tables`|
 |[Freecamera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/715686-freecamera.html)|`2025-09-06 00:29:00`|`Escape from Tarkov`|
 |[Destiny Rising Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716450-destiny-rising-reversal-structs-offsets.html)|`2025-09-06 00:24:00`|`Other FPS Games`|
 |[Anno 117 demo freeze game time](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715945-anno-117-demo-freeze-game-time.html)|`2025-09-06 00:18:00`|`Other Games`|
