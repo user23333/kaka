@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[IOCTL Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715861-ioctl-dump.html)|`2025-09-05 13:10:00`|`Anti-Cheat Bypass`|
+|[How do people make their cheats undetectable?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/715457-people-cheats-undetectable.html)|`2025-09-05 13:06:00`|`Forum General`|
 |[SendClanTag](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716056-sendclantag.html)|`2025-09-05 12:53:00`|`Counter-Strike 2`|
 |[Combat Master 2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/716405-combat-master-2-a.html)|`2025-09-05 12:52:00`|`Combat Master`|
 |[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-09-05 12:46:00`|`Call of Duty: Black Ops 3`|
