@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[creating lua exec](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/708987-creating-lua-exec.html)|`2025-09-06 10:31:00`|`Alternative Online Mods`|
+|[Farlight Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/716532-farlight-internal-cheat.html)|`2025-09-06 10:17:00`|`Farlight 84`|
+|[Farlight Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/716531-farlight-internal-cheat.html)|`2025-09-06 10:16:00`|`Farlight 84`|
+|[New Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/716321-offsets.html)|`2025-09-06 10:12:00`|`PlanetSide 2`|
+|[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2025-09-06 10:10:00`|`DayZ SA`|
+|[DMA firmware XHCI emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715787-dma-firmware-xhci-emulation.html)|`2025-09-06 09:52:00`|`Anti-Cheat Bypass`|
 |[SendClanTag](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716056-sendclantag.html)|`2025-09-06 09:07:00`|`Counter-Strike 2`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-09-06 09:03:00`|`Grand Theft Auto V`|
 |[Future of modding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/716527-future-modding.html)|`2025-09-06 08:59:00`|`Grand Theft Auto V`|
