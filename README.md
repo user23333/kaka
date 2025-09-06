@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-09-07 01:19:00`|`Battlefield 4`|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-09-07 01:19:00`|`Other FPS Games`|
+|[PC or laptop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716137-pc-laptop.html)|`2025-09-07 01:16:00`|`Valorant`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-09-07 01:15:00`|`Apex Legends`|
+|[Dead By Daylight DMA 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714224-dead-daylight-dma-2-0-a.html)|`2025-09-07 01:15:00`|`Other FPS Games`|
+|[Reversal threads deleted?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/716538-reversal-threads-deleted.html)|`2025-09-07 01:12:00`|`Battlefield 6`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-09-07 01:07:00`|`Overwatch`|
 |[BO6 Warzone Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/712688-bo6-warzone-internal-cheat.html)|`2025-09-07 00:56:00`|`Call of Duty: Black Ops 6`|
 |[basic rust external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/716583-basic-rust-external-base.html)|`2025-09-07 00:51:00`|`Rust`|
