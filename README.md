@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PC or laptop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716137-pc-laptop.html)|`2025-09-06 10:53:00`|`Valorant`|
+|[Brawlhalla Combo Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/712728-brawlhalla-combo-bot.html)|`2025-09-06 10:49:00`|`Other Games`|
+|[Question on creating a second steam account&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/716495-question-creating-steam-account.html)|`2025-09-06 10:44:00`|`Team Fortress 2`|
+|[Webfishing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/716534-webfishing.html)|`2025-09-06 10:34:00`|`Cheat Engine Tables`|
 |[creating lua exec](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/708987-creating-lua-exec.html)|`2025-09-06 10:31:00`|`Alternative Online Mods`|
 |[Farlight Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/716532-farlight-internal-cheat.html)|`2025-09-06 10:17:00`|`Farlight 84`|
 |[Farlight Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/716531-farlight-internal-cheat.html)|`2025-09-06 10:16:00`|`Farlight 84`|
