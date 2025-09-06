@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/716549-silent-aim.html)|`2025-09-06 16:04:00`|`Rust`|
+|[What should I do next?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716548-what-should-i-do-next.html)|`2025-09-06 15:58:00`|`Anti-Cheat Bypass`|
 |[Kernel&#45;Mode Driver learning](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/714004-kernel-mode-driver-learning.html)|`2025-09-06 15:36:00`|`Half Life`|
 |[Resources to learn deeper reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716544-resources-learn-deeper-reversing.html)|`2025-09-06 15:35:00`|`Counter-Strike 2`|
 |[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-09-06 15:18:00`|`Grand Theft Auto V`|
