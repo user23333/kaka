@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Memory viewer on mcc with CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716611-memory-viewer-mcc-ce.html)|`2025-09-07 07:09:00`|`Anti-Cheat Bypass`|
 |[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-09-07 07:04:00`|`Other FPS Games`|
 |[Handle Hijacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715987-handle-hijacking.html)|`2025-09-07 07:04:00`|`Anti-Cheat Bypass`|
 |[What should I do next?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716548-what-should-i-do-next.html)|`2025-09-07 06:43:00`|`Anti-Cheat Bypass`|
