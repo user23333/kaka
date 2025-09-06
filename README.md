@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[basic rust external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/716583-basic-rust-external-base.html)|`2025-09-06 23:33:00`|`Rust`|
+|[Fast and working Valorant Triggerbot &#40;colorbot&#41; &#124; ASM Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716146-fast-valorant-triggerbot-colorbot-asm-source.html)|`2025-09-06 23:30:00`|`Valorant`|
 |[Stalcraft modelMatrix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716579-stalcraft-modelmatrix.html)|`2025-09-06 23:01:00`|`Other FPS Games`|
 |[Path of Exile 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676435-path-exile-2-reversal-structs-offsets.html)|`2025-09-06 22:55:00`|`Other MMORPG and Strategy`|
 |[TPM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/649260-tpm-spoofer.html)|`2025-09-06 22:49:00`|`Valorant`|
