@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Handle Hijacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715987-handle-hijacking.html)|`2025-09-06 13:29:00`|`Anti-Cheat Bypass`|
 |[hooking library](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716542-hooking-library.html)|`2025-09-06 13:17:00`|`Counter-Strike 2`|
 |[Apex DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716473-apex-dma-source.html)|`2025-09-06 13:04:00`|`Apex Legends`|
 |[Avast Sandbox CS2 memory error with 64GB RAM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716462-avast-sandbox-cs2-memory-error-64gb-ram.html)|`2025-09-06 12:56:00`|`Counter-Strike 2`|
