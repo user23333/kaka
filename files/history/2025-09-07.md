@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Active anti cheat detect's DBVM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715995-active-anti-cheat-detects-dbvm.html)|`2025-09-07 02:06:00`|`Anti-Cheat Bypass`|
+|[Plutonium aimbot/esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/716591-plutonium-aimbot-esp.html)|`2025-09-07 02:00:00`|`Call of Duty: Black Ops`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-09-07 01:55:00`|`Call of Duty: Black Ops 6`|
 |[Post your Menu/GUI Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/68024-post-menu-gui-framework.html)|`2025-09-07 01:50:00`|`C and C++`|
 |[Auto Update External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/614771-auto-update-external.html)|`2025-09-07 01:43:00`|`Overwatch`|
 |[EntityIndex not found](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716477-entityindex-found.html)|`2025-09-07 01:38:00`|`Counter-Strike 2`|
