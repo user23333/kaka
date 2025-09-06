@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AmongUsCosmetics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/521567-amonguscosmetics.html)|`2025-09-06 21:35:00`|`Among Us`|
+|[Roblox AIMBOT External Usermode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711916-roblox-aimbot-external-usermode.html)|`2025-09-06 21:08:00`|`Other FPS Games`|
+|[is there any working cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/708976-cheats.html)|`2025-09-06 21:08:00`|`Among Us`|
 |[Update winrar to 7&#46;13, critical vuln detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/715517-update-winrar-7-13-critical-vuln-detected.html)|`2025-09-06 21:11:00`|`Off Topic`|
 |[How to fill the stats in Yimmenu? &#91;Legacy&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/716572-fill-stats-yimmenu-legacy.html)|`2025-09-06 21:02:00`|`Grand Theft Auto V`|
 |[Hello all](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/716093-hello.html)|`2025-09-06 21:01:00`|`Introductions`|
