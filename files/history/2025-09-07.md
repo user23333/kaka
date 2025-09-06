@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal UnEncrypted PlayerList](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/715867-internal-unencrypted-playerlist.html)|`2025-09-07 02:22:00`|`Rust`|
+|[Black Ops 1 Plutonium T5 Sp/Zm ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/716225-black-ops-1-plutonium-t5-sp-zm-esp.html)|`2025-09-07 02:20:00`|`Call of Duty: Black Ops`|
+|[how get to mouse position?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715857-mouse-position.html)|`2025-09-07 02:19:00`|`Counter-Strike 2`|
 |[Active anti cheat detect's DBVM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715995-active-anti-cheat-detects-dbvm.html)|`2025-09-07 02:06:00`|`Anti-Cheat Bypass`|
 |[Plutonium aimbot/esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/716591-plutonium-aimbot-esp.html)|`2025-09-07 02:00:00`|`Call of Duty: Black Ops`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-09-07 01:55:00`|`Call of Duty: Black Ops 6`|
