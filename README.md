@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EntityIndex not found](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716477-entityindex-found.html)|`2025-09-06 13:34:00`|`Counter-Strike 2`|
 |[Handle Hijacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715987-handle-hijacking.html)|`2025-09-06 13:29:00`|`Anti-Cheat Bypass`|
 |[hooking library](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716542-hooking-library.html)|`2025-09-06 13:17:00`|`Counter-Strike 2`|
 |[Apex DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716473-apex-dma-source.html)|`2025-09-06 13:04:00`|`Apex Legends`|
