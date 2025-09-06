@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Undetected Cheat Engine &#43; Driver &#124; 2023 &#124; Bypass Anticheats &#40;BE / EAC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/504191-undetected-cheat-engine-driver-2023-bypass-anticheats-eac.html)|`2025-09-06 23:44:00`|`Anti-Cheat Bypass`|
 |[basic rust external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/716583-basic-rust-external-base.html)|`2025-09-06 23:33:00`|`Rust`|
 |[Fast and working Valorant Triggerbot &#40;colorbot&#41; &#124; ASM Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716146-fast-valorant-triggerbot-colorbot-asm-source.html)|`2025-09-06 23:30:00`|`Valorant`|
 |[Stalcraft modelMatrix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716579-stalcraft-modelmatrix.html)|`2025-09-06 23:01:00`|`Other FPS Games`|
