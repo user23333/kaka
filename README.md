@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-09-08 01:06:00`|`Counter-Strike 2 Releases`|
+|[Pubgmobile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/716671-pubgmobile.html)|`2025-09-08 01:06:00`|`PUBG Mobile`|
+|[Any crossplat hooklib that support instruction&#45;level hooking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/712470-crossplat-hooklib-support-instruction-level-hooking.html)|`2025-09-08 01:06:00`|`Forum General`|
+|[Pubg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/716670-pubg.html)|`2025-09-08 01:05:00`|`PUBG Mobile`|
+|[help me dump globalmetadata](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/715113-help-dump-globalmetadata.html)|`2025-09-08 01:04:00`|`Forum General`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-09-08 01:04:00`|`Valorant`|
+|[Bypass Update Checks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/436113-bypass-update-checks.html)|`2025-09-08 01:04:00`|`PUBG Mobile`|
+|[Help with discord overlay hijack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/715382-help-discord-overlay-hijack.html)|`2025-09-08 01:03:00`|`Forum General`|
 |[&#91;UE4&#93;Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/244709-ue4-squad.html)|`2025-09-08 00:55:00`|`Other FPS Games`|
 |[Help with bypassing vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/716669-help-bypassing-vanguard.html)|`2025-09-08 00:54:00`|`League of Legends`|
 |[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-09-08 00:51:00`|`HELLDIVERS 2`|
