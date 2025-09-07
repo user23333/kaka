@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Server Dump Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/716627-server-dump-help.html)|`2025-09-07 12:24:00`|`Alternative Online Mods`|
+|[Best site for pirate games?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/716626-site-pirate-games.html)|`2025-09-07 12:20:00`|`Off Topic`|
 |[The Finals External Cheat DMA&#33;&#33;&#40;Just Run It&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/640995-finals-external-cheat-dma-run.html)|`2025-09-07 12:00:00`|`THE FINALS`|
 |[Aimmy on Console](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/714726-aimmy-console.html)|`2025-09-07 11:49:00`|`Apex Legends`|
 |[Mouse Movement Method &#45; &#40;more secure than sign driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716376-mouse-movement-method-secure-sign-driver.html)|`2025-09-07 11:28:00`|`Valorant`|
