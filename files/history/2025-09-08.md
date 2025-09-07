@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-09-08 03:09:00`|`Counter-Strike 2`|
+|[Straftat Full Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/686040-straftat-cheat.html)|`2025-09-08 03:08:00`|`Other Games`|
 |[External python cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/714196-external-python-cheat.html)|`2025-09-08 02:51:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[FrameStageNotify hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716682-framestagenotify-hook.html)|`2025-09-08 02:48:00`|`Counter-Strike 2`|
 |[Process creation on newly created Desktop doesn't work on Windows 11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/716488-process-creation-newly-created-desktop-doesnt-windows-11-a.html)|`2025-09-08 02:33:00`|`General Programming and Reversing`|
