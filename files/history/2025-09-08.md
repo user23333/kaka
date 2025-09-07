@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Best site for pirate games?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/716626-site-pirate-games.html)|`2025-09-08 01:12:00`|`Off Topic`|
+|[How to disable SARD anti&#45;cheat while playing a certain game? Is it possible?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/710757-disable-sard-anti-cheat-playing-game.html)|`2025-09-08 01:11:00`|`Forum General`|
+|[Stuck when working with il2cpp global metadata decryption for Realm of the Mad God](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/714777-stuck-il2cpp-global-metadata-decryption-realm-mad-god.html)|`2025-09-08 01:08:00`|`Forum General`|
+|[Vanguard Spoofer Rev 2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612562-vanguard-spoofer-rev-2-a.html)|`2025-09-08 01:08:00`|`Valorant`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-09-08 01:06:00`|`Counter-Strike 2 Releases`|
 |[Pubgmobile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/716671-pubgmobile.html)|`2025-09-08 01:06:00`|`PUBG Mobile`|
 |[Any crossplat hooklib that support instruction&#45;level hooking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/712470-crossplat-hooklib-support-instruction-level-hooking.html)|`2025-09-08 01:06:00`|`Forum General`|
