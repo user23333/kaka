@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Aimmy on Console](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/714726-aimmy-console.html)|`2025-09-07 11:49:00`|`Apex Legends`|
 |[Mouse Movement Method &#45; &#40;more secure than sign driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716376-mouse-movement-method-secure-sign-driver.html)|`2025-09-07 11:28:00`|`Valorant`|
 |[Fast And Simple Triggerbot &#40;ASM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698448-fast-simple-triggerbot-asm.html)|`2025-09-07 11:18:00`|`Valorant`|
 |[Skate&#46; currency editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/716623-skate-currency-editor.html)|`2025-09-07 09:59:00`|`Other Games`|
