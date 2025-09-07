@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stalcraft modelMatrix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716579-stalcraft-modelmatrix.html)|`2025-09-08 04:35:00`|`Other FPS Games`|
+|[hw&#46;dll wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/714369-hw-dll-wallhack.html)|`2025-09-08 04:31:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Logitech Lua &#40;G502&#45;HERO&#41; &#45;simulant v2&#46;0R6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/715117-logitech-lua-g502-hero-simulant-v2-0r6.html)|`2025-09-08 04:26:00`|`Rainbow Six Siege`|
 |[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2025-09-08 04:14:00`|`Garry's Mod`|
 |[Bloodhunt Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/715768-bloodhunt-internal.html)|`2025-09-08 04:01:00`|`Other FPS Games`|
