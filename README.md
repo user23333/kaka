@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG 4&#46;0 MAGIC SHELL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/716349-pubg-4-0-magic-shell.html)|`2025-09-07 14:51:00`|`PUBG Mobile`|
+|[NEW PUBG 4&#46;0 UE4 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/716557-pubg-4-0-ue4-offsets.html)|`2025-09-07 14:50:00`|`PUBG Mobile`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-09-07 14:48:00`|`Counter-Strike 2`|
 |[Hello fellow cheaters&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/715850-hello-fellow-cheaters.html)|`2025-09-07 14:23:00`|`Introductions`|
 |[Native Invoker Rage:MP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/716631-native-invoker-rage-mp.html)|`2025-09-07 14:23:00`|`Alternative Online Mods`|
 |[Leyline &#45; Guild Wars 2 Multihack and ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/guild-wars-2-a/610320-leyline-guild-wars-2-multihack-esp.html)|`2025-09-07 12:43:00`|`Guild Wars 2`|
