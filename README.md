@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DeadByDaylight external &#91;Steam&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715450-deadbydaylight-external-steam.html)|`2025-09-07 20:53:00`|`Other Games`|
+|[VAC Live Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716649-vac-live-update.html)|`2025-09-07 20:52:00`|`Counter-Strike 2`|
 |[RustRecoilMacro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706634-rustrecoilmacro.html)|`2025-09-07 20:08:00`|`Rainbow Six Siege`|
 |[Universal Recoil &#40;like UMT program&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/617894-universal-recoil-umt-program.html)|`2025-09-07 19:51:00`|`Other FPS Games`|
 |[Deadlocked &#45; External Multi Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/711759-deadlocked-external-multi-cheat.html)|`2025-09-07 19:33:00`|`Deadlock`|
