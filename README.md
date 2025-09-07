@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hello fellow cheaters&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/715850-hello-fellow-cheaters.html)|`2025-09-07 14:23:00`|`Introductions`|
+|[Native Invoker Rage:MP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/716631-native-invoker-rage-mp.html)|`2025-09-07 14:23:00`|`Alternative Online Mods`|
 |[Leyline &#45; Guild Wars 2 Multihack and ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/guild-wars-2-a/610320-leyline-guild-wars-2-multihack-esp.html)|`2025-09-07 12:43:00`|`Guild Wars 2`|
 |[Server Dump Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/716627-server-dump-help.html)|`2025-09-07 12:24:00`|`Alternative Online Mods`|
 |[Best site for pirate games?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/716626-site-pirate-games.html)|`2025-09-07 12:20:00`|`Off Topic`|
