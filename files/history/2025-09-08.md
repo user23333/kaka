@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Skate 4 Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/514380-skate-4-internal-cheat.html)|`2025-09-08 00:47:00`|`Other Games`|
+|[Battlefront 2 Reversal and Structs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/236649-battlefront-2-reversal-structs.html)|`2025-09-08 00:44:00`|`Star Wars Battlefront 2`|
+|[Linux External ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/674732-linux-external-esp-aimbot.html)|`2025-09-08 00:44:00`|`Counter-Strike 2 Releases`|
 |[Adding Coop Seconds for Capture](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/716668-adding-coop-capture.html)|`2025-09-08 00:42:00`|`Star Wars Battlefront 2`|
 |[Valorant "Hit Sound" External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716609-valorant-hit-sound-external.html)|`2025-09-08 00:42:00`|`Valorant`|
 |[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2025-09-08 00:41:00`|`HELLDIVERS 2`|
