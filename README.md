@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;UE4&#93;Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/244709-ue4-squad.html)|`2025-09-08 00:55:00`|`Other FPS Games`|
+|[Help with bypassing vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/716669-help-bypassing-vanguard.html)|`2025-09-08 00:54:00`|`League of Legends`|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-09-08 00:51:00`|`HELLDIVERS 2`|
+|[Rage&#46;CM – Combat Master Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/713964-rage-cm-combat-master-menu.html)|`2025-09-08 00:50:00`|`Combat Master`|
 |[Skate 4 Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/514380-skate-4-internal-cheat.html)|`2025-09-08 00:47:00`|`Other Games`|
 |[Battlefront 2 Reversal and Structs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/236649-battlefront-2-reversal-structs.html)|`2025-09-08 00:44:00`|`Star Wars Battlefront 2`|
 |[Linux External ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/674732-linux-external-esp-aimbot.html)|`2025-09-08 00:44:00`|`Counter-Strike 2 Releases`|
