@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead By Daylight DMA 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714224-dead-daylight-dma-2-0-a.html)|`2025-09-08 06:14:00`|`Other FPS Games`|
+|[does bogdan problem replay glitch still work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/716614-bogdan-replay-glitch.html)|`2025-09-08 06:06:00`|`Grand Theft Auto V`|
+|[Farlight Device Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/715652-farlight-device-ban.html)|`2025-09-08 06:05:00`|`Farlight 84`|
+|[Farlight 84 Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/715803-farlight-84-internal-cheat.html)|`2025-09-08 06:02:00`|`Farlight 84`|
 |[learng game hacking for beginners](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/715862-learng-game-hacking-beginners.html)|`2025-09-08 05:54:00`|`Programming for Beginners`|
 |[Auto Update External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/614771-auto-update-external.html)|`2025-09-08 05:37:00`|`Overwatch`|
 |[DMA Radar/Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/697254-dma-radar-fuser.html)|`2025-09-08 05:36:00`|`DayZ SA`|
