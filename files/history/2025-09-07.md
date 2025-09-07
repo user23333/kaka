@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat Master CE Godmode, MEGA XP, Instant Weapon/Player Max Level, Attachment Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/583715-combat-master-ce-godmode-mega-xp-instant-weapon-player-max-level-attachment-mod.html)|`2025-09-07 23:24:00`|`Combat Master`|
 |[Oxide Engine &#124; New Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715554-oxide-engine-cheat-engine.html)|`2025-09-07 23:12:00`|`Anti-Cheat Bypass`|
 |[Insane Spike Assistant – Region Preference Tool for Sea of Thieves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/716496-insane-spike-assistant-region-preference-tool-sea-thieves.html)|`2025-09-07 23:10:00`|`Sea of Thieves`|
 |[UpdateAnimationState crashing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/716658-updateanimationstate-crashing.html)|`2025-09-07 22:58:00`|`Counterstrike Global Offensive`|
