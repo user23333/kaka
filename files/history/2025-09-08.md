@@ -24,9 +24,18 @@
 |17|[hillclimbing&#46;py](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51056)|`2025-09-08 00:20:09`|
 |7|[walkingsurvival&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51055)|`2025-09-08 00:20:09`|
 |54|[apexdumper&#95;0902](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51043)|`2025-09-08 00:20:09`|
+|77|[Helldivers 2 Sneaky Stuff v1&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51073)|`2025-09-08 11:45:23`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;outdated&#41; rust external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/716048-outdated-rust-external.html)|`2025-09-08 11:42:00`|`Rust`|
+|[PAxLM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/715607-paxlm.html)|`2025-09-08 11:36:00`|`Lethal Company`|
+|[Fast and working Valorant Triggerbot &#40;colorbot&#41; &#124; ASM Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716146-fast-valorant-triggerbot-colorbot-asm-source.html)|`2025-09-08 11:26:00`|`Valorant`|
+|[PC or laptop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716137-pc-laptop.html)|`2025-09-08 11:24:00`|`Valorant`|
+|[ProjectChimera &#45; CS2 ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/715974-projectchimera-cs2-esp.html)|`2025-09-08 11:22:00`|`Counter-Strike 2 Releases`|
+|[Split Second CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715998-split-ct.html)|`2025-09-08 11:20:00`|`Other Games`|
+|[SastashaFied Bo1 SP/ZM Mod Menu for Plutonium T5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/710176-sastashafied-bo1-sp-zm-mod-menu-plutonium-t5.html)|`2025-09-08 11:18:00`|`Call of Duty: Black Ops`|
+|[is 1 pc kmbox net still safe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716551-1-pc-kmbox-net-safe.html)|`2025-09-08 11:18:00`|`Valorant`|
 |[MapleDumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/715829-mapledumper.html)|`2025-09-08 11:13:00`|`C and C++`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-09-08 11:12:00`|`Overwatch`|
 |[Among us Radar/Logs cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/716719-radar-logs-cheat.html)|`2025-09-08 11:04:00`|`Among Us`|
