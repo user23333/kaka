@@ -29,9 +29,13 @@
 |1|[modmenucrew 5&#46;3&#46;0 dll &#40;fixed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51062)|`2025-09-08 12:14:23`|
 |2|[SastashaFied T5 Sp/Zm ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51069)|`2025-09-08 12:35:13`|
 |1|[Mycopunk&#95;hax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51070)|`2025-09-08 12:45:51`|
+|1|[Helldivers 2 &#45; SHM Lite v1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51078)|`2025-09-08 12:52:02`|
+|1|[Helldivers 2 &#45; Stratagem Hotkey Manager v1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51077)|`2025-09-08 12:52:02`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Helldivers 2 &#45; Stratagem Hotkey Manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/708700-helldivers-2-stratagem-hotkey-manager.html)|`2025-09-08 12:51:00`|`HELLDIVERS 2`|
+|[SastashaFied CM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/713872-sastashafied-cm.html)|`2025-09-08 12:47:00`|`Combat Master`|
 |[MyCoPunk Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716230-mycopunk-internal.html)|`2025-09-08 12:45:00`|`Other FPS Games`|
 |[Tanks Blitz &#40;Lesta&#41; ESP Player's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/711725-tanks-blitz-lesta-esp-players.html)|`2025-09-08 12:43:00`|`Other MMORPG and Strategy`|
 |[CrossFire PH D3D Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/716575-crossfire-ph-d3d-aimbot.html)|`2025-09-08 12:28:00`|`CrossFire`|
