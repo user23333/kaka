@@ -44,6 +44,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Candy Crush Friends Saga &#40;Windows Store Version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/713682-candy-crush-friends-saga-windows-store-version.html)|`2025-09-08 19:25:00`|`Cheat Engine Tables`|
+|[&#91;S26&#93; 100% Superglide Macro &#45; MnK & Controller &#45; Works on Steam & EA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/712312-s26-100-superglide-macro-mnk-controller-steam-ea.html)|`2025-09-08 19:15:00`|`Apex Legends`|
 |[PEB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/684460-peb.html)|`2025-09-08 19:09:00`|`Call of Duty: Black Ops 6`|
 |[CarX Drift Racing Online &#45; Advanced Selector Spammer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/710404-carx-drift-racing-online-advanced-selector-spammer.html)|`2025-09-08 18:58:00`|`Other Games`|
 |[SmokeySense &#45; Custom C&#35; &#40;&#46;NET 4&#46;8&#41; Undetected External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/715659-smokeysense-custom-net-4-8-undetected-external-cheat.html)|`2025-09-08 18:40:00`|`Counter-Strike 2 Releases`|
