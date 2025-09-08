@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Mobile 3&#46;9 PAK Decryption – Core Function Overview](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/712748-pubg-mobile-3-9-pak-decryption-core-function-overview.html)|`2025-09-09 05:16:00`|`PUBG Mobile`|
 |[RONFentry &#45; Ready or Not Internal, Feature&#45;Packed Multitool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716446-ronfentry-ready-internal-feature-packed-multitool.html)|`2025-09-09 04:53:00`|`Other FPS Games`|
 |[Valorant HWID ban &#45; Unable to flash via BIOS HP&#45;8CAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716697-valorant-hwid-ban-unable-flash-via-bios-hp-8cac.html)|`2025-09-09 04:52:00`|`Valorant`|
 |[DeadByDaylight external &#91;Steam&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715450-deadbydaylight-external-steam.html)|`2025-09-09 04:50:00`|`Other Games`|
