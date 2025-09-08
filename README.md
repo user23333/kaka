@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/716321-offsets.html)|`2025-09-09 07:03:00`|`PlanetSide 2`|
+|[external tracers/hitmarkers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/716877-external-tracers-hitmarkers.html)|`2025-09-09 07:01:00`|`Escape from Tarkov`|
+|[Planetside 2 Anticheat BattlEye Bypass &#40;braidead edition&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/712951-planetside-2-anticheat-battleye-bypass-braidead-edition.html)|`2025-09-09 07:01:00`|`PlanetSide 2`|
 |[r6 ai models](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/716876-r6-ai-models.html)|`2025-09-09 06:51:00`|`Rainbow Six Siege`|
 |[Interesting Video regarding programming/revsering for game hacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/716875-video-regarding-programming-revsering-game-hacking.html)|`2025-09-09 06:48:00`|`General Programming and Reversing`|
 |[Dummy ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716874-dummy-esp.html)|`2025-09-09 06:47:00`|`Apex Legends`|
