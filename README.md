@@ -45,6 +45,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rematch AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/707035-rematch-ahk.html)|`2025-09-08 19:39:00`|`Other Games`|
 |[impossible to make VGK dma fw?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716761-impossible-vgk-dma-fw.html)|`2025-09-08 19:30:00`|`Valorant`|
 |[Candy Crush Friends Saga &#40;Windows Store Version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/713682-candy-crush-friends-saga-windows-store-version.html)|`2025-09-08 19:25:00`|`Cheat Engine Tables`|
 |[&#91;S26&#93; 100% Superglide Macro &#45; MnK & Controller &#45; Works on Steam & EA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/712312-s26-100-superglide-macro-mnk-controller-steam-ea.html)|`2025-09-08 19:15:00`|`Apex Legends`|
