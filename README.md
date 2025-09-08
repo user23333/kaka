@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Color filtering, object filtering vs other methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716845-color-filtering-object-filtering-vs-methods.html)|`2025-09-09 03:30:00`|`Valorant`|
 |[autoclicker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/714957-autoclicker.html)|`2025-09-09 03:26:00`|`Escape from Tarkov`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-09-09 03:24:00`|`Other FPS Games`|
 |[Simple handle hijacking method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716633-simple-handle-hijacking-method.html)|`2025-09-09 03:19:00`|`Counter-Strike 2`|
