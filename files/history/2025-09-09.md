@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[r6 ai models](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/716876-r6-ai-models.html)|`2025-09-09 06:51:00`|`Rainbow Six Siege`|
+|[Interesting Video regarding programming/revsering for game hacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/716875-video-regarding-programming-revsering-game-hacking.html)|`2025-09-09 06:48:00`|`General Programming and Reversing`|
+|[Dummy ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716874-dummy-esp.html)|`2025-09-09 06:47:00`|`Apex Legends`|
 |[MCC Toolbox &#45; Trainer supports Halo Reach, Halo CE, Halo 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/397845-mcc-toolbox-trainer-supports-halo-reach-halo-ce-halo-2-a.html)|`2025-09-09 06:31:00`|`Halo`|
 |[Help with bypassing vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/716669-help-bypassing-vanguard.html)|`2025-09-09 06:22:00`|`League of Legends`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-09-09 05:57:00`|`Grand Theft Auto V`|
