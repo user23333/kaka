@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How would i create bounding box esp on dropped weapons?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716812-create-bounding-box-esp-dropped-weapons.html)|`2025-09-09 01:55:00`|`Counter-Strike 2`|
+|[SendClanTag](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716056-sendclantag.html)|`2025-09-09 01:55:00`|`Counter-Strike 2`|
 |[Bloodhunt Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/715768-bloodhunt-internal.html)|`2025-09-09 01:49:00`|`Other FPS Games`|
 |[Asrock b650m does not save UUID with DMIEDIT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/689573-asrock-b650m-save-uuid-dmiedit.html)|`2025-09-09 01:46:00`|`Valorant`|
 |[how to make Explode Player in External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/716663-explode-player-external.html)|`2025-09-09 01:39:00`|`Alternative Online Mods`|
