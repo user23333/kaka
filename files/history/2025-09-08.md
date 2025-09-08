@@ -28,9 +28,12 @@
 |4|[EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51068)|`2025-09-08 11:56:17`|
 |1|[modmenucrew 5&#46;3&#46;0 dll &#40;fixed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51062)|`2025-09-08 12:14:23`|
 |2|[SastashaFied T5 Sp/Zm ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51069)|`2025-09-08 12:35:13`|
+|1|[Mycopunk&#95;hax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51070)|`2025-09-08 12:45:51`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MyCoPunk Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716230-mycopunk-internal.html)|`2025-09-08 12:45:00`|`Other FPS Games`|
+|[Tanks Blitz &#40;Lesta&#41; ESP Player's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/711725-tanks-blitz-lesta-esp-players.html)|`2025-09-08 12:43:00`|`Other MMORPG and Strategy`|
 |[CrossFire PH D3D Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/716575-crossfire-ph-d3d-aimbot.html)|`2025-09-08 12:28:00`|`CrossFire`|
 |[VGM&#46;EXE IS SCANNING YOUR GITHUB REPOS SAVED LOCAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716490-vgm-exe-scanning-github-repos-saved-local.html)|`2025-09-08 12:18:00`|`Valorant`|
 |[Black Ops 1 Plutonium T5 Sp/Zm ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/716225-black-ops-1-plutonium-t5-sp-zm-esp.html)|`2025-09-08 12:14:00`|`Call of Duty: Black Ops`|
