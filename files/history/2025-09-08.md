@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MapleDumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/715829-mapledumper.html)|`2025-09-08 11:13:00`|`C and C++`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-09-08 11:12:00`|`Overwatch`|
+|[Among us Radar/Logs cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/716719-radar-logs-cheat.html)|`2025-09-08 11:04:00`|`Among Us`|
+|[How do I get medals from each player's TAB menu?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716566-medals-players-tab-menu.html)|`2025-09-08 10:42:00`|`Counter-Strike 2`|
 |[RONFentry &#45; Ready or Not Internal, Feature&#45;Packed Multitool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716446-ronfentry-ready-internal-feature-packed-multitool.html)|`2025-09-08 10:11:00`|`Other FPS Games`|
 |[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-09-08 09:35:00`|`Other FPS Games`|
 |[any cheats to play legacy that i can also play with friends at the same time](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/716603-cheats-play-legacy-play-friends-time.html)|`2025-09-08 08:26:00`|`Grand Theft Auto V`|
