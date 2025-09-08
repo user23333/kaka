@@ -45,6 +45,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Palworld Internal DX11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/710102-palworld-internal-dx11.html)|`2025-09-08 20:34:00`|`Palworld`|
+|[Mage arena &#91;full cheat&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/711876-mage-arena-cheat.html)|`2025-09-08 20:16:00`|`Other MMORPG and Strategy`|
+|[FOV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/714239-fov.html)|`2025-09-08 20:11:00`|`Sea of Thieves`|
 |[Rematch AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/707035-rematch-ahk.html)|`2025-09-08 19:39:00`|`Other Games`|
 |[impossible to make VGK dma fw?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716761-impossible-vgk-dma-fw.html)|`2025-09-08 19:30:00`|`Valorant`|
 |[Candy Crush Friends Saga &#40;Windows Store Version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/713682-candy-crush-friends-saga-windows-store-version.html)|`2025-09-08 19:25:00`|`Cheat Engine Tables`|
