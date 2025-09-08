@@ -39,9 +39,12 @@
 |1|[Hollow Knight Silksong Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51105)|`2025-09-08 18:59:13`|
 |1|[Hollow Knight Silksong Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51104)|`2025-09-08 18:59:13`|
 |1|[CarXSpammer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51103)|`2025-09-08 18:59:13`|
+|1|[LevelSpoofMod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51102)|`2025-09-08 19:14:38`|
+|1|[ESP&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51101)|`2025-09-08 19:14:38`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PEB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/684460-peb.html)|`2025-09-08 19:09:00`|`Call of Duty: Black Ops 6`|
 |[CarX Drift Racing Online &#45; Advanced Selector Spammer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/710404-carx-drift-racing-online-advanced-selector-spammer.html)|`2025-09-08 18:58:00`|`Other Games`|
 |[SmokeySense &#45; Custom C&#35; &#40;&#46;NET 4&#46;8&#41; Undetected External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/715659-smokeysense-custom-net-4-8-undetected-external-cheat.html)|`2025-09-08 18:40:00`|`Counter-Strike 2 Releases`|
 |[mono UnityEngine DrawTexture doesnt work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/716753-mono-unityengine-drawtexture-doesnt.html)|`2025-09-08 18:24:00`|`Unity`|
