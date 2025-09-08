@@ -31,6 +31,7 @@
 |1|[Mycopunk&#95;hax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51070)|`2025-09-08 12:45:51`|
 |1|[Helldivers 2 &#45; SHM Lite v1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51078)|`2025-09-08 12:52:02`|
 |1|[Helldivers 2 &#45; Stratagem Hotkey Manager v1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51077)|`2025-09-08 12:52:02`|
+|1|[SastashaFied CM v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51071)|`2025-09-08 12:57:58`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
