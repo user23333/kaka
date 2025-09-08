@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SmokeySense &#45; Custom C&#35; &#40;&#46;NET 4&#46;8&#41; Undetected External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/715659-smokeysense-custom-net-4-8-undetected-external-cheat.html)|`2025-09-08 18:40:00`|`Counter-Strike 2 Releases`|
 |[mono UnityEngine DrawTexture doesnt work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/716753-mono-unityengine-drawtexture-doesnt.html)|`2025-09-08 18:24:00`|`Unity`|
 |[RogueCompany external esp &#43; aim updated 4fun](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/706912-roguecompany-external-esp-aim-updated-4fun.html)|`2025-09-08 18:05:00`|`Other FPS Games`|
 |[Reading dropped entities / items](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716750-reading-dropped-entities-items.html)|`2025-09-08 17:59:00`|`Counter-Strike 2`|
