@@ -27,9 +27,13 @@
 |77|[Helldivers 2 Sneaky Stuff v1&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51073)|`2025-09-08 11:45:23`|
 |4|[EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51068)|`2025-09-08 11:56:17`|
 |1|[modmenucrew 5&#46;3&#46;0 dll &#40;fixed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51062)|`2025-09-08 12:14:23`|
+|2|[SastashaFied T5 Sp/Zm ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51069)|`2025-09-08 12:35:13`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CrossFire PH D3D Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/716575-crossfire-ph-d3d-aimbot.html)|`2025-09-08 12:28:00`|`CrossFire`|
+|[VGM&#46;EXE IS SCANNING YOUR GITHUB REPOS SAVED LOCAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716490-vgm-exe-scanning-github-repos-saved-local.html)|`2025-09-08 12:18:00`|`Valorant`|
+|[Black Ops 1 Plutonium T5 Sp/Zm ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/716225-black-ops-1-plutonium-t5-sp-zm-esp.html)|`2025-09-08 12:14:00`|`Call of Duty: Black Ops`|
 |[Mod Menu Crew v5&#46;3&#46;0  Definitive Edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/716042-mod-menu-crew-v5-3-0-definitive-edition.html)|`2025-09-08 12:02:00`|`Among Us`|
 |[Mw2/iw4x internal mod menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/709486-mw2-iw4x-internal-mod-menu.html)|`2025-09-08 11:58:00`|`Call of Duty 6: Modern Warfare 2`|
 |[External B06 &#40;ESP &#43; Name &#43; Health &#43; KD, etc&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/713576-external-b06-esp-name-health-kd-etc.html)|`2025-09-08 11:54:00`|`Call of Duty: Black Ops 6`|
