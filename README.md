@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to get max entities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716840-max-entities.html)|`2025-09-09 02:52:00`|`Counter-Strike 2`|
 |[Where should I start?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716768-start.html)|`2025-09-09 02:49:00`|`Anti-Cheat Bypass`|
 |[Mod Menu Crew v5&#46;3&#46;0  Definitive Edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/716042-mod-menu-crew-v5-3-0-definitive-edition.html)|`2025-09-09 02:44:00`|`Among Us`|
 |[is there any working cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/708976-cheats.html)|`2025-09-09 02:42:00`|`Among Us`|
