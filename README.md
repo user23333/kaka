@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RogueCompany external esp &#43; aim updated 4fun](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/706912-roguecompany-external-esp-aim-updated-4fun.html)|`2025-09-08 18:05:00`|`Other FPS Games`|
+|[Reading dropped entities / items](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716750-reading-dropped-entities-items.html)|`2025-09-08 17:59:00`|`Counter-Strike 2`|
 |[Undetectable among us Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/637492-undetectable-cheat.html)|`2025-09-08 17:32:00`|`Among Us`|
 |[PUBG Mobile 3&#46;9 PAK Decryption – Core Function Overview](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/712748-pubg-mobile-3-9-pak-decryption-core-function-overview.html)|`2025-09-08 17:32:00`|`PUBG Mobile`|
 |[K/D ratio change](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/716749-ratio-change.html)|`2025-09-08 17:17:00`|`Grand Theft Auto V`|
