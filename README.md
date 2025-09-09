@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SendClanTag](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716056-sendclantag.html)|`2025-09-10 01:09:00`|`Counter-Strike 2`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-09-10 01:09:00`|`Other FPS Games`|
+|[VGM&#46;EXE IS SCANNING YOUR GITHUB REPOS SAVED LOCAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716490-vgm-exe-scanning-github-repos-saved-local.html)|`2025-09-10 01:03:00`|`Valorant`|
+|[Farlight 84 Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/715803-farlight-84-internal-cheat.html)|`2025-09-10 00:58:00`|`Farlight 84`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-09-10 00:56:00`|`Rust`|
 |[Does Valorant ban peripherals?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716955-valorant-ban-peripherals.html)|`2025-09-10 00:52:00`|`Valorant`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-09-10 00:52:00`|`Other Games`|
 |[Oreo Rivals &#91;Internal Cheat With External Overlay And New Hooking &#43; Silent Aim&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/707135-oreo-rivals-internal-cheat-external-overlay-hooking-silent-aim.html)|`2025-09-10 00:39:00`|`Marvel Rivals`|
