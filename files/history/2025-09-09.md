@@ -11,6 +11,7 @@
 |9|[VGM&#46;EXE IS SCANNING YOUR GITHUB REPOS SAVED LOCAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716490-vgm-exe-scanning-github-repos-saved-local.html)|`2025-09-09 00:22:56`|`valorant`|
 |12|[Best way to earn money in the new gta enhanced version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/716147-earn-money-gta-enhanced-version.html)|`2025-09-09 00:22:56`|`grand-theft-auto-v`|
 |3|[Fastest Valorant Triggerbot &#40;colorbot&#41; &#124; work perfect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716043-fastest-valorant-triggerbot-colorbot-perfect.html)|`2025-09-09 00:22:56`|`valorant`|
+|18|[Simple handle hijacking method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716633-simple-handle-hijacking-method.html)|`2025-09-09 22:30:53`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to spoof functions ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/711661-spoof-functions.html)|`2025-09-09 22:19:00`|`Alternative Online Mods`|
+|[Injecytion or sum](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/715770-injecytion-sum.html)|`2025-09-09 22:04:00`|`Star Wars Battlefront 2`|
 |[CrossFire PH D3D Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/716575-crossfire-ph-d3d-aimbot.html)|`2025-09-09 22:07:00`|`CrossFire`|
 |[pciLeech firmware board compatibility](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716847-pcileech-firmware-board-compatibility.html)|`2025-09-09 22:04:00`|`Anti-Cheat Bypass`|
 |[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2025-09-09 22:01:00`|`Counter-Strike 2 Releases`|
