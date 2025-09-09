@@ -26,9 +26,12 @@
 |1841|[Helldivers 2 Sneaky Stuff v1&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51073)|`2025-09-09 00:22:56`|
 |3|[Valorant Trigger Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51110)|`2025-09-09 14:53:25`|
 |1|[Flectorite 2&#46;4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51109)|`2025-09-09 14:59:14`|
+|1|[RazeHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51108)|`2025-09-09 15:17:23`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-09-09 15:10:00`|`Other FPS Games`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-09-09 15:10:00`|`Alternative Online Mods`|
 |[chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/716653-chams.html)|`2025-09-09 14:58:00`|`Rust`|
 |[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-09-09 14:57:00`|`Other FPS Games`|
 |[PEAK &#45; Internal &#40;ESP, Item Spawner, and more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/716905-peak-internal-esp-item-spawner.html)|`2025-09-09 14:51:00`|`Other Games`|
