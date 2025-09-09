@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-09-09 22:36:00`|`Other FPS Games`|
+|[Chivalry 2 Creating your owns &#46;PAK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716143-chivalry-2-creating-owns-pak.html)|`2025-09-09 22:28:00`|`Other FPS Games`|
 |[How to spoof functions ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/711661-spoof-functions.html)|`2025-09-09 22:19:00`|`Alternative Online Mods`|
 |[Injecytion or sum](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/715770-injecytion-sum.html)|`2025-09-09 22:04:00`|`Star Wars Battlefront 2`|
 |[CrossFire PH D3D Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/716575-crossfire-ph-d3d-aimbot.html)|`2025-09-09 22:07:00`|`CrossFire`|
