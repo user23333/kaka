@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-09-09 21:46:00`|`Other Games`|
+|[Battleye blocked my DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716747-battleye-blocked-dll.html)|`2025-09-09 21:43:00`|`Anti-Cheat Bypass`|
+|[IsVehicleSeatFree External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/716651-isvehicleseatfree-external.html)|`2025-09-09 21:40:00`|`Alternative Online Mods`|
 |[&#91;RELEASE&#93; Codex External ESP &#43; Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/716934-release-codex-external-esp-aim.html)|`2025-09-09 21:23:00`|`Counter-Strike 2 Releases`|
 |[valorant 3&#46; what has changed in banda](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716373-valorant-3-changed-banda.html)|`2025-09-09 21:13:00`|`Valorant`|
 |[Farlight Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/716531-farlight-internal-cheat.html)|`2025-09-09 21:12:00`|`Farlight 84`|
