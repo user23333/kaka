@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[knife only changes sometimes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716884-knife-changes-sometimes.html)|`2025-09-09 23:51:00`|`Counter-Strike 2`|
 |[Tarkov ban bypass&#46; Never banned before&#46; Asus laptop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/713993-tarkov-ban-bypass-banned-asus-laptop.html)|`2025-09-09 23:47:00`|`Escape from Tarkov`|
 |[Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/465314-super-animal-royale-hack.html)|`2025-09-09 22:51:00`|`Other Games`|
 |[Entity Patterns and Weapon Class](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716945-entity-patterns-weapon-class.html)|`2025-09-09 22:50:00`|`Counter-Strike 2`|
