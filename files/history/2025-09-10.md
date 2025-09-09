@@ -11,6 +11,7 @@
 |3|[Fastest Valorant Triggerbot &#40;colorbot&#41; &#124; work perfect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716043-fastest-valorant-triggerbot-colorbot-perfect.html)|`2025-09-10 00:13:46`|`valorant`|
 |18|[Simple handle hijacking method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716633-simple-handle-hijacking-method.html)|`2025-09-10 00:13:46`|`counter-strike-2-a`|
 |3|[destiny rising hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716087-destiny-rising-hack.html)|`2025-09-10 00:13:46`|`other-fps-games`|
+|16|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-09-10 00:49:48`|`apex-legends`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Oreo Rivals &#91;Internal Cheat With External Overlay And New Hooking &#43; Silent Aim&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/707135-oreo-rivals-internal-cheat-external-overlay-hooking-silent-aim.html)|`2025-09-10 00:39:00`|`Marvel Rivals`|
+|[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-09-10 00:37:00`|`Other FPS Games`|
 |[&#91;UE4&#93;Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/244709-ue4-squad.html)|`2025-09-10 00:33:00`|`Other FPS Games`|
 |[destiny rising hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716087-destiny-rising-hack.html)|`2025-09-10 00:32:00`|`Other FPS Games`|
 |[How would i create bounding box esp on dropped weapons?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716812-create-bounding-box-esp-dropped-weapons.html)|`2025-09-10 00:28:00`|`Counter-Strike 2`|
