@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2025-09-09 17:16:00`|`Other FPS Games`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-09-09 17:14:00`|`Valorant`|
+|[Testing cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716725-testing-cheats.html)|`2025-09-09 17:12:00`|`Valorant`|
+|[May I ask how to use some scripts to achieve a semi&#45;invincible effect for teammates?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/716914-scripts-achieve-semi-invincible-effect-teammates.html)|`2025-09-09 17:09:00`|`Grand Theft Auto V`|
+|[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-09-09 16:59:00`|`Other FPS Games`|
 |[How do game traces exist even after uninstalling?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/708364-game-traces-exist-uninstalling.html)|`2025-09-09 16:33:00`|`Forum General`|
 |[How do people make their cheats undetectable?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/715457-people-cheats-undetectable.html)|`2025-09-09 16:26:00`|`Forum General`|
 |[&#46;ino for help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/716704-ino-help.html)|`2025-09-09 16:12:00`|`Rust`|
