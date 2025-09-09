@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Post your Menu/GUI Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/68024-post-menu-gui-framework.html)|`2025-09-09 12:45:00`|`C and C++`|
 |[Aimbot keeps crashing the game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715817-aimbot-crashing-game.html)|`2025-09-09 12:37:00`|`Counter-Strike 2`|
 |[Simple ESP for cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710038-simple-esp-cs2.html)|`2025-09-09 12:28:00`|`Counter-Strike 2`|
 |[PlayerGets WeaponId/FlashBangTime/Flags/ClassName/Pawn&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716898-playergets-weaponid-flashbangtime-flags-classname-pawn.html)|`2025-09-09 12:24:00`|`Counter-Strike 2`|
