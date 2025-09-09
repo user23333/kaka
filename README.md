@@ -30,9 +30,16 @@
 |2|[ESP&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51113)|`2025-09-09 21:08:41`|
 |3|[PEAK &#45; Internal ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51111)|`2025-09-09 21:08:41`|
 |1|[rust&#45;project&#45;09&#46;rar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51107)|`2025-09-09 21:56:59`|
+|1|[EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51117)|`2025-09-09 22:11:13`|
+|1|[GFusion V2&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51112)|`2025-09-09 22:11:13`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CrossFire PH D3D Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/716575-crossfire-ph-d3d-aimbot.html)|`2025-09-09 22:07:00`|`CrossFire`|
+|[pciLeech firmware board compatibility](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716847-pcileech-firmware-board-compatibility.html)|`2025-09-09 22:04:00`|`Anti-Cheat Bypass`|
+|[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2025-09-09 22:01:00`|`Counter-Strike 2 Releases`|
+|[Russian visual toolkit cracked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716567-russian-visual-toolkit-cracked.html)|`2025-09-09 22:00:00`|`Counter-Strike 2`|
+|[Set viewangles before shooting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716940-set-viewangles-shooting.html)|`2025-09-09 21:57:00`|`Counter-Strike 2`|
 |[Gorebox Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716525-gorebox-internal-cheat.html)|`2025-09-09 21:55:00`|`Other FPS Games`|
 |[Chivalry 2 CHEAT AF4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/710526-chivalry-2-cheat-af4.html)|`2025-09-09 21:54:00`|`Other Games`|
 |[basic rust external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/716583-basic-rust-external-base.html)|`2025-09-09 21:51:00`|`Rust`|
