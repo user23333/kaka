@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-09-10 03:30:00`|`Apex Legends`|
+|[apex rage cheat &#40;external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705590-apex-rage-cheat-external.html)|`2025-09-10 03:29:00`|`Apex Legends`|
 |[Fast and working Valorant Triggerbot &#40;colorbot&#41; &#124; ASM Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716146-fast-valorant-triggerbot-colorbot-asm-source.html)|`2025-09-10 03:23:00`|`Valorant`|
 |[valorant external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/715247-valorant-external.html)|`2025-09-10 03:09:00`|`Valorant`|
 |[How to Sign Our Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716969-sign-driver.html)|`2025-09-10 03:09:00`|`Valorant`|
