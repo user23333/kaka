@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;Steam&#41; Into the Dead &#45; Our Darkest Days Cheat Engine Assembly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/716897-steam-dead-darkest-days-cheat-engine-assembly.html)|`2025-09-09 12:18:00`|`Other Games`|
+|[Dead By Daylight DMA 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714224-dead-daylight-dma-2-0-a.html)|`2025-09-09 12:09:00`|`Other FPS Games`|
+|[Elite Dangerous Farming Credits for Billions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/691253-elite-dangerous-farming-credits-billions.html)|`2025-09-09 12:01:00`|`Elite: Dangerous`|
+|[Arduino or rp2040 to realize keyboard and mouse and apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/715901-arduino-rp2040-realize-keyboard-mouse-apex-macro.html)|`2025-09-09 11:59:00`|`Apex Legends`|
 |[how to bypass the Easy Anti Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716706-bypass-easy-anti-cheat.html)|`2025-09-09 11:31:00`|`Anti-Cheat Bypass`|
 |[mono UnityEngine DrawTexture doesnt work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/716753-mono-unityengine-drawtexture-doesnt.html)|`2025-09-09 11:23:00`|`Unity`|
 |[Valorant Trigger Bot &#40;Working&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716890-valorant-trigger-bot.html)|`2025-09-09 11:12:00`|`Valorant`|
