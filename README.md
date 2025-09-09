@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Aimbot keeps crashing the game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715817-aimbot-crashing-game.html)|`2025-09-09 12:37:00`|`Counter-Strike 2`|
+|[Simple ESP for cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710038-simple-esp-cs2.html)|`2025-09-09 12:28:00`|`Counter-Strike 2`|
+|[PlayerGets WeaponId/FlashBangTime/Flags/ClassName/Pawn&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716898-playergets-weaponid-flashbangtime-flags-classname-pawn.html)|`2025-09-09 12:24:00`|`Counter-Strike 2`|
 |[&#40;Steam&#41; Into the Dead &#45; Our Darkest Days Cheat Engine Assembly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/716897-steam-dead-darkest-days-cheat-engine-assembly.html)|`2025-09-09 12:18:00`|`Other Games`|
 |[Dead By Daylight DMA 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714224-dead-daylight-dma-2-0-a.html)|`2025-09-09 12:09:00`|`Other FPS Games`|
 |[Elite Dangerous Farming Credits for Billions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/691253-elite-dangerous-farming-credits-billions.html)|`2025-09-09 12:01:00`|`Elite: Dangerous`|
