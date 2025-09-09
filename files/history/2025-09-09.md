@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#46;ino for help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/716704-ino-help.html)|`2025-09-09 16:12:00`|`Rust`|
+|[Incorrect aimbot math](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/716909-incorrect-aimbot-math.html)|`2025-09-09 16:00:00`|`Alternative Online Mods`|
 |[New EAC Fortnite HWID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716908-eac-fortnite-hwid.html)|`2025-09-09 15:53:00`|`Anti-Cheat Bypass`|
 |[ZeroPoint &#45; External Cheat &#40;My first external cheat&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715973-zeropoint-external-cheat-external-cheat.html)|`2025-09-09 15:28:00`|`Counter-Strike 2`|
 |[Force Mapping Virtual Address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716907-force-mapping-virtual-address.html)|`2025-09-09 15:26:00`|`Anti-Cheat Bypass`|
