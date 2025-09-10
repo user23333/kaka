@@ -15,6 +15,7 @@
 |19|[basic rust external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/716583-basic-rust-external-base.html)|`2025-09-10 13:59:45`|`rust`|
 |8|[Fast and working Valorant Triggerbot &#40;colorbot&#41; &#124; ASM Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716146-fast-valorant-triggerbot-colorbot-asm-source.html)|`2025-09-10 14:28:21`|`valorant`|
 |10|[valorant 3&#46; what has changed in banda](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716373-valorant-3-changed-banda.html)|`2025-09-10 16:15:31`|`valorant`|
+|12|[Farlight Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/716531-farlight-internal-cheat.html)|`2025-09-10 16:38:25`|`farlight-84-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
