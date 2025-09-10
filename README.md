@@ -14,6 +14,7 @@
 |16|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-09-10 00:49:48`|`apex-legends`|
 |19|[basic rust external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/716583-basic-rust-external-base.html)|`2025-09-10 13:59:45`|`rust`|
 |8|[Fast and working Valorant Triggerbot &#40;colorbot&#41; &#124; ASM Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716146-fast-valorant-triggerbot-colorbot-asm-source.html)|`2025-09-10 14:28:21`|`valorant`|
+|10|[valorant 3&#46; what has changed in banda](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716373-valorant-3-changed-banda.html)|`2025-09-10 16:15:31`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -39,6 +40,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[handle hijack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716688-handle-hijack.html)|`2025-09-10 15:58:00`|`Anti-Cheat Bypass`|
+|[Welcoming back a familiar face and one more new addition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/716693-welcoming-familiar-addition.html)|`2025-09-10 15:58:00`|`Information and Announcements`|
 |[Pubgmobile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/716671-pubgmobile.html)|`2025-09-10 15:54:00`|`PUBG Mobile`|
 |[Why ppl use bbypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/716782-ppl-bbypass.html)|`2025-09-10 15:52:00`|`Grand Theft Auto V`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-09-10 15:44:00`|`Playerunknown's Battlegrounds`|
