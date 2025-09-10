@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant cr3 reading and decrypting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/717075-valorant-cr3-reading-decrypting.html)|`2025-09-11 00:52:00`|`Valorant`|
+|[External radar hack &#40;read&#45;only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715989-external-radar-hack-read.html)|`2025-09-11 00:48:00`|`Counter-Strike 2`|
 |[DMA unblocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716636-dma-unblocker.html)|`2025-09-11 00:39:00`|`Anti-Cheat Bypass`|
 |[Skipping company missions alone &#40;You need to enter the battle&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/717072-skipping-company-missions-enter-battle.html)|`2025-09-11 00:38:00`|`Warface`|
 |[Arduino or rp2040 to realize keyboard and mouse and apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/715901-arduino-rp2040-realize-keyboard-mouse-apex-macro.html)|`2025-09-11 00:31:00`|`Apex Legends`|
