@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[aimbot delay or smth](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716980-aimbot-delay-smth.html)|`2025-09-11 02:53:00`|`Counter-Strike 2`|
+|[&#40;Legacy&#41; Best way of Making Money with Yim Menu &#40;no FSL&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/717087-legacy-money-yim-menu-fsl.html)|`2025-09-11 02:53:00`|`Grand Theft Auto V`|
 |[what are the vgk detection vectors for hypervisor with secure boot and tpm?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717084-vgk-detection-vectors-hypervisor-secure-boot-tpm.html)|`2025-09-11 02:05:00`|`Anti-Cheat Bypass`|
 |[Custom MAKCU firmware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714910-custom-makcu-firmware.html)|`2025-09-11 02:04:00`|`Valorant`|
 |[Still Getting Delayed HWID Ban in LoL After Full Spoof & Clean Setup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698935-getting-delayed-hwid-ban-lol-spoof-clean-setup.html)|`2025-09-11 02:03:00`|`Anti-Cheat Bypass`|
