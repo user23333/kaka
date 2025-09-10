@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PAxLM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/715607-paxlm.html)|`2025-09-11 07:50:00`|`Lethal Company`|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-09-11 07:40:00`|`Other Games`|
+|[Deliver Charge ids](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/717053-deliver-charge-ids.html)|`2025-09-11 07:29:00`|`Payday 3`|
+|[External Offsets 4&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/716103-external-offsets-4-0-a.html)|`2025-09-11 07:17:00`|`PUBG Mobile`|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-09-11 07:12:00`|`Other FPS Games`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-09-11 07:44:00`|`Counter-Strike 2`|
 |[OpenFront hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/711429-openfront-hack.html)|`2025-09-11 07:20:00`|`Other MMORPG and Strategy`|
 |[Best way to earn money in the new gta enhanced version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/716147-earn-money-gta-enhanced-version.html)|`2025-09-11 07:05:00`|`Grand Theft Auto V`|
