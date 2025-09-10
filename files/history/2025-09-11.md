@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-09-11 00:57:00`|`Grand Theft Auto V`|
 |[Valorant cr3 reading and decrypting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/717075-valorant-cr3-reading-decrypting.html)|`2025-09-11 00:52:00`|`Valorant`|
 |[External radar hack &#40;read&#45;only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715989-external-radar-hack-read.html)|`2025-09-11 00:48:00`|`Counter-Strike 2`|
 |[DMA unblocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716636-dma-unblocker.html)|`2025-09-11 00:39:00`|`Anti-Cheat Bypass`|
