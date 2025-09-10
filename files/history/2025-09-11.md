@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kdmapper Kmode&#95;exception&#95;not&#95;handled](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717090-kdmapper-kmode_exception_not_handled.html)|`2025-09-11 03:39:00`|`Anti-Cheat Bypass`|
 |[Deadzone Rogue Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717089-deadzone-rogue-internal.html)|`2025-09-11 03:27:00`|`Other FPS Games`|
 |[ekknod WiFi firmware safe? &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/717088-ekknod-wifi-firmware-safe-dma.html)|`2025-09-11 03:22:00`|`Escape from Tarkov`|
 |[&#91;UE4&#93;Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/244709-ue4-squad.html)|`2025-09-11 03:07:00`|`Other FPS Games`|
