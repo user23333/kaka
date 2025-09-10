@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[what are the vgk detection vectors for hypervisor with secure boot and tpm?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717084-vgk-detection-vectors-hypervisor-secure-boot-tpm.html)|`2025-09-11 02:05:00`|`Anti-Cheat Bypass`|
+|[Custom MAKCU firmware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714910-custom-makcu-firmware.html)|`2025-09-11 02:04:00`|`Valorant`|
+|[Still Getting Delayed HWID Ban in LoL After Full Spoof & Clean Setup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/698935-getting-delayed-hwid-ban-lol-spoof-clean-setup.html)|`2025-09-11 02:03:00`|`Anti-Cheat Bypass`|
+|[RONFentry &#45; Ready or Not Internal, Feature&#45;Packed Multitool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716446-ronfentry-ready-internal-feature-packed-multitool.html)|`2025-09-11 02:02:00`|`Other FPS Games`|
+|[How to Grind infinit HG Wins, Levels and Money](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/680032-grind-infinit-hg-wins-levels-money.html)|`2025-09-11 02:01:00`|`Sea of Thieves`|
 |[How to make custom FW for DMA &#40;FPGA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/713804-custom-fw-dma-fpga.html)|`2025-09-11 01:48:00`|`Programming for Beginners`|
 |[C&#35; executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/716981-executor.html)|`2025-09-11 01:48:00`|`Alternative Online Mods`|
 |[Detection vectors for PCIe DMA cards with EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715988-detection-vectors-pcie-dma-cards-eac.html)|`2025-09-11 01:37:00`|`Anti-Cheat Bypass`|
