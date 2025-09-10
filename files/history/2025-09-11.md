@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA unblocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716636-dma-unblocker.html)|`2025-09-11 00:39:00`|`Anti-Cheat Bypass`|
+|[Skipping company missions alone &#40;You need to enter the battle&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/717072-skipping-company-missions-enter-battle.html)|`2025-09-11 00:38:00`|`Warface`|
 |[Arduino or rp2040 to realize keyboard and mouse and apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/715901-arduino-rp2040-realize-keyboard-mouse-apex-macro.html)|`2025-09-11 00:31:00`|`Apex Legends`|
 |[ScamCode by Hook &#91;FREE CHEAT&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/716680-scamcode-hook-free-cheat.html)|`2025-09-11 00:29:00`|`Warface`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-09-11 00:15:00`|`Playerunknown's Battlegrounds`|
