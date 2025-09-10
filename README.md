@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;UE4&#93;Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/244709-ue4-squad.html)|`2025-09-11 03:07:00`|`Other FPS Games`|
+|[SendClanTag](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716056-sendclantag.html)|`2025-09-11 03:04:00`|`Counter-Strike 2`|
+|[Genshin Impact 5&#46;8 Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/712706-genshin-impact-5-8-table.html)|`2025-09-11 02:58:00`|`Genshin Impact`|
 |[aimbot delay or smth](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716980-aimbot-delay-smth.html)|`2025-09-11 02:53:00`|`Counter-Strike 2`|
 |[&#40;Legacy&#41; Best way of Making Money with Yim Menu &#40;no FSL&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/717087-legacy-money-yim-menu-fsl.html)|`2025-09-11 02:53:00`|`Grand Theft Auto V`|
 |[what are the vgk detection vectors for hypervisor with secure boot and tpm?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717084-vgk-detection-vectors-hypervisor-secure-boot-tpm.html)|`2025-09-11 02:05:00`|`Anti-Cheat Bypass`|
