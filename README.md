@@ -42,6 +42,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[simple external entity esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/717066-simple-external-entity-esp.html)|`2025-09-10 23:23:00`|`Rust`|
 |[how to make the hypervisor undetectable after activating secure boot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/717065-hypervisor-undetectable-activating-secure-boot.html)|`2025-09-10 23:00:00`|`Valorant`|
 |[SmmInfect &#45; Smm Backdoor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664482-smminfect-smm-backdoor.html)|`2025-09-10 22:38:00`|`Anti-Cheat Bypass`|
 |[Member of the Month &#45; September 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/715939-month-september-2025-a.html)|`2025-09-10 22:20:00`|`Member of the Month`|
