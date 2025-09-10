@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to make custom FW for DMA &#40;FPGA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/713804-custom-fw-dma-fpga.html)|`2025-09-11 01:48:00`|`Programming for Beginners`|
+|[C&#35; executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/716981-executor.html)|`2025-09-11 01:48:00`|`Alternative Online Mods`|
 |[Detection vectors for PCIe DMA cards with EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715988-detection-vectors-pcie-dma-cards-eac.html)|`2025-09-11 01:37:00`|`Anti-Cheat Bypass`|
 |[Planetside 2 Anticheat BattlEye Bypass &#40;braidead edition&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/712951-planetside-2-anticheat-battleye-bypass-braidead-edition.html)|`2025-09-11 01:34:00`|`PlanetSide 2`|
 |[VAC Modules Reversal 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/705782-vac-modules-reversal-2025-a.html)|`2025-09-11 01:30:00`|`Counter-Strike 2`|
