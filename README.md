@@ -13,6 +13,7 @@
 |3|[destiny rising hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716087-destiny-rising-hack.html)|`2025-09-10 00:13:46`|`other-fps-games`|
 |16|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-09-10 00:49:48`|`apex-legends`|
 |19|[basic rust external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/716583-basic-rust-external-base.html)|`2025-09-10 13:59:45`|`rust`|
+|8|[Fast and working Valorant Triggerbot &#40;colorbot&#41; &#124; ASM Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716146-fast-valorant-triggerbot-colorbot-asm-source.html)|`2025-09-10 14:28:21`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -38,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[theHunter: Call of the Wild Internal Radar, ESP, & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644365-thehunter-call-wild-internal-radar-esp.html)|`2025-09-10 14:12:00`|`Other FPS Games`|
 |[Team Fortress 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/102936-team-fortress-2-reversal-structs-offsets.html)|`2025-09-10 13:42:00`|`Team Fortress 2`|
 |[Discord Overlay Hooking Legacy/New](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/706600-discord-overlay-hooking-legacy.html)|`2025-09-10 13:31:00`|`Forum General`|
 |[&#91;Mage Arena&#93; Shadow Government Toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712526-mage-arena-shadow-government-toolkit.html)|`2025-09-10 13:10:00`|`Other FPS Games`|
