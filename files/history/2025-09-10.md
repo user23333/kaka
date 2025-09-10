@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pubgmobile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/716671-pubgmobile.html)|`2025-09-10 15:54:00`|`PUBG Mobile`|
+|[Why ppl use bbypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/716782-ppl-bbypass.html)|`2025-09-10 15:52:00`|`Grand Theft Auto V`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-09-10 15:44:00`|`Playerunknown's Battlegrounds`|
 |[Mouse Movement Method &#45; &#40;more secure than sign driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716376-mouse-movement-method-secure-sign-driver.html)|`2025-09-10 15:33:00`|`Valorant`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-09-10 15:17:00`|`Valorant`|
