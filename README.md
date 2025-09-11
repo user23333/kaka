@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[necesito ayuda con mi esp32&#45;s3 n16r8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/717200-necesito-ayuda-con-mi-esp32-s3-n16r8.html)|`2025-09-12 07:13:00`|`Rust`|
+|[BF 2042 Ammo Box XP Farm AHK Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/715375-bf-2042-ammo-box-xp-farm-ahk-script.html)|`2025-09-12 07:09:00`|`Battlefield 2042`|
+|[Story mode CheatEngine speedhack compatibility request](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/717268-story-mode-cheatengine-speedhack-compatibility-request.html)|`2025-09-12 07:07:00`|`Red Dead Redemption 2`|
 |[i need fix crash bypass pubg gl 4&#46;1 64bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/717266-fix-crash-bypass-pubg-gl-4-1-64bit.html)|`2025-09-12 06:49:00`|`PUBG Mobile`|
 |[Mw2/iw4x internal mod menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/709486-mw2-iw4x-internal-mod-menu.html)|`2025-09-12 06:47:00`|`Call of Duty 6: Modern Warfare 2`|
 |[ESP32&#45;S3 Single Device &#45; Recoil Compensator Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/716807-esp32-s3-single-device-recoil-compensator-script.html)|`2025-09-12 06:30:00`|`Rust`|
