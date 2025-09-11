@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I wanna learn to code cheats and reverse engineering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/717189-wanna-learn-code-cheats-reverse-engineering.html)|`2025-09-12 03:15:00`|`Forum General`|
+|[Dead By Daylight DMA 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714224-dead-daylight-dma-2-0-a.html)|`2025-09-12 03:15:00`|`Other FPS Games`|
+|[any seowned that works rn? or any cheat basically](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/716590-seowned-rn-cheat-basically.html)|`2025-09-12 03:14:00`|`Team Fortress 2`|
+|[OMath &#45; C&#43;&#43; Math Library for Game Development/Hacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/715360-omath-math-library-game-development-hacking.html)|`2025-09-12 03:05:00`|`Forum General`|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-09-12 03:04:00`|`HELLDIVERS 2`|
+|[VALO COLOR BOT SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/633956-valo-color-bot-source.html)|`2025-09-12 02:58:00`|`Valorant`|
 |[Intensity menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/717227-intensity-menu.html)|`2025-09-12 02:59:00`|`C and C++`|
 |[GTA cayo perico target switch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/717175-gta-cayo-perico-target-switch.html)|`2025-09-12 02:47:00`|`Grand Theft Auto V`|
 |[Farlight 84 Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/715803-farlight-84-internal-cheat.html)|`2025-09-12 02:46:00`|`Farlight 84`|
