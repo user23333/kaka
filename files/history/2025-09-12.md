@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Needing help in understanding the code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717149-help-understanding-code.html)|`2025-09-12 01:50:00`|`Counter-Strike 2`|
+|[FXAP Decrypt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/712588-fxap-decrypt.html)|`2025-09-12 01:48:00`|`General Programming and Reversing`|
 |[How to hook kernel&#45;mode functions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717119-hook-kernel-mode-functions.html)|`2025-09-12 01:37:00`|`Anti-Cheat Bypass`|
 |[Manual Mapping help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/716467-manual-mapping-help.html)|`2025-09-12 01:32:00`|`General Programming and Reversing`|
 |[More additions to the staff team, including a familiar face&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/717203-additions-staff-team-including-familiar.html)|`2025-09-12 01:25:00`|`Information and Announcements`|
