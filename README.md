@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to make Crash Player Internal ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/710119-crash-player-internal.html)|`2025-09-11 22:25:00`|`Alternative Online Mods`|
+|[Full firmware dump of the KMBox B PRO with higher polling rate &#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/717183-firmware-dump-kmbox-pro-polling-rate.html)|`2025-09-11 22:22:00`|`Other Hardware`|
+|[Box & Health ESP made in cpp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711986-box-health-esp-cpp.html)|`2025-09-11 22:18:00`|`Counter-Strike 2 Releases`|
 |[ESP32&#45;S3 Single Device &#45; Recoil Compensator Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/716807-esp32-s3-single-device-recoil-compensator-script.html)|`2025-09-11 22:13:00`|`Rust`|
 |[thread irql bsod &#40;KeWaitForSingleObject&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717082-thread-irql-bsod-kewaitforsingleobject.html)|`2025-09-11 22:10:00`|`Anti-Cheat Bypass`|
 |[AFK scripts for multiplayer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/717181-afk-scripts-multiplayer.html)|`2025-09-11 22:06:00`|`Call of Duty: Black Ops 6`|
