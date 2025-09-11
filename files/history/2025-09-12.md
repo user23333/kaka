@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ESP32&#45;S3 Single Device &#45; Recoil Compensator Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/716807-esp32-s3-single-device-recoil-compensator-script.html)|`2025-09-12 06:30:00`|`Rust`|
 |[external tracers/hitmarkers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/716877-external-tracers-hitmarkers.html)|`2025-09-12 06:25:00`|`Escape from Tarkov`|
 |[AFK scripts for multiplayer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/717181-afk-scripts-multiplayer.html)|`2025-09-12 06:13:00`|`Call of Duty: Black Ops 6`|
 |[Unable to join online with Yim &#40;no FSL&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/717184-unable-join-online-yim-fsl.html)|`2025-09-12 05:53:00`|`Grand Theft Auto V`|
