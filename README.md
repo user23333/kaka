@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2025-09-11 17:55:00`|`Combat Arms`|
+|[Helldivers2 samples hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/627826-helldivers2-samples-hack.html)|`2025-09-11 17:54:00`|`HELLDIVERS 2`|
+|[Undected Armory/Stratagems Unlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/716360-undected-armory-stratagems-unlock.html)|`2025-09-11 17:53:00`|`HELLDIVERS 2`|
 |[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2025-09-11 17:52:00`|`HELLDIVERS 2`|
 |[Using Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/716299-using-cheat-engine.html)|`2025-09-11 17:52:00`|`HELLDIVERS 2`|
 |[exp farming](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/707652-exp-farming.html)|`2025-09-11 17:49:00`|`CrossFire`|
