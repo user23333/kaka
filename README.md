@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[After using fiddler, I cannot log in due to a network error&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/642696-using-fiddler-log-due-network-error.html)|`2025-09-11 10:59:00`|`Payday 3`|
+|[Nebula Connection Failed at Login when using Fiddler&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/709967-nebula-connection-failed-login-using-fiddler.html)|`2025-09-11 10:57:00`|`Payday 3`|
+|[IGameTrace::TraceShape crash&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717112-igametrace-traceshape-crash.html)|`2025-09-11 10:51:00`|`Counter-Strike 2`|
+|[Will i get xxx for having cheat file but didn't open them ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/717126-xxx-cheat-file-didnt.html)|`2025-09-11 10:45:00`|`Valorant`|
 |[Lightmoon V2 &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709987-lightmoon-v2-external.html)|`2025-09-11 09:56:00`|`Counter-Strike 2`|
 |[Mod Menu Crew v5&#46;3&#46;0  Definitive Edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/716042-mod-menu-crew-v5-3-0-definitive-edition.html)|`2025-09-11 09:49:00`|`Among Us`|
 |[Career Builder screen after unban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/717117-career-builder-screen-unban.html)|`2025-09-11 09:37:00`|`Grand Theft Auto V`|
