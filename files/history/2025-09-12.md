@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-09-12 07:38:00`|`Escape from Tarkov`|
+|[Tarkov ban bypass&#46; Never banned before&#46; Asus laptop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/713993-tarkov-ban-bypass-banned-asus-laptop.html)|`2025-09-12 07:37:00`|`Escape from Tarkov`|
+|[Cold War Trainer working 1&#46;25&#46;5 &#40;Geogeo paste&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/501719-cold-war-trainer-1-25-5-geogeo-paste.html)|`2025-09-12 07:18:00`|`Call of Duty: Black Ops Cold War`|
 |[necesito ayuda con mi esp32&#45;s3 n16r8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/717200-necesito-ayuda-con-mi-esp32-s3-n16r8.html)|`2025-09-12 07:13:00`|`Rust`|
 |[BF 2042 Ammo Box XP Farm AHK Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/715375-bf-2042-ammo-box-xp-farm-ahk-script.html)|`2025-09-12 07:09:00`|`Battlefield 2042`|
 |[Story mode CheatEngine speedhack compatibility request](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/717268-story-mode-cheatengine-speedhack-compatibility-request.html)|`2025-09-12 07:07:00`|`Red Dead Redemption 2`|
