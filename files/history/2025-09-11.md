@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FREE SHARE SOME CERTIFICATES](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717155-free-share-certificates.html)|`2025-09-11 19:19:00`|`Anti-Cheat Bypass`|
+|[Standalone client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/717166-standalone-client.html)|`2025-09-11 19:11:00`|`Farlight 84`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-09-11 19:06:00`|`Other FPS Games`|
 |[Player Modal Changer Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717163-player-modal-changer-issue.html)|`2025-09-11 18:57:00`|`Counter-Strike 2`|
 |[Skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/717162-skinchanger.html)|`2025-09-11 18:56:00`|`Rust`|
