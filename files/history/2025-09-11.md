@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BO6 Warzone Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/712688-bo6-warzone-internal-cheat.html)|`2025-09-11 18:05:00`|`Call of Duty: Black Ops 6`|
+|[YimMenu related questions&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/717160-yimmenu-related-questions.html)|`2025-09-11 18:02:00`|`Grand Theft Auto V`|
 |[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2025-09-11 17:55:00`|`Combat Arms`|
 |[Helldivers2 samples hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/627826-helldivers2-samples-hack.html)|`2025-09-11 17:54:00`|`HELLDIVERS 2`|
 |[Undected Armory/Stratagems Unlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/716360-undected-armory-stratagems-unlock.html)|`2025-09-11 17:53:00`|`HELLDIVERS 2`|
