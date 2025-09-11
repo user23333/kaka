@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Windows undetected cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716926-windows-undetected-cheats.html)|`2025-09-12 04:55:00`|`Apex Legends`|
+|[VAXOD AC &#124; Lua Detection &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/717254-vaxod-ac-lua-detection.html)|`2025-09-12 04:54:00`|`Garry's Mod`|
+|[PAxLM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/715607-paxlm.html)|`2025-09-12 04:53:00`|`Lethal Company`|
 |[Valorant cr3 reading and decrypting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/717075-valorant-cr3-reading-decrypting.html)|`2025-09-12 04:47:00`|`Valorant`|
 |[GMOD Desync exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/716996-gmod-desync-exploit.html)|`2025-09-12 04:39:00`|`Garry's Mod`|
 |[BO6 Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/717092-bo6-internal-source.html)|`2025-09-12 04:35:00`|`Call of Duty: Black Ops 6`|
