@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Transparent gloves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717154-transparent-gloves.html)|`2025-09-11 16:42:00`|`Counter-Strike 2`|
+|[lone&#45;dma eft&#45;dma&#45;radar built w/ wpf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/704132-lone-dma-eft-dma-radar-built-wpf.html)|`2025-09-11 16:40:00`|`Escape from Tarkov`|
 |[Chivalry 2 Creating your owns &#46;PAK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716143-chivalry-2-creating-owns-pak.html)|`2025-09-11 16:30:00`|`Other FPS Games`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-09-11 16:30:00`|`League of Legends`|
 |[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2025-09-11 16:22:00`|`Other FPS Games`|
