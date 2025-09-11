@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Internal Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717061-cs2-internal-aimbot.html)|`2025-09-11 15:18:00`|`Counter-Strike 2`|
 |[MuMu Player for BGMI&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/716896-mumu-player-bgmi.html)|`2025-09-11 14:54:00`|`PUBG Mobile`|
 |[can’t get players](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/717128-players.html)|`2025-09-11 14:40:00`|`Rust`|
 |[What age did you find Games?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/707599-age-games.html)|`2025-09-11 14:32:00`|`Off Topic`|
