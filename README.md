@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[More additions to the staff team, including a familiar face&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/717203-additions-staff-team-including-familiar.html)|`2025-09-12 01:25:00`|`Information and Announcements`|
+|[360 cranium removal bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/713500-360-cranium-removal-bot.html)|`2025-09-12 01:23:00`|`Combat Master`|
+|[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2025-09-12 01:23:00`|`HELLDIVERS 2`|
+|[QEMU/KVM Rust with EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/717202-qemu-kvm-rust-eac.html)|`2025-09-12 01:12:00`|`Rust`|
 |[Mod Menu Without FSL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/717201-mod-menu-fsl.html)|`2025-09-12 01:04:00`|`Grand Theft Auto V`|
 |[Looking for Mod Menu just lvl and money](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/716929-looking-mod-menu-lvl-money.html)|`2025-09-12 01:01:00`|`Grand Theft Auto V`|
 |[Chivalry 2 Creating your owns &#46;PAK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716143-chivalry-2-creating-owns-pak.html)|`2025-09-12 00:58:00`|`Other FPS Games`|
