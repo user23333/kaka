@@ -29,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[external tracers/hitmarkers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/716877-external-tracers-hitmarkers.html)|`2025-09-11 09:06:00`|`Escape from Tarkov`|
+|[Dumping the process image](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/716413-dumping-process-image.html)|`2025-09-11 08:57:00`|`Playerunknown's Battlegrounds`|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-09-11 08:56:00`|`HELLDIVERS 2`|
+|[Skate&#46; currency editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/716623-skate-currency-editor.html)|`2025-09-11 08:53:00`|`Other Games`|
+|[Introduction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/717106-introduction.html)|`2025-09-11 08:53:00`|`Introductions`|
+|[VGM&#46;EXE IS SCANNING YOUR GITHUB REPOS SAVED LOCAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716490-vgm-exe-scanning-github-repos-saved-local.html)|`2025-09-11 08:40:00`|`Valorant`|
+|[How to hook kernel&#45;mode functions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717119-hook-kernel-mode-functions.html)|`2025-09-11 08:38:00`|`Anti-Cheat Bypass`|
 |[Toram Online &#45; STEAM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/484409-toram-online-steam.html)|`2025-09-11 07:52:00`|`Other MMORPG and Strategy`|
 |[PAxLM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/715607-paxlm.html)|`2025-09-11 07:50:00`|`Lethal Company`|
 |[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-09-11 07:40:00`|`Other Games`|
