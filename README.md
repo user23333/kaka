@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Intensity menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/717227-intensity-menu.html)|`2025-09-12 02:59:00`|`C and C++`|
 |[GTA cayo perico target switch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/717175-gta-cayo-perico-target-switch.html)|`2025-09-12 02:47:00`|`Grand Theft Auto V`|
 |[Farlight 84 Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/715803-farlight-84-internal-cheat.html)|`2025-09-12 02:46:00`|`Farlight 84`|
 |[Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/717208-spoofer.html)|`2025-09-12 02:45:00`|`Valorant`|
