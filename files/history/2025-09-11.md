@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SmmInfect &#45; Smm Backdoor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664482-smminfect-smm-backdoor.html)|`2025-09-11 22:37:00`|`Anti-Cheat Bypass`|
+|[Amalgam x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/639800-amalgam-x64.html)|`2025-09-11 22:36:00`|`Team Fortress 2`|
+|[any seowned that works rn? or any cheat basically](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/716590-seowned-rn-cheat-basically.html)|`2025-09-11 22:34:00`|`Team Fortress 2`|
 |[How to make Crash Player Internal ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/710119-crash-player-internal.html)|`2025-09-11 22:25:00`|`Alternative Online Mods`|
 |[Full firmware dump of the KMBox B PRO with higher polling rate &#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/717183-firmware-dump-kmbox-pro-polling-rate.html)|`2025-09-11 22:22:00`|`Other Hardware`|
 |[Box & Health ESP made in cpp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711986-box-health-esp-cpp.html)|`2025-09-11 22:18:00`|`Counter-Strike 2 Releases`|
