@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-09-11 12:22:00`|`Sea of Thieves`|
+|[Method to bypass new verification of weapon modification mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/717134-method-bypass-verification-weapon-modification-mod.html)|`2025-09-11 12:20:00`|`Payday 3`|
 |[Simple Valorant TriggerBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/717133-simple-valorant-triggerbot.html)|`2025-09-11 12:08:00`|`Valorant`|
 |[AC Kernel FIVEM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/717132-ac-kernel-fivem.html)|`2025-09-11 12:05:00`|`Alternative Online Mods`|
 |[Unturned Loot Through Walls Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716861-unturned-loot-walls-exploit.html)|`2025-09-11 12:02:00`|`Other FPS Games`|
