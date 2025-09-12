@@ -13,6 +13,7 @@
 |11|[DLL and Source &#124; Internal Cheat &#124; SmokeTimer SpeedView ESP&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716925-dll-source-internal-cheat-smoketimer-speedview-esp.html)|`2025-09-12 00:11:03`|`counter-strike-2-a`|
 |29|[RONFentry &#45; Ready or Not Internal, Feature&#45;Packed Multitool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716446-ronfentry-ready-internal-feature-packed-multitool.html)|`2025-09-12 04:50:03`|`other-fps-games`|
 |9|[handle hijack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716688-handle-hijack.html)|`2025-09-12 05:09:37`|`anti-cheat-bypass`|
+|4|[Apex DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716473-apex-dma-source.html)|`2025-09-12 14:26:32`|`apex-legends`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Discord Overlay Hooking Legacy/New](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/706600-discord-overlay-hooking-legacy.html)|`2025-09-12 14:24:00`|`Forum General`|
+|[How to bypass EAC and BE?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713950-bypass-eac.html)|`2025-09-12 14:20:00`|`Anti-Cheat Bypass`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-09-12 14:11:00`|`Other FPS Games`|
 |[Career unlock with Yimmenu v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696116-career-unlock-yimmenu-v2.html)|`2025-09-12 13:32:00`|`Grand Theft Auto V`|
 |[Post your Menu/GUI Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/68024-post-menu-gui-framework.html)|`2025-09-12 13:11:00`|`C and C++`|
 |[dungeons of eternity vr cheat trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717295-dungeons-eternity-vr-cheat-trainer.html)|`2025-09-12 12:43:00`|`Other FPS Games`|
