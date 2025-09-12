@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any update on Kiddions Mod menu for enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/717314-update-kiddions-mod-menu-enhanced.html)|`2025-09-12 22:45:00`|`Grand Theft Auto V`|
+|[EVO3 &#124; Updated External Legit/Semi&#45;Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/713273-evo3-updated-external-legit-semi-rage-cheat.html)|`2025-09-12 22:40:00`|`Counter-Strike 2 Releases`|
 |[K/D ratio change](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/716749-ratio-change.html)|`2025-09-12 22:38:00`|`Grand Theft Auto V`|
 |[Firmware dump of the KMBox B PRO with higher polling rate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/717207-firmware-dump-kmbox-pro-polling-rate.html)|`2025-09-12 22:30:00`|`Apex Legends`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-09-12 22:14:00`|`Other MMORPG and Strategy`|
