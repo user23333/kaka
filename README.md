@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/717357-rust-scripting.html)|`2025-09-13 00:57:00`|`Rust`|
+|[what are the vgk detection vectors for hypervisor with secure boot and tpm?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717084-vgk-detection-vectors-hypervisor-secure-boot-tpm.html)|`2025-09-13 00:55:00`|`Anti-Cheat Bypass`|
 |[CS2 Internal Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717061-cs2-internal-aimbot.html)|`2025-09-13 00:54:00`|`Counter-Strike 2`|
 |[DLL and Source &#124; Internal Cheat &#124; SmokeTimer SpeedView ESP&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716925-dll-source-internal-cheat-smoketimer-speedview-esp.html)|`2025-09-13 00:49:00`|`Counter-Strike 2`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-09-13 00:48:00`|`Rust`|
