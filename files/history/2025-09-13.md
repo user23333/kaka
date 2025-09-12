@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[does bogdan problem replay glitch still work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/716614-bogdan-replay-glitch.html)|`2025-09-13 05:48:00`|`Grand Theft Auto V`|
+|[cfemen & gir489's Ready or Not hook v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632144-cfemen-gir489s-ready-hook-v1-0-a.html)|`2025-09-13 05:46:00`|`Other FPS Games`|
 |[AFK scripts for multiplayer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/717181-afk-scripts-multiplayer.html)|`2025-09-13 05:20:00`|`Call of Duty: Black Ops 6`|
 |[Dead By Daylight DMA 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714224-dead-daylight-dma-2-0-a.html)|`2025-09-13 05:16:00`|`Other FPS Games`|
 |[&#91;Dune Awakening&#93; Anyworking glitch or exploit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717135-dune-awakening-anyworking-glitch-exploit.html)|`2025-09-13 04:55:00`|`Other FPS Games`|
