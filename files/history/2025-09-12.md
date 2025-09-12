@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is there is any undetected way to exchange more than 10M chips to cash ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/717107-undetected-exchange-10m-chips-cash.html)|`2025-09-12 20:20:00`|`Grand Theft Auto V`|
+|[Rage&#46;CM – Combat Master Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/713964-rage-cm-combat-master-menu.html)|`2025-09-12 20:01:00`|`Combat Master`|
+|[EXTERNAL apb&#46;one](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/710621-external-apb.html)|`2025-09-12 19:58:00`|`All Points Bulletin`|
 |[Advanced ESP Box &#124; Collision Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717329-advanced-esp-box-collision-base.html)|`2025-09-12 19:56:00`|`Counter-Strike 2`|
 |[&#91;UE4&#93;Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/244709-ue4-squad.html)|`2025-09-12 19:50:00`|`Other FPS Games`|
 |[bones ids](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/717328-bones-ids.html)|`2025-09-12 19:50:00`|`Rust`|
