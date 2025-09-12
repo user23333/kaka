@@ -33,9 +33,13 @@
 |1|[CPUID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51150)|`2025-09-12 04:50:03`|
 |1|[cerf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51154)|`2025-09-12 14:58:52`|
 |1|[cfemen & gir489's Ready or Not hook v1&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51163)|`2025-09-12 15:35:06`|
+|1|[Squad 5&#46;5&#46;4&#45;478836&#43; SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51169)|`2025-09-12 20:58:53`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DeadByDaylight external &#91;Steam&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715450-deadbydaylight-external-steam.html)|`2025-09-12 20:54:00`|`Other Games`|
+|[Marvel Rivals Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/717009-marvel-rivals-offsets.html)|`2025-09-12 20:37:00`|`Marvel Rivals`|
+|[Trading Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/679348-trading-bot.html)|`2025-09-12 20:32:00`|`Elite: Dangerous`|
 |[Is there is any undetected way to exchange more than 10M chips to cash ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/717107-undetected-exchange-10m-chips-cash.html)|`2025-09-12 20:20:00`|`Grand Theft Auto V`|
 |[Rage&#46;CM – Combat Master Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/713964-rage-cm-combat-master-menu.html)|`2025-09-12 20:01:00`|`Combat Master`|
 |[EXTERNAL apb&#46;one](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/710621-external-apb.html)|`2025-09-12 19:58:00`|`All Points Bulletin`|
