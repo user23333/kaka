@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chivalry 2 Chivalapocalypse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/717361-chivalry-2-chivalapocalypse.html)|`2025-09-13 01:46:00`|`Other Games`|
 |[Simple Valorant TriggerBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/717133-simple-valorant-triggerbot.html)|`2025-09-13 01:45:00`|`Valorant`|
 |[ocxy menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/717360-ocxy-menu.html)|`2025-09-13 01:44:00`|`C and C++`|
 |[incorrect getting fields IL2cpp &#40;Genshin Impact&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/717338-incorrect-getting-fields-il2cpp-genshin-impact.html)|`2025-09-13 01:35:00`|`Forum General`|
