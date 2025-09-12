@@ -15,6 +15,7 @@
 |9|[handle hijack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716688-handle-hijack.html)|`2025-09-12 05:09:37`|`anti-cheat-bypass`|
 |4|[Apex DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716473-apex-dma-source.html)|`2025-09-12 14:26:32`|`apex-legends`|
 |12|[Temp Spoofer Signed By Microsoft &#40;WORKING&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717158-temp-spoofer-signed-microsoft.html)|`2025-09-12 18:59:53`|`anti-cheat-bypass`|
+|7|[QEMU/KVM Rust with EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/717202-qemu-kvm-rust-eac.html)|`2025-09-12 19:57:24`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Advanced ESP Box &#124; Collision Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717329-advanced-esp-box-collision-base.html)|`2025-09-12 19:56:00`|`Counter-Strike 2`|
 |[&#91;UE4&#93;Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/244709-ue4-squad.html)|`2025-09-12 19:50:00`|`Other FPS Games`|
 |[bones ids](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/717328-bones-ids.html)|`2025-09-12 19:50:00`|`Rust`|
 |[Simple handle hijacking method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716633-simple-handle-hijacking-method.html)|`2025-09-12 19:47:00`|`Counter-Strike 2`|
