@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Plouton &#45; A System Management Mode &#40;SMM&#41; cheat framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/693225-plouton-system-management-mode-smm-cheat-framework.html)|`2025-09-12 19:12:00`|`Anti-Cheat Bypass`|
+|[Mage Arena &#45; Level Spoofer &#40;persistent&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716731-mage-arena-level-spoofer-persistent.html)|`2025-09-12 19:07:00`|`Other FPS Games`|
+|[DLL and Source &#124; Internal Cheat &#124; SmokeTimer SpeedView ESP&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716925-dll-source-internal-cheat-smoketimer-speedview-esp.html)|`2025-09-12 19:06:00`|`Counter-Strike 2`|
 |[KMBOX&#46;NET Spoofing tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/715664-kmbox-net-spoofing-tool.html)|`2025-09-12 18:51:00`|`Other Hardware`|
 |[ProjectWorldToScreen Monitored and crash&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/717320-projectworldtoscreen-monitored-crash.html)|`2025-09-12 18:31:00`|`Unreal Engine 4`|
 |[is anyone elses driver just not reading anything](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/717111-elses-driver-reading.html)|`2025-09-12 18:24:00`|`Call of Duty: Black Ops 6`|
