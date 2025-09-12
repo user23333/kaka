@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Internal Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717061-cs2-internal-aimbot.html)|`2025-09-12 12:27:00`|`Counter-Strike 2`|
+|[Player Modal Changer Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717163-player-modal-changer-issue.html)|`2025-09-12 12:21:00`|`Counter-Strike 2`|
+|[External Zig VAC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717052-external-zig-vac-bypass.html)|`2025-09-12 12:16:00`|`Counter-Strike 2`|
 |[Skate&#46; currency editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/716623-skate-currency-editor.html)|`2025-09-12 12:10:00`|`Other Games`|
 |[Banana &#40;Dumb Idle Clicker on Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/717292-banana-dumb-idle-clicker-steam.html)|`2025-09-12 12:07:00`|`Other Games`|
 |[i need fix crash bypass pubg gl 4&#46;0 64bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/717290-fix-crash-bypass-pubg-gl-4-0-64bit.html)|`2025-09-12 11:56:00`|`PUBG Mobile`|
