@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to bypass EAC and BE?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/713950-bypass-eac.html)|`2025-09-13 02:52:00`|`Anti-Cheat Bypass`|
 |[How can I Spoof Peds and Spoof Weapons on internal?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/717275-spoof-peds-spoof-weapons-internal.html)|`2025-09-13 02:40:00`|`Alternative Online Mods`|
 |[PAxLM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/715607-paxlm.html)|`2025-09-13 02:31:00`|`Lethal Company`|
 |[External Zig VAC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717052-external-zig-vac-bypass.html)|`2025-09-13 02:13:00`|`Counter-Strike 2`|
