@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[K/D ratio change](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/716749-ratio-change.html)|`2025-09-12 22:38:00`|`Grand Theft Auto V`|
 |[Firmware dump of the KMBox B PRO with higher polling rate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/717207-firmware-dump-kmbox-pro-polling-rate.html)|`2025-09-12 22:30:00`|`Apex Legends`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-09-12 22:14:00`|`Other MMORPG and Strategy`|
 |[Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/465314-super-animal-royale-hack.html)|`2025-09-12 22:10:00`|`Other Games`|
