@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[incorrect getting fields IL2cpp &#40;Genshin Impact&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/717338-incorrect-getting-fields-il2cpp-genshin-impact.html)|`2025-09-13 01:35:00`|`Forum General`|
+|[Gorebox Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716525-gorebox-internal-cheat.html)|`2025-09-13 01:34:00`|`Other FPS Games`|
 |[C&#35; executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/716981-executor.html)|`2025-09-13 01:27:00`|`Alternative Online Mods`|
 |[noises](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/715172-noises.html)|`2025-09-13 01:23:00`|`Escape from Tarkov`|
 |[necesito ayuda con mi esp32&#45;s3 n16r8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/717200-necesito-ayuda-con-mi-esp32-s3-n16r8.html)|`2025-09-13 01:19:00`|`Rust`|
