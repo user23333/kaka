@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[question's for those people who makes cheats for games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/717414-questions-people-makes-cheats-games.html)|`2025-09-13 08:33:00`|`Forum General`|
+|[Assetto Corsa Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/717093-assetto-corsa-mod.html)|`2025-09-13 08:33:00`|`Other Games`|
+|[Windows undetected cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716926-windows-undetected-cheats.html)|`2025-09-13 08:32:00`|`Apex Legends`|
+|[Temp Spoofer Signed By Microsoft &#40;WORKING&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717158-temp-spoofer-signed-microsoft.html)|`2025-09-13 08:24:00`|`Anti-Cheat Bypass`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-09-13 07:48:00`|`Grand Theft Auto V`|
 |[knife only changes sometimes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716884-knife-changes-sometimes.html)|`2025-09-13 07:48:00`|`Counter-Strike 2`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-09-13 07:28:00`|`Counter-Strike 2 Releases`|
