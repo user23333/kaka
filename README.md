@@ -24,9 +24,12 @@
 |239|[SignedDriverTempMicrosoft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51153)|`2025-09-14 00:19:33`|
 |19|[CPUID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51150)|`2025-09-14 00:19:33`|
 |14|[Unknown Farlight Internal v0&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51144)|`2025-09-14 00:19:33`|
+|1|[Weapon Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51198)|`2025-09-14 04:40:45`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FREE SHARE SOME CERTIFICATES](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717155-free-share-certificates.html)|`2025-09-14 04:37:00`|`Anti-Cheat Bypass`|
+|[Decrypting client LUA scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/717513-decrypting-client-lua-scripts.html)|`2025-09-14 04:26:00`|`Alternative Online Mods`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-09-14 04:30:00`|`Marvel Rivals`|
 |[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2025-09-14 04:30:00`|`Other FPS Games`|
 |[Now jitter is completely blocked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/706301-jitter-completely-blocked.html)|`2025-09-14 04:26:00`|`Apex Legends`|
