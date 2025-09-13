@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-09-14 02:41:00`|`League of Legends`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-09-14 02:39:00`|`Valorant`|
+|[cfemen & gir489's Ready or Not hook v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632144-cfemen-gir489s-ready-hook-v1-0-a.html)|`2025-09-14 02:34:00`|`Other FPS Games`|
+|[CS2 Internal Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717061-cs2-internal-aimbot.html)|`2025-09-14 02:33:00`|`Counter-Strike 2`|
 |[AUInjector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/418923-auinjector.html)|`2025-09-14 02:18:00`|`Among Us`|
 |[theHunter: Call of the Wild Internal Radar, ESP, & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644365-thehunter-call-wild-internal-radar-esp.html)|`2025-09-14 02:15:00`|`Other FPS Games`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-09-14 02:13:00`|`Grand Theft Auto V`|
