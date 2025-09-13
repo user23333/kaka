@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-09-14 06:40:00`|`Call of Duty: Black Ops 3`|
+|[New Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/716321-offsets.html)|`2025-09-14 06:38:00`|`PlanetSide 2`|
+|[Titan Two setup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/711101-titan-setup.html)|`2025-09-14 06:29:00`|`Apex Legends`|
+|[Roblox cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/717526-roblox-cheats.html)|`2025-09-14 06:25:00`|`Introductions`|
 |[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-09-14 06:35:00`|`Grand Theft Auto V`|
 |[Emulator player base is dead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/717527-emulator-player-base-dead.html)|`2025-09-14 06:30:00`|`PUBG Mobile`|
 |[GMOD Desync exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/716996-gmod-desync-exploit.html)|`2025-09-14 05:57:00`|`Garry's Mod`|
