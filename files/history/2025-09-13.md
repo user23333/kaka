@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ProjectChimera &#45; CS2 ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/715974-projectchimera-cs2-esp.html)|`2025-09-13 21:48:00`|`Counter-Strike 2 Releases`|
+|[BO6 Warzone Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/712688-bo6-warzone-internal-cheat.html)|`2025-09-13 21:46:00`|`Call of Duty: Black Ops 6`|
 |[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-09-13 21:41:00`|`Other FPS Games`|
 |[how to make Explode Player in External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/717464-explode-player-external.html)|`2025-09-13 21:34:00`|`Alternative Online Mods`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-09-13 21:25:00`|`Counter-Strike 2`|
