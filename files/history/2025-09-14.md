@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GMOD Desync exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/716996-gmod-desync-exploit.html)|`2025-09-14 05:57:00`|`Garry's Mod`|
+|[Oxide Engine &#124; New Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715554-oxide-engine-cheat-engine.html)|`2025-09-14 05:55:00`|`Anti-Cheat Bypass`|
+|[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2025-09-14 05:52:00`|`Garry's Mod`|
+|[bypass Bo6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/717521-bypass-bo6.html)|`2025-09-14 05:51:00`|`Call of Duty: Black Ops 6`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-09-14 05:53:00`|`Playerunknown's Battlegrounds`|
 |[see spectators](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717519-spectators.html)|`2025-09-14 05:29:00`|`Counter-Strike 2`|
 |[Temp Spoofer Signed By Microsoft &#40;WORKING&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717158-temp-spoofer-signed-microsoft.html)|`2025-09-14 05:25:00`|`Anti-Cheat Bypass`|
