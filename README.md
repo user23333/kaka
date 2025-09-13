@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-09-14 05:53:00`|`Playerunknown's Battlegrounds`|
 |[see spectators](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717519-spectators.html)|`2025-09-14 05:29:00`|`Counter-Strike 2`|
 |[Temp Spoofer Signed By Microsoft &#40;WORKING&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717158-temp-spoofer-signed-microsoft.html)|`2025-09-14 05:25:00`|`Anti-Cheat Bypass`|
 |[Ultimate CHEATPACK 2&#46;0 V28](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/632979-ultimate-cheatpack-2-0-v28.html)|`2025-09-14 05:22:00`|`Star Wars Battlefront 2`|
