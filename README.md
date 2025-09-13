@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[help in creating a cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717466-help-creating-cheat.html)|`2025-09-14 00:48:00`|`Counter-Strike 2`|
 |[Windows undetected cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716926-windows-undetected-cheats.html)|`2025-09-14 00:47:00`|`Apex Legends`|
 |[Banned on a different device on same network](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716928-banned-device-network.html)|`2025-09-14 00:44:00`|`Apex Legends`|
 |[UE4 PAK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717474-ue4-pak.html)|`2025-09-14 00:41:00`|`Anti-Cheat Bypass`|
