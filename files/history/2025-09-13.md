@@ -12,6 +12,7 @@
 |21|[Simple handle hijacking method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716633-simple-handle-hijacking-method.html)|`2025-09-13 00:11:35`|`counter-strike-2-a`|
 |16|[Temp Spoofer Signed By Microsoft &#40;WORKING&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717158-temp-spoofer-signed-microsoft.html)|`2025-09-13 00:11:35`|`anti-cheat-bypass`|
 |3|[can’t get players](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/717128-players.html)|`2025-09-13 01:57:59`|`rust`|
+|9|[handle hijack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716688-handle-hijack.html)|`2025-09-13 10:18:54`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant gigabyte b650m Ds3h raid val 5 ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/717418-valorant-gigabyte-b650m-ds3h-raid-val-5-a.html)|`2025-09-13 09:51:00`|`Valorant`|
+|[DMA Radar/Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/697254-dma-radar-fuser.html)|`2025-09-13 09:39:00`|`DayZ SA`|
+|[Does anyone know how to quickly complete the Flight School challenges?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/717419-quickly-complete-flight-school-challenges.html)|`2025-09-13 09:34:00`|`Grand Theft Auto V`|
+|[Firmware dump of the KMBox B PRO with higher polling rate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/717207-firmware-dump-kmbox-pro-polling-rate.html)|`2025-09-13 09:24:00`|`Apex Legends`|
 |[question's for those people who makes cheats for games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/717414-questions-people-makes-cheats-games.html)|`2025-09-13 08:33:00`|`Forum General`|
 |[Assetto Corsa Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/717093-assetto-corsa-mod.html)|`2025-09-13 08:33:00`|`Other Games`|
 |[Windows undetected cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716926-windows-undetected-cheats.html)|`2025-09-13 08:32:00`|`Apex Legends`|
