@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stuck when working with il2cpp global metadata decryption for Realm of the Mad God](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/714777-stuck-il2cpp-global-metadata-decryption-realm-mad-god.html)|`2025-09-13 22:40:00`|`Forum General`|
 |[Is there is any undetected way to exchange more than 10M chips to cash ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/717107-undetected-exchange-10m-chips-cash.html)|`2025-09-13 22:21:00`|`Grand Theft Auto V`|
 |[Get selected skins from arsenal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664707-selected-skins-arsenal.html)|`2025-09-13 22:11:00`|`Valorant`|
 |[is there a way to bypass reWASD trial?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/710849-bypass-rewasd-trial.html)|`2025-09-13 21:49:00`|`Apex Legends`|
