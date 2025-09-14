@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Inventory: Knives and Gloves problem after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711778-inventory-knives-gloves-update.html)|`2025-09-14 21:19:00`|`Counter-Strike 2`|
+|[external antiaim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684924-external-antiaim.html)|`2025-09-14 21:18:00`|`Counter-Strike 2`|
+|[Roblox AIMBOT External Usermode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711916-roblox-aimbot-external-usermode.html)|`2025-09-14 21:14:00`|`Other FPS Games`|
+|[Redmatch 2 internal cheat &#40;imperium&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/688217-redmatch-2-internal-cheat-imperium.html)|`2025-09-14 21:09:00`|`Other FPS Games`|
 |[DLL and Source &#124; Internal Cheat &#124; SmokeTimer SpeedView ESP&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716925-dll-source-internal-cheat-smoketimer-speedview-esp.html)|`2025-09-14 20:49:00`|`Counter-Strike 2`|
 |[How can Rocket League Bots work Online?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705894-rocket-league-bots-online.html)|`2025-09-14 20:44:00`|`Other Games`|
 |[BO6 Warzone Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/712688-bo6-warzone-internal-cheat.html)|`2025-09-14 20:15:00`|`Call of Duty: Black Ops 6`|
