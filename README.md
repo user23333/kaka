@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CSGhost v4 &#45; Injector with Full Integrated VAC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cs-go-releases/454734-csghost-v4-injector-integrated-vac-bypass.html)|`2025-09-15 06:10:00`|`CS:GO Releases`|
+|[DeadByDaylight external &#91;Steam&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715450-deadbydaylight-external-steam.html)|`2025-09-15 06:01:00`|`Other Games`|
+|[Bypass Emu 32bit Some problems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/717649-bypass-emu-32bit.html)|`2025-09-15 05:57:00`|`PUBG Mobile`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-09-15 05:41:00`|`Other Games`|
 |[a problem with my own phasmophobia cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/717602-own-phasmophobia-cheat.html)|`2025-09-15 05:41:00`|`Phasmophobia`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-09-15 05:38:00`|`Escape from Tarkov`|
