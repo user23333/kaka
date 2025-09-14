@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Decrypting IL2CPP Metadata and Assembly for Unity il2cpp game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/714992-decrypting-il2cpp-metadata-assembly-unity-il2cpp-game.html)|`2025-09-14 11:17:00`|`General Programming and Reversing`|
+|[Arduino detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/717547-arduino-detected.html)|`2025-09-14 11:16:00`|`Apex Legends`|
+|[Simulant&#45;Sharp Beta 0&#46;81](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/717544-simulant-sharp-beta-0-81-a.html)|`2025-09-14 10:44:00`|`Rainbow Six Siege`|
 |[Farlight 84 Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/715803-farlight-84-internal-cheat.html)|`2025-09-14 10:38:00`|`Farlight 84`|
 |[Bypass Genshin 6&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/717543-bypass-genshin-6-0-a.html)|`2025-09-14 10:33:00`|`Genshin Impact`|
 |[TarkovGUI &#124; PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/694944-tarkovgui-pve.html)|`2025-09-14 10:03:00`|`Escape from Tarkov`|
