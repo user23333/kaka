@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unturned HWID Spoofer Detected &#40;error&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717499-unturned-hwid-spoofer-detected-error.html)|`2025-09-15 04:28:00`|`Anti-Cheat Bypass`|
 |[bullet hit pos](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717551-bullet-hit-pos.html)|`2025-09-15 04:24:00`|`Counter-Strike 2`|
 |[Cysharp&#46;YetAnotherHttpHandler SSL Pinning Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/717638-cysharp-yetanotherhttphandler-ssl-pinning-bypass.html)|`2025-09-15 04:20:00`|`General Programming and Reversing`|
 |[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-09-15 04:18:00`|`Grand Theft Auto V`|
