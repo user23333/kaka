@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Remove Head Bobbing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/711757-remove-head-bobbing.html)|`2025-09-14 12:56:00`|`Escape from Tarkov`|
 |[First ban help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/712911-ban-help.html)|`2025-09-14 12:51:00`|`Escape from Tarkov`|
 |[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2025-09-14 12:43:00`|`Escape from Tarkov`|
 |[PEAK &#45; Internal &#40;ESP, Item Spawner, and more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/716905-peak-internal-esp-item-spawner.html)|`2025-09-14 12:22:00`|`Other Games`|
