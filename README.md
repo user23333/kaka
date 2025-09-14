@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-09-14 14:11:00`|`Apex Legends`|
 |[Deliver Charge ids](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/717053-deliver-charge-ids.html)|`2025-09-14 13:28:00`|`Payday 3`|
 |[bullet hit pos](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717551-bullet-hit-pos.html)|`2025-09-14 13:26:00`|`Counter-Strike 2`|
 |[Remove Head Bobbing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/711757-remove-head-bobbing.html)|`2025-09-14 12:56:00`|`Escape from Tarkov`|
