@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[viewOffset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/717577-viewoffset.html)|`2025-09-14 22:07:00`|`Rust`|
+|[Looking for the Best Sea of Thieves Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/714110-looking-sea-thieves-cheat.html)|`2025-09-14 22:02:00`|`Sea of Thieves`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-09-14 21:40:00`|`Other FPS Games`|
 |[&#91;UE4&#93;Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/244709-ue4-squad.html)|`2025-09-14 21:34:00`|`Other FPS Games`|
 |[Unlimited abilities &#45; Standalone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/637550-unlimited-abilities-standalone.html)|`2025-09-14 21:31:00`|`Star Wars Battlefront 2`|
