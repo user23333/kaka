@@ -12,6 +12,7 @@
 |8|[DMA unblocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716636-dma-unblocker.html)|`2025-09-14 00:19:33`|`anti-cheat-bypass`|
 |22|[Simple handle hijacking method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716633-simple-handle-hijacking-method.html)|`2025-09-14 00:19:33`|`counter-strike-2-a`|
 |13|[Simple Valorant TriggerBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/717133-simple-valorant-triggerbot.html)|`2025-09-14 15:16:43`|`valorant`|
+|9|[FREE SHARE SOME CERTIFICATES](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717155-free-share-certificates.html)|`2025-09-14 17:07:38`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[fixed zxcmodule](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/714308-fixed-zxcmodule.html)|`2025-09-14 16:57:00`|`Garry's Mod`|
+|[cheat bo6 that works ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/717554-cheat-bo6.html)|`2025-09-14 16:56:00`|`Call of Duty: Black Ops 6`|
 |[Genshin Impact 5&#46;8 Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/712706-genshin-impact-5-8-table.html)|`2025-09-14 16:38:00`|`Genshin Impact`|
 |[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2025-09-14 16:21:00`|`Counter-Strike 2 Releases`|
 |[gta 5 battleye working menu &#40;no dma&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/714342-gta-5-battleye-menu-dma.html)|`2025-09-14 16:07:00`|`Grand Theft Auto V`|
