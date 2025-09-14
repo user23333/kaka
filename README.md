@@ -24,9 +24,18 @@
 |98|[cfemen & gir489's Ready or Not hook v1&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51163)|`2025-09-15 00:09:54`|
 |223|[cerf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51154)|`2025-09-15 00:09:54`|
 |286|[SignedDriverTempMicrosoft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51153)|`2025-09-15 00:09:54`|
+|1|[alt&#45;syscall&#45;monitor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51200)|`2025-09-15 00:29:23`|
+|3|[Charlie Kirkware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51192)|`2025-09-15 00:29:23`|
+|3|[Charlie Kirkware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51191)|`2025-09-15 00:29:23`|
+|1|[overwatch&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51189)|`2025-09-15 00:29:23`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-09-15 00:27:00`|`Rust`|
+|[Simple Outline](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/717443-simple-outline.html)|`2025-09-15 00:23:00`|`Overwatch`|
+|[Charlie Kirkware R6 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/717390-charlie-kirkware-r6-cheat.html)|`2025-09-15 00:22:00`|`Rainbow Six Siege`|
+|[GetFnameById External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/717593-getfnamebyid-external.html)|`2025-09-15 00:19:00`|`Marvel Rivals`|
+|[viewOffset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/717577-viewoffset.html)|`2025-09-15 00:13:00`|`Rust`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-09-15 00:06:00`|`Valorant`|
 |[alt&#45;syscall&#45;monitor &#43; communication](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717511-alt-syscall-monitor-communication.html)|`2025-09-15 00:01:00`|`Anti-Cheat Bypass`|
 |[&#91;Updated&#93; Dead by Daylight Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/635513-updated-dead-daylight-unlock-dlcs-skins.html)|`2025-09-14 23:56:00`|`Other FPS Games`|
