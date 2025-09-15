@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Eac Detection Vectors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717447-eac-detection-vectors.html)|`2025-09-15 20:00:00`|`Anti-Cheat Bypass`|
 |[Among Us Discord Overlay ESP &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/717705-discord-overlay-esp-steam.html)|`2025-09-15 19:39:00`|`Among Us`|
 |[Undetected Cheat Engine &#43; Driver &#124; 2023 &#124; Bypass Anticheats &#40;BE / EAC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/504191-undetected-cheat-engine-driver-2023-bypass-anticheats-eac.html)|`2025-09-15 19:33:00`|`Anti-Cheat Bypass`|
 |[Driver detection vectors for easy ac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/707609-driver-detection-vectors-easy-ac.html)|`2025-09-15 19:24:00`|`Anti-Cheat Bypass`|
