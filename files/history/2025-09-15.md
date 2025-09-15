@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NEED HELP WITH SUPERFICIAL FEATURES HMU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/717667-help-superficial-features-hmu.html)|`2025-09-15 10:24:00`|`Call of Duty: Black Ops 6`|
+|[N0x Cheat &#45; My own private CS 2 Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717385-n0x-cheat-own-private-cs-2-menu.html)|`2025-09-15 10:18:00`|`Counter-Strike 2`|
+|[FACEIT AC Deep Freeze/Toolwiz Time Freeze](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717674-faceit-ac-deep-freeze-toolwiz-time-freeze.html)|`2025-09-15 10:15:00`|`Anti-Cheat Bypass`|
+|[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-09-15 09:59:00`|`Call of Duty: Black Ops 3`|
 |[spectator list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717666-spectator-list.html)|`2025-09-15 09:08:00`|`Counter-Strike 2`|
 |[Mod Menu Crew v5&#46;3&#46;0  Definitive Edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/716042-mod-menu-crew-v5-3-0-definitive-edition.html)|`2025-09-15 09:03:00`|`Among Us`|
 |[Active Matter Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716880-active-matter-reversal.html)|`2025-09-15 08:41:00`|`Other FPS Games`|
