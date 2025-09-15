@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;UE4&#93;Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/244709-ue4-squad.html)|`2025-09-15 18:43:00`|`Other FPS Games`|
 |[DMA Help needed please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/715562-dma-help-please.html)|`2025-09-15 18:30:00`|`PC Hardware`|
 |[Does anyone know how to quickly complete the Flight School challenges?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/717419-quickly-complete-flight-school-challenges.html)|`2025-09-15 18:26:00`|`Grand Theft Auto V`|
 |[Dma error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/715040-dma-error.html)|`2025-09-15 18:22:00`|`PC Hardware`|
