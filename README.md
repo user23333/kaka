@@ -12,6 +12,7 @@
 |13|[Simple Valorant TriggerBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/717133-simple-valorant-triggerbot.html)|`2025-09-15 00:09:54`|`valorant`|
 |10|[Bypass Anti&#45;Cheat Genshin Impact 6&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/717352-bypass-anti-cheat-genshin-impact-6-0-a.html)|`2025-09-15 00:09:54`|`genshin-impact`|
 |12|[N0x Cheat &#45; My own private CS 2 Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717385-n0x-cheat-own-private-cs-2-menu.html)|`2025-09-15 09:17:36`|`counter-strike-2-a`|
+|25|[Chivalry 2 Chivalapocalypse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/717361-chivalry-2-chivalapocalypse.html)|`2025-09-15 23:01:12`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -37,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How can i use MouseClassServiceCallback](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716767-mouseclassservicecallback.html)|`2025-09-15 23:00:00`|`Anti-Cheat Bypass`|
 |[&#91;Release&#93; Full Entity List Traversal with TypeScript&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717718-release-entity-list-traversal-typescript.html)|`2025-09-15 22:52:00`|`Counter-Strike 2`|
 |[Enigma 6&#43; x64 unpack?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/717715-enigma-6-x64-unpack.html)|`2025-09-15 22:44:00`|`General Programming and Reversing`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-09-15 22:29:00`|`Sea of Thieves`|
