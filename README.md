@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[third person issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717684-third-person-issue.html)|`2025-09-16 07:27:00`|`Counter-Strike 2`|
+|[I'm looking for a reverser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/717776-im-looking-reverser.html)|`2025-09-16 07:24:00`|`Off Topic`|
 |[NEED HELP WITH SUPERFICIAL FEATURES HMU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/717667-help-superficial-features-hmu.html)|`2025-09-16 07:14:00`|`Call of Duty: Black Ops 6`|
 |[Among Us Discord Overlay ESP &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/717705-discord-overlay-esp-steam.html)|`2025-09-16 07:11:00`|`Among Us`|
 |[ID's for PD3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/709147-ids-pd3.html)|`2025-09-16 07:10:00`|`Payday 3`|
