@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NEED HELP WITH SUPERFICIAL FEATURES HMU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/717667-help-superficial-features-hmu.html)|`2025-09-16 07:14:00`|`Call of Duty: Black Ops 6`|
+|[Among Us Discord Overlay ESP &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/717705-discord-overlay-esp-steam.html)|`2025-09-16 07:11:00`|`Among Us`|
+|[ID's for PD3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/709147-ids-pd3.html)|`2025-09-16 07:10:00`|`Payday 3`|
+|[Wanting to build my own cs2 cheat and im a newbie at this&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717775-build-own-cs2-cheat-im-newbie.html)|`2025-09-16 07:10:00`|`Counter-Strike 2`|
+|[valorant external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/715247-valorant-external.html)|`2025-09-16 07:08:00`|`Valorant`|
 |[R6S External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/711453-r6s-external-base.html)|`2025-09-16 07:06:00`|`Rainbow Six Siege`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-09-16 07:03:00`|`Valorant`|
 |[PUBG PAK Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/717346-pubg-pak-files.html)|`2025-09-16 07:03:00`|`Playerunknown's Battlegrounds`|
