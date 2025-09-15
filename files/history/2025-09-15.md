@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help for EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717681-help-eac.html)|`2025-09-15 13:14:00`|`Anti-Cheat Bypass`|
+|[PROTECTED IL2CPP EXPORTS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/717680-protected-il2cpp-exports.html)|`2025-09-15 13:08:00`|`Forum General`|
+|[L4D2 &#45; Teleport exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717431-l4d2-teleport-exploit.html)|`2025-09-15 13:01:00`|`Other FPS Games`|
 |[skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717512-skinchanger.html)|`2025-09-15 12:50:00`|`Counter-Strike 2`|
 |[༺ 𝙉𝙊𝙑𝘼 ༻ — ✧ Ultimate Insyde Spoofer ✧](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712892-ultimate-insyde-spoofer.html)|`2025-09-15 12:48:00`|`Valorant`|
 |[ARP Spoof OpenWrt &#45; Trying avoid VAN Restriction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712090-arp-spoof-openwrt-trying-avoid-van-restriction.html)|`2025-09-15 10:58:00`|`Valorant`|
