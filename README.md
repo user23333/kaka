@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is it worth using spike timer cheats / overlays?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/717723-worth-using-spike-timer-cheats-overlays.html)|`2025-09-15 23:06:00`|`Valorant`|
+|[Sea of Thieves &#124; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/717696-sea-thieves-internal.html)|`2025-09-15 23:01:00`|`Sea of Thieves`|
 |[How can i use MouseClassServiceCallback](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716767-mouseclassservicecallback.html)|`2025-09-15 23:00:00`|`Anti-Cheat Bypass`|
 |[&#91;Release&#93; Full Entity List Traversal with TypeScript&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717718-release-entity-list-traversal-typescript.html)|`2025-09-15 22:52:00`|`Counter-Strike 2`|
 |[Enigma 6&#43; x64 unpack?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/717715-enigma-6-x64-unpack.html)|`2025-09-15 22:44:00`|`General Programming and Reversing`|
