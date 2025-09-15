@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Visibility check trace collides with local player &#40;filter not ignoring local pawn&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717730-visibility-check-trace-collides-local-player-filter-ignoring-local-pawn.html)|`2025-09-15 23:49:00`|`Counter-Strike 2`|
+|[Diablo 3 save ps4 season 36 or diablo save edit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/diablo-series/717729-diablo-3-save-ps4-season-36-diablo-save-edit.html)|`2025-09-15 23:45:00`|`Diablo Series`|
+|[C&#35; executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/716981-executor.html)|`2025-09-15 23:45:00`|`Alternative Online Mods`|
 |[how to do ud engine render](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/717726-ud-engine-render.html)|`2025-09-15 23:24:00`|`Escape from Tarkov`|
 |[Is it worth using spike timer cheats / overlays?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/717723-worth-using-spike-timer-cheats-overlays.html)|`2025-09-15 23:06:00`|`Valorant`|
 |[Sea of Thieves &#124; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/717696-sea-thieves-internal.html)|`2025-09-15 23:01:00`|`Sea of Thieves`|
