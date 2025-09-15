@@ -34,6 +34,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARP Spoof OpenWrt &#45; Trying avoid VAN Restriction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712090-arp-spoof-openwrt-trying-avoid-van-restriction.html)|`2025-09-15 10:58:00`|`Valorant`|
+|[SoundSight: CS2 Audio ESP &#45; 3D Spatial Sound Radar for Enemy Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691687-soundsight-cs2-audio-esp-3d-spatial-sound-radar-enemy-detection.html)|`2025-09-15 10:58:00`|`Counter-Strike 2`|
+|[spoofer and val5 val152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716990-spoofer-val5-val152.html)|`2025-09-15 10:57:00`|`Valorant`|
+|[Bypass Anti&#45;Cheat Genshin Impact 6&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/717352-bypass-anti-cheat-genshin-impact-6-0-a.html)|`2025-09-15 10:50:00`|`Genshin Impact`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-09-15 10:48:00`|`Grand Theft Auto V`|
+|[FREE SHARE SOME CERTIFICATES](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717155-free-share-certificates.html)|`2025-09-15 10:47:00`|`Anti-Cheat Bypass`|
 |[NEED HELP WITH SUPERFICIAL FEATURES HMU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/717667-help-superficial-features-hmu.html)|`2025-09-15 10:24:00`|`Call of Duty: Black Ops 6`|
 |[N0x Cheat &#45; My own private CS 2 Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717385-n0x-cheat-own-private-cs-2-menu.html)|`2025-09-15 10:18:00`|`Counter-Strike 2`|
 |[FACEIT AC Deep Freeze/Toolwiz Time Freeze](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717674-faceit-ac-deep-freeze-toolwiz-time-freeze.html)|`2025-09-15 10:15:00`|`Anti-Cheat Bypass`|
