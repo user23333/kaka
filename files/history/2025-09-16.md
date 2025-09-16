@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BO4 Platin via recovery](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-4-a/717450-bo4-platin-via-recovery.html)|`2025-09-16 23:27:00`|`Call of Duty: Black Ops 4`|
+|[How to Bypass Ban in Delta Force?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/679069-bypass-ban-delta-force.html)|`2025-09-16 23:20:00`|`Other FPS Games`|
 |[Help with internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/717837-help-internal.html)|`2025-09-16 23:00:00`|`Alternative Online Mods`|
 |[Why my transforms positions are jittering?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/717833-transforms-positions-jittering.html)|`2025-09-16 22:45:00`|`Rust`|
 |[Borderlands 4 Loot chance modifier &#40;or spawner if possible&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/717832-borderlands-4-loot-chance-modifier-spawner.html)|`2025-09-16 22:30:00`|`Other Single Player Games`|
