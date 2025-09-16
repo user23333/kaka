@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Material "Editor" for chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709601-material-editor-chams.html)|`2025-09-17 01:43:00`|`Counter-Strike 2`|
+|[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-09-17 01:42:00`|`Sea of Thieves`|
+|[gta 5 battleye working menu &#40;no dma&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/714342-gta-5-battleye-menu-dma.html)|`2025-09-17 01:42:00`|`Grand Theft Auto V`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-09-17 01:35:00`|`Other Games`|
+|[VAC Live Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716649-vac-live-update.html)|`2025-09-17 01:28:00`|`Counter-Strike 2`|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-09-17 01:28:00`|`HELLDIVERS 2`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-09-17 01:27:00`|`Valorant`|
 |[Advanced norecoil script for esp32s3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710109-advanced-norecoil-script-esp32s3.html)|`2025-09-17 01:26:00`|`Rust`|
 |[Arduino detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/717547-arduino-detected.html)|`2025-09-17 01:24:00`|`Apex Legends`|
