@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-09-16 21:38:00`|`Other Games`|
+|[Hero debug menu, Force start, animations & starfighter exploits &#40;Standalone&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/633092-hero-debug-menu-force-start-animations-starfighter-exploits-standalone.html)|`2025-09-16 21:23:00`|`Star Wars Battlefront 2`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-09-16 21:14:00`|`Other FPS Games`|
 |[DMA firmware XHCI emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715787-dma-firmware-xhci-emulation.html)|`2025-09-16 21:04:00`|`Anti-Cheat Bypass`|
 |[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2025-09-16 20:58:00`|`Counter-Strike 2 Releases`|
