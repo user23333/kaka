@@ -12,6 +12,7 @@
 |13|[Bypass Anti&#45;Cheat Genshin Impact 6&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/717352-bypass-anti-cheat-genshin-impact-6-0-a.html)|`2025-09-16 00:15:08`|`genshin-impact`|
 |25|[Chivalry 2 Chivalapocalypse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/717361-chivalry-2-chivalapocalypse.html)|`2025-09-16 00:15:08`|`other-games`|
 |13|[N0x Cheat &#45; My own private CS 2 Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717385-n0x-cheat-own-private-cs-2-menu.html)|`2025-09-16 01:24:44`|`counter-strike-2-a`|
+|0|[Borderlands 4 Weapon/Gear Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/717456-borderlands-4-weapon-gear-editor.html)|`2025-09-16 19:22:46`|`other-single-player-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -26,9 +27,12 @@
 |118|[Charlie Kirkware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51192)|`2025-09-16 00:15:08`|
 |147|[Charlie Kirkware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51191)|`2025-09-16 00:15:08`|
 |1|[PUBG&#95;37&#46;2&#46;1&#46;81&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51201)|`2025-09-16 13:57:40`|
+|1|[Oxide v2 Debug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51226)|`2025-09-16 19:22:46`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Oxide Engine &#124; New Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715554-oxide-engine-cheat-engine.html)|`2025-09-16 19:20:00`|`Anti-Cheat Bypass`|
+|[Risk of Tears &#45; Risk of Rain 2 internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/633262-risk-tears-risk-rain-2-internal-cheat.html)|`2025-09-16 19:14:00`|`Other FPS Games`|
 |[EVO3 &#124; Updated External Legit/Semi&#45;Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/713273-evo3-updated-external-legit-semi-rage-cheat.html)|`2025-09-16 19:08:00`|`Counter-Strike 2 Releases`|
 |[TPM / HVCI / SB Popup Bypass by freezing Dnscache](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702867-tpm-hvci-sb-popup-bypass-freezing-dnscache.html)|`2025-09-16 18:51:00`|`Valorant`|
 |[Squad UE5 Config/Engine&#46;ini](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717157-squad-ue5-config-engine-ini.html)|`2025-09-16 18:49:00`|`Other FPS Games`|
