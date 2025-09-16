@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How can I create a server management tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/717797-create-server-management-tool.html)|`2025-09-16 13:08:00`|`Battlefield V`|
 |[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/682483-demonologist-internal.html)|`2025-09-16 12:27:00`|`Other Games`|
 |[Valorant raid m2&#46;ssd serial Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/717792-valorant-raid-m2-ssd-serial-changer.html)|`2025-09-16 12:25:00`|`Valorant`|
 |[Any update on Kiddions Mod menu for enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/717314-update-kiddions-mod-menu-enhanced.html)|`2025-09-16 12:18:00`|`Grand Theft Auto V`|
