@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Auto Updating Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/636910-auto-updating-super-animal-royale-hack.html)|`2025-09-16 12:15:00`|`Other Games`|
+|[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2025-09-16 11:59:00`|`Grand Theft Auto V`|
 |[BO6 Warzone Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/712688-bo6-warzone-internal-cheat.html)|`2025-09-16 11:47:00`|`Call of Duty: Black Ops 6`|
 |[I would like to donate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/717503-donate.html)|`2025-09-16 11:34:00`|`Forum General`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-09-16 11:15:00`|`Counter-Strike 2 Releases`|
