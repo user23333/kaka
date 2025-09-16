@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HWho &#45; a slightly more fun bsg launcher hwid check bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/494040-hwho-slightly-fun-bsg-launcher-hwid-check-bypass.html)|`2025-09-16 08:16:00`|`Escape from Tarkov`|
+|[a problem with my own phasmophobia cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/717602-own-phasmophobia-cheat.html)|`2025-09-16 08:12:00`|`Phasmophobia`|
+|[valorant internal source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716050-valorant-internal-source.html)|`2025-09-16 08:05:00`|`Valorant`|
 |[How can i use MouseClassServiceCallback](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716767-mouseclassservicecallback.html)|`2025-09-16 07:45:00`|`Anti-Cheat Bypass`|
 |[third person issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717684-third-person-issue.html)|`2025-09-16 07:27:00`|`Counter-Strike 2`|
 |[I'm looking for a reverser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/717776-im-looking-reverser.html)|`2025-09-16 07:24:00`|`Off Topic`|
