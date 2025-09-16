@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Borderlands 4 Loot chance modifier &#40;or spawner if possible&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/717832-borderlands-4-loot-chance-modifier-spawner.html)|`2025-09-16 22:30:00`|`Other Single Player Games`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-09-16 22:25:00`|`Other MMORPG and Strategy`|
+|[Banned on a different device on same network](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716928-banned-device-network.html)|`2025-09-16 22:20:00`|`Apex Legends`|
 |[esp lagging](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/717830-esp-lagging.html)|`2025-09-16 22:09:00`|`Valorant`|
 |[Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717829-chams.html)|`2025-09-16 21:57:00`|`Counter-Strike 2`|
 |[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-09-16 21:38:00`|`Other Games`|
