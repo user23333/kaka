@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EVO3 &#124; Updated External Legit/Semi&#45;Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/713273-evo3-updated-external-legit-semi-rage-cheat.html)|`2025-09-16 19:08:00`|`Counter-Strike 2 Releases`|
+|[TPM / HVCI / SB Popup Bypass by freezing Dnscache](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702867-tpm-hvci-sb-popup-bypass-freezing-dnscache.html)|`2025-09-16 18:51:00`|`Valorant`|
 |[Squad UE5 Config/Engine&#46;ini](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717157-squad-ue5-config-engine-ini.html)|`2025-09-16 18:49:00`|`Other FPS Games`|
 |[rust without EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/716975-rust-eac.html)|`2025-09-16 18:34:00`|`Rust`|
 |[Undetected Cheat Engine &#43; Debugger for League of Legends &#124; &#40;2023 &#45; No Crashes&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/562594-undetected-cheat-engine-debugger-league-legends-2023-crashes.html)|`2025-09-16 18:17:00`|`League of Legends`|
