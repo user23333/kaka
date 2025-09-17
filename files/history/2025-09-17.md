@@ -25,9 +25,13 @@
 |22|[PUBG&#95;37&#46;2&#46;1&#46;81&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51201)|`2025-09-17 00:11:02`|
 |34|[alt&#45;syscall&#45;monitor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51200)|`2025-09-17 00:11:02`|
 |1|[Zykof internal cheat farlight v3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51221)|`2025-09-17 00:35:09`|
+|2|[Overwatch External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51238)|`2025-09-17 19:08:33`|
+|2|[11&#46;06 Valorant SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51231)|`2025-09-17 19:08:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BO6 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/717874-bo6-internal.html)|`2025-09-17 19:07:00`|`Call of Duty: Black Ops 6`|
+|[Spectre Divide Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/652896-spectre-divide-reversal-structs-offsets.html)|`2025-09-17 19:04:00`|`Other FPS Games`|
 |[Skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/606035-skinchanger.html)|`2025-09-17 18:32:00`|`Team Fortress 2`|
 |[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2025-09-17 18:26:00`|`Other FPS Games`|
 |[EVO3 &#124; Updated External Legit/Semi&#45;Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/713273-evo3-updated-external-legit-semi-rage-cheat.html)|`2025-09-17 18:23:00`|`Counter-Strike 2 Releases`|
