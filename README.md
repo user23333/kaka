@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;SC&#93; StartService FAILED 161: MICROSOFT SIGNATURE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/717956-sc-startservice-failed-161-microsoft-signature.html)|`2025-09-17 20:51:00`|`C and C++`|
+|[External ESP for Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/717952-external-esp-windows.html)|`2025-09-17 20:34:00`|`Apex Legends`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-09-17 19:59:00`|`Escape from Tarkov`|
 |[CS2 Python Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/633657-cs2-python-cheat.html)|`2025-09-17 19:53:00`|`Counter-Strike 2 Releases`|
 |[pubg kaka and stay source &#91;DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/698494-pubg-kaka-stay-source-dma.html)|`2025-09-17 19:47:00`|`Playerunknown's Battlegrounds`|
