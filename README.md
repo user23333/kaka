@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Age Of Empires 4 SCAR Lua Injection &#45; Fog&#45;of&#45;War Reveal, HUD Tweaks &#45; Steam/Xbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/707091-age-empires-4-scar-lua-injection-fog-war-reveal-hud-tweaks-steam-xbox.html)|`2025-09-18 06:39:00`|`Other MMORPG and Strategy`|
 |[The Egg or the Chicken ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/718020-egg-chicken.html)|`2025-09-18 06:25:00`|`Off Topic`|
 |[No External cheats working for me&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718001-external-cheats.html)|`2025-09-18 06:16:00`|`Counter-Strike 2`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-09-18 06:09:00`|`Phasmophobia`|
