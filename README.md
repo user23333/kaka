@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how could i make an external aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/718024-external-aimbot.html)|`2025-09-18 07:23:00`|`Counter-Strike 2 Releases`|
+|[Chivalry 2 Chivalapocalypse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/717361-chivalry-2-chivalapocalypse.html)|`2025-09-18 07:20:00`|`Other Games`|
 |[Driver Signing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717640-driver-signing.html)|`2025-09-18 06:59:00`|`Anti-Cheat Bypass`|
 |[external BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/702640-external-bo6.html)|`2025-09-18 06:57:00`|`Call of Duty: Black Ops 6`|
 |[cfemen & gir489's Ready or Not hook v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632144-cfemen-gir489s-ready-hook-v1-0-a.html)|`2025-09-18 06:56:00`|`Other FPS Games`|
