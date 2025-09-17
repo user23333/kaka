@@ -24,9 +24,12 @@
 |29|[5&#46;3&#46;2&#45;2327098&#43;&#43;&#43;depot&#95;marvel&#43;S4&#46;0&#95;release&#45;Mar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51216)|`2025-09-18 00:22:12`|
 |159|[ChivalApocalypse V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51212)|`2025-09-18 00:22:12`|
 |120|[esp base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51211)|`2025-09-18 00:22:12`|
+|1|[gi&#95;bypass2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51247)|`2025-09-18 03:46:49`|
+|1|[GI 6&#46;0 TableV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51246)|`2025-09-18 03:46:49`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypass Anti&#45;Cheat Genshin Impact 6&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/717352-bypass-anti-cheat-genshin-impact-6-0-a.html)|`2025-09-18 03:41:00`|`Genshin Impact`|
 |[Exoborne Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717905-exoborne-reversal-structs-offsets.html)|`2025-09-18 03:33:00`|`Other FPS Games`|
 |[DLL and Source &#124; Internal Cheat &#124; SmokeTimer SpeedView ESP&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716925-dll-source-internal-cheat-smoketimer-speedview-esp.html)|`2025-09-18 03:29:00`|`Counter-Strike 2`|
 |[Calling Game Internal Functions Externally by cloning Runtime DLL Memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717998-calling-game-internal-functions-externally-cloning-runtime-dll-memory.html)|`2025-09-18 03:28:00`|`Counter-Strike 2`|
