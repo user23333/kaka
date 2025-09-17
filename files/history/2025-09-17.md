@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple Kernel External With Web Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717917-simple-kernel-external-web-menu.html)|`2025-09-17 14:46:00`|`Counter-Strike 2`|
 |[new cs2 update esp issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717916-cs2-update-esp-issue.html)|`2025-09-17 14:41:00`|`Counter-Strike 2`|
 |[༺ 𝙉𝙊𝙑𝘼 ༻ — ✧ Ultimate Insyde Spoofer ✧](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712892-ultimate-insyde-spoofer.html)|`2025-09-17 13:50:00`|`Valorant`|
 |[How to Find Offsets in Cheat Engine &#40;Using Health Address as Example&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/709268-offsets-cheat-engine-using-health-address-example.html)|`2025-09-17 13:37:00`|`League of Legends`|
