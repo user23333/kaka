@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Exoborne Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717905-exoborne-reversal-structs-offsets.html)|`2025-09-18 03:33:00`|`Other FPS Games`|
+|[DLL and Source &#124; Internal Cheat &#124; SmokeTimer SpeedView ESP&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716925-dll-source-internal-cheat-smoketimer-speedview-esp.html)|`2025-09-18 03:29:00`|`Counter-Strike 2`|
+|[Calling Game Internal Functions Externally by cloning Runtime DLL Memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717998-calling-game-internal-functions-externally-cloning-runtime-dll-memory.html)|`2025-09-18 03:28:00`|`Counter-Strike 2`|
+|[Bloodhunt Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/715768-bloodhunt-internal.html)|`2025-09-18 03:27:00`|`Other FPS Games`|
 |[AssaultCube External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717085-assaultcube-external.html)|`2025-09-18 03:25:00`|`Other FPS Games`|
 |[Wireframe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717997-wireframe.html)|`2025-09-18 03:19:00`|`Counter-Strike 2`|
 |[Humanized aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717685-humanized-aimbot.html)|`2025-09-18 03:12:00`|`Counter-Strike 2`|
