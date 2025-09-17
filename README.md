@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mouse Movement Method &#45; &#40;more secure than sign driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716376-mouse-movement-method-secure-sign-driver.html)|`2025-09-17 13:16:00`|`Valorant`|
 |[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2025-09-17 12:55:00`|`Elite: Dangerous`|
 |[Overwatch External &#45; &#91;UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/717914-overwatch-external-updated.html)|`2025-09-17 12:51:00`|`Overwatch`|
 |[Ban Data Collection Thread/Unban Method Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/420476-ban-data-collection-thread-unban-method-discussion.html)|`2025-09-17 12:43:00`|`Escape from Tarkov`|
