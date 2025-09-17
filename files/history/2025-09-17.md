@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-09-17 15:05:00`|`Counter-Strike 2 Releases`|
+|[Insane Spike Assistant – Region Preference Tool for Sea of Thieves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/716496-insane-spike-assistant-region-preference-tool-sea-thieves.html)|`2025-09-17 15:02:00`|`Sea of Thieves`|
 |[Kernel 0day for R/W](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717711-kernel-0day.html)|`2025-09-17 14:56:00`|`Anti-Cheat Bypass`|
 |[Simple Kernel External With Web Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717917-simple-kernel-external-web-menu.html)|`2025-09-17 14:46:00`|`Counter-Strike 2`|
 |[new cs2 update esp issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717916-cs2-update-esp-issue.html)|`2025-09-17 14:41:00`|`Counter-Strike 2`|
