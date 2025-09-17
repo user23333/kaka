@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[dungeons of eternity vr cheat trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717295-dungeons-eternity-vr-cheat-trainer.html)|`2025-09-18 07:34:00`|`Other FPS Games`|
+|[Finally a working External SkinChanger for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689733-finally-external-skinchanger-cs2.html)|`2025-09-18 07:32:00`|`Counter-Strike 2`|
 |[CS2 External Skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717977-cs2-external-skinchanger.html)|`2025-09-18 07:29:00`|`Counter-Strike 2`|
 |[how could i make an external aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/718024-external-aimbot.html)|`2025-09-18 07:23:00`|`Counter-Strike 2 Releases`|
 |[Chivalry 2 Chivalapocalypse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/717361-chivalry-2-chivalapocalypse.html)|`2025-09-18 07:20:00`|`Other Games`|
