@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-09-18 06:09:00`|`Phasmophobia`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-09-18 06:07:00`|`Phasmophobia`|
+|[Real time web menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718018-real-time-web-menu.html)|`2025-09-18 06:03:00`|`Counter-Strike 2`|
+|[searching for safe valorant hack's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/717969-searching-safe-valorant-hacks.html)|`2025-09-18 06:03:00`|`Valorant`|
+|[Esp32s3 help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/717966-esp32s3-help.html)|`2025-09-18 06:02:00`|`Rust`|
+|[What is flashing bios for?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/718006-flashing-bios.html)|`2025-09-18 06:01:00`|`Valorant`|
 |[What is actually the best cheat to get](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/718012-actually-cheat.html)|`2025-09-18 05:46:00`|`Rust`|
 |[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2025-09-18 05:43:00`|`Other MMORPG and Strategy`|
 |[How to Bypass Ban in Delta Force?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/679069-bypass-ban-delta-force.html)|`2025-09-18 05:38:00`|`Other FPS Games`|
