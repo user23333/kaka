@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Newest fortnite offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/718092-fortnite-offsets.html)|`2025-09-18 16:50:00`|`Forum General`|
+|[Palworld Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/620076-palworld-reversal-structs-offsets.html)|`2025-09-18 16:41:00`|`Palworld`|
 |[Rust External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/718089-rust-external-base.html)|`2025-09-18 16:14:00`|`Rust`|
 |[pubg kaka and stay source &#91;DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/698494-pubg-kaka-stay-source-dma.html)|`2025-09-18 15:28:00`|`Playerunknown's Battlegrounds`|
 |[cheating on faceit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717958-cheating-faceit.html)|`2025-09-18 15:19:00`|`Counter-Strike 2`|
