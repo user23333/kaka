@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unable to inject any dll into the game&#40;standalone version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/717967-unable-inject-dll-game-standalone-version.html)|`2025-09-18 12:47:00`|`Farlight 84`|
+|[External Farlight 84 Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/661656-external-farlight-84-free-cheat.html)|`2025-09-18 12:44:00`|`Farlight 84`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-09-18 12:43:00`|`Alternative Online Mods`|
 |[༺ 𝙉𝙊𝙑𝘼 ༻ — ✧ Ultimate Insyde Spoofer ✧](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712892-ultimate-insyde-spoofer.html)|`2025-09-18 12:32:00`|`Valorant`|
 |[Arduino or rp2040 to realize keyboard and mouse and apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/715901-arduino-rp2040-realize-keyboard-mouse-apex-macro.html)|`2025-09-18 11:57:00`|`Apex Legends`|
 |[Why can't I get the game base address?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/718045-cant-game-base-address.html)|`2025-09-18 11:45:00`|`League of Legends`|
