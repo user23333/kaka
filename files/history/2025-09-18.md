@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cheating on faceit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717958-cheating-faceit.html)|`2025-09-18 15:19:00`|`Counter-Strike 2`|
 |[Screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/714385-screenshots.html)|`2025-09-18 15:14:00`|`Call of Duty: Black Ops 6`|
 |[I just want some feedback on my cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717744-feedback-cheeto.html)|`2025-09-18 15:10:00`|`Counter-Strike 2`|
 |[ScamCode by Hook &#91;FREE CHEAT&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/716680-scamcode-hook-free-cheat.html)|`2025-09-18 15:09:00`|`Warface`|
