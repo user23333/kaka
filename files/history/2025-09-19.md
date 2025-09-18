@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Feedback on humanized recoil compensation please :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717805-feedback-humanized-recoil-compensation-please.html)|`2025-09-19 05:39:00`|`Counter-Strike 2`|
+|[Tips for doing valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/718168-tips-doing-valorant.html)|`2025-09-19 05:38:00`|`Valorant`|
+|[FiveM LoadLibraryA Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/714229-fivem-loadlibrarya-injector.html)|`2025-09-19 05:36:00`|`Alternative Online Mods`|
+|[rust dma full source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/718166-rust-dma-source.html)|`2025-09-19 05:35:00`|`Rust`|
 |[esp32s3 help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/718093-esp32s3-help.html)|`2025-09-19 05:33:00`|`Rust`|
 |[dma &#43; external source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718165-dma-external-source.html)|`2025-09-19 05:31:00`|`Counter-Strike 2`|
 |[backdoors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/718164-backdoors.html)|`2025-09-19 05:27:00`|`Garry's Mod`|
