@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-09-19 06:19:00`|`Counter-Strike 2 Releases`|
 |[r6 dma cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/710790-r6-dma-cheat.html)|`2025-09-19 06:10:00`|`Rainbow Six Siege`|
 |[Driver Signing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717640-driver-signing.html)|`2025-09-19 06:06:00`|`Anti-Cheat Bypass`|
 |[Isolated Exec](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/718171-isolated-exec.html)|`2025-09-19 05:49:00`|`Alternative Online Mods`|
