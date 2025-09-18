@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Isolated Exec](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/718171-isolated-exec.html)|`2025-09-19 05:49:00`|`Alternative Online Mods`|
 |[External ESP is behind from the game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718170-external-esp-game.html)|`2025-09-19 05:45:00`|`Counter-Strike 2`|
 |[Feedback on humanized recoil compensation please :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717805-feedback-humanized-recoil-compensation-please.html)|`2025-09-19 05:39:00`|`Counter-Strike 2`|
 |[Tips for doing valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/718168-tips-doing-valorant.html)|`2025-09-19 05:38:00`|`Valorant`|
