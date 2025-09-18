@@ -12,6 +12,7 @@
 |19|[Simple Valorant TriggerBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/717133-simple-valorant-triggerbot.html)|`2025-09-18 00:22:12`|`valorant`|
 |18|[N0x Cheat &#45; My own private CS 2 Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717385-n0x-cheat-own-private-cs-2-menu.html)|`2025-09-18 00:22:12`|`counter-strike-2-a`|
 |32|[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2025-09-18 10:21:35`|`helldivers-2-a`|
+|44|[Farlight cheat internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/717566-farlight-cheat-internal.html)|`2025-09-18 12:11:58`|`farlight-84-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino or rp2040 to realize keyboard and mouse and apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/715901-arduino-rp2040-realize-keyboard-mouse-apex-macro.html)|`2025-09-18 11:57:00`|`Apex Legends`|
 |[Why can't I get the game base address?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/718045-cant-game-base-address.html)|`2025-09-18 11:45:00`|`League of Legends`|
 |[Roblox External &#45; &#91;ALWAYS UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717679-roblox-external-updated.html)|`2025-09-18 11:41:00`|`Other FPS Games`|
 |[Skate 4 Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/514380-skate-4-internal-cheat.html)|`2025-09-18 11:27:00`|`Other Games`|
