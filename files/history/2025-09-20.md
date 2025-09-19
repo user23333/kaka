@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[fTPM Full Spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/717761-ftpm-spoof.html)|`2025-09-20 00:59:00`|`Valorant`|
+|[TPM / HVCI / SB Popup Bypass by freezing Dnscache](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702867-tpm-hvci-sb-popup-bypass-freezing-dnscache.html)|`2025-09-20 00:59:00`|`Valorant`|
+|[Nuclear Nightmare internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718268-nuclear-nightmare-internal.html)|`2025-09-20 00:57:00`|`Other Games`|
+|[spf main asus b760m](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/718258-spf-main-asus-b760m.html)|`2025-09-20 00:56:00`|`Valorant`|
+|[Vanguard Bypass&#43;Secure Boot Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712663-vanguard-bypass-secure-boot-bypass.html)|`2025-09-20 00:55:00`|`Valorant`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-09-20 00:44:00`|`Alternative Online Mods`|
 |[gta 5 battleye working menu &#40;no dma&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/714342-gta-5-battleye-menu-dma.html)|`2025-09-20 00:38:00`|`Grand Theft Auto V`|
 |[using kernel drivers as an alternative to DMA for memory access](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718266-using-kernel-drivers-alternative-dma-memory-access.html)|`2025-09-20 00:32:00`|`Anti-Cheat Bypass`|
