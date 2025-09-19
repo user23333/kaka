@@ -34,6 +34,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-09-20 01:55:00`|`Marvel Rivals`|
+|[Can someone help me fix the cause of bsod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718184-help-fix-cause-bsod.html)|`2025-09-20 01:55:00`|`Anti-Cheat Bypass`|
+|[GuardSystem Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718143-guardsystem-anticheat.html)|`2025-09-20 01:52:00`|`Anti-Cheat Bypass`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-09-20 01:51:00`|`Grand Theft Auto V`|
+|[Unblacklisted &#40;leaked&#41; Kernel mode Driver signing certificates requesting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718244-unblacklisted-leaked-kernel-mode-driver-signing-certificates-requesting.html)|`2025-09-20 01:50:00`|`Anti-Cheat Bypass`|
+|[battlebit  esp base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlebit-remastered/717600-battlebit-esp-base.html)|`2025-09-20 01:50:00`|`BattleBit Remastered`|
 |[dma &#43; external source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718165-dma-external-source.html)|`2025-09-20 01:49:00`|`Counter-Strike 2`|
 |[Farlight cheat internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/717566-farlight-cheat-internal.html)|`2025-09-20 01:48:00`|`Farlight 84`|
 |[Emulate Digital Signatures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/718271-emulate-digital-signatures.html)|`2025-09-20 01:48:00`|`Valorant`|
