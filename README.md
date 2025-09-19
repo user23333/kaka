@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FACEIT ALL DMA FW BLOCKED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718084-faceit-dma-fw-blocked.html)|`2025-09-19 10:12:00`|`Anti-Cheat Bypass`|
+|[The Finals External Cheat DMA&#33;&#33;&#40;Just Run It&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/640995-finals-external-cheat-dma-run.html)|`2025-09-19 09:48:00`|`THE FINALS`|
+|[Ashes of Creation Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/463992-ashes-creation-reversal-structs-offsets.html)|`2025-09-19 09:48:00`|`Other MMORPG and Strategy`|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-09-19 09:43:00`|`Farlight 84`|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-09-19 09:25:00`|`Counter-Strike 2 Releases`|
+|[Strinova Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667041-strinova-reversal-structs-offsets.html)|`2025-09-19 09:21:00`|`Other FPS Games`|
 |[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2025-09-19 08:15:00`|`Other FPS Games`|
 |[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-09-19 08:06:00`|`HELLDIVERS 2`|
 |[Linux ImGui Loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717045-linux-imgui-loader.html)|`2025-09-19 07:51:00`|`Counter-Strike 2`|
