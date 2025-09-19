@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Roblox external byfron bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/710389-roblox-external-byfron-bypass.html)|`2025-09-19 15:42:00`|`Other Games`|
+|[Roblox executors available?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715282-roblox-executors-available.html)|`2025-09-19 15:41:00`|`Other Games`|
+|[Can i unlink my account without waiting 12 months?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/717731-unlink-account-waiting-12-months.html)|`2025-09-19 15:38:00`|`Call of Duty: Black Ops 6`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-09-19 15:34:00`|`Grand Theft Auto V`|
 |[Vulnerable Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718205-vulnerable-driver.html)|`2025-09-19 15:22:00`|`Anti-Cheat Bypass`|
 |[HWID Ban or not?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/718204-hwid-ban.html)|`2025-09-19 15:14:00`|`Rust`|
