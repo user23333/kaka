@@ -13,6 +13,7 @@
 |20|[Simple Outline](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/717443-simple-outline.html)|`2025-09-20 00:16:26`|`overwatch`|
 |0|[Bypass Genshin 6&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/717543-bypass-genshin-6-0-a.html)|`2025-09-20 00:36:34`|`genshin-impact`|
 |4|[simple base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/717603-simple-base.html)|`2025-09-20 01:49:52`|`rust`|
+|6|[Borderlands 4 Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/717789-borderlands-4-reversal-structs-offsets.html)|`2025-09-20 04:17:21`|`other-single-player-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,9 +35,11 @@
 |0|[EVO&#95;3&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51262)|`2025-09-20 02:55:28`|
 |4|[driver&#45;read&#45;mem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51258)|`2025-09-20 03:21:08`|
 |4|[EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51253)|`2025-09-20 03:46:36`|
+|3|[tot&#95;esp583](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51270)|`2025-09-20 04:17:21`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External GameEntitySystem Functions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718287-external-gameentitysystem-functions.html)|`2025-09-20 03:59:00`|`Counter-Strike 2`|
 |[ScamCode by Hook &#91;FREE CHEAT&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/716680-scamcode-hook-free-cheat.html)|`2025-09-20 03:57:00`|`Warface`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-09-20 03:54:00`|`Overwatch`|
 |[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-09-20 03:49:00`|`Grand Theft Auto V`|
