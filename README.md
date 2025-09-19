@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ScamCode by Hook &#91;FREE CHEAT&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/716680-scamcode-hook-free-cheat.html)|`2025-09-20 03:57:00`|`Warface`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-09-20 03:54:00`|`Overwatch`|
 |[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-09-20 03:49:00`|`Grand Theft Auto V`|
 |[DavidUmm's ValoTriggerbot &#124; UPDATED&#124; RELEASE SOON](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/687159-davidumms-valotriggerbot-updated-release-soon.html)|`2025-09-20 03:44:00`|`Valorant`|
 |[&#91;New&#93; Super People Reversal, Structs, and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705622-super-people-reversal-structs-offsets.html)|`2025-09-20 03:40:00`|`Other FPS Games`|
