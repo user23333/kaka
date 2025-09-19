@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Python DMA Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/712854-python-dma-web-radar.html)|`2025-09-19 17:45:00`|`DayZ SA`|
 |[DayZ Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/639749-dayz-dumper.html)|`2025-09-19 17:42:00`|`DayZ SA`|
 |[BO6 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/717874-bo6-internal.html)|`2025-09-19 17:39:00`|`Call of Duty: Black Ops 6`|
 |[Kotor 1 Trainer C&#35;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/718211-kotor-1-trainer.html)|`2025-09-19 17:03:00`|`Other MMORPG and Strategy`|
