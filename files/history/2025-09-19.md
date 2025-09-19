@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-09-19 14:12:00`|`Other FPS Games`|
 |[rust cheat that is just no spread&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/717904-rust-cheat-spread.html)|`2025-09-19 12:19:00`|`Rust`|
 |[What inspired you to start game hacking&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/715415-inspired-start-game-hacking.html)|`2025-09-19 11:59:00`|`Off Topic`|
 |[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2025-09-19 11:53:00`|`Other FPS Games`|
