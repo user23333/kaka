@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dump of some of the classes inheritance&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/718260-dump-classes-inheritance.html)|`2025-09-19 23:40:00`|`Rainbow Six Siege`|
 |[spf main asus b760m](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/718258-spf-main-asus-b760m.html)|`2025-09-19 23:20:00`|`Valorant`|
 |[Unblacklisted &#40;leaked&#41; Kernel mode Driver signing certificates requesting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718244-unblacklisted-leaked-kernel-mode-driver-signing-certificates-requesting.html)|`2025-09-19 22:51:00`|`Anti-Cheat Bypass`|
 |[dayz cheat external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/703099-dayz-cheat-external.html)|`2025-09-19 22:40:00`|`DayZ SA`|
