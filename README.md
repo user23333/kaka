@@ -40,6 +40,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Internal Base/Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/718320-rust-internal-base-help.html)|`2025-09-20 14:12:00`|`Rust`|
+|[Ground of Aces](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/718033-ground-aces.html)|`2025-09-20 14:04:00`|`Other MMORPG and Strategy`|
+|[VAC Live Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716649-vac-live-update.html)|`2025-09-20 14:03:00`|`Counter-Strike 2`|
+|[simple external entity esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/717066-simple-external-entity-esp.html)|`2025-09-20 13:55:00`|`Rust`|
 |[An Example Of Mouse Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/694660-example-mouse-driver.html)|`2025-09-20 13:48:00`|`Valorant`|
 |[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2025-09-20 13:44:00`|`Other FPS Games`|
 |[Simulating the buttons/actions for the new Genesis Uplink Terminal?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718318-simulating-buttons-actions-genesis-uplink-terminal.html)|`2025-09-20 13:08:00`|`Counter-Strike 2`|
