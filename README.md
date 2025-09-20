@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Search for free Cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/718281-search-free-cheats.html)|`2025-09-21 03:25:00`|`Rust`|
+|[SECURE BOOT BO7 development questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/718425-secure-boot-bo7-development-questions.html)|`2025-09-21 03:25:00`|`Call of Duty: Black Ops 6`|
 |[SPOOFING ALIENWARE m15 R3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/718090-spoofing-alienware-m15-r3.html)|`2025-09-21 03:14:00`|`Valorant`|
 |[Autowall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718336-autowall.html)|`2025-09-21 03:10:00`|`Counter-Strike 2`|
 |[FOV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/714239-fov.html)|`2025-09-21 03:08:00`|`Sea of Thieves`|
