@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Borderlands 4 Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/717789-borderlands-4-reversal-structs-offsets.html)|`2025-09-21 06:18:00`|`Other Single Player Games`|
+|[Shadow Region Reversal Struct and Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708947-shadow-region-reversal-struct-offset.html)|`2025-09-21 06:17:00`|`Valorant`|
 |[Brawlhalla Combo Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/712728-brawlhalla-combo-bot.html)|`2025-09-21 05:57:00`|`Other Games`|
 |[Is there any way to find Shadow CR3 in EFI environment without decryption?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/718435-shadow-cr3-efi-environment-decryption.html)|`2025-09-21 05:47:00`|`Valorant`|
 |[Decrypting Lua Byte Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/717448-decrypting-lua-byte-code.html)|`2025-09-21 05:34:00`|`Alternative Online Mods`|
