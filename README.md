@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mrpc 4&#46;0 offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/718341-mrpc-4-0-offset.html)|`2025-09-20 19:05:00`|`PUBG Mobile`|
 |[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2025-09-20 18:52:00`|`Counter-Strike 2 Releases`|
 |[Where is appearance info stored?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/718339-appearance-info-stored.html)|`2025-09-20 18:40:00`|`Grand Theft Auto V`|
 |[HWID Ban or not?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/718204-hwid-ban.html)|`2025-09-20 18:15:00`|`Rust`|
