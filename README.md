@@ -40,6 +40,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simulating the buttons/actions for the new Genesis Uplink Terminal?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718318-simulating-buttons-actions-genesis-uplink-terminal.html)|`2025-09-20 13:08:00`|`Counter-Strike 2`|
 |[kdu vs kdmapper vs SC&#46;exe for VAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718180-kdu-vs-kdmapper-vs-sc-exe-vac.html)|`2025-09-20 13:01:00`|`Anti-Cheat Bypass`|
 |[FREE SHARE SOME CERTIFICATES](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717155-free-share-certificates.html)|`2025-09-20 12:14:00`|`Anti-Cheat Bypass`|
 |[Once Human &#40;game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/614970-human-game.html)|`2025-09-20 11:43:00`|`Other MMORPG and Strategy`|
