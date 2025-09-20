@@ -40,6 +40,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/718019-offsets.html)|`2025-09-20 10:00:00`|`Call of Duty: Black Ops 6`|
+|[Mage Arena &#45; Level Spoofer &#40;persistent&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716731-mage-arena-level-spoofer-persistent.html)|`2025-09-20 09:51:00`|`Other FPS Games`|
+|[Any good free SoT cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/718028-free-sot-cheats.html)|`2025-09-20 09:16:00`|`Sea of Thieves`|
 |[Userinfo exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/718141-userinfo-exploit.html)|`2025-09-20 08:35:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[i need a dll injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718308-dll-injector.html)|`2025-09-20 08:29:00`|`Other Games`|
 |[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-09-20 08:27:00`|`Other FPS Games`|
