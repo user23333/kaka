@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Brawlhalla Combo Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/712728-brawlhalla-combo-bot.html)|`2025-09-21 05:57:00`|`Other Games`|
 |[Is there any way to find Shadow CR3 in EFI environment without decryption?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/718435-shadow-cr3-efi-environment-decryption.html)|`2025-09-21 05:47:00`|`Valorant`|
 |[Decrypting Lua Byte Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/717448-decrypting-lua-byte-code.html)|`2025-09-21 05:34:00`|`Alternative Online Mods`|
 |[Money Mod Menu for GTA V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/718391-money-mod-menu-gta.html)|`2025-09-21 05:27:00`|`Grand Theft Auto V`|
