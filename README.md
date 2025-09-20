@@ -41,6 +41,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[2&#46;5k&#43; Lineups file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712780-2-5k-lineups-file.html)|`2025-09-20 19:20:00`|`Valorant`|
+|[Risk of Tears &#45; Risk of Rain 2 internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/633262-risk-tears-risk-rain-2-internal-cheat.html)|`2025-09-20 19:13:00`|`Other FPS Games`|
 |[Mrpc 4&#46;0 offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/718341-mrpc-4-0-offset.html)|`2025-09-20 19:05:00`|`PUBG Mobile`|
 |[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2025-09-20 18:52:00`|`Counter-Strike 2 Releases`|
 |[Where is appearance info stored?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/718339-appearance-info-stored.html)|`2025-09-20 18:40:00`|`Grand Theft Auto V`|
