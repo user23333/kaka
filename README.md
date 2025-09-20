@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Zodiak &#45; Fastcup Full Kernel Driver Cheat v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/665011-zodiak-fastcup-kernel-driver-cheat-v2.html)|`2025-09-21 00:26:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Nenyooo Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/488777-nenyooo-menu.html)|`2025-09-21 00:37:00`|`Grand Theft Auto V`|
 |[Makcu on faceit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718354-makcu-faceit.html)|`2025-09-21 00:35:00`|`Counter-Strike 2`|
 |[premkiller&#45;externalcs2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714442-premkiller-externalcs2-cheat.html)|`2025-09-21 00:34:00`|`Counter-Strike 2`|
