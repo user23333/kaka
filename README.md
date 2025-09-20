@@ -40,6 +40,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kotor 1 Trainer C&#35;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/718210-kotor-1-trainer.html)|`2025-09-20 10:48:00`|`Other MMORPG and Strategy`|
+|[Vigor internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662490-vigor-internal-cheat.html)|`2025-09-20 10:47:00`|`Other FPS Games`|
+|[Vigor Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/696538-vigor-internal-cheat.html)|`2025-09-20 10:37:00`|`Other FPS Games`|
+|[24H2 Disk & MAC spoofing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718108-24h2-disk-mac-spoofing.html)|`2025-09-20 10:31:00`|`Anti-Cheat Bypass`|
 |[OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/718019-offsets.html)|`2025-09-20 10:00:00`|`Call of Duty: Black Ops 6`|
 |[Mage Arena &#45; Level Spoofer &#40;persistent&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716731-mage-arena-level-spoofer-persistent.html)|`2025-09-20 09:51:00`|`Other FPS Games`|
 |[Any good free SoT cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/718028-free-sot-cheats.html)|`2025-09-20 09:16:00`|`Sea of Thieves`|
