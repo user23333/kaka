@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VAC Live](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717620-vac-live.html)|`2025-09-21 08:53:00`|`Counter-Strike 2`|
+|[Genshin Impact 5&#46;8 Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/712706-genshin-impact-5-8-table.html)|`2025-09-21 08:47:00`|`Genshin Impact`|
+|[Mod Menu Crew v5&#46;3&#46;0  Definitive Edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/716042-mod-menu-crew-v5-3-0-definitive-edition.html)|`2025-09-21 08:24:00`|`Among Us`|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-09-21 08:24:00`|`Other Games`|
+|[Aimmy on Console](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/714726-aimmy-console.html)|`2025-09-21 08:19:00`|`Apex Legends`|
+|[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2025-09-21 08:15:00`|`Other MMORPG and Strategy`|
+|[GTA 5 Enhanced DMA Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701780-gta-5-enhanced-dma-menu.html)|`2025-09-21 08:14:00`|`Grand Theft Auto V`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-09-21 07:37:00`|`Phasmophobia`|
 |[Warframe Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718442-warframe-internal-cheat.html)|`2025-09-21 07:18:00`|`Other FPS Games`|
 |[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-09-21 07:08:00`|`Other FPS Games`|
