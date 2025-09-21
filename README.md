@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2025-09-21 21:44:00`|`Call of Duty: Black Ops 6`|
+|[WarThunder DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/713460-warthunder-dma.html)|`2025-09-21 21:25:00`|`Other MMORPG and Strategy`|
 |[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2025-09-21 21:32:00`|`Elite: Dangerous`|
 |[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2025-09-21 21:28:00`|`Elite: Dangerous`|
 |[Arduino FirmWare UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676366-arduino-firmware-ud.html)|`2025-09-21 21:17:00`|`Valorant`|
