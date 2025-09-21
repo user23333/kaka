@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-09-22 03:11:00`|`Other FPS Games`|
+|[WarThunder DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/713460-warthunder-dma.html)|`2025-09-22 03:05:00`|`Other MMORPG and Strategy`|
 |[Apex Legends spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/715666-apex-legends-spoofing.html)|`2025-09-22 02:56:00`|`Apex Legends`|
 |[Does my cheat need to be written in c?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716879-cheat-written.html)|`2025-09-22 02:47:00`|`Valorant`|
 |[Rockstar Activation Code Generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/715368-rockstar-activation-code-generator.html)|`2025-09-22 02:45:00`|`Grand Theft Auto V`|
