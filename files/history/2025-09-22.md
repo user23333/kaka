@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-09-22 00:51:00`|`DayZ SA`|
+|[Screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/714385-screenshots.html)|`2025-09-22 00:51:00`|`Call of Duty: Black Ops 6`|
 |[How to make external undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718515-external-undetected.html)|`2025-09-22 00:51:00`|`Counter-Strike 2`|
 |[&#91;RELEASE&#93; Codex External ESP &#43; Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/716934-release-codex-external-esp-aim.html)|`2025-09-22 00:50:00`|`Counter-Strike 2 Releases`|
 |[Make My Cheat work on STM/BNET/XBX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/718456-cheat-stm-bnet-xbx.html)|`2025-09-22 00:46:00`|`Call of Duty: Black Ops 6`|
