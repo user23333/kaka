@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[small patches update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/718321-patches-update.html)|`2025-09-21 11:45:00`|`Rust`|
+|[RP2040 fixes, ARDUINO 1PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710630-rp2040-fixes-arduino-1pc.html)|`2025-09-21 11:44:00`|`Valorant`|
+|[Lockdown Protocol Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718478-lockdown-protocol-internal.html)|`2025-09-21 11:42:00`|`Other Games`|
+|[Need help decrypting metadata for Unity game Daiblos Core](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/718415-help-decrypting-metadata-unity-game-daiblos-core.html)|`2025-09-21 11:33:00`|`General Programming and Reversing`|
 |[Make My Cheat work on STM/BNET/XBX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/718456-cheat-stm-bnet-xbx.html)|`2025-09-21 11:20:00`|`Call of Duty: Black Ops 6`|
 |[kdu vs kdmapper vs SC&#46;exe for VAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718180-kdu-vs-kdmapper-vs-sc-exe-vac.html)|`2025-09-21 11:03:00`|`Anti-Cheat Bypass`|
 |[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-09-21 10:54:00`|`Other FPS Games`|
