@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[structs please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/718484-structs-please.html)|`2025-09-21 13:23:00`|`Call of Duty: Black Ops 6`|
 |[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2025-09-21 13:04:00`|`HELLDIVERS 2`|
 |[Can someone help me fix the cause of bsod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718184-help-fix-cause-bsod.html)|`2025-09-21 12:55:00`|`Anti-Cheat Bypass`|
 |[Squad Offsets &#40; GWorld & GName &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718291-squad-offsets-gworld-gname.html)|`2025-09-21 12:14:00`|`Other FPS Games`|
