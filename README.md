@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6S External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/711453-r6s-external-base.html)|`2025-09-21 18:36:00`|`Rainbow Six Siege`|
+|[Charlie Kirkware R6 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/717390-charlie-kirkware-r6-cheat.html)|`2025-09-21 18:34:00`|`Rainbow Six Siege`|
+|[C&#35; executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/716981-executor.html)|`2025-09-21 18:33:00`|`Alternative Online Mods`|
 |[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2025-09-21 18:30:00`|`Unity`|
 |[How Vanguard works with Valorant &#43; Disabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/702821-vanguard-valorant-disabler.html)|`2025-09-21 17:58:00`|`Anti-Cheat Bypass`|
 |[SetEvent PointBlank](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712452-setevent-pointblank.html)|`2025-09-21 17:41:00`|`Other FPS Games`|
