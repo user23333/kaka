@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BREAKING NEWS: Rust no longer game&#45;banning &#40;Trade skins exploit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/718440-breaking-news-rust-game-banning-trade-skins-exploit.html)|`2025-09-21 11:53:00`|`Rust`|
 |[small patches update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/718321-patches-update.html)|`2025-09-21 11:45:00`|`Rust`|
 |[RP2040 fixes, ARDUINO 1PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/710630-rp2040-fixes-arduino-1pc.html)|`2025-09-21 11:44:00`|`Valorant`|
 |[Lockdown Protocol Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718478-lockdown-protocol-internal.html)|`2025-09-21 11:42:00`|`Other Games`|
