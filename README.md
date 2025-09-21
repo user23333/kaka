@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to dump vgc&#46;exe&#45;valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/718551-dump-vgc-exe-valorant.html)|`2025-09-21 23:08:00`|`Valorant`|
 |[R4ven Inject0r](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/718540-r4ven-inject0r.html)|`2025-09-21 23:12:00`|`Forum General`|
 |[Client Tick Interval](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/718549-client-tick-interval.html)|`2025-09-21 22:47:00`|`Rust`|
 |[Best way to earn money in the new gta enhanced version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/716147-earn-money-gta-enhanced-version.html)|`2025-09-21 22:32:00`|`Grand Theft Auto V`|
