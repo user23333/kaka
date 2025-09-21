@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FSL guide and answers of common questions &#40;Legacy & E&E&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/692331-fsl-guide-answers-common-questions-legacy.html)|`2025-09-21 17:34:00`|`Grand Theft Auto V`|
+|[Is there is any undetected way to exchange more than 10M chips to cash ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/717107-undetected-exchange-10m-chips-cash.html)|`2025-09-21 17:33:00`|`Grand Theft Auto V`|
+|[Bypassing software keys?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/718494-bypassing-software-keys.html)|`2025-09-21 17:32:00`|`General Programming and Reversing`|
+|[Finally a working External SkinChanger for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689733-finally-external-skinchanger-cs2.html)|`2025-09-21 17:31:00`|`Counter-Strike 2`|
 |[how to collect offsets bnet cod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/718492-collect-offsets-bnet-cod.html)|`2025-09-21 17:05:00`|`Call of Duty: Black Ops 6`|
 |[Rust Internal Base/Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/718320-rust-internal-base-help.html)|`2025-09-21 16:07:00`|`Rust`|
 |[SQVM Loadscript and Denuvo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/708485-sqvm-loadscript-denuvo.html)|`2025-09-21 15:50:00`|`Apex Legends`|
