@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[premkiller&#45;externalcs2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714442-premkiller-externalcs2-cheat.html)|`2025-09-22 07:38:00`|`Counter-Strike 2`|
 |[ARMA 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/114242-arma-3-reversal-structs-offsets.html)|`2025-09-22 07:26:00`|`ARMA 3`|
 |[How to inject into lunar client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/718593-inject-lunar-client.html)|`2025-09-22 07:25:00`|`Minecraft`|
 |[Theia static decryptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696332-theia-static-decryptor.html)|`2025-09-22 07:18:00`|`Anti-Cheat Bypass`|
