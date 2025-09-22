@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TypeScript Memory Module — Trigger&#45;Bot Demo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/717579-typescript-memory-module-trigger-bot-demo.html)|`2025-09-23 05:36:00`|`Counter-Strike 2 Releases`|
+|[Need Updated Patterns for ndisDummyIrpHandler & ndisMiniDriverList &#40;Windows 11 24H2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718290-updated-patterns-ndisdummyirphandler-ndisminidriverlist-windows-11-24h2.html)|`2025-09-23 05:33:00`|`Anti-Cheat Bypass`|
+|[Phasmo Save Editor &#40;All items/Cosmetics/Money/Lv & Prestige Editor/etc&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/708592-phasmo-save-editor-items-cosmetics-money-lv-prestige-editor-etc.html)|`2025-09-23 05:32:00`|`Phasmophobia`|
+|[Straftat Full Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/686040-straftat-cheat.html)|`2025-09-23 05:31:00`|`Other Games`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-09-23 05:28:00`|`Grand Theft Auto V`|
 |[Farlight cheat internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/717566-farlight-cheat-internal.html)|`2025-09-23 05:19:00`|`Farlight 84`|
 |[Allocate Memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718669-allocate-memory.html)|`2025-09-23 05:14:00`|`Anti-Cheat Bypass`|
