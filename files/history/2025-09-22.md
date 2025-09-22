@@ -27,9 +27,15 @@
 |68|[FortniteSDK&#46;html](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51263)|`2025-09-22 00:19:57`|
 |105|[EVO&#95;3&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51262)|`2025-09-22 00:19:57`|
 |198|[driver&#45;read&#45;mem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51258)|`2025-09-22 00:19:57`|
+|1|[LockdownProtocol&#45;LongTao&#45;v21](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51272)|`2025-09-22 11:15:38`|
+|2|[Kotor Trainer 0&#46;1 ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51266)|`2025-09-22 11:15:38`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kotor 1 Trainer C&#35;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/718211-kotor-1-trainer.html)|`2025-09-22 11:11:00`|`Other MMORPG and Strategy`|
+|[valorant internal source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716050-valorant-internal-source.html)|`2025-09-22 11:06:00`|`Valorant`|
+|[Borderlands 4 Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/717789-borderlands-4-reversal-structs-offsets.html)|`2025-09-22 10:42:00`|`Other Single Player Games`|
+|[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2025-09-22 10:38:00`|`Counter-Strike 2 Releases`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-09-22 10:17:00`|`Overwatch`|
 |[&#40;DMA&#41; Black Ops 6: Fuser ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670830-dma-black-ops-6-fuser-esp.html)|`2025-09-22 10:16:00`|`Call of Duty: Black Ops 6`|
 |[&#91;Chivalry 2&#93; CornerJew &#45; Server Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718605-chivalry-2-cornerjew-server-crash.html)|`2025-09-22 10:13:00`|`Other Games`|
