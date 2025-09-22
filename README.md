@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino simulate aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/718702-arduino-simulate-aim.html)|`2025-09-23 04:09:00`|`Apex Legends`|
 |[DMA PCIE Device Blocking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/718666-dma-pcie-device-blocking.html)|`2025-09-23 03:53:00`|`Apex Legends`|
 |[External ESP for Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/717952-external-esp-windows.html)|`2025-09-23 03:51:00`|`Apex Legends`|
 |[Borderlands 3 Help with Pointers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/716655-borderlands-3-help-pointers.html)|`2025-09-23 03:46:00`|`Other Single Player Games`|
