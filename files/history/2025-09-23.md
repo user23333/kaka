@@ -11,6 +11,7 @@
 |3|[CS2 External &#45; eXagon Rework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717760-cs2-external-exagon-rework.html)|`2025-09-23 00:12:26`|`counter-strike-2-a`|
 |18|[Rust External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/718089-rust-external-base.html)|`2025-09-23 00:12:26`|`rust`|
 |10|[cheating on faceit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717958-cheating-faceit.html)|`2025-09-23 00:12:26`|`counter-strike-2-a`|
+|6|[fTPM Full Spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/717761-ftpm-spoof.html)|`2025-09-23 01:55:15`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Chivalry 2&#93; CornerJew &#45; Server Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718605-chivalry-2-cornerjew-server-crash.html)|`2025-09-23 01:53:00`|`Other Games`|
+|[Executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/718693-executor.html)|`2025-09-23 01:51:00`|`Alternative Online Mods`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-09-23 01:47:00`|`Rust`|
 |[The Texas Chainsaw Massacre Tool &#45; Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712655-texas-chainsaw-massacre-tool-internal-cheat.html)|`2025-09-23 01:43:00`|`Other FPS Games`|
 |[active weapon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718582-active-weapon.html)|`2025-09-23 01:41:00`|`Counter-Strike 2`|
