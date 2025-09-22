@@ -29,9 +29,25 @@
 |198|[driver&#45;read&#45;mem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51258)|`2025-09-22 00:19:57`|
 |1|[LockdownProtocol&#45;LongTao&#45;v21](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51272)|`2025-09-22 11:15:38`|
 |2|[Kotor Trainer 0&#46;1 ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51266)|`2025-09-22 11:15:38`|
+|2|[CJCras](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51300)|`2025-09-22 11:46:14`|
+|1|[global&#45;metadata&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51293)|`2025-09-22 11:46:14`|
+|1|[ManorLords&#46;ct&#45;v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51287)|`2025-09-22 11:46:14`|
+|1|[Borderlands 4 CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51280)|`2025-09-22 11:46:14`|
+|1|[gorebox :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51278)|`2025-09-22 11:46:14`|
+|1|[Smite 2 Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51275)|`2025-09-22 11:46:14`|
+|2|[rust internalbase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51274)|`2025-09-22 11:46:14`|
+|2|[offanticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51273)|`2025-09-22 11:46:14`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BO6 Enhanced Color Aim AHK GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671390-bo6-enhanced-color-aim-ahk-gui.html)|`2025-09-22 11:31:00`|`Call of Duty: Black Ops 6`|
+|[Need help decrypting metadata for Unity game Daiblos Core](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/718415-help-decrypting-metadata-unity-game-daiblos-core.html)|`2025-09-22 11:28:00`|`General Programming and Reversing`|
+|[ManorLords&#46;CT&#45;V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/718452-manorlords-ct-v1.html)|`2025-09-22 11:27:00`|`Cheat Engine Tables`|
+|[Borderlands 4 &#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718289-borderlands-4-ct.html)|`2025-09-22 11:26:00`|`Other Games`|
+|[Gorebox Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716525-gorebox-internal-cheat.html)|`2025-09-22 11:24:00`|`Other FPS Games`|
+|[Smite 2 Internal Esp/Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718330-smite-2-internal-esp-aimbot.html)|`2025-09-22 11:22:00`|`Other FPS Games`|
+|[MyCoPunk Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716230-mycopunk-internal.html)|`2025-09-22 11:22:00`|`Other FPS Games`|
+|[Bypass Genshin 6&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/717543-bypass-genshin-6-0-a.html)|`2025-09-22 11:19:00`|`Genshin Impact`|
 |[Kotor 1 Trainer C&#35;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/718211-kotor-1-trainer.html)|`2025-09-22 11:11:00`|`Other MMORPG and Strategy`|
 |[valorant internal source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716050-valorant-internal-source.html)|`2025-09-22 11:06:00`|`Valorant`|
 |[Borderlands 4 Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/717789-borderlands-4-reversal-structs-offsets.html)|`2025-09-22 10:42:00`|`Other Single Player Games`|
