@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[apex rage cheat &#40;external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705590-apex-rage-cheat-external.html)|`2025-09-23 06:18:00`|`Apex Legends`|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-09-23 06:16:00`|`HELLDIVERS 2`|
+|[Roblox executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718713-roblox-executor.html)|`2025-09-23 06:08:00`|`Other FPS Games`|
+|[Visual Studio 2022 Enterprise &#43; professional](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/718711-visual-studio-2022-enterprise-professional.html)|`2025-09-23 06:01:00`|`C and C++`|
 |[RustRecoilMacro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706634-rustrecoilmacro.html)|`2025-09-23 05:51:00`|`Rainbow Six Siege`|
 |[ihnm &#45; TTS overlay for games &#43; Soundboard &#43; Sync song playback &#43; Lipsync for SCP:SL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/710854-ihnm-tts-overlay-games-soundboard-sync-song-playback-lipsync-scp-sl.html)|`2025-09-23 05:48:00`|`Other Games`|
 |[Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/718662-help.html)|`2025-09-23 05:46:00`|`Marvel Rivals`|
