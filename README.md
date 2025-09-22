@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Mage Arena&#93; MagusToolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711827-mage-arena-magustoolkit.html)|`2025-09-23 07:31:00`|`Other FPS Games`|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-09-23 07:28:00`|`Other FPS Games`|
+|[Rematch Shoot Speed Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/716470-rematch-shoot-speed-hack.html)|`2025-09-23 07:27:00`|`Other Games`|
 |[how to bypass Server&#45;side validation CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/717757-bypass-server-validation-ce.html)|`2025-09-23 07:02:00`|`Forum General`|
 |[Outlast &#40;noclip, fov fly, run speed,etc&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/714172-outlast-noclip-fov-fly-run-speed-etc.html)|`2025-09-23 06:38:00`|`Other Games`|
 |[Chivalry 2 Chivalapocalypse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/717361-chivalry-2-chivalapocalypse.html)|`2025-09-23 06:37:00`|`Other Games`|
