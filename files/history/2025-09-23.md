@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypass Emu 32bit Some problems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/717649-bypass-emu-32bit.html)|`2025-09-23 05:40:00`|`PUBG Mobile`|
+|[GuardSystem Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718143-guardsystem-anticheat.html)|`2025-09-23 05:39:00`|`Anti-Cheat Bypass`|
 |[TypeScript Memory Module — Trigger&#45;Bot Demo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/717579-typescript-memory-module-trigger-bot-demo.html)|`2025-09-23 05:36:00`|`Counter-Strike 2 Releases`|
 |[Need Updated Patterns for ndisDummyIrpHandler & ndisMiniDriverList &#40;Windows 11 24H2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718290-updated-patterns-ndisdummyirphandler-ndisminidriverlist-windows-11-24h2.html)|`2025-09-23 05:33:00`|`Anti-Cheat Bypass`|
 |[Phasmo Save Editor &#40;All items/Cosmetics/Money/Lv & Prestige Editor/etc&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/708592-phasmo-save-editor-items-cosmetics-money-lv-prestige-editor-etc.html)|`2025-09-23 05:32:00`|`Phasmophobia`|
