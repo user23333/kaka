@@ -41,6 +41,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlocked &#45; External Multi Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/711759-deadlocked-external-multi-cheat.html)|`2025-09-22 15:44:00`|`Deadlock`|
+|[&#124; DeadLock Cheat &#124;&#124; Scripts &#124;&#124; Auto&#45;Updating &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/693609-deadlock-cheat-scripts-auto-updating.html)|`2025-09-22 15:37:00`|`Deadlock`|
 |[Bypass Emu 32bit Some problems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/717649-bypass-emu-32bit.html)|`2025-09-22 14:52:00`|`PUBG Mobile`|
 |[CFG &#45; VBS/HVCI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718617-cfg-vbs-hvci.html)|`2025-09-22 14:38:00`|`Anti-Cheat Bypass`|
 |[necesito ayuda con mi esp32&#45;s3 n16r8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/717200-necesito-ayuda-con-mi-esp32-s3-n16r8.html)|`2025-09-22 14:10:00`|`Rust`|
