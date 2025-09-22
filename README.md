@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-09-23 02:10:00`|`Valorant`|
+|[Silent Farm Externaly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/718438-silent-farm-externaly.html)|`2025-09-23 02:09:00`|`Rust`|
+|[FiveM cheat external with bypass SS source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/717983-fivem-cheat-external-bypass-ss-source.html)|`2025-09-23 02:07:00`|`Alternative Online Mods`|
+|[FiveM External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/717742-fivem-external.html)|`2025-09-23 02:07:00`|`Alternative Online Mods`|
+|[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2025-09-23 02:05:00`|`Elite: Dangerous`|
+|[Steps to make a spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/718502-steps-spoofer.html)|`2025-09-23 01:58:00`|`Alternative Online Mods`|
 |[&#91;Chivalry 2&#93; CornerJew &#45; Server Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718605-chivalry-2-cornerjew-server-crash.html)|`2025-09-23 01:53:00`|`Other Games`|
 |[Executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/718693-executor.html)|`2025-09-23 01:51:00`|`Alternative Online Mods`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-09-23 01:47:00`|`Rust`|
