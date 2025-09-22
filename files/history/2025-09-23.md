@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RustRecoilMacro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706634-rustrecoilmacro.html)|`2025-09-23 05:51:00`|`Rainbow Six Siege`|
 |[ihnm &#45; TTS overlay for games &#43; Soundboard &#43; Sync song playback &#43; Lipsync for SCP:SL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/710854-ihnm-tts-overlay-games-soundboard-sync-song-playback-lipsync-scp-sl.html)|`2025-09-23 05:48:00`|`Other Games`|
 |[Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/718662-help.html)|`2025-09-23 05:46:00`|`Marvel Rivals`|
 |[Kernel 0day for R/W](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717711-kernel-0day.html)|`2025-09-23 05:44:00`|`Anti-Cheat Bypass`|
