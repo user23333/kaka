@@ -40,6 +40,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[necesito ayuda con mi esp32&#45;s3 n16r8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/717200-necesito-ayuda-con-mi-esp32-s3-n16r8.html)|`2025-09-22 14:10:00`|`Rust`|
+|[ESP32 S3 Dev Board](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/717399-esp32-s3-dev-board.html)|`2025-09-22 14:04:00`|`Rust`|
 |[FREE SHARE SOME CERTIFICATES](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717155-free-share-certificates.html)|`2025-09-22 13:26:00`|`Anti-Cheat Bypass`|
 |[chams are invisible when applied](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718612-chams-invisible-applied.html)|`2025-09-22 13:00:00`|`Counter-Strike 2`|
 |[I'm looking for a reverser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/717776-im-looking-reverser.html)|`2025-09-22 12:50:00`|`Off Topic`|
