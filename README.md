@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to bypass Server&#45;side validation CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/717757-bypass-server-validation-ce.html)|`2025-09-23 07:02:00`|`Forum General`|
+|[Outlast &#40;noclip, fov fly, run speed,etc&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/714172-outlast-noclip-fov-fly-run-speed-etc.html)|`2025-09-23 06:38:00`|`Other Games`|
 |[Chivalry 2 Chivalapocalypse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/717361-chivalry-2-chivalapocalypse.html)|`2025-09-23 06:37:00`|`Other Games`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-09-23 06:36:00`|`Call of Duty: Black Ops 6`|
 |[BO7 BETA CODE METHODS &#124; SHARE THEM BELOW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/718714-bo7-beta-code-methods-share-below.html)|`2025-09-23 06:36:00`|`Call of Duty: Black Ops 6`|
