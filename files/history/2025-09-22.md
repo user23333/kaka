@@ -42,6 +42,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-09-22 23:31:00`|`Grand Theft Auto V`|
+|[Allocate Memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718669-allocate-memory.html)|`2025-09-22 23:30:00`|`Anti-Cheat Bypass`|
+|[Launcher ban EFT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/717610-launcher-ban-eft.html)|`2025-09-22 23:27:00`|`Escape from Tarkov`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-09-22 23:18:00`|`Grand Theft Auto V`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-09-22 23:09:00`|`Sea of Thieves`|
 |[How do I follow this pointer chain to my localplayer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/710072-follow-pointer-chain-localplayer.html)|`2025-09-22 23:04:00`|`General Programming and Reversing`|
 |[cheat Crossfire arduino pro micro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/708859-cheat-crossfire-arduino-pro-micro.html)|`2025-09-22 22:50:00`|`CrossFire`|
