@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Charlie Kirkware R6 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/717390-charlie-kirkware-r6-cheat.html)|`2025-09-23 06:29:00`|`Rainbow Six Siege`|
+|[rust dma full source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/718166-rust-dma-source.html)|`2025-09-23 06:28:00`|`Rust`|
 |[apex rage cheat &#40;external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705590-apex-rage-cheat-external.html)|`2025-09-23 06:18:00`|`Apex Legends`|
 |[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-09-23 06:16:00`|`HELLDIVERS 2`|
 |[Roblox executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718713-roblox-executor.html)|`2025-09-23 06:08:00`|`Other FPS Games`|
