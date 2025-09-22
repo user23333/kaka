@@ -14,6 +14,7 @@
 |6|[Kernel 0day for R/W](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717711-kernel-0day.html)|`2025-09-22 01:32:56`|`anti-cheat-bypass`|
 |3|[CS2 External &#45; eXagon Rework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717760-cs2-external-exagon-rework.html)|`2025-09-22 03:28:12`|`counter-strike-2-a`|
 |1|[X2BL4 &#45; Borderlands 4 Save Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/718323-x2bl4-borderlands-4-save-editor.html)|`2025-09-22 06:08:35`|`other-single-player-games`|
+|18|[Rust External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/718089-rust-external-base.html)|`2025-09-22 16:17:16`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
