@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[L4D2 Some offsets from 29/3/2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/709291-l4d2-offsets-29-3-2025-a.html)|`2025-09-23 21:22:00`|`Other FPS Games`|
+|[How do i get game admin?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/717836-game-admin.html)|`2025-09-23 21:11:00`|`Overwatch`|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-09-23 21:06:00`|`Other FPS Games`|
 |[MvM Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/718344-mvm-cheat.html)|`2025-09-23 20:53:00`|`Team Fortress 2`|
 |[ESP32 script accuracy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/718794-esp32-script-accuracy.html)|`2025-09-23 20:51:00`|`Rust`|
 |[DeadByDaylight external &#91;Steam&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715450-deadbydaylight-external-steam.html)|`2025-09-23 20:48:00`|`Other Games`|
