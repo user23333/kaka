@@ -11,6 +11,7 @@
 |11|[Warframe Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718442-warframe-internal-cheat.html)|`2025-09-24 00:13:19`|`other-fps-games`|
 |3|[Money Mod Menu for GTA V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/718391-money-mod-menu-gta.html)|`2025-09-24 00:13:19`|`grand-theft-auto-v`|
 |6|[GuardSystem Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718143-guardsystem-anticheat.html)|`2025-09-24 00:13:19`|`anti-cheat-bypass`|
+|7|[x86&#45;64 PE Binary Obfuscator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718591-x86-64-pe-binary-obfuscator.html)|`2025-09-24 04:58:54`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Triggerbot pixel bot wtv](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/718861-triggerbot-pixel-bot-wtv.html)|`2025-09-24 04:54:00`|`Valorant`|
 |[The Egg or the Chicken ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/718020-egg-chicken.html)|`2025-09-24 04:51:00`|`Off Topic`|
 |[Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718860-aim.html)|`2025-09-24 04:40:00`|`Counter-Strike 2`|
 |[Need some help of entity list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/718857-help-entity-list.html)|`2025-09-24 04:35:00`|`Apex Legends`|
