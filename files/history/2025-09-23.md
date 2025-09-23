@@ -14,6 +14,7 @@
 |6|[fTPM Full Spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/717761-ftpm-spoof.html)|`2025-09-23 01:55:15`|`valorant`|
 |3|[Simple Kernel External With Web Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717917-simple-kernel-external-web-menu.html)|`2025-09-23 04:43:01`|`counter-strike-2-a`|
 |2|[&#91;gRust Files&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/717815-grust-files.html)|`2025-09-23 04:55:11`|`garry-s-mod`|
+|3|[Money Mod Menu for GTA V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/718391-money-mod-menu-gta.html)|`2025-09-23 11:18:50`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Tips to Dumping without main account getting caught](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/718733-fivem-tips-dumping-main-account-getting-caught.html)|`2025-09-23 11:16:00`|`Alternative Online Mods`|
+|[Megabonk Python Cheat &#91;100% open source&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718610-megabonk-python-cheat-100-source.html)|`2025-09-23 11:09:00`|`Other Games`|
+|[how cloudflare warp works in valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/718613-cloudflare-warp-valorant.html)|`2025-09-23 11:08:00`|`Valorant`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-09-23 10:47:00`|`Apex Legends`|
+|[Dune: Awakening Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699887-dune-awakening-reversal-structs-offsets.html)|`2025-09-23 10:45:00`|`Other FPS Games`|
 |[Lazybead &#40;LB&#41; &#45; Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat.html)|`2025-09-23 10:27:00`|`Sea of Thieves`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-09-23 10:25:00`|`Alternative Online Mods`|
 |[Bone position failing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/710663-bone-position-failing.html)|`2025-09-23 10:13:00`|`Apex Legends`|
