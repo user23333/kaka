@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nexnet &#45; The Outlast Trials  &#45; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717389-nexnet-outlast-trials-source.html)|`2025-09-23 11:41:00`|`Other FPS Games`|
+|[Oreo Rivals &#91;Internal Cheat With External Overlay And New Hooking &#43; Silent Aim&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/707135-oreo-rivals-internal-cheat-external-overlay-hooking-silent-aim.html)|`2025-09-23 11:37:00`|`Marvel Rivals`|
+|[Cant find drug locations with dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/718731-cant-drug-locations-dump.html)|`2025-09-23 11:20:00`|`Alternative Online Mods`|
 |[FiveM Tips to Dumping without main account getting caught](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/718733-fivem-tips-dumping-main-account-getting-caught.html)|`2025-09-23 11:16:00`|`Alternative Online Mods`|
 |[Megabonk Python Cheat &#91;100% open source&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718610-megabonk-python-cheat-100-source.html)|`2025-09-23 11:09:00`|`Other Games`|
 |[how cloudflare warp works in valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/718613-cloudflare-warp-valorant.html)|`2025-09-23 11:08:00`|`Valorant`|
