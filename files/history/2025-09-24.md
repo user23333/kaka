@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718860-aim.html)|`2025-09-24 04:40:00`|`Counter-Strike 2`|
+|[Need some help of entity list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/718857-help-entity-list.html)|`2025-09-24 04:35:00`|`Apex Legends`|
+|[Can someone help me make StreamProof on the loader before OBS, Nvidia, AMD? DX9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/718856-help-streamproof-loader-obs-nvidia-amd-dx9.html)|`2025-09-24 04:34:00`|`Alternative Online Mods`|
 |[How do I follow this pointer chain to my localplayer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/710072-follow-pointer-chain-localplayer.html)|`2025-09-24 04:06:00`|`General Programming and Reversing`|
 |[fivem coding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/716630-fivem-coding.html)|`2025-09-24 04:03:00`|`General Programming and Reversing`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-09-24 04:00:00`|`Playerunknown's Battlegrounds`|
