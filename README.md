@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/715666-apex-legends-spoofing.html)|`2025-09-24 07:10:00`|`Apex Legends`|
+|[DeadByDaylight external &#91;Steam&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715450-deadbydaylight-external-steam.html)|`2025-09-24 07:05:00`|`Other Games`|
+|[how do i find ntoskrnl in hypervisor?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718867-ntoskrnl-hypervisor.html)|`2025-09-24 06:58:00`|`Anti-Cheat Bypass`|
 |[accounts keep getting locked but never hwid banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/718866-accounts-getting-locked-hwid-banned.html)|`2025-09-24 06:52:00`|`Valorant`|
 |[Outlast &#40;noclip, fov fly, run speed,etc&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/714172-outlast-noclip-fov-fly-run-speed-etc.html)|`2025-09-24 06:50:00`|`Other Games`|
 |[LF enhanced heist editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/718753-lf-enhanced-heist-editor.html)|`2025-09-24 06:47:00`|`Grand Theft Auto V`|
