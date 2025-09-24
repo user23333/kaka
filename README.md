@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-09-24 12:32:00`|`Counter-Strike 2 Releases`|
+|[Alternative to WDA&#95;EXCLUDEFROMCAPTURE which doesnt disable nvidia instant replay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/718905-alternative-wda_excludefromcapture-doesnt-disable-nvidia-instant-replay.html)|`2025-09-24 12:07:00`|`General Programming and Reversing`|
 |[ARMA 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/114242-arma-3-reversal-structs-offsets.html)|`2025-09-24 12:13:00`|`ARMA 3`|
 |[game of thrones kingsroad hack & offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701827-game-thrones-kingsroad-hack-offsets.html)|`2025-09-24 12:00:00`|`Other MMORPG and Strategy`|
 |[GSXR MENUV1 FOR ENHANCED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/718901-gsxr-menuv1-enhanced.html)|`2025-09-24 11:57:00`|`Grand Theft Auto V`|
