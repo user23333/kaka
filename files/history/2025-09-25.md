@@ -11,6 +11,7 @@
 |6|[im new here](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/718309-im.html)|`2025-09-25 00:13:57`|`introductions`|
 |2|[Borderlands 4 &#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718289-borderlands-4-ct.html)|`2025-09-25 00:13:57`|`other-games`|
 |4|[Somehow Undetected Arduino Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/718563-somehow-undetected-arduino-colorbot.html)|`2025-09-25 00:13:57`|`valorant`|
+|10|[Nuclear Nightmare internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718268-nuclear-nightmare-internal.html)|`2025-09-25 00:51:01`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lazybead &#40;LB&#41; &#45; Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat.html)|`2025-09-25 00:49:00`|`Sea of Thieves`|
+|[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2025-09-25 00:46:00`|`Counter-Strike 2 Releases`|
+|[VAC Live](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717620-vac-live.html)|`2025-09-25 00:40:00`|`Counter-Strike 2`|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-09-25 00:38:00`|`Farlight 84`|
+|[Getting CUserCmd externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718639-getting-cusercmd-externally.html)|`2025-09-25 00:38:00`|`Counter-Strike 2`|
+|[skin changing issue &#40;kinda&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708877-skin-changing-issue-kinda.html)|`2025-09-25 00:33:00`|`Counter-Strike 2`|
 |[Is it even possible to get VAC banned on CS 1&#46;6 nowadays?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/718446-vac-banned-cs-1-6-nowadays.html)|`2025-09-25 00:25:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[GuardSystem Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718143-guardsystem-anticheat.html)|`2025-09-25 00:18:00`|`Anti-Cheat Bypass`|
 |[DeadByDaylight external &#91;Steam&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715450-deadbydaylight-external-steam.html)|`2025-09-25 00:18:00`|`Other Games`|
