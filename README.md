@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External ESP for Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/717952-external-esp-windows.html)|`2025-09-24 22:45:00`|`Apex Legends`|
 |[Executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/718693-executor.html)|`2025-09-24 22:35:00`|`Alternative Online Mods`|
 |[Fear Therapy &#45; God Mode, Fly, Teleport, Speed, Item ESP, Fullbright &#43; FOV Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718952-fear-therapy-god-mode-fly-teleport-speed-item-esp-fullbright-fov-changer.html)|`2025-09-24 22:34:00`|`Other Games`|
 |[de&#95;jura vphys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718950-de_jura-vphys.html)|`2025-09-24 22:19:00`|`Counter-Strike 2`|
