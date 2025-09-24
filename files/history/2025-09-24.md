@@ -41,6 +41,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fxap Decrypt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/717507-fxap-decrypt.html)|`2025-09-24 22:53:00`|`Alternative Online Mods`|
+|[Delta Force Camera Patched &#45; NEW METHOD?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718953-delta-force-camera-patched-method.html)|`2025-09-24 22:53:00`|`Other FPS Games`|
 |[External ESP for Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/717952-external-esp-windows.html)|`2025-09-24 22:45:00`|`Apex Legends`|
 |[Executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/718693-executor.html)|`2025-09-24 22:35:00`|`Alternative Online Mods`|
 |[Fear Therapy &#45; God Mode, Fly, Teleport, Speed, Item ESP, Fullbright &#43; FOV Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718952-fear-therapy-god-mode-fly-teleport-speed-item-esp-fullbright-fov-changer.html)|`2025-09-24 22:34:00`|`Other Games`|
