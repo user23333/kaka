@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need Roblox offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/704195-roblox-offsets.html)|`2025-09-24 23:51:00`|`General Programming and Reversing`|
 |[Unblacklisted &#40;leaked&#41; Kernel mode Driver signing certificates requesting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718244-unblacklisted-leaked-kernel-mode-driver-signing-certificates-requesting.html)|`2025-09-24 23:42:00`|`Anti-Cheat Bypass`|
 |[Changed windows key/version&#45; still launcher banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/718537-changed-windows-key-version-launcher-banned.html)|`2025-09-24 23:40:00`|`Escape from Tarkov`|
 |[GuardSystem Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718143-guardsystem-anticheat.html)|`2025-09-24 23:26:00`|`Anti-Cheat Bypass`|
