@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Tp to Waypoint](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/718990-external-tp-waypoint.html)|`2025-09-25 01:56:00`|`Alternative Online Mods`|
+|[simple internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/680544-simple-internal.html)|`2025-09-25 01:53:00`|`Marvel Rivals`|
 |[Cant find drug locations with dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/718731-cant-drug-locations-dump.html)|`2025-09-25 01:35:00`|`Alternative Online Mods`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-09-25 01:39:00`|`Other FPS Games`|
 |[Why haven’t I seen a Internal do this?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718986-haven-seen-internal.html)|`2025-09-25 01:37:00`|`Counter-Strike 2`|
