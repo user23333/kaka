@@ -26,9 +26,12 @@
 |27|[Zykof internal cheat farlight v4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51285)|`2025-09-25 00:13:57`|
 |55|[Lazybeard &#40;Menu Fix &#43; Fonts&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51284)|`2025-09-25 00:13:57`|
 |1|[5&#46;5&#46;4&#45;485034&#43;&#95;&#95;Squad&#95;v9&#46;0&#46;3&#45;SquadGame](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51331)|`2025-09-25 05:40:22`|
+|1|[Fear Therapy Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51328)|`2025-09-25 05:46:21`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fear Therapy &#45; God Mode, Fly, Teleport, Speed, Item ESP, Fullbright &#43; FOV Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718952-fear-therapy-god-mode-fly-teleport-speed-item-esp-fullbright-fov-changer.html)|`2025-09-25 05:44:00`|`Other Games`|
+|[Player portraits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/719016-player-portraits.html)|`2025-09-25 05:41:00`|`Apex Legends`|
 |[DMA PCIE Device Blocking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/718666-dma-pcie-device-blocking.html)|`2025-09-25 05:30:00`|`Apex Legends`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-09-25 05:27:00`|`Marvel Rivals`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-09-25 05:23:00`|`Counter-Strike 2 Releases`|
