@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HWID SPOOFER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/718577-hwid-spoofer.html)|`2025-09-24 17:26:00`|`Valorant`|
+|[how cloudflare warp works in valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/718613-cloudflare-warp-valorant.html)|`2025-09-24 17:24:00`|`Valorant`|
 |[Menu My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/713007-menu-hero-ultra-rumble.html)|`2025-09-24 17:12:00`|`Other Games`|
 |[RP2040 kmbox &#45; iTs FuLL PaSsThR&#45;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718797-rp2040-kmbox-passthr.html)|`2025-09-24 17:09:00`|`Anti-Cheat Bypass`|
 |[Is there a private Sneaky Stuff?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/718914-private-sneaky-stuff.html)|`2025-09-24 16:54:00`|`HELLDIVERS 2`|
