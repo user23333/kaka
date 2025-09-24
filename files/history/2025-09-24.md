@@ -12,6 +12,7 @@
 |3|[Money Mod Menu for GTA V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/718391-money-mod-menu-gta.html)|`2025-09-24 00:13:19`|`grand-theft-auto-v`|
 |6|[GuardSystem Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718143-guardsystem-anticheat.html)|`2025-09-24 00:13:19`|`anti-cheat-bypass`|
 |7|[x86&#45;64 PE Binary Obfuscator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718591-x86-64-pe-binary-obfuscator.html)|`2025-09-24 04:58:54`|`anti-cheat-bypass`|
+|6|[im new here](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/718309-im.html)|`2025-09-24 14:54:38`|`introductions`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -38,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VAC Live](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717620-vac-live.html)|`2025-09-24 14:52:00`|`Counter-Strike 2`|
 |[Cheat to change nicknames midgame](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718854-cheat-change-nicknames-midgame.html)|`2025-09-24 14:28:00`|`Counter-Strike 2`|
 |[DMA CHEAT FOR ROBLOX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/718749-dma-cheat-roblox.html)|`2025-09-24 14:25:00`|`Forum General`|
 |[valorant internal source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716050-valorant-internal-source.html)|`2025-09-24 14:22:00`|`Valorant`|
