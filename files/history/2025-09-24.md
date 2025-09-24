@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena breakout infinite spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718908-arena-breakout-infinite-spoofer.html)|`2025-09-24 13:41:00`|`Other FPS Games`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-09-24 13:28:00`|`Counter-Strike 2 Releases`|
 |[Rematch Offsets SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705933-rematch-offsets-sdk.html)|`2025-09-24 13:15:00`|`Other Games`|
 |[CodeStage Anticheat &#45; Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/712704-codestage-anticheat-source-code.html)|`2025-09-24 12:53:00`|`Unity`|
