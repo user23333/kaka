@@ -25,6 +25,7 @@
 |8|[ManorLords&#46;ct&#45;v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51287)|`2025-09-25 00:13:57`|
 |27|[Zykof internal cheat farlight v4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51285)|`2025-09-25 00:13:57`|
 |55|[Lazybeard &#40;Menu Fix &#43; Fonts&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51284)|`2025-09-25 00:13:57`|
+|1|[5&#46;5&#46;4&#45;485034&#43;&#95;&#95;Squad&#95;v9&#46;0&#46;3&#45;SquadGame](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51331)|`2025-09-25 05:40:22`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
