@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypass Emu 32bit Some problems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/717649-bypass-emu-32bit.html)|`2025-09-25 05:58:00`|`PUBG Mobile`|
 |[Fear Therapy &#45; God Mode, Fly, Teleport, Speed, Item ESP, Fullbright &#43; FOV Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718952-fear-therapy-god-mode-fly-teleport-speed-item-esp-fullbright-fov-changer.html)|`2025-09-25 05:44:00`|`Other Games`|
 |[Player portraits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/719016-player-portraits.html)|`2025-09-25 05:41:00`|`Apex Legends`|
 |[DMA PCIE Device Blocking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/718666-dma-pcie-device-blocking.html)|`2025-09-25 05:30:00`|`Apex Legends`|
