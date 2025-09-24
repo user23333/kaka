@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Script Arduino fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/718949-rust-script-arduino-fix.html)|`2025-09-24 21:51:00`|`Rust`|
 |[WarThunder DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/713460-warthunder-dma.html)|`2025-09-24 21:50:00`|`Other MMORPG and Strategy`|
 |[Cant find drug locations with dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/718731-cant-drug-locations-dump.html)|`2025-09-24 20:56:00`|`Alternative Online Mods`|
 |[ESP "Delayed"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/718696-esp-delayed.html)|`2025-09-24 20:43:00`|`General Programming and Reversing`|
