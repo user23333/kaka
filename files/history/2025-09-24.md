@@ -13,6 +13,8 @@
 |6|[GuardSystem Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718143-guardsystem-anticheat.html)|`2025-09-24 00:13:19`|`anti-cheat-bypass`|
 |7|[x86&#45;64 PE Binary Obfuscator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718591-x86-64-pe-binary-obfuscator.html)|`2025-09-24 04:58:54`|`anti-cheat-bypass`|
 |6|[im new here](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/718309-im.html)|`2025-09-24 14:54:38`|`introductions`|
+|2|[Borderlands 4 &#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718289-borderlands-4-ct.html)|`2025-09-24 20:58:43`|`other-games`|
+|10|[Nuclear Nightmare internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718268-nuclear-nightmare-internal.html)|`2025-09-24 20:58:43`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -39,6 +41,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cant find drug locations with dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/718731-cant-drug-locations-dump.html)|`2025-09-24 20:56:00`|`Alternative Online Mods`|
+|[ESP "Delayed"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/718696-esp-delayed.html)|`2025-09-24 20:43:00`|`General Programming and Reversing`|
+|[Charlie Kirkware R6 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/717390-charlie-kirkware-r6-cheat.html)|`2025-09-24 20:32:00`|`Rainbow Six Siege`|
 |[XGPU ACCOUNTS  COD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/718450-xgpu-accounts-cod.html)|`2025-09-24 20:09:00`|`Call of Duty: Black Ops 6`|
 |[BO7 BETA CODE METHODS &#124; SHARE THEM BELOW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/718714-bo7-beta-code-methods-share-below.html)|`2025-09-24 20:07:00`|`Call of Duty: Black Ops 6`|
 |[How to make external undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718515-external-undetected.html)|`2025-09-24 20:03:00`|`Counter-Strike 2`|
