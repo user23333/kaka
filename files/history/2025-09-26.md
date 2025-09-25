@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Why haven’t I seen a Internal do this?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718986-haven-seen-internal.html)|`2025-09-26 01:49:00`|`Counter-Strike 2`|
+|[Warframe Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718442-warframe-internal-cheat.html)|`2025-09-26 01:48:00`|`Other FPS Games`|
+|[Rocket League bots?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/719114-rocket-league-bots.html)|`2025-09-26 01:48:00`|`Other Games`|
+|[how to make a silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719112-silent-aim.html)|`2025-09-26 01:47:00`|`Alternative Online Mods`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-09-26 01:47:00`|`Apex Legends`|
+|[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2025-09-26 01:45:00`|`HELLDIVERS 2`|
 |[Best way to earn money in the new gta enhanced version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/716147-earn-money-gta-enhanced-version.html)|`2025-09-26 01:43:00`|`Grand Theft Auto V`|
 |[Bhop Internal Cheat Offset&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719077-bhop-internal-cheat-offset.html)|`2025-09-26 01:38:00`|`Counter-Strike 2`|
 |[VAC Live](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717620-vac-live.html)|`2025-09-26 01:31:00`|`Counter-Strike 2`|
