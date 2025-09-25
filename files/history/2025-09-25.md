@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Issue with injection I havent faced before](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719091-issue-injection-havent-faced.html)|`2025-09-25 22:36:00`|`Valorant`|
+|[FiveM Silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719090-fivem-silent-aim.html)|`2025-09-25 22:31:00`|`Alternative Online Mods`|
+|[FiveM Silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/719089-fivem-silent-aim.html)|`2025-09-25 22:27:00`|`Half Life`|
 |[Bhop Internal Cheat Offset&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719077-bhop-internal-cheat-offset.html)|`2025-09-25 21:49:00`|`Counter-Strike 2`|
 |[Cheat Base For Internal CS2 Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718812-cheat-base-internal-cs2-cheats.html)|`2025-09-25 21:17:00`|`Counter-Strike 2`|
 |[EAC Firewall Command Generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719071-eac-firewall-command-generator.html)|`2025-09-25 20:44:00`|`Anti-Cheat Bypass`|
