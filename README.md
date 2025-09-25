@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FXAP FIVE M DECRYPT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/718687-fxap-five-decrypt.html)|`2025-09-25 08:57:00`|`Alternative Online Mods`|
+|[2pc vgc bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718511-2pc-vgc-bypass.html)|`2025-09-25 08:56:00`|`Anti-Cheat Bypass`|
+|[FXAP Decrypt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/712588-fxap-decrypt.html)|`2025-09-25 08:54:00`|`General Programming and Reversing`|
+|[pSilent predict the next frame](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/719030-psilent-predict-frame.html)|`2025-09-25 08:47:00`|`Apex Legends`|
+|[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2025-09-25 08:34:00`|`HELLDIVERS 2`|
 |[Superglide kmbox macros](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/719024-superglide-kmbox-macros.html)|`2025-09-25 07:55:00`|`Apex Legends`|
 |[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-09-25 07:48:00`|`Grand Theft Auto V`|
 |[Better call finger&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/719023-call-finger.html)|`2025-09-25 07:41:00`|`Off Topic`|
