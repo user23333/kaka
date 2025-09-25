@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple Gta Enhanced external triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/710301-simple-gta-enhanced-external-triggerbot.html)|`2025-09-25 20:34:00`|`Grand Theft Auto V`|
+|[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2025-09-25 20:09:00`|`Other MMORPG and Strategy`|
+|[Gamemodeinfo mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/718405-gamemodeinfo-mod.html)|`2025-09-25 20:04:00`|`Star Wars Battlefront 2`|
+|[Steam Account Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/718997-steam-account-ban.html)|`2025-09-25 20:03:00`|`Call of Duty: Black Ops 6`|
 |[Dead By Daylight DMA 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714224-dead-daylight-dma-2-0-a.html)|`2025-09-25 19:45:00`|`Other FPS Games`|
 |[BO7 BETA CODE METHODS &#124; SHARE THEM BELOW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/718714-bo7-beta-code-methods-share-below.html)|`2025-09-25 19:40:00`|`Call of Duty: Black Ops 6`|
 |[Multiple instances of cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719034-multiple-instances-cs2.html)|`2025-09-25 19:18:00`|`Counter-Strike 2`|
