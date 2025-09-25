@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dell Laptop Perm Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719065-dell-laptop-perm-spoofing.html)|`2025-09-26 04:06:00`|`Valorant`|
+|[x86&#45;64 PE Binary Obfuscator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718591-x86-64-pe-binary-obfuscator.html)|`2025-09-26 04:05:00`|`Anti-Cheat Bypass`|
+|[guys would u use my cheat if i released this](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/719133-guys-cheat-released.html)|`2025-09-26 04:04:00`|`Phasmophobia`|
+|[Simple canvas gui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/719131-simple-canvas-gui.html)|`2025-09-26 04:00:00`|`Unreal Engine 4`|
+|[Arduino Working Jitter aim bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703532-arduino-jitter-aim-bypass.html)|`2025-09-26 03:50:00`|`Apex Legends`|
 |[Does anyone have nosTEAM version GetTagPos address?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/718487-nosteam-version-gettagpos-address.html)|`2025-09-26 03:49:00`|`Call of Duty: Black Ops 2`|
 |[NUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719001-nui.html)|`2025-09-26 03:49:00`|`Alternative Online Mods`|
 |[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2025-09-26 03:40:00`|`Other FPS Games`|
