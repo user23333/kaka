@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-09-26 02:39:00`|`Escape from Tarkov`|
+|[streaming files dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/711617-streaming-files-dumper.html)|`2025-09-26 02:36:00`|`Alternative Online Mods`|
+|[Spoof Weapon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719064-spoof-weapon.html)|`2025-09-26 02:35:00`|`Alternative Online Mods`|
+|[Bypass Genshin 6&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/717543-bypass-genshin-6-0-a.html)|`2025-09-26 02:32:00`|`Genshin Impact`|
+|[Elysium &#45; UEFI Bootkit Framework that attacks boot&#45;time Code Integrity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718917-elysium-uefi-bootkit-framework-attacks-boot-time-code-integrity.html)|`2025-09-26 02:25:00`|`Anti-Cheat Bypass`|
+|[Farlight 84 Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/715803-farlight-84-internal-cheat.html)|`2025-09-26 02:23:00`|`Farlight 84`|
+|[FiveM cheat external with bypass SS source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/717983-fivem-cheat-external-bypass-ss-source.html)|`2025-09-26 02:23:00`|`Alternative Online Mods`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-09-26 02:12:00`|`Rust`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-09-26 02:08:00`|`Sea of Thieves`|
 |[Megabonk &#45; Complete Unlock Save File &#43; Encryption Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718985-megabonk-complete-unlock-save-file-encryption-methods.html)|`2025-09-26 02:00:00`|`Other Games`|
