@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[valorant internal source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716050-valorant-internal-source.html)|`2025-09-26 03:24:00`|`Valorant`|
+|[Issue with injection I havent faced before](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719091-issue-injection-havent-faced.html)|`2025-09-26 03:19:00`|`Valorant`|
+|[&#91;Updated&#93; Dead by Daylight Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/635513-updated-dead-daylight-unlock-dlcs-skins.html)|`2025-09-26 03:18:00`|`Other FPS Games`|
+|[incorrect getting fields IL2cpp &#40;Genshin Impact&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/717338-incorrect-getting-fields-il2cpp-genshin-impact.html)|`2025-09-26 03:17:00`|`Forum General`|
 |[Overwatch External &#45; &#91;UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/717914-overwatch-external-updated.html)|`2025-09-26 03:09:00`|`Overwatch`|
 |[Skate&#46; Modding?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718988-skate-modding.html)|`2025-09-26 03:07:00`|`Other Games`|
 |[P2C still worth it ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/719092-p2c-worth.html)|`2025-09-26 03:06:00`|`Forum General`|
