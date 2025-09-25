@@ -13,6 +13,7 @@
 |4|[Somehow Undetected Arduino Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/718563-somehow-undetected-arduino-colorbot.html)|`2025-09-25 00:13:57`|`valorant`|
 |10|[Nuclear Nightmare internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718268-nuclear-nightmare-internal.html)|`2025-09-25 00:51:01`|`other-games`|
 |3|[Megabonk Python Cheat &#91;100% open source&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718610-megabonk-python-cheat-100-source.html)|`2025-09-25 12:59:23`|`other-games`|
+|13|[Elysium &#45; UEFI Bootkit Framework that attacks boot&#45;time Code Integrity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718917-elysium-uefi-bootkit-framework-attacks-boot-time-code-integrity.html)|`2025-09-25 21:07:07`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC Firewall Command Generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719071-eac-firewall-command-generator.html)|`2025-09-25 20:44:00`|`Anti-Cheat Bypass`|
 |[Simple Gta Enhanced external triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/710301-simple-gta-enhanced-external-triggerbot.html)|`2025-09-25 20:34:00`|`Grand Theft Auto V`|
 |[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2025-09-25 20:09:00`|`Other MMORPG and Strategy`|
 |[Gamemodeinfo mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/718405-gamemodeinfo-mod.html)|`2025-09-25 20:04:00`|`Star Wars Battlefront 2`|
