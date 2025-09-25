@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Script Arduino fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/718949-rust-script-arduino-fix.html)|`2025-09-25 13:53:00`|`Rust`|
 |[Rust Makcu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/718899-rust-makcu.html)|`2025-09-25 13:35:00`|`Rust`|
 |[we are helping anti&#45;cheat developers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/718913-helping-anti-cheat-developers.html)|`2025-09-25 13:19:00`|`Off Topic`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-09-25 12:31:00`|`Grand Theft Auto V`|
