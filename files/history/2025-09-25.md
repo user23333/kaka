@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Viol&#46;Lua &#124; Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/718704-viol-lua-cheat.html)|`2025-09-25 15:14:00`|`Garry's Mod`|
 |[VALORANT TPM SB HVCI UEFI BOOT BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709869-valorant-tpm-sb-hvci-uefi-boot-bypass.html)|`2025-09-25 15:10:00`|`Valorant`|
 |[Bypass UEFI SecureBoot Popup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/718826-bypass-uefi-secureboot-popup.html)|`2025-09-25 15:00:00`|`Valorant`|
 |[Popup Bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/718735-popup-bypass.html)|`2025-09-25 14:58:00`|`Valorant`|
