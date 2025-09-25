@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VALORANT TPM SB HVCI UEFI BOOT BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/709869-valorant-tpm-sb-hvci-uefi-boot-bypass.html)|`2025-09-25 15:10:00`|`Valorant`|
+|[Bypass UEFI SecureBoot Popup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/718826-bypass-uefi-secureboot-popup.html)|`2025-09-25 15:00:00`|`Valorant`|
+|[Popup Bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/718735-popup-bypass.html)|`2025-09-25 14:58:00`|`Valorant`|
 |[Ghost recon breakpoint DMG cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/ghost-recon/634643-ghost-recon-breakpoint-dmg-cheat.html)|`2025-09-25 14:48:00`|`Ghost Recon`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2025-09-25 14:36:00`|`Other FPS Games`|
 |[Botlobby Tool FREE &#91;BO6/MW3/WARZONE&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/696676-botlobby-tool-free-bo6-mw3-warzone.html)|`2025-09-25 14:31:00`|`Call of Duty: Black Ops 6`|
