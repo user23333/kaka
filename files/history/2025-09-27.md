@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My pasted driver doesnt work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719094-pasted-driver-doesnt.html)|`2025-09-27 01:25:00`|`Anti-Cheat Bypass`|
+|[guys would u use my cheat if i released this](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/719133-guys-cheat-released.html)|`2025-09-27 01:22:00`|`Phasmophobia`|
+|[Simple Outline](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/717443-simple-outline.html)|`2025-09-27 01:19:00`|`Overwatch`|
+|[ZeroPoint &#45; External Cheat &#40;My first external cheat&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715973-zeropoint-external-cheat-external-cheat.html)|`2025-09-27 01:16:00`|`Counter-Strike 2`|
+|[Skate 4 Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/514380-skate-4-internal-cheat.html)|`2025-09-27 01:14:00`|`Other Games`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-09-27 01:10:00`|`Counter-Strike 2`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-09-27 01:05:00`|`Valorant`|
 |[Help with ESP32&#45;S3 freezing issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/719242-help-esp32-s3-freezing-issue.html)|`2025-09-27 00:58:00`|`Rust`|
