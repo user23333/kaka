@@ -26,9 +26,15 @@
 |5|[global&#45;metadata&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51293)|`2025-09-26 00:18:59`|
 |49|[TslGame 37&#46;2&#46;1&#46;85](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51291)|`2025-09-26 00:18:59`|
 |9|[ManorLords&#46;ct&#45;v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51287)|`2025-09-26 00:18:59`|
+|1|[EXTERNAL CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51327)|`2025-09-26 11:07:37`|
+|1|[Lazybeard ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51306)|`2025-09-26 11:07:37`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-09-26 11:04:00`|`Counter-Strike 2 Releases`|
+|[Driver auto deletion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719013-driver-auto-deletion.html)|`2025-09-26 10:37:00`|`Anti-Cheat Bypass`|
+|[HoldFast Internal Cheat NaW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718005-holdfast-internal-cheat-naw.html)|`2025-09-26 10:35:00`|`Other FPS Games`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-09-26 10:34:00`|`Counter-Strike 2`|
 |[bone validity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/719175-bone-validity.html)|`2025-09-26 10:13:00`|`Call of Duty: Black Ops 6`|
 |[Valorant Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719169-valorant-spoofing.html)|`2025-09-26 09:46:00`|`Valorant`|
 |[About redirection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/719172-redirection.html)|`2025-09-26 09:45:00`|`Programming for Beginners`|
