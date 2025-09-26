@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help with CreateMove hook &#40;CUserCmd pointer always null&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719185-help-createmove-hook-cusercmd-pointer-null.html)|`2025-09-27 02:10:00`|`Counter-Strike 2`|
+|[Apex DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716473-apex-dma-source.html)|`2025-09-27 02:06:00`|`Apex Legends`|
+|[RAİD SİNGLE SSD CHANGER SERİAL NO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719251-ra-ngle-ssd-changer-ser-al.html)|`2025-09-27 02:00:00`|`Valorant`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-09-27 01:57:00`|`Escape from Tarkov`|
 |[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-09-27 01:50:00`|`Sea of Thieves`|
 |[Elysium &#45; UEFI Bootkit Framework that attacks boot&#45;time Code Integrity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718917-elysium-uefi-bootkit-framework-attacks-boot-time-code-integrity.html)|`2025-09-27 01:41:00`|`Anti-Cheat Bypass`|
 |[New Member](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/719218-new-member.html)|`2025-09-27 01:40:00`|`Introductions`|
