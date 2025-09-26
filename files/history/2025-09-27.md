@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino simulate aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/718702-arduino-simulate-aim.html)|`2025-09-27 02:26:00`|`Apex Legends`|
+|[Get selected skins from arsenal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664707-selected-skins-arsenal.html)|`2025-09-27 02:19:00`|`Valorant`|
 |[Help with CreateMove hook &#40;CUserCmd pointer always null&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719185-help-createmove-hook-cusercmd-pointer-null.html)|`2025-09-27 02:10:00`|`Counter-Strike 2`|
 |[Apex DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716473-apex-dma-source.html)|`2025-09-27 02:06:00`|`Apex Legends`|
 |[RAİD SİNGLE SSD CHANGER SERİAL NO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719251-ra-ngle-ssd-changer-ser-al.html)|`2025-09-27 02:00:00`|`Valorant`|
