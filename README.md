@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External CUserCmd Classes &#40; Getters and Setters &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719247-external-cusercmd-classes-getters-setters.html)|`2025-09-27 01:37:00`|`Counter-Strike 2`|
+|[question's for those people who makes cheats for games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/717414-questions-people-makes-cheats-games.html)|`2025-09-27 01:32:00`|`Forum General`|
+|[PROTECTED IL2CPP EXPORTS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/717680-protected-il2cpp-exports.html)|`2025-09-27 01:28:00`|`Forum General`|
 |[My pasted driver doesnt work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719094-pasted-driver-doesnt.html)|`2025-09-27 01:25:00`|`Anti-Cheat Bypass`|
 |[guys would u use my cheat if i released this](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/719133-guys-cheat-released.html)|`2025-09-27 01:22:00`|`Phasmophobia`|
 |[Simple Outline](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/717443-simple-outline.html)|`2025-09-27 01:19:00`|`Overwatch`|
