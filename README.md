@@ -49,6 +49,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fastest Python Valorant Triggerbot &#40;fr&#41;&#40;fr&#41;&#40;fr&#41; &#43; Addon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/641020-fastest-python-valorant-triggerbot-fr-fr-fr-addon.html)|`2025-09-26 19:40:00`|`Valorant`|
+|[Remove Radio Cooldown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/715473-remove-radio-cooldown.html)|`2025-09-26 19:33:00`|`Combat Arms`|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-09-26 19:29:00`|`Counter-Strike 2 Releases`|
 |[YOLO V5 AI Aim Assit Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/696351-yolo-v5-ai-aim-assit-bot.html)|`2025-09-26 18:39:00`|`Apex Legends`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-09-26 18:23:00`|`Overwatch`|
 |[C&#43;&#43; Single Header&#45;Only library for Obfuscation/VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/718100-single-header-library-obfuscation-vm.html)|`2025-09-26 18:17:00`|`C and C++`|
