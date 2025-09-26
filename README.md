@@ -49,6 +49,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to read spells data?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/719180-read-spells-data.html)|`2025-09-26 13:50:00`|`League of Legends`|
+|[Lockdown Protocol Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718478-lockdown-protocol-internal.html)|`2025-09-26 13:46:00`|`Other Games`|
 |[eblenix csgo src self&#45;leak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/718112-eblenix-csgo-src-self-leak.html)|`2025-09-26 13:43:00`|`Counterstrike Global Offensive`|
 |[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2025-09-26 13:35:00`|`Other FPS Games`|
 |[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2025-09-26 13:23:00`|`Other MMORPG and Strategy`|
