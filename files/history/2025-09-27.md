@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Elysium &#45; UEFI Bootkit Framework that attacks boot&#45;time Code Integrity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718917-elysium-uefi-bootkit-framework-attacks-boot-time-code-integrity.html)|`2025-09-27 01:41:00`|`Anti-Cheat Bypass`|
+|[New Member](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/719218-new-member.html)|`2025-09-27 01:40:00`|`Introductions`|
+|[I m new Here](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/719228-i-m-new-here.html)|`2025-09-27 01:40:00`|`Introductions`|
 |[External CUserCmd Classes &#40; Getters and Setters &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719247-external-cusercmd-classes-getters-setters.html)|`2025-09-27 01:37:00`|`Counter-Strike 2`|
 |[question's for those people who makes cheats for games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/717414-questions-people-makes-cheats-games.html)|`2025-09-27 01:32:00`|`Forum General`|
 |[PROTECTED IL2CPP EXPORTS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/717680-protected-il2cpp-exports.html)|`2025-09-27 01:28:00`|`Forum General`|
