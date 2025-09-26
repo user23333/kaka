@@ -49,6 +49,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Revolution Idle Anti Cheat Bypass/Freeshop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/711124-revolution-idle-anti-cheat-bypass-freeshop.html)|`2025-09-26 16:12:00`|`Other Games`|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-09-26 16:11:00`|`Other FPS Games`|
+|[Get all player weapons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719186-player-weapons.html)|`2025-09-26 16:09:00`|`Counter-Strike 2`|
+|[Rust Internal Base/Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/718320-rust-internal-base-help.html)|`2025-09-26 16:04:00`|`Rust`|
+|[Help with CreateMove hook &#40;CUserCmd pointer always null&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719185-help-createmove-hook-cusercmd-pointer-null.html)|`2025-09-26 15:58:00`|`Counter-Strike 2`|
 |[Fake Pitch Values](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719184-fake-pitch-values.html)|`2025-09-26 15:46:00`|`Counter-Strike 2`|
 |[battlebit  esp base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlebit-remastered/717600-battlebit-esp-base.html)|`2025-09-26 15:04:00`|`BattleBit Remastered`|
 |[External Valorant Cheat DTC&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711851-external-valorant-cheat-dtc.html)|`2025-09-26 14:49:00`|`Valorant`|
