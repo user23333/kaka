@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[state orb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/719073-orb.html)|`2025-09-27 05:30:00`|`Deadlock`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-09-27 05:24:00`|`Other FPS Games`|
 |[I Can't seem to get bhopping working in CS2 on a GUI Menu&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719275-cant-bhopping-cs2-gui-menu.html)|`2025-09-27 05:21:00`|`Counter-Strike 2`|
 |[pubgm 4&#46;0 emulator bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/719272-pubgm-4-0-emulator-bypass.html)|`2025-09-27 05:17:00`|`PUBG Mobile`|
