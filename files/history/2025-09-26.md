@@ -29,6 +29,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[bone validity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/719175-bone-validity.html)|`2025-09-26 10:13:00`|`Call of Duty: Black Ops 6`|
+|[Valorant Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719169-valorant-spoofing.html)|`2025-09-26 09:46:00`|`Valorant`|
+|[About redirection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/719172-redirection.html)|`2025-09-26 09:45:00`|`Programming for Beginners`|
+|[full stream&#45;proof chams &#40;and more&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/719171-stream-proof-chams.html)|`2025-09-26 09:44:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[weird delay ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719020-weird-delay-ban.html)|`2025-09-26 09:44:00`|`Valorant`|
+|[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2025-09-26 09:40:00`|`HELLDIVERS 2`|
+|[Arduino Host Shield Mouse Movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719170-arduino-host-shield-mouse-movement.html)|`2025-09-26 09:39:00`|`Anti-Cheat Bypass`|
+|[Farlight Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/716531-farlight-internal-cheat.html)|`2025-09-26 09:23:00`|`Farlight 84`|
 |[km & um communication for PUBG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/719163-km-um-communication-pubg.html)|`2025-09-26 08:33:00`|`Playerunknown's Battlegrounds`|
 |[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-09-26 08:20:00`|`Other FPS Games`|
 |[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-09-26 08:04:00`|`HELLDIVERS 2`|
