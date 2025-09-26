@@ -46,9 +46,13 @@
 |1|[Menu Snowbreak 3&#46;2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51341)|`2025-09-26 13:39:28`|
 |1|[ReadyorNotInternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51340)|`2025-09-26 13:39:28`|
 |1|[Flectorite v2&#46;4&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51347)|`2025-09-26 13:45:14`|
+|1|[gui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51344)|`2025-09-26 23:33:03`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ultra Rumble Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/719232-ultra-rumble-cheat-table.html)|`2025-09-26 23:31:00`|`Other Games`|
+|[EFT how to prevent the next ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/718948-eft-prevent-ban.html)|`2025-09-26 23:24:00`|`Escape from Tarkov`|
+|[New Updated Fully Working Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708891-updated-triggerbot.html)|`2025-09-26 23:06:00`|`Valorant`|
 |[Unturned HWID Spoofer Detected &#40;error&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717499-unturned-hwid-spoofer-detected-error.html)|`2025-09-26 23:18:00`|`Anti-Cheat Bypass`|
 |[External Tp to Waypoint](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/718990-external-tp-waypoint.html)|`2025-09-26 22:31:00`|`Alternative Online Mods`|
 |[aimbot smoothing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/719222-aimbot-smoothing.html)|`2025-09-26 22:18:00`|`Call of Duty: Black Ops 6`|
