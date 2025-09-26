@@ -34,9 +34,14 @@
 |1|[Rules](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51343)|`2025-09-26 12:32:13`|
 |1|[superglide macros kmbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51333)|`2025-09-26 12:32:13`|
 |1|[bin&#45;obfuscator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51318)|`2025-09-26 12:32:13`|
+|2|[Rematch Shot Speed Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51323)|`2025-09-26 13:11:25`|
+|1|[DeepseekDriveLib&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51322)|`2025-09-26 13:11:25`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rematch Shoot Speed Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/716470-rematch-shoot-speed-hack.html)|`2025-09-26 13:05:00`|`Other Games`|
+|[Safer Driver Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/702983-safer-driver-cheat.html)|`2025-09-26 13:03:00`|`General Programming and Reversing`|
+|[SastashFied Iw5 &#40;Undetected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/712859-sastashfied-iw5-undetected.html)|`2025-09-26 12:59:00`|`Call of Duty: Modern Warfare 3`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-09-26 12:53:00`|`Other FPS Games`|
 |[Nuclear Nightmare internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718268-nuclear-nightmare-internal.html)|`2025-09-26 12:51:00`|`Other Games`|
 |[Roblox executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718713-roblox-executor.html)|`2025-09-26 12:50:00`|`Other FPS Games`|
