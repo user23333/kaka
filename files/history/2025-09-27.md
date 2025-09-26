@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[script no recoil LUA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/719287-script-recoil-lua.html)|`2025-09-27 07:37:00`|`Battlefield 2042`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-09-27 07:14:00`|`League of Legends`|
 |[fix cheat engine crashing BO3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/719285-fix-cheat-engine-crashing-bo3.html)|`2025-09-27 07:11:00`|`Call of Duty: Black Ops 3`|
 |[femboy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/712188-femboy.html)|`2025-09-27 07:10:00`|`Off Topic`|
