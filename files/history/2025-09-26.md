@@ -49,6 +49,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[bullet penetration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719181-bullet-penetration.html)|`2025-09-26 13:54:00`|`Counter-Strike 2`|
 |[How to read spells data?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/719180-read-spells-data.html)|`2025-09-26 13:50:00`|`League of Legends`|
 |[Lockdown Protocol Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718478-lockdown-protocol-internal.html)|`2025-09-26 13:46:00`|`Other Games`|
 |[eblenix csgo src self&#45;leak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/718112-eblenix-csgo-src-self-leak.html)|`2025-09-26 13:43:00`|`Counterstrike Global Offensive`|
