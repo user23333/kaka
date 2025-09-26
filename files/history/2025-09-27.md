@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External ESP for Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/717952-external-esp-windows.html)|`2025-09-27 06:37:00`|`Apex Legends`|
 |[Oxide Engine &#124; New Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715554-oxide-engine-cheat-engine.html)|`2025-09-27 06:08:00`|`Anti-Cheat Bypass`|
 |[aimbot smoothing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/719222-aimbot-smoothing.html)|`2025-09-27 06:04:00`|`Call of Duty: Black Ops 6`|
 |[how do i find ntoskrnl in hypervisor?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718867-ntoskrnl-hypervisor.html)|`2025-09-27 05:40:00`|`Anti-Cheat Bypass`|
