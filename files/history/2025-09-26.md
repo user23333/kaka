@@ -49,6 +49,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Crash Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718787-crash-help.html)|`2025-09-26 16:53:00`|`Counter-Strike 2`|
 |[Revolution Idle Anti Cheat Bypass/Freeshop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/711124-revolution-idle-anti-cheat-bypass-freeshop.html)|`2025-09-26 16:12:00`|`Other Games`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-09-26 16:11:00`|`Other FPS Games`|
 |[Get all player weapons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719186-player-weapons.html)|`2025-09-26 16:09:00`|`Counter-Strike 2`|
