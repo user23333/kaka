@@ -49,6 +49,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fake Pitch Values](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719184-fake-pitch-values.html)|`2025-09-26 15:46:00`|`Counter-Strike 2`|
 |[battlebit  esp base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlebit-remastered/717600-battlebit-esp-base.html)|`2025-09-26 15:04:00`|`BattleBit Remastered`|
 |[External Valorant Cheat DTC&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/711851-external-valorant-cheat-dtc.html)|`2025-09-26 14:49:00`|`Valorant`|
 |[bullet penetration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719181-bullet-penetration.html)|`2025-09-26 13:54:00`|`Counter-Strike 2`|
