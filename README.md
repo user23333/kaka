@@ -49,6 +49,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unturned HWID Spoofer Detected &#40;error&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717499-unturned-hwid-spoofer-detected-error.html)|`2025-09-26 23:18:00`|`Anti-Cheat Bypass`|
 |[External Tp to Waypoint](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/718990-external-tp-waypoint.html)|`2025-09-26 22:31:00`|`Alternative Online Mods`|
 |[aimbot smoothing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/719222-aimbot-smoothing.html)|`2025-09-26 22:18:00`|`Call of Duty: Black Ops 6`|
 |[Earning money in GTA V Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/719221-earning-money-gta-enhanced.html)|`2025-09-26 22:18:00`|`Grand Theft Auto V`|
