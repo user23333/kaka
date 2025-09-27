@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TypeScript Memory Module — Trigger&#45;Bot Demo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/717579-typescript-memory-module-trigger-bot-demo.html)|`2025-09-27 18:22:00`|`Counter-Strike 2 Releases`|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-09-27 18:13:00`|`Other FPS Games`|
 |[Lockdown Protocol Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718478-lockdown-protocol-internal.html)|`2025-09-27 17:51:00`|`Other Games`|
 |[stealth driver read memory using spy page](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717569-stealth-driver-read-memory-using-spy-page.html)|`2025-09-27 17:44:00`|`Anti-Cheat Bypass`|
 |[Bypass PS Gameguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719348-bypass-ps-gameguard.html)|`2025-09-27 17:41:00`|`Anti-Cheat Bypass`|
