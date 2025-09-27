@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bloodstrike Cheat for PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719354-bloodstrike-cheat-pc.html)|`2025-09-27 18:48:00`|`Other FPS Games`|
 |[notwav](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/715244-notwav.html)|`2025-09-27 18:35:00`|`Off Topic`|
 |[Auto Update External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/614771-auto-update-external.html)|`2025-09-27 18:32:00`|`Overwatch`|
 |[Crash Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718787-crash-help.html)|`2025-09-27 18:31:00`|`Counter-Strike 2`|
