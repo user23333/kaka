@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DuneCore v3 &#45; CS2 Best hack so far &#40;for legit players&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/691168-dunecore-v3-cs2-hack-legit-players.html)|`2025-09-28 04:26:00`|`Counter-Strike 2 Releases`|
+|[Mod Menu Crew v5&#46;3&#46;0  Definitive Edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/716042-mod-menu-crew-v5-3-0-definitive-edition.html)|`2025-09-28 04:25:00`|`Among Us`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-09-28 04:17:00`|`Escape from Tarkov`|
+|[Genshin Impact 5&#46;8 Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/712706-genshin-impact-5-8-table.html)|`2025-09-28 04:17:00`|`Genshin Impact`|
+|[ESP32&#45;S3 Single Device &#45; Recoil Compensator Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/716807-esp32-s3-single-device-recoil-compensator-script.html)|`2025-09-28 04:15:00`|`Rust`|
+|[Menu My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/713007-menu-hero-ultra-rumble.html)|`2025-09-28 04:13:00`|`Other Games`|
 |[Megabonk &#45; Complete Unlock Save File &#43; Encryption Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718985-megabonk-complete-unlock-save-file-encryption-methods.html)|`2025-09-28 04:10:00`|`Other Games`|
 |[Bought an acc a while back and it has abyss hacked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/719116-bought-acc-abyss-hacked.html)|`2025-09-28 04:07:00`|`Genshin Impact`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-09-28 03:35:00`|`Counter-Strike 2 Releases`|
