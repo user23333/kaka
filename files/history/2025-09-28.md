@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RAİD SİNGLE SSD CHANGER SERİAL NO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719251-ra-ngle-ssd-changer-ser-al.html)|`2025-09-28 01:38:00`|`Valorant`|
+|[2pc vgc bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718511-2pc-vgc-bypass.html)|`2025-09-28 01:37:00`|`Anti-Cheat Bypass`|
 |[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2025-09-28 01:36:00`|`Other FPS Games`|
 |[pubgm 4&#46;0 emulator bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/719272-pubgm-4-0-emulator-bypass.html)|`2025-09-28 01:30:00`|`PUBG Mobile`|
 |[Shock and Awe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/719416-shock-awe.html)|`2025-09-28 01:22:00`|`Payday 2`|
