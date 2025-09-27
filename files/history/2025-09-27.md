@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External ConVar Manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719379-external-convar-manager.html)|`2025-09-27 20:31:00`|`Counter-Strike 2`|
+|[DoD:S Internal SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/day-of-defeat/719378-dod-internal-sdk.html)|`2025-09-27 20:28:00`|`Day of Defeat`|
+|[Banned? Post info&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719377-banned-post-info.html)|`2025-09-27 20:27:00`|`Counter-Strike 2`|
+|[How to inject into lunar client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/718593-inject-lunar-client.html)|`2025-09-27 20:19:00`|`Minecraft`|
 |[NEW CHECK TO CLOSE ALL FILES IN : &#45;  ano&#95;tmp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/719358-check-close-files-ano_tmp.html)|`2025-09-27 19:09:00`|`PUBG Mobile`|
 |[RTCore/DBUtil alternative](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/719357-rtcore-dbutil-alternative.html)|`2025-09-27 19:05:00`|`General Programming and Reversing`|
 |[Bloodstrike Cheat for PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719354-bloodstrike-cheat-pc.html)|`2025-09-27 18:48:00`|`Other FPS Games`|
