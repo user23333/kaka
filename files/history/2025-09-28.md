@@ -12,6 +12,7 @@
 |5|[BREAKING NEWS: Rust no longer game&#45;banning &#40;Trade skins exploit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/718440-breaking-news-rust-game-banning-trade-skins-exploit.html)|`2025-09-28 00:17:48`|`rust`|
 |7|[Vac Live Detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718788-vac-live-detections.html)|`2025-09-28 00:17:48`|`counter-strike-2-a`|
 |14|[farlight internal cheat chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/718581-farlight-internal-cheat-chams.html)|`2025-09-28 07:16:49`|`farlight-84-a`|
+|26|[Valorant Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719169-valorant-spoofing.html)|`2025-09-28 07:27:09`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NEW CHECK TO CLOSE ALL FILES IN : &#45;  ano&#95;tmp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/719358-check-close-files-ano_tmp.html)|`2025-09-28 07:21:00`|`PUBG Mobile`|
 |[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-09-28 07:11:00`|`Other FPS Games`|
 |[BO6/7 SPOOFER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/719461-bo6-7-spoofer.html)|`2025-09-28 07:10:00`|`Call of Duty: Black Ops 6`|
 |[Private servers 'banning' for cheating with no proof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/716728-private-servers-banning-cheating-proof.html)|`2025-09-28 07:06:00`|`DayZ SA`|
