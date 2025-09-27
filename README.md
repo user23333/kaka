@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How good is ACE?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/719411-ace.html)|`2025-09-28 00:32:00`|`Forum General`|
+|[Chivalry 2 Chivalapocalypse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/717361-chivalry-2-chivalapocalypse.html)|`2025-09-28 00:28:00`|`Other Games`|
+|[vgc bypass 1pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719410-vgc-bypass-1pc.html)|`2025-09-28 00:27:00`|`Anti-Cheat Bypass`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-09-28 00:26:00`|`Other FPS Games`|
+|[banned on valo for homophobic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719344-banned-valo-homophobic.html)|`2025-09-28 00:19:00`|`Valorant`|
 |[Earning money in GTA V Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/719221-earning-money-gta-enhanced.html)|`2025-09-28 00:07:00`|`Grand Theft Auto V`|
 |[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-09-28 00:04:00`|`Battlefield 4`|
 |[GTA ONLINE ENHANCED ALL AWARDS STATS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701294-gta-online-enhanced-awards-stats.html)|`2025-09-28 00:02:00`|`Grand Theft Auto V`|
