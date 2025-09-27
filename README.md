@@ -36,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[banned on valo for homophobic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719344-banned-valo-homophobic.html)|`2025-09-27 20:54:00`|`Valorant`|
+|[AntiAim Questions And Problems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/719386-antiaim-questions.html)|`2025-09-27 20:53:00`|`Forum General`|
+|[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-09-27 20:51:00`|`Other FPS Games`|
+|[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2025-09-27 20:45:00`|`Counter-Strike 2 Releases`|
+|[Gorebox Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716525-gorebox-internal-cheat.html)|`2025-09-27 20:44:00`|`Other FPS Games`|
 |[External ConVar Manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719379-external-convar-manager.html)|`2025-09-27 20:31:00`|`Counter-Strike 2`|
 |[DoD:S Internal SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/day-of-defeat/719378-dod-internal-sdk.html)|`2025-09-27 20:28:00`|`Day of Defeat`|
 |[Banned? Post info&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719377-banned-post-info.html)|`2025-09-27 20:27:00`|`Counter-Strike 2`|
