@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-09-28 11:19:00`|`Escape from Tarkov`|
+|[Decrypting Lua Byte Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/717448-decrypting-lua-byte-code.html)|`2025-09-28 10:52:00`|`Alternative Online Mods`|
 |[Roblox External &#45; &#91;ALWAYS UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717679-roblox-external-updated.html)|`2025-09-28 10:43:00`|`Other FPS Games`|
 |[movement issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719481-movement-issues.html)|`2025-09-28 10:36:00`|`Counter-Strike 2`|
 |[How to hook eglSwapBuffers correctly?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/719417-hook-eglswapbuffers-correctly.html)|`2025-09-28 10:33:00`|`PUBG Mobile`|
