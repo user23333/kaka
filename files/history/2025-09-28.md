@@ -28,9 +28,11 @@
 |70|[VALORANT 11&#46;06&#46;00&#46;3836880 Unpacked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51349)|`2025-09-28 00:17:48`|
 |2|[Borderlands 4 Console Commands](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51365)|`2025-09-28 01:49:09`|
 |1|[GBchet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51364)|`2025-09-28 01:55:17`|
+|1|[Lazybeard v2&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51366)|`2025-09-28 12:49:34`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Witch It ESP External 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717954-witch-esp-external-2025-a.html)|`2025-09-28 12:44:00`|`Other FPS Games`|
 |[Plutonium T5 &#45; Address Verification from PDB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/719484-plutonium-t5-address-verification-pdb.html)|`2025-09-28 11:54:00`|`Call of Duty: Black Ops`|
 |[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2025-09-28 11:24:00`|`Counter-Strike 2`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-09-28 11:19:00`|`Escape from Tarkov`|
