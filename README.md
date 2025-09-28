@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Roblox External &#45; &#91;ALWAYS UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717679-roblox-external-updated.html)|`2025-09-28 10:43:00`|`Other FPS Games`|
+|[movement issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719481-movement-issues.html)|`2025-09-28 10:36:00`|`Counter-Strike 2`|
+|[How to hook eglSwapBuffers correctly?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/719417-hook-eglswapbuffers-correctly.html)|`2025-09-28 10:33:00`|`PUBG Mobile`|
+|[Lua API](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719154-lua-api.html)|`2025-09-28 10:01:00`|`Alternative Online Mods`|
+|[eblenix csgo src self&#45;leak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/718112-eblenix-csgo-src-self-leak.html)|`2025-09-28 09:28:00`|`Counterstrike Global Offensive`|
 |[cloverpit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/719473-cloverpit.html)|`2025-09-28 09:22:00`|`Other Games`|
 |[TraceShape spam firing gun clientside](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719470-traceshape-spam-firing-gun-clientside.html)|`2025-09-28 09:21:00`|`Counter-Strike 2`|
 |[Valorant Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719169-valorant-spoofing.html)|`2025-09-28 09:17:00`|`Valorant`|
