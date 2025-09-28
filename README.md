@@ -11,6 +11,7 @@
 |7|[Vac Live Detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718788-vac-live-detections.html)|`2025-09-29 00:08:44`|`counter-strike-2-a`|
 |5|[Skate&#46; Modding?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718988-skate-modding.html)|`2025-09-29 00:08:44`|`other-games`|
 |14|[farlight internal cheat chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/718581-farlight-internal-cheat-chams.html)|`2025-09-29 00:08:44`|`farlight-84-a`|
+|4|[Viol&#46;Lua &#124; Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/718704-viol-lua-cheat.html)|`2025-09-29 00:29:13`|`garry-s-mod`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is there a tool to easily max out skills?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/719499-tool-easily-max-skills.html)|`2025-09-29 00:28:00`|`Payday 3`|
+|[usercmd protobuf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719534-usercmd-protobuf.html)|`2025-09-29 00:26:00`|`Counter-Strike 2`|
+|[pubgm 4&#46;0 emulator bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/719272-pubgm-4-0-emulator-bypass.html)|`2025-09-29 00:20:00`|`PUBG Mobile`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2025-09-29 00:18:00`|`Grand Theft Auto V`|
 |[Elysium &#45; UEFI Bootkit Framework that attacks boot&#45;time Code Integrity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718917-elysium-uefi-bootkit-framework-attacks-boot-time-code-integrity.html)|`2025-09-29 00:00:00`|`Anti-Cheat Bypass`|
 |[TraceShape spam firing gun clientside](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719470-traceshape-spam-firing-gun-clientside.html)|`2025-09-29 00:00:00`|`Counter-Strike 2`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-09-28 23:58:00`|`Escape from Tarkov`|
