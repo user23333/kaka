@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vac Live Detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718788-vac-live-detections.html)|`2025-09-29 06:32:00`|`Counter-Strike 2`|
+|[NVReAPI – Reverse NVIDIA API &#40;GPU UUID, Name&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719583-nvreapi-reverse-nvidia-api-gpu-uuid-name.html)|`2025-09-29 06:31:00`|`Anti-Cheat Bypass`|
 |[ACE/Delta Force/Arena Breakout HWID ban ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717899-ace-delta-force-arena-breakout-hwid-ban.html)|`2025-09-29 06:26:00`|`Anti-Cheat Bypass`|
 |[Buying old steam accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/719580-buying-steam-accounts.html)|`2025-09-29 06:06:00`|`Off Topic`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-09-29 05:39:00`|`Rust`|
