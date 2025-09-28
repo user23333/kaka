@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[movement issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719481-movement-issues.html)|`2025-09-29 03:14:00`|`Counter-Strike 2`|
+|[NEW CHECK TO CLOSE ALL FILES IN : &#45;  ano&#95;tmp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/719358-check-close-files-ano_tmp.html)|`2025-09-29 03:08:00`|`PUBG Mobile`|
 |[&#40;DMA&#41; Black Ops 6: Fuser ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670830-dma-black-ops-6-fuser-esp.html)|`2025-09-29 02:59:00`|`Call of Duty: Black Ops 6`|
 |[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-09-29 02:56:00`|`Farlight 84`|
 |[GetPlayerNames External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719443-getplayernames-external.html)|`2025-09-29 02:50:00`|`Alternative Online Mods`|
