@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Banned? Post info&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719377-banned-post-info.html)|`2025-09-28 20:52:00`|`Counter-Strike 2`|
+|[spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/719518-spoofer.html)|`2025-09-28 20:41:00`|`Rust`|
 |[How to make edgebug predictor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718833-edgebug-predictor.html)|`2025-09-28 20:29:00`|`Counter-Strike 2`|
 |[RTCore/DBUtil alternative](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/719357-rtcore-dbutil-alternative.html)|`2025-09-28 20:28:00`|`General Programming and Reversing`|
 |[LdrInitializeThunk hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717856-ldrinitializethunk-hook.html)|`2025-09-28 19:37:00`|`Anti-Cheat Bypass`|
