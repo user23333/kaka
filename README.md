@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ak&#45;holo &#40;crouched&#41; BLE MITM esp32s3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/719541-ak-holo-crouched-ble-mitm-esp32s3.html)|`2025-09-29 01:23:00`|`Rust`|
+|[Game Crashes after internal menu opening](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719254-game-crashes-internal-menu.html)|`2025-09-29 01:23:00`|`Valorant`|
+|[Loot esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/719540-loot-esp.html)|`2025-09-29 01:22:00`|`Call of Duty: Black Ops 6`|
+|[Ultimate COD WW2 Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/650299-ultimate-cod-ww2-thread.html)|`2025-09-29 01:13:00`|`Other Games`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-09-29 01:12:00`|`Other Games`|
+|[gta 5 battleye working menu &#40;no dma&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/714342-gta-5-battleye-menu-dma.html)|`2025-09-29 01:11:00`|`Grand Theft Auto V`|
 |[Borderlands 4 Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/717789-borderlands-4-reversal-structs-offsets.html)|`2025-09-29 01:06:00`|`Other Single Player Games`|
 |[Global Exception Handler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719467-global-exception-handler.html)|`2025-09-29 00:52:00`|`Anti-Cheat Bypass`|
 |[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2025-09-29 00:46:00`|`HELLDIVERS 2`|
