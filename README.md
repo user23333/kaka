@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Texas Chainsaw Massacre Tool &#45; Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712655-texas-chainsaw-massacre-tool-internal-cheat.html)|`2025-09-28 21:37:00`|`Other FPS Games`|
+|[Complete Anti&#45;Cheat BYPASS &#40;&#43;ONLINE&#43;INJECTOR&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/701513-complete-anti-cheat-bypass-online-injector.html)|`2025-09-28 21:37:00`|`Marvel Rivals`|
+|[AQ3D Auto Fishing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/680860-aq3d-auto-fishing.html)|`2025-09-28 21:32:00`|`Unity`|
+|[DeadByDaylight external &#91;Steam&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715450-deadbydaylight-external-steam.html)|`2025-09-28 21:31:00`|`Other Games`|
+|[BFBC2 D3D Hack by Krilu92](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-bad-company-2-a/623494-bfbc2-d3d-hack-krilu92.html)|`2025-09-28 21:19:00`|`Battlefield Bad Company 2`|
 |[Banned? Post info&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719377-banned-post-info.html)|`2025-09-28 20:52:00`|`Counter-Strike 2`|
 |[spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/719518-spoofer.html)|`2025-09-28 20:41:00`|`Rust`|
 |[How to make edgebug predictor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718833-edgebug-predictor.html)|`2025-09-28 20:29:00`|`Counter-Strike 2`|
