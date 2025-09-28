@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is there a tool to easily max out skills?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/719499-tool-easily-max-skills.html)|`2025-09-28 19:05:00`|`Payday 3`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-09-28 18:45:00`|`Counter-Strike 2`|
 |[Transparent gloves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717154-transparent-gloves.html)|`2025-09-28 18:44:00`|`Counter-Strike 2`|
 |[New EAC Fortnite HWID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716908-eac-fortnite-hwid.html)|`2025-09-28 18:40:00`|`Anti-Cheat Bypass`|
