@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[preserve killfeed help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719586-preserve-killfeed-help.html)|`2025-09-29 07:35:00`|`Counter-Strike 2`|
+|[Heroes of Valor &#45; XP Multiplier Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707057-heroes-valor-xp-multiplier-hack.html)|`2025-09-29 07:32:00`|`Other FPS Games`|
 |[Smite 2 Internal Esp/Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718330-smite-2-internal-esp-aimbot.html)|`2025-09-29 07:21:00`|`Other FPS Games`|
 |[Is it even possible to get VAC banned on CS 1&#46;6 nowadays?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/718446-vac-banned-cs-1-6-nowadays.html)|`2025-09-29 07:06:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-09-29 06:58:00`|`Counter-Strike 2`|
