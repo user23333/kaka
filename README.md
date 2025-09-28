@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pubg mobile 4&#46;0 is different from previous versions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/719490-pubg-mobile-4-0-previous-versions.html)|`2025-09-28 16:25:00`|`PUBG Mobile`|
 |[WAW ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-5-world-at-war/455184-waw-esp.html)|`2025-09-28 16:06:00`|`Call of Duty 5: World at War`|
 |[Squad Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719339-squad-cheat.html)|`2025-09-28 15:53:00`|`Other FPS Games`|
 |[ICMP/Ping Spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/719489-icmp-ping-spoof.html)|`2025-09-28 15:07:00`|`Battlefield 4`|
