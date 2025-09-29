@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Skate&#46; Modding?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718988-skate-modding.html)|`2025-09-30 01:13:00`|`Other Games`|
+|[Process Hollow c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/719653-process-hollow.html)|`2025-09-30 01:13:00`|`C and C++`|
+|[Farlight cheat internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/717566-farlight-cheat-internal.html)|`2025-09-30 01:11:00`|`Farlight 84`|
+|[Roblox external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719652-roblox-external-base.html)|`2025-09-30 01:05:00`|`Other FPS Games`|
 |[Roblox executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718713-roblox-executor.html)|`2025-09-30 00:54:00`|`Other FPS Games`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-09-30 00:54:00`|`Other FPS Games`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-09-30 00:53:00`|`Counter-Strike 2 Releases`|
