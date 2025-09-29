@@ -15,6 +15,7 @@
 |10|[My pasted driver doesnt work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719094-pasted-driver-doesnt.html)|`2025-09-29 05:07:06`|`anti-cheat-bypass`|
 |1|[Roblox executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718713-roblox-executor.html)|`2025-09-29 06:56:14`|`other-fps-games`|
 |4|[banned on valo for homophobic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719344-banned-valo-homophobic.html)|`2025-09-29 12:33:39`|`valorant`|
+|8|[Helldivers 2 Farming Guide by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/719525-helldivers-2-farming-guide-igromanru.html)|`2025-09-29 20:42:02`|`helldivers-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;outdated&#41; rust external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/716048-outdated-rust-external.html)|`2025-09-29 20:37:00`|`Rust`|
 |[Pipsi&#45;WW &#91; Wuthering Waves Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/638632-pipsi-ww-wuthering-waves-cheat.html)|`2025-09-29 19:43:00`|`Other MMORPG and Strategy`|
 |[Resident Evil 7 Tool &#45; Internal Cheat With Auto&#45;Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719624-resident-evil-7-tool-internal-cheat-auto-inject.html)|`2025-09-29 19:11:00`|`Other FPS Games`|
 |[ezSwing &#45; PGA 2k25 Perfect Swing Every Time](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/701957-ezswing-pga-2k25-perfect-swing-time.html)|`2025-09-29 19:06:00`|`Other Games`|
