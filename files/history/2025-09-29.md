@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[another way to retrieve game version externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719608-retrieve-game-version-externally.html)|`2025-09-29 15:32:00`|`Alternative Online Mods`|
+|[ESP problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/719096-esp.html)|`2025-09-29 15:30:00`|`Call of Duty: Black Ops 6`|
 |[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-09-29 15:04:00`|`Other FPS Games`|
 |[acceleron&#46;tech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715059-acceleron-tech.html)|`2025-09-29 14:37:00`|`Anti-Cheat Bypass`|
 |[My pasted driver doesnt work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719094-pasted-driver-doesnt.html)|`2025-09-29 14:23:00`|`Anti-Cheat Bypass`|
