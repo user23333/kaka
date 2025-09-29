@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike Test Aimbot &#43; Wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718778-bloodstrike-test-aimbot-wallhack.html)|`2025-09-29 10:11:00`|`Other FPS Games`|
+|[The Outlast Trials External Player &#43; Item ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/588324-outlast-trials-external-player-item-esp.html)|`2025-09-29 10:10:00`|`Other Games`|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-09-29 09:58:00`|`Other FPS Games`|
+|[Is it possible to determine Unity player loop phase externally?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/719592-determine-unity-player-loop-phase-externally.html)|`2025-09-29 09:35:00`|`General Programming and Reversing`|
 |[2pc vgc bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718511-2pc-vgc-bypass.html)|`2025-09-29 08:17:00`|`Anti-Cheat Bypass`|
 |[Theia static decryptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696332-theia-static-decryptor.html)|`2025-09-29 08:14:00`|`Anti-Cheat Bypass`|
 |[preserve killfeed help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719586-preserve-killfeed-help.html)|`2025-09-29 07:35:00`|`Counter-Strike 2`|
