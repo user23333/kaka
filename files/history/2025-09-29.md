@@ -34,6 +34,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ESP32&#45;S3 Single Device &#45; Recoil Compensator Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/716807-esp32-s3-single-device-recoil-compensator-script.html)|`2025-09-29 21:12:00`|`Rust`|
+|[Rec Room Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/719462-rec-bypass.html)|`2025-09-29 21:08:00`|`Other Games`|
+|[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2025-09-29 21:08:00`|`Scum`|
+|[Megabonk Python Cheat &#91;100% open source&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718610-megabonk-python-cheat-100-source.html)|`2025-09-29 21:07:00`|`Other Games`|
+|[Vanguard Bypass&#43;Secure Boot Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712663-vanguard-bypass-secure-boot-bypass.html)|`2025-09-29 21:07:00`|`Valorant`|
+|[Nuclear Nightmare internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718268-nuclear-nightmare-internal.html)|`2025-09-29 21:06:00`|`Other Games`|
 |[&#40;outdated&#41; rust external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/716048-outdated-rust-external.html)|`2025-09-29 20:37:00`|`Rust`|
 |[Pipsi&#45;WW &#91; Wuthering Waves Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/638632-pipsi-ww-wuthering-waves-cheat.html)|`2025-09-29 19:43:00`|`Other MMORPG and Strategy`|
 |[Resident Evil 7 Tool &#45; Internal Cheat With Auto&#45;Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719624-resident-evil-7-tool-internal-cheat-auto-inject.html)|`2025-09-29 19:11:00`|`Other FPS Games`|
