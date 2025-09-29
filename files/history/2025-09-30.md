@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to Load Unsigned / Signed Kernel Drivers for External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/719689-load-unsigned-signed-kernel-drivers-external-cheat.html)|`2025-09-30 07:16:00`|`C and C++`|
+|[How to Load Unsigned / Signed Kernel Drivers for External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719688-load-unsigned-signed-kernel-drivers-external-cheat.html)|`2025-09-30 07:15:00`|`Anti-Cheat Bypass`|
+|[How to find rust offsets and decryptions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/719687-rust-offsets-decryptions.html)|`2025-09-30 07:13:00`|`Rust`|
+|[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2025-09-30 07:06:00`|`Other Games`|
 |[Raid Shadow Legends Reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/719670-raid-shadow-legends-reversing.html)|`2025-09-30 06:56:00`|`Unity`|
 |[&#91;Updated&#93; Loki &#45; SCP: Secret Laboratory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/719685-updated-loki-scp-secret-laboratory.html)|`2025-09-30 06:54:00`|`Other Games`|
 |[Namespace to class converter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719535-namespace-class-converter.html)|`2025-09-30 06:29:00`|`Counter-Strike 2`|
