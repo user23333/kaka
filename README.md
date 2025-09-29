@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/719678-sdk.html)|`2025-09-30 05:19:00`|`Marvel Rivals`|
+|[Loot esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/719540-loot-esp.html)|`2025-09-30 05:18:00`|`Call of Duty: Black Ops 6`|
+|[ESP problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/719096-esp.html)|`2025-09-30 05:11:00`|`Call of Duty: Black Ops 6`|
 |[Skeleton Bug &#91;HELP&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719676-skeleton-bug-help.html)|`2025-09-30 04:59:00`|`Counter-Strike 2`|
 |[&#91;UE4&#93;Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/244709-ue4-squad.html)|`2025-09-30 04:58:00`|`Other FPS Games`|
 |[Auto Update External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/614771-auto-update-external.html)|`2025-09-30 04:44:00`|`Overwatch`|
