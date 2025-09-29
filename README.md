@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Why can't I get the game base address?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/718045-cant-game-base-address.html)|`2025-09-30 05:36:00`|`League of Legends`|
 |[Internal Ragdoll gravity Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719679-internal-ragdoll-gravity-changer.html)|`2025-09-30 05:24:00`|`Counter-Strike 2`|
 |[SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/719678-sdk.html)|`2025-09-30 05:19:00`|`Marvel Rivals`|
 |[Loot esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/719540-loot-esp.html)|`2025-09-30 05:18:00`|`Call of Duty: Black Ops 6`|
