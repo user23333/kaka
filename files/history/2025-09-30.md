@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch External &#45; &#91;UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/717914-overwatch-external-updated.html)|`2025-09-30 07:39:00`|`Overwatch`|
+|[Umamusume: Pretty Derby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/707493-umamusume-pretty-derby.html)|`2025-09-30 07:12:00`|`Other MMORPG and Strategy`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-09-30 07:20:00`|`Apex Legends`|
 |[How to Load Unsigned / Signed Kernel Drivers for External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/719689-load-unsigned-signed-kernel-drivers-external-cheat.html)|`2025-09-30 07:16:00`|`C and C++`|
 |[How to Load Unsigned / Signed Kernel Drivers for External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719688-load-unsigned-signed-kernel-drivers-external-cheat.html)|`2025-09-30 07:15:00`|`Anti-Cheat Bypass`|
