@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-09-30 01:29:00`|`Other Games`|
+|[SteelSeries overlay hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/719655-steelseries-overlay-hook.html)|`2025-09-30 01:22:00`|`C and C++`|
+|[FiveM external clean base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719654-fivem-external-clean-base.html)|`2025-09-30 01:20:00`|`Alternative Online Mods`|
 |[Skate&#46; Modding?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718988-skate-modding.html)|`2025-09-30 01:13:00`|`Other Games`|
 |[Process Hollow c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/719653-process-hollow.html)|`2025-09-30 01:13:00`|`C and C++`|
 |[Farlight cheat internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/717566-farlight-cheat-internal.html)|`2025-09-30 01:11:00`|`Farlight 84`|
