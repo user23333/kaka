@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[does anyone get the insert's new sig?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719614-inserts-sig.html)|`2025-09-29 16:55:00`|`Counter-Strike 2`|
 |[Mrpc 4&#46;0 offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/718341-mrpc-4-0-offset.html)|`2025-09-29 16:54:00`|`PUBG Mobile`|
 |[Valorant Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719169-valorant-spoofing.html)|`2025-09-29 16:13:00`|`Valorant`|
 |[another way to retrieve game version externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719608-retrieve-game-version-externally.html)|`2025-09-29 15:32:00`|`Alternative Online Mods`|
