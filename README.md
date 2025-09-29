@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Namespace to class converter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719535-namespace-class-converter.html)|`2025-09-30 06:29:00`|`Counter-Strike 2`|
 |[Bypass PS Gameguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719348-bypass-ps-gameguard.html)|`2025-09-30 06:15:00`|`Anti-Cheat Bypass`|
 |[BloodStrike Test Aimbot &#43; Wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718778-bloodstrike-test-aimbot-wallhack.html)|`2025-09-30 06:04:00`|`Other FPS Games`|
 |[Simple Valorant TriggerBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/717133-simple-valorant-triggerbot.html)|`2025-09-30 05:57:00`|`Valorant`|
