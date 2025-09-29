@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2025-09-29 13:37:00`|`Counter-Strike 2 Releases`|
 |[Simple Apex ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/719602-simple-apex-esp.html)|`2025-09-29 13:26:00`|`Apex Legends`|
 |[I m new join](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/719597-join.html)|`2025-09-29 12:53:00`|`Introductions`|
 |[BGMI 4&#46;0 64bit EMULATOR BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/717446-bgmi-4-0-64bit-emulator-bypass.html)|`2025-09-29 12:26:00`|`PUBG Mobile`|
