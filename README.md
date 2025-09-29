@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I NEED a lagger&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719668-lagger.html)|`2025-09-30 03:10:00`|`Counter-Strike 2`|
+|[cheating on faceit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717958-cheating-faceit.html)|`2025-09-30 03:06:00`|`Counter-Strike 2`|
 |[Valorant Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719169-valorant-spoofing.html)|`2025-09-30 02:46:00`|`Valorant`|
 |[Fastest Python Valorant Triggerbot &#40;fr&#41;&#40;fr&#41;&#40;fr&#41; &#43; Addon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/641020-fastest-python-valorant-triggerbot-fr-fr-fr-addon.html)|`2025-09-30 02:41:00`|`Valorant`|
 |[Hi everyone&#33; I'm new here&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/719665-hi-im.html)|`2025-09-30 02:40:00`|`Introductions`|
