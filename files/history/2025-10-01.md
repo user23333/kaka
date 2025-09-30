@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SoT Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/719603-sot-spoofer.html)|`2025-10-01 04:42:00`|`Sea of Thieves`|
 |[Galaxy Mod Menu &#91;GTA V&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/719663-galaxy-mod-menu-gta.html)|`2025-10-01 04:37:00`|`Grand Theft Auto V`|
 |[Any Ghosts Of Tabor Cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/717344-ghosts-tabor-cheats.html)|`2025-10-01 04:35:00`|`Other Games`|
 |[Cheat mod for the Majestic server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719791-cheat-mod-majestic-server.html)|`2025-10-01 04:33:00`|`Alternative Online Mods`|
