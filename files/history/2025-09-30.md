@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Modded Lobbies?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-ii/719766-modded-lobbies.html)|`2025-09-30 23:50:00`|`Call of Duty: Modern Warfare II`|
 |[⚔️ cmut: A Lightweight, Cross&#45;Platform C&#43;&#43;20 Polymorphic Obfuscation Engine ⚔️](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/709250-cmut-lightweight-cross-platform-20-polymorphic-obfuscation-engine.html)|`2025-09-30 23:20:00`|`C and C++`|
 |[Circumvent steam ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/719758-circumvent-steam-ban.html)|`2025-09-30 22:47:00`|`Rainbow Six Siege`|
 |[External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/719757-external-cheat.html)|`2025-09-30 22:43:00`|`Star Wars Battlefront 2`|
