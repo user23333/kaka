@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Loot Stride size](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/719795-loot-stride-size.html)|`2025-10-01 04:53:00`|`Call of Duty: Black Ops 6`|
 |[Dead by Daylight &#45; ESP And Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625890-dead-daylight-esp.html)|`2025-10-01 04:47:00`|`Other FPS Games`|
 |[SoT Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/719603-sot-spoofer.html)|`2025-10-01 04:42:00`|`Sea of Thieves`|
 |[Galaxy Mod Menu &#91;GTA V&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/719663-galaxy-mod-menu-gta.html)|`2025-10-01 04:37:00`|`Grand Theft Auto V`|
