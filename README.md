@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Age Of Empires 4 SCAR Lua Injection &#45; Fog&#45;of&#45;War Reveal, HUD Tweaks &#45; Steam/Xbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/707091-age-empires-4-scar-lua-injection-fog-war-reveal-hud-tweaks-steam-xbox.html)|`2025-10-01 02:48:00`|`Other MMORPG and Strategy`|
+|[Cold War GSC Mod Menu &#91;The Lucy Menu&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/717858-cold-war-gsc-mod-menu-lucy-menu.html)|`2025-10-01 02:47:00`|`Call of Duty: Black Ops Cold War`|
+|[SRC cs2 External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709409-src-cs2-external-base.html)|`2025-10-01 02:43:00`|`Counter-Strike 2`|
+|[Warden's Free Ultimate Gamer Rust DMA Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/702331-wardens-free-ultimate-gamer-rust-dma-cheat.html)|`2025-10-01 02:43:00`|`Rust`|
+|[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2025-10-01 02:42:00`|`Garry's Mod`|
+|[PAYDAY 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/601253-payday-3-reversal-structs-offsets.html)|`2025-10-01 02:35:00`|`Payday 3`|
 |[hide process from task manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719778-hide-process-task-manager.html)|`2025-10-01 02:26:00`|`Anti-Cheat Bypass`|
 |[Finding Game Object Manager in UnityPlayer&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/719777-finding-game-object-manager-unityplayer-dll.html)|`2025-10-01 02:25:00`|`Escape from Tarkov`|
 |[destiny rising hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716087-destiny-rising-hack.html)|`2025-10-01 02:24:00`|`Other FPS Games`|
