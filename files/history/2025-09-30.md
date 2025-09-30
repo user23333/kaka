@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC Disks HOOK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719756-eac-disks-hook.html)|`2025-09-30 22:25:00`|`Anti-Cheat Bypass`|
+|[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2025-09-30 22:10:00`|`Counter-Strike 2 Releases`|
 |[Updated ntoskrnl&#46;exe patterns for SMBIOS physical address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718996-updated-ntoskrnl-exe-patterns-smbios-physical-address.html)|`2025-09-30 22:05:00`|`Anti-Cheat Bypass`|
 |[My pasted driver doesnt work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719094-pasted-driver-doesnt.html)|`2025-09-30 21:58:00`|`Anti-Cheat Bypass`|
 |[How to Fix TPM Ban easily &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/626786-fix-tpm-ban-easily.html)|`2025-09-30 21:54:00`|`Valorant`|
