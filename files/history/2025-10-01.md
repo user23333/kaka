@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-10-01 01:36:00`|`Counter-Strike 2`|
+|[New to all this, need some guidance plelase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/719720-guidance-plelase.html)|`2025-10-01 01:36:00`|`Introductions`|
 |[Sniper Elite 4 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/692172-sniper-elite-4-internal.html)|`2025-10-01 01:27:00`|`Other MMORPG and Strategy`|
 |[Hacker vs Hackers &#45; sources](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719771-hacker-vs-hackers-sources.html)|`2025-10-01 01:20:00`|`Counter-Strike 2`|
 |[Lazybead &#40;LB&#41; &#45; Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat.html)|`2025-10-01 00:57:00`|`Sea of Thieves`|
