@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bone Connection Data?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719754-bone-connection-data.html)|`2025-09-30 21:47:00`|`Counter-Strike 2`|
 |[Finding out where a pointer in firmware resides](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/719751-finding-pointer-firmware-resides.html)|`2025-09-30 20:58:00`|`General Programming and Reversing`|
 |[Studying RainbowSix &#40;&#45;Engine&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/717001-studying-rainbowsix-engine.html)|`2025-09-30 21:00:00`|`Rainbow Six Siege`|
 |[How do you make an DLL Manual Map Injector for CS2 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718570-dll-manual-map-injector-cs2-2025-a.html)|`2025-09-30 20:29:00`|`Counter-Strike 2`|
