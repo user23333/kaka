@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[external BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/702640-external-bo6.html)|`2025-10-01 04:05:00`|`Call of Duty: Black Ops 6`|
 |[Team Fortress 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/102936-team-fortress-2-reversal-structs-offsets.html)|`2025-10-01 03:34:00`|`Team Fortress 2`|
 |[10 and 20 min ban fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/719737-10-20-min-ban-fix.html)|`2025-10-01 03:08:00`|`PUBG Mobile`|
 |[Palworld Internal DX11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/710102-palworld-internal-dx11.html)|`2025-10-01 02:54:00`|`Palworld`|
