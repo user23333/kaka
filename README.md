@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ReWASD Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/719755-rewasd-bypass.html)|`2025-09-30 22:24:00`|`Apex Legends`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-09-30 22:13:00`|`Grand Theft Auto V`|
 |[EAC Disks HOOK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719756-eac-disks-hook.html)|`2025-09-30 22:25:00`|`Anti-Cheat Bypass`|
 |[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2025-09-30 22:10:00`|`Counter-Strike 2 Releases`|
 |[Updated ntoskrnl&#46;exe patterns for SMBIOS physical address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718996-updated-ntoskrnl-exe-patterns-smbios-physical-address.html)|`2025-09-30 22:05:00`|`Anti-Cheat Bypass`|
