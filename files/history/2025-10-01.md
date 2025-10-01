@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How good is ACE?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/719411-ace.html)|`2025-10-01 22:43:00`|`Forum General`|
+|[How to get addon vehicles names](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719813-addon-vehicles-names.html)|`2025-10-01 22:37:00`|`Alternative Online Mods`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-10-01 22:29:00`|`Other FPS Games`|
 |[pubg kaka and stay source &#91;DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/698494-pubg-kaka-stay-source-dma.html)|`2025-10-01 22:26:00`|`Playerunknown's Battlegrounds`|
 |[Do I get banned if not cheat but spoof my pc for van restriction but failed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719863-banned-cheat-spoof-pc-van-restriction-failed.html)|`2025-10-01 22:25:00`|`Valorant`|
