@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-10-01 16:12:00`|`Sea of Thieves`|
 |[&#91;PCSX2&#93; SOCOM 2: U&#46;S Navy Seals &#45; Internal Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playstation/719833-pcsx2-socom-2-navy-seals-internal-menu.html)|`2025-10-01 15:54:00`|`PlayStation`|
 |[&#40;outdated&#41; rust external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/716048-outdated-rust-external.html)|`2025-10-01 15:14:00`|`Rust`|
 |[Cs2 External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685266-cs2-external.html)|`2025-10-01 15:05:00`|`Counter-Strike 2`|
