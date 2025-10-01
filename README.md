@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External ESP is behind from the game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718170-external-esp-game.html)|`2025-10-02 01:30:00`|`Counter-Strike 2`|
 |[PE Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/718982-pe-dump.html)|`2025-10-02 01:27:00`|`Overwatch`|
 |[Ways of getting into the kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719639-getting-kernel.html)|`2025-10-02 01:25:00`|`Anti-Cheat Bypass`|
 |[External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/719757-external-cheat.html)|`2025-10-02 01:15:00`|`Star Wars Battlefront 2`|
