@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant raid create](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719515-valorant-raid-create.html)|`2025-10-01 23:28:00`|`Valorant`|
+|[battlebit  esp base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlebit-remastered/717600-battlebit-esp-base.html)|`2025-10-01 23:22:00`|`BattleBit Remastered`|
+|[HWID ban info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/718390-hwid-ban-info.html)|`2025-10-01 23:21:00`|`League of Legends`|
 |[Mod Menu Crew v5&#46;3&#46;0  Definitive Edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/716042-mod-menu-crew-v5-3-0-definitive-edition.html)|`2025-10-01 23:15:00`|`Among Us`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-10-01 23:03:00`|`Grand Theft Auto V`|
 |[External Visbility Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/715200-external-visbility-check.html)|`2025-10-01 22:53:00`|`PUBG Mobile`|
