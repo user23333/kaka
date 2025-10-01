@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Weird Eagle 110mm Rocket Pods effect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/719843-weird-eagle-110mm-rocket-pods-effect.html)|`2025-10-01 18:39:00`|`HELLDIVERS 2`|
+|[Roblox External &#45; &#91;ALWAYS UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717679-roblox-external-updated.html)|`2025-10-01 18:35:00`|`Other FPS Games`|
 |[Does VAC care about sideloading?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719814-vac-care-sideloading.html)|`2025-10-01 18:12:00`|`Counter-Strike 2`|
 |[Since the update SetModel is no work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719838-update-setmodel.html)|`2025-10-01 17:46:00`|`Counter-Strike 2`|
 |[What's Your Favorite PC Game?  Post Here&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/36192-whats-favorite-pc-game-post.html)|`2025-10-01 17:41:00`|`Off Topic`|
