@@ -25,9 +25,13 @@
 |69|[Roblox External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51367)|`2025-10-01 00:23:13`|
 |222|[Lazybeard v2&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51366)|`2025-10-01 00:23:13`|
 |48|[Borderlands 4 Console Commands](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51365)|`2025-10-01 00:23:13`|
+|1|[SOCOM US Navy Seals &#45; Internal v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51401)|`2025-10-01 11:54:52`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Helldivers 2 Farming Guide by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/719525-helldivers-2-farming-guide-igromanru.html)|`2025-10-01 11:50:00`|`HELLDIVERS 2`|
+|[Paint The Town Red External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718516-paint-town-red-external.html)|`2025-10-01 11:37:00`|`Other Games`|
+|[Kotor 1 Trainer C&#35;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/718210-kotor-1-trainer.html)|`2025-10-01 11:35:00`|`Other MMORPG and Strategy`|
 |[Fixing BSOD on Windows 24H2 with Disk Driver Dispatch Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719821-fixing-bsod-windows-24h2-disk-driver-dispatch-code.html)|`2025-10-01 11:21:00`|`Anti-Cheat Bypass`|
 |[&#91;PCSX2&#93; SOCOM U&#46;S Navy Seals &#45; Internal Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playstation/719820-pcsx2-socom-navy-seals-internal-menu.html)|`2025-10-01 10:44:00`|`PlayStation`|
 |[Megabonk &#45; Complete Unlock Save File &#43; Encryption Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718985-megabonk-complete-unlock-save-file-encryption-methods.html)|`2025-10-01 10:33:00`|`Other Games`|
