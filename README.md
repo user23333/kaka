@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GHUB LUA MACROS FOR MARVEL RIVALS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/711251-ghub-lua-macros-marvel-rivals.html)|`2025-10-01 21:59:00`|`Marvel Rivals`|
 |[BGMI 4&#46;0 64bit EMULATOR BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/717446-bgmi-4-0-64bit-emulator-bypass.html)|`2025-10-01 21:54:00`|`PUBG Mobile`|
 |[Arduino detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/717547-arduino-detected.html)|`2025-10-01 21:43:00`|`Apex Legends`|
 |[FiveM cheat external with bypass SS source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/717983-fivem-cheat-external-bypass-ss-source.html)|`2025-10-01 21:42:00`|`Alternative Online Mods`|
