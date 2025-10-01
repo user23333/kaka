@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Roblox External &#45; &#91;ALWAYS UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717679-roblox-external-updated.html)|`2025-10-02 05:24:00`|`Other FPS Games`|
 |[External Hitbox override](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/719530-external-hitbox-override.html)|`2025-10-02 05:13:00`|`Rust`|
 |[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2025-10-02 05:00:00`|`Grand Theft Auto V`|
 |[Ethernet screen share / Make your Arduino a KMBox / 2PC aimbot setup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719914-ethernet-screen-share-arduino-kmbox-2pc-aimbot-setup.html)|`2025-10-02 05:00:00`|`Valorant`|
