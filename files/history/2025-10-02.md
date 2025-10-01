@@ -13,6 +13,7 @@
 |9|[Ultra Rumble Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/719232-ultra-rumble-cheat-table.html)|`2025-10-02 00:00:44`|`other-games`|
 |6|[Simple Apex ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/719602-simple-apex-esp.html)|`2025-10-02 00:58:33`|`apex-legends`|
 |5|[Galaxy Mod Menu &#91;GTA V&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/719663-galaxy-mod-menu-gta.html)|`2025-10-02 01:57:41`|`grand-theft-auto-v`|
+|6|[Borderlands 4 Internal &#43; Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/719550-borderlands-4-internal-injector.html)|`2025-10-02 07:57:40`|`other-single-player-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2025-10-02 07:55:00`|`Scum`|
 |[&#91;PCSX2&#93; SOCOM U&#46;S Navy Seals &#45; Internal Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playstation/719820-pcsx2-socom-navy-seals-internal-menu.html)|`2025-10-02 07:50:00`|`PlayStation`|
 |[Pubg mobile 4&#46;0 is different from previous versions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/719490-pubg-mobile-4-0-previous-versions.html)|`2025-10-02 07:50:00`|`PUBG Mobile`|
 |[hide process from task manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719778-hide-process-task-manager.html)|`2025-10-02 07:37:00`|`Anti-Cheat Bypass`|
