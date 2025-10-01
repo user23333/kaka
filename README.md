@@ -12,6 +12,7 @@
 |11|[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2025-10-01 00:23:13`|`other-fps-games`|
 |6|[R6 &#45; Script Lua No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/718855-r6-script-lua-recoil.html)|`2025-10-01 00:23:13`|`rainbow-six-siege`|
 |2|[Rust Player Alerts & True Hours Tracker &#40;BattleMetrics &#43; Tampermonkey&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/719302-rust-player-alerts-true-hours-tracker-battlemetrics-tampermonkey.html)|`2025-10-01 04:29:29`|`rust`|
+|9|[Ultra Rumble Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/719232-ultra-rumble-cheat-table.html)|`2025-10-01 18:12:15`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
