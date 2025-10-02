@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ESP32S3 Dev Kit C1 Power](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/720011-esp32s3-dev-kit-c1-power.html)|`2025-10-03 04:42:00`|`Rust`|
 |[I need help with rainbow six siege](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/720010-help-rainbow-six-siege.html)|`2025-10-03 04:41:00`|`Rainbow Six Siege`|
 |[New EAC Fortnite HWID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716908-eac-fortnite-hwid.html)|`2025-10-03 04:35:00`|`Anti-Cheat Bypass`|
 |[Overwatch External &#45; &#91;UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/717914-overwatch-external-updated.html)|`2025-10-03 04:22:00`|`Overwatch`|
