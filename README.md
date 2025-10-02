@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External python cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/714196-external-python-cheat.html)|`2025-10-03 05:56:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[is my decryption wrong?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720024-decryption-wrong.html)|`2025-10-03 05:54:00`|`Valorant`|
 |[External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/719757-external-cheat.html)|`2025-10-03 05:48:00`|`Star Wars Battlefront 2`|
 |[Dungeon Defenders Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/720022-dungeon-defenders-trainer.html)|`2025-10-03 05:47:00`|`Other MMORPG and Strategy`|
 |[Gamemodeinfo mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/718405-gamemodeinfo-mod.html)|`2025-10-03 05:44:00`|`Star Wars Battlefront 2`|
