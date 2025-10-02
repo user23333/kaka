@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Wicked Menu/ Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/372512-wicked-menu-cheat-engine.html)|`2025-10-03 03:13:00`|`Red Dead Redemption 2`|
+|[Roblox Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719996-roblox-dumper.html)|`2025-10-03 03:09:00`|`Other FPS Games`|
+|[Borderlands 4 Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/717789-borderlands-4-reversal-structs-offsets.html)|`2025-10-03 03:06:00`|`Other Single Player Games`|
+|[how to cheat using arduino?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719647-cheat-using-arduino.html)|`2025-10-03 03:04:00`|`Valorant`|
 |[Member of the Month &#45; October 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/719994-month-october-2025-a.html)|`2025-10-03 02:57:00`|`Member of the Month`|
 |[How to get addon vehicles names](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719813-addon-vehicles-names.html)|`2025-10-03 02:45:00`|`Alternative Online Mods`|
 |[GIRLS' FRONTLINE 2:EXILIUM CN PC cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/717869-girls-frontline-2-exilium-cn-pc-cheat.html)|`2025-10-03 02:41:00`|`Other MMORPG and Strategy`|
