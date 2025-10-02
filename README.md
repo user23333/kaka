@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2025-10-03 01:13:00`|`Call of Duty: Black Ops 6`|
+|[Lazybead &#40;LB&#41; &#45; Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat.html)|`2025-10-03 01:12:00`|`Sea of Thieves`|
+|[Deadzone Rogue Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717089-deadzone-rogue-internal.html)|`2025-10-03 01:01:00`|`Other FPS Games`|
 |[NUI&#45;Hijack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719931-nui-hijack.html)|`2025-10-03 01:01:00`|`Alternative Online Mods`|
 |[REVERSE NATIVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719964-reverse-native.html)|`2025-10-03 01:00:00`|`Alternative Online Mods`|
 |[Spoof needed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719981-spoof.html)|`2025-10-03 00:58:00`|`Overwatch`|
