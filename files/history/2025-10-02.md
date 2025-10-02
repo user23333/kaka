@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Full Source Code for Titles Spawner in Rocket League — Created by KingMod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other/719960-source-code-titles-spawner-rocket-league-created-kingmod.html)|`2025-10-02 19:52:00`|`Other`|
 |[My pasted driver doesnt work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719094-pasted-driver-doesnt.html)|`2025-10-02 19:37:00`|`Anti-Cheat Bypass`|
 |[Old eac dll manual map bypass help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718699-eac-dll-manual-map-bypass-help.html)|`2025-10-02 19:29:00`|`Anti-Cheat Bypass`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-10-02 19:11:00`|`Other FPS Games`|
