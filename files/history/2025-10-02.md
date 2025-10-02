@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[acceleron&#46;tech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715059-acceleron-tech.html)|`2025-10-02 15:46:00`|`Anti-Cheat Bypass`|
 |[Borderlands 4 Internal &#43; Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/719550-borderlands-4-internal-injector.html)|`2025-10-02 15:17:00`|`Other Single Player Games`|
 |[AES KEYS FOR PAK DECRYPTION FOR PUBGM 32 Bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/719948-aes-keys-pak-decryption-pubgm-32-bit.html)|`2025-10-02 15:08:00`|`PUBG Mobile`|
 |[in theory 2 PC aimbots should be impossible to detect with vangaurd automatically  ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719947-theory-2-pc-aimbots-impossible-detect-vangaurd-automatically.html)|`2025-10-02 15:03:00`|`Valorant`|
