@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[banned on valo for homophobic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719344-banned-valo-homophobic.html)|`2025-10-02 11:03:00`|`Valorant`|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-10-02 10:59:00`|`Counter-Strike 2 Releases`|
+|[Nuxar1 Decryption dumper fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699123-nuxar1-decryption-dumper-fix.html)|`2025-10-02 10:47:00`|`Call of Duty: Black Ops 6`|
+|[PAxLM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/715607-paxlm.html)|`2025-10-02 10:34:00`|`Lethal Company`|
+|[Spoofed for VALORANT how long do i have to wait until im safe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719865-spoofed-valorant-wait-im-safe.html)|`2025-10-02 10:25:00`|`Valorant`|
 |[Fastest Python Valorant Triggerbot &#40;fr&#41;&#40;fr&#41;&#40;fr&#41; &#43; Addon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/641020-fastest-python-valorant-triggerbot-fr-fr-fr-addon.html)|`2025-10-02 10:21:00`|`Valorant`|
 |[Simple Valorant TriggerBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/717133-simple-valorant-triggerbot.html)|`2025-10-02 10:20:00`|`Valorant`|
 |[Farlight Device Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/715652-farlight-device-ban.html)|`2025-10-02 10:14:00`|`Farlight 84`|
