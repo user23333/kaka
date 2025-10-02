@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Farlight Device Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/715652-farlight-device-ban.html)|`2025-10-03 03:27:00`|`Farlight 84`|
+|[How to Fix TPM Ban easily &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/626786-fix-tpm-ban-easily.html)|`2025-10-03 03:26:00`|`Valorant`|
 |[Old eac dll manual map bypass help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718699-eac-dll-manual-map-bypass-help.html)|`2025-10-03 03:20:00`|`Anti-Cheat Bypass`|
 |[TypeScript Base&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719155-typescript-base.html)|`2025-10-03 03:19:00`|`Counter-Strike 2`|
 |[Wicked Menu/ Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/372512-wicked-menu-cheat-engine.html)|`2025-10-03 03:13:00`|`Red Dead Redemption 2`|
