@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AES KEYS FOR PAK DECRYPTION FOR PUBGM 32 Bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/719948-aes-keys-pak-decryption-pubgm-32-bit.html)|`2025-10-02 15:08:00`|`PUBG Mobile`|
+|[in theory 2 PC aimbots should be impossible to detect with vangaurd automatically  ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719947-theory-2-pc-aimbots-impossible-detect-vangaurd-automatically.html)|`2025-10-02 15:03:00`|`Valorant`|
+|[PUBG Mobile 3&#46;9 PAK Decryption – Core Function Overview](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/712748-pubg-mobile-3-9-pak-decryption-core-function-overview.html)|`2025-10-02 14:59:00`|`PUBG Mobile`|
 |[Best AI model for valorant right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719946-ai-model-valorant.html)|`2025-10-02 14:55:00`|`Valorant`|
 |[GHUB LUA MACROS FOR MARVEL RIVALS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/711251-ghub-lua-macros-marvel-rivals.html)|`2025-10-02 14:51:00`|`Marvel Rivals`|
 |[Hosting local servers for older versions of rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/719945-hosting-local-servers-versions-rust.html)|`2025-10-02 14:21:00`|`Rust`|
