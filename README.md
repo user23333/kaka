@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[chromatic aberration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719968-chromatic-aberration.html)|`2025-10-03 00:37:00`|`Counter-Strike 2`|
+|[edit cayo perico primary target stat &#45; YimMenu v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/695454-edit-cayo-perico-primary-target-stat-yimmenu-v2.html)|`2025-10-03 00:37:00`|`Grand Theft Auto V`|
+|[Killing Floor 2 External Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/673060-killing-floor-2-external-hack.html)|`2025-10-03 00:37:00`|`Other Games`|
+|[Hacker vs Hackers &#45; sources](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719771-hacker-vs-hackers-sources.html)|`2025-10-03 00:35:00`|`Counter-Strike 2`|
 |[Banned? Post info&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719377-banned-post-info.html)|`2025-10-03 00:31:00`|`Counter-Strike 2`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-10-03 00:31:00`|`Valorant`|
 |[Gorebox Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716525-gorebox-internal-cheat.html)|`2025-10-03 00:30:00`|`Other FPS Games`|
