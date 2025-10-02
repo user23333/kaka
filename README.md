@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-10-02 22:13:00`|`Apex Legends`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-10-02 22:07:00`|`Escape from Tarkov`|
 |[NUI&#45;Hijack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719931-nui-hijack.html)|`2025-10-02 22:07:00`|`Alternative Online Mods`|
 |[Cheat mod for the Majestic server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719791-cheat-mod-majestic-server.html)|`2025-10-02 21:42:00`|`Alternative Online Mods`|
