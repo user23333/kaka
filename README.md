@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Borderlands 4 Internal &#43; Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/719550-borderlands-4-internal-injector.html)|`2025-10-04 04:40:00`|`Other Single Player Games`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-10-04 04:32:00`|`Escape from Tarkov`|
 |[Solid Dupe Glitch for fivem server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719921-solid-dupe-glitch-fivem-server.html)|`2025-10-04 04:21:00`|`Alternative Online Mods`|
 |[Somehow Undetected Arduino Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/718563-somehow-undetected-arduino-colorbot.html)|`2025-10-04 04:05:00`|`Valorant`|
 |[Spec Count](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/720052-spec-count.html)|`2025-10-04 03:49:00`|`Apex Legends`|
