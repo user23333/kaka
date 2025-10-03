@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Age of Empires IV &#45; External Scar Script Injector & Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/712742-age-empires-iv-external-scar-script-injector-helper.html)|`2025-10-03 12:50:00`|`Other MMORPG and Strategy`|
 |[Pubg mobile 4&#46;0 is different from previous versions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/719490-pubg-mobile-4-0-previous-versions.html)|`2025-10-03 12:47:00`|`PUBG Mobile`|
 |[BGMI 4&#46;0 64bit EMULATOR BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/717446-bgmi-4-0-64bit-emulator-bypass.html)|`2025-10-03 12:46:00`|`PUBG Mobile`|
 |[Broken Arrow &#43;13 Trainer&#40;CT table&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673542-broken-arrow-13-trainer-ct-table.html)|`2025-10-03 12:15:00`|`Other MMORPG and Strategy`|
