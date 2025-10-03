@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call for help with Rumble Fighter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/714398-call-help-rumble-fighter.html)|`2025-10-04 01:47:00`|`Other Games`|
 |[AimLogic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/720130-aimlogic.html)|`2025-10-04 01:46:00`|`Overwatch`|
 |[most wanted game cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/576628-game-cheat.html)|`2025-10-04 01:45:00`|`Off Topic`|
 |[FAQ Valorant Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/421120-faq-valorant-bans.html)|`2025-10-04 01:38:00`|`Valorant`|
