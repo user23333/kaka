@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-10-04 05:57:00`|`Sea of Thieves`|
+|[BOIII Client ZM External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/684226-boiii-client-zm-external.html)|`2025-10-04 05:57:00`|`Call of Duty: Black Ops 3`|
+|[Age Of Empires 4 SCAR Lua Injection &#45; Fog&#45;of&#45;War Reveal, HUD Tweaks &#45; Steam/Xbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/707091-age-empires-4-scar-lua-injection-fog-war-reveal-hud-tweaks-steam-xbox.html)|`2025-10-04 05:49:00`|`Other MMORPG and Strategy`|
+|[External python cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/714196-external-python-cheat.html)|`2025-10-04 05:42:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-10-04 05:41:00`|`Other FPS Games`|
 |[Arduino detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/717547-arduino-detected.html)|`2025-10-04 05:49:00`|`Apex Legends`|
 |[No Man's Sky &#91;Internal&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720149-mans-sky-internal.html)|`2025-10-04 05:47:00`|`Other Games`|
 |[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2025-10-04 05:27:00`|`Other FPS Games`|
