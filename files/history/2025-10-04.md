@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Somehow Undetected Arduino Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/718563-somehow-undetected-arduino-colorbot.html)|`2025-10-04 04:05:00`|`Valorant`|
 |[Spec Count](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/720052-spec-count.html)|`2025-10-04 03:49:00`|`Apex Legends`|
 |[bo3 hvh cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/720142-bo3-hvh-cheats.html)|`2025-10-04 03:49:00`|`Call of Duty: Black Ops 3`|
 |[Rust Internal Base/Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/718320-rust-internal-base-help.html)|`2025-10-04 03:26:00`|`Rust`|
