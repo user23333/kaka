@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Finding the Entity List and coding an ESP for beginners part 1 &#40;for Assault Cube&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/720045-finding-entity-list-coding-esp-beginners-1-assault-cube.html)|`2025-10-03 16:20:00`|`Programming for Beginners`|
+|[Arduino Internals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720058-arduino-internals.html)|`2025-10-03 16:09:00`|`Valorant`|
 |[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2025-10-03 15:48:00`|`Counter-Strike 2 Releases`|
 |[i need fix crash bypass pubg gl 4&#46;0 64bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/717290-fix-crash-bypass-pubg-gl-4-0-64bit.html)|`2025-10-03 15:09:00`|`PUBG Mobile`|
 |[Bypass Emu 32bit Some problems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/717649-bypass-emu-32bit.html)|`2025-10-03 15:03:00`|`PUBG Mobile`|
