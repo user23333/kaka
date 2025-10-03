@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Auto Farm Bot PetStar/Petforest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720062-auto-farm-bot-petstar-petforest.html)|`2025-10-03 17:04:00`|`Other Games`|
 |[Somehow Undetected Arduino Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/718563-somehow-undetected-arduino-colorbot.html)|`2025-10-03 16:35:00`|`Valorant`|
 |[in theory 2 PC aimbots should be impossible to detect with vangaurd automatically  ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719947-theory-2-pc-aimbots-impossible-detect-vangaurd-automatically.html)|`2025-10-03 16:34:00`|`Valorant`|
 |[Titanfall 2 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/688353-titanfall-2-internal-cheat.html)|`2025-10-03 16:29:00`|`Titanfall`|
