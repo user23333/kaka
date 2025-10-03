@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA Radar/Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/697254-dma-radar-fuser.html)|`2025-10-04 01:58:00`|`DayZ SA`|
+|[Black Ops II Plutonium ESP &#45; Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/636292-black-ops-ii-plutonium-esp-undetected.html)|`2025-10-04 01:57:00`|`Call of Duty: Black Ops 2`|
+|[Plutonium Black Ops 2 &#124; Menu ESP & MORE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/466909-plutonium-black-ops-2-menu-esp.html)|`2025-10-04 01:56:00`|`Call of Duty: Black Ops 2`|
 |[Call for help with Rumble Fighter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/714398-call-help-rumble-fighter.html)|`2025-10-04 01:47:00`|`Other Games`|
 |[AimLogic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/720130-aimlogic.html)|`2025-10-04 01:46:00`|`Overwatch`|
 |[most wanted game cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/576628-game-cheat.html)|`2025-10-04 01:45:00`|`Off Topic`|
