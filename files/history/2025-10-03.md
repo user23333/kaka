@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[XGPU ACCOUNTS  COD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/718450-xgpu-accounts-cod.html)|`2025-10-03 21:45:00`|`Call of Duty: Black Ops 6`|
 |[R6 &#45; Script Lua No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/718855-r6-script-lua-recoil.html)|`2025-10-03 21:36:00`|`Rainbow Six Siege`|
 |[64 bit Emulator bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/720091-64-bit-emulator-bypass.html)|`2025-10-03 21:35:00`|`PUBG Mobile`|
 |[YimMenuV2's Stat Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/716410-yimmenuv2s-stat-editor.html)|`2025-10-03 21:35:00`|`Grand Theft Auto V`|
