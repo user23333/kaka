@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[i need fix crash bypass pubg gl 4&#46;0 64bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/717290-fix-crash-bypass-pubg-gl-4-0-64bit.html)|`2025-10-03 15:09:00`|`PUBG Mobile`|
+|[Bypass Emu 32bit Some problems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/717649-bypass-emu-32bit.html)|`2025-10-03 15:03:00`|`PUBG Mobile`|
 |[loot esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720054-loot-esp.html)|`2025-10-03 14:20:00`|`Call of Duty: Black Ops 6`|
 |[Grapples Galore internal hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719775-grapples-galore-internal-hack.html)|`2025-10-03 13:59:00`|`Other FPS Games`|
 |[Spec Count](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/720052-spec-count.html)|`2025-10-03 13:45:00`|`Apex Legends`|
