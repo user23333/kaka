@@ -12,6 +12,7 @@
 |4|[Rust Player Alerts & True Hours Tracker &#40;BattleMetrics &#43; Tampermonkey&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/719302-rust-player-alerts-true-hours-tracker-battlemetrics-tampermonkey.html)|`2025-10-03 00:10:42`|`rust`|
 |9|[Ultra Rumble Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/719232-ultra-rumble-cheat-table.html)|`2025-10-03 00:10:42`|`other-games`|
 |11|[FiveM external clean base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719654-fivem-external-clean-base.html)|`2025-10-03 10:10:14`|`alternative-online-mods`|
+|6|[Banned? Post info&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719377-banned-post-info.html)|`2025-10-03 22:30:41`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-10-03 22:24:00`|`Other FPS Games`|
 |[XGPU ACCOUNTS  COD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/718450-xgpu-accounts-cod.html)|`2025-10-03 21:45:00`|`Call of Duty: Black Ops 6`|
 |[R6 &#45; Script Lua No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/718855-r6-script-lua-recoil.html)|`2025-10-03 21:36:00`|`Rainbow Six Siege`|
 |[64 bit Emulator bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/720091-64-bit-emulator-bypass.html)|`2025-10-03 21:35:00`|`PUBG Mobile`|
