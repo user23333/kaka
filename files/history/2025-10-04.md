@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spec Count](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/720052-spec-count.html)|`2025-10-04 03:49:00`|`Apex Legends`|
+|[bo3 hvh cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/720142-bo3-hvh-cheats.html)|`2025-10-04 03:49:00`|`Call of Duty: Black Ops 3`|
 |[Rust Internal Base/Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/718320-rust-internal-base-help.html)|`2025-10-04 03:26:00`|`Rust`|
 |[Help for Tf2 Anti Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/720137-help-tf2-anti-aim.html)|`2025-10-04 03:13:00`|`Team Fortress 2`|
 |[BO7: TPM 2&#46;0 REQUIREMENT SOLUTION?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/719951-bo7-tpm-2-0-requirement-solution.html)|`2025-10-04 03:13:00`|`Call of Duty: Black Ops 6`|
