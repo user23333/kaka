@@ -25,9 +25,12 @@
 |26|[Nuclear&#95;nightmare&#95;dx12](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51392)|`2025-10-05 00:08:42`|
 |35|[InsaneSpikeAssistant&#95;v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51391)|`2025-10-05 00:08:42`|
 |94|[ReadyorNotInternal&#45;1&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51390)|`2025-10-05 00:08:42`|
+|3|[debugger&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51442)|`2025-10-05 03:33:26`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CSS v34 Cheat &#43; ClientMod emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/720207-css-v34-cheat-clientmod-emulator.html)|`2025-10-05 03:33:00`|`CounterStrike Source`|
+|[BGMI &#45; Unable to hook into native library](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/720265-bgmi-unable-hook-native-library.html)|`2025-10-05 03:33:00`|`PUBG Mobile`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-10-05 03:18:00`|`Apex Legends`|
 |[&#40;outdated&#41; rust external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/716048-outdated-rust-external.html)|`2025-10-05 03:18:00`|`Rust`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-10-05 03:17:00`|`Counter-Strike 2 Releases`|
