@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Triggerbot with Sonar Mode – Fast, Efficient, and Fully Configurable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719807-triggerbot-sonar-mode-fast-efficient-configurable.html)|`2025-10-04 17:00:00`|`Valorant`|
+|[How do I ensure I don't get banned using Auto Update External?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/720198-ensure-dont-banned-using-auto-update-external.html)|`2025-10-04 17:00:00`|`Overwatch`|
 |[Arduino Spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/704051-arduino-spoof.html)|`2025-10-04 16:54:00`|`Valorant`|
 |[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2025-10-04 16:11:00`|`Other FPS Games`|
 |[Sleepy's External &#45; Outline, Skeleton, and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external-outline-skeleton-aimbot.html)|`2025-10-04 16:06:00`|`Overwatch`|
