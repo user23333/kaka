@@ -11,6 +11,7 @@
 |12|[FiveM external clean base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719654-fivem-external-clean-base.html)|`2025-10-04 00:22:12`|`alternative-online-mods`|
 |6|[Banned? Post info&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719377-banned-post-info.html)|`2025-10-04 00:22:12`|`counter-strike-2-a`|
 |7|[Roblox external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719652-roblox-external-base.html)|`2025-10-04 00:22:12`|`other-fps-games`|
+|10|[Triggerbot with Sonar Mode – Fast, Efficient, and Fully Configurable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719807-triggerbot-sonar-mode-fast-efficient-configurable.html)|`2025-10-04 10:18:42`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -24,9 +25,16 @@
 |114|[Ultra Rumble &#40;29 September 2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51386)|`2025-10-04 00:22:12`|
 |151|[FiveM ext base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51384)|`2025-10-04 00:22:12`|
 |59|[Process Hollow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51383)|`2025-10-04 00:22:12`|
+|1|[playerinfo battlemetrics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51404)|`2025-10-04 10:18:42`|
+|1|[BattleMetrics Server&#46;txt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51403)|`2025-10-04 10:18:42`|
+|7|[PhasmoMenu v0&#46;5&#46;7&#46;5 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51398)|`2025-10-04 10:18:42`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-10-04 09:50:00`|`Other FPS Games`|
+|[Yim Menu Use](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/715564-yim-menu.html)|`2025-10-04 09:41:00`|`Grand Theft Auto V`|
+|[Rust Player Alerts & True Hours Tracker &#40;BattleMetrics &#43; Tampermonkey&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/719302-rust-player-alerts-true-hours-tracker-battlemetrics-tampermonkey.html)|`2025-10-04 09:40:00`|`Rust`|
+|[NVReAPI – Reverse NVIDIA API &#40;GPU UUID, Name&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719583-nvreapi-reverse-nvidia-api-gpu-uuid-name.html)|`2025-10-04 09:37:00`|`Anti-Cheat Bypass`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-10-04 08:59:00`|`Other FPS Games`|
 |[Simple Apex ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/719602-simple-apex-esp.html)|`2025-10-04 08:48:00`|`Apex Legends`|
 |[Torchlight Infinite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/513861-torchlight-infinite.html)|`2025-10-04 08:41:00`|`Other MMORPG and Strategy`|
