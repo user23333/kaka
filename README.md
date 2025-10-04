@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[crash asphyixa](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720221-crash-asphyixa.html)|`2025-10-04 21:35:00`|`Counter-Strike 2`|
+|[Arduino Internals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720058-arduino-internals.html)|`2025-10-04 21:31:00`|`Valorant`|
+|[Best AI model for valorant right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719946-ai-model-valorant.html)|`2025-10-04 21:27:00`|`Valorant`|
 |[Black Overlay Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/720220-black-overlay-issues.html)|`2025-10-04 21:24:00`|`General Programming and Reversing`|
 |[Updating to bo7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720183-updating-bo7.html)|`2025-10-04 21:19:00`|`Call of Duty: Black Ops 6`|
 |[External Triggerbot in 2025?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/720216-external-triggerbot-2025-a.html)|`2025-10-04 21:17:00`|`Overwatch`|
