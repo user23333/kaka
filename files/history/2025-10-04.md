@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Farlight 84 Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/661656-external-farlight-84-free-cheat.html)|`2025-10-04 18:35:00`|`Farlight 84`|
+|[Spoofed for VALORANT how long do i have to wait until im safe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719865-spoofed-valorant-wait-im-safe.html)|`2025-10-04 18:32:00`|`Valorant`|
+|[Chivalry 2 Chivalapocalypse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/717361-chivalry-2-chivalapocalypse.html)|`2025-10-04 18:31:00`|`Other Games`|
 |[Valorant 1 PC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720014-valorant-1-pc.html)|`2025-10-04 18:44:00`|`Valorant`|
 |[still getting banged in the &#91;removed&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720087-getting-banged-removed.html)|`2025-10-04 18:38:00`|`Call of Duty: Black Ops 6`|
 |[eac logger/debugger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720202-eac-logger-debugger.html)|`2025-10-04 17:58:00`|`Anti-Cheat Bypass`|
