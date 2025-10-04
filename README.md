@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-10-04 19:55:00`|`Playerunknown's Battlegrounds`|
 |[TFGhost safe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/720206-tfghost-safe.html)|`2025-10-04 19:42:00`|`Team Fortress 2`|
 |[ReWASD Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/719755-rewasd-bypass.html)|`2025-10-04 19:34:00`|`Apex Legends`|
 |[NUI&#45;Hijack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719931-nui-hijack.html)|`2025-10-04 18:58:00`|`Alternative Online Mods`|
