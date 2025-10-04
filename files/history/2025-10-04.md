@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BF6 DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712831-bf6-dma.html)|`2025-10-04 23:13:00`|`Battlefield 6`|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-10-04 23:06:00`|`Other FPS Games`|
 |[Spoofer &#40;rust&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720239-spoofer-rust.html)|`2025-10-04 22:25:00`|`Anti-Cheat Bypass`|
 |[Any good Rap/boom bap/drill playlist?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/music-and-videos/720232-rap-boom-bap-drill-playlist.html)|`2025-10-04 21:57:00`|`Music and Videos`|
 |[Spectator Check &#91;WORKED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/720229-spectator-check.html)|`2025-10-04 21:52:00`|`Apex Legends`|
