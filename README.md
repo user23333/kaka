@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[༺ 𝙉𝙊𝙑𝘼 ༻ — ✧ Ultimate Insyde Spoofer ✧](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712892-ultimate-insyde-spoofer.html)|`2025-10-05 03:06:00`|`Valorant`|
+|[still getting banged in the &#91;removed&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720087-getting-banged-removed.html)|`2025-10-05 03:01:00`|`Call of Duty: Black Ops 6`|
 |[Cs2 External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/685266-cs2-external.html)|`2025-10-05 02:29:00`|`Counter-Strike 2`|
 |[i need fix crash bypass pubg gl 4&#46;0 64bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/717290-fix-crash-bypass-pubg-gl-4-0-64bit.html)|`2025-10-05 02:45:00`|`PUBG Mobile`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2025-10-05 02:41:00`|`Call of Duty: Black Ops 6`|
