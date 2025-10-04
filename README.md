@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Complete Anti&#45;Cheat BYPASS &#40;&#43;ONLINE&#43;INJECTOR&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/701513-complete-anti-cheat-bypass-online-injector.html)|`2025-10-04 14:29:00`|`Marvel Rivals`|
+|[Translate m&#95;szLastPlaceName Externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720190-translate-m_szlastplacename-externally.html)|`2025-10-04 14:27:00`|`Counter-Strike 2`|
+|[BO7 &#91;Secure Boot&#93; Bypass ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720189-bo7-secure-boot-bypass.html)|`2025-10-04 14:23:00`|`Call of Duty: Black Ops 6`|
 |[Lockdown Protocol Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718478-lockdown-protocol-internal.html)|`2025-10-04 13:47:00`|`Other Games`|
 |[rust cheat that is just no spread&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/717904-rust-cheat-spread.html)|`2025-10-04 13:45:00`|`Rust`|
 |[Borderlands 4 Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/717789-borderlands-4-reversal-structs-offsets.html)|`2025-10-04 13:24:00`|`Other Single Player Games`|
