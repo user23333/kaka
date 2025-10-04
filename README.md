@@ -11,6 +11,7 @@
 |9|[Roblox external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719652-roblox-external-base.html)|`2025-10-05 00:08:42`|`other-fps-games`|
 |11|[BO6 Vip Internal &#40;ETH Rebrand&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720032-bo6-vip-internal-eth-rebrand.html)|`2025-10-05 00:08:42`|`call-of-duty-black-ops-6-a`|
 |7|[vgc bypass 1pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719410-vgc-bypass-1pc.html)|`2025-10-05 00:08:42`|`anti-cheat-bypass`|
+|10|[BO7: TPM 2&#46;0 REQUIREMENT SOLUTION?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/719951-bo7-tpm-2-0-requirement-solution.html)|`2025-10-05 00:30:37`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant 1 PC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720014-valorant-1-pc.html)|`2025-10-05 00:29:00`|`Valorant`|
+|[HWID Ban Duration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720240-hwid-ban-duration.html)|`2025-10-05 00:21:00`|`Call of Duty: Black Ops 6`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-10-05 00:21:00`|`Other MMORPG and Strategy`|
+|[Spec Count](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/720052-spec-count.html)|`2025-10-05 00:13:00`|`Apex Legends`|
+|[Earning money in GTA V Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/719221-earning-money-gta-enhanced.html)|`2025-10-05 00:12:00`|`Grand Theft Auto V`|
 |[Translate m&#95;szLastPlaceName Externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720190-translate-m_szlastplacename-externally.html)|`2025-10-05 00:06:00`|`Counter-Strike 2`|
 |[Yim Menu Use](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/715564-yim-menu.html)|`2025-10-05 00:04:00`|`Grand Theft Auto V`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-10-05 00:00:00`|`Grand Theft Auto V`|
