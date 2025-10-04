@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-10-04 08:59:00`|`Other FPS Games`|
+|[Simple Apex ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/719602-simple-apex-esp.html)|`2025-10-04 08:48:00`|`Apex Legends`|
+|[Torchlight Infinite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/513861-torchlight-infinite.html)|`2025-10-04 08:41:00`|`Other MMORPG and Strategy`|
+|[Foxhole VAC ban for Сheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-support/719734-foxhole-vac-ban-heat-engine.html)|`2025-10-04 08:35:00`|`Cheat Engine Support`|
 |[Is it even possible to get VAC banned on CS 1&#46;6 nowadays?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/718446-vac-banned-cs-1-6-nowadays.html)|`2025-10-04 07:27:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[VALO COLOR BOT SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/633956-valo-color-bot-source.html)|`2025-10-04 07:13:00`|`Valorant`|
 |[Ultra Rumble Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/719232-ultra-rumble-cheat-table.html)|`2025-10-04 07:35:00`|`Other Games`|
