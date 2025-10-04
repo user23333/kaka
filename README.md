@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External python cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/714196-external-python-cheat.html)|`2025-10-05 03:35:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Can i unlink my account without waiting 12 months?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/717731-unlink-account-waiting-12-months.html)|`2025-10-05 03:34:00`|`Call of Duty: Black Ops 6`|
+|[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-10-05 03:30:00`|`Other FPS Games`|
 |[CSS v34 Cheat &#43; ClientMod emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/720207-css-v34-cheat-clientmod-emulator.html)|`2025-10-05 03:33:00`|`CounterStrike Source`|
 |[BGMI &#45; Unable to hook into native library](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/720265-bgmi-unable-hook-native-library.html)|`2025-10-05 03:33:00`|`PUBG Mobile`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-10-05 03:18:00`|`Apex Legends`|
