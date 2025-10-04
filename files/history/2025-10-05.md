@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/717547-arduino-detected.html)|`2025-10-05 04:11:00`|`Apex Legends`|
+|[schema is not working properly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719664-schema-properly.html)|`2025-10-05 04:10:00`|`Counter-Strike 2`|
+|[ways to read memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720271-read-memory.html)|`2025-10-05 04:06:00`|`Call of Duty: Black Ops 6`|
+|[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-10-05 04:04:00`|`Other FPS Games`|
 |[External RCS Logic Help&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720051-external-rcs-logic-help.html)|`2025-10-05 03:48:00`|`Counter-Strike 2`|
 |[External visibility check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/685167-external-visibility-check.html)|`2025-10-05 03:39:00`|`Alternative Online Mods`|
 |[External python cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/714196-external-python-cheat.html)|`2025-10-05 03:35:00`|`CounterStrike 1.5, 1.6 and Mods`|
