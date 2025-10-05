@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Someone can help me hosting a hacked lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/716424-help-hosting-hacked-lobby.html)|`2025-10-06 04:49:00`|`HELLDIVERS 2`|
 |[Megabonk External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720385-megabonk-external-esp.html)|`2025-10-06 04:49:00`|`Other Games`|
 |[Any Dayz 1&#46;28 sources](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/720384-dayz-1-28-sources.html)|`2025-10-06 04:47:00`|`DayZ SA`|
 |[PUBG PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/720292-pubg-pc.html)|`2025-10-06 04:43:00`|`Playerunknown's Battlegrounds`|
