@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help with cs2 external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/720388-help-cs2-external.html)|`2025-10-06 05:41:00`|`Forum General`|
+|[Code to increase joker health](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/719435-code-increase-joker-health.html)|`2025-10-06 05:38:00`|`Payday 2`|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-10-06 05:36:00`|`Sea of Thieves`|
+|[The Texas Chainsaw Massacre Tool &#45; Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712655-texas-chainsaw-massacre-tool-internal-cheat.html)|`2025-10-06 05:35:00`|`Other FPS Games`|
 |[cloverpit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/720116-cloverpit.html)|`2025-10-06 05:26:00`|`Cheat Engine Tables`|
 |[Smite 2 Internal Esp/Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718330-smite-2-internal-esp-aimbot.html)|`2025-10-06 05:18:00`|`Other FPS Games`|
 |[Showing Notices](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720387-notices.html)|`2025-10-06 05:06:00`|`Counter-Strike 2`|
