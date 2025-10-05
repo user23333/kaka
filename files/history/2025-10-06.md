@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Good Colorbot sources &#40;c&#43;&#43;&#41; ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720136-colorbot-sources.html)|`2025-10-06 02:33:00`|`Valorant`|
+|[still getting banged in the &#91;removed&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720087-getting-banged-removed.html)|`2025-10-06 02:31:00`|`Call of Duty: Black Ops 6`|
+|[OFFSETS DUMPER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/720287-offsets-dumper.html)|`2025-10-06 02:29:00`|`Rust`|
+|[Chivalry 2 No Turn Cap and inf stamina](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719643-chivalry-2-cap-inf-stamina.html)|`2025-10-06 02:27:00`|`Other FPS Games`|
+|[Need to find some intel&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/720325-intel.html)|`2025-10-06 02:26:00`|`Grand Theft Auto V`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-10-06 02:26:00`|`Escape from Tarkov`|
+|[Lazybead &#40;LB&#41; &#45; Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat.html)|`2025-10-06 02:22:00`|`Sea of Thieves`|
 |[Bone Flicking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720369-bone-flicking.html)|`2025-10-06 02:09:00`|`Call of Duty: Black Ops 6`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-10-06 02:08:00`|`Other Games`|
 |[Cleaner movesim with CPrediction::SetupMove](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/720296-cleaner-movesim-cprediction-setupmove.html)|`2025-10-06 01:48:00`|`Team Fortress 2`|
