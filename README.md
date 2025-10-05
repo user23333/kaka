@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[So&#46;&#46; a DMA setup will cost me around 250€?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/720278-dma-setup-cost-250-a.html)|`2025-10-06 00:43:00`|`DayZ SA`|
 |[When I use this 10 min fix but I get a day then 10 years](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/720351-10-min-fix-day-10-a.html)|`2025-10-06 00:36:00`|`PUBG Mobile`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-10-06 00:35:00`|`Valorant`|
 |[Some bones not showing &#43; code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/720280-bones-code.html)|`2025-10-06 00:35:00`|`Rust`|
