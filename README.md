@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DoD:S Internal SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/day-of-defeat/719378-dod-internal-sdk.html)|`2025-10-05 18:36:00`|`Day of Defeat`|
 |[TypeScript Base&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719155-typescript-base.html)|`2025-10-05 18:01:00`|`Counter-Strike 2`|
 |[BO6 Enhanced Color Aim AHK GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/671390-bo6-enhanced-color-aim-ahk-gui.html)|`2025-10-05 18:00:00`|`Call of Duty: Black Ops 6`|
 |[Modded Lobbies?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-ii/719766-modded-lobbies.html)|`2025-10-05 17:59:00`|`Call of Duty: Modern Warfare II`|
