@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-10-06 02:45:00`|`HELLDIVERS 2`|
+|[Help for Tf2 Anti Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/720137-help-tf2-anti-aim.html)|`2025-10-06 02:45:00`|`Team Fortress 2`|
+|[TPM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720370-tpm.html)|`2025-10-06 02:42:00`|`Call of Duty: Black Ops 6`|
+|[Future of cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720283-future-cheating.html)|`2025-10-06 02:40:00`|`Anti-Cheat Bypass`|
 |[Good Colorbot sources &#40;c&#43;&#43;&#41; ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720136-colorbot-sources.html)|`2025-10-06 02:33:00`|`Valorant`|
 |[still getting banged in the &#91;removed&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720087-getting-banged-removed.html)|`2025-10-06 02:31:00`|`Call of Duty: Black Ops 6`|
 |[OFFSETS DUMPER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/720287-offsets-dumper.html)|`2025-10-06 02:29:00`|`Rust`|
