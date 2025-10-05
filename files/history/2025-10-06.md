@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Borderlands 4 Internal &#43; Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/719550-borderlands-4-internal-injector.html)|`2025-10-06 06:33:00`|`Other Single Player Games`|
 |[Need help adding waypoint](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/718786-help-adding-waypoint.html)|`2025-10-06 06:28:00`|`Payday 2`|
 |[Shock and Awe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/719416-shock-awe.html)|`2025-10-06 06:19:00`|`Payday 2`|
 |[SMBv3 Exploit Win10 1903](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720390-smbv3-exploit-win10-1903-a.html)|`2025-10-06 06:19:00`|`Anti-Cheat Bypass`|
