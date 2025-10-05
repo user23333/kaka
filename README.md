@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/719757-external-cheat.html)|`2025-10-05 12:38:00`|`Star Wars Battlefront 2`|
+|[updating cheat using Ai](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720293-updating-cheat-using-ai.html)|`2025-10-05 12:34:00`|`Call of Duty: Black Ops 6`|
 |[Bones id skeleton](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/720312-bones-id-skeleton.html)|`2025-10-05 12:09:00`|`Farlight 84`|
 |[Sonic Racing Crossworlds Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720310-sonic-racing-crossworlds-unlocker.html)|`2025-10-05 12:01:00`|`Other Games`|
 |[Best Way to Make Money right Now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/720307-money.html)|`2025-10-05 11:17:00`|`Grand Theft Auto V`|
