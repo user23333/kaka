@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[hide process from task manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719778-hide-process-task-manager.html)|`2025-10-05 12:49:00`|`Anti-Cheat Bypass`|
 |[External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/719757-external-cheat.html)|`2025-10-05 12:38:00`|`Star Wars Battlefront 2`|
 |[updating cheat using Ai](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720293-updating-cheat-using-ai.html)|`2025-10-05 12:34:00`|`Call of Duty: Black Ops 6`|
 |[Bones id skeleton](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/720312-bones-id-skeleton.html)|`2025-10-05 12:09:00`|`Farlight 84`|
