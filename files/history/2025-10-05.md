@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[About R6 ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/720342-r6-ban.html)|`2025-10-05 21:19:00`|`Rainbow Six Siege`|
 |[asphyxia base error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720282-asphyxia-base-error.html)|`2025-10-05 20:51:00`|`Counter-Strike 2`|
 |[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2025-10-05 20:51:00`|`Tom Clancy's The Division`|
 |[Stick Fight The Game Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/619387-stick-fight-game-mod-menu.html)|`2025-10-05 20:39:00`|`Other Games`|
