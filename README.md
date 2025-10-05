@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ZeroPoint &#45; External Cheat &#40;My first external cheat&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715973-zeropoint-external-cheat-external-cheat.html)|`2025-10-05 13:55:00`|`Counter-Strike 2`|
 |[Updated ntoskrnl&#46;exe patterns for SMBIOS physical address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718996-updated-ntoskrnl-exe-patterns-smbios-physical-address.html)|`2025-10-05 13:32:00`|`Anti-Cheat Bypass`|
 |[Cleaner movesim with CPrediction::SetupMove](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/720296-cleaner-movesim-cprediction-setupmove.html)|`2025-10-05 13:31:00`|`Team Fortress 2`|
 |[Silent Hill 2 Remake Tool &#45; Internal Cheat With Auto&#45;Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720314-silent-hill-2-remake-tool-internal-cheat-auto-inject.html)|`2025-10-05 13:08:00`|`Other Games`|
