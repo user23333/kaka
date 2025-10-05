@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[bypassing Roblox Hyperion anti cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720329-bypassing-roblox-hyperion-anti-cheat.html)|`2025-10-05 18:53:00`|`Anti-Cheat Bypass`|
 |[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2025-10-05 18:39:00`|`THE FINALS`|
 |[DoD:S Internal SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/day-of-defeat/719378-dod-internal-sdk.html)|`2025-10-05 18:36:00`|`Day of Defeat`|
 |[TypeScript Base&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719155-typescript-base.html)|`2025-10-05 18:01:00`|`Counter-Strike 2`|
