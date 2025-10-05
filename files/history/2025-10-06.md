@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Cheat AEONIX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/688466-external-cheat-aeonix.html)|`2025-10-06 07:51:00`|`Counter-Strike 2 Releases`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-10-06 07:50:00`|`Counter-Strike 2`|
 |[Manual Map Injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720400-manual-map-injection.html)|`2025-10-06 07:42:00`|`Counter-Strike 2`|
 |[Borderlands 4 Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/717789-borderlands-4-reversal-structs-offsets.html)|`2025-10-06 07:31:00`|`Other Single Player Games`|
 |[Steam Overlay Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/720398-steam-overlay-hook.html)|`2025-10-06 07:19:00`|`Alternative Online Mods`|
