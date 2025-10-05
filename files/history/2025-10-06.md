@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[When I use this 10 min fix but I get a day then 10 years](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/720351-10-min-fix-day-10-a.html)|`2025-10-06 00:36:00`|`PUBG Mobile`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-10-06 00:35:00`|`Valorant`|
+|[Some bones not showing &#43; code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/720280-bones-code.html)|`2025-10-06 00:35:00`|`Rust`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-10-06 00:33:00`|`Other FPS Games`|
 |[Bones id skeleton](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/720312-bones-id-skeleton.html)|`2025-10-06 00:28:00`|`Farlight 84`|
 |[native invoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/720286-native-invoker.html)|`2025-10-06 00:21:00`|`Alternative Online Mods`|
 |[Mordhau Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/334741-mordhau-reversal-structs-offsets.html)|`2025-10-06 00:08:00`|`Other FPS Games`|
