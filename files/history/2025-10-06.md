@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cache Actors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720423-cache-actors.html)|`2025-10-06 12:16:00`|`Valorant`|
 |[Brioso R/A HSW Liveries unavailable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/720420-brioso-hsw-liveries-unavailable.html)|`2025-10-06 10:59:00`|`Grand Theft Auto V`|
 |[DMA MYown Custom fw building from real device](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/719769-dma-myown-custom-fw-building-real-device.html)|`2025-10-06 10:39:00`|`Rust`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-10-06 10:27:00`|`Grand Theft Auto V`|
