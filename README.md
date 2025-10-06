@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-10-06 17:29:00`|`Other FPS Games`|
+|[game of thrones kingsroad hack & offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701827-game-thrones-kingsroad-hack-offsets.html)|`2025-10-06 17:15:00`|`Other MMORPG and Strategy`|
 |[Run sot in VM or similar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/720441-run-sot-vm-similar.html)|`2025-10-06 16:53:00`|`Sea of Thieves`|
 |[Age Of Empire 4 Scar Script Injector with Online &#43; Offline Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/720438-age-empire-4-scar-script-injector-online-offline-features.html)|`2025-10-06 16:09:00`|`Other MMORPG and Strategy`|
 |[Age Of Empire 4 Scar Script Injector Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/720437-age-empire-4-scar-script-injector-online.html)|`2025-10-06 16:09:00`|`Other MMORPG and Strategy`|
