@@ -28,9 +28,15 @@
 |1|[materials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51457)|`2025-10-06 03:21:08`|
 |1|[the break in cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51456)|`2025-10-06 03:21:08`|
 |0|[Zomborg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51463)|`2025-10-06 07:21:54`|
+|2|[4&#46;26&#46;2&#45;0&#43;&#43;&#43;UE4&#43;4&#46;26&#45;Mordhau&#45;Mordhau](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51459)|`2025-10-06 09:27:14`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[A Comprehensive Analysis of Vanguard Anticheat: Part 1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720405-comprehensive-analysis-vanguard-anticheat-1-a.html)|`2025-10-06 09:02:00`|`Anti-Cheat Bypass`|
+|[Oxide Engine &#124; New Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715554-oxide-engine-cheat-engine.html)|`2025-10-06 08:57:00`|`Anti-Cheat Bypass`|
+|[2boxxing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720407-2boxxing.html)|`2025-10-06 08:56:00`|`Call of Duty: Black Ops 6`|
+|[DMA CHEAT FOR ROBLOX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/718749-dma-cheat-roblox.html)|`2025-10-06 08:46:00`|`Forum General`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-10-06 08:46:00`|`Alternative Online Mods`|
 |[Palworld Internal DX11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/710102-palworld-internal-dx11.html)|`2025-10-06 07:59:00`|`Palworld`|
 |[Is it possible to manipulate &#46;vpk language file?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720401-manipulate-vpk-language-file.html)|`2025-10-06 07:55:00`|`Counter-Strike 2`|
 |[External ConVar Manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719379-external-convar-manager.html)|`2025-10-06 07:34:00`|`Counter-Strike 2`|
