@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Smite 2 Internal Esp/Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718330-smite-2-internal-esp-aimbot.html)|`2025-10-07 05:31:00`|`Other FPS Games`|
+|[Resident Evil 7 Tool &#45; Internal Cheat With Auto&#45;Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719624-resident-evil-7-tool-internal-cheat-auto-inject.html)|`2025-10-07 05:29:00`|`Other FPS Games`|
 |[Gorebox Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716525-gorebox-internal-cheat.html)|`2025-10-07 05:27:00`|`Other FPS Games`|
 |[Does EAC do Boot Integrity checks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720520-eac-boot-integrity-checks.html)|`2025-10-07 05:26:00`|`Anti-Cheat Bypass`|
 |[drivers for a external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720113-drivers-external-cheat.html)|`2025-10-07 05:24:00`|`Valorant`|
