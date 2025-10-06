@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Triggerbot with Sonar Mode – Fast, Efficient, and Fully Configurable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719807-triggerbot-sonar-mode-fast-efficient-configurable.html)|`2025-10-07 05:58:00`|`Valorant`|
+|[CS2 External Bone ESP with Kernel Driver &#45; Can't Read Bone Positions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720512-cs2-external-bone-esp-kernel-driver-cant-read-bone-positions.html)|`2025-10-07 05:55:00`|`Counter-Strike 2`|
+|[Age of Empires II &#45; Definitive Edition Offsets & SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/720448-age-empires-ii-definitive-edition-offsets-sdk.html)|`2025-10-07 05:55:00`|`Other MMORPG and Strategy`|
 |[Lunch Lady Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720192-lunch-lady-internal.html)|`2025-10-07 05:48:00`|`Other Games`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-10-07 05:47:00`|`Other FPS Games`|
 |[Dungeon Defenders Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/720022-dungeon-defenders-trainer.html)|`2025-10-07 05:47:00`|`Other MMORPG and Strategy`|
