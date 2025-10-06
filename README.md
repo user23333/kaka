@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ghosts of Tabor standalone cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/709639-ghosts-tabor-standalone-cheat.html)|`2025-10-07 05:05:00`|`Other FPS Games`|
+|[Contractors Showdown VR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644324-contractors-showdown-vr.html)|`2025-10-07 05:01:00`|`Other FPS Games`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-10-07 04:57:00`|`Grand Theft Auto V`|
 |[NVReAPI – Reverse NVIDIA API &#40;GPU UUID, Name&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719583-nvreapi-reverse-nvidia-api-gpu-uuid-name.html)|`2025-10-07 04:53:00`|`Anti-Cheat Bypass`|
 |[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-10-07 04:46:00`|`Other FPS Games`|
