@@ -26,9 +26,15 @@
 |104|[Zykof internal cheat farlight v6&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51444)|`2025-10-07 00:00:10`|
 |38|[debugger&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51442)|`2025-10-07 00:00:10`|
 |100|[&#43;&#43;Fortnite&#43;Release&#45;37&#46;40&#45;CL&#45;46295673](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51419)|`2025-10-07 00:00:10`|
+|2|[Resident Evil Resistance Tool &#45; V1&#46;00](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51470)|`2025-10-07 04:30:36`|
+|1|[5&#46;5&#46;1&#45;0&#43;UE5&#45;darkhours](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51468)|`2025-10-07 04:30:36`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Has anyone solved Zombies ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720513-solved-zombies-esp.html)|`2025-10-07 04:28:00`|`Call of Duty: Black Ops 6`|
+|[Resident Evil Resistance Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720510-resident-evil-resistance-tool-external-cheat.html)|`2025-10-07 04:28:00`|`Other Games`|
+|[External Hitbox override](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/719530-external-hitbox-override.html)|`2025-10-07 04:21:00`|`Rust`|
+|[GTA5&#95;Enchanced Basic DMA Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/689945-gta5_enchanced-basic-dma-tool.html)|`2025-10-07 04:14:00`|`Grand Theft Auto V`|
 |[By&#45;pass BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/720509-pass.html)|`2025-10-07 04:07:00`|`DayZ SA`|
 |[Sonic Racing Crossworlds Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720310-sonic-racing-crossworlds-unlocker.html)|`2025-10-07 04:06:00`|`Other Games`|
 |[Dark Hours](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/668682-dark-hours.html)|`2025-10-07 04:04:00`|`Other FPS Games`|
