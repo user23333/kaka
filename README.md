@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-10-07 04:46:00`|`Other FPS Games`|
 |[AHK valorant question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720462-ahk-valorant-question.html)|`2025-10-07 04:30:00`|`Valorant`|
 |[Has anyone solved Zombies ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720513-solved-zombies-esp.html)|`2025-10-07 04:28:00`|`Call of Duty: Black Ops 6`|
 |[Resident Evil Resistance Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720510-resident-evil-resistance-tool-external-cheat.html)|`2025-10-07 04:28:00`|`Other Games`|
