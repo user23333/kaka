@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spectator Check &#91;WORKED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/720229-spectator-check.html)|`2025-10-06 19:54:00`|`Apex Legends`|
 |[making a wh](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718556-wh.html)|`2025-10-06 19:42:00`|`Counter-Strike 2`|
 |[Skeleton Bug &#91;HELP&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719676-skeleton-bug-help.html)|`2025-10-06 19:38:00`|`Counter-Strike 2`|
 |[Hacker vs Hackers &#45; sources](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719771-hacker-vs-hackers-sources.html)|`2025-10-06 19:34:00`|`Counter-Strike 2`|
