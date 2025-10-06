@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Age Of Empire 4 Scar Script Injector with Online &#43; Offline Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/720438-age-empire-4-scar-script-injector-online-offline-features.html)|`2025-10-06 16:09:00`|`Other MMORPG and Strategy`|
+|[Age Of Empire 4 Scar Script Injector Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/720437-age-empire-4-scar-script-injector-online.html)|`2025-10-06 16:09:00`|`Other MMORPG and Strategy`|
+|[Age Of Empire 4 Updated Scar Script Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/720436-age-empire-4-updated-scar-script-injector.html)|`2025-10-06 16:00:00`|`Half Life`|
 |[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-10-06 15:43:00`|`Other FPS Games`|
 |[CS2 Bone Esp Offset from entity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720065-cs2-bone-esp-offset-entity.html)|`2025-10-06 15:41:00`|`Counter-Strike 2`|
 |[offset help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/719551-offset-help.html)|`2025-10-06 15:33:00`|`DayZ SA`|
