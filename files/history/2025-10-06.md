@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hacker vs Hackers &#45; sources](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719771-hacker-vs-hackers-sources.html)|`2025-10-06 19:34:00`|`Counter-Strike 2`|
 |[Age of Empires II &#45; Definitive Edition Offsets & SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/720448-age-empires-ii-definitive-edition-offsets-sdk.html)|`2025-10-06 18:20:00`|`Other MMORPG and Strategy`|
 |[Which is Better](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/720447-which-is-better.html)|`2025-10-06 18:16:00`|`Rust`|
 |[Forts cheat table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/625043-forts-cheat-table.html)|`2025-10-06 18:13:00`|`Other MMORPG and Strategy`|
