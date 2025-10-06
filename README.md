@@ -14,6 +14,7 @@
 |12|[eac logger/debugger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720202-eac-logger-debugger.html)|`2025-10-06 03:34:25`|`anti-cheat-bypass`|
 |14|[Future of cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720283-future-cheating.html)|`2025-10-06 12:36:36`|`anti-cheat-bypass`|
 |15|[Ways of getting into the kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719639-getting-kernel.html)|`2025-10-06 13:30:45`|`anti-cheat-bypass`|
+|6|[hide process from task manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719778-hide-process-task-manager.html)|`2025-10-06 22:33:29`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;Beginning&#41; Theia String Decryptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720470-beginning-theia-string-decryptor.html)|`2025-10-06 22:32:00`|`Anti-Cheat Bypass`|
+|[Dump for offset bo6/bo7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720449-dump-offset-bo6-bo7.html)|`2025-10-06 22:26:00`|`Call of Duty: Black Ops 6`|
 |[drivers for a external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720113-drivers-external-cheat.html)|`2025-10-06 22:04:00`|`Valorant`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-10-06 21:56:00`|`Counter-Strike 2 Releases`|
 |[Spoof needed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719981-spoof.html)|`2025-10-06 21:56:00`|`Overwatch`|
