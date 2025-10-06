@@ -13,6 +13,7 @@
 |6|[hide process from task manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719778-hide-process-task-manager.html)|`2025-10-07 00:00:10`|`anti-cheat-bypass`|
 |6|[chromatic aberration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719968-chromatic-aberration.html)|`2025-10-07 01:29:39`|`counter-strike-2-a`|
 |6|[EAC Disks HOOK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719756-eac-disks-hook.html)|`2025-10-07 02:43:02`|`anti-cheat-bypass`|
+|13|[A Comprehensive Analysis of Vanguard Anticheat: Part 1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720405-comprehensive-analysis-vanguard-anticheat-1-a.html)|`2025-10-07 05:27:11`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,9 +29,19 @@
 |100|[&#43;&#43;Fortnite&#43;Release&#45;37&#46;40&#45;CL&#45;46295673](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51419)|`2025-10-07 00:00:10`|
 |2|[Resident Evil Resistance Tool &#45; V1&#46;00](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51470)|`2025-10-07 04:30:36`|
 |1|[5&#46;5&#46;1&#45;0&#43;UE5&#45;darkhours](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51468)|`2025-10-07 04:30:36`|
+|1|[Megabonk Demo to full progression&#46;json](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51469)|`2025-10-07 05:27:11`|
+|1|[CloverPit&#95;v1&#46;0&#95;by&#95;gh0st201208](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51464)|`2025-10-07 05:27:11`|
+|1|[ReadyorNotInternal&#45;1&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51452)|`2025-10-07 05:27:11`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gorebox Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716525-gorebox-internal-cheat.html)|`2025-10-07 05:27:00`|`Other FPS Games`|
+|[Does EAC do Boot Integrity checks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720520-eac-boot-integrity-checks.html)|`2025-10-07 05:26:00`|`Anti-Cheat Bypass`|
+|[drivers for a external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720113-drivers-external-cheat.html)|`2025-10-07 05:24:00`|`Valorant`|
+|[cloverpit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/720116-cloverpit.html)|`2025-10-07 05:22:00`|`Cheat Engine Tables`|
+|[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2025-10-07 05:20:00`|`Other FPS Games`|
+|[esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/720518-esp.html)|`2025-10-07 05:17:00`|`Alternative Online Mods`|
+|[Megabonk &#45; Complete Unlock Save File &#43; Encryption Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718985-megabonk-complete-unlock-save-file-encryption-methods.html)|`2025-10-07 05:16:00`|`Other Games`|
 |[Ghosts of Tabor standalone cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/709639-ghosts-tabor-standalone-cheat.html)|`2025-10-07 05:05:00`|`Other FPS Games`|
 |[Contractors Showdown VR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644324-contractors-showdown-vr.html)|`2025-10-07 05:01:00`|`Other FPS Games`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-10-07 04:57:00`|`Grand Theft Auto V`|
