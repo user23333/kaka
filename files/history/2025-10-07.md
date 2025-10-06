@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AHK valorant question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720462-ahk-valorant-question.html)|`2025-10-07 04:30:00`|`Valorant`|
 |[Has anyone solved Zombies ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720513-solved-zombies-esp.html)|`2025-10-07 04:28:00`|`Call of Duty: Black Ops 6`|
 |[Resident Evil Resistance Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720510-resident-evil-resistance-tool-external-cheat.html)|`2025-10-07 04:28:00`|`Other Games`|
 |[External Hitbox override](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/719530-external-hitbox-override.html)|`2025-10-07 04:21:00`|`Rust`|
