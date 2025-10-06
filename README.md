@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[horrible but working way to get past secureboot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/720428-horrible-past-secureboot.html)|`2025-10-06 13:11:00`|`Battlefield 6`|
 |[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2025-10-06 12:46:00`|`HELLDIVERS 2`|
 |[&#91;After Patch FIX&#93; Please remove name&#46;gsc from your scripts folder&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/709370-patch-fix-please-remove-name-gsc-scripts-folder.html)|`2025-10-06 12:43:00`|`Call of Duty 4: Modern Warfare`|
 |[Humanized aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717685-humanized-aimbot.html)|`2025-10-06 12:37:00`|`Counter-Strike 2`|
