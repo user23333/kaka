@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[anyone know any good hwid spoofers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/720474-hwid-spoofers.html)|`2025-10-06 23:19:00`|`Rust`|
 |["Find out what writes to this address" in Cheat Engine → FiveM crash &#40;need help&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/720418-writes-address-cheat-engine-fivem-crash-help.html)|`2025-10-06 23:13:00`|`Alternative Online Mods`|
 |[any hard unlock all for this game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/720473-hard-unlock-game.html)|`2025-10-06 23:03:00`|`Call of Duty: Modern Warfare`|
 |[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2025-10-06 22:44:00`|`Other MMORPG and Strategy`|
