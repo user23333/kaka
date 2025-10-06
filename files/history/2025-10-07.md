@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Clash Royale Pointer Scanning](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/719940-clash-royale-pointer-scanning.html)|`2025-10-07 06:13:00`|`Android`|
+|[SmokeySense &#45; Custom C&#35; &#40;&#46;NET 4&#46;8&#41; Undetected External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/715659-smokeysense-custom-net-4-8-undetected-external-cheat.html)|`2025-10-07 06:03:00`|`Counter-Strike 2 Releases`|
+|[BATTLEFIELD SOFTCURVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-hardline/719824-battlefield-softcurve.html)|`2025-10-07 06:01:00`|`Battlefield Hardline`|
 |[Triggerbot with Sonar Mode – Fast, Efficient, and Fully Configurable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719807-triggerbot-sonar-mode-fast-efficient-configurable.html)|`2025-10-07 05:58:00`|`Valorant`|
 |[CS2 External Bone ESP with Kernel Driver &#45; Can't Read Bone Positions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720512-cs2-external-bone-esp-kernel-driver-cant-read-bone-positions.html)|`2025-10-07 05:55:00`|`Counter-Strike 2`|
 |[Age of Empires II &#45; Definitive Edition Offsets & SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/720448-age-empires-ii-definitive-edition-offsets-sdk.html)|`2025-10-07 05:55:00`|`Other MMORPG and Strategy`|
