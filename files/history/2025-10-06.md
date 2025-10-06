@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2025-10-06 22:44:00`|`Other MMORPG and Strategy`|
+|[Solid Dupe Glitch for fivem server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719921-solid-dupe-glitch-fivem-server.html)|`2025-10-06 22:37:00`|`Alternative Online Mods`|
+|[I need to change my steam id](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/720469-change-steam-id.html)|`2025-10-06 22:31:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[&#40;Beginning&#41; Theia String Decryptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720470-beginning-theia-string-decryptor.html)|`2025-10-06 22:32:00`|`Anti-Cheat Bypass`|
 |[Dump for offset bo6/bo7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720449-dump-offset-bo6-bo7.html)|`2025-10-06 22:26:00`|`Call of Duty: Black Ops 6`|
 |[drivers for a external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720113-drivers-external-cheat.html)|`2025-10-06 22:04:00`|`Valorant`|
