@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-10-07 00:55:00`|`Counter-Strike 2 Releases`|
+|[Showing Notices](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720387-notices.html)|`2025-10-07 00:53:00`|`Counter-Strike 2`|
 |[Finally a working External SkinChanger for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689733-finally-external-skinchanger-cs2.html)|`2025-10-07 00:51:00`|`Counter-Strike 2`|
 |[native invoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/720286-native-invoker.html)|`2025-10-07 00:47:00`|`Alternative Online Mods`|
 |[&#40;outdated&#41; rust external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/716048-outdated-rust-external.html)|`2025-10-07 00:43:00`|`Rust`|
