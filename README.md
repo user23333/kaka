@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GhostM Global hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/720459-ghostm-global-hack.html)|`2025-10-06 20:30:00`|`Other MMORPG and Strategy`|
 |[Yoroshiku&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/720424-yoroshiku.html)|`2025-10-06 20:17:00`|`Introductions`|
 |[Anticheat bypass for Farlight 84](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/715811-anticheat-bypass-farlight-84-a.html)|`2025-10-06 20:15:00`|`Farlight 84`|
 |[hw&#46;dll wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/714369-hw-dll-wallhack.html)|`2025-10-06 20:13:00`|`CounterStrike 1.5, 1.6 and Mods`|
