@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Crete &#40;Beta&#41; &#45; SDK Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719998-crete-beta-sdk-dump.html)|`2025-10-07 05:44:00`|`Other FPS Games`|
+|[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2025-10-07 05:43:00`|`Other FPS Games`|
+|[Any working Pirate Generator hacks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/720366-pirate-generator-hacks.html)|`2025-10-07 05:42:00`|`Sea of Thieves`|
+|[SteelSeries overlay hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/719655-steelseries-overlay-hook.html)|`2025-10-07 05:42:00`|`C and C++`|
 |[Smite 2 Internal Esp/Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718330-smite-2-internal-esp-aimbot.html)|`2025-10-07 05:31:00`|`Other FPS Games`|
 |[Resident Evil 7 Tool &#45; Internal Cheat With Auto&#45;Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719624-resident-evil-7-tool-internal-cheat-auto-inject.html)|`2025-10-07 05:29:00`|`Other FPS Games`|
 |[Gorebox Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716525-gorebox-internal-cheat.html)|`2025-10-07 05:27:00`|`Other FPS Games`|
