@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|["Find out what writes to this address" in Cheat Engine → FiveM crash &#40;need help&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/720418-writes-address-cheat-engine-fivem-crash-help.html)|`2025-10-06 23:13:00`|`Alternative Online Mods`|
+|[any hard unlock all for this game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/720473-hard-unlock-game.html)|`2025-10-06 23:03:00`|`Call of Duty: Modern Warfare`|
 |[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2025-10-06 22:44:00`|`Other MMORPG and Strategy`|
 |[Solid Dupe Glitch for fivem server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719921-solid-dupe-glitch-fivem-server.html)|`2025-10-06 22:37:00`|`Alternative Online Mods`|
 |[I need to change my steam id](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/720469-change-steam-id.html)|`2025-10-06 22:31:00`|`CounterStrike 1.5, 1.6 and Mods`|
