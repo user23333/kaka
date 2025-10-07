@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-10-08 03:55:00`|`Sea of Thieves`|
+|[How to get a VAC ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/720422-vac-ban.html)|`2025-10-08 03:46:00`|`Forum General`|
+|[Why don't people make Rigel&#45;based aimbots anymore?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/720667-dont-people-rigel-based-aimbots-anymore.html)|`2025-10-08 03:46:00`|`Overwatch`|
 |[Counter&#45;Strike 2 ESP &#40;Wallhack&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/720600-counter-strike-2-esp-wallhack.html)|`2025-10-08 03:44:00`|`Counter-Strike 2 Releases`|
 |[Squad&#46;  junk playerstate help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/720564-squad-junk-playerstate-help.html)|`2025-10-08 03:28:00`|`Other FPS Games`|
 |[Lightmoon V2 &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709987-lightmoon-v2-external.html)|`2025-10-08 03:27:00`|`Counter-Strike 2`|
