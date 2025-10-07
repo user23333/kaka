@@ -13,6 +13,7 @@
 |7|[chromatic aberration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719968-chromatic-aberration.html)|`2025-10-08 00:22:01`|`counter-strike-2-a`|
 |8|[Autowall broken](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720127-autowall-broken.html)|`2025-10-08 01:29:50`|`counter-strike-2-a`|
 |9|[Solid Dupe Glitch for fivem server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719921-solid-dupe-glitch-fivem-server.html)|`2025-10-08 02:44:25`|`alternative-online-mods`|
+|5|[BO7 &#91;Secure Boot&#93; Bypass ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720189-bo7-secure-boot-bypass.html)|`2025-10-08 07:57:31`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
