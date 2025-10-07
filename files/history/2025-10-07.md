@@ -35,9 +35,16 @@
 |2|[obfuscxx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51481)|`2025-10-07 20:28:55`|
 |0|[polygon external&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51475)|`2025-10-07 21:35:09`|
 |1|[polygon external v3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51474)|`2025-10-07 21:35:09`|
+|1|[CS2 ESP/Wallhack/Xray](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51480)|`2025-10-07 21:47:21`|
+|1|[GM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51467)|`2025-10-07 21:47:21`|
+|1|[Rust IOCTL Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51465)|`2025-10-07 21:47:21`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Silent Hill 2 Remake Tool &#45; Internal Cheat With Auto&#45;Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720314-silent-hill-2-remake-tool-internal-cheat-auto-inject.html)|`2025-10-07 21:46:00`|`Other Games`|
+|[I need to change my steam id](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/720469-change-steam-id.html)|`2025-10-07 21:43:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Rust Windows Kernel Driver &#45; IOCTL Communication Example](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust-language-/720393-rust-windows-kernel-driver-ioctl-communication-example.html)|`2025-10-07 21:40:00`|`Rust (Language)`|
+|[GIRLS' FRONTLINE 2:EXILIUM CN PC cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/717869-girls-frontline-2-exilium-cn-pc-cheat.html)|`2025-10-07 21:38:00`|`Other MMORPG and Strategy`|
 |[Roblox Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719996-roblox-dumper.html)|`2025-10-07 21:21:00`|`Other FPS Games`|
 |[Pixel Gun 3D Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/719939-pixel-gun-3d-cheat.html)|`2025-10-07 21:20:00`|`Other Games`|
 |[Chivalry 2 Basic &#46;pak &#45; Parera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/720632-chivalry-2-basic-pak-parera.html)|`2025-10-07 21:19:00`|`Half Life`|
