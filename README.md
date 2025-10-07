@@ -27,9 +27,15 @@
 |6|[Rust IOCTL Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51465)|`2025-10-08 00:22:01`|
 |2|[TarkovGUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51486)|`2025-10-08 01:45:34`|
 |2|[valorant src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51476)|`2025-10-08 01:57:36`|
+|9|[Sleepy's External &#45; 2&#46;18&#46;1&#46;1&#46;142533 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51487)|`2025-10-08 02:20:51`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spoof needed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719981-spoof.html)|`2025-10-08 02:19:00`|`Overwatch`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-10-08 02:18:00`|`Counter-Strike 2`|
+|[Finding Game Object Manager in UnityPlayer&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/719777-finding-game-object-manager-unityplayer-dll.html)|`2025-10-08 02:18:00`|`Escape from Tarkov`|
+|[Getting schema class info from C&#95;BaseEntity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720661-getting-schema-class-info-c_baseentity.html)|`2025-10-08 02:13:00`|`Counter-Strike 2`|
+|[Dune Awakening Repair Exploit After Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707561-dune-awakening-repair-exploit-patch.html)|`2025-10-08 02:04:00`|`Other FPS Games`|
 |[Warframe Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718442-warframe-internal-cheat.html)|`2025-10-08 01:56:00`|`Other FPS Games`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-10-08 01:56:00`|`Other Games`|
 |[starfall external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720579-starfall-external.html)|`2025-10-08 01:55:00`|`Valorant`|
