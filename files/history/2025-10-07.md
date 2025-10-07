@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Member of the Month &#45; October 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/719994-month-october-2025-a.html)|`2025-10-07 16:43:00`|`Member of the Month`|
+|[BO6 Vip Internal &#40;ETH Rebrand&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720032-bo6-vip-internal-eth-rebrand.html)|`2025-10-07 16:40:00`|`Call of Duty: Black Ops 6`|
+|[rust&#45;native&#45;obf &#45; simple native obfuscator for rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust-language-/720602-rust-native-obf-simple-native-obfuscator-rust.html)|`2025-10-07 16:38:00`|`Rust (Language)`|
 |[Counter&#45;Strike 2 ESP &#40;Wallhack&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/720600-counter-strike-2-esp-wallhack.html)|`2025-10-07 16:35:00`|`Counter-Strike 2 Releases`|
 |[my self written macro client for rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/720588-self-written-macro-client-rust.html)|`2025-10-07 16:34:00`|`Forum General`|
 |[Borderlands 4 Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/717789-borderlands-4-reversal-structs-offsets.html)|`2025-10-07 16:27:00`|`Other Single Player Games`|
