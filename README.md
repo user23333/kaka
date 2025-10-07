@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FSL with battleye players](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/720609-fsl-battleye-players.html)|`2025-10-07 17:51:00`|`Grand Theft Auto V`|
+|[Dump for offset bo6/bo7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720449-dump-offset-bo6-bo7.html)|`2025-10-07 17:50:00`|`Call of Duty: Black Ops 6`|
 |[ZeroPoint &#45; External Cheat &#40;My first external cheat&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715973-zeropoint-external-cheat-external-cheat.html)|`2025-10-07 17:19:00`|`Counter-Strike 2`|
 |[acceleron&#46;tech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715059-acceleron-tech.html)|`2025-10-07 17:08:00`|`Anti-Cheat Bypass`|
 |[RU Warface external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/681338-ru-warface-external-cheat.html)|`2025-10-07 17:00:00`|`Warface`|
