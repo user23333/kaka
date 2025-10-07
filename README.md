@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[easy method to make Undetected Cheat Engine &#43; Driver &#43; DSE&#45;Patcher &#124; Bypass AC 2023](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/606839-easy-method-undetected-cheat-engine-driver-dse-patcher-bypass-ac-2023-a.html)|`2025-10-08 01:38:00`|`Anti-Cheat Bypass`|
+|[Help getting Actor Array &#40;SQUAD&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/720654-help-getting-actor-array-squad.html)|`2025-10-08 01:26:00`|`Other FPS Games`|
+|[Combat Master Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/708468-combat-master-internal.html)|`2025-10-08 01:15:00`|`Combat Master`|
 |[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-10-08 01:22:00`|`Other FPS Games`|
 |[Dump for offset bo6/bo7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720449-dump-offset-bo6-bo7.html)|`2025-10-08 01:21:00`|`Call of Duty: Black Ops 6`|
 |[BO6/7 OFFSET/DUMPER HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720546-bo6-7-offset-dumper-help.html)|`2025-10-08 01:17:00`|`Call of Duty: Black Ops 6`|
