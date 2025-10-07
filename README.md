@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[obfuscxx: C&#43;&#43; variables obfuscation library &#40;msvc/clang/gcc &#124; x86&#45;64/arm&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/720612-obfuscxx-variables-obfuscation-library-msvc-clang-gcc-x86-64-arm.html)|`2025-10-07 19:52:00`|`C and C++`|
 |[render windows font resource in imgui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/720372-render-windows-font-resource-imgui.html)|`2025-10-07 19:43:00`|`General Programming and Reversing`|
 |["Find out what writes to this address" in Cheat Engine → FiveM crash &#40;need help&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/720418-writes-address-cheat-engine-fivem-crash-help.html)|`2025-10-07 19:41:00`|`Alternative Online Mods`|
 |[Does magic bullet work externally now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/703104-magic-bullet-externally.html)|`2025-10-07 19:26:00`|`PlanetSide 2`|
