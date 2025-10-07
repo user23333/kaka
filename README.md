@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock DMA &#40;&#43;Source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/720581-deadlock-dma-source.html)|`2025-10-07 12:25:00`|`Deadlock`|
+|[Chivalry 2 Simple Lightweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/681745-chivalry-2-simple-lightweight-cheat.html)|`2025-10-07 12:19:00`|`Other Games`|
+|[Chivalry 2 Chivalapocalypse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/717361-chivalry-2-chivalapocalypse.html)|`2025-10-07 12:17:00`|`Other Games`|
+|[Chivalry 2 &#45; Noclip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/714573-chivalry-2-noclip.html)|`2025-10-07 12:16:00`|`Other Games`|
 |[starfall external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720579-starfall-external.html)|`2025-10-07 12:10:00`|`Valorant`|
 |[POLYGON basic external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710575-polygon-basic-external.html)|`2025-10-07 12:01:00`|`Other FPS Games`|
 |[need help getting unbanneld willing to buy new parts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720576-help-getting-unbanneld-willing-buy.html)|`2025-10-07 11:49:00`|`Valorant`|
