@@ -32,9 +32,12 @@
 |1|[Megabonk Demo to full progression&#46;json](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51469)|`2025-10-07 05:27:11`|
 |1|[CloverPit&#95;v1&#46;0&#95;by&#95;gh0st201208](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51464)|`2025-10-07 05:27:11`|
 |1|[ReadyorNotInternal&#45;1&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51452)|`2025-10-07 05:27:11`|
+|2|[obfuscxx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51481)|`2025-10-07 20:28:55`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do I increase my rank with YimMenuV2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/720608-increase-rank-yimmenuv2.html)|`2025-10-07 20:19:00`|`Grand Theft Auto V`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-10-07 20:14:00`|`Grand Theft Auto V`|
 |[obfuscxx: C&#43;&#43; variables obfuscation library &#40;msvc/clang/gcc &#124; x86&#45;64/arm&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/720612-obfuscxx-variables-obfuscation-library-msvc-clang-gcc-x86-64-arm.html)|`2025-10-07 19:52:00`|`C and C++`|
 |[render windows font resource in imgui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/720372-render-windows-font-resource-imgui.html)|`2025-10-07 19:43:00`|`General Programming and Reversing`|
 |["Find out what writes to this address" in Cheat Engine → FiveM crash &#40;need help&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/720418-writes-address-cheat-engine-fivem-crash-help.html)|`2025-10-07 19:41:00`|`Alternative Online Mods`|
