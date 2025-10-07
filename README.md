@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter&#45;Strike 2 ESP &#40;Wallhack&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/720600-counter-strike-2-esp-wallhack.html)|`2025-10-07 16:35:00`|`Counter-Strike 2 Releases`|
+|[my self written macro client for rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/720588-self-written-macro-client-rust.html)|`2025-10-07 16:34:00`|`Forum General`|
+|[Borderlands 4 Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/717789-borderlands-4-reversal-structs-offsets.html)|`2025-10-07 16:27:00`|`Other Single Player Games`|
+|[Did Hoyo remove the VM restriction from Genshin Impact?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/673206-hoyo-remove-vm-restriction-genshin-impact.html)|`2025-10-07 16:20:00`|`Genshin Impact`|
 |[EVO3 &#124; Updated External Legit/Semi&#45;Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/713273-evo3-updated-external-legit-semi-rage-cheat.html)|`2025-10-07 16:10:00`|`Counter-Strike 2 Releases`|
 |[Spoofing HWID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720595-spoofing-hwid.html)|`2025-10-07 16:10:00`|`Call of Duty: Black Ops 6`|
 |[Will I be banned from playing APEX if I only use Arduino for recoil?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/720594-banned-playing-apex-arduino-recoil.html)|`2025-10-07 15:57:00`|`Apex Legends`|
