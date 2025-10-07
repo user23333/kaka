@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EVO3 &#124; Updated External Legit/Semi&#45;Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/713273-evo3-updated-external-legit-semi-rage-cheat.html)|`2025-10-07 16:10:00`|`Counter-Strike 2 Releases`|
+|[Spoofing HWID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720595-spoofing-hwid.html)|`2025-10-07 16:10:00`|`Call of Duty: Black Ops 6`|
+|[Will I be banned from playing APEX if I only use Arduino for recoil?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/720594-banned-playing-apex-arduino-recoil.html)|`2025-10-07 15:57:00`|`Apex Legends`|
 |[New Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/716321-offsets.html)|`2025-10-07 15:26:00`|`PlanetSide 2`|
 |[theHunter: Call of the Wild Internal Radar, ESP, & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644365-thehunter-call-wild-internal-radar-esp.html)|`2025-10-07 15:25:00`|`Other FPS Games`|
 |[How to make external fov vischeck in pubg mobile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/720593-external-fov-vischeck-pubg-mobile.html)|`2025-10-07 15:17:00`|`PUBG Mobile`|
