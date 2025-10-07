@@ -35,6 +35,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[valve anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720565-valve-anti-cheat.html)|`2025-10-07 10:48:00`|`Counter-Strike 2`|
+|[TPM Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720567-tpm-bans.html)|`2025-10-07 10:46:00`|`Call of Duty: Black Ops 6`|
+|[BO7/BO6 DUMP SUPPORT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720566-bo7-bo6-dump-support.html)|`2025-10-07 10:46:00`|`Call of Duty: Black Ops 6`|
+|[Helldivers 2 Farming Guide by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/719525-helldivers-2-farming-guide-igromanru.html)|`2025-10-07 10:43:00`|`HELLDIVERS 2`|
+|[For Honor &#45; Sciprt by florasSecret &#45; Autoblock, Parry, Deflects, D b/Unblockables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/414701-honor-sciprt-florassecret-autoblock-parry-deflects-unblockables.html)|`2025-10-07 10:39:00`|`Other MMORPG and Strategy`|
+|[Spoof needed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719981-spoof.html)|`2025-10-07 10:34:00`|`Overwatch`|
+|[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-10-07 10:31:00`|`Other FPS Games`|
+|[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-10-07 10:30:00`|`Grand Theft Auto V`|
 |[Farlight Device Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/715652-farlight-device-ban.html)|`2025-10-07 09:34:00`|`Farlight 84`|
 |[streaming files dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/711617-streaming-files-dumper.html)|`2025-10-07 09:11:00`|`Alternative Online Mods`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-10-07 09:11:00`|`Call of Duty: Black Ops 6`|
