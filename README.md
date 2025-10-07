@@ -35,6 +35,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External RCS Logic Help&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720051-external-rcs-logic-help.html)|`2025-10-07 11:35:00`|`Counter-Strike 2`|
+|[banned on valo for homophobic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719344-banned-valo-homophobic.html)|`2025-10-07 11:30:00`|`Valorant`|
+|[A very lazy way of parsing weapon skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720573-lazy-parsing-weapon-skins.html)|`2025-10-07 11:30:00`|`Counter-Strike 2`|
+|[Bypass Anti&#45;Cheat Genshin Impact 6&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/717352-bypass-anti-cheat-genshin-impact-6-0-a.html)|`2025-10-07 11:26:00`|`Genshin Impact`|
+|[About the Color Bot driver in Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720260-color-bot-driver-valorant.html)|`2025-10-07 11:25:00`|`Valorant`|
+|[༺ 𝙉𝙊𝙑𝘼 ༻ — ✧ Ultimate Insyde Spoofer ✧](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712892-ultimate-insyde-spoofer.html)|`2025-10-07 11:20:00`|`Valorant`|
 |[valve anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720565-valve-anti-cheat.html)|`2025-10-07 10:48:00`|`Counter-Strike 2`|
 |[TPM Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720567-tpm-bans.html)|`2025-10-07 10:46:00`|`Call of Duty: Black Ops 6`|
 |[BO7/BO6 DUMP SUPPORT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720566-bo7-bo6-dump-support.html)|`2025-10-07 10:46:00`|`Call of Duty: Black Ops 6`|
