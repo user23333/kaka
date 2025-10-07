@@ -38,6 +38,7 @@
 |1|[CS2 ESP/Wallhack/Xray](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51480)|`2025-10-07 21:47:21`|
 |1|[GM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51467)|`2025-10-07 21:47:21`|
 |1|[Rust IOCTL Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51465)|`2025-10-07 21:47:21`|
+|1|[Parera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51482)|`2025-10-07 21:53:23`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
