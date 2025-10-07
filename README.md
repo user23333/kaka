@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[acceleron&#46;tech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715059-acceleron-tech.html)|`2025-10-07 17:08:00`|`Anti-Cheat Bypass`|
+|[RU Warface external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/681338-ru-warface-external-cheat.html)|`2025-10-07 17:00:00`|`Warface`|
+|[cs2 chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720368-cs2-chams.html)|`2025-10-07 16:59:00`|`Counter-Strike 2`|
+|[FiveM Native Invoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/713002-fivem-native-invoker.html)|`2025-10-07 16:58:00`|`Alternative Online Mods`|
 |[Member of the Month &#45; October 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/719994-month-october-2025-a.html)|`2025-10-07 16:43:00`|`Member of the Month`|
 |[BO6 Vip Internal &#40;ETH Rebrand&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720032-bo6-vip-internal-eth-rebrand.html)|`2025-10-07 16:40:00`|`Call of Duty: Black Ops 6`|
 |[rust&#45;native&#45;obf &#45; simple native obfuscator for rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust-language-/720602-rust-native-obf-simple-native-obfuscator-rust.html)|`2025-10-07 16:38:00`|`Rust (Language)`|
