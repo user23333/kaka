@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal Anti&#45;Aim help&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720629-internal-anti-aim-help.html)|`2025-10-07 21:04:00`|`Counter-Strike 2`|
+|[How to install a external rust cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/720626-install-external-rust-cheat.html)|`2025-10-07 20:40:00`|`Rust`|
 |[How do I increase my rank with YimMenuV2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/720608-increase-rank-yimmenuv2.html)|`2025-10-07 20:19:00`|`Grand Theft Auto V`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-10-07 20:14:00`|`Grand Theft Auto V`|
 |[obfuscxx: C&#43;&#43; variables obfuscation library &#40;msvc/clang/gcc &#124; x86&#45;64/arm&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/720612-obfuscxx-variables-obfuscation-library-msvc-clang-gcc-x86-64-arm.html)|`2025-10-07 19:52:00`|`C and C++`|
