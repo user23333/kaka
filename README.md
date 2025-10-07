@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ReWASD Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/719755-rewasd-bypass.html)|`2025-10-07 18:24:00`|`Apex Legends`|
 |[Auto Update External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/614771-auto-update-external.html)|`2025-10-07 18:03:00`|`Overwatch`|
 |[FSL with battleye players](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/720609-fsl-battleye-players.html)|`2025-10-07 17:51:00`|`Grand Theft Auto V`|
 |[Dump for offset bo6/bo7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720449-dump-offset-bo6-bo7.html)|`2025-10-07 17:50:00`|`Call of Duty: Black Ops 6`|
