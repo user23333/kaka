@@ -42,6 +42,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[making a wh](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718556-wh.html)|`2025-10-07 22:16:00`|`Counter-Strike 2`|
+|[DXGI&#95;ERROR&#95;INVALID&#95;CALL after Present hook / ExecuteCommandLists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712426-dxgi_error_invalid_call-hook-executecommandlists.html)|`2025-10-07 22:14:00`|`Battlefield 6`|
+|[Chivalry 2 Basic &#46;pak &#45; Parera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720632-chivalry-2-basic-pak-parera.html)|`2025-10-07 22:10:00`|`Other Games`|
 |[Specter Services – Sniper Elite 5 Trainer &#43; EAC Bypass &#40;DX12/Vulkan All Platforms&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/707897-specter-services-sniper-elite-5-trainer-eac-bypass-dx12-vulkan-platforms.html)|`2025-10-07 21:51:00`|`Introductions`|
 |[Silent Hill 2 Remake Tool &#45; Internal Cheat With Auto&#45;Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720314-silent-hill-2-remake-tool-internal-cheat-auto-inject.html)|`2025-10-07 21:46:00`|`Other Games`|
 |[I need to change my steam id](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/720469-change-steam-id.html)|`2025-10-07 21:43:00`|`CounterStrike 1.5, 1.6 and Mods`|
