@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Auto Update External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/614771-auto-update-external.html)|`2025-10-08 19:38:00`|`Overwatch`|
+|[BO6/BO7 Aimbot Color &#43; Functional Anti&#45;Recoil AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720726-bo6-bo7-aimbot-color-functional-anti-recoil-ahk.html)|`2025-10-08 19:38:00`|`Call of Duty: Black Ops 6`|
 |[Age Of Empire 4 Scar Script Injector with Online &#43; Offline Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/720438-age-empire-4-scar-script-injector-online-offline-features.html)|`2025-10-08 19:30:00`|`Other MMORPG and Strategy`|
 |[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-10-08 19:30:00`|`Other FPS Games`|
 |[Age of Empires II &#45; Definitive Edition Offsets & SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/720448-age-empires-ii-definitive-edition-offsets-sdk.html)|`2025-10-08 19:27:00`|`Other MMORPG and Strategy`|
