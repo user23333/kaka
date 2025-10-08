@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BO6 Vip Internal &#40;ETH Rebrand&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720032-bo6-vip-internal-eth-rebrand.html)|`2025-10-08 11:03:00`|`Call of Duty: Black Ops 6`|
 |[No Man's Sky &#91;Internal&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720149-mans-sky-internal.html)|`2025-10-08 10:10:00`|`Other Games`|
 |[DXGI&#95;ERROR&#95;INVALID&#95;CALL after Present hook / ExecuteCommandLists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712426-dxgi_error_invalid_call-hook-executecommandlists.html)|`2025-10-08 10:06:00`|`Battlefield 6`|
 |[New method Mouse Move UNDETECTED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720686-method-mouse-move-undetected.html)|`2025-10-08 10:05:00`|`Valorant`|
