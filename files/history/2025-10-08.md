@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External B06 &#40;ESP &#43; Name &#43; Health &#43; KD, etc&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/713576-external-b06-esp-name-health-kd-etc.html)|`2025-10-08 16:57:00`|`Call of Duty: Black Ops 6`|
 |[Best Way to Make Money right Now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/720307-money.html)|`2025-10-08 16:47:00`|`Grand Theft Auto V`|
 |[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2025-10-08 16:44:00`|`Counter-Strike 2 Releases`|
 |[Arduino FirmWare UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676366-arduino-firmware-ud.html)|`2025-10-08 16:41:00`|`Valorant`|
