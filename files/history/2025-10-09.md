@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SIGS HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720804-sigs-help.html)|`2025-10-09 05:09:00`|`Call of Duty: Black Ops 6`|
+|[dayz kernel base driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/720803-dayz-kernel-base-driver.html)|`2025-10-09 05:04:00`|`Forum General`|
+|[eac logger/debugger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720202-eac-logger-debugger.html)|`2025-10-09 05:03:00`|`Anti-Cheat Bypass`|
 |[Let It Die &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/713564-die-internal.html)|`2025-10-09 04:45:00`|`Other Games`|
 |[For Honor &#45; Sciprt by florasSecret &#45; Autoblock, Parry, Deflects, D b/Unblockables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/414701-honor-sciprt-florassecret-autoblock-parry-deflects-unblockables.html)|`2025-10-09 04:39:00`|`Other MMORPG and Strategy`|
 |[Block Input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/720802-block-input.html)|`2025-10-09 04:50:00`|`Alternative Online Mods`|
