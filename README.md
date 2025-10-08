@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New method Mouse Move UNDETECTED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720686-method-mouse-move-undetected.html)|`2025-10-09 06:39:00`|`Valorant`|
 |[Does magic bullet work externally now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/703104-magic-bullet-externally.html)|`2025-10-09 06:07:00`|`PlanetSide 2`|
 |[A very lazier way of parsing weapon skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720809-lazier-parsing-weapon-skins.html)|`2025-10-09 05:58:00`|`Counter-Strike 2`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-10-09 05:50:00`|`Counter-Strike 2`|
