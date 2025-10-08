@@ -39,6 +39,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[bypassing Roblox Hyperion anti cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720329-bypassing-roblox-hyperion-anti-cheat.html)|`2025-10-08 19:08:00`|`Anti-Cheat Bypass`|
+|[Run sot in VM or similar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/720441-run-sot-vm-similar.html)|`2025-10-08 19:07:00`|`Sea of Thieves`|
+|[native invoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/720286-native-invoker.html)|`2025-10-08 19:00:00`|`Alternative Online Mods`|
+|[I need a dumper tool that dumps the complete &#46;fxap file, if anyone has it please let](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/720721-dumper-tool-dumps-complete-fxap-file-please.html)|`2025-10-08 18:58:00`|`Alternative Online Mods`|
 |[&#33;&#33;Need View Angles Offset / Address BO6 XBOX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720720-view-angles-offset-address-bo6-xbox.html)|`2025-10-08 18:56:00`|`Call of Duty: Black Ops 6`|
 |[Temp Spoofer Signed By Microsoft &#40;WORKING&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717158-temp-spoofer-signed-microsoft.html)|`2025-10-08 18:48:00`|`Anti-Cheat Bypass`|
 |[Oreo Rivals &#91;Internal Cheat With External Overlay And New Hooking &#43; Silent Aim&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/707135-oreo-rivals-internal-cheat-external-overlay-hooking-silent-aim.html)|`2025-10-08 18:43:00`|`Marvel Rivals`|
