@@ -40,6 +40,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Javelin Journey](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718655-javelin-journey.html)|`2025-10-08 22:56:00`|`Anti-Cheat Bypass`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-10-08 22:46:00`|`Grand Theft Auto V`|
+|[Charlie Kirkware R6 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/717390-charlie-kirkware-r6-cheat.html)|`2025-10-08 22:33:00`|`Rainbow Six Siege`|
 |[How do I disable the javascript engine/chromium in gmod?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/720747-disable-javascript-engine-chromium-gmod.html)|`2025-10-08 22:39:00`|`Garry's Mod`|
 |[&#40;Beginning&#41; Theia String Decryptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720470-beginning-theia-string-decryptor.html)|`2025-10-08 22:37:00`|`Anti-Cheat Bypass`|
 |[Updating BO6 Base to BO7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720745-updating-bo6-base-bo7.html)|`2025-10-08 22:28:00`|`Call of Duty: Black Ops 6`|
