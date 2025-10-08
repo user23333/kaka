@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-10-09 03:16:00`|`Alternative Online Mods`|
+|[I need a dumper tool that dumps the complete &#46;fxap file, if anyone has it please let](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/720721-dumper-tool-dumps-complete-fxap-file-please.html)|`2025-10-09 03:15:00`|`Alternative Online Mods`|
+|[AI AIM Assist question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/719841-ai-aim-assist-question.html)|`2025-10-09 03:10:00`|`Rust`|
+|[Discord Quests Faker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/web-and-scripting/720776-discord-quests-faker.html)|`2025-10-09 03:08:00`|`Web and Scripting`|
+|[All my account get banned perm after 3&#45;4 gales, need help for change this](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720648-account-banned-perm-3-4-gales-help-change.html)|`2025-10-09 03:07:00`|`Call of Duty: Black Ops 6`|
+|[From DMA to driver development, where do I start?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720386-dma-driver-development-start.html)|`2025-10-09 03:04:00`|`Anti-Cheat Bypass`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-10-09 03:03:00`|`Escape from Tarkov`|
 |[Problem with No&#45;Recoil Script on Arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/720063-recoil-script-arduino.html)|`2025-10-09 02:55:00`|`Rust`|
 |[TPM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720370-tpm.html)|`2025-10-09 02:53:00`|`Call of Duty: Black Ops 6`|
 |[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2025-10-09 02:35:00`|`HELLDIVERS 2`|
