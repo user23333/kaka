@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike Test Aimbot &#43; Wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718778-bloodstrike-test-aimbot-wallhack.html)|`2025-10-08 15:41:00`|`Other FPS Games`|
 |[Spectator Check &#91;WORKED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/720229-spectator-check.html)|`2025-10-08 15:34:00`|`Apex Legends`|
 |[banned on valo for homophobic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719344-banned-valo-homophobic.html)|`2025-10-08 15:22:00`|`Valorant`|
 |[fix arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720696-fix-arduino.html)|`2025-10-08 15:14:00`|`Valorant`|
