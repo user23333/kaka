@@ -31,9 +31,17 @@
 |2|[valorant src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51476)|`2025-10-08 01:57:36`|
 |9|[Sleepy's External &#45; 2&#46;18&#46;1&#46;1&#46;142533 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51487)|`2025-10-08 02:20:51`|
 |1|[ReadyorNotInternal&#45;1&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51472)|`2025-10-08 02:59:55`|
+|1|[rust&#45;native&#45;obf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51479)|`2025-10-08 10:24:03`|
+|2|[Deadlock DMA 0&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51477)|`2025-10-08 10:24:03`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[No Man's Sky &#91;Internal&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720149-mans-sky-internal.html)|`2025-10-08 10:10:00`|`Other Games`|
+|[DXGI&#95;ERROR&#95;INVALID&#95;CALL after Present hook / ExecuteCommandLists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712426-dxgi_error_invalid_call-hook-executecommandlists.html)|`2025-10-08 10:06:00`|`Battlefield 6`|
+|[New method Mouse Move UNDETECTED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720686-method-mouse-move-undetected.html)|`2025-10-08 10:05:00`|`Valorant`|
+|[MAKCU Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/720124-makcu-question.html)|`2025-10-08 10:05:00`|`Rust`|
+|[rust&#45;native&#45;obf &#45; simple native obfuscator for rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust-language-/720602-rust-native-obf-simple-native-obfuscator-rust.html)|`2025-10-08 10:03:00`|`Rust (Language)`|
+|[A Comprehensive Analysis of Vanguard Anticheat: Part 1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720405-comprehensive-analysis-vanguard-anticheat-1-a.html)|`2025-10-08 10:02:00`|`Anti-Cheat Bypass`|
 |[Active Matter Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716880-active-matter-reversal.html)|`2025-10-08 08:52:00`|`Other FPS Games`|
 |[Can I fix Ron/Merryweather bug through modding?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/720591-fix-ron-merryweather-bug-modding.html)|`2025-10-08 08:51:00`|`Grand Theft Auto V`|
 |[A very lazy way of parsing weapon skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720573-lazy-parsing-weapon-skins.html)|`2025-10-08 08:47:00`|`Counter-Strike 2`|
