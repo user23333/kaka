@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Age of Empires II &#45; Definitive Edition Offsets & SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/720448-age-empires-ii-definitive-edition-offsets-sdk.html)|`2025-10-08 19:27:00`|`Other MMORPG and Strategy`|
+|[SwapChain, ID3D11Device, Render hwnd, and now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720725-swapchain-id3d11device-render-hwnd.html)|`2025-10-08 19:26:00`|`Counter-Strike 2`|
 |[Age of Empires IV &#45; External Scar Script Injector & Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/712742-age-empires-iv-external-scar-script-injector-helper.html)|`2025-10-08 19:17:00`|`Other MMORPG and Strategy`|
 |[Banned? Post info&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719377-banned-post-info.html)|`2025-10-08 19:15:00`|`Counter-Strike 2`|
 |[Buying old steam accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/719580-buying-steam-accounts.html)|`2025-10-08 19:14:00`|`Off Topic`|
