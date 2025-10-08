@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Driver UD BO6 Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720784-driver-ud-bo6-cheats.html)|`2025-10-09 03:37:00`|`Call of Duty: Black Ops 6`|
+|[Any way of detecting if being monitored?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/720786-detecting-monitored.html)|`2025-10-09 03:35:00`|`Alternative Online Mods`|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-10-09 03:33:00`|`HELLDIVERS 2`|
 |[Help for Tf2 Anti Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/720137-help-tf2-anti-aim.html)|`2025-10-09 03:27:00`|`Team Fortress 2`|
 |[CsGo2 Esp Visibility Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720779-csgo2-esp-visibility-check.html)|`2025-10-09 03:24:00`|`Counter-Strike 2`|
 |[Cheat overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/716461-cheat-overwatch.html)|`2025-10-09 03:24:00`|`Overwatch`|
