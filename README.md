@@ -34,9 +34,13 @@
 |1|[ReadyorNotInternal&#45;1&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51472)|`2025-10-08 02:59:55`|
 |1|[rust&#45;native&#45;obf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51479)|`2025-10-08 10:24:03`|
 |2|[Deadlock DMA 0&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51477)|`2025-10-08 10:24:03`|
+|1|[crossfire cheat, pureshka228](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51489)|`2025-10-08 18:34:24`|
+|1|[Nuclear&#95;nightmare&#95;dx12](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51488)|`2025-10-08 18:34:24`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Scuffed Bloodstrike Internal Aimbot & ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/720552-scuffed-bloodstrike-internal-aimbot-esp.html)|`2025-10-08 18:25:00`|`Other FPS Games`|
+|[Contractors Showdown: Exfilzone Duping Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/701380-contractors-showdown-exfilzone-duping-methods.html)|`2025-10-08 18:09:00`|`Other FPS Games`|
 |[Farlight 84 HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/720704-farlight-84-hwid-spoofer.html)|`2025-10-08 18:11:00`|`Farlight 84`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-10-08 18:08:00`|`Counter-Strike 2`|
 |[Galaxy Mod Menu &#91;GTA V&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/719663-galaxy-mod-menu-gta.html)|`2025-10-08 17:32:00`|`Grand Theft Auto V`|
