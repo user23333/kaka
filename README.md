@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[༺ 𝙉𝙊𝙑𝘼 ༻ — ✧ Ultimate Insyde Spoofer ✧](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712892-ultimate-insyde-spoofer.html)|`2025-10-08 14:28:00`|`Valorant`|
+|[Get selected skins from arsenal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/664707-selected-skins-arsenal.html)|`2025-10-08 14:26:00`|`Valorant`|
 |[BO7 &#91;Secure Boot&#93; Bypass ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720189-bo7-secure-boot-bypass.html)|`2025-10-08 13:35:00`|`Call of Duty: Black Ops 6`|
 |[Silent Hill 2 Remake Tool &#45; Internal Cheat With Auto&#45;Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720314-silent-hill-2-remake-tool-internal-cheat-auto-inject.html)|`2025-10-08 13:15:00`|`Other Games`|
 |[Current Map Name&#33;?&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720690-current-map-name.html)|`2025-10-08 12:14:00`|`Counter-Strike 2`|
