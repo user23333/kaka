@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[UEFIBios Loader – The Ultimate System Control Panel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/720875-uefibios-loader-ultimate-system-control-panel.html)|`2025-10-09 23:27:00`|`PC Software`|
+|[Mod Menu Crew v5&#46;3&#46;0  Definitive Edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/716042-mod-menu-crew-v5-3-0-definitive-edition.html)|`2025-10-09 23:13:00`|`Among Us`|
+|[Earning money in GTA V Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/719221-earning-money-gta-enhanced.html)|`2025-10-09 23:02:00`|`Grand Theft Auto V`|
 |[Does EAC do Boot Integrity checks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720520-eac-boot-integrity-checks.html)|`2025-10-09 23:18:00`|`Anti-Cheat Bypass`|
 |[Samples](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/720874-samples.html)|`2025-10-09 23:17:00`|`HELLDIVERS 2`|
 |[Is there any way to find Shadow CR3 in EFI environment without decryption?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/718435-shadow-cr3-efi-environment-decryption.html)|`2025-10-09 22:55:00`|`Valorant`|
