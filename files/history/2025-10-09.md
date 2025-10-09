@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bloodhunt Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/715768-bloodhunt-internal.html)|`2025-10-09 11:13:00`|`Other FPS Games`|
+|[BloodStrike Test Aimbot &#43; Wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718778-bloodstrike-test-aimbot-wallhack.html)|`2025-10-09 11:10:00`|`Other FPS Games`|
+|[&#40;outdated&#41; rust external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/716048-outdated-rust-external.html)|`2025-10-09 10:45:00`|`Rust`|
 |[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2025-10-09 10:27:00`|`Other FPS Games`|
 |[SEOwned x64 fixed for new tf2 update&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/691125-seowned-x64-fixed-tf2-update.html)|`2025-10-09 10:13:00`|`Team Fortress 2`|
 |[Brioso R/A HSW Liveries unavailable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/720420-brioso-hsw-liveries-unavailable.html)|`2025-10-09 10:10:00`|`Grand Theft Auto V`|
