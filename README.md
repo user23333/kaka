@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[a FAQ on how to use SME and or ENSD and stay undetected&#46; It is possible?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/684973-faq-sme-ensd-stay-undetected.html)|`2025-10-09 18:11:00`|`Elite: Dangerous`|
 |[BGMI 4&#46;0 64bit EMULATOR BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/717446-bgmi-4-0-64bit-emulator-bypass.html)|`2025-10-09 17:18:00`|`PUBG Mobile`|
 |[external BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/702640-external-bo6.html)|`2025-10-09 17:16:00`|`Call of Duty: Black Ops 6`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2025-10-09 16:51:00`|`Deadlock`|
