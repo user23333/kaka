@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat Master Game Crashes When Attaching Debugger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/720820-combat-master-game-crashes-attaching-debugger.html)|`2025-10-09 16:38:00`|`Combat Master`|
+|[Any free working genshin cheats for EU and asia ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/711926-free-genshin-cheats-eu-asia.html)|`2025-10-09 16:36:00`|`Genshin Impact`|
+|[Bypass Genshin 6&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/717543-bypass-genshin-6-0-a.html)|`2025-10-09 16:34:00`|`Genshin Impact`|
 |[osu&#33; maple crack for private servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720785-osu-maple-crack-private-servers.html)|`2025-10-09 16:24:00`|`Other Games`|
 |[Manual Map Injection CRT Initialization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/713877-manual-map-injection-crt-initialization.html)|`2025-10-09 15:37:00`|`C and C++`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2025-10-09 15:34:00`|`Grand Theft Auto V`|
