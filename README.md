@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sleepy's External &#45; Outline, Skeleton, and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external-outline-skeleton-aimbot.html)|`2025-10-10 02:38:00`|`Overwatch`|
+|[Fast Typing Robot &#124; Rainbow Six Siege](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/720892-fast-typing-robot-rainbow-six-siege.html)|`2025-10-10 02:35:00`|`Rainbow Six Siege`|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-10-10 02:30:00`|`Counter-Strike 2 Releases`|
 |[New method Mouse Move UNDETECTED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720686-method-mouse-move-undetected.html)|`2025-10-10 02:18:00`|`Valorant`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-10-10 02:17:00`|`Phasmophobia`|
 |[Yolo data collection and dataset creation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720890-yolo-data-collection-dataset-creation.html)|`2025-10-10 02:16:00`|`Counter-Strike 2`|
