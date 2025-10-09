@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[do all ghub scripts get detected now or is this one safe on latest ver of ghub](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/720881-ghub-scripts-detected-safe-ver-ghub.html)|`2025-10-09 23:53:00`|`Rainbow Six Siege`|
+|[Bo6 external Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/708600-bo6-external-source.html)|`2025-10-09 23:51:00`|`Call of Duty: Black Ops 6`|
 |[UEFIBios Loader – The Ultimate System Control Panel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/720875-uefibios-loader-ultimate-system-control-panel.html)|`2025-10-09 23:27:00`|`PC Software`|
 |[Mod Menu Crew v5&#46;3&#46;0  Definitive Edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/716042-mod-menu-crew-v5-3-0-definitive-edition.html)|`2025-10-09 23:13:00`|`Among Us`|
 |[Earning money in GTA V Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/719221-earning-money-gta-enhanced.html)|`2025-10-09 23:02:00`|`Grand Theft Auto V`|
