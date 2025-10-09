@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[gta 5 battleye working menu &#40;no dma&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/714342-gta-5-battleye-menu-dma.html)|`2025-10-09 20:22:00`|`Grand Theft Auto V`|
+|[Offset of Popup bypass and external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720857-offset-popup-bypass-external.html)|`2025-10-09 20:20:00`|`Valorant`|
+|[driver help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/717205-driver-help.html)|`2025-10-09 20:14:00`|`Rust`|
+|[Future of cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720283-future-cheating.html)|`2025-10-09 20:14:00`|`Anti-Cheat Bypass`|
+|[HeartWare &#45; ALT:V / GTA External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/569519-heartware-alt-gta-external.html)|`2025-10-09 20:11:00`|`Alternative Online Mods`|
 |[PE Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/718982-pe-dump.html)|`2025-10-09 19:51:00`|`Overwatch`|
 |[Which is Better](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/720447-which-is-better.html)|`2025-10-09 19:38:00`|`Rust`|
 |[Terminull Brigade](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712094-terminull-brigade.html)|`2025-10-09 19:36:00`|`Other FPS Games`|
