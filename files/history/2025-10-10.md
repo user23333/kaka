@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-10-10 03:22:00`|`Alternative Online Mods`|
+|[Dropped Weapon Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712754-dropped-weapon-esp.html)|`2025-10-10 03:21:00`|`Counter-Strike 2`|
+|[Current Map Name&#33;?&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720690-current-map-name.html)|`2025-10-10 03:20:00`|`Counter-Strike 2`|
+|[Megabonk Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/698526-megabonk-cheat-table.html)|`2025-10-10 03:18:00`|`Cheat Engine Tables`|
 |[SEOwned x64 fixed for new tf2 update&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/691125-seowned-x64-fixed-tf2-update.html)|`2025-10-10 02:49:00`|`Team Fortress 2`|
 |[RogueCompany external esp &#43; aim updated 4fun](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/706912-roguecompany-external-esp-aim-updated-4fun.html)|`2025-10-10 02:47:00`|`Other FPS Games`|
 |[CResourceSystem &#40; Getting CModelImpl, vtex,&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720894-cresourcesystem-getting-cmodelimpl-vtex.html)|`2025-10-10 02:45:00`|`Counter-Strike 2`|
