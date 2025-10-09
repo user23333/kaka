@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Elysium &#45; UEFI Bootkit Framework that attacks boot&#45;time Code Integrity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718917-elysium-uefi-bootkit-framework-attacks-boot-time-code-integrity.html)|`2025-10-09 12:30:00`|`Anti-Cheat Bypass`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-10-09 11:52:00`|`Other FPS Games`|
 |[Bloodhunt Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/715768-bloodhunt-internal.html)|`2025-10-09 11:13:00`|`Other FPS Games`|
 |[BloodStrike Test Aimbot &#43; Wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718778-bloodstrike-test-aimbot-wallhack.html)|`2025-10-09 11:10:00`|`Other FPS Games`|
