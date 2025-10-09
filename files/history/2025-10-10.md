@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New method Mouse Move UNDETECTED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720686-method-mouse-move-undetected.html)|`2025-10-10 02:18:00`|`Valorant`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-10-10 02:17:00`|`Phasmophobia`|
+|[Yolo data collection and dataset creation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720890-yolo-data-collection-dataset-creation.html)|`2025-10-10 02:16:00`|`Counter-Strike 2`|
+|[Full Source Code for Titles Spawner in Rocket League — Created by KingMod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other/719960-source-code-titles-spawner-rocket-league-created-kingmod.html)|`2025-10-10 02:12:00`|`Other`|
+|[Roblox External &#45; &#91;ALWAYS UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717679-roblox-external-updated.html)|`2025-10-10 02:08:00`|`Other FPS Games`|
+|[Gamemodeinfo mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/718405-gamemodeinfo-mod.html)|`2025-10-10 02:07:00`|`Star Wars Battlefront 2`|
+|[Grapples Galore internal hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719775-grapples-galore-internal-hack.html)|`2025-10-10 02:06:00`|`Other FPS Games`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-10-10 01:54:00`|`Phasmophobia`|
 |[CS 1&#46;6 OnGround Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/720681-cs-1-6-onground-offset.html)|`2025-10-10 01:47:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-10-10 01:41:00`|`Rust`|
