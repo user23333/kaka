@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[C&#35; executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/716981-executor.html)|`2025-10-10 05:43:00`|`Alternative Online Mods`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-10-10 05:41:00`|`Other FPS Games`|
+|[Bloodhunt Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/715768-bloodhunt-internal.html)|`2025-10-10 05:19:00`|`Other FPS Games`|
+|[Civilization IV Complete GOG &#45; Increase of AI Civilization Rivals Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/720397-civilization-iv-complete-gog-increase-ai-civilization-rivals-cheat.html)|`2025-10-10 05:17:00`|`Cheat Engine Tables`|
 |[&#91;DMA&#93; COD &#45; ESP &#43; AIM &#40;steam only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700409-dma-cod-esp-aim-steam.html)|`2025-10-10 05:33:00`|`Call of Duty: Black Ops 6`|
 |[Requesting 25h2 ntoskrnl&#46;exe patterns for SMBIOS physical address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720367-requesting-25h2-ntoskrnl-exe-patterns-smbios-physical-address.html)|`2025-10-10 05:14:00`|`Anti-Cheat Bypass`|
 |[Viol&#46;Lua &#124; Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/718704-viol-lua-cheat.html)|`2025-10-10 05:12:00`|`Garry's Mod`|
