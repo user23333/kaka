@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BGMI 4&#46;0 64bit EMULATOR BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/717446-bgmi-4-0-64bit-emulator-bypass.html)|`2025-10-09 17:18:00`|`PUBG Mobile`|
+|[external BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/702640-external-bo6.html)|`2025-10-09 17:16:00`|`Call of Duty: Black Ops 6`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2025-10-09 16:51:00`|`Deadlock`|
 |[Age Of Empire 4 Scar Script Injector with Online &#43; Offline Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/720438-age-empire-4-scar-script-injector-online-offline-features.html)|`2025-10-09 16:47:00`|`Other MMORPG and Strategy`|
 |[Combat Master Game Crashes When Attaching Debugger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/720820-combat-master-game-crashes-attaching-debugger.html)|`2025-10-09 16:38:00`|`Combat Master`|
