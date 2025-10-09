@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unaware of where the serials are coming from&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/719555-unaware-serials-coming.html)|`2025-10-10 06:13:00`|`General Programming and Reversing`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-10-10 06:12:00`|`Grand Theft Auto V`|
 |[Driver UD BO6 Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720784-driver-ud-bo6-cheats.html)|`2025-10-10 06:08:00`|`Call of Duty: Black Ops 6`|
 |[Counter&#45;Strike 2 ESP &#40;Wallhack&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/720600-counter-strike-2-esp-wallhack.html)|`2025-10-10 06:05:00`|`Counter-Strike 2 Releases`|
