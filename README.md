@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to reach centity struct via ida??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720907-reach-centity-struct-via-ida.html)|`2025-10-10 04:27:00`|`Call of Duty: Black Ops 6`|
+|[About R6 ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/720342-r6-ban.html)|`2025-10-10 04:26:00`|`Rainbow Six Siege`|
+|[Just got into DMA cheating and i'm wondering how to make my own R6 DMA cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/708396-dma-cheating-im-wondering-own-r6-dma-cheat.html)|`2025-10-10 04:25:00`|`Rainbow Six Siege`|
 |[Ways of getting into the kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719639-getting-kernel.html)|`2025-10-10 04:02:00`|`Anti-Cheat Bypass`|
 |[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-10-10 03:53:00`|`Other FPS Games`|
 |[Nuclear Nightmare internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718268-nuclear-nightmare-internal.html)|`2025-10-10 03:48:00`|`Other Games`|
