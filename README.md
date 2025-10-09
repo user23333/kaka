@@ -11,6 +11,7 @@
 |22|[A very lazy way of parsing weapon skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720573-lazy-parsing-weapon-skins.html)|`2025-10-10 00:01:33`|`counter-strike-2-a`|
 |10|[DayPay Internal &#91;STEAM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/720131-daypay-internal-steam.html)|`2025-10-10 00:01:33`|`payday-3-a`|
 |8|[Autowall broken](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720127-autowall-broken.html)|`2025-10-10 00:01:33`|`counter-strike-2-a`|
+|9|[New method Mouse Move UNDETECTED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720686-method-mouse-move-undetected.html)|`2025-10-10 02:59:16`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
