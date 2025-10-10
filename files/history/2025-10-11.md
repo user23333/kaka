@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Got game to spin up without Javelin/EAAC&#46;&#46;&#46; however&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721041-game-spin-javelin-eaac.html)|`2025-10-11 02:21:00`|`Battlefield 6`|
+|[Help getting Actor Array &#40;SQUAD&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/720654-help-getting-actor-array-squad.html)|`2025-10-11 02:21:00`|`Other FPS Games`|
+|[RLMarlbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/633336-rlmarlbot.html)|`2025-10-11 02:19:00`|`Other Games`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2025-10-11 02:18:00`|`Grand Theft Auto V`|
+|[Help making player invisible to others](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/720931-help-player-invisible.html)|`2025-10-11 02:16:00`|`Alternative Online Mods`|
+|[Auto Update External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/614771-auto-update-external.html)|`2025-10-11 02:10:00`|`Overwatch`|
+|[Palworld Internal DX11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/710102-palworld-internal-dx11.html)|`2025-10-11 02:10:00`|`Palworld`|
 |[Chivalry 2 Basic &#46;pak &#45; Parera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720632-chivalry-2-basic-pak-parera.html)|`2025-10-11 01:59:00`|`Other Games`|
 |[Rust Internal STATUS&#95;ILLEGAL&#95;INSTRUCTION on method function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721035-rust-internal-status_illegal_instruction-method-function.html)|`2025-10-11 01:57:00`|`Rust`|
 |[Driver UD BO6 Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720784-driver-ud-bo6-cheats.html)|`2025-10-11 01:55:00`|`Call of Duty: Black Ops 6`|
