@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bullet Tracer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721062-bullet-tracer.html)|`2025-10-11 03:19:00`|`Counter-Strike 2`|
 |[2boxxing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720407-2boxxing.html)|`2025-10-11 03:09:00`|`Call of Duty: Black Ops 6`|
 |[Mod Menu Crew v5&#46;3&#46;0  Definitive Edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/716042-mod-menu-crew-v5-3-0-definitive-edition.html)|`2025-10-11 03:09:00`|`Among Us`|
 |[How to obtain StackBase and StackLimit from Kernel Mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/720555-obtain-stackbase-stacklimit-kernel-mode.html)|`2025-10-11 03:09:00`|`Programming for Beginners`|
