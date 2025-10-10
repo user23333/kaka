@@ -12,6 +12,7 @@
 |8|[A very lazy way of parsing weapon skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720573-lazy-parsing-weapon-skins.html)|`2025-10-11 00:14:14`|`counter-strike-2-a`|
 |5|[&#40;Beginning&#41; Theia String Decryptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720470-beginning-theia-string-decryptor.html)|`2025-10-11 00:14:14`|`anti-cheat-bypass`|
 |7|[Counter&#45;Strike 2 ESP &#40;Wallhack&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/720600-counter-strike-2-esp-wallhack.html)|`2025-10-11 02:00:30`|`counter-strike-2-releases`|
+|2|[horrible but working way to get past secureboot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/720428-horrible-past-secureboot.html)|`2025-10-11 04:57:53`|`battlefield-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,9 +29,11 @@
 |1|[material](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51515)|`2025-10-11 04:51:49`|
 |1|[Nuclear&#95;nightmare&#95;injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51514)|`2025-10-11 04:51:49`|
 |2|[SSSC&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51512)|`2025-10-11 04:51:49`|
+|1|[snowbreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51497)|`2025-10-11 04:57:53`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Snowbreak internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/720842-snowbreak-internal.html)|`2025-10-11 04:55:00`|`Other MMORPG and Strategy`|
 |[Fixing collimator black glass&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/721075-fixing-collimator-black-glass.html)|`2025-10-11 04:51:00`|`Escape from Tarkov`|
 |[VAC Live Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716649-vac-live-update.html)|`2025-10-11 04:37:00`|`Counter-Strike 2`|
 |[Nuclear Nightmare internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718268-nuclear-nightmare-internal.html)|`2025-10-11 04:31:00`|`Other Games`|
