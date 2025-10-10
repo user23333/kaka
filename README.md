@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Super Animal Royale offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720959-super-animal-royale-offset.html)|`2025-10-10 11:19:00`|`Other Games`|
+|[memory viewer eac help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720589-memory-viewer-eac-help.html)|`2025-10-10 11:10:00`|`Anti-Cheat Bypass`|
+|[SMBv3 Exploit Win10 1903](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720390-smbv3-exploit-win10-1903-a.html)|`2025-10-10 10:48:00`|`Anti-Cheat Bypass`|
 |[hide process from task manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719778-hide-process-task-manager.html)|`2025-10-10 10:38:00`|`Anti-Cheat Bypass`|
 |[CCitadelAbilityComponent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/720958-ccitadelabilitycomponent.html)|`2025-10-10 10:21:00`|`Deadlock`|
 |[Deadlock DMA &#40;&#43;Source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/720581-deadlock-dma-source.html)|`2025-10-10 10:13:00`|`Deadlock`|
