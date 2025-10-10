@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[2boxxing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720407-2boxxing.html)|`2025-10-11 03:09:00`|`Call of Duty: Black Ops 6`|
+|[Mod Menu Crew v5&#46;3&#46;0  Definitive Edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/716042-mod-menu-crew-v5-3-0-definitive-edition.html)|`2025-10-11 03:09:00`|`Among Us`|
+|[How to obtain StackBase and StackLimit from Kernel Mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/720555-obtain-stackbase-stacklimit-kernel-mode.html)|`2025-10-11 03:09:00`|`Programming for Beginners`|
+|[NoCrewChiefBoost](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/720964-nocrewchiefboost.html)|`2025-10-11 03:04:00`|`Payday 2`|
+|[Super Simple Score Changer &#45; Megabonk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/721017-super-simple-score-changer-megabonk.html)|`2025-10-11 03:02:00`|`Other Games`|
+|[Best Way to Make Money right Now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/720307-money.html)|`2025-10-11 03:02:00`|`Grand Theft Auto V`|
+|[Charlie Kirkware R6 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/717390-charlie-kirkware-r6-cheat.html)|`2025-10-11 03:01:00`|`Rainbow Six Siege`|
 |[Battlefield 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-reversal-structs-offsets.html)|`2025-10-11 02:57:00`|`Battlefield 6`|
 |[EAC Detection: Alternatives to MmCopyMemory and Kernel API Calls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721055-eac-detection-alternatives-mmcopymemory-kernel-api-calls.html)|`2025-10-11 02:49:00`|`Anti-Cheat Bypass`|
 |[External Controller Emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/721054-external-controller-emulation.html)|`2025-10-11 02:46:00`|`Call of Duty: Black Ops 6`|
