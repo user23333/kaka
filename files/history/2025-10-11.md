@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;C&#43;&#43;&#93; Rocket League Ball Predictor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/712227-rocket-league-ball-predictor.html)|`2025-10-11 07:23:00`|`Other Games`|
+|[Spoofer & Kernel hooking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721083-spoofer-kernel-hooking.html)|`2025-10-11 07:07:00`|`Anti-Cheat Bypass`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-10-11 06:57:00`|`Counter-Strike 2`|
 |[GTA5 DUMP TO REVERSE FIVEM/GTA5 NATIVES](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/720924-gta5-dump-reverse-fivem-gta5-natives.html)|`2025-10-11 06:47:00`|`Alternative Online Mods`|
 |[External B06 &#40;ESP &#43; Name &#43; Health &#43; KD, etc&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/713576-external-b06-esp-name-health-kd-etc.html)|`2025-10-11 06:40:00`|`Call of Duty: Black Ops 6`|
