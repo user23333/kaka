@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[smoke BVH raycast](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720968-smoke-bvh-raycast.html)|`2025-10-10 20:24:00`|`Counter-Strike 2`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-10-10 20:24:00`|`Other MMORPG and Strategy`|
+|[ESP problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720997-esp.html)|`2025-10-10 20:16:00`|`Call of Duty: Black Ops 6`|
+|[External ESP is behind from the game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718170-external-esp-game.html)|`2025-10-10 20:16:00`|`Counter-Strike 2`|
+|[Run sot in VM or similar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/720441-run-sot-vm-similar.html)|`2025-10-10 20:11:00`|`Sea of Thieves`|
+|[Detect game loaded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720805-detect-game-loaded.html)|`2025-10-10 20:09:00`|`Counter-Strike 2`|
 |[Rocket League Bots Returning?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720992-rocket-league-bots-returning.html)|`2025-10-10 19:54:00`|`Other Games`|
 |[Dead By Daylight DMA 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714224-dead-daylight-dma-2-0-a.html)|`2025-10-10 19:38:00`|`Other FPS Games`|
 |[Colorbot arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720989-colorbot-arduino.html)|`2025-10-10 19:33:00`|`Valorant`|
