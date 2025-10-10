@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Zombie esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/721047-zombie-esp.html)|`2025-10-11 02:43:00`|`Call of Duty: Black Ops 6`|
+|[Squad UE 5&#46;5 dump and SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/721048-squad-ue-5-5-dump-sdk.html)|`2025-10-11 02:31:00`|`Other FPS Games`|
+|[Active Matter Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716880-active-matter-reversal.html)|`2025-10-11 02:29:00`|`Other FPS Games`|
+|[smoke BVH raycast](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720968-smoke-bvh-raycast.html)|`2025-10-11 02:29:00`|`Counter-Strike 2`|
+|[C&#35; executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/716981-executor.html)|`2025-10-11 02:29:00`|`Alternative Online Mods`|
 |[Got game to spin up without Javelin/EAAC&#46;&#46;&#46; however&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721041-game-spin-javelin-eaac.html)|`2025-10-11 02:21:00`|`Battlefield 6`|
 |[Help getting Actor Array &#40;SQUAD&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/720654-help-getting-actor-array-squad.html)|`2025-10-11 02:21:00`|`Other FPS Games`|
 |[RLMarlbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/633336-rlmarlbot.html)|`2025-10-11 02:19:00`|`Other Games`|
