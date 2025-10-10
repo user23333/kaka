@@ -28,9 +28,12 @@
 |17|[obfuscxx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51481)|`2025-10-10 00:01:33`|
 |136|[CS2 ESP/Wallhack/Xray](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51480)|`2025-10-10 00:01:33`|
 |1|[PhasmoMenu v0&#46;5&#46;7&#46;6 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51508)|`2025-10-10 17:46:50`|
+|1|[5&#46;5&#46;4&#45;59029&#43;&#43;&#43;shoot&#45;city&#43;main&#45;ReaperActual](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51504)|`2025-10-10 17:52:57`|
+|1|[obfuscxx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51502)|`2025-10-10 17:52:57`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[obfuscxx: C&#43;&#43; variables obfuscation library &#40;msvc/clang/gcc &#124; x86&#45;64/arm&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/720612-obfuscxx-variables-obfuscation-library-msvc-clang-gcc-x86-64-arm.html)|`2025-10-10 17:51:00`|`C and C++`|
 |[Extract Players bypassing CR3 security](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/720631-extract-players-bypassing-cr3-security.html)|`2025-10-10 17:29:00`|`Battlefield 2042`|
 |[horrible but working way to get past secureboot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/720428-horrible-past-secureboot.html)|`2025-10-10 17:15:00`|`Battlefield 6`|
 |[Triggerbot with Sonar Mode – Fast, Efficient, and Fully Configurable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719807-triggerbot-sonar-mode-fast-efficient-configurable.html)|`2025-10-10 17:03:00`|`Valorant`|
