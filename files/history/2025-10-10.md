@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[rust dma full source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/718166-rust-dma-source.html)|`2025-10-10 12:26:00`|`Rust`|
 |[TPM Spoof Names](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/720961-tpm-spoof-names.html)|`2025-10-10 12:19:00`|`Call of Duty: Black Ops 7`|
 |[Overwatch External &#45; &#91;UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/717914-overwatch-external-updated.html)|`2025-10-10 11:48:00`|`Overwatch`|
 |[Offset of Popup bypass and external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720857-offset-popup-bypass-external.html)|`2025-10-10 11:33:00`|`Valorant`|
