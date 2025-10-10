@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Quite perfect Auto&#45;Bhop in Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720963-perfect-auto-bhop-python.html)|`2025-10-10 13:07:00`|`Counter-Strike 2`|
+|[Killing Floor 2 External Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/673060-killing-floor-2-external-hack.html)|`2025-10-10 13:00:00`|`Other Games`|
 |[Internal ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/703386-internal-esp-aimbot.html)|`2025-10-10 12:39:00`|`Star Wars Battlefront 2`|
 |[rust dma full source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/718166-rust-dma-source.html)|`2025-10-10 12:26:00`|`Rust`|
 |[TPM Spoof Names](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/720961-tpm-spoof-names.html)|`2025-10-10 12:19:00`|`Call of Duty: Black Ops 7`|
