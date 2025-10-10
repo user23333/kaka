@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple Apex ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/719602-simple-apex-esp.html)|`2025-10-11 04:27:00`|`Apex Legends`|
+|[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2025-10-11 04:26:00`|`Counter-Strike 2 Releases`|
+|[Simple canvas gui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/719131-simple-canvas-gui.html)|`2025-10-11 04:24:00`|`Unreal Engine 4`|
+|[Lazybead &#40;LB&#41; &#45; Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat.html)|`2025-10-11 04:22:00`|`Sea of Thieves`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-10-11 04:20:00`|`Other Games`|
 |[memory viewer eac help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720589-memory-viewer-eac-help.html)|`2025-10-11 04:09:00`|`Anti-Cheat Bypass`|
 |[Blue Protocol: Star Resonance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/712477-blue-protocol-star-resonance.html)|`2025-10-11 03:57:00`|`Other MMORPG and Strategy`|
 |[Cold War GSC Mod Menu &#91;The Lucy Menu&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/717858-cold-war-gsc-mod-menu-lucy-menu.html)|`2025-10-11 03:53:00`|`Call of Duty: Black Ops Cold War`|
