@@ -25,9 +25,13 @@
 |5|[Nuclear&#95;nightmare&#95;dx12](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51488)|`2025-10-11 00:14:14`|
 |344|[Sleepy's External &#45; 2&#46;18&#46;1&#46;1&#46;142533 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51487)|`2025-10-11 00:14:14`|
 |29|[TarkovGUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51486)|`2025-10-11 00:14:14`|
+|1|[material](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51515)|`2025-10-11 04:51:49`|
+|1|[Nuclear&#95;nightmare&#95;injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51514)|`2025-10-11 04:51:49`|
+|2|[SSSC&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51512)|`2025-10-11 04:51:49`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fixing collimator black glass&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/721075-fixing-collimator-black-glass.html)|`2025-10-11 04:51:00`|`Escape from Tarkov`|
 |[VAC Live Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716649-vac-live-update.html)|`2025-10-11 04:37:00`|`Counter-Strike 2`|
 |[Nuclear Nightmare internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718268-nuclear-nightmare-internal.html)|`2025-10-11 04:31:00`|`Other Games`|
 |[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2025-10-11 04:28:00`|`Palia`|
