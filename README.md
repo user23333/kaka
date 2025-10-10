@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Javelin Journey](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718655-javelin-journey.html)|`2025-10-10 23:34:00`|`Anti-Cheat Bypass`|
 |[kmbox custom firmware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/714712-kmbox-custom-firmware.html)|`2025-10-10 23:26:00`|`PC Hardware`|
 |[Enabling side buttons and scroll wheel for Arduino Leonard0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721024-enabling-buttons-scroll-wheel-arduino-leonard0.html)|`2025-10-10 23:14:00`|`Valorant`|
 |[IDA Structs of CSchemaSystem Classes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721019-ida-structs-cschemasystem-classes.html)|`2025-10-10 22:54:00`|`Counter-Strike 2`|
