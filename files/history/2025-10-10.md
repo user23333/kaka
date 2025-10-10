@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch External &#45; &#91;UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/717914-overwatch-external-updated.html)|`2025-10-10 11:48:00`|`Overwatch`|
 |[Offset of Popup bypass and external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720857-offset-popup-bypass-external.html)|`2025-10-10 11:33:00`|`Valorant`|
 |[&#91;PCSX2&#93; SOCOM U&#46;S Navy Seals &#45; Internal Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playstation/719820-pcsx2-socom-navy-seals-internal-menu.html)|`2025-10-10 11:03:00`|`PlayStation`|
 |[Super Animal Royale offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720959-super-animal-royale-offset.html)|`2025-10-10 11:19:00`|`Other Games`|
