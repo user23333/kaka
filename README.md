@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Triggerbot in 2025?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/720216-external-triggerbot-2025-a.html)|`2025-10-11 20:41:00`|`Overwatch`|
+|[QuakeLive Color Aimbot AHK Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/quake-live/67618-quakelive-color-aimbot-ahk-script.html)|`2025-10-11 20:40:00`|`Quake Live`|
 |[Visible inspection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/721126-visible-inspection.html)|`2025-10-11 19:50:00`|`Warface`|
 |[External Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721125-external-silent-aim.html)|`2025-10-11 19:50:00`|`Counter-Strike 2`|
 |[Broken Arrow &#43;13 Trainer&#40;CT table&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673542-broken-arrow-13-trainer-ct-table.html)|`2025-10-11 18:50:00`|`Other MMORPG and Strategy`|
