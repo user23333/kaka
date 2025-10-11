@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Borderlands 4 CVarsDump and Objectdump Addresses And Console Commands Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/721097-borderlands-4-cvarsdump-objectdump-addresses-console-commands-release.html)|`2025-10-12 03:31:00`|`Other Single Player Games`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-10-12 03:31:00`|`Playerunknown's Battlegrounds`|
 |[ez tpm spoof?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721122-ez-tpm-spoof.html)|`2025-10-12 03:25:00`|`Valorant`|
 |[dxgi capture issue? vanguard?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721171-dxgi-capture-issue-vanguard.html)|`2025-10-12 03:20:00`|`Valorant`|
 |[Stack Frame Analyzer on Frida](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/721145-stack-frame-analyzer-frida.html)|`2025-10-12 03:10:00`|`Forum General`|
