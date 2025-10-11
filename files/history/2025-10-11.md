@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Infinite esp source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/721115-arena-breakout-infinite-esp-source.html)|`2025-10-11 18:35:00`|`Other FPS Games`|
+|[Weapon Actor?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/721114-weapon-actor.html)|`2025-10-11 18:31:00`|`Farlight 84`|
 |[external antiaim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684924-external-antiaim.html)|`2025-10-11 18:21:00`|`Counter-Strike 2`|
 |[Preparing YOLO dataset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/714185-preparing-yolo-dataset.html)|`2025-10-11 18:18:00`|`Battlefield 6`|
 |[Future of cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720283-future-cheating.html)|`2025-10-11 18:17:00`|`Anti-Cheat Bypass`|
