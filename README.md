@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking for Keysharp v0&#46;0&#46;0&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/720985-looking-keysharp-v0-0-0-7-a.html)|`2025-10-12 02:10:00`|`Apex Legends`|
+|[Spectator Check &#91;WORKED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/720229-spectator-check.html)|`2025-10-12 02:09:00`|`Apex Legends`|
+|[External Triggerbot in 2025?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/720216-external-triggerbot-2025-a.html)|`2025-10-12 02:07:00`|`Overwatch`|
+|[enemy color](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/720986-enemy-color.html)|`2025-10-12 02:07:00`|`Apex Legends`|
 |[external BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/702640-external-bo6.html)|`2025-10-12 01:53:00`|`Call of Duty: Black Ops 6`|
 |[GTA5 DUMP TO REVERSE FIVEM/GTA5 NATIVES](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/720924-gta5-dump-reverse-fivem-gta5-natives.html)|`2025-10-12 01:43:00`|`Alternative Online Mods`|
 |[For Honor &#45; Sciprt by florasSecret &#45; Autoblock, Parry, Deflects, D b/Unblockables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/414701-honor-sciprt-florassecret-autoblock-parry-deflects-unblockables.html)|`2025-10-12 01:42:00`|`Other MMORPG and Strategy`|
