@@ -33,6 +33,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any way of detecting if being monitored?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/720786-detecting-monitored.html)|`2025-10-11 11:28:00`|`Alternative Online Mods`|
+|[Rocket League Bots Returning?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720992-rocket-league-bots-returning.html)|`2025-10-11 11:22:00`|`Other Games`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-10-11 11:20:00`|`Valorant`|
+|[Deadlock DMA &#40;&#43;Source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/720581-deadlock-dma-source.html)|`2025-10-11 11:17:00`|`Deadlock`|
+|[Super Credits in Resupplies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/709905-super-credits-resupplies.html)|`2025-10-11 11:13:00`|`HELLDIVERS 2`|
+|[Samples](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/720874-samples.html)|`2025-10-11 11:11:00`|`HELLDIVERS 2`|
+|[Valorant External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713513-valorant-external-base.html)|`2025-10-11 11:09:00`|`Valorant`|
 |[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2025-10-11 10:42:00`|`HELLDIVERS 2`|
 |[Sonic Racing Crossworlds Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720310-sonic-racing-crossworlds-unlocker.html)|`2025-10-11 10:41:00`|`Other Games`|
 |[XGPU ACCOUNTS  COD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/718450-xgpu-accounts-cod.html)|`2025-10-11 10:10:00`|`Call of Duty: Black Ops 6`|
