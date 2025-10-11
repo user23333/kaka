@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2025-10-11 10:42:00`|`HELLDIVERS 2`|
+|[Sonic Racing Crossworlds Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720310-sonic-racing-crossworlds-unlocker.html)|`2025-10-11 10:41:00`|`Other Games`|
 |[XGPU ACCOUNTS  COD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/718450-xgpu-accounts-cod.html)|`2025-10-11 10:10:00`|`Call of Duty: Black Ops 6`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-10-11 10:04:00`|`Other FPS Games`|
 |[New method Mouse Move UNDETECTED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720686-method-mouse-move-undetected.html)|`2025-10-11 09:58:00`|`Valorant`|
