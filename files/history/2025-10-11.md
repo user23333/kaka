@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Skeleton ESP Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721106-skeleton-esp-issue.html)|`2025-10-11 15:32:00`|`Counter-Strike 2`|
+|[Discord Overlay Hooking Legacy/New](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/706600-discord-overlay-hooking-legacy.html)|`2025-10-11 15:31:00`|`Forum General`|
 |[Crossfire cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/720698-crossfire-cheat.html)|`2025-10-11 15:24:00`|`CrossFire`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-10-11 15:00:00`|`Playerunknown's Battlegrounds`|
 |[MRPCS::MemHASH Hook&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/720734-mrpcs-memhash-hook.html)|`2025-10-11 14:55:00`|`PUBG Mobile`|
