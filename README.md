@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ez tpm spoof?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721122-ez-tpm-spoof.html)|`2025-10-12 03:25:00`|`Valorant`|
+|[dxgi capture issue? vanguard?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721171-dxgi-capture-issue-vanguard.html)|`2025-10-12 03:20:00`|`Valorant`|
 |[Stack Frame Analyzer on Frida](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/721145-stack-frame-analyzer-frida.html)|`2025-10-12 03:10:00`|`Forum General`|
 |[HoldFast Internal Cheat NaW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718005-holdfast-internal-cheat-naw.html)|`2025-10-12 03:09:00`|`Other FPS Games`|
 |[Megabonk External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720385-megabonk-external-esp.html)|`2025-10-12 03:07:00`|`Other Games`|
