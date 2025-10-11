@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Leveraging TPM2 TCG Logs &#40;Measured Boot&#41; to Detect UEFI Drivers and Boot Applications](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694026-leveraging-tpm2-tcg-logs-measured-boot-detect-uefi-drivers-boot-applications.html)|`2025-10-12 07:13:00`|`Anti-Cheat Bypass`|
+|[Any Dayz 1&#46;28 sources](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/720384-dayz-1-28-sources.html)|`2025-10-12 07:07:00`|`DayZ SA`|
+|[BANNED? Talk about it here&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/277803-banned-talk.html)|`2025-10-12 07:02:00`|`Rainbow Six Siege`|
 |[FXAP FIVE M DECRYPT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/718687-fxap-five-decrypt.html)|`2025-10-12 06:52:00`|`Alternative Online Mods`|
 |[DayPay Internal &#91;STEAM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/720131-daypay-internal-steam.html)|`2025-10-12 06:48:00`|`Payday 3`|
 |[Project Zomboid Cheat &#45; Valkur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/645408-project-zomboid-cheat-valkur.html)|`2025-10-12 06:26:00`|`Other MMORPG and Strategy`|
