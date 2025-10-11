@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External B06 &#40;ESP &#43; Name &#43; Health &#43; KD, etc&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/713576-external-b06-esp-name-health-kd-etc.html)|`2025-10-12 00:34:00`|`Call of Duty: Black Ops 6`|
+|[Cod Hwid Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/721079-cod-hwid-ban.html)|`2025-10-12 00:30:00`|`Call of Duty: Black Ops 6`|
+|[External Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721125-external-silent-aim.html)|`2025-10-12 00:22:00`|`Counter-Strike 2`|
 |[Rocket League Bots Returning?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720992-rocket-league-bots-returning.html)|`2025-10-12 00:18:00`|`Other Games`|
 |[Active Matter Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716880-active-matter-reversal.html)|`2025-10-12 00:16:00`|`Other FPS Games`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-10-12 00:14:00`|`Valorant`|
