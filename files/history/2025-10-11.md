@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[external antiaim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684924-external-antiaim.html)|`2025-10-11 18:21:00`|`Counter-Strike 2`|
+|[Preparing YOLO dataset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/714185-preparing-yolo-dataset.html)|`2025-10-11 18:18:00`|`Battlefield 6`|
+|[Future of cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720283-future-cheating.html)|`2025-10-11 18:17:00`|`Anti-Cheat Bypass`|
 |[Outfit Editor   and  BBOB&#40;browser extension that generates Outfits Code for Bincohax&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/624819-outfit-editor-bbob-browser-extension-generates-outfits-code-bincohax.html)|`2025-10-11 17:41:00`|`Grand Theft Auto V`|
 |[Run sot in VM or similar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/720441-run-sot-vm-similar.html)|`2025-10-11 17:31:00`|`Sea of Thieves`|
 |[BO6/WZ Working External &#91;GamePass ONLY&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/721111-bo6-wz-external-gamepass.html)|`2025-10-11 17:16:00`|`Call of Duty: Black Ops 6`|
