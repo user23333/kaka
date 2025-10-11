@@ -34,6 +34,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[gta 5 battleye working menu &#40;no dma&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/714342-gta-5-battleye-menu-dma.html)|`2025-10-11 14:39:00`|`Grand Theft Auto V`|
+|[Arduino Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/719299-arduino-detection.html)|`2025-10-11 14:39:00`|`Rainbow Six Siege`|
+|[need help making shadow legacy cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/701854-help-shadow-legacy-cheats.html)|`2025-10-11 14:37:00`|`Rainbow Six Siege`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-10-11 14:34:00`|`Grand Theft Auto V`|
+|[Cert Maker For Pasted Internals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721100-cert-maker-pasted-internals.html)|`2025-10-11 14:24:00`|`Valorant`|
+|[Rocket League — Titles Spawner &#40;Full SRC&#41; — by KingMod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/721099-rocket-league-titles-spawner-src-kingmod.html)|`2025-10-11 14:23:00`|`Other Games`|
 |[Borderlands 4 CVarsDump and Objectdump Addresses And Console Commands Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/721097-borderlands-4-cvarsdump-objectdump-addresses-console-commands-release.html)|`2025-10-11 13:54:00`|`Other Single Player Games`|
 |[TPM Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720567-tpm-bans.html)|`2025-10-11 13:30:00`|`Call of Duty: Black Ops 6`|
 |[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-10-11 12:37:00`|`HELLDIVERS 2`|
