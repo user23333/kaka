@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[By&#45;pass BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/720509-pass.html)|`2025-10-11 23:42:00`|`DayZ SA`|
 |[DayZ DMA cheat &#40;Skeleton Esp, Aimbot, Radar&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/720910-dayz-dma-cheat-skeleton-esp-aimbot-radar.html)|`2025-10-11 23:24:00`|`DayZ SA`|
 |[Stack Frame Analyzer on Frida](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/721145-stack-frame-analyzer-frida.html)|`2025-10-11 23:21:00`|`Forum General`|
 |[How to find a static address for a class](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720996-static-address-class.html)|`2025-10-11 23:21:00`|`Counter-Strike 2`|
