@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2025-10-12 21:05:00`|`Deadlock`|
+|[Heavy zeal and Light zeal domination with one yell](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/721251-heavy-zeal-light-zeal-domination-yell.html)|`2025-10-12 21:00:00`|`Payday 2`|
+|[How major anti&#45;cheat detect VMs?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721250-major-anti-cheat-detect-vms.html)|`2025-10-12 20:58:00`|`Anti-Cheat Bypass`|
 |[How to Make Cheats for Apex Legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/719874-cheats-apex-legends.html)|`2025-10-12 20:51:00`|`Apex Legends`|
 |[Valorant Offsets Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721225-valorant-offsets-help.html)|`2025-10-12 20:27:00`|`Valorant`|
 |[Bhop script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/721239-bhop-script.html)|`2025-10-12 19:04:00`|`Garry's Mod`|
