@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cs2 chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720368-cs2-chams.html)|`2025-10-12 23:36:00`|`Counter-Strike 2`|
 |[Pixel Gun 3D Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/719939-pixel-gun-3d-cheat.html)|`2025-10-12 23:26:00`|`Other Games`|
 |[Remove Radio Cooldown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/715473-remove-radio-cooldown.html)|`2025-10-12 23:25:00`|`Combat Arms`|
 |[How to Fix CutieHook&#40;XRC&#41; Source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/721169-fix-cutiehook-xrc-source-code.html)|`2025-10-12 23:23:00`|`Alternative Online Mods`|
