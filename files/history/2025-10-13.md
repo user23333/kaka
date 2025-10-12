@@ -26,9 +26,13 @@
 |1178|[PhasmoMenu v0&#46;5&#46;7&#46;6 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51508)|`2025-10-13 00:17:33`|
 |1|[Warframe&#45;Internal&#45;v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51549)|`2025-10-13 06:50:59`|
 |1|[DayPayDX12](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51541)|`2025-10-13 06:50:59`|
+|1|[Internal farlight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51539)|`2025-10-13 06:56:52`|
+|1|[external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51535)|`2025-10-13 06:56:52`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[farlight 84 Internal &#91;Feature Stacked&#33; &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/721193-farlight-84-internal-feature-stacked.html)|`2025-10-13 06:55:00`|`Farlight 84`|
+|[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721028-cs2-external-cheat.html)|`2025-10-13 06:55:00`|`Counter-Strike 2`|
 |[DayPay Internal &#91;STEAM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/720131-daypay-internal-steam.html)|`2025-10-13 06:46:00`|`Payday 3`|
 |[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2025-10-13 06:32:00`|`Other FPS Games`|
 |[Bloody Mouse Macros](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721185-bloody-mouse-macros.html)|`2025-10-13 06:28:00`|`Rust`|
