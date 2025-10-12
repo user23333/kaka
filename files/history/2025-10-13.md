@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Network problem and low client fps&#46; What debuff am I getting?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721224-network-low-client-fps-debuff-am-getting.html)|`2025-10-13 03:51:00`|`Valorant`|
+|[Valorant Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719169-valorant-spoofing.html)|`2025-10-13 03:49:00`|`Valorant`|
+|[SurronDead Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/709957-surrondead-reversal-structs-offsets.html)|`2025-10-13 03:48:00`|`Other FPS Games`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-10-13 03:40:00`|`Phasmophobia`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-10-13 03:39:00`|`Counter-Strike 2 Releases`|
 |[Unlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720971-unlock.html)|`2025-10-13 03:35:00`|`Valorant`|
