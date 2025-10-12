@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AbyssTF public rls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/706779-abysstf-public-rls.html)|`2025-10-13 00:54:00`|`Team Fortress 2`|
 |[&#91;C&#43;&#43;&#93; Rocket League Ball Predictor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/712227-rocket-league-ball-predictor.html)|`2025-10-13 00:48:00`|`Other Games`|
 |[EAC Detection: Alternatives to MmCopyMemory and Kernel API Calls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721055-eac-detection-alternatives-mmcopymemory-kernel-api-calls.html)|`2025-10-13 00:46:00`|`Anti-Cheat Bypass`|
 |[bypassing Roblox Hyperion anti cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720329-bypassing-roblox-hyperion-anti-cheat.html)|`2025-10-13 00:44:00`|`Anti-Cheat Bypass`|
