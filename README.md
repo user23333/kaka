@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Age Of Empire 4 Scar Script Injector with Online &#43; Offline Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/720438-age-empire-4-scar-script-injector-online-offline-features.html)|`2025-10-12 16:30:00`|`Age of Empires`|
+|[Network problem and low client fps&#46; What debuff am I getting?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721224-network-low-client-fps-debuff-am-getting.html)|`2025-10-12 16:27:00`|`Valorant`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-10-12 15:56:00`|`Grand Theft Auto V`|
 |[stealth driver read memory using spy page](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717569-stealth-driver-read-memory-using-spy-page.html)|`2025-10-12 15:43:00`|`Anti-Cheat Bypass`|
 |[season 17 renown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/721220-season-17-renown.html)|`2025-10-12 15:09:00`|`Sea of Thieves`|
