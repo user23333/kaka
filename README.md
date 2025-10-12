@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-10-13 03:39:00`|`Counter-Strike 2 Releases`|
+|[Unlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720971-unlock.html)|`2025-10-13 03:35:00`|`Valorant`|
 |[Triggerbot with Sonar Mode – Fast, Efficient, and Fully Configurable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719807-triggerbot-sonar-mode-fast-efficient-configurable.html)|`2025-10-13 03:31:00`|`Valorant`|
 |[External Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721125-external-silent-aim.html)|`2025-10-13 03:26:00`|`Counter-Strike 2`|
 |[external antiaim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684924-external-antiaim.html)|`2025-10-13 03:20:00`|`Counter-Strike 2`|
