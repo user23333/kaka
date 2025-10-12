@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-10-12 15:56:00`|`Grand Theft Auto V`|
 |[stealth driver read memory using spy page](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717569-stealth-driver-read-memory-using-spy-page.html)|`2025-10-12 15:43:00`|`Anti-Cheat Bypass`|
 |[season 17 renown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/721220-season-17-renown.html)|`2025-10-12 15:09:00`|`Sea of Thieves`|
 |[Run sot in VM or similar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/720441-run-sot-vm-similar.html)|`2025-10-12 15:06:00`|`Sea of Thieves`|
