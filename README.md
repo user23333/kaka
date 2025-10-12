@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Mobile 4&#46;1 New important  offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/721219-pubg-mobile-4-1-offsets.html)|`2025-10-13 02:34:00`|`PUBG Mobile`|
+|[BO6/WZ Working External &#91;GamePass ONLY&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/721111-bo6-wz-external-gamepass.html)|`2025-10-13 02:18:00`|`Call of Duty: Black Ops 6`|
 |[How to Make Cheats for Apex Legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/719874-cheats-apex-legends.html)|`2025-10-13 02:12:00`|`Apex Legends`|
 |[MARVEL RIVALS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/721283-marvel-rivals.html)|`2025-10-13 02:00:00`|`Marvel Rivals`|
 |[any active mod menus to make money&#45;level up ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/721129-active-mod-menus-money-level.html)|`2025-10-13 02:00:00`|`Alternative Online Mods`|
