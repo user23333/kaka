@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;DMA&#41; Black Ops 6: Fuser ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/670830-dma-black-ops-6-fuser-esp.html)|`2025-10-12 18:09:00`|`Call of Duty: Black Ops 6`|
+|[a FAQ on how to use SME and or ENSD and stay undetected&#46; It is possible?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/684973-faq-sme-ensd-stay-undetected.html)|`2025-10-12 18:03:00`|`Elite: Dangerous`|
 |[Arena Breakout Infinite &#45; Poor Man's Radar &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/721231-arena-breakout-infinite-poor-mans-radar-dma.html)|`2025-10-12 17:47:00`|`Other FPS Games`|
 |[Question about Jack'o'Lantern rewards](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/721230-question-jackolantern-rewards.html)|`2025-10-12 17:33:00`|`Grand Theft Auto V`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-10-12 17:30:00`|`League of Legends`|
