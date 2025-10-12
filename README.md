@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Internal STATUS&#95;ILLEGAL&#95;INSTRUCTION on method function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721035-rust-internal-status_illegal_instruction-method-function.html)|`2025-10-13 07:07:00`|`Rust`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-10-13 07:01:00`|`Other FPS Games`|
+|[Free Inventory Changer &](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/721217-free-inventory-changer.html)|`2025-10-13 06:59:00`|`Counter-Strike 2 Releases`|
 |[farlight 84 Internal &#91;Feature Stacked&#33; &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/721193-farlight-84-internal-feature-stacked.html)|`2025-10-13 06:55:00`|`Farlight 84`|
 |[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721028-cs2-external-cheat.html)|`2025-10-13 06:55:00`|`Counter-Strike 2`|
 |[DayPay Internal &#91;STEAM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/720131-daypay-internal-steam.html)|`2025-10-13 06:46:00`|`Payday 3`|
