@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2025-10-13 06:32:00`|`Other FPS Games`|
 |[Bloody Mouse Macros](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721185-bloody-mouse-macros.html)|`2025-10-13 06:28:00`|`Rust`|
 |[Chivalry 2 Basic &#46;pak &#45; Parera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720632-chivalry-2-basic-pak-parera.html)|`2025-10-13 06:26:00`|`Other Games`|
 |[&#91;Dune Awakening&#93; Anyworking glitch or exploit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717135-dune-awakening-anyworking-glitch-exploit.html)|`2025-10-13 06:23:00`|`Other FPS Games`|
