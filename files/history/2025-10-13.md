@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-10-13 01:22:00`|`Other FPS Games`|
+|[4&#46;1 offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/721278-4-1-offsets.html)|`2025-10-13 01:20:00`|`PUBG Mobile`|
+|[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2025-10-13 01:15:00`|`Other MMORPG and Strategy`|
+|[New Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/716321-offsets.html)|`2025-10-13 01:15:00`|`PlanetSide 2`|
+|[Farlight cheat internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/717566-farlight-cheat-internal.html)|`2025-10-13 01:14:00`|`Farlight 84`|
+|[Rust Internal with dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721202-rust-internal-dumper.html)|`2025-10-13 01:13:00`|`Rust`|
+|[Borderlands 4 Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/717789-borderlands-4-reversal-structs-offsets.html)|`2025-10-13 01:11:00`|`Other Single Player Games`|
+|[Borderlands 4 Gold Keys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/721276-borderlands-4-gold-keys.html)|`2025-10-13 01:08:00`|`Other Single Player Games`|
 |[New Updated Fully Working Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708891-updated-triggerbot.html)|`2025-10-13 00:48:00`|`Valorant`|
 |[AbyssTF public rls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/706779-abysstf-public-rls.html)|`2025-10-13 00:54:00`|`Team Fortress 2`|
 |[&#91;C&#43;&#43;&#93; Rocket League Ball Predictor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/712227-rocket-league-ball-predictor.html)|`2025-10-13 00:48:00`|`Other Games`|
