@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[season 17 renown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/721220-season-17-renown.html)|`2025-10-12 15:09:00`|`Sea of Thieves`|
+|[Run sot in VM or similar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/720441-run-sot-vm-similar.html)|`2025-10-12 15:06:00`|`Sea of Thieves`|
+|[PUBG Mobile 4&#46;1 New important  offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/721219-pubg-mobile-4-1-offsets.html)|`2025-10-12 15:01:00`|`PUBG Mobile`|
 |[Free Inventory Changer &](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/721217-free-inventory-changer.html)|`2025-10-12 14:22:00`|`Counter-Strike 2 Releases`|
 |[How to find a static address for a class](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/720996-static-address-class.html)|`2025-10-12 14:14:00`|`Counter-Strike 2`|
 |[Valorant Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/719169-valorant-spoofing.html)|`2025-10-12 13:46:00`|`Valorant`|
