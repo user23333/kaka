@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to Make Cheats for Apex Legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/719874-cheats-apex-legends.html)|`2025-10-13 02:12:00`|`Apex Legends`|
+|[MARVEL RIVALS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/721283-marvel-rivals.html)|`2025-10-13 02:00:00`|`Marvel Rivals`|
+|[any active mod menus to make money&#45;level up ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/721129-active-mod-menus-money-level.html)|`2025-10-13 02:00:00`|`Alternative Online Mods`|
 |[Heavy zeal and Light zeal domination with one yell](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/721251-heavy-zeal-light-zeal-domination-yell.html)|`2025-10-13 01:48:00`|`Payday 2`|
 |[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2025-10-13 01:47:00`|`Elite: Dangerous`|
 |[Active Matter Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716880-active-matter-reversal.html)|`2025-10-13 01:44:00`|`Other FPS Games`|
