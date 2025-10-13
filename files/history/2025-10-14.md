@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[farlight 84 Internal &#91;Feature Stacked&#33; &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/721193-farlight-84-internal-feature-stacked.html)|`2025-10-14 02:43:00`|`Farlight 84`|
+|[PHYSX &#45; Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709796-physx-rust.html)|`2025-10-14 02:42:00`|`Rust`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-10-14 02:36:00`|`Counter-Strike 2`|
 |[Mouse Proxy &#40;Teensy 4&#46;1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/439183-mouse-proxy-teensy-4-1-a.html)|`2025-10-14 02:35:00`|`Anti-Cheat Bypass`|
 |[Sigs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721301-sigs.html)|`2025-10-14 02:34:00`|`Counter-Strike 2`|
