@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GMOD Desync exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/716996-gmod-desync-exploit.html)|`2025-10-13 11:25:00`|`Garry's Mod`|
+|[Octree&#45;based multipoint vischeck](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/716736-octree-based-multipoint-vischeck.html)|`2025-10-13 11:24:00`|`Garry's Mod`|
+|[Help making player invisible to others](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/720931-help-player-invisible.html)|`2025-10-13 11:17:00`|`Alternative Online Mods`|
 |[ntoskrnl driver from a scammer :D](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721319-ntoskrnl-driver-scammer.html)|`2025-10-13 10:22:00`|`Anti-Cheat Bypass`|
 |[Dead by Daylight cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/721321-dead-daylight-cheat.html)|`2025-10-13 10:03:00`|`Other FPS Games`|
 |[Any good Rap/boom bap/drill playlist?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/music-and-videos/720232-rap-boom-bap-drill-playlist.html)|`2025-10-13 10:01:00`|`Music and Videos`|
