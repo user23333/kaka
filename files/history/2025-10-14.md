@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[pubgm tutorial for esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/721385-pubgm-tutorial-esp.html)|`2025-10-14 06:34:00`|`PUBG Mobile`|
 |[Rocket League Bots Returning?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720992-rocket-league-bots-returning.html)|`2025-10-14 06:22:00`|`Other Games`|
 |[&#91;LINUX&#93; Simple internal ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/721397-linux-simple-internal-esp-aimbot.html)|`2025-10-14 05:55:00`|`Counter-Strike 2 Releases`|
 |[How to change ur FTPM without a driver &#40;AMD, Gigabyte only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720900-change-ur-ftpm-driver-amd-gigabyte.html)|`2025-10-14 05:48:00`|`Valorant`|
