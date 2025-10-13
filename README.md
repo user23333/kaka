@@ -32,6 +32,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ntoskrnl driver from a scammer :D](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721319-ntoskrnl-driver-scammer.html)|`2025-10-13 10:22:00`|`Anti-Cheat Bypass`|
+|[Dead by Daylight cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/721321-dead-daylight-cheat.html)|`2025-10-13 10:03:00`|`Other FPS Games`|
+|[Any good Rap/boom bap/drill playlist?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/music-and-videos/720232-rap-boom-bap-drill-playlist.html)|`2025-10-13 10:01:00`|`Music and Videos`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-10-13 09:44:00`|`Apex Legends`|
+|[rust dma full source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/718166-rust-dma-source.html)|`2025-10-13 09:44:00`|`Rust`|
+|[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2025-10-13 09:36:00`|`Other FPS Games`|
+|[Developing a basic THE FINALS external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/721203-developing-basic-finals-external.html)|`2025-10-13 09:25:00`|`THE FINALS`|
 |[Heroes of Valor &#45; XP Multiplier Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707057-heroes-valor-xp-multiplier-hack.html)|`2025-10-13 08:42:00`|`Other FPS Games`|
 |[Javelin Journey](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718655-javelin-journey.html)|`2025-10-13 08:40:00`|`Anti-Cheat Bypass`|
 |[Deadlock DMA &#40;&#43;Source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/720581-deadlock-dma-source.html)|`2025-10-13 08:06:00`|`Deadlock`|
