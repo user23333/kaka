@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-10-15 03:49:00`|`Farlight 84`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-10-15 03:48:00`|`Rust`|
+|[Sudden Attack Zero Point Demo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sudden-attack/721502-sudden-attack-zero-demo.html)|`2025-10-15 03:47:00`|`Sudden Attack`|
+|[Native Research](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/721392-native-research.html)|`2025-10-15 03:45:00`|`Alternative Online Mods`|
 |[Blue Protocol: Star Resonance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/712477-blue-protocol-star-resonance.html)|`2025-10-15 03:40:00`|`Other MMORPG and Strategy`|
 |[Bomb Not Reading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721491-bomb-reading.html)|`2025-10-15 03:09:00`|`Counter-Strike 2`|
 |[Super Simple Score Changer &#45; Megabonk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/721017-super-simple-score-changer-megabonk.html)|`2025-10-15 03:05:00`|`Other Games`|
