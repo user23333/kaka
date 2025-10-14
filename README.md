@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[game of thrones kingsroad hack & offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701827-game-thrones-kingsroad-hack-offsets.html)|`2025-10-15 05:14:00`|`Other MMORPG and Strategy`|
+|[Apex external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721376-apex-external-base.html)|`2025-10-15 05:13:00`|`Apex Legends`|
+|[&#91;C&#43;&#43;&#93; Rocket League Ball Predictor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/712227-rocket-league-ball-predictor.html)|`2025-10-15 05:06:00`|`Other Games`|
+|[Definitive Ultimate Cheatpack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/633084-definitive-ultimate-cheatpack.html)|`2025-10-15 05:04:00`|`Star Wars Battlefront 2`|
 |[PC Check Bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/721524-pc-check-bypass.html)|`2025-10-15 04:59:00`|`Alternative Online Mods`|
 |[Player Chams through ListComponent &#40; No Encryption &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721330-player-chams-listcomponent-encryption.html)|`2025-10-15 04:45:00`|`Rust`|
 |[Oreo Rivals &#91;Internal Cheat With External Overlay And New Hooking &#43; Silent Aim&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/707135-oreo-rivals-internal-cheat-external-overlay-hooking-silent-aim.html)|`2025-10-15 04:38:00`|`Marvel Rivals`|
