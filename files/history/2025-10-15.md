@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New VAC module&#40;s&#41; manual mapped in cs2&#46;exe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721533-vac-module-manual-mapped-cs2-exe.html)|`2025-10-15 07:32:00`|`Counter-Strike 2`|
 |[signed r/w ioctl for valo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721180-signed-ioctl-valo.html)|`2025-10-15 07:18:00`|`Anti-Cheat Bypass`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-10-15 07:12:00`|`Counter-Strike 2`|
 |[making an esp &#40;or esp like&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/718254-esp-esp.html)|`2025-10-15 07:12:00`|`Programming for Beginners`|
