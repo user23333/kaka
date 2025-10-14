@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Driver for your External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721422-driver-external.html)|`2025-10-14 11:18:00`|`Counter-Strike 2`|
+|[How to debug a driver that causes a BSOD when loaded with kdmapper?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721421-debug-driver-causes-bsod-loaded-kdmapper.html)|`2025-10-14 11:18:00`|`Anti-Cheat Bypass`|
+|[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-10-14 11:12:00`|`Other FPS Games`|
+|[dma or esp and script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/720133-dma-esp-script.html)|`2025-10-14 10:57:00`|`Rainbow Six Siege`|
 |[Earning money in GTA V Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/719221-earning-money-gta-enhanced.html)|`2025-10-14 10:20:00`|`Grand Theft Auto V`|
 |[&#42;Newest&#42; List of Cracked/Pirated Dayz Servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/721417-list-cracked-pirated-dayz-servers.html)|`2025-10-14 10:11:00`|`DayZ SA`|
 |[Nuclear Nightmare internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718268-nuclear-nightmare-internal.html)|`2025-10-14 10:01:00`|`Other Games`|
