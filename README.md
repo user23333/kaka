@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[kdmapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721466-kdmapper.html)|`2025-10-14 21:36:00`|`Anti-Cheat Bypass`|
+|[BO6/WZ Working External &#91;GamePass ONLY&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/721111-bo6-wz-external-gamepass.html)|`2025-10-14 21:20:00`|`Call of Duty: Black Ops 6`|
 |[SCARFALL 2&#46;0 CHEATS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/721463-scarfall-2-0-cheats.html)|`2025-10-14 21:08:00`|`PUBG Mobile`|
 |[dayz TESTSIGNING on](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/721462-dayz-testsigning.html)|`2025-10-14 21:07:00`|`DayZ SA`|
 |[Borderlands 4 CVarsDump and Objectdump Addresses And Console Commands Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/721097-borderlands-4-cvarsdump-objectdump-addresses-console-commands-release.html)|`2025-10-14 20:41:00`|`Other Single Player Games`|
