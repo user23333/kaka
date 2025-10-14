@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Blue Protocol: Star Resonance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/712477-blue-protocol-star-resonance.html)|`2025-10-15 03:40:00`|`Other MMORPG and Strategy`|
 |[Bomb Not Reading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721491-bomb-reading.html)|`2025-10-15 03:09:00`|`Counter-Strike 2`|
 |[Super Simple Score Changer &#45; Megabonk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/721017-super-simple-score-changer-megabonk.html)|`2025-10-15 03:05:00`|`Other Games`|
 |[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-10-15 03:04:00`|`Other FPS Games`|
