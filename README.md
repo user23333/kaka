@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Why has no one live kv3 / vpk parsed map images](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721530-live-kv3-vpk-parsed-map-images.html)|`2025-10-15 06:40:00`|`Counter-Strike 2`|
+|[Beta Update Crash Problem &#45; CS2 1&#46;41&#46;1&#46;3&#45;rc1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721475-beta-update-crash-cs2-1-41-1-3-rc1.html)|`2025-10-15 06:38:00`|`Counter-Strike 2`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-10-15 06:19:00`|`ARMA 3`|
 |[BO6 Vip Internal &#40;ETH Rebrand&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720032-bo6-vip-internal-eth-rebrand.html)|`2025-10-15 06:11:00`|`Call of Duty: Black Ops 6`|
 |[streaming files dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/711617-streaming-files-dumper.html)|`2025-10-15 06:08:00`|`Alternative Online Mods`|
