@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Age Of Empire 4 Scar Script Injector with Online &#43; Offline Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/720438-age-empire-4-scar-script-injector-online-offline-features.html)|`2025-10-14 16:45:00`|`Age of Empires`|
+|[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2025-10-14 16:36:00`|`Elite: Dangerous`|
 |[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-10-14 16:10:00`|`Grand Theft Auto V`|
 |[BF6 DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721168-bf6-dma.html)|`2025-10-14 16:03:00`|`Battlefield 6`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-10-14 15:29:00`|`Other FPS Games`|
