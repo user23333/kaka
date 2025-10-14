@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[horrible but working way to get past secureboot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/720428-horrible-past-secureboot.html)|`2025-10-14 17:30:00`|`Battlefield 6`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-10-14 17:20:00`|`Other FPS Games`|
+|[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2025-10-14 17:15:00`|`Elite: Dangerous`|
 |[Age Of Empire 4 Scar Script Injector with Online &#43; Offline Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/720438-age-empire-4-scar-script-injector-online-offline-features.html)|`2025-10-14 16:45:00`|`Age of Empires`|
 |[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2025-10-14 16:36:00`|`Elite: Dangerous`|
 |[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-10-14 16:10:00`|`Grand Theft Auto V`|
