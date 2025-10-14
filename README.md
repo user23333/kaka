@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-10-15 01:24:00`|`Valorant`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-10-15 01:22:00`|`Call of Duty: Black Ops 6`|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2025-10-15 01:21:00`|`Battlefield 6`|
+|[BO6/WZ Working External &#91;GamePass ONLY&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/721111-bo6-wz-external-gamepass.html)|`2025-10-15 01:19:00`|`Call of Duty: Black Ops 6`|
+|[working triggerbot with holdkey?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721173-triggerbot-holdkey.html)|`2025-10-15 01:12:00`|`Valorant`|
 |[Rocket League &#45; Dumper &#40;x64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/402519-rocket-league-dumper-x64.html)|`2025-10-15 01:06:00`|`Other FPS Games`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-10-15 01:01:00`|`Other MMORPG and Strategy`|
 |[Dune Awakening Repair Exploit After Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707561-dune-awakening-repair-exploit-patch.html)|`2025-10-15 00:51:00`|`Other FPS Games`|
