@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2025-10-14 15:24:00`|`Other FPS Games`|
+|[Active Matter Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716880-active-matter-reversal.html)|`2025-10-14 15:19:00`|`Other FPS Games`|
 |[Arduino or rp2040 to realize keyboard and mouse and apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/715901-arduino-rp2040-realize-keyboard-mouse-apex-macro.html)|`2025-10-14 15:07:00`|`Apex Legends`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-10-14 13:54:00`|`Apex Legends`|
 |[Dayz Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/721090-dayz-internal.html)|`2025-10-14 13:00:00`|`DayZ SA`|
