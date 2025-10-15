@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[dayz TESTSIGNING on](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/721462-dayz-testsigning.html)|`2025-10-15 09:06:00`|`DayZ SA`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-10-15 09:05:00`|`DayZ SA`|
+|[DeadByDaylight external &#91;Steam&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715450-deadbydaylight-external-steam.html)|`2025-10-15 08:56:00`|`Other Games`|
+|[CounterStrike Source Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/157661-counterstrike-source-reversal-structs-offsets.html)|`2025-10-15 08:53:00`|`CounterStrike Source`|
+|[How to fix floating text in WH?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/721372-fix-floating-text-wh.html)|`2025-10-15 08:51:00`|`DayZ SA`|
 |[PAxLM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/715607-paxlm.html)|`2025-10-15 07:46:00`|`Lethal Company`|
 |[cfemen & gir489's Ready or Not hook v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632144-cfemen-gir489s-ready-hook-v1-0-a.html)|`2025-10-15 07:41:00`|`Other FPS Games`|
 |[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-10-15 07:36:00`|`Grand Theft Auto V`|
