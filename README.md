@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Windows Object Manager Manipulation via DKOM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721432-windows-object-manager-manipulation-via-dkom.html)|`2025-10-16 07:43:00`|`Anti-Cheat Bypass`|
+|[skins wont apply on default weapon&#40;works whit others&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721700-skins-wont-apply-default-weapon-whit.html)|`2025-10-16 07:41:00`|`Counter-Strike 2`|
+|[kdmapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721466-kdmapper.html)|`2025-10-16 07:41:00`|`Anti-Cheat Bypass`|
 |[Example Pascal CS2 DllMain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721697-example-pascal-cs2-dllmain.html)|`2025-10-16 07:36:00`|`Counter-Strike 2`|
 |[Beta Update Crash Problem &#45; CS2 1&#46;41&#46;1&#46;3&#45;rc1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721475-beta-update-crash-cs2-1-41-1-3-rc1.html)|`2025-10-16 07:32:00`|`Counter-Strike 2`|
 |[Cs2 No Spread External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721297-cs2-spread-external.html)|`2025-10-16 07:30:00`|`Counter-Strike 2`|
