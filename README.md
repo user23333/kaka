@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[only 1 Hid device can send input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721444-1-hid-device-send-input.html)|`2025-10-16 02:37:00`|`Apex Legends`|
+|[Arduino move can't work with physic mouse together any more?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721470-arduino-move-cant-physic-mouse.html)|`2025-10-16 02:33:00`|`Apex Legends`|
+|[Sudden Attack Zero Point Demo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sudden-attack/721502-sudden-attack-zero-demo.html)|`2025-10-16 02:32:00`|`Sudden Attack`|
+|[Inventory: Knives and Gloves problem after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711778-inventory-knives-gloves-update.html)|`2025-10-16 02:29:00`|`Counter-Strike 2`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-10-16 02:27:00`|`Grand Theft Auto V`|
+|[TREVOR V2 &#124; Simple & Secure GUI &#46;DLL Injector for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708373-trevor-v2-simple-secure-gui-dll-injector-cs2.html)|`2025-10-16 02:21:00`|`Counter-Strike 2`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-10-16 02:14:00`|`Phasmophobia`|
 |[How to change ur FTPM without a driver &#40;AMD, Gigabyte only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720900-change-ur-ftpm-driver-amd-gigabyte.html)|`2025-10-16 02:11:00`|`Valorant`|
 |[Path of Exile 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676435-path-exile-2-reversal-structs-offsets.html)|`2025-10-16 02:09:00`|`Other MMORPG and Strategy`|
