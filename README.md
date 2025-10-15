@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/611723-internal-cheese.html)|`2025-10-16 03:40:00`|`Payday 3`|
+|[GMOD build 2024&#46;12&#46;09 offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/690390-gmod-build-2024-12-09-offsets.html)|`2025-10-16 03:39:00`|`Garry's Mod`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-10-16 03:33:00`|`Rust`|
 |[farlight 84 Internal &#91;Feature Stacked&#33; &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/721193-farlight-84-internal-feature-stacked.html)|`2025-10-16 03:28:00`|`Farlight 84`|
 |[Single ESP32&#45;S3 Rust Recoil Script &#45;FULL TUTORIAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721658-single-esp32-s3-rust-recoil-script-tutorial.html)|`2025-10-16 03:23:00`|`Rust`|
