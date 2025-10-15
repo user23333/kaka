@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2025-10-15 14:28:00`|`Counter-Strike 2 Releases`|
+|[Need help please 1&#41;get entity class name/id/type from actor/obj ptr 2&#41; velocity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/721567-help-please-1-entity-class-name-id-type-actor-obj-ptr-2-velocity.html)|`2025-10-15 14:19:00`|`PUBG Mobile`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-10-15 14:11:00`|`Grand Theft Auto V`|
+|[Casino Pacino in GTAV Legacy & Enhanced 1&#46;71](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/721522-casino-pacino-gtav-legacy-enhanced-1-71-a.html)|`2025-10-15 14:05:00`|`Grand Theft Auto V`|
 |[Could someone check this file for a virus?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/721564-check-file-virus.html)|`2025-10-15 13:58:00`|`Forum General`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2025-10-15 13:46:00`|`Grand Theft Auto V`|
 |['83Fentry &#45; '83 The Game Internal Multitool for Beta](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/721561-83fentry-83-game-internal-multitool-beta.html)|`2025-10-15 13:39:00`|`Other FPS Games`|
