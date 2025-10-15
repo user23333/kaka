@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[We need your expertise&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721358-expertise.html)|`2025-10-16 07:51:00`|`Anti-Cheat Bypass`|
+|[How to debug a driver that causes a BSOD when loaded with kdmapper?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721421-debug-driver-causes-bsod-loaded-kdmapper.html)|`2025-10-16 07:49:00`|`Anti-Cheat Bypass`|
 |[Windows Object Manager Manipulation via DKOM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721432-windows-object-manager-manipulation-via-dkom.html)|`2025-10-16 07:43:00`|`Anti-Cheat Bypass`|
 |[skins wont apply on default weapon&#40;works whit others&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721700-skins-wont-apply-default-weapon-whit.html)|`2025-10-16 07:41:00`|`Counter-Strike 2`|
 |[kdmapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721466-kdmapper.html)|`2025-10-16 07:41:00`|`Anti-Cheat Bypass`|
