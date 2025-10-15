@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|['83Fentry &#45; '83 The Game Internal Multitool for Beta](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/721561-83fentry-83-game-internal-multitool-beta.html)|`2025-10-15 13:39:00`|`Other FPS Games`|
 |[Scuffed Bloodstrike Internal Aimbot & ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/720552-scuffed-bloodstrike-internal-aimbot-esp.html)|`2025-10-15 13:31:00`|`Other FPS Games`|
 |[Pro CS2 DMA &#45; Esp & Aimbot & Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656442-pro-cs2-dma-esp-aimbot-web-radar.html)|`2025-10-15 13:10:00`|`Counter-Strike 2`|
 |[How to get the Map Images](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721559-map-images.html)|`2025-10-15 13:03:00`|`Counter-Strike 2`|
