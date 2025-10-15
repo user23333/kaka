@@ -12,6 +12,7 @@
 |15|[BO6/WZ Working External &#91;GamePass ONLY&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/721111-bo6-wz-external-gamepass.html)|`2025-10-15 00:11:12`|`call-of-duty-black-ops-6-a`|
 |17|[Rust Internal with dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721202-rust-internal-dumper.html)|`2025-10-15 00:11:12`|`rust`|
 |10|[Arena Breakout Infinite esp source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/721115-arena-breakout-infinite-esp-source.html)|`2025-10-15 10:46:19`|`other-fps-games`|
+|9|[ETOC &#45; Every Type of Communication &#40;Kernel&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721271-etoc-type-communication-kernel.html)|`2025-10-15 12:58:02`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
