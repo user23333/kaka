@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Why has no one live kv3 / vpk parsed map images](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721530-live-kv3-vpk-parsed-map-images.html)|`2025-10-16 06:13:00`|`Counter-Strike 2`|
+|[ETOC &#45; Every Type of Communication &#40;Kernel&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721271-etoc-type-communication-kernel.html)|`2025-10-16 06:02:00`|`Anti-Cheat Bypass`|
 |[Pro CS2 DMA &#45; Esp & Aimbot & Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656442-pro-cs2-dma-esp-aimbot-web-radar.html)|`2025-10-16 05:45:00`|`Counter-Strike 2`|
 |[Blue Protocol: Star Resonance Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/721196-blue-protocol-star-resonance-offsets.html)|`2025-10-16 05:45:00`|`Other MMORPG and Strategy`|
 |[BO6/BO7 Offset Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/721686-bo6-bo7-offset-help.html)|`2025-10-16 05:38:00`|`Call of Duty: Black Ops 6`|
