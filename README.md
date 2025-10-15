@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pubg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/721613-pubg.html)|`2025-10-15 22:17:00`|`PUBG Mobile`|
+|[ESP Scale Problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/721612-esp-scale.html)|`2025-10-15 22:11:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-10-15 22:02:00`|`Grand Theft Auto V`|
+|[dwm and win11 problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/direct3d/721610-dwm-win11.html)|`2025-10-15 21:59:00`|`Direct3D`|
 |[Visible inspection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/721126-visible-inspection.html)|`2025-10-15 21:56:00`|`Warface`|
 |[Nuxar1 Decryption dumper fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/699123-nuxar1-decryption-dumper-fix.html)|`2025-10-15 21:47:00`|`Call of Duty: Black Ops 6`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-10-15 21:24:00`|`Rainbow Six Siege`|
