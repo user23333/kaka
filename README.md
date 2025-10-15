@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[dxgi capture issue? vanguard?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721171-dxgi-capture-issue-vanguard.html)|`2025-10-15 16:38:00`|`Valorant`|
+|[ETOC &#45; Every Type of Communication &#40;Kernel&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721271-etoc-type-communication-kernel.html)|`2025-10-15 16:32:00`|`Anti-Cheat Bypass`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-10-15 16:28:00`|`Playerunknown's Battlegrounds`|
 |[how to change hand model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721577-change-hand-model.html)|`2025-10-15 16:11:00`|`Counter-Strike 2`|
 |[Anogs 32bit This offset is very strong&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/721576-anogs-32bit-offset-strong.html)|`2025-10-15 15:59:00`|`PUBG Mobile`|
 |[Fix 1 day ban PUBGM 4&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/721573-fix-1-day-ban-pubgm-4-0-a.html)|`2025-10-15 15:48:00`|`PUBG Mobile`|
