@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pipsi&#45;ZZZ &#91; Zenless Zone Zero Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/645862-pipsi-zzz-zenless-zone-zero-cheat.html)|`2025-10-15 21:19:00`|`Other MMORPG and Strategy`|
+|[Entity List Offset Change In New Update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721557-entity-list-offset-change-update.html)|`2025-10-15 21:15:00`|`Counter-Strike 2`|
+|[Arena Breakout Infinite esp source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/721115-arena-breakout-infinite-esp-source.html)|`2025-10-15 21:09:00`|`Other FPS Games`|
+|[ESP32&#45;S3 Single Device &#45; Recoil Compensator Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/716807-esp32-s3-single-device-recoil-compensator-script.html)|`2025-10-15 21:05:00`|`Rust`|
+|[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2025-10-15 21:04:00`|`Counter-Strike 2`|
 |[Prefetch Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/721537-prefetch-bypass.html)|`2025-10-15 20:34:00`|`Introductions`|
 |[pubgm tutorial for esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/721385-pubgm-tutorial-esp.html)|`2025-10-15 20:20:00`|`PUBG Mobile`|
 |[How to Fix CutieHook&#40;XRC&#41; Source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/721169-fix-cutiehook-xrc-source-code.html)|`2025-10-15 20:13:00`|`Alternative Online Mods`|
