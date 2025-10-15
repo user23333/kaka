@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[actor velocity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/712934-actor-velocity.html)|`2025-10-15 14:45:00`|`PUBG Mobile`|
 |[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2025-10-15 14:28:00`|`Counter-Strike 2 Releases`|
 |[Need help please 1&#41;get entity class name/id/type from actor/obj ptr 2&#41; velocity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/721567-help-please-1-entity-class-name-id-type-actor-obj-ptr-2-velocity.html)|`2025-10-15 14:19:00`|`PUBG Mobile`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-10-15 14:11:00`|`Grand Theft Auto V`|
