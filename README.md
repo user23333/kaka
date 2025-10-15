@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Example Pascal CS2 DllMain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721697-example-pascal-cs2-dllmain.html)|`2025-10-16 07:36:00`|`Counter-Strike 2`|
 |[Beta Update Crash Problem &#45; CS2 1&#46;41&#46;1&#46;3&#45;rc1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721475-beta-update-crash-cs2-1-41-1-3-rc1.html)|`2025-10-16 07:32:00`|`Counter-Strike 2`|
 |[Cs2 No Spread External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721297-cs2-spread-external.html)|`2025-10-16 07:30:00`|`Counter-Strike 2`|
 |[SCARFALL 2&#46;0 CHEATS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/721463-scarfall-2-0-cheats.html)|`2025-10-16 07:26:00`|`PUBG Mobile`|
