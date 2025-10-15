@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sonic Racing Crossworlds Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720310-sonic-racing-crossworlds-unlocker.html)|`2025-10-16 00:53:00`|`Other Games`|
+|[EVO3 &#124; Updated External Legit/Semi&#45;Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/713273-evo3-updated-external-legit-semi-rage-cheat.html)|`2025-10-16 00:51:00`|`Counter-Strike 2 Releases`|
+|[Entity List Offset Change In New Update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721557-entity-list-offset-change-update.html)|`2025-10-16 00:49:00`|`Counter-Strike 2`|
+|[how to change hand model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721577-change-hand-model.html)|`2025-10-16 00:47:00`|`Counter-Strike 2`|
 |[PC Check Bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/721524-pc-check-bypass.html)|`2025-10-16 00:47:00`|`Alternative Online Mods`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-10-16 00:47:00`|`Other FPS Games`|
 |[EFI spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720290-efi-spoofer.html)|`2025-10-16 00:47:00`|`Anti-Cheat Bypass`|
