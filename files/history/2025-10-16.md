@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[🧩 MRON Injector &#43; MW2019 GSC Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/720981-mron-injector-mw2019-gsc-scripts.html)|`2025-10-16 12:56:00`|`Call of Duty: Modern Warfare`|
+|[Read/Write Physical Memory vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721094-read-write-physical-memory-vulnerable-driver.html)|`2025-10-16 12:55:00`|`Anti-Cheat Bypass`|
 |[Runtime material modification](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721724-runtime-material-modification.html)|`2025-10-16 12:33:00`|`Counter-Strike 2`|
 |[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-10-16 12:27:00`|`Farlight 84`|
 |[Vischeck DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/707208-vischeck-dma.html)|`2025-10-16 12:08:00`|`Playerunknown's Battlegrounds`|
