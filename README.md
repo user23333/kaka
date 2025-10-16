@@ -28,9 +28,14 @@
 |1|[Command&Conquer&#95;Generals2A&#95;SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51577)|`2025-10-16 00:38:45`|
 |1|[Cs2 Radar Map Images](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51572)|`2025-10-16 00:49:37`|
 |1|[rp2040&#95;host&#95;uf2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51566)|`2025-10-16 00:49:37`|
+|1|[Overwatch External v1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51581)|`2025-10-16 11:26:19`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sleepy's External &#45; Outline, Skeleton, and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external-outline-skeleton-aimbot.html)|`2025-10-16 11:23:00`|`Overwatch`|
+|[Recoil Compensation &#40;No Recoil&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686910-recoil-compensation-recoil.html)|`2025-10-16 11:22:00`|`Counter-Strike 2`|
+|[Updated build of A2X's CS2 dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721720-updated-build-a2xs-cs2-dumper.html)|`2025-10-16 11:16:00`|`Counter-Strike 2`|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-10-16 11:09:00`|`HELLDIVERS 2`|
 |[Motion blur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721717-motion-blur.html)|`2025-10-16 10:39:00`|`Counter-Strike 2`|
 |[What method do you use when making HTTPS requests?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/721716-method-https-requests.html)|`2025-10-16 10:09:00`|`Escape from Tarkov`|
 |[Player Downed check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/721704-player-check.html)|`2025-10-16 08:56:00`|`Call of Duty: Black Ops 6`|
