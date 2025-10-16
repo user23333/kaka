@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TREVOR V2 &#124; Simple & Secure GUI &#46;DLL Injector for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708373-trevor-v2-simple-secure-gui-dll-injector-cs2.html)|`2025-10-17 03:27:00`|`Counter-Strike 2`|
+|[skins wont apply on default weapon&#40;works whit others&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721700-skins-wont-apply-default-weapon-whit.html)|`2025-10-17 03:27:00`|`Counter-Strike 2`|
 |[Is there a bot that can play automatically](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721746-bot-play-automatically.html)|`2025-10-17 03:22:00`|`Counter-Strike 2`|
 |[Driver for your External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721422-driver-external.html)|`2025-10-17 03:22:00`|`Counter-Strike 2`|
 |[Updated build of A2X's CS2 dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721720-updated-build-a2xs-cs2-dumper.html)|`2025-10-17 03:21:00`|`Counter-Strike 2`|
