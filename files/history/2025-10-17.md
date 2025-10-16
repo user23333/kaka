@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Calling functions in Among Us GameAssembly&#46;dll through DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/721357-calling-functions-gameassembly-dll-dma.html)|`2025-10-17 03:45:00`|`Among Us`|
 |[How to change ur FTPM without a driver &#40;AMD, Gigabyte only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720900-change-ur-ftpm-driver-amd-gigabyte.html)|`2025-10-17 03:42:00`|`Valorant`|
 |[TREVOR V2 &#124; Simple & Secure GUI &#46;DLL Injector for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/708373-trevor-v2-simple-secure-gui-dll-injector-cs2.html)|`2025-10-17 03:27:00`|`Counter-Strike 2`|
 |[skins wont apply on default weapon&#40;works whit others&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721700-skins-wont-apply-default-weapon-whit.html)|`2025-10-17 03:27:00`|`Counter-Strike 2`|
