@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2025-10-16 13:51:00`|`Apex Legends`|
+|[Deadlock DMA &#40;&#43;Source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/720581-deadlock-dma-source.html)|`2025-10-16 13:48:00`|`Deadlock`|
 |[🧩 MRON Injector &#43; MW2019 GSC Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/720981-mron-injector-mw2019-gsc-scripts.html)|`2025-10-16 12:56:00`|`Call of Duty: Modern Warfare`|
 |[Read/Write Physical Memory vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721094-read-write-physical-memory-vulnerable-driver.html)|`2025-10-16 12:55:00`|`Anti-Cheat Bypass`|
 |[Runtime material modification](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721724-runtime-material-modification.html)|`2025-10-16 12:33:00`|`Counter-Strike 2`|
