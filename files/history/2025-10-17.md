@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Updated CS2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/721585-updated-cs2-external-esp.html)|`2025-10-17 01:25:00`|`Counter-Strike 2 Releases`|
+|[TPM Spoof Names](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/720961-tpm-spoof-names.html)|`2025-10-17 01:17:00`|`Call of Duty: Black Ops 7`|
 |[movement cheating in cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721787-movement-cheating-cs2.html)|`2025-10-17 01:05:00`|`Counter-Strike 2`|
 |[Borderlands 4 Internal &#43; Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/719550-borderlands-4-internal-injector.html)|`2025-10-17 01:04:00`|`Other Single Player Games`|
 |[HWho &#45; a slightly more fun bsg launcher hwid check bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/494040-hwho-slightly-fun-bsg-launcher-hwid-check-bypass.html)|`2025-10-17 01:03:00`|`Escape from Tarkov`|
