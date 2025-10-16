@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA R6 Cheat &#124; No Recoil &#43; Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/721452-dma-r6-cheat-recoil.html)|`2025-10-16 14:33:00`|`Rainbow Six Siege`|
+|[spoofer asus](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721396-spoofer-asus.html)|`2025-10-16 14:17:00`|`Valorant`|
 |[A LLM model specializing in CS2 cheat menu designs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714477-llm-model-specializing-cs2-cheat-menu-designs.html)|`2025-10-16 14:23:00`|`Counter-Strike 2`|
 |[Is making patches on a loaded signed driver detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721730-patches-loaded-signed-driver-detected.html)|`2025-10-16 14:19:00`|`Anti-Cheat Bypass`|
 |[Create or train personal AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/720864-create-train-personal-ai.html)|`2025-10-16 14:15:00`|`Forum General`|
