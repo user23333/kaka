@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League Kiting DMA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/701865-league-kiting-dma.html)|`2025-10-16 11:55:00`|`League of Legends`|
+|[Writing to memory help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/721721-writing-memory-help.html)|`2025-10-16 11:52:00`|`Call of Duty: Black Ops 6`|
+|[RTCore/DBUtil alternative](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/719357-rtcore-dbutil-alternative.html)|`2025-10-16 11:51:00`|`General Programming and Reversing`|
 |[Sleepy's External &#45; Outline, Skeleton, and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external-outline-skeleton-aimbot.html)|`2025-10-16 11:23:00`|`Overwatch`|
 |[Recoil Compensation &#40;No Recoil&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686910-recoil-compensation-recoil.html)|`2025-10-16 11:22:00`|`Counter-Strike 2`|
 |[Updated build of A2X's CS2 dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721720-updated-build-a2xs-cs2-dumper.html)|`2025-10-16 11:16:00`|`Counter-Strike 2`|
