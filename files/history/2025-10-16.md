@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MAKCU Script detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721412-makcu-script-detected.html)|`2025-10-16 18:52:00`|`Rust`|
+|[Messiah Engine &#40; BloodStrike &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694299-messiah-engine-bloodstrike.html)|`2025-10-16 18:49:00`|`Other FPS Games`|
 |[GMOD How to Find ViewMatrix/BoneMatrix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/721377-gmod-viewmatrix-bonematrix.html)|`2025-10-16 18:28:00`|`Garry's Mod`|
 |[How CR3 Work ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721471-cr3.html)|`2025-10-16 17:52:00`|`Battlefield 6`|
 |[Rust Script Mouse Movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721657-rust-script-mouse-movement.html)|`2025-10-16 17:38:00`|`Rust`|
