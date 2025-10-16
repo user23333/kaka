@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-10-17 06:36:00`|`Apex Legends`|
+|[Vischeck DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/707208-vischeck-dma.html)|`2025-10-17 06:33:00`|`Playerunknown's Battlegrounds`|
 |[Elysium &#45; UEFI Bootkit Framework that attacks boot&#45;time Code Integrity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718917-elysium-uefi-bootkit-framework-attacks-boot-time-code-integrity.html)|`2025-10-17 05:21:00`|`Anti-Cheat Bypass`|
 |[Not attacking allies in Deathmatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721817-attacking-allies-deathmatch.html)|`2025-10-17 05:21:00`|`Counter-Strike 2`|
 |[We need your expertise&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721358-expertise.html)|`2025-10-17 05:13:00`|`Anti-Cheat Bypass`|
