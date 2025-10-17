@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sonic Racing Crossworlds Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720310-sonic-racing-crossworlds-unlocker.html)|`2025-10-17 11:09:00`|`Other Games`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-10-17 11:02:00`|`Counter-Strike 2`|
+|[Need help with old online flash game &#40;BoomBang&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/721833-help-online-flash-game-boombang.html)|`2025-10-17 10:59:00`|`Other Games`|
 |[Sleepy's External &#45; Outline, Skeleton, and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external-outline-skeleton-aimbot.html)|`2025-10-17 10:36:00`|`Overwatch`|
 |[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2025-10-17 10:34:00`|`Other Games`|
 |[EFT BAN HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/721841-eft-ban-help.html)|`2025-10-17 10:28:00`|`Escape from Tarkov`|
