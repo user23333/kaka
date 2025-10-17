@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need help decompile with weird Lua bytecode header &#45; LuaS &#40;unluac fails&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/721855-help-decompile-weird-lua-bytecode-header-luas-unluac-fails.html)|`2025-10-17 22:35:00`|`Programming for Beginners`|
+|[Simple offset dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/713312-simple-offset-dumper.html)|`2025-10-17 22:34:00`|`Alternative Online Mods`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-10-17 22:31:00`|`Phasmophobia`|
 |[Project Zomboid Cheat &#45; Valkur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/645408-project-zomboid-cheat-valkur.html)|`2025-10-17 22:29:00`|`Other MMORPG and Strategy`|
 |[Hello everyone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/721893-hello.html)|`2025-10-17 22:23:00`|`Introductions`|
