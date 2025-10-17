@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EFI spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720290-efi-spoofer.html)|`2025-10-18 06:01:00`|`Anti-Cheat Bypass`|
+|[Beginner questions about spoofing arduino hardware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/721943-beginner-questions-spoofing-arduino-hardware.html)|`2025-10-18 05:49:00`|`Maple Story`|
 |[Windows unloads addresses overtime on swap disabled?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721945-windows-unloads-addresses-overtime-swap-disabled.html)|`2025-10-18 05:59:00`|`Anti-Cheat Bypass`|
 |[Updated CS2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/721585-updated-cs2-external-esp.html)|`2025-10-18 05:56:00`|`Counter-Strike 2 Releases`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-10-18 05:52:00`|`Counter-Strike 2 Releases`|
