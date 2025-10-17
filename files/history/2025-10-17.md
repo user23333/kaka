@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Revolution Idle Anti Cheat Bypass/Freeshop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/711124-revolution-idle-anti-cheat-bypass-freeshop.html)|`2025-10-17 22:47:00`|`Other Games`|
+|[How does ac detect and influence hardware?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721896-ac-detect-influence-hardware.html)|`2025-10-17 22:44:00`|`Anti-Cheat Bypass`|
 |[Need help decompile with weird Lua bytecode header &#45; LuaS &#40;unluac fails&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/721855-help-decompile-weird-lua-bytecode-header-luas-unluac-fails.html)|`2025-10-17 22:35:00`|`Programming for Beginners`|
 |[Simple offset dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/713312-simple-offset-dumper.html)|`2025-10-17 22:34:00`|`Alternative Online Mods`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-10-17 22:31:00`|`Phasmophobia`|
