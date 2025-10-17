@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[KM cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/721854-km-cheat.html)|`2025-10-17 16:14:00`|`DayZ SA`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-10-17 15:56:00`|`Rust`|
 |[dayz kernel base driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/717838-dayz-kernel-base-driver.html)|`2025-10-17 15:52:00`|`DayZ SA`|
 |[bhop hook attempt &#40;im stupid&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721850-bhop-hook-attempt-im-stupid.html)|`2025-10-17 14:38:00`|`Counter-Strike 2`|
