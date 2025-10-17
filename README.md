@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dune Awakening Repair Exploit After Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707561-dune-awakening-repair-exploit-patch.html)|`2025-10-18 06:31:00`|`Other FPS Games`|
+|[External chams for all gamemodes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721949-external-chams-gamemodes.html)|`2025-10-18 06:29:00`|`Counter-Strike 2`|
+|[DayZ DMA cheat &#40;Skeleton Esp, Aimbot, Radar&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/720910-dayz-dma-cheat-skeleton-esp-aimbot-radar.html)|`2025-10-18 06:29:00`|`DayZ SA`|
+|[Chivalry 2 Creating your owns &#46;PAK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716143-chivalry-2-creating-owns-pak.html)|`2025-10-18 06:28:00`|`Other FPS Games`|
+|[Fixed "mouse&#95;open" for MouseClassServiceCallbackTrick](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710391-fixed-mouse_open-mouseclassservicecallbacktrick.html)|`2025-10-18 06:26:00`|`Anti-Cheat Bypass`|
+|[Do someone know a free/safe unlock all tool for warzone?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/715864-free-safe-unlock-tool-warzone.html)|`2025-10-18 06:17:00`|`Call of Duty: Black Ops 6`|
 |[EFI spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720290-efi-spoofer.html)|`2025-10-18 06:01:00`|`Anti-Cheat Bypass`|
 |[Beginner questions about spoofing arduino hardware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/721943-beginner-questions-spoofing-arduino-hardware.html)|`2025-10-18 05:49:00`|`Maple Story`|
 |[Windows unloads addresses overtime on swap disabled?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721945-windows-unloads-addresses-overtime-swap-disabled.html)|`2025-10-18 05:59:00`|`Anti-Cheat Bypass`|
