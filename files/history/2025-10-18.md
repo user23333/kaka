@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-10-18 01:55:00`|`Counter-Strike 2`|
 |[GTA Online Arcade Hacking Device & Vault Door are unusable for practise](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/718269-gta-online-arcade-hacking-device-vault-door-unusable-practise.html)|`2025-10-18 01:42:00`|`Grand Theft Auto V`|
 |[Tutorials & stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/721903-tutorials-stuff.html)|`2025-10-18 01:37:00`|`Alternative Online Mods`|
 |[Overlay and Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/721918-overlay-driver.html)|`2025-10-18 01:24:00`|`Overwatch`|
