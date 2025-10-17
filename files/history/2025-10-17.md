@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Injectors are detected since the new update &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/668680-injectors-detected-update.html)|`2025-10-17 23:09:00`|`Battlefield V`|
+|[BFV NO RECOIL REUPLOAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/721443-bfv-recoil-reupload.html)|`2025-10-17 23:08:00`|`Battlefield V`|
+|[I NEED A SIMPLE ESP BFV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/704516-simple-esp-bfv.html)|`2025-10-17 23:07:00`|`Battlefield V`|
 |[Chivalry 2 Creating your owns &#46;PAK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716143-chivalry-2-creating-owns-pak.html)|`2025-10-17 22:51:00`|`Other FPS Games`|
 |[Revolution Idle Anti Cheat Bypass/Freeshop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/711124-revolution-idle-anti-cheat-bypass-freeshop.html)|`2025-10-17 22:47:00`|`Other Games`|
 |[How does ac detect and influence hardware?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721896-ac-detect-influence-hardware.html)|`2025-10-17 22:44:00`|`Anti-Cheat Bypass`|
