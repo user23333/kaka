@@ -11,6 +11,7 @@
 |0|[Got game to spin up without Javelin/EAAC&#46;&#46;&#46; however&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721041-game-spin-javelin-eaac.html)|`2025-10-18 00:20:52`|`battlefield-6-a`|
 |14|[Updated CS2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/721585-updated-cs2-external-esp.html)|`2025-10-18 00:20:52`|`counter-strike-2-releases`|
 |12|[ntoskrnl driver from a scammer :D](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721319-ntoskrnl-driver-scammer.html)|`2025-10-18 00:20:52`|`anti-cheat-bypass`|
+|17|[Rust Internal with dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721202-rust-internal-dumper.html)|`2025-10-18 02:14:44`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[UD cheat for valo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721926-ud-cheat-valo.html)|`2025-10-18 02:09:00`|`Valorant`|
+|[Bones Problem Base Aiden BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/721859-bones-base-aiden-bo6.html)|`2025-10-18 02:09:00`|`Call of Duty: Black Ops 6`|
+|[External ESP for Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/717952-external-esp-windows.html)|`2025-10-18 02:09:00`|`Apex Legends`|
+|[Auto Update External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/614771-auto-update-external.html)|`2025-10-18 02:07:00`|`Overwatch`|
+|[Need Roblox offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/704195-roblox-offsets.html)|`2025-10-18 02:03:00`|`General Programming and Reversing`|
+|[farlight 84 Internal &#91;Feature Stacked&#33; &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/721193-farlight-84-internal-feature-stacked.html)|`2025-10-18 02:03:00`|`Farlight 84`|
+|[Candy Crush Saga &#40;Windows Store Version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/711508-candy-crush-saga-windows-store-version.html)|`2025-10-18 02:02:00`|`Cheat Engine Tables`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-10-18 02:02:00`|`Other FPS Games`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-10-18 01:55:00`|`Counter-Strike 2`|
 |[GTA Online Arcade Hacking Device & Vault Door are unusable for practise](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/718269-gta-online-arcade-hacking-device-vault-door-unusable-practise.html)|`2025-10-18 01:42:00`|`Grand Theft Auto V`|
 |[Tutorials & stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/721903-tutorials-stuff.html)|`2025-10-18 01:37:00`|`Alternative Online Mods`|
