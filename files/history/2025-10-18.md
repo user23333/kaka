@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[pdfwkrnl is overlooked&#46; here's why&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721956-pdfwkrnl-overlooked-heres.html)|`2025-10-18 07:56:00`|`Anti-Cheat Bypass`|
+|[Simple offset dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/713312-simple-offset-dumper.html)|`2025-10-18 07:54:00`|`Alternative Online Mods`|
+|[&#91;Internal&#93; DayZ Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/696704-internal-dayz-cheat.html)|`2025-10-18 07:53:00`|`DayZ SA`|
 |[How to check if a grenade is equipped](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721738-check-grenade-equipped.html)|`2025-10-18 07:49:00`|`Apex Legends`|
 |[Updated CS2 Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711462-updated-cs2-dumper.html)|`2025-10-18 07:37:00`|`Counter-Strike 2`|
 |[CS2&#45;EXTERNAL MY FIRST RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721845-cs2-external-release.html)|`2025-10-18 07:45:00`|`Counter-Strike 2`|
