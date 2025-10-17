@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Solar Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721762-solar-skin-changer.html)|`2025-10-17 22:10:00`|`Valorant`|
+|[DuneCore v3 &#45; CS2 Best hack so far &#40;for legit players&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/691168-dunecore-v3-cs2-hack-legit-players.html)|`2025-10-17 22:08:00`|`Counter-Strike 2 Releases`|
 |[Arduino move can't work with physic mouse together any more?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721470-arduino-move-cant-physic-mouse.html)|`2025-10-17 21:53:00`|`Apex Legends`|
 |[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2025-10-17 21:34:00`|`Other FPS Games`|
 |[Rage&#46;CM – Combat Master Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/713964-rage-cm-combat-master-menu.html)|`2025-10-17 21:14:00`|`Combat Master`|
