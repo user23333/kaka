@@ -12,6 +12,7 @@
 |14|[Updated CS2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/721585-updated-cs2-external-esp.html)|`2025-10-18 00:20:52`|`counter-strike-2-releases`|
 |12|[ntoskrnl driver from a scammer :D](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721319-ntoskrnl-driver-scammer.html)|`2025-10-18 00:20:52`|`anti-cheat-bypass`|
 |17|[Rust Internal with dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721202-rust-internal-dumper.html)|`2025-10-18 02:14:44`|`rust`|
+|4|[logitech anti recoil &#40;work in progress&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721342-logitech-anti-recoil-progress.html)|`2025-10-18 02:38:30`|`battlefield-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Warframe Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718442-warframe-internal-cheat.html)|`2025-10-18 02:35:00`|`Other FPS Games`|
+|[Chivalry 2 No Turn Cap and inf stamina](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719643-chivalry-2-cap-inf-stamina.html)|`2025-10-18 02:30:00`|`Other FPS Games`|
+|[BF6 DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721168-bf6-dma.html)|`2025-10-18 02:27:00`|`Battlefield 6`|
+|[Simple Apex ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/719602-simple-apex-esp.html)|`2025-10-18 02:23:00`|`Apex Legends`|
 |[UD cheat for valo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721926-ud-cheat-valo.html)|`2025-10-18 02:09:00`|`Valorant`|
 |[Bones Problem Base Aiden BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/721859-bones-base-aiden-bo6.html)|`2025-10-18 02:09:00`|`Call of Duty: Black Ops 6`|
 |[External ESP for Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/717952-external-esp-windows.html)|`2025-10-18 02:09:00`|`Apex Legends`|
