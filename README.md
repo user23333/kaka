@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-10-17 21:01:00`|`Other MMORPG and Strategy`|
+|[Native Research](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/721392-native-research.html)|`2025-10-17 20:42:00`|`Alternative Online Mods`|
 |[🧩 MRON Injector &#43; MW2019 GSC Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/720981-mron-injector-mw2019-gsc-scripts.html)|`2025-10-17 20:30:00`|`Call of Duty: Modern Warfare`|
 |[Amoung Us Cheat &#45; Wen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/720637-amoung-cheat-wen.html)|`2025-10-17 20:27:00`|`Among Us`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/590414-arc-raiders-structs-offsets.html)|`2025-10-17 20:13:00`|`Other FPS Games`|
