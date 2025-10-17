@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[external stopped working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721902-external-stopped.html)|`2025-10-17 23:44:00`|`Counter-Strike 2`|
+|[Tutorials & stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/721903-tutorials-stuff.html)|`2025-10-17 23:43:00`|`Alternative Online Mods`|
 |[Injectors are detected since the new update &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/668680-injectors-detected-update.html)|`2025-10-17 23:09:00`|`Battlefield V`|
 |[BFV NO RECOIL REUPLOAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/721443-bfv-recoil-reupload.html)|`2025-10-17 23:08:00`|`Battlefield V`|
 |[I NEED A SIMPLE ESP BFV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/704516-simple-esp-bfv.html)|`2025-10-17 23:07:00`|`Battlefield V`|
