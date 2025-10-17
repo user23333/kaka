@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anticheat bypass for Farlight 84](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/715811-anticheat-bypass-farlight-84-a.html)|`2025-10-18 04:47:00`|`Farlight 84`|
 |[Hi, I'm AlphieAfterlife&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/721939-hi-im-alphieafterlife.html)|`2025-10-18 04:15:00`|`Introductions`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2025-10-18 03:58:00`|`Valorant`|
 |[Cursor Jumps to Previous Camera Movement Path When Toggling ImGui Menu On](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/721938-cursor-jumps-previous-camera-movement-path-toggling-imgui-menu.html)|`2025-10-18 04:13:00`|`Forum General`|
