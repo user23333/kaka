@@ -37,6 +37,8 @@
 |2|[Updated cs2g0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51609)|`2025-10-18 21:42:04`|
 |1|[item&#95;vendors&#95;dump&#95;8&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51605)|`2025-10-18 21:42:04`|
 |9|[PhasmoMenu v0&#46;5&#46;7&#46;7 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51596)|`2025-10-18 21:42:04`|
+|1|[BlueFirePaladinsHack&#45;2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51607)|`2025-10-18 21:48:04`|
+|1|[PaladinsHack&#45;2&#46;0&#45;Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51606)|`2025-10-18 21:48:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
