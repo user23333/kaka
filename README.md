@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dune Awakening Repair Exploit After Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707561-dune-awakening-repair-exploit-patch.html)|`2025-10-19 04:44:00`|`Other FPS Games`|
+|[Studying RainbowSix &#40;&#45;Engine&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/717001-studying-rainbowsix-engine.html)|`2025-10-19 04:40:00`|`Rainbow Six Siege`|
 |[Environment for cheat creation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722056-environment-cheat-creation.html)|`2025-10-19 04:30:00`|`Counter-Strike 2`|
 |[best ai for coding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/722057-ai-coding.html)|`2025-10-19 04:30:00`|`C and C++`|
 |[Fixed "mouse&#95;open" for MouseClassServiceCallbackTrick](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710391-fixed-mouse_open-mouseclassservicecallbacktrick.html)|`2025-10-19 04:23:00`|`Anti-Cheat Bypass`|
