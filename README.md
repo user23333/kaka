@@ -39,9 +39,12 @@
 |9|[PhasmoMenu v0&#46;5&#46;7&#46;7 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51596)|`2025-10-18 21:42:04`|
 |1|[BlueFirePaladinsHack&#45;2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51607)|`2025-10-18 21:48:04`|
 |1|[PaladinsHack&#45;2&#46;0&#45;Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51606)|`2025-10-18 21:48:04`|
+|1|[Age of Empire 4 ScarTool Version 1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51610)|`2025-10-18 21:54:06`|
+|2|[rp2040&#95;host](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51603)|`2025-10-18 21:54:06`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Amoung Us Cheat &#45; Wen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/720637-amoung-cheat-wen.html)|`2025-10-18 21:50:00`|`Among Us`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-10-18 21:37:00`|`Phasmophobia`|
 |[SurrounDead Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/721999-surroundead-cheat.html)|`2025-10-18 21:35:00`|`Other FPS Games`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-10-18 21:15:00`|`Sea of Thieves`|
