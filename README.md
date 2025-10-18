@@ -41,6 +41,7 @@
 |1|[PaladinsHack&#45;2&#46;0&#45;Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51606)|`2025-10-18 21:48:04`|
 |1|[Age of Empire 4 ScarTool Version 1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51610)|`2025-10-18 21:54:06`|
 |2|[rp2040&#95;host](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51603)|`2025-10-18 21:54:06`|
+|1|[Farlight 84 Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51611)|`2025-10-18 21:59:56`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
