@@ -45,6 +45,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Reversal threads deleted?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/716538-reversal-threads-deleted.html)|`2025-10-18 23:44:00`|`Battlefield 6`|
 |[Need help decompile with weird Lua bytecode header &#45; LuaS &#40;unluac fails&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/721855-help-decompile-weird-lua-bytecode-header-luas-unluac-fails.html)|`2025-10-18 23:35:00`|`Programming for Beginners`|
 |[Sonic Racing Crossworlds Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720310-sonic-racing-crossworlds-unlocker.html)|`2025-10-18 22:51:00`|`Other Games`|
 |[ntoskrnl driver from a scammer :D](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721319-ntoskrnl-driver-scammer.html)|`2025-10-18 22:50:00`|`Anti-Cheat Bypass`|
