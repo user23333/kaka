@@ -12,6 +12,7 @@
 |17|[Rust Internal with dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721202-rust-internal-dumper.html)|`2025-10-19 00:11:38`|`rust`|
 |6|[signed r/w ioctl for valo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721180-signed-ioctl-valo.html)|`2025-10-19 00:11:38`|`anti-cheat-bypass`|
 |9|[How CR3 Work ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721471-cr3.html)|`2025-10-19 02:52:18`|`battlefield-6-a`|
+|14|[Player Chams through ListComponent &#40; No Encryption &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721330-player-chams-listcomponent-encryption.html)|`2025-10-19 04:17:46`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Warframe Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/631004-warframe-cheat.html)|`2025-10-19 03:56:00`|`Other FPS Games`|
 |[ANTIcheat emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721785-anticheat-emulator.html)|`2025-10-19 03:58:00`|`Valorant`|
 |[Recoil Compensation &#40;No Recoil&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/686910-recoil-compensation-recoil.html)|`2025-10-19 03:46:00`|`Counter-Strike 2`|
 |[SCP SL Cheat v13&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/611154-scp-sl-cheat-v13-3-1-a.html)|`2025-10-19 03:45:00`|`Other Games`|
