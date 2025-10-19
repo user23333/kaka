@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dbd HWID ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722179-dbd-hwid-ban.html)|`2025-10-20 02:24:00`|`Anti-Cheat Bypass`|
 |[Trackers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/722176-trackers.html)|`2025-10-20 02:22:00`|`Rust`|
 |[Sleepy's External &#45; Outline, Skeleton, and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external-outline-skeleton-aimbot.html)|`2025-10-20 02:15:00`|`Overwatch`|
 |[3 shot ICTV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/722091-3-shot-ictv.html)|`2025-10-20 02:14:00`|`Payday 2`|
