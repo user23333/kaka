@@ -11,6 +11,7 @@
 |11|[Driver for your External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721422-driver-external.html)|`2025-10-20 00:20:42`|`counter-strike-2-a`|
 |8|[Single ESP32&#45;S3 Rust Recoil Script &#45;FULL TUTORIAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721658-single-esp32-s3-rust-recoil-script-tutorial.html)|`2025-10-20 00:20:42`|`rust`|
 |7|[Cs2 No Spread External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721297-cs2-spread-external.html)|`2025-10-20 00:20:42`|`counter-strike-2-a`|
+|9|[New entity list for latest update&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721714-entity-list-update.html)|`2025-10-20 00:37:34`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Free Apex Coins/Cheap Coins Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/693249-free-apex-coins-cheap-coins-thread.html)|`2025-10-20 00:37:00`|`Apex Legends`|
+|[Lazybead &#40;LB&#41; &#45; Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat.html)|`2025-10-20 00:28:00`|`Sea of Thieves`|
+|[1PC MAKCU Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720979-1pc-makcu-colorbot.html)|`2025-10-20 00:24:00`|`Valorant`|
 |[DayPay Internal &#91;STEAM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/720131-daypay-internal-steam.html)|`2025-10-20 00:07:00`|`Payday 3`|
 |[Memory editing features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722072-memory-editing-features.html)|`2025-10-20 00:06:00`|`Counter-Strike 2`|
 |[Injected a handful of times, how to know if I am good to go or if my acc is dead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722054-injected-handful-times-am-acc-dead.html)|`2025-10-20 00:06:00`|`Counter-Strike 2`|
