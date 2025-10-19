@@ -34,6 +34,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Most UD cheat for valo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721709-ud-cheat-valo.html)|`2025-10-19 22:40:00`|`Valorant`|
+|[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721028-cs2-external-cheat.html)|`2025-10-19 22:37:00`|`Counter-Strike 2`|
+|[game of thrones kingsroad hack & offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701827-game-thrones-kingsroad-hack-offsets.html)|`2025-10-19 22:36:00`|`Other MMORPG and Strategy`|
+|[Recoil Compensation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/722153-recoil-compensation.html)|`2025-10-19 22:35:00`|`Escape from Tarkov`|
+|[Satisfactory Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710015-satisfactory-cheat.html)|`2025-10-19 22:34:00`|`Other FPS Games`|
 |[CSS v34 Cheat &#43; ClientMod emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/720207-css-v34-cheat-clientmod-emulator.html)|`2025-10-19 22:12:00`|`CounterStrike Source`|
 |[cs2 farming bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722144-cs2-farming-bot.html)|`2025-10-19 21:57:00`|`Counter-Strike 2`|
 |[color filtering with 2pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721984-color-filtering-2pc.html)|`2025-10-19 22:07:00`|`Valorant`|
