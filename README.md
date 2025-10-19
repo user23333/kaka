@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cursor Jumps to Previous Camera Movement Path When Toggling ImGui Menu On](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/721938-cursor-jumps-previous-camera-movement-path-toggling-imgui-menu.html)|`2025-10-19 23:27:00`|`Forum General`|
+|[Anti Debug patch &#62;:3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/722160-anti-debug-patch-3-a.html)|`2025-10-19 23:22:00`|`Combat Master`|
+|[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2025-10-19 23:20:00`|`Other FPS Games`|
 |[How do i use cheat engine with BF1?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/722159-cheat-engine-bf1.html)|`2025-10-19 23:15:00`|`Battlefield 1`|
 |[Chivalry 2 Creating your owns &#46;PAK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716143-chivalry-2-creating-owns-pak.html)|`2025-10-19 23:15:00`|`Other FPS Games`|
 |[Solid Dupe Glitch for fivem server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719921-solid-dupe-glitch-fivem-server.html)|`2025-10-19 23:06:00`|`Alternative Online Mods`|
