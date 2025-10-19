@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EFI spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720290-efi-spoofer.html)|`2025-10-20 01:46:00`|`Anti-Cheat Bypass`|
+|[Hypervisor Windows 11 system crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722174-hypervisor-windows-11-system-crash.html)|`2025-10-20 01:45:00`|`Anti-Cheat Bypass`|
+|[How to change ur FTPM without a driver &#40;AMD, Gigabyte only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720900-change-ur-ftpm-driver-amd-gigabyte.html)|`2025-10-20 01:43:00`|`Valorant`|
 |[RealMain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722092-realmain.html)|`2025-10-20 01:39:00`|`Battlefield 6`|
 |[Solid Dupe Glitch for fivem server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719921-solid-dupe-glitch-fivem-server.html)|`2025-10-20 01:37:00`|`Alternative Online Mods`|
 |[SurronDead Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/709957-surrondead-reversal-structs-offsets.html)|`2025-10-20 01:37:00`|`Other FPS Games`|
