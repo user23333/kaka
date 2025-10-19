@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VTube Studio DLC Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689731-vtube-studio-dlc-unlocker.html)|`2025-10-20 04:47:00`|`Other Games`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-10-20 04:43:00`|`Other FPS Games`|
 |[Chivalry 2 Creating your owns &#46;PAK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716143-chivalry-2-creating-owns-pak.html)|`2025-10-20 04:42:00`|`Other FPS Games`|
 |[External ESP for Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/717952-external-esp-windows.html)|`2025-10-20 04:41:00`|`Apex Legends`|
