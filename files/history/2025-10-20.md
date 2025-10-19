@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DeadByDaylight external &#91;Steam&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715450-deadbydaylight-external-steam.html)|`2025-10-20 03:06:00`|`Other Games`|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-10-20 03:02:00`|`Phasmophobia`|
+|[How to not get banned using aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/722187-banned-using-aimbot.html)|`2025-10-20 02:58:00`|`Overwatch`|
 |[dayz cheat external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/703099-dayz-cheat-external.html)|`2025-10-20 02:43:00`|`DayZ SA`|
 |[Dbd HWID ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722179-dbd-hwid-ban.html)|`2025-10-20 02:24:00`|`Anti-Cheat Bypass`|
 |[Trackers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/722176-trackers.html)|`2025-10-20 02:22:00`|`Rust`|
