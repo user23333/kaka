@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-10-20 05:42:00`|`Grand Theft Auto V`|
+|[Windblown Skin Unlock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/722198-windblown-skin-unlock.html)|`2025-10-20 05:42:00`|`Other Games`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/590414-arc-raiders-structs-offsets.html)|`2025-10-20 05:30:00`|`Other FPS Games`|
+|[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2025-10-20 05:26:00`|`Counter-Strike 2 Releases`|
+|[AES KEYS FOR PAK DECRYPTION FOR PUBGM 32 Bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/719948-aes-keys-pak-decryption-pubgm-32-bit.html)|`2025-10-20 05:20:00`|`PUBG Mobile`|
 |[Is there a bot that can play automatically](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721746-bot-play-automatically.html)|`2025-10-20 05:32:00`|`Counter-Strike 2`|
 |[MW2019 DirectX Hook Methods?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/722194-mw2019-directx-hook-methods.html)|`2025-10-20 05:09:00`|`Call of Duty: Modern Warfare`|
 |[VTube Studio DLC Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689731-vtube-studio-dlc-unlocker.html)|`2025-10-20 04:47:00`|`Other Games`|
