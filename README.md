@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New entity list for latest update&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721714-entity-list-update.html)|`2025-10-19 23:59:00`|`Counter-Strike 2`|
 |[Offset dumper FC 26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721765-offset-dumper-fc-26-a.html)|`2025-10-19 23:33:00`|`Anti-Cheat Bypass`|
 |[ETOC &#45; Every Type of Communication &#40;Kernel&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721271-etoc-type-communication-kernel.html)|`2025-10-19 23:28:00`|`Anti-Cheat Bypass`|
 |[Cursor Jumps to Previous Camera Movement Path When Toggling ImGui Menu On](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/721938-cursor-jumps-previous-camera-movement-path-toggling-imgui-menu.html)|`2025-10-19 23:27:00`|`Forum General`|
