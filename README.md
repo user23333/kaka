@@ -13,6 +13,9 @@
 |6|[signed r/w ioctl for valo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721180-signed-ioctl-valo.html)|`2025-10-19 00:11:38`|`anti-cheat-bypass`|
 |9|[How CR3 Work ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721471-cr3.html)|`2025-10-19 02:52:18`|`battlefield-6-a`|
 |14|[Player Chams through ListComponent &#40; No Encryption &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721330-player-chams-listcomponent-encryption.html)|`2025-10-19 04:17:46`|`rust`|
+|11|[Driver for your External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721422-driver-external.html)|`2025-10-19 09:15:44`|`counter-strike-2-a`|
+|3|[Single ESP32&#45;S3 Rust Recoil Script &#45;FULL TUTORIAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721658-single-esp32-s3-rust-recoil-script-tutorial.html)|`2025-10-19 09:15:44`|`rust`|
+|9|[How major anti&#45;cheat detect VMs?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721250-major-anti-cheat-detect-vms.html)|`2025-10-19 09:15:44`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pixel Gun 3D Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/719939-pixel-gun-3d-cheat.html)|`2025-10-19 09:15:00`|`Other Games`|
+|[PAxLM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/715607-paxlm.html)|`2025-10-19 09:14:00`|`Lethal Company`|
+|[Amoung Us Cheat &#45; Wen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/720637-amoung-cheat-wen.html)|`2025-10-19 08:49:00`|`Among Us`|
+|[Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/new-world/720676-offsets.html)|`2025-10-19 08:38:00`|`New World`|
 |[Player Chams through ListComponent &#40; No Encryption &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721330-player-chams-listcomponent-encryption.html)|`2025-10-19 07:20:00`|`Rust`|
 |[MW19 Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/722087-mw19-internal-source.html)|`2025-10-19 07:19:00`|`Call of Duty: Modern Warfare`|
 |[UEFIBios Loader – The Ultimate System Control Panel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/720875-uefibios-loader-ultimate-system-control-panel.html)|`2025-10-19 07:17:00`|`PC Software`|
