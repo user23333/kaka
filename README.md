@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RealMain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722092-realmain.html)|`2025-10-20 01:39:00`|`Battlefield 6`|
+|[Solid Dupe Glitch for fivem server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719921-solid-dupe-glitch-fivem-server.html)|`2025-10-20 01:37:00`|`Alternative Online Mods`|
+|[SurronDead Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/709957-surrondead-reversal-structs-offsets.html)|`2025-10-20 01:37:00`|`Other FPS Games`|
 |[Blue Protocol: Star Resonance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/712477-blue-protocol-star-resonance.html)|`2025-10-20 01:32:00`|`Other MMORPG and Strategy`|
 |['83Fentry &#45; '83 The Game Internal Multitool for Beta](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/721561-83fentry-83-game-internal-multitool-beta.html)|`2025-10-20 01:31:00`|`Other FPS Games`|
 |[The Texas Chainsaw Massacre Tool &#45; Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712655-texas-chainsaw-massacre-tool-internal-cheat.html)|`2025-10-20 01:29:00`|`Other FPS Games`|
