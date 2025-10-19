@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sober/Roblox Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/722103-sober-roblox-offsets.html)|`2025-10-19 14:33:00`|`General Programming and Reversing`|
 |[Blue Protocol: Star Resonance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/712477-blue-protocol-star-resonance.html)|`2025-10-19 13:45:00`|`Other MMORPG and Strategy`|
 |[&#91;LINUX&#93; Dune Awakening Simple external ESP Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710801-linux-dune-awakening-simple-external-esp-base.html)|`2025-10-19 13:37:00`|`Other FPS Games`|
 |[Overwatch External &#45; &#91;UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/717914-overwatch-external-updated.html)|`2025-10-19 12:45:00`|`Overwatch`|
