@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[valorant triggerbot and autobhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722128-valorant-triggerbot-autobhop.html)|`2025-10-19 21:37:00`|`Valorant`|
 |[Looking for a so called Ghost Client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/722125-looking-called-ghost-client.html)|`2025-10-19 20:51:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[3 shot ICTV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/722091-3-shot-ictv.html)|`2025-10-19 21:27:00`|`Payday 2`|
 |[Elysium &#45; UEFI Bootkit Framework that attacks boot&#45;time Code Integrity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718917-elysium-uefi-bootkit-framework-attacks-boot-time-code-integrity.html)|`2025-10-19 21:13:00`|`Anti-Cheat Bypass`|
