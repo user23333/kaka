@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Elysium &#45; UEFI Bootkit Framework that attacks boot&#45;time Code Integrity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718917-elysium-uefi-bootkit-framework-attacks-boot-time-code-integrity.html)|`2025-10-21 04:12:00`|`Anti-Cheat Bypass`|
+|[PC Check Bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/721524-pc-check-bypass.html)|`2025-10-21 04:01:00`|`Alternative Online Mods`|
 |[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-10-21 03:48:00`|`Grand Theft Auto V`|
 |[Arena Breakout Infinite esp source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/721115-arena-breakout-infinite-esp-source.html)|`2025-10-21 03:47:00`|`Other FPS Games`|
 |[BF6 Frostbite Egine Coordinate system & Camera Rotation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722294-bf6-frostbite-egine-coordinate-system-camera-rotation.html)|`2025-10-21 03:44:00`|`Battlefield 6`|
