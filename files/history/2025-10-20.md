@@ -41,6 +41,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vac dynamic analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722155-vac-dynamic-analysis.html)|`2025-10-20 22:26:00`|`Anti-Cheat Bypass`|
+|[Scuffed Bloodstrike Internal Aimbot & ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/720552-scuffed-bloodstrike-internal-aimbot-esp.html)|`2025-10-20 22:24:00`|`Other FPS Games`|
 |[Borderlands 4 Internal &#43; Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/719550-borderlands-4-internal-injector.html)|`2025-10-20 21:33:00`|`Other Single Player Games`|
 |[signed r/w ioctl for valo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721180-signed-ioctl-valo.html)|`2025-10-20 21:23:00`|`Anti-Cheat Bypass`|
 |[Megabonk &#45; Complete Unlock Save File &#43; Encryption Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718985-megabonk-complete-unlock-save-file-encryption-methods.html)|`2025-10-20 20:45:00`|`Other Games`|
