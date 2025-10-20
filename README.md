@@ -14,6 +14,7 @@
 |9|[New entity list for latest update&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721714-entity-list-update.html)|`2025-10-20 00:37:34`|`counter-strike-2-a`|
 |11|[only 1 Hid device can send input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721444-1-hid-device-send-input.html)|`2025-10-20 05:13:22`|`apex-legends`|
 |6|[DMA R6 Cheat &#124; No Recoil &#43; Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/721452-dma-r6-cheat-recoil.html)|`2025-10-20 09:32:44`|`rainbow-six-siege`|
+|5|[Another vulnerable driver&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721827-vulnerable-driver.html)|`2025-10-20 14:44:48`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -39,6 +40,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External esp not show player](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/722230-external-esp-player.html)|`2025-10-20 14:26:00`|`PUBG Mobile`|
 |[Pattern for online dlc in sp bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/722228-pattern-online-dlc-sp-bypass.html)|`2025-10-20 13:38:00`|`Grand Theft Auto V`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-10-20 12:46:00`|`Other FPS Games`|
 |[Simple lua executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/721834-simple-lua-executor.html)|`2025-10-20 12:46:00`|`Garry's Mod`|
