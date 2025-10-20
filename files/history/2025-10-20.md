@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Temp Spoofer Signed By Microsoft &#40;WORKING&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717158-temp-spoofer-signed-microsoft.html)|`2025-10-20 19:40:00`|`Anti-Cheat Bypass`|
 |[Overlay and Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/721918-overlay-driver.html)|`2025-10-20 19:31:00`|`Overwatch`|
 |[overwatch triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/721611-overwatch-triggerbot.html)|`2025-10-20 19:28:00`|`Overwatch`|
 |[wexize fivem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/720123-wexize-fivem.html)|`2025-10-20 19:17:00`|`Alternative Online Mods`|
