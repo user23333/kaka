@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New entity list for latest update&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721714-entity-list-update.html)|`2025-10-21 02:40:00`|`Counter-Strike 2`|
+|[Keep motion dot when hud is hidden](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/722285-motion-dot-hud-hidden.html)|`2025-10-21 02:37:00`|`Payday 2`|
+|[Offset dumper FC 26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721765-offset-dumper-fc-26-a.html)|`2025-10-21 02:35:00`|`Anti-Cheat Bypass`|
+|[Solid Dupe Glitch for fivem server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719921-solid-dupe-glitch-fivem-server.html)|`2025-10-21 02:33:00`|`Alternative Online Mods`|
 |[Silent Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/623939-silent-aimbot.html)|`2025-10-21 02:24:00`|`Payday 2`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-10-21 02:24:00`|`Overwatch`|
 |[gta 5 battleye working menu &#40;no dma&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/714342-gta-5-battleye-menu-dma.html)|`2025-10-21 02:21:00`|`Grand Theft Auto V`|
