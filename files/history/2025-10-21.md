@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kdmapper error 0x0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722289-kdmapper-error-0x0.html)|`2025-10-21 03:09:00`|`Anti-Cheat Bypass`|
+|[Pipsi&#45;ZZZ &#91; Zenless Zone Zero Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/645862-pipsi-zzz-zenless-zone-zero-cheat.html)|`2025-10-21 03:08:00`|`Other MMORPG and Strategy`|
+|[my glow ESP stopped working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/722288-glow-esp-stopped.html)|`2025-10-21 03:01:00`|`Apex Legends`|
+|[ANEURISM IV &#45; Steam game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691595-aneurism-iv-steam-game.html)|`2025-10-21 02:59:00`|`Other Games`|
 |[ANTIcheat emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721785-anticheat-emulator.html)|`2025-10-21 02:54:00`|`Valorant`|
 |[DayZ DMA cheat &#40;Skeleton Esp, Aimbot, Radar&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/720910-dayz-dma-cheat-skeleton-esp-aimbot-radar.html)|`2025-10-21 02:49:00`|`DayZ SA`|
 |[New entity list for latest update&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721714-entity-list-update.html)|`2025-10-21 02:40:00`|`Counter-Strike 2`|
