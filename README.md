@@ -40,6 +40,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BO6 Vip Internal &#40;ETH Rebrand&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720032-bo6-vip-internal-eth-rebrand.html)|`2025-10-20 15:09:00`|`Call of Duty: Black Ops 6`|
+|[What's the most recent state of GTA Online modding right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/722232-whats-recent-gta-online-modding.html)|`2025-10-20 15:02:00`|`Grand Theft Auto V`|
 |[External esp not show player](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/722230-external-esp-player.html)|`2025-10-20 14:26:00`|`PUBG Mobile`|
 |[Pattern for online dlc in sp bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/722228-pattern-online-dlc-sp-bypass.html)|`2025-10-20 13:38:00`|`Grand Theft Auto V`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-10-20 12:46:00`|`Other FPS Games`|
