@@ -40,6 +40,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2025-10-20 15:20:00`|`HELLDIVERS 2`|
+|[finding offsets in IDA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/722233-finding-offsets-ida.html)|`2025-10-20 15:14:00`|`League of Legends`|
 |[BO6 Vip Internal &#40;ETH Rebrand&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720032-bo6-vip-internal-eth-rebrand.html)|`2025-10-20 15:09:00`|`Call of Duty: Black Ops 6`|
 |[What's the most recent state of GTA Online modding right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/722232-whats-recent-gta-online-modding.html)|`2025-10-20 15:02:00`|`Grand Theft Auto V`|
 |[External esp not show player](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/722230-external-esp-player.html)|`2025-10-20 14:26:00`|`PUBG Mobile`|
