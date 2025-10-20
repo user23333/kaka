@@ -11,6 +11,7 @@
 |11|[only 1 Hid device can send input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721444-1-hid-device-send-input.html)|`2025-10-21 00:24:31`|`apex-legends`|
 |5|[Another vulnerable driver&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721827-vulnerable-driver.html)|`2025-10-21 00:24:31`|`anti-cheat-bypass`|
 |7|[Apex external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721376-apex-external-base.html)|`2025-10-21 00:24:31`|`apex-legends`|
+|0|[Escape From Duckov](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/721778-escape-duckov.html)|`2025-10-21 01:41:21`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-10-21 01:35:00`|`Valorant`|
+|[RustRecoilMacro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706634-rustrecoilmacro.html)|`2025-10-21 01:33:00`|`Rainbow Six Siege`|
+|[DMA Key Input Windows 11 24h2 fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/694320-dma-key-input-windows-11-24h2-fix.html)|`2025-10-21 01:22:00`|`General Programming and Reversing`|
 |[EVO3 &#124; Updated External Legit/Semi&#45;Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/713273-evo3-updated-external-legit-semi-rage-cheat.html)|`2025-10-21 01:28:00`|`Counter-Strike 2 Releases`|
 |[R4ven Inject0r](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/718540-r4ven-inject0r.html)|`2025-10-21 01:27:00`|`Forum General`|
 |[Megabonk External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720385-megabonk-external-esp.html)|`2025-10-21 01:21:00`|`Other Games`|
