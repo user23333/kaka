@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-10-20 23:51:00`|`PUBG Releases`|
 |[MTA How to make injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714437-mta-injector.html)|`2025-10-20 23:46:00`|`Other FPS Games`|
 |[color filtering with 2pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721984-color-filtering-2pc.html)|`2025-10-20 23:35:00`|`Valorant`|
 |[VgkAutoUpdate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722265-vgkautoupdate.html)|`2025-10-20 23:28:00`|`Valorant`|
