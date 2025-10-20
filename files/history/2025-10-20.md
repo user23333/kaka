@@ -41,6 +41,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Megabonk &#45; Complete Unlock Save File &#43; Encryption Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718985-megabonk-complete-unlock-save-file-encryption-methods.html)|`2025-10-20 20:45:00`|`Other Games`|
+|[Broken Arrow &#43;13 Trainer&#40;CT table&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673542-broken-arrow-13-trainer-ct-table.html)|`2025-10-20 20:41:00`|`Other MMORPG and Strategy`|
 |[My Xenos isnt working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/722226-xenos-isnt.html)|`2025-10-20 20:29:00`|`Team Fortress 2`|
 |[pdfwkrnl is overlooked&#46; here's why&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721956-pdfwkrnl-overlooked-heres.html)|`2025-10-20 20:25:00`|`Anti-Cheat Bypass`|
 |[Not attacking allies in Deathmatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721817-attacking-allies-deathmatch.html)|`2025-10-20 20:23:00`|`Counter-Strike 2`|
