@@ -15,6 +15,7 @@
 |11|[only 1 Hid device can send input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721444-1-hid-device-send-input.html)|`2025-10-20 05:13:22`|`apex-legends`|
 |6|[DMA R6 Cheat &#124; No Recoil &#43; Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/721452-dma-r6-cheat-recoil.html)|`2025-10-20 09:32:44`|`rainbow-six-siege`|
 |5|[Another vulnerable driver&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721827-vulnerable-driver.html)|`2025-10-20 14:44:48`|`anti-cheat-bypass`|
+|7|[Apex external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721376-apex-external-base.html)|`2025-10-20 18:49:01`|`apex-legends`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
