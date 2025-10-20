@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Resource Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/710497-resource-dumper.html)|`2025-10-21 05:25:00`|`Alternative Online Mods`|
+|[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2025-10-21 05:22:00`|`Tom Clancy's The Division`|
+|[Not attacking allies in Deathmatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721817-attacking-allies-deathmatch.html)|`2025-10-21 05:13:00`|`Counter-Strike 2`|
+|[R6 &#45; Script Lua No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/718855-r6-script-lua-recoil.html)|`2025-10-21 05:07:00`|`Rainbow Six Siege`|
+|[Simple Apex ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/719602-simple-apex-esp.html)|`2025-10-21 05:03:00`|`Apex Legends`|
 |[RealMain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722092-realmain.html)|`2025-10-21 05:11:00`|`Battlefield 6`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-10-21 05:08:00`|`Rust`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2025-10-21 04:56:00`|`Grand Theft Auto V`|
