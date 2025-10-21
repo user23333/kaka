@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[reversing vgc requests](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722421-reversing-vgc-requests.html)|`2025-10-22 05:33:00`|`Valorant`|
+|[Bomb carrier script not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722420-bomb-carrier-script.html)|`2025-10-22 05:33:00`|`Counter-Strike 2`|
+|[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2025-10-22 05:33:00`|`Other FPS Games`|
+|[logitech anti recoil &#40;work in progress&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721342-logitech-anti-recoil-progress.html)|`2025-10-22 05:29:00`|`Battlefield 6`|
+|[Single ESP32&#45;S3 Rust Recoil Script &#45;FULL TUTORIAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721658-single-esp32-s3-rust-recoil-script-tutorial.html)|`2025-10-22 05:27:00`|`Rust`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-10-22 05:19:00`|`Escape from Tarkov`|
 |[VigemBus Stop working today ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/722209-vigembus-stop.html)|`2025-10-22 05:03:00`|`Call of Duty: Black Ops 6`|
 |[Speed up melee swings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/722416-speed-melee-swings.html)|`2025-10-22 04:51:00`|`Payday 2`|
