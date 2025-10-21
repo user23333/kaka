@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Witch It ESP External 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717954-witch-esp-external-2025-a.html)|`2025-10-21 19:50:00`|`Other FPS Games`|
+|[Paint The Town Red External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718516-paint-town-red-external.html)|`2025-10-21 19:49:00`|`Other Games`|
 |[BF6 Aimbot ESP Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722359-bf6-aimbot-esp-trainer.html)|`2025-10-21 19:44:00`|`Battlefield 6`|
 |[UD colorbot or trigerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/722357-ud-colorbot-trigerbot.html)|`2025-10-21 19:38:00`|`Overwatch`|
 |[signed r/w ioctl for valo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721180-signed-ioctl-valo.html)|`2025-10-21 19:30:00`|`Anti-Cheat Bypass`|
