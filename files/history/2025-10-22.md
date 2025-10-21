@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lightmoon V2 &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/709987-lightmoon-v2-external.html)|`2025-10-22 06:58:00`|`Counter-Strike 2`|
+|[Strinova Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667041-strinova-reversal-structs-offsets.html)|`2025-10-22 06:57:00`|`Other FPS Games`|
 |[Does anyone know how steamtools/greenluma works ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/722428-steamtools-greenluma.html)|`2025-10-22 06:51:00`|`Off Topic`|
 |[Need help optimizing cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/722169-help-optimizing-cheat.html)|`2025-10-22 06:49:00`|`Rust`|
 |[Need help with spoofer or just info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722039-help-spoofer-info.html)|`2025-10-22 06:47:00`|`Valorant`|
