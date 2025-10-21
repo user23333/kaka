@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What other methods does RCS have to bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722089-methods-rcs-bypass.html)|`2025-10-21 21:39:00`|`Counter-Strike 2`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-10-21 21:26:00`|`Escape from Tarkov`|
 |[SWTOR External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/722362-swtor-external.html)|`2025-10-21 21:02:00`|`Other Games`|
 |[Linux 6&#46;8&#43; LKM /proc/kallsyms issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722319-linux-6-8-lkm-proc-kallsyms-issues.html)|`2025-10-21 20:44:00`|`Anti-Cheat Bypass`|
 |[Rust Internal with dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721202-rust-internal-dumper.html)|`2025-10-21 20:31:00`|`Rust`|
