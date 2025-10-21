@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[esp/players broken](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722405-esp-players-broken.html)|`2025-10-22 03:40:00`|`Counter-Strike 2`|
 |[Warframe Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718442-warframe-internal-cheat.html)|`2025-10-22 03:37:00`|`Other FPS Games`|
 |[MEGABONK &#40;Demo&#41; Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/722356-megabonk-demo-mod.html)|`2025-10-22 03:36:00`|`Other Single Player Games`|
 |[Warframe Unban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694544-warframe-unban.html)|`2025-10-22 03:34:00`|`Other FPS Games`|
