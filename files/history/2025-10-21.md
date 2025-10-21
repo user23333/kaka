@@ -32,9 +32,12 @@
 |1|[StellaSoraDump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51634)|`2025-10-21 11:44:28`|
 |1|[ZortMenu V4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51636)|`2025-10-21 11:54:53`|
 |1|[ReadyorNotInternal&#45;2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51635)|`2025-10-21 11:54:53`|
+|2|[SWTOR External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51643)|`2025-10-21 21:19:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SWTOR External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/722362-swtor-external.html)|`2025-10-21 21:02:00`|`Other Games`|
+|[Linux 6&#46;8&#43; LKM /proc/kallsyms issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722319-linux-6-8-lkm-proc-kallsyms-issues.html)|`2025-10-21 20:44:00`|`Anti-Cheat Bypass`|
 |[Rust Internal with dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721202-rust-internal-dumper.html)|`2025-10-21 20:31:00`|`Rust`|
 |[newbie DMA player](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/722346-newbie-dma-player.html)|`2025-10-21 20:20:00`|`Introductions`|
 |[Im new](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/722361-im.html)|`2025-10-21 20:19:00`|`Introductions`|
