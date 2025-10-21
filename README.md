@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BF6 External Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722374-bf6-external-source.html)|`2025-10-21 22:22:00`|`Battlefield 6`|
 |[Undetected Overlay for APEX LEGENDS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/722234-undetected-overlay-apex-legends.html)|`2025-10-21 21:57:00`|`Apex Legends`|
 |[Lazybead &#40;LB&#41; &#45; Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat.html)|`2025-10-21 21:52:00`|`Sea of Thieves`|
 |[&#91;DMA&#93; What happened to Arbor pcie reader?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722266-dma-happened-arbor-pcie-reader.html)|`2025-10-21 21:27:00`|`Anti-Cheat Bypass`|
