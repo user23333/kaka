@@ -14,6 +14,7 @@
 |0|[Escape From Duckov](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/721778-escape-duckov.html)|`2025-10-21 01:41:21`|`other-fps-games`|
 |10|[ANTIcheat emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721785-anticheat-emulator.html)|`2025-10-21 03:58:03`|`valorant`|
 |8|[RealMain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722092-realmain.html)|`2025-10-21 11:14:21`|`battlefield-6-a`|
+|13|[Arduino move can't work with physic mouse together any more?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721470-arduino-move-cant-physic-mouse.html)|`2025-10-21 19:47:15`|`apex-legends`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BF6 Aimbot ESP Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722359-bf6-aimbot-esp-trainer.html)|`2025-10-21 19:44:00`|`Battlefield 6`|
 |[UD colorbot or trigerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/722357-ud-colorbot-trigerbot.html)|`2025-10-21 19:38:00`|`Overwatch`|
 |[signed r/w ioctl for valo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721180-signed-ioctl-valo.html)|`2025-10-21 19:30:00`|`Anti-Cheat Bypass`|
 |[MEGABONK &#40;Demo&#41; Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/722356-megabonk-demo-mod.html)|`2025-10-21 19:27:00`|`Other Single Player Games`|
