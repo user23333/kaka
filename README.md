@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Release&#93; Valorant Riot Login Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722315-release-valorant-riot-login-script.html)|`2025-10-22 00:48:00`|`Valorant`|
+|[theHunter: Call of the Wild Internal Radar, ESP, & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644365-thehunter-call-wild-internal-radar-esp.html)|`2025-10-22 00:43:00`|`Other FPS Games`|
+|[Linux 6&#46;8&#43; LKM /proc/kallsyms issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722319-linux-6-8-lkm-proc-kallsyms-issues.html)|`2025-10-22 00:36:00`|`Anti-Cheat Bypass`|
+|[&#91;LINUX&#93; Simple internal ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/721397-linux-simple-internal-esp-aimbot.html)|`2025-10-22 00:22:00`|`Counter-Strike 2 Releases`|
 |[GameEntity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722316-gameentity.html)|`2025-10-22 00:31:00`|`Battlefield 6`|
 |[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2025-10-22 00:16:00`|`Other Games`|
 |[Kdmapper error 0x0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722289-kdmapper-error-0x0.html)|`2025-10-22 00:16:00`|`Anti-Cheat Bypass`|
