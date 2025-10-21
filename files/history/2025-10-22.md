@@ -11,6 +11,7 @@
 |8|[Entity List Offset Change In New Update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721557-entity-list-offset-change-update.html)|`2025-10-22 00:12:06`|`counter-strike-2-a`|
 |4|[Most UD cheat for valo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721709-ud-cheat-valo.html)|`2025-10-22 00:12:06`|`valorant`|
 |9|[External chams for all gamemodes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721949-external-chams-gamemodes.html)|`2025-10-22 00:12:06`|`counter-strike-2-a`|
+|7|[VgkAutoUpdate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722265-vgkautoupdate.html)|`2025-10-22 00:56:09`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sleepy's External &#45; Outline, Skeleton, and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external-outline-skeleton-aimbot.html)|`2025-10-22 00:47:00`|`Overwatch`|
 |[&#91;Release&#93; Valorant Riot Login Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722315-release-valorant-riot-login-script.html)|`2025-10-22 00:48:00`|`Valorant`|
 |[theHunter: Call of the Wild Internal Radar, ESP, & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644365-thehunter-call-wild-internal-radar-esp.html)|`2025-10-22 00:43:00`|`Other FPS Games`|
 |[Linux 6&#46;8&#43; LKM /proc/kallsyms issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722319-linux-6-8-lkm-proc-kallsyms-issues.html)|`2025-10-22 00:36:00`|`Anti-Cheat Bypass`|
