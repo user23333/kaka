@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to start rust without EAC 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/722000-start-rust-eac-2025-a.html)|`2025-10-21 12:32:00`|`Rust`|
+|[we are helping anti&#45;cheat developers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/718913-helping-anti-cheat-developers.html)|`2025-10-21 12:22:00`|`Off Topic`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-10-21 12:14:00`|`Other Games`|
 |[Bhop script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/721239-bhop-script.html)|`2025-10-21 12:06:00`|`Garry's Mod`|
 |[Need help dumping Mario Kart Tour](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/722326-help-dumping-mario-kart-tour.html)|`2025-10-21 12:00:00`|`Other Games`|
 |[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2025-10-21 11:54:00`|`Other FPS Games`|
