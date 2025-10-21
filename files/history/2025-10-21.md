@@ -27,6 +27,8 @@
 |8|[Satisfactory Release&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51622)|`2025-10-21 00:24:31`|
 |148|[Sleepy's External &#45; 2&#46;19&#46;0&#46;0&#46;142923 1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51620)|`2025-10-21 00:24:31`|
 |9|[Arena Breakout Infinite SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51619)|`2025-10-21 00:24:31`|
+|2|[EVGA Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51638)|`2025-10-21 11:44:28`|
+|1|[StellaSoraDump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51634)|`2025-10-21 11:44:28`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
