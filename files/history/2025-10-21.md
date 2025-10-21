@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-10-21 10:11:00`|`Grand Theft Auto V`|
+|[Chivalry 2 Creating your owns &#46;PAK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716143-chivalry-2-creating-owns-pak.html)|`2025-10-21 10:06:00`|`Other FPS Games`|
+|[shatterline cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/721615-shatterline-cheat.html)|`2025-10-21 09:59:00`|`Other FPS Games`|
+|[Valorant Spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720719-valorant-spoof.html)|`2025-10-21 09:56:00`|`Valorant`|
+|[GameEntity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722316-gameentity.html)|`2025-10-21 09:49:00`|`Battlefield 6`|
+|[Apex DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716473-apex-dma-source.html)|`2025-10-21 09:41:00`|`Apex Legends`|
 |[Finding a xor encrypted entity list&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/721288-finding-xor-encrypted-entity-list.html)|`2025-10-21 08:26:00`|`General Programming and Reversing`|
 |[Need Help Reversing IL2CPP Game Encryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/721414-help-reversing-il2cpp-game-encryption.html)|`2025-10-21 08:25:00`|`General Programming and Reversing`|
 |[find view matrix on il2cpp games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/721749-view-matrix-il2cpp-games.html)|`2025-10-21 08:24:00`|`General Programming and Reversing`|
