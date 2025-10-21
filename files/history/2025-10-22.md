@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6 creating dma cheats with offsets&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/722321-r6-creating-dma-cheats-offsets.html)|`2025-10-22 06:43:00`|`Rainbow Six Siege`|
 |[CS2 Stuck on legacy skin changer mesh bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722424-cs2-stuck-legacy-skin-changer-mesh-bug.html)|`2025-10-22 06:34:00`|`Counter-Strike 2`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-10-22 06:31:00`|`DayZ SA`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-10-22 06:17:00`|`Other FPS Games`|
