@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Stuck on legacy skin changer mesh bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722424-cs2-stuck-legacy-skin-changer-mesh-bug.html)|`2025-10-22 06:34:00`|`Counter-Strike 2`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-10-22 06:31:00`|`DayZ SA`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-10-22 06:17:00`|`Other FPS Games`|
 |[Super Simple Score Changer &#45; Megabonk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/721017-super-simple-score-changer-megabonk.html)|`2025-10-22 06:09:00`|`Other Games`|
 |[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2025-10-22 05:50:00`|`HELLDIVERS 2`|
