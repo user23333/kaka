@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What other methods does RCS have to bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722089-methods-rcs-bypass.html)|`2025-10-23 05:40:00`|`Counter-Strike 2`|
+|[Borderlands 4 CVarsDump and Objectdump Addresses And Console Commands Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/721097-borderlands-4-cvarsdump-objectdump-addresses-console-commands-release.html)|`2025-10-23 05:39:00`|`Other Single Player Games`|
+|[Borderlands 4 cheat manager commands](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/721782-borderlands-4-cheat-manager-commands.html)|`2025-10-23 05:37:00`|`Other Single Player Games`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-10-23 05:31:00`|`Valorant`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-10-23 05:24:00`|`Marvel Rivals`|
 |[IW4X SP/SPEC&#45;OPS OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/722551-iw4x-sp-spec-ops-offsets.html)|`2025-10-23 05:17:00`|`Call of Duty 6: Modern Warfare 2`|
