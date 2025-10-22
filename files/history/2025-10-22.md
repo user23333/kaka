@@ -35,6 +35,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any way to freeze game client?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721991-freeze-game-client.html)|`2025-10-22 23:15:00`|`Battlefield 6`|
+|[BO6 Vip Internal &#40;ETH Rebrand&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720032-bo6-vip-internal-eth-rebrand.html)|`2025-10-22 23:11:00`|`Call of Duty: Black Ops 6`|
+|[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-10-22 23:06:00`|`PUBG Releases`|
+|[i need a spoofer for bo6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/721679-spoofer-bo6.html)|`2025-10-22 23:02:00`|`Call of Duty: Black Ops 6`|
+|[Rust Ban evading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721354-rust-ban-evading.html)|`2025-10-22 22:57:00`|`Rust`|
 |[Pax Dei](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/642787-pax-dei.html)|`2025-10-22 22:56:00`|`Other MMORPG and Strategy`|
 |[Increase your cheat's undetectability &#45; AntiCracking Library](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/722292-increase-cheats-undetectability-anticracking-library.html)|`2025-10-22 22:54:00`|`Counter-Strike 2 Releases`|
 |[Yim Menu Use](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/715564-yim-menu.html)|`2025-10-22 22:37:00`|`Grand Theft Auto V`|
