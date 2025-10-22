@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Warframe Unban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694544-warframe-unban.html)|`2025-10-23 01:50:00`|`Other FPS Games`|
+|[Looking for Mac Address changer/spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722533-looking-mac-address-changer-spoofer.html)|`2025-10-23 01:49:00`|`Anti-Cheat Bypass`|
 |[PhasmoCheatV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/722532-phasmocheatv.html)|`2025-10-23 01:49:00`|`Phasmophobia`|
 |[EAC bypass methods I learned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/722531-eac-bypass-methods-learned.html)|`2025-10-23 01:48:00`|`Apex Legends`|
 |[Banned? Post info&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719377-banned-post-info.html)|`2025-10-23 01:46:00`|`Counter-Strike 2`|
