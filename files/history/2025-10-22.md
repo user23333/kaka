@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[valorant triggerbot and autobhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722128-valorant-triggerbot-autobhop.html)|`2025-10-22 22:47:00`|`Valorant`|
 |[DO APEX READ ONLY CHEATS STILL WORK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/722509-apex-read-cheats.html)|`2025-10-22 22:32:00`|`Apex Legends`|
 |[APEX READ ONLY CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/722517-apex-read-cheat.html)|`2025-10-22 22:29:00`|`Apex Legends`|
 |[How to make a superglide macro &#91;EASIEST METHOD&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/722516-superglide-macro-easiest-method.html)|`2025-10-22 22:27:00`|`Apex Legends`|
