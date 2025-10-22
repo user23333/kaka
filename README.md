@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Environment for cheat creation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722056-environment-cheat-creation.html)|`2025-10-23 00:52:00`|`Counter-Strike 2`|
+|[Speed up melee swings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/722416-speed-melee-swings.html)|`2025-10-23 00:51:00`|`Payday 2`|
+|[DARKEST DAYS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/697870-darkest-days-reversal-structs-offsets.html)|`2025-10-23 00:51:00`|`Other FPS Games`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-10-23 00:38:00`|`Overwatch`|
 |[Decent BOMB Timer &#40;Python&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714751-decent-bomb-timer-python.html)|`2025-10-23 00:37:00`|`Valorant`|
 |[Age Of Empire 4 Scar Script Injector with Online &#43; Offline Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/720438-age-empire-4-scar-script-injector-online-offline-features.html)|`2025-10-23 00:34:00`|`Age of Empires`|
