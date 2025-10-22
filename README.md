@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TPM Spoofer for free &#40;signed driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713720-tpm-spoofer-free-signed-driver.html)|`2025-10-22 12:46:00`|`Valorant`|
 |[What inspired you to start game hacking&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/715415-inspired-start-game-hacking.html)|`2025-10-22 12:04:00`|`Off Topic`|
 |[Satisfactory Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710015-satisfactory-cheat.html)|`2025-10-22 12:01:00`|`Other FPS Games`|
 |[ntoskrnl driver from a scammer :D](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721319-ntoskrnl-driver-scammer.html)|`2025-10-22 11:54:00`|`Anti-Cheat Bypass`|
