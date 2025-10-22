@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SurrounDead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722344-surroundead.html)|`2025-10-23 01:42:00`|`Other FPS Games`|
+|[Cert Maker For Pasted Internals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721100-cert-maker-pasted-internals.html)|`2025-10-23 01:39:00`|`Valorant`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-10-23 01:23:00`|`Counter-Strike 2 Releases`|
 |[Warframe Cheat &#40;Eclipse&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722409-warframe-cheat-eclipse.html)|`2025-10-23 01:16:00`|`Other FPS Games`|
 |[eac fw unblock method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712622-eac-fw-unblock-method.html)|`2025-10-23 01:12:00`|`Anti-Cheat Bypass`|
