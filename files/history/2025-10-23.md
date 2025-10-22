@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Blue Protocol: Star Resonance Chest ESP?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722220-blue-protocol-star-resonance-chest-esp.html)|`2025-10-23 07:15:00`|`Other MMORPG and Strategy`|
+|[DirectX11 Kiero Hook looking really bad in CS2 on stretched res](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722570-directx11-kiero-hook-looking-bad-cs2-stretched-res.html)|`2025-10-23 07:12:00`|`Counter-Strike 2`|
+|[VAC has flagged your gameplay as irregular](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722337-vac-flagged-gameplay-irregular.html)|`2025-10-23 07:01:00`|`Counter-Strike 2`|
 |[pdfwkrnl is overlooked&#46; here's why&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721956-pdfwkrnl-overlooked-heres.html)|`2025-10-23 06:51:00`|`Anti-Cheat Bypass`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-10-23 06:39:00`|`Other Games`|
 |[Make Money and Ranking up&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/722467-money-ranking.html)|`2025-10-23 06:38:00`|`Grand Theft Auto V`|
