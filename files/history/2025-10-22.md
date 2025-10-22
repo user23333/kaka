@@ -35,6 +35,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2025-10-22 20:57:00`|`Apex Legends`|
+|[Genshin Impact 5&#46;8 Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/712706-genshin-impact-5-8-table.html)|`2025-10-22 20:49:00`|`Genshin Impact`|
+|[ARMA 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/114242-arma-3-reversal-structs-offsets.html)|`2025-10-22 20:40:00`|`ARMA 3`|
+|[Shadow Region Reversal Struct and Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708947-shadow-region-reversal-struct-offset.html)|`2025-10-22 20:38:00`|`Valorant`|
+|[Entering Globals For Gta v legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/722502-entering-globals-gta-legacy.html)|`2025-10-22 20:29:00`|`Grand Theft Auto V`|
 |[TrigerBot code in python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722347-trigerbot-code-python.html)|`2025-10-22 20:00:00`|`Counter-Strike 2`|
 |[How to Fix CutieHook&#40;XRC&#41; Source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/721169-fix-cutiehook-xrc-source-code.html)|`2025-10-22 19:58:00`|`Alternative Online Mods`|
 |[Vischeck DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/707208-vischeck-dma.html)|`2025-10-22 19:55:00`|`Playerunknown's Battlegrounds`|
