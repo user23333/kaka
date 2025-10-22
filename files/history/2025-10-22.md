@@ -13,6 +13,7 @@
 |9|[External chams for all gamemodes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721949-external-chams-gamemodes.html)|`2025-10-22 00:12:06`|`counter-strike-2-a`|
 |7|[VgkAutoUpdate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722265-vgkautoupdate.html)|`2025-10-22 00:56:09`|`valorant`|
 |5|[Solar Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721762-solar-skin-changer.html)|`2025-10-22 03:09:18`|`valorant`|
+|5|[CS2 External Base&#40;update offsets&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722203-cs2-external-base-update-offsets.html)|`2025-10-22 17:52:33`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
