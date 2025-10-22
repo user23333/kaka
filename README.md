@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to not get banned using aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/722187-banned-using-aimbot.html)|`2025-10-22 23:28:00`|`Overwatch`|
+|[Rubinium &#124; Free Inventory Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/713776-rubinium-free-inventory-changer.html)|`2025-10-22 23:26:00`|`Counter-Strike 2 Releases`|
 |[Any way to freeze game client?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721991-freeze-game-client.html)|`2025-10-22 23:15:00`|`Battlefield 6`|
 |[BO6 Vip Internal &#40;ETH Rebrand&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/720032-bo6-vip-internal-eth-rebrand.html)|`2025-10-22 23:11:00`|`Call of Duty: Black Ops 6`|
 |[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-10-22 23:06:00`|`PUBG Releases`|
