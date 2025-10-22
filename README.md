@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any hackers from way back still around?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/america-s-army-operations-2-x/42279-hackers.html)|`2025-10-23 06:31:00`|`America's Army Operations 2.x`|
 |[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-10-23 06:28:00`|`PUBG Releases`|
 |[Apex offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/722561-apex-offsets.html)|`2025-10-23 06:27:00`|`Apex Legends`|
 |[Squad v8&#46;2&#46;1 &#40;2025&#41; ini](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/681581-squad-v8-2-1-2025-ini.html)|`2025-10-23 06:23:00`|`Other FPS Games`|
