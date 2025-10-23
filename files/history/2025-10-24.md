@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Amoung Us Cheat &#45; Wen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/720637-amoung-cheat-wen.html)|`2025-10-24 04:26:00`|`Among Us`|
+|[starfall external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720579-starfall-external.html)|`2025-10-24 04:26:00`|`Valorant`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-10-24 04:22:00`|`Escape from Tarkov`|
+|[FATAL ERROR: CThreadPool::YieldWait](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722544-fatal-error-cthreadpool-yieldwait.html)|`2025-10-24 04:22:00`|`Counter-Strike 2`|
+|[BFV NO RECOIL REUPLOAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/721443-bfv-recoil-reupload.html)|`2025-10-24 04:21:00`|`Battlefield V`|
+|[mids](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/722674-mids.html)|`2025-10-24 04:17:00`|`Introductions`|
 |[How to make my visuals not lag in smoke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722576-visuals-lag-smoke.html)|`2025-10-24 04:02:00`|`Counter-Strike 2`|
 |[Need Roblox offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/704195-roblox-offsets.html)|`2025-10-24 03:54:00`|`General Programming and Reversing`|
 |[Dbd HWID ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722179-dbd-hwid-ban.html)|`2025-10-24 03:54:00`|`Anti-Cheat Bypass`|
