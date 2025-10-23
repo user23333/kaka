@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-10-24 03:01:00`|`Alternative Online Mods`|
+|[how should i hook?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722661-hook.html)|`2025-10-24 03:01:00`|`Counter-Strike 2`|
 |[AI&#45;Evasion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722399-ai-evasion.html)|`2025-10-24 02:54:00`|`Counter-Strike 2`|
 |[Chivalry 2 Basic &#46;pak &#45; Parera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720632-chivalry-2-basic-pak-parera.html)|`2025-10-24 02:51:00`|`Other Games`|
 |[finding offsets in IDA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/722233-finding-offsets-ida.html)|`2025-10-24 02:43:00`|`League of Legends`|
