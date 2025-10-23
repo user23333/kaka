@@ -27,9 +27,13 @@
 |11|[ZortMenu V4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51636)|`2025-10-23 00:17:18`|
 |44|[ReadyorNotInternal&#45;2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51635)|`2025-10-23 00:17:18`|
 |49|[StellaSoraDump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51634)|`2025-10-23 00:17:18`|
+|1|[&#43;&#43;Fortnite&#43;Release&#45;37&#46;51&#45;CL&#45;46968237](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51663)|`2025-10-23 12:44:52`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New Shadow Region Decryption for 25h2 win11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722588-shadow-region-decryption-25h2-win11.html)|`2025-10-23 12:43:00`|`Valorant`|
+|[DMA R6 Cheat &#124; No Recoil &#43; Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/721452-dma-r6-cheat-recoil.html)|`2025-10-23 12:42:00`|`Rainbow Six Siege`|
+|[Rust &#124; Ban Discussion Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/469369-rust-ban-discussion-thread.html)|`2025-10-23 12:34:00`|`Rust`|
 |[Genshin Impact 5&#46;8 Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/712706-genshin-impact-5-8-table.html)|`2025-10-23 12:32:00`|`Genshin Impact`|
 |[Dead By Daylight DMA 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714224-dead-daylight-dma-2-0-a.html)|`2025-10-23 12:19:00`|`Other FPS Games`|
 |[External ESP for Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/717952-external-esp-windows.html)|`2025-10-23 11:40:00`|`Apex Legends`|
