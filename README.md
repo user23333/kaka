@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bluefire 2&#46;0 all win11/10 &#43; controller support &#43; vendors dump 8&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/721987-bluefire-2-0-win11-10-controller-support-vendors-dump-8-1-a.html)|`2025-10-23 22:14:00`|`Paladins`|
+|[HvH server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/722633-hvh-server.html)|`2025-10-23 22:07:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[&#46;pak unpacker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/719599-pak-unpacker.html)|`2025-10-23 21:58:00`|`PUBG Mobile`|
 |[DayPay Internal &#91;STEAM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/720131-daypay-internal-steam.html)|`2025-10-23 21:56:00`|`Payday 3`|
 |[Internal ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/703386-internal-esp-aimbot.html)|`2025-10-23 21:52:00`|`Star Wars Battlefront 2`|
