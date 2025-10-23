@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust External &#45; RUNTIME AUTO UPDATE OFFSETS/DECRYPTION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/695007-rust-external-runtime-auto-update-offsets-decryption.html)|`2025-10-23 21:21:00`|`Rust`|
 |[Dead by Daylight HWID Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722565-dead-daylight-hwid-ban.html)|`2025-10-23 21:18:00`|`Anti-Cheat Bypass`|
 |[valorant triggerbot and autobhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722128-valorant-triggerbot-autobhop.html)|`2025-10-23 20:56:00`|`Valorant`|
 |[Perm Spoof &#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722628-perm-spoof-sys.html)|`2025-10-23 20:52:00`|`Anti-Cheat Bypass`|
