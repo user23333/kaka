@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need help with spoofer or just info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722039-help-spoofer-info.html)|`2025-10-23 16:15:00`|`Valorant`|
+|[The End of sigma rivals : source code release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699079-sigma-rivals-source-code-release.html)|`2025-10-23 16:07:00`|`Marvel Rivals`|
 |[DMA Custom Firmware First Steps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722595-dma-custom-firmware-steps.html)|`2025-10-23 15:40:00`|`Anti-Cheat Bypass`|
 |[UD cheat for valo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721926-ud-cheat-valo.html)|`2025-10-23 15:35:00`|`Valorant`|
 |[Trove &#45; Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722166-trove-silent-aim.html)|`2025-10-23 15:08:00`|`Other MMORPG and Strategy`|
