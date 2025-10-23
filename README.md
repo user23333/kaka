@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[༺ 𝙉𝙊𝙑𝘼 ༻ — ✧ Ultimate Insyde Spoofer ✧](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712892-ultimate-insyde-spoofer.html)|`2025-10-23 23:39:00`|`Valorant`|
+|[bypassing Roblox Hyperion anti cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/720329-bypassing-roblox-hyperion-anti-cheat.html)|`2025-10-23 23:33:00`|`Anti-Cheat Bypass`|
 |[Best Colorbot Targeting Logic ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722296-colorbot-targeting-logic.html)|`2025-10-23 23:31:00`|`Valorant`|
 |[I'm trying to get the structure of struct tagPOINT for Windows 11 24H2 use via gptCur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722646-im-trying-structure-struct-tagpoint-windows-11-24h2-via-gptcur.html)|`2025-10-23 23:29:00`|`Anti-Cheat Bypass`|
 |[Where do I start with InventoryChanger?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722631-start-inventorychanger.html)|`2025-10-23 23:28:00`|`Counter-Strike 2`|
