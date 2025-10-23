@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-10-23 19:20:00`|`Grand Theft Auto V`|
 |[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2025-10-23 19:12:00`|`HELLDIVERS 2`|
 |[Amoung Us Cheat &#45; Wen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/720637-amoung-cheat-wen.html)|`2025-10-23 18:43:00`|`Among Us`|
 |[Megabonk &#45; Complete Unlock Save File &#43; Encryption Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718985-megabonk-complete-unlock-save-file-encryption-methods.html)|`2025-10-23 18:39:00`|`Other Games`|
