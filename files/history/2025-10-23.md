@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does someone know how to add a keybind to this script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/722581-add-keybind-script.html)|`2025-10-23 11:26:00`|`Payday 2`|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2025-10-23 11:25:00`|`Battlefield 6`|
+|[Simulant&#45;Sharp Beta 0&#46;81](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/717544-simulant-sharp-beta-0-81-a.html)|`2025-10-23 11:24:00`|`Rainbow Six Siege`|
 |[device anomaly detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/706213-device-anomaly-detected.html)|`2025-10-23 10:38:00`|`Farlight 84`|
 |[a problem with my own phasmophobia cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/717602-own-phasmophobia-cheat.html)|`2025-10-23 10:00:00`|`Phasmophobia`|
 |[APEX READ ONLY CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/722517-apex-read-cheat.html)|`2025-10-23 09:57:00`|`Apex Legends`|
