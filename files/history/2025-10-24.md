@@ -11,6 +11,7 @@
 |9|[External chams for all gamemodes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721949-external-chams-gamemodes.html)|`2025-10-24 00:25:38`|`counter-strike-2-a`|
 |7|[pdfwkrnl is overlooked&#46; here's why&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721956-pdfwkrnl-overlooked-heres.html)|`2025-10-24 00:25:38`|`anti-cheat-bypass`|
 |19|[Warframe Cheat &#40;Eclipse&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722409-warframe-cheat-eclipse.html)|`2025-10-24 00:25:38`|`other-fps-games`|
+|11|[UD cheat for valo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721926-ud-cheat-valo.html)|`2025-10-24 01:00:10`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2025-10-24 00:58:00`|`Other Games`|
+|[Outlast &#40;noclip, fov fly, run speed,etc&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/714172-outlast-noclip-fov-fly-run-speed-etc.html)|`2025-10-24 00:57:00`|`Other Games`|
+|[How major anti&#45;cheat detect VMs?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721250-major-anti-cheat-detect-vms.html)|`2025-10-24 00:57:00`|`Anti-Cheat Bypass`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-10-24 00:54:00`|`Rust`|
+|[EVGA Driver Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722300-evga-driver-exploit.html)|`2025-10-24 00:54:00`|`Anti-Cheat Bypass`|
 |[MEGABONK &#40;Demo&#41; Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/722356-megabonk-demo-mod.html)|`2025-10-24 00:49:00`|`Other Single Player Games`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-10-24 00:45:00`|`Other FPS Games`|
 |[How to avoid the Echo AC Scanner?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/682750-avoid-echo-ac-scanner.html)|`2025-10-24 00:42:00`|`Alternative Online Mods`|
