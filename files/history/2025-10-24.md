@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to make my visuals not lag in smoke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722576-visuals-lag-smoke.html)|`2025-10-24 04:02:00`|`Counter-Strike 2`|
 |[Need Roblox offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/704195-roblox-offsets.html)|`2025-10-24 03:54:00`|`General Programming and Reversing`|
 |[Dbd HWID ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722179-dbd-hwid-ban.html)|`2025-10-24 03:54:00`|`Anti-Cheat Bypass`|
 |[Chivalry 2 Creating your owns &#46;PAK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716143-chivalry-2-creating-owns-pak.html)|`2025-10-24 03:52:00`|`Other FPS Games`|
