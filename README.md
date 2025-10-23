@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pattern for online dlc in sp bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/722228-pattern-online-dlc-sp-bypass.html)|`2025-10-23 12:49:00`|`Grand Theft Auto V`|
 |[New Shadow Region Decryption for 25h2 win11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722588-shadow-region-decryption-25h2-win11.html)|`2025-10-23 12:43:00`|`Valorant`|
 |[DMA R6 Cheat &#124; No Recoil &#43; Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/721452-dma-r6-cheat-recoil.html)|`2025-10-23 12:42:00`|`Rainbow Six Siege`|
 |[Rust &#124; Ban Discussion Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/469369-rust-ban-discussion-thread.html)|`2025-10-23 12:34:00`|`Rust`|
