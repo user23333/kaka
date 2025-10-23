@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Best Colorbot Targeting Logic ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722296-colorbot-targeting-logic.html)|`2025-10-23 23:31:00`|`Valorant`|
+|[I'm trying to get the structure of struct tagPOINT for Windows 11 24H2 use via gptCur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722646-im-trying-structure-struct-tagpoint-windows-11-24h2-via-gptcur.html)|`2025-10-23 23:29:00`|`Anti-Cheat Bypass`|
+|[Where do I start with InventoryChanger?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722631-start-inventorychanger.html)|`2025-10-23 23:28:00`|`Counter-Strike 2`|
 |[Outlast &#40;noclip, fov fly, run speed,etc&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/714172-outlast-noclip-fov-fly-run-speed-etc.html)|`2025-10-23 23:13:00`|`Other Games`|
 |[Tanks Blitz &#40;Lesta&#41; ESP Player's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/711725-tanks-blitz-lesta-esp-players.html)|`2025-10-23 22:37:00`|`Other MMORPG and Strategy`|
 |[Pro CS2 DMA &#45; Esp & Aimbot & Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656442-pro-cs2-dma-esp-aimbot-web-radar.html)|`2025-10-23 22:22:00`|`Counter-Strike 2`|
