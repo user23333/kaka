@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTFO Hax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/518895-gtfo-hax.html)|`2025-10-23 14:50:00`|`Other FPS Games`|
+|[Bubble Reach's PC/RGH GSC Menu Maker Free Bo1/Bo2/WAW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/722592-bubble-reachs-pc-rgh-gsc-menu-maker-free-bo1-bo2-waw.html)|`2025-10-23 14:42:00`|`Call of Duty: Black Ops`|
 |[Studying RainbowSix &#40;&#45;Engine&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/717001-studying-rainbowsix-engine.html)|`2025-10-23 14:07:00`|`Rainbow Six Siege`|
 |[Rust Ban evading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721354-rust-ban-evading.html)|`2025-10-23 13:47:00`|`Rust`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-10-23 13:46:00`|`Playerunknown's Battlegrounds`|
