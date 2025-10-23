@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I wanna learn C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/717296-wanna-learn.html)|`2025-10-23 16:21:00`|`Programming for Beginners`|
+|[BO6/7 SPOOFER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/719461-bo6-7-spoofer.html)|`2025-10-23 16:17:00`|`Call of Duty: Black Ops 7`|
+|[Palworld Internal DX11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/710102-palworld-internal-dx11.html)|`2025-10-23 16:17:00`|`Palworld`|
 |[Need help with spoofer or just info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722039-help-spoofer-info.html)|`2025-10-23 16:15:00`|`Valorant`|
 |[The End of sigma rivals : source code release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699079-sigma-rivals-source-code-release.html)|`2025-10-23 16:07:00`|`Marvel Rivals`|
 |[DMA Custom Firmware First Steps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722595-dma-custom-firmware-steps.html)|`2025-10-23 15:40:00`|`Anti-Cheat Bypass`|
