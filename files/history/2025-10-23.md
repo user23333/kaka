@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need help optimizing cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/722169-help-optimizing-cheat.html)|`2025-10-23 18:24:00`|`Rust`|
 |[rust external base&#40;astolfo&#46;codes&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/722617-rust-external-base-astolfo-codes.html)|`2025-10-23 18:10:00`|`Rust`|
 |[Simple Apex ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/719602-simple-apex-esp.html)|`2025-10-23 17:58:00`|`Apex Legends`|
 |[speedhack method mw2019 offline &#43; bots plsssss&#41;&#41;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/722363-speedhack-method-mw2019-offline-bots-plsssss.html)|`2025-10-23 17:54:00`|`Call of Duty: Modern Warfare`|
