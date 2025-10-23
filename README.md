@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-10-24 05:28:00`|`Other FPS Games`|
 |[MRPCS::MemHASH Hook&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/720734-mrpcs-memhash-hook.html)|`2025-10-24 05:18:00`|`PUBG Mobile`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-10-24 04:56:00`|`Phasmophobia`|
 |[Controller Support &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/722432-controller-support-external.html)|`2025-10-24 04:56:00`|`Call of Duty: Black Ops 6`|
