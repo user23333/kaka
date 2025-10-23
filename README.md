@@ -26,9 +26,12 @@
 |18|[ZortMenu V4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51636)|`2025-10-24 00:25:38`|
 |62|[ReadyorNotInternal&#45;2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51635)|`2025-10-24 00:25:38`|
 |1|[RevolutionDownfall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51671)|`2025-10-24 05:39:00`|
+|1|[5&#46;5&#46;4&#45;4306756&#43;Oak2&#45;Win64&#45;4306756&#45;OakGame&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51669)|`2025-10-24 05:44:46`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HWho Detected, New launcher bypass ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/721378-hwho-detected-launcher-bypass.html)|`2025-10-24 05:43:00`|`Escape from Tarkov`|
+|[Borderlands 4 Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/717789-borderlands-4-reversal-structs-offsets.html)|`2025-10-24 05:39:00`|`Other Single Player Games`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-10-24 05:33:00`|`Escape from Tarkov`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-10-24 05:28:00`|`Other FPS Games`|
 |[MRPCS::MemHASH Hook&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/720734-mrpcs-memhash-hook.html)|`2025-10-24 05:18:00`|`PUBG Mobile`|
