@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bubble Reach's PC/RGH GSC Menu Maker Free Bo1/Bo2/WAW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/722592-bubble-reachs-pc-rgh-gsc-menu-maker-free-bo1-bo2-waw.html)|`2025-10-25 03:48:00`|`Call of Duty: Black Ops`|
 |[Sleepy's External &#45; Outline, Skeleton, and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external-outline-skeleton-aimbot.html)|`2025-10-25 03:44:00`|`Overwatch`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-10-25 03:42:00`|`Counter-Strike 2`|
 |[Plants vs Zombies 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/720072-plants-vs-zombies-2-a.html)|`2025-10-25 03:35:00`|`Cheat Engine Tables`|
