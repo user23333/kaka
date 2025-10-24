@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Updated CS2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/721585-updated-cs2-external-esp.html)|`2025-10-24 18:12:00`|`Counter-Strike 2 Releases`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2025-10-24 18:04:00`|`Grand Theft Auto V`|
 |[Question about Skeleton offsets in DayZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/722730-question-skeleton-offsets-dayz.html)|`2025-10-24 17:48:00`|`DayZ SA`|
 |[Extract Players bypassing CR3 security](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/720631-extract-players-bypassing-cr3-security.html)|`2025-10-24 17:36:00`|`Battlefield 2042`|
 |[How do you inject?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/722657-inject.html)|`2025-10-24 17:23:00`|`Phasmophobia`|
