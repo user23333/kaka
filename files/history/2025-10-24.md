@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Using Traceshape for Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722779-using-traceshape-triggerbot.html)|`2025-10-24 23:34:00`|`Counter-Strike 2`|
+|[Luastate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/722709-luastate.html)|`2025-10-24 23:25:00`|`Alternative Online Mods`|
 |[C&#35; executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/716981-executor.html)|`2025-10-24 23:10:00`|`Alternative Online Mods`|
 |[shared memory communication](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709660-shared-memory-communication.html)|`2025-10-24 23:06:00`|`Anti-Cheat Bypass`|
 |[Struggling to find GWorld, etc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721906-struggling-gworld-etc.html)|`2025-10-24 22:38:00`|`Valorant`|
