@@ -35,6 +35,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Studying RainbowSix &#40;&#45;Engine&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/717001-studying-rainbowsix-engine.html)|`2025-10-24 10:25:00`|`Rainbow Six Siege`|
+|[Team Fortress 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/102936-team-fortress-2-reversal-structs-offsets.html)|`2025-10-24 10:21:00`|`Team Fortress 2`|
+|[Faceit FW legit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722459-faceit-fw-legit.html)|`2025-10-24 10:18:00`|`Anti-Cheat Bypass`|
+|[&#91;Release&#93; Valorant Riot Login Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722315-release-valorant-riot-login-script.html)|`2025-10-24 10:13:00`|`Valorant`|
+|[EAC Detection: Alternatives to MmCopyMemory and Kernel API Calls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721055-eac-detection-alternatives-mmcopymemory-kernel-api-calls.html)|`2025-10-24 10:12:00`|`Anti-Cheat Bypass`|
+|[Age Of Empire 4 Scar Script Injector with Online &#43; Offline Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/720438-age-empire-4-scar-script-injector-online-offline-features.html)|`2025-10-24 09:54:00`|`Age of Empires`|
 |[Simulant&#45;Sharp Beta 0&#46;81](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/717544-simulant-sharp-beta-0-81-a.html)|`2025-10-24 09:05:00`|`Rainbow Six Siege`|
 |[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2025-10-24 08:54:00`|`Other FPS Games`|
 |[2PC bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/721753-2pc-bypass.html)|`2025-10-24 08:50:00`|`League of Legends`|
