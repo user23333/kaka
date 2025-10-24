@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Visible check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722733-visible-check.html)|`2025-10-24 19:05:00`|`Counter-Strike 2`|
+|[Charlie Kirkware R6 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/717390-charlie-kirkware-r6-cheat.html)|`2025-10-24 18:28:00`|`Rainbow Six Siege`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-10-24 18:53:00`|`Sea of Thieves`|
 |[XCLOUD BANS??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/721105-xcloud-bans.html)|`2025-10-24 18:27:00`|`Call of Duty: Black Ops 6`|
 |[i need a spoofer for bo6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/721679-spoofer-bo6.html)|`2025-10-24 18:25:00`|`Call of Duty: Black Ops 6`|
