@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Question about Skeleton offsets in DayZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/722730-question-skeleton-offsets-dayz.html)|`2025-10-24 17:48:00`|`DayZ SA`|
 |[Extract Players bypassing CR3 security](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/720631-extract-players-bypassing-cr3-security.html)|`2025-10-24 17:36:00`|`Battlefield 2042`|
 |[How do you inject?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/722657-inject.html)|`2025-10-24 17:23:00`|`Phasmophobia`|
 |[does anyone actually watch this forum other than me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/722728-actually-watch-forum.html)|`2025-10-24 17:07:00`|`Half Life`|
