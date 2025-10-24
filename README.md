@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Visible check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722733-visible-check.html)|`2025-10-25 03:27:00`|`Counter-Strike 2`|
+|[Questions about assistance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/722805-questions-assistance.html)|`2025-10-25 03:26:00`|`Programming for Beginners`|
+|[Megabonk External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720385-megabonk-external-esp.html)|`2025-10-25 03:25:00`|`Other Games`|
 |[PatchGuard bypass at runtime &#45; Windows 10 22H2 / Windows 11 24H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722751-patchguard-bypass-runtime-windows-10-22h2-windows-11-24h2.html)|`2025-10-25 03:14:00`|`Anti-Cheat Bypass`|
 |[CR3 Bypass Is Dead?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/722803-cr3-bypass-dead.html)|`2025-10-25 03:14:00`|`Apex Legends`|
 |[Candy Crush Saga &#40;Windows Store Version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/711508-candy-crush-saga-windows-store-version.html)|`2025-10-25 03:12:00`|`Cheat Engine Tables`|
