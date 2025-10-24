@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Struggling to find GWorld, etc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721906-struggling-gworld-etc.html)|`2025-10-24 22:38:00`|`Valorant`|
+|[VgkAutoUpdate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722265-vgkautoupdate.html)|`2025-10-24 22:36:00`|`Valorant`|
+|[GoodDiePUBG &#45; PUBG 3&#46;9 Emulator Hack Source and Release &#40;server/client&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/708956-gooddiepubg-pubg-3-9-emulator-hack-source-release-server-client.html)|`2025-10-24 22:33:00`|`PUBG Mobile`|
 |[mono&#95;external&#95;lib DMA version for one of the latests engine versions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/722775-mono_external_lib-dma-version-latests-engine-versions.html)|`2025-10-24 22:28:00`|`Unity`|
 |[how can i decompile exe file ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/assembly/722773-decompile-exe-file.html)|`2025-10-24 22:24:00`|`Assembly`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-10-24 21:58:00`|`Counter-Strike 2`|
