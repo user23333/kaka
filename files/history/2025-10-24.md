@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Warframe Anticheat Global Hotkey](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/704942-warframe-anticheat-global-hotkey.html)|`2025-10-24 21:45:00`|`Other MMORPG and Strategy`|
 |[Roblox External &#45; &#91;ALWAYS UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717679-roblox-external-updated.html)|`2025-10-24 21:42:00`|`Other FPS Games`|
 |[rust external base&#40;astolfo&#46;codes&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/722617-rust-external-base-astolfo-codes.html)|`2025-10-24 21:40:00`|`Rust`|
 |[Visible inspection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/721126-visible-inspection.html)|`2025-10-24 21:32:00`|`Warface`|
