@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2025-10-24 15:42:00`|`Apex Legends`|
+|[Yim menu, Looking for a working LUA vehicle spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/722724-yim-menu-looking-lua-vehicle-spawner.html)|`2025-10-24 15:36:00`|`Grand Theft Auto V`|
 |[Offsets usage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/722723-offsets-usage.html)|`2025-10-24 15:34:00`|`Apex Legends`|
 |[DMA R6 Cheat &#124; No Recoil &#43; Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/721452-dma-r6-cheat-recoil.html)|`2025-10-24 15:01:00`|`Rainbow Six Siege`|
 |[Clash Royale Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/610217-clash-royale-mod.html)|`2025-10-24 14:53:00`|`Android`|
