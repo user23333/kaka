@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SurrounDead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722344-surroundead.html)|`2025-10-25 00:48:00`|`Other FPS Games`|
+|[BattleEye decrypt&#95;client&#95;base function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/722753-battleeye-decrypt_client_base-function.html)|`2025-10-25 00:42:00`|`Call of Duty: Black Ops 6`|
 |[Chivalry 2 Creating your owns &#46;PAK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716143-chivalry-2-creating-owns-pak.html)|`2025-10-25 00:35:00`|`Other FPS Games`|
 |[HVCI bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722787-hvci-bypass.html)|`2025-10-25 00:32:00`|`Anti-Cheat Bypass`|
 |[Lazybead &#40;LB&#41; &#45; Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat.html)|`2025-10-25 00:31:00`|`Sea of Thieves`|
