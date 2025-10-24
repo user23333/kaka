@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Plants vs Zombies 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/720072-plants-vs-zombies-2-a.html)|`2025-10-25 03:35:00`|`Cheat Engine Tables`|
+|[rust external base&#40;astolfo&#46;codes&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/722617-rust-external-base-astolfo-codes.html)|`2025-10-25 03:35:00`|`Rust`|
 |[Visible check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722733-visible-check.html)|`2025-10-25 03:27:00`|`Counter-Strike 2`|
 |[Questions about assistance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/722805-questions-assistance.html)|`2025-10-25 03:26:00`|`Programming for Beginners`|
 |[Megabonk External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720385-megabonk-external-esp.html)|`2025-10-25 03:25:00`|`Other Games`|
