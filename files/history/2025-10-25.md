@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[methods to get cr3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722824-methods-cr3.html)|`2025-10-25 07:00:00`|`Anti-Cheat Bypass`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-10-25 06:58:00`|`Counter-Strike 2`|
 |[FREE Source FiveM External Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/722713-free-source-fivem-external-undetected.html)|`2025-10-25 06:47:00`|`Grand Theft Auto V`|
 |[Driver C&#43;&#43; bypass AC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722172-driver-bypass-ac.html)|`2025-10-25 06:32:00`|`Anti-Cheat Bypass`|
 |[Auto BunnyHop CS SOURCE Steam v93](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/722563-auto-bunnyhop-cs-source-steam-v93.html)|`2025-10-25 06:31:00`|`CounterStrike Source`|
