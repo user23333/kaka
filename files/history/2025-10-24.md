@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Best Colorbot Targeting Logic ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722296-colorbot-targeting-logic.html)|`2025-10-24 11:12:00`|`Valorant`|
+|[AbyssTF public rls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/706779-abysstf-public-rls.html)|`2025-10-24 11:08:00`|`Team Fortress 2`|
+|[decrypt search/help for beginners](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/691062-decrypt-search-help-beginners.html)|`2025-10-24 11:05:00`|`Rust`|
+|[Make Money and Ranking up&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/722467-money-ranking.html)|`2025-10-24 10:55:00`|`Grand Theft Auto V`|
 |[Studying RainbowSix &#40;&#45;Engine&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/717001-studying-rainbowsix-engine.html)|`2025-10-24 10:25:00`|`Rainbow Six Siege`|
 |[Team Fortress 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/102936-team-fortress-2-reversal-structs-offsets.html)|`2025-10-24 10:21:00`|`Team Fortress 2`|
 |[Faceit FW legit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722459-faceit-fw-legit.html)|`2025-10-24 10:18:00`|`Anti-Cheat Bypass`|
