@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Age Of Empire 4 Scar Script Injector with Online &#43; Offline Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/720438-age-empire-4-scar-script-injector-online-offline-features.html)|`2025-10-25 04:29:00`|`Age of Empires`|
+|[The Finals External Cheat DMA&#33;&#33;&#40;Just Run It&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/640995-finals-external-cheat-dma-run.html)|`2025-10-25 04:23:00`|`THE FINALS`|
 |[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2025-10-25 04:12:00`|`Other FPS Games`|
 |[Request Certain Mods Here](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/462657-request-mods.html)|`2025-10-25 03:58:00`|`Payday 2`|
 |[DayZ DMA cheat &#40;Skeleton Esp, Aimbot, Radar&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/720910-dayz-dma-cheat-skeleton-esp-aimbot-radar.html)|`2025-10-25 03:55:00`|`DayZ SA`|
