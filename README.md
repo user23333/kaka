@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Roblox External &#45; &#91;ALWAYS UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717679-roblox-external-updated.html)|`2025-10-24 21:42:00`|`Other FPS Games`|
+|[rust external base&#40;astolfo&#46;codes&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/722617-rust-external-base-astolfo-codes.html)|`2025-10-24 21:40:00`|`Rust`|
+|[Visible inspection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/721126-visible-inspection.html)|`2025-10-24 21:32:00`|`Warface`|
+|[FREE Source FiveM External Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/722713-free-source-fivem-external-undetected.html)|`2025-10-24 21:25:00`|`Grand Theft Auto V`|
 |[How to update a hacked Client and add modules?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/722580-update-hacked-client-add-modules.html)|`2025-10-24 21:06:00`|`Forum General`|
 |[BattleEye decrypt&#95;client&#95;base function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/722753-battleeye-decrypt_client_base-function.html)|`2025-10-24 20:51:00`|`Call of Duty: Black Ops 6`|
 |[PatchGuard bypass at runtime &#45; Windows 10 22H2 / Windows 11 24H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722752-patchguard-bypass-runtime-windows-10-22h2-windows-11-24h2.html)|`2025-10-24 20:42:00`|`Anti-Cheat Bypass`|
