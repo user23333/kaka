@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to update a hacked Client and add modules?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/722580-update-hacked-client-add-modules.html)|`2025-10-24 21:06:00`|`Forum General`|
+|[BattleEye decrypt&#95;client&#95;base function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/722753-battleeye-decrypt_client_base-function.html)|`2025-10-24 20:51:00`|`Call of Duty: Black Ops 6`|
 |[PatchGuard bypass at runtime &#45; Windows 10 22H2 / Windows 11 24H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722752-patchguard-bypass-runtime-windows-10-22h2-windows-11-24h2.html)|`2025-10-24 20:42:00`|`Anti-Cheat Bypass`|
 |[PatchGuard bypass at runtime &#45; Windows 10 22H2 / Windows 11 24H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722751-patchguard-bypass-runtime-windows-10-22h2-windows-11-24h2.html)|`2025-10-24 20:41:00`|`Anti-Cheat Bypass`|
 |[Hack Update Role](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/722750-hack-update-role.html)|`2025-10-24 20:33:00`|`Marvel Rivals`|
