@@ -29,6 +29,8 @@
 |50|[Dead Frontier 2 Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51646)|`2025-10-25 00:16:51`|
 |1|[Sastasha Injector v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51686)|`2025-10-25 13:44:36`|
 |1|[temp the break in cheats v 0&#46;07](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51685)|`2025-10-25 13:44:36`|
+|2|[megadonk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51683)|`2025-10-25 13:50:41`|
+|1|[SurrounDead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51682)|`2025-10-25 13:50:41`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
