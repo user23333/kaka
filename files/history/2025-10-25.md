@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[triggerbot cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/722892-triggerbot-cheat.html)|`2025-10-25 21:10:00`|`Apex Legends`|
+|[temp spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722894-temp-spoofer.html)|`2025-10-25 21:07:00`|`Anti-Cheat Bypass`|
 |[Any outfit editor enchanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/721825-outfit-editor-enchanced.html)|`2025-10-25 20:47:00`|`Grand Theft Auto V`|
 |[Finally a working External SkinChanger for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/689733-finally-external-skinchanger-cs2.html)|`2025-10-25 20:36:00`|`Counter-Strike 2`|
 |[Arena Breakout Infinite &#45; Poor Man's Radar &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/721231-arena-breakout-infinite-poor-mans-radar-dma.html)|`2025-10-25 20:13:00`|`Other FPS Games`|
