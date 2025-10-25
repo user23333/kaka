@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Palworld Internal DX11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/710102-palworld-internal-dx11.html)|`2025-10-25 22:24:00`|`Palworld`|
+|[Who has the source code for the valo skinchanger?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722857-source-code-valo-skinchanger.html)|`2025-10-25 22:19:00`|`Valorant`|
+|[Bar Earning &#45; Unable to Collect the Earnings&#46;Keeps transactions pending&#46;Want to reset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/722908-bar-earning-unable-collect-earnings-transactions-pending-reset.html)|`2025-10-25 22:16:00`|`Grand Theft Auto V`|
+|[spoof help needed for weird case](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722874-spoof-help-weird.html)|`2025-10-25 22:16:00`|`Valorant`|
 |[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2025-10-25 22:03:00`|`Scum`|
 |[the isle evrima](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/722905-isle-evrima.html)|`2025-10-25 22:01:00`|`Other Games`|
 |[How to send inputs directly to server?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/722904-send-inputs-directly-server.html)|`2025-10-25 21:50:00`|`Garry's Mod`|
