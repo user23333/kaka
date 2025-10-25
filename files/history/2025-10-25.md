@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Best way to kickstart a new account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/722867-kickstart-account.html)|`2025-10-25 18:58:00`|`Grand Theft Auto V`|
 |[Does someone know how to add a keybind to this script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/722581-add-keybind-script.html)|`2025-10-25 18:07:00`|`Payday 2`|
 |[Once Human &#45; Another Round of Memory Experiments](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722863-human-round-memory-experiments.html)|`2025-10-25 17:56:00`|`Other MMORPG and Strategy`|
 |[BF6 External Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722374-bf6-external-source.html)|`2025-10-25 17:43:00`|`Battlefield 6`|
