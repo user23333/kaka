@@ -13,6 +13,7 @@
 |7|[pdfwkrnl is overlooked&#46; here's why&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721956-pdfwkrnl-overlooked-heres.html)|`2025-10-25 00:16:51`|`anti-cheat-bypass`|
 |16|[VAC has flagged your gameplay as irregular](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722337-vac-flagged-gameplay-irregular.html)|`2025-10-25 02:21:06`|`counter-strike-2-a`|
 |0|[BF6 External Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722374-bf6-external-source.html)|`2025-10-25 06:32:02`|`battlefield-6-a`|
+|1|[BF 6 ai aim?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722117-bf-6-ai-aim.html)|`2025-10-25 08:41:17`|`battlefield-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713513-valorant-external-base.html)|`2025-10-25 08:33:00`|`Valorant`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2025-10-25 08:26:00`|`Other FPS Games`|
+|[Linux AI aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722829-linux-ai-aimbot.html)|`2025-10-25 08:13:00`|`Counter-Strike 2`|
+|[Charlie Kirkware R6 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/717390-charlie-kirkware-r6-cheat.html)|`2025-10-25 08:09:00`|`Rainbow Six Siege`|
 |[EAC Detection: Alternatives to MmCopyMemory and Kernel API Calls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721055-eac-detection-alternatives-mmcopymemory-kernel-api-calls.html)|`2025-10-25 07:46:00`|`Anti-Cheat Bypass`|
 |[SurrounDead DX11 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/722827-surroundead-dx11-internal.html)|`2025-10-25 07:36:00`|`Other Single Player Games`|
 |[Tracing bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722314-tracing-bug.html)|`2025-10-25 07:01:00`|`Counter-Strike 2`|
