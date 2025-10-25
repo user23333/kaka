@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Once Human &#45; Another Round of Memory Experiments](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722863-human-round-memory-experiments.html)|`2025-10-25 17:56:00`|`Other MMORPG and Strategy`|
 |[BF6 External Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722374-bf6-external-source.html)|`2025-10-25 17:43:00`|`Battlefield 6`|
 |[best ai for coding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/722057-ai-coding.html)|`2025-10-25 17:04:00`|`C and C++`|
 |[More information about EAC in Fellowship?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722860-information-eac-fellowship.html)|`2025-10-25 16:56:00`|`Other MMORPG and Strategy`|
