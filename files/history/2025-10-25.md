@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[best ai for coding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/722057-ai-coding.html)|`2025-10-25 17:04:00`|`C and C++`|
+|[More information about EAC in Fellowship?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722860-information-eac-fellowship.html)|`2025-10-25 16:56:00`|`Other MMORPG and Strategy`|
 |[Warframe Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718442-warframe-internal-cheat.html)|`2025-10-25 16:26:00`|`Other FPS Games`|
 |[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2025-10-25 15:55:00`|`Other MMORPG and Strategy`|
 |[Logitech Lua No&#45;Recoil Script Status? &#40;Ricochet&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/722853-logitech-lua-recoil-script-status-ricochet.html)|`2025-10-25 15:44:00`|`Call of Duty: Modern Warfare`|
