@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Warframe Cheat &#40;Eclipse&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722409-warframe-cheat-eclipse.html)|`2025-10-26 01:21:00`|`Other FPS Games`|
+|[Best way to kickstart a new account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/722867-kickstart-account.html)|`2025-10-26 01:13:00`|`Grand Theft Auto V`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-10-26 01:12:00`|`Counter-Strike 2`|
 |[PlayerManager and DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722864-playermanager-dma.html)|`2025-10-26 01:00:00`|`Battlefield 6`|
 |[Titanfall 2 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/688353-titanfall-2-internal-cheat.html)|`2025-10-26 00:54:00`|`Titanfall`|
 |[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-10-26 00:52:00`|`Sea of Thieves`|
