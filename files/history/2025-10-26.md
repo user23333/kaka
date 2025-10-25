@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Manual Map Injector &#40;Roblox&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/722963-manual-map-injector-roblox.html)|`2025-10-26 06:03:00`|`General Programming and Reversing`|
+|[Genshin Impact 5&#46;8 Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/712706-genshin-impact-5-8-table.html)|`2025-10-26 06:00:00`|`Genshin Impact`|
 |[Slow/Snappy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722960-slow-snappy.html)|`2025-10-26 05:49:00`|`Counter-Strike 2`|
 |[Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/new-world/720676-offsets.html)|`2025-10-26 05:19:00`|`New World`|
 |[trove dupe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722336-trove-dupe.html)|`2025-10-26 05:05:00`|`Other MMORPG and Strategy`|
