@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2025-10-25 19:23:00`|`Other FPS Games`|
 |[I wanna learn C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/717296-wanna-learn.html)|`2025-10-25 19:02:00`|`Programming for Beginners`|
 |[Best way to kickstart a new account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/722867-kickstart-account.html)|`2025-10-25 18:58:00`|`Grand Theft Auto V`|
 |[Does someone know how to add a keybind to this script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/722581-add-keybind-script.html)|`2025-10-25 18:07:00`|`Payday 2`|
