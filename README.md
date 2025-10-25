@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Megabonk External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720385-megabonk-external-esp.html)|`2025-10-26 04:13:00`|`Other Games`|
+|[&#91;AMALGAM&#93; How to make an autoshoot/aimbot bind?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/722821-amalgam-autoshoot-aimbot-bind.html)|`2025-10-26 04:07:00`|`Team Fortress 2`|
 |[Temp Spoofer Signed By Microsoft &#40;WORKING&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717158-temp-spoofer-signed-microsoft.html)|`2025-10-26 03:41:00`|`Anti-Cheat Bypass`|
 |[External bullet tracers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/722946-external-bullet-tracers.html)|`2025-10-26 03:33:00`|`Call of Duty: Black Ops 6`|
 |[Any Software Jitter Macro After 10/14 EAC Update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721542-software-jitter-macro-10-14-eac-update.html)|`2025-10-26 03:25:00`|`Apex Legends`|
