@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2025-10-25 15:55:00`|`Other MMORPG and Strategy`|
 |[Logitech Lua No&#45;Recoil Script Status? &#40;Ricochet&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/722853-logitech-lua-recoil-script-status-ricochet.html)|`2025-10-25 15:44:00`|`Call of Duty: Modern Warfare`|
 |[i need a spoofer for bo6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/721679-spoofer-bo6.html)|`2025-10-25 15:29:00`|`Call of Duty: Black Ops 6`|
 |[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-10-25 15:14:00`|`Grand Theft Auto V`|
