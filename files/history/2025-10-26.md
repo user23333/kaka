@@ -12,6 +12,7 @@
 |1|[BF6 External Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722374-bf6-external-source.html)|`2025-10-26 00:13:55`|`battlefield-6-a`|
 |1|[BF 6 ai aim?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722117-bf-6-ai-aim.html)|`2025-10-26 00:13:55`|`battlefield-6-a`|
 |13|[Particle Modulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722798-particle-modulation.html)|`2025-10-26 10:24:01`|`counter-strike-2-a`|
+|3|[BF6 Aimbot ESP Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722359-bf6-aimbot-esp-trainer.html)|`2025-10-26 11:26:32`|`battlefield-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BF6 Aimbot &#40;TPU Accelerated Raspberry Pi&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722855-bf6-aimbot-tpu-accelerated-raspberry-pi.html)|`2025-10-26 11:01:00`|`Battlefield 6`|
+|[BloodStrike Usermode Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722475-bloodstrike-usermode-source.html)|`2025-10-26 10:54:00`|`Other FPS Games`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-10-26 10:23:00`|`Other MMORPG and Strategy`|
 |[How to start off with Drivers properly?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/722199-start-drivers-properly.html)|`2025-10-26 10:12:00`|`Call of Duty: Black Ops 6`|
 |[Problem with GetArena in mutable&#95;subtick&#95;moves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722845-getarena-mutable_subtick_moves.html)|`2025-10-26 10:11:00`|`Counter-Strike 2`|
