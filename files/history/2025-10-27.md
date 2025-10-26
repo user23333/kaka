@@ -24,9 +24,12 @@
 |16|[RevolutionDownfall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51671)|`2025-10-27 00:21:03`|
 |5|[5&#46;5&#46;4&#45;4306756&#43;Oak2&#45;Win64&#45;4306756&#45;OakGame&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51669)|`2025-10-27 00:21:03`|
 |7|[ground branch simple external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51666)|`2025-10-27 00:21:03`|
+|2|[StellaSora SDK Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51709)|`2025-10-27 01:55:06`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Roblox External &#45; &#91;ALWAYS UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717679-roblox-external-updated.html)|`2025-10-27 01:53:00`|`Other FPS Games`|
+|[Stella Sora Reversal Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722261-stella-sora-reversal-structs-offsets.html)|`2025-10-27 01:52:00`|`Other MMORPG and Strategy`|
 |[༺ 𝙉𝙊𝙑𝘼 ༻ — ✧ Ultimate Insyde Spoofer ✧](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712892-ultimate-insyde-spoofer.html)|`2025-10-27 01:48:00`|`Valorant`|
 |[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2025-10-27 01:47:00`|`HELLDIVERS 2`|
 |[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2025-10-27 01:42:00`|`Apex Legends`|
