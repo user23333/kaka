@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External B06 &#40;ESP &#43; Name &#43; Health &#43; KD, etc&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/713576-external-b06-esp-name-health-kd-etc.html)|`2025-10-27 00:53:00`|`Call of Duty: Black Ops 6`|
+|[Map driver in rwx dll section](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722956-map-driver-rwx-dll-section.html)|`2025-10-27 00:50:00`|`Anti-Cheat Bypass`|
 |[Farlight cheat internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/717566-farlight-cheat-internal.html)|`2025-10-27 00:47:00`|`Farlight 84`|
 |[The Outlast Trials Dumper&#45;7 Fix &#45; How To Dump The Game After the "Anti&#45;Cheat" update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722964-outlast-trials-dumper-7-fix-dump-game-anti-cheat-update.html)|`2025-10-27 00:44:00`|`Other FPS Games`|
 |[Can't find localPlayer in TF2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/722976-cant-localplayer-tf2.html)|`2025-10-27 00:38:00`|`Team Fortress 2`|
