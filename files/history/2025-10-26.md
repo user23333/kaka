@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[is this aimbot detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722995-aimbot-detected.html)|`2025-10-26 12:33:00`|`Counter-Strike 2`|
 |[&#91;LINUX&#93; Simple internal ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/721397-linux-simple-internal-esp-aimbot.html)|`2025-10-26 12:08:00`|`Counter-Strike 2 Releases`|
 |[EAC Ip ban &#40;can access with vpn&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722989-eac-ip-ban-access-vpn.html)|`2025-10-26 11:50:00`|`Anti-Cheat Bypass`|
 |[aqw private server launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/game-development/722991-aqw-private-server-launcher.html)|`2025-10-26 11:40:00`|`Game Development`|
