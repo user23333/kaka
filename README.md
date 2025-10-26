@@ -11,6 +11,7 @@
 |22|[VAC has flagged your gameplay as irregular](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722337-vac-flagged-gameplay-irregular.html)|`2025-10-27 00:21:03`|`counter-strike-2-a`|
 |3|[BF6 Aimbot ESP Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722359-bf6-aimbot-esp-trainer.html)|`2025-10-27 00:21:03`|`battlefield-6-a`|
 |15|[Particle Modulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722798-particle-modulation.html)|`2025-10-27 00:21:03`|`counter-strike-2-a`|
+|4|[&#91;Release&#93; Valorant Riot Login Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722315-release-valorant-riot-login-script.html)|`2025-10-27 06:42:43`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
