@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can't find localPlayer in TF2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/722976-cant-localplayer-tf2.html)|`2025-10-27 00:38:00`|`Team Fortress 2`|
+|[APEX READ ONLY ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/723054-apex-read-esp.html)|`2025-10-27 00:36:00`|`Apex Legends`|
 |[EAC Ip ban &#40;can access with vpn&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722989-eac-ip-ban-access-vpn.html)|`2025-10-27 00:17:00`|`Anti-Cheat Bypass`|
 |[Help me with the prediction please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721311-help-prediction-please.html)|`2025-10-27 00:15:00`|`Counter-Strike 2`|
 |[All Collectibles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/652663-collectibles.html)|`2025-10-27 00:09:00`|`Grand Theft Auto V`|
