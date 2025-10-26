@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Increase your cheat's undetectability &#45; AntiCracking Library](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/722292-increase-cheats-undetectability-anticracking-library.html)|`2025-10-26 15:12:00`|`Counter-Strike 2 Releases`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-10-26 14:59:00`|`League of Legends`|
 |[anti&#45;afk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/723002-anti-afk.html)|`2025-10-26 14:39:00`|`Sea of Thieves`|
 |[Account security has been compromised](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/722999-account-security-compromised.html)|`2025-10-26 14:09:00`|`Off Topic`|
 |[Stella Sora Reversal Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722261-stella-sora-reversal-structs-offsets.html)|`2025-10-26 13:56:00`|`Other MMORPG and Strategy`|
