@@ -32,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Age Of Empire 4 Scar Script Injector with Online &#43; Offline Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/720438-age-empire-4-scar-script-injector-online-offline-features.html)|`2025-10-27 06:53:00`|`Age of Empires`|
+|[&#91;Release&#93; Rocket League &#45; KingMod Free Paid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/721606-release-rocket-league-kingmod-free-paid.html)|`2025-10-27 06:53:00`|`Other Games`|
+|[Witch It ESP External 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717954-witch-esp-external-2025-a.html)|`2025-10-27 06:51:00`|`Other FPS Games`|
+|[&#91;Updated&#93; Dead by Daylight Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/635513-updated-dead-daylight-unlock-dlcs-skins.html)|`2025-10-27 06:49:00`|`Other FPS Games`|
+|[keybind pseudo godmode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/723098-keybind-pseudo-godmode.html)|`2025-10-27 06:49:00`|`Payday 2`|
+|[Bypass Anti&#45;Cheat Genshin Impact 6&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/717352-bypass-anti-cheat-genshin-impact-6-0-a.html)|`2025-10-27 06:40:00`|`Genshin Impact`|
 |[&#91;FXAP/Stream Files&#93; Dumper, Fixer & Decryptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/723012-fxap-stream-files-dumper-fixer-decryptor.html)|`2025-10-27 06:47:00`|`Alternative Online Mods`|
 |[Faceit FW legit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722459-faceit-fw-legit.html)|`2025-10-27 06:45:00`|`Anti-Cheat Bypass`|
 |[Provide some ideas for Russian Fishing 4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/722511-provide-ideas-russian-fishing-4-a.html)|`2025-10-27 06:44:00`|`Other Games`|
