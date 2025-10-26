@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League Kiting DMA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/701865-league-kiting-dma.html)|`2025-10-27 05:56:00`|`League of Legends`|
 |[MW19 Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/722087-mw19-internal-source.html)|`2025-10-27 05:46:00`|`Call of Duty: Modern Warfare`|
 |[han solo smuggler skin giver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/722914-han-solo-smuggler-skin-giver.html)|`2025-10-27 05:39:00`|`Star Wars Battlefront 2`|
 |[GTAV grand rp cheat that works like a DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/723088-gtav-grand-rp-cheat-dma.html)|`2025-10-27 05:34:00`|`Grand Theft Auto V`|
