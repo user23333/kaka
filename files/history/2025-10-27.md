@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bubble Reach's PC/RGH GSC Menu Maker Free Bo1/Bo2/WAW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/722592-bubble-reachs-pc-rgh-gsc-menu-maker-free-bo1-bo2-waw.html)|`2025-10-27 03:30:00`|`Call of Duty: Black Ops`|
+|[&#91;Source&#93; CS2 External &#124; ESP / Aimbot / RCS &#124; Python &#40;Neron v1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/722870-source-cs2-external-esp-aimbot-rcs-python-neron-v1-0-0-a.html)|`2025-10-27 03:30:00`|`Half Life`|
+|[Entity addresses valid but m&#95;iHealth offset returns 0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723019-entity-addresses-valid-m_ihealth-offset-returns-0-a.html)|`2025-10-27 03:29:00`|`Counter-Strike 2`|
+|[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-10-27 03:28:00`|`PUBG Releases`|
+|[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2025-10-27 03:09:00`|`Other FPS Games`|
 |[BloodStrike Usermode Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722475-bloodstrike-usermode-source.html)|`2025-10-27 03:14:00`|`Other FPS Games`|
 |[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-10-27 03:13:00`|`Farlight 84`|
 |[Andromeda CS2 Internal Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722929-andromeda-cs2-internal-base.html)|`2025-10-27 03:08:00`|`Counter-Strike 2`|
