@@ -27,9 +27,11 @@
 |2|[StellaSora SDK Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51709)|`2025-10-27 01:55:06`|
 |2|[RavenfieldRageSource](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51708)|`2025-10-27 02:11:51`|
 |1|[Han smuggler skin giver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51697)|`2025-10-27 05:48:32`|
+|1|[20535897 &#45; Latest dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51695)|`2025-10-27 06:32:26`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-10-27 06:18:00`|`Counter-Strike 2 Releases`|
 |[Exe Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/722311-exe-dumper.html)|`2025-10-27 06:16:00`|`Call of Duty: Black Ops 6`|
 |[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-10-27 06:16:00`|`HELLDIVERS 2`|
 |[Lua Script Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/new-world/722305-lua-script-dump.html)|`2025-10-27 06:14:00`|`New World`|
