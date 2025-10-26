@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-10-26 08:47:00`|`Grand Theft Auto V`|
+|[How to find rust offsets and decryptions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/722970-rust-offsets-decryptions.html)|`2025-10-26 08:46:00`|`Rust`|
+|[Trace Shape](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722743-trace-shape.html)|`2025-10-26 08:43:00`|`Counter-Strike 2`|
+|[Can't find localPlayer in TF2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/722976-cant-localplayer-tf2.html)|`2025-10-26 08:20:00`|`Team Fortress 2`|
+|[methods to get cr3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722824-methods-cr3.html)|`2025-10-26 08:20:00`|`Anti-Cheat Bypass`|
 |[HWho Detected, New launcher bypass ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/721378-hwho-detected-launcher-bypass.html)|`2025-10-26 07:12:00`|`Escape from Tarkov`|
 |[Chivalry 2 Basic &#46;pak &#45; Parera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720632-chivalry-2-basic-pak-parera.html)|`2025-10-26 06:54:00`|`Other Games`|
 |[ANTIcheat emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721785-anticheat-emulator.html)|`2025-10-26 06:54:00`|`Valorant`|
