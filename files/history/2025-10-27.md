@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sastasha Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/711299-sastasha-injector.html)|`2025-10-27 03:40:00`|`General Programming and Reversing`|
 |[Bubble Reach's PC/RGH GSC Menu Maker Free Bo1/Bo2/WAW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/722592-bubble-reachs-pc-rgh-gsc-menu-maker-free-bo1-bo2-waw.html)|`2025-10-27 03:30:00`|`Call of Duty: Black Ops`|
 |[&#91;Source&#93; CS2 External &#124; ESP / Aimbot / RCS &#124; Python &#40;Neron v1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/722870-source-cs2-external-esp-aimbot-rcs-python-neron-v1-0-0-a.html)|`2025-10-27 03:30:00`|`Half Life`|
 |[Entity addresses valid but m&#95;iHealth offset returns 0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723019-entity-addresses-valid-m_ihealth-offset-returns-0-a.html)|`2025-10-27 03:29:00`|`Counter-Strike 2`|
