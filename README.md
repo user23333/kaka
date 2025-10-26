@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any outfit editor enchanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/721825-outfit-editor-enchanced.html)|`2025-10-27 04:25:00`|`Grand Theft Auto V`|
+|[Studying RainbowSix &#40;&#45;Engine&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/717001-studying-rainbowsix-engine.html)|`2025-10-27 04:23:00`|`Rainbow Six Siege`|
+|[CS2 Stuck on legacy skin changer mesh bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722424-cs2-stuck-legacy-skin-changer-mesh-bug.html)|`2025-10-27 04:22:00`|`Counter-Strike 2`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-10-27 04:18:00`|`League of Legends`|
 |[Is it possible to make a UM cheat for Apex?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/723060-um-cheat-apex.html)|`2025-10-27 04:10:00`|`Apex Legends`|
 |[Making a roblox internal?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/722107-roblox-internal.html)|`2025-10-27 04:10:00`|`Programming for Beginners`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-10-27 04:10:00`|`Phasmophobia`|
