@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[🧩 MRON Injector &#43; MW2019 GSC Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/720981-mron-injector-mw2019-gsc-scripts.html)|`2025-10-26 21:29:00`|`Call of Duty: Modern Warfare`|
+|[Leveraging TPM2 TCG Logs &#40;Measured Boot&#41; to Detect UEFI Drivers and Boot Applications](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/694026-leveraging-tpm2-tcg-logs-measured-boot-detect-uefi-drivers-boot-applications.html)|`2025-10-26 21:23:00`|`Anti-Cheat Bypass`|
 |[Project Zomboid Cheat &#45; Valkur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/645408-project-zomboid-cheat-valkur.html)|`2025-10-26 21:05:00`|`Other MMORPG and Strategy`|
 |[CSS v34 Cheat &#43; ClientMod emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/720207-css-v34-cheat-clientmod-emulator.html)|`2025-10-26 21:01:00`|`CounterStrike Source`|
 |[Solomissions Lua for Legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703978-solomissions-lua-legacy.html)|`2025-10-26 20:47:00`|`Grand Theft Auto V`|
