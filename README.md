@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Faceit FW legit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722459-faceit-fw-legit.html)|`2025-10-28 05:21:00`|`Anti-Cheat Bypass`|
+|[What other methods does RCS have to bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722089-methods-rcs-bypass.html)|`2025-10-28 05:13:00`|`Counter-Strike 2`|
 |[BF6 External Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722374-bf6-external-source.html)|`2025-10-28 05:07:00`|`Battlefield 6`|
 |[How to hook kernel&#45;mode functions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717119-hook-kernel-mode-functions.html)|`2025-10-28 05:07:00`|`Anti-Cheat Bypass`|
 |[Borderlands 4 Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/717789-borderlands-4-reversal-structs-offsets.html)|`2025-10-28 05:04:00`|`Other Single Player Games`|
