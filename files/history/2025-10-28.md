@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ddos server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/722968-ddos-server.html)|`2025-10-28 02:16:00`|`Star Wars Battlefront 2`|
+|[External drawing hitbox pills](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703731-external-drawing-hitbox-pills.html)|`2025-10-28 02:12:00`|`Counter-Strike 2`|
+|[Bonematrix offset?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/722619-bonematrix-offset.html)|`2025-10-28 02:04:00`|`Garry's Mod`|
+|[Safer Driver Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/702983-safer-driver-cheat.html)|`2025-10-28 02:02:00`|`General Programming and Reversing`|
+|[Free Apex Coins/Cheap Coins Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/693249-free-apex-coins-cheap-coins-thread.html)|`2025-10-28 02:01:00`|`Apex Legends`|
 |[ACE bypass question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722830-ace-bypass-question.html)|`2025-10-28 01:52:00`|`Anti-Cheat Bypass`|
 |[ToF&#46;CFF](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tower-of-fantasy/722052-tof-cff.html)|`2025-10-28 01:46:00`|`Tower of Fantasy`|
 |[debugging tool LOL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/722538-debugging-tool-lol.html)|`2025-10-28 01:36:00`|`Call of Duty: Black Ops 6`|
