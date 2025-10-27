@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What has changed in 2025?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/723158-changed-2025-a.html)|`2025-10-27 22:32:00`|`Valorant`|
+|[Spoofer Driver &#40;Signed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/723042-spoofer-driver-signed.html)|`2025-10-27 22:24:00`|`Valorant`|
 |[Problem with GetArena in mutable&#95;subtick&#95;moves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722845-getarena-mutable_subtick_moves.html)|`2025-10-27 22:11:00`|`Counter-Strike 2`|
 |[DMA products for GTA 5 enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/723157-dma-products-gta-5-enhanced.html)|`2025-10-27 22:01:00`|`Grand Theft Auto V`|
 |[Amoung Us Cheat &#45; Wen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/720637-amoung-cheat-wen.html)|`2025-10-27 21:56:00`|`Among Us`|
