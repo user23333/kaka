@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[starfall external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720579-starfall-external.html)|`2025-10-27 22:42:00`|`Valorant`|
+|[Safer Driver Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/702983-safer-driver-cheat.html)|`2025-10-27 22:37:00`|`General Programming and Reversing`|
 |[What has changed in 2025?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/723158-changed-2025-a.html)|`2025-10-27 22:32:00`|`Valorant`|
 |[Spoofer Driver &#40;Signed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/723042-spoofer-driver-signed.html)|`2025-10-27 22:24:00`|`Valorant`|
 |[Problem with GetArena in mutable&#95;subtick&#95;moves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722845-getarena-mutable_subtick_moves.html)|`2025-10-27 22:11:00`|`Counter-Strike 2`|
