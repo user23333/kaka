@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[megabonk internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/722828-megabonk-internal-injector.html)|`2025-10-28 05:28:00`|`Other Games`|
+|[Solid Dupe Glitch for fivem server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719921-solid-dupe-glitch-fivem-server.html)|`2025-10-28 05:16:00`|`Alternative Online Mods`|
+|[Nothing for F125?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705920-f125.html)|`2025-10-28 05:13:00`|`Other Games`|
 |[Faceit FW legit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722459-faceit-fw-legit.html)|`2025-10-28 05:21:00`|`Anti-Cheat Bypass`|
 |[What other methods does RCS have to bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722089-methods-rcs-bypass.html)|`2025-10-28 05:13:00`|`Counter-Strike 2`|
 |[BF6 External Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722374-bf6-external-source.html)|`2025-10-28 05:07:00`|`Battlefield 6`|
