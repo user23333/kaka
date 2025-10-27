@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2025-10-28 00:44:00`|`Deadlock`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-10-28 00:42:00`|`Call of Duty: Black Ops 6`|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-10-28 00:41:00`|`Counter-Strike 2 Releases`|
+|[PlayerManager and DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722864-playermanager-dma.html)|`2025-10-28 00:41:00`|`Battlefield 6`|
+|[Dead Frontier 2 Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/722406-dead-frontier-2-cheats.html)|`2025-10-28 00:35:00`|`Other Games`|
+|[VAC has flagged your gameplay as irregular](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722337-vac-flagged-gameplay-irregular.html)|`2025-10-28 00:35:00`|`Counter-Strike 2`|
+|[Flickering bones &#40; &#43; video &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/723148-flickering-bones-video.html)|`2025-10-28 00:32:00`|`Rust`|
 |[Legends of YMIR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/723171-legends-ymir.html)|`2025-10-28 00:22:00`|`Other MMORPG and Strategy`|
 |[keybind pseudo godmode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/723098-keybind-pseudo-godmode.html)|`2025-10-28 00:13:00`|`Payday 2`|
 |[Does my MOBO Support VOLUME RAID?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/723168-mobo-support-volume-raid.html)|`2025-10-28 00:10:00`|`Valorant`|
