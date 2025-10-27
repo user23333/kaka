@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[is this aimbot detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722995-aimbot-detected.html)|`2025-10-28 06:52:00`|`Counter-Strike 2`|
+|[Environment for cheat creation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722056-environment-cheat-creation.html)|`2025-10-28 06:51:00`|`Counter-Strike 2`|
+|[How to change ur FTPM without a driver &#40;AMD, Gigabyte only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720900-change-ur-ftpm-driver-amd-gigabyte.html)|`2025-10-28 06:32:00`|`Valorant`|
 |[rcs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723121-rcs.html)|`2025-10-28 06:43:00`|`Counter-Strike 2`|
 |[Deadlock DMA &#40;with source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/723221-deadlock-dma-source.html)|`2025-10-28 06:38:00`|`Deadlock`|
 |[NMI & IDTR Patchguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710851-nmi-idtr-patchguard.html)|`2025-10-28 06:35:00`|`Anti-Cheat Bypass`|
