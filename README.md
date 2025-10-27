@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypass Anti&#45;Cheat Genshin Impact 6&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/717352-bypass-anti-cheat-genshin-impact-6-0-a.html)|`2025-10-28 03:45:00`|`Genshin Impact`|
 |[The Outlast Trials Dumper&#45;7 Fix &#45; How To Dump The Game After the "Anti&#45;Cheat" update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722964-outlast-trials-dumper-7-fix-dump-game-anti-cheat-update.html)|`2025-10-28 03:40:00`|`Other FPS Games`|
 |[Arduino basied bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/723155-arduino-basied-bot.html)|`2025-10-28 03:37:00`|`Battlefield 6`|
 |[DayPay Internal &#91;STEAM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/720131-daypay-internal-steam.html)|`2025-10-28 03:33:00`|`Payday 3`|
