@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ETOC &#45; Every Type of Communication &#40;Kernel&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721271-etoc-type-communication-kernel.html)|`2025-10-27 11:33:00`|`Anti-Cheat Bypass`|
+|[Metal Garden Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/723117-metal-garden-internal.html)|`2025-10-27 11:10:00`|`Other Single Player Games`|
 |[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2025-10-27 10:40:00`|`Battlefield 6`|
 |[Skip Team Intro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723115-skip-team-intro.html)|`2025-10-27 10:36:00`|`Counter-Strike 2`|
 |[x64dbg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/723005-x64dbg.html)|`2025-10-27 10:33:00`|`Alternative Online Mods`|
