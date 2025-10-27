@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ekknod External CS2 need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714497-ekknod-external-cs2-help.html)|`2025-10-27 20:18:00`|`Counter-Strike 2`|
+|[FSL with DMA possible](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/723146-fsl-dma.html)|`2025-10-27 20:12:00`|`Grand Theft Auto V`|
 |[Simple Screen Capture Protection For Your Overlay/Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/723001-simple-screen-capture-protection-overlay-menu.html)|`2025-10-27 19:29:00`|`Alternative Online Mods`|
 |[Warframe Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718442-warframe-internal-cheat.html)|`2025-10-27 19:26:00`|`Other FPS Games`|
 |[Solid Dupe Glitch for fivem server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719921-solid-dupe-glitch-fivem-server.html)|`2025-10-27 18:53:00`|`Alternative Online Mods`|
