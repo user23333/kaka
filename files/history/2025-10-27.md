@@ -39,6 +39,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2025-10-27 18:50:00`|`Elite: Dangerous`|
+|[Ban Data Collection Thread/Unban Method Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/420476-ban-data-collection-thread-unban-method-discussion.html)|`2025-10-27 18:27:00`|`Escape from Tarkov`|
+|[Luastate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/722709-luastate.html)|`2025-10-27 18:20:00`|`Alternative Online Mods`|
 |[Warface Clutch cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/723137-warface-clutch-cheat.html)|`2025-10-27 18:33:00`|`Warface`|
 |[Best way to kickstart a new account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/722867-kickstart-account.html)|`2025-10-27 18:31:00`|`Grand Theft Auto V`|
 |[MegaBonk &#45; BanChecker &#45; IsCheater Logger & GUI &#40;x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/723108-megabonk-banchecker-ischeater-logger-gui-x64.html)|`2025-10-27 18:30:00`|`Other Games`|
