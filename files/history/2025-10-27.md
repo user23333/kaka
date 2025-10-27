@@ -39,6 +39,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Flickering bones &#40; &#43; video &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/723148-flickering-bones-video.html)|`2025-10-27 20:37:00`|`Rust`|
+|[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2025-10-27 20:34:00`|`Palia`|
+|[DMA Custom Firmware First Steps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722595-dma-custom-firmware-steps.html)|`2025-10-27 20:31:00`|`Anti-Cheat Bypass`|
+|[External drawing hitbox pills](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703731-external-drawing-hitbox-pills.html)|`2025-10-27 20:26:00`|`Counter-Strike 2`|
 |[ekknod External CS2 need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/714497-ekknod-external-cs2-help.html)|`2025-10-27 20:18:00`|`Counter-Strike 2`|
 |[FSL with DMA possible](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/723146-fsl-dma.html)|`2025-10-27 20:12:00`|`Grand Theft Auto V`|
 |[Simple Screen Capture Protection For Your Overlay/Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/723001-simple-screen-capture-protection-overlay-menu.html)|`2025-10-27 19:29:00`|`Alternative Online Mods`|
