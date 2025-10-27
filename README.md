@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2025-10-28 06:58:00`|`Unity`|
+|[Entity addresses valid but m&#95;iHealth offset returns 0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723019-entity-addresses-valid-m_ihealth-offset-returns-0-a.html)|`2025-10-28 06:54:00`|`Counter-Strike 2`|
 |[is this aimbot detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722995-aimbot-detected.html)|`2025-10-28 06:52:00`|`Counter-Strike 2`|
 |[Environment for cheat creation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722056-environment-cheat-creation.html)|`2025-10-28 06:51:00`|`Counter-Strike 2`|
 |[How to change ur FTPM without a driver &#40;AMD, Gigabyte only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720900-change-ur-ftpm-driver-amd-gigabyte.html)|`2025-10-28 06:32:00`|`Valorant`|
