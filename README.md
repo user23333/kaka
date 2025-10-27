@@ -30,9 +30,19 @@
 |1|[Han smuggler skin giver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51697)|`2025-10-27 05:48:32`|
 |1|[20535897 &#45; Latest dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51695)|`2025-10-27 06:32:26`|
 |1|[RavenfieldRage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51694)|`2025-10-27 07:44:17`|
+|1|[MegaBanChecker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51715)|`2025-10-27 10:51:46`|
+|1|[The Isle Evrima Hordetest SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51713)|`2025-10-27 10:51:46`|
+|4|[Dumper&#45;7 &#45; modified version &#45; Outlast Trials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51706)|`2025-10-27 10:51:46`|
+|2|[Memory Protection Tool &#45; V1&#46;00](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51705)|`2025-10-27 10:51:46`|
+|2|[TOT AC Tool &#45; V1&#46;00](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51704)|`2025-10-27 10:51:46`|
+|1|[ABI Poor Man's Radar v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51699)|`2025-10-27 10:51:46`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2025-10-27 10:40:00`|`Battlefield 6`|
+|[Skip Team Intro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723115-skip-team-intro.html)|`2025-10-27 10:36:00`|`Counter-Strike 2`|
+|[x64dbg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/723005-x64dbg.html)|`2025-10-27 10:33:00`|`Alternative Online Mods`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-10-27 10:32:00`|`Escape from Tarkov`|
 |[RTCore/DBUtil alternative](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/719357-rtcore-dbutil-alternative.html)|`2025-10-27 09:00:00`|`General Programming and Reversing`|
 |[cs2 cheat not injecting&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723079-cs2-cheat-injecting.html)|`2025-10-27 08:45:00`|`Counter-Strike 2`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-10-27 08:08:00`|`Valorant`|
