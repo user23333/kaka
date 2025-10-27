@@ -39,6 +39,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Linux AI aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722829-linux-ai-aimbot.html)|`2025-10-27 12:31:00`|`Counter-Strike 2`|
+|[Duet Night Abyss Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/723122-duet-night-abyss-reversal-structs-offsets.html)|`2025-10-27 12:18:00`|`Other MMORPG and Strategy`|
+|[Updated CS2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/721585-updated-cs2-external-esp.html)|`2025-10-27 12:15:00`|`Counter-Strike 2 Releases`|
 |[rcs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723121-rcs.html)|`2025-10-27 12:01:00`|`Counter-Strike 2`|
 |[SurrounDead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722344-surroundead.html)|`2025-10-27 11:57:00`|`Other FPS Games`|
 |[Dayz PBO TOOLS&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/723120-dayz-pbo-tools.html)|`2025-10-27 11:51:00`|`DayZ SA`|
