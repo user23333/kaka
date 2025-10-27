@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External ESP for Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/717952-external-esp-windows.html)|`2025-10-27 12:57:00`|`Apex Legends`|
 |[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2025-10-27 12:50:00`|`Other FPS Games`|
 |[ZORT Spawn Menu &#91;BepinEx&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/683876-zort-spawn-menu-bepinex.html)|`2025-10-27 12:45:00`|`Other FPS Games`|
 |[Simple CS2 external cheat base V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/722697-simple-cs2-external-cheat-base-v2.html)|`2025-10-27 12:41:00`|`Counter-Strike 2 Releases`|
