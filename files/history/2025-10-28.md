@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Safe driver bypassing anticheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/723129-safe-driver-bypassing-anticheats.html)|`2025-10-28 03:29:00`|`General Programming and Reversing`|
 |[ETOC &#45; Every Type of Communication &#40;Kernel&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721271-etoc-type-communication-kernel.html)|`2025-10-28 03:22:00`|`Anti-Cheat Bypass`|
 |[how to find r6gamemanager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/723190-r6gamemanager.html)|`2025-10-28 03:21:00`|`Rainbow Six Siege`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-10-28 03:18:00`|`Counter-Strike 2`|
