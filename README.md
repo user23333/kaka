@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RTCore/DBUtil alternative](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/719357-rtcore-dbutil-alternative.html)|`2025-10-27 09:00:00`|`General Programming and Reversing`|
+|[cs2 cheat not injecting&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723079-cs2-cheat-injecting.html)|`2025-10-27 08:45:00`|`Counter-Strike 2`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-10-27 08:08:00`|`Valorant`|
 |[Rocket League Ball Prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/723104-rocket-league-ball-prediction.html)|`2025-10-27 07:29:00`|`Other Games`|
 |[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2025-10-27 07:30:00`|`Tom Clancy's The Division`|
 |[Fast And Simple Triggerbot &#40;ASM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698448-fast-simple-triggerbot-asm.html)|`2025-10-27 07:29:00`|`Valorant`|
