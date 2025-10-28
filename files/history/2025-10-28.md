@@ -36,6 +36,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Viewmodel Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723298-viewmodel-changer.html)|`2025-10-28 20:37:00`|`Counter-Strike 2`|
+|[Fly / Noclip / Ghost](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/603453-fly-noclip-ghost.html)|`2025-10-28 20:36:00`|`Payday 3`|
+|[AmongUsCosmetics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/521567-amonguscosmetics.html)|`2025-10-28 20:34:00`|`Among Us`|
+|[&#40;FiveM&#41; kiero hook & more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/723258-fivem-kiero-hook.html)|`2025-10-28 20:26:00`|`Alternative Online Mods`|
+|[Hardware overlay in 2025?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723294-hardware-overlay-2025-a.html)|`2025-10-28 20:21:00`|`Anti-Cheat Bypass`|
+|[LucidBot AutoSpotter & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713528-lucidbot-autospotter.html)|`2025-10-28 20:09:00`|`Battlefield 6`|
 |[Mapping all of physmem into your UM process](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723283-mapping-physmem-um-process.html)|`2025-10-28 19:44:00`|`Anti-Cheat Bypass`|
 |[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-10-28 19:43:00`|`Other FPS Games`|
 |[Extreme Injector v3&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/213038-extreme-injector-v3-7-a.html)|`2025-10-28 19:33:00`|`General Programming and Reversing`|
