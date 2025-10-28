@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External B06 &#40;ESP &#43; Name &#43; Health &#43; KD, etc&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/713576-external-b06-esp-name-health-kd-etc.html)|`2025-10-29 04:53:00`|`Call of Duty: Black Ops 6`|
+|[Emulator detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/712134-emulator-detection.html)|`2025-10-29 04:50:00`|`PUBG Mobile`|
 |[Banned in Battlefield 6 &#45; Data Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713413-banned-battlefield-6-data-collection-thread.html)|`2025-10-29 04:45:00`|`Battlefield 6`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-10-29 04:43:00`|`Other MMORPG and Strategy`|
 |[Blue Archive Cheat — Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/710592-blue-archive-cheat-steam.html)|`2025-10-29 04:37:00`|`Other MMORPG and Strategy`|
