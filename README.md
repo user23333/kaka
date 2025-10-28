@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BO3 GSC INJECTOR &#40;Windows/Xbox App Version Only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/699837-bo3-gsc-injector-windows-xbox-app-version.html)|`2025-10-28 11:37:00`|`Call of Duty: Black Ops 3`|
+|[What has changed in 2025?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/723158-changed-2025-a.html)|`2025-10-28 11:35:00`|`Valorant`|
+|[What inspired you to start game hacking&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/715415-inspired-start-game-hacking.html)|`2025-10-28 11:35:00`|`Off Topic`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-10-28 11:25:00`|`Other Games`|
 |[Anti&#45;Smoke for Counter Strike Source Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/723234-anti-smoke-counter-strike-source-steam.html)|`2025-10-28 09:59:00`|`CounterStrike Source`|
 |[Theia static decryptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/696332-theia-static-decryptor.html)|`2025-10-28 09:51:00`|`Anti-Cheat Bypass`|
 |[Texture2D Managed to ID3D11Resource](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/723232-texture2d-managed-id3d11resource.html)|`2025-10-28 09:27:00`|`Unity`|
