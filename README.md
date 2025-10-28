@@ -13,6 +13,7 @@
 |7|[rust external base&#40;astolfo&#46;codes&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/722617-rust-external-base-astolfo-codes.html)|`2025-10-28 00:25:18`|`rust`|
 |7|[Map driver in rwx dll section](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722956-map-driver-rwx-dll-section.html)|`2025-10-28 04:55:08`|`anti-cheat-bypass`|
 |12|[Another battleye bypass for offline](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/722686-battleye-bypass-offline.html)|`2025-10-28 09:44:33`|`escape-from-tarkov`|
+|5|[PlayerManager and DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722864-playermanager-dma.html)|`2025-10-28 11:56:22`|`battlefield-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -26,9 +27,13 @@
 |48|[rwxdrivermapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51702)|`2025-10-28 00:25:18`|
 |8|[ABI Poor Man's Radar v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51699)|`2025-10-28 00:25:18`|
 |5|[Han smuggler skin giver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51697)|`2025-10-28 00:25:18`|
+|1|[DarkHours1&#46;0Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51734)|`2025-10-28 11:56:22`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dark Hours DX11 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/721309-dark-hours-dx11-internal.html)|`2025-10-28 11:49:00`|`Other Games`|
+|[External ESP for Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/717952-external-esp-windows.html)|`2025-10-28 11:48:00`|`Apex Legends`|
+|[How to make cracked rust dedicated server?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/722742-cracked-rust-dedicated-server.html)|`2025-10-28 11:47:00`|`Rust`|
 |[BO3 GSC INJECTOR &#40;Windows/Xbox App Version Only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/699837-bo3-gsc-injector-windows-xbox-app-version.html)|`2025-10-28 11:37:00`|`Call of Duty: Black Ops 3`|
 |[What has changed in 2025?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/723158-changed-2025-a.html)|`2025-10-28 11:35:00`|`Valorant`|
 |[What inspired you to start game hacking&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/715415-inspired-start-game-hacking.html)|`2025-10-28 11:35:00`|`Off Topic`|
