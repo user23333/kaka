@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2025-10-28 18:20:00`|`Elite: Dangerous`|
+|[first ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/723141-ban.html)|`2025-10-28 18:17:00`|`Escape from Tarkov`|
+|[how safe I am to cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/723189-safe-am-cheat.html)|`2025-10-28 18:14:00`|`Elite: Dangerous`|
 |[Im looking this offset for all version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/723254-im-looking-offset-version.html)|`2025-10-28 17:56:00`|`Alternative Online Mods`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-10-28 17:43:00`|`DayZ SA`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-10-28 17:04:00`|`Other FPS Games`|
