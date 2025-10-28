@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2025-10-29 00:25:00`|`Battlefield 6`|
+|[Odin v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/629281-odin-v1.html)|`2025-10-29 00:21:00`|`Paladins`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-10-29 00:19:00`|`Valorant`|
+|[SEowndde x64 improved &#40;FREEZE QUE&#43;OPTIMIZONES&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/723329-seowndde-x64-improved-freeze-que-optimizones.html)|`2025-10-29 00:18:00`|`Team Fortress 2`|
+|[Duet Night Abyss Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/723122-duet-night-abyss-reversal-structs-offsets.html)|`2025-10-29 00:11:00`|`Other MMORPG and Strategy`|
+|[&#40;FiveM&#41; kiero hook & more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/723258-fivem-kiero-hook.html)|`2025-10-29 00:06:00`|`Alternative Online Mods`|
 |[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-10-28 23:55:00`|`Other FPS Games`|
 |[Help bone calc offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/723327-help-bone-calc-offset.html)|`2025-10-28 23:55:00`|`Valorant`|
 |[Battlefield 6 Logitech Anti&#45;Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/723124-battlefield-6-logitech-anti-recoil.html)|`2025-10-28 23:48:00`|`Battlefield 6`|
