@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anybody has a x64 esp cheat that works with amalgam?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/722953-x64-esp-cheat-amalgam.html)|`2025-10-28 18:45:00`|`Team Fortress 2`|
 |[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2025-10-28 18:20:00`|`Elite: Dangerous`|
 |[first ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/723141-ban.html)|`2025-10-28 18:17:00`|`Escape from Tarkov`|
 |[how safe I am to cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/723189-safe-am-cheat.html)|`2025-10-28 18:14:00`|`Elite: Dangerous`|
