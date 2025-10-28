@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-10-28 21:38:00`|`Other FPS Games`|
+|[Hyde handle Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723312-hyde-handle-windows.html)|`2025-10-28 21:31:00`|`Anti-Cheat Bypass`|
+|[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2025-10-28 21:26:00`|`Palia`|
 |[Viewmodel Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723298-viewmodel-changer.html)|`2025-10-28 20:37:00`|`Counter-Strike 2`|
 |[Fly / Noclip / Ghost](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/603453-fly-noclip-ghost.html)|`2025-10-28 20:36:00`|`Payday 3`|
 |[AmongUsCosmetics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/521567-amonguscosmetics.html)|`2025-10-28 20:34:00`|`Among Us`|
