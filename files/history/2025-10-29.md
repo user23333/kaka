@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Memory Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/722218-external-memory-aim.html)|`2025-10-29 04:26:00`|`Call of Duty: Black Ops 6`|
+|[MISERY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/723354-misery.html)|`2025-10-29 04:22:00`|`Other FPS Games`|
+|[external dex for roblox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670469-external-dex-roblox.html)|`2025-10-29 04:19:00`|`Other Games`|
 |[External bullet tracers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/722946-external-bullet-tracers.html)|`2025-10-29 04:14:00`|`Call of Duty: Black Ops 6`|
 |[&#91;Partial&#93; &#91;FXAP&#93; Mapping Dumper, Decrypter & Fixer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/723317-partial-fxap-mapping-dumper-decrypter-fixer.html)|`2025-10-29 04:01:00`|`Alternative Online Mods`|
 |[Trader Dale](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/723352-trader-dale.html)|`2025-10-29 03:55:00`|`Introductions`|
