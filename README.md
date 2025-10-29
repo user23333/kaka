@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-10-30 04:46:00`|`Apex Legends`|
+|[A possible "BYPASS" to Secure Boot or TPM?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/723331-bypass-secure-boot-tpm.html)|`2025-10-30 04:45:00`|`Battlefield 6`|
+|[ask for cheat pubg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/720103-cheat-pubg.html)|`2025-10-30 04:39:00`|`Playerunknown's Battlegrounds`|
+|[CS2 VAC Banned / Red Trust / HWID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723147-cs2-vac-banned-red-trust-hwid.html)|`2025-10-30 04:37:00`|`Counter-Strike 2`|
 |[&#91;VOTE&#93; November 2025 Member of the Month](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/723368-vote-november-2025-month.html)|`2025-10-30 04:33:00`|`Member of the Month`|
 |[Chivalry 2 Chivalapocalypse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/717361-chivalry-2-chivalapocalypse.html)|`2025-10-30 04:32:00`|`Other Games`|
 |[External bullet tracers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/722946-external-bullet-tracers.html)|`2025-10-30 04:29:00`|`Call of Duty: Black Ops 6`|
