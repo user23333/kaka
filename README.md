@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How are you? An Important Question In Busy Modern Life](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/705387-question-busy-modern-life.html)|`2025-10-30 04:02:00`|`Off Topic`|
+|[Daily Reminder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/723487-daily-reminder.html)|`2025-10-30 04:01:00`|`Off Topic`|
+|[What inspired you to start game hacking&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/715415-inspired-start-game-hacking.html)|`2025-10-30 03:57:00`|`Off Topic`|
+|[Finding the Entity List and coding an ESP for beginners part 1 &#40;for Assault Cube&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/720045-finding-entity-list-coding-esp-beginners-1-assault-cube.html)|`2025-10-30 03:56:00`|`Programming for Beginners`|
 |[Battlefield 6 Logitech Anti&#45;Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/723124-battlefield-6-logitech-anti-recoil.html)|`2025-10-30 03:47:00`|`Battlefield 6`|
 |[RUST BONES FETCHING](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/723483-rust-bones-fetching.html)|`2025-10-30 03:28:00`|`Rust`|
 |[DMA Custom Firmware First Steps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722595-dma-custom-firmware-steps.html)|`2025-10-30 03:24:00`|`Anti-Cheat Bypass`|
