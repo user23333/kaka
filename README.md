@@ -25,9 +25,19 @@
 |33|[Dumper&#45;7 &#45; modified version &#45; Outlast Trials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51706)|`2025-10-29 00:00:19`|
 |34|[Memory Protection Tool &#45; V1&#46;00](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51705)|`2025-10-29 00:00:19`|
 |43|[TOT AC Tool &#45; V1&#46;00](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51704)|`2025-10-29 00:00:19`|
+|7|[4&#46;27&#46;2&#45;0&#43;&#43;&#43;UE4&#43;Release&#45;4&#46;27&#45;EM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51740)|`2025-10-29 10:25:30`|
+|3|[Outlast Trials Tool &#45; V5&#46;00](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51736)|`2025-10-29 10:25:30`|
+|2|[Vein SDK Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51735)|`2025-10-29 10:25:30`|
+|2|[Dead Frontier 2 Cheats V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51724)|`2025-10-29 10:25:30`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter Strike 1&#46;6 Anti&#45;Smoke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/723211-counter-strike-1-6-anti-smoke.html)|`2025-10-29 10:07:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Roblox External &#40;Undetected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/723226-roblox-external-undetected.html)|`2025-10-29 10:04:00`|`Half Life`|
+|[Vein Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/723246-vein-reversal-structs-offsets.html)|`2025-10-29 10:03:00`|`Other FPS Games`|
+|[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-10-29 09:59:00`|`Other FPS Games`|
+|[Screen capture detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723379-screen-capture-detection.html)|`2025-10-29 09:54:00`|`Anti-Cheat Bypass`|
+|[how to delete banned log account on mobile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/723378-delete-banned-log-account-mobile.html)|`2025-10-29 09:52:00`|`PUBG Mobile`|
 |[Borderlands 4 Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/717789-borderlands-4-reversal-structs-offsets.html)|`2025-10-29 08:13:00`|`Other Single Player Games`|
 |[Apex DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716473-apex-dma-source.html)|`2025-10-29 08:10:00`|`Apex Legends`|
 |[Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/new-world/720676-offsets.html)|`2025-10-29 07:54:00`|`New World`|
