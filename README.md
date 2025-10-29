@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Detection of deleted injector &#40;FUNGUN&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/723071-detection-deleted-injector-fungun.html)|`2025-10-30 07:16:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[HWho Detected, New launcher bypass ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/721378-hwho-detected-launcher-bypass.html)|`2025-10-30 07:07:00`|`Escape from Tarkov`|
 |[Age Of Empire 4 Scar Script Injector with Online &#43; Offline Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/720438-age-empire-4-scar-script-injector-online-offline-features.html)|`2025-10-30 06:48:00`|`Age of Empires`|
 |[Shimmer Glow ESP cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723285-shimmer-glow-esp-cheat.html)|`2025-10-30 06:37:00`|`Counter-Strike 2`|
 |[Stella Sora Reversal Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722261-stella-sora-reversal-structs-offsets.html)|`2025-10-30 06:19:00`|`Other MMORPG and Strategy`|
