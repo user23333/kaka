@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Ban Mechanism](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/723419-apex-ban-mechanism.html)|`2025-10-29 18:22:00`|`Apex Legends`|
+|[Age Of Empire 4 Scar Script Injector with Online &#43; Offline Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/720438-age-empire-4-scar-script-injector-online-offline-features.html)|`2025-10-29 18:19:00`|`Age of Empires`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-10-29 18:16:00`|`League of Legends`|
 |[Should I post a external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723411-post-external.html)|`2025-10-29 17:53:00`|`Counter-Strike 2`|
 |[new](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/723184-new.html)|`2025-10-29 17:34:00`|`Forum General`|
 |[Load the driver before the anti&#45;cheat and remove it from the disk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723408-load-driver-anti-cheat-remove-disk.html)|`2025-10-29 17:23:00`|`Anti-Cheat Bypass`|
