@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-10-31 03:36:00`|`ARMA 3`|
 |[New cheating code, aerial walking&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/723547-cheating-code-aerial-walking.html)|`2025-10-31 03:29:00`|`Apex Legends`|
 |[Sub&#45;Tick BHop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723231-sub-tick-bhop.html)|`2025-10-31 03:24:00`|`Counter-Strike 2`|
 |["Force Vac" 🤣](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723443-force-vac.html)|`2025-10-31 03:21:00`|`Counter-Strike 2`|
