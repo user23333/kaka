@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stella Sora Cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722901-stella-sora-cheese.html)|`2025-10-30 23:46:00`|`Other MMORPG and Strategy`|
+|[YimMenuV2Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697581-yimmenuv2mod.html)|`2025-10-30 23:44:00`|`Grand Theft Auto V`|
+|[Temp spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/723575-temp-spoofing.html)|`2025-10-30 23:44:00`|`Call of Duty: Black Ops 6`|
 |[EAC rolling out HVCI requirement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723572-eac-rolling-hvci-requirement.html)|`2025-10-30 23:26:00`|`Anti-Cheat Bypass`|
 |[Complete Anti&#45;Cheat BYPASS &#40;&#43;ONLINE&#43;INJECTOR&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/701513-complete-anti-cheat-bypass-online-injector.html)|`2025-10-30 23:18:00`|`Marvel Rivals`|
 |[Universal Proxy DLL &#40;steam&#95;api64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/723562-universal-proxy-dll-steam_api64.html)|`2025-10-30 23:18:00`|`Rust`|
