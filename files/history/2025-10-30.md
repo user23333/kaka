@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NoNameCs data ptr hook base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723525-nonamecs-data-ptr-hook-base.html)|`2025-10-30 12:11:00`|`Counter-Strike 2`|
+|[Marvel Rivals Undetected Free Macro Rev 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689301-marvel-rivals-undetected-free-macro-rev-2-a.html)|`2025-10-30 12:10:00`|`Marvel Rivals`|
+|[Ricochet Detections &#40; for internals &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/723524-ricochet-detections-internals.html)|`2025-10-30 12:10:00`|`Call of Duty: Black Ops 6`|
+|[Global 32bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/723523-global-32bit.html)|`2025-10-30 12:09:00`|`PUBG Mobile`|
 |[AmongUsCosmetics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/521567-amonguscosmetics.html)|`2025-10-30 11:55:00`|`Among Us`|
 |[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2025-10-30 11:49:00`|`Tom Clancy's The Division`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-10-30 11:45:00`|`Counter-Strike 2`|
