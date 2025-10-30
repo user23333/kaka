@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Tarkov dupe glitch been revived?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/723534-tarkov-dupe-glitch-revived.html)|`2025-10-30 19:25:00`|`Escape from Tarkov`|
+|[Age Of Empires PHYTON CODE help working and crash game why help me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/723535-age-empires-phyton-code-help-crash-game-help.html)|`2025-10-30 18:54:00`|`Age of Empires`|
 |[Gems Of War 8&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/702434-gems-war-8-5-a.html)|`2025-10-30 19:00:00`|`Cheat Engine Tables`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-10-30 17:49:00`|`DayZ SA`|
 |[EVO3 &#124; Updated External Legit/Semi&#45;Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/713273-evo3-updated-external-legit-semi-rage-cheat.html)|`2025-10-30 16:19:00`|`Counter-Strike 2 Releases`|
