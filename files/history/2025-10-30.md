@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SurrounDead DX11 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/722827-surroundead-dx11-internal.html)|`2025-10-30 12:20:00`|`Other Single Player Games`|
 |[NoNameCs data ptr hook base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723525-nonamecs-data-ptr-hook-base.html)|`2025-10-30 12:11:00`|`Counter-Strike 2`|
 |[Marvel Rivals Undetected Free Macro Rev 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/689301-marvel-rivals-undetected-free-macro-rev-2-a.html)|`2025-10-30 12:10:00`|`Marvel Rivals`|
 |[Ricochet Detections &#40; for internals &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/723524-ricochet-detections-internals.html)|`2025-10-30 12:10:00`|`Call of Duty: Black Ops 6`|
