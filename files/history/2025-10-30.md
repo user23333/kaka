@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-10-30 20:18:00`|`ARMA 3`|
+|[Auto Update External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/614771-auto-update-external.html)|`2025-10-30 20:17:00`|`Overwatch`|
+|[Counter Strike 1&#46;6 Anti&#45;Smoke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/723211-counter-strike-1-6-anti-smoke.html)|`2025-10-30 20:04:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Should I post a external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723411-post-external.html)|`2025-10-30 19:59:00`|`Counter-Strike 2`|
+|[cs2 cheat not injecting&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723079-cs2-cheat-injecting.html)|`2025-10-30 19:55:00`|`Counter-Strike 2`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/590414-arc-raiders-structs-offsets.html)|`2025-10-30 19:43:00`|`Other FPS Games`|
 |[Dune Awakening Repair Exploit After Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707561-dune-awakening-repair-exploit-patch.html)|`2025-10-30 19:43:00`|`Other FPS Games`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-10-30 19:16:00`|`Counter-Strike 2 Releases`|
