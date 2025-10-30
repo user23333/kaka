@@ -12,6 +12,7 @@
 |4|[BF6 Aimbot &#40;TPU Accelerated Raspberry Pi&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722855-bf6-aimbot-tpu-accelerated-raspberry-pi.html)|`2025-10-30 00:13:39`|`battlefield-6-a`|
 |9|[megabonk internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/722828-megabonk-internal-injector.html)|`2025-10-30 00:13:39`|`other-games`|
 |5|[Battlefield 6 Logitech Anti&#45;Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/723124-battlefield-6-logitech-anti-recoil.html)|`2025-10-30 00:56:21`|`battlefield-6-a`|
+|10|[PatchGuard bypass at runtime &#45; Windows 10 22H2 / Windows 11 24H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722751-patchguard-bypass-runtime-windows-10-22h2-windows-11-24h2.html)|`2025-10-30 18:14:18`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
