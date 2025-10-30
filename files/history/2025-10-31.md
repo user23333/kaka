@@ -24,9 +24,13 @@
 |16|[Nuclear&#95;nightmare&#95;dx12](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51720)|`2025-10-31 00:14:31`|
 |36|[MegaBanChecker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51715)|`2025-10-31 00:14:31`|
 |5|[The Isle Evrima Hordetest SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51713)|`2025-10-31 00:14:31`|
+|1|[20596740 &#45; Latest dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51772)|`2025-10-31 07:43:19`|
+|1|[EAAnticheat&#46;Sys Dumped &#40;BSOD Method&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51766)|`2025-10-31 07:43:19`|
+|1|[VampireSurvivors&#46;CT 1&#46;14&#46;104](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51748)|`2025-10-31 07:43:19`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vampire Survivors cheat table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/614330-vampire-survivors-cheat-table.html)|`2025-10-31 07:38:00`|`Cheat Engine Tables`|
 |[Sonic Racing Crossworlds Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720310-sonic-racing-crossworlds-unlocker.html)|`2025-10-31 07:31:00`|`Other Games`|
 |[&#91;Release&#93; Valorant Riot Login Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722315-release-valorant-riot-login-script.html)|`2025-10-31 07:18:00`|`Valorant`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-10-31 07:05:00`|`Playerunknown's Battlegrounds`|
