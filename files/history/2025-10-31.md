@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to lower leetify ratings?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723611-lower-leetify-ratings.html)|`2025-10-31 06:17:00`|`Counter-Strike 2`|
+|[VATSIM BAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723569-vatsim-ban.html)|`2025-10-31 06:09:00`|`Anti-Cheat Bypass`|
 |[Overwatch &#45; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/723578-overwatch-aimbot.html)|`2025-10-31 05:51:00`|`Overwatch`|
 |[Universal Proxy DLL &#40;steam&#95;api64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/723562-universal-proxy-dll-steam_api64.html)|`2025-10-31 05:47:00`|`Rust`|
 |[BF4 &#45; Why are hacks so hard to get???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/723607-bf4-hacks-hard.html)|`2025-10-31 05:35:00`|`Battlefield 4`|
