@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PG Bypass Windows 11 24H2 &#45; 25H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/722451-pg-bypass-windows-11-24h2-25h2.html)|`2025-10-31 04:50:00`|`General Programming and Reversing`|
+|[Stella Sora Reversal Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722261-stella-sora-reversal-structs-offsets.html)|`2025-10-31 04:29:00`|`Other MMORPG and Strategy`|
 |[Rust Internal STATUS&#95;ILLEGAL&#95;INSTRUCTION on method function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721035-rust-internal-status_illegal_instruction-method-function.html)|`2025-10-31 04:41:00`|`Rust`|
 |[Overwatch &#45; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/723578-overwatch-aimbot.html)|`2025-10-31 04:34:00`|`Half Life`|
 |[Alkad Rust EAC Bypasser &#124; Rust EAC Bypasser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/686344-alkad-rust-eac-bypasser-rust-eac-bypasser.html)|`2025-10-31 04:19:00`|`Rust`|
