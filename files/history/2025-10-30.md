@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Complete Anti&#45;Cheat BYPASS &#40;&#43;ONLINE&#43;INJECTOR&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/701513-complete-anti-cheat-bypass-online-injector.html)|`2025-10-30 23:18:00`|`Marvel Rivals`|
+|[Universal Proxy DLL &#40;steam&#95;api64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/723562-universal-proxy-dll-steam_api64.html)|`2025-10-30 23:18:00`|`Rust`|
+|[VATSIM BAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723569-vatsim-ban.html)|`2025-10-30 23:16:00`|`Anti-Cheat Bypass`|
+|[Mod Menu Crew v5&#46;3&#46;0  Definitive Edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/716042-mod-menu-crew-v5-3-0-definitive-edition.html)|`2025-10-30 23:06:00`|`Among Us`|
+|[GamerFun AI Menu: All mouse Aimbot, Triggerbot & Recoil Control Using LGUB Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/671029-gamerfun-ai-menu-mouse-aimbot-triggerbot-recoil-control-using-lgub-drivers.html)|`2025-10-30 23:01:00`|`Rainbow Six Siege`|
 |[Simple Apex ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/719602-simple-apex-esp.html)|`2025-10-30 22:52:00`|`Apex Legends`|
 |[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-10-30 22:41:00`|`PUBG Releases`|
 |[Roblox External &#45; &#91;ALWAYS UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717679-roblox-external-updated.html)|`2025-10-30 22:40:00`|`Other FPS Games`|
