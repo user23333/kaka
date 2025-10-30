@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2025-10-31 01:41:00`|`Other FPS Games`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-10-31 01:39:00`|`Apex Legends`|
+|[New here — hey everyone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/723583-hey.html)|`2025-10-31 01:29:00`|`Introductions`|
 |[valorant internal source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716050-valorant-internal-source.html)|`2025-10-31 01:24:00`|`Valorant`|
 |[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-10-31 01:07:00`|`HELLDIVERS 2`|
 |[Helldivers 2 Undetected Features by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/704156-helldivers-2-undetected-features-igromanru.html)|`2025-10-31 00:56:00`|`HELLDIVERS 2`|
