@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Universal Proxy DLL &#40;steam&#95;api64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/723562-universal-proxy-dll-steam_api64.html)|`2025-10-31 05:47:00`|`Rust`|
+|[BF4 &#45; Why are hacks so hard to get???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/723607-bf4-hacks-hard.html)|`2025-10-31 05:35:00`|`Battlefield 4`|
 |[BF6 Aimbot &#40;TPU Accelerated Raspberry Pi&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722855-bf6-aimbot-tpu-accelerated-raspberry-pi.html)|`2025-10-31 05:34:00`|`Battlefield 6`|
 |[no&#45;more&#45;cssource&#45;shellcodes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/723605-cssource-shellcodes.html)|`2025-10-31 05:26:00`|`CounterStrike Source`|
 |[How should I start reversing Warframe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/723402-start-reversing-warframe.html)|`2025-10-31 05:03:00`|`Other FPS Games`|
