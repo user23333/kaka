@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How should I start reversing Warframe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/723402-start-reversing-warframe.html)|`2025-10-31 05:03:00`|`Other FPS Games`|
+|[Modification Bypass 6&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/723519-modification-bypass-6-1-a.html)|`2025-10-31 04:59:00`|`Genshin Impact`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-10-31 04:59:00`|`Overwatch`|
+|[Genshin Impact 5&#46;8 Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/712706-genshin-impact-5-8-table.html)|`2025-10-31 04:57:00`|`Genshin Impact`|
 |[PG Bypass Windows 11 24H2 &#45; 25H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/722451-pg-bypass-windows-11-24h2-25h2.html)|`2025-10-31 04:50:00`|`General Programming and Reversing`|
 |[Stella Sora Reversal Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722261-stella-sora-reversal-structs-offsets.html)|`2025-10-31 04:29:00`|`Other MMORPG and Strategy`|
 |[Rust Internal STATUS&#95;ILLEGAL&#95;INSTRUCTION on method function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721035-rust-internal-status_illegal_instruction-method-function.html)|`2025-10-31 04:41:00`|`Rust`|
