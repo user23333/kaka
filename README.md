@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[only 1 Hid device can send input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721444-1-hid-device-send-input.html)|`2025-11-01 02:29:00`|`Apex Legends`|
+|[anti&#45;afk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/723002-anti-afk.html)|`2025-11-01 02:25:00`|`Sea of Thieves`|
+|[DSEclipse &#45; Story behind ASM bootkit that bypasses DSE in under 1 KB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714887-dseclipse-story-asm-bootkit-bypasses-dse-1-kb.html)|`2025-11-01 02:22:00`|`Anti-Cheat Bypass`|
+|[DayZ Maps Downloader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/723612-dayz-maps-downloader.html)|`2025-11-01 02:18:00`|`DayZ SA`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-11-01 02:11:00`|`Counter-Strike 2`|
+|[The Outlast Trials Dumper&#45;7 Fix &#45; How To Dump The Game After the "Anti&#45;Cheat" update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722964-outlast-trials-dumper-7-fix-dump-game-anti-cheat-update.html)|`2025-11-01 02:11:00`|`Other FPS Games`|
+|[PhasmoCheatV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/722532-phasmocheatv.html)|`2025-11-01 02:09:00`|`Phasmophobia`|
 |[Duet Night Abyss Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/723122-duet-night-abyss-reversal-structs-offsets.html)|`2025-11-01 01:51:00`|`Other MMORPG and Strategy`|
 |[Overwatch External &#45; &#91;UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/717914-overwatch-external-updated.html)|`2025-11-01 01:42:00`|`Overwatch`|
 |[x64dbg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/723005-x64dbg.html)|`2025-11-01 01:39:00`|`Alternative Online Mods`|
