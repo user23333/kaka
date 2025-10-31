@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape The Backrooms Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/615556-escape-backrooms-internal.html)|`2025-10-31 11:48:00`|`Other FPS Games`|
+|[RustRecoilMacro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706634-rustrecoilmacro.html)|`2025-10-31 11:32:00`|`Rainbow Six Siege`|
 |[Stella Sora Cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722901-stella-sora-cheese.html)|`2025-10-31 11:14:00`|`Other MMORPG and Strategy`|
 |[Spoofer Driver &#40;Signed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/723042-spoofer-driver-signed.html)|`2025-10-31 11:13:00`|`Valorant`|
 |[SurrounDead DX11 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/722827-surroundead-dx11-internal.html)|`2025-10-31 11:02:00`|`Other Single Player Games`|
