@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|["Rush Team" ESP or something](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/393957-rush-team-esp.html)|`2025-11-01 07:03:00`|`Other FPS Games`|
+|[&#40;UNDETECTABLE&#41; Overwatch 2 &#45; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/723654-undetectable-overwatch-2-aimbot.html)|`2025-11-01 06:56:00`|`Overwatch`|
 |[Bypass Manual PC Check?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/723750-bypass-manual-pc-check.html)|`2025-11-01 07:47:00`|`Alternative Online Mods`|
 |[&#91;Source&#93; Planetside 2 Cheat & BattlEye Bypass &#43; Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/720663-source-planetside-2-cheat-battleye-bypass-injector.html)|`2025-11-01 07:46:00`|`PlanetSide 2`|
 |[GTFO Hax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/518895-gtfo-hax.html)|`2025-11-01 07:14:00`|`Other FPS Games`|
