@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ntoskrnl driver from a scammer :D](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721319-ntoskrnl-driver-scammer.html)|`2025-10-31 18:51:00`|`Anti-Cheat Bypass`|
+|[Fivem aimbot and esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/720777-fivem-aimbot-esp.html)|`2025-10-31 17:50:00`|`Alternative Online Mods`|
 |[How to make a superglide macro &#91;EASIEST METHOD&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/722516-superglide-macro-easiest-method.html)|`2025-10-31 17:45:00`|`Apex Legends`|
 |[Problems with get bones](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/723466-bones.html)|`2025-10-31 17:42:00`|`Apex Legends`|
 |[VAC modules fully disabled](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723657-vac-modules-disabled.html)|`2025-10-31 17:26:00`|`Counter-Strike 2`|
