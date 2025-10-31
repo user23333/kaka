@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ACE bypass question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722830-ace-bypass-question.html)|`2025-11-01 05:38:00`|`Anti-Cheat Bypass`|
 |[I need a spoofer from Secure Boot and Tpm mandatory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/723013-spoofer-secure-boot-tpm-mandatory.html)|`2025-11-01 05:36:00`|`Call of Duty: Black Ops 6`|
 |[External overlay delay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723739-external-overlay-delay.html)|`2025-11-01 05:25:00`|`Counter-Strike 2`|
 |[Vein Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/723246-vein-reversal-structs-offsets.html)|`2025-11-01 05:17:00`|`Other FPS Games`|
