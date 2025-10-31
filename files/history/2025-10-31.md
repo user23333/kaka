@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 VAC Banned / Red Trust / HWID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723147-cs2-vac-banned-red-trust-hwid.html)|`2025-10-31 21:10:00`|`Counter-Strike 2`|
+|[Hello UnKnoWnCheaTs and everyone else&#33; :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/723680-hello-unknowncheats-else.html)|`2025-10-31 21:09:00`|`Introductions`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-10-31 21:06:00`|`Other MMORPG and Strategy`|
+|[Chivalry 2 Basic &#46;pak &#45; Parera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720632-chivalry-2-basic-pak-parera.html)|`2025-10-31 21:04:00`|`Other Games`|
 |[I need a spoofer from Secure Boot and Tpm mandatory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/723013-spoofer-secure-boot-tpm-mandatory.html)|`2025-10-31 20:14:00`|`Call of Duty: Black Ops 6`|
 |[HWID Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/723083-hwid-ban.html)|`2025-10-31 20:12:00`|`Call of Duty: Black Ops 6`|
 |[eaac dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/723669-eaac-dumper.html)|`2025-10-31 19:51:00`|`Battlefield 6`|
