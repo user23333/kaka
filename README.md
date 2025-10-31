@@ -27,9 +27,20 @@
 |1|[20596740 &#45; Latest dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51772)|`2025-10-31 07:43:19`|
 |1|[EAAnticheat&#46;Sys Dumped &#40;BSOD Method&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51766)|`2025-10-31 07:43:19`|
 |1|[VampireSurvivors&#46;CT 1&#46;14&#46;104](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51748)|`2025-10-31 07:43:19`|
+|2|[Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51774)|`2025-10-31 11:28:48`|
+|8|[StellaSora&#45;Tool&#45;v2&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51773)|`2025-10-31 11:28:48`|
+|4|[VEIN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51765)|`2025-10-31 11:28:48`|
+|1|[SurrounDeadBoneUpdate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51760)|`2025-10-31 11:28:48`|
+|5|[OwHelper&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51747)|`2025-10-31 11:28:48`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stella Sora Cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722901-stella-sora-cheese.html)|`2025-10-31 11:14:00`|`Other MMORPG and Strategy`|
+|[Spoofer Driver &#40;Signed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/723042-spoofer-driver-signed.html)|`2025-10-31 11:13:00`|`Valorant`|
+|[SurrounDead DX11 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/722827-surroundead-dx11-internal.html)|`2025-10-31 11:02:00`|`Other Single Player Games`|
+|[Metal Garden Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/723117-metal-garden-internal.html)|`2025-10-31 10:56:00`|`Other Single Player Games`|
+|[Warframe Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718442-warframe-internal-cheat.html)|`2025-10-31 10:51:00`|`Other FPS Games`|
+|[DeadByDaylight external &#91;Steam&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715450-deadbydaylight-external-steam.html)|`2025-10-31 10:50:00`|`Other Games`|
 |[&#91;Source&#93; CS2 External &#124; ESP / Aimbot / RCS &#124; Python &#40;Neron v1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/722870-source-cs2-external-esp-aimbot-rcs-python-neron-v1-0-0-a.html)|`2025-10-31 10:10:00`|`Half Life`|
 |[World Modulation?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723630-world-modulation.html)|`2025-10-31 10:05:00`|`Counter-Strike 2`|
 |[temp spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722894-temp-spoofer.html)|`2025-10-31 10:04:00`|`Anti-Cheat Bypass`|
