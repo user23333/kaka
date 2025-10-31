@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Visible inspection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/721126-visible-inspection.html)|`2025-10-31 19:30:00`|`Warface`|
+|[vac cooldown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723667-vac-cooldown.html)|`2025-10-31 19:27:00`|`Counter-Strike 2`|
 |[How to read in dissambler byte value](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/723664-read-dissambler-byte-value.html)|`2025-10-31 19:08:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Mouse Proxy &#40;Teensy 4&#46;1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/439183-mouse-proxy-teensy-4-1-a.html)|`2025-10-31 19:00:00`|`Anti-Cheat Bypass`|
 |[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2025-10-31 18:48:00`|`HELLDIVERS 2`|
