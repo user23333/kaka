@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AHK Aim bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/712495-ahk-aim-bot.html)|`2025-11-01 20:49:00`|`Battlefield 6`|
+|[utilsV &#124;&#124; Easy to use Lobby Reveal &#43; Booster &#43; Refund & more&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/577538-utilsv-easy-lobby-reveal-booster-refund.html)|`2025-11-01 20:48:00`|`League of Legends`|
 |[Tarkov 229 Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/723133-tarkov-229-ban.html)|`2025-11-01 20:15:00`|`Escape from Tarkov`|
 |[Temp Spoofer Signed By Microsoft &#40;WORKING&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717158-temp-spoofer-signed-microsoft.html)|`2025-11-01 20:05:00`|`Anti-Cheat Bypass`|
 |[&#91;DMA&#93; Activator removal for 35T pcieleech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/723790-dma-activator-removal-35t-pcieleech.html)|`2025-11-01 19:55:00`|`PC Software`|
