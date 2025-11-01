@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Tarkov 229 Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/723133-tarkov-229-ban.html)|`2025-11-01 20:15:00`|`Escape from Tarkov`|
+|[Temp Spoofer Signed By Microsoft &#40;WORKING&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717158-temp-spoofer-signed-microsoft.html)|`2025-11-01 20:05:00`|`Anti-Cheat Bypass`|
 |[&#91;DMA&#93; Activator removal for 35T pcieleech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/723790-dma-activator-removal-35t-pcieleech.html)|`2025-11-01 19:55:00`|`PC Software`|
 |[Asus mobo spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/723511-asus-mobo-spoofing.html)|`2025-11-01 19:45:00`|`Valorant`|
 |[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-11-01 19:17:00`|`PUBG Releases`|
