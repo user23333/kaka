@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Age of Empires II Definitive Edition Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/720448-age-empires-ii-definitive-edition-reversal-structs-offsets.html)|`2025-11-02 01:08:00`|`Age of Empires`|
+|[BLOODSTRIKE CHAMS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/723801-bloodstrike-chams.html)|`2025-11-02 01:04:00`|`Other Games`|
+|[Knife changer doesnt work good](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723656-knife-changer-doesnt.html)|`2025-11-02 01:02:00`|`Counter-Strike 2`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-11-02 00:58:00`|`Apex Legends`|
 |[Nexus External ESP V2 &#40;PyMeow&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/690093-nexus-external-esp-v2-pymeow.html)|`2025-11-02 00:55:00`|`Garry's Mod`|
 |[The Correct Way to Hook CreateMove in CS2 &#40;CInput Method&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723802-correct-hook-createmove-cs2-cinput-method.html)|`2025-11-02 00:50:00`|`Counter-Strike 2`|
