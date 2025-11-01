@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External esp base dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/723746-external-esp-base-dma.html)|`2025-11-02 05:22:00`|`Valorant`|
+|[ANTIcheat emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721785-anticheat-emulator.html)|`2025-11-02 05:17:00`|`Valorant`|
+|[Internal rcs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723864-internal-rcs.html)|`2025-11-02 05:14:00`|`Counter-Strike 2`|
 |[Stella Sora Cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722901-stella-sora-cheese.html)|`2025-11-02 05:12:00`|`Other MMORPG and Strategy`|
 |[rewasd cfg for bf6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/723717-rewasd-cfg-bf6.html)|`2025-11-02 05:05:00`|`Battlefield 6`|
 |[Multiply damage script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/709672-multiply-damage-script.html)|`2025-11-02 04:53:00`|`Payday 2`|
