@@ -13,6 +13,7 @@
 |9|[megabonk internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/722828-megabonk-internal-injector.html)|`2025-11-01 00:14:03`|`other-games`|
 |6|[Spoofer Driver &#40;Signed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/723042-spoofer-driver-signed.html)|`2025-11-01 01:47:36`|`valorant`|
 |12|[EAC rolling out HVCI requirement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723572-eac-rolling-hvci-requirement.html)|`2025-11-01 09:12:28`|`anti-cheat-bypass`|
+|12|["Force Vac" 🤣](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723443-force-vac.html)|`2025-11-01 16:33:33`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[A possible "BYPASS" to Secure Boot or TPM?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/723331-bypass-secure-boot-tpm.html)|`2025-11-01 16:17:00`|`Battlefield 6`|
 |[Anybody has a x64 esp cheat that works with amalgam?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/722953-x64-esp-cheat-amalgam.html)|`2025-11-01 16:11:00`|`Team Fortress 2`|
 |[YimMenuV2Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697581-yimmenuv2mod.html)|`2025-11-01 16:06:00`|`Grand Theft Auto V`|
 |[Genshin Impact 5&#46;8 Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/712706-genshin-impact-5-8-table.html)|`2025-11-01 15:59:00`|`Genshin Impact`|
