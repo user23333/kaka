@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[for global](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/723778-global.html)|`2025-11-02 06:42:00`|`PUBG Mobile`|
 |[FiveM Teleport to Waypoint tutorial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/723776-fivem-teleport-waypoint-tutorial.html)|`2025-11-02 06:35:00`|`Alternative Online Mods`|
 |[How is kdmapper detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723470-kdmapper-detected.html)|`2025-11-02 06:28:00`|`Anti-Cheat Bypass`|
 |[EAC rolling out HVCI requirement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723572-eac-rolling-hvci-requirement.html)|`2025-11-02 06:18:00`|`Anti-Cheat Bypass`|
