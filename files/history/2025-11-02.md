@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[any modern ways to bypass EAC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723876-modern-bypass-eac.html)|`2025-11-02 06:49:00`|`Anti-Cheat Bypass`|
 |[Someone send the file back to me updated with the offsets please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/722651-send-file-updated-offsets-please.html)|`2025-11-02 06:47:00`|`Alternative Online Mods`|
 |[Fix 1 day for PUBG GLOBAL 32BIT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/723446-fix-1-day-pubg-global-32bit.html)|`2025-11-02 06:45:00`|`PUBG Mobile`|
 |[for global](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/723778-global.html)|`2025-11-02 06:42:00`|`PUBG Mobile`|
