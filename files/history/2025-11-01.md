@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I don’t know if my feelings are selfish](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/723472-don-feelings-selfish.html)|`2025-11-01 18:05:00`|`Off Topic`|
+|[SMBios Fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723730-smbios-fix.html)|`2025-11-01 18:04:00`|`Anti-Cheat Bypass`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-11-01 17:27:00`|`Other FPS Games`|
 |[Any Instant Stratagem Drop Cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/716094-instant-stratagem-drop-cheats.html)|`2025-11-01 17:22:00`|`HELLDIVERS 2`|
 |[DBD GetNameById / FName Decryption &#45; Incorrect Entry Length](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/723784-dbd-getnamebyid-fname-decryption-incorrect-entry-length.html)|`2025-11-01 17:03:00`|`Unreal Engine 4`|
