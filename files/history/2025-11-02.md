@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Helldivers 2 Undetected Features by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/704156-helldivers-2-undetected-features-igromanru.html)|`2025-11-02 03:15:00`|`HELLDIVERS 2`|
 |[eminence in shadow garden reguest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/723856-eminence-shadow-garden-reguest.html)|`2025-11-02 03:22:00`|`Other MMORPG and Strategy`|
 |[gmod troll hacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/723854-gmod-troll-hacks.html)|`2025-11-02 02:59:00`|`Garry's Mod`|
 |[Hi](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/723853-hi.html)|`2025-11-02 02:46:00`|`Introductions`|
