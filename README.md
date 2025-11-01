@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[C&#43;&#43; Single Header&#45;Only library for Obfuscation/VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/718100-single-header-library-obfuscation-vm.html)|`2025-11-01 13:26:00`|`C and C++`|
+|[No cs2 cheats work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723653-cs2-cheats.html)|`2025-11-01 13:21:00`|`Counter-Strike 2`|
+|[How should I start reversing Warframe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/723402-start-reversing-warframe.html)|`2025-11-01 13:14:00`|`Other FPS Games`|
 |[I need help with Native](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/723758-help-native.html)|`2025-11-01 13:06:00`|`Alternative Online Mods`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-11-01 12:58:00`|`DayZ SA`|
 |[World Modulation?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723630-world-modulation.html)|`2025-11-01 12:43:00`|`Counter-Strike 2`|
