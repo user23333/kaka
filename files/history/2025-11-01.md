@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VAC modules fully disabled](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723657-vac-modules-disabled.html)|`2025-11-01 12:04:00`|`Counter-Strike 2`|
 |[TF2: Is there an easier way of finding offsets that I'm not aware of?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/723126-tf2-easier-finding-offsets-im-aware.html)|`2025-11-01 11:52:00`|`Team Fortress 2`|
 |[How does the amalgam parent system work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/723769-amalgam-parent-system.html)|`2025-11-01 11:50:00`|`Team Fortress 2`|
 |[I keep having to make new steam accounts &#40;Need some suggestions&#41;&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/723719-steam-accounts-suggestions.html)|`2025-11-01 11:41:00`|`Team Fortress 2`|
