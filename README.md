@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;DMA&#93; Activator removal for 35T pcieleech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/723790-dma-activator-removal-35t-pcieleech.html)|`2025-11-01 19:55:00`|`PC Software`|
 |[Asus mobo spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/723511-asus-mobo-spoofing.html)|`2025-11-01 19:45:00`|`Valorant`|
 |[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-11-01 19:17:00`|`PUBG Releases`|
 |[External ESP for Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/717952-external-esp-windows.html)|`2025-11-01 18:32:00`|`Apex Legends`|
