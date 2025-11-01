@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Correct Way to Hook CreateMove in CS2 &#40;CInput Method&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723802-correct-hook-createmove-cs2-cinput-method.html)|`2025-11-01 22:28:00`|`Counter-Strike 2`|
 |[Megabonk External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720385-megabonk-external-esp.html)|`2025-11-01 22:23:00`|`Other Games`|
 |[BLOODSTRIKE CHAMS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/723801-bloodstrike-chams.html)|`2025-11-01 22:21:00`|`Other Games`|
 |[GTA Enhanced Online on Linux &#45; BattlEye bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723800-gta-enhanced-online-linux-battleye-bypass.html)|`2025-11-01 22:21:00`|`Anti-Cheat Bypass`|
