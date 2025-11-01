@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Correct Way to Hook CreateMove in CS2 &#40;CInput Method&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723802-correct-hook-createmove-cs2-cinput-method.html)|`2025-11-02 00:50:00`|`Counter-Strike 2`|
+|[HUGE HG GLITCH](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/723629-huge-hg-glitch.html)|`2025-11-02 00:38:00`|`Sea of Thieves`|
 |[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-11-02 00:44:00`|`Other FPS Games`|
 |[Andromeda CS2 Internal Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722929-andromeda-cs2-internal-base.html)|`2025-11-02 00:43:00`|`Counter-Strike 2`|
 |[VAC likely disabled &#40;Windows and Linux&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723835-vac-disabled-windows-linux.html)|`2025-11-02 00:40:00`|`Counter-Strike 2`|
