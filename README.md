@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-11-01 10:09:00`|`Counter-Strike 2`|
+|[YAPYAP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/723763-yapyap.html)|`2025-11-01 10:00:00`|`Other Games`|
+|[Roblox External &#45; &#91;ALWAYS UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717679-roblox-external-updated.html)|`2025-11-01 09:43:00`|`Other FPS Games`|
+|[Controller support](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/723762-controller-support.html)|`2025-11-01 09:33:00`|`Call of Duty: Black Ops 6`|
+|[HUGE HG GLITCH](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/723629-huge-hg-glitch.html)|`2025-11-01 09:33:00`|`Sea of Thieves`|
 |[VEIN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/723560-vein.html)|`2025-11-01 09:07:00`|`Other FPS Games`|
 |[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-11-01 09:02:00`|`Other FPS Games`|
 |[Undetectable among us Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/637492-undetectable-cheat.html)|`2025-11-01 08:50:00`|`Among Us`|
