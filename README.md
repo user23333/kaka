@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[World Modulation?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723630-world-modulation.html)|`2025-11-01 12:43:00`|`Counter-Strike 2`|
 |[need help, keep getting banneddd on new pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/723772-help-getting-banneddd-pc.html)|`2025-11-01 12:22:00`|`Valorant`|
 |[VAC modules fully disabled](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723657-vac-modules-disabled.html)|`2025-11-01 12:04:00`|`Counter-Strike 2`|
 |[TF2: Is there an easier way of finding offsets that I'm not aware of?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/723126-tf2-easier-finding-offsets-im-aware.html)|`2025-11-01 11:52:00`|`Team Fortress 2`|
