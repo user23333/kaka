@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-11-01 17:27:00`|`Other FPS Games`|
+|[Any Instant Stratagem Drop Cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/716094-instant-stratagem-drop-cheats.html)|`2025-11-01 17:22:00`|`HELLDIVERS 2`|
 |[DBD GetNameById / FName Decryption &#45; Incorrect Entry Length](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/723784-dbd-getnamebyid-fname-decryption-incorrect-entry-length.html)|`2025-11-01 17:03:00`|`Unreal Engine 4`|
 |[A possible "BYPASS" to Secure Boot or TPM?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/723331-bypass-secure-boot-tpm.html)|`2025-11-01 16:17:00`|`Battlefield 6`|
 |[Anybody has a x64 esp cheat that works with amalgam?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/722953-x64-esp-cheat-amalgam.html)|`2025-11-01 16:11:00`|`Team Fortress 2`|
