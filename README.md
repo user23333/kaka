@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TF2: Is there an easier way of finding offsets that I'm not aware of?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/723126-tf2-easier-finding-offsets-im-aware.html)|`2025-11-01 11:52:00`|`Team Fortress 2`|
+|[How does the amalgam parent system work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/723769-amalgam-parent-system.html)|`2025-11-01 11:50:00`|`Team Fortress 2`|
+|[I keep having to make new steam accounts &#40;Need some suggestions&#41;&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/723719-steam-accounts-suggestions.html)|`2025-11-01 11:41:00`|`Team Fortress 2`|
 |[External B06 &#40;ESP &#43; Name &#43; Health &#43; KD, etc&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/713576-external-b06-esp-name-health-kd-etc.html)|`2025-11-01 11:32:00`|`Call of Duty: Black Ops 6`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-11-01 11:04:00`|`Other FPS Games`|
 |[How is kdmapper detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723470-kdmapper-detected.html)|`2025-11-01 10:55:00`|`Anti-Cheat Bypass`|
