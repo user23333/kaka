@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[for global](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/723778-global.html)|`2025-11-01 14:09:00`|`PUBG Mobile`|
+|[get projectile list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721325-projectile-list.html)|`2025-11-01 13:57:00`|`Rust`|
 |[APEX READ ONLY ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/723054-apex-read-esp.html)|`2025-11-01 13:34:00`|`Apex Legends`|
 |[RUST BONES FETCHING](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/723483-rust-bones-fetching.html)|`2025-11-01 13:34:00`|`Rust`|
 |[NoNameCs data ptr hook base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723525-nonamecs-data-ptr-hook-base.html)|`2025-11-01 13:32:00`|`Counter-Strike 2`|
