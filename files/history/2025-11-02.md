@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External overlay delay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723739-external-overlay-delay.html)|`2025-11-02 05:29:00`|`Counter-Strike 2`|
+|[Farlight cheat internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/717566-farlight-cheat-internal.html)|`2025-11-02 05:28:00`|`Farlight 84`|
 |[External esp base dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/723746-external-esp-base-dma.html)|`2025-11-02 05:22:00`|`Valorant`|
 |[ANTIcheat emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721785-anticheat-emulator.html)|`2025-11-02 05:17:00`|`Valorant`|
 |[Internal rcs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723864-internal-rcs.html)|`2025-11-02 05:14:00`|`Counter-Strike 2`|
