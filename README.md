@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Megabonk External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720385-megabonk-external-esp.html)|`2025-11-01 22:23:00`|`Other Games`|
+|[BLOODSTRIKE CHAMS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/723801-bloodstrike-chams.html)|`2025-11-01 22:21:00`|`Other Games`|
+|[GTA Enhanced Online on Linux &#45; BattlEye bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723800-gta-enhanced-online-linux-battleye-bypass.html)|`2025-11-01 22:21:00`|`Anti-Cheat Bypass`|
+|[Spectatorlist internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723799-spectatorlist-internal.html)|`2025-11-01 22:17:00`|`Counter-Strike 2`|
+|[Menu My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/713007-menu-hero-ultra-rumble.html)|`2025-11-01 22:11:00`|`Other Games`|
 |["Force Vac" 🤣](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723443-force-vac.html)|`2025-11-01 21:59:00`|`Counter-Strike 2`|
 |[logitech anti recoil &#40;work in progress&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721342-logitech-anti-recoil-progress.html)|`2025-11-01 21:43:00`|`Battlefield 6`|
 |[BGMI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/723793-bgmi.html)|`2025-11-01 21:43:00`|`PUBG Mobile`|
