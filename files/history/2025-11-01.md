@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Scuffed Bloodstrike Internal Aimbot & ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/720552-scuffed-bloodstrike-internal-aimbot-esp.html)|`2025-11-01 22:26:00`|`Other FPS Games`|
 |[Chameleon Pants without Migration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/723809-chameleon-pants-migration.html)|`2025-11-01 22:42:00`|`Grand Theft Auto V`|
 |[Delta Force Color Aimbot &#45; AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/656725-delta-force-color-aimbot-ahk.html)|`2025-11-01 22:38:00`|`Other FPS Games`|
 |[The Correct Way to Hook CreateMove in CS2 &#40;CInput Method&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723802-correct-hook-createmove-cs2-cinput-method.html)|`2025-11-01 22:28:00`|`Counter-Strike 2`|
