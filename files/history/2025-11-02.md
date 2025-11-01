@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[reversing vgc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722501-reversing-vgc.html)|`2025-11-02 03:47:00`|`Anti-Cheat Bypass`|
+|[Hearts of Iron IV Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/703167-hearts-iron-iv-cheat.html)|`2025-11-02 03:46:00`|`Other MMORPG and Strategy`|
 |[external dex for roblox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670469-external-dex-roblox.html)|`2025-11-02 03:41:00`|`Other Games`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-11-02 03:34:00`|`Other FPS Games`|
 |[The Outlast Trials Dumper&#45;7 Fix &#45; How To Dump The Game After the "Anti&#45;Cheat" update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722964-outlast-trials-dumper-7-fix-dump-game-anti-cheat-update.html)|`2025-11-02 03:33:00`|`Other FPS Games`|
