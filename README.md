@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Banned? Post info&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719377-banned-post-info.html)|`2025-11-03 05:01:00`|`Counter-Strike 2`|
+|[Dota 2 Melonity spoofer decompiled script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686842-dota-2-melonity-spoofer-decompiled-script.html)|`2025-11-03 05:00:00`|`Other MMORPG and Strategy`|
+|[opti](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/723992-opti.html)|`2025-11-03 04:41:00`|`CounterStrike Source`|
 |[DeadByDaylight external &#91;Steam&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715450-deadbydaylight-external-steam.html)|`2025-11-03 04:52:00`|`Other Games`|
 |[Spoofer Driver &#40;Signed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/723042-spoofer-driver-signed.html)|`2025-11-03 04:48:00`|`Valorant`|
 |[SEowndde x64 improved fix &#40;FREEZE QUE&#43;OPTIMIZONES&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/723332-seowndde-x64-improved-fix-freeze-que-optimizones.html)|`2025-11-03 04:17:00`|`Team Fortress 2`|
