@@ -30,6 +30,7 @@
 |2|[StellaSora&#45;Tool&#45;v3&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51799)|`2025-11-02 12:39:19`|
 |1|[DarkHoursGameUpdate59](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51792)|`2025-11-02 12:39:19`|
 |1|[eaac&#45;dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51786)|`2025-11-02 12:39:19`|
+|1|[Bloodstrike Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51796)|`2025-11-02 12:47:48`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
