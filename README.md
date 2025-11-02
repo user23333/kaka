@@ -35,6 +35,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Alternatives to KdMapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723961-alternatives-kdmapper.html)|`2025-11-02 23:39:00`|`Anti-Cheat Bypass`|
+|[Vac Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/723960-vac-bypass.html)|`2025-11-02 23:36:00`|`Forum General`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-11-02 23:35:00`|`Grand Theft Auto V`|
+|[&#40;UNDETECTABLE&#41; Overwatch 2 &#45; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/723654-undetectable-overwatch-2-aimbot.html)|`2025-11-02 23:19:00`|`Overwatch`|
+|[About skin change](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723850-skin-change.html)|`2025-11-02 23:05:00`|`Counter-Strike 2`|
 |[Memoriam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/563890-memoriam.html)|`2025-11-02 23:07:00`|`Garry's Mod`|
 |[How does the amalgam parent system work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/723769-amalgam-parent-system.html)|`2025-11-02 23:02:00`|`Team Fortress 2`|
 |[WotBlitz &#40;Steam&#41; and TanksBlitz &#40;Lesta&#41; X&#45;ray cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/618977-wotblitz-steam-tanksblitz-lesta-ray-cheat.html)|`2025-11-02 22:46:00`|`Other MMORPG and Strategy`|
