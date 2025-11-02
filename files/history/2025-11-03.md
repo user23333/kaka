@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Aimbot aiming down while in vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/723991-aimbot-aiming-vehicle.html)|`2025-11-03 04:29:00`|`Grand Theft Auto V`|
 |[Skip to next Checkpoint on missions, fm&#95;mission&#95;controller](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/723989-skip-checkpoint-missions-fm_mission_controller.html)|`2025-11-03 04:27:00`|`Grand Theft Auto V`|
 |[How is kdmapper detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723470-kdmapper-detected.html)|`2025-11-03 04:22:00`|`Anti-Cheat Bypass`|
 |[Cold War GSC Mod Menu &#91;The Lucy Menu&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/717858-cold-war-gsc-mod-menu-lucy-menu.html)|`2025-11-03 04:14:00`|`Call of Duty: Black Ops Cold War`|
