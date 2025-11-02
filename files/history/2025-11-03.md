@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayPay Internal &#91;STEAM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/720131-daypay-internal-steam.html)|`2025-11-03 02:38:00`|`Payday 3`|
+|[Schedule I &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695780-schedule-internal.html)|`2025-11-03 02:33:00`|`Other Games`|
+|[Finding the Entity List and coding an ESP for beginners part 1 &#40;for Assault Cube&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/720045-finding-entity-list-coding-esp-beginners-1-assault-cube.html)|`2025-11-03 02:33:00`|`Programming for Beginners`|
 |[What to do to make Apex cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/723924-apex-cheats.html)|`2025-11-03 02:12:00`|`Apex Legends`|
 |[APEX READ ONLY CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/722517-apex-read-cheat.html)|`2025-11-03 02:09:00`|`Apex Legends`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-11-03 02:02:00`|`DayZ SA`|
