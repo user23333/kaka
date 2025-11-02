@@ -27,9 +27,14 @@
 |18|[VampireSurvivors&#46;CT 1&#46;14&#46;104](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51748)|`2025-11-02 00:08:27`|
 |95|[OwHelper&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51747)|`2025-11-02 00:08:27`|
 |317|[4&#46;27&#46;2&#45;0&#43;&#43;&#43;UE4&#43;Release&#45;4&#46;27&#45;EM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51740)|`2025-11-02 00:08:27`|
+|2|[StellaSora&#45;Tool&#45;v3&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51799)|`2025-11-02 12:39:19`|
+|1|[DarkHoursGameUpdate59](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51792)|`2025-11-02 12:39:19`|
+|1|[eaac&#45;dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51786)|`2025-11-02 12:39:19`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[eaac dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/723669-eaac-dumper.html)|`2025-11-02 11:35:00`|`Battlefield 6`|
+|[Dark Hours DX11 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/721309-dark-hours-dx11-internal.html)|`2025-11-02 11:26:00`|`Other Games`|
 |[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2025-11-02 11:12:00`|`Combat Arms`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2025-11-02 10:43:00`|`Deadlock`|
 |[Bypassing little anti cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723816-bypassing-little-anti-cheats.html)|`2025-11-02 09:22:00`|`Counter-Strike 2`|
