@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Planetside 2 Anticheat BattlEye Bypass &#40;braidead edition&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/712951-planetside-2-anticheat-battleye-bypass-braidead-edition.html)|`2025-11-02 18:42:00`|`PlanetSide 2`|
+|[0&#45;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/723914-0-0-a.html)|`2025-11-02 17:53:00`|`Introductions`|
 |[R&#46;E&#46;P&#46;O Cheat&#45;Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/723904-cheat-menu.html)|`2025-11-02 16:05:00`|`Other MMORPG and Strategy`|
 |[frozen ban for PUBG Global 32bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/723908-frozen-ban-pubg-global-32bit.html)|`2025-11-02 16:48:00`|`PUBG Mobile`|
 |[Asus mobo spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/723511-asus-mobo-spoofing.html)|`2025-11-02 16:37:00`|`Valorant`|
