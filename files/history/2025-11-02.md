@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[WotBlitz &#40;Steam&#41; and TanksBlitz &#40;Lesta&#41; X&#45;ray cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/618977-wotblitz-steam-tanksblitz-lesta-ray-cheat.html)|`2025-11-02 22:46:00`|`Other MMORPG and Strategy`|
+|[Battlefield 2 Unban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/723400-battlefield-2-unban.html)|`2025-11-02 22:44:00`|`Battlefield 2`|
 |[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2025-11-02 22:17:00`|`HELLDIVERS 2`|
 |[DeadByDaylight external &#91;Steam&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715450-deadbydaylight-external-steam.html)|`2025-11-02 22:08:00`|`Other Games`|
 |[Modification Bypass 6&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/723519-modification-bypass-6-1-a.html)|`2025-11-02 21:55:00`|`Genshin Impact`|
