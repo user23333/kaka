@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Some Cheat features work on most maps but do not work on maps like Inferno or Train&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723962-cheat-features-maps-maps-inferno-train.html)|`2025-11-02 23:46:00`|`Counter-Strike 2`|
 |[Alternatives to KdMapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723961-alternatives-kdmapper.html)|`2025-11-02 23:39:00`|`Anti-Cheat Bypass`|
 |[Vac Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/723960-vac-bypass.html)|`2025-11-02 23:36:00`|`Forum General`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-11-02 23:35:00`|`Grand Theft Auto V`|
