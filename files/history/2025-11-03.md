@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cert Maker For Pasted Internals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721100-cert-maker-pasted-internals.html)|`2025-11-03 23:11:00`|`Valorant`|
+|[rcs of my external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724056-rcs-external.html)|`2025-11-03 23:04:00`|`Counter-Strike 2`|
+|[SmokeySense &#45; Custom C&#35; &#40;&#46;NET 4&#46;8&#41; Undetected External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/715659-smokeysense-custom-net-4-8-undetected-external-cheat.html)|`2025-11-03 23:01:00`|`Counter-Strike 2 Releases`|
 |[Valorant Delay Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/723576-valorant-delay-bans.html)|`2025-11-03 22:57:00`|`Valorant`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-11-03 22:48:00`|`Other FPS Games`|
 |[Help finding native](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/724053-help-finding-native.html)|`2025-11-03 22:16:00`|`Alternative Online Mods`|
