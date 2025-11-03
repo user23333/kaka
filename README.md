@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-11-04 06:46:00`|`Escape from Tarkov`|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2025-11-04 06:45:00`|`Battlefield 6`|
+|[Why don't people make Rigel&#45;based aimbots anymore?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/720667-dont-people-rigel-based-aimbots-anymore.html)|`2025-11-04 06:44:00`|`Overwatch`|
+|[hey](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/724007-hey.html)|`2025-11-04 06:43:00`|`Introductions`|
 |[Bypassing little anti cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723816-bypassing-little-anti-cheats.html)|`2025-11-04 06:37:00`|`Counter-Strike 2`|
 |[How to read in dissambler byte value](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/723664-read-dissambler-byte-value.html)|`2025-11-04 06:20:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2025-11-04 06:11:00`|`Palworld`|
