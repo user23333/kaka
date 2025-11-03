@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-11-04 06:02:00`|`Other FPS Games`|
+|[Mapping Virtual Memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724096-mapping-virtual-memory.html)|`2025-11-04 06:00:00`|`Anti-Cheat Bypass`|
 |[Bypass Manual PC Check?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/723750-bypass-manual-pc-check.html)|`2025-11-04 05:52:00`|`Alternative Online Mods`|
 |[Active Matter Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716880-active-matter-reversal.html)|`2025-11-04 05:26:00`|`Other FPS Games`|
 |[rocket league unlock all](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/724092-rocket-league-unlock.html)|`2025-11-04 05:24:00`|`Other Games`|
