@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mapping Pages for Physical Memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/724024-mapping-pages-physical-memory.html)|`2025-11-03 13:46:00`|`General Programming and Reversing`|
 |[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-11-03 13:31:00`|`PUBG Releases`|
 |[ARMA Reforger simplest ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/700954-arma-reforger-simplest-esp.html)|`2025-11-03 13:20:00`|`ARMA 3`|
 |[Problem with subtick bhop jumps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724021-subtick-bhop-jumps.html)|`2025-11-03 13:08:00`|`Counter-Strike 2`|
