@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-11-04 00:41:00`|`Overwatch`|
+|[get projectile list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721325-projectile-list.html)|`2025-11-04 00:37:00`|`Rust`|
+|[battlebit  esp base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlebit-remastered/717600-battlebit-esp-base.html)|`2025-11-04 00:25:00`|`BattleBit Remastered`|
+|[gmod troll hacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/723854-gmod-troll-hacks.html)|`2025-11-04 00:22:00`|`Garry's Mod`|
+|[CH347 DMA card problems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/620226-ch347-dma-card.html)|`2025-11-04 00:15:00`|`Other Hardware`|
 |[Sleepy's External &#45; Outline, Skeleton, and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external-outline-skeleton-aimbot.html)|`2025-11-04 00:19:00`|`Overwatch`|
 |[EAC injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695972-eac-injector.html)|`2025-11-04 00:17:00`|`Anti-Cheat Bypass`|
 |[Deadlock DMA &#40;with source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/723221-deadlock-dma-source.html)|`2025-11-04 00:17:00`|`Deadlock`|
