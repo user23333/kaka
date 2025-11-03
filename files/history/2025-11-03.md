@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Solo Nightmare Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/723391-solo-nightmare-exploit.html)|`2025-11-03 23:50:00`|`Marvel Rivals`|
 |[Member of the Month &#45; November 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/724059-month-november-2025-a.html)|`2025-11-03 23:45:00`|`Member of the Month`|
 |[Cert Maker For Pasted Internals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721100-cert-maker-pasted-internals.html)|`2025-11-03 23:11:00`|`Valorant`|
 |[rcs of my external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724056-rcs-external.html)|`2025-11-03 23:04:00`|`Counter-Strike 2`|
