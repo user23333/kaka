@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sleepy's External &#45; Outline, Skeleton, and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external-outline-skeleton-aimbot.html)|`2025-11-03 21:49:00`|`Overwatch`|
+|[Heroes and Generals simple hack for beta](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724044-heroes-generals-simple-hack-beta.html)|`2025-11-03 21:48:00`|`Other FPS Games`|
+|[Lazybead &#40;LB&#41; &#45; Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat.html)|`2025-11-03 21:47:00`|`Sea of Thieves`|
+|[I need help with Native How to remake for External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/723990-help-native-remake-external.html)|`2025-11-03 21:40:00`|`Alternative Online Mods`|
 |[Vanguard Bypass&#43;Secure Boot Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712663-vanguard-bypass-secure-boot-bypass.html)|`2025-11-03 21:24:00`|`Valorant`|
 |[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2025-11-03 21:16:00`|`Other FPS Games`|
 |[Bunker/Cargo Warehouse Resupply Using yimmenu?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724043-bunker-cargo-warehouse-resupply-using-yimmenu.html)|`2025-11-03 21:16:00`|`Grand Theft Auto V`|
