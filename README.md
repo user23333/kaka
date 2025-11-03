@@ -26,9 +26,12 @@
 |22|[20596740 &#45; Latest dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51772)|`2025-11-03 00:18:22`|
 |67|[EAAnticheat&#46;Sys Dumped &#40;BSOD Method&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51766)|`2025-11-03 00:18:22`|
 |35|[VEIN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51765)|`2025-11-03 00:18:22`|
+|3|[Duet Night Abyss CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51800)|`2025-11-03 12:04:03`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stella Sora Cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722901-stella-sora-cheese.html)|`2025-11-03 11:45:00`|`Other MMORPG and Strategy`|
+|[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2025-11-03 11:30:00`|`Tom Clancy's The Division`|
 |[Sastasha Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/711299-sastasha-injector.html)|`2025-11-03 11:25:00`|`General Programming and Reversing`|
 |[Dead Frontier 2 Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/722406-dead-frontier-2-cheats.html)|`2025-11-03 11:22:00`|`Other Games`|
 |[need help, keep getting banneddd on new pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/723772-help-getting-banneddd-pc.html)|`2025-11-03 11:15:00`|`Valorant`|
