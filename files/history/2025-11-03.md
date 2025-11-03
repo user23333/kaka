@@ -13,6 +13,7 @@
 |8|[DXComm &#45; GPU Memory Communication](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723503-dxcomm-gpu-memory-communication.html)|`2025-11-03 00:18:22`|`anti-cheat-bypass`|
 |4|[BF6 is detecting mouse&#95;event&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/723512-bf6-detecting-mouse_event.html)|`2025-11-03 00:36:23`|`battlefield-6-a`|
 |10|[VAC modules fully disabled](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723657-vac-modules-disabled.html)|`2025-11-03 10:48:48`|`counter-strike-2-a`|
+|14|[&#40;UNDETECTABLE&#41; Overwatch 2 &#45; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/723654-undetectable-overwatch-2-aimbot.html)|`2025-11-03 12:35:39`|`overwatch`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fusion for IDA 9&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/723969-fusion-ida-9-2-a.html)|`2025-11-03 12:10:00`|`General Programming and Reversing`|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-11-03 12:06:00`|`Other FPS Games`|
 |[Stella Sora Cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722901-stella-sora-cheese.html)|`2025-11-03 11:45:00`|`Other MMORPG and Strategy`|
 |[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2025-11-03 11:30:00`|`Tom Clancy's The Division`|
 |[Sastasha Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/711299-sastasha-injector.html)|`2025-11-03 11:25:00`|`General Programming and Reversing`|
