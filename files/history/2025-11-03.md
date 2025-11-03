@@ -15,6 +15,7 @@
 |10|[VAC modules fully disabled](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723657-vac-modules-disabled.html)|`2025-11-03 10:48:48`|`counter-strike-2-a`|
 |14|[&#40;UNDETECTABLE&#41; Overwatch 2 &#45; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/723654-undetectable-overwatch-2-aimbot.html)|`2025-11-03 12:35:39`|`overwatch`|
 |15|[VEIN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/723560-vein.html)|`2025-11-03 13:15:37`|`other-fps-games`|
+|2|[Dual Night Abyss SDK Dumber](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/723646-dual-night-abyss-sdk-dumber.html)|`2025-11-03 13:56:19`|`other-mmorpg-and-strategy`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to make external ESP in VR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/724025-external-esp-vr.html)|`2025-11-03 13:55:00`|`General Programming and Reversing`|
 |[Mapping Pages for Physical Memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/724024-mapping-pages-physical-memory.html)|`2025-11-03 13:46:00`|`General Programming and Reversing`|
 |[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-11-03 13:31:00`|`PUBG Releases`|
 |[ARMA Reforger simplest ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/700954-arma-reforger-simplest-esp.html)|`2025-11-03 13:20:00`|`ARMA 3`|
