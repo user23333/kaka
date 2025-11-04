@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New Updated Fully Working Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708891-updated-triggerbot.html)|`2025-11-04 21:57:00`|`Valorant`|
 |[BF6 Anti&#45;Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713778-bf6-anti-recoil.html)|`2025-11-04 21:52:00`|`Battlefield 6`|
 |[Solomissions Lua for Legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703978-solomissions-lua-legacy.html)|`2025-11-04 21:49:00`|`Grand Theft Auto V`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-11-04 21:44:00`|`Counter-Strike 2 Releases`|
