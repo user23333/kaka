@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SEowndde x64 improved fix &#40;FREEZE QUE&#43;OPTIMIZONES&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/723332-seowndde-x64-improved-fix-freeze-que-optimizones.html)|`2025-11-04 23:14:00`|`Team Fortress 2`|
+|[VAC modules fully disabled](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723657-vac-modules-disabled.html)|`2025-11-04 23:03:00`|`Counter-Strike 2`|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-11-04 22:57:00`|`Grand Theft Auto V`|
+|[EVO3 &#124; Updated External Legit/Semi&#45;Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/713273-evo3-updated-external-legit-semi-rage-cheat.html)|`2025-11-04 22:49:00`|`Counter-Strike 2 Releases`|
 |[HvH server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/722633-hvh-server.html)|`2025-11-04 22:56:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Cs2 External By NeatZen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724000-cs2-external-neatzen.html)|`2025-11-04 22:10:00`|`Counter-Strike 2`|
 |[BF1942 v1&#46;612 Origin MultiHack&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1942-a/81333-bf1942-v1-612-origin-multihack.html)|`2025-11-04 22:10:00`|`Battlefield 1942`|
