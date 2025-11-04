@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to debug a driver that causes a BSOD when loaded with kdmapper?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721421-debug-driver-causes-bsod-loaded-kdmapper.html)|`2025-11-05 04:18:00`|`Anti-Cheat Bypass`|
 |[Duet Night Abyss Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/724122-duet-night-abyss-internal-cheat.html)|`2025-11-05 03:57:00`|`Other MMORPG and Strategy`|
 |[New Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/716321-offsets.html)|`2025-11-05 03:52:00`|`PlanetSide 2`|
 |[Gems Of War 8&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/702434-gems-war-8-5-a.html)|`2025-11-05 03:51:00`|`Cheat Engine Tables`|
