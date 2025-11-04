@@ -26,6 +26,7 @@
 |5|[DarkHoursGameUpdate59](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51792)|`2025-11-05 00:23:07`|
 |57|[eaac&#45;dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51786)|`2025-11-05 00:23:07`|
 |328|[OwHelper&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51785)|`2025-11-05 00:23:07`|
+|0|[Arc Raiders FULL SDK &#45; 04/11/2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51827)|`2025-11-05 06:51:17`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
