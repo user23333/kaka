@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ProtonESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/724236-protonesp.html)|`2025-11-05 07:24:00`|`Counter-Strike 2 Releases`|
 |[MISERY Mod Menu &#40;Internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724237-misery-mod-menu-internal.html)|`2025-11-05 07:25:00`|`Other FPS Games`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-11-05 07:05:00`|`Counter-Strike 2`|
 |[cs2 incorporate dll cheating environment?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724234-cs2-incorporate-dll-cheating-environment.html)|`2025-11-05 07:00:00`|`Counter-Strike 2`|
