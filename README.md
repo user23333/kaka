@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HvH server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/722633-hvh-server.html)|`2025-11-04 22:56:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Cs2 External By NeatZen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724000-cs2-external-neatzen.html)|`2025-11-04 22:10:00`|`Counter-Strike 2`|
 |[BF1942 v1&#46;612 Origin MultiHack&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1942-a/81333-bf1942-v1-612-origin-multihack.html)|`2025-11-04 22:10:00`|`Battlefield 1942`|
 |[SmokeySense &#45; Custom C&#35; &#40;&#46;NET 4&#46;8&#41; Undetected External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/715659-smokeysense-custom-net-4-8-undetected-external-cheat.html)|`2025-11-04 22:10:00`|`Counter-Strike 2 Releases`|
