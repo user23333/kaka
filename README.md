@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Meet Xfer: Your Easy&#45;Button for Xbox File Transfers Xb1/Xboxseries](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/xbox/724123-meet-xfer-easy-button-xbox-file-transfers-xb1-xboxseries.html)|`2025-11-04 10:41:00`|`XBOX`|
+|[Duet Night Abyss Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/724122-duet-night-abyss-internal-cheat.html)|`2025-11-04 10:22:00`|`Other MMORPG and Strategy`|
+|[External B06 &#40;ESP &#43; Name &#43; Health &#43; KD, etc&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/713576-external-b06-esp-name-health-kd-etc.html)|`2025-11-04 10:20:00`|`Call of Duty: Black Ops 6`|
+|[Knife changer doesnt work good](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723656-knife-changer-doesnt.html)|`2025-11-04 10:02:00`|`Counter-Strike 2`|
+|[About skin change](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723850-skin-change.html)|`2025-11-04 10:00:00`|`Counter-Strike 2`|
+|[Usercmd SilentAim issue &#40;External&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716114-usercmd-silentaim-issue-external.html)|`2025-11-04 09:45:00`|`Apex Legends`|
+|[more questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724063-questions.html)|`2025-11-04 09:40:00`|`Grand Theft Auto V`|
 |[Stella Sora Cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722901-stella-sora-cheese.html)|`2025-11-04 08:53:00`|`Other MMORPG and Strategy`|
 |[ClientCmd unknown command?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724113-clientcmd-unknown-command.html)|`2025-11-04 08:40:00`|`Counter-Strike 2`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-11-04 08:38:00`|`Counter-Strike 2`|
