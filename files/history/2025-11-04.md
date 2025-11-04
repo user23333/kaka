@@ -27,9 +27,11 @@
 |1|[ValorantSDK&#95;11&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51810)|`2025-11-04 11:54:47`|
 |2|[DXInject&#45;UC&#45;POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51813)|`2025-11-04 12:11:05`|
 |2|[Sastasha Injector v1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51808)|`2025-11-04 12:11:05`|
+|4|[sdk dump initial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51815)|`2025-11-04 16:27:24`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Extract Players bypassing CR3 security](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2042-a/720631-extract-players-bypassing-cr3-security.html)|`2025-11-04 16:20:00`|`Battlefield 2042`|
 |[BF6 is detecting mouse&#95;event&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/723512-bf6-detecting-mouse_event.html)|`2025-11-04 15:24:00`|`Battlefield 6`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-11-04 13:14:00`|`DayZ SA`|
 |[Dark and Darker Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690457-dark-darker-internal.html)|`2025-11-04 13:10:00`|`Other FPS Games`|
