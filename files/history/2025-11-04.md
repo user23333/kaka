@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Borderlands 4 Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/717789-borderlands-4-reversal-structs-offsets.html)|`2025-11-04 22:13:00`|`Other Single Player Games`|
+|[adding sociopath's tier 9 perk "showdown" onto any perk deck](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/724180-adding-sociopaths-tier-9-perk-showdown-onto-perk-deck.html)|`2025-11-04 22:07:00`|`Payday 2`|
 |[New Updated Fully Working Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708891-updated-triggerbot.html)|`2025-11-04 21:57:00`|`Valorant`|
 |[BF6 Anti&#45;Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713778-bf6-anti-recoil.html)|`2025-11-04 21:52:00`|`Battlefield 6`|
 |[Solomissions Lua for Legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703978-solomissions-lua-legacy.html)|`2025-11-04 21:49:00`|`Grand Theft Auto V`|
