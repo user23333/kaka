@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Zodiak &#45; Fastcup Full Kernel Driver Cheat v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/665011-zodiak-fastcup-kernel-driver-cheat-v2.html)|`2025-11-05 04:55:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Mapping Virtual Memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724096-mapping-virtual-memory.html)|`2025-11-05 04:51:00`|`Anti-Cheat Bypass`|
 |[BLOODSTRIKE CHAMS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/723801-bloodstrike-chams.html)|`2025-11-05 04:47:00`|`Other Games`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-11-05 04:46:00`|`Other FPS Games`|
