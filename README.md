@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/716321-offsets.html)|`2025-11-05 03:52:00`|`PlanetSide 2`|
+|[Gems Of War 8&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/702434-gems-war-8-5-a.html)|`2025-11-05 03:51:00`|`Cheat Engine Tables`|
+|[cs2 external &#45; entity pos not reading correct](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724194-cs2-external-entity-pos-reading-correct.html)|`2025-11-05 03:51:00`|`Counter-Strike 2`|
 |[Candy Crush Saga &#40;Windows Store Version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/711508-candy-crush-saga-windows-store-version.html)|`2025-11-05 03:45:00`|`Cheat Engine Tables`|
 |[I need to change my steam id](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/720469-change-steam-id.html)|`2025-11-05 03:32:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Fellowship SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/724210-fellowship-sdk.html)|`2025-11-05 03:32:00`|`Other MMORPG and Strategy`|
