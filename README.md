@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Where to get deathmatch walkbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724161-deathmatch-walkbot.html)|`2025-11-06 05:54:00`|`Counter-Strike 2`|
+|[Is Using a Kernel Driver for a CS2 External Really Overkill?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724333-using-kernel-driver-cs2-external-overkill.html)|`2025-11-06 05:54:00`|`Counter-Strike 2`|
+|[Bombardino Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/704529-bombardino-internal.html)|`2025-11-06 05:49:00`|`Marvel Rivals`|
+|[Titanfall 2 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/688353-titanfall-2-internal-cheat.html)|`2025-11-06 05:41:00`|`Titanfall`|
+|[TPM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/649260-tpm-spoofer.html)|`2025-11-06 05:39:00`|`Valorant`|
 |[Borderlands 4 Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/717789-borderlands-4-reversal-structs-offsets.html)|`2025-11-06 05:46:00`|`Other Single Player Games`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2025-11-06 05:44:00`|`Grand Theft Auto V`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-11-06 05:43:00`|`Apex Legends`|
