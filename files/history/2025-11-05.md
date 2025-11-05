@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lazybead &#40;LB&#41; &#45; Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat.html)|`2025-11-05 19:04:00`|`Sea of Thieves`|
+|[Particle Modulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722798-particle-modulation.html)|`2025-11-05 19:03:00`|`Counter-Strike 2`|
+|[game of thrones kingsroad hack & offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701827-game-thrones-kingsroad-hack-offsets.html)|`2025-11-05 19:00:00`|`Other MMORPG and Strategy`|
 |[adding sociopath's tier 9 perk "showdown" onto any perk deck](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/724180-adding-sociopaths-tier-9-perk-showdown-onto-perk-deck.html)|`2025-11-05 18:51:00`|`Payday 2`|
 |[Albion Online structs and offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/469442-albion-online-structs-offsets.html)|`2025-11-05 18:33:00`|`Other Games`|
 |[How to update the Casino Pacino lua script for YimMenu &#40;legacy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724276-update-casino-pacino-lua-script-yimmenu-legacy.html)|`2025-11-05 18:28:00`|`Grand Theft Auto V`|
