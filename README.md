@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[adding sociopath's tier 9 perk "showdown" onto any perk deck](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/724180-adding-sociopaths-tier-9-perk-showdown-onto-perk-deck.html)|`2025-11-05 18:51:00`|`Payday 2`|
 |[Albion Online structs and offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/469442-albion-online-structs-offsets.html)|`2025-11-05 18:33:00`|`Other Games`|
 |[How to update the Casino Pacino lua script for YimMenu &#40;legacy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724276-update-casino-pacino-lua-script-yimmenu-legacy.html)|`2025-11-05 18:28:00`|`Grand Theft Auto V`|
 |[Skinchanger for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724275-skinchanger-cs2.html)|`2025-11-05 17:40:00`|`Counter-Strike 2`|
