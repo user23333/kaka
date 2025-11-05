@@ -13,6 +13,7 @@
 |8|[DXComm &#45; GPU Memory Communication](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723503-dxcomm-gpu-memory-communication.html)|`2025-11-05 00:23:07`|`anti-cheat-bypass`|
 |12|[How is kdmapper detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723470-kdmapper-detected.html)|`2025-11-05 00:43:58`|`anti-cheat-bypass`|
 |15|[No cs2 cheats work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723653-cs2-cheats.html)|`2025-11-05 00:55:25`|`counter-strike-2-a`|
+|11|[Duet Night Abyss Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/724122-duet-night-abyss-internal-cheat.html)|`2025-11-05 08:55:32`|`other-mmorpg-and-strategy`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-11-05 08:50:00`|`Alternative Online Mods`|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-11-05 08:48:00`|`Counter-Strike 2 Releases`|
+|[Read&#45;only Vischeck ESP &#124; Part 1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/724244-read-vischeck-esp-1-a.html)|`2025-11-05 08:44:00`|`Escape from Tarkov`|
+|[APEX READ ONLY ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/723054-apex-read-esp.html)|`2025-11-05 08:44:00`|`Apex Legends`|
+|[Dead By Daylight DMA 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714224-dead-daylight-dma-2-0-a.html)|`2025-11-05 08:42:00`|`Other FPS Games`|
+|[Adapting to reversing games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/712849-adapting-reversing-games.html)|`2025-11-05 08:41:00`|`General Programming and Reversing`|
 |[ProtonESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/724236-protonesp.html)|`2025-11-05 07:24:00`|`Counter-Strike 2 Releases`|
 |[MISERY Mod Menu &#40;Internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724237-misery-mod-menu-internal.html)|`2025-11-05 07:25:00`|`Other FPS Games`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-11-05 07:05:00`|`Counter-Strike 2`|
