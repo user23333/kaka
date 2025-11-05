@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Teleport to Waypoint tutorial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/723776-fivem-teleport-waypoint-tutorial.html)|`2025-11-05 20:58:00`|`Alternative Online Mods`|
+|[External Among Us overlay &#40;undetectable&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/685399-external-overlay-undetectable.html)|`2025-11-05 20:48:00`|`Among Us`|
 |[BF6 Aimbot &#40;TPU Accelerated Raspberry Pi&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722855-bf6-aimbot-tpu-accelerated-raspberry-pi.html)|`2025-11-05 20:03:00`|`Battlefield 6`|
 |[Lazybead &#40;LB&#41; &#45; Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat.html)|`2025-11-05 19:04:00`|`Sea of Thieves`|
 |[Particle Modulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722798-particle-modulation.html)|`2025-11-05 19:03:00`|`Counter-Strike 2`|
