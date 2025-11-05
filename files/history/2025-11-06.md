@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[x64 CS:S internal base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/724321-x64-cs-internal-base.html)|`2025-11-06 04:17:00`|`CounterStrike Source`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-11-06 04:15:00`|`Other FPS Games`|
+|[BattleBit Remastered](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlebit-remastered/485886-battlebit-remastered.html)|`2025-11-06 04:11:00`|`BattleBit Remastered`|
+|[Ark Ascended Urgent Help&#33; Why does the external "WorldToScreen" have a malfunction?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724320-ark-ascended-urgent-help-external-worldtoscreen-malfunction.html)|`2025-11-06 04:03:00`|`Other FPS Games`|
 |[External Among Us overlay &#40;undetectable&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/685399-external-overlay-undetectable.html)|`2025-11-06 03:58:00`|`Among Us`|
 |[TarkovGUI &#124; PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/694944-tarkovgui-pve.html)|`2025-11-06 03:56:00`|`Escape from Tarkov`|
 |[PUBG GLOBAL 4&#46;1 UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724318-pubg-global-4-1-ue4-offsets.html)|`2025-11-06 03:53:00`|`PUBG Mobile`|
