@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Among Us overlay &#40;undetectable&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/685399-external-overlay-undetectable.html)|`2025-11-06 03:58:00`|`Among Us`|
+|[TarkovGUI &#124; PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/694944-tarkovgui-pve.html)|`2025-11-06 03:56:00`|`Escape from Tarkov`|
+|[PUBG GLOBAL 4&#46;1 UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724318-pubg-global-4-1-ue4-offsets.html)|`2025-11-06 03:53:00`|`PUBG Mobile`|
 |[External Offsets 4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724315-external-offsets-4-1-a.html)|`2025-11-06 03:47:00`|`PUBG Mobile`|
 |[BloodStrike VECTOR smg unique Pattern &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724314-bloodstrike-vector-smg-unique-pattern.html)|`2025-11-06 03:38:00`|`Other FPS Games`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-11-06 03:39:00`|`Escape from Tarkov`|
