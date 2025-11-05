@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BF6 is detecting mouse&#95;event&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/723512-bf6-detecting-mouse_event.html)|`2025-11-05 10:25:00`|`Battlefield 6`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-11-05 10:23:00`|`DayZ SA`|
+|[Rust Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/452384-rust-scripting.html)|`2025-11-05 10:22:00`|`Rust`|
+|[sock no show player and count him](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724248-sock-player-count.html)|`2025-11-05 10:19:00`|`PUBG Mobile`|
+|[failure sock pubgm 64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724137-failure-sock-pubgm-64-a.html)|`2025-11-05 10:14:00`|`PUBG Mobile`|
+|[SEowndde x64 improved fix &#40;FREEZE QUE&#43;OPTIMIZONES&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/723332-seowndde-x64-improved-fix-freeze-que-optimizones.html)|`2025-11-05 10:07:00`|`Team Fortress 2`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-11-05 08:50:00`|`Alternative Online Mods`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-11-05 08:48:00`|`Counter-Strike 2 Releases`|
 |[Read&#45;only Vischeck ESP &#124; Part 1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/724244-read-vischeck-esp-1-a.html)|`2025-11-05 08:44:00`|`Escape from Tarkov`|
