@@ -14,6 +14,7 @@
 |12|[How is kdmapper detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723470-kdmapper-detected.html)|`2025-11-05 00:43:58`|`anti-cheat-bypass`|
 |15|[No cs2 cheats work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723653-cs2-cheats.html)|`2025-11-05 00:55:25`|`counter-strike-2-a`|
 |11|[Duet Night Abyss Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/724122-duet-night-abyss-internal-cheat.html)|`2025-11-05 08:55:32`|`other-mmorpg-and-strategy`|
+|6|[Modification Bypass 6&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/723519-modification-bypass-6-1-a.html)|`2025-11-05 23:12:40`|`genshin-impact`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[only 1 Hid device can send input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721444-1-hid-device-send-input.html)|`2025-11-05 23:08:00`|`Apex Legends`|
+|[Modification Bypass 6&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/723519-modification-bypass-6-1-a.html)|`2025-11-05 23:07:00`|`Genshin Impact`|
+|[Updated CS2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/721585-updated-cs2-external-esp.html)|`2025-11-05 23:06:00`|`Counter-Strike 2 Releases`|
 |[Simple Apex ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/719602-simple-apex-esp.html)|`2025-11-05 22:48:00`|`Apex Legends`|
 |[adding &#46;so to apk: what did I do wrong/What is happening ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/724107-adding-apk-wrong-happening.html)|`2025-11-05 22:41:00`|`Android`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-11-05 22:30:00`|`Overwatch`|
