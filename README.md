@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/724336-demonologist-internal.html)|`2025-11-06 06:07:00`|`Other Games`|
+|[SetMasterClient after updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/724334-setmasterclient-updates.html)|`2025-11-06 05:59:00`|`Phasmophobia`|
+|[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2025-11-06 05:58:00`|`Combat Arms`|
 |[Where to get deathmatch walkbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724161-deathmatch-walkbot.html)|`2025-11-06 05:54:00`|`Counter-Strike 2`|
 |[Is Using a Kernel Driver for a CS2 External Really Overkill?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724333-using-kernel-driver-cs2-external-overkill.html)|`2025-11-06 05:54:00`|`Counter-Strike 2`|
 |[Bombardino Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/704529-bombardino-internal.html)|`2025-11-06 05:49:00`|`Marvel Rivals`|
