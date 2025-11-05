@@ -15,6 +15,7 @@
 |15|[No cs2 cheats work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723653-cs2-cheats.html)|`2025-11-05 00:55:25`|`counter-strike-2-a`|
 |11|[Duet Night Abyss Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/724122-duet-night-abyss-internal-cheat.html)|`2025-11-05 08:55:32`|`other-mmorpg-and-strategy`|
 |6|[Modification Bypass 6&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/723519-modification-bypass-6-1-a.html)|`2025-11-05 23:12:40`|`genshin-impact`|
+|4|[MY FIRST MARVEL RIVALS EXTERNAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/723540-marvel-rivals-external.html)|`2025-11-05 23:42:48`|`marvel-rivals`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
