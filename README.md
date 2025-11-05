@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG 4&#46;1 MAGIC SHELL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724338-pubg-4-1-magic-shell.html)|`2025-11-06 06:21:00`|`PUBG Mobile`|
+|[Age Of Empire 4 Scar Script Injector with Online &#43; Offline Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/720438-age-empire-4-scar-script-injector-online-offline-features.html)|`2025-11-06 06:17:00`|`Age of Empires`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-11-06 06:15:00`|`ARMA 3`|
+|[Sleepy's External &#45; Outline, Skeleton, and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external-outline-skeleton-aimbot.html)|`2025-11-06 06:14:00`|`Overwatch`|
+|[HoldFast Internal Cheat NaW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718005-holdfast-internal-cheat-naw.html)|`2025-11-06 06:12:00`|`Other FPS Games`|
 |[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/724336-demonologist-internal.html)|`2025-11-06 06:07:00`|`Other Games`|
 |[SetMasterClient after updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/724334-setmasterclient-updates.html)|`2025-11-06 05:59:00`|`Phasmophobia`|
 |[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2025-11-06 05:58:00`|`Combat Arms`|
