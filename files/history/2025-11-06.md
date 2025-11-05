@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypassing little anti cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723816-bypassing-little-anti-cheats.html)|`2025-11-06 03:26:00`|`Counter-Strike 2`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2025-11-06 03:24:00`|`Call of Duty: Black Ops 7`|
+|[&#91;Source&#93; Planetside 2 Cheat & BattlEye Bypass &#43; Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/720663-source-planetside-2-cheat-battleye-bypass-injector.html)|`2025-11-06 03:20:00`|`PlanetSide 2`|
 |[Any undetected gta 5 ENCHANTED mod menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724284-undetected-gta-5-enchanted-mod-menu.html)|`2025-11-06 03:01:00`|`Grand Theft Auto V`|
 |[reading memory by swapping pfns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724308-reading-memory-swapping-pfns.html)|`2025-11-06 02:56:00`|`Anti-Cheat Bypass`|
 |[Getting player entity from onAddEntity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724307-getting-player-entity-onaddentity.html)|`2025-11-06 02:55:00`|`Counter-Strike 2`|
