@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spoofing/Editing Serials on Insyde BIOS HP Systems&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/628213-spoofing-editing-serials-insyde-bios-hp-systems.html)|`2025-11-06 07:42:00`|`Valorant`|
+|[Free c&#35; color aimbot/rcs/trigger&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724077-free-color-aimbot-rcs-trigger.html)|`2025-11-06 07:40:00`|`Valorant`|
+|[New Updated Fully Working Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708891-updated-triggerbot.html)|`2025-11-06 07:37:00`|`Valorant`|
 |[EAAntiCheatService &#124; ExitType: 95 &#40;207&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/723943-eaanticheatservice-exittype-95-207-a.html)|`2025-11-06 07:36:00`|`Battlefield 6`|
 |[Dead By Daylight DMA 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714224-dead-daylight-dma-2-0-a.html)|`2025-11-06 07:36:00`|`Other FPS Games`|
 |[starfall external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720579-starfall-external.html)|`2025-11-06 07:34:00`|`Valorant`|
