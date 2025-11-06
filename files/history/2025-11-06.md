@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pixel Gun 3D Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/719939-pixel-gun-3d-cheat.html)|`2025-11-06 12:15:00`|`Other Games`|
+|[dungeons of eternity vr cheat trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717295-dungeons-eternity-vr-cheat-trainer.html)|`2025-11-06 12:04:00`|`Other FPS Games`|
 |[Apex DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716473-apex-dma-source.html)|`2025-11-06 12:07:00`|`Apex Legends`|
 |[i need hook c35 , c16 fot integrity and fix crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724353-hook-c35-c16-fot-integrity-fix-crash.html)|`2025-11-06 11:51:00`|`PUBG Mobile`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-11-06 11:31:00`|`Sea of Thieves`|
