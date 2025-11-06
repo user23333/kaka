@@ -35,6 +35,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[warzone question rq](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/724398-warzone-question-rq.html)|`2025-11-06 21:34:00`|`Call of Duty: Black Ops 6`|
+|[Cod Hwid Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/721079-cod-hwid-ban.html)|`2025-11-06 21:33:00`|`Call of Duty: Black Ops 6`|
+|[Injector and source code of the cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/724390-injector-source-code-cheat.html)|`2025-11-06 21:23:00`|`DayZ SA`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-11-06 21:22:00`|`Grand Theft Auto V`|
+|[Rocket league bots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/708048-rocket-league-bots.html)|`2025-11-06 21:20:00`|`Other Games`|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-11-06 21:15:00`|`Other FPS Games`|
 |[Looking for colorbots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724367-looking-colorbots.html)|`2025-11-06 20:38:00`|`Valorant`|
 |[Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/465314-super-animal-royale-hack.html)|`2025-11-06 20:21:00`|`Other Games`|
 |[Need help with a 2 pc setup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724375-help-2-pc-setup.html)|`2025-11-06 19:28:00`|`Valorant`|
