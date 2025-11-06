@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-11-07 05:14:00`|`Apex Legends`|
+|[GTA V New Character Setup &#91;Help Needed/Advice Welcome&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724450-gta-character-setup-help-advice-welcome.html)|`2025-11-07 04:56:00`|`Grand Theft Auto V`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-11-07 04:26:00`|`Escape from Tarkov`|
 |[starfall external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720579-starfall-external.html)|`2025-11-07 04:25:00`|`Valorant`|
 |[Eac Byass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724283-eac-byass.html)|`2025-11-07 04:21:00`|`Anti-Cheat Bypass`|
