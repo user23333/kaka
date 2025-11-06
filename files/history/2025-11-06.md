@@ -15,6 +15,7 @@
 |5|[Cs2 External By NeatZen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724000-cs2-external-neatzen.html)|`2025-11-06 05:00:39`|`counter-strike-2-a`|
 |17|[BLOODSTRIKE CHAMS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/723801-bloodstrike-chams.html)|`2025-11-06 08:56:01`|`other-games`|
 |10|[Makcu 1PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/723888-makcu-1pc.html)|`2025-11-06 11:34:12`|`valorant`|
+|7|[Free c&#35; color aimbot/rcs/trigger&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724077-free-color-aimbot-rcs-trigger.html)|`2025-11-06 14:58:59`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
