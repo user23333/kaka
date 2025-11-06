@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/590414-arc-raiders-structs-offsets.html)|`2025-11-07 06:53:00`|`Other FPS Games`|
 |[Understanding low&#45;level memory management &#40;Windows&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/724303-understanding-low-level-memory-management-windows.html)|`2025-11-07 06:47:00`|`General Programming and Reversing`|
 |[Makcu 1PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/723888-makcu-1pc.html)|`2025-11-07 06:19:00`|`Valorant`|
 |[Stuck Extracting global&#45;metadata&#46;dat from Russian Fishing 4 &#40;IL2CPP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/693138-stuck-extracting-global-metadata-dat-russian-fishing-4-il2cpp.html)|`2025-11-07 06:09:00`|`Other Games`|
