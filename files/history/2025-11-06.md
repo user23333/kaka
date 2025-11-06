@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Outlast Trials Dumper&#45;7 Fix &#45; How To Dump The Game After the "Anti&#45;Cheat" update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722964-outlast-trials-dumper-7-fix-dump-game-anti-cheat-update.html)|`2025-11-06 23:40:00`|`Other FPS Games`|
 |[Fellowship SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/724210-fellowship-sdk.html)|`2025-11-06 23:29:00`|`Other MMORPG and Strategy`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-11-06 23:15:00`|`DayZ SA`|
 |[CurrentWeapon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724425-currentweapon.html)|`2025-11-06 23:11:00`|`PUBG Mobile`|
