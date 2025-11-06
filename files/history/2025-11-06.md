@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to change ur FTPM without a driver &#40;AMD, Gigabyte only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720900-change-ur-ftpm-driver-amd-gigabyte.html)|`2025-11-06 14:32:00`|`Valorant`|
 |[TF2: Finding GlowObjectManager & GlowIndex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/723902-tf2-finding-glowobjectmanager-glowindex.html)|`2025-11-06 14:09:00`|`Team Fortress 2`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-11-06 13:48:00`|`Escape from Tarkov`|
 |[DXInject &#45; GPU&#45;Based Process Hollowing POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724131-dxinject-gpu-based-process-hollowing-poc.html)|`2025-11-06 12:55:00`|`Anti-Cheat Bypass`|
