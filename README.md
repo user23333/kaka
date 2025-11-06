@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HUGE HG GLITCH](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/723629-huge-hg-glitch.html)|`2025-11-06 16:17:00`|`Sea of Thieves`|
 |[ToF&#46;CFF](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tower-of-fantasy/722052-tof-cff.html)|`2025-11-06 15:46:00`|`Tower of Fantasy`|
 |[&#46;pak unpacker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/719599-pak-unpacker.html)|`2025-11-06 15:39:00`|`PUBG Mobile`|
 |[IDA Pro 9&#46;2 vmx intrinsics plugin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/724363-ida-pro-9-2-vmx-intrinsics-plugin.html)|`2025-11-06 15:33:00`|`General Programming and Reversing`|
