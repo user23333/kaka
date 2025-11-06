@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Makcu 1PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/723888-makcu-1pc.html)|`2025-11-07 06:19:00`|`Valorant`|
+|[Stuck Extracting global&#45;metadata&#46;dat from Russian Fishing 4 &#40;IL2CPP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/693138-stuck-extracting-global-metadata-dat-russian-fishing-4-il2cpp.html)|`2025-11-07 06:09:00`|`Other Games`|
 |[Internal Entity Scanning Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724458-internal-entity-scanning-issues.html)|`2025-11-07 05:56:00`|`Counter-Strike 2`|
 |[PUBG GLOBAL 4&#46;1 UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724318-pubg-global-4-1-ue4-offsets.html)|`2025-11-07 05:52:00`|`PUBG Mobile`|
 |[External Offsets 4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724315-external-offsets-4-1-a.html)|`2025-11-07 05:51:00`|`PUBG Mobile`|
