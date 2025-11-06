@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[i need hook c35 , c16 fot integrity and fix crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724353-hook-c35-c16-fot-integrity-fix-crash.html)|`2025-11-06 11:51:00`|`PUBG Mobile`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-11-06 11:31:00`|`Sea of Thieves`|
 |[i need sock and injector 64 only root 4&#46;1 pubgm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724352-sock-injector-64-root-4-1-pubgm.html)|`2025-11-06 11:23:00`|`PUBG Mobile`|
 |[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-11-06 11:22:00`|`Grand Theft Auto V`|
