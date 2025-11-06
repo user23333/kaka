@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-11-06 22:36:00`|`Other MMORPG and Strategy`|
 |[Video thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724423-video-thread.html)|`2025-11-06 22:29:00`|`Counter-Strike 2`|
 |[Any undetectable hacks for Ragemp?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724422-undetectable-hacks-ragemp.html)|`2025-11-06 22:13:00`|`Grand Theft Auto V`|
 |[New address for NetworkGameClient](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724420-address-networkgameclient.html)|`2025-11-06 22:12:00`|`Counter-Strike 2`|
