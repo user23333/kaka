@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[anti&#45;afk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/723002-anti-afk.html)|`2025-11-06 17:30:00`|`Sea of Thieves`|
 |[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2025-11-06 17:01:00`|`Apex Legends`|
 |[Ragnarok Twilight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/724365-ragnarok-twilight.html)|`2025-11-06 16:28:00`|`Other MMORPG and Strategy`|
 |[HUGE HG GLITCH](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/723629-huge-hg-glitch.html)|`2025-11-06 16:17:00`|`Sea of Thieves`|
