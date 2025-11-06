@@ -36,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any undetectable hacks for Ragemp?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724422-undetectable-hacks-ragemp.html)|`2025-11-06 22:13:00`|`Grand Theft Auto V`|
+|[New address for NetworkGameClient](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724420-address-networkgameclient.html)|`2025-11-06 22:12:00`|`Counter-Strike 2`|
+|[RAGEMP Hacks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724419-ragemp-hacks.html)|`2025-11-06 22:12:00`|`Grand Theft Auto V`|
+|[Chivalry 2 Creating your owns &#46;PAK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716143-chivalry-2-creating-owns-pak.html)|`2025-11-06 22:07:00`|`Other FPS Games`|
+|[FiveM sv&#95;pureLevel changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/640619-fivem-sv_purelevel-changer.html)|`2025-11-06 21:57:00`|`Alternative Online Mods`|
 |[Help CE programming](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/703939-help-ce-programming.html)|`2025-11-06 21:51:00`|`Introductions`|
 |[Kernel injection not working &#45; debugging help requested](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/724410-kernel-injection-debugging-help-requested.html)|`2025-11-06 21:46:00`|`General Programming and Reversing`|
 |[stealth driver read memory using spy page](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717569-stealth-driver-read-memory-using-spy-page.html)|`2025-11-06 21:44:00`|`Anti-Cheat Bypass`|
