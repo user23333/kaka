@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG GLOBAL 4&#46;1 UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724318-pubg-global-4-1-ue4-offsets.html)|`2025-11-07 05:52:00`|`PUBG Mobile`|
+|[External Offsets 4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724315-external-offsets-4-1-a.html)|`2025-11-07 05:51:00`|`PUBG Mobile`|
+|[RAGEMP Hacks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724419-ragemp-hacks.html)|`2025-11-07 05:49:00`|`Grand Theft Auto V`|
 |[Any undetectable hacks for Ragemp?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724422-undetectable-hacks-ragemp.html)|`2025-11-07 05:47:00`|`Grand Theft Auto V`|
 |[Esp show player in hub only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724371-esp-player-hub.html)|`2025-11-07 05:43:00`|`PUBG Mobile`|
 |[TF2 external How to make](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/724455-tf2-external.html)|`2025-11-07 05:32:00`|`Team Fortress 2`|
