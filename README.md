@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;BloodStrike&#93; Bone Ids &#40;From different characters&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/724442-bloodstrike-bone-ids-characters.html)|`2025-11-07 07:45:00`|`Other Games`|
+|[MY FIRST MARVEL RIVALS EXTERNAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/723540-marvel-rivals-external.html)|`2025-11-07 07:35:00`|`Marvel Rivals`|
+|[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2025-11-07 07:32:00`|`Escape from Tarkov`|
+|[I don’t know if my feelings are selfish](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/723472-don-feelings-selfish.html)|`2025-11-07 07:26:00`|`Off Topic`|
 |[HWID Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/723083-hwid-ban.html)|`2025-11-07 07:42:00`|`Call of Duty: Black Ops 6`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-11-07 07:06:00`|`Playerunknown's Battlegrounds`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/590414-arc-raiders-structs-offsets.html)|`2025-11-07 06:53:00`|`Other FPS Games`|
