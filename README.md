@@ -13,6 +13,7 @@
 |4|[MY FIRST MARVEL RIVALS EXTERNAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/723540-marvel-rivals-external.html)|`2025-11-06 00:18:32`|`marvel-rivals`|
 |15|[No cs2 cheats work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723653-cs2-cheats.html)|`2025-11-06 01:59:58`|`counter-strike-2-a`|
 |5|[Cs2 External By NeatZen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724000-cs2-external-neatzen.html)|`2025-11-06 05:00:39`|`counter-strike-2-a`|
+|17|[BLOODSTRIKE CHAMS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/723801-bloodstrike-chams.html)|`2025-11-06 08:56:01`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -26,9 +27,15 @@
 |62|[Sastasha Injector v1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51808)|`2025-11-06 00:18:32`|
 |716|[Duet Night Abyss CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51800)|`2025-11-06 00:18:32`|
 |211|[StellaSora&#45;Tool&#45;v3&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51799)|`2025-11-06 00:18:32`|
+|2|[Demonologist&#95;injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51840)|`2025-11-06 08:56:01`|
+|2|[Demonologist&#95;internal&#95;dx11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51839)|`2025-11-06 08:56:01`|
+|1|[&#43;&#43;Fortnite&#43;Release&#45;38&#46;00&#45;CL&#45;47722112](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51834)|`2025-11-06 08:56:01`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dual Night Abyss SDK Dumber](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/723646-dual-night-abyss-sdk-dumber.html)|`2025-11-06 08:55:00`|`Other MMORPG and Strategy`|
+|[Rocket League SDK INJECT FAILURE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724346-rocket-league-sdk-inject-failure.html)|`2025-11-06 08:10:00`|`Other FPS Games`|
+|[Rainbow Six Siege X Recoil Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/723950-rainbow-six-siege-recoil-macro.html)|`2025-11-06 08:09:00`|`Rainbow Six Siege`|
 |[Trying to make perfect autobackstab](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/724344-trying-perfect-autobackstab.html)|`2025-11-06 07:49:00`|`Team Fortress 2`|
 |[For Honor &#45; Sciprt by florasSecret &#45; Autoblock, Parry, Deflects, D b/Unblockables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/414701-honor-sciprt-florassecret-autoblock-parry-deflects-unblockables.html)|`2025-11-06 07:44:00`|`Other MMORPG and Strategy`|
 |[༺ 𝙉𝙊𝙑𝘼 ༻ — ✧ Ultimate Insyde Spoofer ✧](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712892-ultimate-insyde-spoofer.html)|`2025-11-06 07:44:00`|`Valorant`|
