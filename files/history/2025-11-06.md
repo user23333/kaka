@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Esp show player in hub only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724371-esp-player-hub.html)|`2025-11-06 19:20:00`|`PUBG Mobile`|
 |[rcs of my external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724056-rcs-external.html)|`2025-11-06 18:41:00`|`Counter-Strike 2`|
 |[Account security has been compromised](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/722999-account-security-compromised.html)|`2025-11-06 18:39:00`|`Off Topic`|
 |[Pose decrypt &#40;for entity&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700510-pose-decrypt-entity.html)|`2025-11-06 18:22:00`|`Call of Duty: Black Ops 6`|
