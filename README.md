@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[glitching chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724564-glitching-chams.html)|`2025-11-08 04:36:00`|`Counter-Strike 2`|
+|[Arena Breakout:Infinite FNameDecryption problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/724563-arena-breakout-infinite-fnamedecryption.html)|`2025-11-08 04:34:00`|`Other Games`|
+|[how to find signature&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724562-signature.html)|`2025-11-08 04:32:00`|`Counter-Strike 2`|
 |[Menu Showcase &#40;RgDayz Based Cheat&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/712711-menu-showcase-rgdayz-based-cheat.html)|`2025-11-08 04:12:00`|`DayZ SA`|
 |[VAC modules fully disabled](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723657-vac-modules-disabled.html)|`2025-11-08 04:02:00`|`Counter-Strike 2`|
 |[All Mouse NoRecoil 1&#46;0 IS OUT &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-1-0-recoil-helpy-auto-config-probably-ud-universal.html)|`2025-11-08 03:55:00`|`Rainbow Six Siege`|
