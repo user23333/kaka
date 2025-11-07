@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Farlight cheat internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/717566-farlight-cheat-internal.html)|`2025-11-07 12:51:00`|`Farlight 84`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-11-07 12:50:00`|`Grand Theft Auto V`|
 |[Using AI to code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/724481-using-ai-code.html)|`2025-11-07 12:45:00`|`Rainbow Six Siege`|
 |[TF2: Finding GlowObjectManager & GlowIndex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/723902-tf2-finding-glowobjectmanager-glowindex.html)|`2025-11-07 12:41:00`|`Team Fortress 2`|
 |[Updated offset for MS Store GSC Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/723504-updated-offset-ms-store-gsc-injector.html)|`2025-11-07 12:40:00`|`Call of Duty: Black Ops 3`|
