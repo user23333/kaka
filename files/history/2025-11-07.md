@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unturned DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/601369-unturned-dma.html)|`2025-11-07 21:54:00`|`Other FPS Games`|
+|[How to normally play Delta Force with VT&#45;D and virtualization turned off](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724515-normally-play-delta-force-vt-virtualization.html)|`2025-11-07 21:28:00`|`Anti-Cheat Bypass`|
 |[LSCHaX for 1&#46;70 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/224075-lschax-1-70-external.html)|`2025-11-07 21:46:00`|`Grand Theft Auto V`|
 |[esp freeze on scope](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724516-esp-freeze-scope.html)|`2025-11-07 21:46:00`|`Valorant`|
 |[Hi There&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/724495-hi.html)|`2025-11-07 21:19:00`|`Introductions`|
