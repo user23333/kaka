@@ -12,6 +12,7 @@
 |9|[DXInject &#45; GPU&#45;Based Process Hollowing POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724131-dxinject-gpu-based-process-hollowing-poc.html)|`2025-11-07 00:18:31`|`anti-cheat-bypass`|
 |1|[eaac dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/723669-eaac-dumper.html)|`2025-11-07 00:18:31`|`battlefield-6-a`|
 |9|[Bypassing little anti cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723816-bypassing-little-anti-cheats.html)|`2025-11-07 13:44:30`|`counter-strike-2-a`|
+|21|[need help, keep getting banneddd on new pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/723772-help-getting-banneddd-pc.html)|`2025-11-07 15:29:11`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
