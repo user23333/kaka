@@ -11,6 +11,7 @@
 |10|[Makcu 1PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/723888-makcu-1pc.html)|`2025-11-07 00:18:31`|`valorant`|
 |9|[DXInject &#45; GPU&#45;Based Process Hollowing POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724131-dxinject-gpu-based-process-hollowing-poc.html)|`2025-11-07 00:18:31`|`anti-cheat-bypass`|
 |1|[eaac dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/723669-eaac-dumper.html)|`2025-11-07 00:18:31`|`battlefield-6-a`|
+|9|[Bypassing little anti cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723816-bypassing-little-anti-cheats.html)|`2025-11-07 13:44:30`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-11-07 13:42:00`|`Valorant`|
 |[Non&#45;proliferation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724482-proliferation.html)|`2025-11-07 13:26:00`|`Counter-Strike 2`|
 |[EAC Detection: Alternatives to MmCopyMemory and Kernel API Calls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721055-eac-detection-alternatives-mmcopymemory-kernel-api-calls.html)|`2025-11-07 13:22:00`|`Anti-Cheat Bypass`|
 |[DayPay Internal &#91;STEAM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/720131-daypay-internal-steam.html)|`2025-11-07 13:20:00`|`Payday 3`|
