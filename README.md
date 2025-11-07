@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gta 5 enhanced view angle offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724527-gta-5-enhanced-view-angle-offset.html)|`2025-11-07 22:38:00`|`Grand Theft Auto V`|
+|[hyper&#45;reV &#45; memory introspection &#43; reverse engineering powered by leveraging Hyper&#45;V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709634-hyper-rev-memory-introspection-reverse-engineering-powered-leveraging-hyper.html)|`2025-11-07 22:37:00`|`Anti-Cheat Bypass`|
+|[VEIN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/723560-vein.html)|`2025-11-07 22:35:00`|`Other FPS Games`|
 |[Bluebook by CollegeBoard bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/685405-bluebook-collegeboard-bypass.html)|`2025-11-07 22:31:00`|`Forum General`|
 |[Script Auto Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/723581-script-auto-detection.html)|`2025-11-07 22:27:00`|`Rust`|
 |[Information for RadarHACK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724525-information-radarhack.html)|`2025-11-07 22:26:00`|`Counter-Strike 2`|
