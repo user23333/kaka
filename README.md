@@ -14,6 +14,7 @@
 |9|[Bypassing little anti cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723816-bypassing-little-anti-cheats.html)|`2025-11-07 13:44:30`|`counter-strike-2-a`|
 |21|[need help, keep getting banneddd on new pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/723772-help-getting-banneddd-pc.html)|`2025-11-07 15:29:11`|`valorant`|
 |3|[rewasd cfg for bf6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/723717-rewasd-cfg-bf6.html)|`2025-11-07 17:30:18`|`battlefield-6-a`|
+|9|[Disable pvs per Scene object](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723873-disable-pvs-scene-object.html)|`2025-11-07 19:52:40`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,9 +30,11 @@
 |86|[DXInject&#45;UC&#45;POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51813)|`2025-11-07 00:18:31`|
 |1|[5&#46;5&#46;4&#45;163894&#43;&#43;&#43;FTW&#43;Release&#45;0&#46;3&#46;5&#46;0&#45;GZW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51845)|`2025-11-07 00:46:01`|
 |3|[Duet Night Abyss CT V3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51844)|`2025-11-07 13:16:08`|
+|2|[5&#46;5&#46;4&#45;0&#43;UE5&#45;fellowship&#95;22090229](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51848)|`2025-11-07 19:52:40`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BLOODSTRIKE CHAMS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/723801-bloodstrike-chams.html)|`2025-11-07 19:51:00`|`Other Games`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-11-07 19:18:00`|`Counter-Strike 2`|
 |[BloodStrike Usermode Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722475-bloodstrike-usermode-source.html)|`2025-11-07 18:40:00`|`Other FPS Games`|
 |[Luna &#124; Free CS2 Cheat &#124; INTERNAL &#124; ESP, Aim, BHop, &#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/681945-luna-free-cs2-cheat-internal-esp-aim-bhop.html)|`2025-11-07 18:33:00`|`Counter-Strike 2 Releases`|
