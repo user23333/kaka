@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bluefire 2&#46;0 all win11/10 &#43; controller support &#43; vendors dump 8&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/721987-bluefire-2-0-win11-10-controller-support-vendors-dump-8-1-a.html)|`2025-11-08 05:08:00`|`Paladins`|
+|[Xenos injecting YimMenuV2 error code 0xC0000022 on GTA 5 Enhanced steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/723637-xenos-injecting-yimmenuv2-error-code-0xc0000022-gta-5-enhanced-steam.html)|`2025-11-08 05:07:00`|`Grand Theft Auto V`|
+|[Esp show player in hub only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724371-esp-player-hub.html)|`2025-11-08 04:58:00`|`PUBG Mobile`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-11-08 04:53:00`|`Valorant`|
 |[glitching chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724564-glitching-chams.html)|`2025-11-08 04:36:00`|`Counter-Strike 2`|
 |[Arena Breakout:Infinite FNameDecryption problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/724563-arena-breakout-infinite-fnamedecryption.html)|`2025-11-08 04:34:00`|`Other Games`|
