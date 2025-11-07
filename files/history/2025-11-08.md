@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BOIII Client ZM External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/684226-boiii-client-zm-external.html)|`2025-11-08 02:14:00`|`Call of Duty: Black Ops 3`|
+|[GTA V New Character Setup &#91;Help Needed/Advice Welcome&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724450-gta-character-setup-help-advice-welcome.html)|`2025-11-08 02:09:00`|`Grand Theft Auto V`|
+|[BFV NO RECOIL REUPLOAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/721443-bfv-recoil-reupload.html)|`2025-11-08 02:08:00`|`Battlefield V`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-11-08 02:04:00`|`Overwatch`|
 |[PlayerManager and DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722864-playermanager-dma.html)|`2025-11-08 01:50:00`|`Battlefield 6`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/590414-arc-raiders-structs-offsets.html)|`2025-11-08 01:50:00`|`Other FPS Games`|
 |[Deadlock DMA &#40;with source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/723221-deadlock-dma-source.html)|`2025-11-08 01:49:00`|`Deadlock`|
