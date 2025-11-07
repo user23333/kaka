@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-11-08 04:53:00`|`Valorant`|
 |[glitching chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724564-glitching-chams.html)|`2025-11-08 04:36:00`|`Counter-Strike 2`|
 |[Arena Breakout:Infinite FNameDecryption problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/724563-arena-breakout-infinite-fnamedecryption.html)|`2025-11-08 04:34:00`|`Other Games`|
 |[how to find signature&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724562-signature.html)|`2025-11-08 04:32:00`|`Counter-Strike 2`|
