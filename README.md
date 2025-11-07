@@ -34,6 +34,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SmokeySense &#45; Custom C&#35; &#40;&#46;NET 4&#46;8&#41; Undetected External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/715659-smokeysense-custom-net-4-8-undetected-external-cheat.html)|`2025-11-07 21:03:00`|`Counter-Strike 2 Releases`|
+|[Virtual Inputs Not Blocked Entirely](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/719892-virtual-inputs-blocked-entirely.html)|`2025-11-07 21:02:00`|`Rust`|
+|[VAL 152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724505-val-152-a.html)|`2025-11-07 20:44:00`|`Valorant`|
+|[Updated ntoskrnl&#46;exe patterns for SMBIOS physical address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718996-updated-ntoskrnl-exe-patterns-smbios-physical-address.html)|`2025-11-07 20:41:00`|`Anti-Cheat Bypass`|
+|[Sons of the Forest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/572665-sons-forest.html)|`2025-11-07 20:37:00`|`Unity`|
+|[ak&#45;holo &#40;crouched&#41; BLE MITM esp32s3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/719541-ak-holo-crouched-ble-mitm-esp32s3.html)|`2025-11-07 20:36:00`|`Rust`|
 |[ACCOUNT VAL 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722001-account-val-5-a.html)|`2025-11-07 20:34:00`|`Valorant`|
 |[Will I get banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/723921-banned.html)|`2025-11-07 20:29:00`|`Valorant`|
 |[Encouragement &#40;YAPPING&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/724052-encouragement-yapping.html)|`2025-11-07 20:17:00`|`Off Topic`|
