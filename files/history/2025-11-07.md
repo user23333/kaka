@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-11-07 15:53:00`|`Other FPS Games`|
+|[ghostmapper?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724488-ghostmapper.html)|`2025-11-07 15:51:00`|`Anti-Cheat Bypass`|
 |[DXInject &#45; GPU&#45;Based Process Hollowing POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724131-dxinject-gpu-based-process-hollowing-poc.html)|`2025-11-07 15:47:00`|`Anti-Cheat Bypass`|
 |[Night crows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/627465-night-crows.html)|`2025-11-07 15:27:00`|`Other MMORPG and Strategy`|
 |[season 17 renown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/721220-season-17-renown.html)|`2025-11-07 15:11:00`|`Sea of Thieves`|
