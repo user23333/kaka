@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ DMA cheat &#40;Skeleton Esp, Aimbot, Radar&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/720910-dayz-dma-cheat-skeleton-esp-aimbot-radar.html)|`2025-11-07 16:23:00`|`DayZ SA`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-11-07 16:45:00`|`League of Legends`|
 |[Making a Recoil Control script in C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/724446-recoil-control-script.html)|`2025-11-07 16:25:00`|`Rust`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-11-07 16:08:00`|`DayZ SA`|
