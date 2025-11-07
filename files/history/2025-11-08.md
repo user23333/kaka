@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ACCOUNT VAL 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722001-account-val-5-a.html)|`2025-11-08 00:32:00`|`Valorant`|
+|[VAL 152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724505-val-152-a.html)|`2025-11-08 00:31:00`|`Valorant`|
+|[Get Bone not working anymore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/724456-bone-anymore.html)|`2025-11-08 00:28:00`|`Apex Legends`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-11-08 00:23:00`|`League of Legends`|
+|[How to read in dissambler byte value](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/723664-read-dissambler-byte-value.html)|`2025-11-08 00:22:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Dale & Dawson Stationery Supplies &#40;DDSS&#41; &#45; RoleReveal &#45; Fun Features &#45; Private](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/724534-dale-dawson-stationery-supplies-ddss-rolereveal-fun-features-private.html)|`2025-11-08 00:09:00`|`Other Games`|
 |[Any undetectable hacks for Ragemp?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/724535-undetectable-hacks-ragemp.html)|`2025-11-08 00:11:00`|`Alternative Online Mods`|
 |[RAGEMP Hacks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724419-ragemp-hacks.html)|`2025-11-08 00:07:00`|`Grand Theft Auto V`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-11-08 00:07:00`|`Rust`|
