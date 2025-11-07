@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Night crows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/627465-night-crows.html)|`2025-11-07 15:27:00`|`Other MMORPG and Strategy`|
+|[season 17 renown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/721220-season-17-renown.html)|`2025-11-07 15:11:00`|`Sea of Thieves`|
+|[ToF&#46;CFF](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tower-of-fantasy/722052-tof-cff.html)|`2025-11-07 14:30:00`|`Tower of Fantasy`|
+|[Helldivers 2 Undetected Features by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/704156-helldivers-2-undetected-features-igromanru.html)|`2025-11-07 14:24:00`|`HELLDIVERS 2`|
 |[Stella Sora Cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722901-stella-sora-cheese.html)|`2025-11-07 14:45:00`|`Other MMORPG and Strategy`|
 |[Kernel injection not working &#45; debugging help requested](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/724410-kernel-injection-debugging-help-requested.html)|`2025-11-07 13:59:00`|`General Programming and Reversing`|
 |[Hey guys, I need your help – how can I safely speed up the process when collecting it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/712750-hey-guys-help-safely-speed-process-collecting.html)|`2025-11-07 13:52:00`|`Alternative Online Mods`|
