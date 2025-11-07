@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BOIII Client ZM External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/684226-boiii-client-zm-external.html)|`2025-11-07 12:21:00`|`Call of Duty: Black Ops 3`|
 |[Hypervisor bsod on EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723975-hypervisor-bsod-eac.html)|`2025-11-07 12:06:00`|`Anti-Cheat Bypass`|
 |[Fellowship SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/724210-fellowship-sdk.html)|`2025-11-07 11:57:00`|`Other MMORPG and Strategy`|
 |[Cold War GSC Mod Menu &#91;The Lucy Menu&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/717858-cold-war-gsc-mod-menu-lucy-menu.html)|`2025-11-07 11:14:00`|`Call of Duty: Black Ops Cold War`|
