@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Duet Night Abyss Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/724122-duet-night-abyss-internal-cheat.html)|`2025-11-08 01:01:00`|`Other MMORPG and Strategy`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-11-08 01:01:00`|`Call of Duty: Black Ops 6`|
+|[VEIN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/723560-vein.html)|`2025-11-08 01:00:00`|`Other FPS Games`|
+|[Particle Modulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722798-particle-modulation.html)|`2025-11-08 01:00:00`|`Counter-Strike 2`|
+|[Starting with bf6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/724241-starting-bf6.html)|`2025-11-08 00:57:00`|`Battlefield 6`|
 |[eac cr3 shuffling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724540-eac-cr3-shuffling.html)|`2025-11-08 00:51:00`|`Anti-Cheat Bypass`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-11-08 00:49:00`|`Other FPS Games`|
 |[Non&#45;proliferation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724482-proliferation.html)|`2025-11-08 00:48:00`|`Counter-Strike 2`|
