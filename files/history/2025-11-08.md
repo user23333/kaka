@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VAC modules fully disabled](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723657-vac-modules-disabled.html)|`2025-11-08 04:02:00`|`Counter-Strike 2`|
+|[All Mouse NoRecoil 1&#46;0 IS OUT &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-1-0-recoil-helpy-auto-config-probably-ud-universal.html)|`2025-11-08 03:55:00`|`Rainbow Six Siege`|
 |[Read&#45;only Vischeck ESP &#124; Part 1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/724244-read-vischeck-esp-1-a.html)|`2025-11-08 03:53:00`|`Escape from Tarkov`|
 |[Tarkov DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/678998-tarkov-dma.html)|`2025-11-08 03:51:00`|`Escape from Tarkov`|
 |[New Offsets Needed&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/724179-offsets.html)|`2025-11-08 03:47:00`|`Garry's Mod`|
