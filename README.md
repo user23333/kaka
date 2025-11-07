@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do I get myself unbanned after HWID ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/724550-unbanned-hwid-ban.html)|`2025-11-08 02:50:00`|`Apex Legends`|
+|[Will I get banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/723921-banned.html)|`2025-11-08 02:50:00`|`Valorant`|
+|[Can I permspoof with these specs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724154-permspoof-specs.html)|`2025-11-08 02:48:00`|`Valorant`|
+|[Gorebox Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716525-gorebox-internal-cheat.html)|`2025-11-08 02:44:00`|`Other FPS Games`|
 |[Smoke check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/710995-smoke-check.html)|`2025-11-08 02:41:00`|`Counter-Strike 2`|
 |[ghostmapper?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724488-ghostmapper.html)|`2025-11-08 02:41:00`|`Anti-Cheat Bypass`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-11-08 02:40:00`|`Counter-Strike 2`|
