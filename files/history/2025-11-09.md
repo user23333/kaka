@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ControllerPtr == 00](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724622-controllerptr-00-a.html)|`2025-11-09 00:57:00`|`Counter-Strike 2`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-11-09 00:52:00`|`Marvel Rivals`|
+|[Counter Strike: Source Steam Anti&#45;Flashbang](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/723584-counter-strike-source-steam-anti-flashbang.html)|`2025-11-09 00:51:00`|`CounterStrike Source`|
 |[MY FIRST MARVEL RIVALS EXTERNAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/723540-marvel-rivals-external.html)|`2025-11-09 00:45:00`|`Marvel Rivals`|
 |[Dead By Daylight DMA 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714224-dead-daylight-dma-2-0-a.html)|`2025-11-09 00:45:00`|`Other FPS Games`|
 |[Does battlefield 6 detect Logitech mouse driver method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/724676-battlefield-6-detect-logitech-mouse-driver-method.html)|`2025-11-09 00:38:00`|`Battlefield 6`|
