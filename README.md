@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-11-09 02:20:00`|`Call of Duty: Black Ops 6`|
+|[&#91;Source&#93; ESP &#43; Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/515333-source-esp-aim.html)|`2025-11-09 02:11:00`|`Valorant`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-11-09 02:06:00`|`Other FPS Games`|
+|[Chivalry 2 Chivalapocalypse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/717361-chivalry-2-chivalapocalypse.html)|`2025-11-09 01:59:00`|`Other Games`|
+|[The client failed the anti&#45;cheat backend check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/724619-client-failed-anti-cheat-backend-check.html)|`2025-11-09 01:59:00`|`Apex Legends`|
 |[Fast ntoskrnl Base Address Resolution via 16MB LSTAR Masking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724688-fast-ntoskrnl-base-address-resolution-via-16mb-lstar-masking.html)|`2025-11-09 01:50:00`|`Anti-Cheat Bypass`|
 |[HWho &#45; a slightly more fun bsg launcher hwid check bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/494040-hwho-slightly-fun-bsg-launcher-hwid-check-bypass.html)|`2025-11-09 01:40:00`|`Escape from Tarkov`|
 |[Getting game installation path](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/724685-getting-game-installation-path.html)|`2025-11-09 01:39:00`|`Rust`|
