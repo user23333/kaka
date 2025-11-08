@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-11-09 02:49:00`|`Playerunknown's Battlegrounds`|
+|[Pax Dei](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/642787-pax-dei.html)|`2025-11-09 02:37:00`|`Other MMORPG and Strategy`|
 |[Kernel injection not working &#45; debugging help requested](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/724410-kernel-injection-debugging-help-requested.html)|`2025-11-09 02:37:00`|`General Programming and Reversing`|
 |[current undetected money method using Yim Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724257-current-undetected-money-method-using-yim-menu.html)|`2025-11-09 02:35:00`|`Grand Theft Auto V`|
 |[Roblox offsets for external hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/724645-roblox-offsets-external-hack.html)|`2025-11-09 02:32:00`|`Other Games`|
