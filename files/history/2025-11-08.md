@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[banned on sot and wondering how i can get unbanned with](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/724608-banned-sot-wondering-unbanned.html)|`2025-11-08 13:37:00`|`Sea of Thieves`|
+|[UnityExplorer with newest phas version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/724607-unityexplorer-phas-version.html)|`2025-11-08 13:35:00`|`Phasmophobia`|
 |[&#91;FXAP/Stream Files&#93; Dumper, Fixer & Decryptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/723012-fxap-stream-files-dumper-fixer-decryptor.html)|`2025-11-08 13:29:00`|`Alternative Online Mods`|
 |[HWho &#45; a slightly more fun bsg launcher hwid check bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/494040-hwho-slightly-fun-bsg-launcher-hwid-check-bypass.html)|`2025-11-08 13:20:00`|`Escape from Tarkov`|
 |[SoT Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/719603-sot-spoofer.html)|`2025-11-08 13:17:00`|`Sea of Thieves`|
