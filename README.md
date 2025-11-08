@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-11-09 07:41:00`|`Counter-Strike 2`|
 |[After update internal not injecting freezing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724708-update-internal-injecting-freezing.html)|`2025-11-09 07:05:00`|`Valorant`|
 |[SetMasterClient after updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/724334-setmasterclient-updates.html)|`2025-11-09 06:50:00`|`Phasmophobia`|
 |[ACCOUNT VAL 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722001-account-val-5-a.html)|`2025-11-09 06:34:00`|`Valorant`|
