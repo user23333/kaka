@@ -13,6 +13,7 @@
 |9|[Disable pvs per Scene object](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723873-disable-pvs-scene-object.html)|`2025-11-08 00:11:06`|`counter-strike-2-a`|
 |1|[Bf6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/723883-bf6-offsets.html)|`2025-11-08 01:38:35`|`battlefield-6-a`|
 |4|[Eac Byass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724283-eac-byass.html)|`2025-11-08 12:32:35`|`anti-cheat-bypass`|
+|6|[MISERY Mod Menu &#40;Internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724237-misery-mod-menu-internal.html)|`2025-11-08 22:29:58`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Battlefield 6 CR3 Shuffling &#45; Solution Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/724647-battlefield-6-cr3-shuffling-solution-guide.html)|`2025-11-08 22:20:00`|`Battlefield 6`|
 |[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-11-08 21:39:00`|`Other Games`|
 |[Help me find the name of the cheat function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724639-help-name-cheat-function.html)|`2025-11-08 21:37:00`|`Counter-Strike 2`|
 |[How to fix this triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724644-fix-triggerbot.html)|`2025-11-08 21:33:00`|`Counter-Strike 2`|
