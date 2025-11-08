@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do people read other player weapon in hand?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/724621-people-read-player-weapon-hand.html)|`2025-11-08 16:57:00`|`Escape from Tarkov`|
+|[Age Of Empire 4 Scar Script Injector with Online &#43; Offline Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/720438-age-empire-4-scar-script-injector-online-offline-features.html)|`2025-11-08 16:56:00`|`Age of Empires`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-11-08 16:43:00`|`Apex Legends`|
 |[Fallout 76](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/305579-fallout-76-a.html)|`2025-11-08 16:15:00`|`Other FPS Games`|
 |[CS2 VAC Banned / Red Trust / HWID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723147-cs2-vac-banned-red-trust-hwid.html)|`2025-11-08 16:00:00`|`Counter-Strike 2`|
