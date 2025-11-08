@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2025-11-08 18:26:00`|`Call of Duty: Black Ops 7`|
+|[Making a Recoil Control script in C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/724446-recoil-control-script.html)|`2025-11-08 18:18:00`|`Rust`|
+|[Recoil table to deltaX deltaY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/724624-recoil-table-deltax-deltay.html)|`2025-11-08 18:15:00`|`Rust`|
 |[Any undetectable hacks for Ragemp?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/724623-undetectable-hacks-ragemp.html)|`2025-11-08 17:57:00`|`Alternative Online Mods`|
 |[RAGEMP HACKS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/685959-ragemp-hacks.html)|`2025-11-08 17:56:00`|`Alternative Online Mods`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-11-08 17:36:00`|`Grand Theft Auto V`|
