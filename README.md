@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DINGOSQUAD 2025 full source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724655-dingosquad-2025-source.html)|`2025-11-08 23:47:00`|`Counter-Strike 2`|
+|[Bypass Anti&#45;Cheat Genshin Impact 6&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/717352-bypass-anti-cheat-genshin-impact-6-0-a.html)|`2025-11-08 23:42:00`|`Genshin Impact`|
 |[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2025-11-08 23:41:00`|`Other FPS Games`|
 |[PhasmoCheatV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/722532-phasmocheatv.html)|`2025-11-08 23:18:00`|`Phasmophobia`|
 |[MW19 Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/722087-mw19-internal-source.html)|`2025-11-08 23:04:00`|`Call of Duty: Modern Warfare`|
