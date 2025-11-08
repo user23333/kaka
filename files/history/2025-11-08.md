@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MW19 Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/722087-mw19-internal-source.html)|`2025-11-08 23:04:00`|`Call of Duty: Modern Warfare`|
+|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-11-08 22:55:00`|`Other FPS Games`|
+|[&#91;Source&#93; Planetside 2 Cheat & BattlEye Bypass &#43; Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/720663-source-planetside-2-cheat-battleye-bypass-injector.html)|`2025-11-08 22:54:00`|`PlanetSide 2`|
+|[Roblox offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/628883-roblox-offsets.html)|`2025-11-08 22:29:00`|`General Programming and Reversing`|
 |[Battlefield 6 CR3 Shuffling &#45; Solution Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/724647-battlefield-6-cr3-shuffling-solution-guide.html)|`2025-11-08 22:20:00`|`Battlefield 6`|
 |[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2025-11-08 21:39:00`|`Other Games`|
 |[Help me find the name of the cheat function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724639-help-name-cheat-function.html)|`2025-11-08 21:37:00`|`Counter-Strike 2`|
