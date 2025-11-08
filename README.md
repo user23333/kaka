@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fast ntoskrnl Base Address Resolution via 16MB LSTAR Masking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724688-fast-ntoskrnl-base-address-resolution-via-16mb-lstar-masking.html)|`2025-11-09 01:50:00`|`Anti-Cheat Bypass`|
 |[HWho &#45; a slightly more fun bsg launcher hwid check bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/494040-hwho-slightly-fun-bsg-launcher-hwid-check-bypass.html)|`2025-11-09 01:40:00`|`Escape from Tarkov`|
 |[Getting game installation path](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/724685-getting-game-installation-path.html)|`2025-11-09 01:39:00`|`Rust`|
 |[PatchGuard bypass at runtime &#45; Windows 10 22H2 / Windows 11 24H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722751-patchguard-bypass-runtime-windows-10-22h2-windows-11-24h2.html)|`2025-11-09 01:33:00`|`Anti-Cheat Bypass`|
