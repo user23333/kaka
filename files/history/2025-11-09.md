@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PatchGuard bypass at runtime &#45; Windows 10 22H2 / Windows 11 24H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722751-patchguard-bypass-runtime-windows-10-22h2-windows-11-24h2.html)|`2025-11-09 01:33:00`|`Anti-Cheat Bypass`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-11-09 01:30:00`|`Escape from Tarkov`|
 |[Windows 11 Pro 24H2/25H2 DSE horror bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724681-windows-11-pro-24h2-25h2-dse-horror-bypass.html)|`2025-11-09 01:25:00`|`Anti-Cheat Bypass`|
 |[PLM &#45; REPO cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/716529-plm-repo-cheat.html)|`2025-11-09 01:15:00`|`Other Games`|
 |[Revolution Idle Anti Cheat Bypass/Freeshop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/711124-revolution-idle-anti-cheat-bypass-freeshop.html)|`2025-11-09 01:12:00`|`Other Games`|
