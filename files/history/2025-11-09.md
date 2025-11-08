@@ -25,9 +25,12 @@
 |147|[Arc Raiders FULL SDK &#45; 04/11/2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51827)|`2025-11-09 00:09:07`|
 |155|[OwHelper&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51825)|`2025-11-09 00:09:07`|
 |7|[5&#46;5&#46;4&#46;0&#43;UE5&#45;fellowship](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51823)|`2025-11-09 00:09:07`|
+|2|[marvel external1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51843)|`2025-11-09 00:51:15`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MY FIRST MARVEL RIVALS EXTERNAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/723540-marvel-rivals-external.html)|`2025-11-09 00:45:00`|`Marvel Rivals`|
+|[Dead By Daylight DMA 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714224-dead-daylight-dma-2-0-a.html)|`2025-11-09 00:45:00`|`Other FPS Games`|
 |[Does battlefield 6 detect Logitech mouse driver method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/724676-battlefield-6-detect-logitech-mouse-driver-method.html)|`2025-11-09 00:38:00`|`Battlefield 6`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-11-09 00:37:00`|`Valorant`|
 |[Duet Night Abyss Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/724122-duet-night-abyss-internal-cheat.html)|`2025-11-09 00:36:00`|`Other MMORPG and Strategy`|
