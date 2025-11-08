@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Windows 11 kdmapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724591-windows-11-kdmapper.html)|`2025-11-08 12:32:00`|`Anti-Cheat Bypass`|
 |[How to avoid the Echo AC Scanner?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/682750-avoid-echo-ac-scanner.html)|`2025-11-08 12:18:00`|`Alternative Online Mods`|
 |[Driver for your External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721422-driver-external.html)|`2025-11-08 12:11:00`|`Counter-Strike 2`|
 |[Faceit a/c ban? keyboard&#45;only script autostop will get me ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724602-faceit-ban-keyboard-script-autostop-ban.html)|`2025-11-08 11:55:00`|`Counter-Strike 2`|
