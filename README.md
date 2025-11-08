@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stella Sora Cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722901-stella-sora-cheese.html)|`2025-11-08 14:46:00`|`Other MMORPG and Strategy`|
+|[TarkovGUI &#124; PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/694944-tarkovgui-pve.html)|`2025-11-08 14:45:00`|`Escape from Tarkov`|
+|[They want to implement an anti&#45;cheat like in cs2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/724614-implement-anti-cheat-cs2.html)|`2025-11-08 14:41:00`|`Deadlock`|
 |[They want to roll out an anti&#45;cheat in cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/724614-roll-anti-cheat-cs2.html)|`2025-11-08 14:41:00`|`Deadlock`|
 |[DayZ Maps Downloader &#40;Source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/724613-dayz-maps-downloader-source.html)|`2025-11-08 14:38:00`|`DayZ SA`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-11-08 14:18:00`|`DayZ SA`|
