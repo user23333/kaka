@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-11-10 01:43:00`|`Other FPS Games`|
 |[Fix esp in emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724792-fix-esp-emulator.html)|`2025-11-10 01:45:00`|`PUBG Mobile`|
 |[RAGEMP Hacks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724419-ragemp-hacks.html)|`2025-11-10 01:42:00`|`Grand Theft Auto V`|
 |[Mouse Movement Method &#45; &#40;more secure than sign driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716376-mouse-movement-method-secure-sign-driver.html)|`2025-11-10 01:41:00`|`Valorant`|
