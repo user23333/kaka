@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG 4&#46;1 MAGIC SHELL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724338-pubg-4-1-magic-shell.html)|`2025-11-10 06:38:00`|`PUBG Mobile`|
+|[L4D2 &#45; grenade launcher projectile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724822-l4d2-grenade-launcher-projectile.html)|`2025-11-10 06:36:00`|`Other FPS Games`|
 |[Automatic Login](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/724820-automatic-login.html)|`2025-11-10 06:26:00`|`Alternative Online Mods`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-11-10 06:25:00`|`Rainbow Six Siege`|
 |[Question about Skeleton offsets in DayZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/722730-question-skeleton-offsets-dayz.html)|`2025-11-10 06:21:00`|`DayZ SA`|
