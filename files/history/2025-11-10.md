@@ -11,6 +11,7 @@
 |11|[&#91;Source&#93; CR3 Validation &#45; MZ Signature Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/724526-source-cr3-validation-mz-signature-method.html)|`2025-11-10 00:08:39`|`battlefield-6-a`|
 |9|[PUBG GLOBAL 4&#46;1 UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724318-pubg-global-4-1-ue4-offsets.html)|`2025-11-10 00:08:39`|`pubg-mobile`|
 |9|[Any undetected gta 5 ENCHANTED mod menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724284-undetected-gta-5-enchanted-mod-menu.html)|`2025-11-10 00:08:39`|`grand-theft-auto-v`|
+|8|[Starting with bf6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/724241-starting-bf6.html)|`2025-11-10 06:15:39`|`battlefield-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Realtek NIC Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724819-realtek-nic-spoofing.html)|`2025-11-10 06:13:00`|`Anti-Cheat Bypass`|
 |[VEIN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/723560-vein.html)|`2025-11-10 05:53:00`|`Other FPS Games`|
 |[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-11-10 05:39:00`|`Call of Duty: Black Ops 3`|
 |[Adhesive hooks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/724815-adhesive-hooks.html)|`2025-11-10 05:36:00`|`Alternative Online Mods`|
