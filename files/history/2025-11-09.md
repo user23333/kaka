@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deceit 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640740-deceit-2-internal.html)|`2025-11-09 18:15:00`|`Other FPS Games`|
+|[HvH server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/722633-hvh-server.html)|`2025-11-09 18:06:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Hypervisor bsod on EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723975-hypervisor-bsod-eac.html)|`2025-11-09 17:38:00`|`Anti-Cheat Bypass`|
 |[YimMenuV2Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697581-yimmenuv2mod.html)|`2025-11-09 17:34:00`|`Grand Theft Auto V`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-11-09 17:08:00`|`Grand Theft Auto V`|
