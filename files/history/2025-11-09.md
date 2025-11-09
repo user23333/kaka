@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[A possible "BYPASS" to Secure Boot or TPM?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/723331-bypass-secure-boot-tpm.html)|`2025-11-09 13:51:00`|`Battlefield 6`|
 |[How Vanguard works with Valorant &#43; Disabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/702821-vanguard-valorant-disabler.html)|`2025-11-09 13:42:00`|`Anti-Cheat Bypass`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-11-09 13:40:00`|`Counter-Strike 2 Releases`|
 |[VAL 152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724505-val-152-a.html)|`2025-11-09 13:21:00`|`Valorant`|
