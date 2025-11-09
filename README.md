@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ DMA cheat &#40;Skeleton Esp, Aimbot, Radar&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/720910-dayz-dma-cheat-skeleton-esp-aimbot-radar.html)|`2025-11-09 20:44:00`|`DayZ SA`|
 |[Lazybead &#40;LB&#41; &#45; Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat.html)|`2025-11-09 20:22:00`|`Sea of Thieves`|
 |[GTA V New Character Setup &#91;Help Needed/Advice Welcome&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724450-gta-character-setup-help-advice-welcome.html)|`2025-11-09 20:13:00`|`Grand Theft Auto V`|
 |[FiveM sv&#95;pureLevel changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/640619-fivem-sv_purelevel-changer.html)|`2025-11-09 19:51:00`|`Alternative Online Mods`|
