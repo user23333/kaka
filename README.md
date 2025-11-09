@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R/W](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724747-r-w.html)|`2025-11-09 12:33:00`|`Anti-Cheat Bypass`|
+|[&#91;Updated&#93; Loki &#45; SCP: Secret Laboratory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/719685-updated-loki-scp-secret-laboratory.html)|`2025-11-09 12:22:00`|`Other Games`|
+|[Creating External Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/724745-creating-external-rust.html)|`2025-11-09 12:21:00`|`Rust`|
+|[PhasmoCheatV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/722532-phasmocheatv.html)|`2025-11-09 12:17:00`|`Phasmophobia`|
+|[CurrentWeapon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724425-currentweapon.html)|`2025-11-09 12:16:00`|`PUBG Mobile`|
 |[Updated offset for MS Store GSC Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/723504-updated-offset-ms-store-gsc-injector.html)|`2025-11-09 12:13:00`|`Call of Duty: Black Ops 3`|
 |[Any methods of sending mouse click input? &#40;Not mouse move&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724742-methods-sending-mouse-click-input-mouse-move.html)|`2025-11-09 11:50:00`|`Valorant`|
 |[no cs2 cheats are working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724738-cs2-cheats.html)|`2025-11-09 11:47:00`|`Counter-Strike 2`|
