@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat Master CE Godmode, MEGA XP, Instant Weapon/Player Max Level, Attachment Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/583715-combat-master-ce-godmode-mega-xp-instant-weapon-player-max-level-attachment-mod.html)|`2025-11-10 03:38:00`|`Combat Master`|
 |[Pax Dei](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/642787-pax-dei.html)|`2025-11-10 03:27:00`|`Other MMORPG and Strategy`|
 |[RageMP EAC bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724801-ragemp-eac-bypass.html)|`2025-11-10 02:57:00`|`Anti-Cheat Bypass`|
 |[&#40;Undetectable&#41; Overwatch 2 &#45; ColorBot Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/724800-undetectable-overwatch-2-colorbot-release.html)|`2025-11-10 02:47:00`|`Overwatch`|
