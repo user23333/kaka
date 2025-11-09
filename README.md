@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Recoil table to deltaX deltaY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/724624-recoil-table-deltax-deltay.html)|`2025-11-10 04:47:00`|`Rust`|
+|[VisibleCheck externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/724443-visiblecheck-externally.html)|`2025-11-10 04:46:00`|`Alternative Online Mods`|
 |[my bhop is broken&#40;internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724794-bhop-broken-internal.html)|`2025-11-10 04:00:00`|`Counter-Strike 2`|
 |[BOIII Client ZM External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/684226-boiii-client-zm-external.html)|`2025-11-10 03:59:00`|`Call of Duty: Black Ops 3`|
 |[Sonic Racing Crossworlds Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720310-sonic-racing-crossworlds-unlocker.html)|`2025-11-10 03:59:00`|`Other Games`|
