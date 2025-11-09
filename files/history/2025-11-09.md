@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Banned? Post info&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719377-banned-post-info.html)|`2025-11-09 18:47:00`|`Counter-Strike 2`|
+|[JaysModz aka Beds/Zay Silent Chair Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/724711-jaysmodz-aka-beds-zay-silent-chair-source.html)|`2025-11-09 18:46:00`|`Call of Duty: Black Ops 6`|
 |[Deceit 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640740-deceit-2-internal.html)|`2025-11-09 18:15:00`|`Other FPS Games`|
 |[HvH server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/722633-hvh-server.html)|`2025-11-09 18:06:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Hypervisor bsod on EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723975-hypervisor-bsod-eac.html)|`2025-11-09 17:38:00`|`Anti-Cheat Bypass`|
