@@ -14,6 +14,7 @@
 |7|[current undetected money method using Yim Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724257-current-undetected-money-method-using-yim-menu.html)|`2025-11-09 00:44:11`|`grand-theft-auto-v`|
 |9|[Any undetected gta 5 ENCHANTED mod menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724284-undetected-gta-5-enchanted-mod-menu.html)|`2025-11-09 06:07:31`|`grand-theft-auto-v`|
 |11|[&#91;Source&#93; CR3 Validation &#45; MZ Signature Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/724526-source-cr3-validation-mz-signature-method.html)|`2025-11-09 08:57:47`|`battlefield-6-a`|
+|5|[PUBG GLOBAL 4&#46;1 UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724318-pubg-global-4-1-ue4-offsets.html)|`2025-11-09 10:41:32`|`pubg-mobile`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-11-09 10:20:00`|`Other FPS Games`|
+|[Issue Esp32s3?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/724739-issue-esp32s3.html)|`2025-11-09 10:11:00`|`Rust`|
+|[DXInject &#45; GPU&#45;Based Process Hollowing POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724131-dxinject-gpu-based-process-hollowing-poc.html)|`2025-11-09 10:07:00`|`Anti-Cheat Bypass`|
 |[vgc bypass 1pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719410-vgc-bypass-1pc.html)|`2025-11-09 08:54:00`|`Anti-Cheat Bypass`|
 |[Winter, Christmas & New Year's Banner Contest 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/724060-winter-christmas-banner-contest-2025-a.html)|`2025-11-09 08:47:00`|`General Graphics`|
 |[Nuclear Nightmare internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718268-nuclear-nightmare-internal.html)|`2025-11-09 08:38:00`|`Other Games`|
