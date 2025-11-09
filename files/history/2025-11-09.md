@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Memoriam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/563890-memoriam.html)|`2025-11-09 22:58:00`|`Garry's Mod`|
+|[Roblox External &#45; &#91;ALWAYS UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717679-roblox-external-updated.html)|`2025-11-09 22:56:00`|`Other FPS Games`|
 |[Particle Modulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722798-particle-modulation.html)|`2025-11-09 22:37:00`|`Counter-Strike 2`|
 |[MISERY Mod Menu &#40;Internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724237-misery-mod-menu-internal.html)|`2025-11-09 22:28:00`|`Other FPS Games`|
 |[Driver for your External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721422-driver-external.html)|`2025-11-09 22:23:00`|`Counter-Strike 2`|
