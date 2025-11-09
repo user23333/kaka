@@ -13,6 +13,7 @@
 |2|[VAC likely disabled &#40;Windows and Linux&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723835-vac-disabled-windows-linux.html)|`2025-11-09 00:09:07`|`counter-strike-2-a`|
 |7|[current undetected money method using Yim Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724257-current-undetected-money-method-using-yim-menu.html)|`2025-11-09 00:44:11`|`grand-theft-auto-v`|
 |9|[Any undetected gta 5 ENCHANTED mod menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724284-undetected-gta-5-enchanted-mod-menu.html)|`2025-11-09 06:07:31`|`grand-theft-auto-v`|
+|11|[&#91;Source&#93; CR3 Validation &#45; MZ Signature Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/724526-source-cr3-validation-mz-signature-method.html)|`2025-11-09 08:57:47`|`battlefield-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[vgc bypass 1pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719410-vgc-bypass-1pc.html)|`2025-11-09 08:54:00`|`Anti-Cheat Bypass`|
+|[Winter, Christmas & New Year's Banner Contest 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/724060-winter-christmas-banner-contest-2025-a.html)|`2025-11-09 08:47:00`|`General Graphics`|
+|[Nuclear Nightmare internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718268-nuclear-nightmare-internal.html)|`2025-11-09 08:38:00`|`Other Games`|
+|[Rust script KMDF](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/724730-rust-script-kmdf.html)|`2025-11-09 08:28:00`|`Rust`|
+|[external getbonebyid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/724729-external-getbonebyid.html)|`2025-11-09 08:26:00`|`Battlefield 6`|
+|[yimmenu not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/722629-yimmenu.html)|`2025-11-09 08:21:00`|`Grand Theft Auto V`|
 |[vgk contains Anti Cheat Team Picture](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698436-vgk-contains-anti-cheat-team-picture.html)|`2025-11-09 07:49:00`|`Valorant`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-11-09 07:41:00`|`Counter-Strike 2`|
 |[After update internal not injecting freezing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724708-update-internal-injecting-freezing.html)|`2025-11-09 07:05:00`|`Valorant`|
