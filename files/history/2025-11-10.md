@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS:CO and csgo&#95;legacy autobhop script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/723698-cs-co-csgo_legacy-autobhop-script.html)|`2025-11-10 07:51:00`|`Counterstrike Global Offensive`|
+|[Simple Upgun cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/723694-simple-upgun-cheat.html)|`2025-11-10 07:51:00`|`Other Games`|
+|[hyper&#45;reV &#45; memory introspection &#43; reverse engineering powered by leveraging Hyper&#45;V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709634-hyper-rev-memory-introspection-reverse-engineering-powered-leveraging-hyper.html)|`2025-11-10 07:49:00`|`Anti-Cheat Bypass`|
 |[no&#45;more&#45;cssource&#45;shellcodes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/723605-cssource-shellcodes.html)|`2025-11-10 07:48:00`|`CounterStrike Source`|
 |[Eac Byass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724283-eac-byass.html)|`2025-11-10 07:44:00`|`Anti-Cheat Bypass`|
 |[Modification Bypass 6&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/723519-modification-bypass-6-1-a.html)|`2025-11-10 07:34:00`|`Genshin Impact`|
