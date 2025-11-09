@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Triggerbot not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724813-triggerbot.html)|`2025-11-10 05:14:00`|`Counter-Strike 2`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-11-10 05:12:00`|`Other FPS Games`|
+|[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2025-11-10 05:05:00`|`Counter-Strike 2`|
+|[How to Call Native for external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/724812-call-native-external.html)|`2025-11-10 05:04:00`|`Alternative Online Mods`|
 |[Recoil table to deltaX deltaY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/724624-recoil-table-deltax-deltay.html)|`2025-11-10 04:47:00`|`Rust`|
 |[VisibleCheck externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/724443-visiblecheck-externally.html)|`2025-11-10 04:46:00`|`Alternative Online Mods`|
 |[my bhop is broken&#40;internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724794-bhop-broken-internal.html)|`2025-11-10 04:00:00`|`Counter-Strike 2`|
