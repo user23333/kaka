@@ -26,9 +26,12 @@
 |86|[&#43;&#43;Fortnite&#43;Release&#45;38&#46;00&#45;CL&#45;47722112](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51834)|`2025-11-10 00:08:39`|
 |169|[Arc Raiders FULL SDK &#45; 04/11/2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51827)|`2025-11-10 00:08:39`|
 |1|[Marvel Rivals SDK &#40;06/11/2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51860)|`2025-11-10 01:24:45`|
+|2|[Duet Night Abyss CT V4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51870)|`2025-11-10 07:48:26`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[no&#45;more&#45;cssource&#45;shellcodes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/723605-cssource-shellcodes.html)|`2025-11-10 07:48:00`|`CounterStrike Source`|
+|[Eac Byass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724283-eac-byass.html)|`2025-11-10 07:44:00`|`Anti-Cheat Bypass`|
 |[Modification Bypass 6&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/723519-modification-bypass-6-1-a.html)|`2025-11-10 07:34:00`|`Genshin Impact`|
 |[Help&#33; boxes are lowered with the distance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724831-help-boxes-lowered-distance.html)|`2025-11-10 07:22:00`|`Counter-Strike 2`|
 |[YimMenuV2Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697581-yimmenuv2mod.html)|`2025-11-10 07:23:00`|`Grand Theft Auto V`|
