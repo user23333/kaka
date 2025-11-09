@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Blue Archive Cheat — Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/710592-blue-archive-cheat-steam.html)|`2025-11-10 06:57:00`|`Other MMORPG and Strategy`|
+|[TarkovGUI &#124; PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/694944-tarkovgui-pve.html)|`2025-11-10 06:56:00`|`Escape from Tarkov`|
 |[Native Invoker Externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/724825-native-invoker-externally.html)|`2025-11-10 06:51:00`|`Alternative Online Mods`|
 |[VAC modules fully disabled](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723657-vac-modules-disabled.html)|`2025-11-10 06:42:00`|`Counter-Strike 2`|
 |[PUBG 4&#46;1 MAGIC SHELL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724338-pubg-4-1-magic-shell.html)|`2025-11-10 06:38:00`|`PUBG Mobile`|
