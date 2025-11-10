@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cs2 OnlyRead External cheat &#124; 11/10/2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724876-cs2-onlyread-external-cheat-11-10-2025-a.html)|`2025-11-11 07:16:00`|`Counter-Strike 2`|
 |[cant get Model Base addy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724946-cant-model-base-addy.html)|`2025-11-11 07:28:00`|`Counter-Strike 2`|
 |[the isle evrima](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/722905-isle-evrima.html)|`2025-11-11 07:20:00`|`Other Games`|
 |[il2cpp rebuilt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/703726-il2cpp-rebuilt.html)|`2025-11-11 07:05:00`|`Rust`|
