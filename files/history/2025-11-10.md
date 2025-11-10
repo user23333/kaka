@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AQ3D Boring Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/724856-aq3d-boring-internal.html)|`2025-11-10 13:31:00`|`Other MMORPG and Strategy`|
+|[MISERY Mod Menu &#40;Internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724237-misery-mod-menu-internal.html)|`2025-11-10 13:29:00`|`Other FPS Games`|
+|[Kernel Control Flow Guard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724855-kernel-control-flow-guard.html)|`2025-11-10 13:27:00`|`Anti-Cheat Bypass`|
+|[How to dump protected game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724703-dump-protected-game.html)|`2025-11-10 13:24:00`|`Anti-Cheat Bypass`|
 |[Stella Sora Cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722901-stella-sora-cheese.html)|`2025-11-10 13:13:00`|`Other MMORPG and Strategy`|
 |[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2025-11-10 12:56:00`|`Combat Arms`|
 |[ESP apk not working in EMULATOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724854-esp-apk-emulator.html)|`2025-11-10 12:52:00`|`PUBG Mobile`|
