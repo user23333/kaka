@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AC prevents KbdClass callback keyboard input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724003-ac-prevents-kbdclass-callback-keyboard-input.html)|`2025-11-10 18:07:00`|`Anti-Cheat Bypass`|
 |[Chivalry 2 Basic &#46;pak &#45; Parera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720632-chivalry-2-basic-pak-parera.html)|`2025-11-10 17:45:00`|`Other Games`|
 |[Apex switch cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/724866-apex-switch-cheat.html)|`2025-11-10 16:18:00`|`Apex Legends`|
 |[VAL 152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724505-val-152-a.html)|`2025-11-10 16:04:00`|`Valorant`|
