@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking for Guidance on Where to Go Next &#40;Beginner in Game Reversing&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/724277-looking-guidance-beginner-game-reversing.html)|`2025-11-11 05:34:00`|`Programming for Beginners`|
+|[I wanna learn C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/717296-wanna-learn.html)|`2025-11-11 05:32:00`|`Programming for Beginners`|
+|[Newcomer reporting for duty](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/724938-newcomer-reporting-duty.html)|`2025-11-11 05:26:00`|`Introductions`|
 |[What makes colorbot good?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724725-makes-colorbot.html)|`2025-11-11 05:27:00`|`Valorant`|
 |[Network based resource dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/724790-network-based-resource-dumper.html)|`2025-11-11 05:25:00`|`Alternative Online Mods`|
 |[BF6 Aimbot &#40;TPU Accelerated Raspberry Pi&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722855-bf6-aimbot-tpu-accelerated-raspberry-pi.html)|`2025-11-11 05:20:00`|`Battlefield 6`|
