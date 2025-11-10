@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Switching situations in update 4&#46;1 &#40;32&#45;bit version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724265-switching-situations-update-4-1-32-bit-version.html)|`2025-11-10 18:26:00`|`PUBG Mobile`|
+|[Cs2 OnlyRead External cheat &#124; 11/10/2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724876-cs2-onlyread-external-cheat-11-10-2025-a.html)|`2025-11-10 18:24:00`|`Counter-Strike 2`|
 |[AC prevents KbdClass callback keyboard input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724003-ac-prevents-kbdclass-callback-keyboard-input.html)|`2025-11-10 18:07:00`|`Anti-Cheat Bypass`|
 |[Chivalry 2 Basic &#46;pak &#45; Parera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720632-chivalry-2-basic-pak-parera.html)|`2025-11-10 17:45:00`|`Other Games`|
 |[Apex switch cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/724866-apex-switch-cheat.html)|`2025-11-10 16:18:00`|`Apex Legends`|
