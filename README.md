@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-11-11 03:20:00`|`Other FPS Games`|
+|[Solar Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721762-solar-skin-changer.html)|`2025-11-11 03:16:00`|`Valorant`|
+|[Fortnite fixed MouseClassServiceCallback ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715969-fortnite-fixed-mouseclassservicecallback.html)|`2025-11-11 03:16:00`|`Anti-Cheat Bypass`|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2025-11-11 03:11:00`|`Battlefield 6`|
+|[Does &#91;removed&#93; for Gmod work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/724788-removed-gmod.html)|`2025-11-11 03:11:00`|`Garry's Mod`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-11-11 02:50:00`|`Rust`|
 |[Looking for colorbots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724367-looking-colorbots.html)|`2025-11-11 02:39:00`|`Valorant`|
 |[Offline valorant build with all skins &#40;offline&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724579-offline-valorant-build-skins-offline.html)|`2025-11-11 02:38:00`|`Valorant`|
