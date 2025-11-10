@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-11-10 22:52:00`|`Overwatch`|
 |[Kernel menu for CS2 — beginner project, insane output](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724880-kernel-menu-cs2-beginner-project-insane-output.html)|`2025-11-10 22:43:00`|`Counter-Strike 2`|
 |[Skeleton Bug &#91;HELP&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719676-skeleton-bug-help.html)|`2025-11-10 22:39:00`|`Counter-Strike 2`|
 |[ESP Imgui Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/724899-esp-imgui-source-code.html)|`2025-11-10 22:33:00`|`Combat Arms`|
