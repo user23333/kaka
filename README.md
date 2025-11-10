@@ -24,9 +24,14 @@
 |9|[5&#46;5&#46;4&#45;163894&#43;&#43;&#43;FTW&#43;Release&#45;0&#46;3&#46;5&#46;0&#45;GZW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51845)|`2025-11-11 00:11:07`|
 |804|[Duet Night Abyss CT V3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51844)|`2025-11-11 00:11:07`|
 |95|[marvel external1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51843)|`2025-11-11 00:11:07`|
+|2|[TslGame 38&#46;2&#46;1&#46;57](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51857)|`2025-11-11 01:19:51`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-11-11 01:16:00`|`Playerunknown's Battlegrounds`|
+|[Getting player entity from onAddEntity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724307-getting-player-entity-onaddentity.html)|`2025-11-11 01:07:00`|`Counter-Strike 2`|
+|[SMOKE ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712230-smoke-esp.html)|`2025-11-11 00:57:00`|`Counter-Strike 2`|
+|[VEIN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/723560-vein.html)|`2025-11-11 00:48:00`|`Other FPS Games`|
 |[Any free Dead by Daylight DMA cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724915-free-dead-daylight-dma-cheat.html)|`2025-11-11 00:55:00`|`Other FPS Games`|
 |[Duet Night Abyss Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/723122-duet-night-abyss-reversal-structs-offsets.html)|`2025-11-11 00:55:00`|`Other MMORPG and Strategy`|
 |[Duet Night Abyss Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/724122-duet-night-abyss-internal-cheat.html)|`2025-11-11 00:52:00`|`Other MMORPG and Strategy`|
