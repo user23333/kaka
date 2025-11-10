@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-11-10 14:31:00`|`Other FPS Games`|
 |[How Vanguard works with Valorant &#43; Disabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/702821-vanguard-valorant-disabler.html)|`2025-11-10 14:22:00`|`Anti-Cheat Bypass`|
 |[EAC injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695972-eac-injector.html)|`2025-11-10 14:09:00`|`Anti-Cheat Bypass`|
 |[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/724336-demonologist-internal.html)|`2025-11-10 14:04:00`|`Other Games`|
