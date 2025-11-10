@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BLOODSTRIKE CHAMS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/723801-bloodstrike-chams.html)|`2025-11-11 05:53:00`|`Other Games`|
+|[EAC injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695972-eac-injector.html)|`2025-11-11 05:52:00`|`Anti-Cheat Bypass`|
 |[Looking for Guidance on Where to Go Next &#40;Beginner in Game Reversing&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/724277-looking-guidance-beginner-game-reversing.html)|`2025-11-11 05:34:00`|`Programming for Beginners`|
 |[I wanna learn C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/717296-wanna-learn.html)|`2025-11-11 05:32:00`|`Programming for Beginners`|
 |[Newcomer reporting for duty](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/724938-newcomer-reporting-duty.html)|`2025-11-11 05:26:00`|`Introductions`|
