@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mdma Injector &#45; UserMode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/724939-mdma-injector-usermode.html)|`2025-11-11 05:57:00`|`Introductions`|
 |[BLOODSTRIKE CHAMS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/723801-bloodstrike-chams.html)|`2025-11-11 05:53:00`|`Other Games`|
 |[EAC injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695972-eac-injector.html)|`2025-11-11 05:52:00`|`Anti-Cheat Bypass`|
 |[Looking for Guidance on Where to Go Next &#40;Beginner in Game Reversing&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/724277-looking-guidance-beginner-game-reversing.html)|`2025-11-11 05:34:00`|`Programming for Beginners`|
