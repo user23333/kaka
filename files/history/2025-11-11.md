@@ -27,6 +27,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[theHunter: Call of the Wild Internal Radar, ESP, & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644365-thehunter-call-wild-internal-radar-esp.html)|`2025-11-11 00:40:00`|`Other FPS Games`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-11-11 00:35:00`|`Valorant`|
+|[vgk shadow region problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724913-vgk-shadow-region.html)|`2025-11-11 00:34:00`|`Valorant`|
+|[Chivalry 2 Basic &#46;pak &#45; Parera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720632-chivalry-2-basic-pak-parera.html)|`2025-11-11 00:26:00`|`Other Games`|
+|[🎯 R6S SIG OFFSET FINDER v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/724698-r6s-sig-offset-finder-v3-0-a.html)|`2025-11-11 00:26:00`|`Rainbow Six Siege`|
+|[Universal Anti Recoil App](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/724850-universal-anti-recoil-app.html)|`2025-11-11 00:25:00`|`Rainbow Six Siege`|
+|[JaysModz aka Beds/Zay Silent Chair Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/724711-jaysmodz-aka-beds-zay-silent-chair-source.html)|`2025-11-11 00:18:00`|`Call of Duty: Black Ops 6`|
+|[eac cr3 shuffling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724540-eac-cr3-shuffling.html)|`2025-11-11 00:16:00`|`Anti-Cheat Bypass`|
+|[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2025-11-11 00:13:00`|`Apex Legends`|
+|[how to find signature&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724562-signature.html)|`2025-11-11 00:12:00`|`Counter-Strike 2`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-11-11 00:08:00`|`Counter-Strike 2`|
 |[PsCreateSystemThread Hide?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724877-pscreatesystemthread-hide.html)|`2025-11-11 00:02:00`|`Anti-Cheat Bypass`|
 |[External B06 &#40;ESP &#43; Name &#43; Health &#43; KD, etc&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/713576-external-b06-esp-name-health-kd-etc.html)|`2025-11-10 23:58:00`|`Call of Duty: Black Ops 6`|
