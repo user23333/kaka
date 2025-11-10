@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Updated CS2 Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711462-updated-cs2-dumper.html)|`2025-11-10 22:33:00`|`Counter-Strike 2`|
+|[movement prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707806-movement-prediction.html)|`2025-11-10 22:14:00`|`Counter-Strike 2`|
 |[JaysModz aka Beds/Zay Silent Chair Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/724711-jaysmodz-aka-beds-zay-silent-chair-source.html)|`2025-11-10 22:07:00`|`Call of Duty: Black Ops 6`|
 |[Confession: I am the person behind Xbox criminal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/724885-confession-am-person-xbox-criminal.html)|`2025-11-10 21:39:00`|`Off Topic`|
 |[Rust external optimization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/724881-rust-external-optimization.html)|`2025-11-10 21:00:00`|`Rust`|
