@@ -28,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust external optimization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/724881-rust-external-optimization.html)|`2025-11-11 02:27:00`|`Rust`|
+|[Kernel menu for CS2 — beginner project, insane output](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724880-kernel-menu-cs2-beginner-project-insane-output.html)|`2025-11-11 02:21:00`|`Counter-Strike 2`|
+|[How to make ShellCode Invoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/724924-shellcode-invoker.html)|`2025-11-11 02:20:00`|`Alternative Online Mods`|
+|[ESP Drifting issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/724843-esp-drifting-issue.html)|`2025-11-11 02:19:00`|`Deadlock`|
+|[How to Call Native for external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/724812-call-native-external.html)|`2025-11-11 02:13:00`|`Alternative Online Mods`|
+|[Imperial updated ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/724922-imperial-updated.html)|`2025-11-11 02:09:00`|`Overwatch`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-11-11 02:06:00`|`Apex Legends`|
+|[&#40;Undetectable&#41; Overwatch 2 &#45; ColorBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/724694-undetectable-overwatch-2-colorbot.html)|`2025-11-11 02:04:00`|`Overwatch`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-11-11 01:58:00`|`Call of Duty: Black Ops 6`|
 |[What is wrong with my bullet tracer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724921-wrong-bullet-tracer.html)|`2025-11-11 01:56:00`|`Counter-Strike 2`|
 |[no cs2 cheats are working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724738-cs2-cheats.html)|`2025-11-11 01:54:00`|`Counter-Strike 2`|
