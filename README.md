@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Not getting calls to do missions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724937-getting-calls-missions.html)|`2025-11-11 05:09:00`|`Grand Theft Auto V`|
+|[Fix esp in emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724792-fix-esp-emulator.html)|`2025-11-11 05:01:00`|`PUBG Mobile`|
 |[Pubg Emulator 4&#46;0 bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/716686-pubg-emulator-4-0-bypass.html)|`2025-11-11 04:50:00`|`PUBG Mobile`|
 |[ReClass DMA Plugin &#43; WriteMemory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/724702-reclass-dma-plugin-writememory.html)|`2025-11-11 04:47:00`|`General Programming and Reversing`|
 |[IDA GET&#95;ENTITY&#95;ALPHA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/724934-ida-get_entity_alpha.html)|`2025-11-11 04:38:00`|`Alternative Online Mods`|
