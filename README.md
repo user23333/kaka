@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[hyper&#45;reV &#45; memory introspection &#43; reverse engineering powered by leveraging Hyper&#45;V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709634-hyper-rev-memory-introspection-reverse-engineering-powered-leveraging-hyper.html)|`2025-11-12 04:37:00`|`Anti-Cheat Bypass`|
+|[Stuck when working with il2cpp global metadata decryption for Realm of the Mad God](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/714777-stuck-il2cpp-global-metadata-decryption-realm-mad-god.html)|`2025-11-12 04:32:00`|`Forum General`|
+|[Weapon index missing knives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724631-weapon-index-missing-knives.html)|`2025-11-12 04:26:00`|`Counter-Strike 2`|
+|[Valorant Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/725066-valorant-colorbot.html)|`2025-11-12 04:26:00`|`Valorant`|
 |[BLOODSTRIKE CHAMS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/723801-bloodstrike-chams.html)|`2025-11-12 04:13:00`|`Other Games`|
 |[Using Pi Zero 2 W and Pi4 for colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724986-using-pi-zero-2-pi4-colorbot.html)|`2025-11-12 03:59:00`|`Valorant`|
 |[Any methods of sending mouse click input? &#40;Not mouse move&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724742-methods-sending-mouse-click-input-mouse-move.html)|`2025-11-12 03:52:00`|`Valorant`|
