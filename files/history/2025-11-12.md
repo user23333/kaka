@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-11-12 03:26:00`|`Overwatch`|
+|[Sleepy's External &#45; Outline, Skeleton, and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external-outline-skeleton-aimbot.html)|`2025-11-12 03:25:00`|`Overwatch`|
+|[SmokeySense &#45; Custom C&#35; &#40;&#46;NET 4&#46;8&#41; Undetected External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/715659-smokeysense-custom-net-4-8-undetected-external-cheat.html)|`2025-11-12 03:17:00`|`Counter-Strike 2 Releases`|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-11-12 03:11:00`|`Phasmophobia`|
 |[CS2 ImGui overlay wrong aspect ratio 4:3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725060-cs2-imgui-overlay-wrong-aspect-ratio-4-3-a.html)|`2025-11-12 03:16:00`|`Counter-Strike 2`|
 |[Best undetected  mouse move  method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714574-undetected-mouse-move-method.html)|`2025-11-12 03:11:00`|`Anti-Cheat Bypass`|
 |[Dying Light 1 &#40;V1&#46;50&#41; Internal &#124; Aimbot, ESP,&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/688897-dying-light-1-v1-50-internal-aimbot-esp.html)|`2025-11-12 02:58:00`|`Other FPS Games`|
