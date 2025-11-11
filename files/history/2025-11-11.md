@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2025-11-11 19:01:00`|`Grand Theft Auto V`|
+|[Gold Dropper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/567212-gold-dropper.html)|`2025-11-11 19:01:00`|`Red Dead Redemption 2`|
+|[Foxhole Internal &#91;COLONIAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/724701-foxhole-internal-colonial.html)|`2025-11-11 18:58:00`|`Other MMORPG and Strategy`|
+|[Nuxar1 Decryption dumper FIX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/724997-nuxar1-decryption-dumper-fix.html)|`2025-11-11 18:56:00`|`Call of Duty: Black Ops 6`|
 |[DINGOSQUAD 2025 full source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724655-dingosquad-2025-source.html)|`2025-11-11 18:24:00`|`Counter-Strike 2`|
 |[Hypervisor bsod on EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723975-hypervisor-bsod-eac.html)|`2025-11-11 17:42:00`|`Anti-Cheat Bypass`|
 |[&#91;Updated&#93; Dead by Daylight Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/635513-updated-dead-daylight-unlock-dlcs-skins.html)|`2025-11-11 17:23:00`|`Other FPS Games`|
