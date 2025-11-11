@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead Frontier 2 Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/722406-dead-frontier-2-cheats.html)|`2025-11-11 19:33:00`|`Other Games`|
+|[Mapping all of physmem into your UM process](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723283-mapping-physmem-um-process.html)|`2025-11-11 19:29:00`|`Anti-Cheat Bypass`|
 |[Is writing memory dtc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725001-writing-memory-dtc.html)|`2025-11-11 19:25:00`|`Counter-Strike 2`|
 |[Single ESP32&#45;S3 Rust Recoil Script &#45;FULL TUTORIAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721658-single-esp32-s3-rust-recoil-script-tutorial.html)|`2025-11-11 19:17:00`|`Rust`|
 |[Vanguard Session](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724999-vanguard-session.html)|`2025-11-11 19:12:00`|`Anti-Cheat Bypass`|
