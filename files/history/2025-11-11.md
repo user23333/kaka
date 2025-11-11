@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New to all this, need some guidance plelase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/719720-guidance-plelase.html)|`2025-11-11 11:55:00`|`Introductions`|
 |[HvH server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/722633-hvh-server.html)|`2025-11-11 11:43:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Valorant vgc bypass done, need some help from experts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724962-valorant-vgc-bypass-help-experts.html)|`2025-11-11 11:41:00`|`Valorant`|
 |[Does anyone know how to create cheat software for the Chinese version of Valorant?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724606-create-cheat-software-chinese-version-valorant.html)|`2025-11-11 11:36:00`|`Valorant`|
