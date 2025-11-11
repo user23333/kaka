@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overlay lagging noticeably behind](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725078-overlay-lagging-noticeably.html)|`2025-11-12 06:20:00`|`Counter-Strike 2`|
+|[hi, i am a new member&#45; nice to meet yall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/725077-hi-am-nice-meet-yall.html)|`2025-11-12 06:17:00`|`Introductions`|
+|[is dma cheating on faceit dead coz of iommu?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724955-dma-cheating-faceit-dead-coz-iommu.html)|`2025-11-12 06:11:00`|`Counter-Strike 2`|
 |[&#46;pak unpacker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/719599-pak-unpacker.html)|`2025-11-12 05:44:00`|`PUBG Mobile`|
 |[New external ESP SoT Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/581265-external-esp-sot-helper.html)|`2025-11-12 05:22:00`|`Sea of Thieves`|
 |[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2025-11-12 05:11:00`|`Other FPS Games`|
