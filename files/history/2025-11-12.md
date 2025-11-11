@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any free Dead by Daylight DMA cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724915-free-dead-daylight-dma-cheat.html)|`2025-11-12 01:41:00`|`Other FPS Games`|
+|[AddBoxOverlay no longer in CDebugOverlayGameSystem?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724947-addboxoverlay-cdebugoverlaygamesystem.html)|`2025-11-12 01:40:00`|`Counter-Strike 2`|
+|[How to dump protected game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724703-dump-protected-game.html)|`2025-11-12 01:32:00`|`Anti-Cheat Bypass`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-11-12 01:26:00`|`Apex Legends`|
 |[SMOKE ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712230-smoke-esp.html)|`2025-11-12 01:23:00`|`Counter-Strike 2`|
 |[SEOwnedDE &#40;highly improved&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/725042-seownedde-highly-improved.html)|`2025-11-12 01:22:00`|`Team Fortress 2`|
