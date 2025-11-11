@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any methods of sending mouse click input? &#40;Not mouse move&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724742-methods-sending-mouse-click-input-mouse-move.html)|`2025-11-12 03:52:00`|`Valorant`|
+|[After update internal not injecting freezing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724708-update-internal-injecting-freezing.html)|`2025-11-12 03:51:00`|`Valorant`|
 |[IDA GET&#95;ENTITY&#95;ALPHA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/724934-ida-get_entity_alpha.html)|`2025-11-12 03:47:00`|`Alternative Online Mods`|
 |[Peak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706121-peak.html)|`2025-11-12 03:44:00`|`Other Games`|
 |[Vigor V2 &#45; Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724863-vigor-v2-internal-cheat.html)|`2025-11-12 03:35:00`|`Other FPS Games`|
