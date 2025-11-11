@@ -13,6 +13,7 @@
 |35|[Video thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724423-video-thread.html)|`2025-11-11 00:11:07`|`counter-strike-2-a`|
 |9|[DINGOSQUAD 2025 full source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724655-dingosquad-2025-source.html)|`2025-11-11 02:47:50`|`counter-strike-2-a`|
 |8|[Starting with bf6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/724241-starting-bf6.html)|`2025-11-11 10:46:57`|`battlefield-6-a`|
+|19|[eac cr3 shuffling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724540-eac-cr3-shuffling.html)|`2025-11-11 11:59:05`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HvH server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/722633-hvh-server.html)|`2025-11-11 11:43:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Valorant vgc bypass done, need some help from experts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724962-valorant-vgc-bypass-help-experts.html)|`2025-11-11 11:41:00`|`Valorant`|
 |[Does anyone know how to create cheat software for the Chinese version of Valorant?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724606-create-cheat-software-chinese-version-valorant.html)|`2025-11-11 11:36:00`|`Valorant`|
 |[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-11-11 11:36:00`|`Other FPS Games`|
 |[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2025-11-11 11:20:00`|`Tom Clancy's The Division`|
