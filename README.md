@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New external ESP SoT Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/581265-external-esp-sot-helper.html)|`2025-11-12 05:22:00`|`Sea of Thieves`|
 |[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2025-11-12 05:11:00`|`Other FPS Games`|
 |[VEH in client&#46;dll?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725068-veh-client-dll.html)|`2025-11-12 04:43:00`|`Counter-Strike 2`|
 |[Rust external optimization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/724881-rust-external-optimization.html)|`2025-11-12 04:51:00`|`Rust`|
