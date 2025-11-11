@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anti Flashbang &#45; No Flash Counter Strike 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725027-anti-flashbang-flash-counter-strike-2-a.html)|`2025-11-11 23:11:00`|`Counter-Strike 2`|
+|[BOIII Client ZM External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/684226-boiii-client-zm-external.html)|`2025-11-11 23:11:00`|`Call of Duty: Black Ops 3`|
+|[CS2 ImGui overlay wrong aspect ratio 4:3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725025-cs2-imgui-overlay-wrong-aspect-ratio-4-3-a.html)|`2025-11-11 23:09:00`|`Counter-Strike 2`|
 |[InventoryManager signature](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725018-inventorymanager-signature.html)|`2025-11-11 22:24:00`|`Counter-Strike 2`|
 |[GTA V New Character Setup &#91;Help Needed/Advice Welcome&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724450-gta-character-setup-help-advice-welcome.html)|`2025-11-11 22:14:00`|`Grand Theft Auto V`|
 |[MISERY Mod Menu &#40;Internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724237-misery-mod-menu-internal.html)|`2025-11-11 22:11:00`|`Other FPS Games`|
