@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[for global 32bit gameloop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724853-global-32bit-gameloop.html)|`2025-11-12 07:46:00`|`PUBG Mobile`|
 |[please guys make an external cheat for warzone4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/725086-please-guys-external-cheat-warzone4.html)|`2025-11-12 07:29:00`|`Call of Duty: Black Ops 6`|
 |[CS 1&#46;6 External ESP drawing wrong ???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/725085-cs-1-6-external-esp-drawing-wrong.html)|`2025-11-12 07:22:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Rust DMA source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/725084-rust-dma-source.html)|`2025-11-12 07:16:00`|`Rust`|
