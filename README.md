@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust DMA source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/725084-rust-dma-source.html)|`2025-11-12 07:16:00`|`Rust`|
+|[Cant find pointers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/724998-cant-pointers.html)|`2025-11-12 07:15:00`|`Minecraft`|
+|[Interpolate the recoil pattern](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/722342-interpolate-recoil-pattern.html)|`2025-11-12 07:15:00`|`Playerunknown's Battlegrounds`|
+|[Kernel Control Flow Guard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724855-kernel-control-flow-guard.html)|`2025-11-12 07:02:00`|`Anti-Cheat Bypass`|
 |[Help with an injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/725083-help-injector.html)|`2025-11-12 06:57:00`|`Call of Duty: Black Ops 6`|
 |[CS 1&#46;6 Steam Build 10210 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/693063-cs-1-6-steam-build-10210-offsets.html)|`2025-11-12 06:21:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Working in sandbox not in bot games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/725081-sandbox-bot-games.html)|`2025-11-12 06:42:00`|`Deadlock`|
