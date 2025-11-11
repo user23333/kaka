@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[IDA GET&#95;ENTITY&#95;ALPHA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/724934-ida-get_entity_alpha.html)|`2025-11-12 03:47:00`|`Alternative Online Mods`|
+|[Peak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706121-peak.html)|`2025-11-12 03:44:00`|`Other Games`|
 |[Vigor V2 &#45; Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724863-vigor-v2-internal-cheat.html)|`2025-11-12 03:35:00`|`Other FPS Games`|
 |[Steam Key Giveaways](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/206050-steam-key-giveaways.html)|`2025-11-12 03:34:00`|`Forum General`|
 |[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2025-11-12 03:33:00`|`Palworld`|
