@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is writing memory dtc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725001-writing-memory-dtc.html)|`2025-11-11 19:25:00`|`Counter-Strike 2`|
+|[Single ESP32&#45;S3 Rust Recoil Script &#45;FULL TUTORIAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721658-single-esp32-s3-rust-recoil-script-tutorial.html)|`2025-11-11 19:17:00`|`Rust`|
+|[Vanguard Session](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724999-vanguard-session.html)|`2025-11-11 19:12:00`|`Anti-Cheat Bypass`|
 |[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2025-11-11 19:01:00`|`Grand Theft Auto V`|
 |[Gold Dropper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/567212-gold-dropper.html)|`2025-11-11 19:01:00`|`Red Dead Redemption 2`|
 |[Foxhole Internal &#91;COLONIAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/724701-foxhole-internal-colonial.html)|`2025-11-11 18:58:00`|`Other MMORPG and Strategy`|
