@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Genshin cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/724991-genshin-cheats.html)|`2025-11-11 16:50:00`|`Genshin Impact`|
+|[CS2 External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/660877-cs2-external-cheat.html)|`2025-11-11 16:38:00`|`Counter-Strike 2`|
 |[Seeking help from ImGui for anti cheating function detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/724990-seeking-help-imgui-anti-cheating-function-detection.html)|`2025-11-11 16:37:00`|`C and C++`|
 |[StreamProofing Internal swapChain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/720859-streamproofing-internal-swapchain.html)|`2025-11-11 16:28:00`|`C and C++`|
 |[Xbox modding and PlayStation modding community pros and cons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/724989-xbox-modding-playstation-modding-community-pros-cons.html)|`2025-11-11 16:22:00`|`Off Topic`|
