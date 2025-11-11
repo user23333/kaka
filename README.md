@@ -32,9 +32,13 @@
 |1|[materials&#46;txt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51893)|`2025-11-12 07:40:37`|
 |2|[asthmaphobia v0&#46;15&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51890)|`2025-11-12 07:40:37`|
 |1|[SEOwnedDE improved](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51894)|`2025-11-12 07:46:38`|
+|1|[Nuxar1's Decryption Dumper FIX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51889)|`2025-11-12 07:58:40`|
+|1|[Sastasha Injector v1&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51888)|`2025-11-12 07:58:40`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Threads issue&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/725090-threads-issue.html)|`2025-11-12 07:56:00`|`Alternative Online Mods`|
+|[Nuxar1 Decryption dumper FIX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/724997-nuxar1-decryption-dumper-fix.html)|`2025-11-12 07:53:00`|`Call of Duty: Black Ops 6`|
 |[for global 32bit gameloop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724853-global-32bit-gameloop.html)|`2025-11-12 07:46:00`|`PUBG Mobile`|
 |[please guys make an external cheat for warzone4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/725086-please-guys-external-cheat-warzone4.html)|`2025-11-12 07:29:00`|`Call of Duty: Black Ops 6`|
 |[CS 1&#46;6 External ESP drawing wrong ???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/725085-cs-1-6-external-esp-drawing-wrong.html)|`2025-11-12 07:22:00`|`CounterStrike 1.5, 1.6 and Mods`|
