@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[strafe prediction/movesim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/724700-strafe-prediction-movesim.html)|`2025-11-12 01:47:00`|`Team Fortress 2`|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2025-11-12 01:44:00`|`Battlefield 6`|
+|[Kernel input using Kbdclass callback](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724791-kernel-input-using-kbdclass-callback.html)|`2025-11-12 01:43:00`|`Anti-Cheat Bypass`|
 |[Any free Dead by Daylight DMA cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724915-free-dead-daylight-dma-cheat.html)|`2025-11-12 01:41:00`|`Other FPS Games`|
 |[AddBoxOverlay no longer in CDebugOverlayGameSystem?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724947-addboxoverlay-cdebugoverlaygamesystem.html)|`2025-11-12 01:40:00`|`Counter-Strike 2`|
 |[How to dump protected game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724703-dump-protected-game.html)|`2025-11-12 01:32:00`|`Anti-Cheat Bypass`|
