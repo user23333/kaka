@@ -12,6 +12,7 @@
 |9|[Any undetected gta 5 ENCHANTED mod menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724284-undetected-gta-5-enchanted-mod-menu.html)|`2025-11-11 00:11:07`|`grand-theft-auto-v`|
 |35|[Video thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724423-video-thread.html)|`2025-11-11 00:11:07`|`counter-strike-2-a`|
 |9|[DINGOSQUAD 2025 full source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724655-dingosquad-2025-source.html)|`2025-11-11 02:47:50`|`counter-strike-2-a`|
+|8|[Starting with bf6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/724241-starting-bf6.html)|`2025-11-11 10:46:57`|`battlefield-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[is dma cheating on faceit dead coz of iommu?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724955-dma-cheating-faceit-dead-coz-iommu.html)|`2025-11-11 10:26:00`|`Counter-Strike 2`|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-11-11 10:25:00`|`Counter-Strike 2 Releases`|
+|[IMPORTANT cod new process creation no more inject discuss](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/724954-cod-process-creation-inject-discuss.html)|`2025-11-11 10:01:00`|`Call of Duty: Black Ops 6`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-11-11 09:56:00`|`Grand Theft Auto V`|
 |[Vigor V2 &#45; Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724863-vigor-v2-internal-cheat.html)|`2025-11-11 08:53:00`|`Other FPS Games`|
 |[AQ3D Boring Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/724856-aq3d-boring-internal.html)|`2025-11-11 08:16:00`|`Other MMORPG and Strategy`|
 |[Device UnitID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724948-device-unitid.html)|`2025-11-11 08:13:00`|`Anti-Cheat Bypass`|
