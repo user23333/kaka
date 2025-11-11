@@ -11,6 +11,7 @@
 |37|[Video thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724423-video-thread.html)|`2025-11-12 00:00:01`|`counter-strike-2-a`|
 |20|[eac cr3 shuffling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724540-eac-cr3-shuffling.html)|`2025-11-12 00:00:01`|`anti-cheat-bypass`|
 |8|[Starting with bf6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/724241-starting-bf6.html)|`2025-11-12 00:00:01`|`battlefield-6-a`|
+|7|[🎯 R6S SIG OFFSET FINDER v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/724698-r6s-sig-offset-finder-v3-0-a.html)|`2025-11-12 07:31:29`|`rainbow-six-siege`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -24,9 +25,14 @@
 |18|[SnowBreak 3&#46;3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51854)|`2025-11-12 00:00:01`|
 |69|[OwHelper&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51851)|`2025-11-12 00:00:01`|
 |14|[5&#46;5&#46;4&#45;0&#43;UE5&#45;fellowship&#95;22090229](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51848)|`2025-11-12 00:00:01`|
+|1|[&#43;&#43;Fortnite&#43;Release&#45;38&#46;10&#45;CL&#45;47888945 &#45; rea](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51897)|`2025-11-12 07:31:29`|
+|4|[&#43;&#43;Fortnite&#43;Release&#45;38&#46;10&#45;CL&#45;47888945](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51896)|`2025-11-12 07:31:29`|
+|1|[ValorantSDK&#95;11&#46;10](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51895)|`2025-11-12 07:31:29`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[please guys make an external cheat for warzone4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/725086-please-guys-external-cheat-warzone4.html)|`2025-11-12 07:29:00`|`Call of Duty: Black Ops 6`|
+|[CS 1&#46;6 External ESP drawing wrong ???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/725085-cs-1-6-external-esp-drawing-wrong.html)|`2025-11-12 07:22:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Rust DMA source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/725084-rust-dma-source.html)|`2025-11-12 07:16:00`|`Rust`|
 |[Cant find pointers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/724998-cant-pointers.html)|`2025-11-12 07:15:00`|`Minecraft`|
 |[Interpolate the recoil pattern](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/722342-interpolate-recoil-pattern.html)|`2025-11-12 07:15:00`|`Playerunknown's Battlegrounds`|
