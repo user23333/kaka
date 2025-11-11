@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Seeking help from ImGui for anti cheating function detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/724990-seeking-help-imgui-anti-cheating-function-detection.html)|`2025-11-11 16:37:00`|`C and C++`|
+|[StreamProofing Internal swapChain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/720859-streamproofing-internal-swapchain.html)|`2025-11-11 16:28:00`|`C and C++`|
 |[Xbox modding and PlayStation modding community pros and cons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/724989-xbox-modding-playstation-modding-community-pros-cons.html)|`2025-11-11 16:22:00`|`Off Topic`|
 |[Using Pi Zero 2 W and Pi4 for colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724986-using-pi-zero-2-pi4-colorbot.html)|`2025-11-11 16:17:00`|`Valorant`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-11-11 15:51:00`|`Grand Theft Auto V`|
