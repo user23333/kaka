@@ -12,6 +12,7 @@
 |20|[eac cr3 shuffling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724540-eac-cr3-shuffling.html)|`2025-11-12 00:00:01`|`anti-cheat-bypass`|
 |8|[Starting with bf6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/724241-starting-bf6.html)|`2025-11-12 00:00:01`|`battlefield-6-a`|
 |7|[🎯 R6S SIG OFFSET FINDER v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/724698-r6s-sig-offset-finder-v3-0-a.html)|`2025-11-12 07:31:29`|`rainbow-six-siege`|
+|3|[External Offsets 4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724315-external-offsets-4-1-a.html)|`2025-11-12 09:20:53`|`pubg-mobile`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,9 +35,15 @@
 |1|[SEOwnedDE improved](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51894)|`2025-11-12 07:46:38`|
 |1|[Nuxar1's Decryption Dumper FIX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51889)|`2025-11-12 07:58:40`|
 |1|[Sastasha Injector v1&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51888)|`2025-11-12 07:58:40`|
+|3|[cs2&#45;External&#45;Cheat&#45;v1&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51884)|`2025-11-12 09:20:53`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SWTOR External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/722362-swtor-external.html)|`2025-11-12 09:18:00`|`Other Games`|
+|[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2025-11-12 09:10:00`|`Apex Legends`|
+|[SurrounDead DX11 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/722827-surroundead-dx11-internal.html)|`2025-11-12 09:09:00`|`Other Single Player Games`|
+|[Bypass Anti&#45;Cheat Genshin Impact 6&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/717352-bypass-anti-cheat-genshin-impact-6-0-a.html)|`2025-11-12 09:06:00`|`Genshin Impact`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-11-12 09:02:00`|`Apex Legends`|
 |[Threads issue&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/725090-threads-issue.html)|`2025-11-12 07:56:00`|`Alternative Online Mods`|
 |[Nuxar1 Decryption dumper FIX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/724997-nuxar1-decryption-dumper-fix.html)|`2025-11-12 07:53:00`|`Call of Duty: Black Ops 6`|
 |[for global 32bit gameloop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724853-global-32bit-gameloop.html)|`2025-11-12 07:46:00`|`PUBG Mobile`|
