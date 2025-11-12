@@ -30,6 +30,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Switching situations in update 4&#46;1 &#40;32&#45;bit version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724265-switching-situations-update-4-1-32-bit-version.html)|`2025-11-13 07:38:00`|`PUBG Mobile`|
+|[ESP apk not working in EMULATOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724854-esp-apk-emulator.html)|`2025-11-13 07:37:00`|`PUBG Mobile`|
+|[Pubg Emulator 4&#46;0 bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/716686-pubg-emulator-4-0-bypass.html)|`2025-11-13 07:36:00`|`PUBG Mobile`|
+|[Fix esp in emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724792-fix-esp-emulator.html)|`2025-11-13 07:35:00`|`PUBG Mobile`|
+|[Lone Eft DMA Mem Write](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725124-lone-eft-dma-mem-write.html)|`2025-11-13 07:35:00`|`Escape from Tarkov`|
+|[for global 32bit gameloop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724853-global-32bit-gameloop.html)|`2025-11-13 07:34:00`|`PUBG Mobile`|
+|[BGMI GAMELOOP 32 BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724759-bgmi-gameloop-32-bypass.html)|`2025-11-13 07:33:00`|`PUBG Mobile`|
+|[10 years ban PUBG mobile 4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/725168-10-ban-pubg-mobile-4-1-a.html)|`2025-11-13 07:32:00`|`PUBG Mobile`|
 |[Is writing memory dtc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725001-writing-memory-dtc.html)|`2025-11-13 07:22:00`|`Counter-Strike 2`|
 |[Offset XBOX 11/10/2025 BO6 BO6 NOT BO7 :sadwavey:](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/725215-offset-xbox-11-10-2025-bo6-bo6-bo7-sadwavey.html)|`2025-11-13 07:14:00`|`Call of Duty: Black Ops 6`|
 |[Chivalry 2 Basic &#46;pak &#45; Parera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720632-chivalry-2-basic-pak-parera.html)|`2025-11-13 07:12:00`|`Other Games`|
