@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;LINUX&#93; External Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/696976-linux-external-multihack.html)|`2025-11-13 02:48:00`|`Counter-Strike 2 Releases`|
+|[Working in sandbox not in bot games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/725081-sandbox-bot-games.html)|`2025-11-13 02:45:00`|`Deadlock`|
 |[How to Perm Spoof a SSD NVMe the real way&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667328-perm-spoof-ssd-nvme-real.html)|`2025-11-13 02:35:00`|`Anti-Cheat Bypass`|
 |[ACCOUNT VAL 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722001-account-val-5-a.html)|`2025-11-13 02:34:00`|`Valorant`|
 |[How to dump the EXE &#40;right way&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/725160-dump-exe.html)|`2025-11-13 02:31:00`|`Call of Duty: Black Ops 6`|
