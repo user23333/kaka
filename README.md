@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[i need hook c35 , c16 fot integrity and fix crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724353-hook-c35-c16-fot-integrity-fix-crash.html)|`2025-11-13 07:45:00`|`PUBG Mobile`|
+|[&#46;pak unpacker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/719599-pak-unpacker.html)|`2025-11-13 07:43:00`|`PUBG Mobile`|
+|[Offsets Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724618-offsets-help.html)|`2025-11-13 07:43:00`|`PUBG Mobile`|
+|[BGMI External Offsets 4&#46;0 And MAGIC SHELL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/717343-bgmi-external-offsets-4-0-magic-shell.html)|`2025-11-13 07:43:00`|`PUBG Mobile`|
+|[need bone ids for 4&#46;1 32bit external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724750-bone-ids-4-1-32bit-external.html)|`2025-11-13 07:41:00`|`PUBG Mobile`|
+|[PUBG GLOBAL 4&#46;1 UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724318-pubg-global-4-1-ue4-offsets.html)|`2025-11-13 07:40:00`|`PUBG Mobile`|
 |[Switching situations in update 4&#46;1 &#40;32&#45;bit version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724265-switching-situations-update-4-1-32-bit-version.html)|`2025-11-13 07:38:00`|`PUBG Mobile`|
 |[ESP apk not working in EMULATOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724854-esp-apk-emulator.html)|`2025-11-13 07:37:00`|`PUBG Mobile`|
 |[Pubg Emulator 4&#46;0 bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/716686-pubg-emulator-4-0-bypass.html)|`2025-11-13 07:36:00`|`PUBG Mobile`|
