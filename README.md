@@ -40,6 +40,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-11-12 18:18:00`|`Other FPS Games`|
+|[How to move mouse in RUST](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/723593-move-mouse-rust.html)|`2025-11-12 18:07:00`|`Rust`|
+|[Emulating mouse events using a hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714174-emulating-mouse-events-using-hypervisor.html)|`2025-11-12 18:02:00`|`Anti-Cheat Bypass`|
 |[DXComm &#45; GPU Memory Communication](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723503-dxcomm-gpu-memory-communication.html)|`2025-11-12 17:55:00`|`Anti-Cheat Bypass`|
 |[Help with deobfuscate il2cpp API](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/725137-help-deobfuscate-il2cpp-api.html)|`2025-11-12 17:45:00`|`Unity`|
 |[Request for Modest Menu&#45;style cheat &#40;teleport & heal&#41; — alt:V F5 error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725135-request-modest-menu-style-cheat-teleport-heal-alt-f5-error.html)|`2025-11-12 17:39:00`|`Grand Theft Auto V`|
