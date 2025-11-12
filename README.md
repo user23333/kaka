@@ -40,6 +40,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I was scammed by FilipKoxOOO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/725131-scammed-filipkoxooo.html)|`2025-11-12 15:52:00`|`Alternative Online Mods`|
+|[MyCoPunk Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716230-mycopunk-internal.html)|`2025-11-12 15:48:00`|`Other FPS Games`|
 |[RUST BONES FETCHING](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/723483-rust-bones-fetching.html)|`2025-11-12 14:52:00`|`Rust`|
 |[Four Kings Casino & Slots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/715909-kings-casino-slots.html)|`2025-11-12 14:45:00`|`Unity`|
 |[Network based resource dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/724790-network-based-resource-dumper.html)|`2025-11-12 14:22:00`|`Alternative Online Mods`|
