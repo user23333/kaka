@@ -40,6 +40,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-11-12 18:41:00`|`Counter-Strike 2 Releases`|
+|[Chaos Zero Nightmare](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/723441-chaos-zero-nightmare.html)|`2025-11-12 18:41:00`|`Other MMORPG and Strategy`|
+|[How to bypass EasyAntiCheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724158-bypass-easyanticheat.html)|`2025-11-12 18:31:00`|`Anti-Cheat Bypass`|
+|[MouseClassServiceCallback](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725142-mouseclassservicecallback.html)|`2025-11-12 18:29:00`|`Anti-Cheat Bypass`|
+|[sigs xigmapper windows 11 25h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723563-sigs-xigmapper-windows-11-25h2.html)|`2025-11-12 18:27:00`|`Anti-Cheat Bypass`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-11-12 18:18:00`|`Other FPS Games`|
 |[How to move mouse in RUST](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/723593-move-mouse-rust.html)|`2025-11-12 18:07:00`|`Rust`|
 |[Emulating mouse events using a hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714174-emulating-mouse-events-using-hypervisor.html)|`2025-11-12 18:02:00`|`Anti-Cheat Bypass`|
