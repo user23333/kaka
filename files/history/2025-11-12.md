@@ -40,6 +40,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends Injection in theia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725146-apex-legends-injection-theia.html)|`2025-11-12 19:28:00`|`Anti-Cheat Bypass`|
+|[How to change ur FTPM without a driver &#40;AMD, Gigabyte only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720900-change-ur-ftpm-driver-amd-gigabyte.html)|`2025-11-12 19:24:00`|`Valorant`|
 |[How to make BE Injector ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725144-injector.html)|`2025-11-12 19:09:00`|`Anti-Cheat Bypass`|
 |[Cs2 OnlyRead External cheat &#124; 11/10/2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724876-cs2-onlyread-external-cheat-11-10-2025-a.html)|`2025-11-12 19:00:00`|`Counter-Strike 2`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-11-12 18:41:00`|`Counter-Strike 2 Releases`|
