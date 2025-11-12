@@ -11,6 +11,7 @@
 |16|[strafe prediction/movesim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/724700-strafe-prediction-movesim.html)|`2025-11-13 00:18:06`|`team-fortress-2-a`|
 |6|[&#40;Undetectable&#41; Overwatch 2 &#45; ColorBot Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/724800-undetectable-overwatch-2-colorbot-release.html)|`2025-11-13 00:18:06`|`overwatch`|
 |6|[Cs2 OnlyRead External cheat &#124; 11/10/2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724876-cs2-onlyread-external-cheat-11-10-2025-a.html)|`2025-11-13 00:18:06`|`counter-strike-2-a`|
+|7|[JaysModz aka Beds/Zay Silent Chair Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/724711-jaysmodz-aka-beds-zay-silent-chair-source.html)|`2025-11-13 03:49:00`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
