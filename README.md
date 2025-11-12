@@ -40,6 +40,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to call game function pointblank](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725126-call-game-function-pointblank.html)|`2025-11-12 12:49:00`|`Other FPS Games`|
 |[Does anyone know how to create cheat software for the Chinese version of Valorant?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724606-create-cheat-software-chinese-version-valorant.html)|`2025-11-12 12:28:00`|`Valorant`|
 |[Winter, Christmas & New Year's Banner Contest 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/724060-winter-christmas-banner-contest-2025-a.html)|`2025-11-12 12:03:00`|`General Graphics`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-11-12 11:49:00`|`Grand Theft Auto V`|
