@@ -40,6 +40,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help with deobfuscate il2cpp API](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/725137-help-deobfuscate-il2cpp-api.html)|`2025-11-12 17:45:00`|`Unity`|
+|[Request for Modest Menu&#45;style cheat &#40;teleport & heal&#41; — alt:V F5 error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725135-request-modest-menu-style-cheat-teleport-heal-alt-f5-error.html)|`2025-11-12 17:39:00`|`Grand Theft Auto V`|
+|[&#124; DeadLock Cheat &#124;&#124; Scripts &#124;&#124; Auto&#45;Updating &#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/693609-deadlock-cheat-scripts-auto-updating.html)|`2025-11-12 17:31:00`|`Deadlock`|
 |[I Hate this shiz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725120-hate-shiz.html)|`2025-11-12 17:21:00`|`Counter-Strike 2`|
 |[Killing Floor Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/226796-killing-floor-multihack.html)|`2025-11-12 15:58:00`|`Other FPS Games`|
 |[I was scammed by FilipKoxOOO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/725131-scammed-filipkoxooo.html)|`2025-11-12 15:52:00`|`Alternative Online Mods`|
