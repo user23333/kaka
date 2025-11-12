@@ -40,6 +40,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RUST BONES FETCHING](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/723483-rust-bones-fetching.html)|`2025-11-12 14:52:00`|`Rust`|
+|[Four Kings Casino & Slots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/715909-kings-casino-slots.html)|`2025-11-12 14:45:00`|`Unity`|
+|[Network based resource dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/724790-network-based-resource-dumper.html)|`2025-11-12 14:22:00`|`Alternative Online Mods`|
+|[Cold War Aim Assist Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/465828-cold-war-aim-assist-script.html)|`2025-11-12 13:56:00`|`Call of Duty: Black Ops Cold War`|
 |[Safer Driver Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/702983-safer-driver-cheat.html)|`2025-11-12 13:48:00`|`General Programming and Reversing`|
 |[map esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/725127-map-esp.html)|`2025-11-12 13:45:00`|`Rust`|
 |[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2025-11-12 13:39:00`|`Other FPS Games`|
