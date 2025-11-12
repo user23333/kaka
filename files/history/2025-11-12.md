@@ -42,6 +42,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Battlefield 1 &#45; 2x Damage Multiplier](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/500253-battlefield-1-2x-damage-multiplier.html)|`2025-11-12 23:35:00`|`Battlefield 1`|
+|[RONFentry &#45; Ready or Not Internal, Feature&#45;Packed Multitool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716446-ronfentry-ready-internal-feature-packed-multitool.html)|`2025-11-12 23:34:00`|`Other FPS Games`|
+|[CS2 ImGui overlay wrong aspect ratio 4:3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725025-cs2-imgui-overlay-wrong-aspect-ratio-4-3-a.html)|`2025-11-12 23:23:00`|`Counter-Strike 2`|
 |[Update sigs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725171-update-sigs.html)|`2025-11-12 23:17:00`|`Counter-Strike 2`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-11-12 22:58:00`|`Other FPS Games`|
 |[MY FIRST MARVEL RIVALS EXTERNAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/723540-marvel-rivals-external.html)|`2025-11-12 22:41:00`|`Marvel Rivals`|
