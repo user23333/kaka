@@ -27,6 +27,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[external BO6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/702640-external-bo6.html)|`2025-11-13 00:44:00`|`Call of Duty: Black Ops 6`|
+|[resource stopper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/725184-resource-stopper.html)|`2025-11-13 00:42:00`|`Alternative Online Mods`|
+|[pure guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/runescape/725183-pure-guide.html)|`2025-11-13 00:42:00`|`RuneScape`|
+|[External BF6 drivers exist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/725182-external-bf6-drivers-exist.html)|`2025-11-13 00:39:00`|`Battlefield 6`|
+|[Bypass Anti&#45;Cheat Genshin Impact 6&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/717352-bypass-anti-cheat-genshin-impact-6-0-a.html)|`2025-11-13 00:39:00`|`Genshin Impact`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-11-13 00:39:00`|`Call of Duty: Black Ops 6`|
+|[Skip CB raid prep missions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725181-skip-cb-raid-prep-missions.html)|`2025-11-13 00:36:00`|`Grand Theft Auto V`|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-11-13 00:34:00`|`Farlight 84`|
+|[CS2 vmdl&#95;c parser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/707998-cs2-vmdl_c-parser.html)|`2025-11-13 00:34:00`|`Counter-Strike 2`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-11-13 00:34:00`|`Valorant`|
 |[Update sigs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725171-update-sigs.html)|`2025-11-13 00:12:00`|`Counter-Strike 2`|
 |[Advanced norecoil script for esp32s3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/710109-advanced-norecoil-script-esp32s3.html)|`2025-11-13 00:08:00`|`Rust`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-11-13 00:08:00`|`Counter-Strike 2`|
