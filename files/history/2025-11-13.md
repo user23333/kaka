@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Warhammer Darktide Lua Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725212-warhammer-darktide-lua-aimbot.html)|`2025-11-13 05:45:00`|`Other FPS Games`|
 |[BO7 coming tmr](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/725211-bo7-coming-tmr.html)|`2025-11-13 05:36:00`|`Call of Duty: Black Ops 7`|
 |[soft unlock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/725178-soft-unlock.html)|`2025-11-13 05:33:00`|`Call of Duty: Black Ops 6`|
 |[Possible Force Save bo7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/725191-force-save-bo7.html)|`2025-11-13 05:31:00`|`Call of Duty: Black Ops 6`|
