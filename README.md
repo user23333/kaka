@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BO7 coming tmr](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/725211-bo7-coming-tmr.html)|`2025-11-13 05:36:00`|`Call of Duty: Black Ops 7`|
+|[soft unlock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/725178-soft-unlock.html)|`2025-11-13 05:33:00`|`Call of Duty: Black Ops 6`|
+|[Possible Force Save bo7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/725191-force-save-bo7.html)|`2025-11-13 05:31:00`|`Call of Duty: Black Ops 6`|
 |[sv&#95;quantize&#95;movement&#95;input "fix"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725209-sv_quantize_movement_input-fix.html)|`2025-11-13 05:27:00`|`Counter-Strike 2`|
 |[AddBoxOverlay no longer in CDebugOverlayGameSystem?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724947-addboxoverlay-cdebugoverlaygamesystem.html)|`2025-11-13 05:24:00`|`Counter-Strike 2`|
 |[&#91;Updated&#93; Dead by Daylight Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/635513-updated-dead-daylight-unlock-dlcs-skins.html)|`2025-11-13 05:12:00`|`Other FPS Games`|
