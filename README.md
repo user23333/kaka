@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Winter, Christmas & New Year's Banner Contest 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/724060-winter-christmas-banner-contest-2025-a.html)|`2025-11-13 04:41:00`|`General Graphics`|
 |[Wicked Menu/ Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/372512-wicked-menu-cheat-engine.html)|`2025-11-13 04:29:00`|`Red Dead Redemption 2`|
 |[pubg offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/725205-pubg-offsets.html)|`2025-11-13 04:27:00`|`PUBG Mobile`|
 |[Pirate Generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/699335-pirate-generator.html)|`2025-11-13 04:14:00`|`Sea of Thieves`|
