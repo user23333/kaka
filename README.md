@@ -40,6 +40,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Safer Driver Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/702983-safer-driver-cheat.html)|`2025-11-12 13:48:00`|`General Programming and Reversing`|
+|[map esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/725127-map-esp.html)|`2025-11-12 13:45:00`|`Rust`|
 |[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2025-11-12 13:39:00`|`Other FPS Games`|
 |[Ark Ascended Urgent Help&#33; Why does the external "WorldToScreen" have a malfunction?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724320-ark-ascended-urgent-help-external-worldtoscreen-malfunction.html)|`2025-11-12 13:35:00`|`Other FPS Games`|
 |[how to call game function pointblank](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725126-call-game-function-pointblank.html)|`2025-11-12 12:49:00`|`Other FPS Games`|
