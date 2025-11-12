@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[10 and 20 min ban fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/723901-10-20-min-ban-fix.html)|`2025-11-13 07:47:00`|`PUBG Mobile`|
 |[i need hook c35 , c16 fot integrity and fix crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724353-hook-c35-c16-fot-integrity-fix-crash.html)|`2025-11-13 07:45:00`|`PUBG Mobile`|
 |[&#46;pak unpacker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/719599-pak-unpacker.html)|`2025-11-13 07:43:00`|`PUBG Mobile`|
 |[Offsets Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724618-offsets-help.html)|`2025-11-13 07:43:00`|`PUBG Mobile`|
