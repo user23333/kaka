@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is writing memory dtc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725001-writing-memory-dtc.html)|`2025-11-13 07:22:00`|`Counter-Strike 2`|
+|[Offset XBOX 11/10/2025 BO6 BO6 NOT BO7 :sadwavey:](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/725215-offset-xbox-11-10-2025-bo6-bo6-bo7-sadwavey.html)|`2025-11-13 07:14:00`|`Call of Duty: Black Ops 6`|
+|[Chivalry 2 Basic &#46;pak &#45; Parera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720632-chivalry-2-basic-pak-parera.html)|`2025-11-13 07:12:00`|`Other Games`|
 |[SendInput Detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725037-sendinput-detected.html)|`2025-11-13 07:12:00`|`Counter-Strike 2`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-11-13 06:56:00`|`Rainbow Six Siege`|
 |[please guys make an external cheat for warzone4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/725086-please-guys-external-cheat-warzone4.html)|`2025-11-13 06:40:00`|`Call of Duty: Black Ops 6`|
