@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Imperial updated ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/724922-imperial-updated.html)|`2025-11-13 19:09:00`|`Overwatch`|
+|[10y online injector root](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/725254-10y-online-injector-root.html)|`2025-11-13 19:04:00`|`PUBG Mobile`|
 |[Counterstrafing macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/725207-counterstrafing-macro.html)|`2025-11-13 18:47:00`|`Valorant`|
 |[Not getting calls to do missions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724937-getting-calls-missions.html)|`2025-11-13 18:41:00`|`Grand Theft Auto V`|
 |[BFBC2 D3D Hack by Krilu92](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-bad-company-2-a/623494-bfbc2-d3d-hack-krilu92.html)|`2025-11-13 18:38:00`|`Battlefield Bad Company 2`|
