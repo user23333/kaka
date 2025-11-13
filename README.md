@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-11-14 06:20:00`|`Apex Legends`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-11-14 06:17:00`|`Grand Theft Auto V`|
+|[Latest Sigs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/725319-sigs.html)|`2025-11-14 06:15:00`|`Call of Duty: Black Ops 6`|
+|[Dofus 3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/677073-dofus-3-0-a.html)|`2025-11-14 06:15:00`|`Unity`|
+|[Cs2 OnlyRead External cheat &#124; 11/10/2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724876-cs2-onlyread-external-cheat-11-10-2025-a.html)|`2025-11-14 06:03:00`|`Counter-Strike 2`|
+|[DMA Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/725317-dma-detection.html)|`2025-11-14 06:00:00`|`Call of Duty: Black Ops 7`|
 |[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2025-11-14 05:55:00`|`Battlefield 6`|
 |[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2025-11-14 05:52:00`|`Garry's Mod`|
 |[Dead By Daylight DMA 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714224-dead-daylight-dma-2-0-a.html)|`2025-11-14 05:51:00`|`Other FPS Games`|
