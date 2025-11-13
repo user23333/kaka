@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to make Spoof Func](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/725257-spoof-func.html)|`2025-11-14 03:06:00`|`Alternative Online Mods`|
+|[Server ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/725251-server-ban.html)|`2025-11-14 03:04:00`|`Alternative Online Mods`|
+|[&#46;tri files for maps vischeck](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725252-tri-files-maps-vischeck.html)|`2025-11-14 03:03:00`|`Counter-Strike 2`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-11-14 02:46:00`|`Other FPS Games`|
 |[Get Kicked by BattlEye after using YimMenuV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725241-kicked-battleye-using-yimmenuv2.html)|`2025-11-14 02:43:00`|`Grand Theft Auto V`|
 |[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2025-11-14 02:39:00`|`Other FPS Games`|
