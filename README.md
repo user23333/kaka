@@ -27,9 +27,14 @@
 |32|[Sastasha Injector v1&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51888)|`2025-11-13 00:18:06`|
 |34|[cs2&#45;External&#45;Cheat&#45;v1&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51884)|`2025-11-13 00:18:06`|
 |1|[TL Dump 12/11/25](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51906)|`2025-11-13 03:36:12`|
+|6|[fivem network resource dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51904)|`2025-11-13 09:13:15`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-11-13 09:09:00`|`Playerunknown's Battlegrounds`|
+|[How do people dump EFT now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725222-people-dump-eft.html)|`2025-11-13 09:07:00`|`Escape from Tarkov`|
+|[Network based resource dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/724790-network-based-resource-dumper.html)|`2025-11-13 08:30:00`|`Alternative Online Mods`|
+|[what changes after any update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/725220-changes-update.html)|`2025-11-13 08:29:00`|`Counter-Strike 2 Releases`|
 |[10 and 20 min ban fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/723901-10-20-min-ban-fix.html)|`2025-11-13 07:47:00`|`PUBG Mobile`|
 |[i need hook c35 , c16 fot integrity and fix crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724353-hook-c35-c16-fot-integrity-fix-crash.html)|`2025-11-13 07:45:00`|`PUBG Mobile`|
 |[&#46;pak unpacker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/719599-pak-unpacker.html)|`2025-11-13 07:43:00`|`PUBG Mobile`|
