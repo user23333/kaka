@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-11-14 07:15:00`|`Rust`|
+|[SharpMonoInjector Fixed and Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/408878-sharpmonoinjector-fixed-updated.html)|`2025-11-14 07:13:00`|`Unity`|
+|[Glow share and showcase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/725326-glow-share-showcase.html)|`2025-11-14 07:13:00`|`Apex Legends`|
 |[Windows 11 Pro 24H2/25H2 DSE horror bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724681-windows-11-pro-24h2-25h2-dse-horror-bypass.html)|`2025-11-14 06:56:00`|`Anti-Cheat Bypass`|
 |[Read before posting in this section&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/725322-read-posting-section.html)|`2025-11-14 06:41:00`|`Team Fortress 2`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-11-14 06:20:00`|`Apex Legends`|
