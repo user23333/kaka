@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Where Winds Meet Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/725040-winds-meet-reversal-structs-offsets.html)|`2025-11-14 03:45:00`|`Other MMORPG and Strategy`|
 |[What do I need to download to be able to use the SDK cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/725277-download-able-sdk-cheats.html)|`2025-11-14 03:41:00`|`Valorant`|
 |[Bypassing Screenshare](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/722685-bypassing-screenshare.html)|`2025-11-14 03:34:00`|`Alternative Online Mods`|
 |[Hourglass level exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/658140-hourglass-level-exploits.html)|`2025-11-14 03:24:00`|`Sea of Thieves`|
