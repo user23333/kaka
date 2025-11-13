@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-11-13 15:40:00`|`Other Games`|
 |[EAC DMA Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725246-eac-dma-detection.html)|`2025-11-13 15:30:00`|`Anti-Cheat Bypass`|
 |[BotOps Hub &#40;bot lobby tool, no VM required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/674129-botops-hub-bot-lobby-tool-vm-required.html)|`2025-11-13 15:19:00`|`Call of Duty: Black Ops 6`|
 |[Ark Ascended Urgent Help&#33; Why does the external "WorldToScreen" have a malfunction?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724320-ark-ascended-urgent-help-external-worldtoscreen-malfunction.html)|`2025-11-13 15:17:00`|`Other FPS Games`|
