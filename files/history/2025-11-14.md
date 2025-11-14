@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Tarkov vpn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725272-tarkov-vpn.html)|`2025-11-14 21:01:00`|`Escape from Tarkov`|
+|[move mouse in valo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/725294-move-mouse-valo.html)|`2025-11-14 20:46:00`|`Valorant`|
+|[Auto updating CS2 usermode external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/725387-auto-updating-cs2-usermode-external.html)|`2025-11-14 20:28:00`|`Counter-Strike 2 Releases`|
 |[BO7 Decryptions and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/725396-bo7-decryptions-offsets.html)|`2025-11-14 20:24:00`|`Call of Duty: Black Ops 7`|
 |[Network based resource dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/724790-network-based-resource-dumper.html)|`2025-11-14 20:19:00`|`Alternative Online Mods`|
 |[failure sock pubgm 64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/723855-failure-sock-pubgm-64-a.html)|`2025-11-14 19:54:00`|`PUBG Mobile`|
