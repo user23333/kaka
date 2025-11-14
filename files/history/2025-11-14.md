@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Offset XBOX B06](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/725364-offset-xbox-b06.html)|`2025-11-14 11:29:00`|`Call of Duty: Black Ops 6`|
+|[Ricochet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/725356-ricochet.html)|`2025-11-14 11:16:00`|`Call of Duty: Black Ops 6`|
+|[Native Invoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/725080-native-invoker.html)|`2025-11-14 11:11:00`|`Alternative Online Mods`|
+|[All&#45;in&#45;one Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/715265-dumper.html)|`2025-11-14 10:31:00`|`Alternative Online Mods`|
 |[HSV Color Appears Different on Second PC Using Moonlight &#43; OBS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724787-hsv-color-appears-pc-using-moonlight-obs.html)|`2025-11-14 10:13:00`|`Valorant`|
 |[Crash on Set Prediction?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725358-crash-set-prediction.html)|`2025-11-14 10:04:00`|`Counter-Strike 2`|
 |[The Texas Chainsaw Massacre Tool &#45; Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712655-texas-chainsaw-massacre-tool-internal-cheat.html)|`2025-11-14 10:00:00`|`Other FPS Games`|
