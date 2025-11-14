@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to move mouse in RUST](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/723593-move-mouse-rust.html)|`2025-11-14 17:21:00`|`Rust`|
 |[EXTERNAL apb&#46;one](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/710621-external-apb.html)|`2025-11-14 16:49:00`|`All Points Bulletin`|
 |[BFBC2 D3D Hack by Krilu92](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-bad-company-2-a/623494-bfbc2-d3d-hack-krilu92.html)|`2025-11-14 16:49:00`|`Battlefield Bad Company 2`|
 |[UE Explorer &#45; Rocket League Custom Edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/725093-ue-explorer-rocket-league-custom-edition.html)|`2025-11-14 16:46:00`|`Other Games`|
