@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[help cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725482-help-cs2.html)|`2025-11-15 06:59:00`|`Counter-Strike 2`|
+|[&#46;tri files for maps vischeck](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725252-tri-files-maps-vischeck.html)|`2025-11-15 06:57:00`|`Counter-Strike 2`|
+|[Getting CUserCmd externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718639-getting-cusercmd-externally.html)|`2025-11-15 06:57:00`|`Counter-Strike 2`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-11-15 06:45:00`|`DayZ SA`|
 |[ACCOUNT VAL 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722001-account-val-5-a.html)|`2025-11-15 06:39:00`|`Valorant`|
 |[Apex Legends Injection in theia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725146-apex-legends-injection-theia.html)|`2025-11-15 06:39:00`|`Anti-Cheat Bypass`|
