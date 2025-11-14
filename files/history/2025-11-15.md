@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Auto updating CS2 usermode external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/725387-auto-updating-cs2-usermode-external.html)|`2025-11-15 04:12:00`|`Counter-Strike 2 Releases`|
+|[SPI Flash Chip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725274-spi-flash-chip.html)|`2025-11-15 04:02:00`|`Anti-Cheat Bypass`|
+|[UE Explorer &#45; Rocket League Custom Edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/725093-ue-explorer-rocket-league-custom-edition.html)|`2025-11-15 03:59:00`|`Other Games`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-11-15 03:49:00`|`Valorant`|
 |[2025 Game of the Year Contenders List &#45; What is your game of the year?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/725373-2025-game-contenders-list-game.html)|`2025-11-15 03:51:00`|`Off Topic`|
 |[Is having a second computer popular now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/725365-computer-popular.html)|`2025-11-15 03:42:00`|`Valorant`|
 |[World Modulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725461-world-modulation.html)|`2025-11-15 03:40:00`|`Counter-Strike 2`|
