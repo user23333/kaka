@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is having a second computer popular now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/725365-computer-popular.html)|`2025-11-14 12:02:00`|`Valorant`|
 |[I'm block with listEntry&#46;&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725346-im-block-listentry.html)|`2025-11-14 11:51:00`|`Counter-Strike 2`|
 |[Offset XBOX B06](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/725364-offset-xbox-b06.html)|`2025-11-14 11:29:00`|`Call of Duty: Black Ops 6`|
 |[Ricochet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/725356-ricochet.html)|`2025-11-14 11:16:00`|`Call of Duty: Black Ops 6`|
