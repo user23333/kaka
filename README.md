@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nuxar1 Decryption dumper FIX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/724997-nuxar1-decryption-dumper-fix.html)|`2025-11-14 15:16:00`|`Call of Duty: Black Ops 6`|
+|[New Tool &#45; AoE4 Function Address Finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/725250-tool-aoe4-function-address-finder.html)|`2025-11-14 15:10:00`|`Age of Empires`|
+|[Roblox External &#40;Undetected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/723226-roblox-external-undetected.html)|`2025-11-14 15:02:00`|`Half Life`|
 |[How do people read other player weapon in hand?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/724621-people-read-player-weapon-hand.html)|`2025-11-14 14:34:00`|`Escape from Tarkov`|
 |[2025 Game of the Year Contenders List &#45; What is your game of the year?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/725373-2025-game-contenders-list-game.html)|`2025-11-14 14:12:00`|`Off Topic`|
 |[FOUND A WAY TO GET UNBANNED IN GTA ONLINE&#40;ONLY FOR STEAM AND EPIC IN ENHANCED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725372-found-unbanned-gta-online-steam-epic-enhanced.html)|`2025-11-14 14:11:00`|`Grand Theft Auto V`|
