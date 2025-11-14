@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is Usb hostshield still safe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722504-usb-hostshield-safe.html)|`2025-11-15 02:54:00`|`Valorant`|
+|[Cs2 OnlyRead External cheat &#124; 11/10/2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724876-cs2-onlyread-external-cheat-11-10-2025-a.html)|`2025-11-15 02:53:00`|`Counter-Strike 2`|
+|[move mouse in valo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/725294-move-mouse-valo.html)|`2025-11-15 02:50:00`|`Valorant`|
 |[Counterstrafing macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/725207-counterstrafing-macro.html)|`2025-11-15 02:49:00`|`Valorant`|
 |[Free c&#35; color aimbot/rcs/trigger&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724077-free-color-aimbot-rcs-trigger.html)|`2025-11-15 02:48:00`|`Valorant`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-11-15 02:47:00`|`Alternative Online Mods`|
