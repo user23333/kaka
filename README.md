@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dark Hours DX11 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/721309-dark-hours-dx11-internal.html)|`2025-11-15 04:33:00`|`Other Games`|
 |[Hooking RivaTuner overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725467-hooking-rivatuner-overlay.html)|`2025-11-15 04:31:00`|`Anti-Cheat Bypass`|
 |[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-11-15 04:27:00`|`Other FPS Games`|
 |[Undetectable Legit External Cheat &#45; Smokey Sense &#40;AimAssist, ESP, RCS &#43; More&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/725370-undetectable-legit-external-cheat-smokey-sense-aimassist-esp-rcs.html)|`2025-11-15 04:14:00`|`Counter-Strike 2 Releases`|
