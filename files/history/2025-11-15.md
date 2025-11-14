@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any colorbot undc for bo7?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/725446-colorbot-undc-bo7.html)|`2025-11-15 01:38:00`|`Call of Duty: Black Ops 7`|
 |[Aiden base work with TPM/ secure boot active&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/725436-aiden-base-tpm-secure-boot-active.html)|`2025-11-15 01:30:00`|`Call of Duty: Black Ops 6`|
 |[How to make BE Injector ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725144-injector.html)|`2025-11-15 01:23:00`|`Anti-Cheat Bypass`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-11-15 01:19:00`|`Other MMORPG and Strategy`|
