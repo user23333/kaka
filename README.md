@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dark Hours DX11 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/721309-dark-hours-dx11-internal.html)|`2025-11-14 16:15:00`|`Other Games`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-11-14 16:08:00`|`DayZ SA`|
 |[Nuxar1 Decryption dumper FIX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/724997-nuxar1-decryption-dumper-fix.html)|`2025-11-14 15:16:00`|`Call of Duty: Black Ops 6`|
 |[New Tool &#45; AoE4 Function Address Finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/725250-tool-aoe4-function-address-finder.html)|`2025-11-14 15:10:00`|`Age of Empires`|
 |[Roblox External &#40;Undetected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/723226-roblox-external-undetected.html)|`2025-11-14 15:02:00`|`Half Life`|
