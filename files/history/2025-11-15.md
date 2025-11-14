@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does &#91;removed&#93; for Gmod work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/724788-removed-gmod.html)|`2025-11-15 05:51:00`|`Garry's Mod`|
 |[sv&#95;quantize&#95;movement&#95;input "fix"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725209-sv_quantize_movement_input-fix.html)|`2025-11-15 05:44:00`|`Counter-Strike 2`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-11-15 05:41:00`|`Escape from Tarkov`|
 |[How do people dump EFT now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725222-people-dump-eft.html)|`2025-11-15 05:28:00`|`Escape from Tarkov`|
