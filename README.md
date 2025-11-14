@@ -11,6 +11,7 @@
 |19|[Network based resource dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/724790-network-based-resource-dumper.html)|`2025-11-15 00:24:16`|`alternative-online-mods`|
 |18|[strafe prediction/movesim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/724700-strafe-prediction-movesim.html)|`2025-11-15 00:24:16`|`team-fortress-2-a`|
 |7|[Windows 11 Pro 24H2/25H2 DSE horror bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724681-windows-11-pro-24h2-25h2-dse-horror-bypass.html)|`2025-11-15 00:24:16`|`anti-cheat-bypass`|
+|7|[JaysModz aka Beds/Zay Silent Chair Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/724711-jaysmodz-aka-beds-zay-silent-chair-source.html)|`2025-11-15 00:56:17`|`call-of-duty-black-ops-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I'm block with listEntry&#46;&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725346-im-block-listentry.html)|`2025-11-15 00:56:00`|`Counter-Strike 2`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/590414-arc-raiders-structs-offsets.html)|`2025-11-15 00:52:00`|`Other FPS Games`|
+|[Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725440-chams.html)|`2025-11-15 00:51:00`|`Counter-Strike 2`|
+|[troll my friend](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/725438-troll-friend.html)|`2025-11-15 00:51:00`|`Rainbow Six Siege`|
+|[Signature:C&#95;CSWeaponBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725439-signature-c_csweaponbase.html)|`2025-11-15 00:48:00`|`Counter-Strike 2`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-11-15 00:38:00`|`Escape from Tarkov`|
 |[SendInput Detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725037-sendinput-detected.html)|`2025-11-15 00:38:00`|`Counter-Strike 2`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-11-15 00:38:00`|`Rust`|
