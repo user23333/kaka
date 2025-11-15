@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need Macro For this Type of minigame](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/725613-macro-type-minigame.html)|`2025-11-16 05:24:00`|`Alternative Online Mods`|
+|[FindMaterial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725612-findmaterial.html)|`2025-11-16 05:24:00`|`Counter-Strike 2`|
+|[bypassing the anti&#45;cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/725226-bypassing-anti-cheats.html)|`2025-11-16 05:17:00`|`Forum General`|
 |[Vigor V2 &#45; Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724863-vigor-v2-internal-cheat.html)|`2025-11-16 04:51:00`|`Other FPS Games`|
 |[How anti&#45;cheats detect drivers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724064-anti-cheats-detect-drivers.html)|`2025-11-16 04:51:00`|`Anti-Cheat Bypass`|
 |[Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725607-chams.html)|`2025-11-16 04:48:00`|`Counter-Strike 2`|
