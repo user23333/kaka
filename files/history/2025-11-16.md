@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vigor V2 &#45; Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724863-vigor-v2-internal-cheat.html)|`2025-11-16 04:51:00`|`Other FPS Games`|
+|[How anti&#45;cheats detect drivers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724064-anti-cheats-detect-drivers.html)|`2025-11-16 04:51:00`|`Anti-Cheat Bypass`|
+|[Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725607-chams.html)|`2025-11-16 04:48:00`|`Counter-Strike 2`|
 |[Esp not appearing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/725606-esp-appearing.html)|`2025-11-16 04:44:00`|`Call of Duty: Black Ops 7`|
 |[Help to create a Permanent UAV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/725604-help-create-permanent-uav.html)|`2025-11-16 04:38:00`|`Call of Duty: Black Ops 6`|
 |[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2025-11-16 04:29:00`|`Other FPS Games`|
