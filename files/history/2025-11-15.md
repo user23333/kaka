@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Genshin Impact 5&#46;8 Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/712706-genshin-impact-5-8-table.html)|`2025-11-15 17:28:00`|`Genshin Impact`|
+|[DXComm &#45; GPU Memory Communication](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723503-dxcomm-gpu-memory-communication.html)|`2025-11-15 17:24:00`|`Anti-Cheat Bypass`|
+|[PsCreateSystemThread Hide?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724877-pscreatesystemthread-hide.html)|`2025-11-15 17:18:00`|`Anti-Cheat Bypass`|
 |[Best undetected  mouse move  method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714574-undetected-mouse-move-method.html)|`2025-11-15 17:16:00`|`Anti-Cheat Bypass`|
 |[does getting banned in enhanced version apply to the legacy version too](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725454-getting-banned-enhanced-version-apply-legacy-version.html)|`2025-11-15 16:19:00`|`Grand Theft Auto V`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-11-15 16:07:00`|`Playerunknown's Battlegrounds`|
