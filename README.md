@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-11-16 05:29:00`|`Alternative Online Mods`|
 |[Need Macro For this Type of minigame](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/725613-macro-type-minigame.html)|`2025-11-16 05:24:00`|`Alternative Online Mods`|
 |[FindMaterial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725612-findmaterial.html)|`2025-11-16 05:24:00`|`Counter-Strike 2`|
 |[bypassing the anti&#45;cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/725226-bypassing-anti-cheats.html)|`2025-11-16 05:17:00`|`Forum General`|
