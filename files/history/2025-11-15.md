@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716473-apex-dma-source.html)|`2025-11-15 13:09:00`|`Apex Legends`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-11-15 13:00:00`|`Counter-Strike 2`|
+|[Memory write infinite ammo on GTA Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725522-memory-write-infinite-ammo-gta-enhanced.html)|`2025-11-15 12:28:00`|`Grand Theft Auto V`|
+|[Restaurats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/725521-restaurats.html)|`2025-11-15 12:22:00`|`Other Games`|
 |[Casino Store unlocks for v1&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725523-casino-store-unlocks-v1-7-a.html)|`2025-11-15 12:55:00`|`Grand Theft Auto V`|
 |[QC New ban system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/quake-champions/725519-qc-ban-system.html)|`2025-11-15 12:19:00`|`Quake Champions`|
 |[How to inject SO files into Tencent Gaming Buddy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/725449-inject-files-tencent-gaming-buddy.html)|`2025-11-15 12:03:00`|`PUBG Mobile`|
