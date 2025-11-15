@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[YimMenuV2Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697581-yimmenuv2mod.html)|`2025-11-16 07:16:00`|`Grand Theft Auto V`|
+|[rust hwid spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/725275-rust-hwid-spoofer.html)|`2025-11-16 07:05:00`|`Rust`|
+|[Undetectable Legit External Cheat &#45; Smokey Sense &#40;AimAssist, ESP, RCS &#43; More&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/725370-undetectable-legit-external-cheat-smokey-sense-aimassist-esp-rcs.html)|`2025-11-16 07:04:00`|`Counter-Strike 2 Releases`|
 |[360 cranium removal bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/713500-360-cranium-removal-bot.html)|`2025-11-16 06:52:00`|`Combat Master`|
 |[ShellShock Live Trajectory Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/378458-shellshock-live-trajectory-trainer.html)|`2025-11-16 06:27:00`|`Other FPS Games`|
 |[WAW ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-5-world-at-war/455184-waw-esp.html)|`2025-11-16 06:23:00`|`Call of Duty 5: World at War`|
