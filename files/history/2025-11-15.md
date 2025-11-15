@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Glow share and showcase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/725326-glow-share-showcase.html)|`2025-11-15 19:22:00`|`Apex Legends`|
+|[Tarkov 1&#46;0 moved to IL2CPP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725536-tarkov-1-0-moved-il2cpp.html)|`2025-11-15 19:21:00`|`Escape from Tarkov`|
 |[HWho &#45; a slightly more fun bsg launcher hwid check bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/494040-hwho-slightly-fun-bsg-launcher-hwid-check-bypass.html)|`2025-11-15 19:11:00`|`Escape from Tarkov`|
 |[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2025-11-15 18:38:00`|`Counter-Strike 2 Releases`|
 |[cs2 internal hvh cheat working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725162-cs2-internal-hvh-cheat.html)|`2025-11-15 18:18:00`|`Counter-Strike 2`|
