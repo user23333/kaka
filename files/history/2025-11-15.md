@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to inject SO files into Tencent Gaming Buddy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/725449-inject-files-tencent-gaming-buddy.html)|`2025-11-15 12:03:00`|`PUBG Mobile`|
 |[BO7 BAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/725496-bo7-ban.html)|`2025-11-15 11:25:00`|`Call of Duty: Black Ops 7`|
 |[Organizing external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725512-organizing-external.html)|`2025-11-15 10:50:00`|`Counter-Strike 2`|
 |[MISERY Mod Menu &#40;Internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724237-misery-mod-menu-internal.html)|`2025-11-15 10:36:00`|`Other FPS Games`|
