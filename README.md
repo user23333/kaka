@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Farlight cheat internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/717566-farlight-cheat-internal.html)|`2025-11-15 21:32:00`|`Farlight 84`|
+|[Hi ALLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/725555-hi-alll.html)|`2025-11-15 21:27:00`|`Introductions`|
+|[They want to implement an anti&#45;cheat like in cs2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/724614-implement-anti-cheat-cs2.html)|`2025-11-15 21:14:00`|`Deadlock`|
 |[how to check newest tark update offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725553-check-tark-update-offsets.html)|`2025-11-15 21:16:00`|`Escape from Tarkov`|
 |[Roblox External &#45; &#91;ALWAYS UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717679-roblox-external-updated.html)|`2025-11-15 21:02:00`|`Other FPS Games`|
 |[hi](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/725552-hi.html)|`2025-11-15 21:00:00`|`Introductions`|
