@@ -13,6 +13,7 @@
 |7|[Windows 11 Pro 24H2/25H2 DSE horror bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724681-windows-11-pro-24h2-25h2-dse-horror-bypass.html)|`2025-11-15 00:24:16`|`anti-cheat-bypass`|
 |7|[JaysModz aka Beds/Zay Silent Chair Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/724711-jaysmodz-aka-beds-zay-silent-chair-source.html)|`2025-11-15 00:56:17`|`call-of-duty-black-ops-6-a`|
 |6|[Where Winds Meet Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/725040-winds-meet-reversal-structs-offsets.html)|`2025-11-15 10:44:09`|`other-mmorpg-and-strategy`|
+|22|[Tarkov 1&#46;0 moved to IL2CPP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725536-tarkov-1-0-moved-il2cpp.html)|`2025-11-15 23:00:05`|`escape-from-tarkov`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
