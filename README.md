@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to check newest tark update offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725553-check-tark-update-offsets.html)|`2025-11-15 21:16:00`|`Escape from Tarkov`|
+|[Roblox External &#45; &#91;ALWAYS UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717679-roblox-external-updated.html)|`2025-11-15 21:02:00`|`Other FPS Games`|
+|[hi](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/725552-hi.html)|`2025-11-15 21:00:00`|`Introductions`|
 |[Imperial updated ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/724922-imperial-updated.html)|`2025-11-15 20:15:00`|`Overwatch`|
 |[Valorant ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/725545-valorant-ban.html)|`2025-11-15 19:49:00`|`Valorant`|
 |[BFV NO RECOIL REUPLOAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/721443-bfv-recoil-reupload.html)|`2025-11-15 19:45:00`|`Battlefield V`|
