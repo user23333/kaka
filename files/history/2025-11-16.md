@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-11-16 01:39:00`|`Call of Duty: Black Ops 6`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-11-16 01:35:00`|`Rust`|
+|[Does a TPM chip work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/724957-tpm-chip.html)|`2025-11-16 01:34:00`|`Call of Duty: Black Ops 7`|
 |[Can I use hwho at steam launcher?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725571-hwho-steam-launcher.html)|`2025-11-16 01:30:00`|`Escape from Tarkov`|
 |[Skeleton esp and bone aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/725575-skeleton-esp-bone-aimbot.html)|`2025-11-16 01:22:00`|`Call of Duty: Black Ops 6`|
 |[Help with deobfuscate il2cpp API](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/725137-help-deobfuscate-il2cpp-api.html)|`2025-11-16 01:22:00`|`Unity`|
