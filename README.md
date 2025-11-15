@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Casino Store unlocks for v1&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725523-casino-store-unlocks-v1-7-a.html)|`2025-11-15 12:55:00`|`Grand Theft Auto V`|
 |[QC New ban system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/quake-champions/725519-qc-ban-system.html)|`2025-11-15 12:19:00`|`Quake Champions`|
 |[How to inject SO files into Tencent Gaming Buddy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/725449-inject-files-tencent-gaming-buddy.html)|`2025-11-15 12:03:00`|`PUBG Mobile`|
 |[BO7 BAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/725496-bo7-ban.html)|`2025-11-15 11:25:00`|`Call of Duty: Black Ops 7`|
