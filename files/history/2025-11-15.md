@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any outfit editor enchanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/721825-outfit-editor-enchanced.html)|`2025-11-15 23:56:00`|`Grand Theft Auto V`|
 |[BattlEyen't &#45; play offline raids without BattlEye on live version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/481919-battleyent-play-offline-raids-battleye-live-version.html)|`2025-11-15 23:45:00`|`Escape from Tarkov`|
 |[Does a TPM chip work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/724957-tpm-chip.html)|`2025-11-15 23:37:00`|`Call of Duty: Black Ops 7`|
 |[ProtonESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/724236-protonesp.html)|`2025-11-15 23:36:00`|`Counter-Strike 2 Releases`|
