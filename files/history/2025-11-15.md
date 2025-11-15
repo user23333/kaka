@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-11-15 22:23:00`|`Phasmophobia`|
+|[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-11-15 22:12:00`|`Call of Duty: Black Ops 3`|
+|[&#40;Translator&#41; DLC purchases are not working at all&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/725557-translator-dlc-purchases.html)|`2025-11-15 22:07:00`|`Payday 3`|
 |[Phasmo Save Editor &#40;All items/Cosmetics/Money/Lv & Prestige Editor/etc&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/708592-phasmo-save-editor-items-cosmetics-money-lv-prestige-editor-etc.html)|`2025-11-15 22:08:00`|`Phasmophobia`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-11-15 22:04:00`|`Rainbow Six Siege`|
 |[BO7 Bot Lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/725556-bo7-bot-lobby.html)|`2025-11-15 22:01:00`|`Call of Duty: Black Ops 7`|
