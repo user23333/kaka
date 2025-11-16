@@ -11,6 +11,7 @@
 |13|[Undetectable Legit External Cheat &#45; Smokey Sense &#40;AimAssist, ESP, RCS &#43; More&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/725370-undetectable-legit-external-cheat-smokey-sense-aimassist-esp-rcs.html)|`2025-11-17 00:08:56`|`counter-strike-2-releases`|
 |17|[Native Invoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/725080-native-invoker.html)|`2025-11-17 00:08:56`|`alternative-online-mods`|
 |10|[SEOwnedDE &#40;highly improved&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/725042-seownedde-highly-improved.html)|`2025-11-17 00:08:56`|`team-fortress-2-a`|
+|14|[How do people dump EFT now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725222-people-dump-eft.html)|`2025-11-17 00:57:56`|`escape-from-tarkov`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
