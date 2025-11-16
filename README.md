@@ -38,6 +38,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chivalry 2 Creating your owns &#46;PAK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716143-chivalry-2-creating-owns-pak.html)|`2025-11-16 21:22:00`|`Other FPS Games`|
+|[Planetside 2 Anticheat BattlEye Bypass &#40;braidead edition&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/712951-planetside-2-anticheat-battleye-bypass-braidead-edition.html)|`2025-11-16 21:20:00`|`PlanetSide 2`|
+|[Alternate for Ahk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/725299-alternate-ahk.html)|`2025-11-16 21:15:00`|`Call of Duty: Black Ops 7`|
+|[Stuck when working with il2cpp global metadata decryption for Realm of the Mad God](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/714777-stuck-il2cpp-global-metadata-decryption-realm-mad-god.html)|`2025-11-16 21:03:00`|`Forum General`|
 |[Valorant Yolov11s Model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/715056-valorant-yolov11s-model.html)|`2025-11-16 20:39:00`|`Valorant`|
 |[How to bypass EasyAntiCheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724158-bypass-easyanticheat.html)|`2025-11-16 20:18:00`|`Anti-Cheat Bypass`|
 |[MAC adress how can i change](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/725686-mac-adress-change.html)|`2025-11-16 20:08:00`|`Valorant`|
