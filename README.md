@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VALORANT Smoke Check = Thru Smoke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/725745-valorant-smoke-check-thru-smoke.html)|`2025-11-17 01:41:00`|`Valorant`|
+|[How to get IsAlive Externally ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/725744-isalive-externally.html)|`2025-11-17 01:41:00`|`League of Legends`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-11-17 01:28:00`|`Phasmophobia`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-11-17 01:33:00`|`Counter-Strike 2`|
 |[How to Make Permanent Advanced UAV &#40;Read Only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/710574-permanent-advanced-uav-read.html)|`2025-11-17 01:32:00`|`Call of Duty: Black Ops 6`|
 |[Schedule I &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695780-schedule-internal.html)|`2025-11-17 01:23:00`|`Other Games`|
