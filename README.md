@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Reworked AHK Color Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/xdefiant/640961-reworked-ahk-color-aimbot.html)|`2025-11-17 03:39:00`|`xDefiant`|
 |[Network based resource dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/724790-network-based-resource-dumper.html)|`2025-11-17 03:32:00`|`Alternative Online Mods`|
 |[YimMenuV2Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697581-yimmenuv2mod.html)|`2025-11-17 03:29:00`|`Grand Theft Auto V`|
 |[Very Basic Custom DMA Firmware Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725509-basic-custom-dma-firmware-guide.html)|`2025-11-17 03:27:00`|`Anti-Cheat Bypass`|
