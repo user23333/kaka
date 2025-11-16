@@ -32,9 +32,13 @@
 |2|[GI 6&#46;1 Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51930)|`2025-11-16 11:40:00`|
 |1|[cloakwork&#46;h](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51926)|`2025-11-16 11:40:00`|
 |1|[5&#46;5&#46;4&#45;0&#43;UE5&#45;fellowship&#95;023190956&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51924)|`2025-11-16 11:40:00`|
+|2|[Marvel Rivals SDK &#40;14/11/2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51937)|`2025-11-16 12:31:27`|
+|17|[eft dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51936)|`2025-11-16 12:31:27`|
+|3|[BloodStrike Internal v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51931)|`2025-11-16 12:31:27`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BLOODSTRIKE CHAMS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/723801-bloodstrike-chams.html)|`2025-11-16 12:06:00`|`Other Games`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-11-16 11:52:00`|`Phasmophobia`|
 |[x64 CS:S internal base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/724321-x64-cs-internal-base.html)|`2025-11-16 11:50:00`|`CounterStrike Source`|
 |[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2025-11-16 11:49:00`|`Counter-Strike 2 Releases`|
