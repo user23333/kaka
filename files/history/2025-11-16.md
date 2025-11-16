@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[No Man's Sky Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/725681-mans-sky-internal.html)|`2025-11-16 19:21:00`|`Other Games`|
+|[Welcome](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/725678-welcome.html)|`2025-11-16 18:22:00`|`Introductions`|
 |[FOUND A WAY TO GET UNBANNED IN GTA ONLINE&#40;ONLY FOR STEAM AND EPIC IN ENHANCED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725372-found-unbanned-gta-online-steam-epic-enhanced.html)|`2025-11-16 19:10:00`|`Grand Theft Auto V`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2025-11-16 18:51:00`|`Grand Theft Auto V`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-11-16 18:22:00`|`Other MMORPG and Strategy`|
