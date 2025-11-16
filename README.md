@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[2025 Game of the Year Contenders List &#45; What is your game of the year?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/725373-2025-game-contenders-list-game.html)|`2025-11-16 17:10:00`|`Off Topic`|
 |[IL2CPP dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725668-il2cpp-dumper.html)|`2025-11-16 16:52:00`|`Escape from Tarkov`|
 |[Updating BO6 Base to BO7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/720745-updating-bo6-base-bo7.html)|`2025-11-16 16:43:00`|`Call of Duty: Black Ops 7`|
 |[Driverpack / database of signed drivers to hunt for vulns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725667-driverpack-database-signed-drivers-hunt-vulns.html)|`2025-11-16 16:43:00`|`Anti-Cheat Bypass`|
