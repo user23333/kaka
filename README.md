@@ -38,6 +38,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[hyper&#45;reV &#45; memory introspection &#43; reverse engineering powered by leveraging Hyper&#45;V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709634-hyper-rev-memory-introspection-reverse-engineering-powered-leveraging-hyper.html)|`2025-11-16 14:11:00`|`Anti-Cheat Bypass`|
+|[Rocket League SDK INJECT FAILURE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724346-rocket-league-sdk-inject-failure.html)|`2025-11-16 14:07:00`|`Other FPS Games`|
+|[Please  Fix BAN  10min pubg 32 bit 4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/725386-please-fix-ban-10min-pubg-32-bit-4-1-a.html)|`2025-11-16 14:04:00`|`PUBG Mobile`|
+|[10 min](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/725562-10-min.html)|`2025-11-16 14:02:00`|`PUBG Mobile`|
 |[How to get the enemy platform?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/724470-enemy-platform.html)|`2025-11-16 13:47:00`|`Apex Legends`|
 |[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-11-16 13:34:00`|`Farlight 84`|
 |[Age Of Empire 4 Scar Script Injector with Online &#43; Offline Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/720438-age-empire-4-scar-script-injector-online-offline-features.html)|`2025-11-16 13:13:00`|`Age of Empires`|
