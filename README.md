@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HoldFast Internal Cheat NaW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718005-holdfast-internal-cheat-naw.html)|`2025-11-17 03:05:00`|`Other FPS Games`|
+|[BO7 Decryptions and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/725396-bo7-decryptions-offsets.html)|`2025-11-17 02:58:00`|`Call of Duty: Black Ops 7`|
+|[Any colorbot undc for bo7?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/725446-colorbot-undc-bo7.html)|`2025-11-17 02:52:00`|`Call of Duty: Black Ops 7`|
 |[Pax Dei](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/642787-pax-dei.html)|`2025-11-17 02:53:00`|`Other MMORPG and Strategy`|
 |[R6 &#45; Script Lua No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/718855-r6-script-lua-recoil.html)|`2025-11-17 02:43:00`|`Rainbow Six Siege`|
 |[Is nobody making working cheats anymore?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725755-cheats-anymore.html)|`2025-11-17 02:41:00`|`Counter-Strike 2`|
