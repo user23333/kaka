@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[hwid ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/725696-hwid-ban.html)|`2025-11-16 21:33:00`|`Valorant`|
+|[Mazean&#124;Tampermonkey script for a browser game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725695-mazean-tampermonkey-script-browser-game.html)|`2025-11-16 21:31:00`|`Other FPS Games`|
 |[Chivalry 2 Creating your owns &#46;PAK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716143-chivalry-2-creating-owns-pak.html)|`2025-11-16 21:22:00`|`Other FPS Games`|
 |[Planetside 2 Anticheat BattlEye Bypass &#40;braidead edition&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/712951-planetside-2-anticheat-battleye-bypass-braidead-edition.html)|`2025-11-16 21:20:00`|`PlanetSide 2`|
 |[Alternate for Ahk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/725299-alternate-ahk.html)|`2025-11-16 21:15:00`|`Call of Duty: Black Ops 7`|
