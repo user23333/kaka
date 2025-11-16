@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is having a second computer popular now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/725365-computer-popular.html)|`2025-11-16 08:43:00`|`Valorant`|
+|[BO7 BAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/725496-bo7-ban.html)|`2025-11-16 08:43:00`|`Call of Duty: Black Ops 7`|
+|[external hack 4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/725286-external-hack-4-1-a.html)|`2025-11-16 08:30:00`|`PUBG Mobile`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-11-16 07:55:00`|`Other FPS Games`|
 |[External ConVar Manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/719379-external-convar-manager.html)|`2025-11-16 07:54:00`|`Counter-Strike 2`|
 |[CS2 GameEntityList](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725503-cs2-gameentitylist.html)|`2025-11-16 07:21:00`|`Counter-Strike 2`|
