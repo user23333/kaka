@@ -26,9 +26,11 @@
 |51|[ricochetdumped](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51920)|`2025-11-17 00:08:56`|
 |53|[DeltaForceChinese SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51915)|`2025-11-17 00:08:56`|
 |2|[Sleepy's External &#45; 2&#46;19&#46;1&#46;0&#46;144311 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51945)|`2025-11-17 01:28:32`|
+|9|[PhasmoMenu v0&#46;5&#46;7&#46;8 FIXED By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51946)|`2025-11-17 02:38:47`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-11-17 02:30:00`|`Escape from Tarkov`|
 |[Trace Hull not working?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725641-trace-hull.html)|`2025-11-17 02:10:00`|`Counter-Strike 2`|
 |[overwatch have hwid ban ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/725255-overwatch-hwid-ban.html)|`2025-11-17 02:08:00`|`Overwatch`|
 |[Setup DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/725750-setup-dma.html)|`2025-11-17 02:06:00`|`Forum General`|
