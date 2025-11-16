@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BFBC2 D3D Hack by Krilu92](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-bad-company-2-a/623494-bfbc2-d3d-hack-krilu92.html)|`2025-11-16 18:06:00`|`Battlefield Bad Company 2`|
+|[ESP & Minimap etc&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-bad-company-2-a/725676-esp-minimap-etc.html)|`2025-11-16 18:04:00`|`Battlefield Bad Company 2`|
 |[BF6 Aimbot &#40;TPU Accelerated Raspberry Pi&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722855-bf6-aimbot-tpu-accelerated-raspberry-pi.html)|`2025-11-16 17:48:00`|`Battlefield 6`|
 |[2025 Game of the Year Contenders List &#45; What is your game of the year?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/725373-2025-game-contenders-list-game.html)|`2025-11-16 17:10:00`|`Off Topic`|
 |[IL2CPP dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725668-il2cpp-dumper.html)|`2025-11-16 16:52:00`|`Escape from Tarkov`|
