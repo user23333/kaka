@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Updating BO6 Base to BO7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/720745-updating-bo6-base-bo7.html)|`2025-11-16 16:43:00`|`Call of Duty: Black Ops 7`|
+|[Driverpack / database of signed drivers to hunt for vulns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725667-driverpack-database-signed-drivers-hunt-vulns.html)|`2025-11-16 16:43:00`|`Anti-Cheat Bypass`|
 |[R/W](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724747-r-w.html)|`2025-11-16 15:19:00`|`Anti-Cheat Bypass`|
 |[hyper&#45;reV &#45; memory introspection &#43; reverse engineering powered by leveraging Hyper&#45;V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709634-hyper-rev-memory-introspection-reverse-engineering-powered-leveraging-hyper.html)|`2025-11-16 14:11:00`|`Anti-Cheat Bypass`|
 |[Rocket League SDK INJECT FAILURE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724346-rocket-league-sdk-inject-failure.html)|`2025-11-16 14:07:00`|`Other FPS Games`|
