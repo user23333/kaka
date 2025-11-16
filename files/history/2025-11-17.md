@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Get Kicked by BattlEye after using YimMenuV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725241-kicked-battleye-using-yimmenuv2.html)|`2025-11-17 04:32:00`|`Grand Theft Auto V`|
+|[black background overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/703070-black-background-overlay.html)|`2025-11-17 04:32:00`|`General Programming and Reversing`|
+|[Rust DMA source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/725084-rust-dma-source.html)|`2025-11-17 04:29:00`|`Rust`|
+|[Activision is funny](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/725704-activision-funny.html)|`2025-11-17 04:23:00`|`Call of Duty: Black Ops 6`|
 |[Cooldowns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725773-cooldowns.html)|`2025-11-17 04:10:00`|`Counter-Strike 2`|
 |[Lethal Menu &#45; Lethal Company Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/615575-lethal-menu-lethal-company-cheat.html)|`2025-11-17 04:02:00`|`Lethal Company`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2025-11-17 04:00:00`|`Other FPS Games`|
