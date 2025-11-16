@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-11-16 23:26:00`|`PUBG Releases`|
+|[full screen esp vs overlay esp detection vectors?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725716-screen-esp-vs-overlay-esp-detection-vectors.html)|`2025-11-16 23:23:00`|`Counter-Strike 2`|
+|[PVE cheating ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725687-pve-cheating-ban.html)|`2025-11-16 23:12:00`|`Escape from Tarkov`|
 |[Activision is funny](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/725704-activision-funny.html)|`2025-11-16 22:40:00`|`Call of Duty: Black Ops 6`|
 |[Decrypting IL2CPP Metadata and Assembly for Unity il2cpp game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/714992-decrypting-il2cpp-metadata-assembly-unity-il2cpp-game.html)|`2025-11-16 21:59:00`|`General Programming and Reversing`|
 |[How do people dump EFT now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725222-people-dump-eft.html)|`2025-11-16 21:57:00`|`Escape from Tarkov`|
