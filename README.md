@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to bypass EasyAntiCheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724158-bypass-easyanticheat.html)|`2025-11-16 20:18:00`|`Anti-Cheat Bypass`|
+|[MAC adress how can i change](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/725686-mac-adress-change.html)|`2025-11-16 20:08:00`|`Valorant`|
+|[Winter, Christmas & New Year's Banner Contest 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/724060-winter-christmas-banner-contest-2025-a.html)|`2025-11-16 19:59:00`|`General Graphics`|
 |[FAQ Valorant Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/421120-faq-valorant-bans.html)|`2025-11-16 19:46:00`|`Valorant`|
 |[Driverpack &#45; Database of signed drivers to find vulnerable ones](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725685-driverpack-database-signed-drivers-vulnerable-ones.html)|`2025-11-16 19:45:00`|`Anti-Cheat Bypass`|
 |[Looking for beginner&#45;friendly AC to analyze &#45; VAC alternatives?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725684-looking-beginner-friendly-ac-analyze-vac-alternatives.html)|`2025-11-16 19:39:00`|`Anti-Cheat Bypass`|
