@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[OVERLAY IN EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710272-overlay-eac.html)|`2025-11-16 21:49:00`|`Anti-Cheat Bypass`|
+|[State of VAC on Linux?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725699-vac-linux.html)|`2025-11-16 21:47:00`|`Counter-Strike 2`|
 |[TPM spoofing guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713559-tpm-spoofing-guide.html)|`2025-11-16 21:42:00`|`Valorant`|
 |[hwid ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/725696-hwid-ban.html)|`2025-11-16 21:33:00`|`Valorant`|
 |[Mazean&#124;Tampermonkey script for a browser game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725695-mazean-tampermonkey-script-browser-game.html)|`2025-11-16 21:31:00`|`Other FPS Games`|
