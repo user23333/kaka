@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking for beginner&#45;friendly AC to analyze &#45; VAC alternatives?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725684-looking-beginner-friendly-ac-analyze-vac-alternatives.html)|`2025-11-16 19:39:00`|`Anti-Cheat Bypass`|
+|[External GetInaccuracy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715975-external-getinaccuracy.html)|`2025-11-16 19:39:00`|`Counter-Strike 2`|
 |[No Man's Sky Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/725681-mans-sky-internal.html)|`2025-11-16 19:21:00`|`Other Games`|
 |[Welcome](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/725678-welcome.html)|`2025-11-16 18:22:00`|`Introductions`|
 |[FOUND A WAY TO GET UNBANNED IN GTA ONLINE&#40;ONLY FOR STEAM AND EPIC IN ENHANCED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725372-found-unbanned-gta-online-steam-epic-enhanced.html)|`2025-11-16 19:10:00`|`Grand Theft Auto V`|
