@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725524-bloodstrike-internal.html)|`2025-11-17 01:50:00`|`Other FPS Games`|
+|[Phasmo Save Editor &#40;All items/Cosmetics/Money/Lv & Prestige Editor/etc&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/708592-phasmo-save-editor-items-cosmetics-money-lv-prestige-editor-etc.html)|`2025-11-17 01:46:00`|`Phasmophobia`|
 |[x64 TF2 Internal Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/725747-x64-tf2-internal-base.html)|`2025-11-17 01:48:00`|`Team Fortress 2`|
 |[VALORANT Smoke Check = Thru Smoke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/725745-valorant-smoke-check-thru-smoke.html)|`2025-11-17 01:41:00`|`Valorant`|
 |[How to get IsAlive Externally ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/725744-isalive-externally.html)|`2025-11-17 01:41:00`|`League of Legends`|
