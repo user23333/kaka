@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[No more pve cheats on released tarkov?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725689-pve-cheats-released-tarkov.html)|`2025-11-16 23:29:00`|`Escape from Tarkov`|
 |[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-11-16 23:26:00`|`PUBG Releases`|
 |[full screen esp vs overlay esp detection vectors?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725716-screen-esp-vs-overlay-esp-detection-vectors.html)|`2025-11-16 23:23:00`|`Counter-Strike 2`|
 |[PVE cheating ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725687-pve-cheating-ban.html)|`2025-11-16 23:12:00`|`Escape from Tarkov`|
