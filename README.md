@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R/W](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724747-r-w.html)|`2025-11-16 15:19:00`|`Anti-Cheat Bypass`|
 |[hyper&#45;reV &#45; memory introspection &#43; reverse engineering powered by leveraging Hyper&#45;V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709634-hyper-rev-memory-introspection-reverse-engineering-powered-leveraging-hyper.html)|`2025-11-16 14:11:00`|`Anti-Cheat Bypass`|
 |[Rocket League SDK INJECT FAILURE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724346-rocket-league-sdk-inject-failure.html)|`2025-11-16 14:07:00`|`Other FPS Games`|
 |[Please  Fix BAN  10min pubg 32 bit 4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/725386-please-fix-ban-10min-pubg-32-bit-4-1-a.html)|`2025-11-16 14:04:00`|`PUBG Mobile`|
