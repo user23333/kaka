@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is Handle Hijacking Really Enough?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725653-handle-hijacking.html)|`2025-11-17 18:59:00`|`Counter-Strike 2`|
 |[Does people still make money out of cheats nowdays ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/725836-people-money-cheats-nowdays.html)|`2025-11-17 18:53:00`|`Off Topic`|
 |[external esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725835-external-esp.html)|`2025-11-17 18:52:00`|`Escape from Tarkov`|
 |[How to perm spoof &#40;f&#41;TPM without flashing BIOS on some motherboard vendors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722958-perm-spoof-tpm-flashing-bios-motherboard-vendors.html)|`2025-11-17 18:42:00`|`Valorant`|
