@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SastashaFied iw4x SP/Spec&#45;Ops](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/722547-sastashafied-iw4x-sp-spec-ops.html)|`2025-11-18 06:11:00`|`Call of Duty 6: Modern Warfare 2`|
+|[auto accept](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725922-auto-accept.html)|`2025-11-18 06:09:00`|`Counter-Strike 2`|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-11-18 06:05:00`|`Counter-Strike 2 Releases`|
 |[External ESP Box overflow problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/725920-external-esp-box-overflow.html)|`2025-11-18 05:46:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[&#91;Source&#93; Planetside 2 Cheat & BattlEye Bypass &#43; Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/720663-source-planetside-2-cheat-battleye-bypass-injector.html)|`2025-11-18 05:31:00`|`PlanetSide 2`|
 |[Warface Gamescriptsc&#46;pak &#40;no encryption lua&#45;scripts&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/716080-warface-gamescriptsc-pak-encryption-lua-scripts.html)|`2025-11-18 05:20:00`|`Warface`|
