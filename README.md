@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Questions about assistance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/722805-questions-assistance.html)|`2025-11-17 23:32:00`|`Programming for Beginners`|
+|[Banned on pressing play today](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725842-banned-pressing-play.html)|`2025-11-17 23:12:00`|`Escape from Tarkov`|
+|[AntiCheatExpert Reverse engineering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725866-anticheatexpert-reverse-engineering.html)|`2025-11-17 23:11:00`|`Anti-Cheat Bypass`|
 |[How to Fix Your Smbios without buying any perm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/725865-fix-smbios-buying-perm.html)|`2025-11-17 22:51:00`|`Forum General`|
 |[cs2 internal hvh cheat working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725162-cs2-internal-hvh-cheat.html)|`2025-11-17 22:40:00`|`Counter-Strike 2`|
 |[Sastasha Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/711299-sastasha-injector.html)|`2025-11-17 22:37:00`|`General Programming and Reversing`|
