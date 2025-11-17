@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-11-17 23:47:00`|`Overwatch`|
 |[can anyone help me for getting offset?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/725825-help-getting-offset.html)|`2025-11-17 23:33:00`|`Call of Duty: Black Ops 6`|
 |[Questions about assistance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/722805-questions-assistance.html)|`2025-11-17 23:32:00`|`Programming for Beginners`|
 |[Banned on pressing play today](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725842-banned-pressing-play.html)|`2025-11-17 23:12:00`|`Escape from Tarkov`|
