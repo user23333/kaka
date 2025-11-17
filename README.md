@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[battleyent il2cpp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725912-battleyent-il2cpp.html)|`2025-11-18 04:30:00`|`Escape from Tarkov`|
+|[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2025-11-18 04:27:00`|`Other FPS Games`|
 |[Hourglass level exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/658140-hourglass-level-exploits.html)|`2025-11-18 04:24:00`|`Sea of Thieves`|
 |[How to Perm Spoof a SSD NVMe the real way&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667328-perm-spoof-ssd-nvme-real.html)|`2025-11-18 04:20:00`|`Anti-Cheat Bypass`|
 |[Does &#91;removed&#93; for Gmod work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/724788-removed-gmod.html)|`2025-11-18 04:16:00`|`Garry's Mod`|
