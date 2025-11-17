@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need 32 bit 4&#46;1 boneArray for global](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/725826-32-bit-4-1-bonearray-global.html)|`2025-11-17 15:33:00`|`PUBG Mobile`|
 |[stealth driver read memory using spy page](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717569-stealth-driver-read-memory-using-spy-page.html)|`2025-11-17 15:24:00`|`Anti-Cheat Bypass`|
 |[Any Decent alt to Kiddions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725823-decent-alt-kiddions.html)|`2025-11-17 15:23:00`|`Grand Theft Auto V`|
 |[Vigor V2 &#45; Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724863-vigor-v2-internal-cheat.html)|`2025-11-17 14:31:00`|`Other FPS Games`|
