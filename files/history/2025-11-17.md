@@ -14,6 +14,7 @@
 |14|[How do people dump EFT now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725222-people-dump-eft.html)|`2025-11-17 00:57:56`|`escape-from-tarkov`|
 |7|[FOUND A WAY TO GET UNBANNED IN GTA ONLINE&#40;ONLY FOR STEAM AND EPIC IN ENHANCED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725372-found-unbanned-gta-online-steam-epic-enhanced.html)|`2025-11-17 02:49:32`|`grand-theft-auto-v`|
 |18|[BloodStrike Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725524-bloodstrike-internal.html)|`2025-11-17 03:59:43`|`other-fps-games`|
+|4|[IL2CPP dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725668-il2cpp-dumper.html)|`2025-11-17 15:54:24`|`escape-from-tarkov`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
