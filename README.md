@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat for Lux Client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/725832-cheat-lux-client.html)|`2025-11-17 18:28:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[&#91;Source&#93; CR3 Validation &#45; MZ Signature Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/724526-source-cr3-validation-mz-signature-method.html)|`2025-11-17 18:22:00`|`Battlefield 6`|
 |[PAGE&#95;FAULT&#95;IN&#95;NONPAGED&#95;AREA when i tried to map my driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/725831-page_fault_in_nonpaged_area-tried-map-driver.html)|`2025-11-17 18:16:00`|`C and C++`|
 |[External ESP is behind from the game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718170-external-esp-game.html)|`2025-11-17 18:15:00`|`Counter-Strike 2`|
 |[Tarkov vpn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725272-tarkov-vpn.html)|`2025-11-17 18:14:00`|`Escape from Tarkov`|
