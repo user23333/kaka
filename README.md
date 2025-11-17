@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-11-18 02:41:00`|`HELLDIVERS 2`|
+|[Gobject and new sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alliance-of-valiant-arms/717465-gobject-sdk.html)|`2025-11-18 02:41:00`|`Alliance of Valiant Arms`|
+|[Duet Night Abyss Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/723122-duet-night-abyss-reversal-structs-offsets.html)|`2025-11-18 02:36:00`|`Other MMORPG and Strategy`|
+|[How do people dump EFT now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725222-people-dump-eft.html)|`2025-11-18 02:32:00`|`Escape from Tarkov`|
+|[IL2CPP dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725668-il2cpp-dumper.html)|`2025-11-18 02:27:00`|`Escape from Tarkov`|
+|[Same Lobby Targeting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725644-lobby-targeting.html)|`2025-11-18 02:26:00`|`Escape from Tarkov`|
 |[R6 &#45; Script Lua No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/718855-r6-script-lua-recoil.html)|`2025-11-18 02:09:00`|`Rainbow Six Siege`|
 |[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2025-11-18 02:08:00`|`Unity`|
 |[Counterstrafing macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/725207-counterstrafing-macro.html)|`2025-11-18 02:03:00`|`Valorant`|
