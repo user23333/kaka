@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Inject DLL into protected game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724705-inject-dll-protected-game.html)|`2025-11-17 20:56:00`|`Anti-Cheat Bypass`|
+|[Apex Legends Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/725810-apex-legends-radar.html)|`2025-11-17 20:47:00`|`Apex Legends`|
 |[Driverpack &#45; Database of signed drivers to find vulnerable ones](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725685-driverpack-database-signed-drivers-vulnerable-ones.html)|`2025-11-17 20:19:00`|`Anti-Cheat Bypass`|
 |[BF6 Aimbot &#40;TPU Accelerated Raspberry Pi&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722855-bf6-aimbot-tpu-accelerated-raspberry-pi.html)|`2025-11-17 19:55:00`|`Battlefield 6`|
 |[Ricochet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/725356-ricochet.html)|`2025-11-17 19:22:00`|`Call of Duty: Black Ops 6`|
