@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Esp not appearing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/725606-esp-appearing.html)|`2025-11-18 16:17:00`|`Call of Duty: Black Ops 7`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-11-18 16:12:00`|`Other FPS Games`|
 |[Duet Night Abyss Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/724122-duet-night-abyss-internal-cheat.html)|`2025-11-18 15:55:00`|`Other MMORPG and Strategy`|
 |[Undetectable Legit External Cheat &#45; Smokey Sense &#40;AimAssist, ESP, RCS &#43; More&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/725370-undetectable-legit-external-cheat-smokey-sense-aimassist-esp-rcs.html)|`2025-11-18 15:52:00`|`Counter-Strike 2 Releases`|
 |[Chivalry 2 Basic &#46;pak &#45; Parera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720632-chivalry-2-basic-pak-parera.html)|`2025-11-18 15:31:00`|`Other Games`|
