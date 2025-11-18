@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-11-19 03:10:00`|`DayZ SA`|
+|[stealth driver read memory using spy page](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/717569-stealth-driver-read-memory-using-spy-page.html)|`2025-11-19 03:05:00`|`Anti-Cheat Bypass`|
+|[Phasmo Save Editor &#40;All items/Cosmetics/Money/Lv & Prestige Editor/etc&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/708592-phasmo-save-editor-items-cosmetics-money-lv-prestige-editor-etc.html)|`2025-11-19 03:04:00`|`Phasmophobia`|
+|[Tarkov vpn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725272-tarkov-vpn.html)|`2025-11-19 02:58:00`|`Escape from Tarkov`|
 |[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2025-11-19 02:51:00`|`Grand Theft Auto V`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-11-19 02:49:00`|`Marvel Rivals`|
 |[Anti ESP Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/725332-anti-esp-bypass.html)|`2025-11-19 02:44:00`|`Alternative Online Mods`|
