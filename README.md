@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[external "bullet tracers"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725939-external-bullet-tracers.html)|`2025-11-18 10:21:00`|`Counter-Strike 2`|
+|[Post your Menu/GUI Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/68024-post-menu-gui-framework.html)|`2025-11-18 10:08:00`|`C and C++`|
+|[Hero and bone ids?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/725941-hero-bone-ids.html)|`2025-11-18 10:01:00`|`Marvel Rivals`|
+|[Tarkov vpn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725272-tarkov-vpn.html)|`2025-11-18 09:57:00`|`Escape from Tarkov`|
+|[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2025-11-18 09:56:00`|`Grand Theft Auto V`|
 |[&#91;FiveM&#93; Player Name Offset Help / citizen&#45;playernames&#45;five&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/725923-fivem-player-name-offset-help-citizen-playernames-five-dll.html)|`2025-11-18 08:54:00`|`Alternative Online Mods`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-11-18 08:42:00`|`Other Games`|
 |[Any Decent alt to Kiddions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725823-decent-alt-kiddions.html)|`2025-11-18 08:38:00`|`Grand Theft Auto V`|
