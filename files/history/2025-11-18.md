@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DBD GetNameById / FName Decryption &#45; Incorrect Entry Length](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/723784-dbd-getnamebyid-fname-decryption-incorrect-entry-length.html)|`2025-11-18 14:55:00`|`Unreal Engine 4`|
+|[Warframe Luau Injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725610-warframe-luau-injection.html)|`2025-11-18 14:54:00`|`Other FPS Games`|
+|[Geekom spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725795-geekom-spoofing.html)|`2025-11-18 14:49:00`|`Anti-Cheat Bypass`|
+|[How to Fix Your Smbios without buying any perm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/725865-fix-smbios-buying-perm.html)|`2025-11-18 14:46:00`|`Forum General`|
 |[Apex DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716473-apex-dma-source.html)|`2025-11-18 14:37:00`|`Apex Legends`|
 |[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-11-18 14:29:00`|`Grand Theft Auto V`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-11-18 13:42:00`|`Other MMORPG and Strategy`|
