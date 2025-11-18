@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2025-11-19 05:39:00`|`Counter-Strike 2 Releases`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/590414-arc-raiders-structs-offsets.html)|`2025-11-19 05:29:00`|`Other FPS Games`|
+|[how write cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/726046-write-cheats.html)|`2025-11-19 05:15:00`|`Introductions`|
+|[Search Tool for bo7 bot lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/726060-search-tool-bo7-bot-lobby.html)|`2025-11-19 05:12:00`|`Call of Duty: Black Ops 7`|
+|[Deadlock DMA &#40;with source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/723221-deadlock-dma-source.html)|`2025-11-19 05:11:00`|`Deadlock`|
+|[How to find ViewMatrix?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/726059-viewmatrix.html)|`2025-11-19 05:10:00`|`Rainbow Six Siege`|
+|[Seed Triggerbot & Force No&#45;Spread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725013-seed-triggerbot-force-spread.html)|`2025-11-19 05:08:00`|`Counter-Strike 2`|
 |[Bypassing User&#45;Mode anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726054-bypassing-user-mode-anti-cheat.html)|`2025-11-19 04:16:00`|`Anti-Cheat Bypass`|
 |[data ptr swap win 11 24h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683598-data-ptr-swap-win-11-24h2.html)|`2025-11-19 04:14:00`|`Anti-Cheat Bypass`|
 |[Finding sigs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726053-finding-sigs.html)|`2025-11-19 04:13:00`|`Counter-Strike 2`|
