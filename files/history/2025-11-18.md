@@ -24,9 +24,16 @@
 |140|[eft dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51936)|`2025-11-18 00:28:39`|
 |23|[DeltaForceChinese SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51934)|`2025-11-18 00:28:39`|
 |220|[BloodStrike Internal v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51931)|`2025-11-18 00:28:39`|
+|215|[Sleepy's External &#45; 2&#46;19&#46;1&#46;0&#46;144311 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51945)|`2025-11-18 11:35:48`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS Grad Here](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/725942-cs-grad.html)|`2025-11-18 11:22:00`|`Introductions`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-11-18 11:01:00`|`Other FPS Games`|
+|[Agent voice&#45;lines](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725947-agent-voice-lines.html)|`2025-11-18 10:55:00`|`Counter-Strike 2`|
+|[cs2 internal hvh cheat working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725162-cs2-internal-hvh-cheat.html)|`2025-11-18 10:47:00`|`Counter-Strike 2`|
+|[FOUND A WAY TO GET UNBANNED IN GTA ONLINE&#40;ONLY FOR STEAM AND EPIC IN ENHANCED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725372-found-unbanned-gta-online-steam-epic-enhanced.html)|`2025-11-18 10:42:00`|`Grand Theft Auto V`|
+|[Server side development for PS4 games&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playstation/725945-server-development-ps4-games.html)|`2025-11-18 10:28:00`|`PlayStation`|
 |[external "bullet tracers"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725939-external-bullet-tracers.html)|`2025-11-18 10:21:00`|`Counter-Strike 2`|
 |[Post your Menu/GUI Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/68024-post-menu-gui-framework.html)|`2025-11-18 10:08:00`|`C and C++`|
 |[Hero and bone ids?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/725941-hero-bone-ids.html)|`2025-11-18 10:01:00`|`Marvel Rivals`|
