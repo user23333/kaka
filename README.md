@@ -11,6 +11,7 @@
 |12|[battleyent il2cpp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725912-battleyent-il2cpp.html)|`2025-11-19 00:14:56`|`escape-from-tarkov`|
 |11|[FOUND A WAY TO GET UNBANNED IN GTA ONLINE&#40;ONLY FOR STEAM AND EPIC IN ENHANCED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725372-found-unbanned-gta-online-steam-epic-enhanced.html)|`2025-11-19 00:14:56`|`grand-theft-auto-v`|
 |17|[Native Invoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/725080-native-invoker.html)|`2025-11-19 00:14:56`|`alternative-online-mods`|
+|8|[BO7 Bot Lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/725556-bo7-bot-lobby.html)|`2025-11-19 01:32:59`|`call-of-duty-black-ops-7-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SurrounDead DX11 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/722827-surroundead-dx11-internal.html)|`2025-11-19 01:31:00`|`Other Single Player Games`|
+|[CS2 botting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725998-cs2-botting.html)|`2025-11-19 01:26:00`|`Counter-Strike 2`|
+|[xor decryption on warface&#45;pts client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/726025-xor-decryption-warface-pts-client.html)|`2025-11-19 01:16:00`|`Warface`|
 |[Tarkov 1&#46;0 moved to IL2CPP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725536-tarkov-1-0-moved-il2cpp.html)|`2025-11-19 00:51:00`|`Escape from Tarkov`|
 |[Updating BO6 Base to BO7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/720745-updating-bo6-base-bo7.html)|`2025-11-19 00:48:00`|`Call of Duty: Black Ops 7`|
 |[Does a TPM chip work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/724957-tpm-chip.html)|`2025-11-19 00:46:00`|`Call of Duty: Black Ops 7`|
