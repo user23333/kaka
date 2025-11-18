@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypassing User&#45;Mode anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726054-bypassing-user-mode-anti-cheat.html)|`2025-11-19 04:16:00`|`Anti-Cheat Bypass`|
+|[data ptr swap win 11 24h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683598-data-ptr-swap-win-11-24h2.html)|`2025-11-19 04:14:00`|`Anti-Cheat Bypass`|
+|[Finding sigs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726053-finding-sigs.html)|`2025-11-19 04:13:00`|`Counter-Strike 2`|
+|[OnAddEntity hooking help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/726052-onaddentity-hooking-help.html)|`2025-11-19 04:11:00`|`Team Fortress 2`|
+|[external dex for roblox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670469-external-dex-roblox.html)|`2025-11-19 04:09:00`|`Other Games`|
+|[glitching chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724564-glitching-chams.html)|`2025-11-19 04:03:00`|`Counter-Strike 2`|
 |[External ESP is behind from the game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/718170-external-esp-game.html)|`2025-11-19 03:56:00`|`Counter-Strike 2`|
 |[DINGOSQUAD 2025 full source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724655-dingosquad-2025-source.html)|`2025-11-19 03:55:00`|`Counter-Strike 2`|
 |[December 2025 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/725833-december-2025-motm-nominations.html)|`2025-11-19 03:50:00`|`Member of the Month`|
