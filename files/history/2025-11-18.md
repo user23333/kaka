@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[nvidia overlay fps issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/725952-nvidia-overlay-fps-issue.html)|`2025-11-18 13:12:00`|`Forum General`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-11-18 12:59:00`|`Overwatch`|
 |[render loop lags](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725780-render-loop-lags.html)|`2025-11-18 12:55:00`|`Counter-Strike 2`|
 |[IL2CPP memory dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725951-il2cpp-memory-dumper.html)|`2025-11-18 12:34:00`|`Escape from Tarkov`|
