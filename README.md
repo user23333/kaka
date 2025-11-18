@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VEIN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/723560-vein.html)|`2025-11-18 15:17:00`|`Other FPS Games`|
+|[༺ 𝙉𝙊𝙑𝘼 ༻ — ✧ Ultimate Insyde Spoofer ✧](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712892-ultimate-insyde-spoofer.html)|`2025-11-18 15:13:00`|`Valorant`|
 |[Active anti cheat detect's DBVM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715995-active-anti-cheat-detects-dbvm.html)|`2025-11-18 15:12:00`|`Anti-Cheat Bypass`|
 |[DBD GetNameById / FName Decryption &#45; Incorrect Entry Length](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/723784-dbd-getnamebyid-fname-decryption-incorrect-entry-length.html)|`2025-11-18 14:55:00`|`Unreal Engine 4`|
 |[Warframe Luau Injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725610-warframe-luau-injection.html)|`2025-11-18 14:54:00`|`Other FPS Games`|
