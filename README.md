@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BF6 Aimbot &#40;TPU Accelerated Raspberry Pi&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722855-bf6-aimbot-tpu-accelerated-raspberry-pi.html)|`2025-11-18 23:48:00`|`Battlefield 6`|
+|[Does people still make money out of cheats nowdays ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/725836-people-money-cheats-nowdays.html)|`2025-11-18 23:47:00`|`Off Topic`|
+|[Are there any virtual machines that can be used in Valorant?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/726005-virtual-machines-valorant.html)|`2025-11-18 23:32:00`|`Valorant`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2025-11-18 23:27:00`|`Other FPS Games`|
 |[EAC DMA Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725246-eac-dma-detection.html)|`2025-11-18 23:11:00`|`Anti-Cheat Bypass`|
 |[Can I use whow with a VPN?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726001-whow-vpn.html)|`2025-11-18 23:03:00`|`Escape from Tarkov`|
