@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stella Sora Cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722901-stella-sora-cheese.html)|`2025-11-19 09:34:00`|`Other MMORPG and Strategy`|
+|[Hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/726076-hello.html)|`2025-11-19 09:27:00`|`Off Topic`|
+|[Agent voice&#45;lines](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725947-agent-voice-lines.html)|`2025-11-19 09:12:00`|`Counter-Strike 2`|
+|[&#91;Source&#93; CR3 Validation &#45; MZ Signature Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/724526-source-cr3-validation-mz-signature-method.html)|`2025-11-19 09:09:00`|`Battlefield 6`|
 |[Warframe Luau Injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725610-warframe-luau-injection.html)|`2025-11-19 07:41:00`|`Other FPS Games`|
 |[world modulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726072-world-modulation.html)|`2025-11-19 07:31:00`|`Counter-Strike 2`|
 |[How to Fix Your Smbios without buying any perm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/725865-fix-smbios-buying-perm.html)|`2025-11-19 07:14:00`|`Forum General`|
