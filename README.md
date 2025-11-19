@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Will cheat engines be detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/gunz/668435-cheat-engines-detected.html)|`2025-11-20 00:37:00`|`GunZ`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-11-20 00:35:00`|`Rust`|
+|[SWBF2 ESP/Aimbot/Damage Hack – Re&#45;Release & Tutorial &#40;2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/707868-swbf2-esp-aimbot-damage-hack-re-release-tutorial-2025-a.html)|`2025-11-20 00:34:00`|`Star Wars Battlefront 2`|
+|[Update sigs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725171-update-sigs.html)|`2025-11-20 00:31:00`|`Counter-Strike 2`|
 |[getting banned in a new pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/726045-getting-banned-pc.html)|`2025-11-20 00:28:00`|`Valorant`|
 |[Seeking help from ImGui for anti cheating function detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/724990-seeking-help-imgui-anti-cheating-function-detection.html)|`2025-11-20 00:20:00`|`C and C++`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-11-20 00:08:00`|`ARMA 3`|
