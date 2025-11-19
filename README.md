@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Updated ntoskrnl&#46;exe patterns for SMBIOS physical address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718996-updated-ntoskrnl-exe-patterns-smbios-physical-address.html)|`2025-11-20 00:58:00`|`Anti-Cheat Bypass`|
+|[Not getting calls to do missions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724937-getting-calls-missions.html)|`2025-11-20 00:56:00`|`Grand Theft Auto V`|
+|[Laggy Overlay When Tabbed in Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/681601-laggy-overlay-tabbed-game.html)|`2025-11-20 00:52:00`|`Apex Legends`|
 |[Will cheat engines be detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/gunz/668435-cheat-engines-detected.html)|`2025-11-20 00:37:00`|`GunZ`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-11-20 00:35:00`|`Rust`|
 |[SWBF2 ESP/Aimbot/Damage Hack – Re&#45;Release & Tutorial &#40;2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/707868-swbf2-esp-aimbot-damage-hack-re-release-tutorial-2025-a.html)|`2025-11-20 00:34:00`|`Star Wars Battlefront 2`|
