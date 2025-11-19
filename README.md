@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Luna &#124; Free CS2 Cheat &#124; INTERNAL &#124; ESP, Aim, BHop, &#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/681945-luna-free-cs2-cheat-internal-esp-aim-bhop.html)|`2025-11-19 23:25:00`|`Counter-Strike 2 Releases`|
+|[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2025-11-19 23:14:00`|`Apex Legends`|
+|[Undetectable among us Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/637492-undetectable-cheat.html)|`2025-11-19 23:09:00`|`Among Us`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-11-19 23:08:00`|`Counter-Strike 2 Releases`|
 |[Nothing for F125?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705920-f125.html)|`2025-11-19 23:07:00`|`Other Games`|
 |[Unlimited evade &#43; Auto&#45;parry](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/633394-unlimited-evade-auto-parry.html)|`2025-11-19 22:57:00`|`Star Wars Battlefront 2`|
