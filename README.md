@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PsCreateSystemThread Hide?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724877-pscreatesystemthread-hide.html)|`2025-11-19 20:48:00`|`Anti-Cheat Bypass`|
+|[Hooking RivaTuner overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725467-hooking-rivatuner-overlay.html)|`2025-11-19 20:34:00`|`Anti-Cheat Bypass`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-11-19 20:17:00`|`Call of Duty: Black Ops 6`|
 |[some question about TFT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/726110-question-tft.html)|`2025-11-19 20:12:00`|`League of Legends`|
 |[Anti&#45;cheat bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/726109-anti-cheat-bypass.html)|`2025-11-19 20:09:00`|`Other Games`|
