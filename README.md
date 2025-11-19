@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Laggy Overlay When Tabbed in Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/681601-laggy-overlay-tabbed-game.html)|`2025-11-19 11:44:00`|`Apex Legends`|
 |[external menu internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726083-external-menu-internal.html)|`2025-11-19 10:59:00`|`Counter-Strike 2`|
 |[OVERLAY IN EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/710272-overlay-eac.html)|`2025-11-19 10:48:00`|`Anti-Cheat Bypass`|
 |[Spectator List Get Not Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726084-spectator-list.html)|`2025-11-19 10:39:00`|`Counter-Strike 2`|
