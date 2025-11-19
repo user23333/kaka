@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[anyone know where i can find a free dead by daylight hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/726169-free-dead-daylight-hack.html)|`2025-11-20 01:29:00`|`Other FPS Games`|
+|[Dead by Daylight &#45; ESP And Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625890-dead-daylight-esp.html)|`2025-11-20 01:20:00`|`Other FPS Games`|
 |[BO7 Bot Lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/725556-bo7-bot-lobby.html)|`2025-11-20 01:15:00`|`Call of Duty: Black Ops 7`|
 |[Internal Chams invalid material](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726163-internal-chams-invalid-material.html)|`2025-11-20 01:13:00`|`Counter-Strike 2`|
 |[Tarkov IL2CPP decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726047-tarkov-il2cpp-decryption.html)|`2025-11-20 01:09:00`|`Escape from Tarkov`|
