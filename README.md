@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Read c0000022 STATUS&#95;ACCESS&#95;DENIED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/726094-read-c0000022-status_access_denied.html)|`2025-11-19 16:17:00`|`Apex Legends`|
+|[Update UNPACKER 4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/726093-update-unpacker-4-1-a.html)|`2025-11-19 16:17:00`|`PUBG Mobile`|
+|[C&#43;&#43; Single Header&#45;Only library for Obfuscation/VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/718100-single-header-library-obfuscation-vm.html)|`2025-11-19 16:03:00`|`C and C++`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-11-19 15:40:00`|`Apex Legends`|
 |[L4D2: How does glow work in this game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/726092-l4d2-glow-game.html)|`2025-11-19 15:32:00`|`Other FPS Games`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-11-19 15:06:00`|`Rust`|
