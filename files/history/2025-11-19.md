@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Force Start Lobby Stand&#45;Alone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/726037-force-start-lobby-stand.html)|`2025-11-19 22:33:00`|`Star Wars Battlefront 2`|
+|[Menu My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/713007-menu-hero-ultra-rumble.html)|`2025-11-19 22:32:00`|`Other Games`|
+|[Force Start Lobby standalone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/726119-force-start-lobby-standalone.html)|`2025-11-19 22:26:00`|`Star Wars Battlefront 2`|
 |[Battlefield 6 Logitech Anti&#45;Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/723124-battlefield-6-logitech-anti-recoil.html)|`2025-11-19 21:33:00`|`Battlefield 6`|
 |[BloodStrike Usermode Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722475-bloodstrike-usermode-source.html)|`2025-11-19 21:30:00`|`Other FPS Games`|
 |[Looking for beginner&#45;friendly AC to analyze &#45; VAC alternatives?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725684-looking-beginner-friendly-ac-analyze-vac-alternatives.html)|`2025-11-19 21:24:00`|`Anti-Cheat Bypass`|
