@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Native Invoker Externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/724825-native-invoker-externally.html)|`2025-11-21 03:03:00`|`Alternative Online Mods`|
+|[Autowall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726328-autowall.html)|`2025-11-21 03:00:00`|`Counter-Strike 2`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-11-21 02:59:00`|`Counter-Strike 2`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-11-21 02:59:00`|`Rust`|
 |[reversing vgc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722501-reversing-vgc.html)|`2025-11-21 02:56:00`|`Anti-Cheat Bypass`|
 |[Hello Neighbor 1&#43;2 DX11 Internals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/726245-hello-neighbor-1-2-dx11-internals.html)|`2025-11-21 02:55:00`|`Other Single Player Games`|
 |[AimSense External Cheat &#91;ESP, Aimbot, Legit Bot&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726327-aimsense-external-cheat-esp-aimbot-legit-bot.html)|`2025-11-21 02:54:00`|`Counter-Strike 2 Releases`|
