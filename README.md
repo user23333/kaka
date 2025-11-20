@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help coding is player visible &#40;Externally&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/726241-help-coding-player-visible-externally.html)|`2025-11-20 12:33:00`|`Alternative Online Mods`|
+|[Botlobby Tool FREE &#91;BO6/MW3/WARZONE&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/696676-botlobby-tool-free-bo6-mw3-warzone.html)|`2025-11-20 12:32:00`|`Call of Duty: Black Ops 6`|
 |[external antiaim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684924-external-antiaim.html)|`2025-11-20 11:21:00`|`Counter-Strike 2`|
 |[eblenix csgo src self&#45;leak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/718112-eblenix-csgo-src-self-leak.html)|`2025-11-20 11:18:00`|`Counterstrike Global Offensive`|
 |[csgo ChatPrintf color conversion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/726234-csgo-chatprintf-color-conversion.html)|`2025-11-20 11:10:00`|`Counterstrike Global Offensive`|
