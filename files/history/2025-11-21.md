@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-11-21 03:18:00`|`Playerunknown's Battlegrounds`|
+|[HvH server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/722633-hvh-server.html)|`2025-11-21 03:17:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Native Invoker Externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/724825-native-invoker-externally.html)|`2025-11-21 03:03:00`|`Alternative Online Mods`|
 |[Autowall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726328-autowall.html)|`2025-11-21 03:00:00`|`Counter-Strike 2`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-11-21 02:59:00`|`Counter-Strike 2`|
