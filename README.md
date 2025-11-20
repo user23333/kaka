@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-11-21 04:32:00`|`Farlight 84`|
+|[Sleepy's External &#45; Outline, Skeleton, and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external-outline-skeleton-aimbot.html)|`2025-11-21 04:27:00`|`Overwatch`|
 |[Remove process protection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/726097-remove-process-protection.html)|`2025-11-21 04:19:00`|`General Programming and Reversing`|
 |[External anti cheat bypass for an old game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726337-external-anti-cheat-bypass-game.html)|`2025-11-21 04:13:00`|`Anti-Cheat Bypass`|
 |[Help coding is player visible &#40;Externally&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/726241-help-coding-player-visible-externally.html)|`2025-11-21 04:06:00`|`Alternative Online Mods`|
