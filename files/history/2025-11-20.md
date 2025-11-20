@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Outfit Editor   and  BBOB&#40;browser extension that generates Outfits Code for Bincohax&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/624819-outfit-editor-bbob-browser-extension-generates-outfits-code-bincohax.html)|`2025-11-20 21:52:00`|`Grand Theft Auto V`|
+|[Access kernel driver from user&#45;land with no exposed &#92;device&#92;&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726279-access-kernel-driver-user-land-exposed-device.html)|`2025-11-20 21:51:00`|`Anti-Cheat Bypass`|
 |[Age Of Empire 4 Scar Script Injector with Online &#43; Offline Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/720438-age-empire-4-scar-script-injector-online-offline-features.html)|`2025-11-20 21:46:00`|`Age of Empires`|
 |[Zombie](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/726276-zombie.html)|`2025-11-20 21:42:00`|`Call of Duty: Black Ops 6`|
 |[&#91;Release﻿ Hack L4D2 Reborn v3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/726272-release-hack-l4d2-reborn-v3.html)|`2025-11-20 21:24:00`|`Introductions`|
