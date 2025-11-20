@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[reversing vgc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722501-reversing-vgc.html)|`2025-11-21 02:56:00`|`Anti-Cheat Bypass`|
+|[Hello Neighbor 1&#43;2 DX11 Internals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/726245-hello-neighbor-1-2-dx11-internals.html)|`2025-11-21 02:55:00`|`Other Single Player Games`|
+|[AimSense External Cheat &#91;ESP, Aimbot, Legit Bot&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726327-aimsense-external-cheat-esp-aimbot-legit-bot.html)|`2025-11-21 02:54:00`|`Counter-Strike 2 Releases`|
+|[Implementing Virtual Read from MmMapIoSpace &#40;Signed Driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726323-implementing-virtual-read-mmmapiospace-signed-driver.html)|`2025-11-21 02:50:00`|`Anti-Cheat Bypass`|
 |[Revolution Idle Anti Cheat Bypass/Freeshop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/711124-revolution-idle-anti-cheat-bypass-freeshop.html)|`2025-11-21 02:48:00`|`Other Games`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-11-21 02:43:00`|`DayZ SA`|
 |[Bluefire 2&#46;0 all win11/10 &#43; controller support &#43; vendors dump 8&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/721987-bluefire-2-0-win11-10-controller-support-vendors-dump-8-1-a.html)|`2025-11-21 02:40:00`|`Paladins`|
