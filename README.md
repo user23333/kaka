@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Smoke color will back](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726247-smoke-color.html)|`2025-11-20 14:45:00`|`Counter-Strike 2`|
+|[Dune Awakening Repair Exploit After Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707561-dune-awakening-repair-exploit-patch.html)|`2025-11-20 14:45:00`|`Other FPS Games`|
+|[Hello Neighbor 1&#43;2 DX11 Internals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/726245-hello-neighbor-1-2-dx11-internals.html)|`2025-11-20 14:33:00`|`Other Single Player Games`|
 |[Neo strafe cfg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/726244-neo-strafe-cfg.html)|`2025-11-20 14:14:00`|`Apex Legends`|
 |[BloodStrike Aimbot&#43;Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/726122-bloodstrike-aimbot-esp.html)|`2025-11-20 14:03:00`|`Other Games`|
 |[FOUND A WAY TO GET UNBANNED IN GTA ONLINE&#40;ONLY FOR STEAM AND EPIC IN ENHANCED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725372-found-unbanned-gta-online-steam-epic-enhanced.html)|`2025-11-20 13:41:00`|`Grand Theft Auto V`|
