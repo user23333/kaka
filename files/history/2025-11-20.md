@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726220-external-chams.html)|`2025-11-20 08:37:00`|`Escape from Tarkov`|
 |[source for cs2 cheat AIM ESP TRIGGER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726211-source-cs2-cheat-aim-esp-trigger.html)|`2025-11-20 07:49:00`|`Counter-Strike 2`|
 |[MindShare &#45; Arbor infinite trial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/624762-mindshare-arbor-infinite-trial.html)|`2025-11-20 07:26:00`|`Anti-Cheat Bypass`|
 |[Discord Quests Faker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/web-and-scripting/720776-discord-quests-faker.html)|`2025-11-20 07:44:00`|`Web and Scripting`|
