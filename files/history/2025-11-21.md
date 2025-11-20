@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to Perm Spoof a SSD NVMe the real way&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/667328-perm-spoof-ssd-nvme-real.html)|`2025-11-21 05:34:00`|`Anti-Cheat Bypass`|
+|[FOUND A WAY TO GET UNBANNED IN GTA ONLINE&#40;ONLY FOR STEAM AND EPIC IN ENHANCED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725372-found-unbanned-gta-online-steam-epic-enhanced.html)|`2025-11-21 05:29:00`|`Grand Theft Auto V`|
+|[Project Zomboid Cheat &#45; Valkur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/645408-project-zomboid-cheat-valkur.html)|`2025-11-21 05:09:00`|`Other MMORPG and Strategy`|
 |[Read c0000022 STATUS&#95;ACCESS&#95;DENIED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/726094-read-c0000022-status_access_denied.html)|`2025-11-21 05:20:00`|`Apex Legends`|
 |[Controller and mouse aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/726340-controller-mouse-aim.html)|`2025-11-21 04:57:00`|`Call of Duty: Black Ops 6`|
 |[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-11-21 04:32:00`|`Farlight 84`|
