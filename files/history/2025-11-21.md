@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 GameEntityList](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725503-cs2-gameentitylist.html)|`2025-11-21 01:53:00`|`Counter-Strike 2`|
 |[Using controller settings and mouse move](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/726321-using-controller-settings-mouse-move.html)|`2025-11-21 01:46:00`|`Call of Duty: Black Ops 7`|
 |[How to page in UM memory from kernel? Prototype PTEs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726320-page-um-memory-kernel-prototype-ptes.html)|`2025-11-21 01:44:00`|`Anti-Cheat Bypass`|
 |[TPM AND SB BYPASS &#43; SPOOFER &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/623808-tpm-sb-bypass-spoofer.html)|`2025-11-21 01:33:00`|`Valorant`|
