@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726289-bans.html)|`2025-11-20 23:10:00`|`Escape from Tarkov`|
+|[black background overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/703070-black-background-overlay.html)|`2025-11-20 23:09:00`|`General Programming and Reversing`|
+|[battleyent PVE Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726288-battleyent-pve-patch.html)|`2025-11-20 23:05:00`|`Escape from Tarkov`|
 |[Video thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/724423-video-thread.html)|`2025-11-20 22:06:00`|`Counter-Strike 2`|
 |[Outfit Editor   and  BBOB&#40;browser extension that generates Outfits Code for Bincohax&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/624819-outfit-editor-bbob-browser-extension-generates-outfits-code-bincohax.html)|`2025-11-20 21:52:00`|`Grand Theft Auto V`|
 |[Access kernel driver from user&#45;land with no exposed &#92;device&#92;&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726279-access-kernel-driver-user-land-exposed-device.html)|`2025-11-20 21:51:00`|`Anti-Cheat Bypass`|
