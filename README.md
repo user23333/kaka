@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[kWalk: Stealth Auto&#45;Resolved R/W via Manual PT Walk & MDL Remap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726345-kwalk-stealth-auto-resolved-via-manual-pt-walk-mdl-remap.html)|`2025-11-21 06:16:00`|`Anti-Cheat Bypass`|
+|[Menu My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/713007-menu-hero-ultra-rumble.html)|`2025-11-21 06:15:00`|`Other Games`|
+|[HWID SPOOFING BYPASS &#40;FORTNITE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726344-hwid-spoofing-bypass-fortnite.html)|`2025-11-21 06:09:00`|`Anti-Cheat Bypass`|
 |[IL2CPP memory dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725951-il2cpp-memory-dumper.html)|`2025-11-21 05:59:00`|`Escape from Tarkov`|
 |[bypass emulator offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/726343-bypass-emulator-offsets.html)|`2025-11-21 05:48:00`|`PUBG Mobile`|
 |[Fix Thirdperson](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725792-fix-thirdperson.html)|`2025-11-21 05:45:00`|`Counter-Strike 2`|
