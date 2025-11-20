@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[external antiaim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/684924-external-antiaim.html)|`2025-11-20 11:21:00`|`Counter-Strike 2`|
+|[eblenix csgo src self&#45;leak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/718112-eblenix-csgo-src-self-leak.html)|`2025-11-20 11:18:00`|`Counterstrike Global Offensive`|
+|[csgo ChatPrintf color conversion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/726234-csgo-chatprintf-color-conversion.html)|`2025-11-20 11:10:00`|`Counterstrike Global Offensive`|
+|[TPM / HVCI / SB Popup Bypass by freezing Dnscache](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/702867-tpm-hvci-sb-popup-bypass-freezing-dnscache.html)|`2025-11-20 11:10:00`|`Valorant`|
+|[ESP External/Driver &#45; HunterVoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/712154-esp-external-driver-huntervoker.html)|`2025-11-20 11:07:00`|`Counter-Strike 2`|
+|[SastashaFied iw4x SP ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/726232-sastashafied-iw4x-sp-esp.html)|`2025-11-20 10:58:00`|`Call of Duty 6: Modern Warfare 2`|
 |[Bypassing User&#45;Mode anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726054-bypassing-user-mode-anti-cheat.html)|`2025-11-20 09:56:00`|`Anti-Cheat Bypass`|
 |[BloodStrike Usermode Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722475-bloodstrike-usermode-source.html)|`2025-11-20 09:25:00`|`Other FPS Games`|
 |[Apex DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716473-apex-dma-source.html)|`2025-11-20 09:20:00`|`Apex Legends`|
