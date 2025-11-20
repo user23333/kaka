@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[uc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/726290-uc.html)|`2025-11-21 07:08:00`|`Off Topic`|
+|[Anyone find a way to edit player stats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/726179-edit-player-stats.html)|`2025-11-21 07:07:00`|`Battlefield 6`|
 |[Warhammer Darktide Lua Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725212-warhammer-darktide-lua-aimbot.html)|`2025-11-21 06:51:00`|`Other FPS Games`|
 |[ESP & Minimap etc&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-bad-company-2-a/725676-esp-minimap-etc.html)|`2025-11-21 06:48:00`|`Battlefield Bad Company 2`|
 |[TPM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/649260-tpm-spoofer.html)|`2025-11-21 06:41:00`|`Valorant`|
