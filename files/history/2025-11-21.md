@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Remove process protection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/726097-remove-process-protection.html)|`2025-11-21 04:19:00`|`General Programming and Reversing`|
+|[External anti cheat bypass for an old game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726337-external-anti-cheat-bypass-game.html)|`2025-11-21 04:13:00`|`Anti-Cheat Bypass`|
+|[Help coding is player visible &#40;Externally&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/726241-help-coding-player-visible-externally.html)|`2025-11-21 04:06:00`|`Alternative Online Mods`|
+|[Botlobby Tool FREE &#91;BO6/MW3/WARZONE&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/696676-botlobby-tool-free-bo6-mw3-warzone.html)|`2025-11-21 04:05:00`|`Call of Duty: Black Ops 6`|
+|[Fallout 76 moded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725719-fallout-76-moded.html)|`2025-11-21 04:02:00`|`Other FPS Games`|
+|[No Man's Sky Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/725681-mans-sky-internal.html)|`2025-11-21 04:01:00`|`Other Games`|
+|[How to create a secure overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726335-create-secure-overlay.html)|`2025-11-21 03:59:00`|`Anti-Cheat Bypass`|
 |[Anti Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/726243-anti-cheat.html)|`2025-11-21 03:42:00`|`PUBG Mobile`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-11-21 03:18:00`|`Playerunknown's Battlegrounds`|
 |[HvH server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/722633-hvh-server.html)|`2025-11-21 03:17:00`|`CounterStrike 1.5, 1.6 and Mods`|
