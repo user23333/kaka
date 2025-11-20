@@ -24,9 +24,14 @@
 |586|[Sleepy's External &#45; 2&#46;19&#46;1&#46;0&#46;144311 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51945)|`2025-11-21 00:27:13`|
 |20|[No Man's Sky Internal v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51944)|`2025-11-21 00:27:13`|
 |51|[EFT IL2CPP SDK Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51942)|`2025-11-21 00:27:13`|
+|1|[AntiCheat&#95;Dump&#46;cs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51975)|`2025-11-21 01:30:58`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Certs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726271-certs.html)|`2025-11-21 01:27:00`|`Anti-Cheat Bypass`|
+|[Codestage AntiCheat Dumps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/726175-codestage-anticheat-dumps.html)|`2025-11-21 01:25:00`|`Unity`|
+|[Current State of Kernel Hacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726041-current-kernel-hacking.html)|`2025-11-21 01:21:00`|`Anti-Cheat Bypass`|
+|[GM Menu &#124; Where Winds Meet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/725991-gm-menu-winds-meet.html)|`2025-11-21 01:17:00`|`Other MMORPG and Strategy`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2025-11-21 01:08:00`|`Other FPS Games`|
 |[༺ 𝙉𝙊𝙑𝘼 ༻ — ✧ Ultimate Insyde Spoofer ✧](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712892-ultimate-insyde-spoofer.html)|`2025-11-21 01:04:00`|`Valorant`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-11-21 00:54:00`|`Escape from Tarkov`|
