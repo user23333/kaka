@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[overwatch have hwid ban ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/725255-overwatch-hwid-ban.html)|`2025-11-22 06:47:00`|`Overwatch`|
+|[VGK Update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/726395-vgk-update.html)|`2025-11-22 06:45:00`|`Valorant`|
+|[Dumping a VMProtected Anti Cheat Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/726454-dumping-vmprotected-anti-cheat-driver.html)|`2025-11-22 06:44:00`|`General Programming and Reversing`|
 |[Gorebox Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716525-gorebox-internal-cheat.html)|`2025-11-22 06:40:00`|`Other FPS Games`|
 |[Hello &#45; im a noob](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/726419-hello-im-noob.html)|`2025-11-22 06:37:00`|`Introductions`|
 |[&#91;Article&#93; TPM Pitfalls in Anti&#45;Cheat Systems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726453-article-tpm-pitfalls-anti-cheat-systems.html)|`2025-11-22 06:37:00`|`Anti-Cheat Bypass`|
