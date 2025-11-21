@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;QUESTION&#93; CABAL RED BYPASS AGE VERIFICATION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/726439-question-cabal-red-bypass-age-verification.html)|`2025-11-22 04:40:00`|`Other Games`|
 |[IL2CPP memory dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725951-il2cpp-memory-dumper.html)|`2025-11-22 04:31:00`|`Escape from Tarkov`|
 |[Are there any virtual machines that can be used in Valorant?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/726005-virtual-machines-valorant.html)|`2025-11-22 04:27:00`|`Valorant`|
 |[second pc banned??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/726348-pc-banned.html)|`2025-11-22 04:22:00`|`Valorant`|
