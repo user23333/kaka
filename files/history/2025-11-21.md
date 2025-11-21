@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sentinel &#45; CLI Driver Analysis Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/725470-sentinel-cli-driver-analysis-tool.html)|`2025-11-21 19:15:00`|`C and C++`|
+|[screenshot ac bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/726387-screenshot-ac-bypass.html)|`2025-11-21 19:08:00`|`Alternative Online Mods`|
+|[BVH VisCheck](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725143-bvh-vischeck.html)|`2025-11-21 19:03:00`|`Counter-Strike 2`|
 |[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-11-21 18:21:00`|`PUBG Releases`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-11-21 18:31:00`|`Other FPS Games`|
 |[Help me with the prediction please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721311-help-prediction-please.html)|`2025-11-21 18:26:00`|`Counter-Strike 2`|
