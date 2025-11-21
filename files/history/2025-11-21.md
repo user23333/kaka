@@ -11,6 +11,7 @@
 |14|[FOUND A WAY TO GET UNBANNED IN GTA ONLINE&#40;ONLY FOR STEAM AND EPIC IN ENHANCED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725372-found-unbanned-gta-online-steam-epic-enhanced.html)|`2025-11-21 00:27:13`|`grand-theft-auto-v`|
 |10|[BO7 Bot Lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/725556-bo7-bot-lobby.html)|`2025-11-21 00:27:13`|`call-of-duty-black-ops-7-a`|
 |5|[tarkov 1&#46;0 inf money video](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725925-tarkov-1-0-inf-money-video.html)|`2025-11-21 00:27:13`|`escape-from-tarkov`|
+|23|[battleyent PVE Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726288-battleyent-pve-patch.html)|`2025-11-21 10:47:51`|`escape-from-tarkov`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter Strike Source v93 Legit Cheat &#40;Niefor&#46;ink&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/724707-counter-strike-source-v93-legit-cheat-niefor-ink.html)|`2025-11-21 10:36:00`|`CounterStrike Source`|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-11-21 10:34:00`|`Other FPS Games`|
+|[Started hitting gym a month ago](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/726039-started-hitting-gym-month-ago.html)|`2025-11-21 10:33:00`|`Off Topic`|
+|[game of thrones kingsroad hack & offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701827-game-thrones-kingsroad-hack-offsets.html)|`2025-11-21 10:31:00`|`Other MMORPG and Strategy`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-11-21 10:18:00`|`Other FPS Games`|
+|[BloodStrike Aimbot&#43;Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/726122-bloodstrike-aimbot-esp.html)|`2025-11-21 10:02:00`|`Other Games`|
 |[December 2025 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/725833-december-2025-motm-nominations.html)|`2025-11-21 09:06:00`|`Member of the Month`|
 |[Brown dust 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726108-brown-dust-2-a.html)|`2025-11-21 08:32:00`|`Other MMORPG and Strategy`|
 |[eminence in shadow garden reguest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/723856-eminence-shadow-garden-reguest.html)|`2025-11-21 08:32:00`|`Other MMORPG and Strategy`|
