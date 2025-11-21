@@ -27,6 +27,7 @@
 |20|[No Man's Sky Internal v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51944)|`2025-11-21 00:27:13`|
 |51|[EFT IL2CPP SDK Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51942)|`2025-11-21 00:27:13`|
 |1|[AntiCheat&#95;Dump&#46;cs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51975)|`2025-11-21 01:30:58`|
+|1|[Sleepy's External &#45; 2&#46;19&#46;1&#46;0&#46;144311 3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51994)|`2025-11-21 18:53:35`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
