@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Memoriam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/563890-memoriam.html)|`2025-11-21 21:28:00`|`Garry's Mod`|
+|[How to code simple cheat for Gmod?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/726336-code-simple-cheat-gmod.html)|`2025-11-21 21:26:00`|`Garry's Mod`|
+|[MY FIRST MARVEL RIVALS EXTERNAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/723540-marvel-rivals-external.html)|`2025-11-21 21:20:00`|`Marvel Rivals`|
 |[How do I get myself unbanned after HWID ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/724550-unbanned-hwid-ban.html)|`2025-11-21 21:07:00`|`Apex Legends`|
 |[GTA V New Character Setup &#91;Help Needed/Advice Welcome&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724450-gta-character-setup-help-advice-welcome.html)|`2025-11-21 20:55:00`|`Grand Theft Auto V`|
 |[The changes of the camera after the lens is turned on??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726263-changes-camera-lens.html)|`2025-11-21 20:42:00`|`Escape from Tarkov`|
