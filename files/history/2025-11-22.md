@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help coding is player visible &#40;Externally&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/726241-help-coding-player-visible-externally.html)|`2025-11-22 00:47:00`|`Alternative Online Mods`|
+|[Internal Chams invalid material](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726163-internal-chams-invalid-material.html)|`2025-11-22 00:40:00`|`Counter-Strike 2`|
+|[ESP & Minimap etc&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-bad-company-2-a/725676-esp-minimap-etc.html)|`2025-11-22 00:40:00`|`Battlefield Bad Company 2`|
+|[pauselock v2 release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/726182-pauselock-v2-release.html)|`2025-11-22 00:39:00`|`Deadlock`|
+|[Native Invoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/725080-native-invoker.html)|`2025-11-22 00:36:00`|`Alternative Online Mods`|
 |[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-11-22 00:34:00`|`Other FPS Games`|
 |[&#40;Undetectable&#41; Overwatch 2 &#45; ColorBot Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/724800-undetectable-overwatch-2-colorbot-release.html)|`2025-11-22 00:34:00`|`Overwatch`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-11-22 00:29:00`|`Valorant`|
