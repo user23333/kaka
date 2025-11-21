@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CN Valoranter&noobcheater's SOS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/726415-cn-valoranter-noobcheaters-sos.html)|`2025-11-22 04:54:00`|`Valorant`|
+|[Overcoming the "Client Side Ban"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/726441-overcoming-client-ban.html)|`2025-11-22 04:53:00`|`PUBG Mobile`|
 |[&#91;QUESTION&#93; CABAL RED BYPASS AGE VERIFICATION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/726439-question-cabal-red-bypass-age-verification.html)|`2025-11-22 04:40:00`|`Other Games`|
 |[IL2CPP memory dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725951-il2cpp-memory-dumper.html)|`2025-11-22 04:31:00`|`Escape from Tarkov`|
 |[Are there any virtual machines that can be used in Valorant?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/726005-virtual-machines-valorant.html)|`2025-11-22 04:27:00`|`Valorant`|
