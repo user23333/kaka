@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Firts Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/726305-firts-cheat.html)|`2025-11-21 22:46:00`|`Off Topic`|
+|[RAW INPUT win10 vs win11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/726407-raw-input-win10-vs-win11.html)|`2025-11-21 22:39:00`|`PC Software`|
 |[Unable To Bypass Web&#45;based Flappy Bird Anti&#45;Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726406-unable-bypass-web-based-flappy-bird-anti-cheat.html)|`2025-11-21 22:36:00`|`Anti-Cheat Bypass`|
 |[Rust NoRecoil Python/Arduino Leonardo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/713495-rust-norecoil-python-arduino-leonardo.html)|`2025-11-21 22:13:00`|`Rust`|
 |[Internal Chams invalid material](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726163-internal-chams-invalid-material.html)|`2025-11-21 22:05:00`|`Counter-Strike 2`|
