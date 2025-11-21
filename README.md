@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;LINUX&#93; External Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/696976-linux-external-multihack.html)|`2025-11-21 12:07:00`|`Counter-Strike 2 Releases`|
+|[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-11-21 12:07:00`|`Grand Theft Auto V`|
 |[pauselock v2 release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/726182-pauselock-v2-release.html)|`2025-11-21 11:52:00`|`Deadlock`|
 |[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-11-21 11:23:00`|`Grand Theft Auto V`|
 |[&#40;Undetectable&#41; Overwatch 2 &#45; ColorBot Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/724800-undetectable-overwatch-2-colorbot-release.html)|`2025-11-21 11:22:00`|`Overwatch`|
