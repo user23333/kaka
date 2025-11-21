@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[God exists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/697595-god-exists.html)|`2025-11-22 05:09:00`|`Off Topic`|
+|[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2025-11-22 05:04:00`|`Other FPS Games`|
+|[Crab Champions Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/725797-crab-champions-internal.html)|`2025-11-22 04:59:00`|`Other Games`|
 |[CN Valoranter&noobcheater's SOS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/726415-cn-valoranter-noobcheaters-sos.html)|`2025-11-22 04:54:00`|`Valorant`|
 |[Overcoming the "Client Side Ban"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/726441-overcoming-client-ban.html)|`2025-11-22 04:53:00`|`PUBG Mobile`|
 |[&#91;QUESTION&#93; CABAL RED BYPASS AGE VERIFICATION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/726439-question-cabal-red-bypass-age-verification.html)|`2025-11-22 04:40:00`|`Other Games`|
