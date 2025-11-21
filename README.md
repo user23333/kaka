@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Duet Night Abyss Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/723122-duet-night-abyss-reversal-structs-offsets.html)|`2025-11-21 23:42:00`|`Other MMORPG and Strategy`|
+|[hwid ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/725696-hwid-ban.html)|`2025-11-21 23:39:00`|`Valorant`|
 |[need bone ids for 4&#46;1 32bit external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724750-bone-ids-4-1-32bit-external.html)|`2025-11-21 23:35:00`|`PUBG Mobile`|
 |[GTA Online: A Safehouse in the Hills Coming Soon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/726411-gta-online-safehouse-hills-coming-soon.html)|`2025-11-21 23:24:00`|`Grand Theft Auto V`|
 |[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-11-21 23:22:00`|`Other FPS Games`|
