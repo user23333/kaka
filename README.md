@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege X Recoil Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/723950-rainbow-six-siege-recoil-macro.html)|`2025-11-21 13:39:00`|`Rainbow Six Siege`|
+|[Fivem Auto Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/726365-fivem-auto-ban.html)|`2025-11-21 13:35:00`|`Alternative Online Mods`|
+|[BO7 BAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/725496-bo7-ban.html)|`2025-11-21 13:35:00`|`Call of Duty: Black Ops 7`|
+|[Black ops 7 Bot lobby perm ban discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/726332-black-ops-7-bot-lobby-perm-ban-discussion.html)|`2025-11-21 13:33:00`|`Call of Duty: Black Ops 7`|
 |[BloodStrike Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725524-bloodstrike-internal.html)|`2025-11-21 13:29:00`|`Other FPS Games`|
 |[dma idea?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726364-dma-idea.html)|`2025-11-21 13:25:00`|`Anti-Cheat Bypass`|
 |[Neutralizing KDStinker: IoCreateDevice Hook Detection POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726363-neutralizing-kdstinker-iocreatedevice-hook-detection-poc.html)|`2025-11-21 12:42:00`|`Anti-Cheat Bypass`|
