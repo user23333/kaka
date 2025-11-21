@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[December 2025 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/725833-december-2025-motm-nominations.html)|`2025-11-21 09:06:00`|`Member of the Month`|
+|[Brown dust 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726108-brown-dust-2-a.html)|`2025-11-21 08:32:00`|`Other MMORPG and Strategy`|
+|[eminence in shadow garden reguest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/723856-eminence-shadow-garden-reguest.html)|`2025-11-21 08:32:00`|`Other MMORPG and Strategy`|
+|[Anti&#45;Cheat&#45;Expert Reverse engineering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725869-anti-cheat-expert-reverse-engineering.html)|`2025-11-21 08:31:00`|`Anti-Cheat Bypass`|
+|[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2025-11-21 08:24:00`|`HELLDIVERS 2`|
 |[second pc banned??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/726348-pc-banned.html)|`2025-11-21 07:37:00`|`Valorant`|
 |[uc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/726290-uc.html)|`2025-11-21 07:08:00`|`Off Topic`|
 |[Anyone find a way to edit player stats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/726179-edit-player-stats.html)|`2025-11-21 07:07:00`|`Battlefield 6`|
