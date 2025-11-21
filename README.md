@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2025-11-21 19:43:00`|`Other MMORPG and Strategy`|
 |[Update UNPACKER 4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/726093-update-unpacker-4-1-a.html)|`2025-11-21 19:39:00`|`PUBG Mobile`|
 |[Sentinel &#45; CLI Driver Analysis Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/725470-sentinel-cli-driver-analysis-tool.html)|`2025-11-21 19:15:00`|`C and C++`|
 |[screenshot ac bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/726387-screenshot-ac-bypass.html)|`2025-11-21 19:08:00`|`Alternative Online Mods`|
