@@ -24,9 +24,20 @@
 |20|[ground branch simple external v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51951)|`2025-11-22 00:13:29`|
 |24|[Crab Champions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51950)|`2025-11-22 00:13:29`|
 |12|[DarkHoursGameUpdate62](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51949)|`2025-11-22 00:13:29`|
+|1|[Snowbreak 0&#46;0&#46;3&#95;F](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52004)|`2025-11-22 06:31:13`|
+|1|[peak&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51974)|`2025-11-22 06:31:13`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to create a secure overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726335-create-secure-overlay.html)|`2025-11-22 06:30:00`|`Anti-Cheat Bypass`|
+|[disconnect rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/725918-disconnect-rust.html)|`2025-11-22 06:27:00`|`Rust`|
+|[PEAK internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/726174-peak-internal.html)|`2025-11-22 06:23:00`|`Other Games`|
+|[Vintage Story Hackclient and Fairplayguardian bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/725288-vintage-story-hackclient-fairplayguardian-bypass.html)|`2025-11-22 06:22:00`|`Alternative Online Mods`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-11-22 06:21:00`|`Counter-Strike 2`|
+|[&#91;Updated&#93; Loki &#45; SCP: Secret Laboratory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/719685-updated-loki-scp-secret-laboratory.html)|`2025-11-22 06:20:00`|`Other Games`|
+|[Kernel input using Kbdclass callback](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724791-kernel-input-using-kbdclass-callback.html)|`2025-11-22 06:18:00`|`Anti-Cheat Bypass`|
+|[Gta online heists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/726452-gta-online-heists.html)|`2025-11-22 06:18:00`|`Grand Theft Auto V`|
+|[Snowbreak internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/720842-snowbreak-internal.html)|`2025-11-22 06:12:00`|`Other MMORPG and Strategy`|
 |[New Tool &#45; AoE4 Function Address Finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/725250-tool-aoe4-function-address-finder.html)|`2025-11-22 06:08:00`|`Age of Empires`|
 |[Interpolate the recoil pattern](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/722342-interpolate-recoil-pattern.html)|`2025-11-22 06:06:00`|`Playerunknown's Battlegrounds`|
 |[ToF&#46;CFF](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tower-of-fantasy/722052-tof-cff.html)|`2025-11-22 06:06:00`|`Tower of Fantasy`|
