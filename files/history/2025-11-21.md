@@ -12,6 +12,7 @@
 |10|[BO7 Bot Lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/725556-bo7-bot-lobby.html)|`2025-11-21 00:27:13`|`call-of-duty-black-ops-7-a`|
 |5|[tarkov 1&#46;0 inf money video](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725925-tarkov-1-0-inf-money-video.html)|`2025-11-21 00:27:13`|`escape-from-tarkov`|
 |23|[battleyent PVE Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726288-battleyent-pve-patch.html)|`2025-11-21 10:47:51`|`escape-from-tarkov`|
+|6|[Battleyent 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726095-battleyent-2-0-a.html)|`2025-11-21 14:21:11`|`escape-from-tarkov`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Genshin Impact 5&#46;8 Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/712706-genshin-impact-5-8-table.html)|`2025-11-21 14:20:00`|`Genshin Impact`|
+|[clean imgui base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/726017-clean-imgui-base.html)|`2025-11-21 14:13:00`|`C and C++`|
 |[Rainbow Six Siege X Recoil Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/723950-rainbow-six-siege-recoil-macro.html)|`2025-11-21 13:39:00`|`Rainbow Six Siege`|
 |[Fivem Auto Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/726365-fivem-auto-ban.html)|`2025-11-21 13:35:00`|`Alternative Online Mods`|
 |[BO7 BAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/725496-bo7-ban.html)|`2025-11-21 13:35:00`|`Call of Duty: Black Ops 7`|
