@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-11-21 11:23:00`|`Grand Theft Auto V`|
+|[&#40;Undetectable&#41; Overwatch 2 &#45; ColorBot Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/724800-undetectable-overwatch-2-colorbot-release.html)|`2025-11-21 11:22:00`|`Overwatch`|
+|[CS2 ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726237-cs2-esp.html)|`2025-11-21 11:15:00`|`Counter-Strike 2`|
+|[external menu internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726083-external-menu-internal.html)|`2025-11-21 11:13:00`|`Counter-Strike 2`|
+|[External Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726220-external-chams.html)|`2025-11-21 11:03:00`|`Escape from Tarkov`|
 |[Counter Strike Source v93 Legit Cheat &#40;Niefor&#46;ink&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/724707-counter-strike-source-v93-legit-cheat-niefor-ink.html)|`2025-11-21 10:36:00`|`CounterStrike Source`|
 |[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-11-21 10:34:00`|`Other FPS Games`|
 |[Started hitting gym a month ago](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/726039-started-hitting-gym-month-ago.html)|`2025-11-21 10:33:00`|`Off Topic`|
