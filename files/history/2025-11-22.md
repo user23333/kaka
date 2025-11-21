@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-11-22 04:19:00`|`Escape from Tarkov`|
+|[Overiew stats change](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/726433-overiew-stats-change.html)|`2025-11-22 04:19:00`|`Grand Theft Auto V`|
+|[screenshot ac bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/726387-screenshot-ac-bypass.html)|`2025-11-22 04:15:00`|`Alternative Online Mods`|
+|[Peak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706121-peak.html)|`2025-11-22 04:03:00`|`Other Games`|
 |[Fivem Auto Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/726365-fivem-auto-ban.html)|`2025-11-22 03:40:00`|`Alternative Online Mods`|
 |[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2025-11-22 03:16:00`|`Other FPS Games`|
 |[Fix Thirdperson](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725792-fix-thirdperson.html)|`2025-11-22 03:37:00`|`Counter-Strike 2`|
