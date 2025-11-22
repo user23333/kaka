@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to hide the cheating process?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726576-hide-cheating-process.html)|`2025-11-23 07:47:00`|`Anti-Cheat Bypass`|
+|[Physical memory exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/726575-physical-memory-exploit.html)|`2025-11-23 07:47:00`|`Forum General`|
 |[movement recorder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726515-movement-recorder.html)|`2025-11-23 07:38:00`|`Counter-Strike 2`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-11-23 07:26:00`|`Other FPS Games`|
 |[is there any way to speed up bunker and acid lab production on enhanced using yim v2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725953-speed-bunker-acid-lab-production-enhanced-using-yim-v2.html)|`2025-11-23 07:24:00`|`Grand Theft Auto V`|
