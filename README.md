@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to be a successful closet cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/725481-successful-closet-cheater.html)|`2025-11-22 16:18:00`|`Valorant`|
 |[The changes of the camera after the lens is turned on??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726263-changes-camera-lens.html)|`2025-11-22 15:24:00`|`Escape from Tarkov`|
 |[Current State of Kernel Hacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726041-current-kernel-hacking.html)|`2025-11-22 14:38:00`|`Anti-Cheat Bypass`|
 |[&#91;Unity IL2CPP&#93; Reversing Native Structures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726496-unity-il2cpp-reversing-native-structures.html)|`2025-11-22 14:34:00`|`Anti-Cheat Bypass`|
