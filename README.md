@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is Handle Hijacking Really Enough?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725653-handle-hijacking.html)|`2025-11-22 21:06:00`|`Counter-Strike 2`|
+|[movement recorder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726515-movement-recorder.html)|`2025-11-22 21:05:00`|`Counter-Strike 2`|
+|[How to Bypass Bot/AI Restrictions in Portal PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/726514-bypass-bot-ai-restrictions-portal-pve.html)|`2025-11-22 21:04:00`|`Battlefield 6`|
 |[external menu internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726083-external-menu-internal.html)|`2025-11-22 20:50:00`|`Counter-Strike 2`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-11-22 20:44:00`|`Apex Legends`|
 |[MY FIRST MARVEL RIVALS EXTERNAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/723540-marvel-rivals-external.html)|`2025-11-22 20:40:00`|`Marvel Rivals`|
