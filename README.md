@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nexus External ESP V2 &#40;PyMeow&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/690093-nexus-external-esp-v2-pymeow.html)|`2025-11-23 01:06:00`|`Garry's Mod`|
+|[cs2 internal hvh cheat working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725162-cs2-internal-hvh-cheat.html)|`2025-11-23 01:05:00`|`Counter-Strike 2`|
+|[Spectator List Get Not Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726084-spectator-list.html)|`2025-11-23 01:04:00`|`Counter-Strike 2`|
 |[Deadlock DMA &#40;&#43;Source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/720581-deadlock-dma-source.html)|`2025-11-23 00:53:00`|`Deadlock`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-11-23 00:50:00`|`Call of Duty: Black Ops 6`|
 |[CS 1&#46;6 External ESP drawing wrong ???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/725085-cs-1-6-external-esp-drawing-wrong.html)|`2025-11-23 00:49:00`|`CounterStrike 1.5, 1.6 and Mods`|
