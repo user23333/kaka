@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Genshin Impact 5&#46;8 Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/712706-genshin-impact-5-8-table.html)|`2025-11-22 22:23:00`|`Genshin Impact`|
+|[looking for a valorant unlock all or skin changer if there are any](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/726523-looking-valorant-unlock-skin-changer.html)|`2025-11-22 22:16:00`|`Valorant`|
 |[Age of Empires IV &#45; External Scar Script Injector & Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/712742-age-empires-iv-external-scar-script-injector-helper.html)|`2025-11-22 21:51:00`|`Age of Empires`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-11-22 21:57:00`|`League of Legends`|
 |[Summoners War: Chronicles Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/522468-summoners-war-chronicles-cheats.html)|`2025-11-22 21:25:00`|`Other MMORPG and Strategy`|
