@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Codestage AntiCheat Dumps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/726175-codestage-anticheat-dumps.html)|`2025-11-22 10:02:00`|`Unity`|
+|[BO7 Bot Lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/725556-bo7-bot-lobby.html)|`2025-11-22 09:59:00`|`Call of Duty: Black Ops 7`|
+|[Arena Breakout Infinite &#45; Poor Man's Radar &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/721231-arena-breakout-infinite-poor-mans-radar-dma.html)|`2025-11-22 09:42:00`|`Other FPS Games`|
 |[BloodStrike Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725524-bloodstrike-internal.html)|`2025-11-22 08:54:00`|`Other FPS Games`|
 |[Parsing Weapon SVGs via Panorama UI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726464-parsing-weapon-svgs-via-panorama-ui.html)|`2025-11-22 08:52:00`|`Counter-Strike 2`|
 |[External drawing hitbox pills](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703731-external-drawing-hitbox-pills.html)|`2025-11-22 08:51:00`|`Counter-Strike 2`|
