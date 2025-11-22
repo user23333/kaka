@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725524-bloodstrike-internal.html)|`2025-11-22 08:54:00`|`Other FPS Games`|
+|[Parsing Weapon SVGs via Panorama UI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726464-parsing-weapon-svgs-via-panorama-ui.html)|`2025-11-22 08:52:00`|`Counter-Strike 2`|
+|[External drawing hitbox pills](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703731-external-drawing-hitbox-pills.html)|`2025-11-22 08:51:00`|`Counter-Strike 2`|
+|[Accessing Game Object's Transform](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726475-accessing-game-objects-transform.html)|`2025-11-22 08:38:00`|`Escape from Tarkov`|
 |[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2025-11-22 07:56:00`|`Garry's Mod`|
 |[Horse Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/726447-horse-menu.html)|`2025-11-22 07:52:00`|`Red Dead Redemption 2`|
 |[Friendly Executor &#124; 64BIT GMOD &#124; SAFE MOSTLY LOL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/648602-friendly-executor-64bit-gmod-safe-lol.html)|`2025-11-22 07:48:00`|`Garry's Mod`|
