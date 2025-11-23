@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Tarkov request encryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726688-tarkov-request-encryption.html)|`2025-11-24 02:14:00`|`Escape from Tarkov`|
+|[Dump Apex Legend](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/726325-dump-apex-legend.html)|`2025-11-24 02:05:00`|`Apex Legends`|
 |[ACCOUNT VAL 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722001-account-val-5-a.html)|`2025-11-24 01:55:00`|`Valorant`|
 |[play valorant in a virtual machine &#40;bypass bans&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/726587-play-valorant-virtual-machine-bypass-bans.html)|`2025-11-24 01:53:00`|`Valorant`|
 |[New Updated Fully Working Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708891-updated-triggerbot.html)|`2025-11-24 01:49:00`|`Valorant`|
