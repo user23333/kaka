@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I’m back&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726642-i-m-back.html)|`2025-11-23 22:44:00`|`Counter-Strike 2`|
 |[free external cheat &#40;ESP ONLY&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/726641-free-external-cheat-esp.html)|`2025-11-23 22:34:00`|`PlanetSide 2`|
 |[second pc banned??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/726348-pc-banned.html)|`2025-11-23 22:32:00`|`Valorant`|
 |[What is the current pattern for hooking CreateMove?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726616-current-pattern-hooking-createmove.html)|`2025-11-23 22:31:00`|`Counter-Strike 2`|
