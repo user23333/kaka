@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Finals ColorBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/669800-finals-colorbot.html)|`2025-11-23 18:52:00`|`THE FINALS`|
+|[Dead by Daylight &#45; ESP And Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625890-dead-daylight-esp.html)|`2025-11-23 18:51:00`|`Other FPS Games`|
 |[Apex Legends HWID Bans, Myth or Real?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/616021-apex-legends-hwid-bans-myth-real.html)|`2025-11-23 18:44:00`|`Apex Legends`|
 |[eminence in shadow garden reguest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/723856-eminence-shadow-garden-reguest.html)|`2025-11-23 18:34:00`|`Other MMORPG and Strategy`|
 |[SendInput Detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725037-sendinput-detected.html)|`2025-11-23 18:28:00`|`Counter-Strike 2`|
