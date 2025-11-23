@@ -24,9 +24,14 @@
 |73|[EFT IL2CPP Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51957)|`2025-11-23 00:00:56`|
 |51|[new eft dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51953)|`2025-11-23 00:00:56`|
 |22|[ground branch simple external v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51951)|`2025-11-23 00:00:56`|
+|262|[Sleepy's External &#45; 2&#46;19&#46;1&#46;0&#46;144311 3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51994)|`2025-11-23 09:09:29`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2025-11-23 08:53:00`|`Call of Duty: Black Ops 3`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-11-23 08:51:00`|`Apex Legends`|
+|[Access kernel driver from user&#45;land with no exposed &#92;device&#92;&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726279-access-kernel-driver-user-land-exposed-device.html)|`2025-11-23 08:30:00`|`Anti-Cheat Bypass`|
+|[Escape The Backrooms Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/615556-escape-backrooms-internal.html)|`2025-11-23 08:26:00`|`Other FPS Games`|
 |[How to hide the cheating process?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726576-hide-cheating-process.html)|`2025-11-23 07:47:00`|`Anti-Cheat Bypass`|
 |[Physical memory exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/726575-physical-memory-exploit.html)|`2025-11-23 07:47:00`|`Forum General`|
 |[movement recorder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726515-movement-recorder.html)|`2025-11-23 07:38:00`|`Counter-Strike 2`|
