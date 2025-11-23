@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-11-23 17:36:00`|`League of Legends`|
 |[Dumping a VMProtected Anti Cheat Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/726454-dumping-vmprotected-anti-cheat-driver.html)|`2025-11-23 17:18:00`|`General Programming and Reversing`|
 |[DayZ DMA cheat &#40;Skeleton Esp, Aimbot, Radar&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/720910-dayz-dma-cheat-skeleton-esp-aimbot-radar.html)|`2025-11-23 17:07:00`|`DayZ SA`|
 |[Vanguard Spoofer Rev 2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612562-vanguard-spoofer-rev-2-a.html)|`2025-11-23 16:58:00`|`Valorant`|
