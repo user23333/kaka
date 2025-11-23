@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Started hitting gym a month ago](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/726039-started-hitting-gym-month-ago.html)|`2025-11-23 14:39:00`|`Off Topic`|
+|[Permaban HWID, TPM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/726601-permaban-hwid-tpm.html)|`2025-11-23 14:37:00`|`Call of Duty: Black Ops 6`|
+|[Vanguard stopping screen capturing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/724557-vanguard-stopping-screen-capturing.html)|`2025-11-23 14:31:00`|`Valorant`|
 |[What capture method is unblocked for 1pc?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/726598-capture-method-unblocked-1pc.html)|`2025-11-23 14:11:00`|`Valorant`|
 |[RustRecoilMacro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706634-rustrecoilmacro.html)|`2025-11-23 14:03:00`|`Rainbow Six Siege`|
 |[Genshin Impact 5&#46;8 Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/712706-genshin-impact-5-8-table.html)|`2025-11-23 13:51:00`|`Genshin Impact`|
