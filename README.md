@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[eminence in shadow garden reguest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/723856-eminence-shadow-garden-reguest.html)|`2025-11-23 18:34:00`|`Other MMORPG and Strategy`|
+|[SendInput Detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725037-sendinput-detected.html)|`2025-11-23 18:28:00`|`Counter-Strike 2`|
+|[Is Handle Hijacking Really Enough?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725653-handle-hijacking.html)|`2025-11-23 18:20:00`|`Counter-Strike 2`|
 |[trigger bot with map parsing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726612-trigger-bot-map-parsing.html)|`2025-11-23 18:13:00`|`Counter-Strike 2`|
 |[BF6 Aimbot &#40;TPU Accelerated Raspberry Pi&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/722855-bf6-aimbot-tpu-accelerated-raspberry-pi.html)|`2025-11-23 18:01:00`|`Battlefield 6`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-11-23 17:36:00`|`League of Legends`|
