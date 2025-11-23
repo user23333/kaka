@@ -25,9 +25,17 @@
 |51|[new eft dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51953)|`2025-11-23 00:00:56`|
 |22|[ground branch simple external v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51951)|`2025-11-23 00:00:56`|
 |262|[Sleepy's External &#45; 2&#46;19&#46;1&#46;0&#46;144311 3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51994)|`2025-11-23 09:09:29`|
+|1|[FiveM&#95;AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52022)|`2025-11-23 12:00:13`|
+|3|[Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52021)|`2025-11-23 12:00:13`|
+|1|[dump&#46;cs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52019)|`2025-11-23 12:00:13`|
+|11|[wwm&#95;cheat&#95;source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52017)|`2025-11-23 12:00:13`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-11-23 11:30:00`|`Other FPS Games`|
+|[Need Macro For this Type of minigame](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/725613-macro-type-minigame.html)|`2025-11-23 11:29:00`|`Alternative Online Mods`|
+|[Anti&#45;Debugger?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/726592-anti-debugger.html)|`2025-11-23 11:25:00`|`Maple Story`|
+|[DMAUnBlocker &#124; Firmware &#124; EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726582-dmaunblocker-firmware-eac.html)|`2025-11-23 11:12:00`|`Anti-Cheat Bypass`|
 |[Valorant Yolov11s Model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/715056-valorant-yolov11s-model.html)|`2025-11-23 10:48:00`|`Valorant`|
 |[play valorant in a virtual machine &#40;bypass bans&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/726587-play-valorant-virtual-machine-bypass-bans.html)|`2025-11-23 10:06:00`|`Valorant`|
 |[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2025-11-23 10:00:00`|`Apex Legends`|
