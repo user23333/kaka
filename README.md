@@ -24,9 +24,16 @@
 |412|[Sleepy's External &#45; 2&#46;19&#46;1&#46;0&#46;144311 3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51994)|`2025-11-25 00:15:42`|
 |109|[SDK &#43;&#43;Fortnite&#43;Release&#45;38&#46;11&#45;CL&#45;48390828](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51978)|`2025-11-25 00:15:42`|
 |34|[AntiCheat&#95;Dump&#46;cs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=51975)|`2025-11-25 00:15:42`|
+|2|[PhasmoMenu v0&#46;5&#46;7&#46;9 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52038)|`2025-11-25 01:33:17`|
+|3|[wwm&#95;dump&#95;functions&#95;classes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52032)|`2025-11-25 01:33:17`|
+|1|[SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52026)|`2025-11-25 01:33:17`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-11-25 01:32:00`|`Marvel Rivals`|
+|[Anti Debug patch &#62;:3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/722160-anti-debug-patch-3-a.html)|`2025-11-25 01:19:00`|`Combat Master`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-11-25 01:17:00`|`Phasmophobia`|
+|[IOCTL vs Shared Memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726808-ioctl-vs-shared-memory.html)|`2025-11-25 01:17:00`|`Anti-Cheat Bypass`|
 |[Help with solo apartment and doomsday heist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/726806-help-solo-apartment-doomsday-heist.html)|`2025-11-25 01:03:00`|`Grand Theft Auto V`|
 |[Get local player position in Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726805-local-player-position-python.html)|`2025-11-25 00:55:00`|`Counter-Strike 2`|
 |[Borderlands 4 Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/717789-borderlands-4-reversal-structs-offsets.html)|`2025-11-25 00:52:00`|`Other Single Player Games`|
