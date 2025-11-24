@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help with solo apartment and doomsday heist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/726806-help-solo-apartment-doomsday-heist.html)|`2025-11-25 01:03:00`|`Grand Theft Auto V`|
 |[Get local player position in Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726805-local-player-position-python.html)|`2025-11-25 00:55:00`|`Counter-Strike 2`|
 |[Borderlands 4 Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/717789-borderlands-4-reversal-structs-offsets.html)|`2025-11-25 00:52:00`|`Other Single Player Games`|
 |[Native Invoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/725080-native-invoker.html)|`2025-11-25 00:42:00`|`Alternative Online Mods`|
