@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chivalry 2 Creating your owns &#46;PAK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716143-chivalry-2-creating-owns-pak.html)|`2025-11-24 20:58:00`|`Other FPS Games`|
+|[How to find class and fields?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/726782-class-fields.html)|`2025-11-24 20:56:00`|`Minecraft`|
 |[LEARNING CHEAT DEVELOPMENT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/726227-learning-cheat-development.html)|`2025-11-24 19:51:00`|`Forum General`|
 |[New Tool &#45; AoE4 Function Address Finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/725250-tool-aoe4-function-address-finder.html)|`2025-11-24 19:39:00`|`Age of Empires`|
 |[noob question about cheat on valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/726757-noob-question-cheat-valorant.html)|`2025-11-24 19:35:00`|`Valorant`|
