@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Read Memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726735-read-memory.html)|`2025-11-24 12:20:00`|`Counter-Strike 2`|
+|[Vintage Story Hackclient and Fairplayguardian bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/725288-vintage-story-hackclient-fairplayguardian-bypass.html)|`2025-11-24 12:18:00`|`Alternative Online Mods`|
+|[ESP & Minimap etc&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-bad-company-2-a/725676-esp-minimap-etc.html)|`2025-11-24 12:12:00`|`Battlefield Bad Company 2`|
+|[help with horse menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/725031-help-horse-menu.html)|`2025-11-24 12:09:00`|`Red Dead Redemption 2`|
+|[Revolution Idle Anti Cheat Bypass/Freeshop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/711124-revolution-idle-anti-cheat-bypass-freeshop.html)|`2025-11-24 12:01:00`|`Other Games`|
+|[Internal pSilent And Hooking Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/726203-internal-psilent-hooking-issues.html)|`2025-11-24 11:56:00`|`Rust`|
 |[Blue Archive Cheat — Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/710592-blue-archive-cheat-steam.html)|`2025-11-24 11:40:00`|`Other MMORPG and Strategy`|
 |[PUBG No Recoil for all Mouse &#45; UMCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/711277-pubg-recoil-mouse-umcs.html)|`2025-11-24 11:39:00`|`PUBG Releases`|
 |[Laggy esp using external cheat with driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/726746-laggy-esp-using-external-cheat-driver.html)|`2025-11-24 11:35:00`|`Call of Duty: Black Ops 6`|
