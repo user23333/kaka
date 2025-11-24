@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Article&#93; TPM Pitfalls in Anti&#45;Cheat Systems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726453-article-tpm-pitfalls-anti-cheat-systems.html)|`2025-11-25 06:49:00`|`Anti-Cheat Bypass`|
+|[External SilentAim doesn't work or crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/726349-external-silentaim-doesnt-crash.html)|`2025-11-25 06:36:00`|`Alternative Online Mods`|
 |[Andromeda CS2 Internal Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722929-andromeda-cs2-internal-base.html)|`2025-11-25 06:42:00`|`Counter-Strike 2`|
 |[Definitive Ultimate Cheatpack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/633084-definitive-ultimate-cheatpack.html)|`2025-11-25 06:25:00`|`Star Wars Battlefront 2`|
 |[2025 Game of the Year Contenders List &#45; What is your game of the year?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/725373-2025-game-contenders-list-game.html)|`2025-11-25 06:24:00`|`Off Topic`|
