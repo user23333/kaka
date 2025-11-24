@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[LEARNING CHEAT DEVELOPMENT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/726227-learning-cheat-development.html)|`2025-11-24 19:51:00`|`Forum General`|
 |[New Tool &#45; AoE4 Function Address Finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/725250-tool-aoe4-function-address-finder.html)|`2025-11-24 19:39:00`|`Age of Empires`|
 |[noob question about cheat on valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/726757-noob-question-cheat-valorant.html)|`2025-11-24 19:35:00`|`Valorant`|
 |[Access kernel driver from user&#45;land with no exposed &#92;device&#92;&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726279-access-kernel-driver-user-land-exposed-device.html)|`2025-11-24 19:27:00`|`Anti-Cheat Bypass`|
