@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The changes of the camera after the lens is turned on??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726263-changes-camera-lens.html)|`2025-11-24 19:03:00`|`Escape from Tarkov`|
+|[Raycast &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/678606-raycast-external.html)|`2025-11-24 18:54:00`|`Garry's Mod`|
+|[Winter, Christmas & New Year's Banner Contest 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/724060-winter-christmas-banner-contest-2025-a.html)|`2025-11-24 18:54:00`|`General Graphics`|
 |[How to bypass be and cf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/725249-bypass-cf.html)|`2025-11-24 18:46:00`|`DayZ SA`|
 |[Can Kernel&#45;Anti&#45;Cheat Bypass Process Protection?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726778-kernel-anti-cheat-bypass-process-protection.html)|`2025-11-24 18:40:00`|`Anti-Cheat Bypass`|
 |[6&#46;1&#46;0 GI Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/726696-6-1-0-gi-bypass.html)|`2025-11-24 18:36:00`|`Genshin Impact`|
