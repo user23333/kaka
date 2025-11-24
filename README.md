@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-11-25 05:11:00`|`Other MMORPG and Strategy`|
+|[BloodStrike Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725524-bloodstrike-internal.html)|`2025-11-25 05:06:00`|`Other FPS Games`|
+|[Idle Slayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/583257-idle-slayer.html)|`2025-11-25 05:02:00`|`Other MMORPG and Strategy`|
+|[YimMenuV2Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697581-yimmenuv2mod.html)|`2025-11-25 04:57:00`|`Grand Theft Auto V`|
 |[bhop hook attempt &#40;im stupid&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721850-bhop-hook-attempt-im-stupid.html)|`2025-11-25 04:56:00`|`Counter-Strike 2`|
 |[play valorant in a virtual machine &#40;bypass bans&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/726587-play-valorant-virtual-machine-bypass-bans.html)|`2025-11-25 04:53:00`|`Valorant`|
 |[KiPageFault Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726791-kipagefault-hook.html)|`2025-11-25 04:41:00`|`Anti-Cheat Bypass`|
