@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How strong anticheat in Dead By Daylight?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714750-strong-anticheat-dead-daylight.html)|`2025-11-24 13:48:00`|`Anti-Cheat Bypass`|
 |[EAC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726765-eac-bypass.html)|`2025-11-24 13:14:00`|`Anti-Cheat Bypass`|
 |[EAC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726764-eac-bypass.html)|`2025-11-24 13:12:00`|`Anti-Cheat Bypass`|
 |[Xbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/726763-xbox.html)|`2025-11-24 13:06:00`|`Grand Theft Auto V`|
