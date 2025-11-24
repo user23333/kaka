@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-11-25 02:21:00`|`Other FPS Games`|
+|[DayPay Internal &#91;STEAM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/720131-daypay-internal-steam.html)|`2025-11-25 02:08:00`|`Payday 3`|
+|[External Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726220-external-chams.html)|`2025-11-25 02:06:00`|`Escape from Tarkov`|
 |[Is Handle Hijacking Really Enough?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725653-handle-hijacking.html)|`2025-11-25 01:53:00`|`Counter-Strike 2`|
 |[What kind of hardware information does the 1&#46;0 updated Tarkov launcher collect?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726795-hardware-information-1-0-updated-tarkov-launcher-collect.html)|`2025-11-25 01:41:00`|`Escape from Tarkov`|
 |[battleyent PVE Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726288-battleyent-pve-patch.html)|`2025-11-25 01:40:00`|`Escape from Tarkov`|
