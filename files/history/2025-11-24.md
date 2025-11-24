@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SEowndde x64 improved fix &#40;FREEZE QUE&#43;OPTIMIZONES&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/723332-seowndde-x64-improved-fix-freeze-que-optimizones.html)|`2025-11-24 08:42:00`|`Team Fortress 2`|
+|[Left 4 Dead 2 Host Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/726721-left-4-dead-2-host-menu.html)|`2025-11-24 08:01:00`|`Other FPS Games`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-11-24 07:41:00`|`Other FPS Games`|
 |[VORTEX Emulator for Warzone &#40;1ms Latency&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/726718-vortex-emulator-warzone-1ms-latency.html)|`2025-11-24 07:28:00`|`Call of Duty: Black Ops 7`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-11-24 07:14:00`|`Rainbow Six Siege`|
