@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[boost](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/726438-boost.html)|`2025-11-25 06:54:00`|`Sea of Thieves`|
+|[Cold War GSC Mod Menu &#91;The Lucy Menu&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/717858-cold-war-gsc-mod-menu-lucy-menu.html)|`2025-11-25 06:52:00`|`Call of Duty: Black Ops Cold War`|
+|[Lazybead &#40;LB&#41; &#45; Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat.html)|`2025-11-25 06:51:00`|`Sea of Thieves`|
 |[&#91;Article&#93; TPM Pitfalls in Anti&#45;Cheat Systems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726453-article-tpm-pitfalls-anti-cheat-systems.html)|`2025-11-25 06:49:00`|`Anti-Cheat Bypass`|
 |[External SilentAim doesn't work or crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/726349-external-silentaim-doesnt-crash.html)|`2025-11-25 06:36:00`|`Alternative Online Mods`|
 |[Andromeda CS2 Internal Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722929-andromeda-cs2-internal-base.html)|`2025-11-25 06:42:00`|`Counter-Strike 2`|
