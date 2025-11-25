@@ -14,6 +14,7 @@
 |9|[External Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726220-external-chams.html)|`2025-11-25 04:33:58`|`escape-from-tarkov`|
 |4|[Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726289-bans.html)|`2025-11-25 07:11:01`|`escape-from-tarkov`|
 |16|[kWalk: Stealth Auto&#45;Resolved R/W via Manual PT Walk & MDL Remap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726345-kwalk-stealth-auto-resolved-via-manual-pt-walk-mdl-remap.html)|`2025-11-25 11:38:56`|`anti-cheat-bypass`|
+|14|[play valorant in a virtual machine &#40;bypass bans&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/726587-play-valorant-virtual-machine-bypass-bans.html)|`2025-11-25 21:47:00`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[general question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/726915-question.html)|`2025-11-25 21:28:00`|`Call of Duty: Black Ops 7`|
 |[BloodStrike Leveling Up Your Hack&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/726530-bloodstrike-leveling-hack.html)|`2025-11-25 21:17:00`|`Other FPS Games`|
 |[PLM &#45; REPO cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/716529-plm-repo-cheat.html)|`2025-11-25 21:17:00`|`Other Games`|
 |[Winter, Christmas & New Year's Banner Contest 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/724060-winter-christmas-banner-contest-2025-a.html)|`2025-11-25 21:01:00`|`General Graphics`|
