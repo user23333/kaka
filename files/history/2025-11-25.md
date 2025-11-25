@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Removing item from inventory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726866-removing-item-inventory.html)|`2025-11-25 08:50:00`|`Counter-Strike 2`|
+|[External cheat esp lagging](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/726863-external-cheat-esp-lagging.html)|`2025-11-25 08:35:00`|`Call of Duty: Black Ops 6`|
+|[external "bullet tracers"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725939-external-bullet-tracers.html)|`2025-11-25 08:27:00`|`Counter-Strike 2`|
 |[cs2 external with anti&#45;aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726862-cs2-external-anti-aim.html)|`2025-11-25 07:46:00`|`Counter-Strike 2 Releases`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-11-25 07:45:00`|`Other FPS Games`|
 |[Using controller settings and mouse move](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/726321-using-controller-settings-mouse-move.html)|`2025-11-25 07:31:00`|`Call of Duty: Black Ops 7`|
