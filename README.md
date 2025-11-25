@@ -34,6 +34,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Broken Arrow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/726996-broken-arrow.html)|`2025-11-26 07:13:00`|`Other Games`|
+|[How to Bypass Bot/AI Restrictions in Portal PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/726514-bypass-bot-ai-restrictions-portal-pve.html)|`2025-11-26 07:11:00`|`Battlefield 6`|
+|[Duet Night Abyss Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/723122-duet-night-abyss-reversal-structs-offsets.html)|`2025-11-26 07:11:00`|`Other MMORPG and Strategy`|
+|[Shared Memory?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726995-shared-memory.html)|`2025-11-26 07:09:00`|`Anti-Cheat Bypass`|
+|[Black ops 7 hwid ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/726606-black-ops-7-hwid-ban.html)|`2025-11-26 07:03:00`|`Call of Duty: Black Ops 7`|
 |[VAN:RESTRICTION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/726992-van-restriction.html)|`2025-11-26 06:38:00`|`Valorant`|
 |[Winter, Christmas & New Year's Banner Contest 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/724060-winter-christmas-banner-contest-2025-a.html)|`2025-11-26 06:34:00`|`General Graphics`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-11-26 06:30:00`|`Other FPS Games`|
