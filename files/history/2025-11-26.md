@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-11-26 06:13:00`|`DayZ SA`|
+|[BO6/BO7 Aimbot Color &#43; Functional Anti&#45;Recoil AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/720726-bo6-bo7-aimbot-color-functional-anti-recoil-ahk.html)|`2025-11-26 06:12:00`|`Call of Duty: Black Ops 7`|
+|[Using controller settings and mouse move](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/726321-using-controller-settings-mouse-move.html)|`2025-11-26 06:09:00`|`Call of Duty: Black Ops 7`|
+|[Controller and mouse aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/726340-controller-mouse-aim.html)|`2025-11-26 06:08:00`|`Call of Duty: Black Ops 6`|
 |[EFT  0&#46;12&#46;12&#46;11&#46;16440](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726901-eft-0-12-12-11-16440-a.html)|`2025-11-26 05:48:00`|`Escape from Tarkov`|
 |[EFT DUMPER INTERNAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726986-eft-dumper-internal.html)|`2025-11-26 05:45:00`|`Escape from Tarkov`|
 |[play valorant in a virtual machine &#40;bypass bans&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/726587-play-valorant-virtual-machine-bypass-bans.html)|`2025-11-26 05:33:00`|`Valorant`|
