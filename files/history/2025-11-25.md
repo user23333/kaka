@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ToF&#46;CFF](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tower-of-fantasy/722052-tof-cff.html)|`2025-11-25 19:38:00`|`Tower of Fantasy`|
 |[ban from android system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/726907-ban-android-system.html)|`2025-11-25 19:28:00`|`PUBG Mobile`|
 |[Gta online heists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/726452-gta-online-heists.html)|`2025-11-25 19:20:00`|`Grand Theft Auto V`|
 |[Free cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726906-free-cheese.html)|`2025-11-25 19:19:00`|`Escape from Tarkov`|
