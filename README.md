@@ -12,6 +12,7 @@
 |15|[play valorant in a virtual machine &#40;bypass bans&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/726587-play-valorant-virtual-machine-bypass-bans.html)|`2025-11-26 00:24:22`|`valorant`|
 |4|[Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726289-bans.html)|`2025-11-26 00:24:22`|`escape-from-tarkov`|
 |7|[Search Tool for bo7 bot lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/726060-search-tool-bo7-bot-lobby.html)|`2025-11-26 02:32:43`|`call-of-duty-black-ops-7-a`|
+|7|[&#91;Article&#93; TPM Pitfalls in Anti&#45;Cheat Systems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726453-article-tpm-pitfalls-anti-cheat-systems.html)|`2025-11-26 02:50:57`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
