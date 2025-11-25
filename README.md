@@ -14,6 +14,7 @@
 |7|[Search Tool for bo7 bot lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/726060-search-tool-bo7-bot-lobby.html)|`2025-11-26 02:32:43`|`call-of-duty-black-ops-7-a`|
 |7|[&#91;Article&#93; TPM Pitfalls in Anti&#45;Cheat Systems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726453-article-tpm-pitfalls-anti-cheat-systems.html)|`2025-11-26 02:50:57`|`anti-cheat-bypass`|
 |4|[Roh's CS2 External &#40;just basically external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726413-rohs-cs2-external-basically-external.html)|`2025-11-26 03:27:32`|`counter-strike-2-a`|
+|7|[second pc banned??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/726348-pc-banned.html)|`2025-11-26 05:17:03`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,9 +30,14 @@
 |23|[Snowbreak 0&#46;0&#46;3&#95;F](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52004)|`2025-11-26 00:24:22`|
 |1|[SDK&#95;DarkAndDarker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52057)|`2025-11-26 03:36:37`|
 |1|[DeltaForce&#45;EU&#45;FullSDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52049)|`2025-11-26 03:36:37`|
+|2|[eft&#45;il2cpp&#45;external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52047)|`2025-11-26 05:17:03`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Updated PVZ GW2 Cheat&#40;s&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/686351-updated-pvz-gw2-cheat.html)|`2025-11-26 05:15:00`|`Forum General`|
+|[&#91;DMA&#93; COD &#45; ESP &#43; AIM &#40;steam only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700409-dma-cod-esp-aim-steam.html)|`2025-11-26 05:07:00`|`Call of Duty: Black Ops 6`|
+|[autowall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726980-autowall.html)|`2025-11-26 05:00:00`|`Counter-Strike 2`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-11-26 04:58:00`|`Overwatch`|
 |[Eterspire MMO Mod Menu &#40;STEAM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726979-eterspire-mmo-mod-menu-steam.html)|`2025-11-26 04:57:00`|`Other MMORPG and Strategy`|
 |[need sig](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726978-sig.html)|`2025-11-26 04:54:00`|`Counter-Strike 2`|
 |[DMAUnBlocker &#124; Firmware &#124; EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726582-dmaunblocker-firmware-eac.html)|`2025-11-26 04:52:00`|`Anti-Cheat Bypass`|
