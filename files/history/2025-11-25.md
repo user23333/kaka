@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gta online heists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/726452-gta-online-heists.html)|`2025-11-25 19:20:00`|`Grand Theft Auto V`|
+|[Free cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726906-free-cheese.html)|`2025-11-25 19:19:00`|`Escape from Tarkov`|
+|[Farming money with friends :&#62;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/726503-farming-money-friends.html)|`2025-11-25 19:13:00`|`Grand Theft Auto V`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-11-25 18:24:00`|`Counter-Strike 2`|
 |[How to hide the cheating process?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726576-hide-cheating-process.html)|`2025-11-25 18:21:00`|`Anti-Cheat Bypass`|
 |[EAC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726765-eac-bypass.html)|`2025-11-25 18:12:00`|`Anti-Cheat Bypass`|
