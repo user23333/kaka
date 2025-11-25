@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EFT  0&#46;12&#46;12&#46;11&#46;16440](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726901-eft-0-12-12-11-16440-a.html)|`2025-11-25 16:44:00`|`Escape from Tarkov`|
+|[yaw exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726900-yaw-exploit.html)|`2025-11-25 16:42:00`|`Counter-Strike 2`|
 |[Seeking help from ImGui for anti cheating function detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/724990-seeking-help-imgui-anti-cheating-function-detection.html)|`2025-11-25 15:49:00`|`C and C++`|
 |[valorant dll injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708406-valorant-dll-injector.html)|`2025-11-25 15:49:00`|`Valorant`|
 |[how to make Spawn in hand Weapon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/726895-spawn-hand-weapon.html)|`2025-11-25 15:48:00`|`Alternative Online Mods`|
