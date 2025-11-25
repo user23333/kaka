@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[apexdumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/715180-apexdumper.html)|`2025-11-25 10:28:00`|`Apex Legends`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-11-25 09:03:00`|`Call of Duty: Black Ops 6`|
 |[Removing item from inventory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726866-removing-item-inventory.html)|`2025-11-25 08:50:00`|`Counter-Strike 2`|
 |[External cheat esp lagging](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/726863-external-cheat-esp-lagging.html)|`2025-11-25 08:35:00`|`Call of Duty: Black Ops 6`|
 |[external "bullet tracers"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725939-external-bullet-tracers.html)|`2025-11-25 08:27:00`|`Counter-Strike 2`|
