@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-11-26 05:23:00`|`Call of Duty: Black Ops 6`|
+|[Anti&#45;Debugger?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/726592-anti-debugger.html)|`2025-11-26 05:21:00`|`Maple Story`|
 |[Updated PVZ GW2 Cheat&#40;s&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/686351-updated-pvz-gw2-cheat.html)|`2025-11-26 05:15:00`|`Forum General`|
 |[&#91;DMA&#93; COD &#45; ESP &#43; AIM &#40;steam only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700409-dma-cod-esp-aim-steam.html)|`2025-11-26 05:07:00`|`Call of Duty: Black Ops 6`|
 |[autowall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726980-autowall.html)|`2025-11-26 05:00:00`|`Counter-Strike 2`|
