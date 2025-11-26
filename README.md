@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Tarkov IL2CPP decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726047-tarkov-il2cpp-decryption.html)|`2025-11-26 21:25:00`|`Escape from Tarkov`|
 |[Van: incompatible software](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/726800-van-incompatible-software.html)|`2025-11-26 20:58:00`|`Valorant`|
 |[Apex Legends Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/725810-apex-legends-radar.html)|`2025-11-26 20:26:00`|`Apex Legends`|
 |[PERM BAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/727043-perm-ban.html)|`2025-11-26 20:01:00`|`Call of Duty: Black Ops 6`|
