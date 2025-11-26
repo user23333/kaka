@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Repair Vehicle / Unlock Vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/727145-repair-vehicle-unlock-vehicle.html)|`2025-11-27 07:07:00`|`Alternative Online Mods`|
+|[GTA V Enhanced cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/727047-gta-enhanced-cheating.html)|`2025-11-27 07:06:00`|`Grand Theft Auto V`|
+|[Any Decent alt to Kiddions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725823-decent-alt-kiddions.html)|`2025-11-27 07:01:00`|`Grand Theft Auto V`|
+|[EFT GET PROFILE DATA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727144-eft-profile-data.html)|`2025-11-27 06:56:00`|`Escape from Tarkov`|
 |[How to Bypass Bot/AI Restrictions in Portal PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/726514-bypass-bot-ai-restrictions-portal-pve.html)|`2025-11-27 06:42:00`|`Battlefield 6`|
 |[Need new Gmod Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/722677-gmod-hack.html)|`2025-11-27 06:41:00`|`Garry's Mod`|
 |[Vein Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/723246-vein-reversal-structs-offsets.html)|`2025-11-27 06:33:00`|`Other FPS Games`|
