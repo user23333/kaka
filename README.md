@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Overlays and Compositor&#45;Induced Latency](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/727030-external-overlays-compositor-induced-latency.html)|`2025-11-26 17:59:00`|`General Programming and Reversing`|
+|[cs2 internal hvh cheat working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725162-cs2-internal-hvh-cheat.html)|`2025-11-26 17:57:00`|`Counter-Strike 2`|
 |[I want to add no recoil to my external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/727028-add-recoil-external-cheat.html)|`2025-11-26 17:07:00`|`Rust`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-11-26 16:54:00`|`Playerunknown's Battlegrounds`|
 |[Stella Sora Cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722901-stella-sora-cheese.html)|`2025-11-26 16:46:00`|`Other MMORPG and Strategy`|
