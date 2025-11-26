@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-11-27 05:34:00`|`Other FPS Games`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-11-27 05:33:00`|`Playerunknown's Battlegrounds`|
+|[Tips to learn c&#43;&#43; more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/717609-tips-learn.html)|`2025-11-27 05:31:00`|`Programming for Beginners`|
+|[I want to make a public code into a private build&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/722785-public-code-private-build.html)|`2025-11-27 05:29:00`|`Programming for Beginners`|
 |[Anti Screengrab GMOD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/726160-anti-screengrab-gmod.html)|`2025-11-27 05:29:00`|`Programming for Beginners`|
 |[Guides for internal C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/726827-guides-internal.html)|`2025-11-27 05:27:00`|`Programming for Beginners`|
 |[how are you evading PT walks in 2025?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727127-evading-pt-walks-2025-a.html)|`2025-11-27 05:24:00`|`Anti-Cheat Bypass`|
