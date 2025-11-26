@@ -26,9 +26,15 @@
 |41|[FiveM&#95;AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52022)|`2025-11-27 00:14:54`|
 |41|[Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52021)|`2025-11-27 00:14:54`|
 |1|[&#91;DMA&#93; Arc Raiders GWorld Decryptor Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52068)|`2025-11-27 04:12:01`|
+|1|[Tarkov Dumper 1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52070)|`2025-11-27 04:31:21`|
+|2|[uc&#95;driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52065)|`2025-11-27 04:31:21`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Signed driver :&#41; Win 10 only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727024-signed-driver-win-10-a.html)|`2025-11-27 04:27:00`|`Anti-Cheat Bypass`|
+|[Another battleye bypass for offline](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/722686-battleye-bypass-offline.html)|`2025-11-27 04:26:00`|`Escape from Tarkov`|
+|[Once Human &#40;game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/614970-human-game.html)|`2025-11-27 04:21:00`|`Other MMORPG and Strategy`|
+|[valorant internal source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/716050-valorant-internal-source.html)|`2025-11-27 04:13:00`|`Valorant`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-11-27 04:00:00`|`Alternative Online Mods`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2025-11-27 03:55:00`|`Other FPS Games`|
 |[Castle Crashers Unlockall Tool update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/727113-castle-crashers-unlockall-tool-update.html)|`2025-11-27 03:54:00`|`Half Life`|
