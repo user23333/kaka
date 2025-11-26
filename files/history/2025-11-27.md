@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New Tool &#45; AoE4 Function Address Finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/725250-tool-aoe4-function-address-finder.html)|`2025-11-27 03:35:00`|`Age of Empires`|
 |[Beginner in Game Cheat Dev — Need Advice on the Essential Tools](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/726716-beginner-game-cheat-dev-advice-essential-tools.html)|`2025-11-27 03:29:00`|`Programming for Beginners`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2025-11-27 03:29:00`|`Deadlock`|
 |[How to get bullet speed, including hero skills such as Bebop's hook speed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/715454-bullet-speed-including-hero-skills-bebops-hook-speed.html)|`2025-11-27 03:27:00`|`Deadlock`|
