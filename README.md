@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Getting rid of dead players efficiently](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/727112-getting-rid-dead-players-efficiently.html)|`2025-11-27 03:45:00`|`Rust`|
 |[TriggerBot and RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726756-triggerbot-rcs.html)|`2025-11-27 03:41:00`|`Counter-Strike 2`|
 |[Peak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706121-peak.html)|`2025-11-27 03:39:00`|`Other Games`|
 |[New Tool &#45; AoE4 Function Address Finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/725250-tool-aoe4-function-address-finder.html)|`2025-11-27 03:35:00`|`Age of Empires`|
