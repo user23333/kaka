@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The problem of converting world coordinates into screen coordinates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/727142-converting-world-coordinates-screen-coordinates.html)|`2025-11-27 06:23:00`|`General Programming and Reversing`|
+|[Tarkov IL2CPP decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726047-tarkov-il2cpp-decryption.html)|`2025-11-27 06:20:00`|`Escape from Tarkov`|
+|[Banned in Valorant &#45; Data Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/394123-banned-valorant-data-collection-thread.html)|`2025-11-27 06:18:00`|`Valorant`|
 |[Horse Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/726447-horse-menu.html)|`2025-11-27 06:00:00`|`Red Dead Redemption 2`|
 |[Scuffed Bloodstrike Internal Aimbot & ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/720552-scuffed-bloodstrike-internal-aimbot-esp.html)|`2025-11-27 05:58:00`|`Other FPS Games`|
 |[Any reliable script or bypass recommendation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/705037-reliable-script-bypass-recommendation.html)|`2025-11-27 05:51:00`|`League of Legends`|
