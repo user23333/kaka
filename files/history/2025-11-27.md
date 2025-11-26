@@ -11,6 +11,7 @@
 |35|[Perfect chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726949-perfect-chams.html)|`2025-11-27 00:14:54`|`counter-strike-2-a`|
 |7|[&#91;Article&#93; TPM Pitfalls in Anti&#45;Cheat Systems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726453-article-tpm-pitfalls-anti-cheat-systems.html)|`2025-11-27 00:14:54`|`anti-cheat-bypass`|
 |4|[Roh's CS2 External &#40;just basically external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726413-rohs-cs2-external-basically-external.html)|`2025-11-27 00:14:54`|`counter-strike-2-a`|
+|12|[Fully usermode bypass framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727001-usermode-bypass-framework.html)|`2025-11-27 02:58:52`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-11-27 02:53:00`|`Other Games`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-11-27 02:52:00`|`Escape from Tarkov`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-11-27 02:51:00`|`League of Legends`|
 |[Protect kmdf driver &#40;manual mapped&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/727097-protect-kmdf-driver-manual-mapped.html)|`2025-11-27 02:35:00`|`Rust`|
