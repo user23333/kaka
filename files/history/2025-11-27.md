@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Could anyone release their Internal for BL4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/722872-release-internal-bl4.html)|`2025-11-27 21:51:00`|`Other Single Player Games`|
+|[Roblox External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/727235-roblox-external.html)|`2025-11-27 21:47:00`|`Other Games`|
+|[SoT Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/719603-sot-spoofer.html)|`2025-11-27 21:43:00`|`Sea of Thieves`|
 |[DMA Stealth &#45; Are these detection methods actually used?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725039-dma-stealth-detection-methods-actually.html)|`2025-11-27 21:33:00`|`Anti-Cheat Bypass`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-11-27 20:48:00`|`Counter-Strike 2 Releases`|
 |[No Man's Sky Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/725681-mans-sky-internal.html)|`2025-11-27 20:44:00`|`Other Games`|
