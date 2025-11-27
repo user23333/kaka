@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726289-bans.html)|`2025-11-27 12:23:00`|`Escape from Tarkov`|
+|[Duet Night Abyss Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/723122-duet-night-abyss-reversal-structs-offsets.html)|`2025-11-27 12:18:00`|`Other MMORPG and Strategy`|
 |[pubg kaka and stay source &#91;DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/698494-pubg-kaka-stay-source-dma.html)|`2025-11-27 12:11:00`|`Playerunknown's Battlegrounds`|
 |[Mutant HWID Spoofer by Samuel Tulach](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727169-mutant-hwid-spoofer-samuel-tulach.html)|`2025-11-27 10:56:00`|`Anti-Cheat Bypass`|
 |[Vigor V2 &#45; Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724863-vigor-v2-internal-cheat.html)|`2025-11-27 10:52:00`|`Other FPS Games`|
