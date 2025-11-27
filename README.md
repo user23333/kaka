@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[dxgi capture issue? vanguard?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721171-dxgi-capture-issue-vanguard.html)|`2025-11-27 17:33:00`|`Valorant`|
 |[SteelSeries overlay hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/719655-steelseries-overlay-hook.html)|`2025-11-27 16:45:00`|`C and C++`|
 |[Fully usermode bypass framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727001-usermode-bypass-framework.html)|`2025-11-27 16:39:00`|`Anti-Cheat Bypass`|
 |[What kind of hardware information does the 1&#46;0 updated Tarkov launcher collect?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726795-hardware-information-1-0-updated-tarkov-launcher-collect.html)|`2025-11-27 16:35:00`|`Escape from Tarkov`|
