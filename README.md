@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[pubg kaka and stay source &#91;DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/698494-pubg-kaka-stay-source-dma.html)|`2025-11-27 12:11:00`|`Playerunknown's Battlegrounds`|
 |[Mutant HWID Spoofer by Samuel Tulach](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727169-mutant-hwid-spoofer-samuel-tulach.html)|`2025-11-27 10:56:00`|`Anti-Cheat Bypass`|
 |[Vigor V2 &#45; Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724863-vigor-v2-internal-cheat.html)|`2025-11-27 10:52:00`|`Other FPS Games`|
 |[Updated PVZ GW2 Cheat&#40;s&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/686351-updated-pvz-gw2-cheat.html)|`2025-11-27 10:45:00`|`Forum General`|
