@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Are there any virtual machines that can be used in Valorant?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/726005-virtual-machines-valorant.html)|`2025-11-27 22:43:00`|`Valorant`|
 |[Roblox External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/727239-roblox-external.html)|`2025-11-27 22:17:00`|`Other Games`|
 |[Injector / Stealer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/727238-injector-stealer.html)|`2025-11-27 22:14:00`|`Garry's Mod`|
 |[Roblox External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/727236-roblox-external.html)|`2025-11-27 21:54:00`|`Other Games`|
