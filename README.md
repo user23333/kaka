@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;Undetectable&#41; Overwatch 2 &#45; ColorBot Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/724800-undetectable-overwatch-2-colorbot-release.html)|`2025-11-27 08:46:00`|`Overwatch`|
+|[Overcoming the "Client Side Ban"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/726441-overcoming-client-ban.html)|`2025-11-27 08:29:00`|`PUBG Mobile`|
+|[emulator detection & 10 min](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/726650-emulator-detection-10-min.html)|`2025-11-27 08:26:00`|`PUBG Mobile`|
+|[Bypassing / Spoofing Natives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/727151-bypassing-spoofing-natives.html)|`2025-11-27 08:20:00`|`Alternative Online Mods`|
 |[&#91;Unity IL2CPP&#93; Bleach: Soul Resonance &#45; Dynamic Instrumentation Issues with Frida: Ac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/727148-unity-il2cpp-bleach-soul-resonance-dynamic-instrumentation-issues-frida-ac.html)|`2025-11-27 07:47:00`|`Android`|
 |[Roh's CS2 External &#40;just basically external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726413-rohs-cs2-external-basically-external.html)|`2025-11-27 07:38:00`|`Counter-Strike 2`|
 |[Chivalry 2 Basic &#46;pak &#45; Parera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720632-chivalry-2-basic-pak-parera.html)|`2025-11-27 07:33:00`|`Other Games`|
