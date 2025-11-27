@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Injector / Stealer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/727238-injector-stealer.html)|`2025-11-27 22:14:00`|`Garry's Mod`|
 |[Roblox External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/727236-roblox-external.html)|`2025-11-27 21:54:00`|`Other Games`|
 |[DMAUnBlocker &#124; Firmware &#124; EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726582-dmaunblocker-firmware-eac.html)|`2025-11-27 21:53:00`|`Anti-Cheat Bypass`|
 |[Could anyone release their Internal for BL4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/722872-release-internal-bl4.html)|`2025-11-27 21:51:00`|`Other Single Player Games`|
