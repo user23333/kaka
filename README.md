@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fully usermode bypass framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727001-usermode-bypass-framework.html)|`2025-11-27 16:39:00`|`Anti-Cheat Bypass`|
+|[What kind of hardware information does the 1&#46;0 updated Tarkov launcher collect?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726795-hardware-information-1-0-updated-tarkov-launcher-collect.html)|`2025-11-27 16:35:00`|`Escape from Tarkov`|
+|[external damage guess](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727194-external-damage-guess.html)|`2025-11-27 16:32:00`|`Counter-Strike 2`|
+|[Madout 2: BigCityOnline 9&#46;6 Android](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727192-madout-2-bigcityonline-9-6-android.html)|`2025-11-27 16:25:00`|`Other FPS Games`|
 |[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2025-11-27 15:53:00`|`Tom Clancy's The Division`|
 |[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2025-11-27 15:49:00`|`Grand Theft Auto V`|
 |[EFT  0&#46;12&#46;12&#46;11&#46;16440](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726901-eft-0-12-12-11-16440-a.html)|`2025-11-27 15:24:00`|`Escape from Tarkov`|
