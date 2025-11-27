@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-11-27 14:05:00`|`Grand Theft Auto V`|
 |[Chams Cheat &#43; Weapon,hand chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/727182-chams-cheat-weapon-hand-chams.html)|`2025-11-27 13:44:00`|`Farlight 84`|
 |[Looking for ways to inject DLL's into tarkov](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727159-looking-inject-dlls-tarkov.html)|`2025-11-27 13:42:00`|`Escape from Tarkov`|
 |[Laggy Overlay When Tabbed in Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/681601-laggy-overlay-tabbed-game.html)|`2025-11-27 13:35:00`|`Apex Legends`|
