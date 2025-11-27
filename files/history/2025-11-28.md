@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gems Of War 8&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/702434-gems-war-8-5-a.html)|`2025-11-28 07:02:00`|`Cheat Engine Tables`|
+|[Vigor V2 &#45; Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724863-vigor-v2-internal-cheat.html)|`2025-11-28 07:01:00`|`Other FPS Games`|
+|[WindowsHook: Arbitrary User&#45;Mode R/W/X through SetWindowsHookEx&#40;BE/EAC/EAAC/Vanguard&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726963-windowshook-arbitrary-user-mode-setwindowshookex-eac-eaac-vanguard.html)|`2025-11-28 07:00:00`|`Anti-Cheat Bypass`|
+|[hwid banned by battleye, how can i fix?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/727076-hwid-banned-battleye-fix.html)|`2025-11-28 06:59:00`|`Grand Theft Auto V`|
 |[ToF&#46;CFF](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tower-of-fantasy/722052-tof-cff.html)|`2025-11-28 06:39:00`|`Tower of Fantasy`|
 |[EXTERNAL ESP&#43;TRIGGERBOT SOURCECODE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/727202-external-esp-triggerbot-sourcecode.html)|`2025-11-28 06:36:00`|`Apex Legends`|
 |[How to loop thru smoke and molly entities?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727313-loop-thru-smoke-molly-entities.html)|`2025-11-28 06:23:00`|`Counter-Strike 2`|
