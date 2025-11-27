@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Did battleyent got patched today?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727170-battleyent-patched.html)|`2025-11-28 01:30:00`|`Escape from Tarkov`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-11-28 01:27:00`|`Other Games`|
+|[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2025-11-28 01:21:00`|`Valorant`|
+|[how are you evading PT walks in 2025?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727127-evading-pt-walks-2025-a.html)|`2025-11-28 01:20:00`|`Anti-Cheat Bypass`|
 |[Client&#46;0&#46;12&#46;12&#46;11&#46;16440](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727283-client-0-12-12-11-16440-a.html)|`2025-11-28 01:17:00`|`Escape from Tarkov`|
 |[MiReservePtes/MiReleasePtes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727240-mireserveptes-mireleaseptes.html)|`2025-11-28 00:57:00`|`Anti-Cheat Bypass`|
 |[High quality work Imgui menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/726015-quality-imgui-menu.html)|`2025-11-28 00:57:00`|`C and C++`|
