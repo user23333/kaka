@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Among Us undetected cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/727307-undetected-cheat.html)|`2025-11-28 04:34:00`|`Among Us`|
 |[Hello&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/727302-hello.html)|`2025-11-28 04:19:00`|`Introductions`|
 |[Error code: 202015 / HWID?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727301-error-code-202015-hwid.html)|`2025-11-28 04:19:00`|`Escape from Tarkov`|
 |[Unable to rank up](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725256-unable-rank.html)|`2025-11-28 04:10:00`|`Grand Theft Auto V`|
