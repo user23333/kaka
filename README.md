@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[battleyent PVE Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726288-battleyent-pve-patch.html)|`2025-11-28 00:36:00`|`Escape from Tarkov`|
+|[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2025-11-28 00:29:00`|`Apex Legends`|
+|[Where Winds Meet Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/725040-winds-meet-reversal-structs-offsets.html)|`2025-11-28 00:26:00`|`Other MMORPG and Strategy`|
+|[&#91;LINUX&#93; Dune Awakening Simple external ESP Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710801-linux-dune-awakening-simple-external-esp-base.html)|`2025-11-28 00:26:00`|`Other FPS Games`|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2025-11-28 00:24:00`|`Battlefield 6`|
+|[&#91;Release﻿ Hack L4D2 Reborn v3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/726272-release-hack-l4d2-reborn-v3.html)|`2025-11-28 00:22:00`|`Other FPS Games`|
 |[flagged accounts are available for migration?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/696670-flagged-accounts-available-migration.html)|`2025-11-28 00:21:00`|`Grand Theft Auto V`|
 |[GM Menu &#124; Where Winds Meet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/725991-gm-menu-winds-meet.html)|`2025-11-28 00:20:00`|`Other MMORPG and Strategy`|
 |[ESP not drawing anymore since 25&#46;11&#46;2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727256-esp-drawing-anymore-25-11-2025-a.html)|`2025-11-28 00:20:00`|`Counter-Strike 2`|
