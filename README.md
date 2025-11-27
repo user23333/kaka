@@ -35,9 +35,12 @@
 |1|[SDK&#45;Strinova&#45;Win64&#45;Shipping&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52079)|`2025-11-27 20:26:53`|
 |7|[driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52075)|`2025-11-27 21:06:58`|
 |1|[No Man's Sky Internal v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52067)|`2025-11-27 21:06:58`|
+|0|[Hell Let Loose SDK &#40;EPIC &#45; 25&#46;06&#46;2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52083)|`2025-11-27 21:57:52`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Roblox External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/727236-roblox-external.html)|`2025-11-27 21:54:00`|`Other Games`|
+|[DMAUnBlocker &#124; Firmware &#124; EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726582-dmaunblocker-firmware-eac.html)|`2025-11-27 21:53:00`|`Anti-Cheat Bypass`|
 |[Could anyone release their Internal for BL4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/722872-release-internal-bl4.html)|`2025-11-27 21:51:00`|`Other Single Player Games`|
 |[Roblox External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/727235-roblox-external.html)|`2025-11-27 21:47:00`|`Other Games`|
 |[SoT Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/719603-sot-spoofer.html)|`2025-11-27 21:43:00`|`Sea of Thieves`|
