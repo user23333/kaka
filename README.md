@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayPay Internal &#91;STEAM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/720131-daypay-internal-steam.html)|`2025-11-28 22:49:00`|`Payday 3`|
 |[Protect kmdf driver &#40;manual mapped&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/727097-protect-kmdf-driver-manual-mapped.html)|`2025-11-28 22:26:00`|`Rust`|
 |[Updated CS2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/721585-updated-cs2-external-esp.html)|`2025-11-28 22:24:00`|`Counter-Strike 2 Releases`|
 |[DMA Stealth &#45; Are these detection methods actually used?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725039-dma-stealth-detection-methods-actually.html)|`2025-11-28 22:04:00`|`Anti-Cheat Bypass`|
