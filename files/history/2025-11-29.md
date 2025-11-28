@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2025-11-29 03:41:00`|`HELLDIVERS 2`|
 |[Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727415-issue.html)|`2025-11-29 03:36:00`|`Counter-Strike 2`|
 |[Bettercam detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727413-bettercam-detected.html)|`2025-11-29 03:33:00`|`Anti-Cheat Bypass`|
 |[I want to learn to reverse engineer games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/727412-learn-reverse-engineer-games.html)|`2025-11-29 03:32:00`|`Forum General`|
