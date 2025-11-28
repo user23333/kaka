@@ -26,9 +26,14 @@
 |44|[Tarkov Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52060)|`2025-11-28 00:22:04`|
 |5|[SDK&#95;DarkAndDarker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52057)|`2025-11-28 00:22:04`|
 |25|[DeltaForce&#45;EU&#45;FullSDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52049)|`2025-11-28 00:22:04`|
+|9|[WindowsHook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52058)|`2025-11-28 10:20:59`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FFA Bot Lobby Glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/726888-ffa-bot-lobby-glitch.html)|`2025-11-28 10:08:00`|`Call of Duty: Black Ops 7`|
+|[Mutant HWID Spoofer by Samuel Tulach](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727169-mutant-hwid-spoofer-samuel-tulach.html)|`2025-11-28 10:04:00`|`Anti-Cheat Bypass`|
+|[External Linking in a TXT?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/727326-external-linking-txt.html)|`2025-11-28 09:50:00`|`PC Software`|
+|[Newest Mouse Movement Method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/727075-mouse-movement-method.html)|`2025-11-28 09:40:00`|`Valorant`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-11-28 08:40:00`|`Other FPS Games`|
 |[dx9,10,11,12 hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/727322-dx9-10-11-12-hook.html)|`2025-11-28 08:36:00`|`C and C++`|
 |[dxgkrnl randomly blue screening](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727183-dxgkrnl-randomly-blue-screening.html)|`2025-11-28 08:28:00`|`Anti-Cheat Bypass`|
