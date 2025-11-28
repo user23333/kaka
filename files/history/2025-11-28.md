@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-11-28 08:40:00`|`Other FPS Games`|
+|[dx9,10,11,12 hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/727322-dx9-10-11-12-hook.html)|`2025-11-28 08:36:00`|`C and C++`|
+|[dxgkrnl randomly blue screening](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727183-dxgkrnl-randomly-blue-screening.html)|`2025-11-28 08:28:00`|`Anti-Cheat Bypass`|
+|[How to make external ESP in VR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/724025-external-esp-vr.html)|`2025-11-28 08:03:00`|`General Programming and Reversing`|
+|[Chillware FOR CSGO&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/727320-chillware-csgo.html)|`2025-11-28 08:03:00`|`Counterstrike Global Offensive`|
 |[Sleepy's External &#45; Outline, Skeleton, and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external-outline-skeleton-aimbot.html)|`2025-11-28 07:54:00`|`Overwatch`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-11-28 07:42:00`|`Phasmophobia`|
 |[Normal bot Vs AI Bots detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/727317-normal-bot-vs-ai-bots-detection.html)|`2025-11-28 07:40:00`|`PUBG Mobile`|
