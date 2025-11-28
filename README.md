@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[yimmenuv2 RP Hack for enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/727372-yimmenuv2-rp-hack-enhanced.html)|`2025-11-28 21:14:00`|`Grand Theft Auto V`|
+|[Need Help Bypassing the Game's Anti&#45;Cheat to Get Macros Working in an MMORPG Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727368-help-bypassing-games-anti-cheat-macros-mmorpg-game.html)|`2025-11-28 20:49:00`|`Anti-Cheat Bypass`|
 |[PUBG No recoil macro For all razer mouse using Razer synapse &#91;Undetected&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/658324-pubg-recoil-macro-razer-mouse-using-razer-synapse-undetected.html)|`2025-11-28 20:44:00`|`PUBG Releases`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-11-28 20:32:00`|`Other MMORPG and Strategy`|
 |[Where Winds Meet, Lua Executor &#124; IExecut3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726615-winds-meet-lua-executor-iexecut3.html)|`2025-11-28 20:31:00`|`Other MMORPG and Strategy`|
