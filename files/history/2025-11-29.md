@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cs2 internal hvh cheat working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725162-cs2-internal-hvh-cheat.html)|`2025-11-29 02:39:00`|`Counter-Strike 2`|
+|[Need Help Bypassing the Game's Anti&#45;Cheat to Get Macros Working in an MMORPG Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727368-help-bypassing-games-anti-cheat-macros-mmorpg-game.html)|`2025-11-29 02:39:00`|`Anti-Cheat Bypass`|
+|[EntityLoop race condition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/727201-entityloop-race-condition.html)|`2025-11-29 02:35:00`|`Rust`|
 |[i need help making walls for rainbow six siege x &#40;steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/727407-help-walls-rainbow-six-siege-steam.html)|`2025-11-29 02:17:00`|`Rainbow Six Siege`|
 |[External Autowall w/o Material Parsing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727406-external-autowall-material-parsing.html)|`2025-11-29 02:16:00`|`Counter-Strike 2`|
 |[Bypassing / Spoofing Natives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/727151-bypassing-spoofing-natives.html)|`2025-11-29 02:15:00`|`Alternative Online Mods`|
