@@ -24,9 +24,18 @@
 |50|[Tarkov Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52060)|`2025-11-29 00:10:51`|
 |39|[WindowsHook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52058)|`2025-11-29 00:10:51`|
 |8|[SDK&#95;DarkAndDarker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52057)|`2025-11-29 00:10:51`|
+|1|[MHUR&#45;S14](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52096)|`2025-11-29 02:21:43`|
+|4|[mhur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52094)|`2025-11-29 02:21:43`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[i need help making walls for rainbow six siege x &#40;steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/727407-help-walls-rainbow-six-siege-steam.html)|`2025-11-29 02:17:00`|`Rainbow Six Siege`|
+|[External Autowall w/o Material Parsing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727406-external-autowall-material-parsing.html)|`2025-11-29 02:16:00`|`Counter-Strike 2`|
+|[Bypassing / Spoofing Natives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/727151-bypassing-spoofing-natives.html)|`2025-11-29 02:15:00`|`Alternative Online Mods`|
+|[steam x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727364-steam-x64.html)|`2025-11-29 02:14:00`|`Counter-Strike 2`|
+|[Perfect chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726949-perfect-chams.html)|`2025-11-29 02:10:00`|`Counter-Strike 2`|
+|[GRANDRP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/727404-grandrp.html)|`2025-11-29 02:10:00`|`Alternative Online Mods`|
+|[Dead Frontier 2 Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/722406-dead-frontier-2-cheats.html)|`2025-11-29 02:10:00`|`Other Games`|
 |[Warframe Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718442-warframe-internal-cheat.html)|`2025-11-29 01:53:00`|`Other FPS Games`|
 |[DMA Stealth &#45; Are these detection methods actually used?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725039-dma-stealth-detection-methods-actually.html)|`2025-11-29 01:52:00`|`Anti-Cheat Bypass`|
 |[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2025-11-29 01:51:00`|`Valorant`|
