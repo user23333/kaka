@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Issue retrieving a class with a dot in its name in Il2Cpp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/727360-issue-retrieving-class-dot-name-il2cpp.html)|`2025-11-28 17:54:00`|`Rust`|
 |[play valorant in a virtual machine &#40;bypass bans&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/726587-play-valorant-virtual-machine-bypass-bans.html)|`2025-11-28 17:30:00`|`Valorant`|
 |[How games using EAC knows is it launched via EAC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727215-games-using-eac-launched-via-eac.html)|`2025-11-28 17:12:00`|`Anti-Cheat Bypass`|
 |[Getting banned by Server&#45;Side AC &#40;Internal D3D9 Hook&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/727241-getting-banned-server-ac-internal-d3d9-hook.html)|`2025-11-28 17:10:00`|`Garry's Mod`|
