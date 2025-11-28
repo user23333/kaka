@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pipsi&#45;WW &#91; Wuthering Waves Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/638632-pipsi-ww-wuthering-waves-cheat.html)|`2025-11-28 23:49:00`|`Other MMORPG and Strategy`|
 |[Ricochet trolling?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/727081-ricochet-trolling.html)|`2025-11-28 23:36:00`|`Call of Duty: Black Ops 6`|
 |[Black ops 7 hwid ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/726606-black-ops-7-hwid-ban.html)|`2025-11-28 23:35:00`|`Call of Duty: Black Ops 7`|
 |[DayPay Internal &#91;STEAM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/720131-daypay-internal-steam.html)|`2025-11-28 22:49:00`|`Payday 3`|
