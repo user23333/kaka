@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How games using EAC knows is it launched via EAC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727215-games-using-eac-launched-via-eac.html)|`2025-11-28 17:12:00`|`Anti-Cheat Bypass`|
+|[Getting banned by Server&#45;Side AC &#40;Internal D3D9 Hook&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/727241-getting-banned-server-ac-internal-d3d9-hook.html)|`2025-11-28 17:10:00`|`Garry's Mod`|
+|[Questions about assistance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/722805-questions-assistance.html)|`2025-11-28 17:04:00`|`Programming for Beginners`|
 |[EAC injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695972-eac-injector.html)|`2025-11-28 16:44:00`|`Anti-Cheat Bypass`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2025-11-28 16:32:00`|`Call of Duty: Black Ops 7`|
 |[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2025-11-28 16:27:00`|`Grand Theft Auto V`|
