@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ReClass DMA Plugin &#43; WriteMemory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/724702-reclass-dma-plugin-writememory.html)|`2025-11-29 05:13:00`|`General Programming and Reversing`|
 |[Fully usermode bypass framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727001-usermode-bypass-framework.html)|`2025-11-29 04:49:00`|`Anti-Cheat Bypass`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-11-29 04:41:00`|`Escape from Tarkov`|
 |[Among Us undetected cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/727307-undetected-cheat.html)|`2025-11-29 04:39:00`|`Among Us`|
