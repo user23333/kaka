@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MRPCS::MemHASH Hook&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/720734-mrpcs-memhash-hook.html)|`2025-11-28 15:04:00`|`PUBG Mobile`|
 |[forceforward not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727349-forceforward.html)|`2025-11-28 14:58:00`|`Counter-Strike 2`|
 |[R/W MDL Kernel Driver w/ CR3 resolution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727348-mdl-kernel-driver-cr3-resolution.html)|`2025-11-28 14:57:00`|`Anti-Cheat Bypass`|
 |[Osussist v3 MultiHack for osu&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/671577-osussist-v3-multihack-osu.html)|`2025-11-28 14:37:00`|`Other Games`|
