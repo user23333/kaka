@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2025-11-28 11:27:00`|`Palia`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-11-28 11:26:00`|`Other FPS Games`|
+|[Help fixing aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/727339-help-fixing-aimbot.html)|`2025-11-28 11:24:00`|`Programming for Beginners`|
 |[FFA Bot Lobby Glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/726888-ffa-bot-lobby-glitch.html)|`2025-11-28 10:08:00`|`Call of Duty: Black Ops 7`|
 |[Mutant HWID Spoofer by Samuel Tulach](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727169-mutant-hwid-spoofer-samuel-tulach.html)|`2025-11-28 10:04:00`|`Anti-Cheat Bypass`|
 |[External Linking in a TXT?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/727326-external-linking-txt.html)|`2025-11-28 09:50:00`|`PC Software`|
