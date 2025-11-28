@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I Cant find a way to free my cursor in AssaultCube](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727438-cant-free-cursor-assaultcube.html)|`2025-11-29 06:42:00`|`Other FPS Games`|
 |[Vac Bypass Loader & Injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727254-vac-bypass-loader-injection.html)|`2025-11-29 06:42:00`|`Counter-Strike 2`|
 |[Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727425-chams.html)|`2025-11-29 06:32:00`|`Counter-Strike 2`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-11-29 06:20:00`|`Other FPS Games`|
