@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTA V Enhanced cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/727047-gta-enhanced-cheating.html)|`2025-11-29 03:12:00`|`Grand Theft Auto V`|
+|[hwid banned by battleye, how can i fix?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/727076-hwid-banned-battleye-fix.html)|`2025-11-29 03:07:00`|`Grand Theft Auto V`|
+|[moneyless](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/727410-moneyless.html)|`2025-11-29 03:07:00`|`Team Fortress 2`|
+|[How to Bypass Bot/AI Restrictions in Portal PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/726514-bypass-bot-ai-restrictions-portal-pve.html)|`2025-11-29 03:07:00`|`Battlefield 6`|
+|[heyo&#33; this be my intro i think '^'](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/727363-heyo-intro.html)|`2025-11-29 03:06:00`|`Introductions`|
+|[Did battleyent got patched today?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727170-battleyent-patched.html)|`2025-11-29 03:04:00`|`Escape from Tarkov`|
 |[Understanding FiveM’s Heartbeat Blob Behavior](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/727259-understanding-fivem-heartbeat-blob-behavior.html)|`2025-11-29 02:48:00`|`Alternative Online Mods`|
 |[cs2 internal hvh cheat working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725162-cs2-internal-hvh-cheat.html)|`2025-11-29 02:39:00`|`Counter-Strike 2`|
 |[Need Help Bypassing the Game's Anti&#45;Cheat to Get Macros Working in an MMORPG Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727368-help-bypassing-games-anti-cheat-macros-mmorpg-game.html)|`2025-11-29 02:39:00`|`Anti-Cheat Bypass`|
