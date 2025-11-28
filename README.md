@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Botlobby Tool FREE &#91;BO6/MW3/WARZONE&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/696676-botlobby-tool-free-bo6-mw3-warzone.html)|`2025-11-28 15:41:00`|`Call of Duty: Black Ops 6`|
 |[MRPCS::MemHASH Hook&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/720734-mrpcs-memhash-hook.html)|`2025-11-28 15:04:00`|`PUBG Mobile`|
 |[forceforward not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727349-forceforward.html)|`2025-11-28 14:58:00`|`Counter-Strike 2`|
 |[R/W MDL Kernel Driver w/ CR3 resolution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727348-mdl-kernel-driver-cr3-resolution.html)|`2025-11-28 14:57:00`|`Anti-Cheat Bypass`|
