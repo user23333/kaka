@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-11-29 07:18:00`|`HELLDIVERS 2`|
+|[Game Cheat development](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/722466-game-cheat-development.html)|`2025-11-29 07:12:00`|`Other Games`|
+|[PANOPTYCA : Idle RPG Manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/727441-panoptyca-idle-rpg-manager.html)|`2025-11-29 07:11:00`|`Cheat Engine Tables`|
+|[RLBotPack bots into online multiplayer games&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/727440-rlbotpack-bots-online-multiplayer-games.html)|`2025-11-29 07:11:00`|`Other Games`|
+|[DMAUnBlocker &#124; Firmware &#124; EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726582-dmaunblocker-firmware-eac.html)|`2025-11-29 07:08:00`|`Anti-Cheat Bypass`|
 |[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2025-11-29 07:06:00`|`Other FPS Games`|
 |[Mono/IL2CPP Game List](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/590622-mono-il2cpp-game-list.html)|`2025-11-29 06:45:00`|`Unity`|
 |[I Cant find a way to free my cursor in AssaultCube](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727438-cant-free-cursor-assaultcube.html)|`2025-11-29 06:42:00`|`Other FPS Games`|
