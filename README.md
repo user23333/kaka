@@ -11,6 +11,7 @@
 |16|[VORTEX Emulator for Warzone &#40;1ms Latency&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/726718-vortex-emulator-warzone-1ms-latency.html)|`2025-11-29 00:10:51`|`call-of-duty-black-ops-7-a`|
 |8|[EFT DUMPER INTERNAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726986-eft-dumper-internal.html)|`2025-11-29 00:10:51`|`escape-from-tarkov`|
 |19|[KiPageFault Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726791-kipagefault-hook.html)|`2025-11-29 00:10:51`|`anti-cheat-bypass`|
+|13|[EXTERNAL ESP&#43;TRIGGERBOT SOURCECODE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/727202-external-esp-triggerbot-sourcecode.html)|`2025-11-29 02:59:29`|`apex-legends`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
