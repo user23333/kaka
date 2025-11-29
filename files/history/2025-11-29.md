@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Unity IL2CPP&#93; Bleach: Soul Resonance &#45; Dynamic Instrumentation Issues with Frida: Ac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/727148-unity-il2cpp-bleach-soul-resonance-dynamic-instrumentation-issues-frida-ac.html)|`2025-11-29 20:33:00`|`Android`|
+|[Horse Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/726447-horse-menu.html)|`2025-11-29 20:12:00`|`Red Dead Redemption 2`|
 |[visual studio breakpoints in eft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726771-visual-studio-breakpoints-eft.html)|`2025-11-29 19:52:00`|`Escape from Tarkov`|
 |[hackspeed loot TP stealth](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727023-hackspeed-loot-tp-stealth.html)|`2025-11-29 19:51:00`|`Escape from Tarkov`|
 |[&#91;Article&#93; TPM Pitfalls in Anti&#45;Cheat Systems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726453-article-tpm-pitfalls-anti-cheat-systems.html)|`2025-11-29 19:07:00`|`Anti-Cheat Bypass`|
