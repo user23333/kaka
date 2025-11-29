@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-11-29 21:19:00`|`Sea of Thieves`|
+|[RONFentry &#45; Ready or Not Internal, Feature&#45;Packed Multitool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716446-ronfentry-ready-internal-feature-packed-multitool.html)|`2025-11-29 21:16:00`|`Other FPS Games`|
+|[🧩 MRON Injector &#43; MW2019 GSC Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/720981-mron-injector-mw2019-gsc-scripts.html)|`2025-11-29 21:09:00`|`Call of Duty: Modern Warfare`|
 |[Xenon Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/727484-xenon-framework.html)|`2025-11-29 20:54:00`|`General Programming and Reversing`|
 |[&#91;Unity IL2CPP&#93; Bleach: Soul Resonance &#45; Dynamic Instrumentation Issues with Frida: Ac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/727148-unity-il2cpp-bleach-soul-resonance-dynamic-instrumentation-issues-frida-ac.html)|`2025-11-29 20:33:00`|`Android`|
 |[Horse Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/726447-horse-menu.html)|`2025-11-29 20:12:00`|`Red Dead Redemption 2`|
