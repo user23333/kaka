@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VORTEX Emulator for Warzone &#40;1ms Latency&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/726718-vortex-emulator-warzone-1ms-latency.html)|`2025-11-30 01:26:00`|`Call of Duty: Black Ops 7`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-11-30 01:19:00`|`Escape from Tarkov`|
+|[Getting rid of dead players efficiently](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/727112-getting-rid-dead-players-efficiently.html)|`2025-11-30 01:18:00`|`Rust`|
 |[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-11-30 01:17:00`|`Call of Duty: Black Ops 6`|
 |[Hypervisor bsod on EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723975-hypervisor-bsod-eac.html)|`2025-11-30 01:17:00`|`Anti-Cheat Bypass`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-11-30 01:08:00`|`League of Legends`|
