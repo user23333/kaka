@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6 unlock all](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/727462-r6-unlock.html)|`2025-11-30 00:46:00`|`Rainbow Six Siege`|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-11-30 00:43:00`|`Counter-Strike 2 Releases`|
+|[༺ 𝙉𝙊𝙑𝘼 ༻ — ✧ Ultimate Insyde Spoofer ✧](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712892-ultimate-insyde-spoofer.html)|`2025-11-30 00:38:00`|`Valorant`|
 |[Newbie question &#45; DMA or software cheating?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/727463-newbie-question-dma-software-cheating.html)|`2025-11-30 00:29:00`|`Rust`|
 |[Understanding FiveM’s Heartbeat Blob Behavior](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/727259-understanding-fivem-heartbeat-blob-behavior.html)|`2025-11-30 00:28:00`|`Alternative Online Mods`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-11-30 00:28:00`|`Other FPS Games`|
