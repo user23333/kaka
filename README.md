@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Updated CS2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/721585-updated-cs2-external-esp.html)|`2025-11-29 22:55:00`|`Counter-Strike 2 Releases`|
 |[PhasmoCheatV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/722532-phasmocheatv.html)|`2025-11-29 22:48:00`|`Phasmophobia`|
 |[offset in a 64&#45;bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/727489-offset-64-bit.html)|`2025-11-29 22:07:00`|`PUBG Mobile`|
 |[dxgkrnl randomly blue screening](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727183-dxgkrnl-randomly-blue-screening.html)|`2025-11-29 21:44:00`|`Anti-Cheat Bypass`|
