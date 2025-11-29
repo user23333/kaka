@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Updated PVZ GW2 Cheat&#40;s&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/686351-updated-pvz-gw2-cheat.html)|`2025-11-30 04:30:00`|`Forum General`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2025-11-30 04:29:00`|`Call of Duty: Black Ops 7`|
+|[Pixel Gun 3D Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/719939-pixel-gun-3d-cheat.html)|`2025-11-30 04:22:00`|`Other Games`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-11-30 04:19:00`|`Counter-Strike 2`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-11-30 04:06:00`|`Marvel Rivals`|
 |[Mutant HWID Spoofer by Samuel Tulach](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727169-mutant-hwid-spoofer-samuel-tulach.html)|`2025-11-30 04:02:00`|`Anti-Cheat Bypass`|
 |[Counter&#45;Strike 2 external &#124; Semi rage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727380-counter-strike-2-external-semi-rage.html)|`2025-11-30 03:52:00`|`Counter-Strike 2`|
