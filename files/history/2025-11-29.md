@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;DMA&#93; tarkov il2cpp dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726811-dma-tarkov-il2cpp-dumper.html)|`2025-11-29 15:45:00`|`Escape from Tarkov`|
 |[Exploring DMA FW with VMD Functionality &#45; Undetected in VGK, ACE, and FACEIT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695980-exploring-dma-fw-vmd-functionality-undetected-vgk-ace-faceit.html)|`2025-11-29 15:29:00`|`Anti-Cheat Bypass`|
 |[ACCOUNT VAL 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722001-account-val-5-a.html)|`2025-11-29 15:16:00`|`Valorant`|
 |[need sig](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726978-sig.html)|`2025-11-29 15:14:00`|`Counter-Strike 2`|
