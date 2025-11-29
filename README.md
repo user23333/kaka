@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New Tool &#45; AoE4 Function Address Finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/725250-tool-aoe4-function-address-finder.html)|`2025-11-30 06:38:00`|`Age of Empires`|
 |[Where Winds Meet, Lua Executor &#124; IExecut3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726615-winds-meet-lua-executor-iexecut3.html)|`2025-11-30 06:31:00`|`Other MMORPG and Strategy`|
 |[Alien UFO Scaleform](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/727550-alien-ufo-scaleform.html)|`2025-11-30 06:23:00`|`Grand Theft Auto V`|
 |[Getting bullet amounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727537-getting-bullet-amounts.html)|`2025-11-30 06:22:00`|`Counter-Strike 2`|
