@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HWID ban &#40;VAN 152&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/727557-hwid-ban-van-152-a.html)|`2025-11-30 06:53:00`|`League of Legends`|
+|[Cheat rematch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/727555-cheat-rematch.html)|`2025-11-30 06:50:00`|`Off Topic`|
 |[PVE cheats for Escape from Tarkov PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727554-pve-cheats-escape-tarkov-pve.html)|`2025-11-30 06:48:00`|`Escape from Tarkov`|
 |[how to start reverse engineering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/727551-start-reverse-engineering.html)|`2025-11-30 06:31:00`|`General Programming and Reversing`|
 |[New Tool &#45; AoE4 Function Address Finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/725250-tool-aoe4-function-address-finder.html)|`2025-11-30 06:38:00`|`Age of Empires`|
