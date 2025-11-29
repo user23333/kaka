@@ -12,6 +12,7 @@
 |8|[EFT DUMPER INTERNAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726986-eft-dumper-internal.html)|`2025-11-29 00:10:51`|`escape-from-tarkov`|
 |19|[KiPageFault Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726791-kipagefault-hook.html)|`2025-11-29 00:10:51`|`anti-cheat-bypass`|
 |13|[EXTERNAL ESP&#43;TRIGGERBOT SOURCECODE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/727202-external-esp-triggerbot-sourcecode.html)|`2025-11-29 02:59:29`|`apex-legends`|
+|9|[GTA V Enhanced cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/727047-gta-enhanced-cheating.html)|`2025-11-29 21:04:49`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Xenon Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/727484-xenon-framework.html)|`2025-11-29 20:54:00`|`General Programming and Reversing`|
 |[&#91;Unity IL2CPP&#93; Bleach: Soul Resonance &#45; Dynamic Instrumentation Issues with Frida: Ac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/727148-unity-il2cpp-bleach-soul-resonance-dynamic-instrumentation-issues-frida-ac.html)|`2025-11-29 20:33:00`|`Android`|
 |[Horse Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/726447-horse-menu.html)|`2025-11-29 20:12:00`|`Red Dead Redemption 2`|
 |[visual studio breakpoints in eft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726771-visual-studio-breakpoints-eft.html)|`2025-11-29 19:52:00`|`Escape from Tarkov`|
