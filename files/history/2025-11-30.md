@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do I decompile &#46;ysc files?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/727581-decompile-ysc-files.html)|`2025-11-30 11:54:00`|`Grand Theft Auto V`|
 |[Is max entity index updated or I'm getting entities wrong?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727411-max-entity-index-updated-im-getting-entities-wrong.html)|`2025-11-30 11:45:00`|`Counter-Strike 2`|
 |[Battleyent 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726095-battleyent-2-0-a.html)|`2025-11-30 11:13:00`|`Escape from Tarkov`|
 |[RoboQuest Internal v0&#46;692890](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/726266-roboquest-internal-v0-692890-a.html)|`2025-11-30 11:12:00`|`Other FPS Games`|
