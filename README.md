@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is a signed driver needed for B07](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/727624-signed-driver-b07.html)|`2025-12-01 01:04:00`|`Call of Duty: Black Ops 6`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-12-01 00:54:00`|`Alternative Online Mods`|
 |[need smartgaga work with pubg 4&#46;1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/727655-smartgaga-pubg-4-1-0-a.html)|`2025-12-01 00:46:00`|`PUBG Mobile`|
 |[How to get pattern to natives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/727654-pattern-natives.html)|`2025-12-01 00:44:00`|`Alternative Online Mods`|
