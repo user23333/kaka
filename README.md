@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike Leveling Up Your Hack&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/726530-bloodstrike-leveling-hack.html)|`2025-11-30 21:23:00`|`Other FPS Games`|
+|[Unturned External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727516-unturned-external-esp.html)|`2025-11-30 21:23:00`|`Other FPS Games`|
+|[EgguWare V2 &#91;Linux Bypass&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727450-egguware-v2-linux-bypass.html)|`2025-11-30 21:22:00`|`Other FPS Games`|
+|[unsigned driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/727625-unsigned-driver.html)|`2025-11-30 21:20:00`|`Call of Duty: Black Ops 7`|
+|[bloodstrike internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/726814-bloodstrike-internal.html)|`2025-11-30 21:18:00`|`Other FPS Games`|
+|[Is a signed driver needed for B07](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/727624-signed-driver-b07.html)|`2025-11-30 21:18:00`|`Call of Duty: Black Ops 6`|
 |[Seeking help from ImGui for anti cheating function detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/724990-seeking-help-imgui-anti-cheating-function-detection.html)|`2025-11-30 20:32:00`|`C and C++`|
 |[Entity list for weeapons, nades esp outdated?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727617-entity-list-weeapons-nades-esp-outdated.html)|`2025-11-30 20:31:00`|`Counter-Strike 2`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-11-30 20:06:00`|`Other FPS Games`|
