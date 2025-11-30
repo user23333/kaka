@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is max entity index updated or I'm getting entities wrong?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727411-max-entity-index-updated-im-getting-entities-wrong.html)|`2025-11-30 11:45:00`|`Counter-Strike 2`|
+|[Battleyent 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726095-battleyent-2-0-a.html)|`2025-11-30 11:13:00`|`Escape from Tarkov`|
+|[RoboQuest Internal v0&#46;692890](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/726266-roboquest-internal-v0-692890-a.html)|`2025-11-30 11:12:00`|`Other FPS Games`|
+|[SastashaFied iw4x SP ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/726232-sastashafied-iw4x-sp-esp.html)|`2025-11-30 11:10:00`|`Call of Duty 6: Modern Warfare 2`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-11-30 10:53:00`|`Rainbow Six Siege`|
 |[Cs2 external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726020-cs2-external.html)|`2025-11-30 10:35:00`|`Counter-Strike 2`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-11-30 10:33:00`|`Apex Legends`|
