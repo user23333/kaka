@@ -12,6 +12,7 @@
 |9|[GTA V Enhanced cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/727047-gta-enhanced-cheating.html)|`2025-11-30 00:36:25`|`grand-theft-auto-v`|
 |20|[KiPageFault Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726791-kipagefault-hook.html)|`2025-11-30 00:36:25`|`anti-cheat-bypass`|
 |4|[china unlock doors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727356-china-unlock-doors.html)|`2025-11-30 10:55:36`|`escape-from-tarkov`|
+|6|[&#91;DMA&#93; tarkov il2cpp dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726811-dma-tarkov-il2cpp-dumper.html)|`2025-11-30 19:00:27`|`escape-from-tarkov`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
