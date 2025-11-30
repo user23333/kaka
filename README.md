@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Aion2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726048-aion2-reversal-structs-offsets.html)|`2025-11-30 13:25:00`|`Other MMORPG and Strategy`|
+|[Does anyone know the chain to get the NightVision/ThermalVision from fps Cameras?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727586-chain-nightvision-thermalvision-fps-cameras.html)|`2025-11-30 13:20:00`|`Escape from Tarkov`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-11-30 13:09:00`|`Grand Theft Auto V`|
 |[Apex Update Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/727583-apex-update-question.html)|`2025-11-30 12:39:00`|`Apex Legends`|
 |[How do I decompile &#46;ysc files?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/727581-decompile-ysc-files.html)|`2025-11-30 11:54:00`|`Grand Theft Auto V`|
