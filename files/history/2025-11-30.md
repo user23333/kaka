@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fivem aimbot and esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/720777-fivem-aimbot-esp.html)|`2025-11-30 23:49:00`|`Alternative Online Mods`|
 |[Roblox External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/727239-roblox-external.html)|`2025-11-30 23:44:00`|`Other Games`|
 |[Dumping Games &#43; Reversing Thia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727562-dumping-games-reversing-thia.html)|`2025-11-30 23:35:00`|`Anti-Cheat Bypass`|
 |[An outdated DayZ DMA source from 2024 November](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/726584-outdated-dayz-dma-source-2024-november.html)|`2025-11-30 23:34:00`|`DayZ SA`|
