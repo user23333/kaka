@@ -11,6 +11,7 @@
 |8|[EFT DUMPER INTERNAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726986-eft-dumper-internal.html)|`2025-11-30 00:36:25`|`escape-from-tarkov`|
 |9|[GTA V Enhanced cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/727047-gta-enhanced-cheating.html)|`2025-11-30 00:36:25`|`grand-theft-auto-v`|
 |20|[KiPageFault Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726791-kipagefault-hook.html)|`2025-11-30 00:36:25`|`anti-cheat-bypass`|
+|4|[china unlock doors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727356-china-unlock-doors.html)|`2025-11-30 10:55:36`|`escape-from-tarkov`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -25,9 +26,15 @@
 |66|[&#91;DMA&#93; Arc Raiders GWorld Decryptor Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52068)|`2025-11-30 00:36:25`|
 |12|[No Man's Sky Internal v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52067)|`2025-11-30 00:36:25`|
 |1|[MarvelSDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52090)|`2025-11-30 04:14:44`|
+|5|[MDLH&#45;UC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52091)|`2025-11-30 10:55:36`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-11-30 10:53:00`|`Rainbow Six Siege`|
+|[Cs2 external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726020-cs2-external.html)|`2025-11-30 10:35:00`|`Counter-Strike 2`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-11-30 10:33:00`|`Apex Legends`|
+|[clean imgui base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/726017-clean-imgui-base.html)|`2025-11-30 10:31:00`|`C and C++`|
+|[UE5 Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/727150-ue5-update.html)|`2025-11-30 10:21:00`|`Valorant`|
 |[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2025-11-30 08:58:00`|`Unity`|
 |[Welcoming a new staff member](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/727560-welcoming-staff.html)|`2025-11-30 08:54:00`|`Information and Announcements`|
 |[Anti&#45;Debugger?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/726592-anti-debugger.html)|`2025-11-30 08:49:00`|`Maple Story`|
