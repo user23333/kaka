@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2025-11-30 08:58:00`|`Unity`|
+|[Welcoming a new staff member](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/727560-welcoming-staff.html)|`2025-11-30 08:54:00`|`Information and Announcements`|
+|[Anti&#45;Debugger?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/726592-anti-debugger.html)|`2025-11-30 08:49:00`|`Maple Story`|
+|[VEIN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/723560-vein.html)|`2025-11-30 08:39:00`|`Other FPS Games`|
+|[Inventory Changer Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727561-inventory-changer-issues.html)|`2025-11-30 08:33:00`|`Counter-Strike 2`|
+|[How to loop thru smoke and molly entities?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727313-loop-thru-smoke-molly-entities.html)|`2025-11-30 08:31:00`|`Counter-Strike 2`|
 |[External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/719757-external-cheat.html)|`2025-11-30 07:36:00`|`Star Wars Battlefront 2`|
 |[yimmenuv2 RP Hack for enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/727372-yimmenuv2-rp-hack-enhanced.html)|`2025-11-30 07:12:00`|`Grand Theft Auto V`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2025-11-30 07:02:00`|`Grand Theft Auto V`|
