@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2025-12-01 03:29:00`|`Counter-Strike 2 Releases`|
+|[Warframe Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718442-warframe-internal-cheat.html)|`2025-12-01 03:19:00`|`Other FPS Games`|
 |[is there any way to speed up bunker and acid lab production on enhanced using yim v2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725953-speed-bunker-acid-lab-production-enhanced-using-yim-v2.html)|`2025-12-01 03:28:00`|`Grand Theft Auto V`|
 |[GTA V Enhanced cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/727047-gta-enhanced-cheating.html)|`2025-12-01 03:09:00`|`Grand Theft Auto V`|
 |[VAN: RESTRICTION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/727671-van-restriction.html)|`2025-12-01 03:04:00`|`Valorant`|
