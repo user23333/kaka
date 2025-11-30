@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R/W MDL Kernel Driver w/ CR3 resolution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727348-mdl-kernel-driver-cr3-resolution.html)|`2025-11-30 18:52:00`|`Anti-Cheat Bypass`|
+|[Calculating PDE/PPE/PXE Bases](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/727609-calculating-pde-ppe-pxe-bases.html)|`2025-11-30 18:49:00`|`General Programming and Reversing`|
 |[Force boss spawn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727606-force-boss-spawn.html)|`2025-11-30 18:42:00`|`Escape from Tarkov`|
 |[How to make a ghost change state?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/727479-ghost-change.html)|`2025-11-30 18:40:00`|`Phasmophobia`|
 |[ARK Survival Evolved ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/588369-ark-survival-evolved-esp.html)|`2025-11-30 18:34:00`|`Other FPS Games`|
