@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[battleyent PVE Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726288-battleyent-pve-patch.html)|`2025-12-01 00:37:00`|`Escape from Tarkov`|
+|[Calculating PDE/PPE/PXE Bases](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/727609-calculating-pde-ppe-pxe-bases.html)|`2025-12-01 00:36:00`|`General Programming and Reversing`|
+|[globalvar struct](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727652-globalvar-struct.html)|`2025-12-01 00:34:00`|`Counter-Strike 2`|
+|[&#91;DMA&#93; tarkov il2cpp dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726811-dma-tarkov-il2cpp-dumper.html)|`2025-12-01 00:32:00`|`Escape from Tarkov`|
+|[YimMenuV2Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/697581-yimmenuv2mod.html)|`2025-12-01 00:29:00`|`Grand Theft Auto V`|
+|[Anti aim internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727501-anti-aim-internal.html)|`2025-12-01 00:29:00`|`Counter-Strike 2`|
+|[yimmenuv2 RP Hack for enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/727372-yimmenuv2-rp-hack-enhanced.html)|`2025-12-01 00:26:00`|`Grand Theft Auto V`|
+|[Hero and bone ids?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/725941-hero-bone-ids.html)|`2025-12-01 00:23:00`|`Marvel Rivals`|
 |[Where Winds Meet Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/725040-winds-meet-reversal-structs-offsets.html)|`2025-12-01 00:16:00`|`Other MMORPG and Strategy`|
 |[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2025-12-01 00:14:00`|`Valorant`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-12-01 00:14:00`|`Escape from Tarkov`|
