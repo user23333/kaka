@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[More dupe methods? in 1&#46;28](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/727683-dupe-methods-1-28-a.html)|`2025-12-01 06:59:00`|`DayZ SA`|
+|[valorant dll injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708406-valorant-dll-injector.html)|`2025-12-01 06:59:00`|`Valorant`|
 |[Where winds meet Dye color editing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/727694-winds-meet-dye-color-editing.html)|`2025-12-01 06:54:00`|`Other MMORPG and Strategy`|
 |[LVL limit with yim menu v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/727645-lvl-limit-yim-menu-v2.html)|`2025-12-01 06:47:00`|`Grand Theft Auto V`|
 |[POLYGON basic external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710575-polygon-basic-external.html)|`2025-12-01 06:30:00`|`Other FPS Games`|
