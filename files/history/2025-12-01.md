@@ -25,9 +25,15 @@
 |341|[apexexternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52081)|`2025-12-01 00:16:33`|
 |12|[SDK&#45;Strinova&#45;Win64&#45;Shipping&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52079)|`2025-12-01 00:16:33`|
 |180|[driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52075)|`2025-12-01 00:16:33`|
+|2|[Escape the Backrooms 1&#46;01&#40;1&#46;2544&#41; cheat table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52106)|`2025-12-01 11:16:32`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-12-01 11:05:00`|`Battlefield 4`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2025-12-01 11:04:00`|`Call of Duty: Black Ops 7`|
+|[Aviator Predictor &#45; Decryptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/726550-aviator-predictor-decryptor.html)|`2025-12-01 11:04:00`|`Other Games`|
+|[Getting rid of dead players efficiently](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/727112-getting-rid-dead-players-efficiently.html)|`2025-12-01 11:02:00`|`Rust`|
+|[&#91;L4D2&#93; Cheat Base With Gamesense/&#91;removed&#93; Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/726456-l4d2-cheat-base-gamesense-removed-menu.html)|`2025-12-01 10:59:00`|`Other FPS Games`|
 |[Cs2 external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726020-cs2-external.html)|`2025-12-01 08:57:00`|`Counter-Strike 2`|
 |[Welcoming a new staff member](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/727560-welcoming-staff.html)|`2025-12-01 08:52:00`|`Information and Announcements`|
 |[EntityLoop race condition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/727201-entityloop-race-condition.html)|`2025-12-01 08:52:00`|`Rust`|
