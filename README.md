@@ -12,6 +12,7 @@
 |24|[R/W MDL Kernel Driver w/ CR3 resolution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727348-mdl-kernel-driver-cr3-resolution.html)|`2025-12-02 00:21:17`|`anti-cheat-bypass`|
 |4|[hackspeed loot TP stealth](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727023-hackspeed-loot-tp-stealth.html)|`2025-12-02 00:21:17`|`escape-from-tarkov`|
 |3|[Did battleyent got patched today?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727170-battleyent-patched.html)|`2025-12-02 02:50:13`|`escape-from-tarkov`|
+|36|[Bypass new Battleye Integry Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727784-bypass-battleye-integry-check.html)|`2025-12-02 07:12:55`|`escape-from-tarkov`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
