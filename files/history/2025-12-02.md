@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Crab Champions Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/725797-crab-champions-internal.html)|`2025-12-02 04:43:00`|`Other Games`|
 |[External cheat esp lagging](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/726863-external-cheat-esp-lagging.html)|`2025-12-02 04:42:00`|`Call of Duty: Black Ops 6`|
 |[ARDUINO SPOOFING](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/727798-arduino-spoofing.html)|`2025-12-02 04:29:00`|`Valorant`|
 |[Battleyent Fix &#45; Small Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727797-battleyent-fix-crash.html)|`2025-12-02 04:22:00`|`Escape from Tarkov`|
