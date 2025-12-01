@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Welcoming a new staff member](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/727560-welcoming-staff.html)|`2025-12-02 06:31:00`|`Information and Announcements`|
+|[Disable PVS in Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727750-disable-pvs-chams.html)|`2025-12-02 06:18:00`|`Counter-Strike 2`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-12-02 06:13:00`|`Counter-Strike 2`|
 |[HWID ban &#40;VAN 152&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/727557-hwid-ban-van-152-a.html)|`2025-12-02 06:01:00`|`League of Legends`|
 |[ImGui in a Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/727591-imgui-internal.html)|`2025-12-02 06:01:00`|`General Programming and Reversing`|
 |[&#91;DMA&#93; tarkov il2cpp dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726811-dma-tarkov-il2cpp-dumper.html)|`2025-12-02 05:48:00`|`Escape from Tarkov`|
