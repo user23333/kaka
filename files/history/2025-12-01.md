@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Game crashes everytime i inject V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/727722-game-crashes-everytime-inject-v2.html)|`2025-12-01 12:14:00`|`Grand Theft Auto V`|
+|[Client&#46;0&#46;12&#46;12&#46;11&#46;16440](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727283-client-0-12-12-11-16440-a.html)|`2025-12-01 12:07:00`|`Escape from Tarkov`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-12-01 11:53:00`|`Other MMORPG and Strategy`|
+|[GTA V enhanced heist won't complete](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/727721-gta-enhanced-heist-wont-complete.html)|`2025-12-01 11:32:00`|`Grand Theft Auto V`|
+|[Battleyent 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726095-battleyent-2-0-a.html)|`2025-12-01 11:19:00`|`Escape from Tarkov`|
 |[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2025-12-01 11:05:00`|`Battlefield 4`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2025-12-01 11:04:00`|`Call of Duty: Black Ops 7`|
 |[Aviator Predictor &#45; Decryptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/726550-aviator-predictor-decryptor.html)|`2025-12-01 11:04:00`|`Other Games`|
