@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2025-12-01 20:10:00`|`Other FPS Games`|
+|[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2025-12-01 20:08:00`|`Apex Legends`|
 |[Cold War GSC Mod Menu &#91;The Lucy Menu&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/717858-cold-war-gsc-mod-menu-lucy-menu.html)|`2025-12-01 19:53:00`|`Call of Duty: Black Ops Cold War`|
 |[Menu The eminence in shadow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/727740-menu-eminence-shadow.html)|`2025-12-01 19:53:00`|`Other MMORPG and Strategy`|
 |[Age of Empires II Definitive Edition Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/720448-age-empires-ii-definitive-edition-reversal-structs-offsets.html)|`2025-12-01 19:50:00`|`Age of Empires`|
