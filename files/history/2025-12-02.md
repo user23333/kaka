@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Battleyent Fix &#45; Small Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727797-battleyent-fix-crash.html)|`2025-12-02 04:22:00`|`Escape from Tarkov`|
+|[new windows protection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727760-windows-protection.html)|`2025-12-02 04:17:00`|`Anti-Cheat Bypass`|
+|[Safest OW2 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/726695-safest-ow2-cheat.html)|`2025-12-02 04:05:00`|`Overwatch`|
 |[Menu The eminence in shadow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/727740-menu-eminence-shadow.html)|`2025-12-02 04:00:00`|`Other MMORPG and Strategy`|
 |[Client&#46;0&#46;12&#46;12&#46;11&#46;16440](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727283-client-0-12-12-11-16440-a.html)|`2025-12-02 03:58:00`|`Escape from Tarkov`|
 |[Crime Boss: Rockay city](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727794-crime-boss-rockay-city.html)|`2025-12-02 03:58:00`|`Other FPS Games`|
