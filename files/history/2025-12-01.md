@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Enemy visible check cannot work properly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727756-enemy-visible-check-properly.html)|`2025-12-01 23:40:00`|`Counter-Strike 2`|
 |[BO6 Warzone Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/712688-bo6-warzone-internal-cheat.html)|`2025-12-01 23:36:00`|`Call of Duty: Black Ops 6`|
 |[data ptr hook communication](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727073-data-ptr-hook-communication.html)|`2025-12-01 23:30:00`|`Anti-Cheat Bypass`|
 |[apex legends cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/727753-apex-legends-cheat.html)|`2025-12-01 23:13:00`|`Apex Legends`|
