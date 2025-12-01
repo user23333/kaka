@@ -11,6 +11,7 @@
 |9|[&#91;DMA&#93; tarkov il2cpp dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726811-dma-tarkov-il2cpp-dumper.html)|`2025-12-02 00:21:17`|`escape-from-tarkov`|
 |24|[R/W MDL Kernel Driver w/ CR3 resolution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727348-mdl-kernel-driver-cr3-resolution.html)|`2025-12-02 00:21:17`|`anti-cheat-bypass`|
 |4|[hackspeed loot TP stealth](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727023-hackspeed-loot-tp-stealth.html)|`2025-12-02 00:21:17`|`escape-from-tarkov`|
+|3|[Did battleyent got patched today?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727170-battleyent-patched.html)|`2025-12-02 02:50:13`|`escape-from-tarkov`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How To Stack Tattoos &#43; Complete list of stats & values](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/727723-stack-tattoos-complete-list-stats-values.html)|`2025-12-02 02:48:00`|`Grand Theft Auto V`|
+|[Dead by Daylight &#45; External Findings & Information](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/726324-dead-daylight-external-findings-information.html)|`2025-12-02 02:44:00`|`Other FPS Games`|
+|[how are you evading PT walks in 2025?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727127-evading-pt-walks-2025-a.html)|`2025-12-02 02:42:00`|`Anti-Cheat Bypass`|
+|[Warframe Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718442-warframe-internal-cheat.html)|`2025-12-02 02:41:00`|`Other FPS Games`|
+|[Stella Sora Cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722901-stella-sora-cheese.html)|`2025-12-02 02:40:00`|`Other MMORPG and Strategy`|
+|[Need Help with Creating a Macro for AION 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/727018-help-creating-macro-aion-2-a.html)|`2025-12-02 02:33:00`|`Other MMORPG and Strategy`|
+|[got banned dont know why](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/725597-banned-dont.html)|`2025-12-02 02:24:00`|`Call of Duty: Black Ops 7`|
+|[Roblox External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/727239-roblox-external.html)|`2025-12-02 02:21:00`|`Other Games`|
 |[Cs2 external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726020-cs2-external.html)|`2025-12-02 02:12:00`|`Counter-Strike 2`|
 |[GM Menu &#124; Where Winds Meet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/725991-gm-menu-winds-meet.html)|`2025-12-02 01:55:00`|`Other MMORPG and Strategy`|
 |[Bypass Anti&#45;Cheat Genshin Impact 6&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/717352-bypass-anti-cheat-genshin-impact-6-0-a.html)|`2025-12-02 01:47:00`|`Genshin Impact`|
