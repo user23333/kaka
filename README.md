@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[All LOL script will be dead in CN server&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/727521-lol-script-dead-cn-server.html)|`2025-12-02 01:15:00`|`League of Legends`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-12-02 01:11:00`|`Alternative Online Mods`|
+|[Finding decryption routines](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/665514-finding-decryption-routines.html)|`2025-12-02 01:11:00`|`Rust`|
+|[Help with Skin Changer&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727772-help-skin-changer.html)|`2025-12-02 01:04:00`|`Counter-Strike 2`|
+|[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2025-12-02 01:03:00`|`Valorant`|
+|[&#91;EGS&#93;Dead by Daylight &#45; Permanent Prestiger with Item Sniper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727771-egs-dead-daylight-permanent-prestiger-item-sniper.html)|`2025-12-02 01:03:00`|`Other FPS Games`|
 |[battleyent PVE Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726288-battleyent-pve-patch.html)|`2025-12-02 00:58:00`|`Escape from Tarkov`|
 |[Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/727769-detection.html)|`2025-12-02 00:55:00`|`Alternative Online Mods`|
 |[AI for bytecode &#40;fivem luac&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/727621-ai-bytecode-fivem-luac.html)|`2025-12-02 00:53:00`|`Alternative Online Mods`|
