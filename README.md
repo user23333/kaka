@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how are you evading PT walks in 2025?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727127-evading-pt-walks-2025-a.html)|`2025-12-01 12:55:00`|`Anti-Cheat Bypass`|
+|[Hyper&#45;V weirdly merging EPT entries back together](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726958-hyper-weirdly-merging-ept-entries.html)|`2025-12-01 12:55:00`|`Anti-Cheat Bypass`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-12-01 12:45:00`|`ARMA 3`|
+|[&#40;Undetectable&#41; Overwatch 2 &#45; ColorBot Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/724800-undetectable-overwatch-2-colorbot-release.html)|`2025-12-01 12:20:00`|`Overwatch`|
 |[Game crashes everytime i inject V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/727722-game-crashes-everytime-inject-v2.html)|`2025-12-01 12:14:00`|`Grand Theft Auto V`|
 |[Client&#46;0&#46;12&#46;12&#46;11&#46;16440](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727283-client-0-12-12-11-16440-a.html)|`2025-12-01 12:07:00`|`Escape from Tarkov`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-12-01 11:53:00`|`Other MMORPG and Strategy`|
