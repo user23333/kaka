@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2025-12-03 00:51:00`|`Other FPS Games`|
+|[I need some suggestions for my colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/727812-suggestions-colorbot.html)|`2025-12-03 00:46:00`|`Overwatch`|
+|[Mutant HWID Spoofer by Samuel Tulach](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727169-mutant-hwid-spoofer-samuel-tulach.html)|`2025-12-03 00:46:00`|`Anti-Cheat Bypass`|
+|[unlockall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/727902-unlockall.html)|`2025-12-03 00:43:00`|`Valorant`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-12-03 00:41:00`|`Escape from Tarkov`|
+|[Menu The eminence in shadow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/727740-menu-eminence-shadow.html)|`2025-12-03 00:38:00`|`Other MMORPG and Strategy`|
 |[Seven Deadly Sins Grand Cross](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/727899-seven-deadly-sins-grand-cross.html)|`2025-12-03 00:30:00`|`Other MMORPG and Strategy`|
 |[LUA Fast Loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/727898-lua-fast-loader.html)|`2025-12-03 00:29:00`|`Garry's Mod`|
 |[Witch It ESP External 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717954-witch-esp-external-2025-a.html)|`2025-12-03 00:23:00`|`Other FPS Games`|
