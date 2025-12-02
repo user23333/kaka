@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nuitka vs Pyarmor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727713-nuitka-vs-pyarmor.html)|`2025-12-02 09:20:00`|`Anti-Cheat Bypass`|
+|[How to loop thru smoke and molly entities?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727313-loop-thru-smoke-molly-entities.html)|`2025-12-02 09:15:00`|`Counter-Strike 2`|
+|[Where to start with apex drivers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/727830-start-apex-drivers.html)|`2025-12-02 09:02:00`|`Apex Legends`|
+|[NDL in Latest Gepard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/ragnarok/697798-ndl-gepard.html)|`2025-12-02 09:00:00`|`Ragnarok`|
+|[kWalk: Stealth Auto&#45;Resolved R/W via Manual PT Walk & MDL Remap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726345-kwalk-stealth-auto-resolved-via-manual-pt-walk-mdl-remap.html)|`2025-12-02 09:00:00`|`Anti-Cheat Bypass`|
+|[༺ 𝙉𝙊𝙑𝘼 ༻ — ✧ Ultimate Insyde Spoofer ✧](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712892-ultimate-insyde-spoofer.html)|`2025-12-02 08:59:00`|`Valorant`|
 |[VAN: RESTRICTION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/727671-van-restriction.html)|`2025-12-02 07:25:00`|`Valorant`|
 |[How to make cheats for marvel rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695509-cheats-marvel-rivals.html)|`2025-12-02 07:23:00`|`Marvel Rivals`|
 |[current undetected money method using Yim Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724257-current-undetected-money-method-using-yim-menu.html)|`2025-12-02 06:37:00`|`Grand Theft Auto V`|
