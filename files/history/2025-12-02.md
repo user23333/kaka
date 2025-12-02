@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-12-02 13:22:00`|`Grand Theft Auto V`|
+|[apex legends cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/727753-apex-legends-cheat.html)|`2025-12-02 13:20:00`|`Apex Legends`|
+|[problems with face injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/727843-injector.html)|`2025-12-02 13:14:00`|`General Programming and Reversing`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-12-02 13:08:00`|`Rainbow Six Siege`|
 |[How to get pattern to natives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/727654-pattern-natives.html)|`2025-12-02 13:04:00`|`Alternative Online Mods`|
 |[Getting bullet amounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727537-getting-bullet-amounts.html)|`2025-12-02 12:41:00`|`Counter-Strike 2`|
