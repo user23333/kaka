@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Request Weapon Hack for WarRock STEAM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/war-rock/727852-request-weapon-hack-warrock-steam.html)|`2025-12-03 07:05:00`|`War Rock`|
+|[MY FIRST MARVEL RIVALS EXTERNAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/723540-marvel-rivals-external.html)|`2025-12-03 06:56:00`|`Marvel Rivals`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-12-03 06:55:00`|`Other FPS Games`|
 |[Perfect chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726949-perfect-chams.html)|`2025-12-03 06:15:00`|`Counter-Strike 2`|
 |[Asus Laptop spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/727896-asus-laptop-spoofer.html)|`2025-12-03 06:14:00`|`Valorant`|
