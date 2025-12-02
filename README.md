@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Early exit trap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/727807-exit-trap.html)|`2025-12-03 04:47:00`|`Alternative Online Mods`|
+|[Eterspire MMO Mod Menu &#40;STEAM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726979-eterspire-mmo-mod-menu-steam.html)|`2025-12-03 04:47:00`|`Other MMORPG and Strategy`|
+|[Among Us undetected cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/727307-undetected-cheat.html)|`2025-12-03 04:42:00`|`Among Us`|
 |[Internal Freecam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/727935-internal-freecam.html)|`2025-12-03 04:29:00`|`Alternative Online Mods`|
 |[Battlefield 6 start blocking Callbacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/727934-battlefield-6-start-blocking-callbacks.html)|`2025-12-03 04:27:00`|`Battlefield 6`|
 |[ThePerfectMapper &#40; PDB Parsing Mapper &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/727933-theperfectmapper-pdb-parsing-mapper.html)|`2025-12-03 04:27:00`|`General Programming and Reversing`|
