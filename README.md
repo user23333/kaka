@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal Freecam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/727935-internal-freecam.html)|`2025-12-03 04:29:00`|`Alternative Online Mods`|
+|[Battlefield 6 start blocking Callbacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/727934-battlefield-6-start-blocking-callbacks.html)|`2025-12-03 04:27:00`|`Battlefield 6`|
+|[ThePerfectMapper &#40; PDB Parsing Mapper &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/727933-theperfectmapper-pdb-parsing-mapper.html)|`2025-12-03 04:27:00`|`General Programming and Reversing`|
+|[is there any way to speed up bunker and acid lab production on enhanced using yim v2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725953-speed-bunker-acid-lab-production-enhanced-using-yim-v2.html)|`2025-12-03 04:22:00`|`Grand Theft Auto V`|
+|[Counter Strike Source v93 Legit Cheat &#40;Niefor&#46;ink&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/724707-counter-strike-source-v93-legit-cheat-niefor-ink.html)|`2025-12-03 04:20:00`|`CounterStrike Source`|
+|[Foxhole Internal &#91;COLONIAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/724701-foxhole-internal-colonial.html)|`2025-12-03 04:18:00`|`Other MMORPG and Strategy`|
 |[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-12-03 04:07:00`|`HELLDIVERS 2`|
 |[LVL limit with yim menu v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/727645-lvl-limit-yim-menu-v2.html)|`2025-12-03 04:06:00`|`Grand Theft Auto V`|
 |[Nexus External ESP V2 &#40;PyMeow&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/690093-nexus-external-esp-v2-pymeow.html)|`2025-12-03 04:04:00`|`Garry's Mod`|
