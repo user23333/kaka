@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-12-02 23:38:00`|`Valorant`|
+|[is it safe to change contact mission base cash value &#40;for enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/727893-safe-change-contact-mission-base-cash-value-enhanced.html)|`2025-12-02 23:28:00`|`Grand Theft Auto V`|
 |[globalvar struct](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727652-globalvar-struct.html)|`2025-12-02 23:09:00`|`Counter-Strike 2`|
 |[how to insert PML4E in a um process from km?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727592-insert-pml4e-um-process-km.html)|`2025-12-02 23:09:00`|`Anti-Cheat Bypass`|
 |[issue with entity list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727864-issue-entity-list.html)|`2025-12-02 22:58:00`|`Counter-Strike 2`|
