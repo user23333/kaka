@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2025-12-02 18:25:00`|`Battlefield 6`|
+|[WDA&#95;excludefromcapture Bypass Needed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/699010-wda_excludefromcapture-bypass.html)|`2025-12-02 18:24:00`|`Anti-Cheat Bypass`|
 |[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2025-12-02 18:09:00`|`Counter-Strike 2 Releases`|
 |[Preview 5M Native Dump/Decrypt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/727743-preview-5m-native-dump-decrypt.html)|`2025-12-02 17:49:00`|`Alternative Online Mods`|
 |[Virtual to Physical Address Translation Explained](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/727858-virtual-physical-address-translation-explained.html)|`2025-12-02 17:39:00`|`C and C++`|
