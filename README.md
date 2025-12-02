@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727415-issue.html)|`2025-12-02 17:00:00`|`Counter-Strike 2`|
 |[Server Backup and Restore Bot &#45; Discord](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-software/727853-server-backup-restore-bot-discord.html)|`2025-12-02 16:52:00`|`Other Software`|
 |[Neo strafe cfg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/726244-neo-strafe-cfg.html)|`2025-12-02 16:47:00`|`Apex Legends`|
 |[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2025-12-02 16:45:00`|`Apex Legends`|
