@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MK to Controller C&#35;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/727871-mk-controller.html)|`2025-12-02 21:39:00`|`Call of Duty: Black Ops 7`|
+|[DayPay Internal &#91;STEAM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/720131-daypay-internal-steam.html)|`2025-12-02 21:37:00`|`Payday 3`|
+|[Fallout 76](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/305579-fallout-76-a.html)|`2025-12-02 21:34:00`|`Other FPS Games`|
+|[Native Research](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/721392-native-research.html)|`2025-12-02 21:21:00`|`Alternative Online Mods`|
+|[Counter Strike Source v93 Legit Cheat &#40;Niefor&#46;ink&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/724707-counter-strike-source-v93-legit-cheat-niefor-ink.html)|`2025-12-02 21:08:00`|`CounterStrike Source`|
 |[UD mouse movement for Apex?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/727870-ud-mouse-movement-apex.html)|`2025-12-02 21:04:00`|`Apex Legends`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-12-02 21:00:00`|`Other FPS Games`|
 |[Perfect Bhop Internal Source &#43; how to ubdate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727869-perfect-bhop-internal-source-ubdate.html)|`2025-12-02 20:54:00`|`Counter-Strike 2`|
