@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[issue with entity list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727864-issue-entity-list.html)|`2025-12-02 22:58:00`|`Counter-Strike 2`|
 |[Looking for MP unlock all on PC&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-4-a/726596-looking-mp-unlock-pc.html)|`2025-12-02 22:51:00`|`Call of Duty: Black Ops 4`|
 |[Using VM's in BO7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/727890-using-vms-bo7.html)|`2025-12-02 22:48:00`|`Call of Duty: Black Ops 7`|
 |[Force boss spawn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727606-force-boss-spawn.html)|`2025-12-02 22:47:00`|`Escape from Tarkov`|
