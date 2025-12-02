@@ -11,6 +11,7 @@
 |4|[china unlock doors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727356-china-unlock-doors.html)|`2025-12-03 00:00:58`|`escape-from-tarkov`|
 |24|[R/W MDL Kernel Driver w/ CR3 resolution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727348-mdl-kernel-driver-cr3-resolution.html)|`2025-12-03 00:00:58`|`anti-cheat-bypass`|
 |4|[hackspeed loot TP stealth](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727023-hackspeed-loot-tp-stealth.html)|`2025-12-03 00:00:58`|`escape-from-tarkov`|
+|6|[R6 unlock all](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/727462-r6-unlock.html)|`2025-12-03 00:33:51`|`rainbow-six-siege`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Seven Deadly Sins Grand Cross](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/727899-seven-deadly-sins-grand-cross.html)|`2025-12-03 00:30:00`|`Other MMORPG and Strategy`|
+|[LUA Fast Loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/727898-lua-fast-loader.html)|`2025-12-03 00:29:00`|`Garry's Mod`|
+|[Witch It ESP External 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717954-witch-esp-external-2025-a.html)|`2025-12-03 00:23:00`|`Other FPS Games`|
+|[Tarkov IL2CPP decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726047-tarkov-il2cpp-decryption.html)|`2025-12-03 00:21:00`|`Escape from Tarkov`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-12-03 00:16:00`|`Grand Theft Auto V`|
+|[fixed seo64 with exception handler and cool ahh menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/727711-fixed-seo64-exception-handler-cool-ahh-menu.html)|`2025-12-03 00:10:00`|`Team Fortress 2`|
 |[Where Winds Meet Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/725040-winds-meet-reversal-structs-offsets.html)|`2025-12-03 00:00:00`|`Other MMORPG and Strategy`|
 |[SEOwnedDE &#40;highly improved&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/725042-seownedde-highly-improved.html)|`2025-12-02 23:59:00`|`Team Fortress 2`|
 |[Age of Empires IV &#45; External Scar Script Injector & Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/712742-age-empires-iv-external-scar-script-injector-helper.html)|`2025-12-02 23:56:00`|`Age of Empires`|
