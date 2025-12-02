@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VIGOR INTERNAL v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727702-vigor-internal-v3-0-a.html)|`2025-12-02 19:37:00`|`Other FPS Games`|
+|[Eterspire MMO Mod Menu &#40;STEAM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726979-eterspire-mmo-mod-menu-steam.html)|`2025-12-02 19:37:00`|`Other MMORPG and Strategy`|
 |[Fully usermode bypass framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727001-usermode-bypass-framework.html)|`2025-12-02 19:22:00`|`Anti-Cheat Bypass`|
 |[LostLight Speedhack/chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/623009-lostlight-speedhack-chams.html)|`2025-12-02 19:00:00`|`Other FPS Games`|
 |[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2025-12-02 18:25:00`|`Battlefield 6`|
