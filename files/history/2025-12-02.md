@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Server Backup and Restore Bot &#45; Discord](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-software/727853-server-backup-restore-bot-discord.html)|`2025-12-02 16:52:00`|`Other Software`|
+|[Neo strafe cfg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/726244-neo-strafe-cfg.html)|`2025-12-02 16:47:00`|`Apex Legends`|
+|[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2025-12-02 16:45:00`|`Apex Legends`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-12-02 16:30:00`|`Other MMORPG and Strategy`|
+|[Dead By Daylight DMA 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714224-dead-daylight-dma-2-0-a.html)|`2025-12-02 16:21:00`|`Other FPS Games`|
 |[Request Weapon Hack for WarRock STEAM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/war-rock/727852-request-weapon-hack-warrock-steam.html)|`2025-12-02 16:16:00`|`War Rock`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-12-02 14:46:00`|`Escape from Tarkov`|
 |[only 1 Hid device can send input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721444-1-hid-device-send-input.html)|`2025-12-02 13:55:00`|`Apex Legends`|
