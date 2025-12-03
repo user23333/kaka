@@ -17,6 +17,7 @@
 |3|[Did battleyent got patched today?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727170-battleyent-patched.html)|`2025-12-03 09:00:58`|`escape-from-tarkov`|
 |3|[btr exploit &#40;godmode, speedhack, invisibility&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727643-btr-exploit-godmode-speedhack-invisibility.html)|`2025-12-03 15:32:52`|`escape-from-tarkov`|
 |0|[ARC Raiders Rapid fire macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727056-arc-raiders-rapid-fire-macro.html)|`2025-12-03 21:22:26`|`other-fps-games`|
+|2|[PVE cheats for Escape from Tarkov PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727554-pve-cheats-escape-tarkov-pve.html)|`2025-12-03 22:55:28`|`escape-from-tarkov`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chivalry 2 Basic &#46;pak &#45; Parera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720632-chivalry-2-basic-pak-parera.html)|`2025-12-03 22:44:00`|`Other Games`|
 |[Roblox External &#45; &#91;ALWAYS UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717679-roblox-external-updated.html)|`2025-12-03 22:13:00`|`Other FPS Games`|
 |[INSANE&#46;tf2 &#40; new bad cheat &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/727997-insane-tf2-bad-cheat.html)|`2025-12-03 22:05:00`|`Team Fortress 2`|
 |[DMA Stealth &#45; Are these detection methods actually used?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725039-dma-stealth-detection-methods-actually.html)|`2025-12-03 21:59:00`|`Anti-Cheat Bypass`|
