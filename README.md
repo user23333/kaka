@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2025-12-03 10:44:00`|`Call of Duty: Black Ops 7`|
+|[Winter, Christmas & New Year's Banner Contest 2025 &#45; Winners&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/727786-winter-christmas-banner-contest-2025-winners.html)|`2025-12-03 10:29:00`|`Information and Announcements`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-12-03 08:51:00`|`Alternative Online Mods`|
 |[Sleepy's External &#45; Outline, Skeleton, and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external-outline-skeleton-aimbot.html)|`2025-12-03 08:46:00`|`Overwatch`|
 |[Visualize sound esp?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727809-visualize-sound-esp.html)|`2025-12-03 08:44:00`|`Counter-Strike 2`|
