@@ -14,6 +14,7 @@
 |6|[R6 unlock all](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/727462-r6-unlock.html)|`2025-12-03 00:33:51`|`rainbow-six-siege`|
 |23|[ARK RAIDERS XP &#124; MONEY &#124; RESOURCE FARM ARCBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727726-ark-raiders-xp-money-resource-farm-arcbot.html)|`2025-12-03 02:50:53`|`other-fps-games`|
 |4|[EAC Driver &#43; comms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727122-eac-driver-comms.html)|`2025-12-03 05:50:33`|`anti-cheat-bypass`|
+|3|[Did battleyent got patched today?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727170-battleyent-patched.html)|`2025-12-03 09:00:58`|`escape-from-tarkov`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-12-03 08:51:00`|`Alternative Online Mods`|
+|[Sleepy's External &#45; Outline, Skeleton, and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external-outline-skeleton-aimbot.html)|`2025-12-03 08:46:00`|`Overwatch`|
+|[Visualize sound esp?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727809-visualize-sound-esp.html)|`2025-12-03 08:44:00`|`Counter-Strike 2`|
+|[Does anyone know of any macros or autododge for Brawlhalla?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/727957-macros-autododge-brawlhalla.html)|`2025-12-03 08:42:00`|`Other Games`|
+|[issue with entity list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727864-issue-entity-list.html)|`2025-12-03 08:35:00`|`Counter-Strike 2`|
+|[&#91;Unity IL2CPP&#93; Bleach: Soul Resonance &#45; Dynamic Instrumentation Issues with Frida: Ac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/727148-unity-il2cpp-bleach-soul-resonance-dynamic-instrumentation-issues-frida-ac.html)|`2025-12-03 08:34:00`|`Android`|
 |[uc banner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/727788-uc-banner.html)|`2025-12-03 07:37:00`|`Off Topic`|
 |[Simple Outline](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/717443-simple-outline.html)|`2025-12-03 07:22:00`|`Overwatch`|
 |[Call of Duty 2 wallhack,esp,&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-2-a/727795-call-duty-2-wallhack-esp.html)|`2025-12-03 07:13:00`|`Call of Duty 2`|
