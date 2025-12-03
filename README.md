@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-12-03 20:26:00`|`Sea of Thieves`|
+|[New FiveM Asset Encryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/727988-fivem-asset-encryption.html)|`2025-12-03 20:17:00`|`Alternative Online Mods`|
+|[Lazybead &#40;LB&#41; &#45; Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat.html)|`2025-12-03 20:12:00`|`Sea of Thieves`|
 |[finding entity names in Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/727981-finding-entity-names-python.html)|`2025-12-03 18:53:00`|`DayZ SA`|
 |[Disk Spoofint 24h2 / 25h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727980-disk-spoofint-24h2-25h2.html)|`2025-12-03 18:50:00`|`Anti-Cheat Bypass`|
 |[Dayz entity ESP in python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/727979-dayz-entity-esp-python.html)|`2025-12-03 18:46:00`|`DayZ SA`|
