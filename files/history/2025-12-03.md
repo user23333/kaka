@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[finding entity names in Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/727981-finding-entity-names-python.html)|`2025-12-03 18:53:00`|`DayZ SA`|
+|[Disk Spoofint 24h2 / 25h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727980-disk-spoofint-24h2-25h2.html)|`2025-12-03 18:50:00`|`Anti-Cheat Bypass`|
+|[Dayz entity ESP in python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/727979-dayz-entity-esp-python.html)|`2025-12-03 18:46:00`|`DayZ SA`|
 |[1 report ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/727977-1-report-ban.html)|`2025-12-03 17:52:00`|`Marvel Rivals`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-12-03 17:46:00`|`Other MMORPG and Strategy`|
 |[How strong anticheat in Dead By Daylight?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/714750-strong-anticheat-dead-daylight.html)|`2025-12-03 16:58:00`|`Anti-Cheat Bypass`|
