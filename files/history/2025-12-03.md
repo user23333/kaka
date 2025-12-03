@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Roblox External &#45; &#91;ALWAYS UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717679-roblox-external-updated.html)|`2025-12-03 22:13:00`|`Other FPS Games`|
+|[INSANE&#46;tf2 &#40; new bad cheat &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/727997-insane-tf2-bad-cheat.html)|`2025-12-03 22:05:00`|`Team Fortress 2`|
+|[DMA Stealth &#45; Are these detection methods actually used?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725039-dma-stealth-detection-methods-actually.html)|`2025-12-03 21:59:00`|`Anti-Cheat Bypass`|
 |[Black Ops 7 Zombie tool ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/727941-black-ops-7-zombie-tool.html)|`2025-12-03 21:57:00`|`Call of Duty: Black Ops 7`|
 |[Any Decent alt to Kiddions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725823-decent-alt-kiddions.html)|`2025-12-03 21:55:00`|`Grand Theft Auto V`|
 |[Account Locked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/727992-account-locked.html)|`2025-12-03 21:47:00`|`Valorant`|
