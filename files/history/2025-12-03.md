@@ -16,6 +16,7 @@
 |4|[EAC Driver &#43; comms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727122-eac-driver-comms.html)|`2025-12-03 05:50:33`|`anti-cheat-bypass`|
 |3|[Did battleyent got patched today?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727170-battleyent-patched.html)|`2025-12-03 09:00:58`|`escape-from-tarkov`|
 |3|[btr exploit &#40;godmode, speedhack, invisibility&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727643-btr-exploit-godmode-speedhack-invisibility.html)|`2025-12-03 15:32:52`|`escape-from-tarkov`|
+|0|[ARC Raiders Rapid fire macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727056-arc-raiders-rapid-fire-macro.html)|`2025-12-03 21:22:26`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2025-12-03 21:20:00`|`Unity`|
+|[Xenos injector v2&#46;3&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/124013-xenos-injector-v2-3-2-a.html)|`2025-12-03 21:18:00`|`General Programming and Reversing`|
+|[Passive Cooling / Fan Delete on Dichen 6th Gen Fuser &#45; Anyone Done It?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/727515-passive-cooling-fan-delete-dichen-6th-gen-fuser.html)|`2025-12-03 21:17:00`|`Other Hardware`|
+|[Need Help with Creating a Macro for AION 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/727018-help-creating-macro-aion-2-a.html)|`2025-12-03 21:07:00`|`Other MMORPG and Strategy`|
 |[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-12-03 20:26:00`|`Sea of Thieves`|
 |[New FiveM Asset Encryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/727988-fivem-asset-encryption.html)|`2025-12-03 20:17:00`|`Alternative Online Mods`|
 |[Lazybead &#40;LB&#41; &#45; Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat.html)|`2025-12-03 20:12:00`|`Sea of Thieves`|
