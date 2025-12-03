@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;UE4&#93;Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/244709-ue4-squad.html)|`2025-12-03 13:03:00`|`Other FPS Games`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-12-03 12:59:00`|`Phasmophobia`|
 |[Recoil scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/699848-recoil-scripts.html)|`2025-12-03 12:43:00`|`THE FINALS`|
 |[Where to start with apex drivers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/727830-start-apex-drivers.html)|`2025-12-03 12:34:00`|`Apex Legends`|
 |[EAC Driver &#43; comms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727122-eac-driver-comms.html)|`2025-12-03 12:14:00`|`Anti-Cheat Bypass`|
