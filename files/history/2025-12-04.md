@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypass new Battleye Integry Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727784-bypass-battleye-integry-check.html)|`2025-12-04 03:04:00`|`Escape from Tarkov`|
+|[Tarkov il2cpp DLL injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727967-tarkov-il2cpp-dll-injection.html)|`2025-12-04 03:01:00`|`Escape from Tarkov`|
+|[Account Locked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/727992-account-locked.html)|`2025-12-04 02:58:00`|`Valorant`|
+|[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2025-12-04 02:33:00`|`Grand Theft Auto V`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-12-04 02:42:00`|`Escape from Tarkov`|
 |[I need a small list of fivem public trusted cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/727947-list-fivem-public-trusted-cheats.html)|`2025-12-04 02:30:00`|`Alternative Online Mods`|
 |[Seven Deadly Sins Grand Cross](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/727899-seven-deadly-sins-grand-cross.html)|`2025-12-04 02:21:00`|`Other MMORPG and Strategy`|
