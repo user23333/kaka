@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-12-04 02:42:00`|`Escape from Tarkov`|
+|[I need a small list of fivem public trusted cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/727947-list-fivem-public-trusted-cheats.html)|`2025-12-04 02:30:00`|`Alternative Online Mods`|
 |[Seven Deadly Sins Grand Cross](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/727899-seven-deadly-sins-grand-cross.html)|`2025-12-04 02:21:00`|`Other MMORPG and Strategy`|
 |[VIGOR INTERNAL v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727702-vigor-internal-v3-0-a.html)|`2025-12-04 02:20:00`|`Other FPS Games`|
 |[cs2 internal hvh cheat working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725162-cs2-internal-hvh-cheat.html)|`2025-12-04 02:10:00`|`Counter-Strike 2`|
