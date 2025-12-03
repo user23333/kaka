@@ -11,6 +11,7 @@
 |3|[btr exploit &#40;godmode, speedhack, invisibility&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727643-btr-exploit-godmode-speedhack-invisibility.html)|`2025-12-04 00:22:13`|`escape-from-tarkov`|
 |3|[Did battleyent got patched today?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727170-battleyent-patched.html)|`2025-12-04 00:22:13`|`escape-from-tarkov`|
 |2|[PVE cheats for Escape from Tarkov PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727554-pve-cheats-escape-tarkov-pve.html)|`2025-12-04 00:22:13`|`escape-from-tarkov`|
+|23|[hook software interrupts after they run](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727451-hook-software-interrupts-run.html)|`2025-12-04 05:13:07`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Multi&#45;tick prediction problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728080-multi-tick-prediction.html)|`2025-12-04 05:08:00`|`Counter-Strike 2`|
+|[AI for bytecode &#40;fivem luac&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/727621-ai-bytecode-fivem-luac.html)|`2025-12-04 05:07:00`|`Alternative Online Mods`|
+|[INSANE&#46;tf2 &#40; new bad cheat &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/727997-insane-tf2-bad-cheat.html)|`2025-12-04 04:59:00`|`Team Fortress 2`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-12-04 04:39:00`|`Grand Theft Auto V`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-12-04 04:35:00`|`Rust`|
 |[CR3 Bruteforce 24h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/728072-cr3-bruteforce-24h2.html)|`2025-12-04 04:23:00`|`Anti-Cheat Bypass`|
