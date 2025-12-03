@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Early exit trap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/727807-exit-trap.html)|`2025-12-04 01:55:00`|`Alternative Online Mods`|
 |[No Spread / Anti Spread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727984-spread-anti-spread.html)|`2025-12-04 01:43:00`|`Counter-Strike 2`|
 |[A way to bypass TPM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728035-bypass-tpm.html)|`2025-12-04 01:42:00`|`Valorant`|
 |[Client&#46;0&#46;12&#46;12&#46;11&#46;16440](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727283-client-0-12-12-11-16440-a.html)|`2025-12-04 01:31:00`|`Escape from Tarkov`|
