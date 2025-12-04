@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[shellcode?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728154-shellcode.html)|`2025-12-04 20:36:00`|`Counter-Strike 2`|
+|[Perfect Heist 2 &#45; CONTROL &#40;Internal Aimbot, ESP, Customizable Premium Cheat&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/728153-perfect-heist-2-control-internal-aimbot-esp-customizable-premium-cheat.html)|`2025-12-04 20:30:00`|`Other FPS Games`|
+|[Getting weapon data statically &#91;x64&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/728152-getting-weapon-data-statically-x64.html)|`2025-12-04 20:18:00`|`CounterStrike Source`|
 |[Path of Exile 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676435-path-exile-2-reversal-structs-offsets.html)|`2025-12-04 19:55:00`|`Other MMORPG and Strategy`|
 |[GM Menu &#124; Where Winds Meet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/725991-gm-menu-winds-meet.html)|`2025-12-04 19:47:00`|`Other MMORPG and Strategy`|
 |[Arc Raiders &#45; Poor Man's Radar &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727806-arc-raiders-poor-mans-radar-dma.html)|`2025-12-04 19:52:00`|`Other FPS Games`|
