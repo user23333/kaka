@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Eterspire MMO Mod Menu &#40;STEAM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726979-eterspire-mmo-mod-menu-steam.html)|`2025-12-05 05:20:00`|`Other MMORPG and Strategy`|
+|[ThePerfectMapper &#40; PDB Parsing Mapper &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/727933-theperfectmapper-pdb-parsing-mapper.html)|`2025-12-05 05:16:00`|`General Programming and Reversing`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-12-05 05:16:00`|`Valorant`|
 |[Exe Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/722311-exe-dumper.html)|`2025-12-05 05:11:00`|`Call of Duty: Black Ops 6`|
 |[OutOfAction Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727805-outofaction-internal-cheat.html)|`2025-12-05 04:59:00`|`Other FPS Games`|
 |[Aion2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726048-aion2-reversal-structs-offsets.html)|`2025-12-05 04:51:00`|`Other MMORPG and Strategy`|
