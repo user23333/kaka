@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HVCI bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722787-hvci-bypass.html)|`2025-12-04 16:52:00`|`Anti-Cheat Bypass`|
 |[Is there anything I can do in Aion2 with CE?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/728146-aion2-ce.html)|`2025-12-04 16:27:00`|`Other MMORPG and Strategy`|
 |[Wanted to use YimMenuV2, What do i do?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728145-yimmenuv2.html)|`2025-12-04 16:12:00`|`Grand Theft Auto V`|
 |[PvE Tegridy Menu 1&#46;0&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728143-pve-tegridy-menu-1-0-2-a.html)|`2025-12-04 16:10:00`|`Escape from Tarkov`|
