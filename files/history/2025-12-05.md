@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[If Comport is detected, why haven't I been detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728215-comport-detected-havent-detected.html)|`2025-12-05 04:36:00`|`Valorant`|
+|[&#40;YimMenuV2&#41; Will my Steam/Rockstar GTA5 account get banned if&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728086-yimmenuv2-steam-rockstar-gta5-account-banned.html)|`2025-12-05 04:29:00`|`Grand Theft Auto V`|
+|[bypass spawning entities/vehicles detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/728170-bypass-spawning-entities-vehicles-detection.html)|`2025-12-05 04:24:00`|`Alternative Online Mods`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-12-05 04:22:00`|`Call of Duty: Black Ops 6`|
+|[Introduction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/728213-introduction.html)|`2025-12-05 04:13:00`|`Introductions`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2025-12-05 04:06:00`|`ARMA 3`|
 |[Air control external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/728078-air-control-external.html)|`2025-12-05 04:03:00`|`Sea of Thieves`|
 |[keycards not spawning?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728210-keycards-spawning.html)|`2025-12-05 03:48:00`|`Escape from Tarkov`|
