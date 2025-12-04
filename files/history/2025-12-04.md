@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Serdium Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728103-serdium-cheat.html)|`2025-12-04 14:36:00`|`Counter-Strike 2`|
+|[is there any way to speed up bunker and acid lab production on enhanced using yim v2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725953-speed-bunker-acid-lab-production-enhanced-using-yim-v2.html)|`2025-12-04 14:32:00`|`Grand Theft Auto V`|
 |[Bloodhunt Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/715768-bloodhunt-internal.html)|`2025-12-04 14:20:00`|`Other FPS Games`|
 |[Arduino Micro Jitter Aim script blocked?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/727765-arduino-micro-jitter-aim-script-blocked.html)|`2025-12-04 14:19:00`|`Apex Legends`|
 |[Kernel hook fonction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/728134-kernel-hook-fonction.html)|`2025-12-04 14:14:00`|`Anti-Cheat Bypass`|
