@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dayz entity ESP in python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/727979-dayz-entity-esp-python.html)|`2025-12-04 12:40:00`|`DayZ SA`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-12-04 12:35:00`|`Counter-Strike 2`|
+|[I need some suggestions for my colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/727812-suggestions-colorbot.html)|`2025-12-04 12:28:00`|`Overwatch`|
 |[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-12-04 12:11:00`|`Other FPS Games`|
 |[Risk of Tears &#45; Risk of Rain 2 internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/633262-risk-tears-risk-rain-2-internal-cheat.html)|`2025-12-04 12:01:00`|`Other FPS Games`|
 |[HWID Spoofe/changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728117-hwid-spoofe-changer.html)|`2025-12-04 11:34:00`|`Call of Duty: Black Ops 7`|
