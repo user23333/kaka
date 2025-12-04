@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[🎯 R6S SIG OFFSET FINDER v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/724698-r6s-sig-offset-finder-v3-0-a.html)|`2025-12-05 04:41:00`|`Rainbow Six Siege`|
+|[Updated Valorant External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728216-updated-valorant-external.html)|`2025-12-05 04:40:00`|`Valorant`|
 |[If Comport is detected, why haven't I been detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728215-comport-detected-havent-detected.html)|`2025-12-05 04:36:00`|`Valorant`|
 |[&#40;YimMenuV2&#41; Will my Steam/Rockstar GTA5 account get banned if&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728086-yimmenuv2-steam-rockstar-gta5-account-banned.html)|`2025-12-05 04:29:00`|`Grand Theft Auto V`|
 |[bypass spawning entities/vehicles detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/728170-bypass-spawning-entities-vehicles-detection.html)|`2025-12-05 04:24:00`|`Alternative Online Mods`|
