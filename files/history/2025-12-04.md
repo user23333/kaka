@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nightfall cs2 rage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728077-nightfall-cs2-rage-cheat.html)|`2025-12-04 21:51:00`|`Counter-Strike 2`|
 |[CS2 Demo File](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728164-cs2-demo-file.html)|`2025-12-04 21:49:00`|`Counter-Strike 2`|
 |[EVGA Driver Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722300-evga-driver-exploit.html)|`2025-12-04 21:48:00`|`Anti-Cheat Bypass`|
 |[High quality work Imgui menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/726015-quality-imgui-menu.html)|`2025-12-04 21:45:00`|`C and C++`|
