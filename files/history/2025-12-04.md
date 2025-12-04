@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-12-04 17:12:00`|`Marvel Rivals`|
 |[HVCI bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722787-hvci-bypass.html)|`2025-12-04 16:52:00`|`Anti-Cheat Bypass`|
 |[Is there anything I can do in Aion2 with CE?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/728146-aion2-ce.html)|`2025-12-04 16:27:00`|`Other MMORPG and Strategy`|
 |[Wanted to use YimMenuV2, What do i do?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728145-yimmenuv2.html)|`2025-12-04 16:12:00`|`Grand Theft Auto V`|
