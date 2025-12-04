@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EFT DMA Dumper &#40;il2cpp&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728094-eft-dma-dumper-il2cpp.html)|`2025-12-04 08:57:00`|`Escape from Tarkov`|
+|[i need help making walls for rainbow six siege x &#40;steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/727407-help-walls-rainbow-six-siege-steam.html)|`2025-12-04 08:49:00`|`Rainbow Six Siege`|
+|[Need to get RP with Yim or StatsEditor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728095-rp-yim-statseditor.html)|`2025-12-04 08:41:00`|`Grand Theft Auto V`|
+|[Whats the most advanced an external cheat could be?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728099-whats-advanced-external-cheat.html)|`2025-12-04 08:31:00`|`Counter-Strike 2`|
+|[Internal Skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727476-internal-skin-changer.html)|`2025-12-04 08:22:00`|`Counter-Strike 2`|
+|[Straftat Full Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/686040-straftat-cheat.html)|`2025-12-04 08:18:00`|`Other Games`|
+|[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2025-12-04 08:16:00`|`Valorant`|
 |[SoundSight: CS2 Audio ESP &#45; 3D Spatial Sound Radar for Enemy Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691687-soundsight-cs2-audio-esp-3d-spatial-sound-radar-enemy-detection.html)|`2025-12-04 07:56:00`|`Counter-Strike 2`|
 |[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2025-12-04 07:44:00`|`HELLDIVERS 2`|
 |[Overlay Suggesiton](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728091-overlay-suggesiton.html)|`2025-12-04 07:04:00`|`Valorant`|
