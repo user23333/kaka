@@ -13,6 +13,7 @@
 |2|[PVE cheats for Escape from Tarkov PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727554-pve-cheats-escape-tarkov-pve.html)|`2025-12-04 00:22:13`|`escape-from-tarkov`|
 |23|[hook software interrupts after they run](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727451-hook-software-interrupts-run.html)|`2025-12-04 05:13:07`|`anti-cheat-bypass`|
 |13|[moneyless](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/727410-moneyless.html)|`2025-12-04 11:44:18`|`team-fortress-2-a`|
+|6|[Among Us undetected cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/727307-undetected-cheat.html)|`2025-12-04 18:22:13`|`among-us`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
