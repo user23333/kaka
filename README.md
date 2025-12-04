@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[bypass spawning entities/vehicles detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/728170-bypass-spawning-entities-vehicles-detection.html)|`2025-12-04 22:02:00`|`Alternative Online Mods`|
+|[Bypass Anti&#45;debug FiveM "early exit trap"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/728125-bypass-anti-debug-fivem-exit-trap.html)|`2025-12-04 22:01:00`|`Alternative Online Mods`|
+|[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2025-12-04 21:59:00`|`Garry's Mod`|
 |[Nightfall cs2 rage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728077-nightfall-cs2-rage-cheat.html)|`2025-12-04 21:51:00`|`Counter-Strike 2`|
 |[CS2 Demo File](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728164-cs2-demo-file.html)|`2025-12-04 21:49:00`|`Counter-Strike 2`|
 |[EVGA Driver Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722300-evga-driver-exploit.html)|`2025-12-04 21:48:00`|`Anti-Cheat Bypass`|
