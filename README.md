@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[shared memory driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/728324-shared-memory-driver.html)|`2025-12-06 04:13:00`|`Anti-Cheat Bypass`|
+|[Auto Inject when Detecting FiveM &#40;GameProcess&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/728323-auto-inject-detecting-fivem-gameprocess.html)|`2025-12-06 04:12:00`|`Alternative Online Mods`|
+|[Simple Crime Simulator Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706044-simple-crime-simulator-menu.html)|`2025-12-06 04:10:00`|`Other Games`|
+|[Using an EFI Bootkit for mouse input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/727956-using-efi-bootkit-mouse-input.html)|`2025-12-06 04:01:00`|`Rust`|
+|[Valorant &#91;EXTERNAL&#93; Visual Check Question&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/727834-valorant-external-visual-check-question.html)|`2025-12-06 04:01:00`|`Valorant`|
 |[INSANE&#46;tf2 &#40; new bad cheat &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/727997-insane-tf2-bad-cheat.html)|`2025-12-06 03:55:00`|`Team Fortress 2`|
 |[Trying & failing to generate an &#46;usmap for an EAC Unreal game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/727831-trying-failing-generate-usmap-eac-unreal-game.html)|`2025-12-06 03:43:00`|`Forum General`|
 |[free external cheat &#40;ESP ONLY&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/726641-free-external-cheat-esp.html)|`2025-12-06 03:37:00`|`PlanetSide 2`|
