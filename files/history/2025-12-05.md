@@ -31,6 +31,7 @@
 |1|[Fortnite sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52158)|`2025-12-05 14:52:09`|
 |2|[eft&#95;all&#95;dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52141)|`2025-12-05 14:52:09`|
 |3|[dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52120)|`2025-12-05 14:52:09`|
+|1|[EFT DMA Dumper &#40;il2cpp&#41; v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52174)|`2025-12-05 23:54:49`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
