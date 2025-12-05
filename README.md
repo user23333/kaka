@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hi&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/728307-hi.html)|`2025-12-06 07:17:00`|`Introductions`|
+|[ThePerfectMapper &#40; PDB Parsing Mapper &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/727933-theperfectmapper-pdb-parsing-mapper.html)|`2025-12-06 07:13:00`|`General Programming and Reversing`|
+|[Updated stats for GTA Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728259-updated-stats-gta-online.html)|`2025-12-06 07:01:00`|`Grand Theft Auto V`|
 |[Tarkov 1&#46;0 moved to IL2CPP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725536-tarkov-1-0-moved-il2cpp.html)|`2025-12-06 06:58:00`|`Escape from Tarkov`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-12-06 06:49:00`|`Marvel Rivals`|
 |[Fallout 76](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/305579-fallout-76-a.html)|`2025-12-06 06:27:00`|`Other FPS Games`|
