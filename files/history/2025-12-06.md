@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What was the maximum percentage of the Flecca heist to get 14 million?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/727999-maximum-percentage-flecca-heist-14-million.html)|`2025-12-06 03:24:00`|`Grand Theft Auto V`|
+|[Nuclear Nightmare internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718268-nuclear-nightmare-internal.html)|`2025-12-06 03:20:00`|`Other Games`|
+|[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2025-12-06 03:18:00`|`Valorant`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-12-06 03:11:00`|`Apex Legends`|
+|[overcomplicated way of getting game build](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/728225-overcomplicated-getting-game-build.html)|`2025-12-06 03:10:00`|`Alternative Online Mods`|
 |[colorbot detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/728318-colorbot-detections.html)|`2025-12-06 03:04:00`|`THE FINALS`|
 |[slow reads :&#40;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/728252-slow-reads.html)|`2025-12-06 02:53:00`|`Anti-Cheat Bypass`|
 |[Where Winds Meet, Lua Executor &#124; IExecut3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726615-winds-meet-lua-executor-iexecut3.html)|`2025-12-06 02:46:00`|`Other MMORPG and Strategy`|
