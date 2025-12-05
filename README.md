@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Van: incompatible software](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/726800-van-incompatible-software.html)|`2025-12-05 22:56:00`|`Valorant`|
 |[Dead By Daylight Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694248-dead-daylight-internal.html)|`2025-12-05 22:24:00`|`Other FPS Games`|
 |[&#91;L4D2&#93; Cheat Base With Gamesense/&#91;removed&#93; Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/726456-l4d2-cheat-base-gamesense-removed-menu.html)|`2025-12-05 22:10:00`|`Other FPS Games`|
 |[Srudb manipulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/728293-srudb-manipulation.html)|`2025-12-05 22:07:00`|`Alternative Online Mods`|
