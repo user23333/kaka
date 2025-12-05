@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[If Comport is detected, why haven't I been detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728215-comport-detected-havent-detected.html)|`2025-12-06 04:21:00`|`Valorant`|
 |[shared memory driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/728324-shared-memory-driver.html)|`2025-12-06 04:13:00`|`Anti-Cheat Bypass`|
 |[Auto Inject when Detecting FiveM &#40;GameProcess&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/728323-auto-inject-detecting-fivem-gameprocess.html)|`2025-12-06 04:12:00`|`Alternative Online Mods`|
 |[Simple Crime Simulator Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706044-simple-crime-simulator-menu.html)|`2025-12-06 04:10:00`|`Other Games`|
