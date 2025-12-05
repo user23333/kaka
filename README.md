@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to use battleyent PVE Patch after tarkov 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728244-battleyent-pve-patch-tarkov-1-0-a.html)|`2025-12-05 10:36:00`|`Escape from Tarkov`|
+|[uc banner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/727788-uc-banner.html)|`2025-12-05 10:32:00`|`Off Topic`|
+|[DayZ DMA cheat &#40;Skeleton Esp, Aimbot, Radar&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/720910-dayz-dma-cheat-skeleton-esp-aimbot-radar.html)|`2025-12-05 10:15:00`|`DayZ SA`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-12-05 09:13:00`|`Counter-Strike 2`|
 |[Whats the most advanced an external cheat could be?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728099-whats-advanced-external-cheat.html)|`2025-12-05 07:57:00`|`Counter-Strike 2`|
 |[addressing new cod bans etc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728230-addressing-cod-bans-etc.html)|`2025-12-05 07:48:00`|`Call of Duty: Black Ops 7`|
