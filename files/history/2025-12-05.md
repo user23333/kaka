@@ -25,9 +25,14 @@
 |20|[Escape the Backrooms 1&#46;01&#40;1&#46;2544&#41; cheat table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52106)|`2025-12-05 00:20:58`|
 |20|[5&#46;3&#46;2&#45;2650101&#43;&#43;&#43;depot&#95;marvel&#43;S5&#46;0&#95;release&#45;Mar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52102)|`2025-12-05 00:20:58`|
 |286|[unlock all ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52100)|`2025-12-05 00:20:58`|
+|3|[&#43;&#43;Fortnite&#43;Release&#45;39&#46;00&#45;CL&#45;48801071](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52175)|`2025-12-05 14:26:55`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dark Hours DX11 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/721309-dark-hours-dx11-internal.html)|`2025-12-05 14:22:00`|`Other Games`|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-12-05 14:19:00`|`Grand Theft Auto V`|
+|[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2025-12-05 14:10:00`|`Counter-Strike 2 Releases`|
+|[External Dump Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726817-external-dump-tool.html)|`2025-12-05 14:07:00`|`Counter-Strike 2`|
 |[Updated stats for GTA Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728259-updated-stats-gta-online.html)|`2025-12-05 13:54:00`|`Grand Theft Auto V`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-12-05 13:40:00`|`Counter-Strike 2 Releases`|
 |[Unreleased Licenses Plates On Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728257-unreleased-licenses-plates-enhanced.html)|`2025-12-05 13:24:00`|`Grand Theft Auto V`|
