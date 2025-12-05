@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Serdium Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728103-serdium-cheat.html)|`2025-12-06 05:31:00`|`Counter-Strike 2`|
+|[Machinist's Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/719183-machinists-injector.html)|`2025-12-06 05:29:00`|`Call of Duty: Modern Warfare 3`|
+|[how to not get rce](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/711834-rce.html)|`2025-12-06 05:28:00`|`Call of Duty: Modern Warfare 3`|
+|[MW3 Achievement Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/640155-mw3-achievement-unlocker.html)|`2025-12-06 05:26:00`|`Call of Duty: Modern Warfare 3`|
+|[SastashaFied iw4x SP/Spec&#45;Ops](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/722547-sastashafied-iw4x-sp-spec-ops.html)|`2025-12-06 05:24:00`|`Call of Duty 6: Modern Warfare 2`|
+|[Black Ops II Plutonium ESP &#45; Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/636292-black-ops-ii-plutonium-esp-undetected.html)|`2025-12-06 05:22:00`|`Call of Duty: Black Ops 2`|
 |[addressing new cod bans etc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728230-addressing-cod-bans-etc.html)|`2025-12-06 05:20:00`|`Call of Duty: Black Ops 7`|
 |[ARC Raiders Rapid fire macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727056-arc-raiders-rapid-fire-macro.html)|`2025-12-06 05:19:00`|`Other FPS Games`|
 |[Lower transmission delay on dual pc setup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/727651-lower-transmission-delay-dual-pc-setup.html)|`2025-12-06 05:14:00`|`Valorant`|
