@@ -26,9 +26,17 @@
 |17|[eft&#95;all&#95;dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52141)|`2025-12-06 00:11:15`|
 |12|[dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52120)|`2025-12-06 00:11:15`|
 |1|[EFT DMA Dumper &#40;il2cpp&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52161)|`2025-12-06 00:54:17`|
+|1|[VALORANT&#45;Win64&#45;Shipping SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52179)|`2025-12-06 04:48:36`|
+|1|[Valorant SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52171)|`2025-12-06 04:48:36`|
+|1|[SDK&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52160)|`2025-12-06 04:48:36`|
+|1|[SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52159)|`2025-12-06 04:48:36`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-12-06 04:45:00`|`Other FPS Games`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/590414-arc-raiders-structs-offsets.html)|`2025-12-06 04:45:00`|`Other FPS Games`|
+|[Fragpunk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/696337-fragpunk.html)|`2025-12-06 04:45:00`|`Other FPS Games`|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-12-06 04:40:00`|`Other FPS Games`|
 |[If Comport is detected, why haven't I been detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728215-comport-detected-havent-detected.html)|`2025-12-06 04:21:00`|`Valorant`|
 |[shared memory driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/728324-shared-memory-driver.html)|`2025-12-06 04:13:00`|`Anti-Cheat Bypass`|
 |[Auto Inject when Detecting FiveM &#40;GameProcess&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/728323-auto-inject-detecting-fivem-gameprocess.html)|`2025-12-06 04:12:00`|`Alternative Online Mods`|
