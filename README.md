@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2025-12-06 02:13:00`|`Palia`|
+|[The State of IOMMU/AMD&#45;Vi Bypassing for DMA in 2025: Current Vectors & Feasibility?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/728291-iommu-amd-vi-bypassing-dma-2025-current-vectors-feasibility.html)|`2025-12-06 02:09:00`|`Anti-Cheat Bypass`|
+|[&#91;RELEASE&#93; Dark Eden Hp/MP &#43; Speed Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/33870-release-dark-eden-hp-mp-speed-hack.html)|`2025-12-06 02:07:00`|`Other MMORPG and Strategy`|
+|[Crab Champions Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/725797-crab-champions-internal.html)|`2025-12-06 02:00:00`|`Other Games`|
+|[play valorant in a virtual machine &#40;bypass bans&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/726587-play-valorant-virtual-machine-bypass-bans.html)|`2025-12-06 01:57:00`|`Valorant`|
 |[Updated CS2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/721585-updated-cs2-external-esp.html)|`2025-12-06 01:45:00`|`Counter-Strike 2 Releases`|
 |[How To Stack Tattoos &#43; Complete list of stats & values](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/727723-stack-tattoos-complete-list-stats-values.html)|`2025-12-06 01:42:00`|`Grand Theft Auto V`|
 |[PvE Tegridy Menu 1&#46;0&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728143-pve-tegridy-menu-1-0-2-a.html)|`2025-12-06 01:27:00`|`Escape from Tarkov`|
