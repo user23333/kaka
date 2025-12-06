@@ -11,6 +11,7 @@
 |2|[The new version's anti&#45;cheat cannot be bypassed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727745-versions-anti-cheat-bypassed.html)|`2025-12-07 00:16:13`|`escape-from-tarkov`|
 |22|[How to use battleyent PVE Patch after tarkov 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728244-battleyent-pve-patch-tarkov-1-0-a.html)|`2025-12-07 00:16:13`|`escape-from-tarkov`|
 |12|[VIGOR INTERNAL v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727702-vigor-internal-v3-0-a.html)|`2025-12-07 00:16:13`|`other-fps-games`|
+|30|[&#40;POC&#41; Item Spawning Method &#40;1&#46;0&#46;0&#46;2&#43;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728383-poc-item-spawning-method-1-0-0-2-a.html)|`2025-12-07 06:08:45`|`escape-from-tarkov`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[standalone skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728276-standalone-skin-changer.html)|`2025-12-07 06:03:00`|`Counter-Strike 2`|
 |[Fantasy Idle Dungeon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/728428-fantasy-idle-dungeon.html)|`2025-12-07 05:39:00`|`Cheat Engine Tables`|
 |[How to get CG with one function &#91;Internal&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728427-cg-function-internal.html)|`2025-12-07 05:31:00`|`Call of Duty: Black Ops 7`|
 |[world to screen in internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/728327-world-screen-internal.html)|`2025-12-07 05:28:00`|`Alternative Online Mods`|
