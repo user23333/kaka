@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does anyone have the OnAddEntity sig ??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728431-onaddentity-sig.html)|`2025-12-07 06:15:00`|`Counter-Strike 2`|
 |[standalone skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728276-standalone-skin-changer.html)|`2025-12-07 06:03:00`|`Counter-Strike 2`|
 |[Fantasy Idle Dungeon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/728428-fantasy-idle-dungeon.html)|`2025-12-07 05:39:00`|`Cheat Engine Tables`|
 |[How to get CG with one function &#91;Internal&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728427-cg-function-internal.html)|`2025-12-07 05:31:00`|`Call of Duty: Black Ops 7`|
