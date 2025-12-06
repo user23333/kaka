@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[bp macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690256-bp-macro.html)|`2025-12-06 20:14:00`|`Marvel Rivals`|
+|[rcs bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727767-rcs-bug.html)|`2025-12-06 20:13:00`|`Counter-Strike 2`|
+|[Saving vehicles as personal with Yimv2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728385-saving-vehicles-personal-yimv2.html)|`2025-12-06 20:07:00`|`Grand Theft Auto V`|
+|[Glow share and showcase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/725326-glow-share-showcase.html)|`2025-12-06 20:04:00`|`Apex Legends`|
 |[&#40;POC&#41; Item Spawning Method &#40;1&#46;0&#46;0&#46;2&#43;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728383-poc-item-spawning-method-1-0-0-2-a.html)|`2025-12-06 19:43:00`|`Escape from Tarkov`|
 |[&#33;&#33;I NEED VALORANT OFFSETS&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728320-valorant-offsets.html)|`2025-12-06 19:36:00`|`Valorant`|
 |[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2025-12-06 19:25:00`|`Counter-Strike 2 Releases`|
