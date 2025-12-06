@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2025-12-07 02:47:00`|`Other FPS Games`|
+|[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2025-12-07 02:46:00`|`Other FPS Games`|
+|[battleyent PVE Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726288-battleyent-pve-patch.html)|`2025-12-07 02:45:00`|`Escape from Tarkov`|
+|[FamilyMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/631659-familymenu.html)|`2025-12-07 02:43:00`|`Red Dead Redemption 2`|
 |[Getting weapon data statically &#91;x64&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/728152-getting-weapon-data-statically-x64.html)|`2025-12-07 02:35:00`|`CounterStrike Source`|
 |[ARK RAIDERS XP &#124; MONEY &#124; RESOURCE FARM ARCBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727726-ark-raiders-xp-money-resource-farm-arcbot.html)|`2025-12-07 02:29:00`|`Other FPS Games`|
 |[Snow in cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728417-snow-cs2.html)|`2025-12-07 02:11:00`|`Counter-Strike 2`|
