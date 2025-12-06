@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fantasy Idle Dungeon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/728428-fantasy-idle-dungeon.html)|`2025-12-07 05:39:00`|`Cheat Engine Tables`|
 |[How to get CG with one function &#91;Internal&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728427-cg-function-internal.html)|`2025-12-07 05:31:00`|`Call of Duty: Black Ops 7`|
 |[world to screen in internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/728327-world-screen-internal.html)|`2025-12-07 05:28:00`|`Alternative Online Mods`|
 |[Rust external optimization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/724881-rust-external-optimization.html)|`2025-12-07 05:26:00`|`Rust`|
