@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/713007-menu-hero-ultra-rumble.html)|`2025-12-06 22:30:00`|`Other Games`|
 |[BloodStrike Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725524-bloodstrike-internal.html)|`2025-12-06 22:12:00`|`Other FPS Games`|
 |[Counter&#45;Strike 2 &#124; External thirdperson & silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728392-counter-strike-2-external-thirdperson-silent-aim.html)|`2025-12-06 21:55:00`|`Counter-Strike 2`|
 |[&#91;UE4&#93;Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/244709-ue4-squad.html)|`2025-12-06 21:36:00`|`Other FPS Games`|
