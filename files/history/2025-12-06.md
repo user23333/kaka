@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Memory read detection in Linux?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/727938-memory-read-detection-linux.html)|`2025-12-06 17:25:00`|`Programming for Beginners`|
+|[new and wanting to learn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/728018-learn.html)|`2025-12-06 17:22:00`|`Programming for Beginners`|
 |[hyper&#45;reV &#45; memory introspection &#43; reverse engineering powered by leveraging Hyper&#45;V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709634-hyper-rev-memory-introspection-reverse-engineering-powered-leveraging-hyper.html)|`2025-12-06 16:35:00`|`Anti-Cheat Bypass`|
 |[Internal player list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/728224-internal-player-list.html)|`2025-12-06 16:28:00`|`Alternative Online Mods`|
 |[automatic bells player for inferno](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728345-automatic-bells-player-inferno.html)|`2025-12-06 16:25:00`|`Counter-Strike 2`|
