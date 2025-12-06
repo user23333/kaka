@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Roblox &#43; Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/728255-roblox-cheat-engine.html)|`2025-12-06 20:52:00`|`Anti-Cheat Bypass`|
+|[PUBG macro Logitech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/728205-pubg-macro-logitech.html)|`2025-12-06 20:45:00`|`Playerunknown's Battlegrounds`|
 |[bp macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690256-bp-macro.html)|`2025-12-06 20:14:00`|`Marvel Rivals`|
 |[rcs bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727767-rcs-bug.html)|`2025-12-06 20:13:00`|`Counter-Strike 2`|
 |[Saving vehicles as personal with Yimv2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728385-saving-vehicles-personal-yimv2.html)|`2025-12-06 20:07:00`|`Grand Theft Auto V`|
