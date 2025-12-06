@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2025-12-06 15:23:00`|`Apex Legends`|
 |[Winter, Christmas & New Year's Banner Contest 2025 &#45; Winners&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/727786-winter-christmas-banner-contest-2025-winners.html)|`2025-12-06 14:32:00`|`Information and Announcements`|
 |[Hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/726076-hello.html)|`2025-12-06 14:28:00`|`Off Topic`|
 |[steam community bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/724699-steam-community-bans.html)|`2025-12-06 14:27:00`|`Forum General`|
