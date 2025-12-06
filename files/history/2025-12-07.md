@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-12-07 07:45:00`|`Sea of Thieves`|
 |[External FOV changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/721206-external-fov-changer.html)|`2025-12-07 07:27:00`|`Counter-Strike 2`|
 |[Torchlight Infinite &#45; Quality Of Life Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/728132-torchlight-infinite-quality-life-mod.html)|`2025-12-07 07:11:00`|`Other MMORPG and Strategy`|
 |[&#91;EGS&#93;Dead by Daylight &#45; Permanent Prestiger with Item Sniper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727771-egs-dead-daylight-permanent-prestiger-item-sniper.html)|`2025-12-07 07:04:00`|`Other FPS Games`|
