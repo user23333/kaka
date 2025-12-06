@@ -12,6 +12,7 @@
 |13|[moneyless](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/727410-moneyless.html)|`2025-12-06 00:11:15`|`team-fortress-2-a`|
 |2|[The new version's anti&#45;cheat cannot be bypassed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727745-versions-anti-cheat-bypassed.html)|`2025-12-06 00:11:15`|`escape-from-tarkov`|
 |12|[VIGOR INTERNAL v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727702-vigor-internal-v3-0-a.html)|`2025-12-06 03:10:30`|`other-fps-games`|
+|17|[How to use battleyent PVE Patch after tarkov 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728244-battleyent-pve-patch-tarkov-1-0-a.html)|`2025-12-06 10:47:53`|`escape-from-tarkov`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[YimV2 Outfit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728133-yimv2-outfit.html)|`2025-12-06 10:08:00`|`Grand Theft Auto V`|
+|[does cr3 still get shuffled every few seconds?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/728026-cr3-shuffled.html)|`2025-12-06 10:07:00`|`Anti-Cheat Bypass`|
+|[External Dump Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726817-external-dump-tool.html)|`2025-12-06 10:03:00`|`Counter-Strike 2`|
 |[Updated PVZ GW2 Cheat&#40;s&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/686351-updated-pvz-gw2-cheat.html)|`2025-12-06 09:21:00`|`Forum General`|
 |[CR3 Bruteforce 24h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/728072-cr3-bruteforce-24h2.html)|`2025-12-06 09:17:00`|`Anti-Cheat Bypass`|
 |[Steam Key Giveaways](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/206050-steam-key-giveaways.html)|`2025-12-06 09:16:00`|`Forum General`|
