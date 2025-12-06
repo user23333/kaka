@@ -34,6 +34,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2025-12-06 11:29:00`|`Elite: Dangerous`|
+|[Outfit Editor   and  BBOB&#40;browser extension that generates Outfits Code for Bincohax&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/624819-outfit-editor-bbob-browser-extension-generates-outfits-code-bincohax.html)|`2025-12-06 11:24:00`|`Grand Theft Auto V`|
+|[any working ESPs for Combat Masters?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/727569-esps-combat-masters.html)|`2025-12-06 11:12:00`|`Combat Master`|
+|[auto accept matchmaking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728351-auto-accept-matchmaking.html)|`2025-12-06 11:00:00`|`Counter-Strike 2`|
+|[UE Explorer &#45; Rocket League Custom Edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/725093-ue-explorer-rocket-league-custom-edition.html)|`2025-12-06 10:56:00`|`Other Games`|
 |[YimV2 Outfit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728133-yimv2-outfit.html)|`2025-12-06 10:08:00`|`Grand Theft Auto V`|
 |[does cr3 still get shuffled every few seconds?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/728026-cr3-shuffled.html)|`2025-12-06 10:07:00`|`Anti-Cheat Bypass`|
 |[External Dump Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726817-external-dump-tool.html)|`2025-12-06 10:03:00`|`Counter-Strike 2`|
