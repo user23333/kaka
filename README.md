@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GName & GWorld Offset PUBG Mobile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/728390-gname-gworld-offset-pubg-mobile.html)|`2025-12-06 21:08:00`|`PUBG Mobile`|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-12-06 20:57:00`|`Counter-Strike 2 Releases`|
 |[Roblox &#43; Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/728255-roblox-cheat-engine.html)|`2025-12-06 20:52:00`|`Anti-Cheat Bypass`|
 |[PUBG macro Logitech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/728205-pubg-macro-logitech.html)|`2025-12-06 20:45:00`|`Playerunknown's Battlegrounds`|
 |[bp macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/690256-bp-macro.html)|`2025-12-06 20:14:00`|`Marvel Rivals`|
