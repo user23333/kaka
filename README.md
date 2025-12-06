@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Getting weapon data statically &#91;x64&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/728152-getting-weapon-data-statically-x64.html)|`2025-12-06 14:12:00`|`CounterStrike Source`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-12-06 14:09:00`|`Counter-Strike 2`|
 |[Which is better between these two external setups &#40;DMA and Arduino&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728314-external-setups-dma-arduino.html)|`2025-12-06 13:48:00`|`Valorant`|
 |[Among Us undetected cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/727307-undetected-cheat.html)|`2025-12-06 13:38:00`|`Among Us`|
 |[A way to bypass TPM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728035-bypass-tpm.html)|`2025-12-06 13:15:00`|`Valorant`|
