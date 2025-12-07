@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-12-07 12:46:00`|`Apex Legends`|
+|[VIGEM CONTROLLER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728269-vigem-controller.html)|`2025-12-07 12:45:00`|`Call of Duty: Black Ops 7`|
+|[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2025-12-07 12:39:00`|`Counter-Strike 2`|
+|[Vein Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/723246-vein-reversal-structs-offsets.html)|`2025-12-07 12:38:00`|`Other FPS Games`|
 |[Graphics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/728464-graphics.html)|`2025-12-07 12:30:00`|`Alternative Online Mods`|
 |[Whats the most advanced an external cheat could be?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728099-whats-advanced-external-cheat.html)|`2025-12-07 12:12:00`|`Counter-Strike 2`|
 |[The State of IOMMU/AMD&#45;Vi Bypassing for DMA in 2025: Current Vectors & Feasibility?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/728291-iommu-amd-vi-bypassing-dma-2025-current-vectors-feasibility.html)|`2025-12-07 12:02:00`|`Anti-Cheat Bypass`|
