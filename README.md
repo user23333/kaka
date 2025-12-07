@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike Python communication](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/728558-bloodstrike-python-communication.html)|`2025-12-08 03:50:00`|`Other FPS Games`|
 |[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2025-12-08 03:26:00`|`HELLDIVERS 2`|
 |[BO7/BO6 DUMP SUPPORT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/720566-bo7-bo6-dump-support.html)|`2025-12-08 03:24:00`|`Call of Duty: Black Ops 7`|
 |[Graphics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/728464-graphics.html)|`2025-12-08 03:22:00`|`Alternative Online Mods`|
