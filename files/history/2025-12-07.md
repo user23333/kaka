@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Asus Laptop spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/727896-asus-laptop-spoofer.html)|`2025-12-07 22:55:00`|`Valorant`|
 |[Offset PB Zepetto 2025 december](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/728522-offset-pb-zepetto-2025-december.html)|`2025-12-07 22:48:00`|`Other FPS Games`|
 |[jitter on xbox roller](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/727844-jitter-xbox-roller.html)|`2025-12-07 22:44:00`|`Apex Legends`|
 |[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2025-12-07 22:43:00`|`Elite: Dangerous`|
