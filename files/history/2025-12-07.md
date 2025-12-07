@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is there a way to ban evade on Ezz BOIII Client?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/728486-ban-evade-ezz-boiii-client.html)|`2025-12-07 17:27:00`|`Call of Duty: Black Ops 3`|
+|[Il2cpp encrypted Meta data & Exports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/728485-il2cpp-encrypted-meta-data-exports.html)|`2025-12-07 17:27:00`|`Forum General`|
 |[Is fully automatic warehouse selling even possible ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728483-automatic-warehouse-selling.html)|`2025-12-07 17:15:00`|`Grand Theft Auto V`|
 |[i need with ImGui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/728482-imgui.html)|`2025-12-07 17:03:00`|`C and C++`|
 |[Does anyone know of any macros or autododge for Brawlhalla?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/727957-macros-autododge-brawlhalla.html)|`2025-12-07 16:39:00`|`Other Games`|
