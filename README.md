@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Injecting anything crashing my game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/728168-injecting-crashing-game.html)|`2025-12-08 03:57:00`|`Garry's Mod`|
 |[safe &#35; of money per 24 hrs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728561-safe-money-24-hrs.html)|`2025-12-08 03:52:00`|`Grand Theft Auto V`|
 |[BloodStrike Python communication](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/728558-bloodstrike-python-communication.html)|`2025-12-08 03:50:00`|`Other FPS Games`|
 |[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2025-12-08 03:26:00`|`HELLDIVERS 2`|
