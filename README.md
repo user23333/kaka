@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Slient Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728495-slient-aim.html)|`2025-12-07 19:05:00`|`Counter-Strike 2`|
+|[color rs6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/728493-color-rs6.html)|`2025-12-07 18:58:00`|`Rainbow Six Siege`|
 |[Issue retrieving a class with a dot in its name in Il2Cpp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/727360-issue-retrieving-class-dot-name-il2cpp.html)|`2025-12-07 18:53:00`|`Rust`|
 |[GTA ONLINE ENHANCED ALL AWARDS STATS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701294-gta-online-enhanced-awards-stats.html)|`2025-12-07 18:36:00`|`Grand Theft Auto V`|
 |[MW19 Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/722087-mw19-internal-source.html)|`2025-12-07 18:07:00`|`Call of Duty: Modern Warfare`|
