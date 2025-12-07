@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Graphics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/728464-graphics.html)|`2025-12-08 03:22:00`|`Alternative Online Mods`|
+|[REPO Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/728462-repo-internal.html)|`2025-12-08 03:19:00`|`Other Games`|
 |[Native Invoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/725080-native-invoker.html)|`2025-12-08 03:07:00`|`Alternative Online Mods`|
 |[Menu My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/713007-menu-hero-ultra-rumble.html)|`2025-12-08 03:03:00`|`Other Games`|
 |[Any update on Kiddions Mod menu for enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/717314-update-kiddions-mod-menu-enhanced.html)|`2025-12-08 02:53:00`|`Grand Theft Auto V`|
