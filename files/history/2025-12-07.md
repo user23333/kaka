@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypass new Battleye Integry Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727784-bypass-battleye-integry-check.html)|`2025-12-07 21:52:00`|`Escape from Tarkov`|
+|[Lua Script Request: Auto&#45;Fill MC Business Supplies/Products for YimMenuV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728519-lua-script-request-auto-fill-mc-business-supplies-products-yimmenuv2.html)|`2025-12-07 21:52:00`|`Grand Theft Auto V`|
 |[Sea of thieves External Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/728512-sea-thieves-external-aimbot.html)|`2025-12-07 21:36:00`|`Sea of Thieves`|
 |[Black ops 7 hwid ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/726606-black-ops-7-hwid-ban.html)|`2025-12-07 21:35:00`|`Call of Duty: Black Ops 7`|
 |[what does bo7 ban ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728501-bo7-ban.html)|`2025-12-07 21:17:00`|`Call of Duty: Black Ops 7`|
