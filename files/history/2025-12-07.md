@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to make external ESP in VR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/724025-external-esp-vr.html)|`2025-12-07 17:55:00`|`General Programming and Reversing`|
+|[rise online world](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/728490-rise-online-world.html)|`2025-12-07 17:54:00`|`Other MMORPG and Strategy`|
 |[FACEIT AC &#45; can you get banned without playing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728488-faceit-ac-banned-playing.html)|`2025-12-07 17:49:00`|`Counter-Strike 2`|
 |[free external cheat &#40;ESP ONLY&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/726641-free-external-cheat-esp.html)|`2025-12-07 17:43:00`|`PlanetSide 2`|
 |[Is there a way to ban evade on Ezz BOIII Client?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/728486-ban-evade-ezz-boiii-client.html)|`2025-12-07 17:27:00`|`Call of Duty: Black Ops 3`|
