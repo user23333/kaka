@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[REPO Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/728462-repo-internal.html)|`2025-12-07 12:01:00`|`Other Games`|
+|[Glow share and showcase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/725326-glow-share-showcase.html)|`2025-12-07 12:00:00`|`Apex Legends`|
+|[Loot Vacuum / Item Teleport Method &#40;1&#46;0&#46;0&#46;2&#43;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728461-loot-vacuum-item-teleport-method-1-0-0-2-a.html)|`2025-12-07 11:56:00`|`Escape from Tarkov`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-12-07 11:34:00`|`Playerunknown's Battlegrounds`|
 |[TF2: Filtering Glow Entities Without Classid?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/728458-tf2-filtering-glow-entities-classid.html)|`2025-12-07 11:05:00`|`Team Fortress 2`|
 |[slow reads :&#40;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/728252-slow-reads.html)|`2025-12-07 10:49:00`|`Anti-Cheat Bypass`|
 |[best spoofable gaming laptop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728456-spoofable-gaming-laptop.html)|`2025-12-07 10:45:00`|`Valorant`|
