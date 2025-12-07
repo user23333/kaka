@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[current undetected money method using Yim Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724257-current-undetected-money-method-using-yim-menu.html)|`2025-12-08 05:39:00`|`Grand Theft Auto V`|
+|[A way to bypass TPM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728035-bypass-tpm.html)|`2025-12-08 05:33:00`|`Valorant`|
 |[how to not get rce](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/711834-rce.html)|`2025-12-08 05:28:00`|`Call of Duty: Modern Warfare 3`|
 |[Once Tpm banned how long can i play on fresh acct](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728576-tpm-banned-play-fresh-acct.html)|`2025-12-08 05:23:00`|`Call of Duty: Black Ops 7`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-12-08 05:15:00`|`Other FPS Games`|
