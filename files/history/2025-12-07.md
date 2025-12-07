@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SEOwnedDE &#40;highly improved&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/725042-seownedde-highly-improved.html)|`2025-12-07 09:00:00`|`Team Fortress 2`|
 |[detected unauthorized peripheral](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/728441-detected-unauthorized-peripheral.html)|`2025-12-07 07:56:00`|`PUBG Mobile`|
 |[Auto Inject when Detecting FiveM &#40;GameProcess&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/728323-auto-inject-detecting-fivem-gameprocess.html)|`2025-12-07 07:54:00`|`Alternative Online Mods`|
 |[Air control external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/728078-air-control-external.html)|`2025-12-07 07:47:00`|`Sea of Thieves`|
