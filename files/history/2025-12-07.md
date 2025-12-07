@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TF2: Filtering Glow Entities Without Classid?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/728458-tf2-filtering-glow-entities-classid.html)|`2025-12-07 11:05:00`|`Team Fortress 2`|
+|[slow reads :&#40;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/728252-slow-reads.html)|`2025-12-07 10:49:00`|`Anti-Cheat Bypass`|
+|[best spoofable gaming laptop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728456-spoofable-gaming-laptop.html)|`2025-12-07 10:45:00`|`Valorant`|
+|[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2025-12-07 10:39:00`|`Counter-Strike 2 Releases`|
 |[SEOwnedDE &#40;highly improved&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/725042-seownedde-highly-improved.html)|`2025-12-07 09:00:00`|`Team Fortress 2`|
 |[detected unauthorized peripheral](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/728441-detected-unauthorized-peripheral.html)|`2025-12-07 07:56:00`|`PUBG Mobile`|
 |[Auto Inject when Detecting FiveM &#40;GameProcess&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/728323-auto-inject-detecting-fivem-gameprocess.html)|`2025-12-07 07:54:00`|`Alternative Online Mods`|
