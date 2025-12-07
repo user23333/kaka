@@ -25,9 +25,13 @@
 |27|[5&#46;3&#46;2&#45;2673388&#43;&#43;&#43;depot&#95;marvel&#43;S5&#46;0&#95;release&#45;Mar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52167)|`2025-12-07 00:16:13`|
 |117|[ARCBotSourcev1&#46;4&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52164)|`2025-12-07 00:16:13`|
 |8|[EFT DMA Dumper &#40;il2cpp&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52161)|`2025-12-07 00:16:13`|
+|4|[berserk 07&#46;12](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52200)|`2025-12-07 21:31:41`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DELAY ban, need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728359-delay-ban-help.html)|`2025-12-07 21:16:00`|`Valorant`|
+|[Eterspire MMO Mod Menu &#40;STEAM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726979-eterspire-mmo-mod-menu-steam.html)|`2025-12-07 21:08:00`|`Other MMORPG and Strategy`|
+|[&#33;&#33;I NEED VALORANT OFFSETS&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728320-valorant-offsets.html)|`2025-12-07 21:04:00`|`Valorant`|
 |[anti silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/715322-anti-silent-aim.html)|`2025-12-07 20:46:00`|`Alternative Online Mods`|
 |[Has the Silent Aim server check been implemented?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728341-silent-aim-server-check-implemented.html)|`2025-12-07 20:43:00`|`Escape from Tarkov`|
 |[Redmatch 2 Anticheat Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719587-redmatch-2-anticheat-bypass.html)|`2025-12-07 20:42:00`|`Anti-Cheat Bypass`|
