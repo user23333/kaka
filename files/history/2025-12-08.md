@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[whats really going on with RAM right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/728611-whats-ram.html)|`2025-12-08 13:15:00`|`Off Topic`|
 |[How to get weapon vdata for penetration and damage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728609-weapon-vdata-penetration-damage.html)|`2025-12-08 12:48:00`|`Counter-Strike 2`|
 |[VgkAutoUpdate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/722265-vgkautoupdate.html)|`2025-12-08 12:38:00`|`Valorant`|
 |[How to use battleyent PVE Patch after tarkov 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728244-battleyent-pve-patch-tarkov-1-0-a.html)|`2025-12-08 12:36:00`|`Escape from Tarkov`|
