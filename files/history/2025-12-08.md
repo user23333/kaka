@@ -11,6 +11,7 @@
 |3|[The new version's anti&#45;cheat cannot be bypassed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727745-versions-anti-cheat-bypassed.html)|`2025-12-08 00:22:58`|`escape-from-tarkov`|
 |13|[VIGOR INTERNAL v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727702-vigor-internal-v3-0-a.html)|`2025-12-08 00:22:58`|`other-fps-games`|
 |5|[Serdium Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728103-serdium-cheat.html)|`2025-12-08 00:22:58`|`counter-strike-2-a`|
+|24|[fixed seo64 with exception handler and cool ahh menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/727711-fixed-seo64-exception-handler-cool-ahh-menu.html)|`2025-12-08 09:16:13`|`team-fortress-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Battlefield 6 Logitech Anti&#45;Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/723124-battlefield-6-logitech-anti-recoil.html)|`2025-12-08 09:14:00`|`Battlefield 6`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2025-12-08 09:10:00`|`Other FPS Games`|
+|[Lockdown Protocol Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718478-lockdown-protocol-internal.html)|`2025-12-08 09:08:00`|`Other Games`|
+|[2025 Game of the Year Contenders List &#45; What is your game of the year?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/725373-2025-game-contenders-list-game.html)|`2025-12-08 08:30:00`|`Off Topic`|
+|[HWID Ban? New TPM Module needed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728388-hwid-ban-tpm-module.html)|`2025-12-08 08:21:00`|`Call of Duty: Black Ops 7`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-12-08 07:52:00`|`Alternative Online Mods`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-12-08 07:26:00`|`Escape from Tarkov`|
 |[Sons of the Forest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/572665-sons-forest.html)|`2025-12-08 07:17:00`|`Unity`|
