@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Best way to read memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728682-read-memory.html)|`2025-12-09 05:42:00`|`Counter-Strike 2`|
+|[Changing gloves externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728650-changing-gloves-externally.html)|`2025-12-09 05:41:00`|`Counter-Strike 2`|
+|[How to get weapon vdata for penetration and damage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728609-weapon-vdata-penetration-damage.html)|`2025-12-09 05:40:00`|`Counter-Strike 2`|
 |[Deep Dive into CS2's Built&#45;in Anti&#45;Cheat System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728681-deep-dive-cs2s-built-anti-cheat-system.html)|`2025-12-09 05:33:00`|`Counter-Strike 2`|
 |[Sea of thieves External Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/728512-sea-thieves-external-aimbot.html)|`2025-12-09 05:31:00`|`Sea of Thieves`|
 |[Sea of Thieves paks for FOV, no fog, and more&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/666959-sea-thieves-paks-fov-fog.html)|`2025-12-09 05:14:00`|`Sea of Thieves`|
