@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PvE Tegridy Menu 1&#46;0&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728143-pve-tegridy-menu-1-0-2-a.html)|`2025-12-09 01:32:00`|`Escape from Tarkov`|
+|[Menu My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/713007-menu-hero-ultra-rumble.html)|`2025-12-09 01:31:00`|`Other Games`|
+|[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2025-12-09 01:26:00`|`HELLDIVERS 2`|
+|[Issue retrieving a class with a dot in its name in Il2Cpp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/727360-issue-retrieving-class-dot-name-il2cpp.html)|`2025-12-09 01:22:00`|`Rust`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-12-09 01:21:00`|`Other Games`|
+|[YimMenuV2 &#45; Night Club LUA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728604-yimmenuv2-night-club-lua.html)|`2025-12-09 01:21:00`|`Grand Theft Auto V`|
+|[How to hook agent model CS:2 ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728651-hook-agent-model-cs-2-a.html)|`2025-12-09 01:16:00`|`Counter-Strike 2`|
 |[EVGA Driver Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722300-evga-driver-exploit.html)|`2025-12-09 01:06:00`|`Anti-Cheat Bypass`|
 |[safe &#35; of money per 24 hrs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728561-safe-money-24-hrs.html)|`2025-12-09 01:03:00`|`Grand Theft Auto V`|
 |[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2025-12-09 00:53:00`|`Other Games`|
