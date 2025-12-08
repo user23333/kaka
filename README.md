@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chivalry 2 Basic &#46;pak &#45; Parera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720632-chivalry-2-basic-pak-parera.html)|`2025-12-08 22:31:00`|`Other Games`|
+|[ScriptHookV Online With GTA Online Custom Server Cyprus/Paragon Not Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728157-scripthookv-online-gta-online-custom-server-cyprus-paragon.html)|`2025-12-08 22:30:00`|`Grand Theft Auto V`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-12-08 22:23:00`|`Counter-Strike 2`|
+|[World Particle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728638-world-particle.html)|`2025-12-08 22:22:00`|`Counter-Strike 2`|
 |[Gems Of War 8&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/702434-gems-war-8-5-a.html)|`2025-12-08 22:07:00`|`Cheat Engine Tables`|
 |[Desktop Duplication API keeps freezing after some time &#45; any alternatives?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728633-desktop-duplication-api-freezing-time-alternatives.html)|`2025-12-08 21:48:00`|`Valorant`|
 |[NEW UPDATE&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/728632-update.html)|`2025-12-08 21:44:00`|`Red Dead Redemption 2`|
