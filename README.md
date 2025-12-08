@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;EGS&#93;Dead by Daylight &#45; Permanent Prestiger with Item Sniper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727771-egs-dead-daylight-permanent-prestiger-item-sniper.html)|`2025-12-08 11:43:00`|`Other FPS Games`|
+|[YimMenuV2 &#45; Night Club LUA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728604-yimmenuv2-night-club-lua.html)|`2025-12-08 11:17:00`|`Grand Theft Auto V`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-12-08 10:42:00`|`Marvel Rivals`|
 |[Battlefield 6 Logitech Anti&#45;Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/723124-battlefield-6-logitech-anti-recoil.html)|`2025-12-08 09:14:00`|`Battlefield 6`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2025-12-08 09:10:00`|`Other FPS Games`|
