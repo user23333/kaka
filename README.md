@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NEW UPDATE&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/728632-update.html)|`2025-12-08 21:44:00`|`Red Dead Redemption 2`|
+|[what 2pc methods for capture are currently ud?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728631-2pc-methods-capture-currently-ud.html)|`2025-12-08 21:41:00`|`Valorant`|
+|[TF2: Filtering Glow Entities Without Classid?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/728458-tf2-filtering-glow-entities-classid.html)|`2025-12-08 21:39:00`|`Team Fortress 2`|
 |[BloodStrike Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725524-bloodstrike-internal.html)|`2025-12-08 21:13:00`|`Other FPS Games`|
 |[Counter&#45;Strike 2 external &#124; Semi rage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727380-counter-strike-2-external-semi-rage.html)|`2025-12-08 21:07:00`|`Counter-Strike 2`|
 |[TLP firmware creation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727940-tlp-firmware-creation.html)|`2025-12-08 20:42:00`|`Anti-Cheat Bypass`|
