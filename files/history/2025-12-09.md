@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EVGA Driver Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722300-evga-driver-exploit.html)|`2025-12-09 01:06:00`|`Anti-Cheat Bypass`|
+|[safe &#35; of money per 24 hrs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728561-safe-money-24-hrs.html)|`2025-12-09 01:03:00`|`Grand Theft Auto V`|
+|[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2025-12-09 00:53:00`|`Other Games`|
 |[How to Bypass Bot/AI Restrictions in Portal PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/726514-bypass-bot-ai-restrictions-portal-pve.html)|`2025-12-09 00:41:00`|`Battlefield 6`|
 |[Creating particles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728648-creating-particles.html)|`2025-12-09 00:36:00`|`Counter-Strike 2`|
 |[Aion2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726048-aion2-reversal-structs-offsets.html)|`2025-12-09 00:32:00`|`Other MMORPG and Strategy`|
