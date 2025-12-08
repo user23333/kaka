@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Undetectable Marvel Rivals Cheats Through Mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/727790-undetectable-marvel-rivals-cheats-mods.html)|`2025-12-09 04:46:00`|`Marvel Rivals`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-12-09 04:44:00`|`Valorant`|
+|[CR3 Bypass Is Dead?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/722803-cr3-bypass-dead.html)|`2025-12-09 04:43:00`|`Apex Legends`|
+|[Multi&#45;tick prediction problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728080-multi-tick-prediction.html)|`2025-12-09 04:42:00`|`Counter-Strike 2`|
 |[&#91;Release﻿ Hack L4D2 Reborn v3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/726272-release-hack-l4d2-reborn-v3.html)|`2025-12-09 04:32:00`|`Other FPS Games`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-12-09 04:32:00`|`Sea of Thieves`|
 |[MANUAL SERIAL DISK CHANGING](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/680056-manual-serial-disk-changing.html)|`2025-12-09 04:25:00`|`Anti-Cheat Bypass`|
