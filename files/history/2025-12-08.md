@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ToF&#46;CFF](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tower-of-fantasy/722052-tof-cff.html)|`2025-12-08 20:14:00`|`Tower of Fantasy`|
+|[game of thrones kingsroad hack & offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701827-game-thrones-kingsroad-hack-offsets.html)|`2025-12-08 20:10:00`|`Other MMORPG and Strategy`|
+|[Dungeon Rampage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/728475-dungeon-rampage.html)|`2025-12-08 20:06:00`|`Other MMORPG and Strategy`|
+|[6&#46;1&#46;0 GI Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/726696-6-1-0-gi-bypass.html)|`2025-12-08 20:02:00`|`Genshin Impact`|
 |[Bypassing BlueBook SAT screenshot prevention](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/728472-bypassing-bluebook-sat-screenshot-prevention.html)|`2025-12-08 19:13:00`|`Anti-Cheat Bypass`|
 |[Loot Vacuum / Item Teleport Method &#40;1&#46;0&#46;0&#46;2&#43;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728461-loot-vacuum-item-teleport-method-1-0-0-2-a.html)|`2025-12-08 19:10:00`|`Escape from Tarkov`|
 |[Internal Skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727476-internal-skin-changer.html)|`2025-12-08 18:21:00`|`Counter-Strike 2`|
