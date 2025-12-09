@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HWID Ban? New TPM Module needed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728388-hwid-ban-tpm-module.html)|`2025-12-09 22:12:00`|`Call of Duty: Black Ops 7`|
 |[Another battleye bypass for offline](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/722686-battleye-bypass-offline.html)|`2025-12-09 21:35:00`|`Escape from Tarkov`|
 |[CS2 Glow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728034-cs2-glow.html)|`2025-12-09 20:37:00`|`Counter-Strike 2`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-12-09 20:31:00`|`Escape from Tarkov`|
