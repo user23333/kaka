@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The State of IOMMU/AMD&#45;Vi Bypassing for DMA in 2025: Current Vectors & Feasibility?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/728291-iommu-amd-vi-bypassing-dma-2025-current-vectors-feasibility.html)|`2025-12-09 14:56:00`|`Anti-Cheat Bypass`|
 |[How to use battleyent PVE Patch after tarkov 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728244-battleyent-pve-patch-tarkov-1-0-a.html)|`2025-12-09 14:50:00`|`Escape from Tarkov`|
 |[Counter&#45;Strike 2 external &#124; Semi rage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727380-counter-strike-2-external-semi-rage.html)|`2025-12-09 14:28:00`|`Counter-Strike 2`|
 |[Capture card &#43; DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/728720-capture-card-dma.html)|`2025-12-09 14:22:00`|`Forum General`|
