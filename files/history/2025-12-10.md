@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC ntdll shadowing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/728812-eac-ntdll-shadowing.html)|`2025-12-10 05:50:00`|`Anti-Cheat Bypass`|
 |[Updated PVZ GW2 Cheat&#40;s&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/686351-updated-pvz-gw2-cheat.html)|`2025-12-10 05:44:00`|`Forum General`|
 |[Setting other players' gloves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728811-setting-players-gloves.html)|`2025-12-10 05:42:00`|`Counter-Strike 2`|
 |[Any free working money mods?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728643-free-money-mods.html)|`2025-12-10 05:15:00`|`Grand Theft Auto V`|
