@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pixel Gun 3D Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/719939-pixel-gun-3d-cheat.html)|`2025-12-10 06:29:00`|`Other Games`|
+|[PLM &#45; REPO cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/716529-plm-repo-cheat.html)|`2025-12-10 06:27:00`|`Other Games`|
+|[Injector for Bytes dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/728732-injector-bytes-dll.html)|`2025-12-10 06:27:00`|`Alternative Online Mods`|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-12-10 06:21:00`|`Other FPS Games`|
 |[Pubg Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/728813-pubg-cheat.html)|`2025-12-10 06:14:00`|`Playerunknown's Battlegrounds`|
 |[Home Wi&#45;Fi IP Block: Can Only Log In Via Mobile Data](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/728639-home-wi-fi-ip-block-log-via-mobile-data.html)|`2025-12-10 06:09:00`|`Anti-Cheat Bypass`|
 |[Rust Parser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/728709-rust-parser.html)|`2025-12-10 06:09:00`|`Rust`|
