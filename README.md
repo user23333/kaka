@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Injector for Bytes dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/728732-injector-bytes-dll.html)|`2025-12-09 17:24:00`|`Alternative Online Mods`|
+|[Software cant find localplayers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728642-software-cant-localplayers.html)|`2025-12-09 17:20:00`|`Valorant`|
+|[Where Winds Meet, Lua Executor &#124; IExecut3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726615-winds-meet-lua-executor-iexecut3.html)|`2025-12-09 17:19:00`|`Other MMORPG and Strategy`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-12-09 17:17:00`|`Marvel Rivals`|
+|[EVO3 &#124; Updated External Legit/Semi&#45;Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/713273-evo3-updated-external-legit-semi-rage-cheat.html)|`2025-12-09 17:14:00`|`Counter-Strike 2 Releases`|
+|[get GOM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728731-gom.html)|`2025-12-09 17:06:00`|`Escape from Tarkov`|
 |[Updated Valorant External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728216-updated-valorant-external.html)|`2025-12-09 16:20:00`|`Valorant`|
 |[Ban Data Collection Thread/Unban Method Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/420476-ban-data-collection-thread-unban-method-discussion.html)|`2025-12-09 16:16:00`|`Escape from Tarkov`|
 |[Loot Vacuum / Item Teleport Method &#40;1&#46;0&#46;0&#46;2&#43;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728461-loot-vacuum-item-teleport-method-1-0-0-2-a.html)|`2025-12-09 16:07:00`|`Escape from Tarkov`|
