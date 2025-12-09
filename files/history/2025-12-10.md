@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EVGA Driver Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722300-evga-driver-exploit.html)|`2025-12-10 03:07:00`|`Anti-Cheat Bypass`|
+|[Attach Cheat Engine to FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/728658-attach-cheat-engine-fivem.html)|`2025-12-10 03:02:00`|`Alternative Online Mods`|
 |[Pawn Offset?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728778-pawn-offset.html)|`2025-12-10 02:46:00`|`Counter-Strike 2`|
 |[Classic Antiban ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/728787-classic-antiban.html)|`2025-12-10 02:41:00`|`PUBG Mobile`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-12-10 02:39:00`|`Valorant`|
