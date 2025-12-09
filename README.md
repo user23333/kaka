@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[color bot cpp main&#46;cpp and header&#46;cpp be careful with this](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728744-color-bot-cpp-main-cpp-header-cpp-careful.html)|`2025-12-09 23:33:00`|`Call of Duty: Black Ops 7`|
+|[How would one go about creating a pak bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/728587-creating-pak-bypass.html)|`2025-12-09 23:28:00`|`Sea of Thieves`|
 |[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2025-12-09 23:26:00`|`Valorant`|
 |[how to insert PML4E in a um process from km?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727592-insert-pml4e-um-process-km.html)|`2025-12-09 23:25:00`|`Anti-Cheat Bypass`|
 |[GTA World RageMP Ban Evasion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/728411-gta-world-ragemp-ban-evasion.html)|`2025-12-09 23:22:00`|`Alternative Online Mods`|
