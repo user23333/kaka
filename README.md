@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to use battleyent PVE Patch after tarkov 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728244-battleyent-pve-patch-tarkov-1-0-a.html)|`2025-12-10 01:38:00`|`Escape from Tarkov`|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-12-10 01:33:00`|`Counter-Strike 2 Releases`|
+|[guarded regions 1&#46;17&#46;17&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/726836-guarded-regions-1-17-17-7-a.html)|`2025-12-10 01:32:00`|`Valorant`|
+|[YimMenuV2 &#45; Night Club LUA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728604-yimmenuv2-night-club-lua.html)|`2025-12-10 01:25:00`|`Grand Theft Auto V`|
+|[current undetected money method using Yim Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724257-current-undetected-money-method-using-yim-menu.html)|`2025-12-10 01:21:00`|`Grand Theft Auto V`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2025-12-10 01:18:00`|`Grand Theft Auto V`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-12-10 01:18:00`|`Apex Legends`|
 |[PhasmoCheatV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/722532-phasmocheatv.html)|`2025-12-10 01:16:00`|`Phasmophobia`|
