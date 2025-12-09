@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-12-09 09:10:00`|`Alternative Online Mods`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2025-12-09 09:01:00`|`Grand Theft Auto V`|
+|[Rust Internal Rage Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/728703-rust-internal-rage-source-code.html)|`2025-12-09 08:57:00`|`Rust`|
+|[Menu The eminence in shadow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/727740-menu-eminence-shadow.html)|`2025-12-09 08:57:00`|`Other MMORPG and Strategy`|
+|[Best way to do prediction & nospread?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728593-prediction-nospread.html)|`2025-12-09 08:48:00`|`Counter-Strike 2`|
+|[Has the Silent Aim server check been implemented?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728341-silent-aim-server-check-implemented.html)|`2025-12-09 08:45:00`|`Escape from Tarkov`|
 |[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2025-12-09 07:26:00`|`HELLDIVERS 2`|
 |[Updated PVZ GW2 Cheat&#40;s&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/686351-updated-pvz-gw2-cheat.html)|`2025-12-09 07:14:00`|`Forum General`|
 |[Offset PB Zepetto 2025 december](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/728522-offset-pb-zepetto-2025-december.html)|`2025-12-09 07:39:00`|`Other FPS Games`|
