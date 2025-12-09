@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/728765-simple-esp.html)|`2025-12-09 23:57:00`|`Rust`|
 |[Battlefield 6 Logitech Anti&#45;Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/723124-battlefield-6-logitech-anti-recoil.html)|`2025-12-09 23:50:00`|`Battlefield 6`|
 |[Dayz entity ESP in python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/727979-dayz-entity-esp-python.html)|`2025-12-09 23:42:00`|`DayZ SA`|
 |[color bot cpp main&#46;cpp and header&#46;cpp be careful with this](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728744-color-bot-cpp-main-cpp-header-cpp-careful.html)|`2025-12-09 23:33:00`|`Call of Duty: Black Ops 7`|
