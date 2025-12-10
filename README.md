@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Charger turn &#40;L4D2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/723736-charger-l4d2.html)|`2025-12-10 17:54:00`|`Other FPS Games`|
+|[best spoofable gaming laptop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728456-spoofable-gaming-laptop.html)|`2025-12-10 17:47:00`|`Valorant`|
 |[lone&#45;dma eft&#45;dma&#45;radar built w/ wpf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/704132-lone-dma-eft-dma-radar-built-wpf.html)|`2025-12-10 16:32:00`|`Escape from Tarkov`|
 |[Gems Of War 8&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/702434-gems-war-8-5-a.html)|`2025-12-10 16:29:00`|`Cheat Engine Tables`|
 |[SEOwnedDE &#40;highly improved&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/725042-seownedde-highly-improved.html)|`2025-12-10 16:20:00`|`Team Fortress 2`|
