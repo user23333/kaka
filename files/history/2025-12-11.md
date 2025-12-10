@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EVGA Driver Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722300-evga-driver-exploit.html)|`2025-12-11 01:22:00`|`Anti-Cheat Bypass`|
+|[pc crossplay after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/728897-pc-crossplay-update.html)|`2025-12-11 01:22:00`|`Battlefield 6`|
+|[why is not work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/728896-why-is-not-work.html)|`2025-12-11 01:20:00`|`Alternative Online Mods`|
+|[Unreleased Licenses Plates On Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728257-unreleased-licenses-plates-enhanced.html)|`2025-12-11 01:18:00`|`Grand Theft Auto V`|
+|[Yim Menu 1&#46;72 Mansions DLC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728895-yim-menu-1-72-mansions-dlc.html)|`2025-12-11 01:17:00`|`Grand Theft Auto V`|
+|[Age Of Empire 4 Updated Scar Script Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/720436-age-empire-4-updated-scar-script-injector.html)|`2025-12-11 01:15:00`|`Age of Empires`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-12-11 01:14:00`|`Counter-Strike 2`|
 |[Put benny's wheels in personal vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/376369-bennys-wheels-personal-vehicle.html)|`2025-12-11 00:54:00`|`Grand Theft Auto V`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-12-11 00:41:00`|`Grand Theft Auto V`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-12-11 00:40:00`|`Overwatch`|
