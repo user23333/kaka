@@ -11,6 +11,7 @@
 |5|[Serdium Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728103-serdium-cheat.html)|`2025-12-11 00:22:33`|`counter-strike-2-a`|
 |13|[EFT DMA Dumper &#40;il2cpp&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728094-eft-dma-dumper-il2cpp.html)|`2025-12-11 00:22:33`|`escape-from-tarkov`|
 |11|[New UD Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728617-ud-method.html)|`2025-12-11 00:22:33`|`valorant`|
+|10|[Yim Menu 1&#46;72 Mansions DLC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728895-yim-menu-1-72-mansions-dlc.html)|`2025-12-11 05:59:32`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
