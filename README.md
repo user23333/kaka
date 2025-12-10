@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Knife Models](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728854-knife-models.html)|`2025-12-10 18:03:00`|`Counter-Strike 2`|
 |[Charger turn &#40;L4D2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/723736-charger-l4d2.html)|`2025-12-10 17:54:00`|`Other FPS Games`|
 |[best spoofable gaming laptop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728456-spoofable-gaming-laptop.html)|`2025-12-10 17:47:00`|`Valorant`|
 |[lone&#45;dma eft&#45;dma&#45;radar built w/ wpf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/704132-lone-dma-eft-dma-radar-built-wpf.html)|`2025-12-10 16:32:00`|`Escape from Tarkov`|
