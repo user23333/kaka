@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Knife Models](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728854-knife-models.html)|`2025-12-11 01:42:00`|`Counter-Strike 2`|
+|[hyper&#45;reV &#45; memory introspection &#43; reverse engineering powered by leveraging Hyper&#45;V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709634-hyper-rev-memory-introspection-reverse-engineering-powered-leveraging-hyper.html)|`2025-12-11 01:41:00`|`Anti-Cheat Bypass`|
+|[Cod Hwid Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/721079-cod-hwid-ban.html)|`2025-12-11 01:39:00`|`Call of Duty: Black Ops 6`|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2025-12-11 01:37:00`|`Battlefield 6`|
+|[guarded regions 1&#46;17&#46;17&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/726836-guarded-regions-1-17-17-7-a.html)|`2025-12-11 01:34:00`|`Valorant`|
+|[RocketLeage Offsets Finder&#40;2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/684597-rocketleage-offsets-finder-2025-a.html)|`2025-12-11 01:33:00`|`Other Games`|
 |[EVGA Driver Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722300-evga-driver-exploit.html)|`2025-12-11 01:22:00`|`Anti-Cheat Bypass`|
 |[pc crossplay after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/728897-pc-crossplay-update.html)|`2025-12-11 01:22:00`|`Battlefield 6`|
 |[why is not work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/728896-why-is-not-work.html)|`2025-12-11 01:20:00`|`Alternative Online Mods`|
