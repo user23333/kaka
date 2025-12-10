@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[theHunter: Call of the Wild Internal Radar, ESP, & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644365-thehunter-call-wild-internal-radar-esp.html)|`2025-12-10 10:54:00`|`Other FPS Games`|
+|[Passive Cooling / Fan Delete on Dichen 6th Gen Fuser &#45; Anyone Done It?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/727515-passive-cooling-fan-delete-dichen-6th-gen-fuser.html)|`2025-12-10 10:38:00`|`Other Hardware`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-12-10 10:18:00`|`Other FPS Games`|
 |[COD Decryption & Memory Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728601-cod-decryption-memory-dumper.html)|`2025-12-10 08:59:00`|`Call of Duty: Black Ops 7`|
 |[Undetected Cheat Engine &#43; Driver &#124; 2023 &#124; Bypass Anticheats &#40;BE / EAC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/504191-undetected-cheat-engine-driver-2023-bypass-anticheats-eac.html)|`2025-12-10 08:45:00`|`Anti-Cheat Bypass`|
 |[Tarkov IL2CPP decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726047-tarkov-il2cpp-decryption.html)|`2025-12-10 08:23:00`|`Escape from Tarkov`|
