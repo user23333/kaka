@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZServer&#95;x64&#46;exe No Battleye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/728192-dayzserver_x64-exe-battleye.html)|`2025-12-10 23:56:00`|`DayZ SA`|
+|[Full Anticheat Disabler &#40;You can play online&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687866-anticheat-disabler-play-online.html)|`2025-12-10 23:55:00`|`Marvel Rivals`|
+|[Does anyone have offsets for the v93 version?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/728887-offsets-v93-version.html)|`2025-12-10 23:44:00`|`CounterStrike Source`|
 |[ARDUINO SPOOFING](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/727798-arduino-spoofing.html)|`2025-12-10 23:25:00`|`Valorant`|
 |[Battle&#46;net Accounts Banned with 0 play time](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/728869-battle-net-accounts-banned-0-play-time.html)|`2025-12-10 23:23:00`|`Overwatch`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-12-10 23:16:00`|`Grand Theft Auto V`|
