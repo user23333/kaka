@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Internal Rage Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/728703-rust-internal-rage-source-code.html)|`2025-12-11 03:00:00`|`Rust`|
+|[Best way to read memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728682-read-memory.html)|`2025-12-11 02:57:00`|`Counter-Strike 2`|
+|[NVReAPI – Reverse NVIDIA API &#40;GPU UUID, Name&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/719583-nvreapi-reverse-nvidia-api-gpu-uuid-name.html)|`2025-12-11 02:53:00`|`Anti-Cheat Bypass`|
 |[Apex DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716473-apex-dma-source.html)|`2025-12-11 02:51:00`|`Apex Legends`|
 |[PANOPTYCA : Idle RPG Manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/727441-panoptyca-idle-rpg-manager.html)|`2025-12-11 02:50:00`|`Cheat Engine Tables`|
 |[battleyent PVE Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726288-battleyent-pve-patch.html)|`2025-12-11 02:49:00`|`Escape from Tarkov`|
