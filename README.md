@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARDUINO SPOOFING](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/727798-arduino-spoofing.html)|`2025-12-10 23:25:00`|`Valorant`|
+|[Battle&#46;net Accounts Banned with 0 play time](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/728869-battle-net-accounts-banned-0-play-time.html)|`2025-12-10 23:23:00`|`Overwatch`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-12-10 23:16:00`|`Grand Theft Auto V`|
 |[Undetected External PointBlank ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/728882-undetected-external-pointblank-id.html)|`2025-12-10 22:59:00`|`Other FPS Games`|
 |[hi](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/728879-hi.html)|`2025-12-10 22:42:00`|`Introductions`|
 |[Unreleased Licenses Plates On Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728257-unreleased-licenses-plates-enhanced.html)|`2025-12-10 22:53:00`|`Grand Theft Auto V`|
