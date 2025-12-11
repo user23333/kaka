@@ -27,9 +27,13 @@
 |57|[EFT DMA Dumper &#40;il2cpp&#41; v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52174)|`2025-12-11 00:22:33`|
 |71|[Valorant SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52171)|`2025-12-11 00:22:33`|
 |56|[5&#46;3&#46;2&#45;2673388&#43;&#43;&#43;depot&#95;marvel&#43;S5&#46;0&#95;release&#45;Mar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52167)|`2025-12-11 00:22:33`|
+|1|[External PointBlank](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52222)|`2025-12-11 23:16:59`|
+|2|[shared memory driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52184)|`2025-12-11 23:16:59`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[shared memory driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/728324-shared-memory-driver.html)|`2025-12-11 23:14:00`|`Anti-Cheat Bypass`|
+|[Undetected External PointBlank ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/728882-undetected-external-pointblank-id.html)|`2025-12-11 23:11:00`|`Other FPS Games`|
 |[How to use battleyent PVE Patch after tarkov 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728244-battleyent-pve-patch-tarkov-1-0-a.html)|`2025-12-11 22:54:00`|`Escape from Tarkov`|
 |[How to hook agent model CS:2 ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728651-hook-agent-model-cs-2-a.html)|`2025-12-11 22:24:00`|`Counter-Strike 2`|
 |[Should I post a external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723411-post-external.html)|`2025-12-11 21:59:00`|`Counter-Strike 2`|
