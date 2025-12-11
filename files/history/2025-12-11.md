@@ -12,6 +12,7 @@
 |13|[EFT DMA Dumper &#40;il2cpp&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728094-eft-dma-dumper-il2cpp.html)|`2025-12-11 00:22:33`|`escape-from-tarkov`|
 |11|[New UD Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728617-ud-method.html)|`2025-12-11 00:22:33`|`valorant`|
 |10|[Yim Menu 1&#46;72 Mansions DLC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728895-yim-menu-1-72-mansions-dlc.html)|`2025-12-11 05:59:32`|`grand-theft-auto-v`|
+|12|[Deep Dive into CS2's Built&#45;in Anti&#45;Cheat System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728681-deep-dive-cs2s-built-anti-cheat-system.html)|`2025-12-11 10:48:42`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;1&#46;0&#46;0&#46;2&#46;42157&#93; barebones of a Loot ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728612-1-0-0-2-42157-barebones-loot-esp.html)|`2025-12-11 10:40:00`|`Escape from Tarkov`|
+|[Dumping Games &#43; Reversing Thia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727562-dumping-games-reversing-thia.html)|`2025-12-11 10:25:00`|`Anti-Cheat Bypass`|
 |[YimMenu 1&#46;72 Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728952-yimmenu-1-72-enhanced.html)|`2025-12-11 08:49:00`|`Grand Theft Auto V`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-12-11 08:46:00`|`Valorant`|
 |[Arc Raiders &#45; Poor Man's Radar &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727806-arc-raiders-poor-mans-radar-dma.html)|`2025-12-11 08:34:00`|`Other FPS Games`|
