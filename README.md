@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[looking for titan script?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/729082-looking-titan-script.html)|`2025-12-12 07:14:00`|`Apex Legends`|
+|[Ai aimbot on consoles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/728420-ai-aimbot-consoles.html)|`2025-12-12 07:13:00`|`Apex Legends`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2025-12-12 07:08:00`|`Grand Theft Auto V`|
+|[Please let me know if you still have a working LUA injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/720334-please-lua-injector.html)|`2025-12-12 07:02:00`|`Garry's Mod`|
 |[prevstate and curstate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/729076-prevstate-curstate.html)|`2025-12-12 06:51:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-12-12 06:43:00`|`Other FPS Games`|
 |[DayPay Internal &#91;STEAM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/720131-daypay-internal-steam.html)|`2025-12-12 06:34:00`|`Payday 3`|
