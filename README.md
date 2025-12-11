@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[any menu available for gtav legacy currently updated for mansions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728978-menu-available-gtav-legacy-currently-updated-mansions.html)|`2025-12-11 19:28:00`|`Grand Theft Auto V`|
+|[SastashaFied T4 MP &#124; Internal Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-5-world-at-war/728847-sastashafied-t4-mp-internal-multihack.html)|`2025-12-11 19:26:00`|`Call of Duty 5: World at War`|
+|[PUBG GLOBAL 4&#46;1 UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/724318-pubg-global-4-1-ue4-offsets.html)|`2025-12-11 19:21:00`|`PUBG Mobile`|
 |[Does anyone have offsets for the v93 version?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/728887-offsets-v93-version.html)|`2025-12-11 18:38:00`|`CounterStrike Source`|
 |[Updated stats for GTA Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728259-updated-stats-gta-online.html)|`2025-12-11 18:32:00`|`Grand Theft Auto V`|
 |[Bypassing BlueBook SAT screenshot prevention](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/728472-bypassing-bluebook-sat-screenshot-prevention.html)|`2025-12-11 18:20:00`|`Anti-Cheat Bypass`|
