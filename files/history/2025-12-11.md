@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EgguWare V2 &#91;Linux Bypass&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727450-egguware-v2-linux-bypass.html)|`2025-12-11 13:22:00`|`Other FPS Games`|
+|[&#40;POC&#41; Item Spawning Method &#40;1&#46;0&#46;0&#46;2&#43;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728383-poc-item-spawning-method-1-0-0-2-a.html)|`2025-12-11 13:19:00`|`Escape from Tarkov`|
+|[Chillware FOR CSGO&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/727320-chillware-csgo.html)|`2025-12-11 13:18:00`|`Counterstrike Global Offensive`|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-12-11 13:14:00`|`Sea of Thieves`|
+|[C&#35; executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/716981-executor.html)|`2025-12-11 13:09:00`|`Alternative Online Mods`|
+|[Skelet Bone MEGA FETCHING LINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/727062-skelet-bone-mega-fetching-line.html)|`2025-12-11 13:04:00`|`Rust`|
 |[WH for noobs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/728959-wh-noobs.html)|`2025-12-11 12:43:00`|`Call of Duty: Black Ops 2`|
 |[SetEvent PointBlank](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712452-setevent-pointblank.html)|`2025-12-11 12:24:00`|`Other FPS Games`|
 |[About the &#40;FTPM / TPM&#41; ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728957-ftpm-tpm-ban.html)|`2025-12-11 12:22:00`|`Call of Duty: Black Ops 7`|
