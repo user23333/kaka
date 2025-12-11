@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[YimMenu 1&#46;72 Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728952-yimmenu-1-72-enhanced.html)|`2025-12-11 08:49:00`|`Grand Theft Auto V`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-12-11 08:46:00`|`Valorant`|
+|[Arc Raiders &#45; Poor Man's Radar &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727806-arc-raiders-poor-mans-radar-dma.html)|`2025-12-11 08:34:00`|`Other FPS Games`|
+|[Question Regarding BattlEye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728950-question-regarding-battleye.html)|`2025-12-11 08:28:00`|`Grand Theft Auto V`|
 |[colorbot detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/728318-colorbot-detections.html)|`2025-12-11 07:54:00`|`THE FINALS`|
 |[Offset PB Zepetto 2025 december](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/728522-offset-pb-zepetto-2025-december.html)|`2025-12-11 07:51:00`|`Other FPS Games`|
 |[The Finals ColorBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/669800-finals-colorbot.html)|`2025-12-11 07:46:00`|`THE FINALS`|
