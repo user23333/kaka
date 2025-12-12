@@ -12,6 +12,7 @@
 |11|[New UD Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728617-ud-method.html)|`2025-12-12 00:15:58`|`valorant`|
 |17|[How to update YimMenuv2 for Mansions DLC all by yourself&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728975-update-yimmenuv2-mansions-dlc-yourself.html)|`2025-12-12 00:15:58`|`grand-theft-auto-v`|
 |10|[Quest/Achievements Auto Completer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728790-quest-achievements-auto-completer.html)|`2025-12-12 08:54:39`|`escape-from-tarkov`|
+|12|[Deep Dive into CS2's Built&#45;in Anti&#45;Cheat System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728681-deep-dive-cs2s-built-anti-cheat-system.html)|`2025-12-12 10:44:54`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,9 +31,15 @@
 |1|[ARCBotSourcev1&#46;6&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52233)|`2025-12-12 01:57:54`|
 |1|[arc&#95;raiders&#95;2025&#45;12&#45;11&#95;07&#45;04&#45;49](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52236)|`2025-12-12 03:24:25`|
 |1|[Rust Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52223)|`2025-12-12 08:54:39`|
+|25|[Updated auto&#45;update external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52228)|`2025-12-12 10:44:54`|
+|2|[theHunter Internal Radar & ESP v1&#46;3&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52219)|`2025-12-12 10:44:54`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[calculating recoil &#124; bypassing anti no recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/729109-calculating-recoil-bypassing-anti-recoil.html)|`2025-12-12 10:41:00`|`Alternative Online Mods`|
+|[HWID SPOOFING BYPASS &#40;FORTNITE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726344-hwid-spoofing-bypass-fortnite.html)|`2025-12-12 10:40:00`|`Anti-Cheat Bypass`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-12-12 10:36:00`|`Grand Theft Auto V`|
+|[Dumping Unity Chams Materials Programmatically](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/729102-dumping-unity-chams-materials-programmatically.html)|`2025-12-12 10:11:00`|`Rust`|
 |[Nice External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728414-nice-external-base.html)|`2025-12-12 08:52:00`|`Counter-Strike 2`|
 |[Rust Enc/Dec Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/728886-rust-enc-dec-dumper.html)|`2025-12-12 08:51:00`|`Rust`|
 |[wraith&#45;rs &#45; Rust Abstractions for Windows Internals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/729098-wraith-rs-rust-abstractions-windows-internals.html)|`2025-12-12 08:48:00`|`Anti-Cheat Bypass`|
