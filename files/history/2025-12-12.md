@@ -13,6 +13,7 @@
 |17|[How to update YimMenuv2 for Mansions DLC all by yourself&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728975-update-yimmenuv2-mansions-dlc-yourself.html)|`2025-12-12 00:15:58`|`grand-theft-auto-v`|
 |10|[Quest/Achievements Auto Completer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728790-quest-achievements-auto-completer.html)|`2025-12-12 08:54:39`|`escape-from-tarkov`|
 |12|[Deep Dive into CS2's Built&#45;in Anti&#45;Cheat System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728681-deep-dive-cs2s-built-anti-cheat-system.html)|`2025-12-12 10:44:54`|`counter-strike-2-a`|
+|5|[fsl mansions dlc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728904-fsl-mansions-dlc.html)|`2025-12-12 11:47:31`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -36,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BO7 INFINITE GAME ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728696-bo7-infinite-game.html)|`2025-12-12 11:38:00`|`Call of Duty: Black Ops 7`|
+|[xiaohook &#45; Fully Featured Rust Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/728777-xiaohook-featured-rust-internal-source.html)|`2025-12-12 10:55:00`|`Rust`|
 |[calculating recoil &#124; bypassing anti no recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/729109-calculating-recoil-bypassing-anti-recoil.html)|`2025-12-12 10:41:00`|`Alternative Online Mods`|
 |[HWID SPOOFING BYPASS &#40;FORTNITE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726344-hwid-spoofing-bypass-fortnite.html)|`2025-12-12 10:40:00`|`Anti-Cheat Bypass`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-12-12 10:36:00`|`Grand Theft Auto V`|
