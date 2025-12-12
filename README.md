@@ -37,6 +37,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2025-12-12 12:44:00`|`Escape from Tarkov`|
+|[Project Radiance &#91;PRIVATE BUILD&#93; &#45; Rust Internal &#40;not bait&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/729127-project-radiance-private-build-rust-internal-bait.html)|`2025-12-12 12:37:00`|`Rust`|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2025-12-12 12:35:00`|`Battlefield 6`|
+|[Once Tpm banned how long can i play on fresh acct](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728576-tpm-banned-play-fresh-acct.html)|`2025-12-12 12:21:00`|`Call of Duty: Black Ops 7`|
 |[Palia Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/729118-palia-internal-cheat.html)|`2025-12-12 12:03:00`|`Palia`|
 |[BO7 INFINITE GAME ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728696-bo7-infinite-game.html)|`2025-12-12 11:38:00`|`Call of Duty: Black Ops 7`|
 |[xiaohook &#45; Fully Featured Rust Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/728777-xiaohook-featured-rust-internal-source.html)|`2025-12-12 10:55:00`|`Rust`|
