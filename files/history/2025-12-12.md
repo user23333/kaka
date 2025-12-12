@@ -39,6 +39,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking for MP unlock all on PC&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-4-a/726596-looking-mp-unlock-pc.html)|`2025-12-12 23:31:00`|`Call of Duty: Black Ops 4`|
+|[Perfect Bhop Internal Source &#43; how to ubdate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727869-perfect-bhop-internal-source-ubdate.html)|`2025-12-12 23:29:00`|`Counter-Strike 2`|
+|[t0nyhack &#40;module included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/729134-t0nyhack-module-included.html)|`2025-12-12 23:23:00`|`Garry's Mod`|
+|[COD Decryption & Memory Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728601-cod-decryption-memory-dumper.html)|`2025-12-12 23:23:00`|`Call of Duty: Black Ops 7`|
 |[SastashaFied iw4x SP ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/726232-sastashafied-iw4x-sp-esp.html)|`2025-12-12 23:06:00`|`Call of Duty 6: Modern Warfare 2`|
 |[SastashaFied iw4x SP/Spec&#45;Ops](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/722547-sastashafied-iw4x-sp-spec-ops.html)|`2025-12-12 23:04:00`|`Call of Duty 6: Modern Warfare 2`|
 |[fixed seo64 with exception handler and cool ahh menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/727711-fixed-seo64-exception-handler-cool-ahh-menu.html)|`2025-12-12 23:00:00`|`Team Fortress 2`|
