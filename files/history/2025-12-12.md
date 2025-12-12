@@ -37,6 +37,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How would one go about creating a pak bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/728587-creating-pak-bypass.html)|`2025-12-12 16:15:00`|`Sea of Thieves`|
+|[Why does setting the PKS bit of the CR4 control register cause a &#35;GP exception?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/729142-setting-pks-bit-cr4-control-register-cause-gp-exception.html)|`2025-12-12 16:10:00`|`General Programming and Reversing`|
+|[Beginner to Kernel Cheat modding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/728857-beginner-kernel-cheat-modding.html)|`2025-12-12 16:07:00`|`Forum General`|
+|[C/C&#43;&#43; Code Obfuscation Techniques](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/729138-code-obfuscation-techniques.html)|`2025-12-12 15:57:00`|`C and C++`|
 |[Unlock hidden locations &#40;Labyrinth, Terminal, Suburbs, Town, Beginner Mission, etc&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728919-unlock-hidden-locations-labyrinth-terminal-suburbs-town-beginner-mission-etc.html)|`2025-12-12 15:51:00`|`Escape from Tarkov`|
 |[SWTOR External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/722362-swtor-external.html)|`2025-12-12 15:30:00`|`Other Games`|
 |[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2025-12-12 15:30:00`|`HELLDIVERS 2`|
