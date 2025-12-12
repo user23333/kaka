@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unlock hidden locations &#40;Labyrinth, Terminal, Suburbs, Town, Beginner Mission, etc&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728919-unlock-hidden-locations-labyrinth-terminal-suburbs-town-beginner-mission-etc.html)|`2025-12-12 15:51:00`|`Escape from Tarkov`|
 |[SWTOR External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/722362-swtor-external.html)|`2025-12-12 15:30:00`|`Other Games`|
 |[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2025-12-12 15:30:00`|`HELLDIVERS 2`|
 |[Running in a VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/729133-running-vm.html)|`2025-12-12 14:20:00`|`Battlefield 6`|
