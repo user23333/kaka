@@ -37,6 +37,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-12-12 20:16:00`|`Marvel Rivals`|
+|[Bypass new Battleye Integry Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727784-bypass-battleye-integry-check.html)|`2025-12-12 20:13:00`|`Escape from Tarkov`|
+|[INSANE&#46;tf2 &#40; new bad cheat &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/727997-insane-tf2-bad-cheat.html)|`2025-12-12 20:07:00`|`Team Fortress 2`|
 |[External Soldier and Vehicle Entity Iteration &#40;no cr3 fix required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/729166-external-soldier-vehicle-entity-iteration-cr3-fix-required.html)|`2025-12-12 19:52:00`|`Battlefield 6`|
 |[Hyper&#45;V weirdly merging EPT entries back together](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726958-hyper-weirdly-merging-ept-entries.html)|`2025-12-12 19:21:00`|`Anti-Cheat Bypass`|
 |[Home Wi&#45;Fi IP Block: Can Only Log In Via Mobile Data](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/728639-home-wi-fi-ip-block-log-via-mobile-data.html)|`2025-12-12 19:10:00`|`Anti-Cheat Bypass`|
