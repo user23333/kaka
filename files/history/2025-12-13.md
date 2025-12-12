@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-12-13 00:39:00`|`Other Games`|
+|[Updated Imperial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/728928-updated-imperial.html)|`2025-12-13 00:35:00`|`Overwatch`|
+|[casino points exchange](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729179-casino-exchange.html)|`2025-12-13 00:30:00`|`Grand Theft Auto V`|
+|[&#91;BloodStrike&#93; Python code injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/728533-bloodstrike-python-code-injector.html)|`2025-12-13 00:29:00`|`Other FPS Games`|
+|[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2025-12-13 00:28:00`|`Other FPS Games`|
+|[Sonic Racing Crossworlds Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720310-sonic-racing-crossworlds-unlocker.html)|`2025-12-13 00:24:00`|`Other Games`|
+|[Marvel Rivals Zombies mode specific cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/725981-marvel-rivals-zombies-mode-specific-cheats.html)|`2025-12-13 00:24:00`|`Marvel Rivals`|
+|[Marvel Rivals I Got Banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/729057-marvel-rivals-banned.html)|`2025-12-13 00:23:00`|`Marvel Rivals`|
 |[Chivalry 2 Basic &#46;pak &#45; Parera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720632-chivalry-2-basic-pak-parera.html)|`2025-12-13 00:11:00`|`Other Games`|
 |[Rust Enc/Dec Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/728886-rust-enc-dec-dumper.html)|`2025-12-13 00:10:00`|`Rust`|
 |[Helldivers 2 &#45; Stratagem Hotkey Manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/708700-helldivers-2-stratagem-hotkey-manager.html)|`2025-12-13 00:10:00`|`HELLDIVERS 2`|
