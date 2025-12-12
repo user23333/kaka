@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino FirmWare UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676366-arduino-firmware-ud.html)|`2025-12-13 01:09:00`|`Valorant`|
+|[OutOfAction Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727805-outofaction-internal-cheat.html)|`2025-12-13 01:06:00`|`Other FPS Games`|
+|[External Soldier and Vehicle Entity Iteration &#40;no cr3 fix required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/729166-external-soldier-vehicle-entity-iteration-cr3-fix-required.html)|`2025-12-13 01:05:00`|`Battlefield 6`|
+|[Learning C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/728922-learning.html)|`2025-12-13 01:05:00`|`Programming for Beginners`|
+|[theHunter: Call of the Wild Internal Radar, ESP, & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644365-thehunter-call-wild-internal-radar-esp.html)|`2025-12-13 01:04:00`|`Other FPS Games`|
+|[Redmatch 2 TY Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729185-redmatch-2-ty-internal-cheat.html)|`2025-12-13 01:01:00`|`Other FPS Games`|
+|[EVO3 &#124; Updated External Legit/Semi&#45;Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/713273-evo3-updated-external-legit-semi-rage-cheat.html)|`2025-12-13 01:00:00`|`Counter-Strike 2 Releases`|
 |[drawobject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/729184-drawobject.html)|`2025-12-13 00:54:00`|`Counter-Strike 2`|
 |[Zero Hour DENUVO Bypass &#40;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729183-zero-hour-denuvo-bypass.html)|`2025-12-13 00:54:00`|`Other FPS Games`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2025-12-13 00:52:00`|`Other FPS Games`|
