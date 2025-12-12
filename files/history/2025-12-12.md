@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Soldier and Vehicle Entity Iteration &#40;no cr3 fix required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/729166-external-soldier-vehicle-entity-iteration-cr3-fix-required.html)|`2025-12-12 19:52:00`|`Battlefield 6`|
 |[Hyper&#45;V weirdly merging EPT entries back together](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726958-hyper-weirdly-merging-ept-entries.html)|`2025-12-12 19:21:00`|`Anti-Cheat Bypass`|
 |[Home Wi&#45;Fi IP Block: Can Only Log In Via Mobile Data](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/728639-home-wi-fi-ip-block-log-via-mobile-data.html)|`2025-12-12 19:10:00`|`Anti-Cheat Bypass`|
 |[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-12-12 19:09:00`|`Grand Theft Auto V`|
