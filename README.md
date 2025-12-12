@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SurrounDead Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/703106-surroundead-cheat.html)|`2025-12-13 06:40:00`|`Other FPS Games`|
+|[2D&#45;Map DMA Radar &#40;WIP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/482418-2d-map-dma-radar-wip.html)|`2025-12-13 06:38:00`|`Escape from Tarkov`|
+|[Knife model Changer only in Inventory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/729093-knife-model-changer-inventory.html)|`2025-12-13 06:38:00`|`Counter-Strike 2`|
 |[The van 152 is giving me a headache&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/729159-van-152-giving-headache.html)|`2025-12-13 06:09:00`|`Valorant`|
 |[Fast way to find GOM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/723161-fast-gom.html)|`2025-12-13 06:08:00`|`Escape from Tarkov`|
 |[ARK RAIDERS XP &#124; MONEY &#124; RESOURCE FARM ARCBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727726-ark-raiders-xp-money-resource-farm-arcbot.html)|`2025-12-13 06:00:00`|`Other FPS Games`|
