@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Running in a VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/729133-running-vm.html)|`2025-12-12 14:20:00`|`Battlefield 6`|
+|[SKELETON FPS DROP &#40;5000~&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/728694-skeleton-fps-drop-5000-a.html)|`2025-12-12 14:06:00`|`Forum General`|
 |[Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727425-chams.html)|`2025-12-12 13:47:00`|`Counter-Strike 2`|
 |[Fast way to find GOM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/723161-fast-gom.html)|`2025-12-12 13:40:00`|`Escape from Tarkov`|
 |[Lazybead &#40;LB&#41; &#45; Free Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/685132-lazybead-lb-free-cheat.html)|`2025-12-12 13:28:00`|`Sea of Thieves`|
