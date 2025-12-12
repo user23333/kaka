@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ThePerfectMapper &#40; PDB Parsing Mapper &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/727933-theperfectmapper-pdb-parsing-mapper.html)|`2025-12-12 23:44:00`|`General Programming and Reversing`|
+|[Dota 2 Melonity spoofer decompiled script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686842-dota-2-melonity-spoofer-decompiled-script.html)|`2025-12-12 23:40:00`|`Other MMORPG and Strategy`|
 |[Looking for MP unlock all on PC&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-4-a/726596-looking-mp-unlock-pc.html)|`2025-12-12 23:31:00`|`Call of Duty: Black Ops 4`|
 |[Perfect Bhop Internal Source &#43; how to ubdate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727869-perfect-bhop-internal-source-ubdate.html)|`2025-12-12 23:29:00`|`Counter-Strike 2`|
 |[t0nyhack &#40;module included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/729134-t0nyhack-module-included.html)|`2025-12-12 23:23:00`|`Garry's Mod`|
