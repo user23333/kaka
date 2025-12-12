@@ -37,6 +37,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stealer SH/CL, Inject Lua Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/728980-stealer-sh-cl-inject-lua-code.html)|`2025-12-12 17:01:00`|`Garry's Mod`|
+|[External Among Us overlay &#40;undetectable&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/685399-external-overlay-undetectable.html)|`2025-12-12 16:59:00`|`Among Us`|
+|[Nuclear Nightmare internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718268-nuclear-nightmare-internal.html)|`2025-12-12 16:56:00`|`Other Games`|
+|[I'm not sure if it will work&#46;&#46;&#46; &#40;Zenres Zone Zero&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/729139-im-zenres-zone-zero.html)|`2025-12-12 16:54:00`|`Other MMORPG and Strategy`|
+|[Hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/729086-hello.html)|`2025-12-12 16:53:00`|`Introductions`|
+|[TPM Spoofer for free &#40;signed driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713720-tpm-spoofer-free-signed-driver.html)|`2025-12-12 16:52:00`|`Valorant`|
 |[PUBG Black Budget Playtest SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729149-pubg-black-budget-playtest-sdk.html)|`2025-12-12 16:47:00`|`Other FPS Games`|
 |[TPM SPOOFER WORK BO7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/729143-tpm-spoofer-bo7.html)|`2025-12-12 16:39:00`|`Call of Duty: Black Ops 7`|
 |[How would one go about creating a pak bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/728587-creating-pak-bypass.html)|`2025-12-12 16:15:00`|`Sea of Thieves`|
