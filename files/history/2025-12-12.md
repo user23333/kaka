@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Black Budget Playtest SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729149-pubg-black-budget-playtest-sdk.html)|`2025-12-12 16:47:00`|`Other FPS Games`|
+|[TPM SPOOFER WORK BO7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/729143-tpm-spoofer-bo7.html)|`2025-12-12 16:39:00`|`Call of Duty: Black Ops 7`|
 |[How would one go about creating a pak bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/728587-creating-pak-bypass.html)|`2025-12-12 16:15:00`|`Sea of Thieves`|
 |[Why does setting the PKS bit of the CR4 control register cause a &#35;GP exception?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/729142-setting-pks-bit-cr4-control-register-cause-gp-exception.html)|`2025-12-12 16:10:00`|`General Programming and Reversing`|
 |[Beginner to Kernel Cheat modding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/728857-beginner-kernel-cheat-modding.html)|`2025-12-12 16:07:00`|`Forum General`|
