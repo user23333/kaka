@@ -11,6 +11,7 @@
 |11|[YimMenuV2 &#45; Night Club LUA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728604-yimmenuv2-night-club-lua.html)|`2025-12-12 00:15:58`|`grand-theft-auto-v`|
 |11|[New UD Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728617-ud-method.html)|`2025-12-12 00:15:58`|`valorant`|
 |17|[How to update YimMenuv2 for Mansions DLC all by yourself&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728975-update-yimmenuv2-mansions-dlc-yourself.html)|`2025-12-12 00:15:58`|`grand-theft-auto-v`|
+|10|[Quest/Achievements Auto Completer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728790-quest-achievements-auto-completer.html)|`2025-12-12 08:54:39`|`escape-from-tarkov`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,9 +29,17 @@
 |3|[Source but better](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52196)|`2025-12-12 00:48:57`|
 |1|[ARCBotSourcev1&#46;6&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52233)|`2025-12-12 01:57:54`|
 |1|[arc&#95;raiders&#95;2025&#45;12&#45;11&#95;07&#45;04&#45;49](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52236)|`2025-12-12 03:24:25`|
+|1|[Rust Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52223)|`2025-12-12 08:54:39`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nice External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728414-nice-external-base.html)|`2025-12-12 08:52:00`|`Counter-Strike 2`|
+|[Rust Enc/Dec Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/728886-rust-enc-dec-dumper.html)|`2025-12-12 08:51:00`|`Rust`|
+|[wraith&#45;rs &#45; Rust Abstractions for Windows Internals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/729098-wraith-rs-rust-abstractions-windows-internals.html)|`2025-12-12 08:48:00`|`Anti-Cheat Bypass`|
+|[Need Tutorial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/729096-tutorial.html)|`2025-12-12 08:48:00`|`Counter-Strike 2`|
+|[Pattern Scanning Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728934-pattern-scanning-issue.html)|`2025-12-12 08:44:00`|`Counter-Strike 2`|
+|[L4D2 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/622950-l4d2-cheat.html)|`2025-12-12 08:43:00`|`Other FPS Games`|
+|[Battleyent Fix &#45; Small Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727797-battleyent-fix-crash.html)|`2025-12-12 08:41:00`|`Escape from Tarkov`|
 |[looking for titan script?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/729082-looking-titan-script.html)|`2025-12-12 07:14:00`|`Apex Legends`|
 |[Ai aimbot on consoles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/728420-ai-aimbot-consoles.html)|`2025-12-12 07:13:00`|`Apex Legends`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2025-12-12 07:08:00`|`Grand Theft Auto V`|
