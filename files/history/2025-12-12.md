@@ -37,6 +37,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SastashaFied T4 MP &#124; Internal Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-5-world-at-war/728847-sastashafied-t4-mp-internal-multihack.html)|`2025-12-12 17:27:00`|`Call of Duty 5: World at War`|
+|[BloodStrike Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725524-bloodstrike-internal.html)|`2025-12-12 17:20:00`|`Other FPS Games`|
+|[Subtick Exploit &#40;Autostrafer&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/729004-subtick-exploit-autostrafer.html)|`2025-12-12 17:11:00`|`Counter-Strike 2`|
+|[Among Us undetected cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/727307-undetected-cheat.html)|`2025-12-12 17:04:00`|`Among Us`|
 |[Stealer SH/CL, Inject Lua Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/728980-stealer-sh-cl-inject-lua-code.html)|`2025-12-12 17:01:00`|`Garry's Mod`|
 |[External Among Us overlay &#40;undetectable&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/685399-external-overlay-undetectable.html)|`2025-12-12 16:59:00`|`Among Us`|
 |[Nuclear Nightmare internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718268-nuclear-nightmare-internal.html)|`2025-12-12 16:56:00`|`Other Games`|
