@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Palia Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/729118-palia-internal-cheat.html)|`2025-12-12 12:03:00`|`Palia`|
 |[BO7 INFINITE GAME ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728696-bo7-infinite-game.html)|`2025-12-12 11:38:00`|`Call of Duty: Black Ops 7`|
 |[xiaohook &#45; Fully Featured Rust Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/728777-xiaohook-featured-rust-internal-source.html)|`2025-12-12 10:55:00`|`Rust`|
 |[calculating recoil &#124; bypassing anti no recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/729109-calculating-recoil-bypassing-anti-recoil.html)|`2025-12-12 10:41:00`|`Alternative Online Mods`|
