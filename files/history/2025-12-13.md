@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Black Budget Playtest SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729149-pubg-black-budget-playtest-sdk.html)|`2025-12-13 01:29:00`|`Other FPS Games`|
+|[Need Rainbow six internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/729192-rainbow-six-internal.html)|`2025-12-13 01:29:00`|`Rainbow Six Siege`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-12-13 01:28:00`|`Counter-Strike 2`|
+|[Where Winds Meet Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/725040-winds-meet-reversal-structs-offsets.html)|`2025-12-13 01:19:00`|`Other MMORPG and Strategy`|
 |[Arduino FirmWare UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676366-arduino-firmware-ud.html)|`2025-12-13 01:09:00`|`Valorant`|
 |[OutOfAction Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727805-outofaction-internal-cheat.html)|`2025-12-13 01:06:00`|`Other FPS Games`|
 |[External Soldier and Vehicle Entity Iteration &#40;no cr3 fix required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/729166-external-soldier-vehicle-entity-iteration-cr3-fix-required.html)|`2025-12-13 01:05:00`|`Battlefield 6`|
