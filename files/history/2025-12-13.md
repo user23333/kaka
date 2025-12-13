@@ -12,6 +12,7 @@
 |6|[fsl mansions dlc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728904-fsl-mansions-dlc.html)|`2025-12-13 00:11:46`|`grand-theft-auto-v`|
 |10|[Quest/Achievements Auto Completer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728790-quest-achievements-auto-completer.html)|`2025-12-13 00:11:46`|`escape-from-tarkov`|
 |11|[9223371761976868863 money](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729072-9223371761976868863-money.html)|`2025-12-13 01:58:35`|`grand-theft-auto-v`|
+|27|[PVE BattlEyent Alternative](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728902-pve-battleyent-alternative.html)|`2025-12-13 13:59:39`|`escape-from-tarkov`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
