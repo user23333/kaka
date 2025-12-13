@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[best vpn for bot lobbies?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/729206-vpn-bot-lobbies.html)|`2025-12-13 21:02:00`|`Call of Duty: Black Ops 7`|
+|[Candy Crush Saga &#40;Windows Store Version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/711508-candy-crush-saga-windows-store-version.html)|`2025-12-13 20:56:00`|`Cheat Engine Tables`|
+|[RustKernalDriver points](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/728867-rustkernaldriver.html)|`2025-12-13 20:40:00`|`Rust`|
 |[Valorant spoofing not working anymore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728842-valorant-spoofing-anymore.html)|`2025-12-13 20:29:00`|`Valorant`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-12-13 20:21:00`|`Grand Theft Auto V`|
 |[best vpn for bot lobbies?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/729281-vpn-bot-lobbies.html)|`2025-12-13 19:54:00`|`Call of Duty: Black Ops 6`|
