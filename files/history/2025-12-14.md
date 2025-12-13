@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pixel Gun 3D Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/719939-pixel-gun-3d-cheat.html)|`2025-12-14 07:26:00`|`Other Games`|
+|[DayPay Internal &#91;STEAM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/720131-daypay-internal-steam.html)|`2025-12-14 07:24:00`|`Payday 3`|
+|[Secure Boot bypass on BIOS that has no Secure Boot support](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/727626-secure-boot-bypass-bios-secure-boot-support.html)|`2025-12-14 07:23:00`|`Battlefield 6`|
+|[How would one go about creating a pak bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/728587-creating-pak-bypass.html)|`2025-12-14 07:23:00`|`Sea of Thieves`|
+|[SoT Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/719603-sot-spoofer.html)|`2025-12-14 07:22:00`|`Sea of Thieves`|
+|[Ai Ready or Not &#40;RON&#41; internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/726374-ai-ready-ron-internal-cheat.html)|`2025-12-14 07:18:00`|`Other FPS Games`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2025-12-14 07:12:00`|`Other FPS Games`|
 |[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-12-14 07:03:00`|`Other FPS Games`|
 |[How can I make bot lobbies?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/729346-bot-lobbies.html)|`2025-12-14 06:56:00`|`Call of Duty: Black Ops 6`|
