@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals I Got Banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/729057-marvel-rivals-banned.html)|`2025-12-14 05:02:00`|`Marvel Rivals`|
+|[Is it the end of the road for cheaters like me?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/729220-road-cheaters.html)|`2025-12-14 04:56:00`|`Alternative Online Mods`|
+|[Regarding external skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/729338-regarding-external-skin-changer.html)|`2025-12-14 04:55:00`|`Counter-Strike 2`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-12-14 04:53:00`|`Other FPS Games`|
 |[Where Winds Meet Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/725040-winds-meet-reversal-structs-offsets.html)|`2025-12-14 04:50:00`|`Other MMORPG and Strategy`|
 |[warhammer 40k darktide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/676392-warhammer-40k-darktide.html)|`2025-12-14 04:49:00`|`Other Games`|
