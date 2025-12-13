@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Botlobby Tool FREE &#91;BO6/MW3/WARZONE&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/696676-botlobby-tool-free-bo6-mw3-warzone.html)|`2025-12-14 04:32:00`|`Call of Duty: Black Ops 6`|
+|[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-12-14 04:32:00`|`PUBG Releases`|
 |[OFFSETS DUMPER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/720287-offsets-dumper.html)|`2025-12-14 04:08:00`|`Rust`|
 |[Please help me&#46; I want to know how to implement external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/729225-please-help-implement-external-cheat.html)|`2025-12-14 04:08:00`|`Anti-Cheat Bypass`|
 |[seo64 smismass fixed&#43;A LOT of backend changes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/728921-seo64-smismass-fixed-lot-backend-changes.html)|`2025-12-14 04:05:00`|`Team Fortress 2`|
