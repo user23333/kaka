@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Internal Rage Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/728703-rust-internal-rage-source-code.html)|`2025-12-14 01:55:00`|`Rust`|
+|[Getting kicked by BE &#40;steam enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729318-getting-kicked-steam-enhanced.html)|`2025-12-14 01:50:00`|`Grand Theft Auto V`|
+|[Getting kicked by BE &#40;steam enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729317-getting-kicked-steam-enhanced.html)|`2025-12-14 01:49:00`|`Grand Theft Auto V`|
+|[Updated Imperial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/728928-updated-imperial.html)|`2025-12-14 01:48:00`|`Overwatch`|
+|[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2025-12-14 01:47:00`|`HELLDIVERS 2`|
+|[External Soldier and Vehicle Entity Iteration &#40;no cr3 fix required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/729166-external-soldier-vehicle-entity-iteration-cr3-fix-required.html)|`2025-12-14 01:47:00`|`Battlefield 6`|
+|[&#91;BloodStrike&#93; Python code injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/728533-bloodstrike-python-code-injector.html)|`2025-12-14 01:45:00`|`Other FPS Games`|
 |[Battle eye mouse/keyboard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/729315-battle-eye-mouse-keyboard.html)|`2025-12-14 01:24:00`|`Anti-Cheat Bypass`|
 |[SEOwnedDE &#40;highly improved&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/725042-seownedde-highly-improved.html)|`2025-12-14 01:23:00`|`Team Fortress 2`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-12-14 01:22:00`|`Valorant`|
