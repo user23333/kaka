@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External SeatBelt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/729254-external-seatbelt.html)|`2025-12-13 11:28:00`|`Alternative Online Mods`|
+|[Schedule I &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695780-schedule-internal.html)|`2025-12-13 11:21:00`|`Other Games`|
+|[Where Winds Meet, Lua Executor &#124; IExecut3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726615-winds-meet-lua-executor-iexecut3.html)|`2025-12-13 11:17:00`|`Other MMORPG and Strategy`|
+|[How to change ur FTPM without a driver &#40;AMD, Gigabyte only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720900-change-ur-ftpm-driver-amd-gigabyte.html)|`2025-12-13 11:06:00`|`Valorant`|
 |[Tom Clancy's The Division Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/171536-tom-clancys-division-reversal-structs-offsets.html)|`2025-12-13 10:41:00`|`Tom Clancy's The Division`|
 |[EXTERNAL ESP&#43;TRIGGERBOT SOURCECODE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/727202-external-esp-triggerbot-sourcecode.html)|`2025-12-13 10:40:00`|`Apex Legends`|
 |[Undetected Cheat Engine &#43; Driver &#124; 2023 &#124; Bypass Anticheats &#40;BE / EAC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/504191-undetected-cheat-engine-driver-2023-bypass-anticheats-eac.html)|`2025-12-13 10:34:00`|`Anti-Cheat Bypass`|
