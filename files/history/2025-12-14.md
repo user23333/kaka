@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Debug game with AC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/729322-debug-game-ac.html)|`2025-12-14 02:57:00`|`Anti-Cheat Bypass`|
+|[VIGOR INTERNAL v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727702-vigor-internal-v3-0-a.html)|`2025-12-14 02:55:00`|`Other FPS Games`|
+|[How to update YimMenuv2 for Mansions DLC all by yourself&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728975-update-yimmenuv2-mansions-dlc-yourself.html)|`2025-12-14 02:55:00`|`Grand Theft Auto V`|
 |[NEED HELP SPOOFING VAL 152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728936-help-spoofing-val-152-a.html)|`2025-12-14 02:41:00`|`Valorant`|
 |[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2025-12-14 02:39:00`|`Grand Theft Auto V`|
 |[Eterspire MMO Mod Menu &#40;STEAM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726979-eterspire-mmo-mod-menu-steam.html)|`2025-12-14 02:25:00`|`Other MMORPG and Strategy`|
