@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-12-14 03:34:00`|`Alternative Online Mods`|
+|[RustKernalDriver points](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/728867-rustkernaldriver.html)|`2025-12-14 03:33:00`|`Rust`|
+|[External CreateMove Hooking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/729217-external-createmove-hooking.html)|`2025-12-14 03:32:00`|`Counter-Strike 2`|
+|[Secure boot question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/729324-secure-boot-question.html)|`2025-12-14 03:32:00`|`Anti-Cheat Bypass`|
 |[REACTIVE SNOW PARTICLES &#40;very cool you need this for christmas&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/729056-reactive-snow-particles-cool-christmas.html)|`2025-12-14 03:26:00`|`Team Fortress 2`|
 |[Bypassing BlueBook SAT screenshot prevention](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/728472-bypassing-bluebook-sat-screenshot-prevention.html)|`2025-12-14 03:02:00`|`Anti-Cheat Bypass`|
 |[Debug game with AC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/729322-debug-game-ac.html)|`2025-12-14 02:57:00`|`Anti-Cheat Bypass`|
