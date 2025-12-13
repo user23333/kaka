@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-12-14 02:22:00`|`Other Games`|
 |[Rust Internal Rage Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/728703-rust-internal-rage-source-code.html)|`2025-12-14 01:55:00`|`Rust`|
 |[Getting kicked by BE &#40;steam enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729318-getting-kicked-steam-enhanced.html)|`2025-12-14 01:50:00`|`Grand Theft Auto V`|
 |[Getting kicked by BE &#40;steam enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729317-getting-kicked-steam-enhanced.html)|`2025-12-14 01:49:00`|`Grand Theft Auto V`|
