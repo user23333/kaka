@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[OFFSETS DUMPER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/720287-offsets-dumper.html)|`2025-12-14 04:08:00`|`Rust`|
+|[Please help me&#46; I want to know how to implement external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/729225-please-help-implement-external-cheat.html)|`2025-12-14 04:08:00`|`Anti-Cheat Bypass`|
+|[seo64 smismass fixed&#43;A LOT of backend changes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/728921-seo64-smismass-fixed-lot-backend-changes.html)|`2025-12-14 04:05:00`|`Team Fortress 2`|
+|[SKELET ONE LEFT, ONE FOOT&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/729328-skelet-left-foot.html)|`2025-12-14 04:00:00`|`Rust`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-12-14 03:54:00`|`Counter-Strike 2`|
 |[Please stop filling the forums with "getting banned"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/729257-please-stop-filling-forums-getting-banned.html)|`2025-12-14 03:45:00`|`Valorant`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-12-14 03:34:00`|`Alternative Online Mods`|
