@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Tom Clancy's The Division Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/171536-tom-clancys-division-reversal-structs-offsets.html)|`2025-12-13 10:41:00`|`Tom Clancy's The Division`|
+|[EXTERNAL ESP&#43;TRIGGERBOT SOURCECODE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/727202-external-esp-triggerbot-sourcecode.html)|`2025-12-13 10:40:00`|`Apex Legends`|
+|[Undetected Cheat Engine &#43; Driver &#124; 2023 &#124; Bypass Anticheats &#40;BE / EAC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/504191-undetected-cheat-engine-driver-2023-bypass-anticheats-eac.html)|`2025-12-13 10:34:00`|`Anti-Cheat Bypass`|
+|[Lockdown Protocol External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/667420-lockdown-protocol-external.html)|`2025-12-13 10:31:00`|`Other Games`|
 |[net graph string changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/729247-net-graph-string-changer.html)|`2025-12-13 09:37:00`|`Team Fortress 2`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-12-13 09:34:00`|`Overwatch`|
 |[Paid Arc Raiders hacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729246-paid-arc-raiders-hacks.html)|`2025-12-13 09:33:00`|`Other FPS Games`|
