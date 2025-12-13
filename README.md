@@ -26,9 +26,13 @@
 |134|[Updated auto&#45;update external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52228)|`2025-12-13 00:11:46`|
 |134|[mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52227)|`2025-12-13 00:11:46`|
 |32|[Rust Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52223)|`2025-12-13 00:11:46`|
+|1|[Cheat&#46;py](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52258)|`2025-12-13 22:41:50`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BO7 INFINITE GAME ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728696-bo7-infinite-game.html)|`2025-12-13 22:36:00`|`Call of Duty: Black Ops 7`|
+|[YimMenuV2 &#45; Night Club LUA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728604-yimmenuv2-night-club-lua.html)|`2025-12-13 22:35:00`|`Grand Theft Auto V`|
+|[Bigger Hitboxes Forge 1&#46;21&#46;5&#45;1&#46;21&#46;10](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/728605-bigger-hitboxes-forge-1-21-5-1-21-10-a.html)|`2025-12-13 22:34:00`|`Minecraft`|
 |[SoT Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/719603-sot-spoofer.html)|`2025-12-13 22:29:00`|`Sea of Thieves`|
 |[Helldivers 2 Undetected Features by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/704156-helldivers-2-undetected-features-igromanru.html)|`2025-12-13 22:22:00`|`HELLDIVERS 2`|
 |[Help with earned money](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729294-help-earned-money.html)|`2025-12-13 21:44:00`|`Grand Theft Auto V`|
