@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Will I get banned for using the YIM MENU V2&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728634-banned-using-yim-menu-v2.html)|`2025-12-15 01:29:00`|`Grand Theft Auto V`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2025-12-15 01:19:00`|`Other FPS Games`|
+|[Do I really need virtual machines for running bots, or are there alternatives?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/729479-virtual-machines-running-bots-alternatives.html)|`2025-12-15 01:18:00`|`Call of Duty: Black Ops 7`|
+|[Yimmenu 1&#46;72 RID Joining](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729161-yimmenu-1-72-rid-joining.html)|`2025-12-15 01:15:00`|`Grand Theft Auto V`|
+|[How can I make bot lobbies?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/729347-bot-lobbies.html)|`2025-12-15 01:12:00`|`Call of Duty: Black Ops 7`|
 |[What do you want in a recovery script?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729478-recovery-script.html)|`2025-12-15 01:10:00`|`Grand Theft Auto V`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2025-12-15 01:07:00`|`Grand Theft Auto V`|
 |[drawobject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/729184-drawobject.html)|`2025-12-15 01:05:00`|`Counter-Strike 2`|
