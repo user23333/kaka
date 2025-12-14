@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC Detection: Alternatives to MmCopyMemory and Kernel API Calls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/721055-eac-detection-alternatives-mmcopymemory-kernel-api-calls.html)|`2025-12-14 17:34:00`|`Anti-Cheat Bypass`|
+|[Updating YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729367-updating-yimmenu.html)|`2025-12-14 17:31:00`|`Grand Theft Auto V`|
 |[BloodStrike Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725524-bloodstrike-internal.html)|`2025-12-14 17:32:00`|`Other FPS Games`|
 |[Working around sv&#95;quantize&#95;movement&#95;input for auto strafer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/729264-sv_quantize_movement_input-auto-strafer.html)|`2025-12-14 17:21:00`|`Counter-Strike 2`|
 |[How to bypass a restrict in osu&#33;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705610-bypass-restrict-osu.html)|`2025-12-14 17:10:00`|`Other Games`|
