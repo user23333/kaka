@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Question Regarding BattlEye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728950-question-regarding-battleye.html)|`2025-12-15 03:27:00`|`Grand Theft Auto V`|
 |[do ban appeals actually work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729497-ban-appeals-actually.html)|`2025-12-15 03:23:00`|`Grand Theft Auto V`|
 |[How is it possible to buy everything without spending money?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729498-buy-spending-money.html)|`2025-12-15 03:19:00`|`Grand Theft Auto V`|
 |[TX&#45;Admin Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/729087-tx-admin-ban.html)|`2025-12-15 03:14:00`|`Alternative Online Mods`|
