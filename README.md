@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2025-12-15 00:56:00`|`Battlefield 6`|
 |[SurrounDead DX11 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/722827-surroundead-dx11-internal.html)|`2025-12-15 00:46:00`|`Other Single Player Games`|
 |[VAC modules fully disabled](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723657-vac-modules-disabled.html)|`2025-12-15 00:44:00`|`Counter-Strike 2`|
 |[Working around sv&#95;quantize&#95;movement&#95;input for auto strafer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/729264-sv_quantize_movement_input-auto-strafer.html)|`2025-12-15 00:41:00`|`Counter-Strike 2`|
