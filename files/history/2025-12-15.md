@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to find class and fields?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/726782-class-fields.html)|`2025-12-15 03:00:00`|`Minecraft`|
+|[How to put YIMMENUV2 TO 1&#46;72 &#40;mansion dlc&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729435-yimmenuv2-1-72-mansion-dlc.html)|`2025-12-15 02:59:00`|`Grand Theft Auto V`|
+|[TPM spoofing guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713559-tpm-spoofing-guide.html)|`2025-12-15 02:58:00`|`Valorant`|
+|[TPM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/649260-tpm-spoofer.html)|`2025-12-15 02:53:00`|`Valorant`|
+|[Bigger Hitboxes Forge 1&#46;21&#46;5&#45;1&#46;21&#46;10](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/728605-bigger-hitboxes-forge-1-21-5-1-21-10-a.html)|`2025-12-15 02:53:00`|`Minecraft`|
+|[How to update YimMenuv2 for Mansions DLC all by yourself&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728975-update-yimmenuv2-mansions-dlc-yourself.html)|`2025-12-15 02:52:00`|`Grand Theft Auto V`|
+|[Unowned cape mod&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/729419-unowned-cape-mod.html)|`2025-12-15 02:52:00`|`Minecraft`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-12-15 02:43:00`|`Apex Legends`|
 |[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-12-15 02:39:00`|`Grand Theft Auto V`|
 |[external ESP minecraft 1&#46;20&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/729446-external-esp-minecraft-1-20-1-a.html)|`2025-12-15 02:37:00`|`Minecraft`|
