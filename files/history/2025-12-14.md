@@ -13,6 +13,7 @@
 |7|[fsl mansions dlc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728904-fsl-mansions-dlc.html)|`2025-12-14 00:27:02`|`grand-theft-auto-v`|
 |34|[Updated Imperial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/728928-updated-imperial.html)|`2025-12-14 02:43:43`|`overwatch`|
 |20|[xiaohook &#45; Fully Featured Rust Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/728777-xiaohook-featured-rust-internal-source.html)|`2025-12-14 12:03:48`|`rust`|
+|33|[&#91;1&#46;0&#46;0&#46;5&#93; PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/729340-1-0-0-5-pve-cheat.html)|`2025-12-14 12:57:13`|`escape-from-tarkov`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
