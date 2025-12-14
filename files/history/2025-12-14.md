@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unlimited evade &#43; Auto&#45;parry](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/633394-unlimited-evade-auto-parry.html)|`2025-12-14 22:52:00`|`Star Wars Battlefront 2`|
+|[World Particle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728638-world-particle.html)|`2025-12-14 22:50:00`|`Counter-Strike 2`|
 |[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2025-12-14 22:42:00`|`Other FPS Games`|
 |[hyper&#45;reV &#45; memory introspection &#43; reverse engineering powered by leveraging Hyper&#45;V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709634-hyper-rev-memory-introspection-reverse-engineering-powered-leveraging-hyper.html)|`2025-12-14 22:28:00`|`Anti-Cheat Bypass`|
 |[BF3 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-3-a/709019-bf3-internal-cheat.html)|`2025-12-14 22:25:00`|`Battlefield 3`|
