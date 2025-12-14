@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FSL 1&#46;72 &#40;LEGACY ONLY&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729411-fsl-1-72-legacy.html)|`2025-12-14 12:26:00`|`Grand Theft Auto V`|
+|[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2025-12-14 12:25:00`|`Other FPS Games`|
 |[calculating recoil &#124; bypassing anti no recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/729109-calculating-recoil-bypassing-anti-recoil.html)|`2025-12-14 11:59:00`|`Alternative Online Mods`|
 |[Banned with anti cheat disabled and playing super safe&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/729410-banned-anti-cheat-disabled-playing-super-safe.html)|`2025-12-14 11:48:00`|`Marvel Rivals`|
 |[Is it possible to get 9999 ammo with special ammo types?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729376-9999-ammo-special-ammo-types.html)|`2025-12-14 11:30:00`|`Grand Theft Auto V`|
