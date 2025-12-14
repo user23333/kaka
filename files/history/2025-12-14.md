@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bigger Hitboxes Forge 1&#46;21&#46;5&#45;1&#46;21&#46;10](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/728605-bigger-hitboxes-forge-1-21-5-1-21-10-a.html)|`2025-12-14 18:52:00`|`Minecraft`|
 |[Bullet Tracer VEH &#40;my old version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/729439-bullet-tracer-veh-version.html)|`2025-12-14 18:44:00`|`Call of Duty: Black Ops 2`|
 |[Features for ex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/729437-features-ex.html)|`2025-12-14 18:23:00`|`Rust`|
 |[How to put YIMMENUV2 TO 1&#46;72 &#40;mansion dlc&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729435-yimmenuv2-1-72-mansion-dlc.html)|`2025-12-14 17:51:00`|`Grand Theft Auto V`|
