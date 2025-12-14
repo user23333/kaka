@@ -27,9 +27,14 @@
 |46|[2nd ricochet dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52229)|`2025-12-14 00:27:02`|
 |274|[Updated auto&#45;update external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52228)|`2025-12-14 00:27:02`|
 |187|[mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52227)|`2025-12-14 00:27:02`|
+|1|[DBD&#46;exe Version 1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52269)|`2025-12-14 23:28:53`|
+|2|[Delta Force SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52248)|`2025-12-14 23:28:53`|
+|4|[EFT &#45; 11/12/25 Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52243)|`2025-12-14 23:28:53`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-12-14 23:22:00`|`Other FPS Games`|
+|[Looking for MP unlock all on PC&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-4-a/726596-looking-mp-unlock-pc.html)|`2025-12-14 23:17:00`|`Call of Duty: Black Ops 4`|
 |[Arc Raiders Simple ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729300-arc-raiders-simple-esp.html)|`2025-12-14 23:07:00`|`Other FPS Games`|
 |[TPM Spoofer for free &#40;signed driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713720-tpm-spoofer-free-signed-driver.html)|`2025-12-14 22:57:00`|`Valorant`|
 |[Unlimited evade &#43; Auto&#45;parry](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/633394-unlimited-evade-auto-parry.html)|`2025-12-14 22:52:00`|`Star Wars Battlefront 2`|
