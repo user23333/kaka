@@ -12,6 +12,7 @@
 |17|[New UD Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728617-ud-method.html)|`2025-12-14 00:27:02`|`valorant`|
 |7|[fsl mansions dlc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728904-fsl-mansions-dlc.html)|`2025-12-14 00:27:02`|`grand-theft-auto-v`|
 |34|[Updated Imperial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/728928-updated-imperial.html)|`2025-12-14 02:43:43`|`overwatch`|
+|20|[xiaohook &#45; Fully Featured Rust Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/728777-xiaohook-featured-rust-internal-source.html)|`2025-12-14 12:03:48`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[calculating recoil &#124; bypassing anti no recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/729109-calculating-recoil-bypassing-anti-recoil.html)|`2025-12-14 11:59:00`|`Alternative Online Mods`|
+|[Banned with anti cheat disabled and playing super safe&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/729410-banned-anti-cheat-disabled-playing-super-safe.html)|`2025-12-14 11:48:00`|`Marvel Rivals`|
+|[Is it possible to get 9999 ammo with special ammo types?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729376-9999-ammo-special-ammo-types.html)|`2025-12-14 11:30:00`|`Grand Theft Auto V`|
 |[Valorant HWID Ban Post 1 Nov 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/729298-valorant-hwid-ban-post-1-nov-2025-a.html)|`2025-12-14 11:06:00`|`Valorant`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-12-14 10:44:00`|`Grand Theft Auto V`|
 |[PLUTONIUM T4 MP offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-5-world-at-war/729398-plutonium-t4-mp-offsets.html)|`2025-12-14 10:44:00`|`Call of Duty 5: World at War`|
