@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[seo64 smismass fixed&#43;A LOT of backend changes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/728921-seo64-smismass-fixed-lot-backend-changes.html)|`2025-12-15 01:56:00`|`Team Fortress 2`|
+|[Hitchance calculation from enrage&#46;gg ported to CSS x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/729011-hitchance-calculation-enrage-gg-ported-css-x64.html)|`2025-12-15 01:54:00`|`CounterStrike Source`|
 |[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2025-12-15 01:49:00`|`HELLDIVERS 2`|
 |[SEOwnedDE &#40;highly improved&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/725042-seownedde-highly-improved.html)|`2025-12-15 01:47:00`|`Team Fortress 2`|
 |[Passive Cooling / Fan Delete on Dichen 6th Gen Fuser &#45; Anyone Done It?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/727515-passive-cooling-fan-delete-dichen-6th-gen-fuser.html)|`2025-12-15 01:41:00`|`Other Hardware`|
