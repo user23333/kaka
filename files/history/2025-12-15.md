@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Python Random Vars Vertical Recoil Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/284391-python-random-vars-vertical-recoil-script.html)|`2025-12-15 19:48:00`|`PUBG Releases`|
 |[Internal V2 : SOON](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/728713-internal-v2-soon.html)|`2025-12-15 19:06:00`|`Star Wars Battlefront 2`|
 |[Undetected External PointBlank PH](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729610-undetected-external-pointblank-ph.html)|`2025-12-15 18:59:00`|`Other FPS Games`|
 |[CS2 Web Radar Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/729609-cs2-web-radar-hack.html)|`2025-12-15 18:55:00`|`Counter-Strike 2 Releases`|
