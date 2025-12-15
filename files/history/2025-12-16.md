@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-12-16 03:08:00`|`Escape from Tarkov`|
+|[Nexus External ESP V2 &#40;PyMeow&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/690093-nexus-external-esp-v2-pymeow.html)|`2025-12-16 03:07:00`|`Garry's Mod`|
+|[PHYSX &#45; Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709796-physx-rust.html)|`2025-12-16 03:00:00`|`Rust`|
+|[Crash in skybox changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/729608-crash-skybox-changer.html)|`2025-12-16 02:55:00`|`Counter-Strike 2`|
 |[YimMenu 1&#46;72 Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728952-yimmenu-1-72-enhanced.html)|`2025-12-16 02:52:00`|`Grand Theft Auto V`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-12-16 02:46:00`|`Counter-Strike 2`|
 |[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2025-12-16 02:43:00`|`Counter-Strike 2`|
