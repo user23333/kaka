@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hogwarts Legacy Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/729701-hogwarts-legacy-internal.html)|`2025-12-16 07:46:00`|`Other Single Player Games`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-12-16 07:40:00`|`Other FPS Games`|
 |[Changing Avenger and Terrorbyte wheels &#45; PC Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729699-changing-avenger-terrorbyte-wheels-pc-enhanced.html)|`2025-12-16 07:33:00`|`Grand Theft Auto V`|
 |[How to get money with the yimmenu without getting banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729449-money-yimmenu-getting-banned.html)|`2025-12-16 07:26:00`|`Grand Theft Auto V`|
