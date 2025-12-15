@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help calling CFX natives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/729651-help-calling-cfx-natives.html)|`2025-12-16 00:51:00`|`Alternative Online Mods`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-12-16 00:50:00`|`League of Legends`|
+|[Redmatch 2 TY Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729185-redmatch-2-ty-internal-cheat.html)|`2025-12-16 00:49:00`|`Other FPS Games`|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2025-12-16 00:47:00`|`Battlefield 6`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/590414-arc-raiders-structs-offsets.html)|`2025-12-16 00:45:00`|`Other FPS Games`|
+|[PG compliant Kernel Exception interception](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/728544-pg-compliant-kernel-exception-interception.html)|`2025-12-16 00:45:00`|`Anti-Cheat Bypass`|
+|[Sastasha Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/711299-sastasha-injector.html)|`2025-12-16 00:42:00`|`General Programming and Reversing`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-12-16 00:40:00`|`Other Games`|
 |[cool epic awesome chat stuff &#42;&#42;EPIC&#42;&#42;&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/729627-cool-epic-awesome-chat-stuff-epic.html)|`2025-12-16 00:18:00`|`Team Fortress 2`|
 |[any way to permanently save the new Vivanite AI car?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729614-permanently-save-vivanite-ai-car.html)|`2025-12-16 00:18:00`|`Grand Theft Auto V`|
 |[Nemesis WWM&#45;Cheese &#40;Preview Build&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/729595-nemesis-wwm-cheese-preview-build.html)|`2025-12-16 00:17:00`|`Other MMORPG and Strategy`|
