@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sastasha Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/711299-sastasha-injector.html)|`2025-12-15 21:51:00`|`General Programming and Reversing`|
 |[&#91;Article&#93; Yet Another Wine Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/729130-article-wine-detection.html)|`2025-12-15 20:54:00`|`Anti-Cheat Bypass`|
 |[any way to permanently save the new Vivanite AI car?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729614-permanently-save-vivanite-ai-car.html)|`2025-12-15 19:59:00`|`Grand Theft Auto V`|
 |[Python Random Vars Vertical Recoil Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/284391-python-random-vars-vertical-recoil-script.html)|`2025-12-15 19:48:00`|`PUBG Releases`|
