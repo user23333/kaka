@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;1&#46;0&#46;0&#46;5&#93; PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/729340-1-0-0-5-pve-cheat.html)|`2025-12-16 02:15:00`|`Escape from Tarkov`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-12-16 02:12:00`|`Grand Theft Auto V`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-12-16 02:11:00`|`Counter-Strike 2`|
+|[dma dump firmware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/729336-dma-dump-firmware.html)|`2025-12-16 02:06:00`|`Anti-Cheat Bypass`|
+|[How can I make bot lobbies?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/729346-bot-lobbies.html)|`2025-12-16 02:06:00`|`Call of Duty: Black Ops 6`|
 |[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-12-16 01:50:00`|`PUBG Releases`|
 |[Zero Hour DENUVO Bypass &#40;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729183-zero-hour-denuvo-bypass.html)|`2025-12-16 01:37:00`|`Other FPS Games`|
 |[Using a new account after being banned&#46; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729602-using-account-banned-enhanced.html)|`2025-12-16 01:34:00`|`Grand Theft Auto V`|
