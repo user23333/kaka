@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal V2 : SOON](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/728713-internal-v2-soon.html)|`2025-12-15 19:06:00`|`Star Wars Battlefront 2`|
+|[Undetected External PointBlank PH](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729610-undetected-external-pointblank-ph.html)|`2025-12-15 18:59:00`|`Other FPS Games`|
 |[CS2 Web Radar Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/729609-cs2-web-radar-hack.html)|`2025-12-15 18:55:00`|`Counter-Strike 2 Releases`|
 |[Crash in skybox changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/729608-crash-skybox-changer.html)|`2025-12-15 18:48:00`|`Counter-Strike 2`|
 |[Warframe Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718442-warframe-internal-cheat.html)|`2025-12-15 17:54:00`|`Other FPS Games`|
