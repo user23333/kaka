@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2025-12-16 07:54:00`|`Call of Duty: Black Ops 7`|
+|[flickering esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/729702-flickering-esp.html)|`2025-12-16 07:53:00`|`Call of Duty: Black Ops 7`|
+|[Do I really need virtual machines for running bots, or are there alternatives?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/729479-virtual-machines-running-bots-alternatives.html)|`2025-12-16 07:50:00`|`Call of Duty: Black Ops 7`|
 |[Hogwarts Legacy Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/729701-hogwarts-legacy-internal.html)|`2025-12-16 07:46:00`|`Other Single Player Games`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-12-16 07:40:00`|`Other FPS Games`|
 |[Changing Avenger and Terrorbyte wheels &#45; PC Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729699-changing-avenger-terrorbyte-wheels-pc-enhanced.html)|`2025-12-16 07:33:00`|`Grand Theft Auto V`|
