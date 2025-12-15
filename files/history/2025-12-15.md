@@ -12,6 +12,7 @@
 |14|[9223371761976868863 money](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729072-9223371761976868863-money.html)|`2025-12-15 00:16:33`|`grand-theft-auto-v`|
 |46|[Updated Imperial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/728928-updated-imperial.html)|`2025-12-15 00:16:33`|`overwatch`|
 |20|[xiaohook &#45; Fully Featured Rust Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/728777-xiaohook-featured-rust-internal-source.html)|`2025-12-15 11:19:45`|`rust`|
+|10|[Quest/Achievements Auto Completer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728790-quest-achievements-auto-completer.html)|`2025-12-15 14:58:19`|`escape-from-tarkov`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;1&#46;0&#46;0&#46;5&#93; PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/729340-1-0-0-5-pve-cheat.html)|`2025-12-15 14:55:00`|`Escape from Tarkov`|
+|[current undetected money method using Yim Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724257-current-undetected-money-method-using-yim-menu.html)|`2025-12-15 14:44:00`|`Grand Theft Auto V`|
+|[PEAK internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/726174-peak-internal.html)|`2025-12-15 14:43:00`|`Other Games`|
+|[wraith&#45;rs &#45; Rust Abstractions for Windows Internals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/729098-wraith-rs-rust-abstractions-windows-internals.html)|`2025-12-15 14:38:00`|`Anti-Cheat Bypass`|
 |[Aion2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726048-aion2-reversal-structs-offsets.html)|`2025-12-15 14:32:00`|`Other MMORPG and Strategy`|
 |[Need Help with Creating a Macro for AION 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/727018-help-creating-macro-aion-2-a.html)|`2025-12-15 14:26:00`|`Other MMORPG and Strategy`|
 |[SoundSight: CS2 Audio ESP &#45; 3D Spatial Sound Radar for Enemy Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691687-soundsight-cs2-audio-esp-3d-spatial-sound-radar-enemy-detection.html)|`2025-12-15 14:05:00`|`Counter-Strike 2`|
