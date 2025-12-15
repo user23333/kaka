@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Updated Imperial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/728928-updated-imperial.html)|`2025-12-16 01:11:00`|`Overwatch`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2025-12-16 01:06:00`|`Other FPS Games`|
+|[Chivalry 2 Basic &#46;pak &#45; Parera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720632-chivalry-2-basic-pak-parera.html)|`2025-12-16 01:04:00`|`Other Games`|
 |[Help calling CFX natives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/729651-help-calling-cfx-natives.html)|`2025-12-16 00:51:00`|`Alternative Online Mods`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-12-16 00:50:00`|`League of Legends`|
 |[Redmatch 2 TY Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729185-redmatch-2-ty-internal-cheat.html)|`2025-12-16 00:49:00`|`Other FPS Games`|
