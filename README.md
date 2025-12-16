@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[whats really going on with RAM right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/728611-whats-ram.html)|`2025-12-17 06:57:00`|`Off Topic`|
+|[Fun games to cheat in in 2025?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/729202-fun-games-cheat-2025-a.html)|`2025-12-17 06:54:00`|`Forum General`|
+|[Activated Kruglov's RFID keycard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/729469-activated-kruglovs-rfid-keycard.html)|`2025-12-17 06:53:00`|`Escape from Tarkov`|
+|[ssgrinder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/729528-ssgrinder.html)|`2025-12-17 06:51:00`|`Introductions`|
 |[current undetected money method using Yim Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724257-current-undetected-money-method-using-yim-menu.html)|`2025-12-17 06:50:00`|`Grand Theft Auto V`|
 |[Pixel Gun 3D Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/719939-pixel-gun-3d-cheat.html)|`2025-12-17 06:48:00`|`Other Games`|
 |[external rust chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/729838-external-rust-chams.html)|`2025-12-17 06:39:00`|`Rust`|
