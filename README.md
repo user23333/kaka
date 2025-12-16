@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Native Invoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/725080-native-invoker.html)|`2025-12-17 07:09:00`|`Alternative Online Mods`|
+|[Introduction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/729501-introduction.html)|`2025-12-17 07:04:00`|`Forum General`|
 |[whats really going on with RAM right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/728611-whats-ram.html)|`2025-12-17 06:57:00`|`Off Topic`|
 |[Fun games to cheat in in 2025?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/729202-fun-games-cheat-2025-a.html)|`2025-12-17 06:54:00`|`Forum General`|
 |[Activated Kruglov's RFID keycard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/729469-activated-kruglovs-rfid-keycard.html)|`2025-12-17 06:53:00`|`Escape from Tarkov`|
