@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is possible to spoof?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/729607-spoof.html)|`2025-12-16 12:54:00`|`Valorant`|
+|[How can I find PlayerObject these days?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/729480-playerobject-days.html)|`2025-12-16 12:34:00`|`CrossFire`|
 |[BloodStrike Anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729739-bloodstrike-anti-cheat.html)|`2025-12-16 12:23:00`|`Other FPS Games`|
 |[Iw4x MP Dvar Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/729546-iw4x-mp-dvar-offsets.html)|`2025-12-16 12:22:00`|`Call of Duty 6: Modern Warfare 2`|
 |[External CreateMove Hooking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/729217-external-createmove-hooking.html)|`2025-12-16 12:20:00`|`Counter-Strike 2`|
