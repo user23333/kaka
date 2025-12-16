@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2025-12-17 06:12:00`|`Grand Theft Auto V`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-12-17 06:07:00`|`Grand Theft Auto V`|
+|[Is possible to spoof?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/729607-spoof.html)|`2025-12-17 06:00:00`|`Valorant`|
 |[YimMenu 1&#46;72 &#40;Legacy&#41; – GTA Online After Mansion DLC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729597-yimmenu-1-72-legacy-gta-online-mansion-dlc.html)|`2025-12-17 05:54:00`|`Grand Theft Auto V`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-12-17 05:50:00`|`League of Legends`|
 |[Sker Ritual CT Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/634453-sker-ritual-ct-trainer.html)|`2025-12-17 05:32:00`|`Other FPS Games`|
