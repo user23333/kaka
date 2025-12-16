@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fun games to cheat in in 2025?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/729202-fun-games-cheat-2025-a.html)|`2025-12-16 08:59:00`|`Forum General`|
+|[YimMenu v2 1&#46;72 Safehouse Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729687-yimmenu-v2-1-72-safehouse-update.html)|`2025-12-16 08:51:00`|`Grand Theft Auto V`|
+|[Billions on enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729711-billions-enhanced.html)|`2025-12-16 08:47:00`|`Grand Theft Auto V`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2025-12-16 07:54:00`|`Call of Duty: Black Ops 7`|
 |[flickering esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/729702-flickering-esp.html)|`2025-12-16 07:53:00`|`Call of Duty: Black Ops 7`|
 |[Do I really need virtual machines for running bots, or are there alternatives?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/729479-virtual-machines-running-bots-alternatives.html)|`2025-12-16 07:50:00`|`Call of Duty: Black Ops 7`|
