@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[current undetected money method using Yim Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724257-current-undetected-money-method-using-yim-menu.html)|`2025-12-17 06:50:00`|`Grand Theft Auto V`|
+|[Pixel Gun 3D Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/719939-pixel-gun-3d-cheat.html)|`2025-12-17 06:48:00`|`Other Games`|
 |[external rust chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/729838-external-rust-chams.html)|`2025-12-17 06:39:00`|`Rust`|
 |[Neutralizing KDStinker: IoCreateDevice Hook Detection POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726363-neutralizing-kdstinker-iocreatedevice-hook-detection-poc.html)|`2025-12-17 06:38:00`|`Anti-Cheat Bypass`|
 |[Fast cl&#95;fullupdate &#40;ext & int&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/729833-fast-cl_fullupdate-ext-int.html)|`2025-12-17 06:18:00`|`Counter-Strike 2`|
