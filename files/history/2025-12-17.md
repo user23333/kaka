@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[pubg kaka and stay source &#91;DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/698494-pubg-kaka-stay-source-dma.html)|`2025-12-17 07:54:00`|`Playerunknown's Battlegrounds`|
+|[Buying cheap gta keys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729840-buying-cheap-gta-keys.html)|`2025-12-17 07:53:00`|`Grand Theft Auto V`|
 |[Rust Parser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/728709-rust-parser.html)|`2025-12-17 07:30:00`|`Rust`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-12-17 07:22:00`|`Rust`|
 |[How to update YimMenuv2 for Mansions DLC all by yourself&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728975-update-yimmenuv2-mansions-dlc-yourself.html)|`2025-12-17 07:19:00`|`Grand Theft Auto V`|
