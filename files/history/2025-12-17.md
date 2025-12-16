@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-12-17 02:26:00`|`Other FPS Games`|
+|[VAN: INCOMPATIBLE SOFTWARE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/729813-van-incompatible-software.html)|`2025-12-17 02:22:00`|`Valorant`|
+|[Dead by Daylight DMA related](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729747-dead-daylight-dma-related.html)|`2025-12-17 02:21:00`|`Other FPS Games`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-12-17 02:17:00`|`Escape from Tarkov`|
+|[how to make Anti silent ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/729782-anti-silent.html)|`2025-12-17 02:14:00`|`Alternative Online Mods`|
+|[Injector / Stealer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/727238-injector-stealer.html)|`2025-12-17 02:11:00`|`Garry's Mod`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-12-17 01:47:00`|`Other MMORPG and Strategy`|
 |[YimMenuV2 &#45; Night Club LUA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728604-yimmenuv2-night-club-lua.html)|`2025-12-17 01:42:00`|`Grand Theft Auto V`|
 |[YIMMENU LOCAL SAVE NOT SYNCING TO ROCKSTAR CLOUD SAVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/729770-yimmenu-local-save-syncing-rockstar-cloud-save.html)|`2025-12-17 01:35:00`|`Alternative Online Mods`|
