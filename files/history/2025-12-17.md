@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sastasha Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/711299-sastasha-injector.html)|`2025-12-17 12:41:00`|`General Programming and Reversing`|
+|[Counter&#45;Strike 2 external &#124; Semi rage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727380-counter-strike-2-external-semi-rage.html)|`2025-12-17 12:39:00`|`Counter-Strike 2`|
+|[Nightfall cs2 rage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728077-nightfall-cs2-rage-cheat.html)|`2025-12-17 12:28:00`|`Counter-Strike 2`|
+|[unsigned driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/727625-unsigned-driver.html)|`2025-12-17 12:20:00`|`Call of Duty: Black Ops 7`|
 |[Dumping Unity Chams Materials Programmatically](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/729102-dumping-unity-chams-materials-programmatically.html)|`2025-12-17 11:48:00`|`Rust`|
 |[Questions using YimMenuv2 regarding heists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729845-questions-using-yimmenuv2-regarding-heists.html)|`2025-12-17 11:46:00`|`Grand Theft Auto V`|
 |[VAC Live Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716649-vac-live-update.html)|`2025-12-17 11:42:00`|`Counter-Strike 2`|
