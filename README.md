@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[About the &#40;FTPM / TPM&#41; ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728957-ftpm-tpm-ban.html)|`2025-12-18 06:06:00`|`Call of Duty: Black Ops 7`|
+|[GTA Legacy hack advice needed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729847-gta-legacy-hack-advice.html)|`2025-12-18 05:58:00`|`Grand Theft Auto V`|
 |[using yimmenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729888-using-yimmenu.html)|`2025-12-18 05:55:00`|`Grand Theft Auto V`|
 |[Questions using YimMenuv2 regarding heists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729845-questions-using-yimmenuv2-regarding-heists.html)|`2025-12-18 05:52:00`|`Grand Theft Auto V`|
 |[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2025-12-18 05:50:00`|`Grand Theft Auto V`|
