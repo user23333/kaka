@@ -12,6 +12,7 @@
 |18|[FSL 1&#46;72 &#40;LEGACY ONLY&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729411-fsl-1-72-legacy.html)|`2025-12-18 00:00:50`|`grand-theft-auto-v`|
 |14|[9223371761976868863 money](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729072-9223371761976868863-money.html)|`2025-12-18 00:00:50`|`grand-theft-auto-v`|
 |16|[Yimmenu 1&#46;72 LEGACY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729350-yimmenu-1-72-legacy.html)|`2025-12-18 01:40:07`|`grand-theft-auto-v`|
+|21|[PUBG Black Budget Playtest SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729149-pubg-black-budget-playtest-sdk.html)|`2025-12-18 01:51:39`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;EPIC&#93; Among Us Player Role Reader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/729482-epic-player-role-reader.html)|`2025-12-18 01:50:00`|`Among Us`|
+|[GTA V Enhanced YimMenu Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728237-gta-enhanced-yimmenu-guide.html)|`2025-12-18 01:44:00`|`Grand Theft Auto V`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2025-12-18 01:42:00`|`Call of Duty: Black Ops 7`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-12-18 01:30:00`|`Other FPS Games`|
 |[Latest YimMenu 1&#46;72 for GTA V Online &#40;Legacy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729605-yimmenu-1-72-gta-online-legacy.html)|`2025-12-18 01:28:00`|`Grand Theft Auto V`|
 |[Sleepy's External &#45; Outline, Skeleton, and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external-outline-skeleton-aimbot.html)|`2025-12-18 01:20:00`|`Overwatch`|
