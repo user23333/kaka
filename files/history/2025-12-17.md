@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project Radiance &#91;PRIVATE BUILD&#93; &#45; Rust Internal &#40;not bait&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/729127-project-radiance-private-build-rust-internal-bait.html)|`2025-12-17 21:03:00`|`Rust`|
+|[How to play Cayo Perico after BAN with FSL ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729877-play-cayo-perico-ban-fsl.html)|`2025-12-17 20:34:00`|`Grand Theft Auto V`|
+|[Updating old SRC for enhanced&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729876-updating-src-enhanced.html)|`2025-12-17 20:33:00`|`Grand Theft Auto V`|
+|[Visual sound ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/729641-visual-sound-esp.html)|`2025-12-17 20:26:00`|`Counter-Strike 2`|
 |[Helldivers 2 Undetected Features by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/704156-helldivers-2-undetected-features-igromanru.html)|`2025-12-17 20:16:00`|`HELLDIVERS 2`|
 |[Quest/Achievements Auto Completer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728790-quest-achievements-auto-completer.html)|`2025-12-17 20:02:00`|`Escape from Tarkov`|
 |[I NEED CHANGE MY UUID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/729180-change-uuid.html)|`2025-12-17 19:52:00`|`General Programming and Reversing`|
