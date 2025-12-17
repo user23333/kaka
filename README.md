@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Visual sound ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/729641-visual-sound-esp.html)|`2025-12-18 03:08:00`|`Counter-Strike 2`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-12-18 02:54:00`|`Rust`|
 |[How to get money with the yimmenu without getting banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729449-money-yimmenu-getting-banned.html)|`2025-12-18 02:49:00`|`Grand Theft Auto V`|
 |[Play Together/Rank Boosting Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/353364-play-rank-boosting-thread.html)|`2025-12-18 02:48:00`|`Apex Legends`|
 |[apex hwid ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/729921-apex-hwid-ban.html)|`2025-12-18 02:44:00`|`Apex Legends`|
