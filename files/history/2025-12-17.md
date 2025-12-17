@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-12-17 19:17:00`|`PUBG Releases`|
+|[Chiverly 2 Mod loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711952-chiverly-2-mod-loader.html)|`2025-12-17 19:13:00`|`Other FPS Games`|
 |[Changing Avenger and Terrorbyte wheels &#45; PC Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729699-changing-avenger-terrorbyte-wheels-pc-enhanced.html)|`2025-12-17 18:55:00`|`Grand Theft Auto V`|
 |[About the &#40;FTPM / TPM&#41; ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728957-ftpm-tpm-ban.html)|`2025-12-17 18:53:00`|`Call of Duty: Black Ops 7`|
 |[Are there any working cheats for SoT rn?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/729807-cheats-sot-rn.html)|`2025-12-17 18:52:00`|`Sea of Thieves`|
