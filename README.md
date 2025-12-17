@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Auto journal solver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/729805-auto-journal-solver.html)|`2025-12-18 07:34:00`|`Phasmophobia`|
+|[Project Radiance &#91;PRIVATE BUILD&#93; &#45; Rust Internal &#40;not bait&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/729127-project-radiance-private-build-rust-internal-bait.html)|`2025-12-18 07:31:00`|`Rust`|
+|[Eterspire MMO Mod Menu &#40;STEAM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726979-eterspire-mmo-mod-menu-steam.html)|`2025-12-18 07:23:00`|`Other MMORPG and Strategy`|
 |[&#40;New&#41; Popup Bypass Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/729365-popup-bypass-method.html)|`2025-12-18 07:20:00`|`Valorant`|
 |[Turtle WoW Multihack Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/world-of-warcraft/710080-turtle-wow-multihack-internal.html)|`2025-12-18 07:13:00`|`World of Warcraft`|
 |[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2025-12-18 07:09:00`|`Farlight 84`|
