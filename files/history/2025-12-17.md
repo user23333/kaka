@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2025-12-17 18:17:00`|`Other FPS Games`|
+|[Menu My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/713007-menu-hero-ultra-rumble.html)|`2025-12-17 18:14:00`|`Other Games`|
+|[Age of Empires IV &#45; External Scar Script Injector & Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/712742-age-empires-iv-external-scar-script-injector-helper.html)|`2025-12-17 18:13:00`|`Age of Empires`|
 |[YIMMENU LOCAL SAVE NOT SYNCING TO ROCKSTAR CLOUD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729757-yimmenu-local-save-syncing-rockstar-cloud.html)|`2025-12-17 17:49:00`|`Grand Theft Auto V`|
 |[Hitbox simulation for Triggerbots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/729865-hitbox-simulation-triggerbots.html)|`2025-12-17 16:40:00`|`Valorant`|
 |[Factory Spawning IDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/729863-factory-spawning-ids.html)|`2025-12-17 15:33:00`|`Escape from Tarkov`|
