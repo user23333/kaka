@@ -14,6 +14,7 @@
 |16|[Yimmenu 1&#46;72 LEGACY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729350-yimmenu-1-72-legacy.html)|`2025-12-18 01:40:07`|`grand-theft-auto-v`|
 |21|[PUBG Black Budget Playtest SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729149-pubg-black-budget-playtest-sdk.html)|`2025-12-18 01:51:39`|`other-fps-games`|
 |18|[How to get money with the yimmenu without getting banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729449-money-yimmenu-getting-banned.html)|`2025-12-18 02:25:42`|`grand-theft-auto-v`|
+|2|[Yim Menu Legacy 1&#46;72 Mansions DLC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729576-yim-menu-legacy-1-72-mansions-dlc.html)|`2025-12-18 05:34:03`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[REPX &#45; R&#46;E&#46;P&#46;O&#46; Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/697781-repx-cheat.html)|`2025-12-18 05:32:00`|`Other MMORPG and Strategy`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-12-18 05:30:00`|`DayZ SA`|
+|[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2025-12-18 05:27:00`|`Counter-Strike 2 Releases`|
+|[Menu My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/713007-menu-hero-ultra-rumble.html)|`2025-12-18 05:24:00`|`Other Games`|
+|[RONFentry &#45; Ready or Not Internal, Feature&#45;Packed Multitool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716446-ronfentry-ready-internal-feature-packed-multitool.html)|`2025-12-18 05:24:00`|`Other FPS Games`|
+|[BloodStrike Anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729739-bloodstrike-anti-cheat.html)|`2025-12-18 05:23:00`|`Other FPS Games`|
 |[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2025-12-18 05:05:00`|`Battlefield 6`|
 |[Chiverly 2 Mod loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711952-chiverly-2-mod-loader.html)|`2025-12-18 05:02:00`|`Other FPS Games`|
 |[Arc Raiders Level Exploit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729930-arc-raiders-level-exploit.html)|`2025-12-18 04:50:00`|`Other FPS Games`|
