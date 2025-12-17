@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2025-12-18 06:19:00`|`Other FPS Games`|
+|[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2025-12-18 06:19:00`|`HELLDIVERS 2`|
+|[Winter, Christmas & New Year's Banner Contest 2025 &#45; Winners&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/727786-winter-christmas-banner-contest-2025-winners.html)|`2025-12-18 06:16:00`|`Information and Announcements`|
 |[About the &#40;FTPM / TPM&#41; ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728957-ftpm-tpm-ban.html)|`2025-12-18 06:06:00`|`Call of Duty: Black Ops 7`|
 |[GTA Legacy hack advice needed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729847-gta-legacy-hack-advice.html)|`2025-12-18 05:58:00`|`Grand Theft Auto V`|
 |[using yimmenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729888-using-yimmenu.html)|`2025-12-18 05:55:00`|`Grand Theft Auto V`|
