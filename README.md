@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra rumble Offsets and such](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/729885-hero-ultra-rumble-offsets.html)|`2025-12-17 21:38:00`|`Other Games`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-12-17 21:32:00`|`Counter-Strike 2`|
+|[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-12-17 21:29:00`|`Grand Theft Auto V`|
+|[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2025-12-17 21:25:00`|`Grand Theft Auto V`|
 |[Project Radiance &#91;PRIVATE BUILD&#93; &#45; Rust Internal &#40;not bait&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/729127-project-radiance-private-build-rust-internal-bait.html)|`2025-12-17 21:03:00`|`Rust`|
 |[How to play Cayo Perico after BAN with FSL ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729877-play-cayo-perico-ban-fsl.html)|`2025-12-17 20:34:00`|`Grand Theft Auto V`|
 |[Updating old SRC for enhanced&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729876-updating-src-enhanced.html)|`2025-12-17 20:33:00`|`Grand Theft Auto V`|
