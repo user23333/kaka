@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-12-19 00:44:00`|`Other Games`|
+|[PVE Tegridy Farms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728143-pve-tegridy-farms.html)|`2025-12-19 00:40:00`|`Escape from Tarkov`|
+|[We need more internals&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/722303-internals.html)|`2025-12-19 00:36:00`|`Call of Duty: Black Ops 6`|
+|[Where Winds Meet Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/725040-winds-meet-reversal-structs-offsets.html)|`2025-12-19 00:35:00`|`Other MMORPG and Strategy`|
+|[WindowsHook: Arbitrary User&#45;Mode R/W/X through SetWindowsHookEx&#40;BE/EAC/EAAC/Vanguard&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726963-windowshook-arbitrary-user-mode-setwindowshookex-eac-eaac-vanguard.html)|`2025-12-19 00:34:00`|`Anti-Cheat Bypass`|
+|[ARK RAIDERS XP &#124; MONEY &#124; RESOURCE FARM ARCBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727726-ark-raiders-xp-money-resource-farm-arcbot.html)|`2025-12-19 00:34:00`|`Other FPS Games`|
+|[Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730020-internal-cheat.html)|`2025-12-19 00:33:00`|`Counter-Strike 2`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-12-19 00:20:00`|`Rust`|
 |[YimMenu Legacy 1&#46;72 b3725](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729969-yimmenu-legacy-1-72-b3725.html)|`2025-12-19 00:19:00`|`Grand Theft Auto V`|
 |[Sleepy's External &#45; Outline, Skeleton, and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external-outline-skeleton-aimbot.html)|`2025-12-19 00:17:00`|`Overwatch`|
