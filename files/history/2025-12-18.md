@@ -15,6 +15,7 @@
 |21|[PUBG Black Budget Playtest SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729149-pubg-black-budget-playtest-sdk.html)|`2025-12-18 01:51:39`|`other-fps-games`|
 |18|[How to get money with the yimmenu without getting banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729449-money-yimmenu-getting-banned.html)|`2025-12-18 02:25:42`|`grand-theft-auto-v`|
 |2|[Yim Menu Legacy 1&#46;72 Mansions DLC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729576-yim-menu-legacy-1-72-mansions-dlc.html)|`2025-12-18 05:34:03`|`grand-theft-auto-v`|
+|8|[Nemesis WWM&#45;Cheese &#40;Preview Build&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/729595-nemesis-wwm-cheese-preview-build.html)|`2025-12-18 09:13:23`|`other-mmorpg-and-strategy`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hitbox simulation for Triggerbots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/729865-hitbox-simulation-triggerbots.html)|`2025-12-18 09:05:00`|`Valorant`|
+|[battleyent PVE Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726288-battleyent-pve-patch.html)|`2025-12-18 08:56:00`|`Escape from Tarkov`|
+|[Genshin dumper dll 5&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/713580-genshin-dumper-dll-5-8-a.html)|`2025-12-18 08:49:00`|`Genshin Impact`|
 |[TPM AND SB BYPASS &#43; SPOOFER &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/623808-tpm-sb-bypass-spoofer.html)|`2025-12-18 07:51:00`|`Valorant`|
 |[Auto journal solver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/729805-auto-journal-solver.html)|`2025-12-18 07:34:00`|`Phasmophobia`|
 |[Project Radiance &#91;PRIVATE BUILD&#93; &#45; Rust Internal &#40;not bait&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/729127-project-radiance-private-build-rust-internal-bait.html)|`2025-12-18 07:31:00`|`Rust`|
