@@ -31,9 +31,14 @@
 |48|[Marvel SDK New Season](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52246)|`2025-12-18 00:00:50`|
 |1|[Codes Outfit Male](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52261)|`2025-12-18 03:38:35`|
 |1|[Codes Outfit Famale](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52259)|`2025-12-18 03:38:35`|
+|17|[Escape From Tarkov 1&#46;0&#46;0&#46;5 Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52309)|`2025-12-18 10:56:47`|
+|31|[S14&#46;5&#45;MHUR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52307)|`2025-12-18 10:56:47`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[YimMenu Legacy 1&#46;72 b3725](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729969-yimmenu-legacy-1-72-b3725.html)|`2025-12-18 10:40:00`|`Grand Theft Auto V`|
+|[How to use battleyent PVE Patch after tarkov 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728244-battleyent-pve-patch-tarkov-1-0-a.html)|`2025-12-18 10:14:00`|`Escape from Tarkov`|
+|[Multi&#45;Cheat Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729922-multi-cheat-tool.html)|`2025-12-18 10:01:00`|`Grand Theft Auto V`|
 |[Hitbox simulation for Triggerbots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/729865-hitbox-simulation-triggerbots.html)|`2025-12-18 09:05:00`|`Valorant`|
 |[battleyent PVE Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726288-battleyent-pve-patch.html)|`2025-12-18 08:56:00`|`Escape from Tarkov`|
 |[Genshin dumper dll 5&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/713580-genshin-dumper-dll-5-8-a.html)|`2025-12-18 08:49:00`|`Genshin Impact`|
