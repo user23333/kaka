@@ -39,6 +39,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple dll xray for lunar client using class patching](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/728218-simple-dll-xray-lunar-client-using-class-patching.html)|`2025-12-18 22:54:00`|`Minecraft`|
+|[name tag and healthbar colorbot aimbot color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/729920-name-tag-healthbar-colorbot-aimbot-color-aimbot.html)|`2025-12-18 22:52:00`|`Valorant`|
+|[January 2026 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/730011-january-2026-motm-nominations.html)|`2025-12-18 22:47:00`|`Member of the Month`|
 |[The divisions new anticheat update how to bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/729275-divisions-anticheat-update-bypass.html)|`2025-12-18 22:37:00`|`Tom Clancy's The Division`|
 |[current undetected money method using Yim Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724257-current-undetected-money-method-using-yim-menu.html)|`2025-12-18 22:16:00`|`Grand Theft Auto V`|
 |[Path of Exile 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676435-path-exile-2-reversal-structs-offsets.html)|`2025-12-18 22:13:00`|`Other MMORPG and Strategy`|
