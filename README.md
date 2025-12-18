@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[company of heroes 3 Scar&#95;DoString](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/729980-company-heroes-3-scar_dostring.html)|`2025-12-18 13:49:00`|`Other MMORPG and Strategy`|
 |[Creating a cheat &#40;Part 2, External&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/721191-creating-cheat-2-external.html)|`2025-12-18 13:34:00`|`Sea of Thieves`|
 |[We need more internals&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/722303-internals.html)|`2025-12-18 13:13:00`|`Call of Duty: Black Ops 6`|
 |[Secure Boot Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/729975-secure-boot-bypass.html)|`2025-12-18 12:46:00`|`Anti-Cheat Bypass`|
