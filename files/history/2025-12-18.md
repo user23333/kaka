@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Secure Boot Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/729975-secure-boot-bypass.html)|`2025-12-18 12:46:00`|`Anti-Cheat Bypass`|
+|[External item esp?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/729974-external-item-esp.html)|`2025-12-18 12:42:00`|`DayZ SA`|
 |[ESP Imgui Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/724899-esp-imgui-source-code.html)|`2025-12-18 12:07:00`|`Combat Arms`|
 |[I’m developing a CS2 Cheat in pure C](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/729935-developing-cs2-cheat-pure.html)|`2025-12-18 12:05:00`|`Counter-Strike 2`|
 |[me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/729344-me.html)|`2025-12-18 12:03:00`|`Introductions`|
