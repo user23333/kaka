@@ -16,6 +16,7 @@
 |18|[How to get money with the yimmenu without getting banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729449-money-yimmenu-getting-banned.html)|`2025-12-18 02:25:42`|`grand-theft-auto-v`|
 |2|[Yim Menu Legacy 1&#46;72 Mansions DLC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729576-yim-menu-legacy-1-72-mansions-dlc.html)|`2025-12-18 05:34:03`|`grand-theft-auto-v`|
 |8|[Nemesis WWM&#45;Cheese &#40;Preview Build&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/729595-nemesis-wwm-cheese-preview-build.html)|`2025-12-18 09:13:23`|`other-mmorpg-and-strategy`|
+|1|[YimMenuV2 Beta Version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729049-yimmenuv2-beta-version.html)|`2025-12-18 18:18:50`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
