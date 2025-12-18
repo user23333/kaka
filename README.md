@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-12-18 14:28:00`|`Other FPS Games`|
+|[Menu The eminence in shadow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/727740-menu-eminence-shadow.html)|`2025-12-18 14:27:00`|`Other MMORPG and Strategy`|
+|[CreateMaterial Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/729752-creatematerial-issues.html)|`2025-12-18 14:11:00`|`Counter-Strike 2`|
 |[Need help with massive FPS drops/stuttering in BO7 &#40;PC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/729982-help-massive-fps-drops-stuttering-bo7-pc.html)|`2025-12-18 13:55:00`|`Call of Duty: Black Ops 7`|
 |[company of heroes 3 Scar&#95;DoString](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/729980-company-heroes-3-scar_dostring.html)|`2025-12-18 13:49:00`|`Other MMORPG and Strategy`|
 |[Creating a cheat &#40;Part 2, External&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/721191-creating-cheat-2-external.html)|`2025-12-18 13:34:00`|`Sea of Thieves`|
