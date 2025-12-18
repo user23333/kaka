@@ -25,9 +25,16 @@
 |71|[DBD&#46;exe Version 1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52269)|`2025-12-19 00:24:32`|
 |40|[REPX v1&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52263)|`2025-12-19 00:24:32`|
 |1|[PasObf&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52317)|`2025-12-19 01:35:59`|
+|1|[Hogwarts Legacy&#95;EpicGames](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52311)|`2025-12-19 04:52:25`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Breach XP pointerchain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/729887-breach-xp-pointerchain.html)|`2025-12-19 04:51:00`|`Escape from Tarkov`|
+|[Brothers, please analyze why Tarkov was banned&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/729737-brothers-please-analyze-tarkov-banned.html)|`2025-12-19 04:48:00`|`Escape from Tarkov`|
+|[detected unauthorized peripheral](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/728441-detected-unauthorized-peripheral.html)|`2025-12-19 04:48:00`|`PUBG Mobile`|
+|[CS 1&#46;6 Weird Ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/730050-cs-1-6-weird-ban.html)|`2025-12-19 04:46:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-12-19 04:45:00`|`Other FPS Games`|
+|[many questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/729868-questions.html)|`2025-12-19 04:44:00`|`Forum General`|
 |[FSL 1&#46;72 &#40;LEGACY ONLY&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729411-fsl-1-72-legacy.html)|`2025-12-19 04:39:00`|`Grand Theft Auto V`|
 |[Dead By Daylight External src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729430-dead-daylight-external-src.html)|`2025-12-19 04:35:00`|`Other FPS Games`|
 |[VIGOR INTERNAL v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727702-vigor-internal-v3-0-a.html)|`2025-12-19 04:29:00`|`Other FPS Games`|
