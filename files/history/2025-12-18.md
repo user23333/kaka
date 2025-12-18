@@ -38,6 +38,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[No Man's Sky &#91;Internal&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720149-mans-sky-internal.html)|`2025-12-18 20:28:00`|`Other Games`|
+|[WindowsHook: Arbitrary User&#45;Mode R/W/X through SetWindowsHookEx&#40;BE/EAC/EAAC/Vanguard&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726963-windowshook-arbitrary-user-mode-setwindowshookex-eac-eaac-vanguard.html)|`2025-12-18 20:21:00`|`Anti-Cheat Bypass`|
+|[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2025-12-18 20:13:00`|`Apex Legends`|
+|[EgguWare V2 &#91;Linux Bypass&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727450-egguware-v2-linux-bypass.html)|`2025-12-18 20:05:00`|`Other FPS Games`|
+|[weapon data &#43; external aimbot prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/729957-weapon-data-external-aimbot-prediction.html)|`2025-12-18 20:01:00`|`Call of Duty: Black Ops 7`|
 |[Empty dwEntityList](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728391-empty-dwentitylist.html)|`2025-12-18 19:49:00`|`Counter-Strike 2`|
 |[&#91;CS2 External&#93; Skin Changer logic issue &#45; Weapon updates/blinks but skin doesn't appl](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/729924-cs2-external-skin-changer-logic-issue-weapon-updates-blinks-skin-doesnt-appl.html)|`2025-12-18 19:39:00`|`Counter-Strike 2`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-12-18 19:36:00`|`Other FPS Games`|
