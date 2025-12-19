@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Safe driver bypassing anticheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/723129-safe-driver-bypassing-anticheats.html)|`2025-12-20 07:50:00`|`General Programming and Reversing`|
 |[L4D2 Heaven&#45;hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730212-l4d2-heaven-hook.html)|`2025-12-20 07:40:00`|`Other FPS Games`|
 |[EAC detection Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/718754-eac-detection-question.html)|`2025-12-20 07:40:00`|`General Programming and Reversing`|
 |[external rust chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/729838-external-rust-chams.html)|`2025-12-20 07:21:00`|`Rust`|
