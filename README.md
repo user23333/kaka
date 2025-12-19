@@ -24,9 +24,13 @@
 |54|[Hogwarts Legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52292)|`2025-12-20 00:12:23`|
 |2657|[EFT Loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52280)|`2025-12-20 00:12:23`|
 |4036|[Tegridy0&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52279)|`2025-12-20 00:12:23`|
+|6|[undetectedhehe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52295)|`2025-12-20 03:16:45`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-12-20 03:16:00`|`DayZ SA`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-12-20 03:10:00`|`Grand Theft Auto V`|
+|[Nemesis WWM&#45;Cheese &#40;Preview Build&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/729595-nemesis-wwm-cheese-preview-build.html)|`2025-12-20 02:59:00`|`Other MMORPG and Strategy`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-12-20 02:56:00`|`Playerunknown's Battlegrounds`|
 |[Fuser keeps forcing to 60hz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/730179-fuser-forcing-60hz.html)|`2025-12-20 02:50:00`|`Forum General`|
 |[Pipsi&#45;WW &#91; Wuthering Waves Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/638632-pipsi-ww-wuthering-waves-cheat.html)|`2025-12-20 02:49:00`|`Other MMORPG and Strategy`|
