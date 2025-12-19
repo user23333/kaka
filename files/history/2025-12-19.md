@@ -12,6 +12,7 @@
 |7|[Latest YimMenu 1&#46;72 for GTA V Online &#40;Legacy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729605-yimmenu-1-72-gta-online-legacy.html)|`2025-12-19 00:24:32`|`grand-theft-auto-v`|
 |8|[Nemesis WWM&#45;Cheese &#40;Preview Build&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/729595-nemesis-wwm-cheese-preview-build.html)|`2025-12-19 00:24:32`|`other-mmorpg-and-strategy`|
 |7|[YimMenu 1&#46;72 &#40;Legacy&#41; – GTA Online After Mansion DLC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729597-yimmenu-1-72-legacy-gta-online-mansion-dlc.html)|`2025-12-19 06:15:02`|`grand-theft-auto-v`|
+|13|[YimMenu Legacy 1&#46;72 b3725](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729969-yimmenu-legacy-1-72-b3725.html)|`2025-12-19 13:00:44`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
