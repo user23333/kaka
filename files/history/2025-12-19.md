@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Native Invoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/725080-native-invoker.html)|`2025-12-19 15:32:00`|`Alternative Online Mods`|
 |[&#91;CS2 External&#93; Skin Changer logic issue &#45; Weapon updates/blinks but skin doesn't appl](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/729924-cs2-external-skin-changer-logic-issue-weapon-updates-blinks-skin-doesnt-appl.html)|`2025-12-19 15:29:00`|`Counter-Strike 2`|
 |[R6S External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/711453-r6s-external-base.html)|`2025-12-19 15:20:00`|`Rainbow Six Siege`|
 |[EFT DMA Dumper &#40;il2cpp&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728094-eft-dma-dumper-il2cpp.html)|`2025-12-19 15:17:00`|`Escape from Tarkov`|
