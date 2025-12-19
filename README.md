@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need Help with Creating a Macro for AION 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/727018-help-creating-macro-aion-2-a.html)|`2025-12-19 16:15:00`|`Other MMORPG and Strategy`|
+|[&#91;EPIC&#93; Among Us Player Role Reader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/729482-epic-player-role-reader.html)|`2025-12-19 16:06:00`|`Among Us`|
+|[cs2 kernel driver issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730063-cs2-kernel-driver-issues.html)|`2025-12-19 15:57:00`|`Counter-Strike 2`|
 |[Native Invoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/725080-native-invoker.html)|`2025-12-19 15:32:00`|`Alternative Online Mods`|
 |[&#91;CS2 External&#93; Skin Changer logic issue &#45; Weapon updates/blinks but skin doesn't appl](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/729924-cs2-external-skin-changer-logic-issue-weapon-updates-blinks-skin-doesnt-appl.html)|`2025-12-19 15:29:00`|`Counter-Strike 2`|
 |[R6S External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/711453-r6s-external-base.html)|`2025-12-19 15:20:00`|`Rainbow Six Siege`|
