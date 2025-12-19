@@ -32,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lost access to my verify email](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/730106-lost-access-verify-email.html)|`2025-12-19 13:25:00`|`Forum General`|
+|[Torchlight Infinite &#45; Quality Of Life Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/728132-torchlight-infinite-quality-life-mod.html)|`2025-12-19 13:23:00`|`Other MMORPG and Strategy`|
+|[Rust Parser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/728709-rust-parser.html)|`2025-12-19 13:23:00`|`Rust`|
+|[Hello World](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/730072-hello-world.html)|`2025-12-19 13:08:00`|`Forum General`|
+|[hiiiiiiiiiii](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/730073-hiiiiiiiiiii.html)|`2025-12-19 13:03:00`|`Introductions`|
+|[hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/730070-hello.html)|`2025-12-19 13:02:00`|`Introductions`|
 |[PVE BattlEyent Alternative](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728902-pve-battleyent-alternative.html)|`2025-12-19 12:46:00`|`Escape from Tarkov`|
 |[HWID ban info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/718390-hwid-ban-info.html)|`2025-12-19 12:41:00`|`League of Legends`|
 |[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2025-12-19 12:40:00`|`Counter-Strike 2 Releases`|
