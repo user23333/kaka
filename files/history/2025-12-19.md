@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[external rust chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/729838-external-rust-chams.html)|`2025-12-19 23:09:00`|`Rust`|
 |[learning code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/729557-learning-code.html)|`2025-12-19 21:54:00`|`Counter-Strike 2`|
 |[dylibs for teh lazy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/730141-dylibs-teh-lazy.html)|`2025-12-19 21:52:00`|`Garry's Mod`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-12-19 21:50:00`|`Phasmophobia`|
