@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Why don't people make Rigel&#45;based aimbots anymore?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/720667-dont-people-rigel-based-aimbots-anymore.html)|`2025-12-19 21:45:00`|`Overwatch`|
+|[New Apex Hwid Ban and EAC Hwid Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/730137-apex-hwid-ban-eac-hwid-ban.html)|`2025-12-19 21:38:00`|`Apex Legends`|
+|[Visual cheat for Team Fortress 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/730033-visual-cheat-team-fortress-2-a.html)|`2025-12-19 21:38:00`|`Team Fortress 2`|
 |[SEOwnedDE &#40;highly improved&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/725042-seownedde-highly-improved.html)|`2025-12-19 21:20:00`|`Team Fortress 2`|
 |[EVGA Driver Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722300-evga-driver-exploit.html)|`2025-12-19 21:03:00`|`Anti-Cheat Bypass`|
 |[Cheat engine bypass debugger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/730131-cheat-engine-bypass-debugger.html)|`2025-12-19 20:42:00`|`Other Games`|
