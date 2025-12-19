@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-12-20 02:56:00`|`Playerunknown's Battlegrounds`|
+|[Fuser keeps forcing to 60hz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/730179-fuser-forcing-60hz.html)|`2025-12-20 02:50:00`|`Forum General`|
+|[Pipsi&#45;WW &#91; Wuthering Waves Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/638632-pipsi-ww-wuthering-waves-cheat.html)|`2025-12-20 02:49:00`|`Other MMORPG and Strategy`|
 |[&#91;DMA&#93; COD &#45; ESP &#43; AIM &#40;steam only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/700409-dma-cod-esp-aim-steam.html)|`2025-12-20 02:36:00`|`Call of Duty: Black Ops 6`|
 |[&#91;CS2 External&#93; Skin Changer logic issue &#45; Weapon updates/blinks but skin doesn't appl](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/729924-cs2-external-skin-changer-logic-issue-weapon-updates-blinks-skin-doesnt-appl.html)|`2025-12-20 02:26:00`|`Counter-Strike 2`|
 |[learning code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/729557-learning-code.html)|`2025-12-20 02:15:00`|`Counter-Strike 2`|
