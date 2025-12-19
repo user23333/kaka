@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[learning code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/729557-learning-code.html)|`2025-12-19 21:54:00`|`Counter-Strike 2`|
+|[dylibs for teh lazy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/730141-dylibs-teh-lazy.html)|`2025-12-19 21:52:00`|`Garry's Mod`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-12-19 21:50:00`|`Phasmophobia`|
 |[Why don't people make Rigel&#45;based aimbots anymore?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/720667-dont-people-rigel-based-aimbots-anymore.html)|`2025-12-19 21:45:00`|`Overwatch`|
 |[New Apex Hwid Ban and EAC Hwid Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/730137-apex-hwid-ban-eac-hwid-ban.html)|`2025-12-19 21:38:00`|`Apex Legends`|
 |[Visual cheat for Team Fortress 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/730033-visual-cheat-team-fortress-2-a.html)|`2025-12-19 21:38:00`|`Team Fortress 2`|
