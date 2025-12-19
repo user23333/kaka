@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ESP Recommendations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/730204-esp-recommendations.html)|`2025-12-20 06:43:00`|`Battlefield 6`|
+|[Splitgate External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/730203-splitgate-external.html)|`2025-12-20 06:33:00`|`Splitgate`|
 |[LoadingFrame help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/728265-loadingframe-help.html)|`2025-12-20 06:31:00`|`Paladins`|
 |[cs2 kernel driver issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730063-cs2-kernel-driver-issues.html)|`2025-12-20 06:30:00`|`Counter-Strike 2`|
 |[Hello World](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/730072-hello-world.html)|`2025-12-20 06:27:00`|`Forum General`|
