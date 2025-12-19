@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Aion2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726048-aion2-reversal-structs-offsets.html)|`2025-12-19 12:13:00`|`Other MMORPG and Strategy`|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-12-19 12:00:00`|`Counter-Strike 2 Releases`|
+|[Anyone can share this hack?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/729003-share-hack.html)|`2025-12-19 11:54:00`|`Generals and Zero Hour`|
 |[Nemesis WWM&#45;Cheese &#40;Preview Build&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/729595-nemesis-wwm-cheese-preview-build.html)|`2025-12-19 11:41:00`|`Other MMORPG and Strategy`|
 |[MiReservePtes/MiGetPage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/729997-mireserveptes-migetpage.html)|`2025-12-19 11:38:00`|`Anti-Cheat Bypass`|
 |[Menu The eminence in shadow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/727740-menu-eminence-shadow.html)|`2025-12-19 11:29:00`|`Other MMORPG and Strategy`|
