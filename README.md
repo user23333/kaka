@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2025-12-19 23:26:00`|`Grand Theft Auto V`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2025-12-19 23:20:00`|`Call of Duty: Black Ops 6`|
+|[Sard Anticheat &#45; Caliber](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/730154-sard-anticheat-caliber.html)|`2025-12-19 23:18:00`|`Other Games`|
 |[external rust chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/729838-external-rust-chams.html)|`2025-12-19 23:09:00`|`Rust`|
 |[learning code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/729557-learning-code.html)|`2025-12-19 21:54:00`|`Counter-Strike 2`|
 |[dylibs for teh lazy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/730141-dylibs-teh-lazy.html)|`2025-12-19 21:52:00`|`Garry's Mod`|
