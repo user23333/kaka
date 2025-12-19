@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[LoadingFrame help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/728265-loadingframe-help.html)|`2025-12-20 06:31:00`|`Paladins`|
+|[cs2 kernel driver issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730063-cs2-kernel-driver-issues.html)|`2025-12-20 06:30:00`|`Counter-Strike 2`|
+|[Hello World](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/730072-hello-world.html)|`2025-12-20 06:27:00`|`Forum General`|
+|[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2025-12-20 06:27:00`|`Grand Theft Auto V`|
+|[Splitgate External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/588311-splitgate-external-cheat.html)|`2025-12-20 06:13:00`|`Splitgate`|
 |[Put benny's wheels in personal vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/376369-bennys-wheels-personal-vehicle.html)|`2025-12-20 06:04:00`|`Grand Theft Auto V`|
 |[Torchlight Infinite &#45; Quality Of Life Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/728132-torchlight-infinite-quality-life-mod.html)|`2025-12-20 05:59:00`|`Other MMORPG and Strategy`|
 |[Dead by Daylight &#45; External Findings & Information](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/726324-dead-daylight-external-findings-information.html)|`2025-12-20 05:53:00`|`Other FPS Games`|
