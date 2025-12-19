@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;1&#46;0&#46;0&#46;5&#93; PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/729340-1-0-0-5-pve-cheat.html)|`2025-12-19 13:34:00`|`Escape from Tarkov`|
+|[Obscura Emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728701-obscura-emulator.html)|`2025-12-19 13:32:00`|`Valorant`|
+|[the best seowned paste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/728993-seowned-paste.html)|`2025-12-19 13:28:00`|`Team Fortress 2`|
+|[REPO Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/728462-repo-internal.html)|`2025-12-19 13:26:00`|`Other Games`|
 |[Lost access to my verify email](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/730106-lost-access-verify-email.html)|`2025-12-19 13:25:00`|`Forum General`|
 |[Torchlight Infinite &#45; Quality Of Life Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/728132-torchlight-infinite-quality-life-mod.html)|`2025-12-19 13:23:00`|`Other MMORPG and Strategy`|
 |[Rust Parser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/728709-rust-parser.html)|`2025-12-19 13:23:00`|`Rust`|
