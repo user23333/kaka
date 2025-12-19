@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat engine bypass debugger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/730131-cheat-engine-bypass-debugger.html)|`2025-12-19 20:42:00`|`Other Games`|
+|[Need help with massive FPS drops/stuttering in BO7 &#40;PC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/729982-help-massive-fps-drops-stuttering-bo7-pc.html)|`2025-12-19 20:41:00`|`Call of Duty: Black Ops 7`|
+|[HoldFast Internal Cheat NaW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718005-holdfast-internal-cheat-naw.html)|`2025-12-19 20:24:00`|`Other FPS Games`|
 |[PUBG Experience &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/693901-pubg-experience-dma.html)|`2025-12-19 19:56:00`|`Playerunknown's Battlegrounds`|
 |[ModMenu with Good Recovery Options&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/730126-modmenu-recovery-options.html)|`2025-12-19 19:28:00`|`Grand Theft Auto V`|
 |[༺ 𝙉𝙊𝙑𝘼 ༻ — ✧ Ultimate Insyde Spoofer ✧](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712892-ultimate-insyde-spoofer.html)|`2025-12-19 19:22:00`|`Valorant`|
