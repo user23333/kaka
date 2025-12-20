@@ -13,6 +13,7 @@
 |2|[Yim Menu Legacy 1&#46;72 Mansions DLC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729576-yim-menu-legacy-1-72-mansions-dlc.html)|`2025-12-21 00:19:12`|`grand-theft-auto-v`|
 |13|[&#40;New&#41; Popup Bypass Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/729365-popup-bypass-method.html)|`2025-12-21 03:12:22`|`valorant`|
 |22|[Hogwarts Legacy Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/729701-hogwarts-legacy-internal.html)|`2025-12-21 05:25:35`|`other-single-player-games`|
+|3|[YimMenu v2 1&#46;72 Safehouse Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729687-yimmenu-v2-1-72-safehouse-update.html)|`2025-12-21 06:43:56`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[We need more internals&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/722303-internals.html)|`2025-12-21 06:39:00`|`Call of Duty: Black Ops 6`|
+|[Redmatch 2 TY Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729185-redmatch-2-ty-internal-cheat.html)|`2025-12-21 06:37:00`|`Other FPS Games`|
 |[skinchanger external problems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730355-skinchanger-external.html)|`2025-12-21 06:33:00`|`Counter-Strike 2`|
 |[Free Bot Lobby Tool &#45; Soryn &#45; Best Tool To use](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730233-free-bot-lobby-tool-soryn-tool.html)|`2025-12-21 06:29:00`|`Call of Duty: Black Ops 7`|
 |[&#40;New&#41; Popup Bypass Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/729365-popup-bypass-method.html)|`2025-12-21 06:29:00`|`Valorant`|
