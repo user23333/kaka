@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[crash fix game patch for 19 dec 2025 steam update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/730329-crash-fix-game-patch-19-dec-2025-steam-update.html)|`2025-12-21 03:46:00`|`Counterstrike Global Offensive`|
+|[SoundSight: CS2 Audio ESP &#45; 3D Spatial Sound Radar for Enemy Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691687-soundsight-cs2-audio-esp-3d-spatial-sound-radar-enemy-detection.html)|`2025-12-21 03:45:00`|`Counter-Strike 2`|
 |[Cs2 Internal Source Code Cheat Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730080-cs2-internal-source-code-cheat-base.html)|`2025-12-21 03:43:00`|`Counter-Strike 2`|
 |[CS 1&#46;6 Weird Ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/730050-cs-1-6-weird-ban.html)|`2025-12-21 03:42:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2025-12-21 03:35:00`|`Grand Theft Auto V`|
