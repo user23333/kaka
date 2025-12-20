@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Necromancer early access &#40;AVX2&#45;release&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/730176-necromancer-access-avx2-release.html)|`2025-12-21 01:26:00`|`Team Fortress 2`|
+|[Visual cheat for Team Fortress 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/730033-visual-cheat-team-fortress-2-a.html)|`2025-12-21 01:19:00`|`Team Fortress 2`|
+|[I Cant Call il2cpp functions, but inside the hook it works works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/727695-cant-call-il2cpp-functions-inside-hook.html)|`2025-12-21 01:17:00`|`General Programming and Reversing`|
+|[CS2 SkinChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730281-cs2-skinchanger.html)|`2025-12-21 01:17:00`|`Counter-Strike 2`|
 |[moneyless](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/727410-moneyless.html)|`2025-12-21 01:08:00`|`Team Fortress 2`|
 |[Menu The eminence in shadow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/727740-menu-eminence-shadow.html)|`2025-12-21 01:01:00`|`Other MMORPG and Strategy`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-12-21 00:59:00`|`Apex Legends`|
