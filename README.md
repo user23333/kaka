@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2025-12-21 06:45:00`|`Marvel Rivals`|
 |[We need more internals&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/722303-internals.html)|`2025-12-21 06:39:00`|`Call of Duty: Black Ops 6`|
 |[Redmatch 2 TY Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729185-redmatch-2-ty-internal-cheat.html)|`2025-12-21 06:37:00`|`Other FPS Games`|
 |[skinchanger external problems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730355-skinchanger-external.html)|`2025-12-21 06:33:00`|`Counter-Strike 2`|
