@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do anticheats detect smm cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730343-anticheats-detect-smm-cheats.html)|`2025-12-21 05:28:00`|`Anti-Cheat Bypass`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2025-12-21 05:01:00`|`Other FPS Games`|
 |[UBX Dynamic Key Resolution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/730339-ubx-dynamic-key-resolution.html)|`2025-12-21 04:53:00`|`Rainbow Six Siege`|
 |[PUBG CHEAT PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/730337-pubg-cheat-pc.html)|`2025-12-21 04:47:00`|`Playerunknown's Battlegrounds`|
