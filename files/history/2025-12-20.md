@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fully usermode bypass framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727001-usermode-bypass-framework.html)|`2025-12-20 17:49:00`|`Anti-Cheat Bypass`|
 |[happy Hacking CLuaSharedSource](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/730129-happy-hacking-cluasharedsource.html)|`2025-12-20 17:08:00`|`Garry's Mod`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-12-20 16:50:00`|`Valorant`|
 |[Dead By Daylight External src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729430-dead-daylight-external-src.html)|`2025-12-20 16:43:00`|`Other FPS Games`|
