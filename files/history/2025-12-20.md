@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New EAC Fortnite HWID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716908-eac-fortnite-hwid.html)|`2025-12-20 13:00:00`|`Anti-Cheat Bypass`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-12-20 12:56:00`|`Apex Legends`|
 |[WINAPI/VS/ KERNEL AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730074-winapi-vs-kernel-aim.html)|`2025-12-20 12:49:00`|`Call of Duty: Black Ops 7`|
 |[Need help with massive FPS drops/stuttering in BO7 &#40;PC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/729982-help-massive-fps-drops-stuttering-bo7-pc.html)|`2025-12-20 12:48:00`|`Call of Duty: Black Ops 7`|
