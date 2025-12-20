@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[7DTD 2&#46;0 Latest Stable Creative and Debug Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707218-7dtd-2-0-stable-creative-debug-assembly-csharp-dll.html)|`2025-12-21 05:57:00`|`Other FPS Games`|
 |[list of materials and their penetration modifiers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730349-list-materials-penetration-modifiers.html)|`2025-12-21 05:48:00`|`Counter-Strike 2`|
 |[Rust external optimization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/724881-rust-external-optimization.html)|`2025-12-21 05:45:00`|`Rust`|
 |[Regarding Editing Items in Inventory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/729912-regarding-editing-items-inventory.html)|`2025-12-21 05:41:00`|`Escape from Tarkov`|
