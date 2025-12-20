@@ -25,9 +25,11 @@
 |2657|[EFT Loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52280)|`2025-12-20 00:12:23`|
 |4036|[Tegridy0&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52279)|`2025-12-20 00:12:23`|
 |6|[undetectedhehe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52295)|`2025-12-20 03:16:45`|
+|1|[Escape From Tarkov 1&#46;0&#46;0&#46;5 Item IDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52337)|`2025-12-20 21:46:25`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Zero Hour DENUVO Bypass &#40;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729183-zero-hour-denuvo-bypass.html)|`2025-12-20 21:38:00`|`Other FPS Games`|
 |[DayZ DMA cheat &#40;Skeleton Esp, Aimbot, Radar&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/720910-dayz-dma-cheat-skeleton-esp-aimbot-radar.html)|`2025-12-20 21:33:00`|`DayZ SA`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-12-20 21:20:00`|`Other FPS Games`|
 |[No Man's Sky &#91;Internal&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720149-mans-sky-internal.html)|`2025-12-20 21:19:00`|`Other Games`|
