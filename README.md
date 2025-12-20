@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TD1 Full No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/440951-td1-recoil.html)|`2025-12-21 04:25:00`|`Tom Clancy's The Division`|
+|[The Division 1 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/516112-division-1-internal.html)|`2025-12-21 04:20:00`|`Tom Clancy's The Division`|
+|[new crate offset?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/730333-crate-offset.html)|`2025-12-21 04:13:00`|`Grand Theft Auto V`|
 |[Ricochet detections?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730332-ricochet-detections.html)|`2025-12-21 04:08:00`|`Anti-Cheat Bypass`|
 |[Crash fix information for Steam Client x64 update 12/19/25](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/730270-crash-fix-information-steam-client-x64-update-12-19-25-a.html)|`2025-12-21 03:55:00`|`Counterstrike Global Offensive`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-12-21 03:54:00`|`Grand Theft Auto V`|
