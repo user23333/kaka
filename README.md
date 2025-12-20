@@ -26,6 +26,7 @@
 |4036|[Tegridy0&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52279)|`2025-12-20 00:12:23`|
 |6|[undetectedhehe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52295)|`2025-12-20 03:16:45`|
 |1|[Escape From Tarkov 1&#46;0&#46;0&#46;5 Item IDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52337)|`2025-12-20 21:46:25`|
+|2|[mhur&#95;external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52332)|`2025-12-20 21:58:29`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
