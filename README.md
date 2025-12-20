@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust external optimization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/724881-rust-external-optimization.html)|`2025-12-21 05:45:00`|`Rust`|
 |[Regarding Editing Items in Inventory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/729912-regarding-editing-items-inventory.html)|`2025-12-21 05:41:00`|`Escape from Tarkov`|
 |[Vac Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723960-vac-bypass.html)|`2025-12-21 05:40:00`|`Anti-Cheat Bypass`|
 |[Has the latest Lua script been released? For the Legacy version&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/730345-lua-script-released-legacy-version.html)|`2025-12-21 05:39:00`|`Grand Theft Auto V`|
