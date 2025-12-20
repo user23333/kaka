@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Silent Night LUA v0&#46;2&#46;1 LEGACY 1&#46;72](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/730226-silent-night-lua-v0-2-1-legacy-1-72-a.html)|`2025-12-21 00:53:00`|`Grand Theft Auto V`|
 |[bypassing redengine spoofer on pccheck?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/730294-bypassing-redengine-spoofer-pccheck.html)|`2025-12-21 00:49:00`|`Alternative Online Mods`|
 |[Extreme Injector v3&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/213038-extreme-injector-v3-7-a.html)|`2025-12-21 00:43:00`|`General Programming and Reversing`|
 |[ARK RAIDERS XP &#124; MONEY &#124; RESOURCE FARM ARCBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727726-ark-raiders-xp-money-resource-farm-arcbot.html)|`2025-12-21 00:41:00`|`Other FPS Games`|
