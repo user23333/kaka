@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[moneyless](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/727410-moneyless.html)|`2025-12-21 01:08:00`|`Team Fortress 2`|
+|[Menu The eminence in shadow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/727740-menu-eminence-shadow.html)|`2025-12-21 01:01:00`|`Other MMORPG and Strategy`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-12-21 00:59:00`|`Apex Legends`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-12-21 00:59:00`|`Overwatch`|
 |[Silent Night LUA v0&#46;2&#46;1 LEGACY 1&#46;72](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/730226-silent-night-lua-v0-2-1-legacy-1-72-a.html)|`2025-12-21 00:53:00`|`Grand Theft Auto V`|
 |[bypassing redengine spoofer on pccheck?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/730294-bypassing-redengine-spoofer-pccheck.html)|`2025-12-21 00:49:00`|`Alternative Online Mods`|
 |[Extreme Injector v3&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/213038-extreme-injector-v3-7-a.html)|`2025-12-21 00:43:00`|`General Programming and Reversing`|
