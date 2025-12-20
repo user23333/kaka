@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nvidia new AI model &#45;  NitroGen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/730318-nvidia-ai-model-nitrogen.html)|`2025-12-21 01:36:00`|`PC Software`|
+|[Battleye is required](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/730316-battleye-required.html)|`2025-12-21 01:34:00`|`Grand Theft Auto V`|
+|[cs2 kernel driver issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730063-cs2-kernel-driver-issues.html)|`2025-12-21 01:34:00`|`Counter-Strike 2`|
+|[Roblox External &#45; &#91;ALWAYS UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717679-roblox-external-updated.html)|`2025-12-21 01:31:00`|`Other FPS Games`|
 |[Necromancer early access &#40;AVX2&#45;release&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/730176-necromancer-access-avx2-release.html)|`2025-12-21 01:26:00`|`Team Fortress 2`|
 |[Visual cheat for Team Fortress 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/730033-visual-cheat-team-fortress-2-a.html)|`2025-12-21 01:19:00`|`Team Fortress 2`|
 |[I Cant Call il2cpp functions, but inside the hook it works works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/727695-cant-call-il2cpp-functions-inside-hook.html)|`2025-12-21 01:17:00`|`General Programming and Reversing`|
