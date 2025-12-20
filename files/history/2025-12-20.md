@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-12-20 16:50:00`|`Valorant`|
+|[Dead By Daylight External src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729430-dead-daylight-external-src.html)|`2025-12-20 16:43:00`|`Other FPS Games`|
 |[DMA CHEAT FOR ROBLOX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/718749-dma-cheat-roblox.html)|`2025-12-20 16:38:00`|`Forum General`|
 |[Aimbot Prediction &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730047-aimbot-prediction-external.html)|`2025-12-20 15:56:00`|`Call of Duty: Black Ops 7`|
 |[ARC Raiders Simple ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730261-arc-raiders-simple-esp.html)|`2025-12-20 15:49:00`|`Other FPS Games`|
