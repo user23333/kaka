@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Empty dwEntityList](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728391-empty-dwentitylist.html)|`2025-12-20 21:08:00`|`Counter-Strike 2`|
+|[All item IDs &#40;quest items included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/730280-item-ids-quest-items-included.html)|`2025-12-20 20:49:00`|`Escape from Tarkov`|
 |[FOUND A WAY TO GET UNBANNED IN GTA ONLINE&#40;ONLY FOR STEAM AND EPIC IN ENHANCED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725372-found-unbanned-gta-online-steam-epic-enhanced.html)|`2025-12-20 20:38:00`|`Grand Theft Auto V`|
 |[Would deletes r&#42; social acc get epic unbanned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/730272-deletes-social-acc-epic-unbanned.html)|`2025-12-20 20:30:00`|`Grand Theft Auto V`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-12-20 20:17:00`|`Alternative Online Mods`|
