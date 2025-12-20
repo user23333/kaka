@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[skinchanger external problems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730355-skinchanger-external.html)|`2025-12-21 06:33:00`|`Counter-Strike 2`|
+|[Free Bot Lobby Tool &#45; Soryn &#45; Best Tool To use](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730233-free-bot-lobby-tool-soryn-tool.html)|`2025-12-21 06:29:00`|`Call of Duty: Black Ops 7`|
+|[&#40;New&#41; Popup Bypass Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/729365-popup-bypass-method.html)|`2025-12-21 06:29:00`|`Valorant`|
 |[Updated CS2 Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711462-updated-cs2-dumper.html)|`2025-12-21 06:13:00`|`Counter-Strike 2`|
 |[VIGOR INTERNAL v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727702-vigor-internal-v3-0-a.html)|`2025-12-21 06:00:00`|`Other FPS Games`|
 |[7DTD 2&#46;0 Latest Stable Creative and Debug Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707218-7dtd-2-0-stable-creative-debug-assembly-csharp-dll.html)|`2025-12-21 05:57:00`|`Other FPS Games`|
