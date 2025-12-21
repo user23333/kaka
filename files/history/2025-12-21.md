@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-12-21 22:42:00`|`Escape from Tarkov`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-12-21 22:38:00`|`Alternative Online Mods`|
+|[GTA 5 Enhanced Outfit Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/730065-gta-5-enhanced-outfit-editor.html)|`2025-12-21 22:32:00`|`Grand Theft Auto V`|
 |[How is it possible to buy everything without spending money?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729498-buy-spending-money.html)|`2025-12-21 22:10:00`|`Grand Theft Auto V`|
 |[Unlocking awards in the legacy ver&#46; of GTA Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729667-unlocking-awards-legacy-ver-gta-online.html)|`2025-12-21 22:04:00`|`Grand Theft Auto V`|
 |[Help with earned money](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729294-help-earned-money.html)|`2025-12-21 21:42:00`|`Grand Theft Auto V`|
