@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-12-22 05:26:00`|`Alternative Online Mods`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-12-22 05:24:00`|`Escape from Tarkov`|
+|[Features for ex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/729437-features-ex.html)|`2025-12-22 05:20:00`|`Rust`|
+|[C&#43;&#43; Orbwalker &#40;2020&#41; &#43; AI Project – Revisited in 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/712882-orbwalker-2020-ai-project-revisited-2025-a.html)|`2025-12-22 05:18:00`|`League of Legends`|
+|[Offset of TraderInfo&#91;&#93; array &#40;all traders except Fence&#41; can’t be found &#40;no search all](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/730411-offset-traderinfo-array-traders-except-fence-found-search.html)|`2025-12-22 05:15:00`|`Escape from Tarkov`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2025-12-22 05:12:00`|`Grand Theft Auto V`|
 |[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2025-12-22 05:12:00`|`Grand Theft Auto V`|
 |[Desync kicked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/730466-desync-kicked.html)|`2025-12-22 05:02:00`|`Grand Theft Auto V`|
 |[I just created a steam account and pressed the play button&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/730465-created-steam-account-pressed-play-button.html)|`2025-12-22 04:52:00`|`Escape from Tarkov`|
