@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/590414-arc-raiders-structs-offsets.html)|`2025-12-22 01:28:00`|`Other FPS Games`|
+|[Bloodstrike Python SDK &#91;PC&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730162-bloodstrike-python-sdk-pc.html)|`2025-12-22 01:24:00`|`Other FPS Games`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2025-12-22 01:16:00`|`Call of Duty: Black Ops 7`|
 |[Desktop Duplication API keeps freezing after some time &#45; any alternatives?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728633-desktop-duplication-api-freezing-time-alternatives.html)|`2025-12-22 01:10:00`|`Valorant`|
 |[YimMenu 1&#46;72 Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728952-yimmenu-1-72-enhanced.html)|`2025-12-22 01:09:00`|`Grand Theft Auto V`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-12-22 01:09:00`|`Rust`|
