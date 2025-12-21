@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Desktop Duplication API keeps freezing after some time &#45; any alternatives?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728633-desktop-duplication-api-freezing-time-alternatives.html)|`2025-12-22 01:10:00`|`Valorant`|
+|[YimMenu 1&#46;72 Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728952-yimmenu-1-72-enhanced.html)|`2025-12-22 01:09:00`|`Grand Theft Auto V`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-12-22 01:09:00`|`Rust`|
+|[The Yeti Christmas event email hasn’t triggered&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/730420-yeti-christmas-event-email-hasn-triggered.html)|`2025-12-22 01:08:00`|`Grand Theft Auto V`|
+|[&#91;C&#43;&#43;&#93; Fivem internal broken source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/730448-fivem-internal-broken-source.html)|`2025-12-22 01:04:00`|`Grand Theft Auto V`|
+|[PVE Tegridy Farms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728143-pve-tegridy-farms.html)|`2025-12-22 00:57:00`|`Escape from Tarkov`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2025-12-22 00:50:00`|`Counter-Strike 2 Releases`|
 |[WindowsHook: Arbitrary User&#45;Mode R/W/X through SetWindowsHookEx&#40;BE/EAC/EAAC/Vanguard&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726963-windowshook-arbitrary-user-mode-setwindowshookex-eac-eaac-vanguard.html)|`2025-12-22 00:45:00`|`Anti-Cheat Bypass`|
 |[ARK RAIDERS XP &#124; MONEY &#124; RESOURCE FARM ARCBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727726-ark-raiders-xp-money-resource-farm-arcbot.html)|`2025-12-22 00:41:00`|`Other FPS Games`|
