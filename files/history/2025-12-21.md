@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How is it possible to buy everything without spending money?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729498-buy-spending-money.html)|`2025-12-21 22:10:00`|`Grand Theft Auto V`|
 |[Unlocking awards in the legacy ver&#46; of GTA Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729667-unlocking-awards-legacy-ver-gta-online.html)|`2025-12-21 22:04:00`|`Grand Theft Auto V`|
 |[Help with earned money](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729294-help-earned-money.html)|`2025-12-21 21:42:00`|`Grand Theft Auto V`|
 |[R6S External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/711453-r6s-external-base.html)|`2025-12-21 21:37:00`|`Rainbow Six Siege`|
