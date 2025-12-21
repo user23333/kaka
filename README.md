@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[name tag and healthbar colorbot aimbot color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/729920-name-tag-healthbar-colorbot-aimbot-color-aimbot.html)|`2025-12-22 03:34:00`|`Valorant`|
+|[DayZ DMA cheat &#40;Skeleton Esp, Aimbot, Radar&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/720910-dayz-dma-cheat-skeleton-esp-aimbot-radar.html)|`2025-12-22 03:31:00`|`DayZ SA`|
 |[Titanfall 2 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/688353-titanfall-2-internal-cheat.html)|`2025-12-22 03:29:00`|`Titanfall`|
 |[How can I avoid the risk of getting shadow‑banned in bot lobbies?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730422-avoid-risk-getting-shadow-banned-bot-lobbies.html)|`2025-12-22 03:28:00`|`Call of Duty: Black Ops 7`|
 |[DayPay Internal &#91;STEAM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/720131-daypay-internal-steam.html)|`2025-12-22 03:22:00`|`Payday 3`|
