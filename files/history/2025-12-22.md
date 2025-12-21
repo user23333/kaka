@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTAHaX Car Selling Method for GTAV 1&#46;72 &#124; Cayo Perico Heist &#124; Free Menu &#124; Make Millio](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/730457-gtahax-car-selling-method-gtav-1-72-cayo-perico-heist-free-menu-millio.html)|`2025-12-22 02:41:00`|`Grand Theft Auto V`|
+|[Chivalry 2 Basic &#46;pak &#45; Parera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720632-chivalry-2-basic-pak-parera.html)|`2025-12-22 02:29:00`|`Other Games`|
 |[Hogwarts Legacy Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/729701-hogwarts-legacy-internal.html)|`2025-12-22 02:17:00`|`Other Single Player Games`|
 |[how do I unlock all paints & wheel options](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/730454-unlock-paints-wheel-options.html)|`2025-12-22 02:12:00`|`Grand Theft Auto V`|
 |[The divisions new anticheat update how to bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/729275-divisions-anticheat-update-bypass.html)|`2025-12-22 02:01:00`|`Tom Clancy's The Division`|
